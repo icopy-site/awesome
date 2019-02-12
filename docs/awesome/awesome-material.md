@@ -91,4 +91,4 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 
 ## Contributing
 
-Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.uidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.
+Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.uidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.uidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.

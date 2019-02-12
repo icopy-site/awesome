@@ -294,4 +294,10 @@ see [LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.
 
 ## License
 
+see [LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md)marin.
+- [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
+
+
+## License
+
 see [LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md)

@@ -635,4 +635,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.e-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
 * [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
+* [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.e-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
+* [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
+* [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.

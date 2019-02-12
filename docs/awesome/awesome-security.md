@@ -8,22 +8,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 
 Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-- [Awesome Security](#awesome-security)
-  - [Network](#network)
-    - [Scanning / Pentesting](#scanning--pentesting)
-    - [Monitoring / Logging](#monitoring--logging)
-    - [IDS / IPS / Host IDS / Host IPS](#ids--ips--host-ids--host-ips)
-    - [Honey Pot / Honey Net](#honey-pot--honey-net)
-    - [Full Packet Capture / Forensic](#full-packet-capture--forensic)
-    - [Sniffer](#sniffer)
-    - [Security Information & Event Management](#security-information--event-management)
-    - [VPN](#vpn)
-    - [Fast Packet Processing](#fast-packet-processing)
-    - [Firewall](#firewall)
-    - [Anti-Spam](#anti-spam)
-    - [Docker](#docker-images-for-penetration-testing--security)
-  - [Endpoint](#endpoint)
-    - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
 
 ------
 
@@ -313,6 +297,20 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Awesome Industrial Control System Security](https://github.com/sbilly/awesome-security/blob/master/https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (https://github.com/sbilly/awesome-security/blob/master/ICS) security.
 - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
+- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+
+### Other Common Awesome Lists
+
+Other amazingly awesome lists:
+
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
+- [lists](https://github.com/sbilly/awesome-security/blob/master/https://github.com/jnv/lists) - The definitive list of (https://github.com/sbilly/awesome-security/blob/master/awesome) lists curated on GitHub.
+- [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+
+## [Contributing](https://github.com/sbilly/awesome-security/blob/master/contributing.md)
+
+Your contributions are always welcome!ithub.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 

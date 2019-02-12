@@ -10,33 +10,6 @@ continuous delivery
 software integration  
 devops  
 
-- [ciandcd](#ciandcd)
-- [Theory](#theory)
-- [Build And Release System](#build-and-release-system)
-- [Online Build System](#online-build-system)
-- [Infrastructure](#infrastructure)
-- [dev env](#dev-env)
-- [Source Code Management](#source-code-management)
-- [Code Review](#code-review)
-- [Build](#build)
-- [Static Check](#static-check)
-- [Dynamic Check](#dynamic-check)
-- [Performance Analysis](#performance-analysis)
-- [Coverage](#coverage)
-- [Testing](#testing)
-- [Package](#package)
-- [Deploy](#deploy)
-- [Delivery](#delivery)
-- [Provisioning Tools](#provisioning-tools)
-- [Web Server](#web-server)
-- [Applications And Container](#applications-and-container)
-- [OS And Shell](#os-and-shell)
-- [Database Version Control](#database-version-control)
-- [Useful Sites](#useful-sites)
-- [Conference And Submit](#conference-and-submit)
-- [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contact](#contact)
 
 ## Theory
 The theory for continuous integration and continuous deliver  
@@ -269,6 +242,23 @@ Conference and submit
 
 ## Books
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
+* [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
+
+## Other Awesome Lists
+Other amazingly awesome lists can be found in  
+* [awesome](https://github.com/sindresorhus/awesome)  
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
+* [sysadmin](https://github.com/itech001/awesome-sysadmin)  
+* [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
+* [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
+
+## Contact
+Welcome To add new items about continuous integration and continuous delivery.  
+my email is: itech001@126.com.  
+  hniques to improve the security of web applications and their infrastructure.
 * [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
 ## Other Awesome Lists

@@ -1,22 +1,10 @@
 # Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
-> A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-- [Tools](#tools)
-- [CSS Regression Testing](#css-regression-testing)
-- [Containers](#containers)
-- [Driver](#driver)
-- [Desktop Tools](#desktop-tools)
-- [Selenium Grid](#selenium-grid)
-- [Cloud Services](#cloud-services)
-- [Device Farms](#device-farms)
-- [Web Scraping / Mining](#web-scraping--mining)
-- [Specifications](#specifications)
-- [Blogs](#blogs)
 
 ### Tools
 
@@ -171,6 +159,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
 - [Assert Selenium](http://www.assertselenium.com/) - Selenium Automation in a Right way - A Selenium only blog.
 - [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
+- [All Selenium Blogs](https://github.com/christian-bromann/awesome-selenium/blob/master/http://it-kosmopolit.de/Selenium/blog/selenium-blogs/selenium_blogs.php) - An comprehensive (https://github.com/christian-bromann/awesome-selenium/blob/master/but not complete) list of Selenium related blogs.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Christian Bromann](http://www.christian-bromann.com/) has waived all copyright and related or neighboring rights to this work.bs.com/blog) - Blog curated by SauceLabs.
 - [All Selenium Blogs](https://github.com/christian-bromann/awesome-selenium/blob/master/http://it-kosmopolit.de/Selenium/blog/selenium-blogs/selenium_blogs.php) - An comprehensive (https://github.com/christian-bromann/awesome-selenium/blob/master/but not complete) list of Selenium related blogs.
 
 ## License

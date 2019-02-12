@@ -342,4 +342,19 @@ Copyright 2014-2018, All rights reserved.
 Code licensed under the:
 [MIT license](http://mateusortiz.mit-license.org)
 
+@author Mateus Ortiz <mteusortiz@gmail.com>06/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
+          <div>Justin Fagnani</div>
+        </a>
+      </td>
+    </tr>
+  <tbody>
+</table>
+
+## License
+
+Copyright 2014-2018, All rights reserved.
+
+Code licensed under the:
+[MIT license](http://mateusortiz.mit-license.org)
+
 @author Mateus Ortiz <mteusortiz@gmail.com>

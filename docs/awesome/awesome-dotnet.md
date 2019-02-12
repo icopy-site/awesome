@@ -953,4 +953,12 @@ metadata in media files, including video, audio, and photo formats
 # Resources
 
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
+* [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.sign (https://github.com/quozd/awesome-dotnet/blob/master/DDD), Command Query Responsibility Segregation (https://github.com/quozd/awesome-dotnet/blob/master/CQRS), Event Sourcing, and Event Storming resources
+* [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+* [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+* [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+
+# Resources
+
+* [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.

@@ -3,28 +3,6 @@ A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources
 
 Table of contents:
 
-* [Administration](#administration)
-* [Assets Management](#assets-management)
-* [Certification](#certification)
-* [Community](#community)
-* [Development](#development)
-* [Distributions](#distributions)
-* [Ecommerce](#ecommerce)
-* [Forms](#forms)
-* [Internationalization](#internationalization)
-* [Miscellaneous](#miscellaneous)
-* [Monitoring](#monitoring)
-* [Payments Management](#payments-management)
-* [Queues](#queues)
-* [Reading](#reading)
-* [Resources](#resources)
-* [Service Container](#service-container)
-* [Storage](#storage)
-* [Template Engine](#template-engine)
-* [Third Party APIs](#third-party-apis)
-* [User Management](#user-management)
-* [Validation](#validation)
-* [Web Services](#web-services)
 
 ## Administration
 
@@ -351,6 +329,15 @@ Table of contents:
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - Add rate limits to your controllers/actions easily through annotations.
 * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
+* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
+* [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
+* [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Emanuele Minotto](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://emanueleminotto.github.io) (https://github.com/sitepoint-editors/awesome-symfony/blob/master/the repo's original creator) and [SitePoint](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.le you can easy limit requests to your application.
 * [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
 * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
 * [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.

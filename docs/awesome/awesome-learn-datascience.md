@@ -90,4 +90,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sib
 
 To the extent possible under law, Simon Böhm has waived all copyright and
 related or neighboring rights to this work. law, Simon Böhm has waived all copyright and
+related or neighboring rights to this work. law, Simon Böhm has waived all copyright and
 related or neighboring rights to this work.

@@ -3,46 +3,6 @@ Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) projects line.
 
-- [Awesome Haskell](#awesome-haskell)
-    - [_Basics_](#basics)
-    - [Algorithmics](#algorithmics)
-    - [Audio, Music & Sound](#audio-music--sound)
-    - [Category Theory](#category-theory)
-    - [Compilers](#compilers)
-    - [Concurrency & Parallelism](#concurrency--parallelism)
-    - [Configuration](#configuration)
-    - [Cryptography & Hashing](#cryptography--hashing)
-    - [Data Access](#data-access)
-    - [Data Formats](#data-formats)
-    - [Data Science](#data-science)
-    - [Database](#database)
-    - [Development Tools](#development-tools)
-    - [Documentation](#documentation)
-    - [Distributed Computing](#distributed-computing)
-    - [Editors](#editors)
-    - [Extensions](#extensions)
-    - [Games](#games)
-    - [GUI](#gui)
-    - [Graphics](#graphics)
-    - [Network](#network)
-    - [Number Theory](#number-theory)
-    - [Web / Frameworks](#web--frameworks)
-    - [Text Processing](#text-processing)
-    - [Messaging](#messaging)
-    - [Languages](#languages)
-    - [Operating Systems](#operating-systems)
-    - [Platforms](#platforms)
-    - [Programming](#programming)
-    - [Science](#science)
-    - [Streaming Processing](#streaming-processing)
-- [Resources](#resources)
-    - [Websites](#websites)
-    - [Community](#community)
-    - [Tutorials](#tutorials)
-    - [Courses](#courses)
-    - [Conferences](#conferences)
-    - [Packages](#packages)
-- [License](#license)
 
 
 ## _Basics_
@@ -416,6 +376,30 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [LazyCasts](http://www.youtube.com/user/LazyCasts)
 * [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
 * [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - Video lectures to accompany the book "Learn You a Haskell for Great Good!"
+
+## Courses
+
+* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Fall 2014 MOOC on edX by DelftX featuring Haskell as the primary language of focus.
+* [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - Introductory MOOC to functional programming in Haskell by the University of Glasgow. 
+
+## Conferences
+
+* [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming. [Youtube channel](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw).
+* [Conferences](https://wiki.haskell.org/Conferences) - Official list of conferences
+* [Haskell Symposium 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy)
+* [Haskell Implementors' Workshop 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B)
+
+## Packages
+
+* [Stackage](https://www.stackage.org/) - is a stable source of Haskell packages, "Stable Hackage".
+* [Hackage](http://hackage.haskell.org/) - is the Haskell community's central package archive.
+* [Application & Libraries](https://wiki.haskell.org/Applications_and_libraries) - Official collections and Guide.
+* [Hoogle](https://www.haskell.org/hoogle/) - is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
+* [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)om/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - Video lectures to accompany the book "Learn You a Haskell for Great Good!"
 
 ## Courses
 

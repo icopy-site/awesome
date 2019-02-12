@@ -119,4 +119,4 @@ Here are a list of other collections of alfred collections which are useful.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
-To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.aw, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.aw, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.aw, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.

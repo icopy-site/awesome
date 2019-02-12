@@ -217,4 +217,5 @@ to `/home/Users/yourself/projects`.
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy. to enhance your project workflow via enable/disable pull request approval checks.
+* [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy. to enhance your project workflow via enable/disable pull request approval checks.
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.

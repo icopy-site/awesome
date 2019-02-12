@@ -74,7 +74,6 @@ programming languages with appropriate bindings for Ruby.
   Artificial Intelligence for Ruby.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
-  <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](https://github.com/arbox/machine-learning-with-ruby/blob/master/http://dmg.org/pmml/v4-3/GeneralStructure.html) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Predictive Model Markup Language).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
@@ -128,7 +127,6 @@ programming languages with appropriate bindings for Ruby.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
-  <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
 
@@ -153,14 +151,12 @@ programming languages with appropriate bindings for Ruby.
 
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
-  <sup>[[dep: GraphViz](#graphviz) |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 
 ### Clustering
 
 - [flann](https://github.com/mariusmuja/flann) -
   Fast Library for Approximate Nearest Neighbors.
-  <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
@@ -188,13 +184,11 @@ programming languages with appropriate bindings for Ruby.
   Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
-  <sup>[[dep: bundled](#bundled)]</sup>
 
 ## Applications of machine learning
 
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
-  <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
 
 ## Data structures
 
@@ -413,6 +407,16 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
+[awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
+[ml]: https://en.wikipedia.org/wiki/Machine_learning
+[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
+[contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
+[sciruby]: https://github.com/sciruby
+[ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
+[cs]: https://en.wikipedia.org/wiki/Computational_science
+[fe]: https://en.wikipedia.org/wiki/Feature_engineering
+[ts]: https://en.wikipedia.org/wiki/Test_set//www.ruby-lang.org/en/
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 [ml]: https://en.wikipedia.org/wiki/Machine_learning

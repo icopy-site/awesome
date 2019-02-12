@@ -166,4 +166,6 @@ Not exactly papers, but crypto challenges are awesome educational material.
 
 To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.tps://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.tps://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.

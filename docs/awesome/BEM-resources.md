@@ -93,3 +93,4 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ### Other Awesome Lists
 - [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)
 - [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)
+- [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)

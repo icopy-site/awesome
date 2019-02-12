@@ -183,7 +183,6 @@ I would like contributors for this section.
 
 Police and fire in the United States typically communicate over trunked radio.
 This makes it hard to scan using normal reciever without trunk tracking
-abilities. See more in the [trunking](#trunking) section.
 
 ### Trunking
 
@@ -194,6 +193,12 @@ Trunked radio is a form of digital-two-way communication where multiple
 organizations can share a small spectrum of real frequencies without hearing
 another organizations conversations. A user can choose a logical channel or
 group and the base station will find an empty frequency to transmit on.
+
+### Links
+
+* [Project 25](http://www.project25.org/)
+* [Project 25 wikipedia](http://en.wikipedia.org/wiki/Project_25)
+* [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)e station will find an empty frequency to transmit on.
 
 ### Links
 

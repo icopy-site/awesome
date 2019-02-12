@@ -43,7 +43,6 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 ## Build
 
-To enable building, you'll need the general [build](https://atom.io/packages/build) which provides the interface for the provider plugins for specific languages and adds integrates with [lint](#lint). The full list of current plugins can be found at [atombuild.github.io](http://atombuild.github.io/), a few examples being:
 
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
@@ -193,6 +192,15 @@ JavaScript, and much more in Atom.
 > Quickly navigate between test and implementation files.
 
 ![Test Navigator Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
+
+#### [Themer](https://themer.mjswensen.com)
+> Generate Atom syntax/UI theme packages (https://github.com/mehcode/awesome-atom/blob/master/and matching themes for your other tools) from your favorite colors.
+
+#### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
+> Quickly toggle between single and double quotes.
+
+#### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
+> Quick look in tree view.r Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
 
 #### [Themer](https://themer.mjswensen.com)
 > Generate Atom syntax/UI theme packages (https://github.com/mehcode/awesome-atom/blob/master/and matching themes for your other tools) from your favorite colors.

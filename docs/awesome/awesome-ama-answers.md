@@ -148,4 +148,4 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.he extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.he extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.he extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.

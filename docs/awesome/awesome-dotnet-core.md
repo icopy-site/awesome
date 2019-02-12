@@ -808,4 +808,15 @@ To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.CLR](https://stackoverflow.com/questions/tagged/coreclr)
+  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
+  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
+  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
+  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
+* [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.

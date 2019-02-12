@@ -2,7 +2,7 @@
 site_name: Awesome List 
 site_description: Awesome list collection
 site_author: chenjiajia
-site_url: https://asm-en.github.io/
+site_url: https://icopy-site.github.io/asm-en/
 
 # Repository
 repo_name: 'icopy-site/asm-en'
@@ -521,7 +521,6 @@ theme:
     code: 'Fira Mono'
   feature:
     tabs: false
-
 # Customization
 extra:
   search:
@@ -542,6 +541,27 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+    guess_lang: false
   - def_list
   - footnotes
   - meta

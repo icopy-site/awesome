@@ -193,4 +193,7 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)lexbox/blob/master/contributing.md).
 
 ## License
+[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)lexbox/blob/master/contributing.md).
+
+## License
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)

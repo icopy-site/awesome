@@ -15,30 +15,7 @@ A collection of tips to help take your CSS skills pro.
 
 ## Protips
 
-1. [Use a CSS Reset](#use-a-css-reset)
-1. [Inherit `box-sizing`](#inherit-box-sizing)
-1. [Use `unset` Instead of Resetting All Properties](#use-unset-instead-of-resetting-all-properties)
 1. [Use `:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)` to Apply/Unapply Borders on Navigation](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation)
-1. [Add `line-height` to `body`](#add-line-height-to-body)
-1. [Set `:focus` for Form Elements](#set-focus-for-form-elements)
-1. [Vertically-Center Anything](#vertically-center-anything)
-1. [Comma-Separated Lists](#comma-separated-lists)
-1. [Select Items Using Negative `nth-child`](#select-items-using-negative-nth-child)
-1. [Use SVG for Icons](#use-svg-for-icons)
-1. [Use the "Lobotomized Owl" Selector](#use-the-lobotomized-owl-selector)
-1. [Use `max-height` for Pure CSS Sliders](#use-max-height-for-pure-css-sliders)
-1. [Equal-Width Table Cells](#equal-width-table-cells)
-1. [Get Rid of Margin Hacks With Flexbox](#get-rid-of-margin-hacks-with-flexbox)
-1. [Use Attribute Selectors with Empty Links](#use-attribute-selectors-with-empty-links)
-1. [Style "Default" Links](#style-default-links)
-1. [Consistent Vertical Rhythm](#consistent-vertical-rhythm)
-1. [Intrinsic Ratio Boxes](#intrinsic-ratio-boxes)
-1. [Style Broken Images](#style-broken-images)
-1. [Use `rem` for Global Sizing; Use `em` for Local Sizing](#use-rem-for-global-sizing-use-em-for-local-sizing)
-1. [Hide Autoplay Videos That Aren't Muted](#hide-autoplay-videos-that-arent-muted)
-1. [Use `:root` for Flexible Type](#use-root-for-flexible-type)
-1. [Set `font-size` on Form Elements for a Better Mobile Experience](#set-font-size-on-form-elements-for-a-better-mobile-experience)
-1. [Use Pointer Events to Control Mouse Events](#use-pointer-events-to-control-mouse-events)
 
 
 ### Use a CSS Reset
@@ -59,7 +36,6 @@ Now elements will be stripped of margins and padding, and `box-sizing` lets you 
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-**Note:** If you follow the [Inherit `box-sizing`](#inherit-box-sizing) tip below you might opt to not include the `box-sizing` property in  your CSS reset.
 
 
 
@@ -521,6 +497,72 @@ The type font size in a responsive layout should be able to adjust with each vie
   font-size: calc(https://github.com/AllThingsSmitty/css-protips/blob/master/1vw + 1vh + .5vmin);
 }
 ```
+
+Now you can utilize the `root em` unit based on the value calculated by `:root`:
+
+```css
+body {
+  font: 1rem/1.6 sans-serif;
+}
+```
+
+#### [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+
+
+
+### Set `font-size` on Form Elements for a Better Mobile Experience
+
+To avoid mobile browsers (https://github.com/AllThingsSmitty/css-protips/blob/master/iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+
+```css
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+  font-size: 16px;
+}
+```
+
+:dancer:
+
+
+
+### Use Pointer Events to Control Mouse Events
+
+[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) allow you to specifiy how the mouse interacts with the element it's touching. To disable the default pointer event on a button, for instance:
+
+```css
+.button-disabled {
+  opacity: .5;
+  pointer-events: none;
+}
+```
+
+It's that simple.
+
+
+
+## Support
+
+Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
+
+
+
+## Translations
+
+* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+* [Deutsche](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
 Now you can utilize the `root em` unit based on the value calculated by `:root`:
 

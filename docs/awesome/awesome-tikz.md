@@ -10,15 +10,6 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 Contents
 --------
 
--   [Official Links](#official-links)
-    -   [PGF/TikZ](#pgftikz)
-    -   [PGFPlots](#pgfplots)
--   [Books](#books)
--   [Gallery](#gallery)
--   [Tools](#tools)
--   [Libraries](#libraries)
--   [Community](#community)
--   [Videos](#videos)
 
 Official Links
 --------------
@@ -146,6 +137,17 @@ Videos
 -   [Creating Circuit Diagrams for LaTeX Documents Using Circuitikz](https://www.youtube.com/watch?v=WRTELZP1l0Y)
 -   [Creating Mind Maps Using TikZ](https://www.youtube.com/watch?v=V9vQ118o2kk)
 -   [Graphics with PGF and TikZ](https://www.youtube.com/watch?v=BaHuvXmTPwE&t=1268s)
+
+Community
+---------
+
+-   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
+-   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
+
+License
+-------
+
+[![](http://opentf.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg)](https://creativecommons.org/licenses/by/4.0/)ube.com/watch?v=BaHuvXmTPwE&t=1268s)
 
 Community
 ---------

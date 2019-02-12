@@ -10,29 +10,6 @@ If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://tw
 Table of Contents
 =================
 
-  * [Source Code Repos](#source-code-repos)
-  * [IDE and Code Editing](#ide-and-code-editing)
-  * [Version Control](#version-control)
-  * [Web Hosting](#web-hosting)
-  * [Design and Photo Editing](#design-and-photo-editing)
-  * [SaaS](#saas)
-  * [PaaS](#paas)
-  * [Email](#email)
-  * [CI / CD](#ci--cd)
-  * [Payments](#payments)
-  * [Management Systems](#management-systems)
-  * [Mapping](#maps)
-  * [Localization](#localization)
-  * [Programming Help](#programming-help)
-  * [Domain Name Registers](#domain-name-registers)
-  * [Security](#security)
-  * [Software Modeling Tools](#software-modeling-tools)
-  * [Visual Analytics](#visual-analytics)
-  * [Game Development Tools](#game-development-tools)
-  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
-  * [Password Managers](#password-managers)
-  * [Infrastructure Monitoring](#infrastructure-monitoring)
-  * [Software Packs](#software-packs)
 
 
 
@@ -156,6 +133,14 @@ Table of Contents
   * [Microsoft Imagine (https://github.com/AchoArnold/discount-for-student-dev/blob/master/formerly DreamSpark)](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (https://github.com/AchoArnold/discount-for-student-dev/blob/master/no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](https://github.com/AchoArnold/discount-for-student-dev/blob/master/http://onthehub.com/download/free-software/windows-10-education-for-students/).
   * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
   * [Intel Tools for Students](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (https://github.com/AchoArnold/discount-for-student-dev/blob/master/includes Fortran and C/C++).
+  * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
+  * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
+  * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.ion and Intel® Parallel Studio XE Cluster Edition (https://github.com/AchoArnold/discount-for-student-dev/blob/master/includes Fortran and C/C++).
   * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
   * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
   * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.

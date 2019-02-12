@@ -36,4 +36,4 @@ Your contributions are always welcome. But, please take a quick gander at the [C
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This project is licensed under the MIT license - see the [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) for details.tcss/blob/master/LICENSE) for details.
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) for details.tcss/blob/master/LICENSE) for details.tcss/blob/master/LICENSE) for details.

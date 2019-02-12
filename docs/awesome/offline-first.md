@@ -930,4 +930,18 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 - Web: [https://pazguille.me/](https://pazguille.me/)
 
 ## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)vice worker fanatic, works at google helping make offline web apps a thing.
+
+## Contributing
+Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/pazguille/offline-first/blob/master/CONTRIBUTING.md).
+
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
+
+## Maintained by
+- Guille Paz (https://github.com/pazguille/offline-first/blob/master/Front-end developer | Web standards lover)
+- E-mail: [guille87paz@gmail.com](https://github.com/pazguille/offline-first/blob/master/mailto:guille87paz@gmail.com)
+- Twitter: [@pazguille](https://twitter.com/pazguille)
+- Web: [https://pazguille.me/](https://pazguille.me/)
+
+## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

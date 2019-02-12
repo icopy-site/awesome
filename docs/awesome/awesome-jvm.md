@@ -2,26 +2,6 @@
 
 A curated list of awesome JVM low level, performance and non-framework related stuff.
 
-- [Awesome JVM](#awesome-jvm)
-    - [Bytecode](#bytecode)
-    - [Garbage collectors](#garbage-collectors)
-    - [Load tools](#load-tools)
-    - [Languages](#languages)
-    - [Machine Learning](#machine-learning)
-    - [Memory and Concurrency](#memory-and-concurrency)
-    - [Metaprogramming](#metaprogramming)
-    - [Native](#native)
-    - [Network](#network)
-    - [Nix tools](#nix-tools)
-    - [Profilers](#profilers)
-    - [Runtimes](#runtimes)
-    - [Virtual Machines](#virtual-machines)
-- [Resources](#resources)
-    - [Communities](#communities)    
-    - [Documentation](#documentation)
-    - [Media](#media)
-    - [People](#people)
-- [Contributing](#contributing)
 
 
 ## Bytecode
@@ -445,6 +425,22 @@ Machine Specification Java SE 8 Edition.
 * [Per Liden](https://twitter.com/perliden) - Hacking on the HotSpot JVM at Oracle.
 * [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Rafael Winterhalter](https://twitter.com/rafaelcodes) - Author of ByteBuddy.
+* [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
+* [Richard Startin](http://richardstartin.uk/) - Performance Analyst, developer, blogger.
+* [Ron Pressler](https://twitter.com/pressron) - Parallel Universe. Leading Fibers and Continuations for the JVM.
+* [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
+* [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
+* [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
+* [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
+* [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
+* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
+
+
+# Contributing
+
+Contributions are very welcome!
+
+Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.Author of ByteBuddy.
 * [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
 * [Richard Startin](http://richardstartin.uk/) - Performance Analyst, developer, blogger.
 * [Ron Pressler](https://twitter.com/pressron) - Parallel Universe. Leading Fibers and Continuations for the JVM.

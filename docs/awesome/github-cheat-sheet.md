@@ -403,7 +403,6 @@ In full Markdown documents **read-only** checklists can now be added using the f
 Relative links are recommended in your Markdown files when linking to internal content.
 
 ```markdown
-[Link to a header](#awesome-section)
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
 ```
 
@@ -414,7 +413,6 @@ Absolute links have to be updated whenever the URL changes (https://github.com/t
 ### Metadata and Plugin Support for GitHub Pages
 Within Jekyll pages and posts, repository information is available within the `site.github` namespace, and can be displayed, for example, using `{{ site.github.project_title }}`.
 
-The Jemoji and jekyll-mentions plugins enable [emoji](#emojis) and [@mentions](https://github.com/blog/821) in your Jekyll posts and pages to work just like you'd expect when interacting with a repository on GitHub.com.
 
 [*Read more about repository metadata and plugin support for GitHub Pages.*](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
@@ -493,13 +491,6 @@ index 88fcf69..8614873 100644
 --- a/README.md
 +++ b/README.md
 @@ -28,6 +28,7 @@ All the hidden and not hidden features of Git and GitHub. This cheat sheet was i
- - [Merged Branches](#merged-branches)
- - [Quick Licensing](#quick-licensing)
- - [TODO Lists](#todo-lists)
-+- [Relative Links](#relative-links)
- - [.gitconfig Recommendations](#gitconfig-recommendations)
-     - [Aliases](#aliases)
-     - [Auto-correct](#auto-correct)
 @@ -381,6 +382,19 @@ When they are clicked, they will be updated in the pure Markdown:
  - [ ] Sleep
 
@@ -957,6 +948,33 @@ $ git config --global color.ui 1
 | GitHub Training Kit | https://training.github.com/kit/ |
 | Git Visualization Playground | http://onlywei.github.io/explain-git-with-d3/#freeplay |
 | Learn Git Branching | http://pcottle.github.io/learnGitBranching/ |
+| A collection of useful .gitignore templates | https://github.com/github/gitignore |
+| Unixorn's git-extra-commands collection of git scripts | https://github.com/unixorn/git-extra-commands |
+
+#### Git Books
+| Title | Link |
+| ----- | ---- |
+| Pragmatic Version Control Using Git | https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
+| Pro Git | http://git-scm.com/book |
+| Git Internals PluralSight | https://github.com/pluralsight/git-internals-pdf |
+| Git in the Trenches | http://cbx33.github.io/gitt/ |
+| Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
+| Pragmatic Guide to Git | https://pragprog.com/titles/pg_git/pragmatic-guide-to-git |
+| Git: Version Control for Everyone | https://www.packtpub.com/application-development/git-version-control-everyone |
+
+#### Git Videos
+| Title | Link |
+| ----- | ---- |
+| Linus Torvalds on Git | https://www.youtube.com/watch?v=4XpnKHJAok8 |
+| Introduction to Git with Scott Chacon | https://www.youtube.com/watch?v=ZDR433b0HJY |
+| Git From the Bits Up | https://www.youtube.com/watch?v=MYP56QJpDr4 |
+| Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g |
+| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
+
+#### Git Articles
+| Title | Link |
+| ----- | ---- |
+| GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |ub.io/learnGitBranching/ |
 | A collection of useful .gitignore templates | https://github.com/github/gitignore |
 | Unixorn's git-extra-commands collection of git scripts | https://github.com/unixorn/git-extra-commands |
 

@@ -8,68 +8,6 @@ A list of tools for research.
 
 ## TOC
 
-* [Be Organized](#be-organized)
-  * [Version Control System](#version-control-system)
-  * [Pomodoro](#pomodoro)
-  * [GTD-Task Manager](#gtd-task-manager)
-* [Cloud Services](#cloud-services)
-  * [Math and Programming](#math-and-programming)
-  * [Plots](#plots)
-  * [Data](#data)
-  * [Colors](#colors)
-* [Publishing and Sharing](#publishing-and-sharing)
-  * [Writing](#writing)
-  * [Hosting](#hosting)
-  * [Blog and CMS](#blog-and-cms)
-  * [Static Site Generator](#static-site-generator)
-* [Note Taking](#note-taking)
-  * [Editors](#editors)
-  * [Markdown](#markdown)
-  * [LaTeX](#latex)
-  * [iPython Notebook](#ipython-notebook)
-  * [Mindmap](#mindmap)
-  * [Concept Map and Diagrams](#concept-map-and-diagrams)
-  * [Keep The Notes](#keep-the-notes)
-* [Presentation Tools](#presentation-tools)
-  * [Online Load and Edit](#online-load-and-edit)
-  * [Use The Source](#use-the-source)
-  * [IPython Notebook](#ipython-notebook)
-  * [LaTeX Beamer](#latex-beamer)
-  * [Mathematica](#mathematica)
-  * [The Power of SVG](#the-power-of-svg)
-  * [Sharing Slides](#sharing-slides)
-* [Programming](#programming)
-  * [Softwares](#softwares)
-  * [Code Editors](#code-editors)
-  * [Scientific Computing](#scientific-computing)
-  * [Coding is Fun](#coding-is-fun)
-* [Academic](#academic)
-  * [Self-plagiarism](#self-plagiarism)
-  * [Investigate Papers](#investigate-papers)
-  * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
-  * [Open Science](#open-science)
-  * [Tips for Researchers](#tips-for-researchers)
-* [Pacifier](#pacifier)
-* [Online Discussions](#online-discussions)
-* [Open Source](#open-source)
-  * [Open Licenses](#open-licenses)
-  * [Use Licenses](#use-licenses)
-  * [Bibliography](#bibliography)
-* [Data Visualization and Graph Making](#data-visualization-and-graph-making)
-  * [Data Visualization](#data-visualization)
-  * [Graph Making](#graph-making)
-* [LaTeX](#latex-1)
-  * [Tips](#tips)
-  * [Symbols](#symbols)
-  * [Graphing](#graphing)
-  * [Fonts](#fonts)
-  * [Templates](#templates)
-  * [References](#references)
-* [MISC](#misc)
-  * [Terminal](#terminal)
-  * [Free Multimedia](#free-multimedia)
-  * [Interesting Journals](#interesting-journals)
-  * [More](#more)
 
 
 ## Be-Organized
@@ -94,7 +32,6 @@ First things first, everyone should know version control systems. Version contro
 
 #### Self-hosted Git Server
 
-* [GitLab](http://gitlab.org/): See above at [Online Git Service](#online-git-service).
 * [Gitea](https://gitea.io/en-us/): Painless self-hosted Git service written in Go.
 
 
@@ -211,7 +148,6 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 ### Writing
 
-**Markdown is one of the best languages for writing.** Check out these editor in [Markdown section](#markdown).
 
 
 **Make use of these programs for publishing:**
@@ -219,7 +155,6 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
 * [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
 * [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
-* [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
 
 
 **Sphinx Themes and configurations**
@@ -275,7 +210,6 @@ Before doing the investigation on platforms, just remind yourself:
 
 **Blog/CMS Software**
 
-These programs are running on the server and can be [hosted using these services](#hosting).
 
 * [Wordpress](https://github.com/emptymalei/awesome-research/blob/master/https://wordpress.org/) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Very popular but requires a lot of maintenance.
 * [Ghost](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/tryghost/Ghost) (https://github.com/emptymalei/awesome-research/blob/master/`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
@@ -426,7 +360,6 @@ As for LaTeX, [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) is
 * [Raneto](http://raneto.com/): Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. This one has a nice looking.
 * [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 * [Tiddlywiki](http://tiddlywiki.com/): A unique non-linear notebook for capturing, organizing and sharing complex information.
-* Some other [static site generators](#static-generator).
 
 For experimental research, eLabFTW made a online labnote system: [eLabFTW](https://www.elabftw.net/).
 
@@ -708,6 +641,89 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 Professional graphs should be made using professional tools.
 
 * [GeoGebra](https://github.com/emptymalei/awesome-research/blob/master/http://www.geogebra.org/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
+* [LaTeXDraw](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/arnobl/latexdraw)(https://github.com/emptymalei/awesome-research/blob/master/`Linux`): "A vector drawing editor for LaTeX."
+* [TikZ](https://github.com/emptymalei/awesome-research/blob/master/http://www.texample.net/tikz/)(https://github.com/emptymalei/awesome-research/blob/master/`LaTeX`)
+* [BoxPlotR](https://github.com/emptymalei/awesome-research/blob/master/http://shiny.chemgrid.org/boxplotr/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): A web-tool for generation of box plots.
+
+
+## LaTeX
+
+
+
+### Tips
+
+* [wikibooks - LaTeX](https://en.wikibooks.org/wiki/LaTeX): A good manual.
+
+
+### Symbols
+
+* [Detexify](http://detexify.kirelabs.org/classify.html): find out what the symbol is by drawing online
+
+
+### Graphing
+
+* [TeX Example](https://github.com/emptymalei/awesome-research/blob/master/http://www.texample.net/) (https://github.com/emptymalei/awesome-research/blob/master/Tikz/PGF)
+
+
+### Fonts
+
+* [Font Catalogue](http://www.tug.dk/FontCatalogue/seriffonts.html)
+
+### Templates
+
+* [LaTeX Templates](http://www.latextemplates.com/)
+
+
+
+### References
+
+**Math Typesetting**
+
+* [Math into Type](https://github.com/emptymalei/awesome-research/blob/master/ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf): This is a great book for math related typography. This is copyright material. Please DO NOT redistribute.
+
+
+## MISC
+
+
+### Terminal
+
+* [plot in terminal](https://github.com/glamp/bashplotlib)
+* [asciinema](https://asciinema.org/): Command line recording.
+* [bashplot](https://github.com/glamp/bashplotlib): plot in terminal.
+* [fuck](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+
+### Free Multimedia
+
+* [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
+* [Unsplash](https://unsplash.com/): Free high resolution images.
+* [Academicons](https://jpswalsh.github.io/academicons/)
+* [Phylopic](http://phylopic.org/)
+
+
+
+
+### Interesting Journals
+
+* [International Journal of Geometric Methods in Modern Physics](http://www.worldscientific.com/worldscinet/ijgmmp)
+
+
+
+
+### More
+
+* [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
+* [SHIELDS.io](http://shields.io/): Make a beautiful badge by yourself.
+* [TitleCap](http://titlecapitalization.com/): Not sure which word to capitalize in the title? [TitleCap](http://titlecapitalization.com/) is right for you.
+* [On Being a Scientist](https://www.nap.edu/read/12192/): A guide to responsible conduct in research.
+* [DiRT Directory](http://dirtdirectory.org/): Registry of digital research tools for scholarly use.
+* [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
+* [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
+
+-----
+
+This is a CC BY-SA licensed project. Use the source! Keep the source open!
+
+![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)p://www.geogebra.org/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
 * [LaTeXDraw](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/arnobl/latexdraw)(https://github.com/emptymalei/awesome-research/blob/master/`Linux`): "A vector drawing editor for LaTeX."
 * [TikZ](https://github.com/emptymalei/awesome-research/blob/master/http://www.texample.net/tikz/)(https://github.com/emptymalei/awesome-research/blob/master/`LaTeX`)
 * [BoxPlotR](https://github.com/emptymalei/awesome-research/blob/master/http://shiny.chemgrid.org/boxplotr/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): A web-tool for generation of box plots.

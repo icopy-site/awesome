@@ -12,27 +12,7 @@ A collection of simple tips to help up your jQuery game.
 ## Tips
 
 1. [Use `noConflict(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-noconflict)
-1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
 1. [Use `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` Binding Instead of `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-on-binding-instead-of-click)
-1. [Back to Top Button](#back-to-top-button)
-1. [Preload Images](#preload-images)
-1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
-1. [Fix Broken Images Automatically](#fix-broken-images-automatically)
-1. [Post a Form with AJAX](#post-a-form-with-ajax)
-1. [Toggle Classes on Hover](#toggle-classes-on-hover)
-1. [Disabling Input Fields](#disabling-input-fields)
-1. [Stop the Loading of Links](#stop-the-loading-of-links)
-1. [Cache jQuery Selectors](#cache-jquery-selectors)
-1. [Toggle Fade/Slide](#toggle-fadeslide)
-1. [Simple Accordion](#simple-accordion)
-1. [Make Two Divs the Same Height](#make-two-divs-the-same-height)
-1. [Open External Links in New Tab/Window](#open-external-links-in-new-tabwindow)
-1. [Find Element By Text](#find-element-by-text)
-1. [Trigger on Visibility Change](#trigger-on-visibility-change)
-1. [AJAX Call Error Handling](#ajax-call-error-handling)
-1. [Chain Plugin Calls](#chain-plugin-calls)
-1. [Sort List Items Alphabetically](#sort-list-items-alphabetically)
-1. [Disable Right-Click](#disable-right-click)
 
 
 ### Use `noConflict()`
@@ -413,7 +393,6 @@ $elem.html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 $elem.otherStuff();
 ```
 
-Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best practices that lead to shorter and faster code.
 
 
 
@@ -443,6 +422,39 @@ If you want to disable right-click, you can do it for an entire page...
 ```javascript
 $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+    return false;
+  })
+})
+```
+
+...and you can also do the same for a specific element:
+
+```javascript
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#submit').bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+    return false;
+  })
+})
+```
+
+
+
+## Support
+
+Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
+
+
+
+## Translations
+
+* [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
+* [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
+* [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+* [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
+* [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
+* [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
+* [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+hub.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
     return false;
   })
 })

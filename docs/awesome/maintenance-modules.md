@@ -168,4 +168,6 @@ alias pre-version='git diff --exit-code && npm prune && npm install -q && npm te
 alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ``` && npm prune && npm install -q && npm test'
 alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
+``` && npm prune && npm install -q && npm test'
+alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ```

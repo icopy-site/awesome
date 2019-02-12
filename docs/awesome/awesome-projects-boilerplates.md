@@ -2,21 +2,6 @@
 
 Curated list of boilerplates and templates to enhance productivity.
 
-- [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
-    - [Android Development](#android-development)
-    - [iOS Development](#ios-development)
-    - [JavaScript](#javascript)
-    - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
-    - [Python](#python)
-    - [PHP](#php)
-    - [Ruby](#ruby)
-    - [.NET](#net)
-    - [Go](#go)
-    - [Browser Webextensions](#browser-webextensions)
-    - [Websites](#websites)
-    - [IDE Templates](#ide-templates)
-    - [GitHub](#github)
-- [Contributing](#contributing)
 
 
 
@@ -51,7 +36,6 @@ Curated list of boilerplates and templates to enhance productivity.
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 - [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
-- [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
     - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
@@ -59,11 +43,9 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
     - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS.
-- [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-- [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
@@ -77,19 +59,14 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/React, Redux, RethinkDB, Express) + PostCSS
-- [HyperApp](#hyperapp)
     - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
-- [Backbone](#backbone)
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
     - [benm](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
-- [Jquery](#jquery)
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
-- [Polymer](#polymer)
     - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
     - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
-- [Electron](#electron)
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
@@ -171,6 +148,24 @@ Curated list of boilerplates and templates to enhance productivity.
 *Templating Systems for Different IDE's*
 
 - [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
+- [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
+
+##  GitHub
+
+*Boilerplates and template files*
+
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
+- [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
+
+# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
+
+Your contributions are always welcome!
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has waived all copyright and related or neighboring rights to this work.yasnippet) A template system for Emacs.
 - [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 ##  GitHub

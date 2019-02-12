@@ -15,7 +15,6 @@
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook suspicious-package quicklookase qlvideo
 ```
 
-*…except for [`qlImageSize`](#qlimagesize)*
 
 ### Manually
 
@@ -123,7 +122,6 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 ## More
 
-*These are not included in [Install all](#install-all).*
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -155,6 +153,8 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.eativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.o/1.0/)
 

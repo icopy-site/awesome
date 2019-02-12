@@ -4,7 +4,6 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
-*Please read the [contribution guidelines](#guidelines) before contributing.*
 
 **Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
@@ -96,5 +95,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This work (https://github.com/unicodeveloper/awesome-lumen/blob/master/Awesome Lumen) is free of known copyright restrictions.s://creativecommons.org/publicdomain/zero/1.0/)
 
 This work (https://github.com/unicodeveloper/awesome-lumen/blob/master/Awesome Lumen) is free of known copyright restrictions.om/unicodeveloper/awesome-lumen/blob/master/Awesome Lumen) is free of known copyright restrictions.

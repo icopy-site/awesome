@@ -5,19 +5,12 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-:memo:   [Awesome WPO / Articles](#articles)
 
-:newspaper:   [Awesome WPO / Blogs](#blogs)
 
-:books:   [Awesome WPO / Books](#books)
 
-:book:   [Awesome WPO / Docs](#documentation)
 
-:calendar:   [Awesome WPO / Events](#events)
 
-:busts_in_silhouette:  [Awesome WPO / People](#people)
 
-:movie_camera:   [Awesome WPO / Talks](#talks)
 
 
 
@@ -381,6 +374,19 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 
 # Stats
+
+* [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
+
+
+# Other Awesome Lists
+
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+
+# Contributing
+
+For contributing, [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).# Stats
 
 * [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 

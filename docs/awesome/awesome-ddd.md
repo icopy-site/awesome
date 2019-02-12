@@ -225,4 +225,6 @@ The term was coined by Eric Evans in his book of the same title.
 
 To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.1/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.1/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.

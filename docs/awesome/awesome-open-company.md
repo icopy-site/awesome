@@ -1,5 +1,4 @@
 # Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
 
 (https://github.com/opencompany/awesome-open-company/blob/master/**[click here](https://github.com/opencompany/awesome-open-company/blob/master/#companies)** to jump straight to the list below.)
@@ -92,5 +91,7 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 - [Awesome Open](https://github.com/paulhendricks/awesome-open):
   A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
+## License
+*This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 ## License
 *This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*c domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*

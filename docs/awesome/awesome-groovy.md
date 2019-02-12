@@ -4,26 +4,6 @@ Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
 
 
-- [Awesome Groovy](#awesome-groovy)
-    - [Build Tools, Setup and CI](#build-tools-setup-and-ci)
-    - [Concurrency](#concurrency)
-    - [Database](#database)
-    - [Desktop App Frameworks](#rich-applications)
-    - [HTTP](#http)
-    - [IDE and Editor Support](#ide-and-editor-support)
-    - [Testing](#testing)
-    - [Code analysis](#code-analysis)
-    - [Web Frameworks](#web-frameworks)
-    - [Transpilers](#transpilers)
-    - [Static Web](#static-web)
-    - [Language Utilities](#language-utilities)
-    - [File System Utilities](#file-system-utilities)
-    - [File Format DSL](#file-format-dsl)
-    - [Scripting Tools](#scripting-tools)
-    - [Rule Engines](#rule-engines)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
@@ -164,6 +144,32 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 # Contributing
 
 Fork this repository, edit this file and send a pull request.
+
+## Using awesome.groovy script
+
+You can use the `awesome.groovy` script to search awesome projects on github and generate the entry prepoulated with project name, repo url and description in markdown format. All you need to do is place it under right group in the markdown list in `README.md`.
+
+### Examples
+
+to find out repos where language is groovy and whose name contain gpars and
+
+    ./awesome.groovy -l groovy gpars
+
+to find out repos by user 'kdabir' and name contains glide
+
+    ./awesome.groovy -u kdabir glide
+
+to find out repos whose name contains glide
+
+    ./awesome.groovy glide
+
+If you are lazy to download the repo, an easy way is:
+
+    groovy "https://git.io/awesome" -l groovy glide
+
+# Credits
+
+To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this](https://github.com/bayandin/awesome-awesomeness).this file and send a pull request.
 
 ## Using awesome.groovy script
 

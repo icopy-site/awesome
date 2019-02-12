@@ -11,86 +11,11 @@ See [Contributing](https://github.com/Kickball/awesome-selfhosted/blob/master/.g
 --------------------
 
 - List of Software
-  - [Analytics](#analytics)
   - [Archiving and Digital Preservation (https://github.com/Kickball/awesome-selfhosted/blob/master/DP)](https://github.com/Kickball/awesome-selfhosted/blob/master/#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
-  - [Communication systems](#communication-systems)
-    - [Custom communication systems](#custom-communication-systems)
-    - [Email](#email)
-      - [Complete solutions](#complete-solutions)
-      - [Mail Transfer Agents](#mail-transfer-agents)
-      - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
-      - [Webmail clients](#webmail-clients)
-    - [IRC](#irc)
-    - [SIP](#sip)
-    - [IPBX](#ipbx)
-    - [Social Networks and Forums](#social-networks-and-forums)
-    - [XMPP](#xmpp)
-      - [XMPP Servers](#xmpp-servers)
-      - [XMPP Web Clients](#xmpp-web-clients)
-  - [Conference Management](#conference-management)
   - [E-books and Integrated Library Systems (https://github.com/Kickball/awesome-selfhosted/blob/master/ILS)](https://github.com/Kickball/awesome-selfhosted/blob/master/#e-books-and-integrated-library-systems-ils)
-  - [Federated Identity/Authentication](#federated-identityauthentication)
-  - [Feed Readers](#feed-readers)
-  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
-    - [Distributed filesystems](#distributed-filesystems)
-    - [File transfer/synchronization](#file-transfersynchronization)
-    - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
-    - [Object storage/file servers](#object-storagefile-servers)
-    - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
-    - [Web based file managers](#web-based-file-managers)
-  - [Games](#games)
-  - [Gateways](#gateways)
-  - [Groupware](#groupware)
   - [Human Resources Management (https://github.com/Kickball/awesome-selfhosted/blob/master/HRM)](https://github.com/Kickball/awesome-selfhosted/blob/master/#human-resources-management-hrm)
   - [Internet of Things (https://github.com/Kickball/awesome-selfhosted/blob/master/IoT)](https://github.com/Kickball/awesome-selfhosted/blob/master/#internet-of-things-iot)
-  - [Learning and Courses](#learning-and-courses)
   - [Maps and Global Positioning System (https://github.com/Kickball/awesome-selfhosted/blob/master/GPS)](https://github.com/Kickball/awesome-selfhosted/blob/master/#maps-and-global-positioning-system-gps)
-  - [Media Streaming](#media-streaming)
-    - [Multimedia Streaming](#multimedia-streaming)
-    - [Audio Streaming](#audio-streaming)
-    - [Video Streaming](#video-streaming)
-  - [Misc/Other](#miscother)
-  - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring](#monitoring)
-  - [Note-taking and Editors](#note-taking-and-editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Polls and Events](#polls-and-events)
-    - [Booking and Scheduling](#booking-and-scheduling)
-  - [Proxy](#proxy)
-  - [Read it Later Lists](#read-it-later-lists)
-  - [Resource Planning](#resource-planning)
-    - [Enterprise Resource Planning](#enterprise-resource-planning)
-  - [Search Engines](#search-engines)
-  - [Software Development](#software-development)
-    - [Project Management](#project-management)
-    - [Bug Trackers](#bug-trackers)
-    - [IDE/Tools](#idetools)
-    - [Continuous Integration](#continuous-integration)
-    - [FaaS/Serverless](#faas-serverless)
-    - [API Management](#api-management)
-    - [Documentation Generators](#documentation-generators)
-    - [Localization](#localization)
-  - [Static site generators](#static-site-generators)
-  - [Task management/To-do lists](#task-managementto-do-lists)
-  - [Ticketing](#ticketing)
-  - [URL Shorteners](#url-shorteners)
-  - [VPN](#vpn)
-  - [Web servers](#web-servers)
-  - [Wikis](#wikis)
-- [Self-hosting Solutions](#self-hosting-solutions)
-- [List of Licenses](#list-of-licenses)
-- [External links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
 
 --------------------
 
@@ -99,7 +24,6 @@ See [Contributing](https://github.com/Kickball/awesome-selfhosted/blob/master/.g
 ## Analytics
 For personal analytics/dashboards, see [Personal Dashboards](https://github.com/Kickball/awesome-selfhosted#personal-dashboards)
 
-**[`^        back to top        ^`](#)**
 
 _Web Analytics_
 
@@ -128,7 +52,6 @@ _Social Media_
 
 ## Archiving and Digital Preservation (https://github.com/Kickball/awesome-selfhosted/blob/master/DP)
 
-**[`^        back to top        ^`](#)**
 
 
 - [Access to Memory (https://github.com/Kickball/awesome-selfhosted/blob/master/AtoM)](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo.accesstomemory.org/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`
@@ -139,7 +62,6 @@ _Social Media_
 
 ## Automation
 
-**[`^        back to top        ^`](#)**
 
 - [Alltube](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.alltubedownload.net) - Web interface for [youtube-dl](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://github.com/Kickball/awesome-selfhosted/blob/master/https://rg3.github.io/youtube-dl/supportedsites.html). (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.alltubedownload.net), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/Rudloff/alltube)) `GPL-3.0` `PHP`
 - [AmIUnique](https://github.com/Kickball/awesome-selfhosted/blob/master/https://amiunique.org/) - Learn how identifiable you are on the Internet (https://github.com/Kickball/awesome-selfhosted/blob/master/browser fingerprinting tool). (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
@@ -179,7 +101,6 @@ _Social Media_
 
 ## Blogging Platforms
 
-**[`^        back to top        ^`](#)**
 
 
 - [Anchor CMS](https://github.com/Kickball/awesome-selfhosted/blob/master/https://anchorcms.com/) - Free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/anchorcms/anchor-cms)) `GPL-3.0` `PHP`
@@ -206,7 +127,6 @@ _Social Media_
 
 ## Bookmarks and Link Sharing
 
-**[`^        back to top        ^`](#)**
 
 - [dyu/bookmarks](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://dyuproject.com/bookmarks/)) `Apache-2.0` `Java`
 - [Firefox Auth Server](https://github.com/Kickball/awesome-selfhosted/blob/master/https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/mozilla/fxa-auth-server/)) `MPL-2.0` `Nodejs`
@@ -226,9 +146,7 @@ _Social Media_
 
 ## Calendaring and Contacts Management
 
-**[`^        back to top        ^`](#)**
 
-Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
 See https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations
 
@@ -252,7 +170,6 @@ _CalDAV or CardDAV clients._
 
 ## Communication systems
 
-**[`^        back to top        ^`](#)**
 
 ### Custom communication systems
 
@@ -294,7 +211,6 @@ _CalDAV or CardDAV clients._
 
 ### Email
 
-**[`^        back to top        ^`](#)**
 
 #### Complete solutions
 
@@ -364,7 +280,6 @@ _Mailing lists servers and mass mailing software - one message to many recipient
 
 ### IRC
 
-**[`^        back to top        ^`](#)**
 
 _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software_
 
@@ -379,7 +294,6 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
 ### SIP
 
-**[`^        back to top        ^`](#)**
 
 _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software_
 
@@ -392,7 +306,6 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony soft
 
 ### IPBX
 
-**[`^        back to top        ^`](#)**
 
 _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
@@ -403,7 +316,6 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
 ### Social Networks and Forums
 
-**[`^        back to top        ^`](#)**
 
 - [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 - [Anahita](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/anahitasocial)) `GPL-3.0` `PHP`
@@ -452,7 +364,6 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
 ### XMPP
 
-**[`^        back to top        ^`](#)**
 
 _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software_
 
@@ -477,7 +388,6 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 
 ## Conference Management
 
-**[`^        back to top        ^`](#)**
 
 - [BigBlueButton](https://github.com/Kickball/awesome-selfhosted/blob/master/https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (https://github.com/Kickball/awesome-selfhosted/blob/master/with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo.bigbluebutton.org/gl), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 - [Conference Organizing Distribution (https://github.com/Kickball/awesome-selfhosted/blob/master/COD)](https://github.com/Kickball/awesome-selfhosted/blob/master/http://usecod.com/) - Create conference and event websites built on top of Drupal. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/http://cgit.drupalcode.org/cod)) `GPL-1.0` `PHP`
@@ -567,7 +477,6 @@ _Recipe management_
 
 ## DNS
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#dns
 
@@ -577,7 +486,6 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 ## Document Management
 
-**[`^        back to top        ^`](#)**
 
 - [CaseBox](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.casebox.org) - Manage all your organization's information in one system. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/KETSE/casebox)) `AGPL-3.0` `PHP/Java`
 - [EdPaper](https://github.com/Edraens/EdPaper) - PDF organizer with users management. `MIT` `PHP`
@@ -587,7 +495,6 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 
 ## E-books and Integrated Library Systems (https://github.com/Kickball/awesome-selfhosted/blob/master/ILS)
 
-**[`^        back to top        ^`](#)**
 
 _Personal e-book management software._
 
@@ -604,13 +511,11 @@ _Enterprise-class library management software._
 
 ## Federated Identity/Authentication
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#identity-management
 
 ## Feed Readers
 
-**[`^        back to top        ^`](#)**
 
 - [CommaFeed](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/Athou/commafeed)) `Apache-2.0` `Java`
 - [Feedbin](https://github.com/Kickball/awesome-selfhosted/blob/master/https://feedbin.com/) - Simple, fast and nice looking RSS reader. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/feedbin/feedbin)) `MIT` `Ruby`
@@ -642,13 +547,10 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 
 ## File Sharing and Synchronization
 
-**[`^        back to top        ^`](#)**
 
-Some [Groupware](#groupware) solutions also feature file sharing and synchronization.
 
 #### Distributed filesystems
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
@@ -739,7 +641,6 @@ _Command-line file upload_
 
 ## Games
 
-**[`^        back to top        ^`](#)**
 
 - [A Dark Room](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`
 - [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas. `MIT` `Nodejs`
@@ -755,7 +656,6 @@ _Command-line file upload_
 
 ## Gateways
 
-**[`^        back to top        ^`](#)**
 
 - [GateOne](https://github.com/Kickball/awesome-selfhosted/blob/master/http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/liftoff/GateOne/)) `AGPL-3.0` `Python`
 - [Guacamole](https://github.com/Kickball/awesome-selfhosted/blob/master/http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
@@ -764,7 +664,6 @@ _Command-line file upload_
 
 ## Groupware
 
-**[`^        back to top        ^`](#)**
 
 - [Citadel](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.citadel.org/doku.php) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.citadel.org/doku.php/installation:source)) `GPL-3.0` `C`
 - [Cozy Cloud](https://github.com/Kickball/awesome-selfhosted/blob/master/https://cozy.io) - Personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/cozy)) `GPL-3.0` `Nodejs`
@@ -781,7 +680,6 @@ _Command-line file upload_
 
 ## Human Resources Management (https://github.com/Kickball/awesome-selfhosted/blob/master/HRM)
 
-**[`^        back to top        ^`](#)**
 
 - [admidio](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.admidio.org/demo/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/Admidio/admidio)) `GPL-2.0` `PHP`
 - [IceHrm](https://github.com/Kickball/awesome-selfhosted/blob/master/https://icehrm.com/) - IceHrm employee management system allows companies to centralize confidential employee information. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://icehrm.com/demo.php), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/gamonoid/icehrm/)) `Apache-2.0` `PHP`
@@ -800,7 +698,6 @@ _Command-line file upload_
 
 ## Learning and Courses
 
-**[`^        back to top        ^`](#)**
 
 - [Canvas LMS](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.canvaslms.com/) - Canvas is the trusted, open-source learning management system (https://github.com/Kickball/awesome-selfhosted/blob/master/LMS) that is revolutionizing the way we educate. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://canvas.instructure.com/register), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 - [Chamilo LMS](https://github.com/Kickball/awesome-selfhosted/blob/master/https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
@@ -816,7 +713,6 @@ _Command-line file upload_
 
 ## Maps and Global Positioning System (https://github.com/Kickball/awesome-selfhosted/blob/master/GPS)
 
-**[`^        back to top        ^`](#)**
 
 - [Graphhopper](https://github.com/Kickball/awesome-selfhosted/blob/master/https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 - [MapBBCodeShare](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://share.mapbbcode.org/)) `WTFPL/Other` `PHP`
@@ -831,7 +727,6 @@ _Command-line file upload_
 
 ## Media Streaming
 
-**[`^        back to top        ^`](#)**
 
 See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems>
 
@@ -896,7 +791,6 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 ## Misc/Other
 
-**[`^        back to top        ^`](#)**
 
 - [411](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo.fouroneone.io/) - Alert Management Web Application. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/etsy/411)) `MIT` `PHP`
 - [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
@@ -933,7 +827,6 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 ## Money, Budgeting and Management
 
-**[`^        back to top        ^`](#)**
 
 See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 
@@ -960,15 +853,12 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 
 ## Monitoring
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Note-taking and Editors
 
-**[`^        back to top        ^`](#)**
 
-*See also [Wikis](#wikis)*
 
 - [Abrays Notes](https://github.com/Kickball/awesome-selfhosted/blob/master/https://go.imadityang.xyz/notes) - Take server side encrypted notes. Self hosted, WYSIWYG editor, material design and more. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/abrays/notes)) `MIT` `Ruby`
 - [BulletNotes](https://github.com/Kickball/awesome-selfhosted/blob/master/https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (https://github.com/Kickball/awesome-selfhosted/blob/master/Trello) and Calendar functionality. Organize everything. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
@@ -993,7 +883,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## Office Suites
 
-**[`^        back to top        ^`](#)**
 
 - [ Collabora Online Development Edition](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.collaboraoffice.com/code) - Collabora Online Development Edition (https://github.com/Kickball/awesome-selfhosted/blob/master/CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
 - [CryptPad](https://github.com/Kickball/awesome-selfhosted/blob/master/https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor (https://github.com/Kickball/awesome-selfhosted/blob/master/rich-text, files, source-code, ...). (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
@@ -1007,7 +896,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## Password Managers
 
-**[`^        back to top        ^`](#)**
 
 - [Bitwarden](https://github.com/Kickball/awesome-selfhosted/blob/master/https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/bitwarden/core)) `AGPL-3.0` `C#`
 - [keeweb](https://github.com/Kickball/awesome-selfhosted/blob/master/https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/keeweb/keeweb)) `MIT` `HTML5`
@@ -1019,7 +907,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## Pastebins
 
-**[`^        back to top        ^`](#)**
 
 - [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin. `WTFPL` `Python`
 - [bepasty](https://github.com/Kickball/awesome-selfhosted/blob/master/https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
@@ -1048,7 +935,6 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## Personal Dashboards
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
@@ -1065,7 +951,6 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Photo and Video Galleries
 
-**[`^        back to top        ^`](#)**
 
 - [Chevereto Free](https://github.com/Kickball/awesome-selfhosted/blob/master/https://chevereto.com/free) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/Chevereto/Chevereto-Free)) `AGPL-3.0` `PHP`
 - [Coppermine](https://github.com/Kickball/awesome-selfhosted/blob/master/http://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
@@ -1090,7 +975,6 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Polls and Events
 
-**[`^        back to top        ^`](#)**
 
 - [Calagator](https://github.com/Kickball/awesome-selfhosted/blob/master/http://calagator.org/) - Event aggregator. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://calagator.org/), [Source code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/calagator/calagator)) `MIT` `Ruby`
 - [Clerk](https://github.com/chr15m/Clerk) - Simple event logger to keep track of periodic events, habits, etc. as they occur. `GPL-3.0` `PHP`
@@ -1110,7 +994,6 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Proxy
 
-**[`^        back to top        ^`](#)**
 
 - [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) - Reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. `MIT` `Go/Docker`
@@ -1129,14 +1012,12 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Read it Later Lists
 
-**[`^        back to top        ^`](#)**
 
 - [Nunux Keeper](https://github.com/Kickball/awesome-selfhosted/blob/master/http://keeper.nunux.org/) - Your personal content curation service. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/ncarlier/nunux-keeper)) `GPL-3.0` `Nodejs`
 - [Wallabag](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://demo.wallabag.org/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 ## Resource Planning
 
-**[`^        back to top        ^`](#)**
 
 - [farmOS](https://github.com/Kickball/awesome-selfhosted/blob/master/http://farmos.org/) - Web-based farm record keeping application. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`
 - [Grocy](https://github.com/Kickball/awesome-selfhosted/blob/master/https://grocy.info/) - grocy is a web-based selfhosted groceries management solution for your home, available in English, German, Italian and Norwegian. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo-en.grocy.info/stockoverview), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/berrnd/grocy)) `MIT` `PHP`
@@ -1151,7 +1032,6 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Search Engines
 
-**[`^        back to top        ^`](#)**
 
 - [Ambar](https://github.com/Kickball/awesome-selfhosted/blob/master/https://ambar.cloud) - Document Search Engine (https://github.com/Kickball/awesome-selfhosted/blob/master/OCR, Store & Search). (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://app.ambar.cloud/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`
 - [Gigablast](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.gigablast.com/) - open source search engine. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.gigablast.com/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`
@@ -1161,11 +1041,9 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 ## Software Development
 
-**[`^        back to top        ^`](#)**
 
 ### Project Management
 
-_See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
 
 - [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs. `Apache-2.0` `Python`
 - [Bonobo Git Server](https://github.com/Kickball/awesome-selfhosted/blob/master/https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
@@ -1197,7 +1075,6 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
 
 ### Bug Trackers
 
-See **[Ticketing](#ticketing)**
 
 ### IDE/Tools
 
@@ -1247,7 +1124,6 @@ See **[Ticketing](#ticketing)**
 
 ### Documentation Generators
 
-See also [Static site generators](#static-site-generators)
 
 - [Docstore](https://github.com/Kickball/awesome-selfhosted/blob/master/http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
 - [Flatdoc](http://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
@@ -1264,15 +1140,12 @@ See also [Static site generators](#static-site-generators)
 
 ## Static site generators
 
-**[`^        back to top        ^`](#)**
 
 See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## Task management/To-do lists
 
-**[`^        back to top        ^`](#)**
 
-*See also [Project Management](#project-management) and [Ticketing](#ticketing).*
 
 - [Crepido](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/arshad/crepido) - Create (https://github.com/Kickball/awesome-selfhosted/blob/master/kanban) boards to track users and projects from flat markdown files. `MIT` `Nodejs`
 - [Kanboard](https://github.com/Kickball/awesome-selfhosted/blob/master/http://kanboard.net/) - Simple and open source visual task board. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/kanboard/kanboard)) `MIT` `PHP`
@@ -1296,9 +1169,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## Ticketing
 
-**[`^        back to top        ^`](#)**
 
-*See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)*
 
 - [Brimir](https://github.com/Kickball/awesome-selfhosted/blob/master/https://getbrimir.com/) - Simple and clean open-source ticket manager written in Ruby on Rails. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/ivaldi/brimir)) `AGPL-3.0` `Ruby`
 - [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`
@@ -1322,7 +1193,6 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## URL Shorteners
 
-**[`^        back to top        ^`](#)**
 
 - [Kutt](https://github.com/Kickball/awesome-selfhosted/blob/master/https://kutt.it) - A modern URL shortener with support for custom domains. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 - [Link-shortener-bot](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/tommyku/link-shortener-front-end) `⚠` - URL shortener using a Telegram Bot. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://t.me/GiveMeShortLinkBot)) `MIT` `Ruby`
@@ -1339,21 +1209,17 @@ See https://staticsitegenerators.net and https://www.staticgen.com
 
 ## VPN
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#vpn
 
 ## Web servers
 
-**[`^        back to top        ^`](#)**
 
 See https://github.com/n1trux/awesome-sysadmin#web
 
 ## Wikis
 
-**[`^        back to top        ^`](#)**
 
-See also [Documentation Generators](#documentation-generators), [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines on WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software on wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software on wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software).
 
 - [BookStack](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://www.bookstackapp.com/#demo), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
 - [Cowyo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/schollz/cowyo/) - Cowyo is a feature-rich wiki for minimalists. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://cowyo.com)) `MIT` `Go`
@@ -1382,7 +1248,6 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Self-hosting Solutions
 
-**[`^        back to top        ^`](#)**
 
 - [1Backend](https://github.com/1backend/1backend) - Self-host web apps, microservices and lambdas on your server. Advanced features enable service reuse and composition. `AGPL-3.0` `Go`
 - [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`
@@ -1395,6 +1260,88 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - [OpenMediaVault](https://github.com/Kickball/awesome-selfhosted/blob/master/http://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (https://github.com/Kickball/awesome-selfhosted/blob/master/NAS) solution based on Debian Linux. It contains services like SSH, (https://github.com/Kickball/awesome-selfhosted/blob/master/S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`
 - [Piratebox](https://github.com/Kickball/awesome-selfhosted/blob/master/https://piratebox.cc/start) - DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/PirateBox-Dev)). `GPL-3.0` `Python/Other`
 - [Puffin](https://github.com/Kickball/awesome-selfhosted/blob/master/http://puffin.rocks/) - Lightweight webapp catalog based on containers, with user interface à la mobile app store. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/http://puffin.rocks/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/puffinrocks/puffin)) `AGPL-3.0` `Python/Docker`
+- [Sandstorm](https://github.com/Kickball/awesome-selfhosted/blob/master/https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo.sandstorm.io/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`
+- [sovereign](https://github.com/sovereign/sovereign) - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPL-3.0` `YAML/Other`
+- [Syncloud](https://github.com/Kickball/awesome-selfhosted/blob/master/https://syncloud.org/) - Your own online file storage, social network or email server. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`
+- [UBOS](https://github.com/Kickball/awesome-selfhosted/blob/master/http://ubos.net/) - Linux distro that runs on indie boxes (https://github.com/Kickball/awesome-selfhosted/blob/master/personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other [features](https://github.com/Kickball/awesome-selfhosted/blob/master/http://ubos.net/about/). `GPL-3.0` `Perl/Other`
+- [WikiSuite](https://github.com/Kickball/awesome-selfhosted/blob/master/http://WikiSuite.org) - The most comprehensive and integrated Free / Libre / Open Source software suite ever developed. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/http://wikisuite.org/Source-Code)) `Multiple` `ClearOS`
+- [YunoHost](https://github.com/Kickball/awesome-selfhosted/blob/master/https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://yunohost.org/#/try), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
+
+<!-- END SOFTWARE LIST -->
+
+--------------------
+
+## List of Licenses
+
+
+- `⚠ ` - Depends on a third party network service
+- `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
+- `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+- `AGPL-3.0-only` - [GNU Affero General Public License 3.0 only](https://spdx.org/licenses/AGPL-3.0-only.html)
+- `Apache-2.0` - [Apache, Version 2.0](http://www.apache.org/licenses/)
+- `APSL-2.0` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
+- `Artistic-2.0` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
+- `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
+- `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
+- `BSD-2-Clause-FreeBSD` - [BSD 2-Clause FreeBSD License](https://www.freebsd.org/copyright/freebsd-license.html)
+- `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
+- `BSD-3-Clause-Attribution` - [BSD with attribution](https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution)
+- `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-sa/3.0/)
+- `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+- `CC0-1.0` - [Public Domain](https://creativecommons.org/about/cc0/)
+- `CDDL-1.0` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
+- `CECILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)
+- `CPAL-1.0` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
+- `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
+- `ECL-2.0` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
+- `EPL-1.0` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
+- `GPL-1.0` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
+- `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+- `GPL-3.0` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+- `GPL-3.0-only` - [GNU General Public License 3.0](https://spdx.org/licenses/GPL-3.0-only.html)
+- `IPL-1.0` - [IBM Public License](https://opensource.org/licenses/IPL-1.0)
+- `ISC` - [Internet Systems Consortium License](https://www.isc.org/downloads/software-support-policy/isc-license/)
+- `LGPL-2.1` - [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
+- `LGPL-3.0` - [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
+- `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+- `MPL-1.1` - [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)
+- `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+- `Multiple` - Various different licenses, for different components of the project's software.
+- `OSL-3.0` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+- `Other` - Non-standard license, usually unique to the project itself.
+- `Sendmail` - [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
+- `Unlicense` - [The Unlicense](http://unlicense.org/)
+- `WTFPL` - [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
+- `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
+- `ZPL-2.0` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
+
+--------------------
+
+## External links
+
+
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+- Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
+- Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
+- Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
+- Mirrors: [GitHub.com](https://github.com/Kickball/awesome-selfhosted), [Gitlab.com](https://gitlab.com/nodiscc/awesome-selfhosted)
+
+--------------------
+
+## Contributing
+
+Contributing guidelines can be found [here](https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
+
+## Authors
+
+The list of authors can be found [here](https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md).
+
+## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/Kickball/awesome-selfhosted/blob/master/LICENSE) License.`Python/Docker`
 - [Sandstorm](https://github.com/Kickball/awesome-selfhosted/blob/master/https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Demo](https://github.com/Kickball/awesome-selfhosted/blob/master/https://demo.sandstorm.io/), [Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`
 - [sovereign](https://github.com/sovereign/sovereign) - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. `GPL-3.0` `YAML/Other`
 - [Syncloud](https://github.com/Kickball/awesome-selfhosted/blob/master/https://syncloud.org/) - Your own online file storage, social network or email server. (https://github.com/Kickball/awesome-selfhosted/blob/master/[Source Code](https://github.com/Kickball/awesome-selfhosted/blob/master/https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`

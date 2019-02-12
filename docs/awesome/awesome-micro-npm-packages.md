@@ -216,4 +216,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/par
 
 To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) has waived all copyright and related or neighboring rights to this work.8x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) has waived all copyright and related or neighboring rights to this work.8x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) has waived all copyright and related or neighboring rights to this work.

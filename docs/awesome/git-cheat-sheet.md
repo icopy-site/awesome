@@ -24,17 +24,6 @@ Be free to contribute, update the grammar mistakes. You are also free to add you
 Git Cheat Sheet English
 ===============
 ### Index
-* [Set Up](#setup)
-* [Configuration Files](#configuration-files)
-* [Create](#create)
-* [Local Changes](#local-changes)
-* [Search](#search)
-* [Commit History](#commit-history)
-* [Branches & Tags](#branches--tags)
-* [Update & Publish](#update--publish)
-* [Merge & Rebase](#merge--rebase)
-* [Undo](#undo)
-* [Git Flow](#git-flow)
 
 
 <hr>
@@ -561,12 +550,6 @@ $ git commit -m "remove xyz file"
 Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
-* [Setup](#setup)
-* [Getting Started](#getting-started)
-* [Features](#features)
-* [Make a Release](#make-a-release)
-* [Hotfixes](#hotfixes)
-* [Commands](#commands)
 
 <hr>
 
@@ -667,6 +650,40 @@ git flow release publish RELEASE
 ###### 4) Removes the release branch
 ```
 git flow release finish RELEASE
+```
+###### Don't forget to push your tags with ```git push --tags```
+
+<hr>
+
+### Hotfixes
+###### Hotfixes arise from the necessity to act immediately upon an undesired state of a live production version. May be branched off from the corresponding tag on the master branch that marks the production version.
+
+##### Git flow hotfix start:
+###### Like the other git flow commands, a hotfix is started with
+```
+$ git flow hotfix start VERSION [BASENAME]
+```
+###### The version argument hereby marks the new hotfix release name. Optionally you can specify a basename to start from.
+
+##### Finish a hotfix:
+###### By finishing a hotfix it gets merged back into develop and master. Additionally the master merge is tagged with the hotfix version
+```
+git flow hotfix finish VERSION
+```
+<hr>
+
+### Commands
+<p align="center">
+    <img alt="Git" src="https://raw.githubusercontent.com/arslanbilal/git-cheat-sheet/master/./Img/git-flow-commands.png" height="270" width="460">
+</p>
+<hr>
+
+### Git flow schema
+
+<p align="center">
+    <img alt="Git" src="https://raw.githubusercontent.com/arslanbilal/git-cheat-sheet/master/Img/git-flow-commands-without-flow.png">
+</p>
+<hr>
 ```
 ###### Don't forget to push your tags with ```git push --tags```
 

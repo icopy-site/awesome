@@ -813,4 +813,20 @@ This is not a list of free programming books. This is a curated list of open sou
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
+</p>itbook.io/
+[site-oreilly-openbook]: http://www.oreilly.com/openbook/
+[site-online-programming-books]: http://www.onlineprogrammingbooks.com/
+[site-fsf-book]: http://shop.fsf.org/category/books/
+[site-greentea-press]: http://www.greenteapress.com/
+[site-wikipedia-book]: https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
+[repo-python-books]: https://github.com/revolunet/PythonBooks
+[site-jsbooks]: http://jsbooks.revolunet.com/
+
+<a name='license'></a>
+## License
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
 </p>

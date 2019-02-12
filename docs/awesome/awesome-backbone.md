@@ -134,4 +134,5 @@
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio)
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter)
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill).com/marionettejs/backbone.babysitter)
+- [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill).com/marionettejs/backbone.babysitter)
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill)

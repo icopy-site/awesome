@@ -6,7 +6,6 @@
 
 > Music visualization, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
 
-- [Who made this list?](#authors)
 - [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
 
@@ -258,6 +257,12 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 | ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)                | ![Luis Henrique](https://avatars2.githubusercontent.com/u/12835911?v=3&s=150) | ![Márcio Ribeiro](https://avatars3.githubusercontent.com/u/13159727?v=3&s=150)
 |:---------------------:|:-------------------:|:-------------------:|
 |  [Willian Justen](https://github.com/willianjusten/)   |     [Luis Henrique](https://github.com/lhbzr)    |    [Márcio Ribeiro](https://github.com/marcioshiz)
+
+## License
+
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.ub.com/marcioshiz)
 
 ## License
 

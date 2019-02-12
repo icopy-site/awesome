@@ -12,52 +12,6 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
 Table of contents:
-* [Angular 2](#angular-2)
-  * [Angular 2 General Resources](#angular-2-general-resources)
-  * [Angular 2 Community](#angular-2-community)
-  * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
-  * [Angular 2 Material Design](#angular-2-material-design)
-  * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
-  * [Angular 2 Tutorials](#angular-2-tutorials)
-  * [Angular 2 Series](#angular-2-series)
-  * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
-  * [Angular 2 Books](#angular-2-books)
-  * [Angular 2 On-Site Training](#angular-2-on-site-training)
-  * [Angular 2 Approach and Explanation](#angular-2-approach-and-explanation)
-  * [Angular 2 Integrations](#angular-2-integrations)
-  * [Angular 2 Components](#angular-2-components)
-  * [Angular 2 Generators](#angular-2-generators)
-  * [Angular 2 TodoMVC](#angular-2-todomvc)
-* [Universal](#universal-angular-2)
-  * [Universal General Resources](#universal-general-resources)
-  * [Seed Projects](#universal-seed-projects)
-* [TypeScript](#angular-2-in-typescript)
-  * [TypeScript General Resources](#typescript-general-resources)
-  * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
-  * [Seed Projects](#typescript-seed-projects)
-* [Dart](#angular-2-in-dart)
-  * [Angular 2 Online Playground](#dart-angular-2-online-playground)
-  * [Seed Projects](#dart-seed-projects)
-* [Babel](#angular-2-in-babel)
-  * [Babel General Resources](#babel-general-resources)
-  * [Angular 2 Online Playground](#babel-angular-2-online-playground)
-  * [Seed Projects](#babel-seed-projects)
-* [ES5](#angular-2-in-es5)
-  * [Angular 2 Online Playground](#es5-angular-2-online-playground)
-  * [Seed Projects](#es5-seed-projects)
-* [Haxe](#angular-2-in-haxe)
-  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
-  * [Seed Projects](#haxe-seed-projects)
-* [Scala](#angular-2-in-scala)
-  * [Seed Projects](#scala-seed-projects)
-* [Platforms](#platforms)
-  * [Ionic 2](#ionic-2)
-    * [Ionic 2 General Resources](#ionic-2-general-resources)
-  * [NativeScript](#nativescript-in-angular-2)
-    * [NativeScript General Resources](#nativescript-general-resources)
-    * [Seed Projects](#nativescript-seed-projects)
-  * [React Native](#react-native)
-    * [React Native General Resources](#react-native-general-resources)
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -222,6 +176,65 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Pipes](https://github.com/ng2-dart-samples/pipes) Examples of Pipes in Angular 2 for Dart.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
+
+### Angular 2 in Babel
+> The compiler for writing next generation JavaScript.
+
+#### Babel General Resources
+* [Babel](https://babeljs.io/) Official Website for Babel
+* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
+* [Babel Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/gdi2290/awesome-angular/blob/master/https://github.com/babel/babel) Official Github Repo for Babel
+
+#### Babel Angular 2 Online Playground
+
+#### Babel Seed Projects
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
+
+### Angular 2 in ES5
+> An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
+
+#### ES5 Angular 2 Online Playground
+
+#### ES5 Seed Projects
+
+### Angular 2 in Haxe
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
+
+#### Haxe Angular 2 Online Playground
+
+#### Haxe Seed Projects
+* [angular2haxe](https://github.com/nweedon/angular2haxe)
+
+### Angular 2 in Scala
+> General purpose language; multiparadigm (https://github.com/gdi2290/awesome-angular/blob/master/object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
+
+#### Scala Seed Projects
+* [play-angular2](https://github.com/gdi2290/play-angular2)
+
+### Platforms
+
+##### Ionic 2 General Resources
+* [Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/gdi2290/awesome-angular/blob/master/https://github.com/driftyco/ionic2)
+
+#### Angular 2 in NativeScript
+> Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
+
+##### NativeScript General Resources
+* [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
+
+#### NativeScript Seed Projects
+* [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+
+#### Angular 2 in React Native
+> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript
+
+##### React Native General Resources
+* [React Native](https://facebook.github.io/react-native/) Official Website for React Native
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.

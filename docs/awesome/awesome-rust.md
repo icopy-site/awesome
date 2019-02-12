@@ -1213,4 +1213,19 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
 
 ## License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)ustlings) — small exercises to get you used to reading and writing Rust code
+  * [stdx](https://github.com/brson/stdx) — Learn these crates first as an extension to std
+  * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
+  * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
+* Podcasts
+  * [New Rustacean](https://newrustacean.com) — a podcast about learning Rust
+  * [Rusty Spike](https://rusty-spike.blubrry.net) - news on all things Rust
+* [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
+* [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
+* [Rust Guidelines](http://aturon.github.io/)
+* [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
+* [Rust Subreddit](https://github.com/rust-unofficial/awesome-rust/blob/master/https://www.reddit.com/r/rust/) — a subreddit(https://github.com/rust-unofficial/awesome-rust/blob/master/forum) where rust related questions, articles and resources are posted and discussed
+
+## License
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

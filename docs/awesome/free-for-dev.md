@@ -12,44 +12,6 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 Table of Contents
 =================
 
-   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
-   * [APIs, Data and ML](#apis-data-and-ml)
-   * [Artifact Repos](#artifact-repos)
-   * [Automated Browser Testing](#automated-browser-testing)
-   * [BaaS](#baas)
-   * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
-   * [Code Quality](#code-quality)
-   * [Code Search and Browsing](#code-search-and-browsing)
-   * [Crash and Exception Handling](#crash-and-exception-handling)
-   * [Data Visualization on Maps](#data-visualization-on-maps)
-   * [DBaaS](#dbaas)
-   * [Design and UI](#design-and-ui)
-   * [DNS](#dns)
-   * [Docker Related](#docker-related)
-   * [Email](#email)
-   * [IaaS](#iaas)
-   * [IDE and Code Editing](#ide-and-code-editing)
-   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
-   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
-   * [Log Management](#log-management)
-   * [Management Systems](#management-system)
-   * [Miscellaneous](#miscellaneous)
-   * [Monitoring](#monitoring)
-   * [Other Free Resources](#other-free-resources)
-   * [PaaS](#paas)
-   * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment--billing-integration)
-   * [Search](#search)
-   * [Security and PKI](#security-and-pki)
-   * [Source Code Repos](#source-code-repos)
-   * [Storage and Media Processing](#storage-and-media-processing)
-   * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
-   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
-   * [Vagrant Related](#vagrant-related)
-   * [Visitor Session Recording](#visitor-session-recording)
-   * [Web Hosting](#web-hosting)
 
 ## Source Code Repos
 
@@ -613,6 +575,24 @@ Table of Contents
   * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
+  * [apichangelog.com](https://github.com/ripienaar/free-for-dev/blob/master/https://www.apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (https://github.com/ripienaar/free-for-dev/blob/master/Facebook, Twitter, Google,...)
+  * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
+  * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
+  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
+  * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
+  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
+  * [screenshotmachine.com](https://screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
+  * [readme.io](https://readme.io/) — Beautiful documentation made easy, free for Open Source: see [here](https://readme.readme.io/docs/open-source).
+  * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
+  * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call.
+  * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
+  * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
+
+## Other Free Resources
+  * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
+  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
+  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration requirediscellaneous
   * [apichangelog.com](https://github.com/ripienaar/free-for-dev/blob/master/https://www.apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (https://github.com/ripienaar/free-for-dev/blob/master/Facebook, Twitter, Google,...)
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month

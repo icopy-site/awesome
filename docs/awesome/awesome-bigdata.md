@@ -6,40 +6,6 @@ A curated list of awesome big data frameworks, resources and other awesomeness. 
 
 Your contributions are always welcome!
 
-- [Awesome Big Data](#awesome-bigdata)
-    - [RDBMS](#rdbms)
-    - [Frameworks](#frameworks)
-    - [Distributed Programming](#distributed-programming)
-    - [Distributed Filesystem](#distributed-filesystem)
-    - [Key-Map Data Model](#key-map-data-model)
-    - [Document Data Model](#document-data-model)
-    - [Key-value Data Model](#key-value-data-model)
-    - [Graph Data Model](#graph-data-model)
-    - [NewSQL Databases](#newsql-databases)
-    - [Columnar Databases](#columnar-databases)
-    - [Time-Series Databases](#time-series-databases)
-    - [SQL-like processing](#sql-like-processing)
-    - [Data Ingestion](#data-ingestion)
-    - [Service Programming](#service-programming)
-    - [Scheduling](#scheduling)
-    - [Machine Learning](#machine-learning)
-    - [Benchmarking](#benchmarking)
-    - [Security](#security)
-    - [System Deployment](#system-deployment)
-    - [Applications](#applications)
-    - [Search engine and framework](#search-engine-and-framework)
-    - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
-    - [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
-    - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
-    - [Embedded Databases](#embedded-databases)
-    - [Business Intelligence](#business-intelligence)
-    - [Data Visualization](#data-visualization)
-    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
-    - [Interesting Readings](#interesting-readings)
-    - [Interesting Papers](#interesting-papers)
-    - [Videos](#videos)
-    - [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## RDBMS
 * [MySQL](https://www.mysql.com/) The world's most popular open source database.
@@ -154,9 +120,7 @@ Your contributions are always welcome!
 
 Another group of technologies that can also be called "columnar databases" is distinguished by how it stores data, on disk or in memory -- rather than storing data the traditional way, where all column values for a given key are stored next to each other, "row by row", these systems store all *column* values next to each other. So more work is needed to get all columns for a given key, but less work is needed to get all values for a given column.
 
-The former group is referred to as "key map data model" here. The line between these and the [Key-value Data Model](#key-value-data-model) stores is fairly blurry.
 
-The latter, being more about the storage format than about the data model, is listed under [Columnar Databases](#columnar-databases).
 
 You can read more about this distinction on Prof. Daniel Abadi's blog: [Distinguishing two major types of Column Stores](http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html).
 
@@ -232,7 +196,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Columnar Databases
 
-**Note** please read the note on [Key-Map Data Model](#key-map-data-model) section.
 
 * [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
@@ -697,6 +660,34 @@ for Data Analytics at Twitter.
 * [Unified Log Processing](https://github.com/onurakpolat/awesome-bigdata/blob/master/https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (https://github.com/onurakpolat/awesome-bigdata/blob/master/Kafka or Kinesis) in your business
 * [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) - Kafka Streams in Action teaches you everything you need to know to implement stream processing on data flowing into your Kafka platform, allowing you to focus on getting more from your data without sacrificing time or effort.
 * [Big Data](https://www.manning.com/books/big-data) - Big Data teaches you to build big data systems using an architecture that takes advantage of clustered hardware along with new tools designed specifically to capture and analyze web-scale data.
+* [Spark in Action](https://www.manning.com/books/spark-in-action) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
+* [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
+* [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
+* [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
+
+#### Distributed systems
+* [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) – Theory of distributed systems. Include parts about time and ordering, replication and impossibility results.
+
+#### Graph Based approach
+* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
+
+### Data Visualization
+ * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+ * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
+ * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
+ * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
+
+
+# Other Awesome Lists
+- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+- Even more lists [awesome](https://github.com/sindresorhus/awesome).
+- Another list? [list](https://github.com/jnv/lists).
+- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
+- Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+- Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets).
+- Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
+- Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
+- Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).ong with new tools designed specifically to capture and analyze web-scale data.
 * [Spark in Action](https://www.manning.com/books/spark-in-action) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.

@@ -227,4 +227,9 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 <br>
 > <h3>License</h3>
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ob/master/rethinkdb/Dockerfile) - Single node Dockerfile.
+
+<br>
+> <h3>License</h3>
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

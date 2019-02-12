@@ -239,4 +239,8 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 ## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)e most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
+
+## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -241,4 +241,9 @@ This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https:/
 
 ## License
 
+This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).ontributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+
+
+## License
+
 This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).

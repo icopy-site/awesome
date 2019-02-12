@@ -52,4 +52,4 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 
 # LICENSE
-[MIT](https://github.com/matteofigus/awesome-speaking/blob/master/LICENSE.md)m/matteofigus/awesome-speaking/blob/master/LICENSE.md)
+[MIT](https://github.com/matteofigus/awesome-speaking/blob/master/LICENSE.md)m/matteofigus/awesome-speaking/blob/master/LICENSE.md)m/matteofigus/awesome-speaking/blob/master/LICENSE.md)

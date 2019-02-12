@@ -395,4 +395,12 @@ This repository is licensed under the [Do What the Fuck You Want to Public Licen
 
 ## License
 
+This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.ackle the business, social, environmental, and technological challenges facing us today.
+
+#### [Linux.die](https://linux.die.net/)
+
+> Linux.die is a resource with documentation, tutorials, books, etc in Linux.
+
+## License
+
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

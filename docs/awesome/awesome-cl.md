@@ -20,7 +20,6 @@ a problem better than a community standard but they aren't as
 widespread, or not considered as stable. For example, we prefer
 Spinneret over Cl-Who.
 
-Add something new! See the [contributing](#contributing) section for adding something to the
 list.
 
 This is released under the GNU Free Documentation License - its text
@@ -1020,6 +1019,27 @@ The rules we (https://github.com/CodyReichert/awesome-cl/blob/master/try to) res
 [16]: https://www.quicklisp.org/beta/
 [17]: https://directory.fsf.org/wiki/License:BSD_2Clause
 [20]: http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html
+[21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
+[33]: http://directory.fsf.org/wiki/License:Zlib
+[39]: http://directory.fsf.org/wiki?title=License:FreeBSD
+[47]: http://directory.fsf.org/wiki/License:CPLv1.0
+[51]: http://directory.fsf.org/wiki/License:ArtisticLicense2.0
+[54]: http://directory.fsf.org/wiki/License:Boost1.0
+[59]: http://directory.fsf.org/wiki/License:EPLv1.0
+[71]: https://github.com/Shinmera/plump
+[72]: https://github.com/Shinmera/lquery
+[89]: http://directory.fsf.org/wiki/License:Apache2.0
+[156]: http://letoverlambda.com/
+[157]: http://norvig.com/paip.html
+[176]: https://github.com/gwkkwg/lift/blob/master/COPYING
+[188]: https://github.com/triclops200/quickapp
+[200]: https://opensource.org/licenses/MIT
+[201]: https://github.com/google/lisp-koans
+[205]: https://www.postgresql.org/about/licence/
+[206]: http://www.gigamonkeys.com/book/
+[207]: https://opensource.org/licenses/bsd-license.php
+[208]:https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+[209]: http://www.eclipse.org/legal/epl-v10.html/courses/325/readings/graham/graham-notes.html
 [21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
 [33]: http://directory.fsf.org/wiki/License:Zlib
 [39]: http://directory.fsf.org/wiki?title=License:FreeBSD

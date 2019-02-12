@@ -248,3 +248,6 @@
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
+
+[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg

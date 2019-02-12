@@ -116,4 +116,4 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).redits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).redits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).redits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

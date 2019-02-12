@@ -499,4 +499,12 @@ RewriteCond %{HTTP_ACCEPT} image/webp
 RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (https://github.com/phanan/htaccess/blob/master/.+)\.(https://github.com/phanan/htaccess/blob/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
+[Source](https://github.com/vincentorback/WebP-images-with-htaccess)extension and the same name is found at the same place as the jpg/png image that is going to be served, then the WebP image is served instead.
+
+``` apacheconf
+RewriteEngine On
+RewriteCond %{HTTP_ACCEPT} image/webp
+RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+RewriteRule (https://github.com/phanan/htaccess/blob/master/.+)\.(https://github.com/phanan/htaccess/blob/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+```
 [Source](https://github.com/vincentorback/WebP-images-with-htaccess)

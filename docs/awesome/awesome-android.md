@@ -8,7 +8,6 @@
 </p>
 
 # About
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
 # Supported with ❤️ by [Instabug](https://goo.gl/ykpN6D)
 [![android](https://user-images.githubusercontent.com/9888943/35685005-23aa115a-0771-11e8-9ca7-82f41daeeafd.gif)](https://goo.gl/9UVi6P)
@@ -456,6 +455,16 @@ My personal recommendation is (https://github.com/JStumpp/awesome-android/blob/m
 
 ### Flutter
 - [Flutter](https://flutter.io/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
+
+# Performance
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+## Contributing
+
+Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first.utter](https://flutter.io/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.

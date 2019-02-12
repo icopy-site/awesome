@@ -18,57 +18,6 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
     - [Example Hybrid (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS/Andriod) App's](https://github.com/motion-open-source/awesome-rubymotion/blob/master/#example-hybrid-iosandriod-apps)
-    - [Example macOS Apps](#example-os-x-apps)
-    - [Example tvOS Apps](#example-tvos-apps)
-    - [Open Source macOS Apps](#open-source-os-x-apps)
-    - [Open Source iOS Apps](#open-source-ios-apps)
-    - [Propriety macOS Apps](#propriety-os-x-apps)
-    - [Propriety iOS Apps](#propriety-ios-apps)
-  - [Developer Tools](#developer-tools)
-  - [Editors & RM](#editors--rm)
-  - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
-    - [Android](#android)
-    - [Apple API Wrappers](#apple-api-wrappers)
-    - [Authorization](#authorization)
-    - [Data Protocols](#data-protocols)
-    - [Database](#database)
-    - [Debugging & Error Reporting](#debugging--error-reporting)
-    - [Dependencies Management](#dependencies-management)
-    - [Device support](#device-support)
-    - [Encryption](#encryption)
-    - [Frameworks](#frameworks)
-    - [Game Development](#game-development)
-    - [Graphical User Interface](#graphical-user-interface)
-      - [GUI Frameworks](#gui-frameworks)
-      - [Autolayout](#autolayout)
-      - [Input](#input)
-      - [iOS](#ios)
-      - [Forms](#forms)
-      - [Menu's & Toolbars](#menus--toolbars)
-      - [Icons](#icons)
-      - [Hybrid](#hybrid)
-      - [Element Wrappers](#element-wrappers)
-    - [Graphic Libraries](#graphic-libraries)
-    - [Localization](#localization)
-    - [Models & Core Data](#models--core-data)
-    - [Networking](#networking)
-    - [Project Management](#project-management)
-    - [SaaS API Wrappers](#saas-api-wrappers)
-    - [Scheduling](#scheduling)
-    - [Screenshots](#screenshots)
-    - [Software Design Patterns](#software-design-patterns)
-    - [Templates](#templates)
-    - [Testing](#testing)
-    - [Updates](#updates)
-  - [Books](#books)
-  - [Tutorials](#tutorials)
-    - [iOS Tutorials](#ios-tutorials)
-    - [macOS Tutorials](#os-x-tutorials)
-    - [Tutorial Screencasts](#tutorial-screencasts)
-  - [Presentations](#presentations)
-  - [Resources](#resources)
-  - [Thanks](#thanks)
-- [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -422,6 +371,47 @@ Chapters from the book Building Mac macOS apps with RubyMotion.
 
 * [Motion in Motion](https://motioninmotion.tv) - Paid RubyMotion screencast with an occasional free episode for the masses to enjoy.
 * [Motion Casts](http://motioncasts.com) - Learn to create native iOS applications using Ruby.
+* [IOS Development with RubyMotion](https://www.youtube.com/playlist?list=PLid95FTT3ehjnlpwXbM0a_pcPW0eiXtky) - YouTube Channel from Kingsley Ijomah.
+* [RubyMotion Primer](https://pragmaticstudio.com/screencasts/rubymotion) - Wishing you could create iOS apps using Ruby?
+
+
+## Presentations
+* [Converting Obj-C to RubyMotion](https://www.icloud.com/keynote/000kP6LsvKhzNVp5MO3Z6xKDw#rubymotion_talk) - Keynote presentation about converting Objs to RubyMotion.
+* [Introduction to RubyMotion](https://github.com/GantMan/RubyMotion-Intro) - Introduction to RubyMotion - The Cool Way to Build iOS Apps.
+* [Building iOS Apps With RubyMotion](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion) - Building iOS Apps With RubyMotion.
+* [Concurrency patterns in RubyMotion](https://speakerdeck.com/seanlilmateus/concurrency-patterns-in-rubymotion) - Presentation about working with Grand Central Dispatch in RubyMotion.
+* [Talk about RubyMotion and Low Energy Bleutooth Sensors](https://vimeo.com/groups/199097/videos/69529068)
+
+## Other Resources
+
+Where to learn about RubyMotion and discover new RubyMotion libraries, projects and trends.
+
+* [RubyMotion Official Website](http://www.rubymotion.com) - RubyMotion Official Website.
+* [Motion Toolbox](http://motion-toolbox.com) - Collection of RubyMotion libraries and wrappers.
+* [App catalog](http://www.rubymotion.com/references/app-catalog/) - There are lots of RubyMotion apps in production.
+
+
+## Community Resources
+* [@rubymotion on Twitter](https://twitter.com/rubymotion)
+* [Forum on RubyMotion.com](http://community.rubymotion.com)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/rubymotion)
+* [Reddit](https://www.reddit.com/r/RubyMotion/)
+* [Slack](https://motioneers.slack.com)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+## Thanks
+
+Thanks to Clay Allsopp who created the Motion Toolbox list.
+Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.om) - Learn to create native iOS applications using Ruby.
 * [IOS Development with RubyMotion](https://www.youtube.com/playlist?list=PLid95FTT3ehjnlpwXbM0a_pcPW0eiXtky) - YouTube Channel from Kingsley Ijomah.
 * [RubyMotion Primer](https://pragmaticstudio.com/screencasts/rubymotion) - Wishing you could create iOS apps using Ruby?
 

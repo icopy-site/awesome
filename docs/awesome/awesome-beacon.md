@@ -257,4 +257,6 @@ Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the proper
 
 To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.//i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.//i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.

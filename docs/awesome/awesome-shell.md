@@ -16,21 +16,8 @@
 # Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [Shells](#shells)
-- [Command-Line Productivity](#command-line-productivity)
-- [Customization](#customization)
-- [For Developers](#for-developers)
-- [System Utilities](#system-utilities)
-- [Downloading and Serving](#downloading-and-serving)
-- [Multimedia and File Formats](#multimedia-and-file-formats)
-- [Applications](#applications)
-- [Games](#games)
-- [Shell Package Management](#shell-package-management)
-- [Shell Script Development](#shell-script-development)
-- [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## Shells
 
@@ -356,6 +343,24 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Use the Unofficial Bash Strict Mode (https://github.com/alebcay/awesome-shell/blob/master/Unless You Looove Debugging)](https://github.com/alebcay/awesome-shell/blob/master/http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+* [A guide to learn bash](https://github.com/Idnan/bash-guide)
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+
+### See also
+
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+* [awesome-fish][awesome-fish]
+* [awesome-zsh][awesome-zsh]
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-fish]: https://github.com/jorgebucaran/awesome-fish
+[awesome-link]: https://github.com/sindresorhus/awesome
+[awesome-zsh]: https://github.com/unixorn/awesome-zsh-pluginsd-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 

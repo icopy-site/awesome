@@ -272,3 +272,6 @@ To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) 
 .creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) has waived all copyright and related or neighboring rights to this work.
+.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) has waived all copyright and related or neighboring rights to this work.

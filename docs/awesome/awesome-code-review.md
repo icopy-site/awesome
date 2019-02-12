@@ -76,4 +76,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/joh
 
 To the extent possible under law, [John Barton](https://johnbarton.co) has waived all copyright and
 related or neighboring rights to this work.co) has waived all copyright and
+related or neighboring rights to this work.co) has waived all copyright and
 related or neighboring rights to this work.

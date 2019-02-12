@@ -93,7 +93,6 @@ List of all possible software that can produce UI animations separated by using 
 * [Animatron](http://animatron.com/) – Web app for creating animations, banners, and infographics.
 * [Pixate](http://pixate.com/) – Prototyping platform.
 * [SpiritJS](https://github.com/fliptheweb/motion-ui-design/blob/master/https://spiritjs.io/) – Animation tool for the web (https://github.com/fliptheweb/motion-ui-design/blob/master/unrealized yet).
-* Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious your secret weapon – Pen and paper!
 
@@ -206,6 +205,8 @@ And obvious your secret weapon – Pen and paper!
 ## License
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**tps://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

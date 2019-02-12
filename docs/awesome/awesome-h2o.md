@@ -89,4 +89,4 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.

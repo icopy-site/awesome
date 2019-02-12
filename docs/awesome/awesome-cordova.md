@@ -97,4 +97,8 @@ Your contributions are always welcome!bayandin/awesome-awesomeness) list.
 
 # Contributing
 
+Your contributions are always welcome!bayandin/awesome-awesomeness) list.
+
+# Contributing
+
 Your contributions are always welcome!

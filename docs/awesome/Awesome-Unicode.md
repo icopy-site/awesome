@@ -1068,4 +1068,23 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 To the extent possible under law, [the
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
+[license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) for details.tails on how to contribute.
+
+
+# Code of Conduct
+
+See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+>In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+
+# License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [the
+contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
+have waived all copyright and related or neighboring rights to this work. See the
 [license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) for details.

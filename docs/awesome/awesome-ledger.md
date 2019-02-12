@@ -66,4 +66,4 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.waived all copyright and related or neighboring rights to this work.waived all copyright and related or neighboring rights to this work.

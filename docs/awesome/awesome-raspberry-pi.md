@@ -9,7 +9,6 @@
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-Contributions *very welcome* but first see [Contributing](#contributing)
 
 
 
@@ -230,6 +229,14 @@ The complete collection of (https://github.com/thibmaek/awesome-raspberry-pi/blo
 - [eLinux Hub](http://elinux.org/RPi_Hub)
 - [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
+
+### Contributing
+
+Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//CONTRIBUTING.md)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)_NDywgKXVmw)
 
 ### Contributing
 

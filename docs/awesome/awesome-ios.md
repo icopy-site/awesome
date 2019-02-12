@@ -23,25 +23,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 
     - [Extensions (https://github.com/vsouza/awesome-ios/blob/master/Xcode 8+)](https://github.com/vsouza/awesome-ios/blob/master/#extensions-xcode-8)
-    - [Themes](#themes)
-    - [Other Xcode](#other-xcode)
-- [Reference](#reference)
-- [Style Guides](#style-guides)
-- [Good Websites](#good-websites)
-    - [News, Blogs and more](#news-blogs-and-more)
-    - [UIKit references](#uikit-references)
-    - [Forums and discuss lists](#forums-and-discuss-lists)
-    - [Tutorials and Keynotes](#tutorials-and-keynotes)
-    - [Prototyping](#prototyping)
-    - [Newsletters](#newsletters)
-    - [Medium](#medium)
-- [Social Media](#social-media)
-  - [Twitter](#twitter)
-  - [Facebook Groups](#facebook-groups)
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing-and-license)
 
 
 ## Courses
@@ -703,11 +684,15 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Force Touch
 
+*Quick actions and peek and pop interactions*
+
 * [QuickActions](https://github.com/vsouza/awesome-ios/blob/master/https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (https://github.com/vsouza/awesome-ios/blob/master/App Icon Shortcuts)
 * [JustPeek](https://github.com/justeat/JustPeek) - JustPeek is an iOS Library that adds support for Force Touch-like Peek and Pop interactions on devices that do not natively support this kind of interaction.
 * [PeekView](https://github.com/itsmeichigo/PeekView) - PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility.
 
 ### iBeacon
+
+*Device detect libraries and iBeacon helpers*
 
 * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
 * [OWUProximityManager](https://github.com/ohayon/OWUProximityManager) - iBeacons + CoreBluetooth.
@@ -717,6 +702,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
 
 ### Location
+
+*Location monitoring, detect motion and geofencing libraries*
 
 * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
 * [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
@@ -1102,7 +1089,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Messaging
 
-Also see [push notifications](#push-notifications)
 
 * [LayerKit](https://github.com/vsouza/awesome-ios/blob/master/https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (https://github.com/vsouza/awesome-ios/blob/master/text, photos, videos, data) to any mobile or web application.
 * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
@@ -1469,7 +1455,6 @@ Most of these are paid services, some have free tiers.
 * [Box](https://github.com/box/box-ios-sdk) iOS + macOS SDK for the Box API.
 * [OneDrive](https://github.com/OneDrive/onedrive-sdk-ios) Live SDK for iOS.
 * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and macOS.
-* [Venmo](#payments)
 * [AWS](https://github.com/aws-amplify/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS.
 * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
 * [Adobe Creative SDK](https://www.adobe.io/apis/creativecloud/creativesdk.html) Adobe creative tools and Creative Cloud SDK.
@@ -3158,6 +3143,35 @@ CollectionView, make Instagram Discover within minutes.
 * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps
 * Awesome-swift
   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
+  * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+  * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift
+* [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
+* [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+* Awesome iOS Animation
+    * [@ameizi](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
+    * [@jzau](https://github.com/jzau/awesome-ios-animation) - Collection of Animation projects
+* [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
+* [awesome-gists](https://github.com/vsouza/awesome-ios/blob/master/https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (https://github.com/vsouza/awesome-ios/blob/master/iOS section).
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+* [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) - A list of Awesome Server Side Swift 3 projects
+* [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#ios) - A curated awesome list of lists of interview questions including iOS.
+* [iOS-Playbook](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps
+* [iOS-Learning-Materials](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+* [Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+* [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
+* [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
+* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
+* [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
+* [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Collection of popular algorithms, data structure and problem solving in Swift 4.
+* [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - List of awesome open source applications for macOS.
+* [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
+* [Top App Developers](https://github.com/app-developers/top) - A list of top iOS app developers
+
+
+## Contributing and License
+ * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
+ * Distributed under the MIT license. See LICENSE for more information.rippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
   * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift
 * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.

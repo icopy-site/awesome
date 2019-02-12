@@ -478,4 +478,12 @@ Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/ma
 
 # How to contribute?
 
+Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)b.com/bayandin/awesome-awesomeness)
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+
+# How to contribute?
+
 Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)

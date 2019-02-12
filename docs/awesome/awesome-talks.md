@@ -176,4 +176,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ## License
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)cPrwqjbGw) by **Andreas Antonopoulos** [30:15]
+
+## License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

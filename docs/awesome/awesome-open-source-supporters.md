@@ -130,4 +130,4 @@ While many companies use the public repositories feature of GitHub, Bitbucket, a
 
 ### `non-commercial`
 
-Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.ducts available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
+Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.ducts available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.ducts available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.

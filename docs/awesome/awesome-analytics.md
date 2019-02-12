@@ -4,16 +4,6 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 
 Your feedback and contributions are always welcome!
 
-- [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#general-analytics)
-    - [Heatmap analytics](#heatmap-analytics)
-    - [Analytics layers](#analytics-layers)
-    - [Mobile analytics](#mobile-analytics)
-    - [App store analytics](#app-store-analytics)
-    - [Attribution tracking](#attribution-tracking)
-    - [Social media analytics](#social-media-analytics)
-    - [Analytics dashboards](#analytics-dashboards)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
 
@@ -121,6 +111,14 @@ Often there is no clear differentiation between social media management and anal
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
+* [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
+
+# Other Awesome Lists
+- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+- Even more lists [awesome](https://github.com/sindresorhus/awesome).
+- Another list? [list](https://github.com/jnv/lists).
+- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
+- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).y metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 
 # Other Awesome Lists

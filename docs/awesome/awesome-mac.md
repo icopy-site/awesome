@@ -2,7 +2,6 @@
 
 [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
-[![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
  Now we have become very big, Different from the original idea.
 Collect premium software in various categories. Feel free to **star** and **fork**.
@@ -799,6 +798,26 @@ If you come across websites offering pirated software or cracks, please post [HE
 This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/jaywcjlove/awesome-mac/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+
+## Backers
+
+Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
+
+<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/awesome-mac#sponsor)
+
+<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).cjlove/awesome-mac/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
 
 ## Backers
 

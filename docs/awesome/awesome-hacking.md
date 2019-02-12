@@ -198,4 +198,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [SecTools](http://sectools.org/) - Top 125 Network Security Toolsry=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 
 # ETC
+ * [SecTools](http://sectools.org/) - Top 125 Network Security Toolsry=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+# ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools

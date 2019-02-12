@@ -1,6 +1,5 @@
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (https://github.com/razum2um/awesome-clojure/blob/master/IDE)](https://github.com/razum2um/awesome-clojure/blob/master/http://lighttable.com/)
   - [Nightcode (https://github.com/razum2um/awesome-clojure/blob/master/IDE)](https://github.com/razum2um/awesome-clojure/blob/master/https://sekao.net/nightcode/)
   - [Maria.cloud (https://github.com/razum2um/awesome-clojure/blob/master/Online IDE for beginners)](https://github.com/razum2um/awesome-clojure/blob/master/https://www.maria.cloud/)
@@ -18,63 +17,12 @@
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
-- [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
-- [Awesome tools in Clojure](#awesome-tools-in-clojure)
-  - [Advanced datastructures](#advanced-datastructures)
-  - [Web Framework](#web-framework)
-  - [Dependency injection](#dependency-injection)
-  - [Build Automation and Package management](#build-automation-and-package-management)
-  - [Version Control Management](#version-control-management)
-  - [Date and Time](#date-and-time)
-  - [GUI](#gui)
-  - [Audio](#audio)
-  - [HTTP](#http)
-  - [Database](#database)
-  - [Connection pools](#connection-pools)
-  - [Structural Migrations](#structural-migrations)
-  - [Redis](#redis)
-  - [JSON](#json)
-  - [ORM and SQL generation](#orm-and-sql-generation)
-  - [Security](#security)
-  - [RESTful API](#restful-api)
-  - [GraphQL API](#graphql-api)
-  - [Emails](#emails)
-  - [HTML Manipulation](#html-manipulation)
-  - [Data Validation](#data-validation)
-  - [Type System](#type-system)
-  - [Pattern Matching](#pattern-matching)
-  - [Async processing](#async-processing)
-  - [Monads](#monads)
-  - [WebSocket](#websocket)
-  - [Testing](#testing)
-  - [Webdriver automation](#webdriver-automation)
-  - [Code Analysis and Linter](#code-analysis-and-linter)
-  - [Science and Data Analysis](#science-and-data-analysis)
-  - [Machine Learning](#machine-learning)
-  - [Computer Vision](#computer-vision)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Parsing](#parsing)
-  - [Reflection](#reflection)
-  - [Editor Plugins](#editor-plugins)
-  - [Documentation](#documentation)
-  - [Literate Programming](#literate-programming)
-  - [Archives and Compression](#archives-and-compression)
-  - [Miscellaneous](#miscellaneous)
-  - [Debugging tools](#debugging)
-  - [CI](#ci)
-  - [Project Management](#project-management)
 
-- [Resources](#resources)
-  - [Guides](#guides)
-  - [Video tutorials](#video-tutorials)
-  - [Websites](#websites)
-  - [Twitter](#twitter)
-  - [Exercises](#exercises)
 
 ## Advanced datastructures
 
@@ -449,6 +397,53 @@ anylysis and visualization.*
 
   * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
   * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
+  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+  * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
+  * [Clojure for the Brave and True](http://www.braveclojure.com/)
+  * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+  * [Error message catalog](https://github.com/yogthos/clojure-error-message-catalog)
+  * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
+
+## Video tutorials
+
+### YouTube
+
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos): Understand concepts such as list comprehension, threading macros, generative testing, destructuring, core.match and introductions to Light Table, Datomic and Game development with Clojure
+  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Introductions to Functional programming and TDD with Clojure
+  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
+  * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos): More advanced videos on core.async, tranducers, transients, logic programming and a "Function of the day" series.
+
+## Websites
+
+  * [Clojure](http://clojure.org/)
+  * [Clojure Slack](http://clojurians.net/)
+  * [clojuredocs](http://clojuredocs.org)
+  * [crossclj](https://crossclj.info/)
+  * [clojure-doc](http://clojure-doc.org/)
+  * [Grimoire](http://conj.io/)
+  * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
+  * [InstaREPL Online](http://web.clojurerepl.com/)
+  * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
+  * [Try Clojure](http://www.tryclj.com/)
+
+## Twitter
+
+  * [oss_clj](https://twitter.com/oss_clj)
+
+## Exercises
+
+  * [Clojure Koans](http://clojurekoans.com)
+  * [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
+  * [Clojure Katas](http://clojurekatas.org)
+  * [4clojure](http://www.4clojure.com/)
+  * [exercism.io](http://exercism.io/languages/clojure)
+  * [Clojurecademy](https://clojurecademy.com)
+  * [Codewars](https://www.codewars.com/kata/search/clojure)
+
+## Project Management
+  
+  * [milestones](https://github.com/turbopape/milestones))
   * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)

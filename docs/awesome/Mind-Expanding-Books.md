@@ -484,4 +484,10 @@ To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has waived all copyright and related or neighboring rights to this work.l) for building the framework for maintaining the list.
+* All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
+
+## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has waived all copyright and related or neighboring rights to this work.

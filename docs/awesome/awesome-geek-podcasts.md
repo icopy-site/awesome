@@ -8,26 +8,9 @@ A curated list of podcasts we like to listen to.
 
 ## Podcasts by language
 
-- [English](#in-english)
-- [Portuguese](#in-portuguese)
-- [Spanish](#in-spanish)
-- [Russian](#in-russian)
-- [Persian](#in-persian)
-- [Swedish](#in-swedish)
-- [French](#in-french)
-- [German](#in-german)
-- [Chinese](#in-chinese)
-- [Polish](#in-polish)
-- [Turkish](#in-turkish)
-- [Finnish](#in-finnish)
-- [Japanese](#in-japanese)
-- [Bahasa Indonesia](#in-bahasa-indonesia)
-- [Dutch](#in-dutch)
 
 ## Other information
 
-- [Tooling](#tooling)
-- [More](#more)
 
 ## In English
 
@@ -342,6 +325,13 @@ A curated list of podcasts we like to listen to.
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 * [AntennaPod](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/http://antennapod.org) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
 * [Soundwaves](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://github.com/bottiger/SoundWaves) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
+* [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
+* [gPodder](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.github.io) / [gPodder Director](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
+* [RadioPublic](https://radiopublic.com/)
+
+### More
+
+See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CONTRIBUTING.md) for info on how to contribute to this list.hub.com/guipdutra/awesome-geek-podcasts/blob/master/https://github.com/bottiger/SoundWaves) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.github.io) / [gPodder Director](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](https://radiopublic.com/)

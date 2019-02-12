@@ -92,4 +92,6 @@ We welcome [suggestions](https://github.com/mmcgrana/services-engineering/blob/m
 * [Surge](http://surge.omniti.com/)
 * [Velocity](http://velocityconf.com/)tp://ricon.io/)
 * [Surge](http://surge.omniti.com/)
+* [Velocity](http://velocityconf.com/)tp://ricon.io/)
+* [Surge](http://surge.omniti.com/)
 * [Velocity](http://velocityconf.com/)

@@ -204,4 +204,6 @@
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
+- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
+- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)

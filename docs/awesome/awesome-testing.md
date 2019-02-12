@@ -98,4 +98,5 @@ To the extent possible under law, [the
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.e the
+[license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.e the
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.

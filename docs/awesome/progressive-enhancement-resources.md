@@ -145,4 +145,6 @@ Asynchronously fetch and transition between static pages using ajax and `history
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.the extent allowed by law.
 
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.the extent allowed by law.
+
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.

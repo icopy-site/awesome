@@ -208,4 +208,6 @@ To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabel
 [linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
 [windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'png 'Apple'
 [linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
+[windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'png 'Apple'
+[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
 [windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'

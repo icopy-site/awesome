@@ -5,7 +5,6 @@
 
 > Curated list of Mastodon-related stuff!
 
-**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
 
 
 
@@ -133,6 +132,15 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
 * [@korbenbot@mastodon.xyz](https://github.com/tleb/awesome-mastodon/blob/master/https://mastodon.xyz/@korbenbot) - Korben (https://github.com/tleb/awesome-mastodon/blob/master/bot).
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
+
+## Libraries
+
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+* [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
+
+## Hosting
+
+* [Masto.host](https://masto.host) - Fully managed Mastodon hosting.s.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
 ## Libraries
 

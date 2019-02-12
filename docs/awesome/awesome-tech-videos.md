@@ -158,4 +158,6 @@ really know what they are doing :)
 
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.1.0/)
 
+To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.1.0/)
+
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.

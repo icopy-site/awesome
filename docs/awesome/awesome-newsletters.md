@@ -11,59 +11,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 
-- [Frontend](#frontend)
-  - [General Web Development](#general-web-development)
-  - [JavaScript](#javascript)
-    - [React](#react)
-    - [AngularJS](#angularjs)
-    - [EmberJS](#emberjs)
-    - [VueJS](#vuejs)
-  - [Data Visualization](#data-visualization)
-  - [CSS](#css)
-  - [Design](#design)
-  - [HTML5](#html5)
-  - [SVG](#svg)
-- [Programming](#programming)
-  - [Common Section](#common-section)
-  - [ObjectiveC](#objectivec)
-  - [C#](#c)
-  - [Node.js](#nodejs)
-  - [Swift](#swift)
-  - [Go](#go)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Groovy](#groovy)
-  - [Perl](#perl)
-  - [Elixir](#elixir)
-  - [Clojure](#clojure)
-  - [Haskell](#haskell)
-  - [Elm](#elm)
-  - [Rust](#rust)
-  - [C++](#c)
-  - [Scala](#scala)
-  - [Java](#java)
-  - [Kotlin](#kotlin)
-- [Editors](#editors)
-  - [Vim](#vim)
-- [Databases](#databases)
-  - [PostgreSQL](#postgresql)
-  - [MySQL](#mysql)
-  - [Redis](#redis)
-  - [NoSQL](#nosql)
-- [Backend Development](#backend-development)
-  - [Docker](#docker)
-  - [Devops](#devops)
-  - [Cloud Development](#cloud-development)
-  - [Kubernetes](#kubernetes)
-- [Mobile](#mobile)
-- [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
-- [Technology in General](#technology-in-general)
-- [Business/Finance](#businessfinance)
-- [Awesome news](#awesome-news)
-- [Etc.](#etc)
-- [License](#license)
 
 ## Frontend
 * [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
@@ -342,6 +289,22 @@ every Sunday in the form of the DevOps newsletter.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
+* [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
+* [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
+* [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
+* [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
+* [Security Newsletter](https://securitynewsletter.co/). Weekly e-mail with the latest security news on Thursday or Friday.
+* [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
+* [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
+* [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
+
+
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dmitry Zudochkin](https://github.com/zudochkin) has waived all copyright and related or neighboring rights to this work.A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 * [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
 * [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.

@@ -155,4 +155,8 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ## License
 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)CONTRIBUTING.md) first.
+
+## License
+
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

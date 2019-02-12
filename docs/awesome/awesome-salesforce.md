@@ -318,4 +318,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 
 ## License
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)iles-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
+
+
+## License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

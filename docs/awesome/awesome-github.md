@@ -7,10 +7,6 @@ Think GitHub is awesome? Contribute something to this list! It's easy, just have
 
 The awesomeness is currently organized into just a few different buckets: 
 
-* [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
-* [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
-* [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
-* [Novel uses of GitHub](#novel-uses-of-github)
 
 What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
 
@@ -92,6 +88,10 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 - [Mozilla Festival](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
+- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
+- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
+- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
+- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. th to a free self-taught education in Computer Science.
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.

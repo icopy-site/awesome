@@ -105,4 +105,5 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 # Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.ob/master/.github/CONTRIBUTING.md)
+* Distributed under the MIT license. See LICENSE for more information.ob/master/.github/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.

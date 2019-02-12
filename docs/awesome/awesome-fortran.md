@@ -1,27 +1,6 @@
 # Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
 A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
 
-- [Awesome Fortran](#awesome-fortran)
-	- [Functional Libraries](#functional-libraries)
-	- [Graphics Libraries](#graphics-libraries)
-	- [Math libs](#math-libs)
-	- [JSON Manipulation](#json-manipulation)
-	- [XML Manipulation](#xml-manipulation)
-	- [Date and time manipulation](#date-and-time-manipulation)
-	- [Testing](#testing)
-	- [Encoding-Decoding](#encoding-decoding)
-  - [Portability enabling](#portability-enabling)
-  - [Command-Line parsing](#command-line-parsing)
-  - [Compiling and building](#compiling-and-building)
-  - [Preprocessor](#preprocessor)
-  - [Automatic documentation](#automatic-documentation)
-  - [Computational Fluid Dynamics](#computational-fluid-dynamics)
-  - [Docker](#docker)
-- [Resources](#resources)
-  - [Fortran Websites](#fortran-websites)
-	- [Fortran Videos](#fortran-videos)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Functional Libraries
 * [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
@@ -118,6 +97,24 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.
+
+## Fortran Websites
+
+* [The Fortran Company](http://www.fortran.com/) - A home page of FORTRAN programming language.
+* [Fortran Dev](https://fortrandev.wordpress.com/) - Fortran development blog.
+* [Fortran WIKI](http://fortranwiki.org/fortran/show/HomePage) - An open venue for discussing all aspects of the Fortran programming language and scientific computing.
+
+## Fortran Videos
+
+* [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+# Contributing
+
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.uch as books, websites and articles, for improving your Fortran development skills and knowledge.
 
 ## Fortran Websites
 

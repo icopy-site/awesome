@@ -350,4 +350,15 @@ Feel free to dive in! Open an issue or submit PRs.
 
 Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
+**}**sotayamashita], [@troxler][troxler], [@Rishabh04-02][Rishabh04-02] and You!
+
+
+## Contribute
+
+[contributor-covenant]: https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
+
+Feel free to dive in! Open an issue or submit PRs.
+
+Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
+
 **}**

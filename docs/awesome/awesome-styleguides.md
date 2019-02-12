@@ -169,4 +169,6 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.icdomain/zero/1.0/)
 
+To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.icdomain/zero/1.0/)
+
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.

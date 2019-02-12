@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
-> A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -100,5 +99,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.g/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.arkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.

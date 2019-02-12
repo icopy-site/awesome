@@ -241,4 +241,6 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 
 To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.

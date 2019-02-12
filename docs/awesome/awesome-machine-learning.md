@@ -22,122 +22,11 @@ Further resources:
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [APL](#apl)
-    - [General-Purpose Machine Learning](#apl-general-purpose)
-- [C](#c)
-    - [General-Purpose Machine Learning](#c-general-purpose)
-    - [Computer Vision](#c-cv)
-- [C++](#cpp)
-    - [Computer Vision](#cpp-cv)
-    - [General-Purpose Machine Learning](#cpp-general-purpose)
-    - [Natural Language Processing](#cpp-nlp)
-    - [Speech Recognition](#speech-recognition-1)
-    - [Sequence Analysis](#cpp-sequence)
-    - [Gesture Recognition](#cpp-gestures)
-- [Common Lisp](#common-lisp)
-    - [General-Purpose Machine Learning](#common-lisp-general-purpose)
-- [Clojure](#clojure)
-    - [Natural Language Processing](#clojure-nlp)
-    - [General-Purpose Machine Learning](#clojure-general-purpose)
-    - [Data Analysis / Data Visualization](#clojure-data-analysis)
-- [Crystal](#crystal)
-    - [General-Purpose Machine Learning](#crystal-general-purpose)
-- [Elixir](#elixir)
-    - [General-Purpose Machine Learning](#elixir-general-purpose)
-    - [Natural Language Processing](#elixir-nlp)
-- [Erlang](#erlang)
-    - [General-Purpose Machine Learning](#erlang-general-purpose)
-- [Go](#go)
-    - [Natural Language Processing](#go-nlp)
-    - [General-Purpose Machine Learning](#go-general-purpose)
-    - [Data Analysis / Data Visualization](#go-data-analysis)
-    - [Facial Detection and Recognition](#go-facial-recognition)
-    - [Image Classification](#go-image-classification)
-- [Haskell](#haskell)
-    - [General-Purpose Machine Learning](#haskell-general-purpose)
-- [Java](#java)
-    - [Natural Language Processing](#java-nlp)
-    - [General-Purpose Machine Learning](#java-general-purpose)
-    - [Speech Recognition](#java-speech-recognition)
-    - [Data Analysis / Data Visualization](#java-data-analysis)
-    - [Deep Learning](#java-deep-learning)
-- [Javascript](#javascript)
-    - [Natural Language Processing](#javascript-nlp)
-    - [Data Analysis / Data Visualization](#javascript-data-analysis)
-    - [General-Purpose Machine Learning](#javascript-general-purpose)
-    - [Misc](#javascript-misc)
-    - [Demos and Scripts](#javascript-demos)
-- [Julia](#julia)
-    - [General-Purpose Machine Learning](#julia-general-purpose)
-    - [Natural Language Processing](#julia-nlp)
-    - [Data Analysis / Data Visualization](#julia-data-analysis)
-    - [Misc Stuff / Presentations](#julia-misc)
-- [Lua](#lua)
-    - [General-Purpose Machine Learning](#lua-general-purpose)
-    - [Demos and Scripts](#lua-demos)
-- [Matlab](#matlab)
-    - [Computer Vision](#matlab-cv)
-    - [Natural Language Processing](#matlab-nlp)
-    - [General-Purpose Machine Learning](#matlab-general-purpose)
-    - [Data Analysis / Data Visualization](#matlab-data-analysis)
-- [.NET](#net)
-    - [Computer Vision](#net-cv)
-    - [Natural Language Processing](#net-nlp)
-    - [General-Purpose Machine Learning](#net-general-purpose)
-    - [Data Analysis / Data Visualization](#net-data-analysis)
-- [Objective C](#objectivec)
-    - [General-Purpose Machine Learning](#objectivec-general-purpose)
-- [OCaml](#ocaml)
-    - [General-Purpose Machine Learning](#ocaml-general-purpose)
-- [Perl](#perl)
-    - [Data Analysis / Data Visualization](#perl-data)
-	- [General-Purpose Machine Learning](#perl-ml)
-- [Perl 6](#perl6)
-- [PHP](#php)
-    - [Natural Language Processing](#php-nlp)
-    - [General-Purpose Machine Learning](#php-general-purpose)
-- [Python](#python)
-    - [Computer Vision](#python-cv)
-    - [Natural Language Processing](#python-nlp)
-    - [General-Purpose Machine Learning](#python-general-purpose)
-    - [Data Analysis / Data Visualization](#python-data-analysis)
-    - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
-    - [Kaggle Competition Source Code](#python-kaggle)
-    - [Neural Networks](#python-neural-networks)
-    - [Reinforcement Learning](#python-reinforcement-learning)
-- [Ruby](#ruby)
-    - [Natural Language Processing](#ruby-nlp)
-    - [General-Purpose Machine Learning](#ruby-general-purpose)
-    - [Data Analysis / Data Visualization](#ruby-data-analysis)
-    - [Misc](#ruby-misc)
-- [Rust](#rust)
-    - [General-Purpose Machine Learning](#rust-general-purpose)
-- [R](#r)
-    - [General-Purpose Machine Learning](#r-general-purpose)
-    - [Data Analysis / Data Visualization](#r-data-analysis)
-- [SAS](#sas)
-    - [General-Purpose Machine Learning](#sas-general-purpose)
-    - [Data Analysis / Data Visualization](#sas-data-analysis)
-    - [Natural Language Processing](#sas-nlp)
-写个脚本把它们爬下来 - [Demos and Scripts](#sas-demos)
-- [Scala](#scala)
-    - [Natural Language Processing](#scala-nlp)
-    - [Data Analysis / Data Visualization](#scala-data-analysis)
-    - [General-Purpose Machine Learning](#scala-general-purpose)
-- [Scheme](#scheme)
-    - [Neural Networks](#scheme-neural-networks)
-- [Swift](#swift)
-    - [General-Purpose Machine Learning](#swift-general-purpose)
-- [TensorFlow](#tensor)
-    - [General-Purpose Machine Learning](#tensor-general-purpose)
 
 ### Tools
 
-- [Neural Networks](#tools-neural-networks)
-- [Misc](#tools-misc)
 
 
-[Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -1355,6 +1244,83 @@ be
 * [MLlib in Apache Spark](https://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 * [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading.
+* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm.
+* [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
+* [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala. **[Deprecated]**
+* [PredictionIO](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for software developers and data engineers.
+* [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
+* [Flink](https://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
+* [Spark Notebook](http://spark-notebook.io) - Interactive and Reactive Data Science using Scala and Spark.
+
+<a name="scala-general-purpose"></a>
+#### General-Purpose Machine Learning
+
+* [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
+* [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
+* [brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
+* [ganitha](https://github.com/tresata/ganitha) - Scalding powered machine learning. **[Deprecated]**
+* [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+* [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+* [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+* [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+* [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Distributed machine learning library in Flink.
+* [DynaML](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research.
+* [Saul](https://github.com/CogComp/saul) - Flexible Declarative Learning-Based Programming.
+* [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
+* [Smile](https://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine.
+* [doddle-model](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+
+<a name="scheme"></a>
+## Scheme
+
+<a name="scheme-neural-networks"></a>
+#### Neural Networks
+
+* [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line, implemented in [CHICKEN Scheme](https://www.call-cc.org/).
+
+<a name="swift"></a>
+## Swift
+
+<a name="swift-general-purpose"></a>
+#### General-Purpose Machine Learning
+
+* [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
+* [Swift AI](https://github.com/Swift-AI/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
+* [BrainCore](https://github.com/alejandro-isaza/BrainCore) - The iOS and OS X neural network framework.
+* [swix](https://github.com/stsievert/swix) - A bare bones library that includes a general matrix language and wraps some OpenCV for iOS development. **[Deprecated]**
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+* [MLKit](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
+* [Swift Brain](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
+* [Perfect TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
+* [PredictionBuilder](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
+* [Awesome CoreML](https://github.com/SwiftBrain/awesome-CoreML-models) - A curated list of pretrained CoreML models.
+* [Awesome Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+
+<a name="tensor"></a>
+## TensorFlow
+
+<a name="tensor-general-purpose"></a>
+#### General-Purpose Machine Learning
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
+
+<a name="tools"></a>
+## Tools
+
+<a name="tools-neural-networks"></a>
+#### Neural Networks
+* [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line
+
+<a name="tools-misc"></a>
+#### Misc
+* [Notebooks](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+* [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+
+<a name="credits"></a>
+## Credits
+
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
+* The few go reference I found where pulled from [this page](https://github.com/golang/go/wiki/Projects)ps://github.com/twitter/scalding) - A Scala API for Cascading.
 * [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm.
 * [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
 * [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala. **[Deprecated]**

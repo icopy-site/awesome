@@ -1613,7 +1613,6 @@ Please see [this file](https://github.com/herrbischoff/awesome-macos-command-lin
 ### LaunchServices
 
 #### Rebuild LaunchServices Database
-To be independent of OS X version, this relies on `locate` to find `lsregister`. If you do not have your `locate` database built yet, [do it](#build-locate-database).
 ```bash
 sudo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/locate lsregister) -kill -seed -r
 ```
@@ -1922,6 +1921,17 @@ Mac OS X 10.5              | Leopard            | October 26, 2007   | 10.5.8 (h
 Mac OS X 10.6              | Snow Leopard       | August 28, 2009    | 10.6.8 v1.1 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 25, 2011)
 Mac OS X 10.7              | Lion               | July 20, 2011      | 10.7.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 19, 2012)
 OS X 10.8                  | Mountain Lion      | July 25, 2012      | 10.8.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2013)
+OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
+OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
+OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)
+macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 19, 2017)
+macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 9, 2018)
+macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
+
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.      | Mountain Lion      | July 25, 2012      | 10.8.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2013)
 OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
 OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
 OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)

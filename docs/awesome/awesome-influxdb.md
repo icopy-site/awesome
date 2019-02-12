@@ -224,4 +224,6 @@ Projects that don't seem to fit in any other category.
 
 To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.et/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.et/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.

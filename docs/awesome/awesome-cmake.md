@@ -205,4 +205,7 @@ This is released under the [**```Creative Commons Attribution 4.0 International`
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/://opensource.org/licenses/BSD-3-Clause
 [APACHE2]: http://www.apache.org/licenses/LICENSE-2.0
 [CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
+[MPL]: https://www.mozilla.org/en-US/MPL/2.0/://opensource.org/licenses/BSD-3-Clause
+[APACHE2]: http://www.apache.org/licenses/LICENSE-2.0
+[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/

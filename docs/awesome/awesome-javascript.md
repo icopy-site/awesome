@@ -2,74 +2,8 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-* [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Loaders](#loaders)
-  * [Bundlers](#bundlers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  * [Templating Engines](#templating-engines)
-  * [Articles/Posts](#articles-and-posts)
-  * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
-  * [Editors](#editors)
-  * [Documentation](#documentation)
   * Utilities
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#media)
-    * [Voice Command](#voice-command)
-    * [API](#api)
-    * [Streaming](#streaming)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
-    * [Benchmark](#benchmark)
-    * [Machine Learning](#machine-learning)
   * UI
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-    * [Boilerplates](#boilerplates)
-  * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Typography](#typography)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
-  * [ES6](#es6)
-  * [SDK](#sdk)
-  * [Misc](#misc)
-  * [Podcasts](#podcasts)
-* [Worth Reading](#worth-reading)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing](#contributing)
 
 ----
 
@@ -885,11 +819,52 @@ http://www.listjs.com
 * [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://sdras.github.io/object-explorer/) - Resources to help figure out what native JavaScript method would be best to use at any given time
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
+* [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 * [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
+
+# Worth Reading
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
+* [JSbooks](https://github.com/revolunet/JSbooks)
+* [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
+* [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
+
+
+# Other Awesome Lists
+* [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [jnv/list](https://github.com/jnv/lists)
+* [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
+* [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
+* [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
+* [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
+* [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
+* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+* [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+* [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+* [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
+* [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
+* [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
+* [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+# Contributing
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/sorrycc/awesome-javascript/blob/master/CONTRIBUTING.md) first.
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.t.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.

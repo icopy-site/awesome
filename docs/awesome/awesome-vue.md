@@ -9,162 +9,6 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Job Portal](#job-portal)
-    - [Community](#community)
-    - [Conferences](#conferences)
-    - [Podcasts](#podcasts)
-    - [Youtube Channels](#youtube-channels)
-    - [Official Examples](#official-examples)
-    - [Tutorials](#tutorials)
-    - [Examples](#examples)
-    - [Books](#books)
-    - [Blog Posts](#blog-posts)
-- [Projects Using Vue.js](#projects-using-vuejs)
-  - [Open Source](#open-source)
-  - [Commercial Products](#commercial-products)
-  - [Apps/Websites](#appswebsites)
-  - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
-  - [A11y](#a11y)
-- [Components & Libraries](#components--libraries)
-  - [UI Components](#ui-components)
-    - [Table](#table)
-    - [Notification](#notification)
-    - [Loader](#loader)
-      - [Progress Bar](#progress-bar)
-    - [Tooltip](#tooltip)
-    - [Overlay](#overlay)
-    - [Parallax](#parallax)
-    - [Icons](#icons)
-    - [Menu](#menu)
-    - [Minus Plus Input](#minus-plus-input)
-    - [Carousel](#carousel)
-    - [Charts](#charts)
-    - [Time](#time)
-    - [Calendar](#calendar)
-    - [Map](#map)
-    - [Audio / Video](#audio--video)
-    - [Infinite Scroll](#infinite-scroll)
-    - [Pull-to-refresh](#pull-to-refresh)
-    - [Markdown](#markdown)
-    - [PDF](#pdf)
-    - [Tree](#tree)
-    - [Social Sharing](#social-sharing)
-    - [QR Code](#qr-code)
-    - [Search](#search)
-    - [Miscellaneous](#miscellaneous)
-    - [Tabs](#tabs)
-    - [Form](#form)
-      - [Picker](#picker)
-      - [Generator](#generator)
-        - [Date Picker](#date-picker)
-      - [Select](#select)
-      - [Slider](#slider)
-      - [Drag and Drop](#drag-and-drop)
-      - [Autocomplete](#autocomplete)
-      - [Type Select](#type-select)
-      - [Color Picker](#color-picker)
-      - [Switch](#switch)
-      - [Masked Input](#masked-input)
-      - [Rich Text Editing](#rich-text-editing)
-      - [Image Manipulation](#image-manipulation)
-      - [Video Manipulation](#video-manipulation)
-      - [File Upload](#file-upload)
-      - [Context Menu](#context-menu)
-      - [Miscellaneous](#miscellaneous-1)
-      - [Wizard](#wizard)
-      - [CSV](#csv)
-      - [Comment System](#comment-system)
-    - [Canvas](#canvas)
-    - [Link Preview](#link-preview)
-    - [Tour](#tour)
-  - [UI Layout](#ui-layout)
-  - [Frameworks](#frameworks)
-    - [Responsive](#responsive)
-    - [Mobile](#mobile)
-    - [Component Collections](#component-collections)
-    - [Admin Template](#admin-template)
-    - [Server-side rendering](#server-side-rendering)
-    - [Static website generator](#static-website-generator)
-    - [Other](#other)
-  - [UI Utilities](#ui-utilities)
-    - [Event Handling](#event-handling)
-    - [Responsive Design](#responsive-design)
-    - [Form](#form-1)
-      - [Validation](#validation)
-    - [Resize](#resize)
-    - [Scroll](#scroll)
-    - [Routing](#routing)
-    - [Lazy Load](#lazy-load)
-    - [Pagination](#pagination)
-    - [Animation](#animation)
-    - [Meta Tags](#meta-tags)
-    - [Portal](#portal)
-    - [Filters](#filters)
-    - [SVG](#svg)
-    - [Miscellaneous](#miscellaneous-2)
-    - [WebGL](#webgl)
-    - [Fullscreen](#fullscreen)
-    - [Page visibility](#page-visibility)
-    - [Printing](#printing)
-  - [Utilities](#utilities)
-    - [Typescript](#typescript)
-    - [HTTP Requests](#http-requests)
-    - [i18n](#i18n)
-    - [Custom Events](#custom-events)
-    - [Persistence](#persistence)
-    - [State Management](#state-management)
-      - [Redux](#redux)
-      - [Mobx](#mobx)
-      - [Authentication/Authorization](#authenticationauthorization)
-      - [Vuex Utilities](#vuex-utilities)
-          - [Sync Between Tabs](#sync-between-tabs)
-    - [GraphQL](#graphql)
-    - [Concurrency Management](#concurrency-management)
-    - [Code Style](#code-style)
-    - [CSS](#css)
-    - [Asset Management](#asset-management)
-    - [Page Navigation](#page-navigation)
-    - [Miscellaneous](#miscellaneous-3)
-    - [Web Workers](#web-workers)
-    - [JSX](#jsx)
-    - [Migration](#migration)
-    - [Web Sockets](#web-sockets)
-    - [Payment](#payment)
-        - [Stripe](#stripe)
-        - [Paypal](#paypal)
-        - [Plaid](#plaid)
-  - [Integrations](#integrations)
-    - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
-        - [Google Analytics](#google-analytics)
-        - [Yandex Metrika](#yandex-metrika)
-  - [Dev Tools](#dev-tools)
-    - [Inspect](#inspect)
-    - [Docs](#docs)
-    - [Test](#test)
-          - [Browser-less require](#browser-less-require)
-    - [Source Code Editing](#source-code-editing)
-      - [Atom](#atom)
-      - [Sublime Text](#sublime-text)
-      - [Vim](#vim)
-      - [Visual Studio Code](#visual-studio-code)
-      - [Visual Studio](#visual-studio)
-      - [Brackets](#brackets)
-      - [Intellij](#intellij)
-      - [Emacs](#emacs)
-      - [Kate](#kate)
-  - [Scaffold](#scaffold)
-    - [Client](#client)
-    - [Universal](#universal)
-    - [Server](#server)
-    - [Electron](#electron)
-    - [Parts](#parts)
-  - [Runtime](#runtime)
-    - [Command Line / Terminal](#command-line--terminal)
-  - [Prerendering](#prerendering)
 
 
 
@@ -2644,6 +2488,76 @@ Payment utilities.
  - [Vuets](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
  - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
  - [Friendly Vue Starter](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (https://github.com/vuejs/awesome-vue/blob/master/Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
+ - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
+ - [vue-ts-amd](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (https://github.com/vuejs/awesome-vue/blob/master/RequireJS) and Typescript.
+ - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
+ - [layout](https://github.com/ktquez/layout) - A full-featured Webpack + Vue Extend layout
+ - [layout-simple](https://github.com/ktquez/layout-simple) - A simple Webpack + Vue Extend layout
+ - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) - Template for developing open-source vue.js libraries with Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease.
+ - [vue-cli-template-github-pages](https://github.com/julon/vue-cli-template-github-pages) - A full-featured Webpack + vue-loader setup for Github Pages Deployment with travisCI.
+ - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - Template for quick creation of Chrome extension on Vuejs hot reloading when developing.
+ - [buildless-vue](https://github.com/Botre/buildless-vue) - Quickly use Vue without a build step.
+ - [vue-component-template](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (https://github.com/vuejs/awesome-vue/blob/master/with docs/demo site).
+
+### Universal
+
+*Render Vue application to HTML on the server and to the DOM in the browser*
+
+ - [SPA Starter Kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js.
+ - [SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex.
+ - [neutrino-preset-vue-static](https://github.com/shyiko/neutrino-preset-vue-static) - A minimalistic starter kit for building static sites using Vue.js.
+ - [Vueniverse](https://github.com/rlindskog/vueniverse) - A fully featured, universal Vue template for user-based applications, powered by Nuxt.js and Express.
+ - [vue-preload](https://github.com/shershen08/vue-preload) - A plugin Vue for adding `<link rel="preload"` capabilities
+
+### Server
+
+*Includes a backend boilerplate*
+
+ - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme) - Single page apps with Laravel, Vue.js, and October CMS.
+ - [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
+ - [vue-server-demo](https://github.com/fritx/vue-server-demo) - Writing koa server in Vue.
+ - [vue-apollo-connector-kit](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/ecerroni/apollo-connector-kit) - JWT authentication with 2 different strategies (https://github.com/vuejs/awesome-vue/blob/master/localStorage and httpOnly cookies). Authorization using custom directives (https://github.com/vuejs/awesome-vue/blob/master/apollo).
+ - [DotVue](https://github.com/mbdavid/DotVue) - Implement .vue file handler in .NET with server ViewModel postback. Single-file components with server-side ViewModel. Use all power of VueJS with simple C# server side data access.
+
+### Electron
+
+ - [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+ - [VuePack](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (https://github.com/vuejs/awesome-vue/blob/master/and even Electron).
+ - [vue-flexible-link](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (https://github.com/vuejs/awesome-vue/blob/master/Web & Native)
+ - [vuelectron](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.
+ - [vue-design](https://github.com/L-Chris/vue-design) - the best website visualization builder with Vue and Electron.
+ - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - A Vue Cli 3 plugin for Electron with no required configuration that uses [Electron Builder](https://www.electron.build/) and [Electron Webpack](https://webpack.electron.build/).
+ - [dapp](https://github.com/fritx/dapp) - Boilerplate for stack of Vue/Parcel/Electron.
+ - [vue-electron-template](https://github.com/mubaidr/vue-electron-template) - An Electron & Vue.js boilerplate with Hot-reloading enabled and common Vue plugins, dev and build scripts configured using webpack-4
+
+### Parts
+
+*Scaffold parts of the app*
+
+ - [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
+ - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for vue component, supports Vue1.X and Vue2.X.
+ - [rapydml_cmp](https://github.com/valq7711/rapydml_cmp) - Vue-component pythonic generator, built on top of RapydML & RapydScript.
+ - [vue-authoring-template](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/DrSensor/vue-authoring-template) - Template for authoring also publishing Vue component and their use case in story-scenario (https://github.com/vuejs/awesome-vue/blob/master/storybook) format in easy way.
+ - [vue-component-boilerplate](https://github.com/codetheorist/vue-component-boilerplate) - Template for generating the boilerplate code for a VueJS components, with build scripts and testing pre-installed.
+ - [vue-generate-component-typescript](https://github.com/Kamar-Meddah/vue-generate-component-typescript) - A typescript code generator for vue, it can generate components, directives, filters.
+
+## Runtime
+
+### Command Line / Terminal
+ - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
+
+## Prerendering
+ - [react-snap](https://github.com/stereobooster/react-snap) - A zero-configuration static pre-renderer for SPA
+ - [prerender-plugin](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/mubaidr/prerender-plugin) - A Node.js/ webpack plugin to prerender static HTML in a single-page application (https://github.com/vuejs/awesome-vue/blob/master/SPA).
+ - [vue-prerender](https://github.com/eldarc/vue-prerender) - A Vue.js tailored plugin which implements three strategies for prerendering Vue.js pages using headless chrome.
+ - [Rendora](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/rendora/rendora) - dynamic SSR (https://github.com/vuejs/awesome-vue/blob/master/server-side rendering) using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
+
+
+<br/>
+<br/>
+<br/>
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)/github.com/vuejs/awesome-vue/blob/master/https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (https://github.com/vuejs/awesome-vue/blob/master/Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
  - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
  - [vue-ts-amd](https://github.com/vuejs/awesome-vue/blob/master/https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (https://github.com/vuejs/awesome-vue/blob/master/RequireJS) and Typescript.
  - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)

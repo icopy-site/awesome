@@ -147,4 +147,7 @@
 - [Superluminar](https://superluminar.io) - Agency.cy.
 - [OneSpeed](https://onespeed.io) - Agency.
 - [Seraro](http://www.seraro.com) - Agency.
+- [Superluminar](https://superluminar.io) - Agency.cy.
+- [OneSpeed](https://onespeed.io) - Agency.
+- [Seraro](http://www.seraro.com) - Agency.
 - [Superluminar](https://superluminar.io) - Agency.

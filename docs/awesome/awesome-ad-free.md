@@ -151,4 +151,8 @@ These business don't advertise yet are successful.
 
 ## License
 
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)here was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
+
+## License
+
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

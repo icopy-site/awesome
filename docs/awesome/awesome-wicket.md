@@ -114,7 +114,6 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Wicketopia](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/jwcarman/Wicketopia) - Rapid Application Development (https://github.com/PhantomYdn/awesome-wicket/blob/master/RAD) library for the Wicket.
 
 ## Solutions
-End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
@@ -129,6 +128,10 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
 - [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
+
+# License
+
+ [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)to assist developers creating applications using Apache Wicket.
 
 # License
 

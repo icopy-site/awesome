@@ -15,7 +15,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
-- [Other resources](#resources)
 
 ## Apps
 
@@ -268,6 +267,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 Contributions are always welcome!
 Please read the [contribution guidelines](https://github.com/springload/awesome-wagtail/blob/master/.github/CONTRIBUTING.md) first.
 
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

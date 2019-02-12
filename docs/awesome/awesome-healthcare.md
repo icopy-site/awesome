@@ -152,4 +152,4 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 
 ### Compliance
-* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.ompliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.ompliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.ompliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.

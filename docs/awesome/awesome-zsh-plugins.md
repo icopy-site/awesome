@@ -1152,4 +1152,27 @@ Find other useful awesome-* lists at the [awesome collection](https://github.com
 
 ### Other References
 
+The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.g `zplug "githubuser/reponame"` to your `.zshrc` file.
+
+## Writing New Plugins
+
+I've documented some recommendations for writing a new plugin [here](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins.md).
+
+## Other Resources
+
+### ZSH Tools
+
+* [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger
+* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+
+### Other Useful Lists
+
+* [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
+* [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
+
+Find other useful awesome-* lists at the [awesome collection](https://github.com/sindresorhus/awesome)
+
+### Other References
+
 The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.

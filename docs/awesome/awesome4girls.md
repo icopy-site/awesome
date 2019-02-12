@@ -550,4 +550,11 @@ This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoli
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 (https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
 
+This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://github.com/cristianoliveira/awesome4girls/blob/master/https://creativecommons.org/publicdomain/zero/1.0/)gender gap.
+
+----
+
+# License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
+
 This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://github.com/cristianoliveira/awesome4girls/blob/master/https://creativecommons.org/publicdomain/zero/1.0/)

@@ -327,4 +327,12 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 
 ---
 
+Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTube.bauer has waived all copyright and related or neighboring rights to this work.
+
+---
+
+Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs!
+
+---
+
 Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTube.

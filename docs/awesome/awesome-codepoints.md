@@ -212,4 +212,6 @@ contributors](https://github.com/Codepoints/awesome-codepoints/graphs/contributo
 have waived all copyright and related or neighboring rights to this work. See
 [the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.odepoints/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See
+[the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.odepoints/graphs/contributors)
+have waived all copyright and related or neighboring rights to this work. See
 [the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.

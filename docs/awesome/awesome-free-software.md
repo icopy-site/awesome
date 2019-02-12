@@ -251,4 +251,9 @@
 
 ## License
 
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)tephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+
+## License
+
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

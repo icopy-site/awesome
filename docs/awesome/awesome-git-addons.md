@@ -1860,4 +1860,51 @@ $ git signatures show v1.0.0
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.ttps://github.com/stevemao/awesome-git-addons/blob/master/4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), done.
+Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), 906 bytes | 906.00 KiB/s, done.
+Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 1), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+To git@github.com:jsmith/test-signatures
+   4b5300d..5b1f2cd  refs/notes/signatures -> refs/notes/signatures
+ + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (https://github.com/stevemao/awesome-git-addons/blob/master/forced update)
+```
+
+
+### signatures verify
+
+```
+$ git signatures verify v1.0.0
+```
+
+
+### signatures verify --min-count 2
+
+```
+$ git signatures verify --min-count 2 v1.0.0
+Failed to find enough verified signatures to satisfy: min_count=2
+
+Signature verification could fail simply because your local gnupg
+keychain and trustdb does not contain the required keys.
+
+For detailed signature status run:
+
+> git signatures show
+```
+
+
+### signatures show
+
+```
+$ git signatures show v1.0.0
+ Public Key ID    | Status     | Trust     | Date                         | Signer Name
+=======================================================================================================================
+01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
+ ```
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.

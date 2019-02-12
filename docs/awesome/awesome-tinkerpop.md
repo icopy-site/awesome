@@ -130,4 +130,4 @@ Please follow the [guidelines here](https://github.com/mohataher/awesome-tinkerp
 ## <A NAME="license"></A>License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.sible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.sible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.sible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.

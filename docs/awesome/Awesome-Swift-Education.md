@@ -1,2 +1,2 @@
 
-> There is no royal road to Swift. —Euclidd
+> There is no royal road to Swift. —Eucliddd

@@ -147,4 +147,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This awesome list is licensed into the Public Domain under Creative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.reative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.
+This awesome list is licensed into the Public Domain under Creative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.reative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.reative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.

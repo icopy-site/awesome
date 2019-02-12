@@ -218,4 +218,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ---
 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).s://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
+
+---
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).

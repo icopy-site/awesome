@@ -160,4 +160,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/nir
 
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.licdomain/zero/1.0/)
 
+To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.licdomain/zero/1.0/)
+
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.

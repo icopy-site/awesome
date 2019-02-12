@@ -414,4 +414,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[chitchat]: https://github.com/stonesam92/ChitChat
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

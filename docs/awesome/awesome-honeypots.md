@@ -175,7 +175,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Conpot](http://conpot.org/) - Low interactive server side Industrial Control Systems honeypot.
     - [Heralding](https://github.com/johnnykv/heralding) - Credentials catching honeypot.
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - Low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers.
-    - [Honeyd](https://github.com/provos/honeyd) - See [honeyd tools](#honeyd-tools).
     - [Honeysink](http://www.honeynet.org/node/773) - Open source network sinkhole that provides a mechanism for detection and prevention of malicious traffic on a given network.
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot.
     - [KFSensor](https://github.com/paralax/awesome-honeypots/blob/master/http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (https://github.com/paralax/awesome-honeypots/blob/master/IDS).
@@ -436,6 +435,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Deployment
     - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - Tutorial on setting up Dionaea on an EC2 instance.
     - [Using a Raspberry Pi honeypot to contribute data to DShield/ISC](https://isc.sans.edu/diary/22680) - The Raspberry Pi based system will allow us to maintain one code base that will make it easier to collect rich logs beyond firewall logs.
+    - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a HoneyPot Pi.
+
+- Research Papers
+    - [Honeypot research papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots.
+    - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.l allow us to maintain one code base that will make it easier to collect rich logs beyond firewall logs.
     - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a HoneyPot Pi.
 
 - Research Papers

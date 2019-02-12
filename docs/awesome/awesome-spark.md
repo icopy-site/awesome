@@ -184,4 +184,7 @@ Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).e Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
 
 
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).e Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
+
+
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).

@@ -45,4 +45,4 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
 
 ### Credits and Notes
-This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.o get inspiration for better design principles.
+This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.o get inspiration for better design principles.o get inspiration for better design principles.

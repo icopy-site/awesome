@@ -1,7 +1,6 @@
 # Awesome Dojo
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
-[![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-dojo/commits/master)
 [![Build Status](https://img.shields.io/travis/petk/awesome-dojo/master.svg)](https://travis-ci.org/petk/awesome-dojo)
 
@@ -14,18 +13,6 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Index
 
-* [DojoToolkit.org resources and documentation](#dojotoolkitorg-resources-and-documentation)
-* [Tutorials](#tutorials)
-* [Bootstraps and boilerplates](#bootstraps-and-boilerplates)
-* [Packages, libraries and scripts](#packages-libraries-and-scripts)
-* [Serverside integrations](#serverside-integrations)
-* [Testing](#testing)
-* [Applications](#applications)
-* [Themes](#themes)
-* [TypeScript](#typescript)
-* [Community](#community)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing and License](#contributing-and-license)
 
 
 ## DojoToolkit.org resources and documentation
@@ -40,7 +27,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Website](https://github.com/dojo/dojo-website) - Website for Dojo Toolkit 1.x to 2.x transition
 
 
-[Back to top](#awesome-dojo)
 
 
 ## Tutorials
@@ -50,7 +36,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) - ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.
 * [Pluralsight's Dojo tutorial](https://www.pluralsight.com/courses/dojo-fundamentals) - Video tutorials for learning Dojo Toolkit
 
-[Back to top](#awesome-dojo)
 
 
 ## Bootstraps and boilerplates
@@ -61,7 +46,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [dojo.js](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
 
-[Back to top](#awesome-dojo)
 
 
 ## Packages, libraries and scripts
@@ -99,7 +83,6 @@ Inspired by the `awesome-*` trend on GitHub.
 
 
 
-[Back to top](#awesome-dojo)
 
 
 ## Serverside integrations
@@ -127,7 +110,6 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
     * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 
-[Back to top](#awesome-dojo)
 
 
 ## Testing
@@ -137,7 +119,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Intern Yeoman page objects](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
 * [Intern Yeoman generator](https://github.com/naglalakk/generator-intern) - Yeoman generator - Intern
 
-[Back to top](#awesome-dojo)
 
 
 ## Applications
@@ -156,7 +137,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies.
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
-[Back to top](#awesome-dojo)
 
 
 ## Themes
@@ -165,7 +145,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 * [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-[Back to top](#awesome-dojo)
 
 
 ## TypeScript
@@ -175,7 +154,6 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
 * [Dojo Typings](https://github.com/petk/awesome-dojo/blob/master/https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (https://github.com/petk/awesome-dojo/blob/master/including Dijit and DojoX)
 
-[Back to top](#awesome-dojo)
 
 
 ## Community
@@ -193,13 +171,30 @@ Inspired by the `awesome-*` trend on GitHub.
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 * [Meetup](https://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
 
-[Back to top](#awesome-dojo)
 
 
 ## Other Awesome Lists
 
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
+* awesome lists:
+    * [awesome](https://github.com/sindresorhus/awesome) - awesome list
+    * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list
+    * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
+    * [lists](https://github.com/jnv/lists) - awesome lists
+    * [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
+    * [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
+
+
+
+## Contributing and License
+
+You are most welcome to [contribute](https://github.com/petk/awesome-dojo/blob/master/CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/petk/awesome-dojo/blob/master/https://github.com/petk/awesome-dojo/graphs/contributors) who have helped to build this list.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Peter Kokot](https://github.com/petk) has waived all copyright and related or neighboring rights to this work.
+com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
     * [awesome](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome list

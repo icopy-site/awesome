@@ -307,13 +307,26 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 * [thingsboard](https://thingsboard.io/) - Device management, data collection, processing and visualization for your IoT projects.
 
-Other tools that can be used to create Visualization/Dashboards can be found under [Smart Home Integration Software](#smart-home-integration-software)
 
 
 ### Architecture, Convention
 
 * [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
 * [The Homie Convention](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT.
+
+### Security, Encryption
+
+* [Teserakt E4](https://teserakt.io/) - End-to-end encryption for MQTT and other M2M protocols - Commercial solution.
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/hobbyquaker/awesome-mqtt/blob/master/contributing.md) first.
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) lightweight MQTT convention for the IoT.
 
 ### Security, Encryption
 

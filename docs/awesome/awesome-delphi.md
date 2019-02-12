@@ -200,11 +200,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Daraja Framework](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://github.com/michaelJustin/daraja-framework). Lightweight HTTP server framework for Object Pascal (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://github.com/michaelJustin/daraja-restful) extension.
 
-* [Alcinoe](#general-libraries). FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients.
 
 * [Fundamentals Code Library](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/#general-libraries). Blocking TCP client/server, HTTP(https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/fully native).
 
-* [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
 * [SDriver](https://github.com/andrea-magni/SDriver). Delphi wrapper for [Slack](https://slack.com) API.
 
@@ -214,7 +212,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DelphiZeroMQ](https://github.com/grijjy/DelphiZeroMQ). Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
 
-* [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
 * [Rest-Dataware-Componentes](https://github.com/Rest-Dataware/RDW-Componente). Was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database. With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer.
 
@@ -372,7 +369,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [InstantObjects](https://sourceforge.net/projects/instantobjects). Integrated framework for developing object-oriented business solutions in Delphi. The framework provides the foundation for the development process as well as the engine that powers the final application. InstantObjects offers: Model realization in the Delphi IDE via integrated two-way tools; Object persistence in the most common relational databases or flat XML-based files; Object presentation via standard data-aware controls.
 
-* [Alcinoe](#general-libraries). Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL.
 
 * [SynBigTable](https://github.com/synopse/mORMot/blob/master/SynBigTable.pas). Class used to store huge amount of data with fast retrieval.
 
@@ -452,11 +448,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TForge](https://bitbucket.org/sergworks/tforge). Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
 
-* [Spring4D](#general-libraries). CRC, DES, MD5, SHA
 
-* [Fundamentals Code Library](#general-libraries). Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Cipher: AES, DES, FUNE, RC2/4, RSA.
 
-* [Alcinoe](#general-libraries). AES, Blowfish, MD5, SHA, secure keyed MD5/SHA.
 
 * [DCPcrypt (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/fork #1)](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/fork #2)](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://bitbucket.org/wpostma/dcpcrypt2010). Suite of cryptographic components for Delphi.
 
@@ -505,13 +498,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dwsJSON](https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master). dwsJSON is a unit that supports JSON parsing/creating, it's part of DWScript but relatively "standalone", in that if you add it in your Delphi (or FPC) projects, it won't pull the whole of DWScript library, and thus can be used anywhere you need.
 
-* [Fundamentals Code Library](#general-libraries). JSON, XML.
 
-* [Alcinoe](#general-libraries). XML/JSON Parser.
 
 * [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
-* [GrijjyFoundation](#general-libraries). JSON/BSON.
 
 * [VerySimpleXML](https://github.com/Dennis1000/verysimplexml). Lightweight, one-unit, cross-platform XML reader/writer for Delphi 2010 - 10.2.2 Tokyo
 
@@ -722,7 +712,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi LeakCheck](https://bitbucket.org/shadow_cs/delphi-leakcheck/) is a free code library to check the memory leaks in the DUnit and DUnit2 tests. Supports Delphi XE-XE7.
 
-* [FastMM](#memory-managers). Provides powerful memory leak/corruption detection instruments.
 
 * [JclDebug (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/part of Project JEDI)](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://github.com/project-jedi/jcl/blob/master/jcl/source/windows/JclDebug.pas). Tracing, MAP file parser, exception report generation, exception stack traces.
 
@@ -826,6 +815,22 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 
 * [Delphi Preview Handler](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
+
+* [Delphi Dev. Shell Tools](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/Delphi, Free Pascal).
+
+* [Delphi.gitignore](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
+
+* [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
+
+* [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
+
+// *Free **without source** for non-commercial usage (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/only) with some [conditions](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/you'll need to install `madExcept` item). Pretty well documented.*
+
+* [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)n in a editor
 
 * [Delphi Dev. Shell Tools](https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (https://github.com/Fr0sT-Brutal/awesome-delphi/blob/master/Delphi, Free Pascal).
 

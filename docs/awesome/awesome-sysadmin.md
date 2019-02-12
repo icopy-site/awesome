@@ -8,64 +8,13 @@
 
 **A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
-* [Awesome Sysadmin](#awesome-sysadmin)
-  * [Automation](#automation)
-  * [Backups](#backups)
-  * [Build and software organization tools](#build-and-software-organization-tools)
-  * [ChatOps](#chatops)
-  * [Client Management](#client-management)
-  * [Cloning](#cloning)
-  * [Cloud Computing](#cloud-computing)
-  * [Cloud Orchestration](#cloud-orchestration)
   * Cloud Storage: [see awesome-selfhosted#file-transfersynchronization](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
-  * [Code Review](#code-review)
-  * [Collaborative Software](#collaborative-software)
-  * [Configuration Management Database](#configuration-management-database)
-  * [Configuration Management](#configuration-management)
-  * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
-  * [Control Panels](#control-panels)
-  * [Deployment Automation](#deployment-automation)
-  * [Distributed Filesystems](#distributed-filesystems)
-  * [DNS](#dns)
-  * [Domains](#domains)
-  * [Editors](#editors)
-  * [Identity Management](#identity-management)
-  * [IT Asset Management](#it-asset-management)
-  * [Log Management](#log-management)
-  * [Mail Clients](#mail-clients)
   * Mail servers/webmail: [see awesome-selfhosted#email](https://github.com/kickball/awesome-selfhosted#email)
-  * [Monitoring](#monitoring)
-  * [Metric & Metric Collection](#metric--metric-collection)
-  * [Network Configuration Management](#network-configuration-management)
-  * [Newsletter](#newsletters)
-  * [NoSQL](#nosql)
-  * [Packaging](#packaging)
-  * [Project Management](#project-management)
-  * [Queuing](#queuing)
-  * [RDBMS](#rdbms)
-  * [Remote Management](#remote-management)
   * Security: [see awesome-security](https://github.com/sbilly/awesome-security)
-  * [Service Discovery](#service-discovery)
-  * [Software Containers](#software-containers)
   * SSH: [see awesome-ssh](https://github.com/moul/awesome-ssh)
   * Statistics: [see awesome-selfhosted#analytics](https://github.com/Kickball/awesome-selfhosted#analytics)
-  * [Status Pages](#status-pages)
   * Ticketing systems: [see awesome-selfhosted#ticketing](https://github.com/Kickball/awesome-selfhosted#ticketing)
-  * [Troubleshooting](#troubleshooting)
-  * [Version control](#version-control)
-  * [Virtualization](#virtualization)
-  * [VPN](#vpn)
   * XMPP: [see awesome-selfhosted#xmpp](https://github.com/Kickball/awesome-selfhosted#xmpp)
-  * [Web](#web)
-  * Wiki Software: [see awesome-selfhosted#wikis](https://github.com/Kickball/awesome-selfhosted#wikis), Sysadmin Wikis: [see #wikis](#wikis)
-* [Resources](#resources)
-  * [Blogs](#blogs)
-  * [Books](#books)
-  * [Communities/Forums](#communities--forums)
-  * [Newsletters](#newsletters)
-  * [Repositories](#repositories)
-  * [Websites](#websites)
-  * [Wikis](#wikis)
 
 ## Automation
 
@@ -688,6 +637,50 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
 * [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
   * [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
+
+## Newsletters
+
+* [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+
+## Repositories
+
+*Software package repositories.*
+
+* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
+
+### Debian-based distributions
+
+* [Dotdeb](https://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+
+### RPM-based distributions
+
+* [ElRepo](https://github.com/n1trux/awesome-sysadmin/blob/master/http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (https://github.com/n1trux/awesome-sysadmin/blob/master/RHEL, CentOS, etc).
+* [EPEL](https://github.com/n1trux/awesome-sysadmin/blob/master/https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (https://github.com/n1trux/awesome-sysadmin/blob/master/CentOS, Scientific Linux).
+* [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
+* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
+* [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+
+## Websites
+
+*Useful sysadmin related websites.*
+
+* [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
+* [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
+
+## Wikis
+
+*Useful Wikis for Sysadmins – not to be confused with Wiki software.*
+
+* [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
+* [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
+
+## License
+
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.* [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
 
 ## Newsletters
 

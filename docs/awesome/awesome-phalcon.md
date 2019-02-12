@@ -371,4 +371,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
+* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Coursesom/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
+
+
+### Tutorials
+
+* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
+* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses

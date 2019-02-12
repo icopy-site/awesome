@@ -155,4 +155,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.mmons.org/licenses/by/4.0/).
 
 ## Contributing
+Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.mmons.org/licenses/by/4.0/).
+
+## Contributing
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.

@@ -5,13 +5,6 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
-- [Awesome Algorithms](#awesome-algorithms)
-    - [Websites](#websites)
-    - [Online Courses](#online-courses)
-    - [Books](#books)
-    - [Github Libraries](#github-libraries)
-    - [Online Judges](#online-judges)
-    - [Tools](#tools)
 
 ## Websites
 
@@ -166,6 +159,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *Some tools that can help you in the learning of algorithms*
 
 * [interactive-coding-challenges](https://github.com/tayllan/awesome-algorithms/blob/master/https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (https://github.com/tayllan/awesome-algorithms/blob/master/algorithms and data structures).
+
+## License
+
+And for the sake of copyleft, here's our license:
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)./github.com/tayllan/awesome-algorithms/blob/master/algorithms and data structures).
 
 ## License
 

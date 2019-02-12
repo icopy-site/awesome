@@ -176,4 +176,6 @@ It includes a command-line shell and an associated scripting language.
   Useful for security research, testing and quick hacks.
 - [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. g.
   Useful for security research, testing and quick hacks.
+- [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. g.
+  Useful for security research, testing and quick hacks.
 - [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 

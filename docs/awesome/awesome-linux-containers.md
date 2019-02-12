@@ -356,4 +356,6 @@ The ecosystem of awesome new technologies emerging around containers and microse
 * [doger.io](http://doger.io/)  
 This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. osystem Project.
 * [doger.io](http://doger.io/)  
+This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. osystem Project.
+* [doger.io](http://doger.io/)  
 This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. 

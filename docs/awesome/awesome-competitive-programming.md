@@ -404,4 +404,11 @@ Awesome Competitive Programming is licensed under a [Creative Commons Attributio
 
 [![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
+Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).me-interview-questions) | A curated list of awesome interview questions |
+
+
+## License
+
+[![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

@@ -175,4 +175,8 @@ In lieu of a formal styleguide, take care to maintain the existing style of this
 
 ## Contributing
 
+In lieu of a formal styleguide, take care to maintain the existing style of this list.ed all copyright and related or neighboring rights to this work.
+
+## Contributing
+
 In lieu of a formal styleguide, take care to maintain the existing style of this list.

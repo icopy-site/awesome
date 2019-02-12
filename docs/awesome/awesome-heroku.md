@@ -9,18 +9,6 @@
 
 A curated list of helpful Heroku resources.
 
-- [Analytics](#-analytics)
-- [Architecture](#-architecture)
-- [Blogs](#-blogs)
-- [Deployment](#-deployment)
-- [Development](#-development)
-- [Domains](#-domains)
-- [Meta](#-meta)
-- [Postgres](#-postgres)
-- [Scaling](#-scaling)
-- [Security](#-security)
-- [Toolbelt](#-toolbelt)
-- [Goodbye...](#-goodbye)
 
 
 
@@ -112,6 +100,14 @@ Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
 
 Things to check out if you decide to migrate off of Heroku for some reason...
+
+- `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
+
+
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ian Storm Taylor](http://ianstormtaylor.com) has waived all copyright and related or neighboring rights to this work.me reason...
 
 - `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
 

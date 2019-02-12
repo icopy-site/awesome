@@ -383,3 +383,9 @@ rights to `awesome-cryptography`.
 
 You should have received a copy of the CC0 legalcode along with this
 work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
+To the extent possible under law, the person who associated CC0 with
+`awesome-cryptography` has waived all copyright and related or neighboring
+rights to `awesome-cryptography`.
+
+You should have received a copy of the CC0 legalcode along with this
+work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -8,43 +8,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python](https://github.com/vinta/awesome-python/).
 
-- [Awesome Pyramid](#awesome-pyramid)
-    - [Admin Interface](#admin-interface)
-    - [Asset Management](#asset-management)
-    - [Async](#async)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [Caching & Session](#caching--session)
-    - [Debugging](#debugging)
-    - [Email](#email)
-    - [Forms](#forms)
-    - [Media-Management](#media-management)
-    - [RESTful API](#restful-api)
-    - [Search](#search)
-    - [Security](#security)
-    - [Services](#services)
-    - [Settings](#settings)
-    - [Storage](#storage)
-    - [Task Queue](#task-queue)
-    - [Testing](#testing)
-    - [Translations](#translations)
-    - [Web frontend integration](#web-frontend-integration)
-    - [Workflows](#workflows)
-    - [Other](#other)
-- [Projects](#projects)
-    - [Framework](#framework)
-    - [CMS](#cms)
-    - [Cookiecutters](#cookiecutters)
-    - [e-Commerce](#e-commerce)
-    - [Project Management](#project-management)
-    - [Other](#other)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Websites](#websites)
-    - [Conferences](#conferences)
-    - [Videos](#videos)
-    - [Who uses it?](#who-uses-it)
-- [Contributing](#contributing)
 
 ## Admin interface
 
@@ -477,6 +440,41 @@ Where to discover new Pyramid apps and projects.
 ## Videos
 * [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
 * [Online Video Courses at Talk Python Training](https://training.talkpython.fm/courses/all)
+* [Web Applications with Python and the Pyramid
+  Framework](http://shop.oreilly.com/product/0636920041900.do) -
+  In this Web Applications with Python and the Pyramid Framework training
+  course, expert author Paul Everitt will teach you about the features needed
+  for Python web development, as well as Pyramid's unique features. This
+  course is designed for users that already have a basic knowledge of Python.
+
+  You will start by learning about single file web apps, templating, and
+  multiple routes and views. From there, Paul will teach you about MyApp
+  Python package, views and routes, and templating and static assets. This
+  video tutorial also covers forms, databases, and sessions, authentication
+  and authorization, and JSON. Finally, you will learn about extensibility,
+  including custom configuration settings, extending and overriding, and
+  custom view predicates.
+
+  Once you have completed this computer based training course, you will have
+  gained a basic understanding of the features needed for Python web
+  development and the features unique to Pyramid.
+
+## Who uses it?
+
+* [Projects, Websites, Companies and Organizations that use
+  Pyramid](https://trypyramid.com/community-powered-by-pyramid.html) - add your project to the list
+
+# Contributing
+
+Just fork and send a pull request with your awesome Pyramid apps, projects or
+resources.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, @uralbash has waived all copyright and related
+or neighboring rights to this work.tps://training.talkpython.fm/courses/all)
 * [Web Applications with Python and the Pyramid
   Framework](http://shop.oreilly.com/product/0636920041900.do) -
   In this Web Applications with Python and the Pyramid Framework training

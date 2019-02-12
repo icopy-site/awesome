@@ -239,4 +239,8 @@ Please read the [contribution guidelines](https://github.com/miguelmota/awesome-
 
 # License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ps://github.com/miguelmota/awesome-amazon-alexa/blob/master/CONTRIBUTING.md). Thanks!
+
+# License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

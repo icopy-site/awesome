@@ -116,4 +116,8 @@ Works in the public domain have no copyright restrictions. This can be the resul
 
 ## License
 
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) for reviving our creative culture.
+
+## License
+
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

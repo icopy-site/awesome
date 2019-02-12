@@ -2,7 +2,6 @@
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
-> A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
@@ -256,6 +255,9 @@ Know of another really awesome theme? [Get it on awesome-hyper!](https://github.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper.
 * [Extending Hyper](https://github.com/bnb/awesome-hyper/blob/master/https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen (https://github.com/bnb/awesome-hyper/blob/master/[@mathisonian](https://github.com/bnb/awesome-hyper/blob/master/https://github.com/mathisonian)) at EmpireNode 2016.
 * [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
+* [Carbon](https://carbon.now.sh/) is a tool to easily create Hyper-based screenshots.
+* Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
+emes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
 * [Carbon](https://carbon.now.sh/) is a tool to easily create Hyper-based screenshots.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
 /MatthiasWinkelmann) to visually browse screenshots of Hyper themes.

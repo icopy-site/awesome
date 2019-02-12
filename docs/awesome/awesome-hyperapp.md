@@ -6,12 +6,6 @@ A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- TOC -->
 
-* [Official Resources](#official-resources)
-* [Articles & Tutorials](#articles--tutorials)
-* [Boilerplates](#boilerplates)
-* [Utilities](#utilities)
-* [Testing](#testing)
-* [Other](#other)
 
 <!-- /TOC -->
 
@@ -88,4 +82,5 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Other
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
+* [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.* [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.ith Hyperapp to share links in groups and socialize with offline capability.

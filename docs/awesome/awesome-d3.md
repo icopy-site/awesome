@@ -220,4 +220,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
  * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)//bl.ocks.org/tomshanley)
  * [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
  * [Noah Veltman - veltman](https://bl.ocks.org/veltman)
+ * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)//bl.ocks.org/tomshanley)
+ * [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
+ * [Noah Veltman - veltman](https://bl.ocks.org/veltman)
  * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)

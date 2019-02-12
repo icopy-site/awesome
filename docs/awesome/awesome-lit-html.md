@@ -113,7 +113,6 @@ An episode with the lit-html creator Justin Fagnani.
 ## Inspired Solutions
 
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` and `css` tagged
-template literals, and leverage the benefits of the same or similar [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
@@ -124,6 +123,12 @@ template literals, and leverage the benefits of the same or similar [IDE Plugins
 ## Other awesome resources
 
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
+
+---
+
+## License
+
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)ou want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
 
 ---
 

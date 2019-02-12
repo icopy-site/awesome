@@ -5,10 +5,6 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 Pull requests very welcome.
 
 * [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	* [Engines](#engines)
-	* [Application Frameworks](#application-frameworks)
-	* [Testing](#testing)
-	* [Dependency Injection](#dependency-injection)
 	
 ----
 
@@ -118,5 +114,7 @@ Pull requests very welcome.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work..org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.

@@ -1,6 +1,5 @@
 # Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
 
 *Please read the [contribution guidelines](https://github.com/scholtzm/awesome-steam/blob/master/CONTRIBUTING.md) before contributing.*
 
@@ -183,6 +182,12 @@ Websites listed below may provide free and/or paid services and are listed alpha
 - [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
 - [steamlytics.xyz](https://steamlytics.xyz/) - Provides CS:GO prices and Steam market/inventory related services.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work. related services.
 
 ## License
 

@@ -437,4 +437,10 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.sant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.

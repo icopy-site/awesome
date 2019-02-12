@@ -400,4 +400,6 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
 * [Your guide here] check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
+* [Your guide here] check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
+* [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
 * [Your guide here]

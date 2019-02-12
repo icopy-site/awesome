@@ -196,4 +196,7 @@ Repo | Demo
 [Unknown]: https://github.com/shu223/AnimatedTransitionGallery/issues/5es/LICENSE-2.0
 [BSD-2]: http://opensource.org/licenses/BSD-2-Clause
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
+[Unknown]: https://github.com/shu223/AnimatedTransitionGallery/issues/5es/LICENSE-2.0
+[BSD-2]: http://opensource.org/licenses/BSD-2-Clause
+[BSD-3]: http://opensource.org/licenses/BSD-3-Clause
 [Unknown]: https://github.com/shu223/AnimatedTransitionGallery/issues/5

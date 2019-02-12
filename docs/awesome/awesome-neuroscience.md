@@ -95,4 +95,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/ana
 
 To the extent possible under law, [Akash Tandon](https://github.com/analyticalmonk) has waived all copyright and
 related or neighboring rights to this work.ub.com/analyticalmonk) has waived all copyright and
+related or neighboring rights to this work.ub.com/analyticalmonk) has waived all copyright and
 related or neighboring rights to this work.

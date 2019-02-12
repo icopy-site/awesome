@@ -4,18 +4,6 @@
 
 A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
 
-* **[Hardware Support](#hardware-support)**
-* **[SDK](#sdk)**
-* **[IHV Document](#document)**
-* **[Tutorial](#tutorial)**
-* **[Apps](#apps)**
-* **[Samples](#samples)**
-* **[Libraries](#libraries)**
-* **[Bindings](#bindings)**
-* **[Tools](#tools)**
-* **[Books](#books)**
-* **[Khronos](#khronos)**
-* **[Community](#community)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -254,6 +242,16 @@ drm/kms.
 *  [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *  [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+## Contributing
+Please see [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) for details.aphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License

@@ -75,4 +75,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Federico Brigante](http://bfred.it) has waived all copyright and related or neighboring rights to this work..it) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Federico Brigante](http://bfred.it) has waived all copyright and related or neighboring rights to this work..it) has waived all copyright and related or neighboring rights to this work..it) has waived all copyright and related or neighboring rights to this work.

@@ -116,4 +116,7 @@ There are a lot of ways to get updates, choose your own
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)n-array/)
 
 ### License
+[GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)n-array/)
+
+### License
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)

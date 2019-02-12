@@ -64,4 +64,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
 - [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
 - [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
-- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)ithub.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)ithub.com/TalAter/awesome-progressive-web-apps#push-notifications)ithub.com/TalAter/awesome-progressive-web-apps#push-notifications)

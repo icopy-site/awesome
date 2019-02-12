@@ -114,4 +114,6 @@ To the extent possible under law, [Noah Buscher](http://noahbuscher.com) has wai
 
 <div align="center">:heart:</div>com) has waived all copyright and related or neighboring rights to this work.
 
+<div align="center">:heart:</div>com) has waived all copyright and related or neighboring rights to this work.
+
 <div align="center">:heart:</div>

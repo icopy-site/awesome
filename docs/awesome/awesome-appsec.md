@@ -18,14 +18,11 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 # Application Security Learning Resources
 
 
-  * [General](#general)
-    * [Articles](#articles)
       * [How to Safely Generate a Random Number](https://github.com/paragonie/awesome-appsec/blob/master/#how-to-safely-generate-a-random-number-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
       * [Salted Password Hashing - Doing it Right](https://github.com/paragonie/awesome-appsec/blob/master/#salted-password-hashing-doing-it-right-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
       * [A good idea with bad usage: /dev/urandom](https://github.com/paragonie/awesome-appsec/blob/master/#a-good-idea-with-bad-usage-devurandom-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
       * [Why Invest in Application Security?](https://github.com/paragonie/awesome-appsec/blob/master/#why-invest-in-application-security-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
       * [Be wary of one-time pads and other crypto unicorns](https://github.com/paragonie/awesome-appsec/blob/master/#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
-    * [Books](#books)
       * [Web Application Hacker's Handbook](https://github.com/paragonie/awesome-appsec/blob/master/#-web-application-hackers-handbook-2011) (https://github.com/paragonie/awesome-appsec/blob/master/2011) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
       * [Cryptography Engineering](https://github.com/paragonie/awesome-appsec/blob/master/#-cryptography-engineering-2010) (https://github.com/paragonie/awesome-appsec/blob/master/2010) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
       * [Securing DevOps](https://github.com/paragonie/awesome-appsec/blob/master/#-securing-devops-2018) (https://github.com/paragonie/awesome-appsec/blob/master/2018) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
@@ -46,63 +43,20 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Bulletproof SSL and TLS](https://github.com/paragonie/awesome-appsec/blob/master/#-bulletproof-ssl-and-tls-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
       * [Holistic Info-Sec for Web Developers (https://github.com/paragonie/awesome-appsec/blob/master/Fascicle 0)](https://github.com/paragonie/awesome-appsec/blob/master/#holistic-info-sec-for-web-developers-fascicle-0-2016) (https://github.com/paragonie/awesome-appsec/blob/master/2016)
       * [Holistic Info-Sec for Web Developers (https://github.com/paragonie/awesome-appsec/blob/master/Fascicle 1)](https://github.com/paragonie/awesome-appsec/blob/master/#holistic-info-sec-for-web-developers-fascicle-1)
-    * [Classes](#classes)
       * [Offensive Computer Security (https://github.com/paragonie/awesome-appsec/blob/master/CIS 4930) FSU](https://github.com/paragonie/awesome-appsec/blob/master/#offensive-computer-security-cis-4930-fsu)
-      * [Hack Night](#hack-night)
-    * [Websites](#websites)
-      * [Hack This Site!](#hack-this-site)
-      * [Enigma Group](#enigma-group)
-      * [Web App Sec Quiz](#web-app-sec-quiz)
-      * [SecurePasswords.info](#securepasswords-info)
-      * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
-      * [Open Security Training](#open-security-training)
-      * [MicroCorruption](#microcorruption)
-      * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
-      * [PentesterLab](#pentesterlab)
-      * [Juice Shop](#juice-shop)
-      * [Supercar Showdown](#supercar-showdown)
-      * [OWASP NodeGoat](#owasp-nodegoat)
-      * [Blogs](#blogs)
-        * [Crypto Fails](#crypto-fails)
-        * [NCC Group - Blog](#ncc-group-blog)
-        * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](https://github.com/paragonie/awesome-appsec/blob/master/#cossack-labs-blog-2018) (https://github.com/paragonie/awesome-appsec/blob/master/2018)
-      * [Wiki pages](#wiki-pages)
-        * [OWASP Top Ten Project](#owasp-top-ten-project)
-      * [Tools](#tools)
-        * [Qualys SSL Labs](#qualys-ssl-labs)
-        * [securityheaders.io](#securityheaders-io)
-        * [report-uri.io](#report-uri-io)
-  * [Android](#android)
-    * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/#sei-cert-android-secure-coding-standard-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
-  * [C](#c)
-    * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/#sei-cert-c-coding-standard-2006) (https://github.com/paragonie/awesome-appsec/blob/master/2006)
       * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://github.com/paragonie/awesome-appsec/blob/master/#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (https://github.com/paragonie/awesome-appsec/blob/master/2018)
-  * [C++](#c-1)
-    * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/#sei-cert-c-coding-standard-2006-1) (https://github.com/paragonie/awesome-appsec/blob/master/2006)
-  * [C Sharp](#c-sharp)
-    * [Books and ebooks](#books-and-ebooks-3)
       * [Security Driven .NET](https://github.com/paragonie/awesome-appsec/blob/master/#-security-driven-net-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
-  * [Go](#go)
-    * [Articles](#articles-1)
       * [Memory Security in Go - cryptolosophy.io](https://github.com/paragonie/awesome-appsec/blob/master/#memory-security-in-go-cryptolosophy-io-2017) (https://github.com/paragonie/awesome-appsec/blob/master/2017)
-  * [Java](#java)
-    * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/#sei-cert-java-coding-standard-2007) (https://github.com/paragonie/awesome-appsec/blob/master/2007)
       * [Secure Coding Guidelines for Java SE](https://github.com/paragonie/awesome-appsec/blob/master/#secure-coding-guidelines-for-java-se-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
-  * [Node.js](#node-js)
-    * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](https://github.com/paragonie/awesome-appsec/blob/master/#node-js-security-checklist-rising-stack-blog-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
-    * [Books and ebooks](#books-and-ebooks-5)
       * [Essential Node.js Security](https://github.com/paragonie/awesome-appsec/blob/master/#-essential-node-js-security-2017) (https://github.com/paragonie/awesome-appsec/blob/master/2017) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
-    * [Training](#training)
       * [Security Training by ^Lift Security](https://github.com/paragonie/awesome-appsec/blob/master/#-security-training-by-lift-security) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
       * [Security Training from BinaryMist](https://github.com/paragonie/awesome-appsec/blob/master/#-security-training-from-binarymist) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
-  * [PHP](#php)
-    * [Articles](#articles-3)
       * [It's All About Time](https://github.com/paragonie/awesome-appsec/blob/master/#its-all-about-time-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
       * [Secure Authentication in PHP with Long-Term Persistence](https://github.com/paragonie/awesome-appsec/blob/master/#secure-authentication-in-php-with-long-term-persistence-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
       * [20 Point List For Preventing Cross-Site Scripting In PHP](https://github.com/paragonie/awesome-appsec/blob/master/#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (https://github.com/paragonie/awesome-appsec/blob/master/2013)
@@ -112,37 +66,11 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [You Wouldn't Base64 a Password - Cryptography Decoded](https://github.com/paragonie/awesome-appsec/blob/master/#you-wouldnt-base64-a-password-cryptography-decoded-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
       * [A Guide to Secure Data Encryption in PHP Applications](https://github.com/paragonie/awesome-appsec/blob/master/#a-guide-to-secure-data-encryption-in-php-applications-2015) (https://github.com/paragonie/awesome-appsec/blob/master/2015)
       * [The 2018 Guide to Building Secure PHP Software](https://github.com/paragonie/awesome-appsec/blob/master/#the-2018-guide-to-building-secure-php-software-2017) (https://github.com/paragonie/awesome-appsec/blob/master/2017)
-    * [Books and ebooks](#books-and-ebooks-6)
       * [Securing PHP: Core Concepts](https://github.com/paragonie/awesome-appsec/blob/master/#-securing-php-core-concepts) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
-      * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
-    * [Useful libraries](#useful-libraries)
-      * [defuse/php-encryption](#defusephp-encryption)
-      * [ircmaxell/password_compat](#ircmaxellpassword-compat)
-      * [ircmaxell/RandomLib](#ircmaxellrandomlib)
-      * [thephpleague/oauth2-server](#thephpleagueoauth2-server)
-      * [paragonie/random_compat](#paragonierandom-compat)
-      * [psecio/gatekeeper](#pseciogatekeeper)
-      * [openwall/phpass](#openwallphpass)
-    * [Websites](#websites-1)
-      * [websec.io](#websec-io)
-      * [Blogs](#blogs-1)
-        * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
-        * [ircmaxell's blog](#ircmaxells-blog)
-        * [Pádraic Brady's Blog](#p%C3%A1draic-bradys-blog)
-      * [Mailing lists](#mailing-lists)
-        * [Securing PHP Weekly](#securing-php-weekly)
-  * [Perl](#perl)
-    * [Books and ebooks](#books-and-ebooks-7)
       * [SEI CERT Perl Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/#sei-cert-perl-coding-standard-2011) (https://github.com/paragonie/awesome-appsec/blob/master/2011)
-  * [Python](#python)
-    * [Books and ebooks](#books-and-ebooks-8)
-      * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
       * [Black Hat Python: Python Programming for Hackers and Pentesters](https://github.com/paragonie/awesome-appsec/blob/master/#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
       * [Violent Python](https://github.com/paragonie/awesome-appsec/blob/master/#-violent-python) ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png)
-    * [Websites](#websites-2)
       * [OWASP Python Security Wiki](https://github.com/paragonie/awesome-appsec/blob/master/#owasp-python-security-wiki-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
-  * [Ruby](#ruby)
-    * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](https://github.com/paragonie/awesome-appsec/blob/master/#secure-ruby-development-guide-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
 
 
@@ -596,6 +524,84 @@ A secure OAuth2 server implementation
 ### [paragonie/random_compat](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes(https://github.com/paragonie/awesome-appsec/blob/master/)` and `random_int(https://github.com/paragonie/awesome-appsec/blob/master/)`. This is a community effort to expose the same API in PHP 5 projects (https://github.com/paragonie/awesome-appsec/blob/master/forward compatibility layer). Permissively MIT licensed.
+
+### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
+
+A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
+
+### [openwall/phpass](http://www.openwall.com/phpass/)
+
+A portable public domain password hashing framework for use in PHP applications.
+
+## Websites
+
+### [websec.io](http://websec.io)
+
+**websec.io** is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
+
+### Blogs
+
+#### [Paragon Initiative Enterprises Blog](https://paragonie.com/blog/)
+
+The blog of our technology and security consulting firm based in Orlando, FL
+
+#### [ircmaxell's blog](http://blog.ircmaxell.com)
+
+A blog about PHP, Security, Performance and general web application development.
+
+#### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
+
+Pádraic Brady is a Zend Framework security expert
+
+### Mailing lists
+
+#### [Securing PHP Weekly](http://securingphp.com)
+
+A weekly newsletter about PHP, security, and the community.
+
+# Perl
+
+## Books and ebooks
+
+### [SEI CERT Perl Coding Standard](https://github.com/paragonie/awesome-appsec/blob/master/https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard) (https://github.com/paragonie/awesome-appsec/blob/master/2011)
+
+**Released**: January 10, 2011
+
+A community-maintained Wiki detailing secure coding standards for Perl programming.
+
+# Python
+
+## Books and ebooks
+
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
+
+Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+### ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png) [Black Hat Python: Python Programming for Hackers and Pentesters](https://github.com/paragonie/awesome-appsec/blob/master/https://www.nostarch.com/blackhatpython)
+
+Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
+
+### ![nonfree](https://github.com/paragonie/awesome-appsec/blob/master/img/nonfree.png) [Violent Python](https://github.com/paragonie/awesome-appsec/blob/master/http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
+
+## Websites
+
+### [OWASP Python Security Wiki](https://github.com/paragonie/awesome-appsec/blob/master/https://github.com/ebranca/owasp-pysec/wiki) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
+
+**Released**: June 21, 2014
+
+A wiki maintained by the OWASP Python Security project.
+
+# Ruby
+
+## Books and ebooks
+
+### [Secure Ruby Development Guide](https://github.com/paragonie/awesome-appsec/blob/master/https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
+
+**Released**: March 10, 2014
+
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).gonie/awesome-appsec/blob/master/forward compatibility layer). Permissively MIT licensed.
 
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 

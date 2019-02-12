@@ -591,6 +591,18 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 Contributions are most welcome, please adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
 
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svgontributions are most welcome, please adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
+
 **[⬆ back to top](#applications)**
 
 

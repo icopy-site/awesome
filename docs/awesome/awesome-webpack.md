@@ -299,4 +299,8 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 
 
 [twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
+[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svgool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
+
+
+[twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
 [githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg

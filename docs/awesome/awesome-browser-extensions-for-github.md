@@ -589,4 +589,17 @@ Makes searching in GitHub better. With GitHub, you can only search one branch pe
 <details><summary>Screenshots</summary>
 
  ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
+</details>ch for repositories and people faster than ever.
+
+<details><summary>Screenshots</summary>
+
+ ![Pages2Repo](https://dl.dropboxusercontent.com/s/zg3cblx3q8fhbkl/github-awesome-autocomplete.jpg)
+</details>
+
+
+Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
+
+<details><summary>Screenshots</summary>
+
+ ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
 </details>

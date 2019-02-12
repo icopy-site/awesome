@@ -478,4 +478,11 @@ Learn
 ### Computer Graphics
 
 * :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+* :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)me-programmer) A Study Path for Game Programmer :octocat:
+* :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
+* :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+
+### Computer Graphics
+
+* :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)

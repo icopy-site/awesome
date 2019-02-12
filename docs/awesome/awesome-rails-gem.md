@@ -3,25 +3,6 @@ A collection of awesome Ruby Gems for Rails development.
 
 The goal is to help every Rails developer to build an awesome Rails product/service.
 
-* [Rails Gem List](#rails-gem-list)
-  * [User](#user)
-  * [Active Record](#active-record)
-  * [Plugins](#plugins)
-  * [API](#api)
-  * [Email](#email)
-  * [File Uploading](#file-uploading)
-  * [Searching](#searching)
-  * [Scheduled/Recurrence Jobs](#scheduledrecurrence-jobs)
-  * [View Helper](#view-helper)
-  * [Environment Variables](#environment-variables)
-  * [Admin Panel](#admin-panel)
-  * [Logging](#logging)
-  * [Debug](#debug)
-  * [Coding Style](#coding-style)
-  * [Testing](#testing)
-  * [Production](#production)
-  * [Error Logging](#error-logging)
-  * [Database](#database)
 
 ## User
 
@@ -212,6 +193,21 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Responders](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 * [production_rails](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
 * [Mina](https://github.com/mina-deploy/mina) - fast deployer and server automation tool.
+
+## Error Logging
+* [Rollbar](https://github.com/rollbar/rollbar-gem) - Exception tracking and logging from Ruby to Rollbar.
+* [Airbrake](https://github.com/airbrake/airbrake) - Notifier gem for integrating apps with Airbrake
+* [Errbit](https://github.com/errbit/errbit) - Open source notifier gem compliant with Airbrake.
+
+## Database
+* [rails_db](https://github.com/igorkasyanchuk/rails_db) - Rails Database Viewer and SQL Query Runner
+
+## Asset Pipeline
+* [Alaska](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/hothero/awesome-rails-gem/blob/master/contributing.md) first.
 
 ## Error Logging
 * [Rollbar](https://github.com/rollbar/rollbar-gem) - Exception tracking and logging from Ruby to Rollbar.

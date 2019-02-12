@@ -9,16 +9,6 @@ There is a lot of ~~hidden~~ treasure lying within university pages scattered ac
 Table of Contents
 -----------------
 
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
-- [Introduction to CS](#introduction-to-cs)
-- [Machine Learning](#machine-learning)
-- [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
-- [Security](#security)
-- [Systems](#systems)
 
 ### Legend
 
@@ -998,6 +988,10 @@ and anti-analysis techniques.
 	- This is a graduate course in scientific computing created and taught by [Oliver Serang](http://colorfulengineering.org/) in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.
 	- Topics include memoization, recurrence closed forms, string matching (https://github.com/prakhar1989/awesome-courses/blob/master/sorting, hash tables, radix tries, and suffix tries), dynamic programming (https://github.com/prakhar1989/awesome-courses/blob/master/e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (https://github.com/prakhar1989/awesome-courses/blob/master/e.g. the envelope paradox), graphical models (https://github.com/prakhar1989/awesome-courses/blob/master/HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
 	- [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
+- [14-740](http://ini740.com/F17/) **Fundamentals of Computer Networks** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
+	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
+	- The course site contains links to the lecture videos, reading material and assignments.ecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
 - [14-740](http://ini740.com/F17/) **Fundamentals of Computer Networks** *CMU* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.

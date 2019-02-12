@@ -353,4 +353,11 @@ CC0 :)Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using p
 
 ### LICENSE
 
+CC0 :)Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
+- [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
+- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
+
+
+### LICENSE
+
 CC0 :)

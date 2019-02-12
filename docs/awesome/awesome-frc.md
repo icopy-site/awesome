@@ -86,4 +86,4 @@
 
 - [FIRST Map](https://firstmap.github.io) - Beautiful map of the world's FRC teams.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or show the team with a number corresponding to the current time.
-- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.ook Messenger bot to get information about FRC teams, events, and matches.
+- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.atBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.ook Messenger bot to get information about FRC teams, events, and matches.

@@ -218,4 +218,8 @@ If you are curious for more, check out following resources.
 - [Discord](https://discord.gg/0ZcbPKXt5bZ6au5t)
 - [Slack](http://slack.redux.io/)
 - [Gitter](https://gitter.im/reactjs/redux)
+- [`#rackt` on freenode](https://webchat.freenode.net/)w.com/questions/tagged/redux)
+- [Discord](https://discord.gg/0ZcbPKXt5bZ6au5t)
+- [Slack](http://slack.redux.io/)
+- [Gitter](https://gitter.im/reactjs/redux)
 - [`#rackt` on freenode](https://webchat.freenode.net/)

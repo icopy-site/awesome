@@ -1020,4 +1020,19 @@ This list also uses tags to help when searching the contents:
 
 ...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
 
+**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**e online development environments
+* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
+
+## Credits
+
+**[Chris Barber](https://www.chrisbarber.co)**
+
+[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
+
+**[Craig Davison](https://davison.io)**
+
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+
+...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
+
 **[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**

@@ -70,4 +70,4 @@ Curated list of awesome esoteric programming languages and resources.
 
 The content of this list is available under CC0 public domain dedication.
 
-Logo is used by permission of [David Morgan-Mar](http://www.dangermouse.net/esoteric/piet/samples.html)David Morgan-Mar](http://www.dangermouse.net/esoteric/piet/samples.html)
+Logo is used by permission of [David Morgan-Mar](http://www.dangermouse.net/esoteric/piet/samples.html)David Morgan-Mar](http://www.dangermouse.net/esoteric/piet/samples.html)David Morgan-Mar](http://www.dangermouse.net/esoteric/piet/samples.html)

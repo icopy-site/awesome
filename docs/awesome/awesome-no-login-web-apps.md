@@ -20,7 +20,6 @@ To save the world from creating user accounts and installing software applicatio
 
 
 * [Utilities (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/uncategorized)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/#utilities)
-* [Miscellaneous](#miscellaneous)
 
 
 ### Audio and Video
@@ -311,6 +310,14 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
+
+-----
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work. clock, use MP3 files and YouTube videos as alarm.
 
 -----
 

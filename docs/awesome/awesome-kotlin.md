@@ -645,12 +645,10 @@ Here awesome badge for your project:
 * [Sao Paulo Kotlin Meetup](https://www.meetup.com/kotlin-meetup-sp/) - Brazil
 * [Rio de Janeiro](https://www.meetup.com/Kotlin-Rio/) - Brazil
 
-### <a name="kotlin-user-groups-australia-oceania"></a>Australia/Oceania <sup>[Back ⇈](#kotlin-user-groups-australia-oceania-subcategory)</sup>
 * [Brisbane Kotlin User Group](https://www.meetup.com/Brisbane-Kotlin-User-Group/) - Australia
 * [Sydney Kotlin User Group](https://sydkotlin.space/) - Australia
 * [Wellington Kotlin User Group](https://www.meetup.com/Wellington-kt/) - New Zealand
 
-### <a name="kotlin-user-groups-africa"></a>Africa <sup>[Back ⇈](#kotlin-user-groups-africa-subcategory)</sup>
 * [Abidjan Kotlin User Group](https://www.facebook.com/groups/778398068995641/) - Cote d'Ivoire
 * [Abuja Kotlin User Group](https://www.meetup.com/Kotlin-Abuja-User-Group-Nigeria/) - Nigeria
 * [Agadir Kotlin User Group](https://www.meetup.com/Agadir-Kotlin-User-Group/) - Morocco
@@ -675,13 +673,10 @@ Here awesome badge for your project:
 * [Uganda Kotlin User Group](https://www.facebook.com/Uganda-Kotlin-User-Group-613707548753658/) - Uganda
 
 
-## <a name="articles-blog-posts"></a>Articles, Blog Posts <sup>[Back ⇈](#articles-blog-posts-category)</sup>
-### <a name="articles-blog-posts-may-2017"></a>May 2017 <sup>[Back ⇈](#articles-blog-posts-may-2017-subcategory)</sup>
 * [Kotlin Native 0.2 Release](http://kotlin.link/articles/Kotlin-Native-0-2-Release.html) - Nikolay Igotti
 * [Kotlin/Native v0.2 is out](http://kotlin.link/articles/Kotlin-Native-v0-2-is-out.html) - Nikolay Igotti
 * [Gradle Script Kotlin 0.9.0 Release Notes](http://kotlin.link/articles/Gradle-Script-Kotlin-0-9-0-Release-Notes.html) - Rodrigo B. de Oliveira
 
-### <a name="articles-blog-posts-april-2017"></a>April 2017 <sup>[Back ⇈](#articles-blog-posts-april-2017-subcategory)</sup>
 * [The Rise and Fall of JVM Languages](http://kotlin.link/articles/The-Rise-and-Fall-of-JVM-Languages.html) - Andrew Binstock
 * [Kotlin/Native Tech Preview: Kotlin without a VM](http://kotlin.link/articles/Kotlin-Native-Tech-Preview-Kotlin-without-a-VM.html) - Andrey Breslav
 * [Kotlin 1.1 is also for Android Developers](http://kotlin.link/articles/Kotlin-1-1-is-also-for-Android-Developers.html) - Roman Belov
@@ -691,7 +686,6 @@ Here awesome badge for your project:
 * [Bytecode behind coroutines in Kotlin](http://kotlin.link/articles/Bytecode-behind-coroutines-in-Kotlin.html) - Eugene Petrenko
 * [How we made Basecamp 3’s Android app 100% Kotlin](http://kotlin.link/articles/How-we-made-Basecamp-3’s-Android-app-100-Kotlin.html) - Dan Kim
 
-### <a name="articles-blog-posts-march-2017"></a>March 2017 <sup>[Back ⇈](#articles-blog-posts-march-2017-subcategory)</sup>
 * [Kotlin 1.1 Released with JavaScript Support, Coroutines and more](http://kotlin.link/articles/Kotlin-1-1-Released-with-JavaScript-Support-Coroutines-and-more.html) - Roman Belov
 * [Kotlin 1.1 Event](http://kotlin.link/articles/Kotlin-1-1-Event.html) - Alina Dolgikh
 * [Gradle Script Kotlin 0.8.0 Release Notes](http://kotlin.link/articles/Gradle-Script-Kotlin-0-8-0-Release-Notes.html) - Rodrigo B. de Oliveira
@@ -701,7 +695,6 @@ Here awesome badge for your project:
 * [Kotlin 1.1 Event in Your City](http://kotlin.link/articles/Kotlin-1-1-Event-in-Your-City.html) - Alina Dolgikh
 * [Reactor Kotlin Extensions 1.0.0.M1 released](http://kotlin.link/articles/Reactor-Kotlin-Extensions-1-0-0-M1-released.html) - Sébastien Deleuze
 
-### <a name="articles-blog-posts-february-2017"></a>February 2017 <sup>[Back ⇈](#articles-blog-posts-february-2017-subcategory)</sup>
 * [Kotlin 1.1 Beta 2 is here](http://kotlin.link/articles/Kotlin-1-1-Beta-2-is-here.html) - Dmitry Jemerov
 * [The Design and Construction of Modern Build Tools](http://kotlin.link/articles/The-Design-and-Construction-of-Modern-Build-Tools.html) - Cédric Beust
 * [Using Kotlin type-safe builders to create a DSL for Forms](http://kotlin.link/articles/Using-Kotlin-type-safe-builders-to-create-a-DSL-for-Forms.html) - Giacomo Bresciani
@@ -709,7 +702,6 @@ Here awesome badge for your project:
 * [Our first book about Kotlin is out](http://kotlin.link/articles/Our-first-book-about-Kotlin-is-out.html) - Dmitry Jemerov
 * [Kotlin 1.1 Release Candidate is Here](http://kotlin.link/articles/Kotlin-1-1-Release-Candidate-is-Here.html) - Mikhail Glukhikh
 
-### <a name="articles-blog-posts-january-2017"></a>January 2017 <sup>[Back ⇈](#articles-blog-posts-january-2017-subcategory)</sup>
 * [Leveraging TornadoFX to the fullest](http://kotlin.link/articles/Leveraging-TornadoFX-to-the-fullest.html) - Edvin Town
 * [Why I prefer Kotlin](http://kotlin.link/articles/Why-I-prefer-Kotlin.html) - Graham Cox
 * [Kanvas: generating a simple IDE from your ANTLR grammar](http://kotlin.link/articles/Kanvas-generating-a-simple-IDE-from-your-ANTLR-grammar.html) - Federico Tomassetti
@@ -722,7 +714,6 @@ Here awesome badge for your project:
 * [Kotlin 1.1: What’s coming in the standard library](http://kotlin.link/articles/Kotlin-1-1-What’s-coming-in-the-standard-library.html) - ilya.gorbunov
 * [Announcing the Support Program for Kotlin User Groups and Events](http://kotlin.link/articles/Announcing-the-Support-Program-for-Kotlin-User-Groups-and-Events.html) - Alina Dolgikh
 
-### <a name="articles-blog-posts-december-2016"></a>December 2016 <sup>[Back ⇈](#articles-blog-posts-december-2016-subcategory)</sup>
 * [Data Binding in Anko](http://kotlin.link/articles/Data-Binding-in-Anko.html) - Lewis Rhine
 * [Upgrade your workflow with 0-installation kotlin scriptlets](http://kotlin.link/articles/Upgrade-your-workflow-with-0-installation-kotlin-scriptlets.html) - Holger Brandl
 * [Kotlin: как сделать жизнь Java-разработчика легче?](http://kotlin.link/articles/Kotlin-Как-сделать-жизнь-Java-разработчика-легче.html) - Stanislav Sinitsky, Alexander Mikhalchenko
@@ -739,7 +730,6 @@ Here awesome badge for your project:
 * [Kotlin без магии](http://kotlin.link/articles/Kotlin-без-магии.html) - Mike Gorunov
 * [Kotlin, rockin’ in production](http://kotlin.link/articles/Kotlin-rockin’-in-production.html) - Nabeel Ali Memon
 
-### <a name="articles-blog-posts-november-2016"></a>November 2016 <sup>[Back ⇈](#articles-blog-posts-november-2016-subcategory)</sup>
 * [Our Experiment Building a Multiselection Solution for Android in Kotlin](http://kotlin.link/articles/Our-Experiment-Building-a-Multiselection-Solution-for-Android-in-Kotlin.html) - Artem Kholodnyi
 * [Quick dive in Kotlin extensions](http://kotlin.link/articles/Quick-dive-in-Kotlin-extensions.html) - Piotr Ślesarew
 * [Беглый взгляд на Async-Await в Android](http://kotlin.link/articles/Беглый-взгляд-на-Async-Await-в-Android.html) - Макс Ровкин
@@ -759,7 +749,6 @@ Here awesome badge for your project:
 * [Kotlin ternary operator](http://kotlin.link/articles/Kotlin-Ternary-Operator.html) - naixx
 * [Using the Kotlin Language with Apache Spark](http://kotlin.link/articles/Using-the-Kotlin-Language-with-Apache-Spark.html) - Thomas Nield
 
-### <a name="articles-blog-posts-october-2016"></a>October 2016 <sup>[Back ⇈](#articles-blog-posts-october-2016-subcategory)</sup>
 * [Mocking Kotlin with Mockito](http://kotlin.link/articles/Mocking-Kotlin-with-Mockito.html) - Hadi Hariri
 * [Extension Functions Can Be Utility Functions](http://kotlin.link/articles/Extension-Functions-Can-Be-Utility-Functions.html) - Duncan McGregor
 * [More Kotlin Extension Fun](http://kotlin.link/articles/More-Kotlin-Extension-Fun.html) - Duncan McGregor
@@ -780,7 +769,6 @@ Here awesome badge for your project:
 * [Zero boilerplate delegation in Kotlin](http://kotlin.link/articles/Zero-boilerplate-delegation-in-Kotlin.html) - Piotr Ślesarew
 * [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) - Nicolas Fränkel
 
-### <a name="articles-blog-posts-september-2016"></a>September 2016 <sup>[Back ⇈](#articles-blog-posts-september-2016-subcategory)</sup>
 * [Kotlin census: call to action](http://kotlin.link/articles/Kotlin-census-call-to-action.html) - Roman Belov
 * [Building DSL Instead of an IDE Plugin](http://kotlin.link/articles/Building-DSL-Instead-of-an-IDE-Plugin.html) - Eugene Petrenko
 * [Building a compiler for your own language: validation](http://kotlin.link/articles/Building-a-compiler-for-your-own-language-validation.html) - Federico Tomassetti
@@ -794,7 +782,6 @@ Here awesome badge for your project:
 * [An in-depth look at Kotlin’s initializers](http://kotlin.link/articles/An-in-depth-look-at-Kotlin’s-initializers.html) - AJ Alt
 * [Kotlin in Production - What works, Whats broken](http://kotlin.link/articles/Kotlin-in-Production-What-works-Whats-broken.html) - DripStat
 
-### <a name="articles-blog-posts-august-2016"></a>August 2016 <sup>[Back ⇈](#articles-blog-posts-august-2016-subcategory)</sup>
 * [Calling on EAPers](http://kotlin.link/articles/Calling-on-EAPers.html) - Roman Belov
 * [More readable tests with Kotlin](http://kotlin.link/articles/More-readable-tests-with-Kotlin.html) - Flavio
 * [The Kobalt diaries: Parallel builds](http://kotlin.link/articles/The-Kobalt-diaries-Parallel-builds.html) - Cédric Beust
@@ -813,7 +800,6 @@ Here awesome badge for your project:
 * [Writing Kotlin Idiomatic Code](http://kotlin.link/articles/Writing-Kotlin-Idiomatic-Code.html) - Denis Trailin
 * [Natural testing with Kotlin](http://kotlin.link/articles/Natural-testing-with-Kotlin.html) - Vardan Torosyan
 
-### <a name="articles-blog-posts-july-2016"></a>July 2016 <sup>[Back ⇈](#articles-blog-posts-july-2016-subcategory)</sup>
 * [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - Konstantin Semenov
 * [Never say final: mocking Kotlin classes in unit tests](http://kotlin.link/articles/Never-say-final-mocking-Kotlin-classes-in-unit-tests.html) - Danny Preussler
 * [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - Nicolas Fränkel
@@ -824,7 +810,6 @@ Here awesome badge for your project:
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) - Artem Zinnatullin
 * [KotlinLifeguard #1](http://kotlin.link/articles/KotlinLifeguard-1.html) - Daniel Gomez Rico
 
-### <a name="articles-blog-posts-june-2016"></a>June 2016 <sup>[Back ⇈](#articles-blog-posts-june-2016-subcategory)</sup>
 * [Where We Stand & What's Next for Kotlin](http://kotlin.link/articles/Where-We-Stand-What-s-Next-for-Kotlin.html) - Andrey Breslav
 * [What’s in store for Kotlin this year](http://kotlin.link/articles/What’s-in-store-for-Kotlin-this-year.html) - Gabriela Motroc
 * [Kotlin Eclipse Plugin 0.7 Is Here!](http://kotlin.link/articles/Kotlin-Eclipse-Plugin-0-7-Is-Here.html) - Nikolay Krasko
@@ -841,7 +826,6 @@ Here awesome badge for your project:
 * [How to get IDEA to detect kotlin generated sources using Gradle](http://kotlin.link/articles/How-to-get-IDEA-to-detect-kotlin-generated-sources-using-Gradle.html) - Nish Tahir
 * [Kotlin 1.0.3 Is Here!](http://kotlin.link/articles/Kotlin-1-0-3-Is-Here.html) - Roman Belov
 
-### <a name="articles-blog-posts-may-2016"></a>May 2016 <sup>[Back ⇈](#articles-blog-posts-may-2016-subcategory)</sup>
 * [JMock and Kotlin](http://kotlin.link/articles/JMock-and-Kotlin.html) - Duncan McGregor
 * [Testing in Kotlin](http://kotlin.link/articles/Testing-in-Kotlin.html) - Stephen Samuel
 * [Kosent](http://kotlin.link/articles/Konsent.html) - Duncan McGregor
@@ -854,7 +838,6 @@ Here awesome badge for your project:
 * [Some of my favorite Kotlin features (https://github.com/KotlinBy/awesome-kotlin/blob/master/that we use a lot in Basecamp)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Some-of-my-favorite-Kotlin-features-that-we-use-a-lot-in-Basecamp.html) - Dan Kim
 * [Neural Networks in Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/part 2)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Neural-Networks-in-Kotlin-part-2.html) - Cédric Beust
 
-### <a name="articles-blog-posts-april-2016"></a>April 2016 <sup>[Back ⇈](#articles-blog-posts-april-2016-subcategory)</sup>
 * [Experimental: Kotlin and mutation testing](http://kotlin.link/articles/Experimental-Kotlin-and-mutation-testing.html) - Nicolas Frankel
 * [Exploring Delegation in Kotlin](http://kotlin.link/articles/Exploring-Delegation-in-Kotlin.html) - @codemonkeyism
 * [Kotlin’s killer features](http://kotlin.link/articles/Kotlin’s-killer-features.html) - Jasper Sprengers
@@ -878,7 +861,6 @@ Here awesome badge for your project:
 * [Exercises in Kotlin: Part 4 - Control flows and return](http://kotlin.link/articles/Exercises-in-Kotlin-Part-4-Control-flows-and-return.html) - Dhananjay Nene
 * [Exercises in Kotlin: Part 5 - Classes](http://kotlin.link/articles/Exercises-in-Kotlin-Part-5-Classes.html) - Dhananjay Nene
 
-### <a name="articles-blog-posts-march-2016"></a>March 2016 <sup>[Back ⇈](#articles-blog-posts-march-2016-subcategory)</sup>
 * [Developing on Android sucks a lot less with Kotlin](http://kotlin.link/articles/Developing-on-Android-sucks-a-lot-less-with-Kotlin.html) - Kuno Qing
 * [Kotlin & Android: A Brass Tacks Experiment, Part 5](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-5.html) - Doug Stevenson
 * [Kotlin для начинающих](http://kotlin.link/articles/Kotlin-для-начинающих.html) - @Devcolibri
@@ -913,7 +895,6 @@ Here awesome badge for your project:
 * [Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More](http://kotlin.link/articles/Ubuntu-Make-16-03-Released-With-Eclipse-JEE-And-IntelliJ-IDEA-EAP-Support-More.html) - Alin Andrei
 * [10 Features I Wish Java Would Steal From the Kotlin Language](http://kotlin.link/articles/10-Features-I-Wish-Java-Would-Steal-From-the-Kotlin-Language.html) - Lukas Eder
 
-### <a name="articles-blog-posts-february-2016"></a>February 2016 <sup>[Back ⇈](#articles-blog-posts-february-2016-subcategory)</sup>
 * [Scala vs Kotlin](http://kotlin.link/articles/Scala-vs-Kotlin.html) - Lionel
 * [Kotlin & Android: A Brass Tacks Experiment, Part 2.](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-2.html) - Doug Stevenson
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1.](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-1.html) - Doug Stevenson
@@ -950,7 +931,6 @@ Here awesome badge for your project:
 * [Как себе выстрелить в ногу в Kotlin](http://kotlin.link/articles/Как-себе-выстрелить-в-ногу-в-Kotlin.html) - @ov7a
 * [The Journey of a Spring Boot application from Java 8 to Kotlin, part 3: Data Classes](http://kotlin.link/articles/The-Journey-of-a-Spring-Boot-application-from-Java-8-to-Kotlin-part-3-Data-Classes.html) - Mike Gehard
 
-### <a name="articles-blog-posts-january-2016"></a>January 2016 <sup>[Back ⇈](#articles-blog-posts-january-2016-subcategory)</sup>
 * [Kotlin XML Binding](http://kotlin.link/articles/Kotlin-XML-Binding.html) - Eugene Petrenko
 * [Playing with Spring Boot, Vaadin and Kotlin](http://kotlin.link/articles/Playing-with-Spring-Boot-Vaadin-and-Kotlin.html) - Nicolas Frankel
 * [Android development with Kotlin](http://kotlin.link/articles/Android-development-with-Kotlin.html) - Fernando Ramirez
@@ -959,57 +939,107 @@ Here awesome badge for your project:
 * [My Kotlin Adventure](http://kotlin.link/articles/My-Kotlin-Adventure.html) - Ciro Rizzo
 * [KillerTask, the solution to AsyncTask implementation](http://kotlin.link/articles/KillerTask-the-solution-to-AsyncTask-implementation.html) - Fernando Ramirez
 
-### <a name="articles-blog-posts-december-2015"></a>December 2015 <sup>[Back ⇈](#articles-blog-posts-december-2015-subcategory)</sup>
 * [Kotlin for Java Developers: 10 Features You Will Love About Kotlin](http://kotlin.link/articles/Kotlin-for-Java-Developers-10-Features-You-Will-Love-About-Kotlin.html) - Peter Sommerhoff
 * [Early Impressions of Kotlin](http://kotlin.link/articles/Early-Impressions-of-Kotlin.html) - Nat Pryce
 
-### <a name="articles-blog-posts-november-2015"></a>November 2015 <sup>[Back ⇈](#articles-blog-posts-november-2015-subcategory)</sup>
 * [Setting up Kotlin with Android and tests](http://kotlin.link/articles/Setting-up-Kotlin-with-Android-and-tests.html) - Laura Kogler
 
-### <a name="articles-blog-posts-october-2015"></a>October 2015 <sup>[Back ⇈](#articles-blog-posts-october-2015-subcategory)</sup>
 * [Exploring the Kotlin standard library](http://kotlin.link/articles/Exploring-the-Kotlin-standard-library.html) - Cédric Beust
 
-### <a name="articles-blog-posts-september-2015"></a>September 2015 <sup>[Back ⇈](#articles-blog-posts-september-2015-subcategory)</sup>
 * [Kotlin ❤ FP](http://kotlin.link/articles/Kotlin-love-FP.html) - Mike Hearn
 * [Kotlin: A Low-Ceremony, High-Integration Language](http://kotlin.link/articles/Kotlin-is-A-Low-Ceremony-High-Integration-Language.html) - HADI HARIRI
 
-### <a name="articles-blog-posts-august-2015"></a>August 2015 <sup>[Back ⇈](#articles-blog-posts-august-2015-subcategory)</sup>
 * [Building APIs on the JVM Using Kotlin and Spark – Part 1](http://kotlin.link/articles/Building-APIs-on-the-JVM-Using-Kotlin-and-Spark-–-Part-1.html) - Travis Spencer
 * [Production Ready Kotlin](http://kotlin.link/articles/Production-Ready-Kotlin.html) - Jayson Minard
 
-### <a name="articles-blog-posts-july-2015"></a>July 2015 <sup>[Back ⇈](#articles-blog-posts-july-2015-subcategory)</sup>
 * [Why Kotlin is my next programming language](http://kotlin.link/articles/Why-Kotlin-is-my-next-programming-language.html) - Mike Hearn
 * [Android + Kotlin = <3](http://kotlin.link/articles/Android-Kotlin-love.html) - Michael Sattler
 * [Без слайдов: интервью с Дмитрием Жемеровым из JetBrains](http://kotlin.link/articles/Без-слайдов-интервью-с-Дмитрием-Жемеровым-из-JetBrains.html) - Алексей Фёдоров
 
-### <a name="articles-blog-posts-june-2015"></a>June 2015 <sup>[Back ⇈](#articles-blog-posts-june-2015-subcategory)</sup>
 * [Quasar and Kotlin - a Powerful Match](http://kotlin.link/articles/Quasar-and-Kotlin-–-a-Powerful-Match.html) - Fabio
 * [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - Peter Ledbrook
 * [RxAndroid and Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/Part 1)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/RxAndroid-and-Kotlin-Part-1.html) - Ahmed Rizwan
 
-### <a name="articles-blog-posts-december-2014"></a>December 2014 <sup>[Back ⇈](#articles-blog-posts-december-2014-subcategory)</sup>
 * [Non-trivial constructors in Kotlin](http://kotlin.link/articles/Non-trivial-constructors-in-Kotlin.html) - Alex Shabanov
 
-### <a name="articles-blog-posts-april-2013"></a>April 2013 <sup>[Back ⇈](#articles-blog-posts-april-2013-subcategory)</sup>
 * [The Advent of Kotlin: A Conversation with JetBrains' Andrey Breslav](http://kotlin.link/articles/The-Advent-of-Kotlin-A-Conversation-with-JetBrains-Andrey-Breslav.html) - Janice J. Heiss
 
-### <a name="articles-blog-posts-february-2013"></a>February 2013 <sup>[Back ⇈](#articles-blog-posts-february-2013-subcategory)</sup>
 * [Exploring the Kotlin Standard Library - Part 3](http://kotlin.link/articles/Exploring-the-Kotlin-Standard-Library-Part-3.html) - Jamie McCrindle
 
-### <a name="articles-blog-posts-january-2013"></a>January 2013 <sup>[Back ⇈](#articles-blog-posts-january-2013-subcategory)</sup>
 * [Exploring the Kotlin Standard Library - Part 1](http://kotlin.link/articles/Exploring-the-Kotlin-Standard-Library-Part-1.html) - Jamie McCrindle
 * [The Adventurous Developer’s Guide to JVM languages – Kotlin](http://kotlin.link/articles/The-Adventurous-Developer’s-Guide-to-JVM-languages-–-Kotlin.html) - Simon Maple
 * [Exploring the Kotlin Standard Library - Part 2](http://kotlin.link/articles/Exploring-the-Kotlin-Standard-Library-Part-2.html) - Jamie McCrindle
 
 
-## <a name="videos"></a>Videos <sup>[Back ⇈](#videos-category)</sup>
-### <a name="videos-march-2018"></a>March 2018 <sup>[Back ⇈](#videos-march-2018-subcategory)</sup>
 * [Kotlin EE: Boost your Productivity](http://kotlin.link/articles/Kotlin-EE-Boost-Your-Productivity.html) - Marcus Fihlon @ Voxxed Days Bucharest
 
-### <a name="videos-april-2017"></a>April 2017 <sup>[Back ⇈](#videos-april-2017-subcategory)</sup>
 * [The Future of Kotlin: How agile can language development be?](http://kotlin.link/articles/Future-of-Kotlin-How-agile-can-language-development-be-video.html) - Andrey Breslav
 
-### <a name="videos-december-2016"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
+* [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) - Haim Yadid
+* [Functional Programming in Kotlin with funKTionale (https://github.com/KotlinBy/awesome-kotlin/blob/master/Video)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - Mario Arias
+* [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) - Francisco Estevez
+* [Costruiamo un treno in Kotlin](http://kotlin.link/articles/Costruiamo-un-treno-in-Kotlin.html) - Francesco Vasco
+* [Kotlin: Будущие изменения и текущие мифы](http://kotlin.link/articles/Kotlin-Будущие-изменения-и-текущие-мифы.html) - Android в Лицах
+
+* [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - Anton Keks
+* [10 Kotlin Tricks in 10(https://github.com/KotlinBy/awesome-kotlin/blob/master/ish) Minutes](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - Jake Wharton
+* [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) - JetBrains
+* [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) - Nevin Chen
+* [Code Swarm for Kotlin](http://kotlin.link/articles/Code-Swarm-for-kotlin.html) - Landon Wilkins
+* [Developing a Geospatial Webservice with Kotlin and Spring Boot](http://kotlin.link/articles/Developing-a-Geospatial-Webservice-with-Kotlin-and-Spring-Boot.html) - Sébastien Deleuze
+
+* [Better Android Development with Kotlin and Gradle](http://kotlin.link/articles/Better-Android-Development-with-Kotlin-and-Gradle.html) - Ty Smith
+* [Christina Lee: Kotlin in Production](http://kotlin.link/articles/Christina-Lee-Kotlin-in-Production.html) - Android Dialogs
+* [Spring Tips: the Kotlin Programming Language](http://kotlin.link/articles/Spring-Tips-the-Kotlin-Programming-Language.html) - Josh Long
+* [Spring Boot and Kotlin, a match made in Heaven](http://kotlin.link/articles/Spring-Boot-and-Kotlin-a-match-made-in-Heaven.html) - Nicolas Frankel
+
+* [Kotlin - Ready for Production](http://kotlin.link/articles/Kotlin-Ready-for-Production.html) - Hadi Hariri
+
+* [Andrey Breslav: Kotlin Coroutines, JVMLS 2016](http://kotlin.link/articles/Andrey-Breslav-Kotlin-Coroutines-JVMLS-2016.html) - Andrey Breslav
+* [Writing Gradle Build Scripts in Kotlin](http://kotlin.link/articles/Writing-Gradle-Build-Scripts-in-Kotlin.html) - Chris Beams & Rodrigo B. de Oliveiranp
+
+* [You can do Better with Kotlin](http://kotlin.link/articles/You-can-do-Better-with-Kotlin.html) - Svetlana Isakova
+
+* [Type safe JavaFX CSS with TornadoFX](http://kotlin.link/articles/Type-safe-JavaFX-CSS-with-TornadoFX.html) - Edvin Syse
+
+* [Дмитрий Полищук - Kotlin + Android: практический ликбез](http://kotlin.link/articles/Дмитрий-Полищук-Kotlin-Android-практический-ликбез.html) - Дмитрий Полищук
+
+* [Fun with Kotlin](http://kotlin.link/articles/Fun-with-Kotlin.html) - Eder Bastos
+
+* [Kotlin NoSQL for MongoDB in Action](http://kotlin.link/articles/Kotlin-NoSQL-for-MongoDB-in-Action.html) - Andrey Cheptsov
+
+* [JVMLS 2015 - Flexible Types in Kotlin](http://kotlin.link/articles/JVMLS-2015-Flexible-Types-in-Kotlin.html) - Andrey Breslav
+
+* [Kotlin for Java developers](http://kotlin.link/articles/Kotlin-for-Java-developers.html) - Hadi Hariri
+
+* [GeeCON Prague 2014: Andrey Cheptsov - A Reactive and Type-safe Kotlin DSL for NoSQL and SQL](http://kotlin.link/articles/GeeCON-Prague-2014-Andrey-Cheptsov-A-Reactive-and-Type-safe-Kotlin-DSL-for-NoSQL-and-SQL.html) - Andrey Cheptsov
+
+* [Kotlin vs Java puzzlers](http://kotlin.link/articles/Kotlin-vs-Java-puzzlers-Svetlana-Isakova.html) - Svetlana Isakova
+
+
+* [Future of Kotlin - How agile can language development be?](http://kotlin.link/articles/Future-of-Kotlin-How-agile-can-language-development-be.html) - Andrey Breslav
+
+* [Kotlin Lang](http://kotlin.link/articles/Kotlin-Lang.html) - Jemo Mgebrishvili
+* [FRP + Kotlin](http://kotlin.link/articles/FRP-Kotlin.html) - Giorgio Natili
+
+* [Generating Kotlin Code for Better Refactorings, Tests, and IDE Support](http://kotlin.link/articles/Generating-Kotlin-Code-for-Better-Refactorings-Tests-and-IDE-Support.html) - Eugene Petrenko
+* [Functional Programming in Kotlin with funKTionale](http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale.html) - Mario Arias
+
+* [Kotlin DSL: Anko](http://kotlin.link/articles/Link-Kotlin-DSL-Anko.html) - @maciekjanusz
+* [Kotlin + Android](http://kotlin.link/articles/Kotlin-Android.html) - Dmytro Danylyk
+
+* [Kotlin: New Hope in a Java 6 Wasteland](http://kotlin.link/articles/Kotlin-New-Hope-in-a-Java-6-Wasteland.html) - Michael Pardo
+
+
+* [Functional Programming with Kotlin](http://kotlin.link/articles/Functional-Programming-with-Kotlin.html) - Roman Belov
+
+* [Quasar: Efficient and Elegant Fibers, Channels and Actors](http://kotlin.link/articles/Quasar-Efficient-and-Elegant-Fibers-Channels-and-Actors.html) - Roman Belov
+
+
+
+---
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)6"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
 * [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) - Haim Yadid
 * [Functional Programming in Kotlin with funKTionale (https://github.com/KotlinBy/awesome-kotlin/blob/master/Video)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - Mario Arias
 * [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) - Francisco Estevez

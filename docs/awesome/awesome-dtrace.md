@@ -187,4 +187,8 @@ Contributions are more than welcome! Please see [contribution guidelines](https:
 
 ## Contributing
 
+Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first. DTrace site.
+
+## Contributing
+
 Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first.

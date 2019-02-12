@@ -1447,7 +1447,6 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (https://github.com
 
 Categories: `drama` `romance`
 
-The original spanish movie [Vanilla Sky](#vanilla-sky-2001-69) was based on, way better acting, you should watch this first. - [@uraimo](https://github.com/uraimo)
 
 > A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.
 
@@ -1918,6 +1917,31 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
 #### [We3](https://github.com/sindresorhus/awesome-scifi/blob/master/http://www.goodreads.com/book/show/22358.We3) (https://github.com/sindresorhus/awesome-scifi/blob/master/2005) *by Grant Morrison* [3.95]
+
+Categories: `hard-science-fiction` `sci-fi` `society`
+
+One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
+
+> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
+
+
+## Links
+
+- [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
+- [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
+- [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
+
+
+## Credit
+
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.e3) (https://github.com/sindresorhus/awesome-scifi/blob/master/2005) *by Grant Morrison* [3.95]
 
 Categories: `hard-science-fiction` `sci-fi` `society`
 

@@ -162,4 +162,8 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)nity/blob/master/CONTRIBUTING.md)
+
+## License
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

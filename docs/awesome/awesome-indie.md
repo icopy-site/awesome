@@ -411,4 +411,15 @@ Help me make a proper list of specific topics!ting_product_ideas -->
  - 'typical mistakes'
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
+Help me make a proper list of specific topics!ting_product_ideas -->
+ - 'where to advertise my project'
+ - 'what paid ads work better'
+ - 'i've got 100 users, how to grow'
+ - 'how do i deal with support'
+ - 'types of digital products'
+ - 'legal aspects'
+ <!-- https://termsfeed.com -->
+ - 'typical mistakes'
+ <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
+ 
 Help me make a proper list of specific topics!

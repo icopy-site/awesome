@@ -43,4 +43,4 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Other
 - [Lanyrd](http://lanyrd.com/places/netherlands/) - Directory of conferences and events.
-- [Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=tech&radius=100&userFreeform=netherlands&gcResults=Netherlands%3ANL%3Anull%3Anull%3Anull%3Anull%3Anull%3A52.132633%3A5.2912659999999505&change=yes&sort=member_count) - Directory of meetups.es&sort=member_count) - Directory of meetups.
+- [Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=tech&radius=100&userFreeform=netherlands&gcResults=Netherlands%3ANL%3Anull%3Anull%3Anull%3Anull%3Anull%3A52.132633%3A5.2912659999999505&change=yes&sort=member_count) - Directory of meetups.es&sort=member_count) - Directory of meetups.es&sort=member_count) - Directory of meetups.

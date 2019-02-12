@@ -2,7 +2,6 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-jquery/commits/master)
 [![Build Status](https://img.shields.io/travis/petk/awesome-jquery/master.svg)](https://travis-ci.org/petk/awesome-jquery)
 
@@ -40,7 +39,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
 
-[Back to top](#awesome-jquery)
 
 
 ### Books
@@ -60,7 +58,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*.
 
-[Back to top](#awesome-jquery)
 
 
 ### Blogs
@@ -72,7 +69,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Sitepoint](https://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
-[Back to top](#awesome-jquery)
 
 
 ### Miscellaneous Resources
@@ -86,7 +82,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 * [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
 
-[Back to top](#awesome-jquery)
 
 
 ## Plugins
@@ -97,7 +92,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Rain](http://www.jqueryrain.com/) - Top & Best jQuery plugins, tutorials, cool effects, examples, demos.
 * [jQuery Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
 
-[Back to top](#awesome-jquery)
 
 
 ## Animation
@@ -115,7 +109,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 * [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
 
-[Back to top](#awesome-jquery)
 
 
 ### Editors
@@ -145,7 +138,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 * [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select\> box.
 
-[Back to top](#awesome-jquery)
 
 
 ### Images, Maps and Charts
@@ -172,7 +164,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 * [JQuery-linechart](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
 
-[Back to top](#awesome-jquery)
 
 
 ### Menus
@@ -189,7 +180,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
 * [Yamm](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
-[Back to top](#awesome-jquery)
 
 
 ### Modals and Popups
@@ -209,7 +199,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [tipso](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
 * [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
-[Back to top](#awesome-jquery)
 
 
 ### Tables
@@ -232,7 +221,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
-[Back to top](#awesome-jquery)
 
 
 ### Time and Date
@@ -242,7 +230,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
 * [Timeago](https://github.com/petk/awesome-jquery/blob/master/https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (https://github.com/petk/awesome-jquery/blob/master/e.g. "4 minutes ago").
 
-[Back to top](#awesome-jquery)
 
 
 ### Translations
@@ -253,7 +240,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
-[Back to top](#awesome-jquery)
 
 
 ### Validation
@@ -266,7 +252,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery-validation](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
-[Back to top](#awesome-jquery)
 
 
 ### Miscellaneous Plugins
@@ -281,7 +266,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
 * [autoNumberic](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
-[Back to top](#awesome-jquery)
 
 
 ## Mobile
@@ -292,7 +276,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Interdimensional](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
-[Back to top](#awesome-jquery)
 
 
 ## UI
@@ -313,7 +296,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-[Back to top](#awesome-jquery)
 
 
 ## Server-side Integrations
@@ -332,7 +314,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [jquery-rails](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
-[Back to top](#awesome-jquery)
 
 
 ## Community
@@ -350,7 +331,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
-[Back to top](#awesome-jquery)
 
 
 ## Looking for more lists like this?
@@ -362,6 +342,22 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - Awesome lists
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
     * [lists](https://github.com/jnv/lists) - Awesome lists
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
+* Translations:
+    * [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
+
+
+
+## Contributing and License
+
+You are most welcome to [contribute](https://github.com/petk/awesome-jquery/blob/master/CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/petk/awesome-jquery/blob/master/https://github.com/petk/awesome-jquery/graphs/contributors) who have helped to build this list.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Peter Kokot](https://github.com/petk) has waived all copyright and related or neighboring rights to this work.
+Awesome lists
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript

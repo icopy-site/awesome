@@ -100,4 +100,4 @@
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
-2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]glas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
+2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]glas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]glas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]

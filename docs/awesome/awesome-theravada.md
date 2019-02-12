@@ -160,4 +160,8 @@
 
 ## License
 
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) almost every day on the topics of meditation, Buddhism, and the monastic life.
+
+## License
+
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

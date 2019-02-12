@@ -136,4 +136,8 @@ A curated list of awesome niche job boards.
 
 ### Free & Open Source
 
+* [Free & Open Source Jobs](https://www.fossjobs.net/)s.io/) - The best tech jobs in Dallas / Fort Worth
+
+### Free & Open Source
+
 * [Free & Open Source Jobs](https://www.fossjobs.net/)

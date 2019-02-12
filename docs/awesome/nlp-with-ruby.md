@@ -127,7 +127,6 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
 Stemming is the term used in information retrieval to describe the process for
 reducing wordforms to some base representation. Stemming should be distinguished
-from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 linguistic motivation.
 
 - [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -
@@ -177,7 +176,6 @@ are often collected in dictionaries.
   Parsing Algorithm for Context-Free Constituency Grammars.
 - [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) -
   Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick).
-  <sup>[dep: [ImageMagick](#imagemagick)]</sup>
 
 ### Semantic Analysis
 
@@ -552,6 +550,18 @@ on the code here.
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP with Ruby` has waived all copyright and related or neighboring rights
+to `Awesome NLP with Ruby`.
+
+You should have received a copy of the CC0 legalcode along with this
+work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
+
+<!--- Links --->
+[ruby]: https://www.ruby-lang.org/en/
+[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
+[faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
+[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
+[ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.mde NLP with Ruby` has waived all copyright and related or neighboring rights
 to `Awesome NLP with Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this

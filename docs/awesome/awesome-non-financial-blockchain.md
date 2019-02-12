@@ -83,4 +83,4 @@ Industry of a blockchain application is defined by the one that is changed the m
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sergey Ukustov](https://github.com/ukstv) and [Machinomy](https://github.com/machinomy) have waived all copyright and related or neighboring rights to this work./machinomy) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sergey Ukustov](https://github.com/ukstv) and [Machinomy](https://github.com/machinomy) have waived all copyright and related or neighboring rights to this work./machinomy) have waived all copyright and related or neighboring rights to this work./machinomy) have waived all copyright and related or neighboring rights to this work.

@@ -156,4 +156,6 @@ A curated list of awesome HBase projects and resources.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>mg src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
      style="border-style: none;" alt="Public Domain Mark" />
+</a>mg src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
+     style="border-style: none;" alt="Public Domain Mark" />
 </a>

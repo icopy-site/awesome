@@ -47,7 +47,6 @@ If you build it, they will come.  This section describes aggregations of Qt user
 
 ## Tools
 
-A good developer writes his or her own tools.  A great one uses tools others wrote.  This section will help you be great; more formally, this section details applications that make it easier to create software with Qt.  You may also be interested in the [Libraries](#libraries) section.
 
 ### Official Tools
 
@@ -77,7 +76,6 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 
 ## Bindings in Other Languages
 
-This section describes software that enables creation of Qt software in a primary language other than C++.  Libraries that allow run-time scripting in a Qt application are listed under [Integrations](#integrations).
 
 - [Python (https://github.com/JesseTG/awesome-qt/blob/master/via PyQt)](https://github.com/JesseTG/awesome-qt/blob/master/https://riverbankcomputing.com/software/pyqt) [:package:](https://github.com/JesseTG/awesome-qt/blob/master/https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
 - [Python (https://github.com/JesseTG/awesome-qt/blob/master/via PySide)](https://github.com/JesseTG/awesome-qt/blob/master/https://wiki.qt.io/PySide) [:package:](https://github.com/JesseTG/awesome-qt/blob/master/https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
@@ -141,7 +139,6 @@ For the purpose of this section, an "Integration"-focused library does one of th
 
 ## Software Repositories
 
-If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these will.
 
 - [#inqlude](https://inqlude.org) - The most well-known aggregation of Qt-centric libraries out there.  A package manager is also available [here](https://inqlude.org/get.html).
 - [QtPods](https://github.com/qt-pods/qt-pods) - Another Qt-centric package manager.  If you want to see the offerings without using QtPods, the full list is available [here](https://github.com/qt-pods/qt-pods-master/blob/master/pods.json), and can be added to by submitting a pull request.
@@ -197,7 +194,6 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [KDE](https://www.kde.org) [:octocat:](https://github.com/KDE) - One of the most popular desktop environments for Linux.
 - [Malwarebytes](https://www.malwarebytes.com) - Your Windows desktop's personal bodyguard.
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - Consumer-focused virtualization.
-- [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - Something something eating your own dog food. Listed in the [official tools](#official-tools), but not listing it here doesn't feel right.
 - [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
 - [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 - [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
@@ -217,6 +213,15 @@ There's also an official showroom [here](https://showroom.qt.io), which lets dev
 If you're familiar with Awesome, you'll know that there's an *extremely* wide variety of resources, the usefulness of which will depend on your project.  However, if you're developing Qt applications, you'll almost certainly want to look at these as well.
 
 - [Awesome C/C++](https://github.com/fffaraz/awesome-cpp) - There's no reason you can't use C++ libraries that weren't designed for Qt.  Sometimes they might even suit your needs better than what Qt offers.
+- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) - Same goes for C libraries; might wanna brush up on those RAII techniques while you're at it.
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead.
+- [Awesome OpenGL](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [Jesse Talavera-Greenberg](https://github.com/JesseTG/awesome-qt/blob/master/https://jessetg.github.io) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](https://github.com/JesseTG/awesome-qt/blob/master/LICENSE) file for details. you can't use C++ libraries that weren't designed for Qt.  Sometimes they might even suit your needs better than what Qt offers.
 - [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) - Same goes for C libraries; might wanna brush up on those RAII techniques while you're at it.
 - [Awesome CMake](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead.
 - [Awesome OpenGL](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL.

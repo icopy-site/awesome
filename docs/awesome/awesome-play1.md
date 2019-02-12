@@ -1,6 +1,5 @@
 # Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [resources](#resources).
 
 >Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby](https://github.com/markets/awesome-ruby).
 
@@ -18,21 +17,6 @@ Lists all the modules available with the following `badges` :
 
 
 The modules are divided in the following categories : 
- * [Database](#database) 
- * [Deployment](#deployment) 
- * [Injection/dependencies](#injectiondependencies) 
- * [Language](#language) 
- * [Messaging/events](#messagingevents) 
- * [Monitoring](#monitoring) 
- * [Persistence](#persistence) 
- * [Presentation](#presentation) 
- * [Rest](#rest) 
- * [Scaffolding](#scaffolding) 
- * [Search](#search)
- * [Security](#security) 
- * [Template](#template) 
- * [Translation](#translation) 
- * [Misc](#misc) 
 
 If you want to contribute information about a module, please refer to the [guide](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md#module).
 
@@ -220,6 +204,18 @@ If you want to contribute information about a module, please refer to the [guide
 
 # Tools
 *You know a tool that every player should use? [Tell us!](https://github.com/PerfectCarl/awesome-play1/edit/master/README.md)*
+
+# Resources
+
+- [Mavenized modules](https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules) and [how to use them](https://code.google.com/p/maven-play-plugin/wiki/Usage)
+- [Using Play's controller](http://www.javabeat.net/using-controllers-in-play-framework/) with a nice roundup about caching, expiration and eTags
+- Using [Luo](https://github.com/greenlaw110)'s `cache4` [annotation](http://www.playframework.com/modules/rythm-1.0.0-20121210/integration#cache4)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) has waived all copyright and related or neighboring rights to this work.r/README.md)*
 
 # Resources
 

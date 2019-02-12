@@ -216,4 +216,6 @@ This means that it adheres to its [core values](https://github.com/folkswhocode/
 
 Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).UTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/LICENSE).
 
+Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).UTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/LICENSE).
+
 Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).

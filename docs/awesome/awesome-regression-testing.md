@@ -144,4 +144,5 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).ns.org/licenses/by-sa/4.0/).
+License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).ns.org/licenses/by-sa/4.0/).
 License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).

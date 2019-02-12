@@ -7,33 +7,8 @@
 
 ---
 
-  - [Books](#books)
-  - [Canvas](#canvas)
-  - [Client/Server Communication](#clientserver-communication)
-  - [Code Analysis](#code-analysis)
-  - [Data Serialization](#data-serialization)
-  - [Data Visualization](#data-visualization)
-  - [Database](#database)
-  - [Development](#development)
-  - [Document Object Model](#document-object-model)
-  - [Documentation](#documentation)
-  - [Graphics](#graphics)
-  - [HTTP Handler](#http-handler)
-  - [Internationalization](#internationalization)
-  - [JavaScript Interoperability](#javascript-interoperability)
-  - [Miscellaneous](#miscellaneous)
-  - [React.js Interface](#reactjs-interface)
-  - [Reactive Programming](#reactive-programming)
-  - [Routing](#routing)
-  - [State Management](#state-management)
-  - [Testing](#testing)
-  - [Validation](#validation)
-  - [Web Framework & Template](#web-framework--template)
-  - [WebSockets](#websockets)
 
 
-- [Contributing](#contributing)
-- [License](#license)
 
 * * *
 
@@ -199,6 +174,27 @@
 - [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
+- [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
+
+
+### WebSockets
+- [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+- [Sente](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/ptaoussanis/sente) – Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) + core.async + WebSockets/Ajax.
+
+
+* * *
+
+
+## Contributing
+All contributions are welcome. Please read [Contributing](https://github.com/hantuzun/awesome-clojurescript/blob/master/CONTRIBUTING.md) before opening a pull request.
+
+
+## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+[Han Tuzun](http://hantuzun.com) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.that uses Boot.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 

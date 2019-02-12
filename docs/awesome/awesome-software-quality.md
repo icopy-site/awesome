@@ -18,13 +18,6 @@ If you would like add something, just send the text as you would like it to appe
 
 ## Index
 
-* [Books](#books)
-* [Courses](#courses)
-* [Podcasts](#podcasts)
-* [Conferences](#conferences)
-* [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
-* [Learned lessons](#learned-lessons)
-* [Awesome lists](#awesome-lists)
 
 
 # Books
@@ -396,6 +389,16 @@ If you would like add something, just send the text as you would like it to appe
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
+- [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
+- [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+
+### License
+
+[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
+waived all copyright and related or neighboring rights to this work.ub.com/asatarin/testing-distributed-systems)
 - [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)

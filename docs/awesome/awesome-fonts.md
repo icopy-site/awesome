@@ -176,4 +176,8 @@ Feel free to make a pull request. [Click here to read the guidelines](https://gi
 
 ## Contribution
 
+Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).o/1.0/)
+
+## Contribution
+
 Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).

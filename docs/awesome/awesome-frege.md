@@ -176,4 +176,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.cdomain/zero/1.0/)
 
+To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.cdomain/zero/1.0/)
+
 To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.

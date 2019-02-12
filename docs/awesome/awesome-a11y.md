@@ -35,4 +35,4 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 
 ## LICENSE
 
-This project is licensed under the MIT license - see the [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) for details./blob/master/LICENSE.md) for details.
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) for details./blob/master/LICENSE.md) for details./blob/master/LICENSE.md) for details.

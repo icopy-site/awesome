@@ -351,4 +351,10 @@ Content of this repository is licensed under the [Creative Commons CC0
 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
+has waived all copyright and related or neighboring rights to this work.)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Content of this repository is licensed under the [Creative Commons CC0
+license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.

@@ -1,57 +1,13 @@
 # Awesome Lua [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of quality Lua [packages](#packages) and [resources](#resources).
 
 Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 
 ## Packages
-- [Implementations, Interpreters, and Bindings](#implementations-interpreters-and-bindings)
-- [Package Managers](#package-managers)
-- [Build Tools and Standalone Makers](#build-tools-and-standalone-makers)
-- [Debugging and Profiling](#debugging-and-profiling)
-- [IDEs and Plugins](#ides-and-plugins)
-- [Utility Belts](#utility-belts)
-- [Game Engines](#game-engines)
-- [Game Development](#game-development)
-- [Logging](#logging)
-- [Web/Networking Platforms](#webnetworking-platforms)
-- [OpenResty](#openresty)
-- [Command-line Utilities](#command-line-utilities)
-- [Concurrency and Multithreading](#concurrency-and-multithreading)
-- [Templating](#templating)
-- [Documentation](#documentation)
-- [Object-oriented Programming](#object-oriented-programming)
-- [File system and OS](#file-system-and-os)
-- [Time and Date](#time-and-date)
-- [Image Manipulation](#image-manipulation)
-- [Digital Signal Processing](#digital-signal-processing)
-- [Hardware and Embedded Systems](###hardware-and-embedded-systems)
-- [Math and Scientific Computing](#math-and-scientific-computing)
-- [Parsing and Serialization](#parsing-and-serialization)
-- [Humanize](#humanize)
-- [Compression](#compression)
-- [Cryptography](#cryptography)
-- [Network](#network)
-- [Data Stores](#data-stores)
-- [Message Brokers](#message-brokers)
-- [Testing](#testing)
-- [Foreign Function Interfaces](#foreign-function-interfaces)
-- [Analysis Tools and ASTs](#analysis-tools-and-asts)
-- [Experimental, etc](#experimental-etc)
-- [Scriptable by Lua](#scriptable-by-lua)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Resources
-- [Community](#community)
-- [References](#references)
-- [Style Guides](#style-guides)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Talks & Slides](#talks--slides)
-- [Books](#books)
-- [Other Lists](#other-lists)
 
 
 ### Implementations, Interpreters, and Bindings
@@ -396,6 +352,36 @@ For more on the differences (https://github.com/LewisJEllis/awesome-lua/blob/mas
 ### Articles
 - [Embedding Lua in C](https://debian-administration.org/article/264/Embedding_a_scripting_language_inside_your_C/C_code) - An introductory walkthrough of embedding Lua in a C program. A bit dated, but still a great walkthrough.
 - [Lua: Good, bad, and ugly parts](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts) - A thorough summary of the good, different, bad, and ugly aspects of Lua, including many subtle quirks, by the author of ZeroBraneStudio.
+- [Lua states, libraries, coroutines and memory](http://www.thijsschreijer.nl/blog/?p=693) - Diagrams and explains some more advanced concepts of the Lua VM, particularly when interfacing with C.
+
+
+### Talks & Slides
+- [Roberto's Talks](http://www.inf.puc-rio.br/~roberto/talks/index.html) - History of talks given by Lua's chief architect, with slides for each.
+- [Lua Workshop Talks](http://www.lua.org/wshop14.html#abstracts) - High-quality talks are given at each ~annual Lua Workshop, and a history of them is online, slides included.
+
+
+### Books
+- [Programming in Lua](http://www.lua.org/pil/) - The authoritative intro to all aspects of Lua programming, written by Lua's chief architect. Three editions released; first edition available online.
+- [Lua Quick Reference](https://foicica.com/lua/) - A quick reference on how to program in and embed Lua 5.1 through 5.3, by the creator of Textadept.
+- [Programming Gems](http://www.lua.org/gems/) - A collection of articles covering existing wisdom and practices on programming well in Lua, in a broad variety of use cases.
+- [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - A shorter overview of the language, up to date for Lua 5.2, and available online.
+
+
+### Other Lists
+- [awesome-resty](https://github.com/bungle/awesome-resty) - A list like this one, but focused on OpenResty.
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform.
+- [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
+
+
+## Contribute
+
+Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/LewisJEllis/awesome-lua/blob/master/contributing.md) first.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Lewis Ellis has waived all copyright and related or neighboring rights to this work.mming/lua-good-different-bad-and-ugly-parts) - A thorough summary of the good, different, bad, and ugly aspects of Lua, including many subtle quirks, by the author of ZeroBraneStudio.
 - [Lua states, libraries, coroutines and memory](http://www.thijsschreijer.nl/blog/?p=693) - Diagrams and explains some more advanced concepts of the Lua VM, particularly when interfacing with C.
 
 

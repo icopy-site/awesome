@@ -99,4 +99,4 @@ Boilerplate + examples for React Native (https://github.com/expede/awesome-relay
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
 # Testing
-- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. ikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
+- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. ikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. ikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 

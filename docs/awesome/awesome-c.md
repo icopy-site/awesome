@@ -453,7 +453,6 @@ Implementations of memory allocators for various systems and platforms.
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Implementation of Google Protocol Buffer in C. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization.
 
-Check also: [JSON](#json), [XML](#xml)
 
 ## Source Code Collections ##
 
@@ -590,6 +589,10 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 ## XML ##
 
 > "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
+
+* [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [mini-xml](https://github.com/michaelrsweet/mxml) - Small XML reading and writing library. No dependencies aside from C standard library. [`GNU LGPL2.1 with static linking exception`](https://github.com/michaelrsweet/mxml/blob/master/COPYING)umans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
 
 * [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)

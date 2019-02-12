@@ -4,7 +4,6 @@
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
-- [Awesome SVG](#awesome-svg)
 	- [Accessible SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Accessibility.md)
 	- [Animation](https://github.com/willianjusten/awesome-svg/blob/master/topics/Animation.md)
 	- [Books](https://github.com/willianjusten/awesome-svg/blob/master/topics/Books.md)
@@ -54,4 +53,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.opyright and related or neighboring rights to this work.
+To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.illianjusten) has waived all copyright and related or neighboring rights to this work.opyright and related or neighboring rights to this work.

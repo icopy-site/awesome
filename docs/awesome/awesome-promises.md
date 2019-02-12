@@ -10,10 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 
 
 - [Promises/A+ Implementations (https://github.com/wbinnssmith/awesome-promises/blob/master/ES6/ES2015 compatible)](https://github.com/wbinnssmith/awesome-promises/blob/master/#promisesa-implementations-es6es2015-compatible)
-  - [Strict Implementations](#strict-implementations)
-  - [Implementations with extras](#implementations-with-extras)
-  - [Fallbacks](#fallbacks)
-- [Convenience Utilities](#convenience-utilities)
 
 ## Resources, Blogs, and Books
 
@@ -122,6 +118,10 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [promise-do-until](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
 * [promise-semaphore](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
+* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
+
+## License
+Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).ork to be done in a configurable serial fashion
 * [promise-nodeify](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
 ## License

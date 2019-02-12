@@ -53,31 +53,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
   </ul>
 </details>
 
-#### [Multiple languages](#multiple-languages-1)
 
-#### [Other](#other-1)
 
-  - [Build tools](#build-tools)
-  - [Binaries](#binaries)
-  - [Containers](#containers)
-  - [Config Files](#config-files)
-  - [Configuration Management](#configuration-management)
-  - [CSS](#css)
-  - [Gherkin](#gherkin)
-  - [HTML](#html)
-  - [IDE Plugins](#ide-plugins)
-  - [LaTeX](#latex)
-  - [Makefiles](#makefiles)
-  - [Markdown](#markdown)
-  - [Mobile](#mobile)
-  - [Packages](#packages)
-  - [Supporting Tools](#supporting-tools)
-  - [Template Languages](#template-languages)
-  - [Translation](#translation)
-  - [Web services](#web-services)
-  - [Writing](#writing)
   
-#### [More Collections](#more-collections-1)
 
 ---
 
@@ -626,6 +604,22 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Sider](https://sider.review) :copyright: - An automated code reviewing tool. Improving developers' productivity.
 * [Snyk](https://github.com/mre/awesome-static-analysis/blob/master/https://snyk.io/) :copyright: - Vulnerability scanner for dependencies of node.js apps (https://github.com/mre/awesome-static-analysis/blob/master/free for Open Source Projects)
 * [SonarCloud](https://sonarcloud.io) :copyright: - Multilanguage cloud-based static code analysis. History, trends, security hot-spots, pull request analysis and more. Free for open source.
+* [Teamscale](http://www.teamscale.com/) :copyright: - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
+* [Upsource](https://www.jetbrains.com/upsource/) :copyright: - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
+
+# More collections
+
+* [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
+* [linters](https://github.com/mcandre/linters) - An introduction to static code analysis
+* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -  A reviewed list of useful PHP static analysis tools
+* [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) -  A list of tools for static code analysis.
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Matthias Endler](http://matthias-endler.de) has waived all copyright and related or neighboring rights to this work.
+Title image [Designed by Freepik](http://www.freepik.com).and more. Free for open source.
 * [Teamscale](http://www.teamscale.com/) :copyright: - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
 * [Upsource](https://www.jetbrains.com/upsource/) :copyright: - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
 

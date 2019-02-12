@@ -733,4 +733,17 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.on](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
+* [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
+*
+## Songs
+* [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
+* [The RANSAC Song](http://danielwedge.com/ransac/)
+* [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.

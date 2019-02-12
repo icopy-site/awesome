@@ -491,4 +491,10 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 ### License
 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)-science-interview-questions-for-top-tech-companies/189)
+* [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
+
+### License
+
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

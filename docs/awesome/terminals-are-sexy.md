@@ -281,4 +281,6 @@ Your contributions are always welcome! Please take a look at our [contribution g
 
 Pull requests might be kept open if it hasn't been decided whether additions are *sexy* enough.lines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
 
+Pull requests might be kept open if it hasn't been decided whether additions are *sexy* enough.lines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
+
 Pull requests might be kept open if it hasn't been decided whether additions are *sexy* enough.

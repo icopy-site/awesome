@@ -4,31 +4,6 @@
 A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 
-- [General](#general)
-- [Camera Firmware Mods](#camera-firmware-mods)
-- [Libraries](#libraries)
-	- [Canon](#canon)
-	- [GoPro](#gopro)
-	- [Sony](#sony)
-- [Utilities](#utilities)
-- [RAW image developers](#raw-image-developers)
-- [HDR Specific Software](#hdr-specific-software)
-- [Panorama Stitching](#panorama-stitching)
-- [Photo Organizers](#photo-organizers)
-- [EXIF Editors](#exif-editors)
-- [Photo Downloaders](#photo-downloaders)
-- [Camera Tetherers](#camera-tetherers)
-- [Monitor Color Correction](#monitor-color-correction)
-- [Alternative Image Viewers](#alternative-image-viewers)
-- [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#communities)
-- [Resources](#resources)
-- [Video](#video)
-	- [General tools](#general-tools)
-	- [Compositing software](#compositing-software)
-	- [Video Libraries](#video-libraries)
-- [Scripts](#scripts)
-	- [Video to Panorama](#video-to-panorama)
 
 ## General
 
@@ -161,6 +136,31 @@ record, convert and stream audio and video.*
 ### Video Libraries
 
 - [OpenFX](http://openfx.sourceforge.net/) - *An Open Plug-in API for 2D Visual Effects.*
+- [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.*
+- [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*.
+- [Frei0r](https://github.com/dyne/frei0r) - *A large collection of free and portable video plugins.*
+
+## Scripts
+
+### Video to Panorama 
+
+Using [FFmpeg](https://www.ffmpeg.org/) and [Hugin](http://hugin.sourceforge.net/).
+
+```bash
+#!/bin/bash
+mkdir -p /tmp/images
+ffmpeg -i video.avi -r 5 -qscale 3  tmp/images/image-%3d.jpg
+pto_gen -o tmp/hugin.pto tmp/images/*.jpg
+cpfind --multirow -o tmp/hugin.pto tmp/hugin.pto
+cpclean -o tmp/hugin.pto tmp/hugin.pto
+linefind -o tmp/hugin.pto tmp/hugin.pto
+autooptimiser -a -l -s -m -o tmp/hugin.pto tmp/hugin.pto
+pano_modify -o tmp/hugin.pto --center --fov=AUTO --canvas=70% tmp/hugin.pto
+pto2mk -o tmp/hugin.mk -p tmp/output tmp/hugin.pto
+make -f tmp/hugin.mk all
+```
+
+![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)Open Plug-in API for 2D Visual Effects.*
 - [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - *An image processing framework based on OpenFX plugin format.*
 - [Vid.stab](https://github.com/georgmartius/vid.stab) - *A video stabilization library which can be plugged-in with Ffmpeg and Transcode*.
 - [Frei0r](https://github.com/dyne/frei0r) - *A large collection of free and portable video plugins.*

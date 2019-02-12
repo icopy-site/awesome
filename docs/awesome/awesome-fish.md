@@ -72,4 +72,4 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ---
 
-👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)hub.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)
+👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)hub.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)hub.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)

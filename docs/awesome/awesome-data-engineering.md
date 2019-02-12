@@ -5,19 +5,6 @@ A curated list of data engineering tools for software developers [![Awesome](htt
 
 List of content
 
-1. [Databases](#databases)
-2. [Ingestion](#data-ingestion)
-3. [File System](#file-system)
-4. [Serialization format](#serialization-format)
-5. [Stream Processing](#stream-processing)
-6. [Batch Processing](#batch-processing)
-7. [Charts and Dashboards](#charts-and-dashboards)
-8. [Workflow](#workflow)
-9. [ELK Elastic Logstash Kibana](#elk-elastic-logstash-kibana)
-10. [Docker](#docker)
-11. [Datasets](#datasets)
-12. [Monitoring](#monitoring)
-13. [Community](#community)
 
 # Databases
 - Relational
@@ -240,6 +227,19 @@ multi-processor, multi-core machines
 
 ## Conferences
 * [DataEngConf](https://www.datacouncil.ai/about) DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+
+## Podcasts
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
+
+Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](https://insightdataengineering.com) fellows.
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.and data analysts.
 
 ## Podcasts
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.

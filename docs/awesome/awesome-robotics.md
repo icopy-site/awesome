@@ -197,4 +197,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)ing](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)ing](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)

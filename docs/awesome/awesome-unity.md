@@ -9,29 +9,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
 
-- [Awesome Unity](#awesome-unity)
-  - [2D](#2d)
-  - [AI](#ai)
-  - [Augmented & Virtual Reality](#augmented--virtual-reality)
-  - [Camera](#camera)
-  - [Character Controllers](#character-controllers)
-  - [Frameworks](#frameworks)
-  - [Input](#input)
-  - [Modeling](#modeling)
-  - [Monetization](#monetization)
-  - [Networking](#networking)
-  - [Scripting](#scripting)
-  - [Services](#services)
-  - [Tweening](#tweening)
-  - [UI](#ui)
-  - [Utilities](#utilities)
-  - [Visual Scripting](#visual-scripting)
-- [Projects](#projects)
-  - [Games](#games)
-- [Resources](#resources)
-  - [Tips and Tricks](#tips-and-tricks)
-  - [Tutorials](#tutorials)
-- [Contributing](#contributing)
 
 ## 2D
 
@@ -121,6 +98,12 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Fixing Gaps Between Sprites](http://nielson.io/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2) - A short tutorial about removing the small gaps that sometimes appear between adjacent sprites.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
 * [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
+* [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
+* [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
+* [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
+
+# Contributing
+Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.utorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.

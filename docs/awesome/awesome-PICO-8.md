@@ -134,4 +134,6 @@ To the extent possible under law, [Felipe Bueno](https://twitter.com/felipebueno
 
 See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.hboring rights to this work.
 
+See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.hboring rights to this work.
+
 See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.

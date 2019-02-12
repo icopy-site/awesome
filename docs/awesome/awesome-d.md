@@ -8,62 +8,22 @@
   If you know an interesting lib/app in D, please tell me by issue or a pull request :-).
   
  
-- [Awesome D](#awesome-d)
 	- Basic Information
-		- [Official Website](#official-website)
-		- [Getting Help](#getting-help)
-		- [People](#people)
-		- [Events](#events)
-		- [Organizations](#organizations)
 	- Documents
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [Articles](#articles)
-		- [API Doc](#api-docs)
 	- Language Related 
-		- [Package Management](#package-management)
-		- [Compilers](#compilers)
-		- [Build Tools](#build-tools)
-		- [IDE](#ide)
-		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-		- [Preprocessors](#preprocessors)
 	- Compiler for other languages
-		- [Javascript](#javascript)
 	- Common/Utilities
-		- [Containers](#containers)
 	- Networking/Web Related
-		- [Networking](#networking-library)
-		- [Web Frameworks](#web-frameworks)
-		- [Data&Serialization](#data-serialization)
 	- Database
-		- [Database clients](#database-clients)
 	- GUI
-		- [GUI Libs](#gui-libs)
 	- OS
-		- [Operating Systems](#os)
 	- Gaming
-		- [Bindings](#game-bindings)
-		- [Frameworks](#game-frameworks)
-		- [Games](#games)
 	- Video
-		- [Applications](#video-appilcations)
 	- Image Processing
-		- [Applications](#image-processing)
 	- Scientific
-		- [Scientific](#scientific)
 	- Machine Learning
-		- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
 	- Others
-		- [Text Processing](#text-processing)
-		- [Command Line](#command-line)
-		- [Logging](#logging)
-		- [Configuration](#configuration)
-		- [BlogEngine](#blog-engine)
-		- [Testing](#testing)
 		
-- [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Official Website
@@ -384,6 +344,37 @@
 * [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
 * [mir-algorithm](https://github.com/zhaopuming/awesome-d/blob/master/https://github.com/libmir/mir) - N-dimensional arrays (https://github.com/zhaopuming/awesome-d/blob/master/matrixes, tensors), algorithms, general purpose library.
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+* [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
+
+## Text Processing
+
+* [eBay's TSV utilities](https://github.com/eBay/tsv-utils/) - Filtering, statistics, sampling, joins and other operations on TSV files. Very fast, especially good for large datasets.
+
+## Logging
+*Print with care.*
+
+- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility
+- [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](http://linuxcommand.org/man_pages/logrotate8.html) support.
+
+## Configuration
+*Parsing configuration files*
+
+- [sdlang](https://github.com/zhaopuming/awesome-d/blob/master/https://github.com/Abscissa/SDLang-D) - An SDL (https://github.com/zhaopuming/awesome-d/blob/master/Simple Declarative Language) library for D.
+- [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
+- [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+
+## Blog Engine
+*Hosting blogs yourself*
+
+- [mood](https://github.com/Dicebot/mood) - simple vibe.d based blog engine
+
+## Testing
+
+- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+
+## Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.ir/mir-random) -  Advanced Random Number Generators.
 * [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
 ## Text Processing

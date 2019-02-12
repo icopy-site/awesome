@@ -15,122 +15,30 @@
   <br /><br />
 </div>
 
-### [Intro](#intro-1)
 
-- [What is Vim?](#what-is-vim)
-- [The Vim Philosophy](#the-vim-philosophy)
-- [First steps](#first-steps)
-- [Minimal vimrc](#minimal-vimrc)
-- [What kind of Vim am I running?](#what-kind-of-vim-am-i-running)
-- [Cheatsheets](#cheatsheets)
 
-### [Basics](#basics-1)
 
-- [Buffers, windows, tabs](#buffers-windows-tabs)
-- [Active, loaded, listed, named buffers](#active-loaded-listed-named-buffers)
-- [Argument list](#argument-list)
-- [Mappings](#mappings)
-- [Mapleader](#mapleader)
-- [Registers](#registers)
-- [Ranges](#ranges)
-- [Marks](#marks)
-- [Completion](#completion)
-- [Motions, operators, text objects](#motions-operators-text-objects)
-- [Autocmds](#autocmds)
-- [Changelist, jumplist](#changelist-jumplist)
-- [Undo tree](#undo-tree)
-- [Quickfix and location lists](#quickfix-and-location-lists)
-- [Macros](#macros)
-- [Colorschemes](#colorschemes)
-- [Folding](#folding)
-- [Sessions](#sessions)
-- [Locality](#locality)
 
-### [Usage](#usage-1)
 
-- [Getting help offline](#getting-help-offline)
 - [Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)](https://github.com/mhinz/vim-galore/blob/master/#getting-help-offline-alternative)
-- [Getting help online](#getting-help-online)
-- [Autocmds in practice](#autocmds-in-practice)
-  - [User events](#user-events)
-  - [Nested autocmds](#nested-autocmds)
-- [Clipboard](#clipboard)
   - [Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)](https://github.com/mhinz/vim-galore/blob/master/#clipboard-usage-windows-macos)
   - [Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)](https://github.com/mhinz/vim-galore/blob/master/#clipboard-usage-linux-bsd-)
-- [Restore cursor position when opening file](#restore-cursor-position-when-opening-file)
-- [Temporary files](#temporary-files)
-  - [Backup files](#backup-files)
-  - [Swap files](#swap-files)
-  - [Undo files](#undo-files)
-  - [Viminfo files](#viminfo-files)
-  - [Example configuration for temporary files](#example-configuration-for-temporary-files)
-- [Editing remote files](#editing-remote-files)
-- [Managing plugins](#managing-plugins)
-- [Block insert](#block-insert)
-- [Running external programs and using filters](#running-external-programs-and-using-filters)
-- [Cscope](#cscope)
-- [MatchIt](#matchit)
-- [True colors](#true-colors)
 
-### [Tips](#tips-1)
 
-- [Go to other end of selected text](#go-to-other-end-of-selected-text)
-- [Saner behavior of n and N](#saner-behavior-of-n-and-n)
-- [Saner command-line history](#saner-command-line-history)
-- [Saner CTRL-L](#saner-ctrl-l)
-- [Disable audible and visual bells](#disable-audible-and-visual-bells)
-- [Quickly move current line](#quickly-move-current-line)
-- [Quickly add empty lines](#quickly-add-empty-lines)
-- [Quickly edit your macros](#quickly-edit-your-macros)
-- [Quickly jump to header or source file](#quickly-jump-to-header-or-source-file)
-- [Quickly change font size in GUI](#quickly-change-font-size-in-gui)
-- [Change cursor style dependent on mode](#change-cursor-style-dependent-on-mode)
-- [Don't lose selection when shifting sidewards](#dont-lose-selection-when-shifting-sidewards)
-- [Reload a file on saving](#reload-a-file-on-saving)
-- [Smarter cursorline](#smarter-cursorline)
-- [Faster keyword completion](#faster-keyword-completion)
-- [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
-### [Commands](#commands-1)
 
-- [:global and :vglobal](#global-and-vglobal) - Execute a command on all matching lines.
-- [:normal and :execute](#normal-and-execute) - The scripting dream team.
 - [:redir and execute(https://github.com/mhinz/vim-galore/blob/master/)](https://github.com/mhinz/vim-galore/blob/master/#redir-and-execute) - Capture command output.
 
-### [Debugging](#debugging-1)
 
-- [General tips](#general-tips)
-- [Verbosity](#verbosity)
-- [Profiling startup time](#profiling-startup-time)
-- [Profiling at runtime](#profiling-at-runtime)
-- [Debugging Vim scripts](#debugging-vim-scripts)
-- [Debugging syntax files](#debugging-syntax-files)
 
-### [Miscellaneous](#miscellaneous-1)
 
-- [Additional resources](#additional-resources)
-- [Vim distributions](#vim-distributions)
-- [Standard plugins](#standard-plugins)
-- [Map CapsLock to Control](#map-capslock-to-control)
-- [Generating HTML from buffer](#generating-html-from-buffer)
-- [Easter eggs](#easter-eggs)
-- [Why hjkl for navigation?](#why-hjkl-for-navigation)
 
-### [Common problems](#common-problems-1)
 
-- [Editing small files is slow](#editing-small-files-is-slow)
-- [Editing huge files is slow](#editing-huge-files-is-slow)
 - [Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)](https://github.com/mhinz/vim-galore/blob/master/#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
-- [Delays when using escape key in terminal](#delays-when-using-escape-key-in-terminal)
-- [Function search undo](#function-search-undo)
 
-### [Technical quirks](#technical-quirks-1)
 
-- [Newline used for NUL](#newline-used-for-nul)
 
-### [Terminology](#terminology-1)
 
-- [Vim script? Vimscript? VimL?](#vim-script-vimscript-viml)
 
 ### [List of colorschemes](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md#colorschemes-1)
 
@@ -211,17 +119,11 @@ use Vim in compatible mode. Just don't.
 
 Next steps:
 
-1. Create your own [vimrc](#minimal-vimrc).
-2. Have some [cheatsheets](#cheatsheets) ready for the first weeks.
-3. Read through the [basics](#basics-1) section to learn what is even possible.
 4. Learn on demand! You never finish learning Vim. If you encounter any
    problems, just look for it on the internet. Your problem was solved already.
    Vim comes with great documentation and knowing how to navigate it is a must:
-   [Getting help offline](#getting-help-offline).
-5. Have a look at the [additional resources](#additional-resources).
 
 One last advice: Please learn how to use Vim properly before starting to add all
-kinds of hyped [plugins](#managing-plugins) that only implement features that
 Vim already supports natively.
 
 ## Minimal vimrc
@@ -355,7 +257,6 @@ buffer.
 
 ## Argument list
 
-The [global buffer list](#buffers-windows-tabs) is a Vim thing. Before that, in
 vi, there only used to be the argument list, which is also available in Vim.
 
 Every filename given to Vim on the shell command-line, is remembered in the
@@ -498,7 +399,6 @@ Vim provides the following registers:
 | Read-only           | `:`, `.`, `%`          | vim        | [x]       | `:`: Last command, `.`: Last inserted text, `%`: Current filename. |
 | Alternate buffer    | `#`                    | vim        | [ ]       | Most of the time the previously visited buffer of the current window. See `:h alternate-file` |
 | Expression          | `=`                    | user       | [ ]       | Evaluation of the VimL expression that was yanked. E.g. do this in insert mode: `<c-r>=5+5<cr>` and "10" will be inserted in the buffer. |
-| Selection           | `+`, `*`               | vim        | [ ]       | `*` and `+` are the [clipboard](#clipboard) registers. |
 | Drop                | `~`                    | vim        | [x]       | From last drag'n'drop. |
 | Black hole          | `_`                    | vim        | [ ]       | If you don't want any other registers implicitly affected. E.g. `"_dd` deletes the current line without affecting registers `"`, `1`, `+`, `*`. |
 | Last search pattern | `/`                    | vim        | [ ]       | Last pattern used with `/`, `?`, `:global`, etc. |
@@ -567,7 +467,6 @@ as short form of `:delete`):
 | `:,+3d` | Current line and the next 3 lines. |
 | `:1,+3d` | First line to current line + 3. |
 | `:,-3d` | Current line and the last 3 lines. (https://github.com/mhinz/vim-galore/blob/master/Vim will prompt you, since this is a reversed range.) |
-| `:3,'xdelete` | Lines 3 to the line marked by [mark](#marks) x. |
 | `:/^foo/,$delete` | From the next line that starts with "foo" to the end. |
 | `:/^foo/+1,$delete` | From the line after the line that starts with "foo" to the end. |
 
@@ -644,7 +543,6 @@ Other motions include:
 | `'{`, `` `{ ``   | Start of current paragraph. |
 | `'}`, `` `} ``   | End of current paragraph. |
 
-Marks can also be used in a [range](#ranges). You probably saw this before and
 wondered what it means: Select some text in visual mode and do `:`, the
 command-line will be prepended with `:'<,'>`, which means the following command
 would get a range that denotes the visual selection.
@@ -817,7 +715,6 @@ position. Usually that will be below position 1, the latest position.
 If you want both lists to persist after restarting Vim, you need to use the
 viminfo file and `:h viminfo-'`.
 
-**NOTE**: The position before the latest jump is also kept as a [mark](#marks)
 and can be jumped to via ``` `` ``` or `''`.
 
 Help:
@@ -885,7 +782,6 @@ on. Thus, `g-` and `g+` simply go back and forth in time, respectively.
 | `[count]g+`, `:later [count]?` | Same as above, but other direction. |
 
 The undo tree is kept in memory and will be lost when Vim quits. See [Undo
-files](#undo-files) for how to enable persistent undo.
 
 If you're confused by the undo tree,
 [undotree](https://github.com/mbbill/undotree) does a great job at visualizing
@@ -960,7 +856,6 @@ quickfix window.
 
 ## Macros
 
-Vim allows _recording_ typed characters into a [register](#registers). It's a
 great way to automate certain tasks on the fly. (For more elaborate tasks, Vim
 scripting should be used instead.)
 
@@ -1013,7 +908,6 @@ Mind that I also show how to achieve the same without using macros, but this
 mostly works only for such simple examples. For more complex automation, macros
 are the bomb!
 
-Also see: [Quickly edit your macros](#quickly-edit-your-macros)
 
 Help:
 
@@ -1060,7 +954,6 @@ Help:
 
 - `:h 'termguicolors'`
 - [List of colorschemes](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md#colorschemes-1)
-- [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
 ## Folding
 
@@ -1380,7 +1273,6 @@ Help: `:h autocmd-nested`
 
 ## Clipboard
 
-Required [features](#what-kind-of-vim-am-i-running): `+clipboard` and optionally
 `+xterm_clipboard` if you want to use the `'clipboard'` option on a Unix system
 with a Vim that doesn't have GUI support.
 
@@ -1393,7 +1285,6 @@ Help:
 ```
 
 Also see: [Bracketed paste (or why do I have to set 'paste' all the
-time?)](#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
 
 ### Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)
 
@@ -1511,7 +1402,6 @@ Help:
 ## Restore cursor position when opening file
 
 When you open a file, the cursor will be positioned at line 1, column 1.
-Fortunately the viminfo file remembers [marks](#marks). The `"` mark contains
 the position in the buffer where you left off.
 
 ```vim
@@ -1545,7 +1435,6 @@ sure that you don't lose the original file in case saving it should ever fail,
 no matter whether you keep the backup file afterwards or not.
 
 If you frequently use Vim to edit huge files, [and you probably
-shouldn't](#editing-huge-files-is-slow), you can exclude those from backups with
 `'backupskip'`.
 
 Vim knows different ways to create a backup: _copying_ and _renaming_.
@@ -1616,7 +1505,6 @@ different versions of a file. If you don't want that behaviour, see `:h
 
 ### Undo files
 
-The [undo tree](#undo-tree) is kept in memory and will be lost when Vim quits.
 If you want it to persist, `:set undofile`. This will save the undo file for
 `~/foo.c` in `~/foo.c.un~`.
 
@@ -1941,7 +1829,6 @@ Help:
 Using true colors in a terminal emulator means being able to use 24 bits for RGB
 colors. That makes 16777216 (https://github.com/mhinz/vim-galore/blob/master/2^24) colors instead of the usual 256.
 
-As explained [here](#colorschemes), colorschemes can actually be _two_
 colorschemes by having definitions for terminals (https://github.com/mhinz/vim-galore/blob/master/xterm) and for GUIs (https://github.com/mhinz/vim-galore/blob/master/gvim).
 This made sense before terminal emulators learned about true colors.
 
@@ -2159,7 +2046,6 @@ Now you can use `>>>>>` on your visual selection without any problems.
 
 ## Reload a file on saving
 
-Using [autocmds](#autocmds) you can do anything on saving a file, e.g. sourcing
 it in case of a dotfile or running a linter to check for syntactical errors in
 your source code.
 
@@ -2241,7 +2127,6 @@ With `:normal` you can do normal mode mappings from the command-line. E.g.
 `:normal! 4j` will make the cursor go down 4 lines (without using any custom
 mapping for "j" due to the "!").
 
-Mind that `:normal` also takes a [range](#ranges), so `:%norm! Iabc` would
 prepend "abc" to every line.
 
 With `:execute` you can mix commands with expressions. Assume you edit a C
@@ -2262,7 +2147,6 @@ down "n" lines:
 ## :redir and execute()
 
 Many commands print messages and `:redir` allows to redirect that output. You
-can redirect to files, [registers](#registers) or variables.
 
 ```vim
 :redir => var
@@ -2382,7 +2266,6 @@ big file or a file with faulty VimL code that is worth investigating.
 
 ## Profiling at runtime
 
-Required [feature](#what-kind-of-vim-am-i-running): `+profile`
 
 Vim provides a built-in capability for profiling at runtime and is a great way
 to find slow code in your environment.
@@ -2463,12 +2346,10 @@ Let's assume you want to know what code is run every time you save a file:
 As you can see, using `<cr>` will repeat the previous debugger command, `s` in
 this case.
 
-`:debug` can be used in combination with the [verbose](#verbosity) option.
 
 ## Debugging syntax files
 
 Syntax files are often the cause for slowdowns due to wrong and/or complex
-regular expressions. If the `+profile` [feature](#what-kind-of-vim-am-i-running)
 is compiled in, Vim provides the super useful `:syntime` command.
 
 ```vim
@@ -2590,12 +2471,10 @@ See [superuser.com: Map Caps-Lock to Control in Windows
 ## Generating HTML from buffer
 
 Generate HTML from any buffer using `:TOhtml` from the 2html [standard
-plugin](#standard-plugins). The output can be used for printing or easy web
 publishing.
 
 The command creates a new buffer of the same name with `.html` appended. The
 colors are the same as seen in Vim. They depend on the
-[colorscheme](#colorschemes).
 
 The plugin knows several options to finetune the output, e.g. for setting the
 encoding and font.
@@ -2609,6 +2488,196 @@ See `:h :TOhtml`.
 | `:Ni!` | `Do you demand a shrubbery?` |
 | `:h 'sm'` | `NOTE: Use of the short form is rated PG.` |
 | `:h 42` | `What is the meaning of life, the universe and everything? Douglas Adams, the only person who knew what this question really was about is now dead, unfortunately.  So now you might wonder what the meaning of death is...` |
+| `:h UserGettingBored` | `When the user presses the same key 42 times. Just kidding! :-)` |
+| `:h bar` | `Ceci n'est pas une pipe.` |
+| `:h holy-grail` | `You found it, Arthur!` |
+| `:h map-modes` | `:nunmap can also be used outside of a monastery.` |
+| `:help!` | `E478: Don't panic!` (https://github.com/mhinz/vim-galore/blob/master/Glitch? When used in a help buffer (https://github.com/mhinz/vim-galore/blob/master/`buftype=help`) this works like `:h help.txt` instead.) |
+| `:smile` | Try it out yourself. ;-) Added in 7.4.1005. |
+
+## Why hjkl for navigation?
+
+When [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) created
+[vi](https://en.wikipedia.org/wiki/Vi), a predecessor of Vim, he did it on a
+[ADM-3A](https://en.wikipedia.org/wiki/ADM-3A) which had no extra cursor buttons
+but used, you might already guessed it, hjkl instead.
+
+Keyboard layout: [click](https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/content-adm-3a-layout.jpg)
+
+This also shows why `~` is used to denote the home directory on Unix systems.
+
+# Common problems
+
+## Editing small files is slow
+
+There are two things which can have a huge impact on performance:
+
+1. Complex **regular expressions**. Particular the Ruby syntax file caused
+   people to have slowdowns in the past. (https://github.com/mhinz/vim-galore/blob/master/Also see [Debugging syntax files](https://github.com/mhinz/vim-galore/blob/master/#debugging-syntax-files).)
+2. **Screen redraws**. Some features force all lines to redraw.
+
+| Typical culprit | Why? | Solution? |
+|-----------------|------|-----------|
+| `:set cursorline`        | Causes all lines to redraw. | `:set nocursorline` |
+| `:set cursorcolumn`      | Causes all lines to redraw. | `:set nocursorcolumn` |
+| `:set relativenumber`    | Causes all lines to redraw. | `:set norelativenumber` |
+| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold](https://github.com/Konfekt/FastFold) |
+| `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200` |
+| matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis. | Disable plugin: `:h matchparen` |
+
+**NOTE**: You only need to do this if you experience actual performance
+drawbacks. In most cases using the things mentioned above is absolutely fine.
+
+## Editing huge files is slow
+
+The biggest issue with big files is, that Vim reads the whole file at once. This
+is done due to how buffers are represented internally.
+(https://github.com/mhinz/vim-galore/blob/master/[Discussion on vim_dev@](https://github.com/mhinz/vim-galore/blob/master/https://groups.google.com/forum/#!topic/vim_dev/oY3i8rqYGD4/discussion))
+
+If you only want to read, `tail hugefile | vim -` is a good workaround.
+
+If you can live without syntax, settings and plugins for the moment:
+
+```
+$ vim -u NONE -N
+```
+
+This should make navigation quite a lot faster, especially since no expensive
+regular expressions for syntax highlighting are used. You should also tell Vim
+not to use swapfiles and viminfo files to avoid long delays on writing:
+
+```
+$ vim -n -u NONE -i NONE -N
+```
+
+Putting it in a nutshell, try to avoid using Vim when intending to write really
+huge files. :\
+
+## Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)
+
+Bracketed paste mode allows terminal emulators to distinguish between typed text
+and pasted text.
+
+Did you ever tried pasting code into Vim and afterwards everything seemed messed
+up?
+
+This only happens if you paste via `cmd+v`, `shift-insert`, `middle-click` etc.
+because then you're just throwing text at the terminal emulator. Vim doesn't
+know that you just pasted the text, it thinks you're an extremely fast typist.
+Accordingly, it tries to indent the lines and fails.
+
+Obviously this is not an issue, if you paste using Vim's registers, e.g. `"+p`,
+because then Vim knows that you're actually pasting.
+
+To workaround this, you have to `:set paste`, so it gets pasted as-is. See `:h
+'paste'` and `:h 'pastetoggle'`.
+
+If you're fed up with toggling `'paste'` all the time, have a look at this fine
+plugin that does it for you:
+[bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste).
+
+Additional read from the same author as the plugin:
+[here](http://cirw.in/blog/bracketed-paste).
+
+**Neovim**: Neovim tries to make all of this much more seamless and sets
+bracketed paste mode automatically if the terminal emulator supports it.
+
+## Delays when using escape key in terminal
+
+If you live in the command-line, you probably use a so-called _terminal
+emulator_ like xterm, gnome-terminal, iTerm2, etc. (opposed to a real
+[terminal](https://en.wikipedia.org/wiki/Computer_terminal)).
+
+Like their ancestors, terminal emulators use [escape
+sequences](https://en.wikipedia.org/wiki/Escape_sequence) (or _control
+sequences_) to control things like moving the cursor, changing text colors, etc.
+They're simply strings of ASCII characters starting with an escape character
+(https://github.com/mhinz/vim-galore/blob/master/displayed in [caret notation](https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Caret_notation) as
+`^[`). When such a string arrives, the terminal emulator looks up the
+accompanying action in the [terminfo](https://en.wikipedia.org/wiki/Terminfo)
+database.
+
+To make the problem clearer, I'll explain mapping timeouts first. They always
+happen when there's ambiguity between mappings:
+
+```vim
+:nnoremap ,a  :echo 'foo'<cr>
+:nnoremap ,ab :echo 'bar'<cr>
+```
+
+Both mappings work as expected, but when typing `,a`, there will be a delay of 1
+second, because Vim waits whether the user keys in another `b` or not.
+
+Escape sequences pose the same problem:
+
+- `<esc>` is used a lot for returning to normal mode or quitting an action.
+- Cursor keys are encoded using escape sequences.
+- Vim expects <kbd>Alt</kbd> (https://github.com/mhinz/vim-galore/blob/master/also called _Meta key_) to send a proper 8-bit
+  encoding with the high bit set, but many terminal emulators don't support it
+  (https://github.com/mhinz/vim-galore/blob/master/or don't enable it by default) and send an escape sequence instead.
+
+You can test the above like this: `vim -u NONE -N` and type `i<c-v><left>` and
+you'll see a sequence inserted that starts with `^[` which denotes the escape
+character.
+
+Putting it in a nutshell, Vim has a hard time distinguishing between a typed
+`<esc>` character and a proper escape sequence.
+
+By default, Vim uses `:set timeout timeoutlen=1000`, so it delays on ambiguity
+of mappings _and_ key codes by 1 second. This is a sane value for mappings, but
+you can define the key code timeout on its own which is the most common
+workaround for this entire issue:
+
+```vim
+set timeout           " for mappings
+set timeoutlen=1000   " default value
+set ttimeout          " for key codes
+set ttimeoutlen=10    " unnoticeable small value
+```
+
+Under `:h ttimeout` you find a small table showing the relationship between
+these options.
+
+If you're using tmux between Vim and your terminal emulator, also put this in
+your `~/.tmux.conf`:
+
+```tmux
+set -sg escape-time 0
+```
+
+## Function search undo
+
+- A search pattern in a command (https://github.com/mhinz/vim-galore/blob/master/`/`, `:substitute`, ...) changes the "last used
+  search pattern". (https://github.com/mhinz/vim-galore/blob/master/It's saved in the `/` register; print it with `:echo @/`).
+- A simple text change can be redone with `.`. (It's saved in the `.` register;
+  print it with `:echo @.`).
+
+Both things are _not_ the case, if you do them from a function, though! Thus you
+can't easily highlight words from a function or redo the text changes made by
+it.
+
+Help: `:h function-search-undo`
+
+# Technical quirks
+
+## Newline used for NUL
+
+NUL characters (https://github.com/mhinz/vim-galore/blob/master/`\0`) in a file, are stored as newline (https://github.com/mhinz/vim-galore/blob/master/`\n`) in memory and
+displayed in a buffer as `^@`.
+
+See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
+
+# Terminology
+
+## Vim script? Vimscript? VimL?
+
+`Vim script`, `Vimscript`, and `VimL` all refer to the same thing: The
+programming language used for scripting Vim. Even though
+[8.0.360](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
+changed all references to `VimL` to `Vim script`, which can now be considered
+the official term, `VimL` is still widespread all over the internet.
+
+No matter which term you use, everyone will understand it.t is the meaning of life, the universe and everything? Douglas Adams, the only person who knew what this question really was about is now dead, unfortunately.  So now you might wonder what the meaning of death is...` |
 | `:h UserGettingBored` | `When the user presses the same key 42 times. Just kidding! :-)` |
 | `:h bar` | `Ceci n'est pas une pipe.` |
 | `:h holy-grail` | `You found it, Arthur!` |

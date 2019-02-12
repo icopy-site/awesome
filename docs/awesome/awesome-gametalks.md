@@ -159,4 +159,4 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 
 ## Talks
 
-- [Episode 93, Collective Podcast] [Discussing Monument Valley](https://github.com/hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)
+- [Episode 93, Collective Podcast] [Discussing Monument Valley](https://github.com/hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)

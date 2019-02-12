@@ -513,4 +513,16 @@ To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.rning) - A resource repository for 3D machine learning.
+
+
+## Special Thanks
+
+[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.

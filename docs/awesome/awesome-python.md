@@ -4,87 +4,6 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-- [Awesome Python](#awesome-python)
-    - [Admin Panels](#admin-panels)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    - [Anti-spam](#anti-spam)
-    - [Asset Management](#asset-management)
-    - [Audio](#audio)
-    - [Authentication](#authentication)
-    - [Build Tools](#build-tools)
-    - [Built-in Classes Enhancement](#built-in-classes-enhancement)
-    - [Caching](#caching)
-    - [ChatOps Tools](#chatops-tools)
-    - [Cluster Computing](#cluster-computing)
-    - [CMS](#cms)
-    - [Code Analysis](#code-analysis)
-    - [Command-line Tools](#command-line-tools)
-    - [Compatibility](#compatibility)
-    - [Computer Vision](#computer-vision)
-    - [Concurrency and Parallelism](#concurrency-and-parallelism)
-    - [Configuration](#configuration)
-    - [Cryptography](#cryptography)
-    - [Data Analysis](#data-analysis)
-    - [Data Validation](#data-validation)
-    - [Data Visualization](#data-visualization)
-    - [Database Drivers](#database-drivers)
-    - [Database](#database)
-    - [Date and Time](#date-and-time)
-    - [Debugging Tools](#debugging-tools)
-    - [Deep Learning](#deep-learning)
-    - [DevOps Tools](#devops-tools)
-    - [Distribution](#distribution)
-    - [Documentation](#documentation)
-    - [Downloader](#downloader)
-    - [E-commerce](#e-commerce)
-    - [Editor Plugins and IDEs](#editor-plugins-and-ides)
-    - [Email](#email)
-    - [Environment Management](#environment-management)
-    - [Files](#files)
-    - [Foreign Function Interface](#foreign-function-interface)
-    - [Forms](#forms)
-    - [Functional Programming](#functional-programming)
-    - [Game Development](#game-development)
-    - [Geolocation](#geolocation)
-    - [GUI](#gui)
-    - [Hardware](#hardware)
-    - [HTML Manipulation](#html-manipulation)
-    - [HTTP](#http)
-    - [Image Processing](#image-processing)
-    - [Implementations](#implementations)
-    - [Interactive Interpreter](#interactive-interpreter)
-    - [Internationalization](#internationalization)
-    - [Job Scheduler](#job-scheduler)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Miscellaneous](#miscellaneous)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Network Virtualization](#network-virtualization)
-    - [Networking](#networking)
-    - [News Feed](#news-feed)
-    - [ORM](#orm)
-    - [Package Management](#package-management)
-    - [Package Repositories](#package-repositories)
-    - [Permissions](#permissions)
-    - [Processes](#processes)
-    - [Queue](#queue)
-    - [Recommender Systems](#recommender-systems)
-    - [RESTful API](#restful-api)
-    - [Robotics](#robotics)
-    - [RPC Servers](#rpc-servers)
-    - [Science](#science)
-    - [Search](#search)
-    - [Serialization](#serialization)
-    - [Serverless Frameworks](#serverless-frameworks)
-    - [Specific Formats Processing](#specific-formats-processing)
-    - [Static Site Generator](#static-site-generator)
-    - [Tagging](#tagging)
-    - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [URL Manipulation](#url-manipulation)
-    - [Video](#video)
 
 - - -
 
@@ -1239,6 +1158,101 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
 * [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django.
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
+
+# Services
+
+Online tools and APIs to simplify development.
+
+## Continuous Integration
+
+*See: [awesome-CIandCD](https://github.com/ciandcd/awesome-ciandcd#online-build-system).*
+
+* [CircleCI](https://github.com/vinta/awesome-python/blob/master/https://circleci.com/) - A CI service that can run very fast parallel testing. (https://github.com/vinta/awesome-python/blob/master/GitHub only)
+* [Travis CI](https://github.com/vinta/awesome-python/blob/master/https://travis-ci.org) - A popular CI service for your open source and [private](https://github.com/vinta/awesome-python/blob/master/https://travis-ci.com) projects. (https://github.com/vinta/awesome-python/blob/master/GitHub only)
+* [Vexor CI](https://vexor.io) - A continuous integration tool for private apps with pay-per-minute billing model.
+* [Wercker](http://www.wercker.com/) - A Docker-based platform for building and deploying applications and microservices.
+
+## Code Quality
+
+* [Codacy](https://www.codacy.com/) - Automated Code Review to ship better code, faster.
+* [Codecov](https://codecov.io/) - Code coverage dashboard.
+* [CodeFactor](https://www.codefactor.io/) - Automated Code Review for Git.
+* [Landscape](https://landscape.io/) - Hosted continuous Python code metrics.
+
+# Resources
+
+Where to discover new Python libraries.
+
+## Podcasts
+
+* [From Python Import Podcast](http://frompythonimportpodcast.com/)
+* [Podcast.init](https://podcastinit.com/)
+* [Python Bytes](https://pythonbytes.fm)
+* [Python Testing](http://pythontesting.net)
+* [Radio Free Python](http://radiofreepython.com/)
+* [Talk Python To Me](https://talkpython.fm/)
+
+## Twitter
+
+* [@codetengu](https://twitter.com/codetengu)
+* [@getpy](https://twitter.com/getpy)
+* [@importpython](https://twitter.com/importpython)
+* [@planetpython](https://twitter.com/planetpython)
+* [@pycoders](https://twitter.com/pycoders)
+* [@pypi](https://twitter.com/pypi)
+* [@pythontrending](https://twitter.com/pythontrending)
+* [@PythonWeekly](https://twitter.com/PythonWeekly)
+* [@TalkPython](https://twitter.com/talkpython)
+* [@realpython](https://twitter.com/realpython)
+
+## Websites
+
+* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects/)
+* [/r/Python](https://www.reddit.com/r/python)
+* [Awesome Python @LibHunt](https://python.libhunt.com/)
+* [Django Packages](https://djangopackages.org/)
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [PyPI Ranking](http://pypi-ranking.info/alltime)
+* [Python 3 Wall of Superpowers](http://python3wos.appspot.com/)
+* [Python Hackers](http://www.oss.io/open-source/)
+* [Python ZEEF](https://python.zeef.com/alan.richmond)
+* [Python 开发社区](https://www.ctolib.com/python/)
+* [Real Python](https://realpython.com)
+* [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
+
+## Weekly
+
+* [CodeTengu Weekly 碼天狗週刊](https://weekly.codetengu.com/)
+* [Import Python Newsletter](http://importpython.com/newsletter/)
+* [Pycoder's Weekly](http://pycoders.com/)
+* [Python Weekly](http://www.pythonweekly.com/)
+* [Python Tricks](https://realpython.com/python-tricks/)
+
+# Other Awesome Lists
+
+List of lists.
+
+* Monty
+    * [awesome](https://github.com/sindresorhus/awesome)
+    * [awesomo](https://github.com/lk-geimfari/awesomo)
+    * [lists](https://github.com/jnv/lists)
+* Python
+    * [pycrumbs](https://github.com/kirang89/pycrumbs)
+    * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
+    * [python_reference](https://github.com/rasbt/python_reference)
+    * [pythonidae](https://github.com/svaksha/pythonidae)
+    * [Python Podcasts](https://www.cybrhome.com/topic/python-podcasts)
+    * [Python for Social Good](https://github.com/metakermit/awesome-python-for-social-good)
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+
+- - -
+
+If you have any question about this opinionated list, do not hesitate to contact me [@vinta](https://twitter.com/vinta) on Twitter or open an issue on GitHub.ocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
 # Services
 

@@ -4,52 +4,6 @@ Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
   - [Virtual Reality (https://github.com/diegocard/awesome-html5/blob/master/VR)](https://github.com/diegocard/awesome-html5/blob/master/#virtual-reality)
-  - [Web animations](#web-animations)
-- [Elements](#elements)
-  - [Canvas](#canvas)
-  - [Head](#head)
-  - [Sectioning](#sectioning)
-  - [Media Elements](#media-elements)
-  - [Forms](#forms)
-  - [Time](#time)
-  - [WebVTT](#webtt)
-  - [HTML Imports](#html-imports)
-- [Development APIs](#development-apis)
-  - [Permissions](#permissions)
-  - [Geolocation](#geolocation)
-  - [Cryptography](#cryptography)
-  - [File](#file)
-  - [Frame timing](#frame-timing)
-  - [requestIdleCallback](#requestidlecallback)
-  - [requestAnimationFrame](#requestanimationframe)
-  - [Web payments](#web-payments)
-- [Semantics](#semantics)
-- [Accessibility](#accessibility)
-- [DOM management](#dom-management)
-  - [Shadow DOM](#shadow-dom)
-  - [Data Binding](#data-binding)
-  - [Web Components](#web-components)
-- [Progressive web apps](#progressive-web-apps)
-  - [Service Workers](#service-workers)
-  - [Offline caching](#offline-caching)
-  - [Push Notifications](#push-notifications)
-- [Client side storage](#client-side-storage)
-- [Performance](#performance)
-- [Mobile](#mobile)
-- [Communications and interoperability](#communications-and-interoperability)
-  - [Web Sockets](#web-sockets)
-  - [WebRTC](#webrtc)
-- [Web Workers](#web-workers)
-- [WebGL](#webgl)
-- [Browser compatibility](#browser-compatibility)
-- [Books](#books)
-- [Game development](#game-development)
-- [Videos and Keynotes](#videos-and-keynotes)
-- [Websites and resources](#websites-and-resources)
-  - [Websites](#websites)
-  - [Weekly news](#weekly-news)
-  - [Twitter](#twitter)
-- [Contributing](#contributing)
 
 ## Articles and standards
 
@@ -357,6 +311,44 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [HTML5 Developer Conference](https://html5devconf.com/videos.html)
 * [Polymer: declarative, encapsulated, reusable components](https://www.youtube.com/watch?v=DH1vTVkqCDQ)
 * [Making the mobile web fast, feature-rich, and beautiful](https://www.youtube.com/watch?v=EXjPsvwIDwU)
+* [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
+
+## Websites and resources
+
+### Websites
+
+* [HTML5 Rocks](https://github.com/diegocard/awesome-html5/blob/master/https://www.html5rocks.com/en/) (https://github.com/diegocard/awesome-html5/blob/master/news, tutorials and updates)
+* [HTML5 Gallery](https://github.com/diegocard/awesome-html5/blob/master/http://html5gallery.com/) (https://github.com/diegocard/awesome-html5/blob/master/a showcase of sites using HTML5 markup and API's)
+* [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
+* [HTML5 Please](https://github.com/diegocard/awesome-html5/blob/master/https://html5please.com/) (https://github.com/diegocard/awesome-html5/blob/master/Know when HTML5 feature are ready to use)
+* [Keen HTML](https://github.com/diegocard/awesome-html5/blob/master/https://keenhtml.com) (https://github.com/diegocard/awesome-html5/blob/master/Free interactive lessons to learn HTML)
+
+### Weekly news
+
+* [HTML5 Weekly](https://frontendfoc.us/)
+* [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
+* [Responsive Design Newsletter](http://responsivedesignweekly.com/)
+
+### Twitter
+
+* [@html5](https://twitter.com/html5)
+* [@html5rock](https://twitter.com/html5rock)
+* [@html5gallery](https://twitter.com/html5gallery)
+* [@html5doctor](https://twitter.com/html5doctor)
+* [@GameDevHTML5](https://twitter.com/GameDevHTML5)
+* [@mozhacks](https://twitter.com/mozhacks)
+* [@googlechrome](https://twitter.com/googlechrome)
+
+## Other awesome lists
+
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [lists](https://github.com/jnv/lists)
+* [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
+
+## Contributing
+
+Your contributions are always welcome!PsvwIDwU)
 * [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
 
 ## Websites and resources

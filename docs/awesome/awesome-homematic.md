@@ -129,4 +129,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 
 ## License
 
+[Public Domain CC0](http://creativecommons.org/publicdomain/zero/1.0/)/blob/master/contributing.md) first.
+
+
+## License
+
 [Public Domain CC0](http://creativecommons.org/publicdomain/zero/1.0/)

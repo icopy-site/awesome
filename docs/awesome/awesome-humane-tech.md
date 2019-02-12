@@ -11,7 +11,6 @@ Tech and social media is having a big impact on our society. While many innovati
 
 This list focuses on (https://github.com/humanetech-community/awesome-humane-tech/blob/master/mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) before sending PR's.
 
-**Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
 ## Community
 
@@ -201,6 +200,16 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazing articles, websites and resources about diversity in technology.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [aschrijver](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.njago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 
 ## Contributing
 

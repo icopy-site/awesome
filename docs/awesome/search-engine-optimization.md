@@ -187,4 +187,7 @@ search engines do not use this meta tag
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)powerful plugins. With Morten Rand-Hendriksen by Lynda.com
 
 ## License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)powerful plugins. With Morten Rand-Hendriksen by Lynda.com
+
+## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

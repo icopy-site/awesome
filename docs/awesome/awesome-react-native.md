@@ -68,27 +68,6 @@ dotan-at-paracode.com.
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Buzzing](#buzzing)
-    - [Recommended SDK for bug and crash reporting Instabug](#recommended-sdk-for-bug-and-crash-reporting-instabug)
-- [Categories](#categories)
-    - [Conferences](#conferences)
-        - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
-        - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
-        - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
-        - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-        - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
-    - [Articles](#articles)
-        - [Reference](#reference)
-        - [Howtos](#howtos)
-        - [Assorted](#assorted)
-        - [Continuous Integration](#continuous-integration)
-        - [Internals](#internals)
-    - [Components](#components)
-        - [UI](#ui)
-        - [Navigation](#navigation)
-            - [Navigation/Routing Articles](#navigationrouting-articles)
-            - [Navigation Demos](#navigation-demos)
-        - [Deep Linking](#deep-linking)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1349,6 +1328,39 @@ Assortment of conference and training videos.
 * [React Native in Arabic: Build a newspaper app](https://github.com/jondot/awesome-react-native/blob/master/https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (https://github.com/jondot/awesome-react-native/blob/master/Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 * [Build a Weather app ](https://github.com/jondot/awesome-react-native/blob/master/https://cloneable.io/courses/enrolled/103341) - (https://github.com/jondot/awesome-react-native/blob/master/Free) A course to build a weather app with React Native.
 * [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
+* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
+* Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+* [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
+* [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
+
+## Blogs
+
+* [React Native Training](https://medium.com/react-native-training)
+* [Use React Native Blog](http://www.reactnative.com/)
+* [Facebook Code Blog](https://code.facebook.com/)
+* [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
+* [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
+* [Brent Vatne](http://brentvatne.ca/)
+* [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
+* [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
+* [Spencer Carli](https://medium.com/@spencer_carli)
+* [Official React Native Blog](http://facebook.github.io/react-native/blog/)
+* [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+
+## Newsletters
+
+* [Let's React](http://letsreact.io)
+* [React Native Newsletter](http://reactnative.cc)
+* [React Native Coach](http://reactnativecoach.com)
+
+## Releases
+
+* [Stable: 0.57.0](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#057)
+* [Next: latest](https://github.com/facebook/react-native/releases/latest)
+* [All Versions](https://facebook.github.io/react-native/versions)
+* [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
+* [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
+* [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)om/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 * [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`

@@ -139,4 +139,4 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.t possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.t possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.t possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
