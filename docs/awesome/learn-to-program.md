@@ -1,0 +1,178 @@
+# Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#### Foundation in Web Development
+
+The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.
+
+This list aims to be a curated set of high quality educational resources. The cost of the platform is highlighted along with the primary topics covered.
+
+## Beginner
+
+#### [Mozilla Webmaker](https://webmaker.org/)
+**Free** community and toolset to learn to create web pages and apps\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript?)*
+
+#### [Codecademy](https://www.codecademy.com/)
+**Free** platform for learning to code in web technologies\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+
+#### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
+**Free** interactive 1-hour course to learn the very basics of web development\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, SQL)*
+
+#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
+**Commercial** platform for courses how to build websites & apps\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
+
+#### [Learn CSS Layout](https://learnlayout.com/)
+**Free** tutorial for how to do layout with CSS\
+*(https://github.com/karlhorky/learn-to-program/blob/master/CSS)*
+
+#### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
+**Freemium** marketplace of courses from third party providers. Quality may vary.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
+
+#### [Code Avengers](https://www.codeavengers.com/)
+**Freemium** platform for basic web and app develoment courses\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript)*
+
+#### [learn.shayhowe.com](https://learn.shayhowe.com/)
+**Free** beginner to intermediate guides on web development\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript)*
+
+#### [HTML Dog](https://www.htmldog.com/)
+**Free** beginner and intermediate guides on web development\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript)*
+
+#### [Gibbon](https://gibbon.co/topics/programming)
+**Mixed** curated learning tracks for computer programming\
+*(https://github.com/karlhorky/learn-to-program/blob/master/web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
+
+#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
+**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, AngularJS, Rails)*
+
+#### [Platzi](https://courses.platzi.com/)
+**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
+
+#### [Free Code Camp](https://www.freecodecamp.org/)
+**Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+
+#### [Vertabelo Academy](https://academy.vertabelo.com/)
+**Free** SQL courses with interactive exercises and quizzes\
+*(https://github.com/karlhorky/learn-to-program/blob/master/SQL, database concepts)*
+
+#### [GitHub Learning Lab](https://lab.github.com/)
+**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Git, GitHub)*
+
+## Intermediate
+
+#### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
+**Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, algorithms, cryptography)*
+
+#### [Udacity](https://www.udacity.com/)
+**Free** platform for computer science and web development courses\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, data science, Python, computer science topics)*
+
+#### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+**Free** *(https://github.com/karlhorky/learn-to-program/blob/master/book only)* book and course for beginner through intermediate Python programming\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Python, object-oriented programming, web development)*
+
+#### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+**Free** online book covering all stages of creating a Ruby on Rails application\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, Ruby, Rails)*
+
+#### Lynda.com [Developer](https://www.lynda.com/Developer-training-tutorials/50-0.html), [Web](https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html)
+**Freemium** platform for video courses on web development and intermediate programming\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, programming fundamentals, system administration, ...)*
+
+#### [Thinkful](https://www.thinkful.com/)
+**Commercial** platform for mentored web and mobile development courses from industry experts\
+*(https://github.com/karlhorky/learn-to-program/blob/master/web development, frontend web development, AngularJS, Android, iOS)*
+
+#### [exercism.io](https://exercism.io/)
+**Free** crowdsourced mentorship platform of programming exercises and code reviews\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
+
+#### [University of Reddit](http://ureddit.com/category/23442/computer-science)
+**Free** crowdsourced list of videos and courses for learning programming and web development\
+*(https://github.com/karlhorky/learn-to-program/blob/master/HTML, CSS, JavaScript, Java, Haskell, Python)*
+
+#### [Stanford on iTunes U](https://itunes.stanford.edu/)
+**Free** programming and mobile development courses on iTunes from Stanford University\
+*(https://github.com/karlhorky/learn-to-program/blob/master/programming, startups, iOS)*
+
+#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
+**Commercial** platform for web development courses\
+*(https://github.com/karlhorky/learn-to-program/blob/master/JavaScript, AngularJS, Java)*
+
+#### [CodeChef Problems](https://www.codechef.com/problems/easy/)
+**Free** intermediate to advanced programming problems\
+*(https://github.com/karlhorky/learn-to-program/blob/master/programming)*
+
+#### [CodingBat](https://codingbat.com/)
+**Free** practice problems in Python and Java\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Python, Java)*
+
+#### [Codewars](https://www.codewars.com/)
+**Free** code challenges. Compare your solution with those of others.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
+
+#### [CodinGame](https://www.codingame.com/)
+**Free** Learn to code and game at the same time.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
+
+#### [1 Million Women To Tech Summer of Code](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+**Free** programming course material for beginner, intermediate and advanced levels\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
+
+## Advanced
+
+#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+**Free** courses from MIT on advanced computer science topics\
+*(https://github.com/karlhorky/learn-to-program/blob/master/varied and extensive computer science topics, C, C++, ..)*
+
+#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
+**Free** platform for courses from the top universities and organizations worldwide\
+*(https://github.com/karlhorky/learn-to-program/blob/master/varied computer science subjects including theory and programming, data science, algorithms, ...)*
+
+#### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+**Free** university-level courses scoured from around the internet.\
+*(https://github.com/karlhorky/learn-to-program/blob/master/varied and extensive computer science topics, ...)*
+
+#### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
+**Free** graphs of interconnected topics required to master concepts\
+*(https://github.com/karlhorky/learn-to-program/blob/master/programming, machine learning)*
+
+#### [HackerRank](https://www.hackerrank.com/)
+**Free** programming challenges and contests\
+*(https://github.com/karlhorky/learn-to-program/blob/master/artificial intelligence, algorithms, functional programming, machine learning)*
+
+#### [HackerEarth](https://www.hackerearth.com/)
+**Free** programming challenges, hackathons and contests\
+*(https://github.com/karlhorky/learn-to-program/blob/master/dynamic programming,artificial intelligence, algorithms, functional programming, machine learning)*
+
+#### [Project Euler](https://projecteuler.net/)
+**Free** mathematical/computer programming problems\
+*(https://github.com/karlhorky/learn-to-program/blob/master/programming, mathematics)*
+
+#### [CodeSignal](https://codesignal.com/)
+**Free** programming challenges\
+*(https://github.com/karlhorky/learn-to-program/blob/master/Java, C++, Python, Javascript, Ruby, C#, PHP and Perl)*
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+
+## Contributing
+
+In lieu of a formal styleguide, take care to maintain the existing style of this list.ed all copyright and related or neighboring rights to this work.
+
+## Contributing
+
+In lieu of a formal styleguide, take care to maintain the existing style of this list.

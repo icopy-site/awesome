@@ -1,0 +1,201 @@
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
+
+If you want to contribute to this list (https://github.com/carpedm20/awesome-hacking/blob/master/please do), send me a pull request or contact me [@carpedm20](https://github.com/carpedm20/awesome-hacking/blob/master/https://twitter.com/carpedm20)
+
+For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
+
+
+
+<!-- MarkdownTOC depth=4 -->
+
+
+<!-- /MarkdownTOC -->
+
+# System
+
+## Tutorials
+ * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+ * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
+ * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
+
+## Tools
+ * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+ * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+
+### Docker Images for Penetration Testing & Security
+ * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
+ * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
+ * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
+ * `docker pull pandrew/metasploit` - [docker-metasploit](https://hub.docker.com/r/pandrew/metasploit/)
+ * `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (https://github.com/carpedm20/awesome-hacking/blob/master/DVWA)](https://github.com/carpedm20/awesome-hacking/blob/master/https://hub.docker.com/r/citizenstig/dvwa/)
+ * `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
+ * `docker pull hmlio/vaas-cve-2014-6271` - [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
+ * `docker pull hmlio/vaas-cve-2014-0160` - [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
+ * `docker pull opendns/security-ninjas` - [Security Ninjas](https://hub.docker.com/r/opendns/security-ninjas/)
+ * `docker pull usertaken/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/usertaken/archlinux-pentest-lxde/)
+ * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
+ * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
+ * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
+ * `docker-compose build && docker-compose up` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+ * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
+ * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
+
+## General
+ * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
+
+
+# Reverse Engineering
+
+## Tutorials
+* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
+
+## Tools
+ * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+ * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
+ * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
+ * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
+ * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
+ * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
+ * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
+ * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
+ * [JAD](https://github.com/carpedm20/awesome-hacking/blob/master/http://varaneckas.com/jad/) - JAD Java Decompiler (https://github.com/carpedm20/awesome-hacking/blob/master/closed-source, unmaintained)
+ * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
+ * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
+ * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
+ * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+ * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
+ * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
+ * [radare2](https://github.com/radare/radare2) - A portable reversing framework
+ * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+ * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
+ * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
+
+
+
+## General
+ * [Open Malware](http://www.offensivecomputing.net/)
+
+
+# Web
+
+## Tools
+ * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+ * [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+ * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
+ * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+ * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+
+# Network
+
+## Tools
+ * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
+ * [NetworkMiner](https://github.com/carpedm20/awesome-hacking/blob/master/http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (https://github.com/carpedm20/awesome-hacking/blob/master/NFAT)
+ * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
+ * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
+ * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+ * [ZAP](https://github.com/carpedm20/awesome-hacking/blob/master/https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (https://github.com/carpedm20/awesome-hacking/blob/master/ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
+ * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
+ * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+ * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
+ * [nmap](https://github.com/carpedm20/awesome-hacking/blob/master/https://nmap.org/) - Nmap (https://github.com/carpedm20/awesome-hacking/blob/master/Network Mapper) is a security scanner
+ * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
+ * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
+ * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
+ * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+ * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
+ * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
+ * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
+ * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+
+
+# Forensic
+
+## Tools
+ * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
+ * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
+ * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
+ * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+ * [HxD](https://github.com/carpedm20/awesome-hacking/blob/master/http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (https://github.com/carpedm20/awesome-hacking/blob/master/RAM), handles files of any size
+ * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
+ * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
+
+
+# Cryptography
+
+### Tools
+ * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
+ * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
+ * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
+
+
+# Wargame
+
+## System
+ * [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/)
+ * [OverTheWire - Vortex](http://overthewire.org/wargames/vortex/)
+ * [OverTheWire - Drifter](http://overthewire.org/wargames/drifter/)
+ * [pwnable.kr](http://pwnable.kr/) - Provide various pwn challenges regarding system security
+ * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
+ * [SmashTheStack](http://smashthestack.org/)
+
+## Reverse Engineering
+ * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
+ * [CodeEngn](https://github.com/carpedm20/awesome-hacking/blob/master/http://codeengn.com/challenges/) - (https://github.com/carpedm20/awesome-hacking/blob/master/Korean)
+ * [simples.kr](https://github.com/carpedm20/awesome-hacking/blob/master/http://simples.kr/) - (https://github.com/carpedm20/awesome-hacking/blob/master/Korean)
+ * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
+
+## Web
+ * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
+ * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
+ * [Webhacking.kr](http://webhacking.kr/)
+ * [0xf.at](https://github.com/carpedm20/awesome-hacking/blob/master/https://0xf.at/) - a website without logins or ads where you can solve password-riddles (https://github.com/carpedm20/awesome-hacking/blob/master/so called hackits).
+ * [Gruyere](https://google-gruyere.appspot.com/)
+ * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+
+## Cryptography
+ * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
+
+## Bug bounty
+  * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+
+# CTF
+
+## Competition
+ * [DEF CON](https://legitbs.net/)
+ * [CSAW CTF](https://ctf.isis.poly.edu/)
+ * [hack.lu CTF](http://hack.lu/)
+ * [Pliad CTF](http://www.plaidctf.com/)
+ * [RuCTFe](http://ructf.org/e/)
+ * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
+ * [PHD CTF](http://www.phdays.com/)
+ * [SECUINSIDE CTF](http://secuinside.com/)
+ * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
+ * [Boston Key Party CTF](http://bostonkeyparty.net/)
+ * [ZeroDays CTF](https://zerodays.ie/)
+ * [Insomni’hack](https://insomnihack.ch/)
+ * [Picp CTF](https://picoctf.com/) 
+ * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
+
+## General
+ * [CTFtime.org](https://github.com/carpedm20/awesome-hacking/blob/master/https://ctftime.org/) - All about CTF (https://github.com/carpedm20/awesome-hacking/blob/master/Capture The Flag)
+ * [WeChall](http://www.wechall.net/)
+ * [CTF archives (https://github.com/carpedm20/awesome-hacking/blob/master/shell-storm)](https://github.com/carpedm20/awesome-hacking/blob/master/http://shell-storm.org/repo/CTF/)
+ * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
+ * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+ * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+
+# OS
+
+## Online resources
+ * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+ * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
+ * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+# ETC
+ * [SecTools](http://sectools.org/) - Top 125 Network Security Toolsry=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+# ETC
+ * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
