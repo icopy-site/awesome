@@ -561,7 +561,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-    guess_lang: false
+      guess_lang: false
   - def_list
   - footnotes
   - meta
