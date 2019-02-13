@@ -68,8 +68,8 @@ Please note * indicates that the package is commercial or may require a license 
 ### Form Builders
 
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
-* [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (https://github.com/umbraco-community/awesome-umbraco/blob/master/contact forms, newsletter sign ups, surveys, job applications) with no coding.
-* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(https://github.com/umbraco-community/awesome-umbraco/blob/master/Developed by Umbraco HQ)**
+* [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
+* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
 
 ### Grid Editors
 
@@ -90,7 +90,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Stacked Content](https://our.umbraco.com/packages/backoffice-extensions/stacked-content/) - an Umbraco property editor for creating stacked content blocks.
 * [Styled Textbox](https://our.umbraco.org/projects/backoffice-extensions/styled-textbox/) - A configural property editor to "replace" the generic textbox & textarea properties. It allows for inline CSS as well as adding classes and having placeholder text.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
-* [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (https://github.com/umbraco-community/awesome-umbraco/blob/master/Google Maps, Bing, Leaflet).
+* [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 
@@ -111,9 +111,9 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Deployment
 
-* [Courier*](https://umbraco.com/products/umbraco-courier/) - Deploy changes from within the back-office. **(https://github.com/umbraco-community/awesome-umbraco/blob/master/Developed by Umbraco HQ)**
-* [Courier Contrib](https://github.com/umbraco/Umbraco.Courier.Contrib) - Adds data-resolvers for the most popular Umbraco community packages - these are used by Courier to aid with the deployment and transferring of content/property-data to a target environment. **(https://github.com/umbraco-community/awesome-umbraco/blob/master/Maintained by Umbraco HQ)**
-* [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(https://github.com/umbraco-community/awesome-umbraco/blob/master/Maintained by Umbraco HQ)** _Umbraco Cloud only_
+* [Courier*](https://umbraco.com/products/umbraco-courier/) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
+* [Courier Contrib](https://github.com/umbraco/Umbraco.Courier.Contrib) - Adds data-resolvers for the most popular Umbraco community packages - these are used by Courier to aid with the deployment and transferring of content/property-data to a target environment. **(Maintained by Umbraco HQ)**
+* [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** _Umbraco Cloud only_
 
 ## eCommerce &amp; CRM
 
@@ -134,7 +134,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution.
 * [ezSearch](https://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
-* [Robotnik](https://our.umbraco.org/projects/developer-tools/robotnik/) - Specify a different robots.txt for each domain (https://github.com/umbraco-community/awesome-umbraco/blob/master/staging/production, brand 1/brand 2).
+* [Robotnik](https://our.umbraco.org/projects/developer-tools/robotnik/) - Specify a different robots.txt for each domain (staging/production, brand 1/brand 2).
 * [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
 

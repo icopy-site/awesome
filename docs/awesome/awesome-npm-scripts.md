@@ -107,9 +107,9 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 A quick reference of the shell operators & commands that work the same on Unix and Windows.
 
 - `&&` runs commands in sequence. If a command fails, the script exits.
-- `|` pipes the stdout of one command into the stdin of the next. (https://github.com/RyanZim/awesome-npm-scripts/blob/master/`do-something | something else`)
-- `>` writes the stdout of a command to a file. (https://github.com/RyanZim/awesome-npm-scripts/blob/master/`do-something > file`)
-- `<` sends the contents of a file to a command's stdin. (https://github.com/RyanZim/awesome-npm-scripts/blob/master/`command < file`)
+- `|` pipes the stdout of one command into the stdin of the next. (`do-something | something else`)
+- `>` writes the stdout of a command to a file. (`do-something > file`)
+- `<` sends the contents of a file to a command's stdin. (`command < file`)
 - `cd <dir>` changes the current working directory to `<dir>`. Note that `cd` alone prints the current working directory on windows, but changes the working directory to `~` on \*nix.
 
 ## `npm run` Reference
@@ -117,11 +117,11 @@ A quick reference of the shell operators & commands that work the same on Unix a
 You can use `npm run-script` or `npm run`; they both do the same thing, but `npm run` is shorter.
 
 - Run just `npm run` to print a list of scripts.
-- Running `npm run script` (https://github.com/RyanZim/awesome-npm-scripts/blob/master/where `script` is the name of your script) will run `prescript`, `script`, and `postscript`; in that order.
-  - You can't nest `pre` and `post` hooks (https://github.com/RyanZim/awesome-npm-scripts/blob/master/i.e. `preprescript` won't work).
+- Running `npm run script` (where `script` is the name of your script) will run `prescript`, `script`, and `postscript`; in that order.
+  - You can't nest `pre` and `post` hooks (i.e. `preprescript` won't work).
 - You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectively runs `mocha --reporter xunit`.
 - Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
-- You can run `npm run <script> -s` to silence the default npm output (https://github.com/RyanZim/awesome-npm-scripts/blob/master/useful for calling a script within another script).
+- You can run `npm run <script> -s` to silence the default npm output (useful for calling a script within another script).
 
 ## Contributing
 

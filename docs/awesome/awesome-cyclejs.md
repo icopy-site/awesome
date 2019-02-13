@@ -27,7 +27,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Tutorials
 
-* [What Developers Need to Know about MVI (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - Post on MVI architecture.
+* [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - Post on MVI architecture.
 * [Cycle.js: a reactive framework](https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/) - Introduction to Cycle.js with real time data example.
 * [Building realtime applications with CycleJS and RxJS](https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/) - Learn how to build realtime applications with CycleJS and RxJS
 * [Working with HTTP Streams with Cycle.js](http://ivanjov.com/working-with-http-streams-with-cycle-js/) - Learn how to use Cycle.js to handle HTTP requests and responses
@@ -127,7 +127,7 @@ http://oleg.fi/graafi/
 * [rektide/recyclec ★0](https://github.com/rektide/recyclec) - Readline driver
 * [goodmind/cycle-telegram ★15](https://github.com/goodmind/cycle-telegram) - A Cycle.js Driver for Telegram Bot API
 * [apoco/cycle-electron-driver ★22](https://github.com/apoco/cycle-electron-driver) - Driver to interact with Electron interface from Cycle.js application
-* [rkrupinski/cyclejs-animated-localstorage ★12](https://github.com/rkrupinski/cyclejs-animated-localstorage) - A Cycle.js driver for animating (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/srsly) localStorage.
+* [rkrupinski/cyclejs-animated-localstorage ★12](https://github.com/rkrupinski/cyclejs-animated-localstorage) - A Cycle.js driver for animating (srsly) localStorage.
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) - A keyboard driver for cycle.js
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
@@ -155,10 +155,10 @@ http://oleg.fi/graafi/
 * [madcapjake/earlhyperscript ★2](https://github.com/MadcapJake/earl-hyperscript) - A helper function and macro for using Earl Grey's [document-building syntax](https://breuleux.github.io/earl-grey/doc.html#documentbuildingsyntax) with Cycle.js.
 * [WorldMaker/cycle-gear ★4](https://github.com/WorldMaker/cycle-gear) - A main function factory for Cycle based upon a formalization of Cycle's MVI pattern
 * [SuperManitu/cyclejs-sortable ★15](https://github.com/cyclejs-community/cyclejs-sortable) - Make everything sortable via drag and drop in only one line of code!
-* [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/Driver + component)
+* [atomrc/cyclejs-auth0 ★22](https://github.com/atomrc/cyclejs-auth0) - Everything you need to start playing with Auth0 on your Cyclejs app (Driver + component)
 * [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) - Fractal state management for Cycle.js apps
-* [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/main function) by storing its onion-shaped state in local storage
-* [shfrmn/cycle-lot](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/full typesript support)
+* [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage
+* [shfrmn/cycle-lot](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (full typesript support)
 
 ### Boilerplates
 
@@ -176,7 +176,7 @@ http://oleg.fi/graafi/
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) (https://github.com/cyclejs-community/awesome-cyclejs/blob/master/[Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 

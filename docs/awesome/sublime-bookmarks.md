@@ -6,7 +6,7 @@ This tiny project follows [GitHub community trend](https://github.com/sindresorh
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
-**[Fork and edit](https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md)** (https://github.com/dreikanter/sublime-bookmarks/blob/master/or [propose something](https://github.com/dreikanter/sublime-bookmarks/issues/new) to add).
+**[Fork and edit](https://github.com/dreikanter/sublime-bookmarks/edit/master/README.md)** (or [propose something](https://github.com/dreikanter/sublime-bookmarks/issues/new) to add).
 
 ## Things to Start From
 
@@ -20,12 +20,12 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 - [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl.
 - [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) by Josh Earl.
-- [Mastering Sublime Text](http://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (https://github.com/dreikanter/sublime-bookmarks/blob/master/PACKT).
+- [Mastering Sublime Text](http://www.packtpub.com/application-development/mastering-sublime-text) by Dan Peleg (PACKT).
 
 ## News and Tips
 
 - [Sublime Blog](http://www.sublimetext.com/blog/) — official news.
-- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text (https://github.com/dreikanter/sublime-bookmarks/blob/master/[twitter](https://twitter.com/SublimeTxtTips)).
+- [Sublime Text Tips](http://sublimetexttips.com) — tips and tricks for mastering Sublime Text ([twitter](https://twitter.com/SublimeTxtTips)).
 - [@SublimePackages](https://twitter.com/SublimePackages) — Latest published packages for SublimeText 2&3, news, tutorials, tips & tricks from the users community. Gently curated by [@n1k0](https://twitter.com/n1k0).
 
 ## Community
@@ -36,9 +36,9 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 
 ## Screencasts
 
-- [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (https://github.com/dreikanter/sublime-bookmarks/blob/master/free course).
-- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (https://github.com/dreikanter/sublime-bookmarks/blob/master/Pluralsight).
-- [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (https://github.com/dreikanter/sublime-bookmarks/blob/master/Pragmatic Studio).
+- [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
+- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
+- [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
 ## Extensions
@@ -54,14 +54,14 @@ Alive projects only, with Sublime Text version 3 support.
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
 - [Sublime Worksheet](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
 - [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
-- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (https://github.com/dreikanter/sublime-bookmarks/blob/master/controllers, models, etc), or just plain Ruby files.
+- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
-- [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (https://github.com/dreikanter/sublime-bookmarks/blob/master/Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
+- [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
 - [FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
 - [Glue](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
 - [File Navigator](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
 - [Synesthesia](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
-- [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (https://github.com/dreikanter/sublime-bookmarks/blob/master/similar to Notepad++ "Style token" functionality).
+- [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 - [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
@@ -80,7 +80,7 @@ Plugins:
 - [RSpec plugin](https://github.com/SublimeText/RSpec)
 - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
 - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
-- [ProductiveSnippetsRuby](https://github.com/janlelis/productive-sublime-snippets-ruby/) — consistent set of alternative snippets, focusing on core and stdlib (https://github.com/dreikanter/sublime-bookmarks/blob/master/[Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
+- [ProductiveSnippetsRuby](https://github.com/janlelis/productive-sublime-snippets-ruby/) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
 
 ### Python Profile
 
@@ -94,7 +94,7 @@ Plugins:
 
 - [MagicPython](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 - [Rope](https://github.com/python-rope/rope) — a Python refactoring library.
-- [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (https://github.com/dreikanter/sublime-bookmarks/blob/master/docstring style checker).
+- [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro](https://github.com/squ1b3r/Djaneiro) — Django support.
 - [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
 - [Anaconda](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
@@ -106,14 +106,14 @@ Plugins:
 - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 - [TernJS](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 - [Bump](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
-- [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (https://github.com/dreikanter/sublime-bookmarks/blob/master/such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) (https://github.com/dreikanter/sublime-bookmarks/blob/master/javascript static type checker from Facebook) under the hood.
+- [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
 
 ### Client Side Profile
 
 - [Emmet](http://emmet.io) — a plugin for many popular text editors which greatly improves HTML & CSS workflow.
 - [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 - [GutterColor](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
-- [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (https://github.com/dreikanter/sublime-bookmarks/blob/master/Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
+- [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
 ### LaTeX Profile
 
@@ -134,7 +134,7 @@ Plugins:
 ## Integration
 
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
-- [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (https://github.com/dreikanter/sublime-bookmarks/blob/master/for OS X).
+- [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
 - [Alfred Workflow](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
 - [LiveReload](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
 
@@ -161,7 +161,7 @@ Related extensions:
 - [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
 - http://tmtheme-editor.herokuapp.com — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor
 - [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
-- [Themer](https://themer.mjswensen.com) - tool for generating color schemes (https://github.com/dreikanter/sublime-bookmarks/blob/master/and matching themes for your other development tools, including wallpaper) from your favorite colors.
+- [Themer](https://themer.mjswensen.com) - tool for generating color schemes (and matching themes for your other development tools, including wallpaper) from your favorite colors.
 
 Some of the most popular schemes:
 
@@ -186,7 +186,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [PT Mono](http://www.paratype.com/public/)
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-- [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (https://github.com/dreikanter/sublime-bookmarks/blob/master/goes with Microsoft Office)
+- [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
 - [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)

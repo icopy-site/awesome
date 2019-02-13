@@ -13,7 +13,7 @@
 
 
 ## What is Awesome Salesforce ?
-Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on  [Github](https://github.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (https://github.com/mailtoharshit/awesome-salesforce/blob/master/dedicated to their favorite technology).
+Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on  [Github](https://github.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
@@ -129,14 +129,14 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (https://github.com/mailtoharshit/awesome-salesforce/blob/master/by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
-* [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(https://github.com/mailtoharshit/awesome-salesforce/blob/master/CRUD, FLS and Sharing).
+* [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing).
 
 * [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
 
-* [Force https://github.com/mailtoharshit/awesome-salesforce/blob/master/DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (https://github.com/mailtoharshit/awesome-salesforce/blob/master/DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
+* [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
 * [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding.
 
 * [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
@@ -176,7 +176,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
 
-* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(https://github.com/mailtoharshit/awesome-salesforce/blob/master/a feature-rich Apex-like code) to Apex classes.
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
@@ -193,12 +193,12 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
-* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (https://github.com/mailtoharshit/awesome-salesforce/blob/master/unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
+* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 * [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
 
 ## Javascript Libraries for Salesforce
 
-* [JSForce - JSforce (https://github.com/mailtoharshit/awesome-salesforce/blob/master/f.k.a. Node-Salesforce)](https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (https://github.com/mailtoharshit/awesome-salesforce/blob/master/CLI) which gives interactive console (https://github.com/mailtoharshit/awesome-salesforce/blob/master/REPL), so you can learn the usage without hassle.
+* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
@@ -221,7 +221,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 * [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
 * [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
-* [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (https://github.com/mailtoharshit/awesome-salesforce/blob/master/Gulp.js)
+* [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 * [Avonni Creator](https://www.avonnicreator.com/) - Salesforce prototyping tool with sophisticated Lightning Design System support.
 
@@ -248,7 +248,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 ### Mobile SDK
 * [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
 
-* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (https://github.com/mailtoharshit/awesome-salesforce/blob/master/for windows projects) or Salesforce.SDK.Phone for phone projects.
+* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
 
 * [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android.
 
@@ -304,16 +304,16 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 * [Andrew Fawcett](http://andyinthecloud.com/) - CTO at Financialforce.com, Author and known for his outstanding contribution to Salesforce Community. [Read More](http://andyinthecloud.com/about/)
-* [Andrez Perez - (https://github.com/mailtoharshit/awesome-salesforce/blob/master/ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
+* [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More](http://coenraets.org/blog/bio/)
-* [Harshit Pandey -(https://github.com/mailtoharshit/awesome-salesforce/blob/master/Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
+* [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
 * [Jeff Doughlas](http://blog.jeffdouglas.com/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More](http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More](https://www.blogger.com/profile/07815472992351343395)
-* [Enrico Murru -(https://github.com/mailtoharshit/awesome-salesforce/blob/master/Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. [Read More](http://enree.co/)
+* [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. [Read More](http://enree.co/)
 * [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More](http://peterknolle.com/about/)  
-* [Abhinav Gupta -(https://github.com/mailtoharshit/awesome-salesforce/blob/master/TechGerm)](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
+* [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
-* [Mohith Shrivastava -(https://github.com/mailtoharshit/awesome-salesforce/blob/master/CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
+* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
 * [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
 ### Podcasts
@@ -325,8 +325,8 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) first.
 
 ## BugReport-PullRequest
-1. Add your link ahttps://github.com/mailtoharshit/awesome-salesforce/blob/master/s per the top-level Category page within the topic https://github.com/mailtoharshit/awesome-salesforce/blob/master/sub-https://github.com/mailtoharshit/awesome-salesforce/blob/master/section(https://github.com/mailtoharshit/awesome-salesforce/blob/master/s), in _alphabetical order_, with notehttps://github.com/mailtoharshit/awesome-salesforce/blob/master/s (https://github.com/mailtoharshit/awesome-salesforce/blob/master/if any) in the markdown filehttps://github.com/mailtoharshit/awesome-salesforce/blob/master/s.
-2. For broken links or outdated information, submit a bug report (https://github.com/mailtoharshit/awesome-salesforce/blob/master/BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
+1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
+2. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 3. For those unable to use git, create a github account, then fork this` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 

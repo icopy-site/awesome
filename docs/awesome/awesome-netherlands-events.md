@@ -2,7 +2,7 @@
 
 > A curated list of Awesome Events in 🇳🇱
 
-This list contains awesome (https://github.com/awkward/awesome-netherlands-events/blob/master/tech related) events happening (https://github.com/awkward/awesome-netherlands-events/blob/master/and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
+This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
@@ -29,13 +29,13 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 ## Amsterdam
 - [Makersclub](http://makersclubams.com/) - Bimonthly casual drinkup without an agenda.
 - [Hackers & Founders](https://www.meetup.com/Hackers-and-Founders-Amsterdam-NL/) - Monthly meetup at Cafe De Doffer.
-- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conference (https://github.com/awkward/awesome-netherlands-events/blob/master/May 18 & 19).
-- [AMSxTech](http://amsxtech.com/) - Community driven conference (https://github.com/awkward/awesome-netherlands-events/blob/master/March 31) and monthly meetups.
-- [FunctionConf](https://functionconf.io/) - Conference about serverless architectures (https://github.com/awkward/awesome-netherlands-events/blob/master/June 15 & 16).
+- [The Next Web Conference](https://thenextweb.com/conference) - Biggest tech conference (May 18 & 19).
+- [AMSxTech](http://amsxtech.com/) - Community driven conference (March 31) and monthly meetups.
+- [FunctionConf](https://functionconf.io/) - Conference about serverless architectures (June 15 & 16).
 - [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - Active Ruby meetup with frequent, large events.
 - [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - Monthly Elixir meetups.
 - [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust.
-- [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (https://github.com/awkward/awesome-netherlands-events/blob/master/April 21) on all things React.
+- [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (April 21) on all things React.
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
@@ -44,7 +44,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Everywhere
 - [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
-- [CoderDojo](https://coderdojo.nl) - Monthly workshops for kids (https://github.com/awkward/awesome-netherlands-events/blob/master/7-17) to learn to code.
+- [CoderDojo](https://coderdojo.nl) - Monthly workshops for kids (7-17) to learn to code.
 - [Design by Fire Café](https://www.designbyfire.nl) - Conferences and Gatherings on Interaction Design.
 
 ## Other

@@ -141,7 +141,7 @@ String formatting of date is hard.
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
 Provides intricate examples that are unsuspected valid email addresses
 according the RFC-822.
-- [So you think you can validate email addresses (https://github.com/kdeldycke/awesome-falsehood/blob/master/FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) -
+- [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) -
 Presentation of edge-case email addresses and why you should not use regex to parse them.
 
 
@@ -270,7 +270,7 @@ Appointments](https://twitter.com/oliver_dw/status/737930439575404544) -
 Designing election systems has its own tricks.
 - [Falsehoods About Women In
 Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
-in STEM (https://github.com/kdeldycke/awesome-falsehood/blob/master/Science, Technology, Engineering, Math) industries.
+in STEM (Science, Technology, Engineering, Math) industries.
 
 
 ## Software Engineering
@@ -304,7 +304,7 @@ your assumptions about strings.
 of a post on why file mtime comparison could be considered harmful.
 - [Falsehoods About
 Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 
-Why your pagination algorithm is giving someone (https://github.com/kdeldycke/awesome-falsehood/blob/master/possibly you) a headache.
+Why your pagination algorithm is giving someone (possibly you) a headache.
 - [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - A
 kind of falsehood on numbers, and floats vs decimals.
 
@@ -342,7 +342,7 @@ global, if not complete, overview of the domain being targeted by the article,
 including most, if not all, its pitfalls, edges-cases and inconsistencies.
 
 In the worst case, these articles might provoke an emotional reaction and cause
-flipping table. `(https://github.com/kdeldycke/awesome-falsehood/blob/master/╯°□°)╯︵ ┻━┻`
+flipping table. `(╯°□°)╯︵ ┻━┻`
 
 Articles featuring items that are applicable to a product and a product only
 can't really be considered as generic falsehood articles and should be avoided.
@@ -353,7 +353,7 @@ When possible, we provide a list of programming libraries or modules that may
 solve, or try to, the complexities and idiosyncrasies pointed by the
 *falsehood* articles above.
 
-So we can put back tables in place. `┬─┬ ノ(https://github.com/kdeldycke/awesome-falsehood/blob/master/ ゜-゜ノ)`
+So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 ### Data Structures
 

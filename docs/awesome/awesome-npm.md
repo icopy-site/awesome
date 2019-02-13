@@ -25,7 +25,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 - [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 - [Writing small modules](https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules)
-- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(https://github.com/sindresorhus/awesome-npm/blob/master/Must read!)*
+- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 - [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 - [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
@@ -95,7 +95,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
-- [cloudsmith](https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (https://github.com/sindresorhus/awesome-npm/blob/master/and many others).
+- [cloudsmith](https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (and many others).
 
 ### Other
 
@@ -176,7 +176,7 @@ alias nlg='npm list --global --depth=0'
 
 ### Don't add to package.json when installing
 
-By default npm adds packages you install to the `dependencies` field in package.json (https://github.com/sindresorhus/awesome-npm/blob/master/since v5). You can prevent this by specifying the `--no-save` flag. You can add a package to `devDependencies` with `--save-dev`/`-D`:
+By default npm adds packages you install to the `dependencies` field in package.json (since v5). You can prevent this by specifying the `--no-save` flag. You can add a package to `devDependencies` with `--save-dev`/`-D`:
 
 ```
 $ npm install --save-dev ava
@@ -325,7 +325,7 @@ This will lint your files before running your tests. The tests will not run if l
 
 ### Run script with `npx`
 
-`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
 
 ```json
 {
@@ -354,7 +354,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-With `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0 -- node --version
@@ -390,7 +390,7 @@ $ npm install 'sindresorhus/chalk#51b8f32'
 
 Specify either a commit SHA, branch, tag, or nothing.
 
-You can also install Git dependencies with semver: *(https://github.com/sindresorhus/awesome-npm/blob/master/Requires npm v5 or newer)*
+You can also install Git dependencies with semver: *(Requires npm v5 or newer)*
 
 ```
 $ npm install 'sindresorhus/chalk#semver:^2.0.0'

@@ -18,12 +18,12 @@ Contributions are very welcome!
 ## Graphics
 
 * [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
-* [Altphotos](https://altphotos.com) - Handpicked free (https://github.com/shime/creative-commons-media/blob/master/CC0) high-resolution photos added daily.
+* [Altphotos](https://altphotos.com) - Handpicked free (CC0) high-resolution photos added daily.
 * [AnimalPhotos](http://animalphotos.info/a/) - Thousands of animal pictures.
 * [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
 * [Creativity103](http://creativity103.com/) - Library of free abstract backgrounds, textures and design ideas.
-* [Find A Photo](http://finda.photo/) - Search through thousands of free (https://github.com/shime/creative-commons-media/blob/master/CC0 licensed) stock photos.
+* [Find A Photo](http://finda.photo/) - Search through thousands of free (CC0 licensed) stock photos.
 * [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 * [Good Free Photos](https://www.goodfreephotos.com) - Thousands of free public domain photos categorized by geographic location
 * [ImageBase](http://imagebase.net/) - Collection of free photos.

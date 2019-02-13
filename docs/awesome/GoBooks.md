@@ -35,7 +35,7 @@ This companion book contains material initially written specifically for this ev
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
-A online book to start learning Golang. It features numerous exercises (https://github.com/dariubs/GoBooks/blob/master/and answers).
+A online book to start learning Golang. It features numerous exercises (and answers).
 
 The [markdown source is available on Github](https://github.com/miekg/learninggo).
 
@@ -49,7 +49,7 @@ This book helps Javascripters become Gophers. Outlining the differences between 
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
-Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (https://github.com/dariubs/GoBooks/blob/master/We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
+Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. (We assume you're up to speed with another programming language already, so don't expect to spend a lot of time rehearsing stuff you already know.) Then, you'll get hands-on experience writing real-world applications including web sites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. In the final chapters, you'll go in-depth with the language and see the tricks and secrets that the Go masters are using to make their applications perform. For example, you'll learn to use Go's powerful reflection libraries and work with real-world examples of integration with C code.
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
@@ -132,7 +132,7 @@ A short guide to Test-driven development in golang. free to [read online](https:
 
 Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
 
-Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (https://github.com/dariubs/GoBooks/blob/master/RPC), web sockets including HTML5 web sockets, and more.
+Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (RPC), web sockets including HTML5 web sockets, and more.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
@@ -221,7 +221,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 <img src="https://raw.githubusercontent.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
-This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (https://github.com/dariubs/GoBooks/blob/master/you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that https://github.com/dariubs/GoBooks/blob/master/you'll learn a lot when https://github.com/dariubs/GoBooks/blob/master/you code without a framework.
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 

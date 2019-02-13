@@ -39,7 +39,7 @@
 
 ## Implementations
 
-Sorted by creation date (https://github.com/web-padawan/awesome-lit-html/blob/master/oldest first).
+Sorted by creation date (oldest first).
 
 - [lit-element](https://www.npmjs.com/package/lit-element) - Simple base class for creating fast, lightweight Web Components.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
@@ -109,8 +109,8 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Videos
 
-- [Efficient, Expressive, and Extensible HTML Templates (https://github.com/web-padawan/awesome-lit-html/blob/master/Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
-- [lit-HTML (https://github.com/web-padawan/awesome-lit-html/blob/master/Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
+- [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
+- [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 
 ## Podcasts

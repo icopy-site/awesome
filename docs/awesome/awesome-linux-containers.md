@@ -36,7 +36,7 @@ The Cloud is our foundry.
 * [Open Container Specifications](https://github.com/opencontainers/specs)  
 This project is where the Open Container Initiative Specifications are written. This is a work in progress. 
 * [App Container basics](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)  
-App Container (https://github.com/Friz-zy/awesome-linux-containers/blob/master/appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
+App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
 * [Systemd Container Interface](https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/)  
 Systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. If you write a container solution, please consider supporting the following interfaces.
 * [Nulecule Specification](https://github.com/projectatomic/atomicapp/tree/master/docs/spec)  
@@ -59,7 +59,7 @@ High-Performance Container-Native Infrastructure for Today's Demanding Real-Time
 * [Kubernetes](http://kubernetes.io/)  
 Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
 * [Mesosphere](https://mesosphere.com/)  
-The Mesosphere Datacenter Operating System (https://github.com/Friz-zy/awesome-linux-containers/blob/master/DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
+The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
 * [OpenShift Origin](https://www.openshift.org/)  
 OpenShift Origin is a distribution of [Kubernetes](http://kubernetes.io/) optimized for continuous application development and multi-tenant deployment. Origin adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
 * [Warden](https://github.com/cloudfoundry/warden)  
@@ -90,7 +90,7 @@ A lightweight Linux operating system designed for clustered deployments providin
 * [RancherOS](http://rancher.com/rancher-os/)  
 RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.
 * [Project Atomic](http://www.projectatomic.io/)  
-Project Atomic provides the best platform for your Linux Docker Kubernetes (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.
+Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.
 * [Snappy Ubuntu Core](https://www.ubuntu.com/cloud/snappy)  
 Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
 * [ResinOS](https://resinos.io/)  
@@ -106,7 +106,7 @@ OSv is the open source operating system designed for the cloud. Built from the g
 * [HypriotOS](http://blog.hypriot.com/about/)  
 Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
 * [MCL](https://mcl.host)  
-MCL (https://github.com/Friz-zy/awesome-linux-containers/blob/master/*Minimal Container Linux*) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of ~50MB and boots within seconds. It is currently optimized to run Docker.
+MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of ~50MB and boots within seconds. It is currently optimized to run Docker.
 
 ## Hypervisors
 
@@ -115,7 +115,7 @@ An open platform for distributed applications for developers and sysadmins. **St
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
-OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
+OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 * [Lithos](https://github.com/tailhook/lithos/)  
@@ -130,7 +130,7 @@ runc is a CLI tool for spawning and running containers according to the OCS spec
 * [Bocker](https://github.com/p8952/bocker)  
 Docker implemented in around 100 lines of bash.
 * [Rocket](https://github.com/coreos/rkt)  
-rkt (https://github.com/Friz-zy/awesome-linux-containers/blob/master/pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
+rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
 * [LXC](https://github.com/lxc/lxc)  
 LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
 * [Vagga](https://github.com/tailhook/vagga)  
@@ -138,7 +138,7 @@ Vagga is a fully-userspace container engine inspired by Vagrant and Docker, spec
 * [libct](https://github.com/xemul/libct)  
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 * [libvirt](https://libvirt.org/drvlxc.html)  
-A big toolkit to interact with the virtualization capabilities of recent versions of Linux (https://github.com/Friz-zy/awesome-linux-containers/blob/master/and other OSes).
+A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
 * [systemd-nspawn](https://wiki.archlinux.org/index.php/Systemd-nspawn)  
 Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
 * [porto](https://github.com/yandex/porto)  
@@ -148,7 +148,7 @@ A basic user tool to execute simple containers in batch or interactive systems w
 * [Let Me Contain That For You](https://github.com/google/lmctfy)  
 LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [cc-oci-runtime](https://github.com/01org/cc-oci-runtime)  
-Intel Clear Linux OCI (https://github.com/Friz-zy/awesome-linux-containers/blob/master/Open Containers Initiative) compatible runtime.
+Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 * [railcar](https://github.com/oracle/railcar)  
 Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 * [Kata Containers](https://katacontainers.io/)  
@@ -156,7 +156,7 @@ Kata Containers is a new open source project building extremely lightweight virt
 * [plash](https://github.com/ihucos/plash/)  
 Lightweight, rootless containers.
 * [runv](https://github.com/hyperhq/runv)  
-Hypervisor-based (https://github.com/Friz-zy/awesome-linux-containers/blob/master/KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
+Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
 * [podman](https://github.com/containers/libpod)  
 Full management of container lifecycle.
 * [firecracker](https://github.com/firecracker-microvm/firecracker)  
@@ -188,13 +188,13 @@ Process network namespace management. Part of the iproute2.
 * [unshare](http://man7.org/linux/man-pages/man1/unshare.1.html)  
 Run program with some namespaces unshared from parent. Part of the util-linux.
 * [python-nsenter](https://github.com/zalando/python-nsenter)  
-This Python package allows entering Linux kernel namespaces (https://github.com/Friz-zy/awesome-linux-containers/blob/master/mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
+This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
 * [butter](https://pypi.python.org/pypi/butter)  
-Python library to interface to low level linux features (https://github.com/Friz-zy/awesome-linux-containers/blob/master/inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
+Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
 * [pyspaces](https://github.com/Friz-zy/pyspaces)  
 Works with Linux namespaces through glibc with pure python.
 * [CRIU](https://criu.org/Main_Page)  
-Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (https://github.com/Friz-zy/awesome-linux-containers/blob/master/or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
+Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
 * [Moby](https://github.com/moby/moby)  
 A "Lego set" of toolkit components for containers software created by Docker.
 
@@ -209,7 +209,7 @@ Work with remote images registries - retrieving information, images, signing con
 * [img](https://github.com/jessfraz/img)  
 Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 * [dgr](https://github.com/blablacar/dgr)  
-Command line utility designed to build and to configure at runtime App Containers Images (https://github.com/Friz-zy/awesome-linux-containers/blob/master/ACI) and App Container Pods (https://github.com/Friz-zy/awesome-linux-containers/blob/master/POD) based on convention over configuration.
+Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
 * [Whaler](https://github.com/P3GLEG/Whaler)  
 Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 * [dive](https://github.com/wagoodman/dive)  
@@ -252,7 +252,7 @@ Quick and Easy server testing/validation.
 * [sockguard](https://github.com/buildkite/sockguard)  
 A proxy for docker.sock that enforces access control and isolated privileges.
 * [gvisor](https://github.com/google/gvisor)  
-gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (https://github.com/Friz-zy/awesome-linux-containers/blob/master/OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
+gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [docker-explorer](https://github.com/google/docker-explorer/)  
 A tool to help forensicate offline docker acquisitions.
 
@@ -261,14 +261,14 @@ A tool to help forensicate offline docker acquisitions.
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
 * [Are Docker containers really secure?](https://opensource.com/business/14/7/docker-security-selinux)
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
-* [Docker, Linux Containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)
+* [Docker, Linux Containers (LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)
 * [For containers, security is problem #1](http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html)
 * [Linux Container Security](https://mjg59.dreamwidth.org/33170.html)
 * [Ask HN: Best Linux sandbox?](https://news.ycombinator.com/item?id=10030868)
 * [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 * [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 * [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
-* [Don't expose the Docker socket (https://github.com/Friz-zy/awesome-linux-containers/blob/master/not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+* [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
 * [RedHat Blog](http://rhelblog.redhat.com/?s=container&submit=Search)
   - [Introduction to Linux Containers](https://access.redhat.com/articles/1353593)
   - [What’s Next for Containers? User Namespaces](http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004)
@@ -285,7 +285,7 @@ A tool to help forensicate offline docker acquisitions.
 * always untrusted -> know it
 * suid bit -> mount with nosuid
 * limit available syscall -> seccomp-bpf, grsec
-* leak to another container (https://github.com/Friz-zy/awesome-linux-containers/blob/master/bug in namespaces, filesystem) -> user namespaces with different uid inside for each container: 1000 in container - 14293 and 15398 outside; security modules like selinux or apparmor
+* leak to another container (bug in namespaces, filesystem) -> user namespaces with different uid inside for each container: 1000 in container - 14293 and 15398 outside; security modules like selinux or apparmor
 
 2) system services like cron, ssh
 
@@ -294,7 +294,7 @@ A tool to help forensicate offline docker acquisitions.
 The following device nodes are created in the container by default.  
 The Docker images are also mounted with nodev, which means that even if a device node was pre-created in the image, it could not be used by processes within the container to talk to the kernel.  
 /dev/console,/dev/null,/dev/zero,/dev/full,/dev/tty*,/dev/urandom,/dev/random,/dev/fuse
-* root calls -> capabilities (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cap_sys_admin warning!)  
+* root calls -> capabilities (cap_sys_admin warning!)  
 Here is the current list of capabilities that Docker uses: chown, dac_override, fowner, kill, setgid, setuid, setpcap, net_bind_service, net_raw, sys_chroot, mknod, setfcap, and audit_write.  
 Docker removes several of these capabilities including the following:  
 CAP_SETPCAP 	Modify process capabilities  
@@ -345,11 +345,11 @@ Docker uses copy-on-write file systems. This means containers can use the same f
 Things are better. For example, most modern container technologies can make use of Linux's built-in security tools such as:  
 [AppArmor](http://wiki.apparmor.net/index.php/Main_Page), [SELinux](http://selinuxproject.org/page/Main_Page) and [Seccomp](http://man7.org/linux/man-pages/man2/seccomp.2.html) policies;  
 [Grsecurity](https://grsecurity.net/);  
-[Control groups (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cgroups)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html);  
+[Control groups (cgroups)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html);  
 [Kernel namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)  
 [src](http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html)
 
-Sure, you're deploying seccomp, but you can't use selinux inside your container, because the policy isn't per-namespace (https://github.com/Friz-zy/awesome-linux-containers/blob/master/?? lxc uses apparmore for each container...)  
+Sure, you're deploying seccomp, but you can't use selinux inside your container, because the policy isn't per-namespace (?? lxc uses apparmore for each container...)  
 [sVirt](http://selinuxproject.org/page/SVirt) - selinux for kvm  
 [src](https://mjg59.dreamwidth.org/33170.html)
 

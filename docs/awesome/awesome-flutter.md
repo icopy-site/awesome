@@ -242,7 +242,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Build solutions
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
-- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (https://github.com/Solido/awesome-flutter/blob/master/NeverCode)[https://nevercode.io/].
+- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/].
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) [39⭐] - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov).
 
 #### Build articles
@@ -404,7 +404,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Misc
 
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) [122⭐] - Generic cache manager by [Rene Floor](https://github.com/renefloor).
-- [Frideos](https://github.com/frideosapps/frideos_flutter) - Helpers for streams, BLoC pattern and various widgets (https://github.com/Solido/awesome-flutter/blob/master/blur, transitions, timed widgets, ...) by [Francesco Mineo](https://github.com/frideosapps).
+- [Frideos](https://github.com/frideosapps/frideos_flutter) - Helpers for streams, BLoC pattern and various widgets (blur, transitions, timed widgets, ...) by [Francesco Mineo](https://github.com/frideosapps).
 
 ### Testing
 
@@ -418,7 +418,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Top
 
-- [Flutter Team Samples](https://github.com/flutter/samples) [1489⭐] - Collection of examples (https://github.com/Solido/awesome-flutter/blob/master/including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
+- [Flutter Team Samples](https://github.com/flutter/samples) [1489⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
 - [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [5304⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
 - [Meme Chat](https://github.com/efortuna/memechat) [329⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) [146⭐] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
@@ -446,7 +446,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### State Management
 
- - [MobX](https://github.com/mobxjs/mobx.dart) [184⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (https://github.com/Solido/awesome-flutter/blob/master/TFRP). Port of MobX from the Js/React land.
+ - [MobX](https://github.com/mobxjs/mobx.dart) [184⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
 
 ### Games
 
@@ -454,7 +454,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [2048](https://github.com/anuranBarman/2048) [45⭐] - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
 - [TRex](https://github.com/renancaraujo/trex-flame) [79⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crush](https://github.com/boeledi/flutter_crush) [105⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
-- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [34⭐] - Classic slide (https://github.com/Solido/awesome-flutter/blob/master/15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [34⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 
 ## Utilities
 
@@ -522,7 +522,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel.
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community.
-- Twitter [Flutterhttps://github.com/Solido/awesome-flutter/blob/master/Lagos](https://twitter.com/Flutterhttps://github.com/Solido/awesome-flutter/blob/master/Lagos) - Dart & Flutter community (https://github.com/Solido/awesome-flutter/blob/master/Lagos).
+- Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos).
 
 ### 🇷🇺 Russia
 

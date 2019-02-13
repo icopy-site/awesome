@@ -1,8 +1,8 @@
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
-**Papers We Love** (https://github.com/papers-we-love/papers-we-love/blob/master/*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
+**Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
-Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (https://github.com/papers-we-love/papers-we-love/blob/master/when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
+Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
 If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Slack](https://paperswelove.slack.com/messages/general/), after [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
@@ -69,7 +69,7 @@ All of our meetups follow our [Code of Conduct](https://github.com/papers-we-lov
 
 ### Past Presentations
 
-Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (https://github.com/papers-we-love/papers-we-love/blob/master/audio-only format) channels.
+Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Info
 
@@ -81,7 +81,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://research.fb.com/publications/)
-* [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (https://github.com/papers-we-love/papers-we-love/blob/master/choose a subcategory)
+* [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
 * [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)

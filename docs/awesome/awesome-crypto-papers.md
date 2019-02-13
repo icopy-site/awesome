@@ -10,7 +10,7 @@ A curated list of [cryptography](https://en.wikipedia.org/wiki/Cryptography) pap
 
 The goal of this list is to provide educational reading material for different levels of cryptographic knowledge. I started it because my day job onboarding engineers at [Cossack Labs](https://www.cossacklabs.com) includes educating them in cryptographic matters and giving advise what to read on specific topics, and that involves finding the same materials repeatedly. Hopefully, it will be useful for someone else as well. 
 
-It is aimed at people who are using cryptography in higher-level security systems to implement database encryption, secure sharing, end-to-end encryption in various schemes, and should understand how it works, how it fails and how it is attacked. It is not a list of notable / important / historically important papers (https://github.com/pFarb/awesome-crypto-papers/blob/master/although many of them are here). It is not aimed at academics (https://github.com/pFarb/awesome-crypto-papers/blob/master/who have better grasp of what they need anyway), nor it is aimed for systematic study of wanna-be cryptographers (https://github.com/pFarb/awesome-crypto-papers/blob/master/who better follow structured approach under professional guidance). 
+It is aimed at people who are using cryptography in higher-level security systems to implement database encryption, secure sharing, end-to-end encryption in various schemes, and should understand how it works, how it fails and how it is attacked. It is not a list of notable / important / historically important papers (although many of them are here). It is not aimed at academics (who have better grasp of what they need anyway), nor it is aimed for systematic study of wanna-be cryptographers (who better follow structured approach under professional guidance). 
 
 It will be extended gradually as I find something of "must-have" value. Pull requests are very welcome.
 
@@ -74,18 +74,18 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 * [Cache Attacks and Countermeasures: the Case of AES](http://cs.tau.ac.il/~tromer/papers/cache.pdf) - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.
 * [Salsa20 family of stream ciphers](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.
 * [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](https://eprint.iacr.org/2007/472.pdf) - Analysis of Salsa20 family of ciphers, by Jean-Philippe Aumasson et al.
-* [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (https://github.com/pFarb/awesome-crypto-papers/blob/master/TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF Draft of ciphersuite family, by Adam Langley et al.
+* [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF Draft of ciphersuite family, by Adam Langley et al.
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
 * [Ongoing Research Areas in Symmetric Cryptography](http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.
-* [The Galois/Counter Mode of Operation (https://github.com/pFarb/awesome-crypto-papers/blob/master/GCM)
+* [The Galois/Counter Mode of Operation (GCM)
 ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - Original paper introducing GCM, by by David A. McGrew and John Viega.
 * [The Security and Performance of the
-Galois/Counter Mode (https://github.com/pFarb/awesome-crypto-papers/blob/master/GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - Design, analysis and security of https://github.com/pFarb/awesome-crypto-papers/blob/master/GCM, and, more specifically, AES https://github.com/pFarb/awesome-crypto-papers/blob/master/GCM mode, by David A. McGrew and John Viega.
+Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - Design, analysis and security of GCM, and, more specifically, AES GCM mode, by David A. McGrew and John Viega.
 
 #### Cryptoanalysis
 
 * [Differential Cryptanalysis of Salsa20/8](http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf) - A great example of stream cipher cryptoanalysis, by Yukiyasu Tsunoo et al.
-* [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - Applying slide attacks (https://github.com/pFarb/awesome-crypto-papers/blob/master/typical cryptoanalysis technique for block ciphers) to hash functions, M. Gorski et al.
+* [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - Applying slide attacks (typical cryptoanalysis technique for block ciphers) to hash functions, M. Gorski et al.
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - Attempt to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break new algorithms, by Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) - By Pascal Junod.
 * [Cryptoanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
@@ -164,8 +164,8 @@ That seems somewhat out of scope, isn't it? But these are books only fully avail
 * [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
 * [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 * [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Lecture notes by Rafael Pass, Abhi Shelat.
-* [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (https://github.com/pFarb/awesome-crypto-papers/blob/master/MIT), M. Bellare (https://github.com/pFarb/awesome-crypto-papers/blob/master/University of California).
-* [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (https://github.com/pFarb/awesome-crypto-papers/blob/master/University of Bochum in Germany). In english.
+* [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
+* [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
 * [Cryptography I](https://www.coursera.org/learn/crypto) - Stanford University course on Coursera, taught by prof. Dan Boneh. [Cryptography II](https://www.coursera.org/learn/crypto2) is still in development.
 <hr>
 

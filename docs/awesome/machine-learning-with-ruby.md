@@ -102,7 +102,7 @@ programming languages with appropriate bindings for Ruby.
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Predictive Model Markup Language).
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
@@ -119,11 +119,11 @@ programming languages with appropriate bindings for Ruby.
   examples and utilities.
 - [Deep NeuroEvolution](https://github.com/giuse/DNE) -
   Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
-  towards searching for deep neural networks (https://github.com/arbox/machine-learning-with-ruby/blob/master/rather than training) using evolutionary algorithms. Applications to the
+  towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
   [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
 - [svmkit](https://github.com/yoshoku/SVMKit) -
   Machine Learninig toolkit in Ruby with wide range of implemented algorithms
-  (https://github.com/arbox/machine-learning-with-ruby/blob/master/SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
+  (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
   interfaces similar to Scikit-Learn in Python.
 
 ### Neural networks
@@ -131,7 +131,7 @@ programming languages with appropriate bindings for Ruby.
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby bindings to the [Fast Artificial Neural Network Library (https://github.com/arbox/machine-learning-with-ruby/blob/master/FANN)](http://leenissen.dk/fann/wp/).
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum](https://github.com/irfansharif/cerebrum) -
   Experimental implementation for Artificial Neural Networks in Ruby.
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
@@ -141,7 +141,7 @@ programming languages with appropriate bindings for Ruby.
   [brains](https://github.com/jedld/brains).
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
   Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
-  (https://github.com/arbox/machine-learning-with-ruby/blob/master/fully connected). Training available using neuroevolution (https://github.com/arbox/machine-learning-with-ruby/blob/master/Natural Evolution Strategies algorithms).
+  (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 - [rann](https://github.com/mikecmpbll/rann) -
   Flexible Ruby ANN implementation with backprop (through-time, for recurrent
   nets), gradient checking, adagrad, and parallel batch execution.
@@ -160,9 +160,9 @@ programming languages with appropriate bindings for Ruby.
 
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
   Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
-  (https://github.com/arbox/machine-learning-with-ruby/blob/master/black-box optimization), specifically Exponential NES (https://github.com/arbox/machine-learning-with-ruby/blob/master/XNES),
-  Separable NES (https://github.com/arbox/machine-learning-with-ruby/blob/master/sNES), Block-Diagonal NES (https://github.com/arbox/machine-learning-with-ruby/blob/master/BDNES) and more.
-  Applications include neural network search/training (https://github.com/arbox/machine-learning-with-ruby/blob/master/neuroevolution).
+  (black-box optimization), specifically Exponential NES (XNES),
+  Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
+  Applications include neural network search/training (neuroevolution).
 - [simple_ga](https://github.com/giuse/simple_ga) -
   Simplest Genetic Algorithms implementation in Ruby.
 
@@ -197,7 +197,7 @@ programming languages with appropriate bindings for Ruby.
 ### Linear classifiers
 
 - [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
-  Ruby interface to LIBLINEAR (https://github.com/arbox/machine-learning-with-ruby/blob/master/much more efficient than LIBSVM for text classification).
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [liblinear-ruby](https://github.com/kei500/liblinear-ruby) -
   Ruby interface to LIBLINEAR using SWIG.
 
@@ -207,7 +207,7 @@ programming languages with appropriate bindings for Ruby.
   Memory based learners from the Timbl framework.
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
-  (https://github.com/arbox/machine-learning-with-ruby/blob/master/Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
+  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
 - [omnicat](https://github.com/mustafaturan/omnicat) -
@@ -322,7 +322,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2009
 
 - 2008
-  - _Support Vector Machines (https://github.com/arbox/machine-learning-with-ruby/blob/master/SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
+  - _Support Vector Machines (SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
 - 2007
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
@@ -333,7 +333,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [Wine Clustering](https://github.com/hexgnu/wine_clustering) -
   Wine quality estimations clustered with different algorithms.
 - [simple_ga](https://github.com/giuse/simple_ga) -
-  Basic (https://github.com/arbox/machine-learning-with-ruby/blob/master/working) demo of Genetic Algorithms in Ruby.
+  Basic (working) demo of Genetic Algorithms in Ruby.
 
 ## Heroku buildpacks
 
@@ -369,7 +369,7 @@ on the code here.
 ## Related Resources
 
 - <a name="gls"></a>
-  [GSL (https://github.com/arbox/machine-learning-with-ruby/blob/master/GNU Scientific Library)](http://www.gnu.org/software/gsl/)
+  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
 ```brew install gsl```
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
@@ -397,14 +397,14 @@ on the code here.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  General List of NLP related resources (https://github.com/arbox/machine-learning-with-ruby/blob/master/mostly not for Ruby programmers).
+  General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (https://github.com/arbox/machine-learning-with-ruby/blob/master/formelly IPython).
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
-  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Extract, Transform, Load) pipeline.
+  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
-  Multitude of OCR (https://github.com/arbox/machine-learning-with-ruby/blob/master/Optical Character Recognition) resources.
+  Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
 - [rb-gsl](https://github.com/SciRuby/rb-gsl) -

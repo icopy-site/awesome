@@ -29,14 +29,14 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
 
 ### Books ###
-* [Probabilistic Robotics (https://github.com/Kiloreux/awesome-robotics/blob/master/Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
-* [Introduction to Autonomous Mobile Robots (https://github.com/Kiloreux/awesome-robotics/blob/master/Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
+* [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
+* [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
 * [Springer Handbook of Robotics](http://www.amazon.com/Springer-Handbook-Robotics-Bruno-Siciliano/dp/354023957X)  :dollar:
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
-* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (https://github.com/Kiloreux/awesome-robotics/blob/master/Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
+* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
@@ -52,7 +52,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 Robot Simulator
 
 [**ROS**](http://www.ros.org/)
-The Robot Operating System (https://github.com/Kiloreux/awesome-robotics/blob/master/ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
 [**ROS2**](https://github.com/ros2/ros2/wiki)
 ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
@@ -64,7 +64,7 @@ RobWork is a collection of C++ libraries for simulation and control of robot sys
 Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
 
 [**Robotics Library**](http://www.roboticslibrary.org/)
-The Robotics Library (https://github.com/Kiloreux/awesome-robotics/blob/master/RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
+The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
 
 [**Simbad**](http://simbad.sourceforge.net/)
 2D/3D simulator in Java and Jython.
@@ -90,7 +90,7 @@ Webots is a development environment used to model, program and simulate mobile r
 [**Drake**](http://drake.mit.edu/)
 A planning, control and analysis toolbox for nonlinear dynamical systems.
 
-[**Neurorobotics Platform (https://github.com/Kiloreux/awesome-robotics/blob/master/NRP)**](https://neurorobotics.net/)
+[**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
@@ -103,7 +103,7 @@ Open-source software for robot simulation, integrated with OpenAI Gym.
 Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
 
 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
-Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (https://github.com/Kiloreux/awesome-robotics/blob/master/Robot Operating System).
+Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
 
 [**g2core**](https://github.com/synthetos/g2)
 Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
@@ -114,18 +114,18 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Conferences ###
-* [ACM/IEEE International Conference on Human Robot Interaction (https://github.com/Kiloreux/awesome-robotics/blob/master/HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
-* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (https://github.com/Kiloreux/awesome-robotics/blob/master/RoManSy)](http://www.romansy2016.org/)
-* [IEEE Conference on Decision and Controls (https://github.com/Kiloreux/awesome-robotics/blob/master/CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
-* [IEEE International Conference on Rehabilitation Robotics (https://github.com/Kiloreux/awesome-robotics/blob/master/ICORR)](http://www.rehabrobotics.org/)
-* [IEEE International Conference on Robotics and Automation (https://github.com/Kiloreux/awesome-robotics/blob/master/ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-* [IEEE/RSJ International Conference on Intelligent Robots and Systems (https://github.com/Kiloreux/awesome-robotics/blob/master/IROS)](http://www.iros.org/)
-* [IEEE-RAS International Conference on Humanoid Robots (https://github.com/Kiloreux/awesome-robotics/blob/master/Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
-* [International Symposium of Robotic Research (https://github.com/Kiloreux/awesome-robotics/blob/master/ISRR)](http://ifrr.org/isrr.php)
-* [International Symposium of Experimental Robotics (https://github.com/Kiloreux/awesome-robotics/blob/master/ISER)](http://ifrr.org/iser.php)
+* [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+* [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+* [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+* [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+* [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
 * [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
-* [Robotics: Science and Systems Conference (https://github.com/Kiloreux/awesome-robotics/blob/master/RSS)](http://www.roboticsconference.org/)
-* [The International Workshop on the Algorithmic Foundations of Robotics (https://github.com/Kiloreux/awesome-robotics/blob/master/WAFR)](http://www.wafr.org/)
+* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
 
 
 ### Journals ###
@@ -178,7 +178,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
-* [RosCON conference (https://github.com/Kiloreux/awesome-robotics/blob/master/video talks included)](http://roscon.ros.org/2015/)
+* [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
 * [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)

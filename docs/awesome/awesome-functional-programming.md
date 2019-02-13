@@ -65,7 +65,7 @@ and hot topic on academia. Very high tech discussion level.
 - [Haskellers](http://www.haskellers.com/) - The meeting point for Haskell Programmers
 - [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
 
-### Discussions (https://github.com/lucasviola/awesome-functional-programming/blob/master/Quora, Stack Overflow, Reddit, etc)
+### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
 - [Hidden complexities of tail-call/tail-recursion optimization](http://lambda-the-ultimate.org/classic/message1532.html)
 

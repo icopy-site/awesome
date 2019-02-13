@@ -43,7 +43,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 ### Base Shells
 
 * [Ammonite-Shell](https://github.com/lihaoyi/ammonite) - An object shell with a Scala-like scripting language.
-* [bash](https://github.com/k4m4/terminals-are-sexy/blob/master/https://www.gnu.org/software/bash/) - GNU Project's shell (https://github.com/k4m4/terminals-are-sexy/blob/master/Bourne Again SHell).
+* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell).
 * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
 * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
 * [xonsh](https://xon.sh/) - Python-ish, BASHwards-looking shell language and command prompt.
@@ -170,7 +170,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
 * [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
-* [oneget](https://github.com/k4m4/terminals-are-sexy/blob/master/https://github.com/OneGet/oneget) - PackageManagement (https://github.com/k4m4/terminals-are-sexy/blob/master/aka OneGet) is a package manager for Windows.
+* [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
 * [ruckzuck](https://ruckzuck.tools/) - Software Package Manager for Windows, a quick way to install and update Software.
 * [scoop](https://scoop.sh/) - Package manager for Windows.
 * [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.

@@ -64,7 +64,7 @@ Functional Programming
 - [What is a sum type?](http://qr.ae/dZ97q)
 - [Why do some people not like OOP and prefer functional programming?](http://qr.ae/L5HJB)
 - [What do Lisp/Haskell programmers think about Prolog?](http://qr.ae/0HB14)
-- [What is (https://github.com/cyberglot/awesome-answers/blob/master/functional) reactive programming?](https://github.com/cyberglot/awesome-answers/blob/master/http://stackoverflow.com/a/1030631/1766338)
+- [What is (functional) reactive programming?](http://stackoverflow.com/a/1030631/1766338)
 - [What are some myths about functional programming and functional programming languages?](http://qr.ae/RsOnL9)
 - [How can monads in computer science be viewed as special cases of monads in category theory?](http://qr.ae/RsOAjx)
 - [Specification for a Functional Reactive Programming language](http://stackoverflow.com/a/5878525/1766338)
@@ -84,7 +84,7 @@ Math
 ---
 
  - [Visually stunning math concepts which are easy to explain](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
- - [If floating-point can't represent 0.1, how does parseFloat (https://github.com/cyberglot/awesome-answers/blob/master/".1") equal .1?](https://github.com/cyberglot/awesome-answers/blob/master/http://qr.ae/7PKwoT)
+ - [If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?](http://qr.ae/7PKwoT)
 
 Programming Languages
 ---
@@ -98,7 +98,7 @@ Programming Languages
 - [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
 - [Can a local variable's memory be accessed outside its scope?](http://stackoverflow.com/a/6445794/1104488)
 - [Why do many C functions have an extra F?](http://qr.ae/7vBEnF)
-- [What are the valid signatures for C's main(https://github.com/cyberglot/awesome-answers/blob/master/) function? ](https://github.com/cyberglot/awesome-answers/blob/master/http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
+- [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
 ### Haskell
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
@@ -111,9 +111,9 @@ Programming Languages
 
 ### JavaScript
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
-- [Use of .apply(https://github.com/cyberglot/awesome-answers/blob/master/) with 'new' operator. Is this possible?](https://github.com/cyberglot/awesome-answers/blob/master/http://stackoverflow.com/a/1608546/1766338)
+- [Use of .apply() with 'new' operator. Is this possible?](http://stackoverflow.com/a/1608546/1766338)
 - [Is JavaScript's “new” keyword considered harmful?](http://stackoverflow.com/a/383503/1766338)
-- [Is JavaScript 's “new” Keyword Considered Harmful (https://github.com/cyberglot/awesome-answers/blob/master/Part 2)?](https://github.com/cyberglot/awesome-answers/blob/master/http://stackoverflow.com/a/6375254/1766338)
+- [Is JavaScript 's “new” Keyword Considered Harmful (Part 2)?](http://stackoverflow.com/a/6375254/1766338)
 - [JavaScript inheritance and the constructor property](http://stackoverflow.com/a/8096017/1766338)
 - [Inheritence of variable properties](http://stackoverflow.com/a/15461601/1766338)
 - [How does JavaScript .prototype work?](http://stackoverflow.com/a/572996/1766338)
@@ -125,7 +125,7 @@ Programming Languages
 - [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
 - [Will WebAssembly make Javascript skills more or less valuable in the future?](http://qr.ae/7PKALb)
 - [Why does ++[[]][+[]]+[+[]] return the string “10”?](http://stackoverflow.com/a/7202287/1766338)
-- [Are functions like map(https://github.com/cyberglot/awesome-answers/blob/master/), reduce(https://github.com/cyberglot/awesome-answers/blob/master/) and filter(https://github.com/cyberglot/awesome-answers/blob/master/) already optimized for traversing array?](https://github.com/cyberglot/awesome-answers/blob/master/http://qr.ae/Rsg6I0)
+- [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 - [What are the actual uses of ES6 WeakMap?](http://stackoverflow.com/a/29416340)
 
 ### PHP
@@ -161,7 +161,7 @@ Miscellaneous
 ---
 - [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 - [How does a visually impaired computer programmer do programming?](http://qr.ae/L5FfY)
-- [What are the best examples of software bugs that became features (https://github.com/cyberglot/awesome-answers/blob/master/a.k.a. misbugs)?](https://github.com/cyberglot/awesome-answers/blob/master/http://qr.ae/LO834)
+- [What are the best examples of software bugs that became features (a.k.a. misbugs)?](http://qr.ae/LO834)
 - [What do the top 1% of software engineers do that the other 99% do not?](http://qr.ae/0ILWY)
 - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
 - [What are the current fads in computer science, IT and software engineering?](http://qr.ae/7PyLkC)

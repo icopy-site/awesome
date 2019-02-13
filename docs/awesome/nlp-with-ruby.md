@@ -17,7 +17,7 @@ in human languages with the [Ruby programming language](https://github.com/arbox
 That field is often referred to as
 [NLP](https://en.wikipedia.org/wiki/Natural_language_processing),
 [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics),
-[HLT](https://en.wikipedia.org/wiki/Language_technology) (https://github.com/arbox/nlp-with-ruby/blob/master/Human Language Technology)
+[HLT](https://en.wikipedia.org/wiki/Language_technology) (Human Language Technology)
 and can be brought in conjunction with
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
@@ -114,7 +114,7 @@ An NLP Pipeline starts with a plain text.
 - [stanford-core-nlp](https://github.com/louismullie/stanford-core-nlp) -
   Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) tools.
 - [treat](https://github.com/louismullie/treat) -
-  Natural Language Processing framework for Ruby (https://github.com/arbox/nlp-with-ruby/blob/master/like [NLTK](http://www.nltk.org/) for Python).
+  Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 - [nlp_toolz](https://github.com/LeFnord/nlp_toolz) -
   Wrapper over some [OpenNLP](https://opennlp.apache.org/) classes and
   the original [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser).
@@ -225,7 +225,7 @@ are often collected in dictionaries.
 ### Semantic Analysis
 
 - [amatch](https://github.com/flori/amatch) -
-  Set of five distance types between strings (https://github.com/arbox/nlp-with-ruby/blob/master/including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
+  Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
 - [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) -
   Calculates edit distance using the Damerau-Levenshtein algorithm.
 - [hotwater](https://github.com/colinsurprenant/hotwater) -
@@ -257,7 +257,7 @@ are often collected in dictionaries.
 ### Text Alignment
 
 - [alignment](https://github.com/povilasjurcys/alignment) -
-  Alignment routines for bilingual texts (https://github.com/arbox/nlp-with-ruby/blob/master/Gale-Church implementation).
+  Alignment routines for bilingual texts (Gale-Church implementation).
 
 ### Machine Translation
 
@@ -346,9 +346,9 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   General classifier module to allow Bayesian and other types of classifications.
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
-  (https://github.com/arbox/nlp-with-ruby/blob/master/Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
+  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
 - [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
-  Ruby interface to LIBLINEAR (https://github.com/arbox/nlp-with-ruby/blob/master/much more efficient than LIBSVM for text classification).
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [linnaeus](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
@@ -362,7 +362,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby bindings to the [Fast Artificial Neural Network Library (https://github.com/arbox/nlp-with-ruby/blob/master/FANN)](http://leenissen.dk/fann/wp/).
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
 ## Data Visualization
@@ -389,7 +389,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
 - [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
   [Active Record](https://guides.rubyonrails.org/active_record_basics.html)
-  plugin for using [Sphinx](http://sphinxsearch.com/) in (https://github.com/arbox/nlp-with-ruby/blob/master/not only) Rails based projects.
+  plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
 - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
 - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
@@ -512,7 +512,7 @@ the underlying language.
   - _NLP Resources for Ruby_ by [Jason Adams](https://twitter.com/ealdent)
     <sup>[[post](https://ealdent.wordpress.com/2009/09/13/nlp-resources-for-ruby/)]</sup>
 - 2008
-  - _Support Vector Machines (https://github.com/arbox/nlp-with-ruby/blob/master/SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
+  - _Support Vector Machines (SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
   - _Practical text classification with Ruby_ by [Gleicon Moraes](https://twitter.com/gleicon)
     <sup>[[post](https://zenmachine.wordpress.com/practical-text-classification-with-ruby/) |
@@ -577,12 +577,12 @@ on the code here.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  General List of NLP related resources (https://github.com/arbox/nlp-with-ruby/blob/master/mostly not for Ruby programmers).
+  General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (https://github.com/arbox/nlp-with-ruby/blob/master/formelly IPython).
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
-  Multitude of OCR (https://github.com/arbox/nlp-with-ruby/blob/master/Optical Character Recognition) resources.
+  Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
 - <a name="imagemagic"></a>

@@ -8,14 +8,14 @@ This list is for developers who are looking for non-trivial quality applications
 
 ## TOC
 
-- [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/frontend only)](https://github.com/johnfaucett/awesome-foss-apps/blob/master/#web-apps-frontend-only)
-- [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)](#web-apps-https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)
+- [Webapps (frontend only)](#web-apps-frontend-only)
+- [Webapps (fullstack)](#web-apps-fullstack)
 - [Desktop Apps](#desktop-apps)
 - [Mobile Apps](#mobile-apps)
 - [Games](#games)
 
 
-## Web Apps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/frontend only)
+## Web Apps (frontend only)
 ----
 
 ### [CircleCI](https://github.com/circleci/frontend)
@@ -39,7 +39,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > The guardian is a news site with subscriptions, sign in, search, an admin interface and a series of middleman scala apps that handle communication between the static frontends and backend APIs. Its very fast and has a comprehensive test suite plus great examples of how to optimize large traditional websites for speed.
 
-### Web Apps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)
+### Web Apps (fullstack)
 ----
 
 ### [Ghost](https://github.com/TryGhost/Ghost)
@@ -130,7 +130,7 @@ This list is for developers who are looking for non-trivial quality applications
 * c, c++, lua
 * GPLv2 License
 
-> The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (https://github.com/johnfaucett/awesome-foss-apps/blob/master/it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.
+> The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme. It features single player and online multiplayer combat. Its GUI and gameplay graphics are impressive as well as its multi-platform support (it even builds on NaCL). It has clean, well-coded examples of pretty much everything a game developer would want to know, from a an embedded lua scripting engine, to a dialog and GUI system, to a c++ test suite and cross-platform builds.
 
 
 ## License

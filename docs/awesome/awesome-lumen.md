@@ -1,6 +1,6 @@
 ## Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-> Curated list of resources: books, videos, articles about using Lumen (https://github.com/unicodeveloper/awesome-lumen/blob/master/ PHP Microframework by Laravel )
+> Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
@@ -53,7 +53,7 @@
 * [Phpspec Lumen](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
 * [Understand Lumen](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
 * [Badge Poser](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
-* [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (https://github.com/unicodeveloper/awesome-lumen/blob/master/Cross-Origin Resource Sharing) support for Laravel and Lumen
+* [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5.
@@ -105,4 +105,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work (https://github.com/unicodeveloper/awesome-lumen/blob/master/Awesome Lumen) is free of known copyright restrictions.
+This work (Awesome Lumen) is free of known copyright restrictions.

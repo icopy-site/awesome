@@ -123,7 +123,7 @@
 | Quiet: The Power of Introverts in a World That Can't Stop Talking | Susan Cain | [4.04](https://www.goodreads.com/book/show/8520610-quiet) | 2012 |  
 | The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind | Michio Kaku | [4.04](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) | 2014 |  
 | Every Thing Must Go: Metaphysics Naturalized | James Ladyman, Don Ross, et al | [4.04](https://www.goodreads.com/book/show/757403.Every_Thing_Must_Go) | 2007 |  
-| Antifragile: Things That Gain from Disorder (https://github.com/hackerkid/Mind-Expanding-Books/blob/master/Incerto) | Nassim Nicholas Taleb | [4.04](https://www.goodreads.com/book/show/13530973-antifragile) | 2012 |  
+| Antifragile: Things That Gain from Disorder (Incerto) | Nassim Nicholas Taleb | [4.04](https://www.goodreads.com/book/show/13530973-antifragile) | 2012 |  
 | Mindset: The new psychology of success | Carol S. Dweck,Ph.D. | [4.04](https://www.goodreads.com/book/show/40745.Mindset) | 2006 |
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
@@ -195,7 +195,7 @@
 | El Tiempo Entre Costuras | María Dueñas | [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |  
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
 | Discovery of India | Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
-| The Rational Optimist: How Prosperity Evolves (https://github.com/hackerkid/Mind-Expanding-Books/blob/master/P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
+| The Rational Optimist: How Prosperity Evolves (P.S.) | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
 | Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground | Kevin Poulson | [3.96](http://www.goodreads.com/book/show/9319468-kingpin) | 2011 |  
 | The Ghost Map: The Story of London's Most Terrifying Epidemic--and How It Changed Science, Cities, and the Modern World | Steven Johnson | [3.91](https://www.goodreads.com/book/show/36086.The_Ghost_Map) |  |  
 | The Rise and Fall of the British Empire | Lawrence James | [3.89](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) | 1997 |  
@@ -351,7 +351,7 @@
 | Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |  
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1982 |  
-| The Wall: (https://github.com/hackerkid/Mind-Expanding-Books/blob/master/Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
+| The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
 | Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 2003 |  
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1998 |  
 | Watership Down: A Novel | Richard Adams | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1975|  
@@ -461,7 +461,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease | Michael Greger, M.D. | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
-| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (https://github.com/hackerkid/Mind-Expanding-Books/blob/master/2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
+| Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength (2nd edition) | Steven Low | [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  

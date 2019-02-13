@@ -22,7 +22,7 @@
 FFmpeg's official docs are notoriously difficult for beginners to understand due to the scope and complexity of FFmpeg's capabilities. With that being said, they're still very useful as a reference.
 
 - [FFmpeg.org](http://ffmpeg.org) - Where it all starts.
-- [Filters](https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
+- [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
 - [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
 - [Wiki & Bug Tracker](https://trac.ffmpeg.org) - Lots of great info on here.
 - [CLI flags](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
@@ -46,7 +46,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Native
 
-- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams (https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/[gl-transitions](https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/https://gl-transitions.com/)).
+- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 
 ## Mobile

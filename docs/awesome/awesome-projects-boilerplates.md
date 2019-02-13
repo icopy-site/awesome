@@ -76,7 +76,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
-    - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/React, Redux, RethinkDB, Express) + PostCSS
+    - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [HyperApp](#hyperapp)
     - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
@@ -104,7 +104,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
-- [Fbone](https://github.com/imwilsonxu/fbone) Fbone (https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/Flask bone) is a Flask (https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/Python microframework) template/bootstrap/boilerplate application.
+- [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.

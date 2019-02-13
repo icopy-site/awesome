@@ -5,9 +5,9 @@
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. (https://github.com/git-tips/tips/blob/master/[Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
-P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git-tips/tips/blob/master/Apple Git-66)`.
+P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
 <!-- @doxie.inject start toc -->
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
@@ -54,7 +54,7 @@ P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git
 * [Saving current state of unstaged changes to tracked files](#saving-current-state-of-unstaged-changes-to-tracked-files)
 * [Saving current state including untracked files](#saving-current-state-including-untracked-files)
 * [Saving current state with message](#saving-current-state-with-message)
-* [Saving current state of all files (https://github.com/git-tips/tips/blob/master/ignored, untracked, and tracked)](https://github.com/git-tips/tips/blob/master/#saving-current-state-of-all-files-ignored-untracked-and-tracked)
+* [Saving current state of all files (ignored, untracked, and tracked)](#saving-current-state-of-all-files-ignored-untracked-and-tracked)
 * [Show list of all saved stashes](#show-list-of-all-saved-stashes)
 * [Apply any stash without deleting from the stashed list](#apply-any-stash-without-deleting-from-the-stashed-list)
 * [Apply last stashed state and delete it from stashed list](#apply-last-stashed-state-and-delete-it-from-stashed-list)
@@ -63,7 +63,7 @@ P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git
 * [Show all tracked files](#show-all-tracked-files)
 * [Show all untracked files](#show-all-untracked-files)
 * [Show all ignored files](#show-all-ignored-files)
-* [Create new working tree from a repository (https://github.com/git-tips/tips/blob/master/git 2.5)](https://github.com/git-tips/tips/blob/master/#create-new-working-tree-from-a-repository-git-25)
+* [Create new working tree from a repository (git 2.5)](#create-new-working-tree-from-a-repository-git-25)
 * [Create new working tree from HEAD state](#create-new-working-tree-from-head-state)
 * [Untrack files without deleting](#untrack-files-without-deleting)
 * [Before deleting untracked files/directory, do a dry run to get the list of these files/directories](#before-deleting-untracked-filesdirectory-do-a-dry-run-to-get-the-list-of-these-filesdirectories)
@@ -85,7 +85,7 @@ P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git
 * [Export a branch with history to a file.](#export-a-branch-with-history-to-a-file)
 * [Import from a bundle](#import-from-a-bundle)
 * [Get the name of current branch.](#get-the-name-of-current-branch)
-* [Ignore one file on commit (https://github.com/git-tips/tips/blob/master/e.g. Changelog).](https://github.com/git-tips/tips/blob/master/#ignore-one-file-on-commit-eg-changelog)
+* [Ignore one file on commit (e.g. Changelog).](#ignore-one-file-on-commit-eg-changelog)
 * [Stash changes before rebasing](#stash-changes-before-rebasing)
 * [Fetch pull request by ID to a local branch](#fetch-pull-request-by-id-to-a-local-branch)
 * [Show the most recent tag on the current branch.](#show-the-most-recent-tag-on-the-current-branch)
@@ -102,7 +102,7 @@ P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git
 * [Add custom editors.](#add-custom-editors)
 * [Auto correct typos.](#auto-correct-typos)
 * [Check if the change was a part of a release.](#check-if-the-change-was-a-part-of-a-release)
-* [Dry run. (https://github.com/git-tips/tips/blob/master/any command that supports dry-run flag should do.)](https://github.com/git-tips/tips/blob/master/#dry-run-any-command-that-supports-dry-run-flag-should-do)
+* [Dry run. (any command that supports dry-run flag should do.)](#dry-run-any-command-that-supports-dry-run-flag-should-do)
 * [Marks your commit as a fix of a previous commit.](#marks-your-commit-as-a-fix-of-a-previous-commit)
 * [Squash fixup commits normal commits.](#squash-fixup-commits-normal-commits)
 * [Skip staging area during commit.](#skip-staging-area-during-commit)
@@ -125,17 +125,17 @@ P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git
 * [List all branch is WIP](#list-all-branch-is-wip)
 * [Find guilty with binary search](#find-guilty-with-binary-search)
 * [Bypass pre-commit and commit-msg githooks](#bypass-pre-commit-and-commit-msg-githooks)
-* [List commits and changes to a specific file (https://github.com/git-tips/tips/blob/master/even through renaming)](https://github.com/git-tips/tips/blob/master/#list-commits-and-changes-to-a-specific-file-even-through-renaming)
+* [List commits and changes to a specific file (even through renaming)](#list-commits-and-changes-to-a-specific-file-even-through-renaming)
 * [Clone a single branch](#clone-a-single-branch)
 * [Create and switch new branch](#create-and-switch-new-branch)
 * [Ignore file mode changes on commits](#ignore-file-mode-changes-on-commits)
 * [Turn off git colored terminal output](#turn-off-git-colored-terminal-output)
 * [Specific color settings](#specific-color-settings)
 * [Show all local branches ordered by recent commits](#show-all-local-branches-ordered-by-recent-commits)
-* [Find lines matching the pattern (https://github.com/git-tips/tips/blob/master/regex or string) in tracked files](https://github.com/git-tips/tips/blob/master/#find-lines-matching-the-pattern-regex-or-string-in-tracked-files)
+* [Find lines matching the pattern (regex or string) in tracked files](#find-lines-matching-the-pattern-regex-or-string-in-tracked-files)
 * [Clone a shallow copy of a repository](#clone-a-shallow-copy-of-a-repository)
 * [Search Commit log across all branches for given text](#search-commit-log-across-all-branches-for-given-text)
-* [Get first commit in a branch (https://github.com/git-tips/tips/blob/master/from master)](https://github.com/git-tips/tips/blob/master/#get-first-commit-in-a-branch-from-master)
+* [Get first commit in a branch (from master)](#get-first-commit-in-a-branch-from-master)
 * [Unstaging Staged file](#unstaging-staged-file)
 * [Force push to Remote Repository](#force-push-to-remote-repository)
 * [Adding Remote name](#adding-remote-name)
@@ -462,7 +462,7 @@ git stash save --include-untracked
 git stash save <message>
 ```
 
-## Saving current state of all files (https://github.com/git-tips/tips/blob/master/ignored, untracked, and tracked)
+## Saving current state of all files (ignored, untracked, and tracked)
 ```sh
 git stash -a
 ```
@@ -536,7 +536,7 @@ git ls-files --others
 git ls-files --others -i --exclude-standard
 ```
 
-## Create new working tree from a repository (https://github.com/git-tips/tips/blob/master/git 2.5)
+## Create new working tree from a repository (git 2.5)
 ```sh
 git worktree add -b <branch-name> <path> <start-point>
 ```
@@ -670,12 +670,12 @@ gitk --all
 
 
 ```sh
-git log --graph --pretty=format:'%C(https://github.com/git-tips/tips/blob/master/auto) %h | %s | %an | %ar%d'
+git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ```
 
 ## Visualize the tree including commits that are only referenced from reflogs
 ```sh
-git log --graph --decorate --oneline $(https://github.com/git-tips/tips/blob/master/git rev-list --walk-reflogs --all)
+git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ```
 
 ## Deploying git tracked subfolder to gh-pages
@@ -708,7 +708,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 git rev-parse --abbrev-ref HEAD
 ```
 
-## Ignore one file on commit (https://github.com/git-tips/tips/blob/master/e.g. Changelog).
+## Ignore one file on commit (e.g. Changelog).
 ```sh
 git update-index --assume-unchanged Changelog; git commit -a; git update-index --no-assume-unchanged Changelog
 ```
@@ -806,7 +806,7 @@ git config --global help.autocorrect 1
 git name-rev --name-only <SHA-1>
 ```
 
-## Dry run. (https://github.com/git-tips/tips/blob/master/any command that supports dry-run flag should do.)
+## Dry run. (any command that supports dry-run flag should do.)
 ```sh
 git clean -fd --dry-run
 ```
@@ -933,7 +933,7 @@ git bisect reset                    # Finish search
 git commit --no-verify
 ```
 
-## List commits and changes to a specific file (https://github.com/git-tips/tips/blob/master/even through renaming)
+## List commits and changes to a specific file (even through renaming)
 ```sh
 git log --follow -p -- <file_path>
 ```
@@ -971,10 +971,10 @@ git config --global <specific command e.g branch, diff> <true, false or always>
 
 ## Show all local branches ordered by recent commits
 ```sh
-git for-each-ref --sort=-committerdate --format='%(https://github.com/git-tips/tips/blob/master/refname:short)' refs/heads/
+git for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads/
 ```
 
-## Find lines matching the pattern (https://github.com/git-tips/tips/blob/master/regex or string) in tracked files
+## Find lines matching the pattern (regex or string) in tracked files
 ```sh
 git grep --heading --line-number 'foo bar'
 ```
@@ -989,7 +989,7 @@ git clone https://github.com/user/repo.git --depth 1
 git log --all --grep='<given-text>'
 ```
 
-## Get first commit in a branch (https://github.com/git-tips/tips/blob/master/from master)
+## Get first commit in a branch (from master)
 ```sh
 git log --oneline master..<branch-name> | tail -1
 ```
@@ -1055,7 +1055,7 @@ git rev-list --count <branch-name>
 
 ## Alias: git undo
 ```sh
-git config --global alias.undo '!f() { git reset --hard $(https://github.com/git-tips/tips/blob/master/git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
+git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
 ```
 
 ## Add object notes
@@ -1136,7 +1136,7 @@ git log --since='FEB 1 2017' --until='FEB 14 2017'
 
 ## Exclude author from logs
 ```sh
-git log --perl-regexp --author='^(https://github.com/git-tips/tips/blob/master/(?!excluded-author-regex).*)
+git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ```
 

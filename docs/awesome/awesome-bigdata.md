@@ -50,8 +50,8 @@ Your contributions are always welcome!
 ## Frameworks
 
 * [Bistro](https://github.com/asavinov/bistro) - general-purpose data processing engine for both batch and stream analytics. It is based on a novel data model, which represents data via *functions* and processes data via *column operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
-* [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Integrates with many of the popular technologies in the Big Data ecosystem (https://github.com/onurakpolat/awesome-bigdata/blob/master/Kafka, HDFS, Spark, etc.)
-* [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (https://github.com/onurakpolat/awesome-bigdata/blob/master/parallel processing), YARN (https://github.com/onurakpolat/awesome-bigdata/blob/master/job scheduling) and HDFS (https://github.com/onurakpolat/awesome-bigdata/blob/master/distributed file system).
+* [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Integrates with many of the popular technologies in the Big Data ecosystem (Kafka, HDFS, Spark, etc.)
+* [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system).
 * [Tigon](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 * [Pachyderm](http://pachyderm.io/) - Pachyderm is a data storage platform built on Docker and Kubernetes to provide reproducible data processing and analysis.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
@@ -67,7 +67,7 @@ Your contributions are always welcome!
 * [Apache Flink](http://flink.apache.org/) - high-performance runtime, and automatic program optimization.
 * [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 * [Apache Gora](http://gora.apache.org/) - framework for in-memory data model and persistence.
-* [Apache Hama](http://hama.apache.org/) - BSP (https://github.com/onurakpolat/awesome-bigdata/blob/master/Bulk Synchronous Parallel) computing framework.
+* [Apache Hama](http://hama.apache.org/) - BSP (Bulk Synchronous Parallel) computing framework.
 * [Apache MapReduce](https://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
 * [Apache Pig](https://pig.apache.org/) - high level language to express data analysis programs for Hadoop.
 * [Apache REEF](http://reef.apache.org/) - retainable evaluator execution framework to simplify and unify the lower layers of big data systems.
@@ -76,7 +76,7 @@ Your contributions are always welcome!
 * [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) - framework for stream processing, part of Spark.
 * [Apache Storm](http://storm.apache.org) - framework for stream processing by Twitter also on YARN.
 * [Apache Samza](http://samza.apache.org/) - stream processing framework, based on Kafka and YARN.
-* [Apache Tez](http://tez.apache.org/) - application framework for executing a complex DAG (https://github.com/onurakpolat/awesome-bigdata/blob/master/directed acyclic graph) of tasks, built on YARN.
+* [Apache Tez](http://tez.apache.org/) - application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN.
 * [Apache Twill](https://incubator.apache.org/projects/twill.html) - abstraction over YARN that reduces the complexity of developing distributed applications.
 * [Baidu Bigflow](http://bigflow.cloud/en/index.html) - an interface that allows for writing distributed computing programs providing lots of simple, flexible, powerful APIs to easily handle data of any scale.
 * [Cascalog](http://cascalog.org/) - data processing and querying library.
@@ -121,7 +121,7 @@ Your contributions are always welcome!
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
 * [Disco DDFS](http://disco.readthedocs.org/en/latest/howto/ddfs.html) - distributed filesystem.
 * [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - object storage system.
-* [Google Colossus](http://static.googleusercontent.com/media/research.google.reverse-proxy.org/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf) - distributed filesystem (https://github.com/onurakpolat/awesome-bigdata/blob/master/GFS2).
+* [Google Colossus](http://static.googleusercontent.com/media/research.google.reverse-proxy.org/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf) - distributed filesystem (GFS2).
 * [Google GFS](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - distributed filesystem.
 * [Google Megastore](https://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
 * [GridGain](https://www.gridgain.com/) - GGFS, Hadoop compliant in-memory file system.
@@ -153,7 +153,7 @@ Your contributions are always welcome!
 
 ## Key Map Data Model
 
-**Note**: There is some term confusion in the industry, and two different things are called "Columnar Databases". Some, listed here, are distributed, persistent databases built around the "key-map" data model: all data has a (https://github.com/onurakpolat/awesome-bigdata/blob/master/possibly composite) key, with which a map of key-value pairs is associated. In some systems, multiple such value maps can be associated with a key, and these maps are referred to as "column families" (https://github.com/onurakpolat/awesome-bigdata/blob/master/with value map keys being referred to as "columns").
+**Note**: There is some term confusion in the industry, and two different things are called "Columnar Databases". Some, listed here, are distributed, persistent databases built around the "key-map" data model: all data has a (possibly composite) key, with which a map of key-value pairs is associated. In some systems, multiple such value maps can be associated with a key, and these maps are referred to as "column families" (with value map keys being referred to as "columns").
 
 Another group of technologies that can also be called "columnar databases" is distinguished by how it stores data, on disk or in memory -- rather than storing data the traditional way, where all column values for a given key are stored next to each other, "row by row", these systems store all *column* values next to each other. So more work is needed to get all columns for a given key, but less work is needed to get all values for a given column.
 
@@ -179,7 +179,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Key-value Data Model
 
-* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (https://github.com/onurakpolat/awesome-bigdata/blob/master/not Java or Erlang) precisely tuned to avoid context switching and memory copies."
+* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
 * [Badger](https://open.dgraph.io/post/badger/) - a fast, simple, efficient, and persistent key-value store written natively in Go.
 * [Bolt](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
@@ -222,8 +222,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [JanusGraph](http://janusgraph.org) - open-source, distributed graph database
-  with multiple options for storage backends (https://github.com/onurakpolat/awesome-bigdata/blob/master/Bigtable, HBase, Cassandra, etc.)
-  and indexing backends (https://github.com/onurakpolat/awesome-bigdata/blob/master/Elasticsearch, Solr, Lucene).
+  with multiple options for storage backends (Bigtable, HBase, Cassandra, etc.)
+  and indexing backends (Elasticsearch, Solr, Lucene).
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
 * [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
@@ -267,7 +267,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
 * [Google F1](https://research.google.com/pubs/pub41344.html) - distributed SQL database built on Spanner.
 * [Google Spanner](https://research.google.com/archive/spanner.html) - globally distributed semi-relational database.
-* [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (https://github.com/onurakpolat/awesome-bigdata/blob/master/OLTP) applications.
+* [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
 * [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HandlerSocket](https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) - NoSQL plugin for MySQL/MariaDB.
 * [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
@@ -305,7 +305,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Blueflood](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 * [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 * [SiriDB](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
-* [Thanos](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (https://github.com/onurakpolat/awesome-bigdata/blob/master/existing) Prometheus deployments.
+* [Thanos](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
 
 ## SQL-like processing
 
@@ -334,7 +334,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Ingestion
 
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
-* [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (https://github.com/onurakpolat/awesome-bigdata/blob/master/ETL) service
+* [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
 * [Apache Chukwa](http://chukwa.apache.org/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
@@ -398,9 +398,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
 * [Concurrent Pattern](http://www.cascading.org/projects/pattern/) - machine learning library for Cascading.
-* [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (https://github.com/onurakpolat/awesome-bigdata/blob/master/or ordinary ones) in your browser.
+* [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 * [DataVec](https://github.com/deeplearning4j/DataVec) - A vectorization and data preprocessing library for deep learning in Java and Scala. Part of the Deeplearning4j ecosystem. 
-* [Deeplearning4j](https://github.com/deeplearning4j) - Fast, open deep learning for the JVM (https://github.com/onurakpolat/awesome-bigdata/blob/master/Java, Scala, Clojure). A neural network configuration layer powered by a C++ library. Uses Spark and Hadoop to train nets on multiple GPUs and CPUs.
+* [Deeplearning4j](https://github.com/deeplearning4j) - Fast, open deep learning for the JVM (Java, Scala, Clojure). A neural network configuration layer powered by a C++ library. Uses Spark and Hadoop to train nets on multiple GPUs and CPUs.
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 * [ENCOG](http://www.heatonresearch.com/encog/) - machine learning framework that supports a variety of advanced algorithms, as well as support classes to normalize and process data.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
@@ -408,7 +408,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
 * [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
-* [Lambdo](https://ghttps://github.com/onurakpolat/awesome-bigdata/blob/master/ithub.com/asavhttps://github.com/onurakpolat/awesome-bigdata/blob/master/inov/lambdo) https://github.com/onurakpolat/awesome-bigdata/blob/master/is a workflow enghttps://github.com/onurakpolat/awesome-bigdata/blob/master/ine whhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ich shttps://github.com/onurakpolat/awesome-bigdata/blob/master/ignhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ifhttps://github.com/onurakpolat/awesome-bigdata/blob/master/icantly shttps://github.com/onurakpolat/awesome-bigdata/blob/master/implhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ifhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ies data processhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ing and analyshttps://github.com/onurakpolat/awesome-bigdata/blob/master/is by combhttps://github.com/onurakpolat/awesome-bigdata/blob/master/inhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ing https://github.com/onurakpolat/awesome-bigdata/blob/master/in one analyshttps://github.com/onurakpolat/awesome-bigdata/blob/master/is phttps://github.com/onurakpolat/awesome-bigdata/blob/master/ipelhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ine (https://github.com/onurakpolat/awesome-bigdata/blob/master/i) feature enghttps://github.com/onurakpolat/awesome-bigdata/blob/master/ineerhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ing and machhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ine learnhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ing (https://github.com/onurakpolat/awesome-bigdata/blob/master/ihttps://github.com/onurakpolat/awesome-bigdata/blob/master/i) model trahttps://github.com/onurakpolat/awesome-bigdata/blob/master/inhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ing and predhttps://github.com/onurakpolat/awesome-bigdata/blob/master/icthttps://github.com/onurakpolat/awesome-bigdata/blob/master/ion (https://github.com/onurakpolat/awesome-bigdata/blob/master/ihttps://github.com/onurakpolat/awesome-bigdata/blob/master/ihttps://github.com/onurakpolat/awesome-bigdata/blob/master/i) table populathttps://github.com/onurakpolat/awesome-bigdata/blob/master/ion and column evaluathttps://github.com/onurakpolat/awesome-bigdata/blob/master/ion vhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ia user-defhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ined (https://github.com/onurakpolat/awesome-bigdata/blob/master/Python) functhttps://github.com/onurakpolat/awesome-bigdata/blob/master/ions.
+* [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data processing and analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 * [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
@@ -420,7 +420,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [RL4J](https://github.com/deeplearning4j/rl4j) - Reinforcement learning for Java and Scala. Includes Deep-Q learning and A3C algorithms, and integrates with Open AI's Gym. Runs in the Deeplearning4j ecosystem. 
 * [SAMOA](http://samoa.incubator.apache.org/) - distributed streaming machine learning framework.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
-* [Spark https://github.com/onurakpolat/awesome-bigdata/blob/master/MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (https://github.com/onurakpolat/awesome-bigdata/blob/master/ML) functionality.
+* [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
 * [Theano](https://github.com/theano) - A Python-focused machine learning library supported by the University of Montreal.
@@ -475,7 +475,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
 * [Argus](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
-* [AthenaX](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (https://github.com/onurakpolat/awesome-bigdata/blob/master/SQL).
+* [AthenaX](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
 * [Atlas](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
 * [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
@@ -493,13 +493,13 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Rakam](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB. 
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
-* [SnappyData](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (https://github.com/onurakpolat/awesome-bigdata/blob/master/online transaction processing) and OLAP (https://github.com/onurakpolat/awesome-bigdata/blob/master/online analytical processing) built on Spark in a single integrated cluster.
+* [SnappyData](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
-* [Warp](https://warp.one//) - query by example tool for big data (https://github.com/onurakpolat/awesome-bigdata/blob/master/OS X app)
+* [Warp](https://warp.one//) - query by example tool for big data (OS X app)
 
 ## Search engine and framework
 
@@ -518,7 +518,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) - search architecture at LinkedIn.
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
-* [MG4J](http://mg4j.di.unimi.it/) - MG4J (https://github.com/onurakpolat/awesome-bigdata/blob/master/Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
+* [MG4J](http://mg4j.di.unimi.it/) - MG4J (Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
 * [Sphinx Search Server](http://sphinxsearch.com/) - fulltext search engine.
 * [Vespa](http://vespa.ai/) - is an engine for low-latency computation over large data sets. It stores and indexes your data such that queries, selection and processing over the data can be performed at serving time.
 
@@ -588,7 +588,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Visualization
 
 * [Airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
-* [AnyChart](http://www.anychart.com) - fast, simple and flexible JavaScript (https://github.com/onurakpolat/awesome-bigdata/blob/master/HTML5) charting library featuring pure JS API.
+* [AnyChart](http://www.anychart.com) - fast, simple and flexible JavaScript (HTML5) charting library featuring pure JS API.
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 * [Bloomery](https://github.com/ufukomer/bloomery) - Web UI for Impala.
@@ -636,7 +636,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 
 ## Internet of things and sensor data
-* [Apache Edgent (https://github.com/onurakpolat/awesome-bigdata/blob/master/Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
+* [Apache Edgent (Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
 * [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 * [TempoIQ](https://www.tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
@@ -719,7 +719,7 @@ for Data Analytics at Twitter.
 * [Storm Applied](https://www.manning.com/books/storm-applied) - Storm Applied is a practical guide to using Apache Storm for the real-world tasks associated with processing and analyzing real-time data streams.
 * [Fundamentals of Stream Processing: Application Design, Systems, and Analytics](http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics) - This comprehensive, hands-on guide combining the fundamental building blocks and emerging research in stream processing is ideal for application designers, system builders, analytic developers, as well as students and researchers in the field.
 * [Stream Data Processing: A Quality of Service Perspective](http://www.springer.com/us/book/9780387710020) - Presents a new paradigm suitable for stream and complex event processing.
-* [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (https://github.com/onurakpolat/awesome-bigdata/blob/master/Kafka or Kinesis) in your business
+* [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (Kafka or Kinesis) in your business
 * [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) - Kafka Streams in Action teaches you everything you need to know to implement stream processing on data flowing into your Kafka platform, allowing you to focus on getting more from your data without sacrificing time or effort.
 * [Big Data](https://www.manning.com/books/big-data) - Big Data teaches you to build big data systems using an architecture that takes advantage of clustered hardware along with new tools designed specifically to capture and analyze web-scale data.
 * [Spark in Action](https://www.manning.com/books/spark-in-action) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.

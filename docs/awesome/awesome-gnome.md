@@ -120,7 +120,7 @@
 
 - [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME.
-- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (https://github.com/Kazhnuz/awesome-gnome/blob/master/composed of an applicaiton and an extension).
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension).
 - [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
@@ -188,34 +188,34 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
+- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
 
 ### Adwaita-based
 
-- [Minwaita](https://github.com/godlyranchdressing/Minwaita) - Compact fork of Adwaita. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
+- [Minwaita](https://github.com/godlyranchdressing/Minwaita) - Compact fork of Adwaita. (GTK, Shell)
+- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (GTK, Shell)
 
 ### Material
 
-- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
+- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
+- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
 - [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell.
 
 ### Flat
 
-- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK)
-- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, works with Zuki-Shell for the shell theme)
-- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
+- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
+- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
+- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell)
+- [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell)
 
 ### Metallic
 
-- [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK)
-- [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, Shell)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (https://github.com/Kazhnuz/awesome-gnome/blob/master/GTK, works with Zuki-Shell for the shell theme).
+- [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
+- [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
+- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
 ## Icons
 
@@ -241,7 +241,7 @@
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
- - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (https://github.com/Kazhnuz/awesome-gnome/blob/master/regular, slim and opaque).
+ - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
@@ -254,7 +254,7 @@
 - [`@gnome` on Twitter](https://twitter.com/gnome)
 - [`@gnome` on GNU Social](https://quitter.no/gnome)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel (https://github.com/Kazhnuz/awesome-gnome/blob/master/[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [`GNOME` on Google+](https://plus.google.com/+gnome)

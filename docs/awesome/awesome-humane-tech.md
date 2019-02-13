@@ -33,7 +33,7 @@ Tech and social media is having a big impact on our society. While many innovati
 
 > Reversing the digital attention crisis and realigning technology with humanity's best interests
 
-This list focuses on (https://github.com/humanetech-community/awesome-humane-tech/blob/master/mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) before sending PR's.
+This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) before sending PR's.
 
 **Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
@@ -72,7 +72,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal is a messaging app for simple private communication with friends.
-- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (https://github.com/humanetech-community/awesome-humane-tech/blob/master/PII) is shared / leaked to 3rd-parties.
+- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 - [Webbkoll](https://webbkoll.dataskydd.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) - A user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
@@ -97,13 +97,13 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - Keep your online life separated into color-coded tabs that preserve your privacy.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) - Isolates your Facebook activity from the rest of your web activity, to prevent tracking.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) - Isolates your Google activity from the rest of your web activity, to prevent tracking.
-- [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (https://github.com/humanetech-community/awesome-humane-tech/blob/master/UTM) tokens from URL query strings.
+- [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [SilverDog](http://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) - A compact, fast ad blocker for Android that works for all apps and does not require root.
 - [Better](https://better.fyi/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) - A privacy tool for Safari on iPhone, iPad, and Mac that blocks behavioral ads and trackers.
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) - A tool to create Firefox configuration profiles with good defaults.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - A trackerless, privacy-respecting metasearch engine that can be self-hosted.
-- [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/julian-klode/dns66) - A DNS-based Host Blocker (https://github.com/humanetech-community/awesome-humane-tech/blob/master/and lightweight ad blocker) for Android.
+- [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
 
 ## Consent
 
@@ -132,7 +132,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
 - [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [Humnub](http://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humhub/humhub) - A feature rich and highly flexible open-source Social Network Kit written in PHP.
-- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (https://github.com/humanetech-community/awesome-humane-tech/blob/master/SSB).
+- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
 - [Voten](https://voten.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
 - [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
@@ -145,7 +145,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Freedom
 
-- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (https://github.com/humanetech-community/awesome-humane-tech/blob/master/in some form).
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
@@ -154,7 +154,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [OpenStreetMap](https://www.openstreetmap.org) - A map of the world, created by people like you and free to use under an open licence.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
-- [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (https://github.com/humanetech-community/awesome-humane-tech/blob/master/Bluetooth, cell or WiFi, GeoIP, etc).
+- [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
 
 ## Gamification
@@ -166,7 +166,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
 - [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
-- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (https://github.com/humanetech-community/awesome-humane-tech/blob/master/RSI).
+- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - App that strengthens the relationship between people with memory loss and people close to them.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
@@ -207,14 +207,14 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Censorship
 
-- [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (https://github.com/humanetech-community/awesome-humane-tech/blob/master/first read [risks](https://ooni.io/about/risks/)).
+- [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
 
 ## Unmaintained
 
 This section is for inactive projects that are nonetheless still of interest regarding their topics or code.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - Prevents your smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
-- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (https://github.com/humanetech-community/awesome-humane-tech/blob/master/server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
+- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 
 ## Related awesomeness
 
@@ -235,4 +235,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hum
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [aschrijver](https://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [aschrijver](https://github.com/aschrijver) (the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.

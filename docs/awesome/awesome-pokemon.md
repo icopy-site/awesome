@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-  <a href="https://github.com/tobiasbueschel/awesome-pokemon/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+  <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  <a href="https://raw.githubusercontent.com/tobiasbueschel/awesome-pokemon/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
   <a href="https://gitter.im/tobiasbueschel/awesome-pokemon"><img alt="Chat on Gitter" src="https://badges.gitter.im/tobiasbueschel/awesome-pokemon.svg"></a>
 </p>
 
@@ -133,7 +133,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Server Status](http://www.mmoserverstatus.com/pokemon_go) - Shows you if Pokémon GO is down.
 - [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
 - [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon GO.
-- [Calcy IV](https://github.com/tobiasbueschel/awesome-pokemon/blob/master/https://play.google.com/store/apps/details?id=tesmath.calcy) - One-tap stats and level calculation on Pokémon GO (https://github.com/tobiasbueschel/awesome-pokemon/blob/master/Android).
+- [Calcy IV](https://play.google.com/store/apps/details?id=tesmath.calcy) - One-tap stats and level calculation on Pokémon GO (Android).
 - [InfoSpreadsheet](https://docs.google.com/spreadsheets/d/1iJcE12v14GA8V8EO4M1-dPxBFT2kFhR6bUXvj03a4kM/) - Datamined info about Pokémon GO species with IV calculations.
 - [InfoSpreadsheet#2](https://docs.google.com/spreadsheets/d/1hcFo7-UGWx1k1u1BHOvDhq8foPeRr7YbX2jLjjJK0Qw/) - Pokémon GO species data with their movesets.
 

@@ -1,19 +1,19 @@
 ## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
-  - [LightTable (https://github.com/razum2um/awesome-clojure/blob/master/IDE)](http://lighttable.com/)
-  - [Nightcode (https://github.com/razum2um/awesome-clojure/blob/master/IDE)](https://sekao.net/nightcode/)
-  - [Maria.cloud (https://github.com/razum2um/awesome-clojure/blob/master/Online IDE for beginners)](https://www.maria.cloud/)
-  - [Riemann (https://github.com/razum2um/awesome-clojure/blob/master/Monitoring)](http://riemann.io/)
-  - [Precursor (https://github.com/razum2um/awesome-clojure/blob/master/Online prototyping tool)](https://precursorapp.com/)
+  - [LightTable (IDE)](http://lighttable.com/)
+  - [Nightcode (IDE)](https://sekao.net/nightcode/)
+  - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
+  - [Riemann (Monitoring)](http://riemann.io/)
+  - [Precursor (Online prototyping tool)](https://precursorapp.com/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
   - [Metabase](https://github.com/metabase/metabase)
   - [CircleCI](https://circleci.com/)
   - [asciinema](https://asciinema.org/)
-  - [Avi (https://github.com/razum2um/awesome-clojure/blob/master/vim rewrite)](https://github.com/maitria/avi)
-  - [Liquid (https://github.com/razum2um/awesome-clojure/blob/master/Text Editor)](https://github.com/mogenslund/liquid)
-  - [Nightlight (https://github.com/razum2um/awesome-clojure/blob/master/Text Editor)](https://github.com/oakes/Nightlight)
+  - [Avi (vim rewrite)](https://github.com/maitria/avi)
+  - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
+  - [Nightlight (Text Editor)](https://github.com/oakes/Nightlight)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
@@ -86,7 +86,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
   * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure): atoms persisted on disk
   * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
-  * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (https://github.com/razum2um/awesome-clojure/blob/master/stores entries contiguously in memory), ;writtern in java, but test suite (https://github.com/razum2um/awesome-clojure/blob/master/read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
@@ -169,8 +169,8 @@
   * [Mongo](http://clojuremongodb.info/)
   * [Monglorious](https://baumandm.github.io/monglorious/)
   * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
-  * [Revise (https://github.com/razum2um/awesome-clojure/blob/master/RethinkDB)](https://github.com/bitemyapp/revise)
-  * [Spandex (https://github.com/razum2um/awesome-clojure/blob/master/ElasticSearch)](https://github.com/mpenet/spandex)
+  * [Revise (RethinkDB)](https://github.com/bitemyapp/revise)
+  * [Spandex (ElasticSearch)](https://github.com/mpenet/spandex)
   * [Elastisch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
 
@@ -351,7 +351,7 @@ anylysis and visualization.*
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
   * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
-  * [dl4clj (https://github.com/razum2um/awesome-clojure/blob/master/deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
+  * [dl4clj (deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
   * [Anglican](https://probprog.github.io/anglican/)
 
 ## Computer Vision
@@ -384,25 +384,25 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-  * [Calva (https://github.com/razum2um/awesome-clojure/blob/master/VSCode)](https://github.com/BetterThanTomorrow/calva)
-  * [CIDER (https://github.com/razum2um/awesome-clojure/blob/master/Emacs)](https://github.com/clojure-emacs/cider)
-  * [smartparens (https://github.com/razum2um/awesome-clojure/blob/master/Emacs)](https://github.com/Fuco1/smartparens)
-  * [rainbow-delimiters (https://github.com/razum2um/awesome-clojure/blob/master/Emacs)](https://github.com/Fanael/rainbow-delimiters)
-  * [aggressive-indent (https://github.com/razum2um/awesome-clojure/blob/master/Emacs)](https://github.com/Malabarba/aggressive-indent-mode)
-  * [vim-cljfmt (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/venantius/vim-cljfmt)
-  * [vim-eastwood (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/venantius/vim-eastwood)
-  * [vim-fireplace (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/tpope/vim-fireplace)
-  * [vim-redl (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/dgrnbrg/vim-redl)
-  * [vim-leiningen (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/tpope/vim-salve)
-  * [rainbow_parentheses.vim (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
-  * [vim-iced (https://github.com/razum2um/awesome-clojure/blob/master/Vim)](https://github.com/liquidz/vim-iced)
-  * [Cursive (https://github.com/razum2um/awesome-clojure/blob/master/IntelliJ)](https://cursive-ide.com/)
-  * [Parinfer (https://github.com/razum2um/awesome-clojure/blob/master/multiple editors)](http://shaunlebron.github.io/parinfer/)
-  * [Bracket Pair Colorizer (https://github.com/razum2um/awesome-clojure/blob/master/VSCode)](https://github.com/kristoft/awesome-clojure.git)
+  * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva)
+  * [CIDER (Emacs)](https://github.com/clojure-emacs/cider)
+  * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
+  * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
+  * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode)
+  * [vim-cljfmt (Vim)](https://github.com/venantius/vim-cljfmt)
+  * [vim-eastwood (Vim)](https://github.com/venantius/vim-eastwood)
+  * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace)
+  * [vim-redl (Vim)](https://github.com/dgrnbrg/vim-redl)
+  * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
+  * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
+  * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
+  * [Cursive (IntelliJ)](https://cursive-ide.com/)
+  * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
+  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
 
 ## Documentation
 
-*Utilities and libraries for (https://github.com/razum2um/awesome-clojure/blob/master/non-LP) code and project documentation*
+*Utilities and libraries for (non-LP) code and project documentation*
 
  * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
 
@@ -413,7 +413,7 @@ anylysis and visualization.*
 
 ## Archives and Compression
 
-  * [swindon (https://github.com/razum2um/awesome-clojure/blob/master/java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
+  * [swindon (java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
 
 ## Miscellaneous
 

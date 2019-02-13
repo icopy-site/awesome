@@ -77,11 +77,11 @@
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Introducing Custom Elements (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
+- [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
-- [Using Custom Elements (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
 ## Shadow DOM
@@ -90,15 +90,15 @@
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
-- [What's New in Shadow DOM v1 (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/by examples)](http://hayato.io/2016/shadowdomv1/)
-- [Introducing Slot-Based Shadow DOM API (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
-- [Using Shadow DOM (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
+- [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
+- [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 
 ## HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Using templates and slots (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
 
 ## Polyfills
 
@@ -142,7 +142,7 @@
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
-- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/Web Components + JSX + Proxy + Store + Path Updating).
+- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
@@ -179,7 +179,7 @@
 - [Angular Elements, Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.softwarearchitekt.at/post/2018/07/13/angular-elements-part-i-a-dynamic-dashboard-in-four-steps-with-web-components.aspx)
 - [Angular Elements, Part II: Lazy And External Web Components](https://www.softwarearchitekt.at/post/2018/07/29/angular-elements-part-ii-lazy-and-external-web-components.aspx)
 - [Angular Elements, Part III: Angular Elements Without Zone.Js](https://www.softwarearchitekt.at/post/2018/07/06/angular-elements-without-zone-js.aspx)
-- [Angular Elements, Part IV: Content Projection with Slots in Angular Elements (https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/>=7)](https://www.softwarearchitekt.at/post/2018/10/31/content-projection-with-slots-in-angular-elements-7.aspx)
+- [Angular Elements, Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.softwarearchitekt.at/post/2018/10/31/content-projection-with-slots-in-angular-elements-7.aspx)
 - [Angular Elements, Part V: Your Options For Building Angular Elements With The CLI](https://www.softwarearchitekt.at/post/2019/01/27/building-angular-elements-with-the-cli.aspx)
 - [Building Custom Elements / Web Components with Angular 6](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
 

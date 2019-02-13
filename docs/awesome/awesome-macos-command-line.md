@@ -2,7 +2,7 @@
 
 > A curated list of shell commands and tools specific to OS X.
 >
-> _“You don’t have to know everything. You simply need to know where to find it when necessary.” (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/John Brunner)_
+> _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-macos-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-macos-command-line)
 
@@ -167,7 +167,7 @@ Works up to Yosemite.
 ## Enable
 defaults write com.apple.appstore ShowDebugMenu -bool true
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.appstore ShowDebugMenu -bool false
 ```
 
@@ -214,7 +214,7 @@ rm -r ~/Library/Containers/com.apple.RemoteDesktop
 ## Enable
 defaults write com.apple.addressbook ABShowDebugMenu -bool true
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.addressbook ABShowDebugMenu -bool false
 ```
 
@@ -233,7 +233,7 @@ This works up to Yosemite. System Integrity Protection was introduced in El Capi
 ## Stop Responding to Key Presses
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
-## Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Respond to Key Presses (Default)
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 ```
 
@@ -277,7 +277,7 @@ do shell script "/usr/bin/sqlite3 ~/Library/Mail/" & mail_version & "/MailData/E
 
 set sizeAfter to do shell script "ls -lnah ~/Library/Mail/" & mail_version & "/MailData | grep -E 'Envelope Index$' | awk {'print $5'}"
 
-display dialog (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/"Mail index before: " & sizeBefore & return & "Mail index after: " & sizeAfter & return & return & "Enjoy the new speed!")
+display dialog ("Mail index before: " & sizeBefore & return & "Mail index after: " & sizeAfter & return & return & "Enjoy the new speed!")
 
 tell application "Mail" to activate
 ```
@@ -371,7 +371,7 @@ Whether Time Machine performs local backups while the Time Machine backup volume
 ## Status
 defaults read /Library/Preferences/com.apple.TimeMachine MobileBackups
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo tmutil enablelocal
 
 ## Disable
@@ -393,10 +393,10 @@ This little script will output the last 12 hours of Time Machine activity follow
 filter='processImagePath contains "backupd" and subsystem beginswith "com.apple.TimeMachine"'
 
 ## show the last 12 hours
-start="$(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/date -j -v-12H +'%Y-%m-%d %H:%M:%S')"
+start="$(date -j -v-12H +'%Y-%m-%d %H:%M:%S')"
 
 echo ""
-echo "[History (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/from $start)]"
+echo "[History (from $start)]"
 echo ""
 
 log show --style syslog --info --start "$start" --predicate "$filter"
@@ -413,7 +413,7 @@ log stream --style syslog --info --predicate "$filter"
 ## Status
 sudo defaults read /Library/Preferences/com.apple.TimeMachine RequiresACPower
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool true
 
 ## Disable
@@ -483,7 +483,7 @@ killall Dock
 
 #### Auto Rearrange Spaces Based on Most Recent Use
 ```bash
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write com.apple.dock mru-spaces -bool true && \
 killall Dock
 
@@ -495,7 +495,7 @@ killall Dock
 #### Icon Bounce
 Global setting whether Dock icons should bounce when the respective application demands your attention.
 ```bash
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write com.apple.dock no-bouncing -bool true && \
 killall Dock
 
@@ -510,7 +510,7 @@ killall Dock
 defaults write com.apple.Dock size-immutable -bool yes && \
 killall Dock
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.Dock size-immutable -bool no && \
 killall Dock
 ```
@@ -535,7 +535,7 @@ Use your touchpad or mouse scroll wheel to interact with Dock items. Allows you 
 defaults write com.apple.dock scroll-to-open -bool true && \
 killall Dock
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.dock scroll-to-open -bool false && \
 killall Dock
 ```
@@ -561,7 +561,7 @@ killall Dock
 defaults write com.apple.dock showhidden -bool true && \
 killall Dock
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.dock showhidden -bool false && \
 killall Dock
 ```
@@ -572,7 +572,7 @@ killall Dock
 defaults write com.apple.dock static-only -bool true && \
 killall Dock
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.dock static-only -bool false && \
 killall Dock
 ```
@@ -580,7 +580,7 @@ killall Dock
 ## Documents
 
 #### Convert File to HTML
-Supported formats are plain text, rich text (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/rtf) and Microsoft Word (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/doc/docx).
+Supported formats are plain text, rich text (rtf) and Microsoft Word (doc/docx).
 ```bash
 textutil -convert html file.ext
 ```
@@ -603,7 +603,7 @@ sudo pmset -a sms 0
 #### Eject All Mountable Volumes
 The only reliable way to do this is by sending an AppleScript command to Finder.
 ```bash
-osascript -e 'tell application "Finder" to eject (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/every disk whose ejectable is true)'
+osascript -e 'tell application "Finder" to eject (every disk whose ejectable is true)'
 ```
 
 #### Repair File Permissions
@@ -611,7 +611,7 @@ You don't have to use the Disk Utility GUI for this.
 ```bash
 sudo diskutil repairPermissions /
 ```
-> Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://support.apple.com/en-us/HT201560))
+> Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. ([Source](https://support.apple.com/en-us/HT201560))
 
 #### Set Boot Volume
 ```bash
@@ -731,7 +731,7 @@ External HDs, thumb drives, etc.
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true && \
 killall Finder
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
@@ -743,7 +743,7 @@ Built-in HDs or SSDs.
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool true && \
 killall Finder
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
@@ -755,7 +755,7 @@ CDs, DVDs, iPods, etc.
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true && \
 killall Finder
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool false && \
 killall Finder
 ```
@@ -767,7 +767,7 @@ AFP, SMB, NFS, WebDAV, etc.
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool true && \
 killall Finder
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool false && \
 killall Finder
 ```
@@ -827,7 +827,7 @@ Makes possible to see Finder menu item "Quit Finder" with default shortcut <kbd>
 defaults write com.apple.finder QuitMenuItem -bool true && \
 killall Finder
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.finder QuitMenuItem -bool false && \
 killall Finder
 ```
@@ -838,7 +838,7 @@ Useful if you’re on an older Mac that messes up the animation.
 ## Disable
 defaults write -g NSScrollAnimationEnabled -bool false
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write -g NSScrollAnimationEnabled -bool true
 ```
 
@@ -847,7 +847,7 @@ defaults write -g NSScrollAnimationEnabled -bool true
 ## Disable
 defaults write -g NSScrollViewRubberbanding -bool false
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write -g NSScrollViewRubberbanding -bool true
 ```
 
@@ -863,7 +863,7 @@ defaults write -g NSNavPanelExpandedStateForSaveMode2 -bool true
 defaults write com.apple.finder CreateDesktop -bool false && \
 killall Finder
 
-## Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Show Icons (Default)
 defaults write com.apple.finder CreateDesktop -bool true && \
 killall Finder
 ```
@@ -873,7 +873,7 @@ killall Finder
 ## Show
 defaults write com.apple.finder ShowPathbar -bool true
 
-## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Hide (Default)
 defaults write com.apple.finder ShowPathbar -bool false
 ```
 
@@ -888,7 +888,7 @@ defaults write -g AppleShowScrollBars -string "Always"
 ## Show
 defaults write com.apple.finder ShowStatusBar -bool true
 
-## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Hide (Default)
 defaults write com.apple.finder ShowStatusBar -bool false
 ```
 
@@ -934,7 +934,7 @@ defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
 #### Change Working Directory to Finder Path
 If multiple windows are open, it chooses the top-most one.
 ```bash
-cd "$(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e 'tell app "Finder" to POSIX path of (insertion location as alias)')"
+cd "$(osascript -e 'tell app "Finder" to POSIX path of (insertion location as alias)')"
 ```
 
 #### Open URL
@@ -999,7 +999,7 @@ Please see [this file](https://github.com/herrbischoff/awesome-macos-command-lin
 ## Status
 defaults read /Library/Preferences/com.apple.Bluetooth ControllerPowerState
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 1
 
 ## Disable
@@ -1024,12 +1024,12 @@ networksetup -listallhardwareports
 
 #### Remaining Battery Percentage
 ```bash
-pmset -g batt | egrep "(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[0-9]+\%).*" -o --colour=auto | cut -f1 -d';'
+pmset -g batt | egrep "([0-9]+\%).*" -o --colour=auto | cut -f1 -d';'
 ```
 
 #### Remaining Battery Time
 ```bash
-pmset -g batt | egrep "(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[0-9]+\%).*" -o --colour=auto | cut -f3 -d';'
+pmset -g batt | egrep "([0-9]+\%).*" -o --colour=auto | cut -f3 -d';'
 ```
 
 #### Show Connected Device's UDID
@@ -1053,7 +1053,7 @@ sysctl -n machdep.cpu.brand_string
 ## Status
 defaults read /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int 1
 
 ## Disable
@@ -1110,7 +1110,7 @@ Play iOS charging sound when MagSafe is connected.
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool true && \
 open /System/Library/CoreServices/PowerChime.app
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool false && \
 killall PowerChime
 ```
@@ -1125,7 +1125,7 @@ killall PowerChime
 ## Disable
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool false
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool true
 
 ## Show Status
@@ -1135,7 +1135,7 @@ defaults read -g NSAutomaticSpellingCorrectionEnabled
 #### Full Keyboard Access
 Enable Tab in modal dialogs.
 ```bash
-## Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Text boxes and lists only (Default)
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 0
 
 ## All controls
@@ -1230,7 +1230,7 @@ defaults write com.apple.QuickTimePlayerX MGPlayMovieOnOpen 1
 ## Disable
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array-add "-NoMulticastAdvertisements"
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array "/usr/sbin/mDNSResponder" "-launchd"
 ```
 
@@ -1300,7 +1300,7 @@ traceroute github.com
 >
 > Instead, a new UseKeychain option was introduced in macOS Sierra allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS Sierra, which caused all passphrases to be stored in the keychain.
 >
-> This was not the intended default behavior, so this has been changed in macOS 10.12.2. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
+> This was not the intended default behavior, so this has been changed in macOS 10.12.2. ([Source](https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
 ```bash
 ssh-add -K /path/to/private_key
 ```
@@ -1329,7 +1329,7 @@ sudo lsof -i :80
 ```
 
 #### Show External IP Address
-Works if your ISP doesn't replace DNS requests (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/which it shouldn't).
+Works if your ISP doesn't replace DNS requests (which it shouldn't).
 ```bash
 dig +short myip.opendns.com @resolver1.opendns.com
 ```
@@ -1366,7 +1366,7 @@ airport -s
 
 #### Show Current SSID
 ```bash
-/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | awk '/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index($0, $2))}'
+/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | awk '/ SSID/ {print substr($0, index($0, $2))}'
 ```
 
 #### Show Local IP Address
@@ -1428,7 +1428,7 @@ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate
 ## Enable
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 ```
 
@@ -1454,7 +1454,7 @@ spctl --remove /path/to/Application.app
 ## Status
 spctl --status
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo spctl --master-enable
 
 ## Disable
@@ -1491,10 +1491,10 @@ open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/Scree
 ## Status
 defaults read com.apple.screensaver askForPasswordDelay
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults write com.apple.screensaver askForPasswordDelay -int 0
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)
+## Disable (Integer = lock delay in seconds)
 defaults write com.apple.screensaver askForPasswordDelay -int 10
 ```
 
@@ -1506,7 +1506,7 @@ defaults read com.apple.screensaver askForPassword
 ## Enable
 defaults write com.apple.screensaver askForPassword -int 1
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 defaults write com.apple.screensaver askForPassword -int 0
 ```
 
@@ -1525,7 +1525,7 @@ srm /path/to/file
 srm -r /path/to/folder/
 ```
 
-#### Securely Remove Path (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force)
+#### Securely Remove Path (Force)
 ```bash
 srm -rf /path/to/complete/destruction
 ```
@@ -1562,7 +1562,7 @@ locate -i *.jpg
 ## Enable AirDrop over Ethernet and on Unsupported Macs
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 defaults remove com.apple.NetworkBrowser DisableAirDrop
 
 ## Disable
@@ -1586,11 +1586,11 @@ diff -qr /path/to/folder1 /path/to/folder2
 #### Copy Large File with Progress
 Make sure you have `pv` installed and replace `/dev/rdisk2` with the appropriate write device or file.
 ```bash
-FILE=/path/to/file.iso pv -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/du -h $FILE | awk '/.*/ {print $1}') $FILE | sudo dd of=/dev/rdisk2 bs=1m
+FILE=/path/to/file.iso pv -s $(du -h $FILE | awk '/.*/ {print $1}') $FILE | sudo dd of=/dev/rdisk2 bs=1m
 ```
 
 #### Restore Sane Shell
-In case your shell session went insane (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/some script or application turned it into a garbled mess).
+In case your shell session went insane (some script or application turned it into a garbled mess).
 ```bash
 stty sane
 ```
@@ -1659,7 +1659,7 @@ sudo fdesetup status
 ## Enable
 sudo fdesetup enable
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 sudo fdesetup disable
 ```
 
@@ -1721,7 +1721,7 @@ Please see [this file](https://github.com/herrbischoff/awesome-macos-command-lin
 #### Rebuild LaunchServices Database
 To be independent of OS X version, this relies on `locate` to find `lsregister`. If you do not have your `locate` database built yet, [do it](#build-locate-database).
 ```bash
-sudo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/locate lsregister) -kill -seed -r
+sudo $(locate lsregister) -kill -seed -r
 ```
 
 ### Login Window
@@ -1755,7 +1755,7 @@ vm_stat -c 10 1
 launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist && \
 killall -9 NotificationCenter
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
 ```
 
@@ -1774,7 +1774,7 @@ sudo systemsetup -getremoteappleevents
 ## Enable
 sudo systemsetup -setremoteappleevents on
 
-## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (Default)
 sudo systemsetup -setremoteappleevents off
 ```
 
@@ -1884,7 +1884,7 @@ sw_vers -productVersion
 ## Disable
 mdutil -i off -d /path/to/volume
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 mdutil -i on /path/to/volume
 ```
 
@@ -1934,7 +1934,7 @@ sudo systemsetup -settimezone Europe/Berlin
 ## Status
 sudo systemsetup getusingnetworktime
 
-## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (Default)
 sudo systemsetup setusingnetworktime on
 
 ## Disable
@@ -1946,7 +1946,7 @@ sudo systemsetup setusingnetworktime off
 ## Terminal
 
 #### Ring Terminal Bell
-Rings the terminal bell (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/if enabled) and puts a badge on it.
+Rings the terminal bell (if enabled) and puts a badge on it.
 ```bash
 tput bel
 ```
@@ -1962,8 +1962,8 @@ tput bel
 Install the latest version and set as current user's default shell:
 ```bash
 brew install bash && \
-echo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/bash | sudo tee -a /etc/shells && \
-chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/bash
+echo $(brew --prefix)/bin/bash | sudo tee -a /etc/shells && \
+chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
@@ -1973,8 +1973,8 @@ chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master
 Install the latest version and set as current user's default shell:
 ```bash
 brew install fish && \
-echo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/fish | sudo tee -a /etc/shells && \
-chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/fish
+echo $(brew --prefix)/bin/fish | sudo tee -a /etc/shells && \
+chsh -s $(brew --prefix)/bin/fish
 ```
 
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
@@ -1986,8 +1986,8 @@ shell for OS X, Linux, and the rest of the family.
 Install the latest version and set as current user's default shell:
 ```bash
 brew install zsh && \
-sudo sh -c 'echo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/zsh >> /etc/shells' && \
-chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/zsh
+sudo sh -c 'echo $(brew --prefix)/bin/zsh >> /etc/shells' && \
+chsh -s $(brew --prefix)/bin/zsh
 ```
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
@@ -2004,7 +2004,7 @@ chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
 - [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
-- [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial).
+- [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
 - [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
@@ -2015,25 +2015,25 @@ chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master
 
 Version                    | Codename           | Release Date       | Most Recent Version
 -------------------------- | ------------------ | ------------------ | -------------------------------------
-Rhapsody Developer Release | Grail1Z4 / Titan1U | August 31, 1997    | DR2 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/May 14, 1998)
-Mac OS X Server 1.0        | Hera               | March 16, 1999     | 1.2v3 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 27, 2000)
-Mac OS X Developer Preview | n/a                | March 16, 1999     | DP4 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April 5, 2000)
+Rhapsody Developer Release | Grail1Z4 / Titan1U | August 31, 1997    | DR2 (May 14, 1998)
+Mac OS X Server 1.0        | Hera               | March 16, 1999     | 1.2v3 (October 27, 2000)
+Mac OS X Developer Preview | n/a                | March 16, 1999     | DP4 (April 5, 2000)
 Mac OS X Public Beta       | Kodiak             | September 13, 2000 | n/a
-Mac OS X 10.0              | Cheetah            | March 24, 2001     | 10.0.4 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June 22, 2001)
-Mac OS X 10.1              | Puma               | September 25, 2001 | 10.1.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June 6, 2002)
-Mac OS X 10.2              | Jaguar             | August 24, 2002    | 10.2.8 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2003)
-Mac OS X 10.3              | Panther            | October 24, 2003   | 10.3.9 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April 15, 2005)
-Mac OS X 10.4              | Tiger              | April 29, 2005     | 10.4.11 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/November 14, 2007)
-Mac OS X 10.5              | Leopard            | October 26, 2007   | 10.5.8 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 5, 2009)
-Mac OS X 10.6              | Snow Leopard       | August 28, 2009    | 10.6.8 v1.1 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 25, 2011)
-Mac OS X 10.7              | Lion               | July 20, 2011      | 10.7.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 19, 2012)
-OS X 10.8                  | Mountain Lion      | July 25, 2012      | 10.8.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2013)
-OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
-OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
-OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)
-macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 19, 2017)
-macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 9, 2018)
-macOS 10.14                | Mojave             | https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
+Mac OS X 10.0              | Cheetah            | March 24, 2001     | 10.0.4 (June 22, 2001)
+Mac OS X 10.1              | Puma               | September 25, 2001 | 10.1.5 (June 6, 2002)
+Mac OS X 10.2              | Jaguar             | August 24, 2002    | 10.2.8 (October 3, 2003)
+Mac OS X 10.3              | Panther            | October 24, 2003   | 10.3.9 (April 15, 2005)
+Mac OS X 10.4              | Tiger              | April 29, 2005     | 10.4.11 (November 14, 2007)
+Mac OS X 10.5              | Leopard            | October 26, 2007   | 10.5.8 (August 5, 2009)
+Mac OS X 10.6              | Snow Leopard       | August 28, 2009    | 10.6.8 v1.1 (July 25, 2011)
+Mac OS X 10.7              | Lion               | July 20, 2011      | 10.7.5 (September 19, 2012)
+OS X 10.8                  | Mountain Lion      | July 25, 2012      | 10.8.5 (12F45) (October 3, 2013)
+OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (13F1112) (September 18, 2014)
+OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (14F27) (August 13, 2015)
+OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (15G31) (July 18, 2016)
+macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (16G29) (July 19, 2017)
+macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (17G65) (July 9, 2018)
+macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (18A391) (September 24, 2018)
 
 
 ## License

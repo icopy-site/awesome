@@ -6,13 +6,13 @@ This is a curated list of awesome WebGL libraries, resources and much more.
 
 ## What is WebGL
 
-WebGL (https://github.com/sjfricke/awesome-webgl/blob/master/Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within
+WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within
 any compatible web browser without the use of plug-ins. WebGL is integrated completely into all the web standards
 of the browser allowing GPU accelerated usage of physics and image processing and effects as part of the web page canvas.
 
 WebGL elements can be mixed with other HTML elements and composited with other parts of the page or page background.
 WebGL programs consist of control code written in JavaScript and shader code that is executed on a computer's Graphics
-Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
+Processing Unit (GPU).
 
 ## Contents
 * [WebGL](#webgl)
@@ -41,7 +41,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 ### Articles
 
-> WebGL articles and/or blog posts (https://github.com/sjfricke/awesome-webgl/blob/master/non-tutorials)
+> WebGL articles and/or blog posts (non-tutorials)
 
 * [Context Loss & Preloading](https://medium.com/@mattdesl/non-intrusive-webgl-cebd176c281d#.gyc6h9mr5) - How to manage WebGL when you run into the dreaded context lost.
 * [WebGL Off the Main Thread](https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/) - How to use Web Workers in WebGL.
@@ -120,7 +120,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 * [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
-* [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (https://github.com/sjfricke/awesome-webgl/blob/master/if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
+* [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
 * [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
@@ -140,7 +140,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 ### Tutorials
 
-> Online WebGL Tutorials (https://github.com/sjfricke/awesome-webgl/blob/master/non-video)
+> Online WebGL Tutorials (non-video)
 
 * [Directional Shadow Mapping](http://chinedufn.com/webgl-shadow-mapping-tutorial/) - Concepts behind real time directional light shadow mapping.
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) - Khronos' tutorial how to get up and running with WebGL.
@@ -175,7 +175,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 ### Articles
 
-> WebGL 2 articles and/or blog posts (https://github.com/sjfricke/awesome-webgl/blob/master/non-tutorials)
+> WebGL 2 articles and/or blog posts (non-tutorials)
 
 * [WebGL 2 What's New](https://webgl2fundamentals.org/webgl/lessons/webgl2-whats-new.html) - Look into the new features added in WebGL 2.
 * [What's Coming in WebGL 2.0](https://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html) - Look into the upcoming features of WebGL 2.
@@ -188,7 +188,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 > WebGL 2 references
 
-* [WebGL 2 Spec Sheet (https://github.com/sjfricke/awesome-webgl/blob/master/Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
+* [WebGL 2 Spec Sheet (Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
 * [WebGL 2 Reference Card](https://www.khronos.org/files/webgl20-reference-guide.pdf) - WebGL 2.0 API Quick Reference Card for printing.
 * [WebGL 2 Compatible Chart](https://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
 
@@ -220,7 +220,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 ### Articles
 
-> WebVR articles and/or blog posts (https://github.com/sjfricke/awesome-webgl/blob/master/non-tutorials)
+> WebVR articles and/or blog posts (non-tutorials)
 
 ### Blog Series
 
@@ -255,7 +255,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 * [Planck.js](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
 * [Stage.js](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
-### Compute (https://github.com/sjfricke/awesome-webgl/blob/master/GPGPU)
+### Compute (GPGPU)
 
 #### Computer Vision
 * [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.

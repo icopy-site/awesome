@@ -41,7 +41,7 @@
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (https://github.com/jonathandion/awesome-emails/blob/master/Each template is responsive and each has been tested in all the popular email clients.)
+- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 - [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 - [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
@@ -63,7 +63,7 @@
 
 VML and CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - Test How Your Email Subject Lines Appear On The Most Popular Mobile Devices.
-- [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (https://github.com/jonathandion/awesome-emails/blob/master/works with all ESPs).
+- [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 
 ## Services
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
@@ -140,9 +140,9 @@ VML and CSS.
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 - [SPAM mailtester](http://www.mail-tester.com/) - Test the Spammyness of your Emails
 - [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
-- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (https://github.com/jonathandion/awesome-emails/blob/master/based on Go)
-- [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (https://github.com/jonathandion/awesome-emails/blob/master/based on Ruby)
-- [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (https://github.com/jonathandion/awesome-emails/blob/master/loading remote content)
+- [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
+- [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
+- [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 - [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 
 ## Learning

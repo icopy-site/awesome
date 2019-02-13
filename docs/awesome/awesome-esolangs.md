@@ -46,7 +46,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
 * [Velato](http://velato.net) - Language that uses MIDI files as source, programs are defined by the pitch and order of notes.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) - Language that does things whenever it wants.
-* [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - Use only white-characters (https://github.com/angrykoala/awesome-esolangs/blob/master/space, tabs and newlines).
+* [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - Use only white-characters (space, tabs and newlines).
 * [Z](https://esolangs.org/wiki/Z) - Use only the letter z.
 
 ## Resources
@@ -61,7 +61,7 @@ Curated list of awesome esoteric programming languages and resources.
 
 ## Articles
 
-* [Let's Build a Basic Interpreter (https://github.com/angrykoala/awesome-esolangs/blob/master/Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
+* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) - A post by Yevgeniy Brikman describing different programming paradigms that are not commonly applied.
 
 ## Community

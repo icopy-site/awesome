@@ -40,10 +40,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
-* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (https://github.com/raphamorim/awesome-canvas/blob/master/Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
+* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
 * [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
 * [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
-* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (https://github.com/raphamorim/awesome-canvas/blob/master/also known as 'sphere tracing') rendering techniques.
+* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 * [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
@@ -79,9 +79,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
-- [d3](https://github.com/d3/d3) (https://github.com/raphamorim/awesome-canvas/blob/master/or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+- [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
-and also has SVG-to-canvas (https://github.com/raphamorim/awesome-canvas/blob/master/and canvas-to-SVG) parser
+and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface

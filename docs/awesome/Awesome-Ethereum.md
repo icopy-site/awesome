@@ -100,8 +100,8 @@ The Ideas behind the Ethereum Project.
 
 ## Videos
 
-- [Ethereum Explained (https://github.com/Tom2718/Awesome-Ethereum/blob/master/22:00)](https://github.com/Tom2718/Awesome-Ethereum/blob/master/https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
-- [A Guide to Building Your First Decentralized Application (https://github.com/Tom2718/Awesome-Ethereum/blob/master/37:00)](https://github.com/Tom2718/Awesome-Ethereum/blob/master/https://www.youtube.com/watch?v=gSQXq2_j-mw)
+- [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
+- [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
 - [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
 - [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
 
@@ -149,13 +149,13 @@ Descriptions and implementations of Ethereum-related protocols.
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
-- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://github.com/Tom2718/Awesome-Ethereum/blob/master/https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (https://github.com/Tom2718/Awesome-Ethereum/blob/master/and blockchains) from an IBM blockchain liason.
+- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason.
 
 
 ## Misc
 
 - [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
-- [State of the DApps](https://github.com/Tom2718/Awesome-Ethereum/blob/master/https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (https://github.com/Tom2718/Awesome-Ethereum/blob/master/DApps) on Ethereum.
+- [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.

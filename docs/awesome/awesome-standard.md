@@ -10,9 +10,9 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 ## usage stats
 
-- **[npm packages that use standard (https://github.com/standard/awesome-standard/blob/master/full list)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
-- **[download graphs of standard (https://github.com/standard/awesome-standard/blob/master/npm-stat.com)](http://https://github.com/standard/awesome-standard/blob/master/npm-stat.com/charts.html?package=standard&author=&from=&to=)** - npm registry download count
-- **[top npm packages (https://github.com/standard/awesome-standard/blob/master/gist)](https://https://github.com/standard/awesome-standard/blob/master/gist.github.com/feross/e0882df2fe673d6ce064)** - standard is one of the top packages on npm
+- **[npm packages that use standard (full list)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
+- **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - npm registry download count
+- **[top npm packages (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - standard is one of the top packages on npm
 
 ## packages used by standard
 
@@ -20,7 +20,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-engine](https://www.npmjs.com/package/standard-engine)** - standard's guts, extracted into a reuseable package. build your own!
 - **[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)** - standard eslint rules, as a shareable config
 - **[eslint-config-standard-jsx](https://www.npmjs.com/package/eslint-config-standard-jsx)** - standard eslint rules for JSX
-- **[eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)** - standard custom eslint rules (https://github.com/standard/awesome-standard/blob/master/not part of eslint core)
+- **[eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)** - standard custom eslint rules (not part of eslint core)
 
 ## automatic code formatters
 
@@ -42,11 +42,11 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - Vim: see [readme](https://github.com/standard/standard#vim)
 - Visual Studio Code: **[vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)** - code snippets
 - Visual Studio Code: **[vscode-react-standard](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)** - code snippets
-- WebStorm (https://github.com/standard/awesome-standard/blob/master/PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
+- WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
 
-## pretty terminal output (https://github.com/standard/awesome-standard/blob/master/reporters)
+## pretty terminal output (reporters)
 
-- **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (https://github.com/standard/awesome-standard/blob/master/i.e. snazzy) output
+- **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
 - **[standard-tap](https://www.npmjs.com/package/standard-tap)** - Format JavaScript Standard Style as TAP output
 - **[standard-json](https://www.npmjs.com/package/standard-json)** - Format JavaScript Standard Style output to a JSON array
 - **[standard-reporter](https://www.npmjs.com/package/standard-reporter)** - Reporters for feross/standard via unix pipes, many options

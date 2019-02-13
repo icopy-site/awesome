@@ -1,5 +1,5 @@
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
 
@@ -188,7 +188,7 @@ https://github.com/rails/rails/compare/byroot:master...master
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-Add `.pibb` to the end of any Gist URL (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
+Add `.pibb` to the end of any Gist URL ([like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
 
 Gists can be treated as a repository so they can be cloned like any other:
 
@@ -236,7 +236,7 @@ When on a repository page, keyboard shortcuts allow you to navigate easily.
  - Pressing `w` will bring up the branch selector.
  - Pressing `s` will focus the search field for the current repository. Pressing Backspace to delete the “This repository” pill changes the field to search all of GitHub.
  - Pressing `l` will edit labels on existing Issues.
- - Pressing `y` **when looking at a file** (https://github.com/tiimgreen/github-cheat-sheet/blob/master/e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
+ - Pressing `y` **when looking at a file** (e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
 
 To see all of the shortcuts for the current page press `?`:
 
@@ -330,8 +330,8 @@ For example, to syntax highlight Ruby code in your Markdown files write:
 
     ```ruby
     require 'tabbit'
-    table = Tabbit.new(https://github.com/tiimgreen/github-cheat-sheet/blob/master/'Name', 'Email')
-    table.add_row(https://github.com/tiimgreen/github-cheat-sheet/blob/master/'Tim Green', 'tiimgreen@gmail.com')
+    table = Tabbit.new('Name', 'Email')
+    table.add_row('Tim Green', 'tiimgreen@gmail.com')
     puts table.to_s
     ```
 
@@ -339,8 +339,8 @@ This will produce:
 
 ```ruby
 require 'tabbit'
-table = Tabbit.new(https://github.com/tiimgreen/github-cheat-sheet/blob/master/'Name', 'Email')
-table.add_row(https://github.com/tiimgreen/github-cheat-sheet/blob/master/'Tim Green', 'tiimgreen@gmail.com')
+table = Tabbit.new('Name', 'Email')
+table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
@@ -380,7 +380,7 @@ Raw images from the repo can be used by calling them directly.:
 All images are cached on GitHub, so if your host goes down, the image will remain available.
 
 #### Embedding Images in GitHub Wiki
-There are multiple ways of embedding images in Wiki pages. There's the standard Markdown syntax (https://github.com/tiimgreen/github-cheat-sheet/blob/master/shown above). But there's also a syntax that allows things like specifying the height or width of the image:
+There are multiple ways of embedding images in Wiki pages. There's the standard Markdown syntax (shown above). But there's also a syntax that allows things like specifying the height or width of the image:
 
 ```markdown
 [[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
@@ -399,9 +399,9 @@ When on a comment thread and you want to quote something someone previously said
 
 ### Pasting Clipboard Image to Comments
 
-_(https://github.com/tiimgreen/github-cheat-sheet/blob/master/Works on Chrome browsers only)_
+_(Works on Chrome browsers only)_
 
-After taking a screenshot and adding it to the clipboard (https://github.com/tiimgreen/github-cheat-sheet/blob/master/mac: `cmd-ctrl-shift-4`), you can simply paste (https://github.com/tiimgreen/github-cheat-sheet/blob/master/`cmd-v / ctrl-v`) the image into the comment section and it will be auto-uploaded to github.
+After taking a screenshot and adding it to the clipboard (mac: `cmd-ctrl-shift-4`), you can simply paste (`cmd-v / ctrl-v`) the image into the comment section and it will be auto-uploaded to github.
 
 ![Pasting Clipboard Image to Comments](https://cloud.githubusercontent.com/assets/39191/5794265/39c9b65a-9f1b-11e4-9bc7-04e41f59ea5f.png)
 
@@ -421,7 +421,7 @@ Also works for `.gitignore`.
 [*Read more about open source licensing.*](https://help.github.com/articles/open-source-licensing/)
 
 ### Task Lists
-In Issues and Pull requests check boxes can be added with the following syntax (https://github.com/tiimgreen/github-cheat-sheet/blob/master/notice the space):
+In Issues and Pull requests check boxes can be added with the following syntax (notice the space):
 
 ```
 - [ ] Be awesome
@@ -478,7 +478,7 @@ Relative links are recommended in your Markdown files when linking to internal c
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
 ```
 
-Absolute links have to be updated whenever the URL changes (https://github.com/tiimgreen/github-cheat-sheet/blob/master/e.g., repository renamed, username changed, project forked). Using relative links makes your documentation easily stand on its own.
+Absolute links have to be updated whenever the URL changes (e.g., repository renamed, username changed, project forked). Using relative links makes your documentation easily stand on its own.
 
 [*Read more about relative links.*](https://help.github.com/articles/relative-links-in-readmes/)
 
@@ -497,7 +497,7 @@ Many blogging websites, like [Jekyll](http://jekyllrb.com/) with [GitHub Pages](
 [*Read more about viewing YAML metadata in your documents.*](https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents)
 
 ### Rendering Tabular Data
-GitHub supports rendering tabular data in the form of `.csv` (https://github.com/tiimgreen/github-cheat-sheet/blob/master/comma-separated) and `.tsv` (https://github.com/tiimgreen/github-cheat-sheet/blob/master/tab-separated) files.
+GitHub supports rendering tabular data in the form of `.csv` (comma-separated) and `.tsv` (tab-separated) files.
 
 ![Tabular data](https://camo.githubusercontent.com/1b6dd0157ffb45d9939abf14233a0cb13b3b4dfe/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f3937363436322f33323038336463652d303638642d313165332d393262322d3566323863313061353035392e706e67)
 
@@ -522,7 +522,7 @@ You can revert it by clicking the **Revert** button on the right side of a commi
 
 ### Diffs
 #### Rendered Prose Diffs
-Commits and pull requests, including rendered documents supported by GitHub (https://github.com/tiimgreen/github-cheat-sheet/blob/master/e.g., Markdown), feature *source* and *rendered* views.
+Commits and pull requests, including rendered documents supported by GitHub (e.g., Markdown), feature *source* and *rendered* views.
 
 ![Source / Rendered view](https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png)
 
@@ -574,7 +574,7 @@ index 88fcf69..8614873 100644
 @@ -381,6 +382,19 @@ When they are clicked, they will be updated in the pure Markdown:
  - [ ] Sleep
 
-(https://github.com/tiimgreen/github-cheat-sheet/blob/master/...)
+(...)
 ```
 
 #### Rendering and diffing images
@@ -623,7 +623,7 @@ You can define a template for all new pull requests opened in your project. The 
 [Pull request template file generator](https://www.talater.com/open-source-templates/)
 
 ### Octicons
-GitHubs icons (https://github.com/tiimgreen/github-cheat-sheet/blob/master/Octicons) have now been open sourced.
+GitHubs icons (Octicons) have now been open sourced.
 
 ![Octicons](https://og.github.com/octicons/octicons@1200x630.png)
 
@@ -645,7 +645,7 @@ If you are a student you will be eligible for the GitHub Student Developer Pack.
 | GitHub Help | https://help.github.com/ |
 | GitHub Training | https://training.github.com/ |
 | GitHub Developer | https://developer.github.com/ |
-| Github Education (https://github.com/tiimgreen/github-cheat-sheet/blob/master/Free Micro Account and other stuff for students) | https://education.github.com/ |
+| Github Education (Free Micro Account and other stuff for students) | https://education.github.com/ |
 
 #### GitHub Talks
 | Title | Link |
@@ -673,7 +673,7 @@ e.g. [https://github.com/tiimgreen.keys](https://github.com/tiimgreen.keys)
 When you delete a lot of files using `/bin/rm` you can use the following command to remove them from the working tree and from the index, eliminating the need to remove each one individually:
 
 ```bash
-$ git rm $(https://github.com/tiimgreen/github-cheat-sheet/blob/master/git ls-files -d)
+$ git rm $(git ls-files -d)
 ```
 
 For example:
@@ -685,7 +685,7 @@ Changes not staged for commit:
 	deleted:    a
 	deleted:    c
 
-$ git rm $(https://github.com/tiimgreen/github-cheat-sheet/blob/master/git ls-files -d)
+$ git rm $(git ls-files -d)
 rm 'a'
 rm 'c'
 
@@ -789,7 +789,7 @@ Commits can be pushed with no code changes by adding `--allow-empty`:
 $ git commit -m "Big-ass commit" --allow-empty
 ```
 
-Some use-cases for this (https://github.com/tiimgreen/github-cheat-sheet/blob/master/that make sense), include:
+Some use-cases for this (that make sense), include:
 
  - Annotating the start of a new bulk of work or a new feature.
  - Documenting when you make changes to the project that aren't code related.
@@ -823,12 +823,12 @@ this is produced:
 Running:
 
 ```bash
-$ git log --all --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/auto)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --date=relative
+$ git log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 ```
 
 produces:
 
-![git log --all --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/auto)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --date=relative](http://i.imgur.com/58eOtkW.png)
+![git log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative](http://i.imgur.com/58eOtkW.png)
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
@@ -843,7 +843,7 @@ A Git query allows you to search all your previous commit messages and find the 
 $ git show :/query
 ```
 
-where `query` (https://github.com/tiimgreen/github-cheat-sheet/blob/master/case-sensitive) is the term you want to search, this then finds the last one and gives details on the lines that were changed.
+where `query` (case-sensitive) is the term you want to search, this then finds the last one and gives details on the lines that were changed.
 
 ```bash
 $ git show :/typo
@@ -869,7 +869,7 @@ will show all the files containing the string *aliases*.
 
 You can also use multiple flags for more advanced search. For example:
 
- * `-e` The next parameter is the pattern (https://github.com/tiimgreen/github-cheat-sheet/blob/master/e.g., regex)
+ * `-e` The next parameter is the pattern (e.g., regex)
  * `--and`, `--or` and `--not` Combine multiple patterns.
 
 Use it like this:
@@ -899,7 +899,7 @@ will give you a list of branches that have not been merged into your current bra
 [*Read more about the Git `branch` command.*](http://git-scm.com/docs/git-branch)
 
 ### Fixup and Autosquash
-If there is something wrong with a previous commit (https://github.com/tiimgreen/github-cheat-sheet/blob/master/can be one or more from HEAD), for example `abcde`, run the following command after you've amended the problem:
+If there is something wrong with a previous commit (can be one or more from HEAD), for example `abcde`, run the following command after you've amended the problem:
 ```bash
 $ git commit --fixup=abcde
 $ git rebase abcde^ --autosquash -i
@@ -969,7 +969,7 @@ Some useful aliases include:
 | `git branches` | `git branch -a` | `git config --global alias.branches 'branch -a'` |
 | `git cleanup` | `git branch --merged \| grep -v '*' \| xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"` |
 | `git remotes` | `git remote -v` | `git config --global alias.remotes 'remote -v'` |
-| `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --"` |
+| `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
 
 *Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig*
 
@@ -986,7 +986,7 @@ $ git comit -m "Message"
 ##   commit
 ```
 
-Auto-correct can be enabled like this (https://github.com/tiimgreen/github-cheat-sheet/blob/master/with a 1.5 second delay):
+Auto-correct can be enabled like this (with a 1.5 second delay):
 
 ```bash
 $ git config --global help.autocorrect 15

@@ -14,7 +14,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
   * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url)
 * [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator)
-* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](https://github.com/beaconinside/awesome-beacon/blob/master/* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (https://github.com/beaconinside/awesome-beacon/blob/master/by Nordic Semiconductor)
+* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](https://github.com/beaconinside/awesome-beacon/blob/master/* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (by Nordic Semiconductor)
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
 * [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
 
@@ -29,12 +29,12 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Physical Web Implementation Status](https://github.com/google/physical-web/blob/master/implementation-status.md)
 * [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
 * [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
-* [Exploring the Physical Web (https://github.com/beaconinside/awesome-beacon/blob/master/Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
+* [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
 ## Proximity Beacon API by Google
 
 * [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) - Video Ubiquity Dev Summit 2016
-* [Get Started with Beacons](https://developers.google.com/beacons/get-started) - This guide explains the steps required to start using Bluetooth low energy (https://github.com/beaconinside/awesome-beacon/blob/master/BLE) beacons to provide proximity-based experiences for your users.
+* [Get Started with Beacons](https://developers.google.com/beacons/get-started) - This guide explains the steps required to start using Bluetooth low energy (BLE) beacons to provide proximity-based experiences for your users.
 * [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) - A cloud service that allows you to manage data associated with your BLE beacons using a REST interface
 * [Nearby](https://developers.google.com/nearby/) - Build simple interactions between nearby devices and people
 
@@ -44,12 +44,12 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **iBeacon for Developers** From welcoming people as they arrive at a sporting event to providing information about a nearby museum exhibit, iBeacon opens a new world of possibilities for location awareness, and countless opportunities for interactivity between iOS devices and iBeacon hardware.
 
 * [iBeacon for Developers](https://developer.apple.com/ibeacon)
-* [Getting Started with iBeacon (https://github.com/beaconinside/awesome-beacon/blob/master/PDF) ](https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf)
+* [Getting Started with iBeacon (PDF) ](https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf)
 * [iBeacon Artwork and Specifications](https://developer.apple.com/ibeacon/)
 * [iOS: Understanding iBeacon device compatibility](https://support.apple.com/en-us/HT202880)
 * [iOS 7: Understanding Location Services](https://support.apple.com/en-us/HT201357)
-* [Apple AirLocate Sample Code](https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html) (https://github.com/beaconinside/awesome-beacon/blob/master/[iOS8 fix](http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons))
-* [Location and Maps Programming Guide (https://github.com/beaconinside/awesome-beacon/blob/master/PDF)](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/LocationAwarenessPG.pdf)
+* [Apple AirLocate Sample Code](https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html) ([iOS8 fix](http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons))
+* [Location and Maps Programming Guide (PDF)](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/LocationAwarenessPG.pdf)
 
 
 ## iBeacon for Developers
@@ -67,9 +67,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Hacks & Cool Apps
 
-* [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) (https://github.com/beaconinside/awesome-beacon/blob/master/an open standard)
+* [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) (an open standard)
 * [Google Glass & Beacons](https://github.com/tmwagency/Glasstimote)
-* [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (https://github.com/beaconinside/awesome-beacon/blob/master/by Twocanoes)
+* [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
 * [PunchClock](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 * [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
@@ -83,7 +83,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Discovery & Configuration Tools
 
-* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (https://github.com/beaconinside/awesome-beacon/blob/master/on Mac OS X) or a BlueGiga BLE112 device (https://github.com/beaconinside/awesome-beacon/blob/master/on mac or linux)
+* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
 
 
 ## iOS
@@ -176,8 +176,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner)
 * [Beacon OSX](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
-* [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (https://github.com/beaconinside/awesome-beacon/blob/master/Eddystone) bluetooth beacons
-* [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (https://github.com/beaconinside/awesome-beacon/blob/master/Physical Web) bluetooth beacon.
+* [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
+* [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework ns Swift using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon, iBeacon.
 
 ## Linux
@@ -188,8 +188,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (https://github.com/beaconinside/awesome-beacon/blob/master/Bluetooth low energy) central module](https://github.com/sandeepmistry/noble)
-* [A node.js module for implementing BLE (https://github.com/beaconinside/awesome-beacon/blob/master/Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno)
+* [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble)
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno)
 
 ## Windows
 
@@ -204,9 +204,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Bluetooth Smart & BLE Tools
 
-* [nRF Master Control Panel (https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/beaconinside/awesome-beacon/blob/master/BLE)](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) nRF Master Control Panel is a powerful generic tool that allows you to scan and explore your Bluetooth Smart (https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/beaconinside/awesome-beacon/blob/master/BLE) devices and communicate with them.
+* [nRF Master Control Panel (BLE)](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) nRF Master Control Panel is a powerful generic tool that allows you to scan and explore your Bluetooth Smart (BLE) devices and communicate with them.
 * [LightBlue Mac OSX](https://itunes.apple.com/de/app/lightblue/id639944780?mt=12)
-[(https://github.com/beaconinside/awesome-beacon/blob/master/or iOS)](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) LightBlue can test all of your devices that use Bluetooth 4.0 Low Energy (https://github.com/beaconinside/awesome-beacon/blob/master/also known as Bluetooth Smart, or Bluetooth Light).
+[(or iOS)](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) LightBlue can test all of your devices that use Bluetooth 4.0 Low Energy (also known as Bluetooth Smart, or Bluetooth Light).
 * [BlueSpeed for iOS by Punch Through](https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8) Runs a Bluetooth LE speed test between 2 iOS devices
 * [Nordic BLE nRF Sniffer](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF-Sniffer)
 

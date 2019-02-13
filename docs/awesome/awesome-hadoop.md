@@ -42,7 +42,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 * [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
-* [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (https://github.com/youngwookim/awesome-hadoop/blob/master/OLAP) on Hadoop supporting extremely large datasets
+* [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
 * [Crunch](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop
 * [Apache Ignite](http://ignite.apache.org/) - Distributed in-memory platform
 
@@ -70,9 +70,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Hive](http://hive.apache.org) - The Apache Hive data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
 * [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
-* [Apache HAWQ (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](http://hawq.incubator.apache.org/) - Apache HAWQ is a Hadoop native SQL query engine that combines the key technological advantages of MPP database with the scalability and convenience of Hadoop
-* [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (https://github.com/youngwookim/awesome-hadoop/blob/master/MR/Tez job generator)
-* [Apache Impala](https://impala.apache.org/) - Apache Impala is an open source massively parallel processing (https://github.com/youngwookim/awesome-hadoop/blob/master/MPP) SQL query engine for data stored in a computer cluster running Apache Hadoop. Impala has been described as the open-source equivalent of Google F1, which inspired its development in 2012.
+* [Apache HAWQ (incubating)](http://hawq.incubator.apache.org/) - Apache HAWQ is a Hadoop native SQL query engine that combines the key technological advantages of MPP database with the scalability and convenience of Hadoop
+* [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
+* [Apache Impala](https://impala.apache.org/) - Apache Impala is an open source massively parallel processing (MPP) SQL query engine for data stored in a computer cluster running Apache Hadoop. Impala has been described as the open-source equivalent of Google F1, which inspired its development in 2012.
 * [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
 * [Apache Drill](https://drill.apache.org/) - Schema-free SQL Query Engine
@@ -110,8 +110,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [vahara](https://github.com/thedatachef/varaha) - Machine learning and natural language processing with Apache Pig
 * [packetpig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics
 * [akela](https://github.com/mozilla-metrics/akela) - Mozilla's utility library for Hadoop, HBase, Pig, etc.
-* [seqpig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(https://github.com/youngwookim/awesome-hadoop/blob/master/ex: bioinfomation) in Hadoop 
-* [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool. [Introducing Lipstick on A(https://github.com/youngwookim/awesome-hadoop/blob/master/pache) Pig](http://techblog.netflix.com/2013/06/introducing-lipstick-on-ahttps://github.com/youngwookim/awesome-hadoop/blob/master/pache-pig.html)
+* [seqpig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop 
+* [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool. [Introducing Lipstick on A(pache) Pig](http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html)
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 
 ## Libraries and Tools
@@ -128,7 +128,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-* [Apache Superset (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](https://superset.incubator.apache.org/) - Apache Superset (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating) is a modern, enterprise-ready business intelligence web application
+* [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 * [Schema Registry UI](https://github.com/Landoop/schema-registry-ui) - Web tool for the Confluent Schema Registry in order to create / view / search / evolve / view history & configure Avro schemas of your Kafka cluster.
 
 ## Realtime Data Processing
@@ -137,8 +137,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Samza](http://samza.apache.org/)
 * [Apache Spark](http://spark.apache.org/streaming/)
 * [Apache Flink](https://flink.apache.org/features.html#unified-stream-amp-batch-processing) - Apache Flink is a platform for efficient, distributed, general-purpose data processing. It supports exactly once stream processing.
-* [Apache Pulsar (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](http://pulsar.incubator.apache.org/) - Apache Pulsar (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating) is a highly scalable, low latency messaging platform running on commodity hardware. It provides simple pub-sub semantics over topics, guaranteed at-least-once delivery of messages, automatic cursor management for subscribers, and cross-datacenter replication.
-* [Apache Druid (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](http://druid.incubator.apache.org/) - A high-performance, column-oriented, distributed data store.
+* [Apache Pulsar (incubating)](http://pulsar.incubator.apache.org/) - Apache Pulsar (incubating) is a highly scalable, low latency messaging platform running on commodity hardware. It provides simple pub-sub semantics over topics, guaranteed at-least-once delivery of messages, automatic cursor management for subscribers, and cross-datacenter replication.
+* [Apache Druid (incubating)](http://druid.incubator.apache.org/) - A high-performance, column-oriented, distributed data store.
 
 ## Distributed Computing and Programming
 
@@ -148,8 +148,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Crunch](http://crunch.apache.org)
 * [Cascading](http://www.cascading.org/) - Cascading is the proven application development platform for building data applications on Hadoop.
 * [Apache Flink](http://flink.apache.org/) - Apache Flink is a platform for efficient, distributed, general-purpose data processing.
-* [Apache Apex (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](http://apex.incubator.apache.org/) - Enterprise-grade unified stream and batch processing engine.
-* [Apache Livy (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](https://livy.incubator.apache.org/) - Apache Livy (https://github.com/youngwookim/awesome-hadoop/blob/master/https://github.com/youngwookim/awesome-hadoop/blob/master/incubating) is web service that exposes a REST interface for managing long running Apache Spark contexts in your cluster. With Livy, new applications can be built on top of Apache Spark that require fine grained interaction with many Spark contexts.
+* [Apache Apex (incubating)](http://apex.incubator.apache.org/) - Enterprise-grade unified stream and batch processing engine.
+* [Apache Livy (incubating)](https://livy.incubator.apache.org/) - Apache Livy (incubating) is web service that exposes a REST interface for managing long running Apache Spark contexts in your cluster. With Livy, new applications can be built on top of Apache Spark that require fine grained interaction with many Spark contexts.
 
 ## Packaging, Provisioning and Monitoring
 
@@ -183,7 +183,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 * [HiBench](https://github.com/intel-hadoop/HiBench)
 * [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench)
-* [https://github.com/youngwookim/awesome-hadoop/blob/master/YCSB](https://github.com/brianfrankcooper/https://github.com/youngwookim/awesome-hadoop/blob/master/YCSB) - The Yahoo! Cloud Serving Benchmark (https://github.com/youngwookim/awesome-hadoop/blob/master/YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
 
 ## Machine learning and Big Data analytics
 
@@ -193,9 +193,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 * [Apache Lens](http://lens.apache.org/)
-* [Apache SINGA (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
+* [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
 * [BigDL](https://bigdl-project.github.io/) - BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
-* [Apache Hivemall (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](http://hivemall.incubator.apache.org/) - Apache Hivemall is a scalable machine learning library that runs on Apache Hive, Spark and Pig.
+* [Apache Hivemall (incubating)](http://hivemall.incubator.apache.org/) - Apache Hivemall is a scalable machine learning library that runs on Apache Hive, Spark and Pig.
 
 ## Misc.
 
@@ -221,7 +221,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/forward/node-hive
      * https://github.com/recruitcojp/WebHive
      * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
-     * https://github.com/dmorel/Thrift-API-HiveClient2 (https://github.com/youngwookim/awesome-hadoop/blob/master/Perl - HiveServer2)
+     * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
      * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
      * https://github.com/recruitcojp/OdbcHive
      * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)

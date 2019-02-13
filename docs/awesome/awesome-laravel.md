@@ -28,11 +28,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 
-* [Laravel](https://laravel.com) (https://github.com/chiraggude/awesome-laravel/blob/master/[Documentation](https://laravel.com/docs))
+* [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs))
 * [Laravel API Reference](https://laravel.com/api/master/)
-* [Lumen](https://lumen.laravel.com) (https://github.com/chiraggude/awesome-laravel/blob/master/[Documentation](https://lumen.laravel.com/docs))
+* [Lumen](https://lumen.laravel.com) ([Documentation](https://lumen.laravel.com/docs))
 * [Laracasts](https://laracasts.com)
-* [Laravel News](https://laravel-news.com) (https://github.com/chiraggude/awesome-laravel/blob/master/[Archive](https://laravel-news.com/archive/))
+* [Laravel News](https://laravel-news.com) ([Archive](https://laravel-news.com/archive/))
 
 ## Packages
 
@@ -121,7 +121,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
-* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (https://github.com/chiraggude/awesome-laravel/blob/master/reCAPTCHA)
+* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
@@ -196,7 +196,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
 * [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
-* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (https://github.com/chiraggude/awesome-laravel/blob/master/Cross-Origin Resource Sharing) headers support
+* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal
 * [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Supports Relay, eloquent models, validation and GraphiQL
 * [Lighthouse](https://github.com/nuwave/lighthouse) - An up and coming GraphQL library for Laravel
@@ -205,7 +205,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Tasks, Commands and Scheduling
 
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
-* [Elixir](https://github.com/laravel/elixir) - Node (https://github.com/chiraggude/awesome-laravel/blob/master/NPM) package to run Gulp tasks
+* [Elixir](https://github.com/laravel/elixir) - Node (NPM) package to run Gulp tasks
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 
@@ -254,7 +254,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant box for Laravel
 * [Valet](https://laravel.com/docs/master/valet) - Development environment for Mac users
 * [Valet Linux](https://github.com/cpriego/valet-linux) - Development environment for Linux users
-* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (https://github.com/chiraggude/awesome-laravel/blob/master/Like Homestead but for Docker instead of Vagrant)
+* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
@@ -263,10 +263,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Forge](https://forge.laravel.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[ForgeRecipes](https://forgerecipes.com/))
+* [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
-* [Heroku](https://www.heroku.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
-* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
+* [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
+* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
@@ -279,7 +279,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Code Snippets
 
-* [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Chinese version](https://cs.phphub.org/))
+* [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
 * [Laravel Tricks](http://laravel-tricks.com/)
 
 ## Articles, Tutorials, Blogs etc.
@@ -302,8 +302,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
 * [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel)
-* [Laraveles](http://laraveles.com/blog/) (https://github.com/chiraggude/awesome-laravel/blob/master/ES)
-* [Styde](https://styde.net/cursos/) (https://github.com/chiraggude/awesome-laravel/blob/master/ES)
+* [Laraveles](http://laraveles.com/blog/) (ES)
+* [Styde](https://styde.net/cursos/) (ES)
 * [Laravel Daily](http://laraveldaily.com/blog/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
@@ -315,12 +315,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Videos
 
 * [Laracasts](https://laracasts.com/)
-* [Codecourse](https://www.codecourse.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[YouTube](https://www.youtube.com/user/phpacademy/playlists))
+* [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Servers for Hackers](https://serversforhackers.com/laravel-perf)
 * [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
-* [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos) (https://github.com/chiraggude/awesome-laravel/blob/master/ES)
-* [CodigoFacilito](https://codigofacilito.com/courses/laravel) (https://github.com/chiraggude/awesome-laravel/blob/master/ES)
+* [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos) (ES)
+* [CodigoFacilito](https://codigofacilito.com/courses/laravel) (ES)
 * [DevDojo](https://devdojo.com/search?value=laravel)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
 * [Laracademy](https://laracademy.co/)
@@ -460,13 +460,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
 * [The Laravel News Podcast](https://laravel-news.com/podcast/ )
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
-* [Hecho en Laravel (https://github.com/chiraggude/awesome-laravel/blob/master/Spanish)](http://hechoenlaravel.com)
+* [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
 
 ## Community
 
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Signup](https://larachat.co/slack))
+* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
@@ -476,34 +476,34 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-* [Laraveles Slack](https://laraveles.slack.com) (https://github.com/chiraggude/awesome-laravel/blob/master/[Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
+* [Laraveles Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
 * [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
 
 ##### Local User Groups
 
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
-* [Laravel Russia](https://laravel.ru/) (https://github.com/chiraggude/awesome-laravel/blob/master/[VK group](http://m.vk.com/laravel_rus))
+* [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
-* [Laravel Indonesia](http://id-laravel.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
-* [Laravel Brasil](http://www.laravel.com.br/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
-* [Laravel Turkey](http://www.laravel.gen.tr/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravelturkiye/))
-* [Laravel Nigeria](http://www.laranaija.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravelnigeria/))
+* [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
+* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
+* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
-* [Laravel Taiwan](https://laravel.tw/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Taiwan](https://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
-* [Laravel Korea](https://www.laravel.co.kr/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravelkorea/))
-* [Laravel Japan](http://laravel.jp/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laravel.jp/))
-* [Laravel Tokyo](https://laravel.tokyo/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook group](https://www.facebook.com/groups/laraveltokyo/))
+* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
+* [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
+* [Laravel Tokyo](https://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
 * [Laravel Malaysia](https://www.facebook.com/groups/laravel.my/)
 * [Laravel Algeria Facebook Group](https://www.facebook.com/groups/LaravelAlgeria/)
-* [Laravel Greece](http://www.laravel.gr) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook page](https://www.facebook.com/laravelgr))
-* [Laravel Middle East](http://laravelme.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Facebook page](https://www.facebook.com/laravelme))
+* [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
+* [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
 * [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 * [Laravel Italy](http://laravel-italia.it)
 * [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 * [Laravel Hungary](https://laravel.hu)
-* [Laravel Cameroon](https://laravelcm.com/) (https://github.com/chiraggude/awesome-laravel/blob/master/[Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
+* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 
 ##### Meetups
 
@@ -545,7 +545,7 @@ Found an awesome package, blog, course or video? Send me a pull request!
 
 * Please make an individual pull request for each suggestion
 * Make sure the Travis tests pass on your pull request
-* Use the following format for links: \[Resource\]\(https://github.com/chiraggude/awesome-laravel/blob/master/URL\)
+* Use the following format for links: \[Resource\]\(URL\)
 * Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
 * New categories or improvements to the existing categorization are welcome
 

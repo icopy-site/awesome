@@ -1,5 +1,5 @@
 
-![](https://github.com/ianstormtaylor/awesome-heroku/blob/master/images/banner.png)
+![](https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/banner.png)
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -40,7 +40,7 @@ How to architect your Heroku projects...
 
 ## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/blogs.png" /> Blogs
 
-Blogs around the internet that often (https://github.com/ianstormtaylor/awesome-heroku/blob/master/or exclusively) write about Heroku...
+Blogs around the internet that often (or exclusively) write about Heroku...
 
 - `blog` [Heroku Blog](https://blog.heroku.com) — the official Heroku blog.
 

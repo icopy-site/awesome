@@ -49,7 +49,7 @@ With more than 200 practical recipes, this book helps you perform data analysis 
 
 <img src="http://ecx.images-amazon.com/images/I/4184UusYfJL._SX345_BO1,204,203,200_.jpg" width="200px"/>
 
-'Learn R in a Day' provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (https://github.com/RomanTsegelskyi/rbooks/blob/master/loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (https://github.com/RomanTsegelskyi/rbooks/blob/master/with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course. 
+'Learn R in a Day' provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course. 
 
 #### R Inferno [[Online]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free* 
 
@@ -114,7 +114,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 <img src="http://ecx.images-amazon.com/images/I/51SklHvc%2BZL._SX397_BO1,204,203,200_.jpg" width="200px"/>
 
-Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (https://github.com/RomanTsegelskyi/rbooks/blob/master/such as A/B tests), build predictive models, and present results to audiences of all levels.
+Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
 
 This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
 

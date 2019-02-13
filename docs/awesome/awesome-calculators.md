@@ -28,16 +28,16 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator ++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator&hl=en) - Scientific calculator with modern, Google Material Design interface.
 - [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) - Official calculator from Google.
 - [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en) - New, official calculator from Samsung.
-- [Photomath (https://github.com/xxczaki/awesome-calculators/blob/master/Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
-- [MyScript Calculator (https://github.com/xxczaki/awesome-calculators/blob/master/Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en) - Perform mathematical operations naturally using your handwriting.
+- [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
+- [MyScript Calculator (Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en) - Perform mathematical operations naturally using your handwriting.
 - [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
 - [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 
 ### Windows
-- [HiPER Scientific Calculator (https://github.com/xxczaki/awesome-calculators/blob/master/Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
-- [in-line calculator (https://github.com/xxczaki/awesome-calculators/blob/master/AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
+- [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
+- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
 - [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5) - Official Microsoft calculator for Windows 10.
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
 - [GraphCal](http://www.graphcalc.com/) - Professional calculator with unique features.

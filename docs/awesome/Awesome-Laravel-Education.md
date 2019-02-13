@@ -211,7 +211,7 @@ These guys below contributed with content, translations and more. What are you w
 
 - Advanced
   - Article and Tags
-    - [Laracasts: Many to Many Relations (https://github.com/fukuball/Awesome-Laravel-Education/blob/master/With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
+    - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
     - [Laracasts: Selecting Tags From the UI](https://laracasts.com/series/laravel-5-fundamentals/episodes/22)
     - [Laracasts: Syncing Tags](https://laracasts.com/series/laravel-5-fundamentals/episodes/23)
     - [Laracasts: Enhancing Select Elements](https://laracasts.com/series/laravel-5-fundamentals/episodes/24) \#Front-End \#Elixir
@@ -348,12 +348,12 @@ These guys below contributed with content, translations and more. What are you w
 
 ## License
 
-The https://github.com/fukuball/Awesome-Laravel-Education/blob/master/MIT License (https://github.com/fukuball/Awesome-Laravel-Education/blob/master/MIT)
+The MIT License (MIT)
 
 Copyright (c) 2015 fukuball
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (https://github.com/fukuball/Awesome-Laravel-Education/blob/master/the "Software"), to deal
+of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is

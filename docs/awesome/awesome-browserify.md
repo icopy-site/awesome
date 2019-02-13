@@ -26,7 +26,7 @@ Please help improve this list by [contributing](https://github.com/browserify/aw
 
 ## About
 
-Browserify lets you `require(https://github.com/browserify/awesome-browserify/blob/master/'modules')` in the browser by bundling up all of your dependencies.
+Browserify lets you `require('modules')` in the browser by bundling up all of your dependencies.
 
 You can use a node-style `require()` to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the `require()` calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
@@ -48,7 +48,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 - [Hello World with Browserify](http://browserify.org/#middle-section)
 - [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
-- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (https://github.com/browserify/awesome-browserify/blob/master/Chinese)
+- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
 ## Articles
 
@@ -68,7 +68,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Videos
 
-- [James Halliday (https://github.com/browserify/awesome-browserify/blob/master/substack) - LXJS 2013 - Modularidade para todos](https://www.youtube.com/watch?v=DCQNm6yiZh0)
+- [James Halliday (substack) - LXJS 2013 - Modularidade para todos](https://www.youtube.com/watch?v=DCQNm6yiZh0)
 - [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U) by [shama](https://github.com/shama/)
 - [Transform your Bundles with Browserify](https://www.youtube.com/watch?v=Uk2bgp8OLT8) by [shama](https://github.com/shama/)
 

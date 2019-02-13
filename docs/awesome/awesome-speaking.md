@@ -14,10 +14,10 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 
 ## Books
-* [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (https://github.com/matteofigus/awesome-speaking/blob/master/O'Reilly)
-* [Presentation Patterns](http://presentationpatterns.com/) - by **Neal Ford**, **Matthew McCullough**, and **Nate Schutta** (https://github.com/matteofigus/awesome-speaking/blob/master/Addison-Wesley)
+* [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
+* [Presentation Patterns](http://presentationpatterns.com/) - by **Neal Ford**, **Matthew McCullough**, and **Nate Schutta** (Addison-Wesley)
 * [Presentation Zen Design](http://www.amazon.com/gp/product/0321668790) - by Garr Reynolds. How to design your presentation.
-* [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (https://github.com/matteofigus/awesome-speaking/blob/master/Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
+* [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
 
 ## CFP
 

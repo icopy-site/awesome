@@ -4,7 +4,7 @@
 
 > A curated list of tools, articles, books, and any other resource related to [code review](https://en.wikipedia.org/wiki/Code_review)
 
-Code review is the systematic examination (https://github.com/joho/awesome-code-review/blob/master/sometimes referred to as peer review) of computer source code.
+Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
 ## Contents
 
@@ -16,11 +16,11 @@ Code review is the systematic examination (https://github.com/joho/awesome-code-
 
 ## Academic Papers
 
-- [An experiment to assess the cost-benefits of code inspections in large scale software development (https://github.com/joho/awesome-code-review/blob/master/Porter, Siy, Toman & Votta, 1997)](https://github.com/joho/awesome-code-review/blob/master/http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) Early paper that tested a range of then-current review techniques including multi-stage review and code-review-via-meeting that found you can get most of the benefit in an offline, single pass, with two reviewers.
-- [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (https://github.com/joho/awesome-code-review/blob/master/Perpich, Perry, Porter, Votta & Wade, 1997)](https://github.com/joho/awesome-code-review/blob/master/https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
-- [Design and Code Inspections to Reduce Errors in Program Development (https://github.com/joho/awesome-code-review/blob/master/Fagan, 2002)](https://github.com/joho/awesome-code-review/blob/master/https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Using a more formal process, particularly with defined roles for each participant and drive a big increase in error detection during review.
-- [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (https://github.com/joho/awesome-code-review/blob/master/Barnett et al. 2015)](https://github.com/joho/awesome-code-review/blob/master/http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) (https://github.com/joho/awesome-code-review/blob/master/[summary on the morning paper](https://github.com/joho/awesome-code-review/blob/master/https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/)) Research into automatically splitting big diffs into smaller diffs leading to better reviews.
-- [Work Practices and Challenges in Pull-Based Development (https://github.com/joho/awesome-code-review/blob/master/Gousios et al. 2015)](https://github.com/joho/awesome-code-review/blob/master/https://sback.it/publications/icse2016b.pdf) (https://github.com/joho/awesome-code-review/blob/master/[summary on the morning paper](https://github.com/joho/awesome-code-review/blob/master/https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
+- [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) Early paper that tested a range of then-current review techniques including multi-stage review and code-review-via-meeting that found you can get most of the benefit in an offline, single pass, with two reviewers.
+- [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
+- [Design and Code Inspections to Reduce Errors in Program Development (Fagan, 2002)](https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Using a more formal process, particularly with defined roles for each participant and drive a big increase in error detection during review.
+- [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (Barnett et al. 2015)](http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/)) Research into automatically splitting big diffs into smaller diffs leading to better reviews.
+- [Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015)](https://sback.it/publications/icse2016b.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
 
 ## Articles
 

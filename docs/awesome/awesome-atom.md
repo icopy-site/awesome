@@ -63,7 +63,7 @@ snippets for a specific language or file format.
 ## Lint
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
-> lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (https://github.com/mehcode/awesome-atom/blob/master/likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
+> lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 To enable linting, you'll need the general [linter](https://atom.io/packages/linter) which provides the interface for the provider plugins for specific languages. The full list of current plugins can be found at [atomlinter.github.io](http://atomlinter.github.io/), a few examples being:
 
@@ -132,8 +132,8 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
-HTML (https://github.com/mehcode/awesome-atom/blob/master/including [Handlebars](http://handlebarsjs.com/)),
-CSS (https://github.com/mehcode/awesome-atom/blob/master/including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
+HTML (including [Handlebars](http://handlebarsjs.com/)),
+CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
 
 #### [Code Peek](https://atom.io/packages/code-peek)
@@ -222,7 +222,7 @@ JavaScript, and much more in Atom.
 
 #### [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
 > A terminal package for Atom, complete with themes, API and more for PlatformIO IDE.
-> This is a maintained (https://github.com/mehcode/awesome-atom/blob/master/as of 2017-07-13) fork of terminal-plus.  
+> This is a maintained (as of 2017-07-13) fork of terminal-plus.  
 
 ![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
 
@@ -235,7 +235,7 @@ JavaScript, and much more in Atom.
 ![Test Navigator Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
 
 #### [Themer](https://themer.mjswensen.com)
-> Generate Atom syntax/UI theme packages (https://github.com/mehcode/awesome-atom/blob/master/and matching themes for your other tools) from your favorite colors.
+> Generate Atom syntax/UI theme packages (and matching themes for your other tools) from your favorite colors.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.

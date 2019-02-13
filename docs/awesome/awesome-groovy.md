@@ -28,7 +28,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
-* [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (https://github.com/kdabir/awesome-groovy/blob/master/Previously known as GVM)
+* [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
@@ -46,7 +46,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
-* [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (https://github.com/kdabir/awesome-groovy/blob/master/Tomcat, JBoss, etc.).
+* [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 * [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
@@ -55,7 +55,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
-* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (https://github.com/kdabir/awesome-groovy/blob/master/abandoned)
+* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
 * [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
 ## Rich Application
@@ -97,7 +97,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
-* [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (https://github.com/kdabir/awesome-groovy/blob/master/Lazy Groovy Generators)
+* [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
@@ -112,7 +112,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## File Format DSL
 * [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
-* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (https://github.com/kdabir/awesome-groovy/blob/master/XSLX)
+* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 * [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools

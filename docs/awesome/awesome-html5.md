@@ -11,7 +11,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
   - [Picture in Picture](#picture-in-picture)
   - [Speech synthesis](#speech-synthesis)
   - [Voice recognition](#voice-recognition)
-  - [Virtual Reality (https://github.com/diegocard/awesome-html5/blob/master/VR)](https://github.com/diegocard/awesome-html5/blob/master/#virtual-reality)
+  - [Virtual Reality (VR)](#virtual-reality)
   - [Web animations](#web-animations)
 - [Elements](#elements)
   - [Canvas](#canvas)
@@ -94,7 +94,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
 * [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
 * [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
-* [Free voice recognition library (https://github.com/diegocard/awesome-html5/blob/master/annyang)](https://www.talater.com/https://github.com/diegocard/awesome-html5/blob/master/annyang/)
+* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
 
 ### Virtual Reality
 
@@ -177,7 +177,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### File
 
-* [Using files from web applications (https://github.com/diegocard/awesome-html5/blob/master/MDN)](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+* [Using files from web applications (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 * [Reading local files in JavaScript](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
 * [File API Draft](https://w3c.github.io/FileAPI/)
 * [File system API](http://www.w3.org/TR/file-system-api/)
@@ -193,7 +193,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### requestAnimationFrame
 
-* [Using requestAnimationFrame (https://github.com/diegocard/awesome-html5/blob/master/CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
+* [Using requestAnimationFrame (CSS Tricks)](https://css-tricks.com/using-requestanimationframe/)
 * [Great article by Paul Irish](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.9gev5fdub)
 
 ### Web payments
@@ -226,7 +226,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Shadow DOM
 
 * [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
-* [What's New in Shadow DOM v1 (https://github.com/diegocard/awesome-html5/blob/master/by examples)](https://hayato.io/2016/shadowdomv1/)
+* [What's New in Shadow DOM v1 (by examples)](https://hayato.io/2016/shadowdomv1/)
 
 ### Data Binding
 
@@ -255,7 +255,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [ServiceWorkies - Learn SWs playing a game](https://serviceworkies.com/)
 * [The Service Worker Cookbook](https://serviceworke.rs/)
 * [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
-* [Making a Service Worker: a case study (https://github.com/diegocard/awesome-html5/blob/master/Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+* [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
 * [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
@@ -263,13 +263,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Offline caching
 
 * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-* [Instant-loading Offline-first (https://github.com/diegocard/awesome-html5/blob/master/Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
-* [Offline Storage for Progressive Web Apps (https://github.com/diegocard/awesome-html5/blob/master/article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
+* [Instant-loading Offline-first (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=qDJAz3IIq18)
+* [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 * [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner/)
 
 ### Push Notifications
 
-* [Web Push Notifications (https://github.com/diegocard/awesome-html5/blob/master/Google's Web fundamentals)](https://developers.google.com/web/fundamentals/push-notifications/)
+* [Web Push Notifications (Google's Web fundamentals)](https://developers.google.com/web/fundamentals/push-notifications/)
 * [Push API W3C draft](http://w3c.github.io/push-api/)
 * [Notifications API spec](https://notifications.spec.whatwg.org/)
 
@@ -283,10 +283,10 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Performance
 
-* [Accelerated Mobile Pages (https://github.com/diegocard/awesome-html5/blob/master/AMP)](https://www.ampproject.org/learn/overview/)
+* [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/learn/overview/)
 * [Google developers best practices](https://developers.google.com/speed/docs/insights/rules)
 * [Optimizing performance from Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-* [Resource hints draft (https://github.com/diegocard/awesome-html5/blob/master/preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
+* [Resource hints draft (preconnect and preload)](http://www.w3.org/TR/2014/WD-resource-hints-20141021/)
 * [Prefetching and prerendeding](https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d)
 * [Image compression](https://www.html5rocks.com/en/tutorials/speed/img-compression/)
 * [Text compression](https://www.html5rocks.com/en/tutorials/speed/txt-compression/)
@@ -294,7 +294,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Mobile
 
-* [The Web App Manifest (https://github.com/diegocard/awesome-html5/blob/master/Google's fundamentals)](https://developers.google.com/web/fundamentals/web-app-manifest/)
+* [The Web App Manifest (Google's fundamentals)](https://developers.google.com/web/fundamentals/web-app-manifest/)
 * [Field guide to web applications](https://www.html5rocks.com/webappfieldguide/toc/index/)
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
@@ -372,13 +372,13 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ### Websites
 
-* [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) (https://github.com/diegocard/awesome-html5/blob/master/allows collaborative modification of content like wiki)
-* [HTML5 Rocks](https://www.html5rocks.com/en/) (https://github.com/diegocard/awesome-html5/blob/master/news, tutorials and updates)
-* [HTML5 Gallery](http://html5gallery.com/) (https://github.com/diegocard/awesome-html5/blob/master/a showcase of sites using HTML5 markup and API's)
+* [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) (allows collaborative modification of content like wiki)
+* [HTML5 Rocks](https://www.html5rocks.com/en/) (news, tutorials and updates)
+* [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
-* [HTML5 Please](https://html5please.com/) (https://github.com/diegocard/awesome-html5/blob/master/Know when HTML5 feature are ready to use)
-* [Keen HTML](https://keenhtml.com) (https://github.com/diegocard/awesome-html5/blob/master/Free interactive lessons to learn HTML)
+* [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
+* [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 
 ### Weekly news
 

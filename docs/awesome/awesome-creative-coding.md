@@ -1,6 +1,6 @@
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding)
+## [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png">](https://raw.githubusercontent.com/terkelg/awesome-creative-coding)
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
 
@@ -193,8 +193,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
 - [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
 - [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
-- [Turtletoy](https://github.com/terkelg/awesome-creative-coding/blob/master/https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (https://github.com/terkelg/awesome-creative-coding/blob/master/Javascript)
-- [ShaderGif](https://github.com/terkelg/awesome-creative-coding/blob/master/https://shadergif.com/) - Open source home for art made with code (https://github.com/terkelg/awesome-creative-coding/blob/master/WebGL1/2, JavaScript Canvas & P5.js).
+- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
+- [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 
 ### Hardware
 
@@ -220,7 +220,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
-- [basil.js](https://github.com/terkelg/awesome-creative-coding/blob/master/http://basiljs.ch/) - Scripting (https://github.com/terkelg/awesome-creative-coding/blob/master/JS) in InDesign for designers and artists in the spirit of Processing.
+- [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 
 
 ## Learning Resources
@@ -271,7 +271,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
-- [Ray marching (https://github.com/terkelg/awesome-creative-coding/blob/master/with THREE.js)](https://github.com/terkelg/awesome-creative-coding/blob/master/http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
+- [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
 - [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
@@ -285,7 +285,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
 - [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
-- [Three.js sine animation](https://github.com/terkelg/awesome-creative-coding/blob/master/http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. (https://github.com/terkelg/awesome-creative-coding/blob/master/[oF version](https://github.com/terkelg/awesome-creative-coding/blob/master/http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
+- [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
 - [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
@@ -412,7 +412,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
 - [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
-- [Mathematics of Animation](https://github.com/terkelg/awesome-creative-coding/blob/master/https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation (https://github.com/terkelg/awesome-creative-coding/blob/master/[repo](https://github.com/terkelg/awesome-creative-coding/blob/master/https://github.com/winkerVSbecks/mathematics-of-animation)).
+- [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
@@ -426,13 +426,13 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
 - [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 - [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
-- [Linear Interpolation](https://github.com/terkelg/awesome-creative-coding/blob/master/https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (https://github.com/terkelg/awesome-creative-coding/blob/master/also known as mix/lerp).
+- [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
 
 ## Machine learning • Computer Vision • Ai
 
 - [ml4a](http://ml4a.github.io/) - Machine learning for artists.
-- [Keras.js](https://github.com/terkelg/awesome-creative-coding/blob/master/https://transcranial.github.io/keras-js/) - Run Keras models (https://github.com/terkelg/awesome-creative-coding/blob/master/tensorflow backend) in the browser, with GPU support.
+- [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
@@ -473,7 +473,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Events
 
-- [OFFF Festival](https://github.com/terkelg/awesome-creative-coding/blob/master/http://offf.barcelona/) - Digital design festival (https://github.com/terkelg/awesome-creative-coding/blob/master/*Online Flash Film Festival*).
+- [OFFF Festival](http://offf.barcelona/) - Digital design festival (*Online Flash Film Festival*).
 - [Resonate](http://resonate.io/) - Festical in Belgrade about cutting edge music, visual arts and digital culture.
 - [Gray Area Festival](http://grayareafestival.io/) - Creative coding, art and technology festival.
 - [Signal Festival](http://www.signalfestival.com/) - Showcase of light art and emerging technologies in Prague, the Czech Republic.
@@ -491,7 +491,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 - [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
-- [Residencies, Fellowships, Summer Schools](https://github.com/terkelg/awesome-creative-coding/blob/master/https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (https://github.com/terkelg/awesome-creative-coding/blob/master/Navigate with the bottom left tabs).
+- [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
 
 ## Blogs • Websites
 

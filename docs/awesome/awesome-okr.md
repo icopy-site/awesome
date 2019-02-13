@@ -75,7 +75,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered): Interesting discussion in Quora about how people implement OKRs.
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI): How to connect OKRs and KPIs.
-- [How does the process of developing and prioritizing OKRs (https://github.com/domenicosolazzo/awesome-okr/blob/master/objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
+- [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
 - [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
 
 ## Guides
@@ -83,7 +83,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 These are free ebooks and guides about OKRs.
 
 - [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/): Official guide about OKR by Google
-- [Definitive guide to OKRs (https://github.com/domenicosolazzo/awesome-okr/blob/master/Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/): https://github.com/domenicosolazzo/awesome-okr/blob/master/Ebook describing how to set OKRs
+- [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/): Ebook describing how to set OKRs
 - [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/): 10 tips about how to set OKRs like Google
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/): Simple checklist about how to set OKRs
 
@@ -92,7 +92,7 @@ These are free ebooks and guides about OKRs.
 These are interesting research papers connected to OKRs
 
 - [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract): The concept and measurement of commitment to goals, a key aspect of goal-setting theory, are discussed. The strength of the relationship between commitment and performance is asserted to depend on the amount of variance in commitment.
-- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (https://github.com/domenicosolazzo/awesome-okr/blob/master/and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual.
+- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual.
 
 ## Templates
 

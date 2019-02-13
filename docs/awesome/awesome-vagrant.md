@@ -15,11 +15,11 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *Where to find OS boxes ?*
 
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (https://github.com/iJackUA/awesome-vagrant/blob/master/also premium features of private collaboration and sharing).
+* [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
 * [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
-* [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (https://github.com/iJackUA/awesome-vagrant/blob/master/and many others).
+* [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
 ## Provisioning
 
@@ -32,20 +32,20 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
 * [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
-* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (https://github.com/iJackUA/awesome-vagrant/blob/master/according to VB version).
+* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
 * [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
-* [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (https://github.com/iJackUA/awesome-vagrant/blob/master/apt-get, npm, etc.) cache among similar VM instances.
+* [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
-* [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (https://github.com/iJackUA/awesome-vagrant/blob/master/commit/rollback while experimenting with software stack).
-* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(https://github.com/iJackUA/awesome-vagrant/blob/master/like Red Hat Enterprise Linux).
-* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (https://github.com/iJackUA/awesome-vagrant/blob/master/ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
+* [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
+* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
+* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
 * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
 
 ## Helpers / Tools
 
 * [Packer](https://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
-* [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (https://github.com/iJackUA/awesome-vagrant/blob/master/and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
+* [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) - simple command-line tool to manage multiple vagrant boxes
 

@@ -52,8 +52,8 @@ Pull requests are more than welcome.
 #### Code
 ###### Rippled - The Guy!
 - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
-- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
-- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/validator)](https://github.com/WietseWind/docker-rippled-https://github.com/vhpoet/awesome-ripple/blob/master/validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledhttps://github.com/vhpoet/awesome-ripple/blob/master/validator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-https://github.com/vhpoet/awesome-ripple/blob/master/validator-digitalocean-7e5fca1c3d77)
+- [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+- [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
@@ -92,8 +92,8 @@ Pull requests are more than welcome.
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
-- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (https://github.com/vhpoet/awesome-ripple/blob/master/with currency conversion)
-- [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (https://github.com/vhpoet/awesome-ripple/blob/master/even on dumbphones)
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+- [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (even on dumbphones)
 
 #### Hosted Tools
 ###### Clients
@@ -113,7 +113,7 @@ Pull requests are more than welcome.
 
 ###### Visualizations
 - [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
-- [Ripple Live (https://github.com/vhpoet/awesome-ripple/blob/master/GateHub)](https://gatehub.net/live)
+- [Ripple Live (GateHub)](https://gatehub.net/live)
 - [Rich list, ledger stats & XRP distribution](https://ledger.exposed)
 
 ###### Other tools

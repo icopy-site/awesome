@@ -4,7 +4,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 
 ## peer-to-peer
 - [peerwiki](https://www.npmjs.com/package/peerwiki) - all of wikipedia on bittorrent
-- [simple-peer](https://www.npmjs.com/package/simple-peer) - send video/voice/data p2p in the browser (https://github.com/feross/awesome-mad-science/blob/master/with webrtc)
+- [simple-peer](https://www.npmjs.com/package/simple-peer) - send video/voice/data p2p in the browser (with webrtc)
 - [torrent-docker](https://www.npmjs.com/package/torrent-docker) - realtime boot of remote docker images over bittorrent
 - [torrent-mount](https://www.npmjs.com/package/torrent-mount) - mount a torrent as a filesystem
 - [webtorrent](https://www.npmjs.com/package/webtorrent) - streaming torrent client for node & the browser
@@ -21,7 +21,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [fuse4js](https://www.npmjs.com/package/fuse4js) - write filesystem driver in js
 
 ## geometry
-- [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shapes (https://github.com/feross/awesome-mad-science/blob/master/think "concave" hull)
+- [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shapes (think "concave" hull)
 - [box-intersect](https://www.npmjs.com/package/box-intersect) - fast any dimensional box intersection detection
 - [convex-hull](https://www.npmjs.com/package/convex-hull) - robust any dimensional convex hull
 - [delaunay-triangulate](https://www.npmjs.com/package/delaunay-triangulate) - robust any dimensional delaunay triangulation
@@ -78,7 +78,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 
 - [notevil](https://www.npmjs.com/package/notevil) - javascript javascript interpreter, useful for running untrusted code safely.
 
-## mad scientists (https://github.com/feross/awesome-mad-science/blob/master/people)
+## mad scientists (people)
 - [Mikola Lysenko](https://www.npmjs.com/~mikolalysenko) - linear algebra, computational geometry, WebGL
 - [Dominic Tarr](https://www.npmjs.com/~dominictarr) - streams, distributed systems
 - [Elijah Insua](https://www.npmjs.com/~tmpvar) - NC machines, CAD/CAM

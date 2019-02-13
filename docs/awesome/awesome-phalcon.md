@@ -84,7 +84,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon Framework
-* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (https://github.com/phalcon/awesome-phalcon/blob/master/Acl, Auth, Security)
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
@@ -140,7 +140,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
-* [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (https://github.com/phalcon/awesome-phalcon/blob/master/built for Phalcon)
+* [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
 ## DI
@@ -173,7 +173,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - Preserve Form Data after a `POST` and redirect
 * [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon Framework
-* [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (https://github.com/phalcon/awesome-phalcon/blob/master/Bootstrap, Foundation, Pure, etc.)
+* [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
 * [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
 
 
@@ -251,7 +251,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Tools for provisioning a system for a Phalcon application.*
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
-* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (https://github.com/phalcon/awesome-phalcon/blob/master/provides PHP 5.6 and PHP 7.0 packages)
+* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
 
 ## RESTful
@@ -271,7 +271,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
 * [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package
-* [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (https://github.com/phalcon/awesome-phalcon/blob/master/multi module), Angular and Bootstrap (https://github.com/phalcon/awesome-phalcon/blob/master/using Yeoman, Bower and Grunt)
+* [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
 ## Routing

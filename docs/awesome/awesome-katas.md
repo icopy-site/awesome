@@ -49,11 +49,11 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
 ## [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas)
-  - [Kata 1: (https://github.com/gamontal/awesome-katas/blob/master/Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
-  - [Kata 2: (https://github.com/gamontal/awesome-katas/blob/master/EventDispatcher) Event Listener / Event Dispatcher](https://github.com/devdrops/Katas/tree/kata-event-listener)
-  - [Kata 3: (https://github.com/gamontal/awesome-katas/blob/master/Form) Inherit data / Virtual https://github.com/gamontal/awesome-katas/blob/master/Form](https://github.com/devdrops/Katas/tree/kata-inherit-data)
-  - [Kata 4: (https://github.com/gamontal/awesome-katas/blob/master/Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file)
-  - [Kata 5: (https://github.com/gamontal/awesome-katas/blob/master/Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
+  - [Kata 1: (Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
+  - [Kata 2: (EventDispatcher) Event Listener / Event Dispatcher](https://github.com/devdrops/Katas/tree/kata-event-listener)
+  - [Kata 3: (Form) Inherit data / Virtual Form](https://github.com/devdrops/Katas/tree/kata-inherit-data)
+  - [Kata 4: (Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file)
+  - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
 
 ## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
   - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata)
@@ -92,7 +92,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [incremental_katas](https://github.com/Gianfrancoalongi/incremental_katas)
   - [CLI Arguments Parser Kata](https://github.com/ivoputzer/cli-args-parser-kata)
   - [Git katas](https://github.com/praqma-training/gitkatas)
-  - [Pdt256 katas (https://github.com/gamontal/awesome-katas/blob/master/php, go, python, java, haskell, typescript)](https://github.com/pdt256/kata)
+  - [Pdt256 katas (php, go, python, java, haskell, typescript)](https://github.com/pdt256/kata)
   - [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata)
   
 ## Contribution

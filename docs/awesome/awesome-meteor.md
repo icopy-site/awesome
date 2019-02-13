@@ -78,7 +78,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
-* [kadira:blaze-layout](https://github.com/kadirahq/blaze-layout) - Layout Manager for Blaze (https://github.com/Urigo/awesome-meteor/blob/master/works well with Meteor FlowRouter)
+* [kadira:blaze-layout](https://github.com/kadirahq/blaze-layout) - Layout Manager for Blaze (works well with Meteor FlowRouter)
 * [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor
 * [themeteorites:blaze-magic-events](https://github.com/themeteorites/blaze-magic-events) - A new way of binding event handlers to html elements for Meteor's Blaze
 * [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) - MVVM for Meteor
@@ -150,7 +150,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Search Engine Optimization tools*
 
-* [ostrio:spiderable-middleware](https://github.com/VeliovGroup/spiderable-middleware/) - Prerendering (https://github.com/Urigo/awesome-meteor/blob/master/*a.k.a. Spiderable*) with support of ES6 (https://github.com/Urigo/awesome-meteor/blob/master/ECMAScript2015) - Meteor app crawled perfectly by search engines.
+* [ostrio:spiderable-middleware](https://github.com/VeliovGroup/spiderable-middleware/) - Prerendering (*a.k.a. Spiderable*) with support of ES6 (ECMAScript2015) - Meteor app crawled perfectly by search engines.
 
 ## Files
 
@@ -158,7 +158,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads.
 * [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
-* [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (https://github.com/Urigo/awesome-meteor/blob/master/xlsx, xls).
+* [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls).
 
 ## Search, sort and paginate
 
@@ -167,7 +167,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) - Publish the count of a cursor, in real time.
 * [percolate:find-from-publication](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
 * [meteorhacks:search-source](https://github.com/meteorhacks/search-source) - Reactive Data Source for Search
-* [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (https://github.com/Urigo/awesome-meteor/blob/master/+ Elastic Search Support)
+* [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (+ Elastic Search Support)
 * [alethes:pages](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination
 * [Discover Meteor Blog about pagination](https://www.discovermeteor.com/blog/pagination-problems-meteor/)
 
@@ -177,7 +177,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
 * [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor.
-* [raix:push](https://github.com/raix/push) - Push notifications for cordova (https://github.com/Urigo/awesome-meteor/blob/master/ios, android) browser (https://github.com/Urigo/awesome-meteor/blob/master/Chrome, Safari, Firefox).
+* [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
@@ -196,7 +196,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Analytics*
 
-* [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (https://github.com/Urigo/awesome-meteor/blob/master/and more) integration for meteor.
+* [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
 
 ## Cron Jobs
 
@@ -204,7 +204,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron) - Cron system for Meteor. It supports syncronizing jobs between multiple processes.
 * [vsivsi:job-collection](https://github.com/vsivsi/meteor-job-collection/) - A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere.
-* [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (https://github.com/Urigo/awesome-meteor/blob/master/NodeJS) instances.
+* [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - Package with similar API to native `setTimeout` and `setInterval` methods, but synced between all running Meteor (NodeJS) instances.
 
 ## Debugging Tools
 
@@ -259,7 +259,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Angular](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
 * [Angular 2](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us and Meteor
-* [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (https://github.com/Urigo/awesome-meteor/blob/master/plus single-file components & apollo support)
+* [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
 
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - A tool to bundle the client part of a Meteor app.
 * [Asteroid](https://github.com/mondora/asteroid) - An alternative client for a Meteor backend
@@ -315,7 +315,7 @@ Where to discover new Meteor things.
 * [Official Guide](http://guide.meteor.com/)
 * [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
 * [BulletProof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production, by Arunoda Susiripala
-* [Meteorpedia](http://www.meteorpedia.com) (https://github.com/Urigo/awesome-meteor/blob/master/[infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
+* [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 * [DiscoverMeteor Encyclopedia](https://www.discovermeteor.com/encyclopedia)
 * [Roadmap](https://trello.com/b/hjBDflxp/meteor-roadmap)
 * [Meetups](http://meteor.meetup.com/)

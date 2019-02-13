@@ -4,7 +4,7 @@
 
 > A curated list of awesome tools, libraries, and resources for the Qt framework.
 
-[Qt](https://www.qt.io) is a powerful cross-platform application development framework, for use primarily (https://github.com/JesseTG/awesome-qt/blob/master/but not exclusively) in C++.  It's great for GUI applications, but can be used for many other things as well.
+[Qt](https://www.qt.io) is a powerful cross-platform application development framework, for use primarily (but not exclusively) in C++.  It's great for GUI applications, but can be used for many other things as well.
 
 Contributions are welcome!
 
@@ -38,7 +38,7 @@ Contributions are welcome!
 - [Official Website](https://www.qt.io) - The official website for the Qt framework.
 - [Qt Documentation](https://doc.qt.io) - Official Qt documentation.  Massive and comprehensive.
 - [Qt Newsletters](https://www.qt.io/newsletters) - The best of Qt, straight to your spam filter.
-- [Qt Bug Tracker](https://bugreports.qt.io) - If you think you've found a bug with Qt or one of its related projects, report it here (https://github.com/JesseTG/awesome-qt/blob/master/or see if someone else already has).
+- [Qt Bug Tracker](https://bugreports.qt.io) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
 - [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
 - [Source Code](https://code.qt.io) - Browse the various source trees that comprise the Qt project.  Has mirrors at several GitHub organizations:
   - Qt [:octocat:](https://github.com/qt)
@@ -47,7 +47,7 @@ Contributions are welcome!
 
 ## Communities
 
-If you build it, they will come.  This section describes aggregations of Qt users who share knowledge and code with one another.  The most popular and active communities are listed in this section, but you can find a more comprehensive list [here](https://wiki.qt.io/Online_Communities) (https://github.com/JesseTG/awesome-qt/blob/master/that includes several in other languages) if you'd prefer.
+If you build it, they will come.  This section describes aggregations of Qt users who share knowledge and code with one another.  The most popular and active communities are listed in this section, but you can find a more comprehensive list [here](https://wiki.qt.io/Online_Communities) (that includes several in other languages) if you'd prefer.
 
 ### Official
 
@@ -69,7 +69,7 @@ A good developer writes his or her own tools.  A great one uses tools others wro
 
 ### Official Tools
 
-The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (https://github.com/JesseTG/awesome-qt/blob/master/as well as the star players that do).  For the purpose of this section, "tool" refers to Qt-centric utilities whose code does *not* get embedded within your application (https://github.com/JesseTG/awesome-qt/blob/master/but their output might).
+The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).  For the purpose of this section, "tool" refers to Qt-centric utilities whose code does *not* get embedded within your application (but their output might).
 
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
   - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
@@ -97,16 +97,16 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 
 This section describes software that enables creation of Qt software in a primary language other than C++.  Libraries that allow run-time scripting in a Qt application are listed under [Integrations](#integrations).
 
-- [Python (https://github.com/JesseTG/awesome-qt/blob/master/via PyQt)](https://riverbankcomputing.com/software/pyqt) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
-- [Python (https://github.com/JesseTG/awesome-qt/blob/master/via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
-- [Ring (https://github.com/JesseTG/awesome-qt/blob/master/via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
-- [Mono/.NET languages (https://github.com/JesseTG/awesome-qt/blob/master/via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - Experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
+- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
+- [Python (via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
+- [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
+- [Mono/.NET languages (via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - Experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
 
 See these [these](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1) [three](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-2) [articles](https://wiki.qt.io/Category:LanguageBindings) if you want more.
 
 ## Libraries
 
-This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (https://github.com/JesseTG/awesome-qt/blob/master/e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (https://github.com/JesseTG/awesome-qt/blob/master/e.g. scripting languages, clients for REST APIs, implementations of established protocols).
+This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
 
 
 ### Integrations
@@ -114,7 +114,7 @@ This section describes two kinds of third-party libraries; those that provide th
 For the purpose of this section, an "Integration"-focused library does one of the following:
 
 1. Serves as a client for an established Web service.
-2. Wraps another library in a Qt-friendly manner as more than just an implementation detail (https://github.com/JesseTG/awesome-qt/blob/master/i.e. it tries to mimic the wrapped API).
+2. Wraps another library in a Qt-friendly manner as more than just an implementation detail (i.e. it tries to mimic the wrapped API).
 
 
 - [mupdf-qt](https://xiangxw.github.io/mupdf-qt) [:octocat:](https://github.com/xiangxw/mupdf-qt) - Qt wrapper for the [MuPDF](https://mupdf.com) PDF viewer.
@@ -129,7 +129,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 
 ### New Functionality
 
-- [Communi](https://communi.github.io) [:octocat:](https://github.com/communi/libcommuni) - Cross-platform IRC framework.  We've got enough IRC clients out there already, but I suppose this could also be used to implement a chat function in your application (https://github.com/JesseTG/awesome-qt/blob/master/e.g. for community support).
+- [Communi](https://communi.github.io) [:octocat:](https://github.com/communi/libcommuni) - Cross-platform IRC framework.  We've got enough IRC clients out there already, but I suppose this could also be used to implement a chat function in your application (e.g. for community support).
 - [cutelyst](http://cutelyst.org) [:octocat:](https://github.com/cutelyst/cutelyst) - Web framework that takes some ideas from Perl's Catalyst framework.
 - [DiceParser](https://github.com/Rolisteam/DiceParser) [:octocat:](https://github.com/Rolisteam/DiceParser) - Dice Roller framework based on its own syntax. 
 - [DOtherSide](https://github.com/filcuc/DOtherSide) [:octocat:](https://github.com/filcuc/DOtherSide) - Binding for QML in C, primarily designed as an API for *other* languages to support QML.
@@ -145,7 +145,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [qt-maybe](https://github.com/robertknight/qt-maybe) [:octocat:](https://github.com/robertknight/qt-maybe) - Fans of type theory will enjoy these sum and optional types.
 - [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat:](https://github.com/robertknight/qt-mustache) - Render [Mustache](https://mustache.github.io) templates.
 - [QtAV](http://www.qtav.org) [:octocat:](https://github.com/wang-bin/QtAV) - Actively developed multimedia framework.
-- [Qtilities](https://jpnaude.github.io/Qtilities) [:octocat:](https://github.com/JPNaude/Qtilities) - Powerful set of libraries that provide GUI, logging, testing, configuration, and project functionality (https://github.com/JesseTG/awesome-qt/blob/master/among other things) for your application.
+- [Qtilities](https://jpnaude.github.io/Qtilities) [:octocat:](https://github.com/JPNaude/Qtilities) - Powerful set of libraries that provide GUI, logging, testing, configuration, and project functionality (among other things) for your application.
 - [QtitanChart](http://www.devmachines.com/qtitanchart-overview) - Chart generation framework.  Commercial.
 - [QtitanRibbon](http://www.devmachines.com/qtitanribbon-overview) - For fans of the ribbons that Microsoft uses in their software.  Commercial.
 - [qtnotify](https://github.com/cybercatalyst/qtnotify) [:octocat:](https://github.com/cybercatalyst/qtnotify) - Notification framework.
@@ -177,7 +177,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
   - Some Lesser Known Qt Tools and Commands [[1](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-1), [2](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-2), [3](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-3), [4](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-4), [5](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-5)] - You don't find hidden gems by staying on the beaten path.
   - [Using Self-Signed Certificates in Qt Code](https://www.ics.com/blog/using-self-signed-certificates-qt-code) - Trust nobody.
   - [Integrating C++ with QML](https://www.ics.com/blog/integrating-c-qml) - Talk to your scripting language.  That's what it's there for.
-  - Qt and OpenGL: Loading a 3D Model with Open Asset Import Library (https://github.com/JesseTG/awesome-qt/blob/master/Assimp) [[1](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp), [2](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2)] - https://github.com/JesseTG/awesome-qt/blob/master/Assimp supports a lot of different model types; these articles will help you support all of them.
+  - Qt and OpenGL: Loading a 3D Model with Open Asset Import Library (Assimp) [[1](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp), [2](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2)] - Assimp supports a lot of different model types; these articles will help you support all of them.
   - [What's new in Qt 5: QStandardPaths](https://www.ics.com/blog/whats-new-qt-5-qstandardpaths) - This feature's been around for a few years, but it's still useful enough to warrant an entry on this list.
   - [What's New in Qt 5.2: QCommandLineParser](https://www.ics.com/blog/whats-new-qt-52-qcommandlineparser) - Another oldie, but still a goodie.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.  They seem to specialize in Qt's core architecture.
@@ -195,7 +195,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 
 ## Books
 
-- [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) [:octocat:](https://github.com/PacktPublishing/Qt5-C-GUI-Programming-Cookbook) - Overview of advanced GUI programming techniques for those familiar (https://github.com/JesseTG/awesome-qt/blob/master/but not satisfied) with the basics.  The source code used in the book is available for free.
+- [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) [:octocat:](https://github.com/PacktPublishing/Qt5-C-GUI-Programming-Cookbook) - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.  The source code used in the book is available for free.
 - [Game Programming Using Qt: Beginner's Guide](https://www.packtpub.com/game-development/game-programming-using-qt) by Witold Wysota and Lorenz Haas - Good place to start learning how to program games with QML.
 - [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by [Ray Rischpater](http://www.lothlorien.com/kf6gpe) - Beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
 - [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by [Symeon Huang](https://github.com/librehat) - Seems to be about the overall structure of a Qt project.

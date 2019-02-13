@@ -48,7 +48,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) - Edwin Brady, 2011.
 * [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) - Edwin Brady and Kevin Hammond, 2010.
 * [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) - Edwin Brady and Kevin Hammond, 2010.
-* [Domain Specific Languages (https://github.com/joaomilho/awesome-idris/blob/master/DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) - Saleem Bhatti, Edwin Brady, Kevin Hammond and James McKinna, 2009.
+* [Domain Specific Languages (DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) - Saleem Bhatti, Edwin Brady, Kevin Hammond and James McKinna, 2009.
 * [Lightweight Invariants with Full Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/tfp08.pdf) - Edwin Brady, Christoph Herrmann and Kevin Hammond, 2008.
 
 ### Presentations
@@ -78,7 +78,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris.
 * [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend.
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend.
-* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (https://github.com/joaomilho/awesome-idris/blob/master/OCaml internal representation) backend.
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend.
 
 ### Build tools | Package managers
 

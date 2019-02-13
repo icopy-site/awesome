@@ -57,7 +57,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Charts
 
-- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (https://github.com/XamSome/awesome-xamarin/blob/master/Xamarin, Windows, ...) simple charts.
+- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support use in Xamarin Forms.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET.
 
@@ -65,7 +65,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Cloud
 
 - [Azure](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/) - Microsoft Azure.
-- [Bugfender ★10](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (https://github.com/XamSome/awesome-xamarin/blob/master/iOS & Android).
+- [Bugfender ★10](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android).
 - [FireSharp ★479](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper.
 
 
@@ -144,7 +144,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [LibVLCSharp ★174](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [MediaManager ★269](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 - [NGraphics ★482](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics.
-- [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (https://github.com/XamSome/awesome-xamarin/blob/master/-only) library to display PDF documents on iPad and iPhone.
+- [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone.
 - [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library.
 - [Splat ★590](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff.
 - [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream.
@@ -176,7 +176,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 - [Fusillade ★216](https://github.com/paulcbetts/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
-- [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (https://github.com/XamSome/awesome-xamarin/blob/master/NSURLSession / OkHttp).
+- [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
 - [Push Notification ★1](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 - [Reachability ★25](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check.
@@ -192,16 +192,16 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework.
 - [Refit ★2,762](https://github.com/reactiveui/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface.
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions.
-- [RxFlow ★18](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(https://github.com/XamSome/awesome-xamarin/blob/master/Reactive Extensions).
+- [RxFlow ★18](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions).
 - [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows.
 
 
 ## Security
 
-- [BoucyCastle.PCL ★93](https://github.com/onovotny/BouncyCastle-PCL) - PCL Version of BouncyCastle (https://github.com/XamSome/awesome-xamarin/blob/master/Cryptography) targetting .NET, SL, WP and WinRT.
+- [BoucyCastle.PCL ★93](https://github.com/onovotny/BouncyCastle-PCL) - PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT.
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
-- [PCLCrypto ★184](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (https://github.com/XamSome/awesome-xamarin/blob/master/MD5,...).
+- [PCLCrypto ★184](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...).
 - [Permissions ★1](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
 
 
@@ -224,7 +224,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Material icons generator plugin - Xamarin Studio ★14](https://github.com/interisti/xs-material-icons-generator) - Adding material icons to android project.
 - [Material icons generator plugin - Visual Studio](https://github.com/interisti/vs-material-icons-generator) - Adding material icons to android project.
 - [Mutatio ★18](https://github.com/yuv4ik/Mutatio) - Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
-- [PushSharp ★3,990](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (https://github.com/XamSome/awesome-xamarin/blob/master/iPhone/iPad APNS), Android (https://github.com/XamSome/awesome-xamarin/blob/master/C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (https://github.com/XamSome/awesome-xamarin/blob/master/soon) FirefoxOS devices!
+- [PushSharp ★3,990](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 - [Twin Tools Add-In ★20](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio.
 - [Xamaridea ★69](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio. 
 - [Xavtool ★15](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android / UWP applications version.
@@ -266,11 +266,11 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell.
-- [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (https://github.com/XamSome/awesome-xamarin/blob/master/Checkbox using SkiaSharp).
+- [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
 - [Xamarin.Forms.GoogleMaps ★250](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API.
-- [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 project template (https://github.com/XamSome/awesome-xamarin/blob/master/iOS, Android, UWP).
+- [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP).
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
@@ -292,15 +292,15 @@ Most of them support Android and iOS, some do Windows Phone 8
 - [userdialogs ★510](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 - [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle.
 - [Xamarin.Badge ★33](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge.
-- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials) - Essential cross-platform APIs from Xamarin team for iOS and Android. Provide easy access to or usage of: Acelerometer, App Information, Battery, Clipboard, Compass, Connectivity, Data Transfer (https://github.com/XamSome/awesome-xamarin/blob/master/Share), Device Display Information, Device Information, Email, File System Helpers, Flashlight, Geocoding, Geolocation, Gyroscope, Magnetometer, Open Browser, Orientation Sensor, Power, Phone Dialer, Preferences, Screen Lock, Secure Storage, SMS, Text-to-Speech, Version Tracking, Vibrate.
+- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials) - Essential cross-platform APIs from Xamarin team for iOS and Android. Provide easy access to or usage of: Acelerometer, App Information, Battery, Clipboard, Compass, Connectivity, Data Transfer (Share), Device Display Information, Device Information, Email, File System Helpers, Flashlight, Geocoding, Geolocation, Gyroscope, Magnetometer, Open Browser, Orientation Sensor, Power, Phone Dialer, Preferences, Screen Lock, Secure Storage, SMS, Text-to-Speech, Version Tracking, Vibrate.
 - [Xamarin.LocalNotifications ★40](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications.
 - [Xamarin.Mobile ★237](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera.
-- [Xamarin-plugins ★39](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (https://github.com/XamSome/awesome-xamarin/blob/master/Beta).
+- [Xamarin-plugins ★39](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta).
 
 
 ## Other lists
 
-- [Awesome Xamarin Bookmarks ★9](https://github.com/wcoder/awesome-xamarin-bookmarks) - Hand-picked bookmarks of interesting (https://github.com/XamSome/awesome-xamarin/blob/master/must have) links for Xamarin developers.
+- [Awesome Xamarin Bookmarks ★9](https://github.com/wcoder/awesome-xamarin-bookmarks) - Hand-picked bookmarks of interesting (must have) links for Xamarin developers.
 - [Open Source Xamarin Apps ★11](https://github.com/wcoder/open-source-xamarin-apps) - A list of open source Xamarin apps.
 - [Xamarin Bindings ★112](https://github.com/aloisdeniel/Xamarin.Bindings) - A list of existing library bindings.
 - [Xamarin Components ★1,338](https://github.com/xamarin/XamarinComponents) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.

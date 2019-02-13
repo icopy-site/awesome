@@ -95,7 +95,7 @@ These are tools to automate the building and testing of projects in C.
 * [CompCert](http://compcert.inria.fr/) - Fully-verified C compiler. Supports almost all of C89. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [GCC](https://gcc.gnu.org/) - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [PCC](http://pcc.ludd.ltu.se/) - Venerable C compiler. Supports C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
-* [TCC](https://bellard.org/tcc/) - Tiny C Compiler; a small, fast C compiler. Supports C99 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/except complex types). [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+* [TCC](https://bellard.org/tcc/) - Tiny C Compiler; a small, fast C compiler. Supports C99 (except complex types). [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Intel SPMD](http://ispc.github.io/) - Compiler for a variant of the C language, for single program, multiple data programming. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
 * [ccache](https://ccache.samba.org/) - Compiler cache designed to speedup recompilation. [`GNU GPL3 or later`](https://ccache.samba.org/license.html)
 
@@ -112,16 +112,16 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [zlib](http://zlib.net/) - Massively-spiffy yet delicately-unobtrusive compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [bzip2](http://www.bzip.org/) - Patent free, high quality data compressor. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [lz4](https://lz4.github.io/lz4/) - Fast Compression algorithm.
-* [snappy](https://github.com/google/snappy) - Fast compression library (https://github.com/aleksandar-todorovic/awesome-c/blob/master/implementation in C++, native bindings to C).
+* [snappy](https://github.com/google/snappy) - Fast compression library (implementation in C++, native bindings to C).
 * [zstd](http://facebook.github.io/zstd/) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/index.php) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [pixz](https://github.com/vasi/pixz) - Pixz (https://github.com/aleksandar-todorovic/awesome-c/blob/master/pronounced pixie) is a parallel, indexing version of `xz`. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
+* [pixz](https://github.com/vasi/pixz) - Pixz (pronounced pixie) is a parallel, indexing version of `xz`. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
 
 ## Crypto ##
 
 * [GnuTLS](https://www.gnutls.org/) - Secure communication library, implementing SSL, TLS and DTLS. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [libgcrypt](https://gnupg.org/related_software/libgcrypt/) - General-purpose cryptography library, with a range of available ciphers. [`GNU LGPL2.1or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/code)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) and [`GNU GPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/manual and tools)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [libgcrypt](https://gnupg.org/related_software/libgcrypt/) - General-purpose cryptography library, with a range of available ciphers. [`GNU LGPL2.1or later (code)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) and [`GNU GPL2.1 or later (manual and tools)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [OpenSSL](https://www.openssl.org/) - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [`Dual Licensed under the OpenSSL License and the SSLeay License`](https://www.openssl.org/source/license.html)
 * [libsodium](https://download.libsodium.org/doc/) - Modern and easy-to-use crypto library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libtomcrypt](https://www.libtom.net/) - Fairly comprehensive, modular and portable cryptographic toolkit. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
@@ -152,7 +152,7 @@ This lists databases and data stores with C APIs.
 * [Cxref](http://www.gedanken.org.uk/software/cxref/) - Generates documentation of C programs in either LaTeX, HTML, RTF or SGML. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - Modestly-tagged markup language that can be used to generate a range of formats. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [Doxygen](http://www.doxygen.nl/) - The de-facto standard tool for generating C documentation from annotated sources. Can generate a large range of formats. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [GTK-Doc](https://www.gtk.org/gtk-doc/) - Tool for generating C documentation from annotated sources. Has support for the Autotools. [`GNU GPL2.1 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/code)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU FDL1.1`](https://www.gnu.org/licenses/old-licenses/fdl-1.1.html)
+* [GTK-Doc](https://www.gtk.org/gtk-doc/) - Tool for generating C documentation from annotated sources. Has support for the Autotools. [`GNU GPL2.1 (code)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU FDL1.1`](https://www.gnu.org/licenses/old-licenses/fdl-1.1.html)
 
 ## Editors ##
 
@@ -174,10 +174,10 @@ These are projects that allow one to work with microcontrollers and other resour
 
 ### RTOS ###
 
-A real-time operating system (https://github.com/aleksandar-todorovic/awesome-c/blob/master/RTOS) is intended to serve real-time applications that process data with low latency delay.
+A real-time operating system (RTOS) is intended to serve real-time applications that process data with low latency delay.
 
 * [Amazon FreeRTOS](https://aws.amazon.com/freertos/) - RTOS for microcontrollers that makes small, low-power edge devices easy to program. [`MIT`](https://github.com/aws/amazon-freertos/blob/master/LICENSE)
-* [ChibiOS](http://www.chibios.org/dokuwiki/doku.php) - RTOS with complete development environment (https://github.com/aleksandar-todorovic/awesome-c/blob/master/HAL, drivers, support files, and tools). [`Various Licenses`](http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start)
+* [ChibiOS](http://www.chibios.org/dokuwiki/doku.php) - RTOS with complete development environment (HAL, drivers, support files, and tools). [`Various Licenses`](http://www.chibios.org/dokuwiki/doku.php?id=chibios:licensing:start)
 * [Contiki](http://www.contiki-os.org/) - Connect low-cost, low power microcontrollers to the Internet. [`3-clause BSD`](https://github.com/contiki-os/contiki/blob/master/LICENSE)
 * [Zephyr Project](https://www.zephyrproject.org/) - Scalable real-time RTOS supporting multiple hardware architectures, optimized for resource constrained devices. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [RIOT OS](https://www.riot-os.org/) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
@@ -202,8 +202,8 @@ This section has big libraries that provide data structures and other stuff you 
 * [GObject](https://developer.gnome.org/gobject/stable/) - Object-oriented system and object model for C. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [libnih](https://github.com/keybuk/libnih) - Lightweight library of C functions and structures. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [libU](http://www.koanlogic.com/libu/) - Small library of basic utilities, including memory allocation, string manipulation and logging. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [PBL](http://www.mission-base.com/peter/source/) - Large https://github.com/aleksandar-todorovic/awesome-c/blob/master/library of utilities, featuring data structures, among other things. [`GNU LGPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/test code)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [qlibc](http://wolkykim.github.io/qlibc/) - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [`qLib license`](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (https://github.com/aleksandar-todorovic/awesome-c/blob/master/similar to [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD))
+* [PBL](http://www.mission-base.com/peter/source/) - Large library of utilities, featuring data structures, among other things. [`GNU LGPL2.1 or later (library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (test code)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [qlibc](http://wolkykim.github.io/qlibc/) - Simple and powerful C library, designed as a replacement for GLib while focusing on being small and light. [`qLib license`](https://github.com/wolkykim/qlibc/blob/master/LICENSE) (similar to [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD))
 * [stb](https://github.com/nothings/stb) - Range of single-file libraries for C. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [libsrt](https://faragon.github.io/libsrt.html) - Safe Real-Time library for C. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 
@@ -270,7 +270,7 @@ These are specifically [widget toolkits](https://en.wikipedia.org/wiki/Widget_to
 * [Tk](http://www.tcl.tk/) - Basic widget toolkit. Part of Tcl/Tk. [`Tcl/Tk License`](http://www.tcl.tk/software/tcltk/license.html)
 * [XForms Toolkit](http://xforms-toolkit.org/) - Widget toolkit designed for the XWindow system. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [nuklear](https://github.com/vurtun/nuklear) - Single-header ANSI C gui library. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
-* [libui](https://github.com/andlabs/libui) - Simple and portable (https://github.com/aleksandar-todorovic/awesome-c/blob/master/but not inflexible) GUI library. [`MIT`](https://github.com/andlabs/libui/blob/master/LICENSE)
+* [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library. [`MIT`](https://github.com/andlabs/libui/blob/master/LICENSE)
 * [LCUI](https://github.com/lc-soft/LCUI/) - Small C library for building user interfaces with C, XML and CSS. [`MIT`](https://github.com/lc-soft/LCUI/blob/develop/LICENSE.TXT)
 
 ## Hashing ##
@@ -312,7 +312,7 @@ This is a list of resources for learning C programming in general, or something 
 * [Draft C99 Rationale](http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf)
 
 ##### Language Standards #####
-* [Draft ANSI C (https://github.com/aleksandar-todorovic/awesome-c/blob/master/C89) standard](http://port70.net/~nsz/c/c89/c89-draft.txt)
+* [Draft ANSI C (C89) standard](http://port70.net/~nsz/c/c89/c89-draft.txt)
 * [Draft C99 standard](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)
 * [Draft C11 standard](http://www.open-std.org/JTC1/SC22/WG14/)
 
@@ -323,8 +323,8 @@ This is a list of resources for learning C programming in general, or something 
 * [C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)
 * [Introduction to 'fun' C](https://gist.github.com/eatonphil/21b3d6569f24ad164365)
 * [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
-* [POSIX Threads Programming tutorial](https://computing.llnl.gov/tutorials/pthreads/) (https://github.com/aleksandar-todorovic/awesome-c/blob/master/a little dated, but most of it is still valid and useful)
-* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) (https://github.com/aleksandar-todorovic/awesome-c/blob/master/online PDF)
+* [POSIX Threads Programming tutorial](https://computing.llnl.gov/tutorials/pthreads/) (a little dated, but most of it is still valid and useful)
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) (online PDF)
 * [Templating in C](http://blog.pkh.me/p/20-templating-in-c.html)
 
 #### Intermediate ####
@@ -332,8 +332,8 @@ This is a list of resources for learning C programming in general, or something 
 * [8 gdb tricks you should know](https://blogs.oracle.com/linux/8-gdb-tricks-you-should-know-v2)
 * [10 C99 tricks](https://blog.noctua-software.com/c-tricks.html)
 * [Diving into concurrency: trying out mutexes and atomics](https://jvns.ca/blog/2014/12/14/fun-with-threads/)
-* [Introduction to OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) (https://github.com/aleksandar-todorovic/awesome-c/blob/master/video)
-* [OpenMP tutorial](https://computing.llnl.gov/tutorials/openMP/) (https://github.com/aleksandar-todorovic/awesome-c/blob/master/for the OpenMP3 standard)
+* [Introduction to OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) (video)
+* [OpenMP tutorial](https://computing.llnl.gov/tutorials/openMP/) (for the OpenMP3 standard)
 * [memcpy vs memmove](https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove)
 * [MPI tutorial](https://computing.llnl.gov/tutorials/mpi/)
 * [Some unknown features or tricks in C language](https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/)
@@ -384,7 +384,7 @@ This is a list of resources for learning C programming in general, or something 
 
 ## Macros ##
 
-* [P99](http://p99.gforge.inria.fr/) - Suite of macros to implement advanced features like default function arguments, scope-bound resources, etc. (https://github.com/aleksandar-todorovic/awesome-c/blob/master/Requires C99) [`Q Public License`](https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary)
+* [P99](http://p99.gforge.inria.fr/) - Suite of macros to implement advanced features like default function arguments, scope-bound resources, etc. (Requires C99) [`Q Public License`](https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)#summary)
 
 ## Memory Allocators ##
 
@@ -399,7 +399,7 @@ Implementations of memory allocators for various systems and platforms.
 
 ## Multimedia ##
 
-* [FFMPEG](https://www.ffmpeg.org/) - Complete, cross-platform solution to record, convert and stream audio and video. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/some parts)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [FFMPEG](https://www.ffmpeg.org/) - Complete, cross-platform solution to record, convert and stream audio and video. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (some parts)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [GStreamer](https://gstreamer.freedesktop.org/) - Framework for audio and visual media. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [lodepng](https://lodev.org/lodepng/) - Simple PNG image decoder and encoder, requiring no other dependencies. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [libsoup](https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup) - GNOME HTTP client/server library. Uses GObject. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
@@ -464,7 +464,7 @@ Implementations of memory allocators for various systems and platforms.
 * [GLPK](https://www.gnu.org/software/glpk/) - GNU Linear Programming Kit; a package designed for solving large-scale linear programming, mixed integer programming and other related problems. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [GMP](https://gmplib.org/) - GNU Multple Precision Arithmetic Library; a library for arbitrary-precision arithmetic. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) and [`GNU LGPLv3`](http://www.gnu.org/licenses/lgpl.html)
 * [GNU MPC](http://www.multiprecision.org/mpc/) - Library for complex number arithmetic. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl.html)
-* [GNU MPFR](https://www.mpfr.org/index.html) - Library for arbitrary-precision floating-point arithmetic. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl.html) or [`GNU LGPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/until version 2.4.x)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+* [GNU MPFR](https://www.mpfr.org/index.html) - Library for arbitrary-precision floating-point arithmetic. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl.html) or [`GNU LGPL2.1 or later (until version 2.4.x)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [GNU MPRIA](https://www.gnu.org/software/mpria/) - Portable mathematics library for multi-precision rational interval arithmetic. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [GSL](http://www.gnu.org/software/gsl/) - The GNU Scientific Library; a sophisticated numerical library. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [igraph](https://igraph.org/) - Library for creating and manipulating large graphs. [`GNU GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -528,7 +528,7 @@ This contains collections of small source code. If you want something big and in
 * [CCAN](http://ccodearchive.net/) - Modelled after Perl's CPAN, this is a big collection of C code that does stuff. The full list is [here](http://ccodearchive.net/list.html).
 * [clib](https://github.com/clibs/clib) - Something of a package manager for C. Comes with a [bunch of libraries of its own](https://github.com/clibs/clib/wiki/Packages). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [gnulib](https://www.gnu.org/software/gnulib/) - Collection of common GNU code.
-* [libdjb](http://www.fefe.de/djb/) - Collection of libraries doing various things. [`(https://github.com/aleksandar-todorovic/awesome-c/blob/master/Apparently) Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
+* [libdjb](http://www.fefe.de/djb/) - Collection of libraries doing various things. [`(Apparently) Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 ## Standard Libraries ##
 
@@ -544,7 +544,7 @@ This contains standard C libraries.
 * [bstrlib](http://bstring.sourceforge.net/) - The Better String Library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause) and [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [ICU](http://site.icu-project.org/) - International Components for Unicode; a library for Unicode support. [`ICU license`](http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE)
 * [libunistring](https://www.gnu.org/software/libunistring/) - Library for manipulating Unicode strings in C. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
-* [libgiconv](https://www.gnu.org/software/libiconv/) - Text conversion https://github.com/aleksandar-todorovic/awesome-c/blob/master/library. [`GNU LGPL2.1 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL3 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/*iconv* program)`](http://www.gnu.org/licenses/gpl.html)
+* [libgiconv](https://www.gnu.org/software/libiconv/) - Text conversion library. [`GNU LGPL2.1 (library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL3 (*iconv* program)`](http://www.gnu.org/licenses/gpl.html)
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib](https://github.com/clibs/clib). [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [shoco](http://ed-von-schleck.github.io/shoco/) - Compressor for small text strings. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [smaz](https://github.com/antirez/smaz) - Efficient string compression library. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
@@ -559,7 +559,7 @@ This contains standard C libraries.
 * [cmocka](https://cmocka.org/) - Unit testing framework with support for mock objects. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Criterion](https://criterion.readthedocs.io/en/master/) - KISS, non-intrusive C test framework. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [CUnit](http://cunit.sourceforge.net/) - Another unit testing framework for C. [`GNU LGPL2.0`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [Cutest](https://github.com/rafael-santiago/cutest) - Library for unit testing with memory leak detection (https://github.com/aleksandar-todorovic/awesome-c/blob/master/Linux, freeBSD and Windows). [`GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [Cutest](https://github.com/rafael-santiago/cutest) - Library for unit testing with memory leak detection (Linux, freeBSD and Windows). [`GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [munit](https://nemequ.github.io/munit/) - Small but full-featured unit testing framework for C with no dependencies. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Unity](http://www.throwtheswitch.org/) - Simple unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -594,7 +594,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [c99sh](https://github.com/RhysU/c99sh) - Run C files using hash-bang. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [CBMC](http://www.cprover.org/cbmc/) - C Bounded Model Checker; a tool for verification of array bounds, pointer safety and user-specified assertions. [`Original BSD`](https://directory.fsf.org/wiki/License:BSD-4-Clause)
 * [cdecl](https://cdecl.org/) - Online service to translate C declarations into English and vice versa. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
-* [cinclude2dot](https://www.flourish.org/cinclude2dot/) - Graphs include dependencies in a C project using Graphviz. [`Any GNU GPL version (https://github.com/aleksandar-todorovic/awesome-c/blob/master/due to underspecification in the file)`](https://directory.fsf.org/wiki/Cinclude2dot#tab=Details)
+* [cinclude2dot](https://www.flourish.org/cinclude2dot/) - Graphs include dependencies in a C project using Graphviz. [`Any GNU GPL version (due to underspecification in the file)`](https://directory.fsf.org/wiki/Cinclude2dot#tab=Details)
 * [Complexity](https://www.gnu.org/software/complexity/) - Tool for measuring the complexity of C source code. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [CScout](https://www.spinellis.gr/cscout/) - Source code analyzer and refactoring browser for collections of C programs. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [DDD](https://www.gnu.org/software/ddd/ddd.html) - Graphical front-end for a range of command-line debuggers. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
@@ -604,7 +604,7 @@ This is a list of useful programs to help you write and debug C code which are *
 * [GNU Global](https://www.gnu.org/software/global/) - Source code tagging tool which works with C. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [gprof](http://www.gnu.org/software/binutils/) - Performance analysis tool. Part of GNU binutils. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [Highlight](http://www.andre-simon.de/index.php) - Converts source code to formatted text with nice highlighting. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
-* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (https://github.com/aleksandar-todorovic/awesome-c/blob/master/and only works with it). [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
+* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - Helps find unecessary inclusions and make suggestions for fixing them. Based on LLVM/Clang (and only works with it). [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
 * [indent](https://www.gnu.org/software/indent/) - Formats C source code automatically to make it easier to read. Also converts from one style of source to another. [`GNU GPLv3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [rr](https://rr-project.org/) - Debugger that records non-deterministic executions to allow for deterministic debugging. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [tup](http://gittup.org/tup/index.html) - Very fast, file-based, cross-platform build system. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -617,7 +617,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 
 * [ApeTagLibs](https://github.com/jeremyevans/ape_tag_libs/tree/master/c) - C library for working with APEv2 tags. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [bfd](http://sourceware.org/binutils/docs/bfd/) - Library for manipulating binary object files. Part of GNU binutils. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [cf4ocl](https://fakenmc.github.io/cf4ocl/) - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking  [OpenCL](https://www.khronos.org/opencl/) projects. [`GNU LGPL3 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/library)`](http://www.gnu.org/licenses/lgpl.html) or [`GNU GPL3 (https://github.com/aleksandar-todorovic/awesome-c/blob/master/project code)`](http://www.gnu.org/licenses/gpl.html)
+* [cf4ocl](https://fakenmc.github.io/cf4ocl/) - The C Framework for OpenCL; a cross-platform object-oriented framework for developing and benchmarking  [OpenCL](https://www.khronos.org/opencl/) projects. [`GNU LGPL3 (library)`](http://www.gnu.org/licenses/lgpl.html) or [`GNU GPL3 (project code)`](http://www.gnu.org/licenses/gpl.html)
 * [CommonMark](https://github.com/commonmark/CommonMark) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/CommonMark/blob/master/LICENSE)
 * [CException](https://github.com/ThrowTheSwitch/CException) - C implementation of exceptions. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [docopt.c](https://github.com/docopt/docopt.c) - C implementation of a command-line option parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -638,11 +638,11 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [libCello](http://libcello.org/) - Library introducing higher-level programming to C. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [libffi](https://github.com/libffi/libffi) - Portable foreign-function interface library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libgit2](https://libgit2.org/) - Pure C implementation of Git. [`GNU GPL2 only, with a linking exception`](https://github.com/libgit2/libgit2/blob/master/COPYING)
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Cross-platform protocol https://github.com/aleksandar-todorovic/awesome-c/blob/master/library to communicate with iThings. [`GNU LGPLv2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (https://github.com/aleksandar-todorovic/awesome-c/blob/master/tools)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Cross-platform protocol library to communicate with iThings. [`GNU LGPLv2.1 or later (library)`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or [`GNU GPL2.1 or later (tools)`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [libnfc](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
 * [libPhenom](http://facebook.github.io/libphenom/index.html) - Eventing framework for building high-scalability and high-performance systems. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [nope.c](https://github.com/riolet/WAFer) - C-language-based, ultra-light software platform for scalable server-side and networking applications (https://github.com/aleksandar-todorovic/awesome-c/blob/master/think node.js for C programmers). [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [nope.c](https://github.com/riolet/WAFer) - C-language-based, ultra-light software platform for scalable server-side and networking applications (think node.js for C programmers). [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [pbc](https://github.com/cloudwu/pbc) - Protocol buffers library. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) - Client library for [RabbitMQ](http://www.rabbitmq.com/). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [Ragel](http://www.colm.net/open-source/ragel/) - DSL for state machines that compiles to C. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

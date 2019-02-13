@@ -34,7 +34,7 @@
 
 ## Videos
 * [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) - Koen Bok and Jorn van Dijk give a short talk and Q&A focused on Framer that also covers prototyping in general and a discussion of the various design tools available in the market.
-* [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - Discussion between creators of popular design tools (https://github.com/podo/awesome-framer/blob/master/including Koen Bok from Framer) on the value of prototyping, lessons learned in crafting products for designers, and the future of UX tools.
+* [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - Discussion between creators of popular design tools (including Koen Bok from Framer) on the value of prototyping, lessons learned in crafting products for designers, and the future of UX tools.
 
 ## Tutorials
 * [Framer.js Official Basics](http://framerjs.com/learn/basics) - The place to start prototyping with Framer.
@@ -142,10 +142,10 @@
 * [perspective-view](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
 * [Pair](https://github.com/IanBellomy/Pair) - Drag and Drop module for Framer.
 * [Cloudstitch Framer Module](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
-* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (https://github.com/podo/awesome-framer/blob/master/the query).
+* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
 * [Loading Placeholder](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
-* [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (https://github.com/podo/awesome-framer/blob/master/JSON files).
+* [lottie-framer](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients.
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
@@ -160,7 +160,7 @@
 * [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - Module for Gamepad-driven UI prototypes.
 * [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - Framer feedback module makes it easier for you to prototype with feedback messages.
 * [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) - Framer Module to add Android's Bottom Navigation to your project.
-* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (https://github.com/podo/awesome-framer/blob/master/but not on device).
+* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) - A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device).
 * [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
 * [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) - A Framer module that provides better audio support for your Framer projects.

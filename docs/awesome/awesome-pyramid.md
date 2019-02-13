@@ -3,7 +3,7 @@
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
-> [Sushi Sprint at PloneConf 2018 in Tokyo, Japan](https://2018.ploneconf.org/sprints) (https://github.com/uralbash/awesome-pyramid/blob/master/November 10-11, 2018)
+> [Sushi Sprint at PloneConf 2018 in Tokyo, Japan](https://2018.ploneconf.org/sprints) (November 10-11, 2018)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python](https://github.com/vinta/awesome-python/).
@@ -87,7 +87,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Stargate](https://github.com/boothead/stargate) - Stargate is a package for
   adding WebSockets support to pyramid applications using the excellent
   eventlet library for long running connections.
-* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (https://github.com/uralbash/awesome-pyramid/blob/master/gevent).
+* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent).
 
 ## Authentication
 
@@ -110,14 +110,14 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project,
-  to add Authentication and Authorization using Velruse (https://github.com/uralbash/awesome-pyramid/blob/master/OAuth) and/or a local
+  to add Authentication and Authorization using Velruse (OAuth) and/or a local
   database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
 * [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) -
   That will make it simpler to have a secure authentication policy with an easy
   to use backend.
 * [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
-  This standard (https://github.com/uralbash/awesome-pyramid/blob/master/[RFC 7519]) is often used to secure backens APIs. The
+  This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
 * [pyramid_ipauth](https://github.com/mozilla-services/pyramid_ipauth) -
   Pyramid authentication policy based on remote ip address.
@@ -141,7 +141,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   multiple authentication policies with Pyramid.
 * [horus](https://github.com/Pylons/horus) - User registration and login system
   for the Pyramid Web Framework.
-* [pyramid_yosai](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (https://github.com/uralbash/awesome-pyramid/blob/master/rbac permissions and roles), Authentication (https://github.com/uralbash/awesome-pyramid/blob/master/2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai/
+* [pyramid_yosai](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai/
 
 ## Caching & Session
 
@@ -206,7 +206,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   mapped classes.
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) - A
   lightweight library for converting complex objects to and from simple Python
-  datatypes (https://github.com/uralbash/awesome-pyramid/blob/master/i.e. (de)serialization and validation).
+  datatypes (i.e. (de)serialization and validation).
 
 ## Media-Management
 
@@ -279,7 +279,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 provide new storage backends.*
 
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction
-  management for Pyramid applications (https://github.com/uralbash/awesome-pyramid/blob/master/without middleware).
+  management for Pyramid applications (without middleware).
 * [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) -
   Integration of SQLAlchemy with transaction management.
     * [What the Zope Transaction Manager Means To Me (and
@@ -292,7 +292,7 @@ provide new storage backends.*
   pyramid-mongoengine package based on flask-mongoengine
 * [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(https://github.com/uralbash/awesome-pyramid/blob/master/dictionaries), https://github.com/uralbash/awesome-pyramid/blob/master/dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) - pyramid-excel is based on [pyexcel](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 
 ## Task Queue
 
@@ -337,7 +337,7 @@ provide new storage backends.*
 
 ## Web frontend integration
 
-* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (https://github.com/uralbash/awesome-pyramid/blob/master/JavaScript) template with Hot-Module-Replacement starter template.
+* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template.
 
 ## Workflows
 
@@ -365,7 +365,7 @@ provide new storage backends.*
   in URL dispath.
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer
-  (https://github.com/uralbash/awesome-pyramid/blob/master/xlsx, xls, csv) for pyramid
+  (xlsx, xls, csv) for pyramid
 * [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library
   around pyramid routing
 * [pyramid_extdirect](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
@@ -395,7 +395,7 @@ provide new storage backends.*
 * [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [KARL](https://karlproject.readthedocs.io/en/latest/) - A moderately-sized
-  application (https://github.com/uralbash/awesome-pyramid/blob/master/roughly 80K lines of Python code) built on top of Pyramid. It is
+  application (roughly 80K lines of Python code) built on top of Pyramid. It is
   an open source web
   system for collaboration, organizational intranets, and knowledge management.
   It provides facilities for wikis, calendars, manuals, searching, tagging,
@@ -467,11 +467,11 @@ Where to discover new Pyramid apps and projects.
 
 ## Conferences
 
-* [Sushi Sprint at PloneConf 2018 in Tokyo, Japan](https://2018.ploneconf.org/sprints) (https://github.com/uralbash/awesome-pyramid/blob/master/November 10-11, 2018)
-* [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (https://github.com/uralbash/awesome-pyramid/blob/master/May 28, 2017, 10:30 a.m. - 12:30 p.m.)
-* [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (https://github.com/uralbash/awesome-pyramid/blob/master/16~22 Oct. 2017)
-* [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (https://github.com/uralbash/awesome-pyramid/blob/master/17~23 Oct. 2016)
-* [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (https://github.com/uralbash/awesome-pyramid/blob/master/5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
+* [Sushi Sprint at PloneConf 2018 in Tokyo, Japan](https://2018.ploneconf.org/sprints) (November 10-11, 2018)
+* [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
+* [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
+* [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
+* [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
 
 
 ## Videos

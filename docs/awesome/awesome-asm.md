@@ -8,20 +8,20 @@ A curated list of awesome Assembler :)
 Assembler List
 ----------
 
-* *[Flat Assembler (https://github.com/jaspergould/awesome-asm/blob/master/FASM)](http://flatassembler.net/)*
+* *[Flat Assembler (FASM)](http://flatassembler.net/)*
 >is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
 
-* *[Microsoft Macro Assembler (https://github.com/jaspergould/awesome-asm/blob/master/MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
+* *[Microsoft Macro Assembler (MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
 >is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
 
-* *[Netwide Assembler (https://github.com/jaspergould/awesome-asm/blob/master/NASM)](http://www.nasm.us/)*
+* *[Netwide Assembler (NASM)](http://www.nasm.us/)*
 >is an assembler and disassembler for the Intel x86 architecture
 
 * *[YASM](http://yasm.tortall.net/)*
->is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (https://github.com/jaspergould/awesome-asm/blob/master/NASM).
+>is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
->ILAsm (https://github.com/jaspergould/awesome-asm/blob/master/IL Assembler) generates a portable executable (https://github.com/jaspergould/awesome-asm/blob/master/PE) file from Common Intermediate Language (https://github.com/jaspergould/awesome-asm/blob/master/CIL) code
+>ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
 
 * *[PeachPy](https://github.com/Maratyszcza/PeachPy)*
 >is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
@@ -30,10 +30,10 @@ Assembler List
 >Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
 
 * *[XEDParse](https://github.com/x64dbg/XEDParse)*
->XEDParse is an open source (https://github.com/jaspergould/awesome-asm/blob/master/LGPLv3) library for assembling single x86(https://github.com/jaspergould/awesome-asm/blob/master/-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
+>XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
 
 * *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
->High Level Assembly (https://github.com/jaspergould/awesome-asm/blob/master/HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (https://github.com/jaspergould/awesome-asm/blob/master/HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow https://github.com/jaspergould/awesome-asm/blob/master/HLL programmers to learn https://github.com/jaspergould/awesome-asm/blob/master/HLA as fast as possible.
+>High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow HLL programmers to learn HLA as fast as possible.
 
 Disassembler & Debuggers
 ----------
@@ -56,7 +56,7 @@ Disassembler & Debuggers
 >Immunity Debugger is a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industrys first heap analysis tool.
 
 * *[Hopper](http://www.hopperapp.com/)*
->Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64), iOS (https://github.com/jaspergould/awesome-asm/blob/master/ARM/Intel), PE (https://github.com/jaspergould/awesome-asm/blob/master/PE32/32+/64) and ELF (https://github.com/jaspergould/awesome-asm/blob/master/https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64 and ARM). 
+>Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (Intel 32/64), iOS (ARM/Intel), PE (PE32/32+/64) and ELF (Intel 32/64 and ARM). 
 
 * *[WinDbg](http://www.windbg.org/)*
 >WinDbg is a multipurposed debugger for Microsoft Windows, distributed on the web by Microsoft as part of the Debugging Tools for Windows.
@@ -77,13 +77,13 @@ IDE
 ----------
 
 * *[Visual Studio 20XX](https://www.visualstudio.com/)*
->Microsoft Visual Studio is an integrated development environment (https://github.com/jaspergould/awesome-asm/blob/master/IDE) from Microsoft.
+>Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
 
 * *[RadASM](http://oby.ro/rad_asm/)*
->RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (https://github.com/jaspergould/awesome-asm/blob/master/KetilO).
+>RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (KetilO).
 
 * *[EasyCode](http://www.easycode.cat/)*
->Easy Code is the visual assembly programming environment made to build 32-bit Windows applications. The Easy Code interface, looking like Visual Basic, allows you to program Windows assembler applications (https://github.com/jaspergould/awesome-asm/blob/master/executable files, dynamic and static libreries, COFF object files, console applications, drivers and services) done in an easy way as was never possible before
+>Easy Code is the visual assembly programming environment made to build 32-bit Windows applications. The Easy Code interface, looking like Visual Basic, allows you to program Windows assembler applications (executable files, dynamic and static libreries, COFF object files, console applications, drivers and services) done in an easy way as was never possible before
 
 * *[WinAsm Studio](http://www.winasm.net/)*
 >WinAsm Studio is a free Integrated Development Environment IDE for developing 32-bit Windows and 16-bit DOS programs using the Assembler.
@@ -95,7 +95,7 @@ IDE
 >ASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs.
 
 * *[SASM](https://dman95.github.io/SASM/)*
->SASM (https://github.com/jaspergould/awesome-asm/blob/master/SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt.
+>SASM (SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt.
 
 Books
 ----------
@@ -103,10 +103,10 @@ Books
 >32-bit, 64-bit, SSE, and AVX by **Daniel Kusswurm**
 
 * *[.NET IL Assembler](http://www.apress.com/9781430267614)*
->Common Intermediate Language (https://github.com/jaspergould/awesome-asm/blob/master/[wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
+>Common Intermediate Language ([wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
 >
 * *[Assembly Language for x86 Processors, 7th edition](http://kipirvine.com/asm/)*
->by **Kip Irvine** (https://github.com/jaspergould/awesome-asm/blob/master/great book!)
+>by **Kip Irvine** (great book!)
 
 * *[The Art of Assembly Language, 2nd Edition](http://www.nostarch.com/assembly2.htm)*
 >by **Randall Hyde**

@@ -249,12 +249,12 @@ $ git grep "Hello" v2.5
 
 ## Commit History
 
-##### Show all commits, starting with newest (https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll show the hash, author information, date of commit and title of the commit):
+##### Show all commits, starting with newest (it'll show the hash, author information, date of commit and title of the commit):
 ```
 $ git log
 ```
 
-##### Show all the commits(https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll show just the commit hash and the commit message):
+##### Show all the commits(it'll show just the commit hash and the commit message):
 ```
 $ git log --oneline
 ```
@@ -429,11 +429,11 @@ $ git push remote <remote> <branch>
 
 ##### Delete a branch on the remote:
 ```
-$ git push <remote> :<branch> (https://github.com/arslanbilal/git-cheat-sheet/blob/master/since Git v1.5.0)
+$ git push <remote> :<branch> (since Git v1.5.0)
 ```
 OR
 ```
-$ git push <remote> --delete <branch> (https://github.com/arslanbilal/git-cheat-sheet/blob/master/since Git v1.7.0)
+$ git push <remote> --delete <branch> (since Git v1.7.0)
 ```
 
 ##### Publish your tags:
@@ -442,7 +442,7 @@ $ git push --tags
 ```
 <hr>
 
-#### Configure the merge tool globally to meld (https://github.com/arslanbilal/git-cheat-sheet/blob/master/editor)
+#### Configure the merge tool globally to meld (editor)
 ```bash
 $ git config --global merge.tool meld
 ```
@@ -476,7 +476,7 @@ $ git rebase --abort
 $ git rebase --continue
 ```
 
-##### Use your editor to manually solve conflicts and (https://github.com/arslanbilal/git-cheat-sheet/blob/master/after resolving) mark file as resolved:
+##### Use your editor to manually solve conflicts and (after resolving) mark file as resolved:
 ```
 $ git add <resolved-file>
 ```
@@ -514,7 +514,7 @@ squash <commit_id3>
 $ git reset --hard HEAD
 ```
 
-##### Get all the files out of the staging area(https://github.com/arslanbilal/git-cheat-sheet/blob/master/i.e. undo the last `git add`):
+##### Get all the files out of the staging area(i.e. undo the last `git add`):
 ```
 $ git reset HEAD
 ```
@@ -524,7 +524,7 @@ $ git reset HEAD
 $ git checkout HEAD <file>
 ```
 
-##### Revert a commit (https://github.com/arslanbilal/git-cheat-sheet/blob/master/by producing a new commit with contrary changes):
+##### Revert a commit (by producing a new commit with contrary changes):
 ```
 $ git revert <commit>
 ```
@@ -583,12 +583,12 @@ $ brew install git-flow-avh
 $ port install git-flow
 ```
 
-##### Linux (https://github.com/arslanbilal/git-cheat-sheet/blob/master/Debian-based):
+##### Linux (Debian-based):
 ```
 $ sudo apt-get install git-flow
 ```
 
-##### Windows (https://github.com/arslanbilal/git-cheat-sheet/blob/master/Cygwin):
+##### Windows (Cygwin):
 ###### You need wget and util-linux to install git-flow.
 ```bash
 $ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh install <state> | bash
@@ -657,7 +657,7 @@ git flow release start RELEASE [BASE]
 ```
 git flow release publish RELEASE
 ```
-###### (https://github.com/arslanbilal/git-cheat-sheet/blob/master/You can track a remote release with the: ```git flow release track RELEASE``` command)
+###### (You can track a remote release with the: ```git flow release track RELEASE``` command)
 
 ##### Finish up a release:
 ###### Finishing a release is one of the big steps in git branching. It performs several actions:

@@ -75,12 +75,12 @@ A :gem: means **really _awesome / useful_**.
 - [zulily/alkali](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
 - [zulily/buoyant](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 - [valentin2105/Kubernetes-Saltstack](https://k8s-salt.opsnotice.xyz/) - Saltstack recipe to deploy Kubernetes cluster from scratch.
-- [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(https://github.com/hbokh/awesome-saltstack/blob/master/ish) Ubuntu server. One that is ready to host Docker containers.
+- [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
 ## Books
 
 - [O'Reilly - Salt Essentials](http://shop.oreilly.com/product/0636920033240.do) by Craig Sebenik, Thomas Hatch.
-- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf) by Mircea Ulinic and Seth House (https://github.com/hbokh/awesome-saltstack/blob/master/an ebook sponsored by Cloudflare).
+- [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf) by Mircea Ulinic and Seth House (an ebook sponsored by Cloudflare).
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) by Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) by Ben Hosmer.
 - [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
@@ -153,13 +153,13 @@ A :gem: means **really _awesome / useful_**.
 ## Cheat sheets
 
 - [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
-- [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (https://github.com/hbokh/awesome-saltstack/blob/master/by "Bladelogic").
+- [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 - [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 - [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
 
-- [Salt (https://github.com/hbokh/awesome-saltstack/blob/master/software)](https://en.wikipedia.org/wiki/Salt_(https://github.com/hbokh/awesome-saltstack/blob/master/software)) - Wikipedia (https://github.com/hbokh/awesome-saltstack/blob/master/English).
+- [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
 - [HubbleStack: Security for DevOps](https://hubblestack.io/) - Hubble is a modular, open-source security compliance framework built on top of SaltStack.
 - [Marc Chenn – CEO / Co-Founder Salt Stack, Inc.](http://www.dannytoney.com/2018/04/04/marc-chenn/) - An interview with SaltStack's CEO and co-founder.
 

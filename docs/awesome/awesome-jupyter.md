@@ -51,7 +51,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 - [nbgrader](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
-- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (https://github.com/markusschanta/awesome-jupyter/blob/master/line-by-line).
+- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ## Visualization
 
@@ -79,7 +79,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 - [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-- [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (https://github.com/markusschanta/awesome-jupyter/blob/master/and back).
+- [notedown](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
 - [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.

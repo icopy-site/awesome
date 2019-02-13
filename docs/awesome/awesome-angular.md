@@ -82,10 +82,10 @@ Table of contents:
 * [ng-newsletter](http://www.ng-newsletter.com)
 * [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies (https://github.com/gdi2290/awesome-angular/blob/master/[Sign up](http://www.angularbuddies.com/))
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 
 #### Angular 2 Server-Side Rendering
-* [Angular 2 Universal Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/angular/universal)
+* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Angular 2 Material Design
 
@@ -140,21 +140,21 @@ Table of contents:
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-* Burak Tasci (https://github.com/gdi2290/awesome-angular/blob/master/fulls1z3)
-  * [Angular 4 with server side rendering (https://github.com/gdi2290/awesome-angular/blob/master/aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+* Burak Tasci (fulls1z3)
+  * [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
 
 #### Angular 2 Integrations
-* [FalcorJS + Angular2 (https://github.com/gdi2290/awesome-angular/blob/master/Video)](https://youtu.be/z8UgDZ4rXBU)
+* [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
 ### Angular 2 Components
-* [Axponents: of Accessible Web Components (https://github.com/gdi2290/awesome-angular/blob/master/Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap)
-* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (https://github.com/gdi2290/awesome-angular/blob/master/w/server-side rendering) by @fulls1z3
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (https://github.com/gdi2290/awesome-angular/blob/master/incl. Angular Universal loader) by @fulls1z3
-* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (https://github.com/gdi2290/awesome-angular/blob/master/incl. browser & server platform implementations) by @fulls1z3
+* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 
 ### Angular 2 Generators
@@ -171,14 +171,14 @@ Table of contents:
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 
 ### Universal Angular 2
-> Universal (https://github.com/gdi2290/awesome-angular/blob/master/isomorphic) javascript support for Angular 2
+> Universal (isomorphic) javascript support for Angular 2
 
 #### Universal General Resources
-* [Universal Angular 2 Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/angular/universal)
+* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal)
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
-* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (https://github.com/gdi2290/awesome-angular/blob/master/SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
@@ -187,14 +187,14 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript General Resources
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
-* [DefinitelyTyped Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [DefinitelyTyped Repository (GitHub)](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 #### TypeScript Angular 2 Online Playground
 
 #### TypeScript Seed Projects
-* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (https://github.com/gdi2290/awesome-angular/blob/master/Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
 * [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
 * [ng2-play.ts](https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2) A minimal Angular2 playground using TypeScript
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
@@ -207,7 +207,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Dart General Resources
 * [Dart](https://www.dartlang.org/) Official Website for Dart
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
-* [Dart Organization (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/dart-lang) Official Github Organization for Dart
+* [Dart Organization (GitHub)](https://github.com/dart-lang) Official Github Organization for Dart
 * [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
 * [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
@@ -229,7 +229,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/babel/babel) Official Github Repo for Babel
+* [Babel Repository (GitHub)](https://github.com/babel/babel) Official Github Repo for Babel
 
 #### Babel Angular 2 Online Playground
 
@@ -252,7 +252,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [angular2haxe](https://github.com/nweedon/angular2haxe)
 
 ### Angular 2 in Scala
-> General purpose language; multiparadigm (https://github.com/gdi2290/awesome-angular/blob/master/object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
+> General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
 
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
@@ -260,7 +260,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ### Platforms
 
 ##### Ionic 2 General Resources
-* [Repository (https://github.com/gdi2290/awesome-angular/blob/master/GitHub)](https://github.com/driftyco/ionic2)
+* [Repository (GitHub)](https://github.com/driftyco/ionic2)
 
 #### Angular 2 in NativeScript
 > Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.

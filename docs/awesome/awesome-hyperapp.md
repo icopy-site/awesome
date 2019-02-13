@@ -30,9 +30,9 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 * [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
-* [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) (https://github.com/hyperapp/awesome-hyperapp/blob/master/Japanese)
-* [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) (https://github.com/hyperapp/awesome-hyperapp/blob/master/Japanase)
-* [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (https://github.com/hyperapp/awesome-hyperapp/blob/master/Japanese)
+* [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) (Japanese)
+* [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) (Japanase)
+* [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (Japanese)
 * [Pure programming with Hyperapp - Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app)
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
@@ -55,7 +55,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
-* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (https://github.com/hyperapp/awesome-hyperapp/blob/master/use of `dangerouslySetInnerHTML`).
+* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching.
 * [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API.
 
@@ -79,7 +79,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
-* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (https://github.com/hyperapp/awesome-hyperapp/blob/master/similiar to redux-form)
+* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
 
 ## Testing
 

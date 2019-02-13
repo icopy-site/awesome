@@ -4,9 +4,9 @@
 
 Curated list of information retrieval and web search resources from all around the web.
 ## Introduction
-[Information Retrieval](httphttps://github.com/harpribot/awesome-information-retrieval/blob/master/s://en.wikipedia.org/wiki/Information_retrieval) involvehttps://github.com/harpribot/awesome-information-retrieval/blob/master/s finding relevant information for uhttps://github.com/harpribot/awesome-information-retrieval/blob/master/ser queriehttps://github.com/harpribot/awesome-information-retrieval/blob/master/s, ranging from https://github.com/harpribot/awesome-information-retrieval/blob/master/simple domain of databahttps://github.com/harpribot/awesome-information-retrieval/blob/master/se https://github.com/harpribot/awesome-information-retrieval/blob/master/search to complicated ahttps://github.com/harpribot/awesome-information-retrieval/blob/master/specthttps://github.com/harpribot/awesome-information-retrieval/blob/master/s of web https://github.com/harpribot/awesome-information-retrieval/blob/master/search (httphttps://github.com/harpribot/awesome-information-retrieval/blob/master/s://github.com/harpribot/awehttps://github.com/harpribot/awesome-information-retrieval/blob/master/some-information-retrieval/blob/mahttps://github.com/harpribot/awesome-information-retrieval/blob/master/ster/Eg - Google, Bing, Yahoo). Currently, rehttps://github.com/harpribot/awesome-information-retrieval/blob/master/searcherhttps://github.com/harpribot/awesome-information-retrieval/blob/master/s are developing algorithmhttps://github.com/harpribot/awesome-information-retrieval/blob/master/s to addrehttps://github.com/harpribot/awesome-information-retrieval/blob/master/shttps://github.com/harpribot/awesome-information-retrieval/blob/master/s [Information Need](httphttps://github.com/harpribot/awesome-information-retrieval/blob/master/s://en.wikipedia.org/wiki/Information_needhttps://github.com/harpribot/awesome-information-retrieval/blob/master/s) of uhttps://github.com/harpribot/awesome-information-retrieval/blob/master/ser(https://github.com/harpribot/awesome-information-retrieval/blob/master/s), by maximizing [Uhttps://github.com/harpribot/awesome-information-retrieval/blob/master/ser and Topic Relevance](httphttps://github.com/harpribot/awesome-information-retrieval/blob/master/s://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved rehttps://github.com/harpribot/awesome-information-retrieval/blob/master/sulthttps://github.com/harpribot/awesome-information-retrieval/blob/master/s, while minimizing [Information Overload](httphttps://github.com/harpribot/awesome-information-retrieval/blob/master/s://en.wikipedia.org/wiki/Information_overload) and retrieval time.
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need](https://en.wikipedia.org/wiki/Information_needs) of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (https://github.com/harpribot/awesome-information-retrieval/blob/master/mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
 ## Contents
  - [Books](#books)
@@ -19,29 +19,29 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
     - [Interesting Reads](#interesting-reads)
 
 ## Books
-- [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (https://github.com/harpribot/awesome-information-retrieval/blob/master/First book for getting started with Information Retrieval).
-- [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009. (https://github.com/harpribot/awesome-information-retrieval/blob/master/Great book for readers interested in knowing how Search Engines work. The book is very detailed).
+- [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).
+- [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009. (Great book for readers interested in knowing how Search Engines work. The book is very detailed).
 - [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
 - [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
 - [Mining the Web: Analysis of Hypertext and Semi Structured Data](http://www.cse.iitb.ac.in/%7Esoumen/mining-the-web/) - S. Chakrabarti. Morgan Kaufmann, 2002.
-- [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W.B. Croft, J. Lafferty. Springer, 2003. (https://github.com/harpribot/awesome-information-retrieval/blob/master/Handles Language Modeling aspect of Information Retrieval. It also extensively details probabilistic perspective in this domain, which is interesting).
-- [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000. (https://github.com/harpribot/awesome-information-retrieval/blob/master/Comprehensive survey of Conventional Information Retrieval, before Deep Learning era).
-- [Introduction to  Modern Information Retrieval](https://github.com/harpribot/awesome-information-retrieval/blob/master/ https://www.amazon.com/Introduction-Modern-Information-Retrieval-Third/dp/185604694X) - G.G. Chowdhury. Neal-Schuman, 2003. (https://github.com/harpribot/awesome-information-retrieval/blob/master/Intended for students of library and information studies).
-- [Text Information Retrieval Systems](https://www.amazon.com/Information-Retrieval-Systems-Library-Hardcover/dp/0123694124) - C.T. Meadow, B.R. Boyce, D.H. Kraft, C.L.  Barry. Academic Press, 2007 (https://github.com/harpribot/awesome-information-retrieval/blob/master/library/information science  perspective).
+- [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W.B. Croft, J. Lafferty. Springer, 2003. (Handles Language Modeling aspect of Information Retrieval. It also extensively details probabilistic perspective in this domain, which is interesting).
+- [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000. (Comprehensive survey of Conventional Information Retrieval, before Deep Learning era).
+- [Introduction to  Modern Information Retrieval](https://github.com/harpribot/awesome-information-retrieval/blob/master/ https://www.amazon.com/Introduction-Modern-Information-Retrieval-Third/dp/185604694X) - G.G. Chowdhury. Neal-Schuman, 2003. (Intended for students of library and information studies).
+- [Text Information Retrieval Systems](https://www.amazon.com/Information-Retrieval-Systems-Library-Hardcover/dp/0123694124) - C.T. Meadow, B.R. Boyce, D.H. Kraft, C.L.  Barry. Academic Press, 2007 (library/information science  perspective).
 
 
 ## Courses
-- [INF384H / CS395T / INF350E: Concepts of Information Retrieval (https://github.com/harpribot/awesome-information-retrieval/blob/master/and Web Search)](http://courses.ischool.utexas.edu/Lease_Matt/2016/Fall/INF384H/) - Matthew Lease (https://github.com/harpribot/awesome-information-retrieval/blob/master/University of Texas at Austin).
-- [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (https://github.com/harpribot/awesome-information-retrieval/blob/master/Stanford University).
-- [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (https://github.com/harpribot/awesome-information-retrieval/blob/master/University of Texas at Austin).
-- [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (https://github.com/harpribot/awesome-information-retrieval/blob/master/University of California - Riverside).
-- [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (https://github.com/harpribot/awesome-information-retrieval/blob/master/UC berkeley).
-- [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (https://github.com/harpribot/awesome-information-retrieval/blob/master/CMU).
-- [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (https://github.com/harpribot/awesome-information-retrieval/blob/master/John Hopkins University).
-- [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (https://github.com/harpribot/awesome-information-retrieval/blob/master/Princeton University).
-- [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (https://github.com/harpribot/awesome-information-retrieval/blob/master/MPI).
-- [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/~cs6714/17s2/index.html) - Prof. Wei Wang (https://github.com/harpribot/awesome-information-retrieval/blob/master/University of New South Wales).
-- [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (https://github.com/harpribot/awesome-information-retrieval/blob/master/University of Illinois at Urbana-Champaign).
+- [INF384H / CS395T / INF350E: Concepts of Information Retrieval (and Web Search)](http://courses.ischool.utexas.edu/Lease_Matt/2016/Fall/INF384H/) - Matthew Lease (University of Texas at Austin).
+- [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (Stanford University).
+- [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
+- [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
+- [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC berkeley).
+- [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (CMU).
+- [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University).
+- [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University).
+- [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
+- [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/~cs6714/17s2/index.html) - Prof. Wei Wang (University of New South Wales).
+- [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
 ## Software
 - [Apache Lucene](http://lucene.apache.org/core/) - Open Source Search Engine that can be used to test Information Retrieval Algorithm. Twitter uses this core for its real-time search.
@@ -58,10 +58,10 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - [Chemical IR](http://trec.nist.gov/data/chem-ir.html) - Address challenges in building large chemical testbeds for chemical IR.
   - [Clinical Decision Support](http://trec.nist.gov/data/clinical.html) - Investigate techniques to link medical cases to information relevant for patient care.
   - [Confusion](http://trec.nist.gov/data/confusion.html) - Study [Known Item Searching](http://trec.nist.gov/data/confusion/t5confusion.ps) problem.
-  - [Contextual Suggestion](http://trec.nist.gov/data/context.html) - Investigate search techniques for complex information needs (https://github.com/harpribot/awesome-information-retrieval/blob/master/context and user interests based).
+  - [Contextual Suggestion](http://trec.nist.gov/data/context.html) - Investigate search techniques for complex information needs (context and user interests based).
   - [Crowdsourcing](http://trec.nist.gov/data/crowd.html) - Explore crowdsourcing methods for performing and evaluating search.
   - [Enterprise](http://trec.nist.gov/data/enterprise.html) - Study search over the organization data.
-  - [Entity](http://trec.nist.gov/data/entity.html) - Perform entity-related search (https://github.com/harpribot/awesome-information-retrieval/blob/master/find entities and their properties) on Web data.
+  - [Entity](http://trec.nist.gov/data/entity.html) - Perform entity-related search (find entities and their properties) on Web data.
   - [Filtering](http://trec.nist.gov/data/filtering.html) - Binarily decide retrieval of new incoming documents given a stable information need.
   - [Federated Web Search](http://trec.nist.gov/data/federated.html) - Study merge performance for results from various search services.
   - [Genomics](http://trec.nist.gov/data/genomics.html) - Study retrieval efficiency of genomics data and corresponding documentation.
@@ -72,7 +72,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - [Medical Track](http://trec.nist.gov/data/medical.html) - Explore unstructured search performance over patients record data.
   - [Microblog Track](http://trec.nist.gov/data/microblog.html) - Examine satisfaction of real-time information need for microblogging sites.
   - [Million Query Track](http://trec.nist.gov/data/million.query.html) - Explore ad-hoc retrieval over large set of queries.
-  - [Novelty Track](http://trec.nist.gov/data/novelty.html) - Investigate systems' abilities to locate new (https://github.com/harpribot/awesome-information-retrieval/blob/master/non-redundant) information.
+  - [Novelty Track](http://trec.nist.gov/data/novelty.html) - Investigate systems' abilities to locate new (non-redundant) information.
   - [Question Answering Track](http://trec.nist.gov/data/qamain.html) - Test systems that scale beyond document retrieval, to retrieve answers to factoid, list and definition type questions.
   - [Relevance Feedback Track](http://trec.nist.gov/data/relevance.feedback.html) - For deep evaluation of relevance feedback processes.
   - [Robust Track](http://trec.nist.gov/data/robust.html) - Study individual topic's effectiveness.
@@ -84,11 +84,11 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
   - [Web Track](http://trec.nist.gov/data/webmain.html) - Explore information seeking behaviors common in general web search.
 - [GOV2 Test Collection](http://ir.dcs.gla.ac.uk/test_collections/gov2-summary.htm) - This is one of the largest Web collection of documents obtained from crawl of government websites by Charlie Clarke and Ian Soboroff, using NIST hardware and network, then formatted by Nick Craswel.
 - [NTCIR Test Collection](http://research.nii.ac.jp/ntcir/data/data-en.html) - This is collection of wide variety of dataset ranging from Ad-hoc collection, Chinese IR collection, mobile clickthrough collections to medical collections. The focus of this collection is mostly on east asian languages and cross language information retrieval.
-  - [CLIR Test Collections](http://research.nii.ac.jp/ntcir/permission/ntcir-6/perm-en-CLIR.html) - This dataset can be used for cross lingual IR between CJKE (https://github.com/harpribot/awesome-information-retrieval/blob/master/Chinese-Japanese-Korean-English) languages. It is suitable for the following tasks:
+  - [CLIR Test Collections](http://research.nii.ac.jp/ntcir/permission/ntcir-6/perm-en-CLIR.html) - This dataset can be used for cross lingual IR between CJKE (Chinese-Japanese-Korean-English) languages. It is suitable for the following tasks:
     - Multilingual CLIR
     - Bilingual CLIR
     - Single Language CLIR
-  - [Cross Language Q&A (https://github.com/harpribot/awesome-information-retrieval/blob/master/CLQA) dataset collection](http://research.nii.ac.jp/ntcir/permission/ntcir-6/perm-en-https://github.com/harpribot/awesome-information-retrieval/blob/master/CLQA.html) - It supports following bi-lingua and mono-lingua:
+  - [Cross Language Q&A (CLQA) dataset collection](http://research.nii.ac.jp/ntcir/permission/ntcir-6/perm-en-CLQA.html) - It supports following bi-lingua and mono-lingua:
     - Bi-lingua
       - Japanese to English.
       - Chinese to English.
@@ -98,18 +98,18 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
       - Chinese to Chinese.
       - Japanese to Japanese.
       - English to English.
-  - [Advanced Cross Linugal Information Retrieval and Question Answering (https://github.com/harpribot/awesome-information-retrieval/blob/master/ACLIA)](http://research.nii.ac.jp/ntcir/permission/ntcir-8/perm-en-https://github.com/harpribot/awesome-information-retrieval/blob/master/ACLIA.html) - The dataset is used for the task of cross-lingual question answering but the complexity of the task is higher than CLQA dataset.
-- [Conference and Labs of the Evaluation Forum (https://github.com/harpribot/awesome-information-retrieval/blob/master/CLEF) dataset](http://www.clef-initiative.eu/dataset/test-collection) - It contains a multi-lingual document collection. The test suite includes:
+  - [Advanced Cross Linugal Information Retrieval and Question Answering (ACLIA)](http://research.nii.ac.jp/ntcir/permission/ntcir-8/perm-en-ACLIA.html) - The dataset is used for the task of cross-lingual question answering but the complexity of the task is higher than CLQA dataset.
+- [Conference and Labs of the Evaluation Forum (CLEF) dataset](http://www.clef-initiative.eu/dataset/test-collection) - It contains a multi-lingual document collection. The test suite includes:
   - AdHoc - News Test suite.
   - Domain Specific Test Suite - On collections of scientific articles.
   - Question Answering Test Suite.
 - [Reuters Corpora](http://trec.nist.gov/data/reuters/reuters.html) - The corpora is now available through NIST. The corpora includes following:
-  - RCV1 (https://github.com/harpribot/awesome-information-retrieval/blob/master/Reuter's Corpus Volume 1) - Consists of only English language News stories.
-  - RCV2 (https://github.com/harpribot/awesome-information-retrieval/blob/master/Reuter's Corpus Volume 2) - Consists of stories in 13 languages (https://github.com/harpribot/awesome-information-retrieval/blob/master/Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
-  - TRC (https://github.com/harpribot/awesome-information-retrieval/blob/master/Thomson Reuters Text Research Collection) - This is a fairly recent corpus consisting of 1,800,370 news stories covering the period from 2008-01-01 00:00:03 to 2009-02-28 23:54:14.
+  - RCV1 (Reuter's Corpus Volume 1) - Consists of only English language News stories.
+  - RCV2 (Reuter's Corpus Volume 2) - Consists of stories in 13 languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
+  - TRC (Thomson Reuters Text Research Collection) - This is a fairly recent corpus consisting of 1,800,370 news stories covering the period from 2008-01-01 00:00:03 to 2009-02-28 23:54:14.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - This data set consists of 20000 newsgroup messages.posts taken from 20 newsgroup topics.
 - [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
-- [Document Understanding Conference (https://github.com/harpribot/awesome-information-retrieval/blob/master/DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (https://github.com/harpribot/awesome-information-retrieval/blob/master/DUC 2001 - https://github.com/harpribot/awesome-information-retrieval/blob/master/DUC 2007) are available upon request.
+- [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
 
 #### External Curation Links
 - [CMU List](http://boston.lti.cs.cmu.edu/callan/Data/#DIR)
@@ -118,23 +118,23 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 
 ## Talks
 #### Technical Talks
-- [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) - Manik Verma (https://github.com/harpribot/awesome-information-retrieval/blob/master/Microsoft Research)
-- [The next web](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim Berners-Lee (https://github.com/harpribot/awesome-information-retrieval/blob/master/Ted Talk) [Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (https://github.com/harpribot/awesome-information-retrieval/blob/master/W3C), overseeing the Web's standards and development].
-- [Is Pivot a turning point for web exploration?](https://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Gary Flake, Technical Fellow at Microsoft (https://github.com/harpribot/awesome-information-retrieval/blob/master/TED Talks).
-- [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (https://github.com/harpribot/awesome-information-retrieval/blob/master/WSDM Conference, 2009).
-- [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) - David Wilne (https://github.com/harpribot/awesome-information-retrieval/blob/master/The University of Waikato, 2008).
-- [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa (https://github.com/harpribot/awesome-information-retrieval/blob/master/RackSpace Developers) [This talk shows that IR is not just text and images].
-- [The Functional Web -- The Future of Apps and the Web](https://youtu.be/u6oqr3gMyxk) - Liron Shapira (https://github.com/harpribot/awesome-information-retrieval/blob/master/Box Tech Talk).
-- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (https://github.com/harpribot/awesome-information-retrieval/blob/master/Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013].
-- [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Dr. Alma Whitten (https://github.com/harpribot/awesome-information-retrieval/blob/master/Google Brussels Tech Talk).
+- [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) - Manik Verma (Microsoft Research)
+- [The next web](https://www.ted.com/talks/tim_berners_lee_on_the_next_web) - Tim Berners-Lee (Ted Talk) [Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (W3C), overseeing the Web's standards and development].
+- [Is Pivot a turning point for web exploration?](https://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Gary Flake, Technical Fellow at Microsoft (TED Talks).
+- [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) - Jeff Dean (WSDM Conference, 2009).
+- [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) - David Wilne (The University of Waikato, 2008).
+- [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa (RackSpace Developers) [This talk shows that IR is not just text and images].
+- [The Functional Web -- The Future of Apps and the Web](https://youtu.be/u6oqr3gMyxk) - Liron Shapira (Box Tech Talk).
+- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013].
+- [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Dr. Alma Whitten (Google Brussels Tech Talk).
 
 
 #### Philosophical Talks
-- [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (https://github.com/harpribot/awesome-information-retrieval/blob/master/Swedish Author & Journalist, TED Talk).
-- [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (https://github.com/harpribot/awesome-information-retrieval/blob/master/Author of the Filter Bubble, TED Talk).
-- [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (https://github.com/harpribot/awesome-information-retrieval/blob/master/CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it].
+- [The moral bias behind your search results](https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results) - Andreas Ekström (Swedish Author & Journalist, TED Talk).
+- [Beware online "filter bubbles"](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en) - Eli Pariser (Author of the Filter Bubble, TED Talk).
+- [Think your email's private? Think again](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again) - Andy Yen (CERN, TED Talk) [This talk talks about privacy, which Search Engines intrude into, and how can people protect it].
 - [Do we have the right to be forgotten?](https://youtu.be/YO0lbdhF30g) - Michael Douglas [TEDx SouthBank].
-- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (https://github.com/harpribot/awesome-information-retrieval/blob/master/Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
+- [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) [Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org).

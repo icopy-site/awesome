@@ -2,11 +2,11 @@
 
 > Curated list of projects that build non-financial applications of blockchain.
 
-The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/by [Don Tapscott](https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)).
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)).
 
 Most applications of blockchain lie in a financial realm. That makes non-financial applications even more intriguing.
 
-Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/https://21.co) (https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/now [Earn.com](https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/https://earn.com)) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
+Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://21.co) (now [Earn.com](https://earn.com)) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
 
 ## Contents
 

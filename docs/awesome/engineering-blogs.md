@@ -440,7 +440,7 @@
 * Zapier https://zapier.com/engineering/
 * ZeeMee https://zeemee.engineering/
 * Zendesk https://medium.com/zendesk-engineering
-* Zendesk(https://github.com/kilimchoi/engineering-blogs/blob/master/old) https://developer.zendesk.com/blog
+* Zendesk(old) https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
@@ -511,7 +511,7 @@
 * Daily JS https://medium.com/dailyjs
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
-* Daniel Doubrovkine (https://github.com/kilimchoi/engineering-blogs/blob/master/dB.) http://code.dblock.org/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Daniel Schmidt https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
@@ -524,7 +524,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Domenico Luciani https://domenicoluciani.com
-* Dot Dev (https://github.com/kilimchoi/engineering-blogs/blob/master/.dev) https://dotdev.co
+* Dot Dev (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
@@ -662,7 +662,7 @@
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
-* Nicolai Parlog (https://github.com/kilimchoi/engineering-blogs/blob/master/CodeFX) http://codefx.org
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/

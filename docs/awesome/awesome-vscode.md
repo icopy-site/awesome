@@ -133,7 +133,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Spotify](#spotify)
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
-  - [Text Marker (https://github.com/viatsko/awesome-vscode/blob/master/Highlighter)](https://github.com/viatsko/awesome-vscode/blob/master/#text-marker-highlighter)
+  - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
@@ -152,7 +152,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
   - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
-  - [Monokai Pro by monokai (https://github.com/viatsko/awesome-vscode/blob/master/commercial)](#monokai-pro-by-monokai-https://github.com/viatsko/awesome-vscode/blob/master/commercial)
+  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -165,7 +165,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Libraries](#libraries)
   - [Tools](#tools)
 - [Online Courses](#online-courses)
-  - [Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)](#visual-studio-code-power-user-course-https://github.com/viatsko/awesome-vscode/blob/master/commercial)
+  - [Visual Studio Code Power User Course (commercial)](#visual-studio-code-power-user-course-commercial)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -173,8 +173,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 - [Official website](https://code.visualstudio.com/)
 - [Source code](https://github.com/microsoft/vscode) on GitHub
-- [Releases (https://github.com/viatsko/awesome-vscode/blob/master/stable channel)](https://code.visualstudio.com/download)
-- [Releases (https://github.com/viatsko/awesome-vscode/blob/master/insiders channel)](https://code.visualstudio.com/insiders)
+- [Releases (stable channel)](https://code.visualstudio.com/download)
+- [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
 ## Syntax
@@ -196,7 +196,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [Flatbuffers](https://marketplace.visualstudio.com/items?itemName=gaborv.flatbuffers)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
-- [Hack(https://github.com/viatsko/awesome-vscode/blob/master/HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
+- [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
@@ -205,7 +205,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
-- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (https://github.com/viatsko/awesome-vscode/blob/master/only for Windows)
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
@@ -241,20 +241,20 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 ## Using VS Code with particular technologies
 
-Microsoft created a collection of recipes for using VS Code with particular technologies (https://github.com/viatsko/awesome-vscode/blob/master/mostly Web).
+Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
 
 Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
-> lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (https://github.com/viatsko/awesome-vscode/blob/master/likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
+> lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (https://github.com/viatsko/awesome-vscode/blob/master/BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## Bash
 
@@ -270,7 +270,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
-- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (https://github.com/viatsko/awesome-vscode/blob/master/and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
@@ -325,7 +325,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Java
 
-- [Language Support for Java(https://github.com/viatsko/awesome-vscode/blob/master/TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
@@ -338,7 +338,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (https://github.com/viatsko/awesome-vscode/blob/master/with `"tslint.jsEnable": true`).
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
@@ -364,7 +364,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-> All-in-one markdown plugin (https://github.com/viatsko/awesome-vscode/blob/master/keyboard shortcuts, table of contents, auto preview, list editing and more)
+> All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
 
 ![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
 
@@ -429,7 +429,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Python
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (https://github.com/viatsko/awesome-vscode/blob/master/multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
 ### TensorFlow
 
@@ -516,7 +516,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-> Provides Git CodeLens information (https://github.com/viatsko/awesome-vscode/blob/master/most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
+> Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
 ![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/docs/gitlens-preview.gif)
 
@@ -530,7 +530,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
-> Provides GitHub workflow support. For example browse project, issues, file (https://github.com/viatsko/awesome-vscode/blob/master/the current line), create and manage pull request. Support for other providers (https://github.com/viatsko/awesome-vscode/blob/master/e.g. gitlab or bitbucket) is planned.
+> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
 > Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
@@ -597,7 +597,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
-> Compare (https://github.com/viatsko/awesome-vscode/blob/master/diff) text selections within a file, across https://github.com/viatsko/awesome-vscode/blob/master/different files, or to the clipboard
+> Compare (diff) text selections within a file, across different files, or to the clipboard
 
 ![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
@@ -667,7 +667,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-> Align your code by colon(https://github.com/viatsko/awesome-vscode/blob/master/:), assignment(https://github.com/viatsko/awesome-vscode/blob/master/=,+=,-=,*=,/=) and arrow(https://github.com/viatsko/awesome-vscode/blob/master/=>). It has additional support for comma-first coding style and trailing comment.
+> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
 >
 > And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
@@ -872,7 +872,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
-> A Powerful SVG Language Support Extension(https://github.com/viatsko/awesome-vscode/blob/master/beta). Almost all the features you need to handle SVG.
+> A Powerful SVG Language Support Extension(beta). Almost all the features you need to handle SVG.
 
 ![SVG](https://raw.githubusercontent.com/lishu/vscode-svg/master/images/f1.png)
 
@@ -882,11 +882,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
-## [Text Marker (https://github.com/viatsko/awesome-vscode/blob/master/Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
+## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
 
 > Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
 
-![Text Marker (https://github.com/viatsko/awesome-vscode/blob/master/Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [ESDOC MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
 
@@ -1033,7 +1033,7 @@ Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushq
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/moblique.png" width="600" />
 </a>
 
-### [Monokai Pro by monokai (https://github.com/viatsko/awesome-vscode/blob/master/commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
+### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
 
 Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
 
@@ -1132,7 +1132,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
-- [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (https://github.com/viatsko/awesome-vscode/blob/master/and matching ones for your other tools).
+- [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
@@ -1141,7 +1141,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Online Courses
 
-## Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)
+## Visual Studio Code Power User Course (commercial)
 
 After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
@@ -1154,7 +1154,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/via
 
 ## License
 
-I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/viatsko/awesome-vscode/blob/master/Microsoft).
+I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Microsoft).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

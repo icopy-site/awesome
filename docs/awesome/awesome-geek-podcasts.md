@@ -35,7 +35,7 @@ A curated list of podcasts we like to listen to.
 * [.NET Rocks!](https://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
-* [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/STEM).
+* [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 * [Almost Better Than Silence](https://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 * [Ask Noah](http://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
@@ -85,7 +85,7 @@ A curated list of podcasts we like to listen to.
 * [Elixir Mix](https://devchat.tv/elixir-mix/) - Elixir Mix is a weekly show focused on the Elixir programming community.
 * [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 * [Embedded.fm](https://www.embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
-* [Ember Weekhttps://github.com/guipdutra/awesome-geek-podcasts/blob/master/end](https://emberweekhttps://github.com/guipdutra/awesome-geek-podcasts/blob/master/end.com/episodes) - A week(https://github.com/guipdutra/awesome-geek-podcasts/blob/master/end)ly podcast about Ember, hosted by Jon and Chase.
+* [Ember Weekend](https://emberweekend.com/episodes) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
 * [Elm Town](https://elmtown.audio/) - A podcast about the people making and using the Elm language, and the things that they do.
 * [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
 * [FiveJS](https://www.pluralsight.com/codeschool) - The latest news in the JavaScript community.
@@ -119,7 +119,7 @@ A curated list of podcasts we like to listen to.
 * [Linux Action News](http://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
-* [Listen and Learn about https://github.com/guipdutra/awesome-geek-podcasts/blob/master/AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/AWS) offering. Each podcast include https://github.com/guipdutra/awesome-geek-podcasts/blob/master/AWS news, tech tips, and interviews with startups, https://github.com/guipdutra/awesome-geek-podcasts/blob/master/AWS partners, and https://github.com/guipdutra/awesome-geek-podcasts/blob/master/AWS employees.
+* [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
 * [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 * [Makers](https://crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
 * [Mastering Embedded Systems](https://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
@@ -134,7 +134,7 @@ A curated list of podcasts we like to listen to.
 * [Packet Pushers](https://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
 * [Partially Derivative](http://partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/or upcoming things) in the PHP community, with different guests each week.
+* [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](https://www.podcastinit.com/) - A podcast about Python and the people who make it great.
 * [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
@@ -147,7 +147,7 @@ A curated list of podcasts we like to listen to.
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch) - Official podcast from NASA’s Kennedy Space Center.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/libraries) as well as programming practices, tools, and careers.
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
@@ -157,16 +157,16 @@ A curated list of podcasts we like to listen to.
 * [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](https://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
-* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
+* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
 * [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 * [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
-* [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/DevOps).
+* [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
-* [Talk Python to Me](https://talkpython.fm/) - Weekly podcast (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/30 minutes) that covers a wide array of Python topics.
+* [Talk Python to Me](https://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 * [TechStuff](https://www.stuffmedia.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Test and Code Podcast](https://testandcode.com/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
@@ -174,7 +174,7 @@ A curated list of podcasts we like to listen to.
 * [The 6 Figure Developer Podcast](https://6figuredev.com) - The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
 * [The Accidental Engineer](https://theaccidentalengineer.com/) - Interviews with engineers about how they started their career
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
-* [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(https://github.com/guipdutra/awesome-geek-podcasts/blob/master/ish) weekly show.
+* [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
 * [The Back to Front Show](https://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
@@ -186,7 +186,7 @@ A curated list of podcasts we like to listen to.
 * [The Hanselminutes podcast](https://hanselminutes.com/) - Fresh Air for Developers.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
-* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/discontinued)
+* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 * [The Manifest](https://manifest.fm) - A podcast all about package management.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
@@ -248,7 +248,7 @@ A curated list of podcasts we like to listen to.
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
-* [CAChemE](https://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/principalmente Python).
+* [CAChemE](https://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [Compilando podcast](https://compilando.audio/) - GNU/Linux y software libre.
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
@@ -257,7 +257,7 @@ A curated list of podcasts we like to listen to.
 * [Programar es una mierda](https://www.programaresunamierda.com/) - Podcast sobre desarrollo de software.
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
-* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/algunos episodios en inglés / some podcasts in English).
+* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
 
@@ -285,10 +285,10 @@ A curated list of podcasts we like to listen to.
 
 ## In French
 
-* [Blogue Linux](http://www.bloguelinux.ca/) - French (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Quebec) podcast talking about Linux technologies.
+* [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [La Dev Team](http://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
 * [Le comptoir sécu](https://www.comptoirsecu.fr/) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
-* [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/JBoss, Hibernate), Arnaud Héritier (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CloudBees, Jenkins), Guillaume Laforge (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Google, Groovy), Antonio Goncalves (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/freelance, auteur), Vincent Massol (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/XWiki, Maven), Audrey Neveu (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Saagie, Devoxx4Kids).
+* [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
 ## In German
@@ -314,7 +314,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Turkish
 
-* [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
+* [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
 ## In Finnish
 
@@ -344,10 +344,10 @@ A curated list of podcasts we like to listen to.
 
 * [Pocket Casts](https://www.pocketcasts.com/)
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
-* [AntennaPod](http://antennapod.org) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
-* [Soundwaves](https://github.com/bottiger/SoundWaves) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
+* [AntennaPod](http://antennapod.org) - (Android and Open Source)
+* [Soundwaves](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
-* [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
+* [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](https://radiopublic.com/)
 
 ### More

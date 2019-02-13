@@ -68,13 +68,13 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
 * [node-opcua-logger](https://github.com/coussej/node-opcua-logger) - Collect industrial data from OPC UA Servers 
-* [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/fraction of) seconds
+* [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) - Console app to observe Windows process starts and stops via InfluxDB
-* [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - Periodically send system information into influxdb (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/uses python3 + psutil, so it also works under Windows)
-* [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/linux) info to InfluxDB
+* [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - Periodically send system information into influxdb (uses python3 + psutil, so it also works under Windows)
+* [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
 * [snmpcollector](https://github.com/toni-moreno/snmpcollector) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
-* [Telegraf](https://github.com/influxdata/telegraf) - (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/Official) plugin-driven server agent for reporting metrics into InfluxDB
-* [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/[rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
+* [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
+* [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 * [traffic_stats](http://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) - Acquires and stores statistics about CDNs controlled by [Apache Traffic Control](https://trafficcontrol.apache.org/)
 * [vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
 
@@ -90,13 +90,13 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [Domoticz](https://www.domoticz.com) - Open source Home Automation System
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
-* [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/carbon) / statsd / librato / influxDB
+* [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
 * [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 * [internet_data_usage](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
 * [ioBroker](http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
 * [jmxtrans](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
-* [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) - Popular load testing tool, you can get real-time results sent to a backend through the InfluxDBBackendListenerClient which allows you to send metrics (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/active threads, response time ...) to an InfluxDB Backend using UDP or HTTP protocols
+* [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) - Popular load testing tool, you can get real-time results sent to a backend through the InfluxDBBackendListenerClient which allows you to send metrics (active threads, response time ...) to an InfluxDB Backend using UDP or HTTP protocols
 * [logary](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [OpenHAB](https://www.openhab.org/) - A universal integration platform for all things around home automation
@@ -112,7 +112,7 @@ Libraries to collect data and feed into InfluxDB.
 * [django-influxdb-metrics](https://github.com/bitlabstudio/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
 * [go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
-* [metrics](https://github.com/beberlei/metrics) - (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/functional) API that doesn't cause vendor lock-in"
+* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](https://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
 * [telemetry](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 
@@ -157,7 +157,7 @@ Tools to import a fixed set of data into InfluxDB.
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - Graphite InfluxDB storage finder for Graphite-API
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
-* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/use InfluxData.Net run on MS Windows)
+* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 
 ### Other tools
 
@@ -187,7 +187,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 ## Hosting of InfluxDB / SaaS
 
 * [InfluxCloud](https://cloud.influxdata.com/plan-picker) - From the creators of InfluxDB
-* [Aiven](https://aiven.io/influxdb) - Provides a choice of host (https://github.com/mark-rushakoff/awesome-influxdb/blob/master/AWS, Google, DigitalOcean, etc.), geographic location, and server specs
+* [Aiven](https://aiven.io/influxdb) - Provides a choice of host (AWS, Google, DigitalOcean, etc.), geographic location, and server specs
 * [Scalingo](https://scalingo.com/databases/influxdb) - Provides a choice of server specs
 * [HostedMetrics](https://hostedmetrics.com/product/influxdb/) - Geared towards custom application monitoring by hosting the combination of InfluxDB, Grafana, and StatsD
 

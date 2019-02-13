@@ -19,10 +19,10 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Open-source host-it-yourself:
 
- * [Contact Congress (https://github.com/drewrwilson/toolsforactivism/blob/master/Open Source)](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
+ * [Contact Congress (Open Source)](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
  * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla](https://github.com/mozilla/call-congress) and the [EFF](https://github.com/effOrg/call-congress/tree/refactor/master). The updated website is [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL available on [Github](https://github.com/spacedogXYZ/call-power/).
- * [Twilio.org's Rapid Response Kit](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (https://github.com/drewrwilson/toolsforactivism/blob/master/inbound voice/sms responder), Broadcast (https://github.com/drewrwilson/toolsforactivism/blob/master/simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (https://github.com/drewrwilson/toolsforactivism/blob/master/call down a list of people, if 1st person doesn't answer go on to the next), Help Line (https://github.com/drewrwilson/toolsforactivism/blob/master/Press 1 for..., Press 2 for...)
- * [Ushahidi](https://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (https://github.com/drewrwilson/toolsforactivism/blob/master/data about world crises), Ping (https://github.com/drewrwilson/toolsforactivism/blob/master/tool for checking is someone is ok after an emergency), SMSsync (https://github.com/drewrwilson/toolsforactivism/blob/master/two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
+ * [Twilio.org's Rapid Response Kit](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
+ * [Ushahidi](https://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
  * [Crowdring](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
@@ -34,12 +34,12 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
  * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
  * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
- * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (https://github.com/drewrwilson/toolsforactivism/blob/master/They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
- * [Contact Congress (https://github.com/drewrwilson/toolsforactivism/blob/master/FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
+ * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
+ * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
- * [Democracy.io](https://democracy.io) (https://github.com/drewrwilson/toolsforactivism/blob/master/[code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
+ * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
  
 ## Operating Systems:
 
@@ -49,12 +49,12 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
  * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
-## Projects to keep an eye on (https://github.com/drewrwilson/toolsforactivism/blob/master/ie projects in development)
+## Projects to keep an eye on (ie projects in development)
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
- * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) (https://github.com/drewrwilson/toolsforactivism/blob/master/[code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
+ * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Code Corps](https://github.com/code-corps) - code corps hopes to provide tools that connect people to projects that have a social impact, facilitate crowdfunding, and provide support for those working on projects 
 
@@ -62,7 +62,7 @@ These are all projects that are works in process. Not finished, but worth checki
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
- * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (https://github.com/drewrwilson/toolsforactivism/blob/master/that's just like a comment). FYI you'll need to create a github account.
+ * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
 
 ## License
 

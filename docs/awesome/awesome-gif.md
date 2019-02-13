@@ -12,7 +12,7 @@
 <b><a href="#license--credits">License & Credits</a></b>
 </p>
 
-This is a list of tools, scripts, libraries, examples & other resources related to the Graphics Interchange Format (https://github.com/davisonio/awesome-gif/blob/master/GIF) image format.
+This is a list of tools, scripts, libraries, examples & other resources related to the Graphics Interchange Format (GIF) image format.
 
 ![](https://davison.io/assets/img/awesome-gif-logo.gif)
 
@@ -59,7 +59,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
-- [Gifify (https://github.com/davisonio/awesome-gif/blob/master/not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
+- [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
@@ -82,7 +82,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video
 - [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
-- [Gifit (https://github.com/davisonio/awesome-gif/blob/master/the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
+- [Gifit (the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 
 ### Libraries
@@ -101,7 +101,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - A simple library to display animated GIF images in WPF
-- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (https://github.com/davisonio/awesome-gif/blob/master/WPF, WinRT, Windows Phone)
+- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
 
 #### Haxe
@@ -208,7 +208,7 @@ Imagemagick
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-Bash script (https://raw.githubusercontent.com/davisonio/awesome-gif/master/```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
+Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
@@ -222,17 +222,17 @@ fi
         suffix="jpg"
     fi
 
-    CONVERT=$(https://github.com/davisonio/awesome-gif/blob/master/which convert)
-    GM=$(https://github.com/davisonio/awesome-gif/blob/master/which gm)
-    FFMPEG=$(https://github.com/davisonio/awesome-gif/blob/master/which ffmpeg)
-    FFPROBE=$(https://github.com/davisonio/awesome-gif/blob/master/which ffprobe)
-    FPS=$(https://github.com/davisonio/awesome-gif/blob/master/$FFPROBE -show_streams -select_streams v -i "$2"  2>/dev/null | grep "r_frame_rate" | cut -d'=' -f2 | cut -d'/' -f1)
+    CONVERT=$(which convert)
+    GM=$(which gm)
+    FFMPEG=$(which ffmpeg)
+    FFPROBE=$(which ffprobe)
+    FPS=$($FFPROBE -show_streams -select_streams v -i "$2"  2>/dev/null | grep "r_frame_rate" | cut -d'=' -f2 | cut -d'/' -f1)
     echo "FPS: ${FPS}"
 if [ "im" == "$4" ]; then # use imagemagick
-    FPS=$(https://github.com/davisonio/awesome-gif/blob/master/echo "1 / ${FPS} * 100" |bc -l)
+    FPS=$(echo "1 / ${FPS} * 100" |bc -l)
     $CONVERT "$1/*.${suffix}"  -delay ${FPS} -loop 0 "$3"
 elif [ "gm" == "$4" ]; then # use graphicsmagick
-    FPS=$(https://github.com/davisonio/awesome-gif/blob/master/echo "1 / ${FPS} * 100" |bc -l)
+    FPS=$(echo "1 / ${FPS} * 100" |bc -l)
     $GM convert "$1/*.${suffix}"  -delay ${FPS} -loop 0 "$3"
 else # use crappy gif-algorithm from ffmpeg
     $FFMPEG -f image2 -framerate ${FPS} -i "$1/%08d.${suffix}" "$3"
@@ -294,10 +294,10 @@ convert -layers Optimize output.gif output_optimized.gif
 ```python
 from moviepy.editor import *
 
-clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip("input.avi")
-        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
-        .resize(https://github.com/davisonio/awesome-gif/blob/master/0.3))
-clip.write_gif(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"output.gif")
+clip = (VideoFileClip("input.avi")
+        .subclip((4,00.00),(5,00.00))
+        .resize(0.3))
+clip.write_gif("output.gif")
 
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
@@ -309,11 +309,11 @@ Freezing a region
 ```python
 from moviepy.editor import *
 
-clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip("input.avi")
-        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
-        .resize(https://github.com/davisonio/awesome-gif/blob/master/0.3)
-        .fx(https://github.com/davisonio/awesome-gif/blob/master/vfx.freeze_region, outside_region=(170, 230, 380, 320)))
-clip.write_gif(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"output.gif", fps=15)
+clip = (VideoFileClip("input.avi")
+        .subclip((4,00.00),(5,00.00))
+        .resize(0.3)
+        .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
+clip.write_gif("output.gif", fps=15)
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
@@ -326,7 +326,7 @@ ffmpeg \
   [0:v]setpts=PTS-STARTPTS[vid];                                      `# speed adjustment - not needed here, so noop`
   color=white,scale=3840x2160,fade=in:st=0:d=${fadetime}[alpha];      `# crossfade alpha, double length ahead of speed change`
   [1:v][alpha]alphamerge[am];                                         `# apply alpha to lead-in`
-  [am]setpts=PTS+(https://github.com/davisonio/awesome-gif/blob/master/${duration}-${fadetime})/TB[layer2];                  `# speed adjustment and offset for lead-in`
+  [am]setpts=PTS+(${duration}-${fadetime})/TB[layer2];                  `# speed adjustment and offset for lead-in`
   [vid][layer2]overlay[oo];                                           `# overlay for crossfade`
   [oo][2:v]overlay=shortest=1[out1];                                  `# overlay still image`
   [out1]crop=w=${cropfactor}*iw:h=${cropfactor}*ih:y=${yoffset}*ih,scale=${outputwidth}:-1, `# crop and scale`
@@ -341,11 +341,11 @@ by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 import moviepy.editor as mp
 from moviepy.video.tools.cuts import FramesMatches
 
-clip = mp.VideoFileClip(https://github.com/davisonio/awesome-gif/blob/master/"input.avi").resize(https://github.com/davisonio/awesome-gif/blob/master/0.3)
-scenes = FramesMatches.from_clip(https://github.com/davisonio/awesome-gif/blob/master/clip, 10, 3)
+clip = mp.VideoFileClip("input.avi").resize(0.3)
+scenes = FramesMatches.from_clip(clip, 10, 3)
 
-selected_scenes = scenes.select_scenes(https://github.com/davisonio/awesome-gif/blob/master/2, 1, 4, 0.5)
-selected_scenes.write_gifs(https://github.com/davisonio/awesome-gif/blob/master/clip.resize(width=450), "./outputs_directory")
+selected_scenes = scenes.select_scenes(2, 1, 4, 0.5)
+selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
@@ -369,24 +369,24 @@ using [PhantomJS](http://phantomjs.org/)
 Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
 ```javascript
-var webPage = require(https://github.com/davisonio/awesome-gif/blob/master/'webpage');
-var fs = require(https://github.com/davisonio/awesome-gif/blob/master/'fs');
+var webPage = require('webpage');
+var fs = require('fs');
 var page = webPage.create();
 
 var NB_FRAME = 100;
 var current = 0;
 
 page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
-function(https://github.com/davisonio/awesome-gif/blob/master/status) {
-  if (https://github.com/davisonio/awesome-gif/blob/master/status === "success") {
+function(status) {
+  if (status === "success") {
       var current = 0;
-      var grabber = setInterval(https://github.com/davisonio/awesome-gif/blob/master/function () {
-          var frame = page.evaluate(https://github.com/davisonio/awesome-gif/blob/master/function() {
-           return document.getElementById(https://github.com/davisonio/awesome-gif/blob/master/'mycanvas').toDataURL(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"image/png").split(https://github.com/davisonio/awesome-gif/blob/master/",")[1];
+      var grabber = setInterval(function () {
+          var frame = page.evaluate(function() {
+           return document.getElementById('mycanvas').toDataURL("image/png").split(",")[1];
           });
-          fs.write(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"./frame-" + current + ".png",atob(frame), 'wb');
-      if (https://github.com/davisonio/awesome-gif/blob/master/++current === NB_FRAME) {
-         window.clearInterval(https://github.com/davisonio/awesome-gif/blob/master/grabber);
+          fs.write("./frame-" + current + ".png",atob(frame), 'wb');
+      if (++current === NB_FRAME) {
+         window.clearInterval(grabber);
          phantom.exit(0);
       }
     }, 1000);

@@ -21,7 +21,7 @@
 	- [Patterns](https://github.com/willianjusten/awesome-svg/blob/master/topics/Patterns.md)
 	- [Podcasts](https://github.com/willianjusten/awesome-svg/blob/master/topics/Podcasts.md)
 	- [Responsive](https://github.com/willianjusten/awesome-svg/blob/master/topics/Responsive.md)
-	- [Sites using SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Sites-using-svg.md)
+	- [Sites using SVG](https://raw.githubusercontent.com/willianjusten/awesome-svg?sanitize=true/master/topics/Sites-using-svg?sanitize=true.md)
 	- [Slides](https://github.com/willianjusten/awesome-svg/blob/master/topics/Slides.md)
 	- [Snippets](https://github.com/willianjusten/awesome-svg/blob/master/topics/Snippets.md)
 	- [Sprites](https://github.com/willianjusten/awesome-svg/blob/master/topics/Sprites.md)

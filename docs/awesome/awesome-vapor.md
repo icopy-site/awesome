@@ -54,7 +54,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) – MongoDB driver in Swift.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) – Simple Vapor 3 Pagination.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) – Query pagination for Vapor and Fluent.
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [S3](https://github.com/LiveUI/S3) – Library for accessing the Amazon S3 service (https://github.com/Cellane/awesome-vapor/blob/master/and compatible) with support for most commonly used operations.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [S3](https://github.com/LiveUI/S3) – Library for accessing the Amazon S3 service (and compatible) with support for most commonly used operations.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [S3 Storage](https://github.com/anthonycastelli/s3-storage) – Library for simple access to the Amazon S3 service.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Sanitize](https://github.com/gperdomor/sanitize) – Powerful model extraction from Vapor JSON requests.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Sanitized](https://github.com/nodes-vapor/sanitized) – Safely extract and validate Vapor models from requests.
@@ -63,12 +63,12 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Slugify](https://github.com/nodes-vapor/slugify) – Convenience for sluggifying your strings.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Storage](https://github.com/nodes-vapor/storage) – Eases the use of multiple storage and CDN services.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) – Stripe Provider for Vapor.
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) – Conveniences for creating https://github.com/Cellane/awesome-vapor/blob/master/forms and validating (https://github.com/Cellane/awesome-vapor/blob/master/form) submissions.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) – Conveniences for creating forms and validating (form) submissions.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (https://github.com/Cellane/awesome-vapor/blob/master/Swift).
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [VaporExt](https://github.com/vapor-community/vapor-ext) – A collection of Swift extensions for wide range of Vapor data types and classes.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) – A service to be used with Vapor to send emails.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) – OAuth2 Provider Library for Vapor.
@@ -114,7 +114,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 ### Books
 
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Server Side Swift with Vapor](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Server-Side Swift (https://github.com/Cellane/awesome-vapor/blob/master/Vapor Edition)](https://www.hackingwithswift.com/store/server-side-swift)
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Server-Side Swift (Vapor Edition)](https://www.hackingwithswift.com/store/server-side-swift)
 
 ### Newsletters
 

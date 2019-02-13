@@ -4,7 +4,7 @@
 
 ## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__
-Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -19,13 +19,13 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
-- [Adaptive Backgrounds](https://github.com/Siddharth11/Colorful/blob/master/https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (https://github.com/Siddharth11/Colorful/blob/master/jQuery Plugin).
+- [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
 - [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable](https://github.com/Siddharth11/Colorful/blob/master/https://github.com/jiffyclub/palettable) - Palettable (https://github.com/Siddharth11/Colorful/blob/master/formerly brewer2mpl) is a library of color palettes for Python
+- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
@@ -34,7 +34,7 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 - [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
 - [Flat UI Colors](http://flatuicolors.com/) - UI color set.
 - [Material Design Colors](http://www.materialui.co/) -  Material Design Colors, Flat UI Colors and Material Design Icons.
-- [Palettab](https://github.com/Siddharth11/Colorful/blob/master/http://palettab.com/) - New color palette and font inspiration with every tab (https://github.com/Siddharth11/Colorful/blob/master/Chrome Extension).
+- [Palettab](http://palettab.com/) - New color palette and font inspiration with every tab (Chrome Extension).
 - [Paletton](http://paletton.com) - The Color Scheme Designer.
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
@@ -60,7 +60,7 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 - [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 - [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 - [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
-- [iColorpalette](https://github.com/Siddharth11/Colorful/blob/master/https://icolorpalette.com) - Create, browse or export (https://github.com/Siddharth11/Colorful/blob/master/aco, ase, svg, png, pdf) color palettes by color or themes.
+- [iColorpalette](https://icolorpalette.com) - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -90,7 +90,7 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 - [How I Work with Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed#.b99s3au3w)
 - [Color Palette Documentation for Living Style Guides](https://medium.com/@jxnblk/color-palette-documentation-for-living-style-guides-d25d65aa20a5#.q0q6fb5qy)
 - [How I Learned About Color Mixing](https://medium.com/@julialundman/my-experiences-in-learning-about-color-6de4ec274503#.m0t57e6ws)
-- [The (https://github.com/Siddharth11/Colorful/blob/master/Unfinished) Basics of Colour](https://github.com/Siddharth11/Colorful/blob/master/https://medium.com/life-tips/the-unfinished-basics-of-colour-292858f62e62#.b1z1ejmsg)
+- [The (Unfinished) Basics of Colour](https://medium.com/life-tips/the-unfinished-basics-of-colour-292858f62e62#.b1z1ejmsg)
 - [The Power of Colour in App Design](https://medium.com/@nicknelo/why-use-colour-branding-in-apps-a95deba49dae#.pj3012j9x)
 - [Create Emotion With Color In UX Design](https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085#.g6o0xsyfd)
 - [How to Design for Color Blindness](https://medium.com/@usabilla/how-to-design-for-color-blindness-62d4d8ae9f6a#.uujosqblu)

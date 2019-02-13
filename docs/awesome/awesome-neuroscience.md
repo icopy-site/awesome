@@ -1,4 +1,4 @@
-<!-- ![Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/./AWESOME2.png) -->
+<!-- ![Awesome Neuroscience](https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png) -->
 <img src="https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png" width="50%">
 
 > Curated list of awesome neuroscience libraries, software and any content related to the domain.
@@ -33,10 +33,10 @@ Software, libraries and frameworks for development purposes.
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
 - [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
 - [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-- [MNE-Python](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/EEG) and magnetoencephalography (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/MEG).
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 - [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
-- [NuPic](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
@@ -53,7 +53,7 @@ Software, libraries and frameworks for development purposes.
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ### R
-- [nat: NeuroAnatomy Toolbox](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://github.com/jefferis/nat) - Package for the (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+- [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [brainGraph](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ## Resources
@@ -62,7 +62,7 @@ Interesting resources related to neuroscience.
 ### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
-- [Neuronal Dynamics](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/EPFL).
+- [Neuronal Dynamics](https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (EPFL).
 
 ### Blogs
 
@@ -73,7 +73,7 @@ Interesting resources related to neuroscience.
 
 ### MOOCs
 
-[Massive Open Online Courses (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/MOOCs)](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://en.wikipedia.org/wiki/Massive_open_online_course) are free Web-based distance learning programs that are designed for the participation of large numbers of geographically dispersed students.
+[Massive Open Online Courses (MOOCs)](https://en.wikipedia.org/wiki/Massive_open_online_course) are free Web-based distance learning programs that are designed for the participation of large numbers of geographically dispersed students.
 MOOCs may be patterned on a college or university course or may be less structured.
 
 - [The Fundamentals of Neuroscience | Harvard & edX](https://www.mcb80x.org/) - Serves an introductory survery of topics in neuroscience and has no specific prerequisites, though some prior exposure to biology and/or chemistry can be helpful.
@@ -95,7 +95,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
-- [neuroSummerSchools](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/https://github.com/PhABC/neuroSummerSchools) - List of summer (https://github.com/analyticalmonk/awesome-neuroscience/blob/master/and seasonnal) summer schools in neuroscience and related fields.
+- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 
 ## Contribute
 

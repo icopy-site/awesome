@@ -80,7 +80,7 @@ each technique installs the **SAME** Home Assistant.
 
 Home Assistant currently _recommends_ the Hass.io method.
 
-* [Hass.io](https://www.home-assistant.io/getting-started/) - Installing using a Docker managed environment (https://github.com/frenck/awesome-home-assistant/blob/master/recommended method).
+* [Hass.io](https://www.home-assistant.io/getting-started/) - Installing using a Docker managed environment (recommended method).
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - Installing on Docker.
 * [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - Installing Hassbian.
 * [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - Manual installation using a Python virtual environment.
@@ -127,7 +127,7 @@ an awesome source for learning and a great source of inspiration._
 _Hass.io is a complete operating system that will take care of installing and
 updating Home Assistant, and is managed from the frontend._
 
-* [Hass.io Beginner's Guide](https://www.youtube.com/watch?v=qnCRcGTznXs) - :tv: Excellent step-by-step guide on getting started (https://github.com/frenck/awesome-home-assistant/blob/master/based on HassOS).
+* [Hass.io Beginner's Guide](https://www.youtube.com/watch?v=qnCRcGTznXs) - :tv: Excellent step-by-step guide on getting started (based on HassOS).
 
 ### Official Add-ons
 
@@ -181,7 +181,7 @@ _The Home Assistant frontend is already pretty, but you can customize it to
 fit your needs or taste better._
 
 * [HA Floorplan](https://github.com/pkozul/ha-floorplan) - Interaction with your entities from a Floorplan.
-* [Custom UI elements](https://github.com/andrey-git/home-assistant-custom-ui) - For use with a (https://github.com/frenck/awesome-home-assistant/blob/master/non-Lovelace) frontend.
+* [Custom UI elements](https://github.com/andrey-git/home-assistant-custom-ui) - For use with a (non-Lovelace) frontend.
 * [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) - Use the free icons from Font Awesome in your frontend.
 
 ### Themes
@@ -197,7 +197,7 @@ _It is all about the looks, apply some style._
 * [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) - A dark theme with pale green accents by GreenTurtwig.
 * [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) - Give your frontend a vintage look with this theme by Anup Surendran.
 * [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
-* [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) - 20 Great themes by JuanMTech (https://github.com/frenck/awesome-home-assistant/blob/master/includes a guide).
+* [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) - 20 Great themes by JuanMTech (includes a guide).
 * [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) - 13 Themes in a convenient ZIP file.
 
 ### Alternative Dashboards
@@ -207,7 +207,7 @@ _It is all about the looks, apply some style._
 
 ### Lovelace UI
 
-_Lovelace is the new UI interface for Home Assistant (https://github.com/frenck/awesome-home-assistant/blob/master/still experimental!)_
+_Lovelace is the new UI interface for Home Assistant (still experimental!)_
 
 * [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) - The official documentation.
 * [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) - :tv: Great introduction to Lovelace UI by DrZzs.
@@ -251,7 +251,7 @@ _Additional components for Home Assistant, that were created by the community._
 * [ToonHA](https://github.com/krocat/ToonHA) - Integrates Toon by Eneco using the official API.
 * [Broadlink IR](https://github.com/vpnmaster/homeassistant-custom-components) - Integrates devices using Broadlink IR.
 * [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) - Sensor platform for Xiaomi Mijia BT Hygrothermo temperature and humidity sensor.
-* [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Integrates Volkswagen Carnet (https://github.com/frenck/awesome-home-assistant/blob/master/requires valid Carnet subscription).
+* [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Integrates Volkswagen Carnet (requires valid Carnet subscription).
 * [Untappd](https://github.com/custom-components/sensor.untapped) - Connects with your Untappd account.
 * [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
 * [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) - Control Sonoff/eWeLink smart devices using the stock firmware.
@@ -330,7 +330,7 @@ _Keep up with the latest news and updates, 280 characters at a time!_
 
 ## Uncategorized
 
-_Valuable links, that don't fit in any of the above categories (https://github.com/frenck/awesome-home-assistant/blob/master/yet!)._
+_Valuable links, that don't fit in any of the above categories (yet!)._
 
 * [Room Assistant](https://github.com/mKeRix/room-assistant) - A companion client to handle sensors in multiple rooms.
 * [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) - iPhone/iPad/iOS App to control and monitor your home remotely.

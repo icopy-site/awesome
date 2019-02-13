@@ -86,7 +86,7 @@
 - [de_CH](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
-- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (https://github.com/DavidLambauer/awesome-magento2/blob/master/Argentina) Language Package.
+- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
@@ -108,7 +108,7 @@
 
 ### Search
 
-- [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(https://github.com/DavidLambauer/awesome-magento2/blob/master/SaaS) Integration.
+- [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 
@@ -127,7 +127,7 @@
 - [Magemonkey Mailchimp Integration](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration.
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
 - [Magento 2 SEO](https://github.com/staempfli/magento2-module-seo) - Sweet & Simple SEO Module by Staempfli.
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (https://github.com/DavidLambauer/awesome-magento2/blob/master/GTM) with Data Layer for Magento2.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento2.
 
 ### Adminhtml / Backend
 
@@ -144,7 +144,7 @@
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect.
 - [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed.
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (https://github.com/DavidLambauer/awesome-magento2/blob/master/SES), Microsoft Office365 and other SMTP server.
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES), Microsoft Office365 and other SMTP server.
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/).
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
@@ -162,7 +162,7 @@
 ### Infrastructure
 
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
-- [Docker Magento 2](https://github.com/fballiano/docker-magento2) - Magento2 + Varnish + PHP7 + Redis + SSL (https://github.com/DavidLambauer/awesome-magento2/blob/master/cluster ready).
+- [Docker Magento 2](https://github.com/fballiano/docker-magento2) - Magento2 + Varnish + PHP7 + Redis + SSL (cluster ready).
 
 ### Mobile Application
 
@@ -297,8 +297,8 @@
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
 
-> **Magento Extension Developers Network (https://github.com/DavidLambauer/awesome-magento2/blob/master/ExtDN)**
-> The Magento Extension Developers Network (https://github.com/DavidLambauer/awesome-magento2/blob/master/ExtDN) is a vetted network of extension developers whose core business is to
+> **Magento Extension Developers Network (ExtDN)**
+> The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
 > develop and sell quality Magento extensions. I founded ExtDN to bring accountability and trust to the Magento extension
 > market. ExtDN members agree to hold themselves accountable to high standards of coding, copyright and business conduct.
 

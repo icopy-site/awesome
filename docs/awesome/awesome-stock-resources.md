@@ -86,7 +86,7 @@ All the resources below have specifically specified that their content is [:copy
 
 ### Custom License / Usage
 
-These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(https://github.com/neutraltone/awesome-stock-resources/blob/master/license)* link next to the resource.
+These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
 * [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
@@ -102,7 +102,7 @@ These following photography resources are those who have declared their own usag
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](https://picography.co/) - [:copyright:](https://picography.co/terms/) Free hi-resolution photos. Use them however you like.
-* [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (https://github.com/neutraltone/awesome-stock-resources/blob/master/Subscribe required).
+* [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
@@ -124,11 +124,11 @@ The photographs on the following resources require Attribution unless otherwise 
 
 * [Albumarium](http://albumarium.com/) - [:copyright:](http://albumarium.com/terms) The "best" place to find & share beautiful images.
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
-* [IM Creator](http://imcreator.com/free) - Also includes Website templates and icons. Some (https://github.com/neutraltone/awesome-stock-resources/blob/master/[CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
+* [IM Creator](http://imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/spaceimages/) - [:copyright:](https://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](https://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
 * [Superfamous](https://superfamous.com/Images) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
-* [UKBlackTech](http://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (https://github.com/neutraltone/awesome-stock-resources/blob/master/Black, Asian, and minority ethnic) people in tech.
+* [UKBlackTech](http://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](https://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
@@ -138,7 +138,7 @@ These resources haven't specified any formal terms of use or licenses.
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
 * [Function](http://wefunction.com/category/free-photos/) - High-resolution photos by Liam McKay.
 * [Nobl Web](https://noblweb.com/) - do as you please, high-resolution photos and textures.
-* [Re:splashed](http://www.resplashed.com/) - 670 (https://github.com/neutraltone/awesome-stock-resources/blob/master/and counting) free HD images for your web and design projects.
+* [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
 * [Refe Real Life Photos](http://getrefe.tumblr.com) - Free real life photos from [REFE](http://getrefe.com/).
 * [titania foto](http://www.titania-foto.com) - The free image database
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
@@ -172,10 +172,10 @@ A selection of websites offering high quality video stock.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
-* [Pond5](https://www.pond5.com/free) - Download thousands of historic media files (https://github.com/neutraltone/awesome-stock-resources/blob/master/videos, audio, images and 3d models) for your creative projects.
+* [Pond5](https://www.pond5.com/free) - Download thousands of historic media files (videos, audio, images and 3d models) for your creative projects.
 completely free.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
-* [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (https://github.com/neutraltone/awesome-stock-resources/blob/master/Attribution required).
+* [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ## Patterns
 
@@ -199,7 +199,7 @@ A mixture of free and open source font resources.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Canva Font Combinations (https://github.com/neutraltone/awesome-stock-resources/blob/master/Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
+* [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## Icons
 
@@ -209,7 +209,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 147 8-bit retro style webfont icons for web and mobile
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
-* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(https://github.com/neutraltone/awesome-stock-resources/blob/master/sic). 100+ icons ready to use in your next project.   
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
@@ -220,13 +220,13 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Linea](http://www.linea.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
 * [Material Design Icons](https://material.io/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
-* [Open Iconic](https://useiconic.com/open) - [:copyright: (https://github.com/neutraltone/awesome-stock-resources/blob/master/font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (https://github.com/neutraltone/awesome-stock-resources/blob/master/icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
+* [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 * [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
-* [Typhttps://github.com/neutraltone/awesome-stock-resources/blob/master/icons](http://s-ings.com/typhttps://github.com/neutraltone/awesome-stock-resources/blob/master/icons/) - [:copyright: (https://github.com/neutraltone/awesome-stock-resources/blob/master/font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (https://github.com/neutraltone/awesome-stock-resources/blob/master/icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 https://github.com/neutraltone/awesome-stock-resources/blob/master/icons.
+* [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
-* [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (https://github.com/neutraltone/awesome-stock-resources/blob/master/like Google Web Fonts, but icon fonts only).
+* [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
 ### Icons Packages and Collections
 
@@ -245,7 +245,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 A selection of websites offering color schemes.
 
 * [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
-* [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (https://github.com/neutraltone/awesome-stock-resources/blob/master/Material, iOS, FlatUI, Metro, Tango, Solarized).
+* [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
 * [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
@@ -265,7 +265,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
-* [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (https://github.com/neutraltone/awesome-stock-resources/blob/master/and counting) free stock photos across 25 websites.
+* [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
 ## HTML Templates

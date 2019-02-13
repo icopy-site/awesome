@@ -33,33 +33,33 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Events/Meetups
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   This section contains all the specifics for meetups/events.
 
 ### Clojure
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
 ### Go-lang
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
-    We are women in the #golang community (https://github.com/cristianoliveira/awesome4girls/blob/master/Twitter: https://twitter.com/womenwhogo).
+    We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [JDuchess](http://www.jduchess.org/)
 
     Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Js-Girls](http://js-girls.org/)
 
@@ -78,7 +78,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
 ### Python
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Django Girls](https://djangogirls.org/)
 
@@ -89,14 +89,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
 ### PHP
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [PHPWomen](https://phpwomen.org/)
 
     We're an inclusive, global user-group providing a support network within the PHP community.
 
 ### Ruby
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Rails Bridge](http://www.railsbridge.org/)
 
@@ -111,7 +111,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Getting more women into Open Source.
 
 ### UX
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Ladies that UX](http://ladiesthatux.com/)
 
@@ -123,7 +123,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ## General
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Ada Lovelace Day](https://findingada.com/)
 
@@ -159,7 +159,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [League of Women Coders](http://lwc.tech/)
 
-    League of Women Coders (https://github.com/cristianoliveira/awesome4girls/blob/master/formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
 
   - [RodAda Hacker](http://rodadahacker.org/)  - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -180,25 +180,25 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Women Who Code (https://github.https://github.com/cristianoliveira/awesome4girls/blob/master/com/https://github.com/cristianoliveira/awesome4girls/blob/master/cristianoliveira/awesome4girls/blob/master/WWCode) is a U.S. based 501(https://github.com/cristianoliveira/awesome4girls/blob/master/c)(https://github.com/cristianoliveira/awesome4girls/blob/master/3) nonprofit dedihttps://github.com/cristianoliveira/awesome4girls/blob/master/cated to inspiring women to exhttps://github.com/cristianoliveira/awesome4girls/blob/master/cel in tehttps://github.com/cristianoliveira/awesome4girls/blob/master/chnology https://github.com/cristianoliveira/awesome4girls/blob/master/careers. We https://github.com/cristianoliveira/awesome4girls/blob/master/connehttps://github.com/cristianoliveira/awesome4girls/blob/master/ct amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of tehttps://github.com/cristianoliveira/awesome4girls/blob/master/chnology is muhttps://github.com/cristianoliveira/awesome4girls/blob/master/ch better with women in it.
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
 
 ## Initiatives/Programs
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Initiatives that have the goal to prepare women for a tech career.
 
 ### Academy/Camp
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Projects that have any kind of Academy/Summer Camp in its activities.
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
-    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (https://github.com/cristianoliveira/awesome4girls/blob/master/in an internship).
+    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
@@ -226,7 +226,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [DIY Girls](http://www.diygirls.org/)
 
-    DIY (https://github.com/cristianoliveira/awesome4girls/blob/master/“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
+    DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
 
   - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -261,7 +261,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Projects where an open source organization is behind it.
 
@@ -286,7 +286,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
 ### Conferences/Talks
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Conferences that bring the subject.
 
@@ -296,7 +296,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
-    A safe, inclusive tech leadership conference and community for adult (https://github.com/cristianoliveira/awesome4girls/blob/master/18+) women (https://github.com/cristianoliveira/awesome4girls/blob/master/cis and trans), trans men, and genderqueer people to connect with and empower one another.
+    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
 
   - [European Women In Technology](http://www.europeanwomenintech.com)
 
@@ -320,11 +320,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
 
-    The Johnson Women in Technology Conference (https://github.com/cristianoliveira/awesome4girls/blob/master/JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
+    The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
 
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
-    Lesbians Who Tech is a Community of Queer Women in or around tech (https://github.com/cristianoliveira/awesome4girls/blob/master/and the people who love them).
+    Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
 
   - [She's Geeky](http://shesgeeky.org/)
 
@@ -336,7 +336,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [SWE](http://societyofwomenengineers.swe.org/)
 
-    The Society of Women Engineers (https://github.com/cristianoliveira/awesome4girls/blob/master/SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+    The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
 
   - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
 
@@ -380,7 +380,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
 ### Communities/Groups
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Online communities and groups.
 
@@ -396,12 +396,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
 
-  - [Women Hack For Non-Profits (https://github.com/cristianoliveira/awesome4girls/blob/master/WHFNP)](http://www.womenhackfornonprofits.com/)
+  - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
-    Women Hack for Non-Profits (https://github.com/cristianoliveira/awesome4girls/blob/master/WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
+    Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
 ### Chatrooms
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Online chatrooms such as slack teams, gitter, IRC etc.
 
@@ -414,7 +414,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     A safe, confidential space for women who work in technology to chat and support each other.
 
 ### Mentorship
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   Projects with mentoring opportunities.
 
@@ -443,10 +443,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
 
 ## Other Initiatives
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
 ### Awards
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
 
@@ -457,19 +457,19 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
 ### Speakers
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [CallbackWomen](http://www.callbackwomen.com/)
 
-    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (https://github.com/cristianoliveira/awesome4girls/blob/master/CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
+    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
 
   - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Given the still small number of women speaking at events (https://github.com/cristianoliveira/awesome4girls/blob/master/especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
+    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
 ### Content
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
@@ -504,7 +504,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
 ### Documentaries/Movies
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Code Girls](http://www.codegirlmovie.com/)
 
@@ -516,10 +516,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [She++ The Documentary](http://sheplusplus.org/film/)
 
-    The Documentary (https://github.com/cristianoliveira/awesome4girls/blob/master/12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
+    The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
 
 ### Jobs
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [Lane by Women 2.0](https://lane.women2.com/)
 
@@ -527,7 +527,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Outreach Program for Women](https://www.gnome.org/opw/)
 
-    Outreach Program for Women has been helping women (https://github.com/cristianoliveira/awesome4girls/blob/master/cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
+    Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
 
   - [PowerToFly](https://www.powertofly.com/)
 
@@ -546,7 +546,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     WomenHack is a community that empowers women in tech through events, jobs, and reviews and aims at creating a more inclusive and diverse workplace for all. Our diversity recruiting events targets some of the most talented women in tech from respective local communities.
 
 ### Organisation toolkits
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   If you are trying to organize your own events, these resoures might help.
 
@@ -555,7 +555,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences.
 
 ## Other Lists
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
 
@@ -568,6 +568,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](#awesome4girls---))
+([Go to top](#awesome4girls---))
 
-This work is licensed under a [https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)

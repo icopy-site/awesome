@@ -1,7 +1,7 @@
 ## Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 What is motion design? It's a magic that's alive your interfaces, makes a user feel comfortable with UI changes.
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
-Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (https://github.com/fliptheweb/motion-ui-design/blob/master/todo inside) by pull request!
+Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
 
 ## Contents
 - [Resources for inspiration](#resources-for-inspiration)
@@ -35,7 +35,7 @@ Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui
 * [UYI](http://useyourinterface.com/) – Great collection of moving interfaces.
 * [Awwwards](http://awwwards.com/websites/animation/) – Websites examples of designs with animation.
 * [cssanimation.rocks](http://cssanimation.rocks/) – CSS animated demos.
-* [michaelvillar.com](http://michaelvillar.com/motion/) – experiments by @michaelvillar (https://github.com/fliptheweb/motion-ui-design/blob/master/Stripe).
+* [michaelvillar.com](http://michaelvillar.com/motion/) – experiments by @michaelvillar (Stripe).
 * [hakim.se](http://hakim.se/) – Experiments by @hakimel.
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) – Animations in software user interfaces.
 * [sixux.com](http://sixux.com/) – Vines with awesome transitions and animations.
@@ -73,16 +73,16 @@ Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui
 * [The Principles of UX Choreography](https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a) @Rebecca Ussai Henderson.
 
 ## Software
-List of all possible software that can produce UI animations separated by using technologies and result format (https://github.com/fliptheweb/motion-ui-design/blob/master/video, prototype, code etc) with links of must-see tutorials and plugins.
+List of all possible software that can produce UI animations separated by using technologies and result format (video, prototype, code etc) with links of must-see tutorials and plugins.
 
 ### Video, gif, presentation
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm) – The industry-standard animation and creative compositing app lets you design and deliver professional motion graphics and visual effects for film, TV, video and web:
-  * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
+  * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (:movie_camera: video).
   * [UI Animation tutorials](https://uxinmotion.net/).
-  * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-  * [MtMograph summits](http://mtmograph.com/summits/) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-  * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-  * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
+  * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (:movie_camera: video).
+  * [MtMograph summits](http://mtmograph.com/summits/) (:movie_camera: video).
+  * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (:movie_camera: video).
+  * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (:movie_camera: video).
   * [BodyMovin](https://github.com/bodymovin/bodymovin) – Converter from AE to SVG/canvas.
   * [Squall](http://www.marcuseckert.com/squall/) – Converter from AE to iOS.
 * [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/) – MacOS app for create and edit motion graphics, titling for video production and film production, and 2D and 3D compositing for visual effects.
@@ -94,13 +94,13 @@ List of all possible software that can produce UI animations separated by using 
 
 ### Visual programming
 * [Quartz Composer](https://developer.apple.com/downloads/) – MacOS app with node-based visual programming language for prototyping MacOS/iOS apps:
-  * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
+  * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610) (:movie_camera: video).
   * [Introducing Origami for QC](https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181).
   * [Origami](https://facebook.github.io/origami/) – A tool for creating modern UI by Facebook.
   * [Avocado](https://labs.ideo.com/2014/05/27/avocado/) – A toolbox for interaction designers.
 * [Form](http://www.relativewave.com/form/) – App with a node-based visual programming language for prototyping apps by Google.
 * [Principle For Mac](http://principleformac.com/) – MacOS app for create animated and interactive user interface designs.
-* [Floid](https://floid.io/) – MacOS interaction design tool for any platform & device (https://github.com/fliptheweb/motion-ui-design/blob/master/Web, iOS, Android).
+* [Floid](https://floid.io/) – MacOS interaction design tool for any platform & device (Web, iOS, Android).
 
 ### HTML, CSS and JavaScript
 * [Framer studio](https://framerjs.com/) – MacOS app for prototyping animations by CoffeeScript programming language.
@@ -108,11 +108,11 @@ List of all possible software that can produce UI animations separated by using 
 * [Tumult Hype](http://tumult.com/hype/) – MacOS app for creating HTML/CSS sites, banners, presentations etc.
 * [Adobe Edge Animation](https://creative.adobe.com/products/animate) – App for creating HTML/CSS sites, banners, presentations etc:
   * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932).
-* [Adobe Experience Design (https://github.com/fliptheweb/motion-ui-design/blob/master/ex-Project Comet)](http://www.adobe.com/products/experience-design.html) – App for creating design, prototype and animation of websites and mobile apps (https://github.com/fliptheweb/motion-ui-design/blob/master/Preview version).
+* [Adobe Experience Design (ex-Project Comet)](http://www.adobe.com/products/experience-design.html) – App for creating design, prototype and animation of websites and mobile apps (Preview version).
 * [Google web designer](https://www.google.com/webdesigner/) – HTML-based designs and motion graphics.
 * [Animatron](http://animatron.com/) – Web app for creating animations, banners, and infographics.
 * [Pixate](http://pixate.com/) – Prototyping platform.
-* [SpiritJS](https://spiritjs.io/) – Animation tool for the web (https://github.com/fliptheweb/motion-ui-design/blob/master/unrealized yet).
+* [SpiritJS](https://spiritjs.io/) – Animation tool for the web (unrealized yet).
 * Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious your secret weapon – Pen and paper!
@@ -123,7 +123,7 @@ And obvious your secret weapon – Pen and paper!
 * [csstriggers.com](http://csstriggers.com/) – List of CSS properties thats trigger repaint, reflow or compositing.
 
 ## Libraries
-* [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (https://github.com/fliptheweb/motion-ui-design/blob/master/but old) infographic with libraries by used technology.
+* [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (but old) infographic with libraries by used technology.
 * [Bouncy Ball](https://sparkbox.github.io/bouncy-ball/) – Comparing animation techniques by showing how to bounce a ball with each one.
 
 ### CSS
@@ -152,7 +152,7 @@ And obvious your secret weapon – Pen and paper!
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations.
 * [Mo.js](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) – Library for transition of blocks and popups.
-* [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (https://github.com/fliptheweb/motion-ui-design/blob/master/3KB gzipped), making it particularly well-suited for mobile.
+* [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
 * [Gravitas.js](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
 * [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
@@ -172,20 +172,20 @@ And obvious your secret weapon – Pen and paper!
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
-* [Interface Animations (https://github.com/fliptheweb/motion-ui-design/blob/master/Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – Workshop on BlendConf 2014.
-* [The future of UX – Animation on the Brain (https://github.com/fliptheweb/motion-ui-design/blob/master/Rachel Nabors)](http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726).
-* [Designing Complex SVG Animations (https://github.com/fliptheweb/motion-ui-design/blob/master/Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf).
-* [Designing with animation (https://github.com/fliptheweb/motion-ui-design/blob/master/Pasquale D'Silva)](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Animating Web Experiences (https://github.com/fliptheweb/motion-ui-design/blob/master/John Allsopp)](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Putting Your UI in Motion (https://github.com/fliptheweb/motion-ui-design/blob/master/Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Motion design with CSS (https://github.com/fliptheweb/motion-ui-design/blob/master/Val Head)](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Lets move! (https://github.com/fliptheweb/motion-ui-design/blob/master/Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Animating Your UX (https://github.com/fliptheweb/motion-ui-design/blob/master/Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Styling and Animating Scalable Vector Graphics with CSS (https://github.com/fliptheweb/motion-ui-design/blob/master/Sara Soueidan)](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Animating the User Experience (https://github.com/fliptheweb/motion-ui-design/blob/master/Rachel Nabors)](https://www.youtube.com/watch?v=bM4qJpg7KhI) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Designing meaningful animation (https://github.com/fliptheweb/motion-ui-design/blob/master/Val Head)](https://vimeo.com/165995133) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Functional Animation (https://github.com/fliptheweb/motion-ui-design/blob/master/Sarah Drasner)](https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video).
-* [Animations anew - laziness, arrogance and intolerance (https://github.com/fliptheweb/motion-ui-design/blob/master/Andrey Sitnik)](http://ai.github.io/anim2012/) (https://github.com/fliptheweb/motion-ui-design/blob/master/:ru: Russian language).
+* [Interface Animations (Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – Workshop on BlendConf 2014.
+* [The future of UX – Animation on the Brain (Rachel Nabors)](http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726).
+* [Designing Complex SVG Animations (Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf).
+* [Designing with animation (Pasquale D'Silva)](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (:movie_camera: video).
+* [Animating Web Experiences (John Allsopp)](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (:movie_camera: video).
+* [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (:movie_camera: video).
+* [Motion design with CSS (Val Head)](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (:movie_camera: video).
+* [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (:movie_camera: video).
+* [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (:movie_camera: video).
+* [Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan)](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (:movie_camera: video).
+* [Animating the User Experience (Rachel Nabors)](https://www.youtube.com/watch?v=bM4qJpg7KhI) (:movie_camera: video).
+* [Designing meaningful animation (Val Head)](https://vimeo.com/165995133) (:movie_camera: video).
+* [Functional Animation (Sarah Drasner)](https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be) (:movie_camera: video).
+* [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
 
 ## Newsletters, podcasts, screencasts
 * [The UI Animation Newsletter](http://valhead.com/newsletter/) – newsletter with resources plus helpful advice on how to make web animation work for you coming straight to your inbox each month by @valhead.
@@ -200,8 +200,8 @@ And obvious your secret weapon – Pen and paper!
 * MacOS
   * [OS X Human Interface Guidelines: Animation](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Animation.html#//apple_ref/doc/uid/20000957-CH11-SW1)
 * iOS
-  * [User Interface Design for iOS 7 Apps](https://developer.apple.com/tech-talks/videos/?id=2) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video)
-  * [iPhoto for iOS: UI Progression and Animation Design](https://developer.apple.com/videos/wwdc/2012/?id=243) (https://github.com/fliptheweb/motion-ui-design/blob/master/:movie_camera: video)
+  * [User Interface Design for iOS 7 Apps](https://developer.apple.com/tech-talks/videos/?id=2) (:movie_camera: video)
+  * [iPhoto for iOS: UI Progression and Animation Design](https://developer.apple.com/videos/wwdc/2012/?id=243) (:movie_camera: video)
 * Apple Watch
   * [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
 * Windows
@@ -217,7 +217,7 @@ And obvious your secret weapon – Pen and paper!
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm).
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin.
 * [CSS animations](http://cssanimationspocketguide.com/) by @valhead.
-* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (https://github.com/fliptheweb/motion-ui-design/blob/master/unpublished yet).
+* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet).
 
 ## How to Share :star::star::star::star::star:
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>

@@ -2,9 +2,9 @@
 A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
 
-(https://github.com/opencompany/awesome-open-company/blob/master/**[click here](#companies)** to jump straight to the list below.)
+(**[click here](#companies)** to jump straight to the list below.)
 
-*Contributions to this list are welcome! Just [edit the README.md](https://github.com/opencompany/awesome-open-company/blob/master/../../edit/master/README.md) (https://github.com/opencompany/awesome-open-company/blob/master/this document) and send the changes as a pull request. [Guidelines](https://github.com/opencompany/awesome-open-company/blob/master/../../wiki/Inclusion+guidelines) are available.*
+*Contributions to this list are welcome! Just [edit the README.md](https://github.com/opencompany/awesome-open-company/blob/master/../../edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](https://github.com/opencompany/awesome-open-company/blob/master/../../wiki/Inclusion+guidelines) are available.*
 
 ## Table of contents
 1. [What is an open company?](#what-is-an-open-company)
@@ -22,7 +22,7 @@ An **open company** is defined, for the purposes of this list, as a for-profit o
 
 > **Share as much as possible, charge as little as possible.**
 
-derived from the [original formulation](http://blog.gittip.com/post/26350459746/the-first-open-company/) by Gittip (https://github.com/opencompany/awesome-open-company/blob/master/now [Gratipay](http://gratipay.com)).
+derived from the [original formulation](http://blog.gittip.com/post/26350459746/the-first-open-company/) by Gittip (now [Gratipay](http://gratipay.com)).
 
 In practice, this often means:
 - releasing its products as
@@ -56,9 +56,9 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ![Elastic favicon](http://www.google.com/s2/favicons?domain=elastic.co) [**Elastic**](https://elastic.co) | [Why Open Source?](https://www.elastic.co/about/why-open-source) | :octocat:[Misc](https://github.com/elastic/) |  |
 ![Gitlab favicon](http://www.google.com/s2/favicons?domain=gitlab.com) [**GitLab**](https://about.gitlab.com/) | [About Us — GitLab](https://about.gitlab.com/about/) | [GitLab](https://gitlab.com/groups/gitlab-org) |  |
 ![Gratipay favicon](http://www.google.com/s2/favicons?domain=gratipay.com) [**Gratipay**](https://gratipay.com/) | [Welcome to Gratipay](http://inside.gratipay.com/big-picture/welcome) | :octocat:[All Products](https://github.com/gratipay) |*[The first open company](http://blog.gittip.com/post/26350459746/the-first-open-company/)*| [Finance](https://github.com/gratipay/finances#readme)
-![Growstuff favicon](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico) [**Growstuff**](http://www.growstuff.org/) | [(https://github.com/opencompany/awesome-open-company/blob/master/archive) Values - Growstuff Wiki](http://web.https://github.com/opencompany/awesome-open-company/blob/master/archive.org/web/20150906064358/http://wiki.growstuff.org/index.php/Values) | :octocat:[Growstuff](https://github.com/Growstuff/growstuff) |*[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)*|
+![Growstuff favicon](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico) [**Growstuff**](http://www.growstuff.org/) | [(archive) Values - Growstuff Wiki](http://web.archive.org/web/20150906064358/http://wiki.growstuff.org/index.php/Values) | :octocat:[Growstuff](https://github.com/Growstuff/growstuff) |*[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)*|
 ![MapBox favicon](http://www.google.com/s2/favicons?domain=mapbox.com) [**MapBox**](http://mapbox.com/) | [Open Source - MapBox](http://mapbox.com/about/open) | :octocat:[Misc](https://github.com/mapbox) |  |
-![Neocities favicon](http://www.google.com/s2/favicons?domain=neocities.org) [**Neocities**](https://neocities.org/) | [(https://github.com/opencompany/awesome-open-company/blob/master/archive) Neocities - stats](http://wayback.https://github.com/opencompany/awesome-open-company/blob/master/archive.org/web/20150907143713id_/https://neocities.org/stats) | :octocat:[Neocities.org](https://github.com/neocities/neocities) |*[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)*|
+![Neocities favicon](http://www.google.com/s2/favicons?domain=neocities.org) [**Neocities**](https://neocities.org/) | [(archive) Neocities - stats](http://wayback.archive.org/web/20150907143713id_/https://neocities.org/stats) | :octocat:[Neocities.org](https://github.com/neocities/neocities) |*[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)*|
 ![New Vector favicon](https://www.google.com/s2/favicons?domain=vector.im) [**New Vector**](https://vector.im/) | [Work in the open](https://vector.im/) | :octocat:[Misc](https://github.com/vector-im/) |  |
 ![Niteo favicon](https://www.google.com/s2/favicons?domain=niteo.co) [**Niteo**](https://niteo.co/) | [Niteo Handbook](https://github.com/niteoweb/handbook) |  |  |
 ![The Open Company favicon](http://www.google.com/s2/favicons?domain=theopencompany.net) [**The Open Company**](http://theopencompany.net/) | [The Open Company](http://theopencompany.net/pages/about-us) | N/A |  |
@@ -91,13 +91,13 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
 
 ## Similar lists
-- [The Open Company Initiative directory](http://www.opencompany.org/directory/) (https://github.com/opencompany/awesome-open-company/blob/master/OCI):
+- [The Open Company Initiative directory](http://www.opencompany.org/directory/) (OCI):
   A group of companies which explicitly adopted OCI's openness pledge
-  - *(https://github.com/opencompany/awesome-open-company/blob/master/dormant)*
+  - *(dormant)*
 - [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies
-  - *(https://github.com/opencompany/awesome-open-company/blob/master/defunct — these links are from the Web Archive)*
-- The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) (https://github.com/opencompany/awesome-open-company/blob/master/[2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
-  - *(https://github.com/opencompany/awesome-open-company/blob/master/unmaintained)*
+  - *(defunct — these links are from the Web Archive)*
+- The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
+  - *(unmaintained)*
 - [Awesome Open](https://github.com/paulhendricks/awesome-open):
   A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 

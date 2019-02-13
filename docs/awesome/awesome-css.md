@@ -18,8 +18,8 @@ This document is a curated list of frameworks, style guides, and cool nuggets of
 If you're struggling with something CSS-related, look for answers within the following resources:
 
 - [CSS - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Reddit (https://github.com/awesome-css-group/awesome-css/blob/master/CSS)](https://www.reddit.com/r/css/)
-- [StackOverflow (https://github.com/awesome-css-group/awesome-css/blob/master/CSS)](https://stackoverflow.com/questions/tagged/css)
+- [Reddit (CSS)](https://www.reddit.com/r/css/)
+- [StackOverflow (CSS)](https://stackoverflow.com/questions/tagged/css)
 
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>

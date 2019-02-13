@@ -25,7 +25,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 
 To use user scripts you need to first install a user script manager. Here are the most popular managers:
 - [Greasemonkey](http://www.greasespot.net/) - Firefox
-- [Tampermonkey](https://tampermonkey.net/) - Chrome, Microsoft Edge, Safari, Opera, Firefox (https://github.com/brunocvcunha/awesome-userscripts/blob/master/also with support for mobile Dolphin Browser and UC Browser)
+- [Tampermonkey](https://tampermonkey.net/) - Chrome, Microsoft Edge, Safari, Opera, Firefox (also with support for mobile Dolphin Browser and UC Browser)
 
 There's no focused plugins to get Userscripts running on Internet Explorer, but the [Adguard](https://adguard.com/) extension provide this feature.
 
@@ -51,21 +51,21 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (https://github.com/brunocvcunha/awesome-userscripts/blob/master/or patch) file for commit.
+* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
 * [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 * [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
 * [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 * [GitHub monospace font toggle](https://greasyfork.org/en/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
-* [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (https://github.com/brunocvcunha/awesome-userscripts/blob/master/shift-click toggles all files).
+* [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
 * [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
 * [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/en/scripts/22194) - Convert all titles into GitHub tooltips.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 * [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
-* [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (https://github.com/brunocvcunha/awesome-userscripts/blob/master/spaces/tabs/carriage returns) in files.
+* [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files.
 * [GitHub collapse in comment](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments.
 * [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Togle markdown headers.
 * [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub.
@@ -91,7 +91,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
 * [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-* [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (https://github.com/brunocvcunha/awesome-userscripts/blob/master/gh-pages) when available.
+* [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 
 
 
@@ -116,7 +116,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ## Additional Catalogues
 
-* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (https://github.com/brunocvcunha/awesome-userscripts/blob/master/that is currently down).
+* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
 * [Greasy Fork](https://greasyfork.org/)
 * [OpenUserJS](https://openuserjs.org/)
 

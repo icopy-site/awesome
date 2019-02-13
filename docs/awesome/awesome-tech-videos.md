@@ -36,7 +36,7 @@ really know what they are doing :)
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 - [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
 - [ES6, o que tem de bacana?](https://www.youtube.com/watch?v=VHRdSnJbNLg) By Jonathan Sampson
-- [.promise(https://github.com/lucasviola/awesome-tech-videos/blob/master/) to show you .when(https://github.com/lucasviola/awesome-tech-videos/blob/master/) to use Deferreds](https://github.com/lucasviola/awesome-tech-videos/blob/master/https://www.youtube.com/watch?v=juRtEEsHI9E) By Alex McPherson
+- [.promise() to show you .when() to use Deferreds](https://www.youtube.com/watch?v=juRtEEsHI9E) By Alex McPherson
 - [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
 - [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4) By John Resig
 - [Babel 6.0](https://www.youtube.com/watch?v=Q_ncaTYEizc) By Sebastian McKenzie
@@ -67,7 +67,7 @@ really know what they are doing :)
 - [We are Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) By Paul Phillips
 
 ### User Experience
-- [User Interface (https://github.com/lucasviola/awesome-tech-videos/blob/master/UX) Techniques](https://github.com/lucasviola/awesome-tech-videos/blob/master/https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
+- [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
 ### Front-End Development
 - [A future called Web Components](https://www.youtube.com/watch?v=TKYjzQ0T1q0) By Zeno Rocha

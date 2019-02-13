@@ -6,7 +6,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 
 ## Contribution
 
-:octocat: All contributions welcome. Feel free to contribute (https://github.com/alferov/awesome-gulp/blob/master/[guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
+:octocat: All contributions welcome. Feel free to contribute ([guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
 
 ## Contents
 
@@ -85,7 +85,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 - [5 Lessons Learned Using Gulp.js](http://denbuzze.com/post/5-lessons-learned-using-gulpjs/)
 - [Automating Linkage: How I Learned to Stop Worrying and Love the Build](http://conan.is/bower/gulp/wiredep/javascript/2014/08/18/automating_linkage-or-how-i-learned-to-stop-worrying-and-love-the-build.html)
 - [Setting Up Gulp Tasks for the First Time](https://www.codementor.io/development-process/tutorial/how-to-set-up-gulp-beginner-guide#/)
-- [Why You Shouldn’t Create a Gulp Plugin (https://github.com/alferov/awesome-gulp/blob/master/or, How to Stop Worrying and Learn to Love Existing Node Packages)](https://github.com/alferov/awesome-gulp/blob/master/http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to)
+- [Why You Shouldn’t Create a Gulp Plugin (or, How to Stop Worrying and Learn to Love Existing Node Packages)](http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to)
 - [6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices/)
 - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
 
@@ -172,7 +172,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 ### Optimization
 
 - [gulp-uncss](https://github.com/ben-eb/gulp-uncss) - Remove unused CSS selectors with [UnCSS](https://github.com/giakki/uncss).
-- [gulp-css-base64](https://github.com/alferov/awesome-gulp/blob/master/https://github.com/zckrs/gulp-css-base64) - Transform all resources found (https://github.com/alferov/awesome-gulp/blob/master/those within a url(https://github.com/alferov/awesome-gulp/blob/master/) declaration) in CSS files into base64-encoded data URI strings.
+- [gulp-css-base64](https://github.com/zckrs/gulp-css-base64) - Transform all resources found (those within a url() declaration) in CSS files into base64-encoded data URI strings.
 - [gulp-svg2png](https://github.com/akoenig/gulp-svg2png) - Convert SVGs to PNGs.
 - [gulp-responsive](https://github.com/mahnunchik/gulp-responsive) - Generate images at different sizes.
 - [gulp-svgstore](https://github.com/w0rm/gulp-svgstore) - Combine svg files into one with `<symbol>` elements.
@@ -213,7 +213,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 
 ### Live Reload
 
-- [browser-sync](https://github.com/alferov/awesome-gulp/blob/master/https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites (https://github.com/alferov/awesome-gulp/blob/master/[recipes](https://github.com/alferov/awesome-gulp/blob/master/https://github.com/BrowserSync/gulp-browser-sync)).
+- [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites ([recipes](https://github.com/BrowserSync/gulp-browser-sync)).
 - [gulp-livereload](https://github.com/vohof/gulp-livereload) - Gulp plugin for livereload.
 
 ### Caching
@@ -287,7 +287,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 - [laravel-5-boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) - A Laravel 5 boilerplate project.
 - [react-starterkit](https://github.com/wbkd/react-starterkit) - React starter kit that contains react-router, Reflux, jest, webpack, gulp and Stylus.
 - [gulp-front](https://github.com/zoxon/gulp-front) - Frontend boilerplate and modular BEM css framework based on gulp, pug, stylus, postcss, webpack and babel.
-- [Front End Starter](https://github.com/alferov/awesome-gulp/blob/master/https://github.com/Puritanic/Frontend-Starter-Kit) - A boilerplate for frontend projects powered by Gulp, HTML5 bolierplate, Sass, PostCss and Webpack(https://github.com/alferov/awesome-gulp/blob/master/for Babel transpiling).
+- [Front End Starter](https://github.com/Puritanic/Frontend-Starter-Kit) - A boilerplate for frontend projects powered by Gulp, HTML5 bolierplate, Sass, PostCss and Webpack(for Babel transpiling).
 
 ### Yeoman Generators
 
@@ -304,7 +304,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 ## Miscellaneous
 
 - [elixir](https://github.com/laravel/elixir) - A clean, fluent API for defining basic gulp tasks for your Laravel applications.
-- [gulp-app](https://github.com/alferov/awesome-gulp/blob/master/https://github.com/sindresorhus/gulp-app) - Gulp as an app (https://github.com/alferov/awesome-gulp/blob/master/OS X).
+- [gulp-app](https://github.com/sindresorhus/gulp-app) - Gulp as an app (OS X).
 - [lmn-gulp-tasks](https://github.com/Lostmyname/lmn-gulp-tasks) - Example of gulp tasks unit testing.
 - [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.
 

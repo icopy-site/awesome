@@ -103,7 +103,7 @@
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS.
 - [Forestry](https://forestry.io) - Headless CMS for static sites built with Hugo and Jekyll.
-- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (https://github.com/automata/awesome-jamstack/blob/master/and other) files.
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
 
@@ -133,7 +133,7 @@
 ### Search
 
 - [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business.
-- [Lunr](https://lunrjs.com/) - Search made simple (https://github.com/automata/awesome-jamstack/blob/master/on frontend).
+- [Lunr](https://lunrjs.com/) - Search made simple (on frontend).
 - [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
 
 ### Database
@@ -163,7 +163,7 @@
   - [Endpoints](https://cloud.google.com/endpoints/) - API management apps built on Google Cloud.
   - [Cloud Dataflow](https://cloud.google.com/dataflow/) - Serverless stream and batch data processing service.
   - [BigQuery](https://cloud.google.com/bigquery/) - Serverless data warehousing services that help you to deploy advanced cloud data warehousing solutions for your enterprise.
-  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (https://github.com/automata/awesome-jamstack/blob/master/Tensor Processing Units).
+  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units).
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*

@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
-Electronic engineering (https://github.com/kitspace/awesome-electronics/blob/master/EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering.
+Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. It is often differentiated from electrical engineering in that it mostly deals with low power DC electronic circuits rather than high power AC systems but there is a lot of overlap between electronic and electrical engineering.
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
@@ -75,11 +75,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Free EDA Packages
 - [KiCAD](http://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
-- [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (https://github.com/kitspace/awesome-electronics/blob/master/board size restricted) free version.
+- [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 - [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium Circuit Maker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
-- [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (https://github.com/kitspace/awesome-electronics/blob/master/pin and signal layer restricted) free version.
+- [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 
 
@@ -91,7 +91,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-- [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (https://github.com/kitspace/awesome-electronics/blob/master/also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
+- [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
 
 ### Eagle
@@ -102,7 +102,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (https://github.com/kitspace/awesome-electronics/blob/master/Germany).
+- [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
 ## Part Search Engines
@@ -123,7 +123,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Miscellaneous Web Services
 - [Eyrie.io](https://eyrie.io) - For viewing Eagle and KiCAD designs online.
-- [SnapEDA.com](https://www.snapeda.com) - Parts library with free symbols & footprints. (https://github.com/kitspace/awesome-electronics/blob/master/Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
+- [SnapEDA.com](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCAD, Altium, OrCad, Allegro, etc.)
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -149,7 +149,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 
 ## Podcasts
- - [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (https://github.com/kitspace/awesome-electronics/blob/master/EEVBlog), often with guests
+ - [The Amp Hour](https://theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
  - [Embedded FM](https://www.embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
  - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news

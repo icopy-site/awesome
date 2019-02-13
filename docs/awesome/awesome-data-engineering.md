@@ -50,7 +50,7 @@ List of content
 - Document
 	* [MongoDB](https://www.mongodb.com) An open-source, document database designed for ease of development and scaling. 
 		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server for MongoDB® is a free, enhanced, fully compatible, open source, drop-in replacement for the MongoDB® Community Edition that includes enterprise-grade features and functionality.
-		* [MemDB](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (https://github.com/igorbarinov/awesome-data-engineering/blob/master/based on MongoDB)
+		* [MemDB](https://github.com/rain1017/memdb) Distributed Transactional In-Memory Database (based on MongoDB)
 	* [Elasticsearch](https://www.elastic.co/) Search & Analyze Data in Real Time.
 	* [Couchbase](https://www.couchbase.com/) The highest performing NoSQL distributed database.
 	* [RethinkDB](https://rethinkdb.com/) The open-source database for the realtime web.
@@ -79,7 +79,7 @@ List of content
 	* [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 - Other
 	* [Tarantool](https://github.com/tarantool/tarantool/) Tarantool is an in-memory database and application server.
-	* [GreenPlum](https://github.com/greenplum-db/gpdb) The Greenplum Database (https://github.com/igorbarinov/awesome-data-engineering/blob/master/GPDB) is an advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.
+	* [GreenPlum](https://github.com/greenplum-db/gpdb) The Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse. It provides powerful and rapid analytics on petabyte scale data volumes.
 	* [cayley](https://github.com/cayleygraph/cayley) An open-source graph database. Google.
 	* [Snappydata](https://github.com/SnappyDataInc/snappydata) SnappyData: OLTP + OLAP Database built on Apache Spark
 
@@ -110,7 +110,7 @@ List of content
 * [HDFS](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
 	* [Snakebite](https://github.com/spotify/snakebite) A pure python HDFS client
 * [AWS S3](https://aws.amazon.com/s3/)
-	* [smart_open](https://github.com/RaRe-Technologies/smart_open) Utils for streaming large files (https://github.com/igorbarinov/awesome-data-engineering/blob/master/S3, HDFS, gzip, bz2)
+	* [smart_open](https://github.com/RaRe-Technologies/smart_open) Utils for streaming large files (S3, HDFS, gzip, bz2)
 * [Alluxio](https://www.alluxio.org/) Alluxio is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce
 * [CEPH](https://ceph.com/) Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability
 * [OrangeFS](https://www.orangefs.org/) Orange File System is a branch of the Parallel Virtual File System
@@ -148,7 +148,7 @@ multi-processor, multi-core machines
 * [Robinhood's Faust](https://github.com/robinhood/faust) Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
 
 ## Batch Processing
-* [Hadoop MapReduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (https://github.com/igorbarinov/awesome-data-engineering/blob/master/multi-terabyte data-sets) in-parallel on large clusters (https://github.com/igorbarinov/awesome-data-engineering/blob/master/thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
+* [Hadoop MapReduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
 * [Spark](https://spark.apache.org/)
 	* [Spark Packages](https://spark-packages.org) A community index of packages for Apache Spark
 	* [Deep Spark](https://github.com/Stratio/deep-spark) Connecting Apache Spark with different data stores. Deprecated.
@@ -181,7 +181,7 @@ multi-processor, multi-core machines
 * [SmoothieCharts](http://smoothiecharts.org) A JavaScript Charting Library for Streaming Data.
 * [PyXley](https://github.com/stitchfix/pyxley) Python helpers for building dashboards using Flask and React
 * [Plotly](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
-* [Apache Superset](https://github.com/apache/incubator-superset) Apache Superset (https://github.com/igorbarinov/awesome-data-engineering/blob/master/incubating) is a modern, enterprise-ready business intelligence web application
+* [Apache Superset](https://github.com/apache/incubator-superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 * [Redash](https://redash.io/) Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 * [Metabase](https://github.com/metabase/metabase) Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 * [PyQtGraph](http://www.pyqtgraph.org/) PyQtGraph is a pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.
@@ -197,7 +197,7 @@ multi-processor, multi-core machines
 * [Pinball](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
 
 ## ELK Elastic Logstash Kibana
-* [docker-logstash](https://github.com/pblittle/docker-logstash) A highly configurable logstash (https://github.com/igorbarinov/awesome-data-engineering/blob/master/1.4.4) docker image running Elasticsearch (https://github.com/igorbarinov/awesome-data-engineering/blob/master/1.7.0) and Kibana (https://github.com/igorbarinov/awesome-data-engineering/blob/master/3.1.2).
+* [docker-logstash](https://github.com/pblittle/docker-logstash) A highly configurable logstash (1.4.4) docker image running Elasticsearch (1.7.0) and Kibana (3.1.2).
 * [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc) JDBC importer for Elasticsearch
 * [ZomboDB](https://github.com/zombodb/zombodb) Postgres Extension that allows creating an index backed by Elasticsearch
 

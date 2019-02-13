@@ -20,7 +20,7 @@ Animation
   - JavaScript
     - [Waves](https://github.com/fians/Waves) — Click effect inspired by Google's Material Design.
     - [material-design-hamburger](https://github.com/swirlycheetah/material-design-hamburger) — Android's Material Design hamburger animation built in CSS.
-    - [Material-Preloader](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (https://github.com/sachin1092/awesome-material/blob/master/as seen on inbox).
+    - [Material-Preloader](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
     - [Google-material-design-ripple-effect](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
   
 Components

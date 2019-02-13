@@ -82,13 +82,13 @@ Signals/Behaviors/FRP:
 
 ## Learning Resources
 
-- [Video - "PureScript (https://github.com/passy/awesome-purescript/blob/master/Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
+- [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
-- [Book (https://github.com/passy/awesome-purescript/blob/master/ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
+- [Book (ish) - Jordan's Purescript Reference](https://github.com/JordanMartinez/purescript-jordans-reference)
 - [PureScript for Haskellers by Dennis Gosnell](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 - [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 - [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
-- [Course (https://github.com/passy/awesome-purescript/blob/master/egghead.io) - Functional Programming Concepts in Purescript](https://https://github.com/passy/awesome-purescript/blob/master/egghead.io/courses/functional-programming-concepts-in-purescript)
+- [Course (egghead.io) - Functional Programming Concepts in Purescript](https://egghead.io/courses/functional-programming-concepts-in-purescript)
 
 ## Discovery
 

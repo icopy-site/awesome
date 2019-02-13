@@ -19,7 +19,7 @@ A curated list of awesome browser extensions for GitHub.
 
 ### [GitHub AST Viewer](https://raw.githubusercontent.com/lukehorvat/github-ast-viewer) <a href="https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-View the abstract syntax tree (https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/AST) of code on GitHub.
+View the abstract syntax tree (AST) of code on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -122,7 +122,7 @@ Easily navigate through the changes in a file that has been edited on GitHub.
 
 ### [GitHub Issue Link Status](https://raw.githubusercontent.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Colorize issue and PR links to see their status (https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/open, closed, merged).
+Colorize issue and PR links to see their status (open, closed, merged).
 
 <details><summary>Screenshots</summary>
 
@@ -212,7 +212,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 
 <details><summary>Highlights</summary>
 
--  [Mark issues and pull requests as unread](https://user-images.githubusercontent.com/1402241/27847663-963b7d7c-6171-11e7-9470-6e86d8463771.png) (https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/They will reappear in Notifications)
+-  [Mark issues and pull requests as unread](https://user-images.githubusercontent.com/1402241/27847663-963b7d7c-6171-11e7-9470-6e86d8463771.png) (They will reappear in Notifications)
 - [Reaction avatars](https://user-images.githubusercontent.com/1402241/34438653-f66535a4-ecda-11e7-9406-2e1258050cfa.png)
 - [Waits for the PR checks before merging a PR](https://user-images.githubusercontent.com/1402241/35192861-3f4a1bf6-fecc-11e7-8b9f-35ee019c6cdf.gif)
 - [Linkifies issue/PR references in code, comments and titles](https://cloud.githubusercontent.com/assets/170270/25370217/61718820-29b3-11e7-89c5-2959eaf8cac8.png)

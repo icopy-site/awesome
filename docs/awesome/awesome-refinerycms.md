@@ -15,7 +15,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Backoffice extensions
 * [refinerycms-dynamicfields](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
-* [refinerycms-page-resources](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (https://github.com/refinerycms-contrib/awesome-refinerycms/blob/master/files) to a Page
+* [refinerycms-page-resources](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
 * [refinerycms-redactor](https://github.com/rabid/refinerycms-redactor) - WYSIWYG editor with [Redactor](https://imperavi.com/redactor/)
 * [refinerycms-resource-categories](https://github.com/bisscomm/refinerycms-resource-categories) - Categorize resources
 * [refinerycms-snoods](https://github.com/cleverlemming/refinerycms-snoods) - Creating download pages and sending leads to Salesforce
@@ -26,7 +26,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [solidus-refinery-authentication](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
 ## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
-* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (https://github.com/refinerycms-contrib/awesome-refinerycms/blob/master/files) to a Spree::Product
+* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
 * [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
 ## Refinery team extensions
@@ -39,7 +39,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ### Frontoffice extensions
 * [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
-* [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (https://github.com/refinerycms-contrib/awesome-refinerycms/blob/master/more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
+* [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
 * [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms
 * [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news
 * [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images

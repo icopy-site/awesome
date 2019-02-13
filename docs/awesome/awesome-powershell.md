@@ -1,10 +1,10 @@
 ## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
+[<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
 A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
 
-PowerShell is a cross-platform (https://github.com/janikvonrotz/awesome-powershell/blob/master/Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (https://github.com/janikvonrotz/awesome-powershell/blob/master/e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
+PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 It includes a command-line shell and an associated scripting language.
 
 ## Contents
@@ -41,8 +41,8 @@ It includes a command-line shell and an associated scripting language.
 - [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
 - [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
-- [ConfluencePS](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (https://github.com/janikvonrotz/awesome-powershell/blob/master/by using the API).
-- [JiraPS](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (https://github.com/janikvonrotz/awesome-powershell/blob/master/by using the API).
+- [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
+- [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 
 ## Blogs
 
@@ -63,7 +63,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Build Tools
 
-* [psake](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://github.com/psake/psake) - Build automation tool inspired by rake (https://github.com/janikvonrotz/awesome-powershell/blob/master/aka make in Ruby) and bake (https://github.com/janikvonrotz/awesome-powershell/blob/master/aka make in Boo).
+* [psake](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
@@ -82,8 +82,8 @@ It includes a command-line shell and an associated scripting language.
 - [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (https://github.com/janikvonrotz/awesome-powershell/blob/master/by typing `fuck`).
-- [pslinq](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://github.com/manojlds/pslinq) - LINQ (https://github.com/janikvonrotz/awesome-powershell/blob/master/LINQ2Objects) for Powershell.
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
+- [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
@@ -101,7 +101,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 - [Invoke-CreateModuleHelpFile](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
-- [PScribo](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (https://github.com/janikvonrotz/awesome-powershell/blob/master/domain specific language).
+- [PScribo](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
 
 ## Editors and IDEs
 
@@ -160,7 +160,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Themes
 
-- [Oh-My-Posh](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (https://github.com/janikvonrotz/awesome-powershell/blob/master/includes many awesome powerline theme).
+- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 - [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
 
 ## Videos
@@ -171,7 +171,7 @@ It includes a command-line shell and an associated scripting language.
 - [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) - Through description on some of the exciting new features in PowerShell version 5.0.
 - [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - Collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
 - [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - Brief introduction to PowerShell open source project and how it runs on linux.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (https://github.com/janikvonrotz/awesome-powershell/blob/master/DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
+- [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
 
 ## Webserver
 
@@ -189,7 +189,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## SQL Server
 
-- [dbachecks](https://github.com/janikvonrotz/awesome-powershell/blob/master/https://dbachecks.io) - SQL Server Environmental Validation (https://github.com/janikvonrotz/awesome-powershell/blob/master/crowdsourced SQL Server DBA Checklists)
+- [dbachecks](https://dbachecks.io) - SQL Server Environmental Validation (crowdsourced SQL Server DBA Checklists)
 - [dbatools](https://dbatools.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
 
 ## Misc

@@ -14,7 +14,7 @@
 
 ## Foreword
 
-Unicode is Awesome! Prior to Unicode, international communication was grueling- everyone had defined their separate extended character set in the upperhalf of ASCII (https://github.com/jagracey/Awesome-Unicode/blob/master/called Code Pages) that would conflict- Just think, German speakers coordinating with Korean speakers over which 127 character Code Page to use. Thankfully the Unicode standard caught on and unified communication. Unicode 8.0 standardizes over 120,000 characters from over 129 scripts - some modern, some ancient, and some still undeciphered. Unicode handles left-to-right and right-to-left text, combining marks, and includes diverse cultural, political, religious characters and emojis. Unicode is awesomely human - and ultimately underappreciated.
+Unicode is Awesome! Prior to Unicode, international communication was grueling- everyone had defined their separate extended character set in the upperhalf of ASCII (called Code Pages) that would conflict- Just think, German speakers coordinating with Korean speakers over which 127 character Code Page to use. Thankfully the Unicode standard caught on and unified communication. Unicode 8.0 standardizes over 120,000 characters from over 129 scripts - some modern, some ancient, and some still undeciphered. Unicode handles left-to-right and right-to-left text, combining marks, and includes diverse cultural, political, religious characters and emojis. Unicode is awesomely human - and ultimately underappreciated.
 
 <br>
 
@@ -62,7 +62,7 @@ Unicode is Awesome! Prior to Unicode, international communication was grueling- 
 
 The Unicode Standard defines codes for characters used in all the major languages written today. Scripts include the European alphabetic scripts, Middle Eastern right-to-left scripts, and many scripts of Asia.
 
-The Unicode Standard further includes punctuation marks, diacritics, mathematical symbols, technical symbols, arrows, dingbats, emoji, etc. It provides codes for diacritics, which are modifying character marks such as the tilde (https://github.com/jagracey/Awesome-Unicode/blob/master/~), that are used in conjunction with base characters to represent accented letters (https://github.com/jagracey/Awesome-Unicode/blob/master/ñ, for example). In all, the Unicode Standard, Version 9.0 provides codes for 128,172 characters from the world's alphabets, ideograph sets, and symbol collections.
+The Unicode Standard further includes punctuation marks, diacritics, mathematical symbols, technical symbols, arrows, dingbats, emoji, etc. It provides codes for diacritics, which are modifying character marks such as the tilde (~), that are used in conjunction with base characters to represent accented letters (ñ, for example). In all, the Unicode Standard, Version 9.0 provides codes for 128,172 characters from the world's alphabets, ideograph sets, and symbol collections.
 
 The majority of common-use characters fit into the first 64K code points, an area of the codespace that is called the basic multilingual plane, or BMP for short. There are sixteen other supplementary planes available for encoding other characters, with currently over 850,000 unused code points. More characters are under consideration for addition to future versions of the standard.
 
@@ -74,7 +74,7 @@ The Unicode Standard also reserves code points for private use. Vendors or end u
 
 Character encoding standards define not only the identity of each character and its numeric value, or code point, but also how this value is represented in bits.
 
-The Unicode Standard defines three encoding forms that allow the same data to be transmitted in a byte, word or double word oriented format (https://github.com/jagracey/Awesome-Unicode/blob/master/i.e. in 8, 16 or 32-bits per code unit). All three encoding forms encode the same common character repertoire and can be efficiently transformed into one another without loss of data. The Unicode Consortium fully endorses the use of any of these encoding forms as a conformant way of implementing the Unicode Standard.
+The Unicode Standard defines three encoding forms that allow the same data to be transmitted in a byte, word or double word oriented format (i.e. in 8, 16 or 32-bits per code unit). All three encoding forms encode the same common character repertoire and can be efficiently transformed into one another without loss of data. The Unicode Consortium fully endorses the use of any of these encoding forms as a conformant way of implementing the Unicode Standard.
 
 UTF-8 is popular for HTML and similar protocols. UTF-8 is a way of transforming all Unicode characters into a variable length encoding of bytes. It has the advantages that the Unicode characters corresponding to the familiar ASCII set have the same byte values as ASCII, and that Unicode characters transformed into UTF-8 can be used with much existing software without extensive software rewrites.  
 
@@ -82,7 +82,7 @@ UTF-16 is popular in many environments that need to balance efficient access to 
 
 UTF-32 is useful where memory space is no concern, but fixed width, single code unit access to characters is desired. Each Unicode character is  encoded in a single 32-bit code unit when using UTF-32.
 
-All three encoding forms need at most 4 bytes (https://github.com/jagracey/Awesome-Unicode/blob/master/or 32-bits) of data for each character.
+All three encoding forms need at most 4 bytes (or 32-bits) of data for each character.
 
 
 
@@ -90,30 +90,30 @@ All three encoding forms need at most 4 bytes (https://github.com/jagracey/Aweso
 ## Lets talk Numbers
 
 
-The Unicode characterset is divided into 17 core segments called "planes", which are further divided into blocks. Each plane has space for 65,536 (https://github.com/jagracey/Awesome-Unicode/blob/master/2¹⁶) codepoints, supporting a grand total of 1,114,112 codepoints. There are two "Private Use Area" planes (https://github.com/jagracey/Awesome-Unicode/blob/master/#16 & #17) that are allocated to be used however one wishes. These two Private Use planes account for 131,072 codepoints.
+The Unicode characterset is divided into 17 core segments called "planes", which are further divided into blocks. Each plane has space for 65,536 (2¹⁶) codepoints, supporting a grand total of 1,114,112 codepoints. There are two "Private Use Area" planes (#16 & #17) that are allocated to be used however one wishes. These two Private Use planes account for 131,072 codepoints.
 
 | \#  | Name                                    | Range                  |
 |-----|-----------------------------------------|------------------------|
-| 1.  | **Basic Multilingual Plane**            | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+0000 to U+FFFF)     |
-| 2.  | **Supplementary Multilingual Plane**    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+10000 to U+1FFFF)   |
-| 3.  | **Supplementary Ideographic Plane**     | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+20000 to U+2FFFF)   |
-| 4.  | Tertiary Ideographic Plane              | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+30000 to U+3FFFF)   |
-| 5.  | Plane 5 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+40000 to U+4FFFF)   |
-| 6.  | Plane 6 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+50000 to U+5FFFF)   |
-| 7.  | Plane 7 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+60000 to U+6FFFF)   |
-| 8.  | Plane 8 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+70000 to U+7FFFF)   |
-| 9.  | Plane 9 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                    | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+80000 to U+8FFFF)   |
-| 10. | Plane 10 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                   | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+90000 to U+9FFFF)   |
-| 11. | Plane 11 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                   | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+A0000 to U+AFFFF)   |
-| 12. | Plane 12 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                   | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+B0000 to U+BFFFF)   |
-| 13. | Plane 13 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                   | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+C0000 to U+CFFFF)   |
-| 14. | Plane 14 (https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned)                   | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+D0000 to U+DFFFF)   |
-| 15. | **Supplementary Special-purpose Plane** | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+E0000 to U+EFFFF)   |
-| 16. | **Supplementary Private Use Area - A**  | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+F0000 to U+FFFFF)   |
-| 17. | **Supplementary Private Use Area - B**  | (https://github.com/jagracey/Awesome-Unicode/blob/master/U+100000 to U+10FFFF) |
+| 1.  | **Basic Multilingual Plane**            | (U+0000 to U+FFFF)     |
+| 2.  | **Supplementary Multilingual Plane**    | (U+10000 to U+1FFFF)   |
+| 3.  | **Supplementary Ideographic Plane**     | (U+20000 to U+2FFFF)   |
+| 4.  | Tertiary Ideographic Plane              | (U+30000 to U+3FFFF)   |
+| 5.  | Plane 5 (unassigned)                    | (U+40000 to U+4FFFF)   |
+| 6.  | Plane 6 (unassigned)                    | (U+50000 to U+5FFFF)   |
+| 7.  | Plane 7 (unassigned)                    | (U+60000 to U+6FFFF)   |
+| 8.  | Plane 8 (unassigned)                    | (U+70000 to U+7FFFF)   |
+| 9.  | Plane 9 (unassigned)                    | (U+80000 to U+8FFFF)   |
+| 10. | Plane 10 (unassigned)                   | (U+90000 to U+9FFFF)   |
+| 11. | Plane 11 (unassigned)                   | (U+A0000 to U+AFFFF)   |
+| 12. | Plane 12 (unassigned)                   | (U+B0000 to U+BFFFF)   |
+| 13. | Plane 13 (unassigned)                   | (U+C0000 to U+CFFFF)   |
+| 14. | Plane 14 (unassigned)                   | (U+D0000 to U+DFFFF)   |
+| 15. | **Supplementary Special-purpose Plane** | (U+E0000 to U+EFFFF)   |
+| 16. | **Supplementary Private Use Area - A**  | (U+F0000 to U+FFFFF)   |
+| 17. | **Supplementary Private Use Area - B**  | (U+100000 to U+10FFFF) |
 
 
-The first plane is called the Basic Multilingual Plane or BMP. It contains the code points from U+0000 to U+FFFF, which are the most frequently used characters. The other sixteen planes (https://github.com/jagracey/Awesome-Unicode/blob/master/U+010000 → U+10FFFF) are called supplementary planes or astral planes.
+The first plane is called the Basic Multilingual Plane or BMP. It contains the code points from U+0000 to U+FFFF, which are the most frequently used characters. The other sixteen planes (U+010000 → U+10FFFF) are called supplementary planes or astral planes.
 
 
 
@@ -133,28 +133,28 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **💩 Pile of Poo (https://github.com/jagracey/Awesome-Unicode/blob/master/U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (https://github.com/jagracey/Awesome-Unicode/blob/master/in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
- var High_Surrogate = function(https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point){ return Math.floor((https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point - 0x10000) / 0x400) + 0xD800 };
- var Low_Surrogate  = function(https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point){ return (https://github.com/jagracey/Awesome-Unicode/blob/master/https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point - 0x10000) % 0x400 + 0xDC00 };
+ var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
+ var Low_Surrogate  = function(Code_Point){ return (Code_Point - 0x10000) % 0x400 + 0xDC00 };
 
  // Reverses The Conversion
- var Code_Point = function(https://github.com/jagracey/Awesome-Unicode/blob/master/High_Surrogate, Low_Surrogate){
-	return (https://github.com/jagracey/Awesome-Unicode/blob/master/High_Surrogate - 0xD800) * 0x400 + Low_Surrogate - 0xDC00 + 0x10000;
+ var Code_Point = function(High_Surrogate, Low_Surrogate){
+	return (High_Surrogate - 0xD800) * 0x400 + Low_Surrogate - 0xDC00 + 0x10000;
  };
 ```
 
 ```javascript
  > var codepoint = 0x1F4A9;   								// 0x1F4A9 == 128169
- > High_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint).toString(https://github.com/jagracey/Awesome-Unicode/blob/master/16)
+ > High_Surrogate(codepoint).toString(16)
  "d83d"  													// 0xD83D == 55357
- > Low_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint).toString(https://github.com/jagracey/Awesome-Unicode/blob/master/16)
+ > Low_Surrogate(codepoint).toString(16)
  "dca9"  													// 0xDCA9 == 56489
 
- > String.fromCharCode(https://github.com/jagracey/Awesome-Unicode/blob/master/  High_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint) , Low_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint) );
+ > String.fromCharCode(  High_Surrogate(codepoint) , Low_Surrogate(codepoint) );
   "💩"
-> String.fromCodePoint(https://github.com/jagracey/Awesome-Unicode/blob/master/0x1F4A9)
+> String.fromCodePoint(0x1F4A9)
   "💩"
  > '\ud83d\udca9'
   "💩"
@@ -167,9 +167,9 @@ Unicode includes a mechanism for modifying character shape that greatly extends 
 
 
 
-Certain sequences of characters can also be represented as a single character, called a precomposed character (https://github.com/jagracey/Awesome-Unicode/blob/master/or composite or decomposible character). For example, the character "ü" can be encoded as the single code point U+00FC "ü" or as the base character U+0075 "u" followed by the non-spacing character U+0308 "¨". The Unicode Standard encodes precomposed characters for compatibility with established standards such as Latin 1, which includes many precomposed characters such as "ü" and "ñ".
+Certain sequences of characters can also be represented as a single character, called a precomposed character (or composite or decomposible character). For example, the character "ü" can be encoded as the single code point U+00FC "ü" or as the base character U+0075 "u" followed by the non-spacing character U+0308 "¨". The Unicode Standard encodes precomposed characters for compatibility with established standards such as Latin 1, which includes many precomposed characters such as "ü" and "ñ".
 
-Precomposed characters may be decomposed for consistency or analysis. For example, in alphabetizing (https://github.com/jagracey/Awesome-Unicode/blob/master/collating) a list of names, the character "ü" may be decomposed into a "u" followed by the non-spacing character "¨". Once the character has been decomposed, it may be easier for the collation to work with the character because it can be processed as a "u" with modifications. This allows easier alphabetical sorting for languages where character modifiers do not affect alphabetical order. The Unicode Standard defines the [decompositions](http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=44) for all precomposed characters. It also defines normalization forms to provide for unique representations of characters.
+Precomposed characters may be decomposed for consistency or analysis. For example, in alphabetizing (collating) a list of names, the character "ü" may be decomposed into a "u" followed by the non-spacing character "¨". Once the character has been decomposed, it may be easier for the collation to work with the character because it can be processed as a "u" with modifications. This allows easier alphabetical sorting for languages where character modifiers do not affect alphabetical order. The Unicode Standard defines the [decompositions](http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=44) for all precomposed characters. It also defines normalization forms to provide for unique representations of characters.
 
 
 ## Myths of Unicode
@@ -178,15 +178,15 @@ Precomposed characters may be decomposed for consistency or analysis. For exampl
 
 - **You can use any unassigned codepoint for internal use** - No. Eventually that hole will be filled with a different character. Instead use private use or noncharacters.
 
-- **Every Unicode code point represents a character** - No. There are lots of nonCharacters (https://github.com/jagracey/Awesome-Unicode/blob/master/FFFE, FFFF, 1FFFE,…)
-There are also surrogate code points, private and unassigned codepoints, and control/format “characters" (https://github.com/jagracey/Awesome-Unicode/blob/master/RLM, ZWNJ,…)
+- **Every Unicode code point represents a character** - No. There are lots of nonCharacters (FFFE, FFFF, 1FFFE,…)
+There are also surrogate code points, private and unassigned codepoints, and control/format “characters" (RLM, ZWNJ,…)
 
 - **Unicode will run out of space** - If it were linear, we would run out in 2140 AD. But it isn't linear. See http://www.unicode.org/roadmaps/
 
 - **Case mappings are 1-1** - No. They can also be:
-  - One-to-many: (https://github.com/jagracey/Awesome-Unicode/blob/master/ß → SS )
-  - Contextual: (https://github.com/jagracey/Awesome-Unicode/blob/master/…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )
-  - Locale-sensitive: (https://github.com/jagracey/Awesome-Unicode/blob/master/ I ↔ ı AND İ ↔ i )
+  - One-to-many: (ß → SS )
+  - Contextual: (…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )
+  - Locale-sensitive: ( I ↔ ı AND İ ↔ i )
 
 
 
@@ -196,15 +196,15 @@ There are also surrogate code points, private and unassigned codepoints, and con
 
 | Encoding Type 			|  Raw Encoding							|
 |---------------------------|---------------------------------------|
-|HTML Entity (https://github.com/jagracey/Awesome-Unicode/blob/master/Decimal) 		| &#128406;								|
-|HTML Entity (https://github.com/jagracey/Awesome-Unicode/blob/master/Hexadecimal)  | &#x1F596;								|
+|HTML Entity (Decimal) 		| &#128406;								|
+|HTML Entity (Hexadecimal)  | &#x1F596;								|
 |URL Escape Code 			| %F0%9F%96%96							|
-|UTF-8 (https://github.com/jagracey/Awesome-Unicode/blob/master/hex) 				| 0xF0 0x9F 0x96 0x96 (https://github.com/jagracey/Awesome-Unicode/blob/master/f09f9696)		|
-|UTF-8 (https://github.com/jagracey/Awesome-Unicode/blob/master/binary)				| 11110000:10011111:10010110:10010110	|
-|UTF-16/UTF-16BE (https://github.com/jagracey/Awesome-Unicode/blob/master/hex)  	| 0xD83D 0xDD96 (https://github.com/jagracey/Awesome-Unicode/blob/master/d83ddd96)				|
-|UTF-16LE (https://github.com/jagracey/Awesome-Unicode/blob/master/hex) 			| 0x3DD8 0x96DD (https://github.com/jagracey/Awesome-Unicode/blob/master/3dd896dd)				|
-|UTF-32/UTF-32BE (https://github.com/jagracey/Awesome-Unicode/blob/master/hex)  	| 0x0001F596 (https://github.com/jagracey/Awesome-Unicode/blob/master/0001f596)					|
-|UTF-32LE (https://github.com/jagracey/Awesome-Unicode/blob/master/hex) 			| 0x96F50100 (https://github.com/jagracey/Awesome-Unicode/blob/master/96f50100)					|
+|UTF-8 (hex) 				| 0xF0 0x9F 0x96 0x96 (f09f9696)		|
+|UTF-8 (binary)				| 11110000:10011111:10010110:10010110	|
+|UTF-16/UTF-16BE (hex)  	| 0xD83D 0xDD96 (d83ddd96)				|
+|UTF-16LE (hex) 			| 0x3DD8 0x96DD (3dd896dd)				|
+|UTF-32/UTF-32BE (hex)  	| 0x0001F596 (0001f596)					|
+|UTF-32LE (hex) 			| 0x96F50100 (96f50100)					|
 |Octal Escape Sequence  	| \360\237\226\226						|
 
 
@@ -242,12 +242,12 @@ The Unicode Consortium published a [general punctuation chart](http://www.unicod
 
 | Char     | Name                                     | Description                                                                                                                                                                                    |
 |----------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `'﻿'`    | U+FEFF (https://github.com/jagracey/Awesome-Unicode/blob/master/Byte Order Mark - BOM)           | has the important property of unambiguity on byte reorder. It is also zerowidth, and invisible. In non-complying software (https://github.com/jagracey/Awesome-Unicode/blob/master/like the PHP interpreter) this leads to all sorts of fun behaviour. |
-| `'￯'`    | '\\uFFEF' Reversed Byte Order Mark (https://github.com/jagracey/Awesome-Unicode/blob/master/BOM) | does not equate to a legal character, other than the beginning of text.                                                                                                                        |
-| `'​'`    | '\\u200B' zero-width non-break space     | (https://github.com/jagracey/Awesome-Unicode/blob/master/a character with no appearance and no effect other than preventing the formation of ligatures).                                                                                               |
+| `'﻿'`    | U+FEFF (Byte Order Mark - BOM)           | has the important property of unambiguity on byte reorder. It is also zerowidth, and invisible. In non-complying software (like the PHP interpreter) this leads to all sorts of fun behaviour. |
+| `'￯'`    | '\\uFFEF' Reversed Byte Order Mark (BOM) | does not equate to a legal character, other than the beginning of text.                                                                                                                        |
+| `'​'`    | '\\u200B' zero-width non-break space     | (a character with no appearance and no effect other than preventing the formation of ligatures).                                                                                               |
 | `' '`    | U+00A0 NO-BREAK SPACE                    | force adjacent characters to stick together. Well known as `&nbsp;`  in HTML.                                                                                                                          |
-| `'­'`    | U+00AD SOFT HYPHEN                       | (https://github.com/jagracey/Awesome-Unicode/blob/master/in HTML: ­) like ZERO WIDTH SPACE, but show a hyphen if (https://github.com/jagracey/Awesome-Unicode/blob/master/and only if) a break occurs.                                                                                                         |
-| `'‍'`    | U+200D ZERO WIDTH JOINER                 | force adjacent characters to be joined together (https://github.com/jagracey/Awesome-Unicode/blob/master/e.g., arabic characters or supported emoji). Can be used this to compose sequentially combined emoji.                                         |
+| `'­'`    | U+00AD SOFT HYPHEN                       | (in HTML: ­) like ZERO WIDTH SPACE, but show a hyphen if (and only if) a break occurs.                                                                                                         |
+| `'‍'`    | U+200D ZERO WIDTH JOINER                 | force adjacent characters to be joined together (e.g., arabic characters or supported emoji). Can be used this to compose sequentially combined emoji.                                         |
 | `'⁠'`    | U+2060 WORD JOINER                       | the same as U+00A0, but completely invisible. Good for writing @font-face on Twitter.                                                                                                          |
 | `' '`    | U+1680 OGHAM SPACE MARK                  | a space that looks like a dash. Great to bring programmers close to madness: 1 +  2 === 3.                                                                                                     |
 | `';'`    | U+037E GREEK QUESTION MARK               | a look-alike to the semicolon. Also a fun way to annoy developers.                                                                                                                             |
@@ -257,10 +257,10 @@ The Unicode Consortium published a [general punctuation chart](http://www.unicod
 | `'ꓹ'` | U+A4F9 LISU LETTER TONE NA PO |A lookalike for the comma character.|
 | `'ꓼ'` | U+A4FC LISU LETTER TONE MYA NA |A lookalike for the semi-colon character.|
 | `'ꓽ'` | U+A4FD LISU LETTER TONE MYA JEU|A lookalike for the colon character.|
-| `'︀'` | **Variation Selectors** (https://github.com/jagracey/Awesome-Unicode/blob/master/ U+FE00 to U+FE0F & U+E0100 to U+E01EF )  | a block of 256 zero width characters that posess the ID_Continue proprerty- meaning they can be used in variable names (https://github.com/jagracey/Awesome-Unicode/blob/master/not the first letter). What makes these special is the fact that mouse cursors pass over them as they are combining characters - unlike most other zero width characters.|
-| `'ᅟ'` | **U+115F HANGUL CHOSEONG FILLER** | In general it produces a space. Rendered as zero width (https://github.com/jagracey/Awesome-Unicode/blob/master/invisible) if not explicitly supported in rendering. Designated ID_Start|
-| `'ᅠ'`  | **U+1160 HANGUL JUNGSEONG FILLER**  | Perhaps it produces a space? Rendered as zero width (https://github.com/jagracey/Awesome-Unicode/blob/master/invisible) if not explicitly supported in rendering. Designated ID_Start|
-| `'ㅤ'` | **U+3164 HANGUL FILLER** | In general it produces a space. Rendered as zero width (https://github.com/jagracey/Awesome-Unicode/blob/master/invisible) if not explicitly supported in rendering. Designated ID_Start |
+| `'︀'` | **Variation Selectors** ( U+FE00 to U+FE0F & U+E0100 to U+E01EF )  | a block of 256 zero width characters that posess the ID_Continue proprerty- meaning they can be used in variable names (not the first letter). What makes these special is the fact that mouse cursors pass over them as they are combining characters - unlike most other zero width characters.|
+| `'ᅟ'` | **U+115F HANGUL CHOSEONG FILLER** | In general it produces a space. Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start|
+| `'ᅠ'`  | **U+1160 HANGUL JUNGSEONG FILLER**  | Perhaps it produces a space? Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start|
+| `'ㅤ'` | **U+3164 HANGUL FILLER** | In general it produces a space. Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start |
 <br><br>
 #### Wait a second... what did I just read?
 
@@ -268,9 +268,9 @@ The Unicode Consortium published a [general punctuation chart](http://www.unicod
 <br><br>
 ## Variable identifiers can effectively include whitespace!
 
-The **U+3164 HANGUL FILLER** character displays as an advancing whitespace character. The character is rendered as completely invisible (https://github.com/jagracey/Awesome-Unicode/blob/master/and non advancing, i.e. "zero width"), if not explicitly [supported in rendering](http://unicode.org/faq/unsup_char.html). That means the ugly character replacement (https://github.com/jagracey/Awesome-Unicode/blob/master/�) symbol should never be displayed.
+The **U+3164 HANGUL FILLER** character displays as an advancing whitespace character. The character is rendered as completely invisible (and non advancing, i.e. "zero width"), if not explicitly [supported in rendering](http://unicode.org/faq/unsup_char.html). That means the ugly character replacement (�) symbol should never be displayed.
 
-I'm not yet sure why U+3164 was specified to behave this way. Interestingly, U+3164 was added to Unicode in version 1.1 (https://github.com/jagracey/Awesome-Unicode/blob/master/1993)- so the consortium must have had a lot of time to think it through. Anyway, here are a few examples.
+I'm not yet sure why U+3164 was specified to behave this way. Interestingly, U+3164 was added to Unicode in version 1.1 (1993)- so the consortium must have had a lot of time to think it through. Anyway, here are a few examples.
 
 ```javascript
 > var ᅟ = 'foo';
@@ -283,7 +283,7 @@ undefined
 undefined
 > var foo = 'bar'
 undefined
-> if (https://github.com/jagracey/Awesome-Unicode/blob/master/ foo ===ㅤ`baz` ){} 	// alert
+> if ( foo ===ㅤ`baz` ){} 	// alert
 undefined
 
 
@@ -294,7 +294,7 @@ undefined
 
 ```
 <br>
-**NOTE:** I've tested U+3164 rendering on Ubuntu and OS X with the following: `node`, `php`, `ruby`, `python3.5`, `scala` ,`vim`, `cat`, `chrome`+`github gist`. Atom is the only system that fails by (https://github.com/jagracey/Awesome-Unicode/blob/master/incorrectly) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.
+**NOTE:** I've tested U+3164 rendering on Ubuntu and OS X with the following: `node`, `php`, `ruby`, `python3.5`, `scala` ,`vim`, `cat`, `chrome`+`github gist`. Atom is the only system that fails by (incorrectly) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.
 
 
 <br>
@@ -303,9 +303,9 @@ undefined
 
 ## Modifiers
 
-The zero-width joiner (https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ) is a non-printing character used in the computerized typesetting of some complex scripts such as the Arabic script or any Indic script. When placed between two characters that would otherwise not be connected, a https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ causes them to be printed in their connected forms.
+The zero-width joiner (ZWJ) is a non-printing character used in the computerized typesetting of some complex scripts such as the Arabic script or any Indic script. When placed between two characters that would otherwise not be connected, a ZWJ causes them to be printed in their connected forms.
 
-The zero-width non-joiner (https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ) is a non-printing character used in the computerization of writing systems that make use of ligatures. When placed between two characters that would otherwise be connected into a ligature, a https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ causes them to be printed in their final and initial forms, respectively. This is also an effect of a space character, but a https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ is used when it is desirable to keep the words closer together or to connect a word with its morpheme.
+The zero-width non-joiner (ZWNJ) is a non-printing character used in the computerization of writing systems that make use of ligatures. When placed between two characters that would otherwise be connected into a ligature, a ZWNJ causes them to be printed in their final and initial forms, respectively. This is also an effect of a space character, but a ZWNJ is used when it is desirable to keep the words closer together or to connect a word with its morpheme.
 
 
 
@@ -360,9 +360,9 @@ The zero-width non-joiner (https://github.com/jagracey/Awesome-Unicode/blob/mast
 - **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
 
 - **Upper and lower case mappings are not always one-to-one.** They can also be:
-  - One-to-many: (https://github.com/jagracey/Awesome-Unicode/blob/master/ß → SS )
-  - Contextual: (https://github.com/jagracey/Awesome-Unicode/blob/master/…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )
-  - Locale-sensitive: (https://github.com/jagracey/Awesome-Unicode/blob/master/ I ↔ ı AND İ ↔ i )
+  - One-to-many: (ß → SS )
+  - Contextual: (…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )
+  - Locale-sensitive: ( I ↔ ı AND İ ↔ i )
 
 
 
@@ -515,7 +515,7 @@ Emojis of mixed gender situations are now available, such as same sex families, 
 
 Further, emojis now support skin color modifiers.
 
-> Five symbol modifier characters that provide for a range of skin tones for human emoji were released in Unicode Version 8.0 (https://github.com/jagracey/Awesome-Unicode/blob/master/mid-2015). These characters are based on the six tones of the Fitzpatrick scale, a recognized standard for dermatology (https://github.com/jagracey/Awesome-Unicode/blob/master/there are many examples of this scale online, such as FitzpatrickSkinType.pdf). The exact shades may vary between implementations. -- [Unicode Consortium's Diversity report](http://unicode.org/reports/tr51/#Diversity)
+> Five symbol modifier characters that provide for a range of skin tones for human emoji were released in Unicode Version 8.0 (mid-2015). These characters are based on the six tones of the Fitzpatrick scale, a recognized standard for dermatology (there are many examples of this scale online, such as FitzpatrickSkinType.pdf). The exact shades may vary between implementations. -- [Unicode Consortium's Diversity report](http://unicode.org/reports/tr51/#Diversity)
 
 
 
@@ -550,14 +550,14 @@ Just follow the desired Emoji with one of the skin color modifiers `\u{1F466}\u{
 
 
 ## Creatively Naming Variables and Methods
-*Examples are written in JavaScript (https://github.com/jagracey/Awesome-Unicode/blob/master/ES6)*
+*Examples are written in JavaScript (ES6)*
 
 In general, characters designated the [ID_START](https://codepoints.net/search?IDS=1) property may be used at the beggining of a variable name. Characters designated with the [ID_CONTINUE](https://codepoints.net/search?IDC=1) property may be used after the first character of a variable.
 
 
 ```javascript
 
-function rand(https://github.com/jagracey/Awesome-Unicode/blob/master/μ,σ){ ... };
+function rand(μ,σ){ ... };
 
 String.prototype.reverseⵑ = function(){..};
 
@@ -592,7 +592,7 @@ var Ꙭൽↈⴱ = 'huh';
 // While perfectly valid, this doesn’t work in most browsers:
 var foo\u200Cbar = 42;
 
-// This is *not* a bitwise left shift (https://github.com/jagracey/Awesome-Unicode/blob/master/`<<`):
+// This is *not* a bitwise left shift (`<<`):
 var 〱〱 = 2;
 // This is, though:
 〱〱 << 〱〱; // 8
@@ -638,61 +638,61 @@ If you want to rename all your HTML tags to what appears as nothing, the followi
 *Do note however that HTML does not support all unicode characters.*
 ```javascript
 // U+1160 HANGUL JUNGSEONG FILLER
-transformAllTags(https://github.com/jagracey/Awesome-Unicode/blob/master/'ᅠ');
+transformAllTags('ᅠ');
 
 // An actual HTML element node designed to look like a comment node, using the U+01C3 LATIN LETTER RETROFLEX CLICK 
 //	<ǃ-- name="viewport" content="width=device-width"></ǃ-->
-transformAllTags(https://github.com/jagracey/Awesome-Unicode/blob/master/'ǃ--');
+transformAllTags('ǃ--');
 
 // or even <ᅠ⃝
-transformAllTags(https://github.com/jagracey/Awesome-Unicode/blob/master/'\u{1160}\u{20dd}');
+transformAllTags('\u{1160}\u{20dd}');
 
 // and for a bonus, all existing tag names will have each character ensquared. h⃞t⃞m⃞l⃞
 transformAllTags();
 
 
-function transformAllTags (https://github.com/jagracey/Awesome-Unicode/blob/master/newName){
+function transformAllTags (newName){
    // querySelectorAll doesn't actually return an array.
-   Array.from(https://github.com/jagracey/Awesome-Unicode/blob/master/document.querySelectorAll('*'))
-     .forEach(https://github.com/jagracey/Awesome-Unicode/blob/master/function(x){
-         transformTag(https://github.com/jagracey/Awesome-Unicode/blob/master/x, newName);
+   Array.from(document.querySelectorAll('*'))
+     .forEach(function(x){
+         transformTag(x, newName);
    });
 }
 
-function wonky(https://github.com/jagracey/Awesome-Unicode/blob/master/str){
-  return str.split(https://github.com/jagracey/Awesome-Unicode/blob/master/'').join(https://github.com/jagracey/Awesome-Unicode/blob/master/'\u{20de}') + https://github.com/jagracey/Awesome-Unicode/blob/master/'\u{20de}';
+function wonky(str){
+  return str.split('').join('\u{20de}') + '\u{20de}';
 }
 
-function transformTag(https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem, tagType){
-    var elem = (https://github.com/jagracey/Awesome-Unicode/blob/master/https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem instanceof HTMLElement) ? https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem : document.getElementById(https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem);
-    if(https://github.com/jagracey/Awesome-Unicode/blob/master/!elem || !(elem instanceof HTMLElement))return;
+function transformTag(tagIdOrElem, tagType){
+    var elem = (tagIdOrElem instanceof HTMLElement) ? tagIdOrElem : document.getElementById(tagIdOrElem);
+    if(!elem || !(elem instanceof HTMLElement))return;
     var children = elem.childNodes;
     var parent = elem.parentNode;
-    var newNode = document.createElement(https://github.com/jagracey/Awesome-Unicode/blob/master/tagType||wonky(elem.tagName));
-    for(https://github.com/jagracey/Awesome-Unicode/blob/master/var a=0;a<elem.attributes.length;a++){
-        newNode.setAttribute(https://github.com/jagracey/Awesome-Unicode/blob/master/elem.attributes[a].nodeName, elem.attributes[a].value);
+    var newNode = document.createElement(tagType||wonky(elem.tagName));
+    for(var a=0;a<elem.attributes.length;a++){
+        newNode.setAttribute(elem.attributes[a].nodeName, elem.attributes[a].value);
     }
-    for(https://github.com/jagracey/Awesome-Unicode/blob/master/var i= 0,clen=children.length;i<clen;i++){
-        newNode.appendChild(https://github.com/jagracey/Awesome-Unicode/blob/master/children[0]); //0...always point to the first non-moved element
+    for(var i= 0,clen=children.length;i<clen;i++){
+        newNode.appendChild(children[0]); //0...always point to the first non-moved element
     }
     newNode.style.cssText = elem.style.cssText;
-    parent.replaceChild(https://github.com/jagracey/Awesome-Unicode/blob/master/newNode,elem);
+    parent.replaceChild(newNode,elem);
 }
 ```
 Here is what it does support:
 
 ```javascript
-function testBegin(https://github.com/jagracey/Awesome-Unicode/blob/master/str){
+function testBegin(str){
  try{
-    eval(https://github.com/jagracey/Awesome-Unicode/blob/master/`document.createElement( '${str}' );`)
+    eval(`document.createElement( '${str}' );`)
     return true;
  }
  catch(e){ return false; }
 }
 
-function testContinue(https://github.com/jagracey/Awesome-Unicode/blob/master/str){
+function testContinue(str){
  try{
-    eval(https://github.com/jagracey/Awesome-Unicode/blob/master/`document.createElement( 'a${str}' );`)
+    eval(`document.createElement( 'a${str}' );`)
     return true;
  }
  catch(e){ return false; }
@@ -702,13 +702,13 @@ function testContinue(https://github.com/jagracey/Awesome-Unicode/blob/master/st
 And heres some basic results
 ```javascript
 // Test if dashes can start an HTML Tag
-> testBegin(https://github.com/jagracey/Awesome-Unicode/blob/master/'-')
+> testBegin('-')
 < false
 
-> testContinue(https://github.com/jagracey/Awesome-Unicode/blob/master/'-')
+> testContinue('-')
 < true
 
-> testBegin(https://github.com/jagracey/Awesome-Unicode/blob/master/'ᅠ-')	// Prepend dash with U+1160 HANGUL JUNGSEONG FILLER
+> testBegin('ᅠ-')	// Prepend dash with U+1160 HANGUL JUNGSEONG FILLER
 < true
 ```
 
@@ -749,7 +749,7 @@ And heres some basic results
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roadmap_to_Unicode_BMP.svg/750px-Roadmap_to_Unicode_BMP.svg.png" alt="A map of the Basic Multilingual Plane. Each numbered box represents 256 code points."/>
 </p>
 
-*The Chinese, Japanese and Korean (https://github.com/jagracey/Awesome-Unicode/blob/master/CJK) scripts share a common background, collectively known as https://github.com/jagracey/Awesome-Unicode/blob/master/CJK characters. In the process called Han unification, the common (https://github.com/jagracey/Awesome-Unicode/blob/master/shared) characters were identified and named "https://github.com/jagracey/Awesome-Unicode/blob/master/CJK Unified Ideographs".*
+*The Chinese, Japanese and Korean (CJK) scripts share a common background, collectively known as CJK characters. In the process called Han unification, the common (shared) characters were identified and named "CJK Unified Ideographs".*
 
 
 ## Unicode Blocks
@@ -757,266 +757,266 @@ And heres some basic results
 
 | Name                                                                                                                         | From     | To       | \# Codepoints |
 |------------------------------------------------------------------------------------------------------------------------------|----------|----------|---------------|
-| [Basic Latin](https://wikipedia.org/wiki/Basic_Latin)                                                                      | U+0000   | U+007F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Latin-1 Supplement](https://wikipedia.org/wiki/Latin-1_Supplement)                                                        | U+0080   | U+00FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Latin Extended-A](https://wikipedia.org/wiki/Latin_Extended-A)                                                            | U+0100   | U+017F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Latin Extended-B](https://wikipedia.org/wiki/Latin_Extended-B)                                                            | U+0180   | U+024F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/208)         |
-| [IPA Extensions](https://wikipedia.org/wiki/IPA_Extensions)                                                                | U+0250   | U+02AF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/96)          |
-| [Spacing Modifier Letters](https://wikipedia.org/wiki/Spacing_Modifier_Letters)                                            | U+02B0   | U+02FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/80)          |
-| [Combining Diacritical Marks](https://wikipedia.org/wiki/Combining_Diacritical_Marks)                                      | U+0300   | U+036F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/112)         |
-| [Greek and Coptic](https://wikipedia.org/wiki/Greek_and_Coptic)                                                            | U+0370   | U+03FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/135)         |
-| [Cyrillic](https://wikipedia.org/wiki/Cyrillic)                                                                            | U+0400   | U+04FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Cyrillic Supplement](https://wikipedia.org/wiki/Cyrillic_Supplement)                                                      | U+0500   | U+052F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Armenian](https://wikipedia.org/wiki/Armenian)                                                                            | U+0530   | U+058F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/89)          |
-| [Hebrew](https://wikipedia.org/wiki/Hebrew)                                                                                | U+0590   | U+05FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/87)          |
-| [Arabic](https://wikipedia.org/wiki/Arabic)                                                                                | U+0600   | U+06FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/255)         |
-| [Syriac](https://wikipedia.org/wiki/Syriac)                                                                                | U+0700   | U+074F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/77)          |
-| [Arabic Supplement](https://wikipedia.org/wiki/Arabic_Supplement)                                                          | U+0750   | U+077F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Thaana](https://wikipedia.org/wiki/Thaana)                                                                                | U+0780   | U+07BF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/50)          |
-| [NKo](https://wikipedia.org/wiki/NKo)                                                                                      | U+07C0   | U+07FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/59)          |
-| [Samaritan](https://wikipedia.org/wiki/Samaritan)                                                                          | U+0800   | U+083F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/61)          |
-| [Mandaic](https://wikipedia.org/wiki/Mandaic)                                                                              | U+0840   | U+085F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Arabic Extended-A](https://wikipedia.org/wiki/Arabic_Extended-A)                                                          | U+08A0   | U+08FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/50)          |
-| [Devanagari](https://wikipedia.org/wiki/Devanagari)                                                                        | U+0900   | U+097F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Bengali](https://wikipedia.org/wiki/Bengali)                                                                              | U+0980   | U+09FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/93)          |
-| [Gurmukhi](https://wikipedia.org/wiki/Gurmukhi)                                                                            | U+0A00   | U+0A7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/79)          |
-| [Gujarati](https://wikipedia.org/wiki/Gujarati)                                                                            | U+0A80   | U+0AFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/85)          |
-| [Oriya](https://wikipedia.org/wiki/Oriya)                                                                                  | U+0B00   | U+0B7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/90)          |
-| [Tamil](https://wikipedia.org/wiki/Tamil)                                                                                  | U+0B80   | U+0BFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/72)          |
-| [Telugu](https://wikipedia.org/wiki/Telugu)                                                                                | U+0C00   | U+0C7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/96)          |
-| [Kannada](https://wikipedia.org/wiki/Kannada)                                                                              | U+0C80   | U+0CFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/87)          |
-| [Malayalam](https://wikipedia.org/wiki/Malayalam)                                                                          | U+0D00   | U+0D7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/100)         |
-| [Sinhala](https://wikipedia.org/wiki/Sinhala)                                                                              | U+0D80   | U+0DFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/90)          |
-| [Thai](https://wikipedia.org/wiki/Thai)                                                                                    | U+0E00   | U+0E7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/87)          |
-| [Lao](https://wikipedia.org/wiki/Lao)                                                                                      | U+0E80   | U+0EFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/67)          |
-| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                              | U+0F00   | U+0FFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/211)         |
-| [Myanmar](https://wikipedia.org/wiki/Myanmar)                                                                              | U+1000   | U+109F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/160)         |
-| [Georgian](https://wikipedia.org/wiki/Georgian)                                                                            | U+10A0   | U+10FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/88)          |
-| [Hangul Jamo](https://wikipedia.org/wiki/Hangul_Jamo)                                                                      | U+1100   | U+11FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Ethiopic](https://wikipedia.org/wiki/Ethiopic)                                                                            | U+1200   | U+137F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/358)         |
-| [Ethiopic Supplement](https://wikipedia.org/wiki/Ethiopic_Supplement)                                                      | U+1380   | U+139F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/26)          |
-| [Cherokee](https://wikipedia.org/wiki/Cherokee)                                                                            | U+13A0   | U+13FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/92)          |
-| [Unified Canadian Aboriginal Syllabics](https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics)                  | U+1400   | U+167F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/640)         |
-| [Ogham](https://wikipedia.org/wiki/Ogham)                                                                                  | U+1680   | U+169F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Runic](https://wikipedia.org/wiki/Runic)                                                                                  | U+16A0   | U+16FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/89)          |
-| [Tagalog](https://wikipedia.org/wiki/Tagalog)                                                                              | U+1700   | U+171F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/20)          |
-| [Hanunoo](https://wikipedia.org/wiki/Hanunoo)                                                                              | U+1720   | U+173F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/23)          |
-| [Buhid](https://wikipedia.org/wiki/Buhid)                                                                                  | U+1740   | U+175F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/20)          |
-| [Tagbanwa](https://wikipedia.org/wiki/Tagbanwa)                                                                            | U+1760   | U+177F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/18)          |
-| [Khmer](https://wikipedia.org/wiki/Khmer)                                                                                  | U+1780   | U+17FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/114)         |
-| [Mongolian](https://wikipedia.org/wiki/Mongolian)                                                                          | U+1800   | U+18AF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/156)         |
-| [Unified Canadian Aboriginal Syllabics Extended](https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended)| U+18B0   | U+18FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/70)          |
-| [Limbu](https://wikipedia.org/wiki/Limbu)                                                                                  | U+1900   | U+194F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/68)          |
-| [Tai Le](https://wikipedia.org/wiki/Tai_Le)                                                                                | U+1950   | U+197F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/35)          |
-| [New Tai Lue](https://wikipedia.org/wiki/New_Tai_Lue)                                                                      | U+1980   | U+19DF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/83)          |
-| [Khmer Symbols](https://wikipedia.org/wiki/Khmer_Symbols)                                                                  | U+19E0   | U+19FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Buginese](https://wikipedia.org/wiki/Buginese)                                                                            | U+1A00   | U+1A1F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/30)          |
-| [Tai Tham](https://wikipedia.org/wiki/Tai_Tham)                                                                            | U+1A20   | U+1AAF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/127)         |
-| [Combining Diacritical Marks Extended](https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended)                    | U+1AB0   | U+1AFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/15)          |
-| [Balinese](https://wikipedia.org/wiki/Balinese)                                                                            | U+1B00   | U+1B7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/121)         |
-| [Sundanese](https://wikipedia.org/wiki/Sundanese)                                                                          | U+1B80   | U+1BBF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/64)          |
-| [Batak](https://wikipedia.org/wiki/Batak)                                                                                  | U+1BC0   | U+1BFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/56)          |
-| [Lepcha](https://wikipedia.org/wiki/Lepcha)                                                                                | U+1C00   | U+1C4F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/74)          |
-| [Ol Chiki](https://wikipedia.org/wiki/Ol_Chiki)                                                                            | U+1C50   | U+1C7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
+| [Basic Latin](https://wikipedia.org/wiki/Basic_Latin)                                                                      | U+0000   | U+007F   | (128)         |
+| [Latin-1 Supplement](https://wikipedia.org/wiki/Latin-1_Supplement)                                                        | U+0080   | U+00FF   | (128)         |
+| [Latin Extended-A](https://wikipedia.org/wiki/Latin_Extended-A)                                                            | U+0100   | U+017F   | (128)         |
+| [Latin Extended-B](https://wikipedia.org/wiki/Latin_Extended-B)                                                            | U+0180   | U+024F   | (208)         |
+| [IPA Extensions](https://wikipedia.org/wiki/IPA_Extensions)                                                                | U+0250   | U+02AF   | (96)          |
+| [Spacing Modifier Letters](https://wikipedia.org/wiki/Spacing_Modifier_Letters)                                            | U+02B0   | U+02FF   | (80)          |
+| [Combining Diacritical Marks](https://wikipedia.org/wiki/Combining_Diacritical_Marks)                                      | U+0300   | U+036F   | (112)         |
+| [Greek and Coptic](https://wikipedia.org/wiki/Greek_and_Coptic)                                                            | U+0370   | U+03FF   | (135)         |
+| [Cyrillic](https://wikipedia.org/wiki/Cyrillic)                                                                            | U+0400   | U+04FF   | (256)         |
+| [Cyrillic Supplement](https://wikipedia.org/wiki/Cyrillic_Supplement)                                                      | U+0500   | U+052F   | (48)          |
+| [Armenian](https://wikipedia.org/wiki/Armenian)                                                                            | U+0530   | U+058F   | (89)          |
+| [Hebrew](https://wikipedia.org/wiki/Hebrew)                                                                                | U+0590   | U+05FF   | (87)          |
+| [Arabic](https://wikipedia.org/wiki/Arabic)                                                                                | U+0600   | U+06FF   | (255)         |
+| [Syriac](https://wikipedia.org/wiki/Syriac)                                                                                | U+0700   | U+074F   | (77)          |
+| [Arabic Supplement](https://wikipedia.org/wiki/Arabic_Supplement)                                                          | U+0750   | U+077F   | (48)          |
+| [Thaana](https://wikipedia.org/wiki/Thaana)                                                                                | U+0780   | U+07BF   | (50)          |
+| [NKo](https://wikipedia.org/wiki/NKo)                                                                                      | U+07C0   | U+07FF   | (59)          |
+| [Samaritan](https://wikipedia.org/wiki/Samaritan)                                                                          | U+0800   | U+083F   | (61)          |
+| [Mandaic](https://wikipedia.org/wiki/Mandaic)                                                                              | U+0840   | U+085F   | (29)          |
+| [Arabic Extended-A](https://wikipedia.org/wiki/Arabic_Extended-A)                                                          | U+08A0   | U+08FF   | (50)          |
+| [Devanagari](https://wikipedia.org/wiki/Devanagari)                                                                        | U+0900   | U+097F   | (128)         |
+| [Bengali](https://wikipedia.org/wiki/Bengali)                                                                              | U+0980   | U+09FF   | (93)          |
+| [Gurmukhi](https://wikipedia.org/wiki/Gurmukhi)                                                                            | U+0A00   | U+0A7F   | (79)          |
+| [Gujarati](https://wikipedia.org/wiki/Gujarati)                                                                            | U+0A80   | U+0AFF   | (85)          |
+| [Oriya](https://wikipedia.org/wiki/Oriya)                                                                                  | U+0B00   | U+0B7F   | (90)          |
+| [Tamil](https://wikipedia.org/wiki/Tamil)                                                                                  | U+0B80   | U+0BFF   | (72)          |
+| [Telugu](https://wikipedia.org/wiki/Telugu)                                                                                | U+0C00   | U+0C7F   | (96)          |
+| [Kannada](https://wikipedia.org/wiki/Kannada)                                                                              | U+0C80   | U+0CFF   | (87)          |
+| [Malayalam](https://wikipedia.org/wiki/Malayalam)                                                                          | U+0D00   | U+0D7F   | (100)         |
+| [Sinhala](https://wikipedia.org/wiki/Sinhala)                                                                              | U+0D80   | U+0DFF   | (90)          |
+| [Thai](https://wikipedia.org/wiki/Thai)                                                                                    | U+0E00   | U+0E7F   | (87)          |
+| [Lao](https://wikipedia.org/wiki/Lao)                                                                                      | U+0E80   | U+0EFF   | (67)          |
+| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                              | U+0F00   | U+0FFF   | (211)         |
+| [Myanmar](https://wikipedia.org/wiki/Myanmar)                                                                              | U+1000   | U+109F   | (160)         |
+| [Georgian](https://wikipedia.org/wiki/Georgian)                                                                            | U+10A0   | U+10FF   | (88)          |
+| [Hangul Jamo](https://wikipedia.org/wiki/Hangul_Jamo)                                                                      | U+1100   | U+11FF   | (256)         |
+| [Ethiopic](https://wikipedia.org/wiki/Ethiopic)                                                                            | U+1200   | U+137F   | (358)         |
+| [Ethiopic Supplement](https://wikipedia.org/wiki/Ethiopic_Supplement)                                                      | U+1380   | U+139F   | (26)          |
+| [Cherokee](https://wikipedia.org/wiki/Cherokee)                                                                            | U+13A0   | U+13FF   | (92)          |
+| [Unified Canadian Aboriginal Syllabics](https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics)                  | U+1400   | U+167F   | (640)         |
+| [Ogham](https://wikipedia.org/wiki/Ogham)                                                                                  | U+1680   | U+169F   | (29)          |
+| [Runic](https://wikipedia.org/wiki/Runic)                                                                                  | U+16A0   | U+16FF   | (89)          |
+| [Tagalog](https://wikipedia.org/wiki/Tagalog)                                                                              | U+1700   | U+171F   | (20)          |
+| [Hanunoo](https://wikipedia.org/wiki/Hanunoo)                                                                              | U+1720   | U+173F   | (23)          |
+| [Buhid](https://wikipedia.org/wiki/Buhid)                                                                                  | U+1740   | U+175F   | (20)          |
+| [Tagbanwa](https://wikipedia.org/wiki/Tagbanwa)                                                                            | U+1760   | U+177F   | (18)          |
+| [Khmer](https://wikipedia.org/wiki/Khmer)                                                                                  | U+1780   | U+17FF   | (114)         |
+| [Mongolian](https://wikipedia.org/wiki/Mongolian)                                                                          | U+1800   | U+18AF   | (156)         |
+| [Unified Canadian Aboriginal Syllabics Extended](https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended)| U+18B0   | U+18FF   | (70)          |
+| [Limbu](https://wikipedia.org/wiki/Limbu)                                                                                  | U+1900   | U+194F   | (68)          |
+| [Tai Le](https://wikipedia.org/wiki/Tai_Le)                                                                                | U+1950   | U+197F   | (35)          |
+| [New Tai Lue](https://wikipedia.org/wiki/New_Tai_Lue)                                                                      | U+1980   | U+19DF   | (83)          |
+| [Khmer Symbols](https://wikipedia.org/wiki/Khmer_Symbols)                                                                  | U+19E0   | U+19FF   | (32)          |
+| [Buginese](https://wikipedia.org/wiki/Buginese)                                                                            | U+1A00   | U+1A1F   | (30)          |
+| [Tai Tham](https://wikipedia.org/wiki/Tai_Tham)                                                                            | U+1A20   | U+1AAF   | (127)         |
+| [Combining Diacritical Marks Extended](https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended)                    | U+1AB0   | U+1AFF   | (15)          |
+| [Balinese](https://wikipedia.org/wiki/Balinese)                                                                            | U+1B00   | U+1B7F   | (121)         |
+| [Sundanese](https://wikipedia.org/wiki/Sundanese)                                                                          | U+1B80   | U+1BBF   | (64)          |
+| [Batak](https://wikipedia.org/wiki/Batak)                                                                                  | U+1BC0   | U+1BFF   | (56)          |
+| [Lepcha](https://wikipedia.org/wiki/Lepcha)                                                                                | U+1C00   | U+1C4F   | (74)          |
+| [Ol Chiki](https://wikipedia.org/wiki/Ol_Chiki)                                                                            | U+1C50   | U+1C7F   | (48)          |
 | [Sundanese Supplement](https://wikipedia.org/wiki/Sundanese_Supplement)                                                    | U+1CC0   | U+1CCF   | (8)           |
-| [Vedic Extensions](https://wikipedia.org/wiki/Vedic_Extensions)                                                            | U+1CD0   | U+1CFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/41)          |
-| [Phonetic Extensions](https://wikipedia.org/wiki/Phonetic_Extensions)                                                      | U+1D00   | U+1D7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Phonetic Extensions Supplement](https://wikipedia.org/wiki/Phonetic_Extensions_Supplement)                                | U+1D80   | U+1DBF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/64)          |
-| [Combining Diacritical Marks Supplement](https://wikipedia.org/wiki/Combining_Diacritical_Marks_Supplement)                | U+1DC0   | U+1DFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/58)          |
-| [Latin Extended Additional](https://wikipedia.org/wiki/Latin_Extended_Additional)                                          | U+1E00   | U+1EFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Greek Extended](https://wikipedia.org/wiki/Greek_Extended)                                                                | U+1F00   | U+1FFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/233)         |
-| [General Punctuation](https://wikipedia.org/wiki/General_Punctuation)                                                      | U+2000   | U+206F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/111)         |
-| [Superscripts and Subscripts](https://wikipedia.org/wiki/Superscripts_and_Subscripts)                                      | U+2070   | U+209F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/42)          |
-| [Currency Symbols](https://wikipedia.org/wiki/Currency_Symbols)                                                            | U+20A0   | U+20CF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/31)          |
-| [Combining Diacritical Marks for Symbols](https://wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols)              | U+20D0   | U+20FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/33)          |
-| [Letterlike Symbols](https://wikipedia.org/wiki/Letterlike_Symbols)                                                        | U+2100   | U+214F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/80)          |
-| [Number Forms](https://wikipedia.org/wiki/Number_Forms)                                                                    | U+2150   | U+218F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/60)          |
-| [Arrows](https://wikipedia.org/wiki/Arrows)                                                                                | U+2190   | U+21FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/112)         |
-| [Mathematical Operators](https://wikipedia.org/wiki/Mathematical_Operators)                                                | U+2200   | U+22FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Miscellaneous Technical](https://wikipedia.org/wiki/Miscellaneous_Technical)                                              | U+2300   | U+23FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/251)         |
-| [Control Pictures](https://wikipedia.org/wiki/Control_Pictures)                                                            | U+2400   | U+243F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/39)          |
-| [Optical Character Recognition](https://wikipedia.org/wiki/Optical_Character_Recognition)                                  | U+2440   | U+245F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/11)          |
-| [Enclosed Alphanumerics](https://wikipedia.org/wiki/Enclosed_Alphanumerics)                                                | U+2460   | U+24FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/160)         |
-| [Box Drawing](https://wikipedia.org/wiki/Box_Drawing)                                                                      | U+2500   | U+257F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                | U+2580   | U+259F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Geometric Shapes](https://wikipedia.org/wiki/Geometric_Shapes)                                                            | U+25A0   | U+25FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/96)          |
-| [Miscellaneous Symbols](https://wikipedia.org/wiki/Miscellaneous_Symbols)                                                  | U+2600   | U+26FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Dingbats](https://wikipedia.org/wiki/Dingbats)                                                                            | U+2700   | U+27BF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/192)         |
-| [Miscellaneous Mathematical Symbols-A](https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-A)                    | U+27C0   | U+27EF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Supplemental Arrows-A](https://wikipedia.org/wiki/Supplemental_Arrows-A)                                                  | U+27F0   | U+27FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/16)          |
-| [Braille Patterns](https://wikipedia.org/wiki/Braille_Patterns)                                                            | U+2800   | U+28FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Supplemental Arrows-B](https://wikipedia.org/wiki/Supplemental_Arrows-B)                                                  | U+2900   | U+297F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Miscellaneous Mathematical Symbols-B](https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-B)                    | U+2980   | U+29FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/128)         |
-| [Supplemental Mathematical Operators](https://wikipedia.org/wiki/Supplemental_Mathematical_Operators)                      | U+2A00   | U+2AFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [Miscellaneous Symbols and Arrows](https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)                            | U+2B00   | U+2BFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/206)         |
-| [Glagolitic](https://wikipedia.org/wiki/Glagolitic)                                                                        | U+2C00   | U+2C5F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/94)          |
-| [Latin Extended-C](https://wikipedia.org/wiki/Latin_Extended-C)                                                            | U+2C60   | U+2C7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Coptic](https://wikipedia.org/wiki/Coptic)                                                                                | U+2C80   | U+2CFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/123)         |
-| [Georgian Supplement](https://wikipedia.org/wiki/Georgian_Supplement)                                                      | U+2D00   | U+2D2F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/40)          |
-| [Tifinagh](https://wikipedia.org/wiki/Tifinagh)                                                                            | U+2D30   | U+2D7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/59)          |
-| [Ethiopic Extended](https://wikipedia.org/wiki/Ethiopic_Extended)                                                          | U+2D80   | U+2DDF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/79)          |
-| [Cyrillic Extended-A](https://wikipedia.org/wiki/Cyrillic_Extended-A)                                                      | U+2DE0   | U+2DFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Supplemental Punctuation](https://wikipedia.org/wiki/Supplemental_Punctuation)                                            | U+2E00   | U+2E7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/67)          |
-| [CJK Radicals Supplement](https://wikipedia.org/wiki/CJK_Radicals_Supplement)                                              | U+2E80   | U+2EFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/115)         |
-| [Kangxi Radicals](https://wikipedia.org/wiki/Kangxi_Radicals)                                                              | U+2F00   | U+2FDF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/214)         |
-| [Ideographic Description Characters](https://wikipedia.org/wiki/Ideographic_Description_Characters)                        | U+2FF0   | U+2FFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/12)          |
-| [CJK Symbols and Punctuation](https://wikipedia.org/wiki/CJK_Symbols_and_Punctuation)                                      | U+3000   | U+303F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/64)          |
-| [Hiragana](https://wikipedia.org/wiki/Hiragana)                                                                            | U+3040   | U+309F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/93)          |
-| [Katakana](https://wikipedia.org/wiki/Katakana)                                                                            | U+30A0   | U+30FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/96)          |
-| [Bopomofo](https://wikipedia.org/wiki/Bopomofo)                                                                            | U+3100   | U+312F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/41)          |
-| [Hangul Compatibility Jamo](https://wikipedia.org/wiki/Hangul_Compatibility_Jamo)                                          | U+3130   | U+318F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/94)          |
-| [Kanbun](https://wikipedia.org/wiki/Kanbun)                                                                                | U+3190   | U+319F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/16)          |
-| [Bopomofo Extended](https://wikipedia.org/wiki/Bopomofo_Extended)                                                          | U+31A0   | U+31BF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/27)          |
-| [CJK Strokes](https://wikipedia.org/wiki/CJK_Strokes)                                                                      | U+31C0   | U+31EF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/36)          |
-| [Katakana Phonetic Extensions](https://wikipedia.org/wiki/Katakana_Phonetic_Extensions)                                    | U+31F0   | U+31FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/16)          |
-| [Enclosed CJK Letters and Months](https://wikipedia.org/wiki/Enclosed_CJK_Letters_and_Months)                              | U+3200   | U+32FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/254)         |
-| [CJK Compatibility](https://wikipedia.org/wiki/CJK_Compatibility)                                                          | U+3300   | U+33FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/256)         |
-| [CJK Unified Ideographs Extension A](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A)                        | U+3400   | U+4DBF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/6191)        |
-| [Yijing Hexagram Symbols](https://wikipedia.org/wiki/Yijing_Hexagram_Symbols)                                              | U+4DC0   | U+4DFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/64)          |
-| [CJK Unified Ideographs](https://wikipedia.org/wiki/CJK_Unified_Ideographs)                                                | U+4E00   | U+9FFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/20941)       |
-| [Yi Syllables](https://wikipedia.org/wiki/Yi_Syllables)                                                                    | U+A000   | U+A48F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/1165)        |
-| [Yi Radicals](https://wikipedia.org/wiki/Yi_Radicals)                                                                      | U+A490   | U+A4CF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/55)          |
-| [Lisu](https://wikipedia.org/wiki/Lisu)                                                                                    | U+A4D0   | U+A4FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Vai](https://wikipedia.org/wiki/Vai)                                                                                      | U+A500   | U+A63F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/300)         |
-| [Cyrillic Extended-B](https://wikipedia.org/wiki/Cyrillic_Extended-B)                                                      | U+A640   | U+A69F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/96)          |
-| [Bamum](https://wikipedia.org/wiki/Bamum)                                                                                  | U+A6A0   | U+A6FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/88)          |
-| [Modifier Tone Letters](https://wikipedia.org/wiki/Modifier_Tone_Letters)                                                  | U+A700   | U+A71F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Latin Extended-D](https://wikipedia.org/wiki/Latin_Extended-D)                                                            | U+A720   | U+A7FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/159)         |
-| [Syloti Nagri](https://wikipedia.org/wiki/Syloti_Nagri)                                                                    | U+A800   | U+A82F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/44)          |
-| [Common Indic Number Forms](https://wikipedia.org/wiki/Common_Indic_Number_Forms)                                          | U+A830   | U+A83F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/10)          |
-| [Phags-pa](https://wikipedia.org/wiki/Phags-pa)                                                                            | U+A840   | U+A87F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/56)          |
-| [Saurashtra](https://wikipedia.org/wiki/Saurashtra)                                                                        | U+A880   | U+A8DF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/81)          |
-| [Devanagari Extended](https://wikipedia.org/wiki/Devanagari_Extended)                                                      | U+A8E0   | U+A8FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/30)          |
-| [Kayah Li](https://wikipedia.org/wiki/Kayah_Li)                                                                            | U+A900   | U+A92F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Rejang](https://wikipedia.org/wiki/Rejang)                                                                                | U+A930   | U+A95F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/37)          |
-| [Hangul Jamo Extended-A](https://wikipedia.org/wiki/Hangul_Jamo_Extended-A)                                                | U+A960   | U+A97F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Javanese](https://wikipedia.org/wiki/Javanese)                                                                            | U+A980   | U+A9DF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/91)          |
-| [Myanmar Extended-B](https://wikipedia.org/wiki/Myanmar_Extended-B)                                                        | U+A9E0   | U+A9FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/31)          |
-| [Cham](https://wikipedia.org/wiki/Cham)                                                                                    | U+AA00   | U+AA5F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/83)          |
-| [Myanmar Extended-A](https://wikipedia.org/wiki/Myanmar_Extended-A)                                                        | U+AA60   | U+AA7F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Tai Viet](https://wikipedia.org/wiki/Tai_Viet)                                                                            | U+AA80   | U+AADF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/72)          |
-| [Meetei Mayek Extensions](https://wikipedia.org/wiki/Meetei_Mayek_Extensions)                                              | U+AAE0   | U+AAFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/23)          |
-| [Ethiopic Extended-A](https://wikipedia.org/wiki/Ethiopic_Extended-A)                                                      | U+AB00   | U+AB2F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Latin Extended-E](https://wikipedia.org/wiki/Latin_Extended-E)                                                            | U+AB30   | U+AB6F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/54)          |
-| [Cherokee Supplement](https://wikipedia.org/wiki/Cherokee_Supplement)                                                      | U+AB70   | U+ABBF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/80)          |
-| [Meetei Mayek](https://wikipedia.org/wiki/Meetei_Mayek)                                                                    | U+ABC0   | U+ABFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/56)          |
+| [Vedic Extensions](https://wikipedia.org/wiki/Vedic_Extensions)                                                            | U+1CD0   | U+1CFF   | (41)          |
+| [Phonetic Extensions](https://wikipedia.org/wiki/Phonetic_Extensions)                                                      | U+1D00   | U+1D7F   | (128)         |
+| [Phonetic Extensions Supplement](https://wikipedia.org/wiki/Phonetic_Extensions_Supplement)                                | U+1D80   | U+1DBF   | (64)          |
+| [Combining Diacritical Marks Supplement](https://wikipedia.org/wiki/Combining_Diacritical_Marks_Supplement)                | U+1DC0   | U+1DFF   | (58)          |
+| [Latin Extended Additional](https://wikipedia.org/wiki/Latin_Extended_Additional)                                          | U+1E00   | U+1EFF   | (256)         |
+| [Greek Extended](https://wikipedia.org/wiki/Greek_Extended)                                                                | U+1F00   | U+1FFF   | (233)         |
+| [General Punctuation](https://wikipedia.org/wiki/General_Punctuation)                                                      | U+2000   | U+206F   | (111)         |
+| [Superscripts and Subscripts](https://wikipedia.org/wiki/Superscripts_and_Subscripts)                                      | U+2070   | U+209F   | (42)          |
+| [Currency Symbols](https://wikipedia.org/wiki/Currency_Symbols)                                                            | U+20A0   | U+20CF   | (31)          |
+| [Combining Diacritical Marks for Symbols](https://wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols)              | U+20D0   | U+20FF   | (33)          |
+| [Letterlike Symbols](https://wikipedia.org/wiki/Letterlike_Symbols)                                                        | U+2100   | U+214F   | (80)          |
+| [Number Forms](https://wikipedia.org/wiki/Number_Forms)                                                                    | U+2150   | U+218F   | (60)          |
+| [Arrows](https://wikipedia.org/wiki/Arrows)                                                                                | U+2190   | U+21FF   | (112)         |
+| [Mathematical Operators](https://wikipedia.org/wiki/Mathematical_Operators)                                                | U+2200   | U+22FF   | (256)         |
+| [Miscellaneous Technical](https://wikipedia.org/wiki/Miscellaneous_Technical)                                              | U+2300   | U+23FF   | (251)         |
+| [Control Pictures](https://wikipedia.org/wiki/Control_Pictures)                                                            | U+2400   | U+243F   | (39)          |
+| [Optical Character Recognition](https://wikipedia.org/wiki/Optical_Character_Recognition)                                  | U+2440   | U+245F   | (11)          |
+| [Enclosed Alphanumerics](https://wikipedia.org/wiki/Enclosed_Alphanumerics)                                                | U+2460   | U+24FF   | (160)         |
+| [Box Drawing](https://wikipedia.org/wiki/Box_Drawing)                                                                      | U+2500   | U+257F   | (128)         |
+| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                | U+2580   | U+259F   | (32)          |
+| [Geometric Shapes](https://wikipedia.org/wiki/Geometric_Shapes)                                                            | U+25A0   | U+25FF   | (96)          |
+| [Miscellaneous Symbols](https://wikipedia.org/wiki/Miscellaneous_Symbols)                                                  | U+2600   | U+26FF   | (256)         |
+| [Dingbats](https://wikipedia.org/wiki/Dingbats)                                                                            | U+2700   | U+27BF   | (192)         |
+| [Miscellaneous Mathematical Symbols-A](https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-A)                    | U+27C0   | U+27EF   | (48)          |
+| [Supplemental Arrows-A](https://wikipedia.org/wiki/Supplemental_Arrows-A)                                                  | U+27F0   | U+27FF   | (16)          |
+| [Braille Patterns](https://wikipedia.org/wiki/Braille_Patterns)                                                            | U+2800   | U+28FF   | (256)         |
+| [Supplemental Arrows-B](https://wikipedia.org/wiki/Supplemental_Arrows-B)                                                  | U+2900   | U+297F   | (128)         |
+| [Miscellaneous Mathematical Symbols-B](https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-B)                    | U+2980   | U+29FF   | (128)         |
+| [Supplemental Mathematical Operators](https://wikipedia.org/wiki/Supplemental_Mathematical_Operators)                      | U+2A00   | U+2AFF   | (256)         |
+| [Miscellaneous Symbols and Arrows](https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)                            | U+2B00   | U+2BFF   | (206)         |
+| [Glagolitic](https://wikipedia.org/wiki/Glagolitic)                                                                        | U+2C00   | U+2C5F   | (94)          |
+| [Latin Extended-C](https://wikipedia.org/wiki/Latin_Extended-C)                                                            | U+2C60   | U+2C7F   | (32)          |
+| [Coptic](https://wikipedia.org/wiki/Coptic)                                                                                | U+2C80   | U+2CFF   | (123)         |
+| [Georgian Supplement](https://wikipedia.org/wiki/Georgian_Supplement)                                                      | U+2D00   | U+2D2F   | (40)          |
+| [Tifinagh](https://wikipedia.org/wiki/Tifinagh)                                                                            | U+2D30   | U+2D7F   | (59)          |
+| [Ethiopic Extended](https://wikipedia.org/wiki/Ethiopic_Extended)                                                          | U+2D80   | U+2DDF   | (79)          |
+| [Cyrillic Extended-A](https://wikipedia.org/wiki/Cyrillic_Extended-A)                                                      | U+2DE0   | U+2DFF   | (32)          |
+| [Supplemental Punctuation](https://wikipedia.org/wiki/Supplemental_Punctuation)                                            | U+2E00   | U+2E7F   | (67)          |
+| [CJK Radicals Supplement](https://wikipedia.org/wiki/CJK_Radicals_Supplement)                                              | U+2E80   | U+2EFF   | (115)         |
+| [Kangxi Radicals](https://wikipedia.org/wiki/Kangxi_Radicals)                                                              | U+2F00   | U+2FDF   | (214)         |
+| [Ideographic Description Characters](https://wikipedia.org/wiki/Ideographic_Description_Characters)                        | U+2FF0   | U+2FFF   | (12)          |
+| [CJK Symbols and Punctuation](https://wikipedia.org/wiki/CJK_Symbols_and_Punctuation)                                      | U+3000   | U+303F   | (64)          |
+| [Hiragana](https://wikipedia.org/wiki/Hiragana)                                                                            | U+3040   | U+309F   | (93)          |
+| [Katakana](https://wikipedia.org/wiki/Katakana)                                                                            | U+30A0   | U+30FF   | (96)          |
+| [Bopomofo](https://wikipedia.org/wiki/Bopomofo)                                                                            | U+3100   | U+312F   | (41)          |
+| [Hangul Compatibility Jamo](https://wikipedia.org/wiki/Hangul_Compatibility_Jamo)                                          | U+3130   | U+318F   | (94)          |
+| [Kanbun](https://wikipedia.org/wiki/Kanbun)                                                                                | U+3190   | U+319F   | (16)          |
+| [Bopomofo Extended](https://wikipedia.org/wiki/Bopomofo_Extended)                                                          | U+31A0   | U+31BF   | (27)          |
+| [CJK Strokes](https://wikipedia.org/wiki/CJK_Strokes)                                                                      | U+31C0   | U+31EF   | (36)          |
+| [Katakana Phonetic Extensions](https://wikipedia.org/wiki/Katakana_Phonetic_Extensions)                                    | U+31F0   | U+31FF   | (16)          |
+| [Enclosed CJK Letters and Months](https://wikipedia.org/wiki/Enclosed_CJK_Letters_and_Months)                              | U+3200   | U+32FF   | (254)         |
+| [CJK Compatibility](https://wikipedia.org/wiki/CJK_Compatibility)                                                          | U+3300   | U+33FF   | (256)         |
+| [CJK Unified Ideographs Extension A](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A)                        | U+3400   | U+4DBF   | (6191)        |
+| [Yijing Hexagram Symbols](https://wikipedia.org/wiki/Yijing_Hexagram_Symbols)                                              | U+4DC0   | U+4DFF   | (64)          |
+| [CJK Unified Ideographs](https://wikipedia.org/wiki/CJK_Unified_Ideographs)                                                | U+4E00   | U+9FFF   | (20941)       |
+| [Yi Syllables](https://wikipedia.org/wiki/Yi_Syllables)                                                                    | U+A000   | U+A48F   | (1165)        |
+| [Yi Radicals](https://wikipedia.org/wiki/Yi_Radicals)                                                                      | U+A490   | U+A4CF   | (55)          |
+| [Lisu](https://wikipedia.org/wiki/Lisu)                                                                                    | U+A4D0   | U+A4FF   | (48)          |
+| [Vai](https://wikipedia.org/wiki/Vai)                                                                                      | U+A500   | U+A63F   | (300)         |
+| [Cyrillic Extended-B](https://wikipedia.org/wiki/Cyrillic_Extended-B)                                                      | U+A640   | U+A69F   | (96)          |
+| [Bamum](https://wikipedia.org/wiki/Bamum)                                                                                  | U+A6A0   | U+A6FF   | (88)          |
+| [Modifier Tone Letters](https://wikipedia.org/wiki/Modifier_Tone_Letters)                                                  | U+A700   | U+A71F   | (32)          |
+| [Latin Extended-D](https://wikipedia.org/wiki/Latin_Extended-D)                                                            | U+A720   | U+A7FF   | (159)         |
+| [Syloti Nagri](https://wikipedia.org/wiki/Syloti_Nagri)                                                                    | U+A800   | U+A82F   | (44)          |
+| [Common Indic Number Forms](https://wikipedia.org/wiki/Common_Indic_Number_Forms)                                          | U+A830   | U+A83F   | (10)          |
+| [Phags-pa](https://wikipedia.org/wiki/Phags-pa)                                                                            | U+A840   | U+A87F   | (56)          |
+| [Saurashtra](https://wikipedia.org/wiki/Saurashtra)                                                                        | U+A880   | U+A8DF   | (81)          |
+| [Devanagari Extended](https://wikipedia.org/wiki/Devanagari_Extended)                                                      | U+A8E0   | U+A8FF   | (30)          |
+| [Kayah Li](https://wikipedia.org/wiki/Kayah_Li)                                                                            | U+A900   | U+A92F   | (48)          |
+| [Rejang](https://wikipedia.org/wiki/Rejang)                                                                                | U+A930   | U+A95F   | (37)          |
+| [Hangul Jamo Extended-A](https://wikipedia.org/wiki/Hangul_Jamo_Extended-A)                                                | U+A960   | U+A97F   | (29)          |
+| [Javanese](https://wikipedia.org/wiki/Javanese)                                                                            | U+A980   | U+A9DF   | (91)          |
+| [Myanmar Extended-B](https://wikipedia.org/wiki/Myanmar_Extended-B)                                                        | U+A9E0   | U+A9FF   | (31)          |
+| [Cham](https://wikipedia.org/wiki/Cham)                                                                                    | U+AA00   | U+AA5F   | (83)          |
+| [Myanmar Extended-A](https://wikipedia.org/wiki/Myanmar_Extended-A)                                                        | U+AA60   | U+AA7F   | (32)          |
+| [Tai Viet](https://wikipedia.org/wiki/Tai_Viet)                                                                            | U+AA80   | U+AADF   | (72)          |
+| [Meetei Mayek Extensions](https://wikipedia.org/wiki/Meetei_Mayek_Extensions)                                              | U+AAE0   | U+AAFF   | (23)          |
+| [Ethiopic Extended-A](https://wikipedia.org/wiki/Ethiopic_Extended-A)                                                      | U+AB00   | U+AB2F   | (32)          |
+| [Latin Extended-E](https://wikipedia.org/wiki/Latin_Extended-E)                                                            | U+AB30   | U+AB6F   | (54)          |
+| [Cherokee Supplement](https://wikipedia.org/wiki/Cherokee_Supplement)                                                      | U+AB70   | U+ABBF   | (80)          |
+| [Meetei Mayek](https://wikipedia.org/wiki/Meetei_Mayek)                                                                    | U+ABC0   | U+ABFF   | (56)          |
 | [Hangul Syllables](https://wikipedia.org/wiki/Hangul_Syllables)                                                            | U+AC00   | U+D7AF   | (2)           |
-| [Hangul Jamo Extended-B](https://wikipedia.org/wiki/Hangul_Jamo_Extended-B)                                                | U+D7B0   | U+D7FF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/72)          |
+| [Hangul Jamo Extended-B](https://wikipedia.org/wiki/Hangul_Jamo_Extended-B)                                                | U+D7B0   | U+D7FF   | (72)          |
 | [High Surrogates](https://wikipedia.org/wiki/High_Surrogates)                                                              | U+D800   | U+DB7F   | (2)           |
 | [High Private Use Surrogates](https://wikipedia.org/wiki/High_Private_Use_Surrogates)                                      | U+DB80   | U+DBFF   | (2)           |
 | [Low Surrogates](https://wikipedia.org/wiki/Low_Surrogates)                                                                | U+DC00   | U+DFFF   | (2)           |
 | [Private Use Area](https://wikipedia.org/wiki/Private_Use_Area)                                                            | U+E000   | U+F8FF   | (2)           |
-| [CJK Compatibility Ideographs](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs)                                    | U+F900   | U+FAFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/472)         |
-| [Alphabetic Presentation Forms](https://wikipedia.org/wiki/Alphabetic_Presentation_Forms)                                  | U+FB00   | U+FB4F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/58)          |
-| [Arabic Presentation Forms-A](https://wikipedia.org/wiki/Arabic_Presentation_Forms-A)                                      | U+FB50   | U+FDFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/643)         |
-| [Variation Selectors](https://wikipedia.org/wiki/Variation_Selectors)                                                      | U+FE00   | U+FE0F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/16)          |
-| [Vertical Forms](https://wikipedia.org/wiki/Vertical_Forms)                                                                | U+FEhttps://github.com/jagracey/Awesome-Unicode/blob/master/10   | U+FE1F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/10)          |
-| [Combining Half Marks](https://wikipedia.org/wiki/Combining_Half_Marks)                                                    | U+FE20   | U+FE2F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/16)          |
-| [CJK Compatibility Forms](https://wikipedia.org/wiki/CJK_Compatibility_Forms)                                              | U+FE30   | U+FE4F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Small Form Variants](https://wikipedia.org/wiki/Small_Form_Variants)                                                      | U+FE50   | U+FE6F   | (https://github.com/jagracey/Awesome-Unicode/blob/master/26)          |
-| [Arabic Presentation Forms-B](https://wikipedia.org/wiki/Arabic_Presentation_Forms-B)                                      | U+FE70   | U+FEFF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/141)         |
-| [Halfwidth and Fullwidth Forms](https://wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms)                                  | U+FF00   | U+FFEF   | (https://github.com/jagracey/Awesome-Unicode/blob/master/225)         |
+| [CJK Compatibility Ideographs](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs)                                    | U+F900   | U+FAFF   | (472)         |
+| [Alphabetic Presentation Forms](https://wikipedia.org/wiki/Alphabetic_Presentation_Forms)                                  | U+FB00   | U+FB4F   | (58)          |
+| [Arabic Presentation Forms-A](https://wikipedia.org/wiki/Arabic_Presentation_Forms-A)                                      | U+FB50   | U+FDFF   | (643)         |
+| [Variation Selectors](https://wikipedia.org/wiki/Variation_Selectors)                                                      | U+FE00   | U+FE0F   | (16)          |
+| [Vertical Forms](https://wikipedia.org/wiki/Vertical_Forms)                                                                | U+FE10   | U+FE1F   | (10)          |
+| [Combining Half Marks](https://wikipedia.org/wiki/Combining_Half_Marks)                                                    | U+FE20   | U+FE2F   | (16)          |
+| [CJK Compatibility Forms](https://wikipedia.org/wiki/CJK_Compatibility_Forms)                                              | U+FE30   | U+FE4F   | (32)          |
+| [Small Form Variants](https://wikipedia.org/wiki/Small_Form_Variants)                                                      | U+FE50   | U+FE6F   | (26)          |
+| [Arabic Presentation Forms-B](https://wikipedia.org/wiki/Arabic_Presentation_Forms-B)                                      | U+FE70   | U+FEFF   | (141)         |
+| [Halfwidth and Fullwidth Forms](https://wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms)                                  | U+FF00   | U+FFEF   | (225)         |
 | [Specials](https://wikipedia.org/wiki/Specials)                                                                            | U+FFF0   | U+FFFF   | (7)           |
-| [Linear B Syllabary](https://wikipedia.org/wiki/Linear_B_Syllabary)                                                        | U+10000  | U+1007F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/88)          |
-| [Linear B Ideograms](https://wikipedia.org/wiki/Linear_B_Ideograms)                                                        | U+10080  | U+100FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/123)         |
-| [Aegean Numbers](https://wikipedia.org/wiki/Aegean_Numbers)                                                                | U+10100  | U+1013F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/57)          |
-| [Ancient Greek Numbers](https://wikipedia.org/wiki/Ancient_Greek_Numbers)                                                  | U+10140  | U+1018F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/77)          |
-| [Ancient Symbols](https://wikipedia.org/wiki/Ancient_Symbols)                                                              | U+10190  | U+101CF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/13)          |
-| [Phaistos Disc](https://wikipedia.org/wiki/Phaistos_Disc)                                                                  | U+101D0  | U+101FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/46)          |
-| [Lycian](https://wikipedia.org/wiki/Lycian)                                                                                | U+10280  | U+10https://github.com/jagracey/Awesome-Unicode/blob/master/29F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Carian](https://wikipedia.org/wiki/Carian)                                                                                | U+102A0  | U+102DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/49)          |
-| [Coptic Epact Numbers](https://wikipedia.org/wiki/Coptic_Epact_Numbers)                                                    | U+102E0  | U+102FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/28)          |
-| [Old Italic](https://wikipedia.org/wiki/Old_Italic)                                                                        | U+10300  | U+1032F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/36)          |
-| [Gothic](https://wikipedia.org/wiki/Gothic)                                                                                | U+10330  | U+1034F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/27)          |
-| [Old Permic](https://wikipedia.org/wiki/Old_Permic)                                                                        | U+10350  | U+1037F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/43)          |
-| [Ugaritic](https://wikipedia.org/wiki/Ugaritic)                                                                            | U+10380  | U+1039F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/31)          |
-| [Old Persian](https://wikipedia.org/wiki/Old_Persian)                                                                      | U+103A0  | U+103DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/50)          |
-| [Deseret](https://wikipedia.org/wiki/Deseret)                                                                              | U+10400  | U+1044F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/80)          |
-| [Shavian](https://wikipedia.org/wiki/Shavian)                                                                              | U+10450  | U+1047F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Osmanya](https://wikipedia.org/wiki/Osmanya)                                                                              | U+10480  | U+104AF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/40)          |
-| [Elbasan](https://wikipedia.org/wiki/Elbasan)                                                                              | U+10500  | U+1052F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/40)          |
-| [Caucasian Albanian](https://wikipedia.org/wiki/Caucasian_Albanian)                                                        | U+10https://github.com/jagracey/Awesome-Unicode/blob/master/530  | U+1056F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/53)          |
-| [Linear A](https://wikipedia.org/wiki/Linear_A)                                                                            | U+10600  | U+1077F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/341)         |
-| [Cypriot Syllabary](https://wikipedia.org/wiki/Cypriot_Syllabary)                                                          | U+10800  | U+1083F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/55)          |
-| [Imperial Aramaic](https://wikipedia.org/wiki/Imperial_Aramaic)                                                            | U+10840  | U+1085F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/31)          |
-| [Palmyrene](https://wikipedia.org/wiki/Palmyrene)                                                                          | U+10860  | U+1087F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Nabataean](https://wikipedia.org/wiki/Nabataean)                                                                          | U+10880  | U+108AF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/40)          |
-| [Hatran](https://wikipedia.org/wiki/Hatran)                                                                                | U+108E0  | U+108FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/26)          |
-| [Phoenician](https://wikipedia.org/wiki/Phoenician)                                                                        | U+10900  | U+1091F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Lydian](https://wikipedia.org/wiki/Lydian)                                                                                | U+10920  | U+1093F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/27)          |
-| [Meroitic Hieroglyphs](https://wikipedia.org/wiki/Meroitic_Hieroglyphs)                                                    | U+10980  | U+1099F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Meroitic Cursive](https://wikipedia.org/wiki/Meroitic_Cursive)                                                            | U+109A0  | U+109FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/90)          |
-| [Kharoshthi](https://wikipedia.org/wiki/Kharoshthi)                                                                        | U+10A00  | U+10A5F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/65)          |
-| [Old South Arabian](https://wikipedia.org/wiki/Old_South_Arabian)                                                          | U+10A60  | U+10A7F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Old North Arabian](https://wikipedia.org/wiki/Old_North_Arabian)                                                          | U+10A80  | U+10A9F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/32)          |
-| [Manichaean](https://wikipedia.org/wiki/Manichaean)                                                                        | U+10AC0  | U+10AFF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/51)          |
-| [Avestan](https://wikipedia.org/wiki/Avestan)                                                                              | U+10B00  | U+10B3F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/61)          |
-| [Inscriptional Parthian](https://wikipedia.org/wiki/Inscriptional_Parthian)                                                | U+10B40  | U+10B5F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/30)          |
-| [Inscriptional Pahlavi](https://wikipedia.org/wiki/Inscriptional_Pahlavi)                                                  | U+10B60  | U+10B7F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/27)          |
-| [Psalter Pahlavi](https://wikipedia.org/wiki/Psalter_Pahlavi)                                                              | U+10B80  | U+10BAF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/29)          |
-| [Old Turkic](https://wikipedia.org/wiki/Old_Turkic)                                                                        | U+10C00  | U+10C4F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/73)          |
-| [Old Hungarian](https://wikipedia.org/wiki/Old_Hungarian)                                                                  | U+10C80  | U+10CFF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/108)         |
-| [Rumi Numeral Symbols](https://wikipedia.org/wiki/Rumi_Numeral_Symbols)                                                    | U+10E60  | U+10E7F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/31)          |
-| [Brahmi](https://wikipedia.org/wiki/Brahmi)                                                                                | U+11000  | U+1107F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/109)         |
-| [Kaithi](https://wikipedia.org/wiki/Kaithi)                                                                                | U+11080  | U+110CF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/66)          |
-| [Sora Sompeng](https://wikipedia.org/wiki/Sora_Sompeng)                                                                    | U+110D0  | U+110FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/35)          |
-| [Chakma](https://wikipedia.org/wiki/Chakma)                                                                                | U+11100  | U+1114F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/67)          |
-| [Mahajani](https://wikipedia.org/wiki/Mahajani)                                                                            | U+11150  | U+1117F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/39)          |
-| [Sharada](https://wikipedia.org/wiki/Sharada)                                                                              | U+11180  | U+111DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/94)          |
-| [Sinhala Archaic Numbers](https://wikipedia.org/wiki/Sinhala_Archaic_Numbers)                                              | U+111E0  | U+111FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/20)          |
-| [Khojki](https://wikipedia.org/wiki/Khojki)                                                                                | U+11200  | U+1124F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/61)          |
-| [Multani](https://wikipedia.org/wiki/Multani)                                                                              | U+11280  | U+112AF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/38)          |
-| [Khudawadi](https://wikipedia.org/wiki/Khudawadi)                                                                          | U+112B0  | U+112FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/69)          |
-| [Grantha](https://wikipedia.org/wiki/Grantha)                                                                              | U+11300  | U+1137F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/85)          |
-| [Tirhuta](https://wikipedia.org/wiki/Tirhuta)                                                                              | U+11480  | U+114DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/82)          |
-| [Siddham](https://wikipedia.org/wiki/Siddham)                                                                              | U+11580  | U+115FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/92)          |
-| [Modi](https://wikipedia.org/wiki/Modi)                                                                                    | U+11600  | U+1165F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/79)          |
-| [Takri](https://wikipedia.org/wiki/Takri)                                                                                  | U+11680  | U+116CF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/66)          |
-| [Ahom](https://wikipedia.org/wiki/Ahom)                                                                                    | U+11700  | U+1173F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/57)          |
-| [Warang Citi](https://wikipedia.org/wiki/Warang_Citi)                                                                      | U+118A0  | U+118FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/84)          |
-| [Pau Cin Hau](https://wikipedia.org/wiki/Pau_Cin_Hau)                                                                      | U+11AC0  | U+11AFF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/57)          |
-| [Cuneiform](https://wikipedia.org/wiki/Cuneiform)                                                                          | U+12000  | U+123FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/922)         |
-| [Cuneiform Numbers and Punctuation](https://wikipedia.org/wiki/Cuneiform_Numbers_and_Punctuation)                          | U+12400  | U+1247F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/116)         |
-| [Early Dynastic Cuneiform](https://wikipedia.org/wiki/Early_Dynastic_Cuneiform)                                            | U+12480  | U+1254F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/196)         |
-| [Egyptian Hieroglyphs](https://wikipedia.org/wiki/Egyptian_Hieroglyphs)                                                    | U+13000  | U+1342F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/1071)        |
-| [Anatolian Hieroglyphs](https://wikipedia.org/wiki/Anatolian_Hieroglyphs)                                                  | U+14400  | U+1467F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/583)         |
-| [Bamum Supplement](https://wikipedia.org/wiki/Bamum_Supplement)                                                            | U+16800  | U+16A3F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/569)         |
-| [Mro](https://wikipedia.org/wiki/Mro)                                                                                      | U+16A40  | U+16A6F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/43)          |
-| [Bassa Vah](https://wikipedia.org/wiki/Bassa_Vah)                                                                          | U+16AD0  | U+16AFF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/36)          |
-| [Pahawh Hmong](https://wikipedia.org/wiki/Pahawh_Hmong)                                                                    | U+16B00  | U+16B8F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/127)         |
-| [Miao](https://wikipedia.org/wiki/Miao)                                                                                    | U+16F00  | U+16F9F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/133)         |
+| [Linear B Syllabary](https://wikipedia.org/wiki/Linear_B_Syllabary)                                                        | U+10000  | U+1007F  | (88)          |
+| [Linear B Ideograms](https://wikipedia.org/wiki/Linear_B_Ideograms)                                                        | U+10080  | U+100FF  | (123)         |
+| [Aegean Numbers](https://wikipedia.org/wiki/Aegean_Numbers)                                                                | U+10100  | U+1013F  | (57)          |
+| [Ancient Greek Numbers](https://wikipedia.org/wiki/Ancient_Greek_Numbers)                                                  | U+10140  | U+1018F  | (77)          |
+| [Ancient Symbols](https://wikipedia.org/wiki/Ancient_Symbols)                                                              | U+10190  | U+101CF  | (13)          |
+| [Phaistos Disc](https://wikipedia.org/wiki/Phaistos_Disc)                                                                  | U+101D0  | U+101FF  | (46)          |
+| [Lycian](https://wikipedia.org/wiki/Lycian)                                                                                | U+10280  | U+1029F  | (29)          |
+| [Carian](https://wikipedia.org/wiki/Carian)                                                                                | U+102A0  | U+102DF  | (49)          |
+| [Coptic Epact Numbers](https://wikipedia.org/wiki/Coptic_Epact_Numbers)                                                    | U+102E0  | U+102FF  | (28)          |
+| [Old Italic](https://wikipedia.org/wiki/Old_Italic)                                                                        | U+10300  | U+1032F  | (36)          |
+| [Gothic](https://wikipedia.org/wiki/Gothic)                                                                                | U+10330  | U+1034F  | (27)          |
+| [Old Permic](https://wikipedia.org/wiki/Old_Permic)                                                                        | U+10350  | U+1037F  | (43)          |
+| [Ugaritic](https://wikipedia.org/wiki/Ugaritic)                                                                            | U+10380  | U+1039F  | (31)          |
+| [Old Persian](https://wikipedia.org/wiki/Old_Persian)                                                                      | U+103A0  | U+103DF  | (50)          |
+| [Deseret](https://wikipedia.org/wiki/Deseret)                                                                              | U+10400  | U+1044F  | (80)          |
+| [Shavian](https://wikipedia.org/wiki/Shavian)                                                                              | U+10450  | U+1047F  | (48)          |
+| [Osmanya](https://wikipedia.org/wiki/Osmanya)                                                                              | U+10480  | U+104AF  | (40)          |
+| [Elbasan](https://wikipedia.org/wiki/Elbasan)                                                                              | U+10500  | U+1052F  | (40)          |
+| [Caucasian Albanian](https://wikipedia.org/wiki/Caucasian_Albanian)                                                        | U+10530  | U+1056F  | (53)          |
+| [Linear A](https://wikipedia.org/wiki/Linear_A)                                                                            | U+10600  | U+1077F  | (341)         |
+| [Cypriot Syllabary](https://wikipedia.org/wiki/Cypriot_Syllabary)                                                          | U+10800  | U+1083F  | (55)          |
+| [Imperial Aramaic](https://wikipedia.org/wiki/Imperial_Aramaic)                                                            | U+10840  | U+1085F  | (31)          |
+| [Palmyrene](https://wikipedia.org/wiki/Palmyrene)                                                                          | U+10860  | U+1087F  | (32)          |
+| [Nabataean](https://wikipedia.org/wiki/Nabataean)                                                                          | U+10880  | U+108AF  | (40)          |
+| [Hatran](https://wikipedia.org/wiki/Hatran)                                                                                | U+108E0  | U+108FF  | (26)          |
+| [Phoenician](https://wikipedia.org/wiki/Phoenician)                                                                        | U+10900  | U+1091F  | (29)          |
+| [Lydian](https://wikipedia.org/wiki/Lydian)                                                                                | U+10920  | U+1093F  | (27)          |
+| [Meroitic Hieroglyphs](https://wikipedia.org/wiki/Meroitic_Hieroglyphs)                                                    | U+10980  | U+1099F  | (32)          |
+| [Meroitic Cursive](https://wikipedia.org/wiki/Meroitic_Cursive)                                                            | U+109A0  | U+109FF  | (90)          |
+| [Kharoshthi](https://wikipedia.org/wiki/Kharoshthi)                                                                        | U+10A00  | U+10A5F  | (65)          |
+| [Old South Arabian](https://wikipedia.org/wiki/Old_South_Arabian)                                                          | U+10A60  | U+10A7F  | (32)          |
+| [Old North Arabian](https://wikipedia.org/wiki/Old_North_Arabian)                                                          | U+10A80  | U+10A9F  | (32)          |
+| [Manichaean](https://wikipedia.org/wiki/Manichaean)                                                                        | U+10AC0  | U+10AFF  | (51)          |
+| [Avestan](https://wikipedia.org/wiki/Avestan)                                                                              | U+10B00  | U+10B3F  | (61)          |
+| [Inscriptional Parthian](https://wikipedia.org/wiki/Inscriptional_Parthian)                                                | U+10B40  | U+10B5F  | (30)          |
+| [Inscriptional Pahlavi](https://wikipedia.org/wiki/Inscriptional_Pahlavi)                                                  | U+10B60  | U+10B7F  | (27)          |
+| [Psalter Pahlavi](https://wikipedia.org/wiki/Psalter_Pahlavi)                                                              | U+10B80  | U+10BAF  | (29)          |
+| [Old Turkic](https://wikipedia.org/wiki/Old_Turkic)                                                                        | U+10C00  | U+10C4F  | (73)          |
+| [Old Hungarian](https://wikipedia.org/wiki/Old_Hungarian)                                                                  | U+10C80  | U+10CFF  | (108)         |
+| [Rumi Numeral Symbols](https://wikipedia.org/wiki/Rumi_Numeral_Symbols)                                                    | U+10E60  | U+10E7F  | (31)          |
+| [Brahmi](https://wikipedia.org/wiki/Brahmi)                                                                                | U+11000  | U+1107F  | (109)         |
+| [Kaithi](https://wikipedia.org/wiki/Kaithi)                                                                                | U+11080  | U+110CF  | (66)          |
+| [Sora Sompeng](https://wikipedia.org/wiki/Sora_Sompeng)                                                                    | U+110D0  | U+110FF  | (35)          |
+| [Chakma](https://wikipedia.org/wiki/Chakma)                                                                                | U+11100  | U+1114F  | (67)          |
+| [Mahajani](https://wikipedia.org/wiki/Mahajani)                                                                            | U+11150  | U+1117F  | (39)          |
+| [Sharada](https://wikipedia.org/wiki/Sharada)                                                                              | U+11180  | U+111DF  | (94)          |
+| [Sinhala Archaic Numbers](https://wikipedia.org/wiki/Sinhala_Archaic_Numbers)                                              | U+111E0  | U+111FF  | (20)          |
+| [Khojki](https://wikipedia.org/wiki/Khojki)                                                                                | U+11200  | U+1124F  | (61)          |
+| [Multani](https://wikipedia.org/wiki/Multani)                                                                              | U+11280  | U+112AF  | (38)          |
+| [Khudawadi](https://wikipedia.org/wiki/Khudawadi)                                                                          | U+112B0  | U+112FF  | (69)          |
+| [Grantha](https://wikipedia.org/wiki/Grantha)                                                                              | U+11300  | U+1137F  | (85)          |
+| [Tirhuta](https://wikipedia.org/wiki/Tirhuta)                                                                              | U+11480  | U+114DF  | (82)          |
+| [Siddham](https://wikipedia.org/wiki/Siddham)                                                                              | U+11580  | U+115FF  | (92)          |
+| [Modi](https://wikipedia.org/wiki/Modi)                                                                                    | U+11600  | U+1165F  | (79)          |
+| [Takri](https://wikipedia.org/wiki/Takri)                                                                                  | U+11680  | U+116CF  | (66)          |
+| [Ahom](https://wikipedia.org/wiki/Ahom)                                                                                    | U+11700  | U+1173F  | (57)          |
+| [Warang Citi](https://wikipedia.org/wiki/Warang_Citi)                                                                      | U+118A0  | U+118FF  | (84)          |
+| [Pau Cin Hau](https://wikipedia.org/wiki/Pau_Cin_Hau)                                                                      | U+11AC0  | U+11AFF  | (57)          |
+| [Cuneiform](https://wikipedia.org/wiki/Cuneiform)                                                                          | U+12000  | U+123FF  | (922)         |
+| [Cuneiform Numbers and Punctuation](https://wikipedia.org/wiki/Cuneiform_Numbers_and_Punctuation)                          | U+12400  | U+1247F  | (116)         |
+| [Early Dynastic Cuneiform](https://wikipedia.org/wiki/Early_Dynastic_Cuneiform)                                            | U+12480  | U+1254F  | (196)         |
+| [Egyptian Hieroglyphs](https://wikipedia.org/wiki/Egyptian_Hieroglyphs)                                                    | U+13000  | U+1342F  | (1071)        |
+| [Anatolian Hieroglyphs](https://wikipedia.org/wiki/Anatolian_Hieroglyphs)                                                  | U+14400  | U+1467F  | (583)         |
+| [Bamum Supplement](https://wikipedia.org/wiki/Bamum_Supplement)                                                            | U+16800  | U+16A3F  | (569)         |
+| [Mro](https://wikipedia.org/wiki/Mro)                                                                                      | U+16A40  | U+16A6F  | (43)          |
+| [Bassa Vah](https://wikipedia.org/wiki/Bassa_Vah)                                                                          | U+16AD0  | U+16AFF  | (36)          |
+| [Pahawh Hmong](https://wikipedia.org/wiki/Pahawh_Hmong)                                                                    | U+16B00  | U+16B8F  | (127)         |
+| [Miao](https://wikipedia.org/wiki/Miao)                                                                                    | U+16F00  | U+16F9F  | (133)         |
 | [Kana Supplement](https://wikipedia.org/wiki/Kana_Supplement)                                                              | U+1B000  | U+1B0FF  | (2)           |
-| [Duployan](https://wikipedia.org/wiki/Duployan)                                                                            | U+1BC00  | U+1BC9F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/143)         |
+| [Duployan](https://wikipedia.org/wiki/Duployan)                                                                            | U+1BC00  | U+1BC9F  | (143)         |
 | [Shorthand Format Controls](https://wikipedia.org/wiki/Shorthand_Format_Controls)                                          | U+1BCA0  | U+1BCAF  | (4)           |
-| [Byzantine Musical Symbols](https://wikipedia.org/wiki/Byzantine_Musical_Symbols)                                          | U+1D000  | U+1D0FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/246)         |
-| [Musical Symbols](https://wikipedia.org/wiki/Musical_Symbols)                                                              | U+1D100  | U+1D1FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/231)         |
-| [Ancient Greek Musical Notation](https://wikipedia.org/wiki/Ancient_Greek_Musical_Notation)                                | U+1D200  | U+1D24F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/70)          |
-| [Tai Xuan Jing Symbols](https://wikipedia.org/wiki/Tai_Xuan_Jing_Symbols)                                                  | U+1D300  | U+1D35F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/87)          |
-| [Counting Rod Numerals](https://wikipedia.org/wiki/Counting_Rod_Numerals)                                                  | U+1D360  | U+1D37F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/18)          |
-| [Mathematical Alphanumeric Symbols](https://wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols)                          | U+1D400  | U+1D7FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/996)         |
-| [Sutton SignWriting](https://wikipedia.org/wiki/Sutton_SignWriting)                                                        | U+1D800  | U+1DAAF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/672)         |
-| [Mende Kikakui](https://wikipedia.org/wiki/Mende_Kikakui)                                                                  | U+1E800  | U+1E8DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/213)         |
-| [Arabic Mathematical Alphabetic Symbols](https://wikipedia.org/wiki/Arabic_Mathematical_Alphabetic_Symbols)                | U+1EE00  | U+1EEFF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/143)         |
-| [Mahjong Tiles](https://wikipedia.org/wiki/Mahjong_Tiles)                                                                  | U+1F000  | U+1F02F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/44)          |
-| [Domino Tiles](https://wikipedia.org/wiki/Domino_Tiles)                                                                    | U+1F030  | U+1F09F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/100)         |
-| [Playing Cards](https://wikipedia.org/wiki/Playing_Cards)                                                                  | U+1F0A0  | U+1F0FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/82)          |
-| [Enclosed Alphanumeric Supplement](https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement)                            | U+1F100  | U+1F1FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/173)         |
-| [Enclosed Ideographic Supplement](https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement)                              | U+1F200  | U+1F2FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/57)          |
-| [Miscellaneous Symbols and Pictographs](https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs)                  | U+1F300  | U+1F5FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/766)         |
-| [Emoticons](https://wikipedia.org/wiki/Emoticons)                                                                          | U+1F600  | U+1F64F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/80)          |
-| [Ornamental Dingbats](https://wikipedia.org/wiki/Ornamental_Dingbats)                                                      | U+1F650  | U+1F67F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/48)          |
-| [Transport and Map Symbols](https://wikipedia.org/wiki/Transport_and_Map_Symbols)                                          | U+1F680  | U+1F6FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/98)          |
-| [Alchemical Symbols](https://wikipedia.org/wiki/Alchemical_Symbols)                                                        | U+1F700  | U+1F77F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/116)         |
-| [Geometric Shapes Extended](https://wikipedia.org/wiki/Geometric_Shapes_Extended)                                          | U+1F780  | U+1F7FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/85)          |
-| [Supplemental Arrows-C](https://wikipedia.org/wiki/Supplemental_Arrows-C)                                                  | U+1F800  | U+1F8FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/148)         |
-| [Supplemental Symbols and Pictographs](https://wikipedia.org/wiki/Supplemental_Symbols_and_Pictographs)                    | U+1F900  | U+1F9FF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/15)          |
-| [CJK Unified Ideographs Extension B](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B)                        | U+20000  | U+2A6DF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/42676)       |
-| [CJK Unified Ideographs Extension C](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_C)                        | U+2A700  | U+2B73F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/60)          |
-| [CJK Unified Ideographs Extension D](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D)                        | U+2B740  | U+2B81F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/27)          |
+| [Byzantine Musical Symbols](https://wikipedia.org/wiki/Byzantine_Musical_Symbols)                                          | U+1D000  | U+1D0FF  | (246)         |
+| [Musical Symbols](https://wikipedia.org/wiki/Musical_Symbols)                                                              | U+1D100  | U+1D1FF  | (231)         |
+| [Ancient Greek Musical Notation](https://wikipedia.org/wiki/Ancient_Greek_Musical_Notation)                                | U+1D200  | U+1D24F  | (70)          |
+| [Tai Xuan Jing Symbols](https://wikipedia.org/wiki/Tai_Xuan_Jing_Symbols)                                                  | U+1D300  | U+1D35F  | (87)          |
+| [Counting Rod Numerals](https://wikipedia.org/wiki/Counting_Rod_Numerals)                                                  | U+1D360  | U+1D37F  | (18)          |
+| [Mathematical Alphanumeric Symbols](https://wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols)                          | U+1D400  | U+1D7FF  | (996)         |
+| [Sutton SignWriting](https://wikipedia.org/wiki/Sutton_SignWriting)                                                        | U+1D800  | U+1DAAF  | (672)         |
+| [Mende Kikakui](https://wikipedia.org/wiki/Mende_Kikakui)                                                                  | U+1E800  | U+1E8DF  | (213)         |
+| [Arabic Mathematical Alphabetic Symbols](https://wikipedia.org/wiki/Arabic_Mathematical_Alphabetic_Symbols)                | U+1EE00  | U+1EEFF  | (143)         |
+| [Mahjong Tiles](https://wikipedia.org/wiki/Mahjong_Tiles)                                                                  | U+1F000  | U+1F02F  | (44)          |
+| [Domino Tiles](https://wikipedia.org/wiki/Domino_Tiles)                                                                    | U+1F030  | U+1F09F  | (100)         |
+| [Playing Cards](https://wikipedia.org/wiki/Playing_Cards)                                                                  | U+1F0A0  | U+1F0FF  | (82)          |
+| [Enclosed Alphanumeric Supplement](https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement)                            | U+1F100  | U+1F1FF  | (173)         |
+| [Enclosed Ideographic Supplement](https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement)                              | U+1F200  | U+1F2FF  | (57)          |
+| [Miscellaneous Symbols and Pictographs](https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs)                  | U+1F300  | U+1F5FF  | (766)         |
+| [Emoticons](https://wikipedia.org/wiki/Emoticons)                                                                          | U+1F600  | U+1F64F  | (80)          |
+| [Ornamental Dingbats](https://wikipedia.org/wiki/Ornamental_Dingbats)                                                      | U+1F650  | U+1F67F  | (48)          |
+| [Transport and Map Symbols](https://wikipedia.org/wiki/Transport_and_Map_Symbols)                                          | U+1F680  | U+1F6FF  | (98)          |
+| [Alchemical Symbols](https://wikipedia.org/wiki/Alchemical_Symbols)                                                        | U+1F700  | U+1F77F  | (116)         |
+| [Geometric Shapes Extended](https://wikipedia.org/wiki/Geometric_Shapes_Extended)                                          | U+1F780  | U+1F7FF  | (85)          |
+| [Supplemental Arrows-C](https://wikipedia.org/wiki/Supplemental_Arrows-C)                                                  | U+1F800  | U+1F8FF  | (148)         |
+| [Supplemental Symbols and Pictographs](https://wikipedia.org/wiki/Supplemental_Symbols_and_Pictographs)                    | U+1F900  | U+1F9FF  | (15)          |
+| [CJK Unified Ideographs Extension B](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B)                        | U+20000  | U+2A6DF  | (42676)       |
+| [CJK Unified Ideographs Extension C](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_C)                        | U+2A700  | U+2B73F  | (60)          |
+| [CJK Unified Ideographs Extension D](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D)                        | U+2B740  | U+2B81F  | (27)          |
 | [CJK Unified Ideographs Extension E](https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_E)                        | U+2B820  | U+2CEAF  | (2)           |
-| [CJK Compatibility Ideographs Supplement](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement)              | U+2F800  | U+2FA1F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/542)         |
-| [Tags](https://wikipedia.org/wiki/Tags)                                                                                    | U+E0000  | U+E007F  | (https://github.com/jagracey/Awesome-Unicode/blob/master/97)          |
-| [Variation Selectors Supplement](https://wikipedia.org/wiki/Variation_Selectors_Supplement)                                | U+E0100  | U+E01EF  | (https://github.com/jagracey/Awesome-Unicode/blob/master/240)         |
+| [CJK Compatibility Ideographs Supplement](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement)              | U+2F800  | U+2FA1F  | (542)         |
+| [Tags](https://wikipedia.org/wiki/Tags)                                                                                    | U+E0000  | U+E007F  | (97)          |
+| [Variation Selectors Supplement](https://wikipedia.org/wiki/Variation_Selectors_Supplement)                                | U+E0100  | U+E01EF  | (240)         |
 | [Supplementary Private Use Area-A](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A)                            | U+F0000  | U+FFFFF  | (4)           |
 | [Supplementary Private Use Area-B](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-B)                            | U+100000 | U+10FFFF | (4)           |
 
@@ -1032,7 +1032,7 @@ The Unicode Standard set forth the following fundamental principles:
 * **Efficiency**			 - The documentation must be efficient and complete.
 * **Unification**			 - Where different cultures or languages use the same character, it shall be only included once. This point is
 * **Characters, not glyphs** - Only characters, not glyphs shall be encoded. In a nutshell, glyphs are the actual graphical
-* **Dynamic composition**	 - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (https://github.com/jagracey/Awesome-Unicode/blob/master/“ ¨ ”).
+* **Dynamic composition**	 - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (“ ¨ ”).
 * **Semantics**				 - Included characters must be well defined and distinguished from others.
 * **Stability**				 - Once defined characters shall never be removed or their codepoints reassigned. In the case of an error, a codepoint shall be deprecated.
 * **Plain Text**			 - Characters in the standard are text and never mark-up or metacharacters.
@@ -1044,7 +1044,7 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 
 ## Unicode Versions
 
-* [Version 9.0.0](http://www.unicode.org/versions/Unicode9.0.0/) (https://github.com/jagracey/Awesome-Unicode/blob/master/Latest Version, August 2016 - adds exactly 7,500 characters)
+* [Version 9.0.0](http://www.unicode.org/versions/Unicode9.0.0/) (Latest Version, August 2016 - adds exactly 7,500 characters)
 * [Version 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
 * [Version 7.0.0](http://www.unicode.org/versions/Unicode7.0.0/)
 * [Version 6.3.0](http://www.unicode.org/versions/Unicode6.3.0/)
@@ -1053,7 +1053,7 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 * [Version 6.0.0](http://www.unicode.org/versions/Unicode6.0.0/)
 * [Version 5.2.0](http://www.unicode.org/versions/Unicode5.2.0/)
 * [Version 5.1.0](http://www.unicode.org/versions/Unicode5.1.0/)
-* Version 5.0.0 (https://github.com/jagracey/Awesome-Unicode/blob/master/unavailable)
+* Version 5.0.0 (unavailable)
 * [Version 4.0.1](http://www.unicode.org/versions/Unicode4.0.1/)
 * [Version 4.0.0](http://www.unicode.org/versions/corrigendum5.html)
 

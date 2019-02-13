@@ -3,7 +3,7 @@
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
 
-(https://github.com/JanVanRyswyck/awesome-talks/blob/master/In no particular order)
+(In no particular order)
 
 ### Categories
   - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
@@ -116,7 +116,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
-* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (https://github.com/JanVanRyswyck/awesome-talks/blob/master/DHH)**
+* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
@@ -143,7 +143,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
-* [The History (https://github.com/JanVanRyswyck/awesome-talks/blob/master/and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
+* [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 * [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]

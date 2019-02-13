@@ -49,14 +49,14 @@
 ### [Usage](#usage-1)
 
 - [Getting help offline](#getting-help-offline)
-- [Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)](#getting-help-offline-https://github.com/mhinz/vim-galore/blob/master/alternative)
+- [Getting help offline (alternative)](#getting-help-offline-alternative)
 - [Getting help online](#getting-help-online)
 - [Autocmds in practice](#autocmds-in-practice)
   - [User events](#user-events)
   - [Nested autocmds](#nested-autocmds)
 - [Clipboard](#clipboard)
-  - [Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)](https://github.com/mhinz/vim-galore/blob/master/#clipboard-usage-windows-macos)
-  - [Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)](https://github.com/mhinz/vim-galore/blob/master/#clipboard-usage-linux-bsd-)
+  - [Clipboard usage (Windows, macOS)](#clipboard-usage-windows-macos)
+  - [Clipboard usage (Linux, BSD, ...)](#clipboard-usage-linux-bsd-)
 - [Restore cursor position when opening file](#restore-cursor-position-when-opening-file)
 - [Temporary files](#temporary-files)
   - [Backup files](#backup-files)
@@ -95,7 +95,7 @@
 
 - [:global and :vglobal](#global-and-vglobal) - Execute a command on all matching lines.
 - [:normal and :execute](#normal-and-execute) - The scripting dream team.
-- [:redir and execute()](https://github.com/mhinz/vim-galore/blob/master/#redir-and-execute) - Capture command output.
+- [:redir and execute()](#redir-and-execute) - Capture command output.
 
 ### [Debugging](#debugging-1)
 
@@ -120,7 +120,7 @@
 
 - [Editing small files is slow](#editing-small-files-is-slow)
 - [Editing huge files is slow](#editing-huge-files-is-slow)
-- [Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)](https://github.com/mhinz/vim-galore/blob/master/#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
+- [Bracketed paste (or why do I have to set 'paste' all the time?)](#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
 - [Delays when using escape key in terminal](#delays-when-using-escape-key-in-terminal)
 - [Function search undo](#function-search-undo)
 
@@ -153,7 +153,7 @@ page](http://www.vim.org/download.php) from vim.org.
 
 Discussions and user questions are best done on the
 [vim_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
-IRC (https://github.com/mhinz/vim-galore/blob/master/[Freenode](https://freenode.net)) in the `#vim` channel.
+IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
 Development happens on [GitHub](https://github.com/vim/vim), discussions on the
 [vim_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
@@ -243,7 +243,7 @@ In case you're interested, here's
 [my vimrc](https://github.com/mhinz/dotfiles/blob/master/.vim/vimrc).
 
 **TIP**: Most plugin authors maintain several plugins and also publish their
-vimrc on GitHub (https://github.com/mhinz/vim-galore/blob/master/often in a repository called "vim-config" or "dotfiles"), so
+vimrc on GitHub (often in a repository called "vim-config" or "dotfiles"), so
 whenever you find a plugin you like, look up its maintainer's GitHub page and
 look through the repositories.
 
@@ -279,7 +279,7 @@ You can also test for the version or features programmatically:
 
 ```vim
 " Do something if running at least Vim 7.4.42 with +profile enabled.
-if (https://github.com/mhinz/vim-galore/blob/master/v:version > 704 || v:version == 704 && has('patch42')) && has(https://github.com/mhinz/vim-galore/blob/master/'profile')
+if (v:version > 704 || v:version == 704 && has('patch42')) && has('profile')
   " do stuff
 endif
 ```
@@ -325,7 +325,7 @@ Windows can be split vertically or horizontally and the heights and widths of
 existing windows can be altered, too. Therefore, you can use whatever window
 layout you prefer.
 
-A **tab page** (https://github.com/mhinz/vim-galore/blob/master/or just tab) is a collection of windows. Thus, if you want to
+A **tab page** (or just tab) is a collection of windows. Thus, if you want to
 use multiple window layouts, use tabs.
 
 Putting it in a nutshell, if you start Vim without arguments, you'll have one
@@ -338,7 +338,7 @@ tab.
 
 Run Vim like this `vim file1`. The file's content will be loaded into a buffer.
 You have a **loaded buffer** now. The content of the buffer is only synchronized
-to disk (https://github.com/mhinz/vim-galore/blob/master/written back to the file) if you save it within Vim.
+to disk (written back to the file) if you save it within Vim.
 
 Since the buffer is also shown in a window, it's also an **active buffer**. Now
 if you load another file via `:e file2`, `file1` will become a **hidden buffer**
@@ -409,7 +409,7 @@ E.g. this defines the mapping for normal mode only:
 
 Unmap it again by using `:nunmap <space>`.
 
-For a few more but rather uncommon modes (https://github.com/mhinz/vim-galore/blob/master/or combinations of them), see `:h
+For a few more but rather uncommon modes (or combinations of them), see `:h
 map-modes`.
 
 So far, so good. There's only one problem that can be pretty confusing to
@@ -422,7 +422,7 @@ So you defined a mapping that simply echoes "Foo":
 :nmap b :echo "Foo"<cr>
 ```
 
-But what if you want to map the default behavior of `b` (https://github.com/mhinz/vim-galore/blob/master/going one word back) to
+But what if you want to map the default behavior of `b` (going one word back) to
 another key?
 
 ```vim
@@ -492,7 +492,7 @@ Vim provides the following registers:
 
 | Type                | Character              | Filled by? | Readonly? | Contains text from? |
 |---------------------|------------------------|------------|-----------|---------------------|
-| Unnamed             | `"`                    | vim        | [ ]       | Last yank or deletion. (https://github.com/mhinz/vim-galore/blob/master/`d`, `c`, `s`, `x`, `y`) |
+| Unnamed             | `"`                    | vim        | [ ]       | Last yank or deletion. (`d`, `c`, `s`, `x`, `y`) |
 | Numbered            | `0` to `9`             | vim        | [ ]       | Register `0`: Last yank. Register `1`: Last deletion. Register `2`: Second last deletion. And so on. Think of registers `1`-`9` as a read-only [queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) with 9 elements. |
 | Small delete        | `-`                    | vim        | [ ]       | Last deletion that was less than one line. |
 | Named               | `a` to `z`, `A` to `Z` | user       | [ ]       | If you yank to register `a`, you replace its text. If you yank to register `A`, you append to the text in register `a`. |
@@ -520,7 +520,7 @@ characterwise and linewise visual selections. See `:h linewise`.
 
 **Example: linewise**
 
-`yy` (https://github.com/mhinz/vim-galore/blob/master/or just `Y`) yanks the current line, move the cursor somewhere else, use
+`yy` (or just `Y`) yanks the current line, move the cursor somewhere else, use
 `p` to paste below the current line `P` for pasting above it.
 
 **Example: charwise**
@@ -562,12 +562,12 @@ as short form of `:delete`):
 | `:1d` | First line. |
 | `:$d` | Last line. |
 | `:1,$d` | All lines. |
-| `:%d` | All lines (https://github.com/mhinz/vim-galore/blob/master/syntactic sugar for `1,$`). |
+| `:%d` | All lines (syntactic sugar for `1,$`). |
 | `:.,5d` | Current line to line 5. |
 | `:,5d` | Also current line to line 5. |
 | `:,+3d` | Current line and the next 3 lines. |
 | `:1,+3d` | First line to current line + 3. |
-| `:,-3d` | Current line and the last 3 lines. (https://github.com/mhinz/vim-galore/blob/master/Vim will prompt you, since this is a reversed range.) |
+| `:,-3d` | Current line and the last 3 lines. (Vim will prompt you, since this is a reversed range.) |
 | `:3,'xdelete` | Lines 3 to the line marked by [mark](#marks) x. |
 | `:/^foo/,$delete` | From the next line that starts with "foo" to the end. |
 | `:/^foo/+1,$delete` | From the line after the line that starts with "foo" to the end. |
@@ -621,7 +621,7 @@ You use marks to remember a position, that is line number and column, in a file.
 Put `'`/`g'` or `` ` ``/`` g` `` in front of a mark to form a motion.
 
 Use `mm` to remember the current position with mark "m". Move around the file
-and then jump back via `'m` (https://github.com/mhinz/vim-galore/blob/master/first non-blank) or `` `m `` (https://github.com/mhinz/vim-galore/blob/master/exact column).
+and then jump back via `'m` (first non-blank) or `` `m `` (exact column).
 Lowercase marks will be remembered after exiting Vim, if you tell your viminfo
 file to do so, see `:h viminfo-'`.
 
@@ -661,7 +661,7 @@ Typical kinds of completion are tags, functions from imported modules or
 libraries, file names, dictionary or simply words from the current buffer.
 
 Vim provides a mapping for each kind of completion and they all start with
-`<c-x>` (https://github.com/mhinz/vim-galore/blob/master/remember to use them in insert mode):
+`<c-x>` (remember to use them in insert mode):
 
 | Mapping | Kind | Help         |
 |---------|------|--------------|
@@ -674,22 +674,22 @@ Vim provides a mapping for each kind of completion and they all start with
 | `<c-x><c-f>` | file names | `:h i^x^f` |
 | `<c-x><c-d>` | definitions or macros | `:h i^x^d` |
 | `<c-x><c-v>` | Vim commands | `:h i^x^v` |
-| `<c-x><c-u>` | user defined (https://github.com/mhinz/vim-galore/blob/master/as specified in `'completefunc'`) | `:h i^x^u` |
-| `<c-x><c-o>` | omni completion (https://github.com/mhinz/vim-galore/blob/master/as specified in `'omnifunc'`) | `:h i^x^o` |
+| `<c-x><c-u>` | user defined (as specified in `'completefunc'`) | `:h i^x^u` |
+| `<c-x><c-o>` | omni completion (as specified in `'omnifunc'`) | `:h i^x^o` |
 | `<c-x>s`     | spelling suggestions | `:h i^Xs` |
 
 People might be confused about the difference between user defined completion
 and omni completion, but technically they do the same thing. They take a
 function that inspects the current position and return a list of suggestions.
 User defined completion is defined by the user for their own personal purposes.
-(https://github.com/mhinz/vim-galore/blob/master/Surprise!) It could be anything. Omni completion is meant for filetype-specific
+(Surprise!) It could be anything. Omni completion is meant for filetype-specific
 purposes, like completing struct members or class methods, and is often set by
 filetype plugins.
 
 Vim also allows for completing multiple kinds at once by setting the
 `'complete'` option. By default that option includes quite a lot, so be sure to
 trim it to your taste. You can trigger this completion by using either `<c-n>`
-(https://github.com/mhinz/vim-galore/blob/master/next) and `<c-p>` (https://github.com/mhinz/vim-galore/blob/master/previous), which also happen to be the keys used for
+(next) and `<c-p>` (previous), which also happen to be the keys used for
 choosing entries in the popup menu. See `:h i^n` and `:h 'complete'` for more on
 this.
 
@@ -733,12 +733,12 @@ most-skilled cursors can't jump into two directions at the same time. It works
 in visual mode though, because then one side of the object is already selected
 and the cursor simply jumps to the other side.
 
-Text objects start with either `i` (https://github.com/mhinz/vim-galore/blob/master/think _inner_) or `a` (https://github.com/mhinz/vim-galore/blob/master/think _around_)
+Text objects start with either `i` (think _inner_) or `a` (think _around_)
 followed by a character denoting the object. With `i` it only acts on the object
 itself, with `a` on the object plus trailing whitespace. E.g. `diw` deletes the
 current word and `ci(` changes everything between parentheses.
 
-Text objects take a count. Imagine `(https://github.com/mhinz/vim-galore/blob/master/(( )))` and the cursor on or between the
+Text objects take a count. Imagine `((( )))` and the cursor on or between the
 most inner parentheses, then `d2a(` will remove the 2 inner pairs of parentheses
 and everything in between.
 
@@ -804,7 +804,7 @@ Every time you jump, the position _before_ the jump is remembered in the
 jumplist. When you split a window, the jumplist is copied.
 
 A jump is one of the following commands: `'`, `` ` ``, `G`, `/`, `?`, `n`, `N`,
-`%https://github.com/mhinz/vim-galore/blob/master/`, `(https://github.com/mhinz/vim-galore/blob/master/`, `)https://github.com/mhinz/vim-galore/blob/master/`, `[[https://github.com/mhinz/vim-galore/blob/master/`, `]]https://github.com/mhinz/vim-galore/blob/master/`, `{https://github.com/mhinz/vim-galore/blob/master/`, `}https://github.com/mhinz/vim-galore/blob/master/`, `:shttps://github.com/mhinz/vim-galore/blob/master/`, `:taghttps://github.com/mhinz/vim-galore/blob/master/`, `Lhttps://github.com/mhinz/vim-galore/blob/master/`, `Mhttps://github.com/mhinz/vim-galore/blob/master/`, `H` and commands
+`%`, `(`, `)`, `[[`, `]]`, `{`, `}`, `:s`, `:tag`, `L`, `M`, `H` and commands
 that start editing a new file.
 
 | List       | List all entries | Go to older position | Go to newer position |
@@ -837,7 +837,7 @@ The important bit to understand it that the data structure holding recent
 changes is not a
 [queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) but a
 [tree](https://en.wikipedia.org/wiki/Tree_(data_structure))! Your changes are
-nodes in the tree and each (https://github.com/mhinz/vim-galore/blob/master/but the top node) has a parent node. Each node keeps
+nodes in the tree and each (but the top node) has a parent node. Each node keeps
 information about the changed text and time. A branch is a series of nodes that
 starts from any node and goes up to the top node. New branches get created when
 you undo a change and then insert something else.
@@ -866,11 +866,11 @@ created.
 Now there are two ways to traverse this tree, let's call them _branch-wise_ and
 _time-wise_.
 
-Undo (https://github.com/mhinz/vim-galore/blob/master/`u`) and redo (https://github.com/mhinz/vim-galore/blob/master/`<c-r>`) work branch-wise. They go up and down the current
+Undo (`u`) and redo (`<c-r>`) work branch-wise. They go up and down the current
 branch. `u` will revert the text state to the one of node "bar". Another `u`
 will revert the text state even further, to the one of node "foo". Now `<c-r>`
 goes back to the state of node "bar" and another `<c-r>` to the state of node
-"quux". (https://github.com/mhinz/vim-galore/blob/master/There's no way to reach node "baz" using branch-wise commands anymore.)
+"quux". (There's no way to reach node "baz" using branch-wise commands anymore.)
 
 Opposed to this, `g-` and `g+` work time-wise. Thus, `g-` won't revert to the
 state of node "bar", like `u` does, but to the chronologically previous state,
@@ -982,7 +982,7 @@ q
 10@q
 ```
 
-(https://github.com/mhinz/vim-galore/blob/master/The same could be done without macros: `oabc<esc>10.`)
+(The same could be done without macros: `oabc<esc>10.`)
 
 **Example 2:**
 
@@ -1008,7 +1008,7 @@ q
 @q
 ```
 
-(https://github.com/mhinz/vim-galore/blob/master/The same could be done without macros: `:%s/^/\=line('.') . '. '`)
+(The same could be done without macros: `:%s/^/\=line('.') . '. '`)
 
 Mind that I also show how to achieve the same without using macros, but this
 mostly works only for such simple examples. For more complex automation, macros
@@ -1040,8 +1040,8 @@ information.
 So, colorschemes are mostly collections of `:highlight` commands.
 
 Actually, most colorschemes are really 2 colorschemes! The example above sets
-colors via `ctermbg` and `guibg`. The former definition (https://github.com/mhinz/vim-galore/blob/master/`cterm*`) will only be
-used if Vim was started in a terminal emulator, e.g. xterm. The latter (https://github.com/mhinz/vim-galore/blob/master/`gui*`)
+colors via `ctermbg` and `guibg`. The former definition (`cterm*`) will only be
+used if Vim was started in a terminal emulator, e.g. xterm. The latter (`gui*`)
 will be used in graphical environments like gvim or MacVim.
 
 If you ever happen to use a colorscheme in terminal Vim and the colors don't
@@ -1065,7 +1065,7 @@ Help:
 
 ## Folding
 
-Every text (https://github.com/mhinz/vim-galore/blob/master/or source code) has a certain structure. If you have a structure, it
+Every text (or source code) has a certain structure. If you have a structure, it
 means you have regions of logically separated text. Folding allows to "fold"
 such a region into a single line and displaying a short description. There are
 many commands that act on these regions called _folds_. Folds can be nested.
@@ -1078,11 +1078,11 @@ Vim distinguishes between several types of fold methods:
 | expr         | Uses `'foldexpr'` to basically create a new fold method. |
 | indent       | Folds based on indentation. |
 | manual       | Create folds yourself via `zf`, `zF`, and `:fold`. |
-| marker       | Folds based on markers in the text (https://github.com/mhinz/vim-galore/blob/master/often in comments). |
+| marker       | Folds based on markers in the text (often in comments). |
 | syntax       | Folds based on syntax, e.g. folding `if` blocks. |
 
 **NOTE**: Folding can be computationally intensive! If you experience any
-performance drawbacks (https://github.com/mhinz/vim-galore/blob/master/small delays when typing), have a look at
+performance drawbacks (small delays when typing), have a look at
 [FastFold](https://github.com/Konfekt/FastFold), which prevents Vim from
 updating folds when it's not needed.
 
@@ -1095,8 +1095,8 @@ Help:
 
 ## Sessions
 
-If you save a **view** (https://github.com/mhinz/vim-galore/blob/master/`:h :mkview`), the current state of the window (and
-options and mappings) gets saved for later use (https://github.com/mhinz/vim-galore/blob/master/`:h :loadview`).
+If you save a **view** (`:h :mkview`), the current state of the window (and
+options and mappings) gets saved for later use (`:h :loadview`).
 
 A **session** saves the views of all windows plus global settings. It basically
 makes a snapshot of your current Vim instance and saves it in a session file.
@@ -1164,7 +1164,7 @@ A few simple rules:
 - VimL functions end in `()`, e.g. `:h reverse()`
 - commands start with `:`, e.g. `:h :echo`
 
-You can use `<c-d>` (https://github.com/mhinz/vim-galore/blob/master/this is <kbd>ctrl</kbd>+<kbd>d</kbd>) to list all tags that
+You can use `<c-d>` (this is <kbd>ctrl</kbd>+<kbd>d</kbd>) to list all tags that
 match the currently entered query. E.g. `:h tab<c-d>` will get you a list of all
 tags from `tab` over `'softtabstop'` to `setting-guitablabel`.
 
@@ -1185,7 +1185,7 @@ jump to the next/previous match. Or use `:copen` to open the quickfix window,
 navigate to an entry and hit `<cr>` to jump to that match. See `:h quickfix` for
 the whole truth.
 
-## Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)
+## Getting help offline (alternative)
 
 This list was compiled by @chrisbra, one of the most active Vim developers, and
 posted to [vim_dev](https://groups.google.com/forum/#!forum/vim_dev).
@@ -1226,16 +1226,16 @@ something).
    e.g. `:h CTRL-A`. In contrast, `:h c_CTRL-R` will describe what CTRL-R does
    when entering commands in the command line and `:h v_Ctrl-A` talks about
    incrementing numbers in visual mode and `:h g_CTRL-A` talks about the g<C-A>
-   command (https://github.com/mhinz/vim-galore/blob/master/thus you have to press "g" then <Ctrl-A>). Here the "g" stand for
+   command (thus you have to press "g" then <Ctrl-A>). Here the "g" stand for
    the normal command "g" which always expect a second key before doing
    something similar to the commands starting with "z".
 
 5. Registers always start with "quote" so use `:h quote` to find out about the
    special ":" register.
 
-6. Vim script (https://github.com/mhinz/vim-galore/blob/master/VimL) is available at `:h eval.txt`. Certain aspects of the
+6. Vim script (VimL) is available at `:h eval.txt`. Certain aspects of the
    language are available at `:h expr-X` where 'X' is a single letter, e.g. `:h
-   expr-!` will take you to the topic describing the '!' (https://github.com/mhinz/vim-galore/blob/master/Not) operator for
+   expr-!` will take you to the topic describing the '!' (Not) operator for
    VimL. Also important, see `:h function-list` to find a short description of
    all functions available.
 
@@ -1269,7 +1269,7 @@ something).
     friendly way. Start at `:h usr_toc.txt` to find the table of content (as you
     might have guessed). Skimming over that help to find certain topics, .e.g
     you will find an entry "Digraphs" and "Entering special characters" in
-    chapter 24 (https://github.com/mhinz/vim-galore/blob/master/so use `:h usr_24.txt` to go to that particular help page).
+    chapter 24 (so use `:h usr_24.txt` to go to that particular help page).
 
 15. Highlighting groups always start with `hl-*`. E.g. `:h hl-WarningMsg` talks
     about the "WarningMsg" highlighting group.
@@ -1298,7 +1298,7 @@ something).
 22. Documentation for included syntax files is usually available at `:h
     ft-*-syntax`. E.g. `:h ft-c-syntax` talks about the C syntax file and the
     options it provides. Sometimes, additional sections for omni completion (`:h
-    ft-php-omni`) or filetype plugins (https://github.com/mhinz/vim-galore/blob/master/`:h ft-tex-plugin`) are available.
+    ft-php-omni`) or filetype plugins (`:h ft-tex-plugin`) are available.
 
 Also, a link to the user documentation (which describes certain commands more
 from a user perspective and less detailed) will be mentioned at the top of help
@@ -1347,7 +1347,7 @@ That's why it's better to check if there even is a receiving autocmd and not
 bothering emitting the event otherwise:
 
 ```vim
-if exists(https://github.com/mhinz/vim-galore/blob/master/'#User#ChibbyExit')
+if exists('#User#ChibbyExit')
   doautocmd User ChibbyExit
 endif
 ```
@@ -1396,7 +1396,7 @@ Help:
 Also see: [Bracketed paste (or why do I have to set 'paste' all the
 time?)](#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
 
-### Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)
+### Clipboard usage (Windows, macOS)
 
 Windows comes with a
 [clipboard](https://msdn.microsoft.com/en-us/library/windows/desktop/ms649012(v=vs.85).aspx)
@@ -1445,7 +1445,7 @@ Help:
 :h 'go_a'
 ```
 
-### Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)
+### Clipboard usage (Linux, BSD, ...)
 
 If your OS uses [X](http://www.x.org/wiki), things work a bit different. X
 implements the [X Window System
@@ -1481,7 +1481,7 @@ Program B: receives data from Program A and inserts it into the window
 | PRIMARY   | Selecting text              | `middle-click`, `shift+insert` | `*` register |
 | CLIPBOARD | Selecting text and `ctrl+c` | `ctrl+v`                       | `+` register |
 
-**NOTE**: Selections (https://github.com/mhinz/vim-galore/blob/master/no, not even the CLIPBOARD selection) are never kept in
+**NOTE**: Selections (no, not even the CLIPBOARD selection) are never kept in
 the X server! Thus, you lose the data copied with `ctrl+c` when the application
 closes.
 
@@ -1496,7 +1496,7 @@ set clipboard^=unnamed      " * register
 set clipboard^=unnamedplus  " + register
 ```
 
-(https://github.com/mhinz/vim-galore/blob/master/The `^=` is used to prepend to the default value, `:h :set^=`.)
+(The `^=` is used to prepend to the default value, `:h :set^=`.)
 
 This will make all yank/delete/put operations use either `*` or `+` instead of
 the unnamed register `"`. Afterwards you can simply use `y` or `p` for accessing
@@ -1517,7 +1517,7 @@ the position in the buffer where you left off.
 
 ```vim
 autocmd BufReadPost *
-    \ if line(https://github.com/mhinz/vim-galore/blob/master/https://github.com/mhinz/vim-galore/blob/master/"'\"") > 1 && line(https://github.com/mhinz/vim-galore/blob/master/https://github.com/mhinz/vim-galore/blob/master/"'\"") <= line(https://github.com/mhinz/vim-galore/blob/master/"$") |
+    \ if line("'\"") > 1 && line("'\"") <= line("$") |
     \   execute "normal! g`\"" |
     \ endif
 ```
@@ -1602,7 +1602,7 @@ A swap file gets updated either all 200 characters or when nothing was typed for
 4 seconds. They get deleted when you stop editing the file. You can change these
 numbers with `:h 'updatecount'` and `:h 'updatetime'`.
 
-If Vim gets killed (https://github.com/mhinz/vim-galore/blob/master/e.g. power outage), you lose all changes since the last time
+If Vim gets killed (e.g. power outage), you lose all changes since the last time
 the file was written to disk, but the swap file won't be deleted. Now, if you
 edit the file again, Vim will offer the chance to recover the file from the swap
 file.
@@ -1628,7 +1628,7 @@ If you want it to persist, `:set undofile`. This will save the undo file for
 
 When backup, swap, and undo files are all about text state, viminfo files are
 used for saving everything else that would otherwise be lost when quitting Vim.
-The viminfo file keeps histories (https://github.com/mhinz/vim-galore/blob/master/command line, search, input), registers,
+The viminfo file keeps histories (command line, search, input), registers,
 marks, buffer list, global variables etc.
 
 By default, the viminfo is written to `~/.viminfo`.
@@ -1642,8 +1642,8 @@ Put all temporary files in their own directory under `~/.vim/files`:
 
 ```vim
 " create directory if needed
-if !isdirectory(https://github.com/mhinz/vim-galore/blob/master/$HOME.'/.vim/files') && exists(https://github.com/mhinz/vim-galore/blob/master/'*mkdir')
-  call mkdir(https://github.com/mhinz/vim-galore/blob/master/$HOME.'/.vim/files')
+if !isdirectory($HOME.'/.vim/files') && exists('*mkdir')
+  call mkdir($HOME.'/.vim/files')
 endif
 
 " backup files
@@ -1702,7 +1702,7 @@ mount a remote filesystem into your local filesystem.
 ## Managing plugins
 
 [Pathogen](https://github.com/tpope/vim-pathogen) was the first popular tool for
-managing plugins. Actually it just adjusts the _runtimepath_ (https://github.com/mhinz/vim-galore/blob/master/`:h 'rtp'`) to
+managing plugins. Actually it just adjusts the _runtimepath_ (`:h 'rtp'`) to
 include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
 
@@ -1841,7 +1841,7 @@ Verify that the connection was made:
 :cs show
 ```
 
-(https://github.com/mhinz/vim-galore/blob/master/Yes, you can add multiple connections.)
+(Yes, you can add multiple connections.)
 
 ### 3. Query the database
 
@@ -1849,7 +1849,7 @@ Verify that the connection was made:
 :cs find <kind> <query>
 ```
 
-E.g. `:cs find d foo` will list all functions that are called by `foo(https://github.com/mhinz/vim-galore/blob/master/...)`.
+E.g. `:cs find d foo` will list all functions that are called by `foo(...)`.
 
 | Kind | Explanation |
 |------|-------------|
@@ -1865,17 +1865,17 @@ E.g. `:cs find d foo` will list all functions that are called by `foo(https://gi
 I suggest some convenience mappings e.g.:
 
 ```vim
-nnoremap <buffer> <leader>cs :cscope find s  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
-nnoremap <buffer> <leader>cg :cscope find g  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
-nnoremap <buffer> <leader>cc :cscope find c  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
-nnoremap <buffer> <leader>ct :cscope find t  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
-nnoremap <buffer> <leader>ce :cscope find e  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
-nnoremap <buffer> <leader>cf :cscope find f  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cfile>')<cr><cr>
-nnoremap <buffer> <leader>ci :cscope find i ^<c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cfile>')<cr>$<cr>
-nnoremap <buffer> <leader>cd :cscope find d  <c-r>=expand(https://github.com/mhinz/vim-galore/blob/master/'<cword>')<cr><cr>
+nnoremap <buffer> <leader>cs :cscope find s  <c-r>=expand('<cword>')<cr><cr>
+nnoremap <buffer> <leader>cg :cscope find g  <c-r>=expand('<cword>')<cr><cr>
+nnoremap <buffer> <leader>cc :cscope find c  <c-r>=expand('<cword>')<cr><cr>
+nnoremap <buffer> <leader>ct :cscope find t  <c-r>=expand('<cword>')<cr><cr>
+nnoremap <buffer> <leader>ce :cscope find e  <c-r>=expand('<cword>')<cr><cr>
+nnoremap <buffer> <leader>cf :cscope find f  <c-r>=expand('<cfile>')<cr><cr>
+nnoremap <buffer> <leader>ci :cscope find i ^<c-r>=expand('<cfile>')<cr>$<cr>
+nnoremap <buffer> <leader>cd :cscope find d  <c-r>=expand('<cword>')<cr><cr>
 ```
 
-So, when `:tag` (https://github.com/mhinz/vim-galore/blob/master/or `<c-]>`) jumps to a definition from the tags file, `:cstag`
+So, when `:tag` (or `<c-]>`) jumps to a definition from the tags file, `:cstag`
 does the same, but also takes connected cscope databases into account. The
 option `'cscopetag'` makes `:tag` act like `:cstag` automatically. This is very
 convenient if you already have tag-related mappings.
@@ -1927,7 +1927,7 @@ autocmd FileType python let b:match_words = '\<if\>:\<elif\>:\<else\>'
 ```
 
 Afterwards you can cycle through these 3 statements in any Python file by using
-`%` (https://github.com/mhinz/vim-galore/blob/master/forward) or `g%` (https://github.com/mhinz/vim-galore/blob/master/backward).
+`%` (forward) or `g%` (backward).
 
 Help:
 
@@ -1940,10 +1940,10 @@ Help:
 ## True colors
 
 Using true colors in a terminal emulator means being able to use 24 bits for RGB
-colors. That makes 16777216 (https://github.com/mhinz/vim-galore/blob/master/2^24) colors instead of the usual 256.
+colors. That makes 16777216 (2^24) colors instead of the usual 256.
 
 As explained [here](#colorschemes), colorschemes can actually be _two_
-colorschemes by having definitions for terminals (https://github.com/mhinz/vim-galore/blob/master/xterm) and for GUIs (https://github.com/mhinz/vim-galore/blob/master/gvim).
+colorschemes by having definitions for terminals (xterm) and for GUIs (gvim).
 This made sense before terminal emulators learned about true colors.
 
 After `:set termguicolors`, Vim starts emitting escape sequences only understood
@@ -1964,7 +1964,7 @@ set-option -ga terminal-overrides ',xterm-256color:Tc'
 
 - The first line should be the same for most people and denotes the `$TERM` to
   be used _within_ tmux.
-- The second line adds the tmux-specific `Tc` (https://github.com/mhinz/vim-galore/blob/master/true color) capability to the
+- The second line adds the tmux-specific `Tc` (true color) capability to the
   other terminfo entries of `xterm-256color`. Obviously this assumes that the
   user is using `TERM=xterm-256color` _outside_ of tmux.
 
@@ -2031,7 +2031,7 @@ I depend on this behaviour several times a day.
 
 ## Saner CTRL-L
 
-By default, `<c-l>` clears and redraws the screen (https://github.com/mhinz/vim-galore/blob/master/like `:redraw!`). The
+By default, `<c-l>` clears and redraws the screen (like `:redraw!`). The
 following mapping does the same, plus de-highlighting the matches found via `/`,
 `?` etc., plus fixing syntax highlighting (sometimes Vim loses highlighting due
 to complex highlighting rules), plus force updating the syntax highlighting in
@@ -2065,22 +2065,22 @@ These mappings also take a count, so `2]e` moves the current line 2 lines below.
 ## Quickly add empty lines
 
 ```vim
-nnoremap [<space>  :<c-u>put! =repeat(https://github.com/mhinz/vim-galore/blob/master/nr2char(10), v:count1)<cr>'[
-nnoremap ]<space>  :<c-u>put =repeat(https://github.com/mhinz/vim-galore/blob/master/nr2char(10), v:count1)<cr>
+nnoremap [<space>  :<c-u>put! =repeat(nr2char(10), v:count1)<cr>'[
+nnoremap ]<space>  :<c-u>put =repeat(nr2char(10), v:count1)<cr>
 ```
 
 Now `5[<space>` inserts 5 blank lines above the current line.
 
 ## Quickly edit your macros
 
-This is a real gem! The mapping takes a register (https://github.com/mhinz/vim-galore/blob/master/or `*` by default) and opens
+This is a real gem! The mapping takes a register (or `*` by default) and opens
 it in the cmdline-window. Hit `<cr>` when you're done editing for setting the
 register.
 
 I often use this to correct typos I did while recording a macro.
 
 ```vim
-nnoremap <leader>m  :<c-u><c-r><c-r>='let @'. v:register .' = '. string(https://github.com/mhinz/vim-galore/blob/master/getreg(v:register))<cr><c-f><left>
+nnoremap <leader>m  :<c-u><c-r><c-r>='let @'. v:register .' = '. string(getreg(v:register))<cr><c-f><left>
 ```
 
 Use it like this `<leader>m` or `"q<leader>m`.
@@ -2091,8 +2091,8 @@ literally. See `:h c_^R^R`.
 ## Quickly jump to header or source file
 
 This technique can probably be applied to many filetypes. It sets _file marks_
-(https://github.com/mhinz/vim-galore/blob/master/see `:h marks`) when leaving a source or header file, so you can quickly jump
-back to the last accessed one by using `'C` or `'H` (https://github.com/mhinz/vim-galore/blob/master/see `:h 'A`).
+(see `:h marks`) when leaving a source or header file, so you can quickly jump
+back to the last accessed one by using `'C` or `'H` (see `:h 'A`).
 
 ```vim
 autocmd BufLeave *.{c,cpp} mark C
@@ -2107,8 +2107,8 @@ viminfo?` includes `:h viminfo-'`.
 I think this was taken from tpope's config:
 
 ```vim
-command! Bigger  :let &guifont = substitute(https://github.com/mhinz/vim-galore/blob/master/&guifont, '\d\+$', '\=submatch(0)+1', '')
-command! Smaller :let &guifont = substitute(https://github.com/mhinz/vim-galore/blob/master/&guifont, '\d\+$', '\=submatch(0)-1', '')
+command! Bigger  :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)+1', '')
+command! Smaller :let &guifont = substitute(&guifont, '\d\+$', '\=submatch(0)-1', '')
 ```
 
 ## Change cursor style dependent on mode
@@ -2117,7 +2117,7 @@ I like to use a block cursor in normal mode, i-beam cursor in insert mode, and
 underline cursor in replace mode.
 
 ```vim
-if empty(https://github.com/mhinz/vim-galore/blob/master/$TMUX)
+if empty($TMUX)
   let &t_SI = "\<Esc>]50;CursorShape=1\x7"
   let &t_EI = "\<Esc>]50;CursorShape=0\x7"
   let &t_SR = "\<Esc>]50;CursorShape=2\x7"
@@ -2146,7 +2146,7 @@ The example above works with iTerm2.
 If you select one or more lines, you can use `<` and `>` for shifting them
 sidewards. Unfortunately you immediately lose the selection afterwards.
 
-You can use `gv` to reselect the last selection (https://github.com/mhinz/vim-galore/blob/master/see `:h gv`), thus you can work
+You can use `gv` to reselect the last selection (see `:h gv`), thus you can work
 around it like this:
 
 ```vim
@@ -2166,7 +2166,7 @@ your source code.
 
 ```vim
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
-autocmd BufWritePost ~/.Xdefaults call system(https://github.com/mhinz/vim-galore/blob/master/'xrdb ~/.Xdefaults')
+autocmd BufWritePost ~/.Xdefaults call system('xrdb ~/.Xdefaults')
 ```
 
 ## Smarter cursorline
@@ -2181,9 +2181,9 @@ autocmd InsertEnter,WinLeave * set nocursorline
 
 ## Faster keyword completion
 
-The keyword completion (https://github.com/mhinz/vim-galore/blob/master/`<c-n>`/`<c-p>`) tries completing whatever is listed in
+The keyword completion (`<c-n>`/`<c-p>`) tries completing whatever is listed in
 the `'complete'` option. By default, this also includes tags (which can be
-annoying) and scanning all included files (https://github.com/mhinz/vim-galore/blob/master/which can be very slow). If you can
+annoying) and scanning all included files (which can be very slow). If you can
 live without these things, disable them:
 
 ```vim
@@ -2225,14 +2225,14 @@ It's `:g/re/p`. Ken Thompson was inspired by vi's `:global` when he wrote grep.
 
 Despite its name, `:global` only acts on all lines by default, but it also takes
 a range. Assume you want use `:delete` on all lines from the current line to the
-next blank line (https://github.com/mhinz/vim-galore/blob/master/matched by the regular expression `^$`) that contain "foo":
+next blank line (matched by the regular expression `^$`) that contain "foo":
 
 ```vim
 :,/^$/g/foo/d
 ```
 
 For executing commands on all lines that do _not_ match a given pattern, use
-`:global!` or its alias `:vglobal` (https://github.com/mhinz/vim-galore/blob/master/think _inVerse_) instead.
+`:global!` or its alias `:vglobal` (think _inVerse_) instead.
 
 ## :normal and :execute
 
@@ -2249,7 +2249,7 @@ With `:execute` you can mix commands with expressions. Assume you edit a C
 source file and want to switch to its header file:
 
 ```vim
-:execute 'edit' fnamemodify(https://github.com/mhinz/vim-galore/blob/master/expand('%'), ':r') . '.h'
+:execute 'edit' fnamemodify(expand('%'), ':r') . '.h'
 ```
 
 Both commands are often used together. Assume you want to make the cursor go
@@ -2277,7 +2277,7 @@ can redirect to files, [registers](#registers) or variables.
 In Vim 8 there is an even shorter way:
 
 ```vim
-:put =execute(https://github.com/mhinz/vim-galore/blob/master/'reg')
+:put =execute('reg')
 ```
 
 Help:
@@ -2297,8 +2297,8 @@ If you encounter a strange behaviour, try reproducing it like this:
 vim -u NONE -N
 ```
 
-This will start Vim without vimrc (https://github.com/mhinz/vim-galore/blob/master/thus default settings) and in nocompatible
-mode (https://github.com/mhinz/vim-galore/blob/master/which makes it use Vim defaults instead of vi defaults). (See `:h
+This will start Vim without vimrc (thus default settings) and in nocompatible
+mode (which makes it use Vim defaults instead of vi defaults). (See `:h
 --noplugin` for other combinations of what to load at start.)
 
 If you can still reproduce it now, it's most likely a bug in Vim itself! Report
@@ -2402,7 +2402,7 @@ If you want to profile _everything_, do this:
 ```
 
 Vim keeps the profiling information in memory and only writes it out to the
-logfile on exit. (https://github.com/mhinz/vim-galore/blob/master/Neovim has fixed this using `:profile dump`).
+logfile on exit. (Neovim has fixed this using `:profile dump`).
 
 Have a look at `/tmp/profile.log`. All code that was executed during profiling
 will be shown. Every line, how often it was executed and how much time it took.
@@ -2456,7 +2456,7 @@ Let's assume you want to know what code is run every time you save a file:
 " line 3: endif
 >
 " function sy#start
-" line 5: let sy_path = resolve(https://github.com/mhinz/vim-galore/blob/master/expand('%:p'))
+" line 5: let sy_path = resolve(expand('%:p'))
 >q
 :breakdel *
 ```
@@ -2492,10 +2492,10 @@ See `:h :syntime`.
 | Resource | Description |
 |----------|-------------|
 | [Seven habits of effective text editing](http://www.moolenaar.net/habits.html) | By Bram Moolenaar, the author of Vim. |
-| [Seven habits of effective text editing 2.0 (https://github.com/mhinz/vim-galore/blob/master/PDF)](http://www.moolenaar.net/habits_2007.pdf) | See above. |
+| [Seven habits of effective text editing 2.0 (PDF)](http://www.moolenaar.net/habits_2007.pdf) | See above. |
 | [IBM DeveloperWorks: Scripting the Vim editor](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?sort_order=asc&sort_by=Title&search_by=scripting+the+vim+editor) | Five-part series on Vim scripting. |
 | [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) | Develop a Vim plugin from scratch. |
-| [Practical Vim (https://github.com/mhinz/vim-galore/blob/master/2nd Edition)](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | Hands down the best book about Vim. |
+| [Practical Vim (2nd Edition)](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | Hands down the best book about Vim. |
 | [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html) | Common misconceptions explained. |
 | [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/a/1220118) | Concise, informative and correct. A real gem. |
 
@@ -2531,14 +2531,14 @@ looking at a few distributions:
 ## Standard plugins
 
 Many people are surprised by the fact that Vim comes with a handful of standard
-plugins. Some get loaded by default (https://github.com/mhinz/vim-galore/blob/master/`:e $VIMRUNTIME/plugin`) and some are not
-(https://github.com/mhinz/vim-galore/blob/master/`:e $VIMRUNTIME/pack/dist/opt`). Read `:h pack-add` on how to source the
+plugins. Some get loaded by default (`:e $VIMRUNTIME/plugin`) and some are not
+(`:e $VIMRUNTIME/pack/dist/opt`). Read `:h pack-add` on how to source the
 latter.
 
 Most of the plugins that get loaded by default will never get used, though.
 Disable them as you see fit. They will still be shown as sourced
-(https://github.com/mhinz/vim-galore/blob/master/`:scriptnames`), but only the first lines actually get read before Vim bails
-out. No further code (https://github.com/mhinz/vim-galore/blob/master/mappings, commands, logic) will be processed.
+(`:scriptnames`), but only the first lines actually get read before Vim bails
+out. No further code (mappings, commands, logic) will be processed.
 
 | Plugin     | Disable it using..                  | Help |
 |------------|-------------------------------------|------|
@@ -2614,7 +2614,7 @@ See `:h :TOhtml`.
 | `:h bar` | `Ceci n'est pas une pipe.` |
 | `:h holy-grail` | `You found it, Arthur!` |
 | `:h map-modes` | `:nunmap can also be used outside of a monastery.` |
-| `:help!` | `E478: Don't panic!` (https://github.com/mhinz/vim-galore/blob/master/Glitch? When used in a help buffer (`buftype=help`) this works like `:h help.txt` instead.) |
+| `:help!` | `E478: Don't panic!` (Glitch? When used in a help buffer (`buftype=help`) this works like `:h help.txt` instead.) |
 | `:smile` | Try it out yourself. ;-) Added in 7.4.1005. |
 
 ## Why hjkl for navigation?
@@ -2635,7 +2635,7 @@ This also shows why `~` is used to denote the home directory on Unix systems.
 There are two things which can have a huge impact on performance:
 
 1. Complex **regular expressions**. Particular the Ruby syntax file caused
-   people to have slowdowns in the past. (https://github.com/mhinz/vim-galore/blob/master/Also see [Debugging syntax files](#debugging-syntax-files).)
+   people to have slowdowns in the past. (Also see [Debugging syntax files](#debugging-syntax-files).)
 2. **Screen redraws**. Some features force all lines to redraw.
 
 | Typical culprit | Why? | Solution? |
@@ -2654,7 +2654,7 @@ drawbacks. In most cases using the things mentioned above is absolutely fine.
 
 The biggest issue with big files is, that Vim reads the whole file at once. This
 is done due to how buffers are represented internally.
-(https://github.com/mhinz/vim-galore/blob/master/[Discussion on vim_dev@](https://groups.google.com/forum/#!topic/vim_dev/oY3i8rqYGD4/discussion))
+([Discussion on vim_dev@](https://groups.google.com/forum/#!topic/vim_dev/oY3i8rqYGD4/discussion))
 
 If you only want to read, `tail hugefile | vim -` is a good workaround.
 
@@ -2675,7 +2675,7 @@ $ vim -n -u NONE -i NONE -N
 Putting it in a nutshell, try to avoid using Vim when intending to write really
 huge files. :\
 
-## Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)
+## Bracketed paste (or why do I have to set 'paste' all the time?)
 
 Bracketed paste mode allows terminal emulators to distinguish between typed text
 and pasted text.
@@ -2714,7 +2714,7 @@ Like their ancestors, terminal emulators use [escape
 sequences](https://en.wikipedia.org/wiki/Escape_sequence) (or _control
 sequences_) to control things like moving the cursor, changing text colors, etc.
 They're simply strings of ASCII characters starting with an escape character
-(https://github.com/mhinz/vim-galore/blob/master/displayed in [caret notation](https://en.wikipedia.org/wiki/Caret_notation) as
+(displayed in [caret notation](https://en.wikipedia.org/wiki/Caret_notation) as
 `^[`). When such a string arrives, the terminal emulator looks up the
 accompanying action in the [terminfo](https://en.wikipedia.org/wiki/Terminfo)
 database.
@@ -2734,9 +2734,9 @@ Escape sequences pose the same problem:
 
 - `<esc>` is used a lot for returning to normal mode or quitting an action.
 - Cursor keys are encoded using escape sequences.
-- Vim expects <kbd>Alt</kbd> (https://github.com/mhinz/vim-galore/blob/master/also called _Meta key_) to send a proper 8-bit
+- Vim expects <kbd>Alt</kbd> (also called _Meta key_) to send a proper 8-bit
   encoding with the high bit set, but many terminal emulators don't support it
-  (https://github.com/mhinz/vim-galore/blob/master/or don't enable it by default) and send an escape sequence instead.
+  (or don't enable it by default) and send an escape sequence instead.
 
 You can test the above like this: `vim -u NONE -N` and type `i<c-v><left>` and
 you'll see a sequence inserted that starts with `^[` which denotes the escape
@@ -2769,8 +2769,8 @@ set -sg escape-time 0
 
 ## Function search undo
 
-- A search pattern in a command (https://github.com/mhinz/vim-galore/blob/master/`/`, `:substitute`, ...) changes the "last used
-  search pattern". (https://github.com/mhinz/vim-galore/blob/master/It's saved in the `/` register; print it with `:echo @/`).
+- A search pattern in a command (`/`, `:substitute`, ...) changes the "last used
+  search pattern". (It's saved in the `/` register; print it with `:echo @/`).
 - A simple text change can be redone with `.`. (It's saved in the `.` register;
   print it with `:echo @.`).
 
@@ -2784,7 +2784,7 @@ Help: `:h function-search-undo`
 
 ## Newline used for NUL
 
-NUL characters (https://github.com/mhinz/vim-galore/blob/master/`\0`) in a file, are stored as newline (https://github.com/mhinz/vim-galore/blob/master/`\n`) in memory and
+NUL characters (`\0`) in a file, are stored as newline (`\n`) in memory and
 displayed in a buffer as `^@`.
 
 See `man 7 ascii` and `:h NL-used-for-Nul` for more information.

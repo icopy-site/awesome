@@ -1,6 +1,6 @@
 ## Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
-An awesome list about Software Defined Networks (https://github.com/sdnds-tw/awesome-sdn/blob/master/SDN)
+An awesome list about Software Defined Networks (SDN)
 
 - [Awesome SDN](#awesome-sdn)
   - [Introduction](#introduction)
@@ -26,7 +26,7 @@ An awesome list about Software Defined Networks (https://github.com/sdnds-tw/awe
   - [Paper](#paper)
 
 ## Introduction
-  Software-defined networking (https://github.com/sdnds-tw/awesome-sdn/blob/master/SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
+  Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
   Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 ## Network Operating System
@@ -37,7 +37,7 @@ An awesome list about Software Defined Networks (https://github.com/sdnds-tw/awe
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
 - [FlexSwitch](https://snaproute.com/) - The first open source network protocol suite offering complete layer2/layer3 functionality for accelerating development and deployment of whitebox networking gear
-- [beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (https://github.com/sdnds-tw/awesome-sdn/blob/master/OF-DPA), which can apply large-scale networks.
+- [beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
 - [SONiC](https://azure.github.io/SONiC/) - Software for Open Networking in the Cloud
 SONiC
 - [Stratum](https://stratumproject.org/) - An open source, silicon-independent switch operating system for software-defined networks
@@ -79,8 +79,8 @@ SONiC
 
 ## Controller
 
-- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (https://github.com/sdnds-tw/awesome-sdn/blob/master/*SDN*) control applications.
-- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (https://github.com/sdnds-tw/awesome-sdn/blob/master/*SDN*) control applications.
+- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
@@ -92,7 +92,7 @@ SONiC
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
 - [OESS](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
 - [Beehive Network Controller](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
-- [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (https://github.com/sdnds-tw/awesome-sdn/blob/master/SDN) controller that uses a standard SQL database to represent the network.
+- [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
 - [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
 - [Netrack](https://github.com/netrack/openflow) - An OpenFlow controller framework in Go.
@@ -100,7 +100,7 @@ SONiC
 
 ## Simulator/Emulator
 
-- [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (https://github.com/sdnds-tw/awesome-sdn/blob/master/or other PC)
+- [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
@@ -114,7 +114,7 @@ SONiC
 - [POF](https://dl.acm.org/citation.cfm?id=2491190) - Protocol Oblivious Forwarding
 - [Frenetic](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
 - [Pyretic](http://www.frenetic-lang.org/pyretic/) - Pyretic is one member of the Frenetic family of SDN programming languages.
-- [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (https://github.com/sdnds-tw/awesome-sdn/blob/master/DSL) based on abstraction of network models and conclusion of operation patterns.
+- [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (DSL) based on abstraction of network models and conclusion of operation patterns.
 
 ## Library
 
@@ -149,13 +149,13 @@ protocol, based on Twisted.
 ## Router
 
 - [FreeRouter](http://freerouter.nop.hu/) - Java-based vRouter
-- [Bird](http://bird.network.cz/) - The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (https://github.com/sdnds-tw/awesome-sdn/blob/master/but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.
+- [Bird](http://bird.network.cz/) - The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.
 - [Quagga](http://www.quagga.net/) - Quagga is a routing software suite, providing implementations of OSPFv2, OSPFv3, RIP v1 and v2, RIPng and BGP-4 for Unix platforms, particularly FreeBSD, Linux, Solaris and NetBSD. Quagga is a fork of GNU Zebra which was developed by Kunihiro Ishiguro.
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r](https://github.com/jesnault/bgp4r) - BGP4R is a ruby library which enables the creation and manipulation of BGP messages. In BGP4R, all well-known BGP constructs are defined in classes.
 - [gobgp](https://github.com/osrg/gobgp) - GoBGP is an open source BGP implementation designed from scratch for modern environment and implemented in a modern programming language, the Go Programming Language.
-- [yabgp](https://github.com/smartbgp/yabgp) - YABGP is a yet another Python implementation for BGP Protocol. It can be used to establish BGP connections with all kinds of routers (https://github.com/sdnds-tw/awesome-sdn/blob/master/include real Cisco/HuaWei/Juniper routers and some router simulators like GNS3) and receive/parse BGP messages for future analysis.
+- [yabgp](https://github.com/smartbgp/yabgp) - YABGP is a yet another Python implementation for BGP Protocol. It can be used to establish BGP connections with all kinds of routers (include real Cisco/HuaWei/Juniper routers and some router simulators like GNS3) and receive/parse BGP messages for future analysis.
 
 ## Misc
 
@@ -169,21 +169,21 @@ protocol, based on Twisted.
 ## High Performance Network
 - [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
 It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
-- [https://github.com/sdnds-tw/awesome-sdn/blob/master/RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (https://github.com/sdnds-tw/awesome-sdn/blob/master/RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
+- [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
 - [XDP](https://www.iovisor.org/technology/xdp) - XDP or eXpress Data Path provides a high performance, programmable network data path in the Linux kernel as part of the IO Visor Project.
-- [ASAP2](http://www.mellanox.com/blog/2016/12/three-ways-asap2-beats-dpdk-for-cloud-and-nfv/) - The ASAP2 accelerator is built on top of eSwitch NIC hardware, and allows either the entire virtual switch, or significant portions of virtual switch or distributed virtual router (https://github.com/sdnds-tw/awesome-sdn/blob/master/DVR) operations to be offloaded to the Mellanox NIC
+- [ASAP2](http://www.mellanox.com/blog/2016/12/three-ways-asap2-beats-dpdk-for-cloud-and-nfv/) - The ASAP2 accelerator is built on top of eSwitch NIC hardware, and allows either the entire virtual switch, or significant portions of virtual switch or distributed virtual router (DVR) operations to be offloaded to the Mellanox NIC
 
 
 ## Userspace Network Stack
 - [mTCP](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io_engine driver and ported applications may differ from the mTCP’s.
-- [net-next-nuse](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (https://github.com/sdnds-tw/awesome-sdn/blob/master/NUSE) https://github.com/sdnds-tw/awesome-sdn/blob/master/NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
+- [net-next-nuse](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (NUSE) NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
 - [drv-netif-dpdk](https://github.com/rumpkernel/drv-netif-dpdk) - drv-netif-dpdk is a DPDK network interface for rump kernels. The combined result is a userspace TCP/IP stack doing packet I/O via DPDK.
 - [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [nff-go](https://github.com/intel-go/nff-go) - NFF-Go becomes part of DPDK project umbrella under Linux Foundation! Mirror repo can be found here: http://dpdk.org/browse/apps/nff-go/. We will accept patches through DPDK mail-list and standard DPDK contribution process too.
 
 ## Analytics
 - [PNDA](http://pnda.io/) - The scalable, open source big data analytics platform for networks and services.
-- [SNAS](http://www.snas.io/) - Streaming Network Analytics System (https://github.com/sdnds-tw/awesome-sdn/blob/master/project SNAS) is a framework to collect, track and access tens of millions of routing objects (https://github.com/sdnds-tw/awesome-sdn/blob/master/routers, peers, prefixes) in real time.
+- [SNAS](http://www.snas.io/) - Streaming Network Analytics System (project SNAS) is a framework to collect, track and access tens of millions of routing objects (routers, peers, prefixes) in real time.
 - [Apache Spot](http://spot.incubator.apache.org/) - Community-driven cybersecurity project, built from the ground up, to bring advanced analytics to all IT Telemetry data on an open, scalable platform
 
 ## Resources
@@ -197,7 +197,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 - [Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices](https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf)
 - [Network Programmability and Automation Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
-- [SDN网络指南](https://feisky.gitbooks.io/sdn/)(https://github.com/sdnds-tw/awesome-sdn/blob/master/OpenSource Book in Chinese by Pengfei Ni)
+- [SDN网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
 - [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
 - [Software Defined Networking with OpenFlow](https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow)
 

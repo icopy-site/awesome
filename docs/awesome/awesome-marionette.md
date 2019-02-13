@@ -29,7 +29,7 @@
 - [Building Complex Layouts with Marionette.js](http://benmccormick.org/2014/12/22/building-complex-layouts-with-marionette-js/)
 - [The Life of a Marionette View](http://benmccormick.org/2015/01/05/marionette-view-life-cycles/)
 - [Building Modular Web Apps with Backbone.Radio](http://benmccormick.org/2015/01/26/backbone-radio/)
-- [From Backbone.js to Marionette.js (https://github.com/sadcitizen/awesome-marionette/blob/master/Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
+- [From Backbone.js to Marionette.js (Russian)](http://habrahabr.ru/post/207730/) - by Mahnunchik
 - [Marionette.js Behaviors, Part 1: The Basics](https://spin.atomicobject.com/2014/09/11/marionette-behaviors-overview/)
 - [Marionette.js Behaviors, Part 2: Testing Behaviors](https://spin.atomicobject.com/2014/09/12/testing-marionette-js-behaviors/)
 - [Things I Learned from Building a Large Scale Backbone + Marionette Application](http://authenticff.com/journal/building-large-scale-backbone-marionette-applications) by Ian Williams
@@ -39,7 +39,7 @@
 - [Handling Forms with Marionette.js](http://spin.atomicobject.com/2013/11/25/forms-marionette-js-backbone/) by Al Scott
 - [Nested Views in Backbone.Marionette](http://blog.mojotech.com/nested-views-in-backbone-marionette/) by Sam Saccone
 - [DRY up Your Views in Backbone Marionette](http://blog.mojotech.com/dry-up-your-views-in-backbone-marionette/) by Sam Saccone
-- [Strengthening Our Backbone with Marionette (https://github.com/sadcitizen/awesome-marionette/blob/master/Part I)](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
+- [Strengthening Our Backbone with Marionette (Part I)](http://tech.kinja.com/strengthening-our-backbone-with-marionette-part-i-1583630931)
 - [Tutorial: Nested Views Using Backbone Marionette's CompositeView](http://davidsulc.com/blog/2013/02/03/tutorial-nested-views-using-backbone-marionettes-compositeview/) bu David Sulc
 - [Components with Backbone.js and Marionette.js](http://blog.jeremyfairbank.com/javascript/components-with-backbone-js-and-marionette-js/) by Jeremy Fairbank
 - [Managing Layouts and Nested Views with Backbone.Marionette](http://lostechies.com/derickbailey/2012/03/22/managing-layouts-and-nested-views-with-backbone-marionette/) by Derick Bailey

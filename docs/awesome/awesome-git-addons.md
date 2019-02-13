@@ -7,7 +7,7 @@ $ git bla
 Something awesome happens!
 ```
 
-> _“You don’t have to know everything. You simply need to know where to find it when necessary.” (https://github.com/stevemao/awesome-git-addons/blob/master/John Brunner)_
+> _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -126,16 +126,16 @@ $ git changelog
 
 - add babel support
 - add transpiler fallback support
-- add support for some renamed transpilers (https://github.com/stevemao/awesome-git-addons/blob/master/livescript, etc)
+- add support for some renamed transpilers (livescript, etc)
 - add JSCS
-- update dependecies (https://github.com/stevemao/awesome-git-addons/blob/master/liftoff, interpret)
+- update dependecies (liftoff, interpret)
 - documentation tweaks
 
 ## 3.8.11
 
 - fix node 0.12/iojs problems
 - add node 0.12 and iojs to travis
-- update dependencies (https://github.com/stevemao/awesome-git-addons/blob/master/liftoff, v8flags)
+- update dependencies (liftoff, v8flags)
 - documentation tweaks
 ```
 
@@ -158,7 +158,7 @@ total 855
 
 ```
 $ git create-branch development
-Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/tj/git-extras.git
  * [new branch]      HEAD -> development
 Branch development set up to track remote branch development from origin.
@@ -169,8 +169,8 @@ Switched to a new branch 'development'
 
 ```
 $ git delete-branch integration
-Deleted branch integration (https://github.com/stevemao/awesome-git-addons/blob/master/was bfb8522).
-Deleted remote-tracking branch remote/integration (https://github.com/stevemao/awesome-git-addons/blob/master/was bfb8522).
+Deleted branch integration (was bfb8522).
+Deleted remote-tracking branch remote/integration (was bfb8522).
 To git@github.com:remote/gulp.git
  - [deleted]         integration
 ```
@@ -185,7 +185,7 @@ $ git delete-submodule lib/foo
 
 ```
 $ git delete-tag v0.1.1
-Deleted tag 'v0.1.1' (https://github.com/stevemao/awesome-git-addons/blob/master/was 9fde751)
+Deleted tag 'v0.1.1' (was 9fde751)
 To https://github.com/tj/git-extras.git
  - [deleted]         v0.1.1
 ```
@@ -194,9 +194,9 @@ To https://github.com/tj/git-extras.git
 
 ```
 $ git delete-merged-branches
-Deleted feature/themes (https://github.com/stevemao/awesome-git-addons/blob/master/was c029ab3).
-Deleted feature/live_preview (https://github.com/stevemao/awesome-git-addons/blob/master/was a81b002).
-Deleted feature/dashboard (https://github.com/stevemao/awesome-git-addons/blob/master/was 923befa).
+Deleted feature/themes (was c029ab3).
+Deleted feature/live_preview (was a81b002).
+Deleted feature/dashboard (was 923befa).
 ```
 
 ### fresh-branch
@@ -212,8 +212,8 @@ Removing .gitignore
 
 ```
 $ git guilt `git log --until="3 weeks ago" --format="%H" -n 1` HEAD
-Paul Schreiber                +++++++++++++++++++++++++++++++++++++++++++++(https://github.com/stevemao/awesome-git-addons/blob/master/349)
-spacewander                   +++++++++++++++++++++++++++++++++++++++++++++(https://github.com/stevemao/awesome-git-addons/blob/master/113)
+Paul Schreiber                +++++++++++++++++++++++++++++++++++++++++++++(349)
+spacewander                   +++++++++++++++++++++++++++++++++++++++++++++(113)
 Mark Eissler                  ++++++++++++++++++++++++++
 ```
 
@@ -239,7 +239,7 @@ Your branch is up-to-date with 'origin/master'.
 Merge made by the 'recursive' strategy.
  package.json | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-Deleted branch development (https://github.com/stevemao/awesome-git-addons/blob/master/was 64b3563).
+Deleted branch development (was 64b3563).
 ```
 
 ### alias
@@ -266,8 +266,8 @@ $ git info
 
     ## Remote URLs:
 
-    origin              git@github.com:sampleAuthor/git-extras.git (https://github.com/stevemao/awesome-git-addons/blob/master/fetch)
-    origin              git@github.com:sampleAuthor/git-extras.git (https://github.com/stevemao/awesome-git-addons/blob/master/push)
+    origin              git@github.com:sampleAuthor/git-extras.git (fetch)
+    origin              git@github.com:sampleAuthor/git-extras.git (push)
 
     ## Remote Branches:
 
@@ -288,7 +288,7 @@ $ git info
 
     Type 'git log' for more commits, or 'git show <commit id>' for full commit details.
 
-    ## Configuration (https://github.com/stevemao/awesome-git-addons/blob/master/.git/config):
+    ## Configuration (.git/config):
 
     color.diff=auto
     color.status=auto
@@ -308,12 +308,12 @@ $ git release 0.1.0
 On branch development
 Your branch is up-to-date with 'origin/development'.
 nothing to commit, working directory clean
-Total 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 0 (delta 0), reused 0 (delta 0)
 To https://github.com/tj/git-extras.git
    9fde751..e62edfa  master -> master
 Counting objects: 1, done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/1/1), 166 bytes | 0 bytes/s, done.
-Total 1 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Writing objects: 100% (1/1), 166 bytes | 0 bytes/s, done.
+Total 1 (delta 0), reused 0 (delta 0)
 To https://github.com/tj/git-extras.git
  * [new tag]         0.1.0 -> 0.1.0
 ... complete
@@ -323,7 +323,7 @@ To https://github.com/tj/git-extras.git
 
 ```
 $ git contrib visionmedia
-visionmedia (https://github.com/stevemao/awesome-git-addons/blob/master/18):
+visionmedia (18):
   Export STATUS_CODES
   Replaced several Array.prototype.slice.call() calls with Array.prototype.unshift.call()
   Moved help msg to node-repl
@@ -365,7 +365,7 @@ $ git scp staging HEAD
 ```
 $ git setup
 Initialized empty Git repository in /GitHub/test/gulp/.git/
-[master (https://github.com/stevemao/awesome-git-addons/blob/master/root-commit) 9469797] Initial commit
+[master (root-commit) 9469797] Initial commit
  69 files changed, 3900 insertions(+)
  create mode 100644 .editorconfig
  create mode 100644 .gitignore
@@ -382,9 +382,9 @@ $ git touch index.js
 
 ```
 $ git obliterate secrets.json
-Rewrite 2357a4334051a6d1733037406ab7538255030d0b (https://github.com/stevemao/awesome-git-addons/blob/master/1/981)rm 'secrets.json'
-Rewrite b5f62b2746c23150917d346bd0c50c467f01eb03 (https://github.com/stevemao/awesome-git-addons/blob/master/2/981)rm 'secrets.json'
-Rewrite 3cd94f3395c2701848f6ff626a0a4f883d8a8433 (https://github.com/stevemao/awesome-git-addons/blob/master/3/981)rm 'secrets.json'
+Rewrite 2357a4334051a6d1733037406ab7538255030d0b (1/981)rm 'secrets.json'
+Rewrite b5f62b2746c23150917d346bd0c50c467f01eb03 (2/981)rm 'secrets.json'
+Rewrite 3cd94f3395c2701848f6ff626a0a4f883d8a8433 (3/981)rm 'secrets.json'
 ```
 
 ### feature|refactor|bug|chore
@@ -393,8 +393,8 @@ Rewrite 3cd94f3395c2701848f6ff626a0a4f883d8a8433 (https://github.com/stevemao/aw
 $ git feature dependencies
 $ git feature finish dependencies
 Already up-to-date.
-Deleted branch feature/dependencies (https://github.com/stevemao/awesome-git-addons/blob/master/was f0fc4c7).
-Deleted remote-tracking branch origin/feature/dependencies (https://github.com/stevemao/awesome-git-addons/blob/master/was f0fc4c7).
+Deleted branch feature/dependencies (was f0fc4c7).
+Deleted remote-tracking branch origin/feature/dependencies (was f0fc4c7).
 To git@github.com:stevemao/gulp.git
  - [deleted]         feature/dependencies
 ```
@@ -426,7 +426,7 @@ Date:   Thu Aug 20 11:55:38 2015 -0400
 ```
 $ git archive-file
 Building archive on branch "master"
-Saved to "gulp.v3.9.0-36-g47cb6b0.zip" (https://github.com/stevemao/awesome-git-addons/blob/master/ 60K)
+Saved to "gulp.v3.9.0-36-g47cb6b0.zip" ( 60K)
 ```
 
 ### missing
@@ -493,10 +493,10 @@ $ git merge-repo git@github.com:tj/git-extras.git master .
 git fetch git@github.com:tj/git-extras.git master
 warning: no common commits
 remote: Counting objects: 3507, done.
-remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/5/5), done.
-remote: Total 3507 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 1), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), pack-reused 3502
-Receiving objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3507/3507), 821.12 KiB | 286.00 KiB/s, done.
-Resolving deltas: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/1986/1986), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 3507 (delta 1), reused 0 (delta 0), pack-reused 3502
+Receiving objects: 100% (3507/3507), 821.12 KiB | 286.00 KiB/s, done.
+Resolving deltas: 100% (1986/1986), done.
 From github.com:tj/git-extras
  * branch            master     -> FETCH_HEAD
 Added dir 'git-merge-repo.E95m0gj'
@@ -512,7 +512,7 @@ $ git psykorebase master feature
 ```
 
 
-## [gitflow (https://github.com/stevemao/awesome-git-addons/blob/master/AVH Edition)](https://github.com/petervanderdoes/gitflow-avh)
+## [gitflow (AVH Edition)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
 
@@ -820,7 +820,7 @@ Attempting automerge of 10-27...success.
 Attempting automerge of 10-42...failure.
 Attempting automerge of 10-34...failure.
 Attempting automerge of 10-30...success.
-Recording autofilled block MergeState(https://github.com/stevemao/awesome-git-addons/blob/master/'next', tip1='master', tip2='4.0', goal='merge')[18:20,34:58].
+Recording autofilled block MergeState('next', tip1='master', tip2='4.0', goal='merge')[18:20,34:58].
 Merge is complete!
 ```
 
@@ -830,7 +830,7 @@ Merge is complete!
 $ git imerge finish
 Previous HEAD position was fcbe161... imerge 'next': automatic merge 19-57
 Switched to branch 'next'
-[next 23362e6] Merge 4.0 into master (https://github.com/stevemao/awesome-git-addons/blob/master/using imerge)
+[next 23362e6] Merge 4.0 into master (using imerge)
  Date: Wed Sep 2 10:59:56 2015 +1000
 ```
 
@@ -884,7 +884,7 @@ Attempting automerge of 1-44...success.
 $ git imerge simplify
 Previous HEAD position was 4d19598... imerge 'next': automatic merge 20-57
 Switched to branch 'next'
-[next 6c308aa] Merge 4.0 into master (https://github.com/stevemao/awesome-git-addons/blob/master/using imerge)
+[next 6c308aa] Merge 4.0 into master (using imerge)
  Date: Wed Sep 2 13:37:31 2015 +1000
 ```
 
@@ -913,7 +913,7 @@ $ git issue new -s 'New issue entered from the command line'
 Added issue e6a95c9
 ```
 
-### Create a new issue (https://github.com/stevemao/awesome-git-addons/blob/master/opens editor window)
+### Create a new issue (opens editor window)
 
 ```
 $ git issue new
@@ -928,7 +928,7 @@ $ git issue list
 e6a95c9 New issue entered from the command line
 ```
 
-### Add an issue comment (https://github.com/stevemao/awesome-git-addons/blob/master/opens editor window)
+### Add an issue comment (opens editor window)
 
 ```
 $ git issue comment e6a95c9
@@ -984,9 +984,9 @@ e6a95c9 New issue entered from the command line
 $ git issue git remote add origin git@github.com:dspinellis/gi-example.git
 $ git issue git push -u origin master
 Counting objects: 60, done.
-Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/50/50), done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/60/60), 5.35 KiB | 0 bytes/s, done.
-Total 60 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Compressing objects: 100% (50/50), done.
+Writing objects: 100% (60/60), 5.35 KiB | 0 bytes/s, done.
+Total 60 (delta 8), reused 0 (delta 0)
 To git@github.com:dspinellis/gi-example.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
@@ -998,10 +998,10 @@ Branch master set up to track remote branch master from origin.
 $ git issue clone git@github.com:dspinellis/gi-example.git my-issues
 Cloning into '.issues'...
 remote: Counting objects: 60, done.
-remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/42/42), done.
-remote: Total 60 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), reused 60 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), pack-reused 0
-Receiving objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/60/60), 5.35 KiB | 0 bytes/s, done.
-Resolving deltas: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/8/8), done.
+remote: Compressing objects: 100% (42/42), done.
+remote: Total 60 (delta 8), reused 60 (delta 8), pack-reused 0
+Receiving objects: 100% (60/60), 5.35 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (8/8), done.
 Checking connectivity... done.
 Cloned git@github.com:dspinellis/gi-example.git into my-issues
 ```
@@ -1026,9 +1026,9 @@ Added issue abc9adc
 ```
 $ git issue push
 Counting objects: 7, done.
-Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/6/6), done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/7/7), 767 bytes | 0 bytes/s, done.
-Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 767 bytes | 0 bytes/s, done.
+Total 7 (delta 0), reused 0 (delta 0)
 To git@github.com:dspinellis/gi-example.git
    d6be890..740f9a0  master -> master
 ```
@@ -1067,14 +1067,14 @@ Date:   Fri, 29 Jan 2016 01:03:57 +0200
     First comment regarding the issue.
 ```
 
-### Pull in remote changes (https://github.com/stevemao/awesome-git-addons/blob/master/on the original host)
+### Pull in remote changes (on the original host)
 
 ```
 $ git issue pull
 remote: Counting objects: 7, done.
-remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/6/6), done.
-remote: Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), pack-reused 0
-Unpacking objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/7/7), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 7 (delta 0), reused 7 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
 From github.com:dspinellis/gi-example
    d6be890..740f9a0  master     -> origin/master
 Updating d6be890..740f9a0
@@ -1123,15 +1123,15 @@ Tracking *.zip
 
 $ git lfs track
 Listing tracked paths
-    *.mp3 (https://github.com/stevemao/awesome-git-addons/blob/master/.gitattributes)
-    *.zip (https://github.com/stevemao/awesome-git-addons/blob/master/.gitattributes)
+    *.mp3 (.gitattributes)
+    *.zip (.gitattributes)
 
 $ git lfs untrack "*.zip"
 Untracking *.zip
 
 $ git lfs track
 Listing tracked paths
-    *.mp3 (https://github.com/stevemao/awesome-git-addons/blob/master/.gitattributes)
+    *.mp3 (.gitattributes)
 ```
 
 
@@ -1194,7 +1194,7 @@ Error retrieving log 657213a52d5e9c19b85df6a42f76341a98c08ae8..HEAD
 
 ```
 $ git old-branches -d 10
-Branch 4.0 is older than 10 days (https://github.com/stevemao/awesome-git-addons/blob/master/139.86)!
+Branch 4.0 is older than 10 days (139.86)!
 ```
 
 ### recent
@@ -1212,7 +1212,7 @@ $ git recent
 $ git test -v
 4.0 ^origin/4.0 ^origin/master will test        2 commits
 iter commit  tree    result
-0000 57af4b0 f5ef0d8 pass (https://github.com/stevemao/awesome-git-addons/blob/master/cached)
+0000 57af4b0 f5ef0d8 pass (cached)
 0001 10ed389 434370f pass
 ```
 
@@ -1223,11 +1223,11 @@ iter commit  tree    result
 
 ```
 $ git branches
-   4.0                        (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-   development                (https://github.com/stevemao/awesome-git-addons/blob/master/unpublished)
-   everything-is-not-awesome  (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-*  master                     (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-   old-master                 (https://github.com/stevemao/awesome-git-addons/blob/master/published)
+   4.0                        (published)
+   development                (unpublished)
+   everything-is-not-awesome  (published)
+*  master                     (published)
+   old-master                 (published)
 ```
 
 ### sync
@@ -1246,12 +1246,12 @@ Pushing commits to the server.
 $ git resync
 Switching to master.
 Your branch is ahead of 'origin/master' by 10 commits.
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git push" to publish your local commits)
+  (use "git push" to publish your local commits)
 Pulling commits from the server.
 Already up-to-date.
 Switching to master.
 Your branch is ahead of 'origin/master' by 10 commits.
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git push" to publish your local commits)
+  (use "git push" to publish your local commits)
 Grafting commits from master.
 Already up-to-date.
 Pulling commits from the server.
@@ -1272,13 +1272,13 @@ Restoring local changes.
 On branch master
 Your branch is up-to-date with 'origin/master'.
 Changes not staged for commit:
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git add <file>..." to update what will be committed)
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git checkout -- <file>..." to discard changes in working directory)
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   package.json
 
-no changes added to commit (https://github.com/stevemao/awesome-git-addons/blob/master/use "git add" and/or "git commit -a")
-Dropped stash@{0} (https://github.com/stevemao/awesome-git-addons/blob/master/86f5dc9066ff9f69c01c77e2f5a55643ad19f8f2)
+no changes added to commit (use "git add" and/or "git commit -a")
+Dropped stash@{0} (86f5dc9066ff9f69c01c77e2f5a55643ad19f8f2)
 ```
 
 ### sprout
@@ -1300,9 +1300,9 @@ Fast-forward
 Restoring local changes.
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git push" to publish your local commits)
+  (use "git push" to publish your local commits)
 nothing to commit, working directory clean
-Dropped stash@{0} (https://github.com/stevemao/awesome-git-addons/blob/master/7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f)
+Dropped stash@{0} (7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f)
 ```
 
 ### graft
@@ -1311,23 +1311,23 @@ Dropped stash@{0} (https://github.com/stevemao/awesome-git-addons/blob/master/7c
 $ git graft development
 Switching to master.
 Your branch is ahead of 'origin/master' by 2 commits.
-  (https://github.com/stevemao/awesome-git-addons/blob/master/use "git push" to publish your local commits)
+  (use "git push" to publish your local commits)
 Grafting development into master.
 Merge made by the 'recursive' strategy.
  feature | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 feature
-Deleted branch development (https://github.com/stevemao/awesome-git-addons/blob/master/was 6a022ba).
+Deleted branch development (was 6a022ba).
 ```
 
 ### publish
 
 ```
 $ git publish
-   4.0                        (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-   changelog                  (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-   everything-is-not-awesome  (https://github.com/stevemao/awesome-git-addons/blob/master/published)
-*  master                     (https://github.com/stevemao/awesome-git-addons/blob/master/unpublished)
+   4.0                        (published)
+   changelog                  (published)
+   everything-is-not-awesome  (published)
+*  master                     (unpublished)
 Branch None not found, using current branch master
 Publishing master.
 Branch master set up to track remote branch master from origin.
@@ -1431,11 +1431,11 @@ $ git recursive-blame version package.json
 
 Commit: 247479d017f138c26be27c64a0ce27f5f21fc0af
 Author: Jeff Cross <middlefloor@gmail.com>
-Date:   Tue Oct 13 15:58:13 2015 -0700 (https://github.com/stevemao/awesome-git-addons/blob/master/7 weeks ago)
+Date:   Tue Oct 13 15:58:13 2015 -0700 (7 weeks ago)
 Path:   package.json
 Match:  1 of 1
 
-    chore(https://github.com/stevemao/awesome-git-addons/blob/master/release): bump angular version to alpha.42
+    chore(release): bump angular version to alpha.42
 
 1) {
 2)   "name": "angular",
@@ -1449,11 +1449,11 @@ Next action [r,n,p,c,d,q,?]? r
 
 Commit: bb9d299b3860f6d579192828451ccd7ace70e1d8
 Author: Igor Minar <igor@angularjs.org>
-Date:   Tue Oct 13 12:28:03 2015 -0700 (https://github.com/stevemao/awesome-git-addons/blob/master/7 weeks ago)
+Date:   Tue Oct 13 12:28:03 2015 -0700 (7 weeks ago)
 Path:   package.json
 Match:  1 of 1
 
-    chore(https://github.com/stevemao/awesome-git-addons/blob/master/release): bump angular version to alpha.41
+    chore(release): bump angular version to alpha.41
 
 1) {
 2)   "name": "angular",
@@ -1473,8 +1473,8 @@ Switched to a new branch 'fire-master-maochenyan@gmail.com-1451379915'
 On branch fire-master-maochenyan@gmail.com-1451379915
 nothing to commit, working directory clean
 Counting objects: 2, done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/2/2), 168 bytes | 0 bytes/s, done.
-Total 2 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Writing objects: 100% (2/2), 168 bytes | 0 bytes/s, done.
+Total 2 (delta 0), reused 0 (delta 0)
 To git@bitbucket.org:maochenyan/fire.git
  * [new branch]      fire-master-maochenyan@gmail.com-1451379915 -> fire-master-maochenyan@gmail.com-1451379915
 Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch fire-master-maochenyan@gmail.com-1451379915 from origin.
@@ -1556,10 +1556,10 @@ $ git secret reveal
 
 You need a passphrase to unlock the secret key for
 user: "Test User <my@email.com>"
-2048-bit RSA key, ID #######, created 2015-01-01 (https://github.com/stevemao/awesome-git-addons/blob/master/main key ID #######)
+2048-bit RSA key, ID #######, created 2015-01-01 (main key ID #######)
 
 gpg: gpg-agent is not available in this session
-File `hideme.txt' exists. Overwrite? (https://github.com/stevemao/awesome-git-addons/blob/master/y/N) y
+File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
@@ -1680,7 +1680,7 @@ TBD
 
 ```
 $ git recall
-## By default (https://github.com/stevemao/awesome-git-addons/blob/master/without options), the command will display commits from yesterday and
+## By default (without options), the command will display commits from yesterday and
 ## for the current user.
 
 $ git recall -d 5 -a "Doge"
@@ -1698,15 +1698,15 @@ $ git recall -f
 
 ```
 $ git standup
-2f50b39c - docs(https://github.com/stevemao/awesome-git-addons/blob/master/commit messages): use commitizen to generate Conventional Commits (https://github.com/stevemao/awesome-git-addons/blob/master/12 hours ago) <Steve Mao>
-9af3600e - fix tests (https://github.com/stevemao/awesome-git-addons/blob/master/12 hours ago) <Steve Mao>
-7f17ba97 - docs: title case (https://github.com/stevemao/awesome-git-addons/blob/master/12 hours ago) <Steve Mao>
-a6d6203c - do not scroll when search is open (https://github.com/stevemao/awesome-git-addons/blob/master/12 hours ago) <Steve Mao>
-53fe681a - chore(https://github.com/stevemao/awesome-git-addons/blob/master/pkg): add repo url (https://github.com/stevemao/awesome-git-addons/blob/master/12 hours ago) <Steve Mao>
-5e952ac0 - subtitle should be generic (https://github.com/stevemao/awesome-git-addons/blob/master/13 hours ago) <Steve Mao>
-adbc5423 - add ci/cd to readme. (https://github.com/stevemao/awesome-git-addons/blob/master/13 hours ago) <Steve Mao>
-a1097116 - add versioning to readme (https://github.com/stevemao/awesome-git-addons/blob/master/14 hours ago) <Steve Mao>
-6b6e7465 - add test coverage (https://github.com/stevemao/awesome-git-addons/blob/master/15 hours ago) <Steve Mao>
+2f50b39c - docs(commit messages): use commitizen to generate Conventional Commits (12 hours ago) <Steve Mao>
+9af3600e - fix tests (12 hours ago) <Steve Mao>
+7f17ba97 - docs: title case (12 hours ago) <Steve Mao>
+a6d6203c - do not scroll when search is open (12 hours ago) <Steve Mao>
+53fe681a - chore(pkg): add repo url (12 hours ago) <Steve Mao>
+5e952ac0 - subtitle should be generic (13 hours ago) <Steve Mao>
+adbc5423 - add ci/cd to readme. (13 hours ago) <Steve Mao>
+a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
+6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
 
@@ -1719,7 +1719,7 @@ cz-cli@2.9.6, cz-conventional-changelog@1.2.0
 
 Line 1 will be cropped at 100 characters. All other lines will be wrapped after 100 characters.
 
-? Select the type of change that you're committing: (https://github.com/stevemao/awesome-git-addons/blob/master/Use arrow keys)
+? Select the type of change that you're committing: (Use arrow keys)
 ❯ feat:     A new feature
   fix:      A bug fix
   docs:     Documentation only changes
@@ -1791,10 +1791,10 @@ Cloning URL https://github.com/zdharma/git-url for revision v1.0
 
 Cloning into 'git-url'...
 remote: Counting objects: 144, done.
-remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/111/111), done.
-remote: Total 144 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 71), reused 102 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 32), pack-reused 0
-Receiving objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/144/144), 116.43 KiB | 125.00 KiB/s, done.
-Resolving deltas: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/71/71), done.
+remote: Compressing objects: 100% (111/111), done.
+remote: Total 144 (delta 71), reused 102 (delta 32), pack-reused 0
+Receiving objects: 100% (144/144), 116.43 KiB | 125.00 KiB/s, done.
+Resolving deltas: 100% (71/71), done.
 
 Checking out revision/reference v1.0... OK
 HEAD is at: 5d10a204, created directory git-url
@@ -1807,16 +1807,16 @@ HEAD is at: 5d10a204, created directory git-url
 
 ```
 $ git signatures add --push v1.0.0
-Updated tag 'v1.0.0' (https://github.com/stevemao/awesome-git-addons/blob/master/was 4de5afd)
+Updated tag 'v1.0.0' (was 4de5afd)
 Enumerating objects: 4, done.
-Counting objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/4/4), done.
+Counting objects: 100% (4/4), done.
 Delta compression using up to 8 threads
-Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), 906 bytes | 906.00 KiB/s, done.
-Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 1), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 906 bytes | 906.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
 To git@github.com:jsmith/test-signatures
    4b5300d..5b1f2cd  refs/notes/signatures -> refs/notes/signatures
- + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (https://github.com/stevemao/awesome-git-addons/blob/master/forced update)
+ + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (forced update)
 ```
 
 

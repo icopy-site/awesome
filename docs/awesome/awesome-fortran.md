@@ -33,9 +33,9 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [DISLIN](http://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](http://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
-* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (https://github.com/rabbiabram/awesome-fortran/blob/master/GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (https://github.com/rabbiabram/awesome-fortran/blob/master/2003+) library to write and read data conforming the VTK standard.
+* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ## Math Libs
 *Libraries for calculating and other mathematical operations.*
@@ -78,17 +78,17 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Encoding-Decoding
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (https://github.com/rabbiabram/awesome-fortran/blob/master/2003+) Fortran projects.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 *Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) - Pure Fortran (https://github.com/rabbiabram/awesome-fortran/blob/master/2003+) library for ensuring codes portability.
+* [PENF](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (https://github.com/rabbiabram/awesome-fortran/blob/master/CLI) for modern (https://github.com/rabbiabram/awesome-fortran/blob/master/2003+) Fortran projects.
+* [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
 * [options.f90](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
 
 ## Compiling and building
@@ -99,7 +99,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Preprocessor
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
 
-* [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (https://github.com/rabbiabram/awesome-fortran/blob/master/or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
+* [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
 * [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
 
 ## Automatic documentation

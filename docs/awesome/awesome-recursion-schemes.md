@@ -33,7 +33,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Articles
 
-- [Recursion Schemes: A Field Guide (https://github.com/passy/awesome-recursion-schemes/blob/master/Redux)](http://comonad.com/reader/2009/recursion-schemes/) -
+- [Recursion Schemes: A Field Guide (Redux)](http://comonad.com/reader/2009/recursion-schemes/) -
   List of various recursion schemes with code samples.
 - [Catamorphisms](https://wiki.haskell.org/Catamorphisms) - Definition on the Haskell Wiki.
 - [Catamorphisms](https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms) -
@@ -44,7 +44,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) - Exploring histo and futu by example by Jared Tobin.
 - [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/) - Practical article about histomorphism and the futumorphism.
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
-- [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (https://github.com/passy/awesome-recursion-schemes/blob/master/in Java).
+- [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 
 ### Hylomorphisms in the Wild
 

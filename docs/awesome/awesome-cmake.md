@@ -4,7 +4,7 @@
 
 > A curated list of awesome [CMake](https://cmake.org/) scripts, modules, examples and others
 
-Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/blob/master/first see [CONTRIBUTING.md](CONTRIBUTING.md)).
+Your contributions are highly welcome (first see [https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md](https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md)).
 
 ## Contents
 
@@ -37,7 +37,7 @@ Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/b
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
 * [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) - Ultimate Guide to Modern CMake.
-* [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (https://github.com/onqtam/awesome-cmake/blob/master/from 2013 but still relevant).
+* [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) - How to Build a CMake-Based Project.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) - Learn CMake's Scripting Language in 15 Minutes.
 * [Article](http://aosabook.org/en/cmake.html) - The architecture of CMake.
@@ -46,8 +46,8 @@ Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/b
 * [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
 * [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - Embracing Modern CMake - by Stephen Kelly.
 * [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) - Modern CMake for Modular Design - by Mathieu Ropert, CppCon 2017.
-* [Article](https://juan-medina.com/2017/07/01/moderncppci/) - Modern C++ CI (https://github.com/onqtam/awesome-cmake/blob/master/although it uses non-modern CMake like ```include_directories()```).
-* [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - It's Time To Do CMake Right (https://github.com/onqtam/awesome-cmake/blob/master/one of the best articles about CMake).
+* [Article](https://juan-medina.com/2017/07/01/moderncppci/) - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```).
+* [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - It's Time To Do CMake Right (one of the best articles about CMake).
 * Articles - A series on CMake - by Martin Hořeňovský
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
@@ -55,20 +55,20 @@ Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/b
 * [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - Some nice and accurate CMake tips.
 * [Article](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/) - Modern CMake for Library Developers.
 * [Article](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1) - Effective Modern CMake: a great summary of most good practices - by Manuel Binna.
-* [Book](https://crascit.com/professional-cmake/) - Professional CMake: A Practical Guide (https://github.com/onqtam/awesome-cmake/blob/master/paid).
-* [Book](https://leanpub.com/effective-cmake) - Effective CMake: Practical Advice to Write Better CMake (https://github.com/onqtam/awesome-cmake/blob/master/not fully written yet).
+* [Book](https://crascit.com/professional-cmake/) - Professional CMake: A Practical Guide (paid).
+* [Book](https://leanpub.com/effective-cmake) - Effective CMake: Practical Advice to Write Better CMake (not fully written yet).
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [```[CC0-1.0]```][CC0-1.0]
 
 ## Package Management / Build Systems
 
-* [hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (https://github.com/onqtam/awesome-cmake/blob/master/based on CMake ExternalProject). [```[BSD2]```][BSD-2-Clause]
+* [hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (based on CMake ExternalProject). [```[BSD2]```][BSD-2-Clause]
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval. This can be used to download and install CMake packages. [```[BOOST]```][BOOST]
 * [cppan](https://cppan.org/) - C++ Archive Network - C++ Package Manager based on CMake, implemented in C++14. [```[APACHE2]```][APACHE2]
 * [cpm](https://github.com/iauns/cpm) - C++ Package Manager based on CMake and Git. [```[MIT]```][MIT]
 * [conan](https://github.com/conan-io/conan) - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. [```[MIT]```][MIT]
 * [fips](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [```[MIT]```][MIT]
-* [Ninja](https://github.com/ninja-build/ninja) - Build system that differs from others in two major respects: it is designed to have its input files generated by a higher-level build system (https://github.com/onqtam/awesome-cmake/blob/master/like CMake), and it is designed to run builds as fast as possible. [```[APACHE2]```][APACHE2]
+* [Ninja](https://github.com/ninja-build/ninja) - Build system that differs from others in two major respects: it is designed to have its input files generated by a higher-level build system (like CMake), and it is designed to run builds as fast as possible. [```[APACHE2]```][APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg) - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. [```[MIT]```][MIT]
 * [pmm](https://github.com/vector-of-bool/pmm) - PMM is a module for CMake that manages... package managers. [```[MIT]```][MIT]
 
@@ -83,7 +83,7 @@ Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/b
 * [cgcmake](https://github.com/chadmv/cgcmake) - CMake modules for common applications related to computer graphics. [```[MIT]```][MIT]
 * [FindMathematica](https://github.com/sakra/FindMathematica) - CMake module for Mathematica. [```[MIT]```][MIT]
 * [extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE)'s extra modules and scripts for CMake. [```[BSD3]```][BSD-3-Clause]
-* [Findhttps://github.com/onqtam/awesome-cmake/blob/master/ICU.cmake](https://github.com/julp/Findhttps://github.com/onqtam/awesome-cmake/blob/master/ICU.cmake) - CMake module to find International Components for Unicode (https://github.com/onqtam/awesome-cmake/blob/master/ICU) Library. [```[BSD2]```][BSD-2-Clause]
+* [FindICU.cmake](https://github.com/julp/FindICU.cmake) - CMake module to find International Components for Unicode (ICU) Library. [```[BSD2]```][BSD-2-Clause]
 * [FindTBB](https://github.com/justusc/FindTBB) - CMake find module for Intel Threading Building Blocks. [```[MIT]```][MIT]
 * [FindWiX](https://github.com/apriorit/FindWiX) - CMake module for building [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) packages with [WiX toolset](http://wixtoolset.org). [```[BSD3]```][BSD-3-Clause]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)'s CMake module collection. [```[MIT]```][MIT]
@@ -94,7 +94,7 @@ Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/b
 
 These provide a wide range of functionality - from dealing with compiler flags to using tools. Some also contain modules.
 
-* [cotire](https://github.com/sakra/cotire) - Cotire (https://github.com/onqtam/awesome-cmake/blob/master/compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [```[MIT]```][MIT]
+* [cotire](https://github.com/sakra/cotire) - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [```[MIT]```][MIT]
 * [ucm](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
 * [cmakepp](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [```[MIT]```][MIT]
 * [sugar](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [```[BSD2]```][BSD-2-Clause]
@@ -137,8 +137,8 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake_test](https://github.com/skebanga/cmake_test) - Small example project using CMake. ```[NO LICENSE]```
 * [android-cmake](https://github.com/forexample/android-cmake) - Examples of using [ruslo/hunter](https://github.com/ruslo/hunter) package manager for an Android application. [```[BSD2]```][BSD-2-Clause]
 * [hunter-simple](https://github.com/forexample/hunter-simple) - Example of downloading/installing dependencies using [ruslo/hunter](https://github.com/ruslo/hunter) package manager. [```[BSD2]```][BSD-2-Clause]
-* [weather](https://github.com/ruslo/weather) - Example of using [Hunter](http://github.com/ruslo/hunter) cross-platform package manager for CMake to build application which use Boost, CppNetlib.URI, GTest, JSON Spirit. Platforms: Windows (https://github.com/onqtam/awesome-cmake/blob/master/Visual Studio), Linux, Mac OS X + iOS. [```[BSD2]```][BSD-2-Clause]
-* [package-example](https://github.com/forexample/package-example) - Config mode of find_package (https://github.com/onqtam/awesome-cmake/blob/master/examples for [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an) Stack Overflow question). ```[NO LICENSE]```
+* [weather](https://github.com/ruslo/weather) - Example of using [Hunter](http://github.com/ruslo/hunter) cross-platform package manager for CMake to build application which use Boost, CppNetlib.URI, GTest, JSON Spirit. Platforms: Windows (Visual Studio), Linux, Mac OS X + iOS. [```[BSD2]```][BSD-2-Clause]
+* [package-example](https://github.com/forexample/package-example) - Config mode of find_package (examples for [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an) Stack Overflow question). ```[NO LICENSE]```
 * [CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates) - Set of initial CMake templates that I use for every game port I work on. ```[NO LICENSE]```
 * [minimal_cmake_example](https://github.com/krux02/minimal_cmake_example) - Minimal CMake example, that covers dependencies and packaging. [```[CC0-1.0]```][CC0-1.0]
 * [cmake-example](https://github.com/bast/cmake-example) - Example project which demonstrates various CMake features. [```[BSD3]```][BSD-3-Clause]
@@ -158,11 +158,11 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [```[MIT]```][MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++. [```[MIT]```][MIT]
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [```[MIT]```][MIT]
-* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (https://github.com/onqtam/awesome-cmake/blob/master/although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
+* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. ```[NO LICENSE]```
-* [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (https://github.com/onqtam/awesome-cmake/blob/master/Windows) with Cmake. ```[NO LICENSE]```
+* [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. ```[NO LICENSE]```
 * [cpp14-project-template](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [```[CC0-1.0]```][CC0-1.0]
-* [cmake_templates](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (https://github.com/onqtam/awesome-cmake/blob/master/including conan). ```[NO LICENSE]```
+* [cmake_templates](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). ```[NO LICENSE]```
 * [cmake_snippets](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [```[BSD3]```][BSD-3-Clause]
 * [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [```[MIT]```][MIT]
 * [cpp-template](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. ```[NO LICENSE]```
@@ -178,9 +178,9 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [protobuf-cmake](https://github.com/jesperes/protobuf-cmake) - CMake build support for Google Protobufs. [```[BSD3]```][BSD-3-Clause]
 * [node-cmake](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [```[ISC]```][ISC]
 * [cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock) - Advanced syntax coloring support for CMake scripts inside Emacs. [```[GPL]```][GPL]
-* [stm32-cmake](https://github.com/ObKo/stm32-cmake) - Used to develop applications for the STM32 - ST's ARM Cortex-M0(https://github.com/onqtam/awesome-cmake/blob/master/3,4,7) MCUs. [```[MIT]```][MIT]
+* [stm32-cmake](https://github.com/ObKo/stm32-cmake) - Used to develop applications for the STM32 - ST's ARM Cortex-M0(3,4,7) MCUs. [```[MIT]```][MIT]
 * [autovala](https://github.com/rastersoft/autovala) - Program that automatically generates CMake configuration files for your Vala project. [```[GPL]```][GPL]
-* [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (https://github.com/onqtam/awesome-cmake/blob/master/ROS). [```[BSD3]```][BSD-3-Clause]
+* [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [```[BSD3]```][BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows) - CMake scripts for painless usage of SuiteSparse+METIS. [```[BSD3]```][BSD-3-Clause]
 * [cython-cmake-example](https://github.com/thewtex/cython-cmake-example) - Utilities and example for using CMake to build Cython modules. [```[LICENSE]```](https://github.com/thewtex/cython-cmake-example/blob/master/LICENSE)
 * [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. ```[MIXED LICENSE]```
@@ -194,12 +194,12 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-ast](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [```[MIT]```][MIT]
 * [cmake_format](https://github.com/cheshirekow/cmake_format) - Source code formatter for CMakeLists.txt files. [```[GPL]```][GPL]
 * [cmake-checks-cache](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [```[MIT]```][MIT]
-* [cmrc](https://github.com/vector-of-bool/cmrc) - A Resource Compiler in a Single CMake Script (https://github.com/onqtam/awesome-cmake/blob/master/compile arbitrary data into a program). [```[MIT]```][MIT]
-* [cmake_check](https://github.com/DaelDe/cmake_check) - Static analysis (https://github.com/onqtam/awesome-cmake/blob/master/linter) for the CMake language (https://github.com/onqtam/awesome-cmake/blob/master/e.g. to enforce modern CMake rules). [```[MIT]```][MIT]
+* [cmrc](https://github.com/vector-of-bool/cmrc) - A Resource Compiler in a Single CMake Script (compile arbitrary data into a program). [```[MIT]```][MIT]
+* [cmake_check](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [```[MIT]```][MIT]
 
 ## License
 
-This is released under the [**```Creative Commons Attribution 4.0 International```**](http://creativecommons.org/licenses/by/4.0/) License ```(https://github.com/onqtam/awesome-cmake/blob/master/CC BY 4.0)```.
+This is released under the [**```Creative Commons Attribution 4.0 International```**](http://creativecommons.org/licenses/by/4.0/) License ```(CC BY 4.0)```.
 
 [ISC]: https://opensource.org/licenses/ISC
 [GPL]: https://www.gnu.org/licenses/gpl-3.0.html

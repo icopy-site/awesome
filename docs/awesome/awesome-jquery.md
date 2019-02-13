@@ -77,7 +77,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 #### Free Books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (https://github.com/petk/awesome-jquery/blob/master/PDF, .mobi) *(https://github.com/petk/awesome-jquery/blob/master/Registration required)*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 
@@ -150,7 +150,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *WYSIWYG editors.*
 
 * [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (https://github.com/petk/awesome-jquery/blob/master/contentEditable) for jQuery UI.
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 * [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
 * [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
@@ -169,7 +169,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 * [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
-* [Payform](https://github.com/jondavidjohn/payform) - A library (https://github.com/petk/awesome-jquery/blob/master/with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+* [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 * [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select\> box.
@@ -209,7 +209,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Menus animation, usability enhancements and beautification.*
 
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
-* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (https://github.com/petk/awesome-jquery/blob/master/like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
+* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
 * [mmenu](https://github.com/FrDH/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
@@ -223,7 +223,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ### Modals and Popups
 
-*Plugins for modals (https://github.com/petk/awesome-jquery/blob/master/dialog box/popups), tooltips, and similar popup windows.*
+*Plugins for modals (dialog box/popups), tooltips, and similar popup windows.*
 
 * [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
@@ -269,14 +269,14 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins for handling, manipulating or formating time and date.*
 
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
-* [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (https://github.com/petk/awesome-jquery/blob/master/e.g. "4 minutes ago").
+* [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 
 [Back to top](#awesome-jquery)
 
 
 ### Translations
 
-*Internationalization (https://github.com/petk/awesome-jquery/blob/master/i18n) and localization (https://github.com/petk/awesome-jquery/blob/master/l10n).*
+*Internationalization (i18n) and localization (l10n).*
 
 * [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
 * [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
@@ -305,7 +305,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
 * [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
-* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (https://raw.githubusercontent.com/petk/awesome-jquery/master/like Django slugify()).
+* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
 * [autoNumberic](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.

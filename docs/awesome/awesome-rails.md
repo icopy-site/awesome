@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
-> A curated list of awesome things related to Ruby on Rails (https://github.com/ekremkaraca/awesome-rails/blob/master/recent changes were inspired by [awesome-vue](https://github.com/vuejs/awesome-vue))
+> A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue](https://github.com/vuejs/awesome-vue))
 
 ## Table of Contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
@@ -35,7 +35,7 @@
 ### Official Resources
 
 - [Rails Official Website](http://rubyonrails.org)
-- [Rails Official Guide](http://guides.rubyonrails.org) <small>[(https://github.com/ekremkaraca/awesome-rails/blob/master/Edge Guide)](http://edgeguides.rubyonrails.org)</small>
+- [Rails Official Guide](http://guides.rubyonrails.org) <small>[(Edge Guide)](http://edgeguides.rubyonrails.org)</small>
 - [Rails API Documentation](http://api.rubyonrails.org)
 - [Rails Source Code](https://github.com/rails/rails)
 - [Rails Official Blog](http://weblog.rubyonrails.org)
@@ -44,7 +44,7 @@
 
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Ruby on Rails Tutorial Book](https://www.railstutorial.org/book)
-- [Learn Ruby on Rails (https://github.com/ekremkaraca/awesome-rails/blob/master/thoughtbot)](https://https://github.com/ekremkaraca/awesome-rails/blob/master/thoughtbot.com/upcase/rails)
+- [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Rails for Zombies](http://railsforzombies.org/)
 - [RailsCasts](http://railscasts.com)
 - [GoRails](https://gorails.com)
@@ -94,7 +94,7 @@
 - [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
 - [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
-- [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (https://github.com/ekremkaraca/awesome-rails/blob/master/articles, code, web sites, etc). 
+- [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
 - [fairnopoly](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [Live](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
@@ -138,7 +138,7 @@
 - [RapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
 - [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [Live](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
-- [reservations](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (https://github.com/ekremkaraca/awesome-rails/blob/master/allows student reservations) [Live](http://yalestc.github.io/reservations)
+- [reservations](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (allows student reservations) [Live](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles [Live](http://www.rletters.net)
 - [RoRdit](https://github.com/mertbulan/RoRdit) - Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -  The Ruby community's gem hosting service  [Live](https://rubygems.org)
@@ -206,7 +206,7 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (https://github.com/ekremkaraca/awesome-rails/blob/master/μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
 
 #### Generators
 
@@ -222,6 +222,6 @@
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - List of (https://github.com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)

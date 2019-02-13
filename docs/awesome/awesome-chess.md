@@ -29,7 +29,7 @@ Books
 
 FEN Parsers
 ---
-*Forsyth–Edwards Notation (https://github.com/hkirat/awesome-chess/blob/master/FEN) is a standard notation for describing a particular board position of a chess game.*
+*Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
  - [fenparser by tlehman](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
  - [fen by ucarion](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
@@ -59,10 +59,10 @@ Websites
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
  - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
- - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (https://github.com/hkirat/awesome-chess/blob/master/Works similar to Khan Academy.)
+ - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy.)
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
- - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (https://github.com/hkirat/awesome-chess/blob/master/FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
+ - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
 
 Boards
 ---

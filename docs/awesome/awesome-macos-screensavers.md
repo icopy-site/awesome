@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-- [iOS (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/and Apple TV) Inspired](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/#ios-and-apple-tv-inspired)
+- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
 - [Video Game](#video-game)
@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Epoch Flip Clock
 
-> Unix Time (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/epoch) flip clock.
+> Unix Time (epoch) flip clock.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
 
@@ -82,7 +82,7 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
-## iOS (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/and Apple TV) Inspired
+## iOS (and Apple TV) Inspired
 
 ### Aerial
 
@@ -152,7 +152,7 @@ $0.99
 
 ### Developer Excuses
 
-> A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/unofficial).
+> A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
@@ -166,7 +166,7 @@ Free
 
 ### Windows Kernel Panic
 
-> Blue Screen of Death (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/BSOD) screensaver for Mac.
+> Blue Screen of Death (BSOD) screensaver for Mac.
 
 Free
 
@@ -194,7 +194,7 @@ Donationware
 
 > Animates Apple, EmojiOne and Twitter Emojis in 7 different effects with many customizable settings.
 
-Lite Version (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/Free) and Full Version (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/$3)
+Lite Version (Free) and Full Version ($3)
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
 

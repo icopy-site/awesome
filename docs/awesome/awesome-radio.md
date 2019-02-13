@@ -15,9 +15,9 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 
 ### Links
 
-* [Radio (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Radio)
-* [Radio Spectrum (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Radio_spectrum)
-* [Skywave (https://github.com/kyleterry/awesome-radio/blob/master/skip) (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Skywave)
+* [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
+* [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
+* [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
 * [Mystery signal from a
   helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
 * [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
@@ -34,11 +34,11 @@ MHz and 27.405 MHz with channel 09 being dedicated to emergencies.
 
 CB is more popular among truckers and radio enthusiasts, but its usefulness
 does not stop there. It's great for long distance travel on popular trucking
-routes. You can tune to channel 19 (https://github.com/kyleterry/awesome-radio/blob/master/an unofficial trucker's channel) and get
+routes. You can tune to channel 19 (an unofficial trucker's channel) and get
 real time traffic updates, alternate routes and accident warnings.
 
 Given a good antenna that's properly tuned, a typical range to expect out of
-your CB is about 2 - 5 miles (https://github.com/kyleterry/awesome-radio/blob/master/3.2 - 8 kilometers).
+your CB is about 2 - 5 miles (3.2 - 8 kilometers).
 
 ### General Use
 
@@ -85,14 +85,14 @@ setup.
 * [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
 for parts, radios, antennas and mounts.
 * [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
-* [CB Slang (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/List_of_CB_slang)
+* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
 * [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
 * [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
 * [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
 * [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
 * [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
 
-## SDR (https://github.com/kyleterry/awesome-radio/blob/master/Software Defined Radio)
+## SDR (Software Defined Radio)
 
 Software Defined Radio is a way to define components that are typically
 hardware, such as filters and amplifiers, as software. It has been around for a
@@ -114,7 +114,7 @@ I would like contributors for this section.
 * On the other side of the cost spectrum, [pervices](http://www.pervices.com/)
   makes some really high-throughput, PCIe devices for when you need to log all
   the traffic ever. The software and community support for this is less good,
-  though (https://github.com/kyleterry/awesome-radio/blob/master/for which you can blame @outofculture).
+  though (for which you can blame @outofculture).
 * You can also browse through the [big
   list](https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware) of all
   compatible hardware.
@@ -136,7 +136,7 @@ how to work with them. [Baudline](http://www.baudline.com/) is a janky old
 thing, but it's the best there is. Be forewarned that learning the UI won't come
 easily to anyone.
 
-## Amateur Radio (https://github.com/kyleterry/awesome-radio/blob/master/a.k.a Ham Radio)
+## Amateur Radio (a.k.a Ham Radio)
 
 The hobby of Amateur Radio has a long and proud tradition. The very first radio
 amateurs were true pioneers of radio technology. Amateurs 'invented' and refined
@@ -149,7 +149,7 @@ in schools all over the world and kids went home each night to build some new
 contraption, or have a chat with someone over the wireless. These young people
 became the mainstay of the technical professions and developed much of the
 modern technology we use today.
-(https://github.com/kyleterry/awesome-radio/blob/master/[WIA](http://www.wia.org.au/licenses/foundation/about/))
+([WIA](http://www.wia.org.au/licenses/foundation/about/))
 
 [What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
 
@@ -175,7 +175,7 @@ I would like contributors for this section.
   (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
 * In
   [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92)
-  first you apply for SWL (https://github.com/kyleterry/awesome-radio/blob/master/Short Wave Listener) membership and then you are
+  first you apply for SWL (Short Wave Listener) membership and then you are
   eligible to [apply for the HAM
   License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
 

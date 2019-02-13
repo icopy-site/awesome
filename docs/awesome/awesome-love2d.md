@@ -33,13 +33,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## 3D
 *3D-centric Libraries*
 
-* [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (https://github.com/love2d-community/awesome-love2d/blob/master/design to be used with IQM and IQE)
+* [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE)
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
-* [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (https://github.com/love2d-community/awesome-love2d/blob/master/text)
-* [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (https://github.com/love2d-community/awesome-love2d/blob/master/binary)
+* [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
+* [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (https://github.com/love2d-community/awesome-love2d/blob/master/x,y,z)
+* [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
 
 
 ## AI
@@ -77,7 +77,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
-* [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (https://github.com/love2d-community/awesome-love2d/blob/master/Windows Only)
+* [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
@@ -85,7 +85,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
-* [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (https://github.com/love2d-community/awesome-love2d/blob/master/a human-friendly alternative to HSL)
+* [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
@@ -107,8 +107,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
-* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (https://github.com/love2d-community/awesome-love2d/blob/master/Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
-* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (https://github.com/love2d-community/awesome-love2d/blob/master/Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
+* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
@@ -158,7 +158,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Networking
 *Networking & Online-Play Libraries*
 
-* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (https://github.com/love2d-community/awesome-love2d/blob/master/TCP, UDP, Enet)  [IPv6]
+* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6]
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet [IPv4]
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6]
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4]
@@ -167,11 +167,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
-* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (https://github.com/love2d-community/awesome-love2d/blob/master/and unnamed) classes, single inheritance and a basic support for mixins
+* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
-* [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (https://github.com/love2d-community/awesome-love2d/blob/master/class-commons)
+* [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (https://github.com/love2d-community/awesome-love2d/blob/master/operators), class variables and weak mixin support (https://github.com/love2d-community/awesome-love2d/blob/master/class-commons)
+* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Performance
 *Performance measurement tools*
@@ -233,7 +233,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [lust](https://github.com/bjornbytes/lust) - Minimal test framework
-* [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (https://github.com/love2d-community/awesome-love2d/blob/master/BDD) tool
+* [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 
 ## Tweening
@@ -263,7 +263,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Utilities
 *Non-Game specific libraries and tools*
 
-* [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (https://github.com/love2d-community/awesome-love2d/blob/master/square and non-square)
+* [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [Classic](https://github.com/rxi/classic) - A tiny class module for Lua
@@ -286,12 +286,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Blogs and tutorials*
 
 * [adnzzzzZ's](https://github.com/adnzzzzZ/blog) - A blog by [adnzzzzZ](https://github.com/adnzzzzZ) with articles about game development using LÖVE
-* [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (https://github.com/love2d-community/awesome-love2d/blob/master/Version 11.0+)
+* [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+)
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
-* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (https://github.com/love2d-community/awesome-love2d/blob/master/Snake, Sokoban, Tetris, etc.)
+* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
-* [Introduction to Game Development](https://cs50.harvard.edu/games/2019/spring/) - Harvard College’s CS50 extension (https://github.com/love2d-community/awesome-love2d/blob/master/Spring 2018)
+* [Introduction to Game Development](https://cs50.harvard.edu/games/2019/spring/) - Harvard College’s CS50 extension (Spring 2018)
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*

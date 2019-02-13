@@ -8,7 +8,7 @@ A collection of useful .htaccess snippets, all in one place.
 **IMPORTANT**: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue](https://github.com/phanan/htaccess/issues/2).
 
 ## Credits
-What we are doing here is mostly collecting useful snippets from all over the interwebs (https://github.com/phanan/htaccess/blob/master/for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
+What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
 ## Table of Contents
 - [Rewrite and Redirection](#rewrite-and-redirection)
@@ -62,7 +62,7 @@ Note: It is assumed that you have `mod_rewrite` installed and enabled.
 ``` apacheconf
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^example\.com [NC]
-RewriteRule ^(https://github.com/phanan/htaccess/blob/master/.*)$ http://www.example.com/$1 [L,R=301,NC]
+RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
 ```
 
 ### Force www in a Generic Way
@@ -79,7 +79,7 @@ It’s [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://de
 ``` apacheconf
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
-RewriteRule ^(https://github.com/phanan/htaccess/blob/master/.*)$ http://example.com/$1 [L,R=301]
+RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 ```
 
 ### Force non-www in a Generic Way
@@ -87,7 +87,7 @@ RewriteRule ^(https://github.com/phanan/htaccess/blob/master/.*)$ http://example
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.
 RewriteCond %{HTTPS}s ^on(s)|off
-RewriteCond http%1://%{HTTP_HOST} ^(https?://)(https://github.com/phanan/htaccess/blob/master/www\.)?(https://github.com/phanan/htaccess/blob/master/.+)$
+RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
 RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
 ```
 
@@ -95,9 +95,9 @@ RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
 ``` apacheconf
 RewriteEngine on
 RewriteCond %{HTTPS} !on
-RewriteRule (https://github.com/phanan/htaccess/blob/master/.*) https://%{HTTP_HOST}%{REQUEST_URI}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-## Note: It’s also recommended to enable HTTP Strict Transport Security (https://github.com/phanan/htaccess/blob/master/HSTS)
+## Note: It’s also recommended to enable HTTP Strict Transport Security (HSTS)
 ## on your HTTPS website to help prevent man-in-the-middle attacks.
 ## See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
 <IfModule mod_headers.c>
@@ -110,20 +110,20 @@ RewriteRule (https://github.com/phanan/htaccess/blob/master/.*) https://%{HTTP_H
 Useful if you have a proxy in front of your server performing TLS termination.
 ``` apacheconf
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteRule (https://github.com/phanan/htaccess/blob/master/.*) https://%{HTTP_HOST}%{REQUEST_URI}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 ```
 
 ### Force Trailing Slash
 ``` apacheconf
 RewriteCond %{REQUEST_URI} /+[^\.]+$
-RewriteRule ^(https://github.com/phanan/htaccess/blob/master/.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
 ```
 
 ### Remove Trailing Slash
-This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (https://github.com/phanan/htaccess/blob/master/except for actual directories), e.g. `http://www.example.com/blog/` to `http://www.example.com/blog`. This is important for SEO, since it’s [recommended](http://overit.com/blog/canonical-urls) to have a canonical URL for every page.
+This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (except for actual directories), e.g. `http://www.example.com/blog/` to `http://www.example.com/blog`. This is important for SEO, since it’s [recommended](http://overit.com/blog/canonical-urls) to have a canonical URL for every page.
 ``` apacheconf
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} (https://github.com/phanan/htaccess/blob/master/.+)/$
+RewriteCond %{REQUEST_URI} (.+)/$
 RewriteRule ^ %1 [R=301,L]
 ```
 [Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
@@ -137,38 +137,38 @@ Redirect 301 /oldpage2.html http://www.example.com/folder/
 
 ### Redirect Using RedirectMatch
 ``` apacheconf
-RedirectMatch 301 /subdirectory(https://github.com/phanan/htaccess/blob/master/.*) http://www.newsite.com/newfolder/$1
-RedirectMatch 301 ^/(https://github.com/phanan/htaccess/blob/master/.*).htm$ /$1.html
-RedirectMatch 301 ^/200(https://github.com/phanan/htaccess/blob/master/[0-9])/(https://github.com/phanan/htaccess/blob/master/[^01])(https://github.com/phanan/htaccess/blob/master/.*)$ /$2$3
-RedirectMatch 301 ^/category/(https://github.com/phanan/htaccess/blob/master/.*)$ /$1
-RedirectMatch 301 ^/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*)/htaccesselite-ultimate-htaccess-article.html(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*) /htaccess/htaccess.html
-RedirectMatch 301 ^/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*).html/1/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*) /$1.html$2
-RedirectMatch 301 ^/manual/(https://github.com/phanan/htaccess/blob/master/.*)$ http://www.php.net/manual/$1
-RedirectMatch 301 ^/dreamweaver/(https://github.com/phanan/htaccess/blob/master/.*)$ /tools/$1
-RedirectMatch 301 ^/z/(https://github.com/phanan/htaccess/blob/master/.*)$ http://static.askapache.com/$1
+RedirectMatch 301 /subdirectory(.*) http://www.newsite.com/newfolder/$1
+RedirectMatch 301 ^/(.*).htm$ /$1.html
+RedirectMatch 301 ^/200([0-9])/([^01])(.*)$ /$2$3
+RedirectMatch 301 ^/category/(.*)$ /$1
+RedirectMatch 301 ^/(.*)/htaccesselite-ultimate-htaccess-article.html(.*) /htaccess/htaccess.html
+RedirectMatch 301 ^/(.*).html/1/(.*) /$1.html$2
+RedirectMatch 301 ^/manual/(.*)$ http://www.php.net/manual/$1
+RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
+RedirectMatch 301 ^/z/(.*)$ http://static.askapache.com/$1
 ```
 [Source](http://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
 
 ### Alias a Single Directory
 ``` apacheconf
 RewriteEngine On
-RewriteRule ^source-directory/(https://github.com/phanan/htaccess/blob/master/.*) /target-directory/$1 [R=301,L]
+RewriteRule ^source-directory/(.*) /target-directory/$1 [R=301,L]
 ```
 
 ### Alias Paths to Script
 ``` apacheconf
 FallbackResource /index.fcgi
 ```
-This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (https://github.com/phanan/htaccess/blob/master/which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH_INFO environment variable, as exposed to your scripting environment.
+This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH_INFO environment variable, as exposed to your scripting environment.
 
 ``` apacheconf
 RewriteEngine On
 RewriteRule ^$ index.fcgi/ [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(https://github.com/phanan/htaccess/blob/master/.*)$ index.fcgi/$1 [QSA,L]
+RewriteRule ^(.*)$ index.fcgi/$1 [QSA,L]
 ```
-This is a less efficient version of the FallbackResource directive (https://github.com/phanan/htaccess/blob/master/because using `mod_rewrite` is more complex than just handling the `FallbackResource` directive), but it’s also more flexible.
+This is a less efficient version of the FallbackResource directive (because using `mod_rewrite` is more complex than just handling the `FallbackResource` directive), but it’s also more flexible.
 
 ### Redirect an Entire Site
 ``` apacheconf
@@ -181,7 +181,7 @@ This snippet lets you use “clean” URLs -- those without a PHP extension, e.g
 ``` apacheconf
 RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
-RewriteRule ^(https://github.com/phanan/htaccess/blob/master/[^.]+)$ $1.php [NC,L]
+RewriteRule ^([^.]+)$ $1.php [NC,L]
 ```
 [Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
@@ -233,11 +233,11 @@ Deny from xxx.xxx.xxx.xxy
 ```
 
 ### Deny Access to Hidden Files and Directories
-Hidden files and directories (https://github.com/phanan/htaccess/blob/master/those whose names start with a dot `.`) should most, if not all, of the time be secured. For example: `.htaccess`, `.htpasswd`, `.git`, `.hg`...
+Hidden files and directories (those whose names start with a dot `.`) should most, if not all, of the time be secured. For example: `.htaccess`, `.htpasswd`, `.git`, `.hg`...
 ``` apacheconf
 RewriteCond %{SCRIPT_FILENAME} -d [OR]
 RewriteCond %{SCRIPT_FILENAME} -f
-RewriteRule "(https://github.com/phanan/htaccess/blob/master/^|/)\." - [F]
+RewriteRule "(^|/)\." - [F]
 ```
 
 Alternatively, you can just raise a “Not Found” error, giving the attacker no clue:
@@ -246,9 +246,9 @@ RedirectMatch 404 /\..*$
 ```
 
 ### Deny Access to Backup and Source Files
-These files may be left by some text/HTML editors (https://github.com/phanan/htaccess/blob/master/like Vi/Vim) and pose a great security danger if exposed to public.
+These files may be left by some text/HTML editors (like Vi/Vim) and pose a great security danger if exposed to public.
 ``` apacheconf
-<FilesMatch "(https://github.com/phanan/htaccess/blob/master/\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
+<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
     ## Apache 2.2
     Order allow,deny
     Deny from all
@@ -271,25 +271,25 @@ RewriteEngine on
 ## Remove the following line if you want to block blank referrer too
 RewriteCond %{HTTP_REFERER} !^$
 
-RewriteCond %{HTTP_REFERER} !^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?example.com [NC]
-RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
+RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
+RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
 
 ## If you want to display a “blocked” banner in place of the hotlinked image,
 ## replace the above rule with:
-## RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 ```
 
 ### Disable Image Hotlinking for Specific Domains
 Sometimes you want to disable image hotlinking from some bad guys only.
 ``` apacheconf
 RewriteEngine on
-RewriteCond %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite\.com [NC,OR]
-RewriteCond %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite2\.com [NC,OR]
-RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
+RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite2\.com [NC,OR]
+RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
 
 ## If you want to display a “blocked” banner in place of the hotlinked image,
 ## replace the above rule with:
-## RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 ```
 
 ### Password Protect a Directory
@@ -316,13 +316,13 @@ AuthUserFile /home/fellowship/.htpasswd
 Require valid-user
 </Files>
 
-<FilesMatch ^(https://github.com/phanan/htaccess/blob/master/(one|two|three)-rings?\.o)$>
+<FilesMatch ^((one|two|three)-rings?\.o)$>
 Require valid-user
 </FilesMatch>
 ```
 
 ### Block Visitors by Referrer
-This denies access for all users who are coming from (https://github.com/phanan/htaccess/blob/master/referred by) a specific domain.
+This denies access for all users who are coming from (referred by) a specific domain.
 [Source](http://www.htaccess-guide.com/deny-visitors-by-referrer/)
 ``` apacheconf
 RewriteEngine on
@@ -333,7 +333,7 @@ RewriteRule .* - [F]
 ```
 
 ### Prevent Framing the Site
-This prevents the website to be framed (https://github.com/phanan/htaccess/blob/master/i.e. put into an `iframe` tag), when still allows framing for a specific URI.
+This prevents the website to be framed (i.e. put into an `iframe` tag), when still allows framing for a specific URI.
 ``` apacheconf
 SetEnvIf Request_URI "/starry-night" allow_framing=true
 Header set X-Frame-Options SAMEORIGIN env=!allow_framing
@@ -348,7 +348,7 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
     # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
     <IfModule mod_setenvif.c>
         <IfModule mod_headers.c>
-            SetEnvIfNoCase ^(https://github.com/phanan/htaccess/blob/master/Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^(https://github.com/phanan/htaccess/blob/master/(gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+            SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
             RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
         </IfModule>
     </IfModule>
@@ -399,10 +399,10 @@ If you don’t control versioning with filename-based cache busting, consider lo
     ExpiresByType application/xml                       "access plus 0 seconds"
     ExpiresByType text/xml                              "access plus 0 seconds"
 
-  # Favicon (https://github.com/phanan/htaccess/blob/master/cannot be renamed!)
+  # Favicon (cannot be renamed!)
     ExpiresByType image/x-icon                          "access plus 1 week"
 
-  # HTML components (https://github.com/phanan/htaccess/blob/master/HTCs)
+  # HTML components (HTCs)
     ExpiresByType text/x-component                      "access plus 1 month"
 
   # HTML
@@ -479,7 +479,7 @@ Now there is a yang to this yin:
 ### Prevent Downloading
 Sometimes you want to force the browser to display some content instead of downloading it.
 ``` apacheconf
-<FilesMatch "\.(https://github.com/phanan/htaccess/blob/master/tex|log|aux)$">
+<FilesMatch "\.(tex|log|aux)$">
     Header set Content-Type text/plain
 </FilesMatch>
 ```
@@ -488,7 +488,7 @@ Sometimes you want to force the browser to display some content instead of downl
 CDN-served webfonts might not work in Firefox or IE due to [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). This snippet solves the problem.
 ``` apacheconf
 <IfModule mod_headers.c>
-    <FilesMatch "\.(https://github.com/phanan/htaccess/blob/master/eot|otf|ttc|ttf|woff|woff2)$">
+    <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
         Header set Access-Control-Allow-Origin "*"
     </FilesMatch>
 </IfModule>
@@ -533,6 +533,6 @@ If [WebP images](https://developers.google.com/speed/webp/?csw=1) are supported 
 RewriteEngine On
 RewriteCond %{HTTP_ACCEPT} image/webp
 RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
-RewriteRule (https://github.com/phanan/htaccess/blob/master/.+)\.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
 [Source](https://github.com/vincentorback/WebP-images-with-htaccess)

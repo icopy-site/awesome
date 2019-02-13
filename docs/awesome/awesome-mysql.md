@@ -71,7 +71,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL sample configuration and advisors*
 
-- [mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (https://github.com/shlomi-noach/awesome-mysql/blob/master/or older) releases of MySQL.
+- [mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ## Connectors
 
@@ -84,11 +84,11 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Connector/Node.js](https://dev.mysql.com/downloads/connector/nodejs/) - Official Node.js driver for MySQL.
 - [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 - [DBD::mysql](https://metacpan.org/pod/DBD::mysql) - MySQL driver for the Perl5 Database Interface.
-- [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (https://github.com/shlomi-noach/awesome-mysql/blob/master/golang) database/sql package.
+- [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 - [libAttachSQL](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 - [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [mex-mariadb](https://github.com/markuman/mex-mariadb) - MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.
-- [mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python) - (https://github.com/shlomi-noach/awesome-mysql/blob/master/Old) MySQL database connector for Python.
+- [mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python) - (Old) MySQL database connector for Python.
 - [node-mysql](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 - [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
@@ -120,7 +120,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [MySQL Shell](https://dev.mysql.com/downloads/shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (https://github.com/shlomi-noach/awesome-mysql/blob/master/AdminAPI) with an interactive JavaScript, Python, or SQL interface.
+- [MySQL Shell](https://dev.mysql.com/downloads/shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
@@ -167,7 +167,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Security
 
-*Tools that prevents leaking of sensitive data from database (https://github.com/shlomi-noach/awesome-mysql/blob/master/encryption, masking and tokenization, honey-pots, etc)*
+*Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 - [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 

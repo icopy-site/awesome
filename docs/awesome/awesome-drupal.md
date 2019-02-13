@@ -24,7 +24,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Tools
 
 - [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
-- [DrupalVM](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (https://github.com/nirgn975/awesome-drupal/blob/master/instead of crufty old MAMP/WAMP-based development).
+- [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
 - [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
 - [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
 - [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/) 
@@ -32,7 +32,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Modules
 
-- [Administration menu](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupal.org/project/admin_menu) - Provides a theme-independent administration interface (https://github.com/nirgn975/awesome-drupal/blob/master/aka. navigation, back-end).
+- [Administration menu](https://www.drupal.org/project/admin_menu) - Provides a theme-independent administration interface (aka. navigation, back-end).
 - [Administration views](https://www.drupal.org/project/admin_views) - Replaces administrative overview/listing pages with actual views for superior usability.
 - [Backup and Migrate](https://www.drupal.org/project/backup_migrate) - Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.
 - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) - Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.
@@ -55,13 +55,13 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Views](https://www.drupal.org/project/views) - Allows administrators and site designers to create, manage, and display lists of content.
 - [Panels](https://www.drupal.org/project/panels) - Allows a site administrator to create customized layouts for multiple uses.
 - [Panelizer](https://www.drupal.org/project/panelizer) - Allows a site administrator to create customized layouts for multiple uses.
-- [Pathauto](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupal.org/project/pathauto) - The Pathauto module automatically generates URL/path aliases for various kinds of content (https://github.com/nirgn975/awesome-drupal/blob/master/nodes, taxonomy terms, users) without requiring the user to manually specify the path alias.
+- [Pathauto](https://www.drupal.org/project/pathauto) - The Pathauto module automatically generates URL/path aliases for various kinds of content (nodes, taxonomy terms, users) without requiring the user to manually specify the path alias.
 - [Ctools](https://www.drupal.org/project/ctools) - This suite is primarily a set of APIs and tools to improve the developer experience.
 - [Search API](https://www.drupal.org/project/search_api) - Provides a framework for easily creating searches on any entity known to Drupal, using any kind of search engine.
 - [Slick](https://www.drupal.org/project/slick) - Slick is a powerful and performant slideshow/carousel solution leveraging Ken Wheeler's Slick carousel. See http://kenwheeler.github.io/slick
-- [Token](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupal.org/project/token) - Provides additional tokens not supported by core (https://github.com/nirgn975/awesome-drupal/blob/master/most notably fields), as well as a UI for browsing tokens.
+- [Token](https://www.drupal.org/project/token) - Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.
 - [Ubercart](https://www.drupal.org/project/ubercart) - Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online. 
-- [Rules](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupal.org/project/rules) - The Rules module allows site administrators to define conditionally executed actions based on occurring events (https://github.com/nirgn975/awesome-drupal/blob/master/known as reactive or ECA rules).
+- [Rules](https://www.drupal.org/project/rules) - The Rules module allows site administrators to define conditionally executed actions based on occurring events (known as reactive or ECA rules).
 - [Entity API](https://www.drupal.org/project/entity) - Extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties.
 - [Entity cache](https://www.drupal.org/project/entitycache) - Puts core entities into Drupal's cache API.
 - [elFinder file manager](https://www.drupal.org/project/elfinder) - elFinder is a open source AJAX file manager
@@ -86,7 +86,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [API Reference](https://api.drupal.org/api/drupal)
 - [Examples for Developers](https://www.drupal.org/project/examples)
 - [Troubleshooting](https://www.drupal.org/troubleshooting)
-- [The Drupal Cookbook (https://github.com/nirgn975/awesome-drupal/blob/master/for beginners)](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook)
+- [The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook)
 
 
 ## Articles
@@ -149,7 +149,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [`#drupal` on Freenode](http://webchat.freenode.net/?channels=drupal)
 - [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 - [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
-- [Drupal Israel Meetup Group](https://github.com/nirgn975/awesome-drupal/blob/master/https://www.meetup.com/Drupal-Israel/) *(https://github.com/nirgn975/awesome-drupal/blob/master/Hebrew)*
+- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) *(Hebrew)*
 - [Drupal NYC Meetup Group](https://www.meetup.com/drupalnyc/)
 
 

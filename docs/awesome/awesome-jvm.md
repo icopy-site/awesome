@@ -117,15 +117,15 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [DSL-JSON](http://github.com/ngs-doo/dsl-json) - High performance JSON library with advanced compile-time databinding.
-* [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (https://github.com/deephacks/awesome-jvm/blob/master/copy of DSL-JSON).
+* [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (copy of DSL-JSON).
 * [jOOL](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
-* [LevelDB](https://github.com/dain/leveldb) - Rewrite (https://github.com/deephacks/awesome-jvm/blob/master/port) of LevelDB in Java.
-* [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (https://github.com/deephacks/awesome-jvm/blob/master/radix tree) implementation.
-* [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB (https://github.com/deephacks/awesome-jvm/blob/master/HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [lmdbjava](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (https://github.com/deephacks/awesome-jvm/blob/master/JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
+* [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
+* [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
+* [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
+* [lmdbjava](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
-* [lwjgl3](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (https://github.com/deephacks/awesome-jvm/blob/master/OpenGL), audio (https://github.com/deephacks/awesome-jvm/blob/master/OpenAL) and parallel computing (https://github.com/deephacks/awesome-jvm/blob/master/OpenCL) applications.
+* [lwjgl3](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 * [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
 * [mph-table](https://github.com/indeedeng/mph-table) - Minimal Perfect Hash Tables are an immutable key/value store with efficient space utilization and fast reads.
 * [mug](https://google.github.io/mug/) - A small, zero-dep functional util library originating from Google. 
@@ -140,7 +140,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
-* [RTree2D](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (https://github.com/deephacks/awesome-jvm/blob/master/Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces.
+* [RTree2D](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
 * [Reactive Streams Utilities](https://github.com/lightbend/reactive-streams-utils) - Future standard utilities library for Reactive Streams.
 * [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
@@ -185,7 +185,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [lombok](https://projectlombok.org/) - Reduce the amount of boilerplate code that is commonly written for Java classes.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
-* [TeaVM](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (https://github.com/deephacks/awesome-jvm/blob/master/transpiler) from Java bytecode to JavaScript.
+* [TeaVM](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 * [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
@@ -213,7 +213,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 * [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
-* [JXIO](https://github.com/accelio/JXIO) - Java API over AccelIO (https://github.com/deephacks/awesome-jvm/blob/master/C library), a high-performance asynchronous reliable messaging and RPhttps://github.com/deephacks/awesome-jvm/blob/master/C library optimized for hardware acceleration.
+* [JXIO](https://github.com/accelio/JXIO) - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
 * [K3PO](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
@@ -247,11 +247,11 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [numactl](http://linux.die.net/man/8/numactl) - Control NUMA policy for processes or shared memory.
 * [oprofile](http://oprofile.sourceforge.net/news/) - System-wide hardware performance monitoring with easy-to-use interface at low overhead.
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
-* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (https://github.com/deephacks/awesome-jvm/blob/master/aka perf) and ftrace.
+* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset/process-affinity](https://www.glennklockwood.com/hpc-howtos/process-affinity.html) - Retrieve or set a processes’s CPU affinity.
-* [tiptop](http://tiptop.gforge.inria.fr/) - Like top but also shows instructions per cycle (https://github.com/deephacks/awesome-jvm/blob/master/IPC).
+* [tiptop](http://tiptop.gforge.inria.fr/) - Like top but also shows instructions per cycle (IPC).
 
 ## Profilers
 
@@ -274,7 +274,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [heapster](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
 * [jamm](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
-* [Java Flight Recorder (https://github.com/deephacks/awesome-jvm/blob/master/JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
+* [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
 * [java-sizeof](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
 * [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 * [jfr-flame-graph](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
@@ -322,7 +322,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Virtual machines that implement the JVM specification or parts of it.*
 * [Avian](https://github.com/ReadyTalk/avian) - Lightweight highly portable JVM with an option for AOT compilation.
-* [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (https://github.com/deephacks/awesome-jvm/blob/master/ART) is the managed runtime used by applications and some system services on Android.
+* [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
 * [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
 * [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
 * [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
@@ -347,15 +347,15 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [The JVM specification](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) - The Java Virtual
 Machine Specification Java SE 8 Edition.
 * [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/) - Starting point for discussions of and information concerning the Java Memory Model.
-* [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - Unofficial guide to implementing the new Java Memory Model (https://github.com/deephacks/awesome-jvm/blob/master/JMM) specified by JSR-133.
+* [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - Unofficial guide to implementing the new Java Memory Model (JMM) specified by JSR-133.
 * [Garbage Collection Tuning Guide](http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/) - HotSpot Virtual Machine Garbage Collection Tuning Guide.
 * [Safepoints](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Where is my safepoint? Nitsan Wakart.
 * [Topics in High-Performance Messaging](https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm) - Design decisions, experience and constraints explained in high performance messaging systems.
 * [Top 10 Performance Mistakes](http://www.infoq.com/articles/top-10-performance-mistakes) - Digest of the top 10 performance related mistakes Martin Thompson has seen in production.
-* [The https://github.com/deephacks/awesome-jvm/blob/master/USE method](http://www.brendangregg.com/usemethod.html) - The Utilization Saturation and Errors (https://github.com/deephacks/awesome-jvm/blob/master/USE) Method is a methodology for analyzing the performance of any system. Brendan Gregg.
-* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (https://github.com/deephacks/awesome-jvm/blob/master/author of Jepsen).
+* [The USE method](http://www.brendangregg.com/usemethod.html) - The Utilization Saturation and Errors (USE) Method is a methodology for analyzing the performance of any system. Brendan Gregg.
+* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
 * [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
-* [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (https://github.com/deephacks/awesome-jvm/blob/master/IPC) for CPU utilization. Brendan Gregg.
+* [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
 * [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/) - Emmanuel Goossaert.
 * [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef) - Daniel Spiewak.

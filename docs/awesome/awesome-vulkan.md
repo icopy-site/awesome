@@ -23,7 +23,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
     *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
     *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
-    *  [Driver for Linux for Tegra (https://github.com/vinjn/awesome-vulkan/blob/master/L4T)](https://developer.nvidia.com/embedded/vulkan)
+    *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
     *  [Open-source Driver](https://github.com/GPUOpen-Drivers/AMDVLK)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
@@ -78,14 +78,14 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
 * Samgsung
     * [Siggraph 2016 - Best Practices for Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/2_2D00_mmg_2D00_siggraph2016_2D00_best_2D00_practice_2D00_andrew.pdf)
-    * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (https://github.com/vinjn/awesome-vulkan/blob/master/for mobile)
+    * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (for mobile)
 * Epic
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
 
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - Meta post on how to learn Vulkan
 *  [I Am Graphics And So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) - Blog post style tutorial for those new to graphics learning Vulkan.
-*  [Moving to Vulkan (https://github.com/vinjn/awesome-vulkan/blob/master/Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
+*  [Moving to Vulkan (Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *  [jhenriques's tutorial](http://jhenriques.net/development.html)
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
 *  [Qualcomm Video Tutorial Series](https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos) - Leans more towards Vulkan for mobile devices.
@@ -105,7 +105,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - by id Software.
 *  [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. [GPL]
-*  [vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (https://github.com/vinjn/awesome-vulkan/blob/master/Windows and Linux). [GPL]
+*  [vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). [GPL]
 *  [q2vkpt](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. [gpl]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
@@ -139,7 +139,7 @@ drm/kms.
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. [MIT]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
-*  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (https://github.com/vinjn/awesome-vulkan/blob/master/on NVIDIA RTX in particular).
+*  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (on NVIDIA RTX in particular).
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
@@ -176,7 +176,7 @@ drm/kms.
 *  [FrameGraph](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. [BSD 2-clause]
 *  [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 *  [gfx-rs](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
-*  [vRt](https://github.com/world8th/vRt) - Vulkan API (https://github.com/vinjn/awesome-vulkan/blob/master/>=1.1) based unified ray tracing library. [LGPL-3.0]
+*  [vRt](https://github.com/world8th/vRt) - Vulkan API (>=1.1) based unified ray tracing library. [LGPL-3.0]
 *  [rostkatze](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
 *  [Fossilize](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. [MIT]
 *  [Vulkan/VkSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 scene graph project, successor to [OpenSceneGraph](http://www.openscenegraph.org).
@@ -207,7 +207,7 @@ drm/kms.
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. [MIT]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
-*  [Open Capture and Analytics Tool (https://github.com/vinjn/awesome-vulkan/blob/master/OCAT)](https://github.com/GPUOpen-Tools/https://github.com/vinjn/awesome-vulkan/blob/master/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
+*  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
 *  [gapid](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. [Apache License 2.0]
 *  [ARM - PerfDoc](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. [MIT]
 
@@ -230,7 +230,7 @@ drm/kms.
 *  Quick Reference Sheets
     *  [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *  [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*  [Conformance Tests (https://github.com/vinjn/awesome-vulkan/blob/master/CTS)](https://github.com/KhronosGroup/Vulkan-https://github.com/vinjn/awesome-vulkan/blob/master/CTS)
+*  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
 *  Conferences and Presentations
     *  [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *  [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

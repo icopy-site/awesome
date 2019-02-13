@@ -23,10 +23,10 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
 * [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (https://github.com/dok/awesome-text-editing/blob/master/contentEditable) for jQuery UI
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
-* [tejQuery](http://jqueryte.com/) - Lightweight (https://github.com/dok/awesome-text-editing/blob/master/19.5 KB) and very useful HTML editor
+* [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
 * [Trumbowyg](http://alex-d.github.io/Trumbowyg/) - light, translatable and customisable jQuery plugin
 * [NicEdit](http://nicedit.com/) - Abandoned in 2012
 * [jWYSIWYG](https://github.com/akzhan/jwysiwyg) - WYSIWYG jQuery Plugin 

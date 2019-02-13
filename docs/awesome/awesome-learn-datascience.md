@@ -43,7 +43,7 @@ This list covers only Python, as many are already familiar with this language. [
 [pandas](http://pandas.pydata.org/index.html) provides efficient data structures and analysis tools for Python. It is build on top of numpy.
 
 - [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
-- [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (https://github.com/siboehm/awesome-learn-datascience/blob/master/enough to complete course).
+- [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
 - [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
 ### scikit-learn
@@ -68,7 +68,7 @@ This list covers only Python, as many are already familiar with this language. [
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 - [Natural Language Toolkit](http://www.nltk.org/) - Collection of libraries for working with text-based data.
 - [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
-- [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (https://github.com/siboehm/awesome-learn-datascience/blob/master/r4.xlarge server is a good place to start).
+- [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 
 ## Data Science Challenges for Beginners

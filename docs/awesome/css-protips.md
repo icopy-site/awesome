@@ -22,7 +22,7 @@ A collection of tips to help take your CSS skills pro.
 1. [Use a CSS Reset](#use-a-css-reset)
 1. [Inherit `box-sizing`](#inherit-box-sizing)
 1. [Use `unset` Instead of Resetting All Properties](#use-unset-instead-of-resetting-all-properties)
-1. [Use `:not()` to Apply/Unapply Borders on Navigation](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation)
+1. [Use `:not()` to Apply/Unapply Borders on Navigation](#use-not-to-applyunapply-borders-on-navigation)
 1. [Add `line-height` to `body`](#add-line-height-to-body)
 1. [Set `:focus` for Form Elements](#set-focus-for-form-elements)
 1. [Vertically-Center Anything](#vertically-center-anything)
@@ -140,7 +140,7 @@ Instead of putting on the border...
 ...use the `:not()` pseudo-class to only apply to the elements you want:
 
 ```css
-.nav li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:last-child) {
+.nav li:not(:last-child) {
   border-right: 1px solid #666;
 }
 ```
@@ -236,7 +236,7 @@ Want to center something else? Vertically, horizontally...anything, anytime, any
 Make list items look like a real, comma-separated list:
 
 ```css
-ul > li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:last-child)::after {
+ul > li:not(:last-child)::after {
   content: ",";
 }
 ```
@@ -258,16 +258,16 @@ li {
 }
 
 /* select items 1 through 3 and display them */
-li:nth-child(https://github.com/AllThingsSmitty/css-protips/blob/master/-n+3) {
+li:nth-child(-n+3) {
   display: block;
 }
 ```
 
-Or, since you've already learned a little about [using `:not()`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation), try:
+Or, since you've already learned a little about [using `:not()`](#use-not-to-applyunapply-borders-on-navigation), try:
 
 ```css
 /* select all items except the first 3 and display them */
-li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:nth-child(-n+3)) {
+li:not(:nth-child(-n+3)) {
   display: block;
 }
 ```
@@ -283,7 +283,7 @@ There's no reason not to use SVG for icons:
 
 ```css
 .logo {
-  background: url(https://raw.githubusercontent.com/AllThingsSmitty/css-protips/master/"logo.svg?sanitize=true");
+  background: url("logo.svg");
 }
 ```
 
@@ -293,7 +293,7 @@ SVG scales well for all resolution types and is supported in all browsers [back 
 
 ```css
 .no-svg .icon-only::after {
-  content: attr(https://github.com/AllThingsSmitty/css-protips/blob/master/aria-label);
+  content: attr(aria-label);
 }
 ```
 
@@ -302,7 +302,7 @@ SVG scales well for all resolution types and is supported in all browsers [back 
 
 ### Use the "Lobotomized Owl" Selector
 
-It may have a strange name but using the universal selector (https://github.com/AllThingsSmitty/css-protips/blob/master/`*`) with the adjacent sibling selector (https://github.com/AllThingsSmitty/css-protips/blob/master/`+`) can provide a powerful CSS capability:
+It may have a strange name but using the universal selector (`*`) with the adjacent sibling selector (`+`) can provide a powerful CSS capability:
 
 ```css
 * + * {
@@ -400,7 +400,7 @@ That's pretty convenient.
 Add a style for "default" links:
 
 ```css
-a[href]:not(https://github.com/AllThingsSmitty/css-protips/blob/master/[class]) {
+a[href]:not([class]) {
   color: #008000;
   text-decoration: underline;
 }
@@ -413,7 +413,7 @@ Now links that are inserted via a CMS, which don't usually have a `class` attrib
 
 ### Consistent Vertical Rhythm
 
-Use a universal selector (https://github.com/AllThingsSmitty/css-protips/blob/master/`*`) within an element to create a consistent vertical rhythm:
+Use a universal selector (`*`) within an element to create a consistent vertical rhythm:
 
 ```css
 .intro > * {
@@ -447,7 +447,7 @@ To create a box with an intrinsic ratio, all you need to do is apply top or bott
 }
 ```
 
-Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (https://github.com/AllThingsSmitty/css-protips/blob/master/100% / 20% = 5:1).
+Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
@@ -494,7 +494,7 @@ Learn more about styling for this pattern in [Ire Aderinokun](https://github.com
 
 ### Use `rem` for Global Sizing; Use `em` for Local Sizing
 
-After setting the base font size at the root (https://github.com/AllThingsSmitty/css-protips/blob/master/`html { font-size: 100%; }`), set the font size for textual elements to `em`:
+After setting the base font size at the root (`html { font-size: 100%; }`), set the font size for textual elements to `em`:
 
 ```css
 h2 {
@@ -528,12 +528,12 @@ Now each module becomes compartmentalized and easier to style, more maintainable
 This is a great trick for a custom user stylesheet. Avoid overloading a user with sound from a video that autoplays when the page is loaded. If the sound isn't muted, don't show the video:
 
 ```css
-video[autoplay]:not(https://github.com/AllThingsSmitty/css-protips/blob/master/[muted]) {
+video[autoplay]:not([muted]) {
   display: none;
 }
 ```
 
-Once again, we're taking advantage of using the [`:not()`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
+Once again, we're taking advantage of using the [`:not()`](#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -544,7 +544,7 @@ The type font size in a responsive layout should be able to adjust with each vie
 
 ```css
 :root {
-  font-size: calc(https://github.com/AllThingsSmitty/css-protips/blob/master/1vw + 1vh + .5vmin);
+  font-size: calc(1vw + 1vh + .5vmin);
 }
 ```
 
@@ -563,7 +563,7 @@ body {
 
 ### Set `font-size` on Form Elements for a Better Mobile Experience
 
-To avoid mobile browsers (https://github.com/AllThingsSmitty/css-protips/blob/master/iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
 
 ```css
 input[type="text"],

@@ -4,7 +4,7 @@
 
 There is no code in this module, the only thing is this README file.
 
-This is a list of modules that are useful for maintaining or developing modules (https://github.com/maxogden/maintenance-modules/blob/master/in no particular order).
+This is a list of modules that are useful for maintaining or developing modules (in no particular order).
 
 ### [fixpack](https://github.com/henrikjoreteg/fixpack) by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
 
@@ -24,7 +24,7 @@ npm i standard --save-dev
 
 ### [dependency-check](https://github.com/maxogden/dependency-check) by [maxogden](https://www.npmjs.com/~maxogden)
 
-Checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json (https://github.com/maxogden/maintenance-modules/blob/master/or vice versa).
+Checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json (or vice versa).
 
 ```
 npm i dependency-check --save-dev

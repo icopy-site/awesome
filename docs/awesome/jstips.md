@@ -5,7 +5,7 @@
 
 This is an awesome project about short and useful JavaScript tips that will allow you to improve your code writing. With less than 2 minutes, you will be able to read about performance, conventions, hacks, interview questions and all the items that the future of this awesome language holds for us.
 
-Tips are added frequently (https://github.com/loverajoel/jstips/blob/master/read further if you want to stay in touch).
+Tips are added frequently (read further if you want to stay in touch).
 
 ## Support the community
 If you found a JS Tip useful or you like a writer of the community now you are able to show some respect and support with a tip!
@@ -34,7 +34,7 @@ There are a lot of ways to get updates, choose your own
 ## Tips list
 
 - 73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
-- 72 - [Adventurers Guide to React (https://github.com/loverajoel/jstips/blob/master/Part I)](http://www.jstips.co/en/react/adventurers-guide-to-react/)
+- 72 - [Adventurers Guide to React (Part I)](http://www.jstips.co/en/react/adventurers-guide-to-react/)
 - 71 - [VueJS, How VueJS makes a copy-update-replace inside the data binding](http://www.jstips.co/en/more/vuejs-how-vuejs-makes-a-copy-update-replace-inside-the-data-binding/)
 - 70 - [Picking and rejecting object properties](http://www.jstips.co/en/javascript/picking-and-rejecting-object-properties/)
 - 69 - [Enhancing React components, Composition](http://www.jstips.co/en/react/enhancing-react-components-composition/)
@@ -52,7 +52,7 @@ There are a lot of ways to get updates, choose your own
 - 57 - [Comma operator in JS](http://www.jstips.co/en/javascript/comma-operaton-in-js/)
 - 56 - [Copy to Clipboard](http://www.jstips.co/en/javascript/copy-to-clipboard/)
 - 55 - [Create an easy loop using an array](http://www.jstips.co/en/javascript/make-easy-loop-on-array/)
-- 54 - [How to use optional arguments in functions (https://github.com/loverajoel/jstips/blob/master/with optional callback)](http://www.jstips.co/en/javascript/use-optional-arguments/)
+- 54 - [How to use optional arguments in functions (with optional callback)](http://www.jstips.co/en/javascript/use-optional-arguments/)
 - 53 - [Get File Extension](http://www.jstips.co/en/javascript/get-file-extension/)
 - 52 - [Return Values with the 'new' Operator](http://www.jstips.co/en/javascript/return-values-with-the-new-operator/)
 - 51 - [DOM event listening made easy](http://www.jstips.co/en/javascript/DOM-event-listening-made-easy/)
@@ -92,7 +92,7 @@ There are a lot of ways to get updates, choose your own
 - 21 - [Shuffle an Array](http://www.jstips.co/en/javascript/shuffle-an-array/)
 - 20 - [Return objects to enable chaining of functions](http://www.jstips.co/en/javascript/return-objects-to-enable-chaining-of-functions/)
 - 19 - [Safe String concatenation](http://www.jstips.co/en/javascript/safe-string-concatenation/)
-- 18 - [Truncating the fast (https://github.com/loverajoel/jstips/blob/master/but risky) way](http://www.jstips.co/en/javascript/rounding-the-fast-way/)
+- 18 - [Truncating the fast (but risky) way](http://www.jstips.co/en/javascript/rounding-the-fast-way/)
 - 17 - [Node.js: Run a module if it is not "required"](http://www.jstips.co/en/javascript/nodejs-run-a-module-if-it-is-not-required/)
 - 16 - [Passing arguments to callback functions](http://www.jstips.co/en/javascript/passing-arguments-to-callback-functions/)
 - 15 - [Even simpler way of using `indexOf` as a contains clause](http://www.jstips.co/en/javascript/even-simpler-way-of-using-indexof-as-a-contains-clause/)

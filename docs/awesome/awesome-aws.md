@@ -742,11 +742,11 @@ Community Repos:
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
 * [kubek2k/lambdoku :fire::fire::fire:](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) - A continuous integration system built on Lambda.
-* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (https://github.com/donnemartin/awesome-aws/blob/master/each, map, reduce, filter).
+* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
 * [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
 * [nficano/python-lambda :fire::fire::fire:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
-* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (https://github.com/donnemartin/awesome-aws/blob/master/formerly JAWS).
+* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 * [trek10inc/aws-lambda-debugger :fire::fire:](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 
@@ -828,7 +828,7 @@ Community Repos:
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
 * [kahing/goofys :fire::fire::fire::fire:](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
-* [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (https://github.com/donnemartin/awesome-aws/blob/master/each, map, reduce, filter, join)
+* [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
@@ -836,7 +836,7 @@ Community Repos:
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
-* [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (https://github.com/donnemartin/awesome-aws/blob/master/du) utility.
+* [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository.
@@ -983,7 +983,7 @@ Community Repos:
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
-* [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (https://github.com/donnemartin/awesome-aws/blob/master/tf, tfstate).
+* [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [segmentio/stack :fire::fire::fire::fire:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [j2labs/microarmy ](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
@@ -1030,8 +1030,8 @@ AWS Guides:
     * [Store Files](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2683)
     * [Share Digital Media](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2755)
     * [Deploy a Website](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2767)
-    * [Host a Website (https://github.com/donnemartin/awesome-aws/blob/master/Linux)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2836)
-    * [Host a Website (https://github.com/donnemartin/awesome-aws/blob/master/Windows)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2908)
+    * [Host a Website (Linux)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2836)
+    * [Host a Website (Windows)](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2908)
     * [Run a Database](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2980)
     * [Analyze Your Data](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e3065)
 
@@ -1235,7 +1235,7 @@ Community Groups:
 
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
 * [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
-* [Amazon Web Services (https://github.com/donnemartin/awesome-aws/blob/master/AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
+* [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
 * [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
 * [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
 * [Amazon Web Services Enthusiasts](https://www.linkedin.com/grps?gid=2485626)
@@ -1281,7 +1281,7 @@ Community Conferences:
 * 102Tbps network capacity into a data center.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 * 500+ major new features and services launched since 2014.<sup>[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * All 14 other cloud providers combined have 1/5th the aggregate capacity of AWS.<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* Every day, AWS adds enough new server capacity to support all of Amazon's global infrastructure when it was a $7B annual revenue enterprise (https://github.com/donnemartin/awesome-aws/blob/master/in 2004).<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+* Every day, AWS adds enough new server capacity to support all of Amazon's global infrastructure when it was a $7B annual revenue enterprise (in 2004).<sup>[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1296,36 +1296,36 @@ Community Conferences:
 * [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
 * [Batch](https://aws.amazon.com/batch/) - Run batch jobs at scale.
 * [Blox](https://blox.github.io/) - Open source projects for building custom schedulers on ECS.
-* [EC2 Container Service (https://github.com/donnemartin/awesome-aws/blob/master/ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
+* [EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
 * [EC2 Systems Manager](https://aws.amazon.com/ec2/systems-manager/) - Easily configure and manage EC2 and on-premises systems.
 * [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
-* [Elastic Compute Cloud (https://github.com/donnemartin/awesome-aws/blob/master/EC2)](http://aws.amazon.com/ec2/) - Provides scalable virtual private servers using Xen.
+* [Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/) - Provides scalable virtual private servers using Xen.
 * [Elastic GPUs](https://aws.amazon.com/ec2/Elastic-GPUs/) - Attach low-cost GPUs to EC2 instances for graphics acceleration.
-* [Elastic Load Balancing (https://github.com/donnemartin/awesome-aws/blob/master/ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
 * [Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages EC2 instances.
 * [Lightsail](https://amazonlightsail.com/) - Launch and manage simple virtual private servers.
-* [Virtual Private Cloud (https://github.com/donnemartin/awesome-aws/blob/master/VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Networking Services
 
 * [Direct Connect](https://aws.amazon.com/directconnect/) - Provides dedicated connections to AWS for faster and cheaper data throughput.
-* [Elastic Load Balancing (https://github.com/donnemartin/awesome-aws/blob/master/ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
-* [Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (https://github.com/donnemartin/awesome-aws/blob/master/DNS) web service.
-* [Virtual Private Cloud (https://github.com/donnemartin/awesome-aws/blob/master/VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
+* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+* [Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (DNS) web service.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Enterprise Applications
 
 * [WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
 * [WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
 * [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
-* [Workspaces Application Manager (https://github.com/donnemartin/awesome-aws/blob/master/WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
+* [Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
 
 ### Analytics Services
 
 * [Athena](https://aws.amazon.com/athena/) - Query data on S3 instantly.
 * [Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
-* [Elastic MapReduce (https://github.com/donnemartin/awesome-aws/blob/master/EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
-* [Elasticsearch Service (https://github.com/donnemartin/awesome-aws/blob/master/ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
+* [Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
+* [Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
 * [Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
 * [Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
 * [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
@@ -1345,9 +1345,9 @@ Community Conferences:
 * [CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
 * [CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
 * [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications, starting with EC2.
-* [Command Line Interface (https://github.com/donnemartin/awesome-aws/blob/master/CLI)](https://aws.amazon.com/cli/) - Provides a https://github.com/donnemartin/awesome-aws/blob/master/CLI to manage all services.
+* [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
 * [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
-* [Management Console (https://github.com/donnemartin/awesome-aws/blob/master/AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
+* [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
 * [OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) - Your personalized view of service health.
 * [Service Catalog](https://aws.amazon.com/servicecatalog/) - Service Catalog allows IT administrators to create, manage, and distribute portfolios of approved products to end users, who can then access the products they need in a personalized portal.
@@ -1355,17 +1355,17 @@ Community Conferences:
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) - Lets you easily provision, manage, and deploy SSL/TLS certificates for use with AWS services.
-* [Cloudhttps://github.com/donnemartin/awesome-aws/blob/master/HSM](https://aws.amazon.com/cloudhsm/) - Helps meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (https://github.com/donnemartin/awesome-aws/blob/master/HSM) appliances within the AWS cloud.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) - Helps meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud.
 * [Directory Service](https://aws.amazon.com/directoryservice/) - A managed service that allows you to connect your resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud.
-* [Identity and Access Management (https://github.com/donnemartin/awesome-aws/blob/master/IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
+* [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
 * [Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
-* [Key Management Service (https://github.com/donnemartin/awesome-aws/blob/master/KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
+* [Key Management Service (KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
 * [Shield](https://aws.amazon.com/shield/) - Managed DDoS Protection.
 * [WAF](https://aws.amazon.com/waf/) - A web application firewall service that monitors and manages CloudFront distributions.
 
 ### Internet of Things Service
 
-* [IoT](https://aws.amazon.com/iot/) - Enables secure, bi-directional communication between internet-connected things (https://github.com/donnemartin/awesome-aws/blob/master/such as sensors, actuators, embedded devices, or smart appliances) and the AWS cloud over MQTT and HTTP.
+* [IoT](https://aws.amazon.com/iot/) - Enables secure, bi-directional communication between internet-connected things (such as sensors, actuators, embedded devices, or smart appliances) and the AWS cloud over MQTT and HTTP.
 
 ### Mobile Services
 
@@ -1375,25 +1375,25 @@ Community Conferences:
 * [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
 * [Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
 * [Pinpoint](https://aws.amazon.com/pinpoint/) - Targeted push notifications for mobile apps.
-* [Simple Notification Service (https://github.com/donnemartin/awesome-aws/blob/master/SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
+* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
 ### Storage and Content Delivery Services
 
-* [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (https://github.com/donnemartin/awesome-aws/blob/master/CDN) for distributing objects to locations near the requester.
-* [Elastic Block Store (https://github.com/donnemartin/awesome-aws/blob/master/EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
-* [Elastic File System (https://github.com/donnemartin/awesome-aws/blob/master/EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
+* [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
+* [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
+* [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
 * [Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
 * [Import/Export](https://aws.amazon.com/importexport/) - Accelerates moving large amounts of data into and out of AWS using portable storage devices for transport.
-* [Simple Storage Service (https://github.com/donnemartin/awesome-aws/blob/master/S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
+* [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
 * [Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
 
 ### Databases
 
 * [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
-* [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (https://github.com/donnemartin/awesome-aws/blob/master/Memcached, Redis).
+* [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
 * [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
-* [Relational Database Service (https://github.com/donnemartin/awesome-aws/blob/master/RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
+* [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
 * [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
 * [SimpleDB](https://aws.amazon.com/simpledb/) - Allows developers to run queries on structured data.
 
@@ -1403,12 +1403,12 @@ Community Conferences:
 * [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
 * [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
 * [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
-* [Elastic Transcoder (https://github.com/donnemartin/awesome-aws/blob/master/ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
-* [Flexible Payments Service (https://github.com/donnemartin/awesome-aws/blob/master/FPS)](https://payments.amazon.com/developer) - Provides an interface for micropayments.
-* [Simple Email Service (https://github.com/donnemartin/awesome-aws/blob/master/SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
-* [Simple Notification Service (https://github.com/donnemartin/awesome-aws/blob/master/SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
-* [Simple Queue Service (https://github.com/donnemartin/awesome-aws/blob/master/SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
-* [Simple Workflow (https://github.com/donnemartin/awesome-aws/blob/master/SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
+* [Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
+* [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - Provides an interface for micropayments.
+* [Simple Email Service (SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
+* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
+* [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
+* [Simple Workflow (SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
 * [Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
 
 ### Developer Tools
@@ -1417,14 +1417,14 @@ Community Conferences:
 * [CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
 * [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
 * [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
-* [Command Line Interface (https://github.com/donnemartin/awesome-aws/blob/master/CLI)](https://aws.amazon.com/cli/) - Provides a https://github.com/donnemartin/awesome-aws/blob/master/CLI to manage all services.
+* [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
 * [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
 
 ### Miscellaneous Services
 
 * [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
-* [Partner Network (https://github.com/donnemartin/awesome-aws/blob/master/APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
+* [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 * [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
 ## Credits
@@ -1443,10 +1443,10 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 
 ## License
 
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/donnemartin/awesome-aws/blob/master/Facebook).*
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
 
     Copyright 2017 Donne Martin
 
-    Creative Commons Attribution 4.0 International License (https://github.com/donnemartin/awesome-aws/blob/master/CC BY 4.0)
+    Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
     http://creativecommons.org/licenses/by/4.0/

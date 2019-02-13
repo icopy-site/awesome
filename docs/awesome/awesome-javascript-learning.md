@@ -61,7 +61,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ## Free eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Covering the language and runtime specifics.
-- [You Don't Know JS (https://github.com/micromata/awesome-javascript-learning/blob/master/book series)](https://github.com/micromata/awesome-javascript-learning/blob/master/https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
@@ -109,7 +109,7 @@ Thin books which you can get through in a few days.
 ## DOM related
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
-- [You Might Not Need jQuery](https://github.com/micromata/awesome-javascript-learning/blob/master/http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (https://github.com/micromata/awesome-javascript-learning/blob/master/and see their jQuery equivalents).
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 - [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/) - A tutorial featuring native methods to traverse the DOM.
 
 

@@ -38,10 +38,10 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
 - [Composer-Asset-Plugin](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
-- [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (https://github.com/jakoch/awesome-composer/blob/master/with authentication support for private repositories).
+- [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
 - [Composer-Composition](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
 - [Composer-Suggest](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
-- [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (https://github.com/jakoch/awesome-composer/blob/master/showing "Latest is vX.Y.Z").
+- [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
 - [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
 - [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
@@ -53,22 +53,22 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) - Comprehensive Plugin for composer to execute PHP Quality assurance Tools.
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
-- [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (https://github.com/jakoch/awesome-composer/blob/master/to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
+- [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share selected packages between your projects by creating symlinks.
-- [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load packages from different directories (https://github.com/jakoch/awesome-composer/blob/master/instead of loading them from /vendor).
+- [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 - [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
-- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (https://github.com/jakoch/awesome-composer/blob/master/vendor folder).
+- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
 - [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
-- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Enables you to retrieve all package informations (https://github.com/jakoch/awesome-composer/blob/master/like version, tag, release date, description).
+- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Enables you to retrieve all package informations (like version, tag, release date, description).
 - [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 - [Narrowspark-Automatic](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
-- [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (https://github.com/jakoch/awesome-composer/blob/master/rulesets).
+- [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - Downloads and installs NodeJS and npm as composer package. 
@@ -84,7 +84,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Studio](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - Enables you to navigate Composer/NPM dependencies on Github.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
-- [Compohttps://github.com/jakoch/awesome-composer/blob/master/ser-Normalize](httphttps://github.com/jakoch/awesome-composer/blob/master/s://github.com/localheinz/compohttps://github.com/jakoch/awesome-composer/blob/master/ser-normalize) - The plugin helphttps://github.com/jakoch/awesome-composer/blob/master/s to keep your `compohttps://github.com/jakoch/awesome-composer/blob/master/ser.jhttps://github.com/jakoch/awesome-composer/blob/master/son` file(https://github.com/jakoch/awesome-composer/blob/master/s) conhttps://github.com/jakoch/awesome-composer/blob/master/sihttps://github.com/jakoch/awesome-composer/blob/master/stent by rehttps://github.com/jakoch/awesome-composer/blob/master/structuring and https://github.com/jakoch/awesome-composer/blob/master/sorting entriehttps://github.com/jakoch/awesome-composer/blob/master/s (https://github.com/jakoch/awesome-composer/blob/master/normalizing).
+- [Composer-Normalize](https://github.com/localheinz/composer-normalize) - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 - [Composer-Service](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 
@@ -93,10 +93,10 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 - [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project `composer.json`. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 - [Melody](https://github.com/sensiolabs/melody) - One-file composer scripts.
-- [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (https://github.com/jakoch/awesome-composer/blob/master/`.travis.yml`).
+- [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
 - [Composer-Multitest](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
-- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (https://github.com/jakoch/awesome-composer/blob/master/Linux, Windows, Mac) into /bin of your project.
+- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)- A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 
 ## GUI 
 
@@ -119,8 +119,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Blogs
 
-- [Jordi Boggiano (https://github.com/jakoch/awesome-composer/blob/master/seldaek)](https://seld.be/)
-- [Nils Adermann (https://github.com/jakoch/awesome-composer/blob/master/naderman)](http://https://github.com/jakoch/awesome-composer/blob/master/naderman.de/)
+- [Jordi Boggiano (seldaek)](https://seld.be/)
+- [Nils Adermann (naderman)](http://naderman.de/)
 - [Composer: Part 1 - What & Why](http://blog.nelm.io/2011/12/composer-part-1-what-why/)
 - [Composer: Part 2 - Impact](http://blog.nelm.io/2011/12/composer-part-2-impact/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
@@ -155,13 +155,13 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
   - [Compoer In-Depth @ Contao Konferenz 2018](http://www.naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf)
   - [Composer Best Practices 2018](http://www.naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf)
   - [Developing and Deploying Magento with Composer Best Practices](http://www.naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf)
-  - [Composer Platform Config (https://github.com/jakoch/awesome-composer/blob/master/check-platform-reqs) @ SymfonCon 2018](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
+  - [Composer Platform Config (check-platform-reqs) @ SymfonCon 2018](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
 - Slides by Jordi Boggiano
   - Source: http://slides.seld.be/
-  - [Dependency Management with Composer (https://github.com/jakoch/awesome-composer/blob/master/2013)](http://slides.seld.be/?file=https://github.com/jakoch/awesome-composer/blob/master/2013-10-04+Dependency+Management+with+Composer.html)
-  - [In Depth with Composer (https://github.com/jakoch/awesome-composer/blob/master/2013)](http://slides.seld.be/?file=https://github.com/jakoch/awesome-composer/blob/master/2013-10-05+In-Depth+with+Composer.html)
-  - [Composer Best Practices (https://github.com/jakoch/awesome-composer/blob/master/2015)](http://slides.seld.be/?file=https://github.com/jakoch/awesome-composer/blob/master/2015-07-25+Composer+Best+Practices.html)
-  - [Introduction to Composer (https://github.com/jakoch/awesome-composer/blob/master/2015)](http://slides.seld.be/?file=https://github.com/jakoch/awesome-composer/blob/master/2015-06-30+Introduction+to+Composer.html)
+  - [Dependency Management with Composer (2013)](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
+  - [In Depth with Composer (2013)](http://slides.seld.be/?file=2013-10-05+In-Depth+with+Composer.html)
+  - [Composer Best Practices (2015)](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
+  - [Introduction to Composer (2015)](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
   - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
 
 ---------------------------------------------------------
@@ -201,7 +201,7 @@ About metadata mirrors: https://packagist.org/mirrors
 - [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
 - [Satis Server](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
-- [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (https://github.com/jakoch/awesome-composer/blob/master/and many others).
+- [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).
 - [Release Belt](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 
 ### Satis
@@ -213,7 +213,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 ### Toran Proxy
 
-- [ToranProxy](https://toranproxy.com/) (https://github.com/jakoch/awesome-composer/blob/master/deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
+- [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
 ---------------------------------------------------------
 

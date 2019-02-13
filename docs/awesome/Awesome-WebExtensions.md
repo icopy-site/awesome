@@ -47,11 +47,11 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (https://github.com/bfred-it/Awesome-WebExtensions/blob/master/or on Travis, automatically).
+- [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
-- [unzip-https://github.com/bfred-it/Awesome-WebExtensions/blob/master/crx](https://github.com/peerigon/unzip-https://github.com/bfred-it/Awesome-WebExtensions/blob/master/crx) - Unzips Google Chrome (https://github.com/bfred-it/Awesome-WebExtensions/blob/master/crx) files.
+- [unzip-crx](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.

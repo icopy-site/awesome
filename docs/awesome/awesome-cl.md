@@ -25,7 +25,7 @@ list.
 
 This is released under the GNU Free Documentation License - its text
 is provided in the LICENSE file. This repository is also mirrored on
-[NotABug](https://notabug.org/CodyReichert/awesome-cl) - a **fully-free** (https://github.com/CodyReichert/awesome-cl/blob/master/as in libre)
+[NotABug](https://notabug.org/CodyReichert/awesome-cl) - a **fully-free** (as in libre)
 alternative to Github.  Preference is given to [free software][13] and
 sellers who aren't evil for physical resources.
 
@@ -145,17 +145,17 @@ Audio
 * [cl-supercollider](https://github.com/byulparan/cl-collider) - A
 [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
 * [csound](https://github.com/csound/csound) - A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp.
-* [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (https://github.com/CodyReichert/awesome-cl/blob/master/in CLM's case anyway).
+* [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
 * [cl-patterns](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way.
 * [cl-openal](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
 * [Common Music](https://github.com/ormf/cm) - the repository of an
-ancient version of Common Music (https://github.com/CodyReichert/awesome-cl/blob/master/version 2.12.0), the presumably last
+ancient version of Common Music (version 2.12.0), the presumably last
 version which ran on Common Lisp dating from around 2007-09, before
-work on Common Music shifted to (https://github.com/CodyReichert/awesome-cl/blob/master/scheme-based) cm3.
+work on Common Music shifted to (scheme-based) cm3.
 * [cm-incudine](https://github.com/ormf/cm-incudine) - extends Common Music 2 with realtime capabilities. GPL2.
 * [Mégra](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
-* [Music](https://github.com/MegaLoler/Music) - A framework for musical expression in Lisp with a focus on music theory (https://github.com/CodyReichert/awesome-cl/blob/master/built from scratch, unrelated to Common Music).
-* [rq](https://github.com/openmusic-project/RQ) - A library for rhythm transcription in OpenMusic (https://github.com/CodyReichert/awesome-cl/blob/master/version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
+* [Music](https://github.com/MegaLoler/Music) - A framework for musical expression in Lisp with a focus on music theory (built from scratch, unrelated to Common Music).
+* [rq](https://github.com/openmusic-project/RQ) - A library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
 * [scheduler](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][51].
 * [mixalot](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player](https://github.com/ahefner/shuffletron).
 * [osc](https://github.com/zzkt/osc) - an implementation of the Open Sound Protocol. [LGPL2.1][11].
@@ -194,7 +194,7 @@ Cryptocurrencies
 * [emotiq](https://github.com/emotiq/emotiq) - a next-generation blockchain with an innovative natural-language approach to smart contracts. [MIT][200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser) - parse the blockchain contained in a file and export some of its data to a text file, a SQL script or a database. It can also create a database using the RPC of a Peercoin daemon as source of data instead of a blockchain file. LGPL3. Not in Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator) - This program gives you the probability of generating a POS or POW block within 10 minutes, 24 hours, 31 days, 90 days and 1 year, as well as the reward that can be expected. GUI in Qt. [GPL3][2]. Not in Quicklisp.
-* [peercoin-vote](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (https://github.com/CodyReichert/awesome-cl/blob/master/addresses and balances). [GPL3][2]. Not in Quicklisp.
+* [peercoin-vote](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (addresses and balances). [GPL3][2]. Not in Quicklisp.
 
 Database
 ========
@@ -212,7 +212,7 @@ ORMs
 Persistent object databases
 ---------------------------
 
-* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (https://github.com/CodyReichert/awesome-cl/blob/master/see also chap. 21 of "Common Lisp Recipes")
+* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (see also chap. 21 of "Common Lisp Recipes")
 * [elephant](https://common-lisp.net/project/elephant/) - Elephant is a persistent object database for Common Lisp with full transaction semantics. [LLGPL][8].
 * [ubiquitous](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
 
@@ -296,10 +296,10 @@ Game Development
 Graphics
 ========
 
-These are libraries for working with graphics, rather than making GUIs (https://github.com/CodyReichert/awesome-cl/blob/master/i.e. widget toolkits), which have their own section.
+These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
 
 * :star: [Sketch](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
-* [common-cv](https://github.com/byulparan/common-cv) - the OpenCV (https://github.com/CodyReichert/awesome-cl/blob/master/Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
+* [common-cv](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 * [cl-cairo2](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
 * [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD][39].
 * [cl-horde3d](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0][59]
@@ -321,7 +321,7 @@ These are libraries for working with graphics, rather than making GUIs (https://
 GUI
 ===
 
-* 👍 [Qtools](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [Artistic License 2.0][51] Also [Qtools-ui](https://github.com/Shinmera/qtools-ui) (https://github.com/CodyReichert/awesome-cl/blob/master/premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+* 👍 [Qtools](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [Artistic License 2.0][51] Also [Qtools-ui](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 * :star: [CommonQt](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD][39].
 * [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL][8] or [GNU LGPL2.1][11].
 * [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL][8].
@@ -347,14 +347,14 @@ Implementations
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain.
 * [GNU CLISP](http://www.clisp.org/) - A GNU implementation; contains a compiler and an interpreter. [Standard conformance][6]. [GNU GPL3][2].
-* [CLASP](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (https://github.com/CodyReichert/awesome-cl/blob/master/and others).
+* [CLASP](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others).
 * [Corman Lisp](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT][200].
 
 Proprietary:
 
 * [Lispworks](http://www.lispworks.com/) - an integrated cross-platform development tool for Common Lisp.
 * [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
-* [MOCL](https://wukix.com/mocl) - CL as a library for mobile devices (https://github.com/CodyReichert/awesome-cl/blob/master/iOS & Android) and OSX.
+* [MOCL](https://wukix.com/mocl) - CL as a library for mobile devices (iOS & Android) and OSX.
 
 JSON
 ====
@@ -368,7 +368,7 @@ See also this [extensive comparison](https://sites.google.com/site/sabraonthehil
 YAML
 ====
 
-* [cl-yacclyaml](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (https://github.com/CodyReichert/awesome-cl/blob/master/loader, but not yet dumper). [GPL3][2].
+* [cl-yacclyaml](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3][2].
 * [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
 
 
@@ -424,9 +424,9 @@ Iteration
 Lambda shorthands
 -----------------
 
-* [fn](https://github.com/cbaggers/fn) - a couple of lambda shorthand macros. `(https://github.com/CodyReichert/awesome-cl/blob/master/fn* (https://github.com/CodyReichert/awesome-cl/blob/master/+ _ _))  -->  (https://github.com/CodyReichert/awesome-cl/blob/master/lambda (_) (https://github.com/CodyReichert/awesome-cl/blob/master/+ _ _))`. Public domain.
-* [f-underscore](http://quickdocs.org/f-underscore/api) - a tiny library of functional programming utils. `(https://github.com/CodyReichert/awesome-cl/blob/master/f_ (https://github.com/CodyReichert/awesome-cl/blob/master/+ _ _)) -> (https://github.com/CodyReichert/awesome-cl/blob/master/lambda (_) (https://github.com/CodyReichert/awesome-cl/blob/master/+ _ _))`. Public domain.
-* [cl-chump](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(https://github.com/CodyReichert/awesome-cl/blob/master/mapcar ^(* 2 _) '(https://github.com/CodyReichert/awesome-cl/blob/master/1 2 3 4 5))`. [MIT][200].
+* [fn](https://github.com/cbaggers/fn) - a couple of lambda shorthand macros. `(fn* (+ _ _))  -->  (lambda (_) (+ _ _))`. Public domain.
+* [f-underscore](http://quickdocs.org/f-underscore/api) - a tiny library of functional programming utils. `(f_ (+ _ _)) -> (lambda (_) (+ _ _))`. Public domain.
+* [cl-chump](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT][200].
 
 
 See also CL21 and Rutils.
@@ -486,7 +486,7 @@ Advanced
 --------
 
 * [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
-* [On Lisp](http://www.paulgraham.com/onlisp.html) - Paul Graham's amazing book on Lisp macros (https://github.com/CodyReichert/awesome-cl/blob/master/and other interesting things).
+* [On Lisp](http://www.paulgraham.com/onlisp.html) - Paul Graham's amazing book on Lisp macros (and other interesting things).
 
 Reference
 ---------
@@ -496,7 +496,7 @@ Reference
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - A modern public domain online version of chapters 5 and 6 of The Art of the Metaobject Protocol
 * [Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) - The final draft of the Common Lisp specifications, in a well formatted PDF.
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) - The original standard for Common Lisp before the ANSI spec.
-* [Minispec](https://lamberta.github.io/minispec/) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (https://github.com/CodyReichert/awesome-cl/blob/master/such as Alexandria).
+* [Minispec](https://lamberta.github.io/minispec/) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
 * [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) - The simplified version of CLHS.
 * [Quickdocs](http://quickdocs.org/) - A reference for the libraries provided by Quicklisp.
 
@@ -547,8 +547,8 @@ might help:
 
 ### Interfaces to other package managers
 
-* [cl-brewer](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (https://github.com/CodyReichert/awesome-cl/blob/master/command line) common lisp applications. Public domain.
-* [qldeb](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager](https://github.com/ralt/deb-packager) (https://github.com/CodyReichert/awesome-cl/blob/master/simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT][200].
+* [cl-brewer](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
+* [qldeb](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT][200].
 * [ql-to-deb](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
 
 Machine Learning
@@ -586,7 +586,7 @@ request/response parser for Common Lisp. [MIT][200].
 
 HTTP Servers
 ------------
-* 👍[Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (https://github.com/CodyReichert/awesome-cl/blob/master/default is Hunchentoot).
+* 👍[Clack](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot).
 * :star: [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8].
 * [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14].
@@ -611,7 +611,7 @@ Web frameworks
 * [Caveman](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8].
   Example projects: [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web) - Framework for building modern web apps. [Expat][14].
-* [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (https://github.com/CodyReichert/awesome-cl/blob/master/mostly easier handling of query parameters). [MIT][200].
+* [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200].
 * [radiance](https://github.com/Shirakumo/radiance) - An extensible framework library and multi-application CMS. [Artistic License 2.0][51].
 * [Lucerne](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200].
 * [Snooze](https://github.com/joaotavora/snooze) - A RESTful web framework, built on Clack, where routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8].
@@ -668,7 +668,7 @@ Javascript
 * [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200].
-* [SmackJack](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (https://github.com/CodyReichert/awesome-cl/blob/master/for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
+* [SmackJack](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT][200].
 * [Panic](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT][200]. Its [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 
 See also
@@ -679,7 +679,7 @@ minor mode for live Parenscript interaction.
 Email
 -----
 
-* [trivial-imap](https://github.com/40ants/trivial-imap) - tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (https://github.com/CodyReichert/awesome-cl/blob/master/which is a fork of Franz's cl-imap). [BSD][15].
+* [trivial-imap](https://github.com/40ants/trivial-imap) - tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (which is a fork of Franz's cl-imap). [BSD][15].
 * [mailgun](https://github.com/40ants/mailgun) - A thin wrapper to post HTML emails through mailgun.com. No license specified.
 * [mito-email-auth](https://github.com/40ants/mito-email-auth) - Helper to authenticate a website's users by sending them unique code by email.
 
@@ -688,7 +688,7 @@ Websockets
 ----------
 
 * 👍 [usocket](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
-* [websocket-driver](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (https://github.com/CodyReichert/awesome-cl/blob/master/Clack). [3-clause BSD][15].
+* [websocket-driver](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (Clack). [3-clause BSD][15].
 
 See more [on cliki](http://www.cliki.net/site/search?query=websockets).
 
@@ -707,12 +707,12 @@ Deployment
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - base
   Docker image for Common Lisp projects with SBCL or CCL and the latest
   ASDF, Qlot and Roswell.
-* [s2i-lisp](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (https://github.com/CodyReichert/awesome-cl/blob/master/and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [AGPL][89]
+* [s2i-lisp](https://github.com/container-lisp/s2i-lisp) - Source-to-Image builder image based on CentOS or alternatively RHEL7 for building Common LISP images for OpenShift (and also Docker). It features an up-to-date SBCL with Quicklisp installation, SLIME or SLY integration and allows customization via environment variables. [AGPL][89]
 
 Monitoring
 ----------
 
-* [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (https://github.com/CodyReichert/awesome-cl/blob/master/memory, threads, requests per second,…). [MIT][200].
+* [prometheus.cl](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT][200].
 
 
 Third-party APIs
@@ -720,10 +720,10 @@ Third-party APIs
 
 * [Aws-sign4](https://github.com/rotatef/aws-sign4) - Common Lisp library for Amazon Web Services signing version 4. [GNU GPL3][2].
 * [zs3](https://github.com/xach/zs3) - A library for working with Amazon's Simple Storage
-Service (https://github.com/CodyReichert/awesome-cl/blob/master/S3) and CloudFront service. [BSD][15].
+Service (S3) and CloudFront service. [BSD][15].
 * [cl-ses](https://github.com/CodyReichert/cl-ses/) - Library for AWS SES. [Expat][14].
 * [north](https://shinmera.github.io/north) - The successor to the
-  South (https://github.com/CodyReichert/awesome-cl/blob/master/Simple OaUTH) library, implementing the full oAuth 1.0a
+  South (Simple OaUTH) library, implementing the full oAuth 1.0a
   protocol, both client and server sides. Using North you can easily
   become an oAuth provider or consumer. [Artistic License 2.0][51].
 * [avatar-api](https://github.com/eudoxia0/avatar-api) - Get avatars from Google+, Gravatar and others. [Expat][14].
@@ -771,10 +771,10 @@ Parallelism and Concurrency
 
 * :star: [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat][14].
 * :star: [lparallel](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
-* [lfarm](https://github.com/lmj/lfarm) - distributing work across machines (https://github.com/CodyReichert/awesome-cl/blob/master/on top of lparallel and usocket). [BSD_3Clause][15]
+* [lfarm](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD_3Clause][15]
 * [chanl](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
 * [cl-async](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
-* [erlangen](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3][2]. See also the [Actors](https://github.com/aarvid/Actors) package for LispWorks (https://github.com/CodyReichert/awesome-cl/blob/master/[discussion](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
+* [erlangen](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3][2]. See also the [Actors](https://github.com/aarvid/Actors) package for LispWorks ([discussion](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
 * [Moira](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. No license specified.
 
 
@@ -823,7 +823,7 @@ Scripting
 * [CLON](https://github.com/didierverna/clon) - Command Line Options
   Nuker. [ISC](https://github.com/didierverna/clon/blob/master/LICENSE).
 * [cl-ansi-term](https://github.com/vindarel/cl-ansi-term) - print
-  colorized text, horizontal lines, progress bars, (https://github.com/CodyReichert/awesome-cl/blob/master/un)ordered lists
+  colorized text, horizontal lines, progress bars, (un)ordered lists
   and tables on ANSI-compliant terminals. [GPL3][2].
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - an
   interface to `libcurses` in Common Lisp. It provides both a raw,
@@ -855,7 +855,7 @@ Text Editor Resources
 
 This contains plugins and other goodies for various text editors.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/) - Parinfer is a way to edit lisp code that helps to keep both the indentation and the parenthesis balanced. It is easy to start with and yet it offers advanced features à la Paredit. It is available on many editors (https://github.com/CodyReichert/awesome-cl/blob/master/Emacs, Vim, Neovim, Atom, Sublime Text, Visual Studio Code, LightTable, CodeMirror,…).
+* [Parinfer](https://shaunlebron.github.io/parinfer/) - Parinfer is a way to edit lisp code that helps to keep both the indentation and the parenthesis balanced. It is easy to start with and yet it offers advanced features à la Paredit. It is available on many editors (Emacs, Vim, Neovim, Atom, Sublime Text, Visual Studio Code, LightTable, CodeMirror,…).
 
 ## Emacs ##
 
@@ -867,7 +867,7 @@ This contains plugins and other goodies for various text editors.
 ## Vim & Neovim ##
 
 * [SLIMV](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
-* [Vlime](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (https://github.com/CodyReichert/awesome-cl/blob/master/and Neovim). [MIT][200].
+* [Vlime](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200].
 * [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) - A Quicklisp frontend for Neovim.
 * [Slimv_box](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
@@ -1005,13 +1005,13 @@ Files and directories
 ---------------------
 
 * :star: [uiop](http://quickdocs.org/uiop/) and its `pathname` package
-  (https://github.com/CodyReichert/awesome-cl/blob/master/replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
+  (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
   and as thus is shipped in many implementations. [MIT][200].
-* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (https://github.com/CodyReichert/awesome-cl/blob/master/directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
+* [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils) - A
   collection of utilities to help with pathname
   operations. [Artistic License 2.0][51].
-* [archive](https://github.com/froydnj/archive) - a library for reading and creating archive (https://github.com/CodyReichert/awesome-cl/blob/master/tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the 'tar' program.
+* [archive](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the 'tar' program.
 
 Git
 ---
@@ -1031,7 +1031,7 @@ Linting
 -------
 
 * [sblint](https://github.com/fukamachi/sblint) - a linter for Common
-  Lisp source code using SBCL, suited for Reviewdog (https://github.com/CodyReichert/awesome-cl/blob/master/[slides](http://www.slideshare.net/fukamachi/sblint)). [BSD_2Clause][17].
+  Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD_2Clause][17].
 
 
 Logging
@@ -1090,10 +1090,10 @@ XML
 
 * [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
 * [Plump][71] - A lenient XML parser. [Artistic License 2.0][51].
-* [xpath](https://github.com/sharplispers/xpath) (https://github.com/CodyReichert/awesome-cl/blob/master/[homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (https://github.com/CodyReichert/awesome-cl/blob/master/XPath) Version 1.0. [BSD_2Clause][17].
+* [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD_2Clause][17].
 * [s-xml](http://cliki.net/S-XML) - A basic parser. [LLGPL][8].
 * [xmls](http://quickdocs.org/xmls/) - A small, simple, non-validating XML parser. [3-clause BSD][15].
-* [cl-feedparser](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (https://github.com/CodyReichert/awesome-cl/blob/master/RSS, Atom) feed parser. [LLGPL][8]
+* [cl-feedparser](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL][8]
 
 
 Contributing
@@ -1101,17 +1101,17 @@ Contributing
 Your contributions are always welcome! Please submit a pull request or create
 an issue to add a new framework, library or software to the list.
 
-The rules we (https://github.com/CodyReichert/awesome-cl/blob/master/try to) respect are the followings:
+The rules we (try to) respect are the followings:
 
 - by default, add a library to the end of its section.
 - absolute de-facto libraries, like BordeauxThreads or Quicklisp,
-  should be denoted with a :star: (https://github.com/CodyReichert/awesome-cl/blob/master/`:star:` in markdown).
+  should be denoted with a :star: (`:star:` in markdown).
 - two libraries very similar in scope should be side by side, or in a
   section of their own.
 - do some curation based on our experience and the state of the
   library's documentation. We do *not* aim at listing every existing
-  CL library (https://github.com/CodyReichert/awesome-cl/blob/master/see Quickdocs or Cliki for that) nor to list every
-  "popular" library (https://github.com/CodyReichert/awesome-cl/blob/master/see Quicklisp stats).
+  CL library (see Quickdocs or Cliki for that) nor to list every
+  "popular" library (see Quicklisp stats).
 - as such, the libraries we like best are marked with a 👍 (`1F44D`
   unicode character). See also the signs' explanation in the
   introduction.

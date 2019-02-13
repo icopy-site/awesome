@@ -12,7 +12,7 @@ If this list is not complete, you can [contribute][editreadme] to make it so. He
 
 > **Please**, help organize these resources so that they are _easy to find_ and _understand_ for new comers. See how to **[Contribute][contributing]** for tips!
 
-**_If you see a link here that is not (https://github.com/veggiemonk/awesome-docker/blob/master/any longer) a good fit, you can fix it by submitting a [pull request][editreadme] to improve this file. Thank you!_**
+**_If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request][editreadme] to improve this file. Thank you!_**
 
 The creators and maintainers of this list do not receive any form of payment to accept a change made by any contributor. This page is not an official Docker product in any way. It is a list of links to projects and is maintained by volunteers. Everybody is welcome to contribute. The goal of this repo is to index open-source projects, not to advertise for profit.
 
@@ -24,7 +24,7 @@ All the links are monitored and tested with [awesome_bot](https://github.com/dkh
 
 - [What is Docker](#what-is-docker)
 - [Where to start](#where-to-start)
-- [Where to start (https://github.com/veggiemonk/awesome-docker/blob/master/Windows)](https://github.com/veggiemonk/awesome-docker/blob/master/#where-to-start-windows)
+- [Where to start (Windows)](#where-to-start-windows)
 - [Projects](#projects)
   - [Container Operations](#container-operations)
     - [Container Composition](#container-composition)
@@ -56,7 +56,7 @@ All the links are monitored and tested with [awesome_bot](https://github.com/dkh
     - [Serverless](#serverless)
     - [Testing](#testing)
     - [Wrappers](#wrappers)
-  - [Services based on Docker (https://github.com/veggiemonk/awesome-docker/blob/master/:heavy_dollar_sign:)](https://github.com/veggiemonk/awesome-docker/blob/master/#services-based-on-docker-heavy_dollar_sign)
+  - [Services based on Docker (:heavy_dollar_sign:)](#services-based-on-docker-heavy_dollar_sign)
     - [CI Services :heavy_dollar_sign:](#ci-services)
     - [CaaS :heavy_dollar_sign:](#caas)
     - [Monitoring Services :heavy_dollar_sign:](#monitoring-services)
@@ -92,20 +92,20 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Documentation](https://docs.docker.com/): the official documentation
 - [Docker Training](https://success.docker.com/training) :heavy_dollar_sign:
 - [Katacoda](https://www.katacoda.com/courses/docker): Learn Docker using Interactive Browser-Based Labs
-- [Learn Docker](https://github.com/dwyl/learn-docker): step-by-step tutorial and more resources (https://github.com/veggiemonk/awesome-docker/blob/master/video, articles, cheat sheets) by [@dwyl](https://github.com/dwyl)
+- [Learn Docker](https://github.com/dwyl/learn-docker): step-by-step tutorial and more resources (video, articles, cheat sheets) by [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/): PWD is a great way to get started with Docker from beginner to advanced users. Docker runs directly in your browser.
 - [Play With Moby](http://play-with-moby.com/): PWM is a web based Moby playground which allows you to try different components of the platform in seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Moby projects and even create clusters to experiment.
-- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) The landscape for container technologies is larger than just docker. Without a good handle on the terminology, It can be difficult to grasp the key differences between docker and (https://github.com/veggiemonk/awesome-docker/blob/master/pick your favorites, CRI-O, rkt, lxc/lxd) or understand what the Open Container Initiative is doing to standardize container technology.
-- [Docker Tutorial for Beginners (https://github.com/veggiemonk/awesome-docker/blob/master/Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2) — In this Docker tutorial, you'll learn all the basics and learn how you can containerize Node.js and Go applications. Even if you aren't familiar with these languages it should be easy for you to follow this tutorial and use any other language.
+- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) The landscape for container technologies is larger than just docker. Without a good handle on the terminology, It can be difficult to grasp the key differences between docker and (pick your favorites, CRI-O, rkt, lxc/lxd) or understand what the Open Container Initiative is doing to standardize container technology.
+- [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2) — In this Docker tutorial, you'll learn all the basics and learn how you can containerize Node.js and Go applications. Even if you aren't familiar with these languages it should be easy for you to follow this tutorial and use any other language.
 
 **Cheatsheets** by
 
 - [@eon01](https://github.com/eon01/DockerCheatSheet)
-- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) (https://github.com/veggiemonk/awesome-docker/blob/master/PDF)
+- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) (PDF)
 - [@JensPiegsa](http://docker.jens-piegsa.com)
-- [@wsargent](https://github.com/wsargent/docker-cheat-sheet) (https://github.com/veggiemonk/awesome-docker/blob/master/Most popular)
+- [@wsargent](https://github.com/wsargent/docker-cheat-sheet) (Most popular)
 
-## Where to start (https://github.com/veggiemonk/awesome-docker/blob/master/Windows)
+## Where to start (Windows)
 
 - [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) Comparing the feature sets and implementations of Docker on Windows and Linux
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) Walkthrough installing Docker on Windows 10, building a Docker image and running a Windows container
@@ -129,10 +129,10 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Moby](https://github.com/moby/moby)
 - [Docker Images](https://hub.docker.com)
-- [Docker Compose](https://github.com/docker/compose/) (https://github.com/veggiemonk/awesome-docker/blob/master/Define and run multi-container applications with Docker)
-- [Docker Machine](https://github.com/docker/machine) (https://github.com/veggiemonk/awesome-docker/blob/master/Machine management for a container-centric world)
-- [Docker Registry][distribution] (https://github.com/veggiemonk/awesome-docker/blob/master/The Docker toolset to pack, ship, store, and deliver content)
-- [Docker Swarm](https://github.com/docker/swarm) (https://github.com/veggiemonk/awesome-docker/blob/master/Swarm: a Docker-native clustering system)
+- [Docker Compose](https://github.com/docker/compose/) (Define and run multi-container applications with Docker)
+- [Docker Machine](https://github.com/docker/machine) (Machine management for a container-centric world)
+- [Docker Registry][distribution] (The Docker toolset to pack, ship, store, and deliver content)
+- [Docker Swarm](https://github.com/docker/swarm) (Swarm: a Docker-native clustering system)
 
 ## Container Operations
 
@@ -144,7 +144,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Capitan](https://github.com/byrnedo/capitan) - Composable docker orchestration with added scripting support by [@byrnedo](https://github.com/byrnedo).
 - [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - Generate Plantuml graphs from docker-compose files by [@funkwerk](https://github.com/funkwerk)
 - [Composerize](https://github.com/magicmark/composerize) - Convert docker run commands into docker-compose files
-- [crowdr](https://github.com/polonskiy/crowdr) - Tool for managing multiple Docker containers (https://github.com/veggiemonk/awesome-docker/blob/master/`docker-compose` alternative) by [@polonskiy](https://github.com/polonskiy/)
+- [crowdr](https://github.com/polonskiy/crowdr) - Tool for managing multiple Docker containers (`docker-compose` alternative) by [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - Turn a docker-compose.yml files into Graphviz .dot files by [@abesto](https://github.com/abesto)
 - [docker-config-update](https://github.com/sudo-bmitch/docker-config-update) - Utility to update docker configs and secrets for deploying in a compose file by [@sudo-bmitch](https://github.com/sudo-bmitch)
 - [draw-compose](https://github.com/Alexis-benoist/draw-compose) - Utility to draw a schema of a docker compose by [@Alexis-benoist](https://github.com/Alexis-benoist)
@@ -155,7 +155,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [plash](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker) :skull: - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [grammarly](https://github.com/grammarly).
-- [Stacker](https://github.com/stacker/stacker-cli) - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (https://github.com/veggiemonk/awesome-docker/blob/master/developer experience).
+- [Stacker](https://github.com/stacker/stacker-cli) - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
 - [Smalte](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container. By [@roquie](https://github.com/roquie)
 - [Zodiac](https://github.com/CenturyLinkLabs/zodiac) :skull: - A lightweight tool for easy deployment and rollback of dockerized applications. By [@CenturyLinkLabs][centurylinklabs]
 
@@ -171,7 +171,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockit](https://github.com/humblec/dockit) :skull: - Do docker actions and Deploy gluster containers! By [@humblec](https://github.com/humblec)
 - [gitkube](https://github.com/hasura/gitkube) - Gitkube is a tool for building and deploying docker images on Kubernetes using `git push`. By [@Hasura](https://github.com/hasura/).
 - [Grafeas](https://github.com/grafeas/grafeas) - A common API for metadata about containers, from image and build details to security vulnerabilities. By [grafeas](https://github.com/grafeas)
-- [Longshoreman](https://github.com/longshoreman/longshoreman) :skull: - Longshoreman automates application deployment using Docker. Just create a Docker repository (https://github.com/veggiemonk/awesome-docker/blob/master/or use a service), configure the cluster using AWS or Digital Ocean (https://github.com/veggiemonk/awesome-docker/blob/master/or whatever you like) and deploy applications using a Heroku-like CLI tool. By [longshoreman](https://github.com/longshoreman)
+- [Longshoreman](https://github.com/longshoreman/longshoreman) :skull: - Longshoreman automates application deployment using Docker. Just create a Docker repository (or use a service), configure the cluster using AWS or Digital Ocean (or whatever you like) and deploy applications using a Heroku-like CLI tool. By [longshoreman](https://github.com/longshoreman)
 
 ### Monitoring
 
@@ -188,11 +188,11 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Glances](https://github.com/nicolargo/glances) - A cross-platform curses-based system monitoring tool written in Python by [@nicolargo](https://github.com/nicolargo)
 - [Grafana Docker Dashboard Template](https://grafana.com/dashboards/179) - A template for your Docker, Grafana and Prometheus stack [@vegasbrianc][vegasbrianc]
 - [InfluxDB, cAdvisor, Grafana](https://github.com/vegasbrianc/docker-monitoring) - InfluxDB Time series DB in combination with Grafana and cAdvisor by [@vegasbrianc][vegasbrianc]
-- [LogJam](https://github.com/gocardless/logjam) - Logjam is a log forwarder designed to listen on a local port, receive log entries over UDP, and forward these messages on to a log collection server (https://github.com/veggiemonk/awesome-docker/blob/master/such as logstash) by [@gocardless](https://github.com/gocardless)
+- [LogJam](https://github.com/gocardless/logjam) - Logjam is a log forwarder designed to listen on a local port, receive log entries over UDP, and forward these messages on to a log collection server (such as logstash) by [@gocardless](https://github.com/gocardless)
 - [Logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs by [@gliderlabs][gliderlabs]
 - [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes by [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in [Automated Nginx Reverse Proxy (https://github.com/veggiemonk/awesome-docker/blob/master/jwilder's)][nginxproxy].
-- [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring) - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (https://github.com/veggiemonk/awesome-docker/blob/master/~10x) better, than any script solution.
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in [Automated Nginx Reverse Proxy (jwilder's)][nginxproxy].
+- [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring) - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) - Monitor containers automatically using zabbix LLD feature.
 
 ### Networking
@@ -201,7 +201,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Flannel](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [@coreos][coreos]
 - [netshoot](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues by [@nicolaka](https://github.com/nicolaka)
 - [Pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [@jpetazzo][jpetazzo]
-- [Weave][weave] (https://github.com/veggiemonk/awesome-docker/blob/master/The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
+- [Weave][weave] (The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
 
 ### Orchestration
 
@@ -230,11 +230,11 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### PaaS
 
 - [Atlantis](https://github.com/ooyala/atlantis) :skull: - Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go
-- [caprover](https://github.com/caprover/caprover) - [previously known as CaptainDuckDuck] Automated Scalable Webserver Package (https://github.com/veggiemonk/awesome-docker/blob/master/automated Docker+nginx) - Heroku on Steroids
+- [caprover](https://github.com/caprover/caprover) - [previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids
 - [Convox Rack](https://github.com/convox/rack) - Convox Rack is open source PaaS built on top of expert infrastructure automation and devops best practices.
 - [Dcw](https://github.com/pbertera/dcw) - Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.
-- [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (https://github.com/veggiemonk/awesome-docker/blob/master/originally by [@progrium][progrium])
-- [Empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (https://github.com/veggiemonk/awesome-docker/blob/master/ECS)
+- [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (originally by [@progrium][progrium])
+- [Empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
 - [Exoframe](https://github.com/exoframejs/exoframe) - A self-hosted tool that allows simple one-command deployments using Docker
 - [Flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service
 - [Nanobox](https://github.com/nanobox-io/nanobox) :heavy_dollar_sign: - An application development platform that creates local environments that can then be deployed and scaled in the cloud.
@@ -247,7 +247,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [docker-flow-proxy](https://github.com/vfarcic/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@vfarcic][vfarcic]
 - [docker-proxy](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
-- [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(https://github.com/veggiemonk/awesome-docker/blob/master/S) router for deploying microservices managed by consul. By [@magiconair](https://github.com/magiconair) (Frank https://github.com/veggiemonk/awesome-docker/blob/master/Schroeder)
+- [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [@magiconair](https://github.com/magiconair) (Frank Schroeder)
 - [h2o-proxy](https://github.com/zchee/h2o-proxy) :skull: - Automated H2O reverse proxy for Docker containers. An alternative to [jwilder/nginx-proxy][nginxproxy] by [@zchee](https://github.com/zchee)
 - [Let's Encrypt Nginx-proxy Companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By [@JrCs](https://github.com/JrCs)
 - [muguet](https://github.com/mattallty/muguet) - DNS Server & Reverse proxy for Docker environments. By [@mattallty](https://github.com/mattallty)
@@ -277,7 +277,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Service Discovery
 
 - [docker-consul](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
-- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (https://github.com/veggiemonk/awesome-docker/blob/master/former part of CoreOS)
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
 - [https://github.com/veggiemonk/awesome-docker/blob/master/istio](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/istio/https://github.com/veggiemonk/awesome-docker/blob/master/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](https://github.com/veggiemonk/awesome-docker/blob/master/istio)
 - [proxy](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
@@ -288,12 +288,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Convoy](https://github.com/rancher/convoy) - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By [@rancher][rancher]
 - [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison) A docker volume container using Unison for fast two-way folder sync. Created as an alternative to slow boot2docker volumes on OS X. By [@leighmcculloch](https://github.com/leighmcculloch)
-- [Local Persist](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (https://github.com/veggiemonk/awesome-docker/blob/master/created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
+- [Local Persist](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
 - [Minio](https://github.com/minio/minio) - S3 compatible object storage server in Docker containers
 - [Netshare](https://github.com/ContainX/docker-volume-netshare) Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin. By [@ContainX][containx]
 - [portworx](https://portworx.com) :heavy_dollar_sign: - Decentralized storage solution for persistent, shared and replicated volumes.
 - [quobyte](https://www.quobyte.com/) :heavy_dollar_sign: - fully fault-tolerant distributed file system with a docker volume driver
-- [REX-Ray](https://github.com/rexray/rexray) provides a vendor agnostic storage orchestration engine. The primary design goal is to provide persistent storage for Docker, Kubernetes, and Mesos. By[@thecodeteam](https://github.com/thecodeteam) (https://github.com/veggiemonk/awesome-docker/blob/master/DELL Technologies)
+- [REX-Ray](https://github.com/rexray/rexray) provides a vendor agnostic storage orchestration engine. The primary design goal is to provide persistent storage for Docker, Kubernetes, and Mesos. By[@thecodeteam](https://github.com/thecodeteam) (DELL Technologies)
 
 ### User Interface
 
@@ -309,8 +309,8 @@ Native desktop applications for managing and montoring docker hosts and clusters
 #### Terminal
 
 - [captain](https://github.com/jenssegers/captain) - Easily start and stop docker compose projects from any directory. By [@jenssegers](https://github.com/jenssegers)
-- [ctop (https://github.com/veggiemonk/awesome-docker/blob/master/1)](https://github.com/yadutaf/ctop) - A command line / text based Linux Containers monitoring tool that works just like you expect (https://github.com/veggiemonk/awesome-docker/blob/master/Python) by [@yadutaf](https://github.com/yadutaf)
-- [ctop (https://github.com/veggiemonk/awesome-docker/blob/master/2)](https://github.com/bcicen/ctop) - Top-like interface for container metrics (https://github.com/veggiemonk/awesome-docker/blob/master/Golang) by [@bcicen](https://github.com/bcicen/)
+- [ctop (1)](https://github.com/yadutaf/ctop) - A command line / text based Linux Containers monitoring tool that works just like you expect (Python) by [@yadutaf](https://github.com/yadutaf)
+- [ctop (2)](https://github.com/bcicen/ctop) - Top-like interface for container metrics (Golang) by [@bcicen](https://github.com/bcicen/)
 - [dext-docker-registry-plugin](https://github.com/vutran/dext-docker-registry-plugin) - Search the Docker Registry with the Dext smart launcher.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
 - [docker-ls](https://github.com/mayflower/docker-ls) - CLI tools for browsing and manipulating docker registries by [@mayflower](https://github.com/mayflower)
@@ -342,12 +342,12 @@ Native desktop applications for managing and montoring docker hosts and clusters
 - [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) - Web Interface for the Docker Registry HTTP API v2 by [@klausmeyer](https://github.com/klausmeyer)
 - [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - A web UI for easy private/local Docker Registry integration by [@atcol](https://github.com/atcol)
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI, authentication service and event recorder for private docker registry v2 by [@mkuchin](https://github.com/mkuchin)
-- [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - Visualizes Docker services on a Docker Swarm (https://github.com/veggiemonk/awesome-docker/blob/master/for running demos).
+- [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - Visualizes Docker services on a Docker Swarm (for running demos).
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) :skull: - Simple Web-Interface for Docker with a lot of features by [@Electrofenster](https://github.com/Electrofenster/)
 - [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) :skull: - A web service for analyze and browse dependencies between Docker images in the Docker registry, by [@Simone-Erba](https://github.com/Simone-Erba/)
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
 - [Portainer](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
-- [Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (https://github.com/veggiemonk/awesome-docker/blob/master/v2) by [@SUSE](https://github.com/SUSE)
+- [Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2) by [@SUSE](https://github.com/SUSE)
 - [Rapid Dashboard](https://github.com/ozlerhakan/rapid) - A simple query dashboard to use Docker Remote API by [@ozlerhakan](https://github.com/ozlerhakan/)
 - [Seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to monitor docker daemon. by [@tobegit3hub](https://github.com/tobegit3hub)
 - [Swarmpit](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
@@ -365,10 +365,10 @@ Tools and applications that are either installed inside containers or designed t
 - [Chaperone](https://github.com/garywiz/chaperone) - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by [@garywiz](https://github.com/garywiz)
 - [CoreOS][coreos] - Linux for Massive Server Deployments
 - [distroless](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system, by [@GoogleContainerTools][googlecontainertools]
-- [docker-alpine](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image _(https://github.com/veggiemonk/awesome-docker/blob/master/5MB)_ using Alpine Linux by [@gliderlabs][gliderlabs]
+- [docker-alpine](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image _(5MB)_ using Alpine Linux by [@gliderlabs][gliderlabs]
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder][jwilder]
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers by [@jwilder][jwilder]
-- [GoSu](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (https://github.com/veggiemonk/awesome-docker/blob/master/entrypoint script tool) by [@tianon](https://github.com/tianon)
+- [GoSu](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus][sindresorhus]
 - [lstags](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) - The NVIDIA Container Runtime for Docker by [@NVIDIA](https://github.com/NVIDIA)
@@ -401,9 +401,9 @@ Applications designed to help or simplify building **new** images
 - [packer](https://www.packer.io/docs/builders/docker.html) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
 - [portainer](https://github.com/duedil-ltd/portainer) - Apache Mesos framework for building Docker images by [@duedil-ltd](https://github.com/duedil-ltd)
 - [runlike](https://github.com/lavie/runlike) - Generate `docker run`command and options from running containers by [@lavie](https://github.com/lavie)
-- [SkinnyWhale](https://github.com/djosephsen/skinnywhale) :skull: - Skinnywhale helps you make smaller (https://github.com/veggiemonk/awesome-docker/blob/master/as in megabytes) Docker containers.
+- [SkinnyWhale](https://github.com/djosephsen/skinnywhale) :skull: - Skinnywhale helps you make smaller (as in megabytes) Docker containers.
 - [Smith](https://github.com/oracle/smith) - A Micocontainer Builder and can perform multi-stage builds after the image is built [Oracle][oracle]
-- [werf](https://github.com/flant/werf) - Werf (https://github.com/veggiemonk/awesome-docker/blob/master/previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery by [@flant](https://github.com/flant)
+- [werf](https://github.com/flant/werf) - Werf (previously known as dapp) helps to implement and support Continuous Integration and Continuous Delivery by [@flant](https://github.com/flant)
 - [Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles by [@P3GLEG](https://github.com/P3GLEG/).
 - [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications by [@icalialabs](https://github.com/IcaliaLabs).
 
@@ -443,7 +443,7 @@ Examples by:
 
 Services to securely store your Docker images.
 
-- [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) - Amazon EC2 Container Registry (https://github.com/veggiemonk/awesome-docker/blob/master/ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.
+- [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) - Amazon EC2 Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/de-de/services/container-registry/) - Manage a Docker private registry as a first-class Azure resource
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot) - A bare essential OS for running the Docker Engine on bare metal or Cloud. By [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) - Bare-metal container hosting.
@@ -457,8 +457,8 @@ Services to securely store your Docker images.
 - [Harbor](https://github.com/goharbor/harbor) An open source trusted cloud native registry project that stores, signs, and scans content. Supports replication, user management, access control and activity auditing. By [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) formerly [VMWare](https://github.com/vmware)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) - Artifact Repository Manager, can be used as private Docker Registry as well
 - [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - Dedicated Conainer Registry Service with unlimited private repositories, users, teams, namespaces together with enterprise grade authentication LDAP/AD/OAuth/SAML.
-- [Quay.io :heavy_dollar_sign:](https://quay.io/) (https://github.com/veggiemonk/awesome-docker/blob/master/part of CoreOS) - Secure hosting for private Docker repositories
-- [Rescoyl](https://github.com/noteed/rescoyl) - Private Docker registry (https://github.com/veggiemonk/awesome-docker/blob/master/free and open source) by [@noteed](https://github.com/noteed)
+- [Quay.io :heavy_dollar_sign:](https://quay.io/) (part of CoreOS) - Secure hosting for private Docker repositories
+- [Rescoyl](https://github.com/noteed/rescoyl) - Private Docker registry (free and open source) by [@noteed](https://github.com/noteed)
 - [Sonatype Nexus](https://www.sonatype.com/nexus-repository-oss) - Repository with Universal Support, also for Docker images
 - [TreeScale](https://github.com/treescale) - Build and Distribute container based applications. By [@tigranbs](https://github.com/tigranbs)
 
@@ -504,7 +504,7 @@ Services to securely store your Docker images.
 
 ### Development Environment
 
-- [Binci](https://github.com/binci/binci) - Containerize your development workflow. (https://github.com/veggiemonk/awesome-docker/blob/master/formerly DevLab by [@TechnologyAdvice](https://github.com/TechnologyAdvice))
+- [Binci](https://github.com/binci/binci) - Containerize your development workflow. (formerly DevLab by [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 - [Boot2Docker](https://github.com/boot2docker/boot2docker) - Docker for OSX and Windows
 - [construi](https://github.com/lstephen/construi) - Run your builds inside a Docker defined environment by [@lstephen](https://github.com/lstephen)
 - [Crashcart](https://github.com/oracle/crashcart) - Sideload Linux binaries into a running container for troubleshooting by [@Oracle][oracle]
@@ -517,8 +517,8 @@ Services to securely store your Docker images.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools) - A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like "build.sh" and "deploy.sh" inside code repositories. By [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch) - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By [@Ph3nol](https://github.com/ph3nol)
-- [Docker-sync](http://docker-sync.io/) - Drastically improves performance (https://github.com/veggiemonk/awesome-docker/blob/master/[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance)) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [@EugenMayer](https://github.com/EugenMayer)
-- [docker-vm](https://github.com/shyiko/docker-vm) - Simple and transparent alternative to boot2docker (https://github.com/veggiemonk/awesome-docker/blob/master/backed by Vagrant) by [@shyiko](https://github.com/shyiko)
+- [Docker-sync](http://docker-sync.io/) - Drastically improves performance ([50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance)) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [@EugenMayer](https://github.com/EugenMayer)
+- [docker-vm](https://github.com/shyiko/docker-vm) - Simple and transparent alternative to boot2docker (backed by Vagrant) by [@shyiko](https://github.com/shyiko)
 - [Dusty](http://dusty.gc.com/) - Managed Docker development environments on OS X
 - [Eclipse Che](http://www.eclipse.org/che/) - Developer workspace server with Docker runtimes, cloud IDE, next-generation Eclipse IDE
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Replace your local installation of Node, Go, ... with project-specific docker containers. By [@EnvCLI](https://github.com/EnvCLI)
@@ -542,9 +542,9 @@ Services to securely store your Docker images.
 - [Apache OpenWhisk](https://github.com/apache/incubator-openwhisk) - a serverless, open source cloud platform that executes functions in response to events at any scale. By [@apache](https://github.com/apache)
 - [Docker-Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment. By [@lamb-ci](https://github.com/lambci)
 - [Funker](https://github.com/bfirsh/funker-example-voting-app) - Functions as Docker containers example voting app. By [@bfirsh](https://github.com/bfirsh)
-- [IronFunctions](https://github.com/iron-io/functions) - The serverless microservices platform FaaS (https://github.com/veggiemonk/awesome-docker/blob/master/Funcitons as a Service) which uses Docker containers to run Any language or AWS Lambda functions
+- [IronFunctions](https://github.com/iron-io/functions) - The serverless microservices platform FaaS (Funcitons as a Service) which uses Docker containers to run Any language or AWS Lambda functions
 - [OpenFaaS](https://github.com/openfaas/faas) - A complete serverless functions framework for Docker and Kubernetes. By [OpenFaaS](https://github.com/openfaas)
-- [https://github.com/veggiemonk/awesome-docker/blob/master/SCAR](https://github.com/grycap/scar) - Serverless Container-aware Architectures (https://github.com/veggiemonk/awesome-docker/blob/master/SCAR) is a serverless framework that allows easy deployment and execution of containers (https://github.com/veggiemonk/awesome-docker/blob/master/e.g. Docker) in Serverless environments (https://github.com/veggiemonk/awesome-docker/blob/master/e.g. Lambda) by [@grycap](https://github.com/grycap)
+- [SCAR](https://github.com/grycap/scar) - Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda) by [@grycap](https://github.com/grycap)
 
 ### Testing
 
@@ -571,7 +571,7 @@ Services to securely store your Docker images.
 - [udocker](https://github.com/indigo-dc/udocker) - A tool to execute simple docker containers in batch or interactive systems without root privileges by [@inidigo-dc](https://github.com/indigo-dc)
 - [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) - Good starting point is [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) by [@bubenkoff](https://github.com/bubenkoff)
 
-## Services based on Docker (https://github.com/veggiemonk/awesome-docker/blob/master/:heavy_dollar_sign:)
+## Services based on Docker (:heavy_dollar_sign:)
 
 ### CI Services
 
@@ -629,14 +629,14 @@ Services to securely store your Docker images.
 - [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) - Not specific to docker but relevant.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) by [@ramitsurana][ramitsurana]
 - [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) more general about container than this repo, by [@Friz-zy](https://github.com/Friz-zy).
-- [Awesome Selfhosted](https://github.com/Kickball/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (https://github.com/veggiemonk/awesome-docker/blob/master/setup local web server and run applications from there) or in a Docker container. By [@Kickball](https://github.com/Kickball)
+- [Awesome Selfhosted](https://github.com/Kickball/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [@Kickball](https://github.com/Kickball)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) by [@n1trux](https://github.com/n1trux)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) a list of SaaS and On premise applications by [@cjbarber](https://github.com/cjbarber)
 
 ## Good Tips
 
 - [Dealing with linked containers dependency in docker-compose](http://brunorocha.org/python/dealing-with-linked-containers-dependency-in-docker-compose.html) by [@rochacbruno](https://github.com/rochacbruno)
-- [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) What You Should Know About Running Docker In Production (https://github.com/veggiemonk/awesome-docker/blob/master/written 11 APRIL 2016) **MUST SEE**
+- [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) What You Should Know About Running Docker In Production (written 11 APRIL 2016) **MUST SEE**
 - [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) - The **funniest way** to learn about docker by [@jessfraz][jessfraz] who also gave a [presentation](https://www.youtube.com/watch?v=1qlLUf7KtAw) about it @ DockerCon 2015
 - [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.rightscale.com/blog/cloud-management-best-practices/docker-vs-vms-combining-both-cloud-portability-nirvana)
 - [Don't Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd) by [@King Chung Huang](https://github.com/kinghuang)
@@ -647,7 +647,7 @@ Services to securely store your Docker images.
 - [Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/) Huge resource on clustering, swarm, docker, pre-installed image for SD card on Raspberry Pi
 - [Get Docker up and running on the RaspberryPi in three steps](https://github.com/umiddelb/armhf/wiki/Get-Docker-up-and-running-on-the-RaspberryPi-%28ARMv6%29-in-three-steps)
 - [git push docker containers to linux devices](https://www.balena.io) Modern DevOps for IoT, leveraging git and Docker.
-- [Installing, running, using Docker on armhf (https://github.com/veggiemonk/awesome-docker/blob/master/ARMv7) devices](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-%28https://github.com/veggiemonk/awesome-docker/blob/master/ARMv7%29-devices)
+- [Installing, running, using Docker on armhf (ARMv7) devices](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-%28ARMv7%29-devices)
 
 ## Security
 
@@ -662,27 +662,27 @@ Services to securely store your Docker images.
 - [Improving Docker Security with Authenticated Volumes](https://www.blockbridge.com/improving-docker-security-with-authenticated-volumes/)
 - [Lynis is an open source security auditing tool including Docker auditing](https://cisofy.com/lynis/)
 - [Security Best Practices for Building Docker Images](https://linux-audit.com/tag/docker/)
-- [Software Engineering Radio interview of Docker Security Team Lead (https://github.com/veggiemonk/awesome-docker/blob/master/Diogo Mónica)](http://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/)
+- [Software Engineering Radio interview of Docker Security Team Lead (Diogo Mónica)](http://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/)
 - [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)
-- [Understanding Docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/) (https://github.com/veggiemonk/awesome-docker/blob/master/written 5 MAY 2015)
+- [Understanding Docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/) (written 5 MAY 2015)
 
 ## Videos
 
-- [Contributing to Docker by Andrew "Tianon" Page (https://github.com/veggiemonk/awesome-docker/blob/master/InfoSiftr)](https://www.youtube.com/watch?v=1jwo8-1HYYg) (https://github.com/veggiemonk/awesome-docker/blob/master/34:31)
-- [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) (https://github.com/veggiemonk/awesome-docker/blob/master/3:11:06) by [@jpetazzo][jpetazzo]
-- [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (https://github.com/veggiemonk/awesome-docker/blob/master/40:23)
-- [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (https://github.com/veggiemonk/awesome-docker/blob/master/54:26) by [@jpetazzo][jpetazzo] <== Good introduction, context, demo
-- [Docker in Production](https://www.youtube.com/watch?v=Glk5d5WP6MI) by [@jpetazzo][jpetazzo] (https://github.com/veggiemonk/awesome-docker/blob/master/36:05)
-- [Docker: How to Use Your Own Private Registry](https://www.youtube.com/watch?v=CAewZCBT4PI) (https://github.com/veggiemonk/awesome-docker/blob/master/15:01)
-- [Extending Docker with Plugins](https://vimeo.com/110835013) (https://github.com/veggiemonk/awesome-docker/blob/master/15:21)
+- [Contributing to Docker by Andrew "Tianon" Page (InfoSiftr)](https://www.youtube.com/watch?v=1jwo8-1HYYg) (34:31)
+- [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) (3:11:06) by [@jpetazzo][jpetazzo]
+- [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (40:23)
+- [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (54:26) by [@jpetazzo][jpetazzo] <== Good introduction, context, demo
+- [Docker in Production](https://www.youtube.com/watch?v=Glk5d5WP6MI) by [@jpetazzo][jpetazzo] (36:05)
+- [Docker: How to Use Your Own Private Registry](https://www.youtube.com/watch?v=CAewZCBT4PI) (15:01)
+- [Extending Docker with Plugins](https://vimeo.com/110835013) (15:21)
 - [From Local Docker Development to Production Deployments](https://www.youtube.com/watch?v=7CZFpHUPqXw) by [@jpetazzo][jpetazzo] @ AWS re:Invent 2015
-- [Immutable Infrastructure with Docker and EC2 by Michael Bryzek (https://github.com/veggiemonk/awesome-docker/blob/master/Gilt)](https://www.youtube.com/watch?v=GaHzdqFithc) (https://github.com/veggiemonk/awesome-docker/blob/master/42:04)
-- [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) (https://github.com/veggiemonk/awesome-docker/blob/master/3:09:00) by [@jpetazzo][jpetazzo]
-- [Logging on Docker: What You Need to Know](https://vimeo.com/123341629) (https://github.com/veggiemonk/awesome-docker/blob/master/51:27)
-- [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (https://github.com/veggiemonk/awesome-docker/blob/master/1:36:58)
+- [Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)](https://www.youtube.com/watch?v=GaHzdqFithc) (42:04)
+- [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) (3:09:00) by [@jpetazzo][jpetazzo]
+- [Logging on Docker: What You Need to Know](https://vimeo.com/123341629) (51:27)
+- [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)
 - [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) Free Udacity course
-- [State of containers: a debate with CoreOS, VMware and Google](https://www.youtube.com/watch?v=IiITP3yIRd8) (https://github.com/veggiemonk/awesome-docker/blob/master/27:38)
-- [SysAdminCasts: Introduction to Docker](https://sysadmincasts.com/episodes/31-introduction-to-docker) (https://github.com/veggiemonk/awesome-docker/blob/master/15:49)
+- [State of containers: a debate with CoreOS, VMware and Google](https://www.youtube.com/watch?v=IiITP3yIRd8) (27:38)
+- [SysAdminCasts: Introduction to Docker](https://sysadmincasts.com/episodes/31-introduction-to-docker) (15:49)
 
 ## Communities and Meetups
 
@@ -693,7 +693,7 @@ Services to securely store your Docker images.
 
 ## Chinese
 
-- [DockerOne](http://dockone.io/) Docker Community (https://github.com/veggiemonk/awesome-docker/blob/master/in Chinese) by [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
+- [DockerOne](http://dockone.io/) Docker Community (in Chinese) by [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
 
 ## English
 

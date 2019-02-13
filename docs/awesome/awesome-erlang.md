@@ -70,7 +70,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [Giallo](https://github.com/kivra/giallo) - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy).
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server.
-* [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (https://github.com/drobakowski/awesome-erlang/blob/master/including front-end) in pure Erlang.
+* [Nitrogen](https://github.com/nitrogen/nitrogen) - Framework to build web applications (including front-end) in pure Erlang.
 * [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
 
 ## Web Framework Components
@@ -79,7 +79,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
 * [cb_websocket_controller](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
 * [giallo_session](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
-* [simple_bridge](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (https://github.com/drobakowski/awesome-erlang/blob/master/Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
+* [simple_bridge](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
@@ -126,7 +126,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Distributed Systems
  *Tools for stress/load testing, latency issues, etc. across microservices.*
 
- * [Typhoon](https://github.com/fogfish/typhoon) - Stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (https://github.com/drobakowski/awesome-erlang/blob/master/SUT) and visualizes related latencies.
+ * [Typhoon](https://github.com/fogfish/typhoon) - Stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes related latencies.
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
@@ -212,7 +212,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [google-token-erlang](https://github.com/ruel/google-token-erlang) - Google ID token verifier for Erlang.
 * [restc](https://github.com/kivra/restclient) - An Erlang REST client
-* [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (https://github.com/drobakowski/awesome-erlang/blob/master/uses restc)
+* [oauth2c](https://github.com/kivra/oauth2_client) - An Erlang oAuth 2 client (uses restc)
 
 ## Networking
 *Libraries and tools for using network related stuff.*
@@ -261,7 +261,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Books
 *Fantastic books and e-books.*
 
-* [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (https://github.com/drobakowski/awesome-erlang/blob/master/2016)
+* [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016)
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 * [Stuff Goes Bad - ERLANG IN ANGER](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 

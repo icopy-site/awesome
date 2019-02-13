@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-- [nehm](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (https://github.com/agarrharr/awesome-cli-apps/blob/master/if you use macOS) your SoundCloud likes in convenient way.
+- [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based Music Player Daemon client inspired by ncmpc.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
@@ -89,10 +89,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
-- [TTYtter](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/oysttyer/oysttyer) - Twitter client- (https://github.com/agarrharr/awesome-cli-apps/blob/master/[original](https://github.com/agarrharr/awesome-cli-apps/blob/master/http://www.floodgap.com/software/ttytter/)).
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
-- [WeeChat](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (https://github.com/agarrharr/awesome-cli-apps/blob/master/Bash/Ubuntu and Cygwin).
+- [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
 
 ### Video
 
@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [bcal](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 - [boilr](https://github.com/tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
-- [cookiecutter](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (https://github.com/agarrharr/awesome-cli-apps/blob/master/project templates)
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly](https://github.com/lirantal/dockly) - Interactive CLI for managing Docker containers.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [legit](https://github.com/captainsafia/legit) - Choose from many Open Source licences to generate a LICENSE file or add license headers to files.
@@ -125,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Web Development
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
-- [caniuse-cmd](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) about browser support of feature.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) about browser support of feature.
 - [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
@@ -219,8 +219,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### macOS
 
-- [bundle-id-cli](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (https://github.com/agarrharr/awesome-cli-apps/blob/master/macOS): Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (https://github.com/agarrharr/awesome-cli-apps/blob/master/macOS): com.apple.Safari → Safari.
+- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
@@ -233,7 +233,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
 - [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-- [how2](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (https://github.com/agarrharr/awesome-cli-apps/blob/master/Nodejs implementation of howdoi).
+- [how2](https://github.com/santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
 - [shortcutfoo](https://www.shortcutfoo.com/) - Learn shortcuts for VIM, Emacs, git, bash and more.
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
@@ -247,7 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
-- [jp](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (https://github.com/agarrharr/awesome-cli-apps/blob/master/jq compatible, not a replacement).
+- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool
 
 ## Files and Directories
@@ -264,7 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
-- [trashss](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/sotojuan/trashss) - (https://github.com/agarrharr/awesome-cli-apps/blob/master/ only) Trash screenshots on desktop.
+- [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
@@ -287,7 +287,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
-- [happyfinder](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/hugows/hf) - (https://github.com/agarrharr/awesome-cli-apps/blob/master/another) Fuzzy file finder for the command line.
+- [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [PathPicker](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
@@ -302,7 +302,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
 - [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
 - [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
-- [tmate.io](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://tmate.io/) - Instant terminal (https://github.com/agarrharr/awesome-cli-apps/blob/master/tmux) sharing.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
@@ -357,7 +357,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Screensavers
 
-- [cmatrix](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- (https://github.com/agarrharr/awesome-cli-apps/blob/master/[original](https://github.com/agarrharr/awesome-cli-apps/blob/master/http://www.asty.org/cmatrix/)).
+- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
 
 ## Graphics
@@ -368,7 +368,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other
 
-- [app-path-cli](https://github.com/agarrharr/awesome-cli-apps/blob/master/https://github.com/sindresorhus/app-path-cli) - Get the path to an app (https://github.com/agarrharr/awesome-cli-apps/blob/master/macOS).
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).

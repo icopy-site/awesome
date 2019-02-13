@@ -36,7 +36,7 @@
 
 ## About
 
-Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (https://github.com/LucasBassetti/awesome-less/blob/master/CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "Shttps://github.com/LucasBassetti/awesome-less/blob/master/CSS" syntax of Sass, which adapted its https://github.com/LucasBassetti/awesome-less/blob/master/CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other https://github.com/LucasBassetti/awesome-less/blob/master/CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
+Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
 
 **[Back to top](#contents)**
 
@@ -105,7 +105,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Animate](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using Less.
 - [Animate Less](https://github.com/machito/animate.less) - Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) to Less.
-- [Cube https://github.com/LucasBassetti/awesome-less/blob/master/Less](https://github.com/sparanoid/cube.less) - 3D (https://github.com/LucasBassetti/awesome-less/blob/master/animated) cube using only CSS (https://github.com/LucasBassetti/awesome-less/blob/master/Less), originally used by LeanCloud (https://github.com/LucasBassetti/awesome-less/blob/master/aka. AVOS Cloud).
+- [Cube Less](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on.
 - [Less Burguer](https://github.com/MarkRabey/less-burger) - Port of [Sass Burger](http://joren.co/sass-burger/) to Less.
 
@@ -193,11 +193,11 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Atom Linter](https://github.com/josa42/atom-linter-less) - Linter plugin in the Atom text editor.
 - [CSS 2 Convert](http://css2less.co/) - Quick way to automatically convert CSS to Less, easy as copy and paste.
-- [CSS Less(https://github.com/LucasBassetti/awesome-less/blob/master/ish)](https://github.com/kizza/CSS-Less-https://github.com/LucasBassetti/awesome-less/blob/master/ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (https://github.com/LucasBassetti/awesome-less/blob/master/such as Less).
-- [Crunch 2!](http://getcrunch.co/) - Crunch 2 is a cross-platform (https://github.com/LucasBassetti/awesome-less/blob/master/Windows, Mac, and Linux) editor with integrated compiling. If you work with large Less projects, you should definitely try it out, as you only need the free version for Less files.
+- [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
+- [Crunch 2!](http://getcrunch.co/) - Crunch 2 is a cross-platform (Windows, Mac, and Linux) editor with integrated compiling. If you work with large Less projects, you should definitely try it out, as you only need the free version for Less files.
 - [Diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - This plugin extends the Eclipse IDE by providing handy features to edit and compile Less stylesheets.
-- [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) - Eclipse plugin to automatically transpile your files (https://github.com/LucasBassetti/awesome-less/blob/master/Less, SASS, CoffeeScript, etc.).
+- [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) - Eclipse plugin to automatically transpile your files (Less, SASS, CoffeeScript, etc.).
 - [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save.
 - [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - Lint your Less files using CSS Lint from Grunt.
@@ -224,7 +224,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [EstFiddle](http://ecomfe.github.io/est/fiddle/) - Online Less compiler providing live demo for Less and est. Allowing users to switch among all versions of Less after 1.4.0 with optional est/Autoprefixer functionalities.
 - [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess](https://github.com/mishal/iless) PHP compiler.
 - [Leafo](http://leafo.net/lessphp/editor.html) - [Lessphp](http://leafo.net/lessphp/) live demo.
-- [Less2CSS](http://less2css.org/) - Online Integrated Development Environment (https://github.com/LucasBassetti/awesome-less/blob/master/IDE) that is hosted in a browser allowing users to edit and compile Less to CSS in real-time.
+- [Less2CSS](http://less2css.org/) - Online Integrated Development Environment (IDE) that is hosted in a browser allowing users to edit and compile Less to CSS in real-time.
 - [LessPHP](http://lessphp.gpeasy.com/demo) - [Less.php](http://lessphp.gpeasy.com/) live demo.
 - [Lesstester](http://lesstester.com/) - Online compiler for Less CSS.
 - [Precess](http://precess.co/) - A real time preprocesser compiler.
@@ -235,7 +235,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ## Online Web IDEs/Playgrounds with Less support
 
 - [CodePen](http://codepen.io/) - CodePen is a playground for the front end side of the web..
-- [CSSDeck Labs](http://cssdeck.com/labs) - CSSDeck Labs is a place where you can quickly create some experiments (https://github.com/LucasBassetti/awesome-less/blob/master/or testcases) that involves HTML, CSS, JS code.
+- [CSSDeck Labs](http://cssdeck.com/labs) - CSSDeck Labs is a place where you can quickly create some experiments (or testcases) that involves HTML, CSS, JS code.
 - [Fiddle Salad](http://fiddlesalad.com/less/) - An online playground with an instantly ready coding environment.
 - [JS Bin](http://jsbin.com/) - JS Bin is a webapp specifically designed to help JavaScript and CSS folk test snippets of code.
 - [JsFiddle](http://jsfiddle.net/hb2rsm2x/) - Online Web Editor.
@@ -245,7 +245,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ## Translations
 
 - [Belarusian](http://www.designcontest.com/show/lesscss-be)
-- [Chinese (https://github.com/LucasBassetti/awesome-less/blob/master/中文)](http://lesscss.cn/)
+- [Chinese (中文)](http://lesscss.cn/)
 - [Danish](http://lesscss.dk/)
 - [German](http://www.lesscss.de)
 - [Indonesian](http://bertzzie.com/post/7/dokumentasi-less-bahasa-indonesia)
@@ -279,7 +279,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ## Videos
 
 - [Learning Less](https://www.packtpub.com/web-development/learning-less-video)
-- [Less (https://github.com/LucasBassetti/awesome-less/blob/master/CSS pre-processor) Tutorials](https://www.youtube.com/watch?v=oh7_iZWvIyU&list=PLE42615v2IxlxVyGZd0rKnOzbqUtUiekE)
+- [Less (CSS pre-processor) Tutorials](https://www.youtube.com/watch?v=oh7_iZWvIyU&list=PLE42615v2IxlxVyGZd0rKnOzbqUtUiekE)
 - [Less CSS Tutorials for Beginners](https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 - [Less CSS - Tutorials for Beginners](https://www.youtube.com/watch?v=-D5mWO9_vLI&list=PLLa1ZAmCB2zjEZ4QNLDi4173_xIGeV6nC)
 

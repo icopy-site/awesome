@@ -15,9 +15,9 @@ A collection of simple tips to help up your jQuery game.
 
 ## Tips
 
-1. [Use `noConflict()`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-noconflict)
+1. [Use `noConflict()`](#use-noconflict)
 1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
-1. [Use `.on()` Binding Instead of `.click()`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-on-binding-instead-of-click)
+1. [Use `.on()` Binding Instead of `.click()`](#use-on-binding-instead-of-click)
 1. [Back to Top Button](#back-to-top-button)
 1. [Preload Images](#preload-images)
 1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
@@ -47,7 +47,7 @@ The `$` alias used by jQuery is also used by other JavaScript libraries. To ensu
 jQuery.noConflict();
 ```
 
-Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `jQuery('div p').hide()`). If you have multiple versions of jQuery on the same page (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/not recommended), you can use `noConflict()` to set an alias to a specific version:
+Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (e.g., `jQuery('div p').hide()`). If you have multiple versions of jQuery on the same page (not recommended), you can use `noConflict()` to set an alias to a specific version:
 
 ```javascript
 let $x = jQuery.noConflict();
@@ -61,10 +61,10 @@ let $x = jQuery.noConflict();
 Before you can do anything with jQuery you first need to make certain it has loaded:
 
 ```javascript
-if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/typeof jQuery == 'undefined') {
-  console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'jQuery hasn\'t loaded');
+if (typeof jQuery == 'undefined') {
+  console.log('jQuery hasn\'t loaded');
 } else {
-  console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'jQuery has loaded');
+  console.log('jQuery has loaded');
 }
 ```
 
@@ -78,18 +78,18 @@ Now you're off...
 Using `.on()` gives you several advantages over using `.click()`, such as the ability to add multiple events...
 
 ```javascript
-.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click tap hover')
+.on('click tap hover')
 ```
 
-...a binding applies to dynamically created elements, as well (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/there's no need to manually bind every single element dynamically added to a DOM element)...
+...a binding applies to dynamically created elements, as well (there's no need to manually bind every single element dynamically added to a DOM element)...
 
 ...and the possibility to set a namespace:
 
 ```javascript
-.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click.menuOpening')
+.on('click.menuOpening')
 ```
 
-Namespaces give you the power to unbind a specific event (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `.off('click.menuOpening')`).
+Namespaces give you the power to unbind a specific event (e.g., `.off('click.menuOpening')`).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -100,9 +100,9 @@ By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin
 
 ```javascript
 // Back to top
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.container').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', '.back-to-top', function (e) {
+$('.container').on('click', '.back-to-top', function (e) {
   e.preventDefault();
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'html, body').animate(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/{scrollTop: 0}, 800);
+  $('html, body').animate({scrollTop: 0}, 800);
 });
 ```
 
@@ -122,16 +122,16 @@ Changing the `scrollTop` value changes where you wants the scrollbar to land. Al
 
 ### Preload Images
 
-If your web page uses a lot of images that aren't visible initially (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., on hover) it makes sense to preload them:
+If your web page uses a lot of images that aren't visible initially (e.g., on hover) it makes sense to preload them:
 
 ```javascript
 $.preloadImages = function () {
-  for (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/var i = 0; i < arguments.length; i++) {
+  for (var i = 0; i < arguments.length; i++) {
     $('<img>').attr('src', arguments[i]);
   }
 };
 
-$.preloadImages(https://raw.githubusercontent.com/AllThingsSmitty/jquery-tips-everyone-should-know/master/'img/hover-on.png', 'img/hover-off.png');
+$.preloadImages('img/hover-on.png', 'img/hover-off.png');
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -142,8 +142,8 @@ $.preloadImages(https://raw.githubusercontent.com/AllThingsSmitty/jquery-tips-ev
 Sometimes you might need to check if your images have fully loaded in order to continue on with your scripts:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'load', function () {
-  console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'image load successful');
+$('img').on('load', function () {
+  console.log('image load successful');
 });
 ```
 
@@ -157,8 +157,8 @@ You can also check if one particular image has loaded by replacing the `<img>` t
 If you happen to find broken image links on your site replacing them one by one can be a pain. This simple piece of code can save a lot of headaches:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function () {
-  if(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/!$(this).hasClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'broken-image')) {
+$('img').on('error', function () {
+  if(!$(this).hasClass('broken-image')) {
     $(this).prop('src', 'img/broken.png').addClass('broken-image');
   }
 });
@@ -167,8 +167,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Alternatively, if you wish to hide broken images this snippet will take care of that for:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).hide();
+$('img').on('error', function () {
+  $(this).hide();
 });
 ```
 
@@ -181,16 +181,16 @@ jQuery AJAX methods are a common way to request text, HTML, XML, or JSON. If you
 
 ```javascript
 $.post('sign_up.php', {
-  user_name: $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=user_name]').val(),
-  email:     $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=email]').val(),
-  password:  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=password]').val(),
+  user_name: $('input[name=user_name]').val(),
+  email:     $('input[name=email]').val(),
+  password:  $('input[name=password]').val(),
 });
 ```
 
 But all of those `val()` calls are expensive and using `.val()` on `<textarea>` elements will strip carriage return characters from the browser-reported value. A better way of collecting user inputs is using the `serialize()` function which collects them as a string:
 
 ```javascript
-$.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'sign_up', $('#sign-up-form').serialize());
+$.post('sign_up', $('#sign-up-form').serialize());
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -201,18 +201,18 @@ $.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/
 Let's say you want to change the visual of a clickable element on your page when a user hovers over it. You can add a class to your element when the user is hovering; when the user stops hovering removes the class:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).addClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
+$('.btn').on('hover', function () {
+  $(this).addClass('hover');
 }, function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).removeClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
+  $(this).removeClass('hover');
 });
 ```
 
 You need to add the necessary CSS. If you want an even _simpler_ way use the `toggleClass` method:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).toggleClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
+$('.btn').on('hover', function () {
+  $(this).toggleClass('hover');
 });
 ```
 
@@ -223,16 +223,16 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 ### Disabling Input Fields
 
-At times you may want the submit button of a form or one of its text inputs to be disabled until the user has performed a certain action (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., checking the "I've read the terms" checkbox). Add the `disabled` attribute to your input so you can enable it when you want:
+At times you may want the submit button of a form or one of its text inputs to be disabled until the user has performed a certain action (e.g., checking the "I've read the terms" checkbox). Add the `disabled` attribute to your input so you can enable it when you want:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[type="submit"]').prop(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'disabled', true);
+$('input[type="submit"]').prop('disabled', true);
 ```
 
 All you need to do is run the `prop` method again on the input, but set the value of `disabled` to `false`:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[type="submit"]').prop(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'disabled', false);
+$('input[type="submit"]').prop('disabled', false);
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -243,7 +243,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Sometimes you don't want links to go to a certain web page nor reload the page; you might want them to do something else like trigger another script. This will do the trick of preventing the default action:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a.no-link').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (e) {
+$('a.no-link').on('click', function (e) {
   e.preventDefault();
 });
 ```
@@ -253,20 +253,20 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 ### Cache jQuery Selectors
 
-Think of how many times you write the same selector over and over again in any project. Every `$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.element')` selector has to search the entire DOM each time, regardless if that selector had previously run. Instead you can run the selector once and store the results in a variable:
+Think of how many times you write the same selector over and over again in any project. Every `$('.element')` selector has to search the entire DOM each time, regardless if that selector had previously run. Instead you can run the selector once and store the results in a variable:
 
 ```javascript
-var blocks = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#blocks').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'li');
+var blocks = $('#blocks').find('li');
 ```
 
 Now you can use the `blocks` variable wherever you want without having to search the DOM every time:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#hideBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
+$('#hideBlocks').on('click', function () {
   blocks.fadeOut();
 });
 
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#showBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
+$('#showBlocks').on('click', function () {
   blocks.fadeIn();
 });
 ```
@@ -282,13 +282,13 @@ Sliding and fading are common in animations with jQuery. You might want to show 
 
 ```javascript
 // Fade
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.element').fadeToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'slow');
+$('.btn').on('click', function () {
+  $('.element').fadeToggle('slow');
 });
 
 // Toggle
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.element').slideToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'slow');
+$('.btn').on('click', function () {
+  $('.element').slideToggle('slow');
 });
 ```
 
@@ -301,13 +301,13 @@ This is a simple method for a quick accordion:
 
 ```javascript
 // Close all panels
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').hide();
+$('#accordion').find('.content').hide();
 
 // Accordion
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.accordion-header').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
-  var next = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).next();
-  next.slideToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'fast');
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').not(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/next).slideUp(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'fast');
+$('#accordion').find('.accordion-header').on('click', function () {
+  var next = $(this).next();
+  next.slideToggle('fast');
+  $('.content').not(next).slideUp('fast');
   return false;
 });
 ```
@@ -322,17 +322,17 @@ By adding this script all you really need to do on your web page is the necessar
 Sometimes you'll want two divs to have the same height no matter what content they have in them:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.div').css(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'min-height', $('.main-div').height());
+$('.div').css('min-height', $('.main-div').height());
 ```
 
 This example sets the `min-height` which means that it can be bigger than the main div but never smaller. However, a more flexible method would be to loop over a set of elements and set `height` to the height of the tallest element:
 
 ```javascript
-var $columns = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.column');
+var $columns = $('.column');
 var height = 0;
-$columns.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
-  if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/$(this).height() > height) {
-    height = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height();
+$columns.each(function () {
+  if ($(this).height() > height) {
+    height = $(this).height();
   }
 });
 $columns.height(height);
@@ -341,9 +341,9 @@ $columns.height(height);
 If you want _all_ columns to have the same height:
 
 ```javascript
-var $rows = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.same-height-columns');
-$rows.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.column').height($(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height());
+var $rows = $('.same-height-columns');
+$rows.each(function () {
+  $(this).find('.column').height($(this).height());
 });
 ```
 
@@ -357,9 +357,9 @@ $rows.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 Open external links in a new browser tab or window and ensure links on the same origin open in the same tab or window:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a[href^="http"]').attr(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'target', '_blank');
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a[href^="//"]').attr(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'target', '_blank');
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a[href^="' + window.location.origin + '"]').attr(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'target', '_self');
+$('a[href^="http"]').attr('target', '_blank');
+$('a[href^="//"]').attr('target', '_blank');
+$('a[href^="' + window.location.origin + '"]').attr('target', '_self');
 ```
 
 **Note:** `window.location.origin` doesn't work in IE10. [This fix](http://tosbourn.com/a-fix-for-window-location-origin-in-internet-explorer/) takes care of the issue.
@@ -372,8 +372,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 By using the `contains()` selector in jQuery you can find text in content of an element. If text doesn't exists, that element will be hidden:
 
 ```javascript
-var search = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#search').val();
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'div:not(:contains("' + search + '"))').hide();
+var search = $('#search').val();
+$('div:not(:contains("' + search + '"))').hide();
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -384,11 +384,11 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Trigger JavaScript when the user is no longer focusing on a tab or refocuses on a tab:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'visibilitychange', function (e) {
-  if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.target.visibilityState === 'visible') {
-    console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'Tab is now in view!');
-  } else if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.target.visibilityState === 'hidden') {
-    console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'Tab is now hidden!');
+$(document).on('visibilitychange', function (e) {
+  if (e.target.visibilityState === 'visible') {
+    console.log('Tab is now in view!');
+  } else if (e.target.visibilityState === 'hidden') {
+    console.log('Tab is now hidden!');
   }
 });
 ```
@@ -401,8 +401,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 When an AJAX call returns a 404 or 500 error, the error handler will be executed. If the handler isn't defined, other jQuery code might not work as intended. To define a global AJAX error handler:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'ajaxError', function (e, xhr, settings, error) {
-  console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/error);
+$(document).on('ajaxError', function (e, xhr, settings, error) {
+  console.log(error);
 });
 ```
 
@@ -414,26 +414,26 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 jQuery allows for the "chaining" of plugin method calls to mitigate the process of repeatedly querying the DOM and creating multiple jQuery objects. Let's say the following snippet represents your plugin method calls:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').show();
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'bla');
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').otherStuff();
+$('#elem').show();
+$('#elem').html('bla');
+$('#elem').otherStuff();
 ```
 
 This could be vastly improved by using chaining:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem')
+$('#elem')
   .show()
-  .html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'bla')
+  .html('bla')
   .otherStuff();
 ```
 
-An alternative is to cache the element in a variable (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/prefixed with `$`):
+An alternative is to cache the element in a variable (prefixed with `$`):
 
 ```javascript
-var $elem = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem');
+var $elem = $('#elem');
 $elem.hide();
-$elem.html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'bla');
+$elem.html('bla');
 $elem.otherStuff();
 ```
 
@@ -447,14 +447,14 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 Let's say you end up with too many items in a list. Maybe the content is produced by a CMS and you want to order them alphabetically:
 
 ```javascript
-var ul = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#list'),
-lis = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'li', ul).get();
+var ul = $('#list'),
+lis = $('li', ul).get();
 
-lis.sort(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (a, b) {
-  return (https://githuhttps://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b.com/AllThingsSmitty/jquery-tips-everyone-should-know/https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/blohttps://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b/master/$(a).text().toUpperCase() < $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b).text().toUpperCase()) ? -1 : 1;
+lis.sort(function (a, b) {
+  return ($(a).text().toUpperCase() < $(b).text().toUpperCase()) ? -1 : 1;
 });
 
-ul.append(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/lis);
+ul.append(lis);
 ```
 
 There you go!
@@ -467,8 +467,8 @@ There you go!
 If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (e) {
+$(document).ready(function () {
+  $(document).bind('contextmenu', function (e) {
     return false;
   })
 })
@@ -477,8 +477,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 ...and you can also do the same for a specific element:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#submit').bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (e) {
+$(document).ready(function () {
+  $('#submit').bind('contextmenu', function (e) {
     return false;
   })
 })

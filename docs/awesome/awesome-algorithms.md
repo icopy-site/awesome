@@ -19,10 +19,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
-* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (https://github.com/tayllan/awesome-algorithms/blob/master/with code), and you can also create your own.
+* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (https://github.com/tayllan/awesome-algorithms/blob/master/includes Codeforces, Codechef and Spoj).
+* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj).
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
@@ -38,7 +38,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Free and High Quality Courses Online*
 
-* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic (https://github.com/tayllan/awesome-algorithms/blob/master/"Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
+* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
 * [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
@@ -148,24 +148,24 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [HiHoCoder](http://hihocoder.com/) - Chinese and English problem solving practice and recruitment challenge site.
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
 * [Kattis](https://open.kattis.com/)- Online judge and problem archive
-* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(https://github.com/tayllan/awesome-algorithms/blob/master/Half English). 1300+ problems.
+* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 * [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
-* [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (https://github.com/tayllan/awesome-algorithms/blob/master/or just a pencil, depends on how much you already know).
+* [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
 * [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
-* [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (https://github.com/tayllan/awesome-algorithms/blob/master/from Russia).
+* [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 * [SPOJ](http://www.spoj.com/) - More problems.
 * [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
-* [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (https://github.com/tayllan/awesome-algorithms/blob/master/from previous ACM-ICPC Regionals, World Finals and others).
+* [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
 
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
 
-* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (https://github.com/tayllan/awesome-algorithms/blob/master/algorithms and data structures).
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## License
 

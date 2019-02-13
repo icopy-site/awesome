@@ -35,7 +35,7 @@ _Projects released with an open source license._
 - [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
-- [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (https://github.com/uraimo/awesome-software-patreons/blob/master/non-Wacom) graphics tablets.
+- [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
@@ -129,7 +129,7 @@ _Games and game-related projects._
 _Developers contributing to multiple projects that ask to support their work._
 
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
-- [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (https://github.com/uraimo/awesome-software-patreons/blob/master/Panfrost) and contributions to several other projects.
+- [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) - Developer of PhotoFlow image editor, maintains various Appimage packages.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.

@@ -3,7 +3,7 @@
 ## What This Is, and Where It Comes From
 Since 2013-ish, [Joe Goldberg](https://twitter.com/tenaciousjoe), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
-In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/very brief blurbs), turned the doc into an [Awesome List](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) from people around the world.
+In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) from people around the world.
 
 - "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
@@ -39,7 +39,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 * "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
 
 ## Contribute Your Favorites
-Please share/promote your favorite managing and leading resources/go-to's (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) and make a pull request (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/one per item/entry). 
+Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
@@ -49,14 +49,14 @@ Please share/promote your favorite managing and leading resources/go-to's (https
 - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
-- Individual contributors (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/ICs) looking to move into a management role but not sure if it’s right for them
+- Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
 - ICs who want to stay ICs but want to have more influence in their orgs
 - ICs who recently moved into a management role
 - Managers looking to level-up a particular skill
-- Managers transitioning to meta-management (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/managing managers)
+- Managers transitioning to meta-management (managing managers)
 
 ### Why should you read this or trust the authors for advice?
-You shouldn’t. Much of this is self-contradictory. Some seemed like good advice at the time. Little of it is original, even less is written by me. Don’t read this cover-to-cover. Scan the Table of Contents and pick a topic you’d like to learn more about. Joe has highlighted the absolutely most essential content (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/a few dozen articles, six books, and a handful of videos, checklists, and slide decks).
+You shouldn’t. Much of this is self-contradictory. Some seemed like good advice at the time. Little of it is original, even less is written by me. Don’t read this cover-to-cover. Scan the Table of Contents and pick a topic you’d like to learn more about. Joe has highlighted the absolutely most essential content (a few dozen articles, six books, and a handful of videos, checklists, and slide decks).
 
 ### How can I submit a link or ask a question?
 First off, we'd love that! For submissions, follow our [contributing guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
@@ -64,7 +64,7 @@ First off, we'd love that! For submissions, follow our [contributing guidelines]
 ### How can I get more info on [missing topic]?
 Please let us know via the Issues Tracker if there’s a topic you'd like this list to include.
 
-### Did you write all this yourself? (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Credit/Attribution)
+### Did you write all this yourself? (Credit/Attribution)
 Almost none of the content shared in this list is by the authors. Where there’s a link, the content below it is generally a summary of the linked webpage. When there’s no link, it’s either original content or gives credit/attribution. Some book summaries are from [Personal MBA](https://personalmba.com/), which Joe piloted and consulted on, but not to the extent where he is willing to take credit for its content.
 
 ### License

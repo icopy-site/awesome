@@ -60,12 +60,12 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - A quick dive into the most common technologies and techniques for building progressive web apps.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into service workers.
-- [Instant Loading with Service Workers (https://github.com/TalAter/awesome-service-workers/blob/master/Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=jCKZDTtUA2A) - Explains how to structure your web app to optimize load time for initial and return visitors, and cover helpful service worker libraries that minimize the amount of boilerplate code you'll have to write.
+- [Instant Loading with Service Workers (Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=jCKZDTtUA2A) - Explains how to structure your web app to optimize load time for initial and return visitors, and cover helpful service worker libraries that minimize the amount of boilerplate code you'll have to write.
 
 ## Case Studies
 
 - [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa) - A case-study about how Google I/O 2015 web app was built.
-- [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (https://github.com/TalAter/awesome-service-workers/blob/master/from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
+- [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
 
 ## Related Technologies
 

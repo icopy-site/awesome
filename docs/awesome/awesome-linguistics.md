@@ -20,7 +20,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Platforms and toolkits
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
-* [Natural Language ToolKit (https://github.com/theimpossibleastronaut/awesome-linguistics/blob/master/NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 
 ### Algorithms
@@ -46,7 +46,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (https://github.com/theimpossibleastronaut/awesome-linguistics/blob/master/Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
 
 ### Books
 *Some of the more interesting and complete books.*

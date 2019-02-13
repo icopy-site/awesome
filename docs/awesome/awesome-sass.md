@@ -29,9 +29,9 @@
 ## About
 [Sass](http://sass-lang.com/) is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.
 
-Sass has two syntaxes. The new main syntax (https://github.com/Famolus/awesome-sass/blob/master/as of Sass 3) is known as "SCSS" (https://github.com/Famolus/awesome-sass/blob/master/for "Sassy CSS"), and is a superset of CSS's syntax. This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension `.scss`.
+Sass has two syntaxes. The new main syntax (as of Sass 3) is known as "SCSS" (for "Sassy CSS"), and is a superset of CSS's syntax. This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension `.scss`.
 
-The second, older syntax is known as the indented syntax (https://github.com/Famolus/awesome-sass/blob/master/or just "Sass"). Inspired by Haml's terseness, it's intended for people who prefer conciseness over similarity to CSS. Instead of brackets and semicolons, it uses the indentation of lines to specify blocks. Although no longer the primary syntax, the indented syntax will continue to be supported. Files in the indented syntax use the extension `.sass`.
+The second, older syntax is known as the indented syntax (or just "Sass"). Inspired by Haml's terseness, it's intended for people who prefer conciseness over similarity to CSS. Instead of brackets and semicolons, it uses the indentation of lines to specify blocks. Although no longer the primary syntax, the indented syntax will continue to be supported. Files in the indented syntax use the extension `.sass`.
 
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
@@ -77,7 +77,7 @@ The second, older syntax is known as the indented syntax (https://github.com/Fam
 
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
-- [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (https://github.com/Famolus/awesome-sass/blob/master/including iOS devices, TVs and more).
+- [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
 - [mq-scss](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin.
@@ -112,7 +112,7 @@ The second, older syntax is known as the indented syntax (https://github.com/Fam
 - [Angled Edges](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
-- [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash (https://github.com/Famolus/awesome-sass/blob/master/[API documentation](http://davidkpiano.github.io/sassdash)).
+- [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 - [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
 - [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
 - [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons.
@@ -144,12 +144,12 @@ The second, older syntax is known as the indented syntax (https://github.com/Fam
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 - [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 - [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
-- [SassDoc](http://sassdoc.com/) - Documentation system (https://github.com/Famolus/awesome-sass/blob/master/like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
+- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack.
 - [libsass-python](https://github.com/dahlia/libsass-python) - Binding of libsass for Python.
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 - [sass-rails](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
-- [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(https://github.com/Famolus/awesome-sass/blob/master/deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
+- [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
 - [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 - [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.

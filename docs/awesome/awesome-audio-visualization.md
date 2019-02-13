@@ -31,7 +31,7 @@
 ## Downloads
 
 - [Soundwhich](http://soundwhich.com/)
-- [Beeple's resource (https://github.com/willianjusten/awesome-audio-visualization/blob/master/inspirational C4D "open source" files)](https://github.com/willianjusten/awesome-audio-visualization/blob/master/http://www.beeple-crap.com/resources.php)
+- [Beeple's resource (inspirational C4D "open source" files)](http://www.beeple-crap.com/resources.php)
 - [Freesound](http://freesound.org/)
 - [Audio Jungle](http://audiojungle.net/)
 - [Six Bit Deep](http://www.sixbitdeep.com/shop/)
@@ -55,7 +55,7 @@
 - [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
 - [Triangles](https://willianjusten.com.br/audio-experiments/triangles/) - An experiment using triangles in Canvas.
 - [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
-- [BBNG](https://github.com/willianjusten/awesome-audio-visualization/blob/master/https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (https://github.com/willianjusten/awesome-audio-visualization/blob/master/feat. Leland Whitty) by BADBADNOTGOOD.
+- [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
 - [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
 - [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn_10's.
@@ -188,7 +188,7 @@
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-- [Hylogen](https://github.com/willianjusten/awesome-audio-visualization/blob/master/https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (https://github.com/willianjusten/awesome-audio-visualization/blob/master/with audio input).
+- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 - [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.

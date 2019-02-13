@@ -64,7 +64,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
 
-**Latest version:** elementary OS Juno (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/5.0)
+**Latest version:** elementary OS Juno (5.0)
 
 **Default Desktop Environment:** Pantheon
 
@@ -72,9 +72,9 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Fedora](https://getfedora.org/)
 
-> Fedora (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
+> Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Nine (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/29)
+**Latest version:** Fedora Twenty Nine (29)
 
 **Default Desktop Environment:** GNOME
 
@@ -84,7 +84,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Tessa (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/19.1)
+**Latest version:** Linux Mint Tessa (19.1)
 
 **Default Desktop Environment:** Cinnamon and MATE
 
@@ -114,9 +114,9 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
-> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
+> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
-**Latest version:** Debian Stretch (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/9.6)
+**Latest version:** Debian Stretch (9.6)
 
 **Default Desktop Environment:** GNOME
 
@@ -146,9 +146,9 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
 
-**Latest version:** openSUSE Leap 15.0 and openSUSE Tumbleweed (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Rolling Release system)
+**Latest version:** openSUSE Leap 15.0 and openSUSE Tumbleweed (Rolling Release system)
 
-**Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Choose on installation)
+**Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
 
@@ -156,11 +156,11 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Arch Linux](https://www.archlinux.org/)
 
-> Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
+> Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
-**Latest version:** Not applicable (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Rolling Release system)
+**Latest version:** Not applicable (Rolling Release system)
 
-**Default Desktop Environment:** Not applicable (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/there's no default Desktop environment)
+**Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 
 ### Special Purpose
 
@@ -174,7 +174,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 **Specialty:** Penetration testing
 
-> Kali Linux (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
+> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
 #### [Puppy Linux](http://puppylinux.org/)
 
@@ -216,7 +216,7 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 
 ### Courses
 
-#### [Introduction to Linux (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/LFS101x-1)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
+#### [Introduction to Linux (LFS101x-1)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
 
 Organized by the Linux Foundation, it's a great free course to learn basics about Linux. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -260,7 +260,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### [LXDE](http://lxde.org/)
 
->  The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the GNU General Public License and partly under the LGPL.
+>  The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the GNU General Public License and partly under the LGPL.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/4/4c/LXDE_desktop_full.png)
 
@@ -350,20 +350,20 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
 * [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 * [ramme](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/compared to the original Slack client).
+* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
 Distro-oriented:
 
-* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Ubuntu) - Manage PPAs and search for packages.
-* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - Provides a set of graphical tools for managing software.
-* [Synaptics](http://www.nongnu.org/synaptic/) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Debian and `.deb` users) - Graphical package management program for `apt`.
-* [YaST](https://en.opensuse.org/YaST_Software_Management) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/openSUSE) - Main package management tool on https://github.com/aleksandar-todorovic/awesome-linux/blob/master/openSUSE.
-* [dnfdragora](https://github.com/manatools/dnfdragora) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - A GUI for the `dnf` package manager.
-* [Yay](https://github.com/Jguer/yay) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
-* [Aura](https://github.com/aurapm/aura) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Secure, multilingual package manager.
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Manage PPAs and search for packages.
+* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - Provides a set of graphical tools for managing software.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
+* [dnfdragora](https://github.com/manatools/dnfdragora) (Fedora) - A GUI for the `dnf` package manager.
+* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
+* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
@@ -411,7 +411,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 #### [Linux.org](http://www.linux.org/)
 
-Although its design is outdated, Linux.org is (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+Although its design is outdated, Linux.org is (probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Kernel.org](https://www.kernel.org/)
 

@@ -43,12 +43,12 @@
 
 ## Resources
 
-- [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (https://github.com/felipebueno/awesome-PICO-8/blob/master/Proper manual coming soon).
+- [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual) - Placeholder dump of pico-8.txt! (Proper manual coming soon).
 - [Cheat Sheet](https://neko250.github.io/pico8-api/) - by [Neko250](https://neko250.github.io). Based on the official manual, with edits where found appropriate.
 - [PicoZine #1](https://sectordub.itch.io/pico-8-fanzine-1), [#2](https://sectordub.itch.io/pico-8-fanzine-2), [#3](https://sectordub.itch.io/pico-8-fanzine-3) and [#4](https://sectordub.itch.io/-pico-8-zine-4) - PICO-8 Zine is a 48-page fanzine made by and for PICO-8 users.
 - [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - This document is here to help folks with a proficiency in Lua understand the limitations and discrepencies between Lua and PICO-8's Lua.
-- [Cheat Sheet (https://github.com/felipebueno/awesome-PICO-8/blob/master/printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a https://github.com/felipebueno/awesome-PICO-8/blob/master/printable format. German and Englisch version available.
-- [Cheat Sheet (https://github.com/felipebueno/awesome-PICO-8/blob/master/wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop https://github.com/felipebueno/awesome-PICO-8/blob/master/wallpaper.
+- [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and Englisch version available.
+- [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
 ## Tutorials
 
@@ -56,7 +56,7 @@
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 - [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - Screencaptures of writing a Spaceshooter game step by step.
 - [Token optimization](https://github.com/seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens.
-- [Tweetjam, BBS thread](https://www.lexaloffle.com/bbs/?tid=3726) - cards which code fits in a tweet (https://github.com/felipebueno/awesome-PICO-8/blob/master/really useful to learn some fun techniques).
+- [Tweetjam, BBS thread](https://www.lexaloffle.com/bbs/?tid=3726) - cards which code fits in a tweet (really useful to learn some fun techniques).
 - [Sample code on the BBS](https://www.lexaloffle.com/bbs/?search=sample+code) - the search is not 100% accurate, but some of those cards features some nice tricks you can re-use in your future code.
 - [Newgrounds Medals Tutorial](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 
@@ -67,17 +67,17 @@
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 - [picotool](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
-- [p8dl - Carts Downloader - Python](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (https://github.com/felipebueno/awesome-PICO-8/blob/master/looks at your config.txt).
-- [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (https://github.com/felipebueno/awesome-PICO-8/blob/master/single cart, whole index or dump your favourited entries) & rename them according to their metadata.
+- [p8dl - Carts Downloader - Python](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
+- [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](https://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
-- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (https://github.com/felipebueno/awesome-PICO-8/blob/master/p8) with the code you write in P8Coder.
+- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 - [Pico-Kit](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
-- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (https://github.com/felipebueno/awesome-PICO-8/blob/master/Electron) and mobile (https://github.com/felipebueno/awesome-PICO-8/blob/master/Ionic).
+- [picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
 - [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 - [PICO-EC](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
 - [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
@@ -91,12 +91,12 @@
 
 - Visual Studio Code: [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
-- Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (https://github.com/felipebueno/awesome-PICO-8/blob/master/color scheme, font, build system, code completion, snippets...).
+- Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
 
 ### Programming Fonts
 
-You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (https://github.com/felipebueno/awesome-PICO-8/blob/master/bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
+You might be interested to install [pico-8 programming fonts](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](https://www.lexaloffle.com/bbs/?tid=28975).
 
 How to install the font(s):
 
@@ -105,9 +105,9 @@ How to install the font(s):
 
 ## Hacks - undocumented PICO-8 features
 
-- [Mouse](https://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (https://github.com/felipebueno/awesome-PICO-8/blob/master/with demo).
+- [Mouse](https://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
 - [p8keyboard.js](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
-- [SFX Modifications](https://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (https://github.com/felipebueno/awesome-PICO-8/blob/master/with demo).
+- [SFX Modifications](https://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (with demo).
 - [Tracker State/Audio Memory Locations](https://www.lexaloffle.com/bbs/?pid=10719#p10719) - How to access and modify audio data as it is playing.
 
 ## Hardware
@@ -131,7 +131,7 @@ How to install the font(s):
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 - [PicoLove](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
-- [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (https://github.com/felipebueno/awesome-PICO-8/blob/master/128x128 pixels) in Rust (https://github.com/felipebueno/awesome-PICO-8/blob/master/with Python/LUA code support).
+- [PX8](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!
 

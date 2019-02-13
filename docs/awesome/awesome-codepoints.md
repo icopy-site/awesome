@@ -17,8 +17,8 @@ maybe not widely known) features or are awesome in some other way.
 ## Standalone Code Points
 
 * The code points of the Unicode blocks [Box
-    Drawing](https://codepoints.net/box_drawing) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2500 to U+257F) and [Block
-    Elements](https://codepoints.net/block_elements) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2580 to U+259F) cover
+    Drawing](https://codepoints.net/box_drawing) (U+2500 to U+257F) and [Block
+    Elements](https://codepoints.net/block_elements) (U+2580 to U+259F) cover
     most of your monospace command-line visualization needs.
 
         ╭───────╮
@@ -38,14 +38,14 @@ maybe not widely known) features or are awesome in some other way.
     mark](https://en.wikipedia.org/wiki/Byte_order_mark), that was placed on
     the beginning of some UTF-8 files. In complying software (including many
     text editors) this character is stripped from the start of a file and
-    handled as metadata. In non-complying software (https://github.com/Codepoints/awesome-codepoints/blob/master/like the PHP interpreter)
+    handled as metadata. In non-complying software (like the PHP interpreter)
     this leads to all sorts of fun behaviour.
 * [U+FFFD](https://codepoints.net/U+FFFD) REPLACEMENT CHARACTER - when a
-    character cannot be displayed (https://github.com/Codepoints/awesome-codepoints/blob/master/e.g., decoding an erroneous UTF-8 sequency),
+    character cannot be displayed (e.g., decoding an erroneous UTF-8 sequency),
     this code point steps into the breach.
 * [U+1D455](https://codepoints.net/U+1D455) is missing. It would be an italic
     small “h”. It was not encoded, because it would be identical to the Planck
-    constant ℎ (https://github.com/Codepoints/awesome-codepoints/blob/master/[U+210E](https://codepoints.net/U+210E)).
+    constant ℎ ([U+210E](https://codepoints.net/U+210E)).
 
 ## Code Points that Affect Others
 
@@ -56,10 +56,10 @@ maybe not widely known) features or are awesome in some other way.
     [![](http://imgs.xkcd.com/comics/rtl.png )](https://xkcd.com/1137/)
 * [U+FE0E](https://codepoints.net/U+FE0E) VARIATION SELECTOR-15 - force
     black-_&_-white emoji. If this code point follows an emoji, an explicit
-    monochrome rendering of the emoji is requested (https://github.com/Codepoints/awesome-codepoints/blob/master/if the client supports it).
+    monochrome rendering of the emoji is requested (if the client supports it).
 * [U+FE0F](https://codepoints.net/U+FE0F) VARIATION SELECTOR-16 - force
     colorful emoji. If this code point follows an emoji, an explicit colorful
-    rendering of the emoji is requested (https://github.com/Codepoints/awesome-codepoints/blob/master/if the client supports it).
+    rendering of the emoji is requested (if the client supports it).
 * Diacritics and combining marks: There is a [host of
     characters](https://codepoints.net/search?gc=Mn), that add
     to the characters before. Those are called Combining Marks. Unicode
@@ -79,7 +79,7 @@ maybe not widely known) features or are awesome in some other way.
     board with international politics, the solution to flags is to combine
     these 26 characters to the respective ISO code for a country. Examples:
 
-    Country | ISO Code | Code Points       | Emoji (https://github.com/Codepoints/awesome-codepoints/blob/master/if supported)
+    Country | ISO Code | Code Points       | Emoji (if supported)
     --------|----------|-------------------|---------------------
     USA     | US       | U+1F1FA + U+1F1F8 | &#x1F1FA;&#x1F1F8;
     Germany | DE       | U+1F1E9 + U+0F1EA | &#x1F1E9;&#x1F1EA;
@@ -108,8 +108,8 @@ maybe not widely known) features or are awesome in some other way.
 
 * [U+00A0](https://codepoints.net/U+00A0) NO-BREAK SPACE - force adjacent
     characters to stick together. Well known as `&nbsp;` in HTML.
-* [U+00AD](https://codepoints.net/U+00AD) SOFT HYPHEN - (https://github.com/Codepoints/awesome-codepoints/blob/master/in HTML: `&shy;`)
-    like ZERO WIDTH SPACE, but show a hyphen if (https://github.com/Codepoints/awesome-codepoints/blob/master/and only if) a break occurs.
+* [U+00AD](https://codepoints.net/U+00AD) SOFT HYPHEN - (in HTML: `&shy;`)
+    like ZERO WIDTH SPACE, but show a hyphen if (and only if) a break occurs.
 * [U+200B](https://codepoints.net/U+200B) ZERO WIDTH SPACE - the inverse to
     U+00A0: create no space, but allow word breaking.
 * [U+200D](https://codepoints.net/U+200D) ZERO WIDTH JOINER - force adjacent
@@ -134,7 +134,7 @@ different types of whitespace.
 ## Record Holders and Extremes
 
 * [U+0000](https://codepoints.net/U+0000) &lt;control> - first code point.
-* [U+10FFFF](https://codepoints.net/U+10FFFF) (https://github.com/Codepoints/awesome-codepoints/blob/master/_non-character_) - last code
+* [U+10FFFF](https://codepoints.net/U+10FFFF) (_non-character_) - last code
     point. The whole rest of its plane apart from U+10FFFE, the code points
     in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
     be never filled by a future Unicode standard.
@@ -168,7 +168,7 @@ different types of whitespace.
     leads with a whopping 73 entries of similar looking glyphs, followed by
     [U+006C](https://codepoints.net/U+006C) LATIN SMALL LETTER L with 70
     entries.
-* [U+1F4C0](https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel (https://github.com/Codepoints/awesome-codepoints/blob/master/[source](https://twitter.com/ken_lunde/status/960188623390846976))
+* [U+1F4C0](https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel ([source](https://twitter.com/ken_lunde/status/960188623390846976))
 
 ## For Funsies
 
@@ -182,7 +182,7 @@ different types of whitespace.
     use code point is rendered as Apple logo on many Apple devices.
 * [U+1F574](https://codepoints.net/U+1F574) MAN IN BUSINESS SUIT LEVITATING -
     A rather curious character, that only made it into Unicode for its
-    appearance in the Webdings font (https://github.com/Codepoints/awesome-codepoints/blob/master/for reasons of backwards compatibility).
+    appearance in the Webdings font (for reasons of backwards compatibility).
 * [U+1F596](https://codepoints.net/U+1F596) RAISED HAND WITH PART BETWEEN
     MIDDLE AND RING FINGERS - the Vulcan salute. Live long and prosper!
     &#x1F596;
@@ -202,7 +202,7 @@ For plain-text gaming, Unicode is well equipped with several complete sets:
 * [Die faces](https://codepoints.net/U+2680..U+2685) and a nice [die
     emoji](https://codepoints.net/U+1F3B2).
 * [Go pieces](https://codepoints.net/U+2686..U+2689).
-* [Draughts (https://github.com/Codepoints/awesome-codepoints/blob/master/or checkers) pieces](https://codepoints.net/U+26C0..U+26C3).
+* [Draughts (or checkers) pieces](https://codepoints.net/U+26C0..U+26C3).
 * [Shogi pieces](https://codepoints.net/U+2616,U+2617,U+26C9,U+26CA), a
     [Japanese variant of chess](https://en.wikipedia.org/wiki/Shogi).
 * [Domino tiles](https://codepoints.net/domino_tiles)

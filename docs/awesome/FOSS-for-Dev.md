@@ -21,7 +21,7 @@ Feel free to send a PR :)
    * [Bug trackers](#bug-trackers)
    * [Project management](#project-management)
    * [PaaS](#paas)
-   * [ADN(https://github.com/tvvocold/FOSS-for-Dev/blob/master/Application Delivery Networking)](https://github.com/tvvocold/FOSS-for-Dev/blob/master/#adn)
+   * [ADN(Application Delivery Networking)](#adn)
 
 
 ## Source Code Repos 

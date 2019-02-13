@@ -60,12 +60,12 @@
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
 - [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
 - [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
-- [pify](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
-- [p-event](https://github.com/sindresorhus/p-event) - Promisify an event. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
-- [execa](https://github.com/sindresorhus/execa) - Test your CLI tools. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
-- [delay](https://github.com/sindresorhus/delay) - Add delays to your tests. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
-- [get-stream](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
-- [create-test-server](https://github.com/lukechilds/create-test-server) - Creates a minimal Express server for testing. [(https://github.com/avajs/awesome-ava/blob/master/Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js)
+- [pify](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
+- [p-event](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
+- [execa](https://github.com/sindresorhus/execa) - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
+- [delay](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
+- [get-stream](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
+- [create-test-server](https://github.com/lukechilds/create-test-server) - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js)
 
 
 ## Tutorials

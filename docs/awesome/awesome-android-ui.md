@@ -12,7 +12,7 @@ A curated list of awesome Android UI/UX libraries.
 [![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
 [![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan](https://github.com/ogaclejapan)
 
-## Index `(https://github.com/wasabeef/awesome-android-ui/blob/master/light-weight pages)`
+## Index `(light-weight pages)`
 * [Material](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Material.md)
 * [Layout](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Layout.md)
 * [Button](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Button.md)
@@ -29,7 +29,7 @@ A curated list of awesome Android UI/UX libraries.
 * [Graph](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Graph.md)
 * [Animation](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Animation.md)
 * [Parallax](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Parallax.md)
-* [Effect (https://github.com/wasabeef/awesome-android-ui/blob/master/Blur... etc)](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md)
+* [Effect (Blur... etc)](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Effect.md)
 * [Other](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Other.md)
 
 Material

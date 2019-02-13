@@ -2,7 +2,7 @@
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
-**Note: While there are many companies that have great free tiers (https://github.com/zachflower/awesome-open-source-supporters/blob/master/Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
+**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
 
 ## Contents
 
@@ -61,7 +61,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Dependency CI](https://dependencyci.com/) - Continuous dependency testing.
 - [deppbot](https://www.deppbot.com/) - Automated security and dependency updates.
 - [gemnasium](https://gemnasium.com/) - Automated dependency management.
-- [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (https://github.com/zachflower/awesome-open-source-supporters/blob/master/on GitHub).
+- [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
@@ -112,7 +112,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Algolia](https://www.algolia.com) - `requires-approval` Search as a service API.
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
-- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (https://github.com/zachflower/awesome-open-source-supporters/blob/master/Jira, Confluence, Bamboo, HipChat).
+- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.

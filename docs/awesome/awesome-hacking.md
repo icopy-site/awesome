@@ -2,7 +2,7 @@
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
 
-If you want to contribute to this list (https://github.com/carpedm20/awesome-hacking/blob/master/please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
+If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
 
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
@@ -59,7 +59,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
  * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
  * `docker pull pandrew/metasploit` - [docker-metasploit](https://hub.docker.com/r/pandrew/metasploit/)
- * `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (https://github.com/carpedm20/awesome-hacking/blob/master/DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
+ * `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
  * `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
  * `docker pull hmlio/vaas-cve-2014-6271` - [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
  * `docker pull hmlio/vaas-cve-2014-0160` - [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
@@ -91,7 +91,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
- * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (https://github.com/carpedm20/awesome-hacking/blob/master/closed-source, unmaintained)
+ * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
  * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
@@ -122,15 +122,15 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
- * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (https://github.com/carpedm20/awesome-hacking/blob/master/NFAT)
+ * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
  * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
- * [https://github.com/carpedm20/awesome-hacking/blob/master/ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (https://github.com/carpedm20/awesome-hacking/blob/master/ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
+ * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
- * [nmap](https://nmap.org/) - Nmap (https://github.com/carpedm20/awesome-hacking/blob/master/Network Mapper) is a security scanner
+ * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
@@ -148,8 +148,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
- * [https://github.com/carpedm20/awesome-hacking/blob/master/PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (https://github.com/carpedm20/awesome-hacking/blob/master/PE) and Component Object File Format (https://github.com/carpedm20/awesome-hacking/blob/master/COFF) files
- * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (https://github.com/carpedm20/awesome-hacking/blob/master/RAM), handles files of any size
+ * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
+ * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
 
@@ -174,15 +174,15 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
- * [CodeEngn](http://codeengn.com/challenges/) - (https://github.com/carpedm20/awesome-hacking/blob/master/Korean)
- * [simples.kr](http://simples.kr/) - (https://github.com/carpedm20/awesome-hacking/blob/master/Korean)
+ * [CodeEngn](http://codeengn.com/challenges/) - (Korean)
+ * [simples.kr](http://simples.kr/) - (Korean)
  * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
 
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
  * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
  * [Webhacking.kr](http://webhacking.kr/)
- * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (https://github.com/carpedm20/awesome-hacking/blob/master/so called hackits).
+ * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
@@ -212,9 +212,9 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
- * [CTFtime.org](https://ctftime.org/) - All about CTF (https://github.com/carpedm20/awesome-hacking/blob/master/Capture The Flag)
+ * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
- * [CTF archives (https://github.com/carpedm20/awesome-hacking/blob/master/shell-storm)](http://https://github.com/carpedm20/awesome-hacking/blob/master/shell-storm.org/repo/CTF/)
+ * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.

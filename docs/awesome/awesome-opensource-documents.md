@@ -5,7 +5,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ## Document Template
 
 ```
-[TITLE][repository-url] by AUTHOR (https://github.com/hubtee/awesome-opensource-documents/blob/master/[SITE][site-url], LICENSE) - SHORT DESCRIPTION
+[TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRIPTION
 ```
 
 ## Table of Contents
@@ -61,27 +61,27 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='computer_science'></a>
 ### Computer Science
 
-* [Crypto 101][repo-crypto-101] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-crypto-101], cc-nc) - the introductory book on cryptography
-* [The little book about OS development][repo-littleosbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-littleosbook], cc-nc-sa) - This is the source code for the book "The little book about OS development"
-* How to Design Programs (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-htdp], cc-nc-nd)
-* Structure and Interpretation of Computer Programs (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-sicp], cc-sa)
-* Programming Languages: Application and Interpretation (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-plai], cc-nc-sa)
-* Practical Foundations for Programming Languages (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-pfpl], cc-nc-nd)
-* [Open Data Structures][repo-ods] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ods], cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
-* Algorithms, Etc. (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-algorithm-etc], cc-nc-sa) - This page contains lecture notes and other course materials for various algorithms classes Jeff Erickson have taught at the University of Illinois, Urbana-Champaign.
-* Introduction to Theory of Computation (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-michiel-computation], cc-sa) - This is a free textbook for an undergraduate course on the Theory of Computation, which we have been teaching at Carleton University since 2002
-* Discrete Structures for Computer Science: Counting, Recursion, and Probability (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-michiel-structures], cc-nc-sa) - This is a free textbook for an undergraduate course on Discrete Structures for Computer Science, which I have been teaching at Carleton University since 2013
-* [graphbook][repo-graphbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/GNU-FDL) - A https://github.com/hubtee/awesome-opensource-documents/blob/master/GNU-FDL book on algorithmic graph theory by David Joyner, Minh Van Nguyen, and David Phillips. This is an introductory book on algorithmic graph theory
-* [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-operating-middleware] cc-sa) - free, modifiable textbook on operating systems principles
-* Programming on Parallel Machines (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-parallel-machine], cc-nd) - The purpose of this book is to help you program shared-memory parallel machines without risking your sanity
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-perfbook], cc-sa) - The purpose of this book is to teach new programmers and scientists about the basics of High Performance Computing
-* High Performance Computing (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-high-perfomance-computing], cc)
-* Natural Language Processing for the Working Programmer (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-nlpwp], cc) - We will go into many of the techniques that so-called computational linguists use to analyze the structure of human language, and transform it into a form that computers work with
-* Fundamentals of Programming: With Object Oriented Programming (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-funop], cc-nc-sa) - This book presents a balanced and flexible approach to the incorporation of object-oriented principles in introductory courses using Python
-* Introduction to Computing (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-introtocom], cc-nc-sa) - This book introduces the most important ideas in computing using the Scheme and Python programming languages. It focuses on how to describe information processes by defining procedures, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can and cannot be computed mechanically
-* [Computer Science from the Bottom Up][repo-csftbu] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-csftbu], cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
-* [Problem Solving with Algorithms and Data Structures][repo-psads] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
-* Data Compression Explained (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-dce], custom liscense) - This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
+* [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
+* [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa) - This is the source code for the book "The little book about OS development"
+* How to Design Programs ([Site][site-htdp], cc-nc-nd)
+* Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
+* Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
+* Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
+* [Open Data Structures][repo-ods] ([Site][site-ods], cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
+* Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa) - This page contains lecture notes and other course materials for various algorithms classes Jeff Erickson have taught at the University of Illinois, Urbana-Champaign.
+* Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa) - This is a free textbook for an undergraduate course on the Theory of Computation, which we have been teaching at Carleton University since 2002
+* Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) - This is a free textbook for an undergraduate course on Discrete Structures for Computer Science, which I have been teaching at Carleton University since 2013
+* [graphbook][repo-graphbook] (GNU-FDL) - A GNU-FDL book on algorithmic graph theory by David Joyner, Minh Van Nguyen, and David Phillips. This is an introductory book on algorithmic graph theory
+* [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] ([Site][site-operating-middleware] cc-sa) - free, modifiable textbook on operating systems principles
+* Programming on Parallel Machines ([Site][site-parallel-machine], cc-nd) - The purpose of this book is to help you program shared-memory parallel machines without risking your sanity
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] ([Site][site-perfbook], cc-sa) - The purpose of this book is to teach new programmers and scientists about the basics of High Performance Computing
+* High Performance Computing ([Site][site-high-perfomance-computing], cc)
+* Natural Language Processing for the Working Programmer ([Site][site-nlpwp], cc) - We will go into many of the techniques that so-called computational linguists use to analyze the structure of human language, and transform it into a form that computers work with
+* Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa) - This book presents a balanced and flexible approach to the incorporation of object-oriented principles in introductory courses using Python
+* Introduction to Computing ([Site][site-introtocom], cc-nc-sa) - This book introduces the most important ideas in computing using the Scheme and Python programming languages. It focuses on how to describe information processes by defining procedures, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can and cannot be computed mechanically
+* [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
+* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
+* Data Compression Explained ([Site][site-dce], custom liscense) - This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
 
 [site-dce]: http://mattmahoney.net/dc/dce.html
 [repo-psads]: https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
@@ -115,13 +115,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='data_science'></a>
 ### Data Science and Statistics
 
-* [LearnDataScience][repo-leads] (https://github.com/hubtee/awesome-opensource-documents/blob/master/BSD) - Open Content for self-directed learning in data science
-* [Think Stats][repo-thinkstats] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-thinkstats], cc-sa) - Probability and Statistics for Programmers
-* A Brief Introduction to Neural Networks (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-abinn], cc-nc-nd)
-* Data Mining for the Masses (https://github.com/hubtee/awesome-opensource-documents/blob/master/[PDF][site-dmftm], cc)
-* [Bayesian Methods for Hackers][repo-baymh] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-baymh], MIT) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view
-* Journal of Statistical Software (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jstatsoft], cc-by)
-* [The Book Of Jupyter][repo-jupyter-book] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jupyter-book], cc) - This is some of the material that covers the advanced Jupyter/IPython SciPy tutorial that is/was/will be given in July 2015
+* [LearnDataScience][repo-leads] (BSD) - Open Content for self-directed learning in data science
+* [Think Stats][repo-thinkstats] ([Site][site-thinkstats], cc-sa) - Probability and Statistics for Programmers
+* A Brief Introduction to Neural Networks ([Site][site-abinn], cc-nc-nd)
+* Data Mining for the Masses ([PDF][site-dmftm], cc)
+* [Bayesian Methods for Hackers][repo-baymh] ([Site][site-baymh], MIT) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view
+* Journal of Statistical Software ([Site][site-jstatsoft], cc-by)
+* [The Book Of Jupyter][repo-jupyter-book] ([Site][site-jupyter-book], cc) - This is some of the material that covers the advanced Jupyter/IPython SciPy tutorial that is/was/will be given in July 2015
 
 [repo-jupyter-book]: https://github.com/Carreau/jupyter-book
 [site-jupyter-book]: https://carreau.gitbooks.io/jupyter-book/content/
@@ -137,14 +137,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='devops'></a>
 ### Devops
 
-* [Ops School Curriculum][repo-ops-school] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ops-school], cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
-* [Twelve Factor App][repo-twelve-factor] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-twelve-factor], MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
-* Digital Oceans - Tutorials (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-do-tutorials], cc-nc-sa) - development and sysadmin tutorials
-* [.htaccess Snippets][repo-htaccess] (https://github.com/hubtee/awesome-opensource-documents/blob/master/Public Domain) - A collection of useful .htaccess snippets, all in one place.
-* [Travis CI][repo-travis-docs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-travis-docs], MIT) - Documentation for Travis
-* [CoreOS Documentation][repo-coreos] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-coreos], Apache 2.0) - Documentation for CoreOS
-* [Packer Documentation][repo-packer] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-packer], MPL) - Documentation for Packer
-* [The Art of Command Line][repo-art-command-line] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - Master the command line, in one page
+* [Ops School Curriculum][repo-ops-school] ([Site][site-ops-school], cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
+* [Twelve Factor App][repo-twelve-factor] ([Site][site-twelve-factor], MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
+* Digital Oceans - Tutorials ([Site][site-do-tutorials], cc-nc-sa) - development and sysadmin tutorials
+* [.htaccess Snippets][repo-htaccess] (Public Domain) - A collection of useful .htaccess snippets, all in one place.
+* [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT) - Documentation for Travis
+* [CoreOS Documentation][repo-coreos] ([Site][site-coreos], Apache 2.0) - Documentation for CoreOS
+* [Packer Documentation][repo-packer] ([Site][site-packer], MPL) - Documentation for Packer
+* [The Art of Command Line][repo-art-command-line] (cc-sa) - Master the command line, in one page
 
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
@@ -163,8 +163,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='mathematics'></a>
 ### Mathematics & Physics
 
-* [Homotopy type theory][repo-hott-book] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-hott-book], BSD) - Homotopy Type Theory is an interpretation of Martin-Löf’s intensional type theory into abstract homotopy theory.
-* [Collision Detection][repo-jeff-collision] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jeff-collision], cc-nc-sa) - A book and examples on collision detection
+* [Homotopy type theory][repo-hott-book] ([Site][site-hott-book], BSD) - Homotopy Type Theory is an interpretation of Martin-Löf’s intensional type theory into abstract homotopy theory.
+* [Collision Detection][repo-jeff-collision] ([Site][site-jeff-collision], cc-nc-sa) - A book and examples on collision detection
 
 [repo-jeff-collision]: https://github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]: http://www.jeffreythompson.org/collision-detection/
@@ -175,12 +175,12 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='open_source'></a>
 ### Open Source
 
-* [The Architecture of Open Source Applications 1][repo-aosa] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-aosa], cc-nc-sa)
-* [The Architecture of Open Source Applications 2][repo-aosa] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-aosa], cc-nc-sa)
-* [The Performance of Open Source Applications][repo-aosa] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-aosa], cc-nc-sa)
-* [Free Software Free Society: Selected Essays][repo-fsfs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-fsfs], GNU-FDL) - The Architecture of Open Source Applications
-* [Free as in Freedom (https://github.com/hubtee/awesome-opensource-documents/blob/master/https://github.com/hubtee/awesome-opensource-documents/blob/master/2.0)][repo-free-freedom-2] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-free-freedom-2], GNU-FDL) - Free as in Freedom (https://github.com/hubtee/awesome-opensource-documents/blob/master/https://github.com/hubtee/awesome-opensource-documents/blob/master/2.0) is Stallman's revision of the original biography.
-* The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-tdtgtp], cc-nc-nd)
+* [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
+* [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
+* [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
+* [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL) - The Architecture of Open Source Applications
+* [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL) - Free as in Freedom (2.0) is Stallman's revision of the original biography.
+* The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-free-freedom-2]: http://shop.fsf.org/product/free-as-in-freedom-2/
@@ -194,15 +194,15 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='progromming'></a>
 ### Programming
 
-* [500 Lines or Less][repo-500-lines] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
-* [Guides][repo-thoughtbot-guides] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Guides for getting things done, programming well, and programming in style.
-* [An App Launch Guide][repo-app-launch-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-app-launch-guide], Public Domain) - This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev.
-* [Reverse Engineering for Beginners][repo-refb-book] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-refb-book], cc-nc-nd) - Topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM.
-* [Build Podcast][repo-build-podcast] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-build-podcast], Public Domain) - Build Podcast is a show about technology tools for design and development all in the fun spirit of hacking, creating and building stuff!
-* Mozilla Developer Network (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-mdn], cc-by-sa) - Shared knowledge for the Open Web
-* [The Little Introduction To Programming][repo-tlitp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-tlitp], cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
-* [The Programming Historian][repo-tphistorian] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
-* [WHAT IS CODE?][repo-what-is-code] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
+* [500 Lines or Less][repo-500-lines] (cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
+* [Guides][repo-thoughtbot-guides] (cc) - Guides for getting things done, programming well, and programming in style.
+* [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain) - This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev.
+* [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd) - Topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM.
+* [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain) - Build Podcast is a show about technology tools for design and development all in the fun spirit of hacking, creating and building stuff!
+* Mozilla Developer Network ([Site][site-mdn], cc-by-sa) - Shared knowledge for the Open Web
+* [The Little Introduction To Programming][repo-tlitp] ([Site][site-tlitp], cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
+* [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
+* [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
 
 [site-what-is-code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [repo-what-is-code]: https://github.com/BloombergMedia/whatiscode
@@ -222,7 +222,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='database'></a>
 ### Database
 
-* [Elasticsearch - The Definitive Guide][repo-elastic-dg] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-elastic-dg], cc-nc-nd) - The Definitive Guide to Elasticsearch
+* [Elasticsearch - The Definitive Guide][repo-elastic-dg] ([Site][site-elastic-dg], cc-nc-nd) - The Definitive Guide to Elasticsearch
 
 [repo-elastic-dg]: https://github.com/elastic/elasticsearch-definitive-guide
 [site-elastic-dg]: https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
@@ -230,18 +230,18 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='world_wide_web'></a>
 ### World Wide Web
 
-* [HTTP API Design Guide][repo-http-api] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - HTTP API design guide extracted from work on the Heroku Platform API
-* [Dive Into HTML5][repo-diveintohtml5] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-diveintohtml5], cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
-* [Web Fundamentals][repo-web-fundamentles] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
-* [Code Guide][repo-code-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
-* [HTML Best Practices][repo-html-best] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc0) - For writing maintainable and scalable HTML documents
-* [WebComponents.org][repo-webcomponents] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-webcomponents], cc-sa) - A place to discuss and evolve Web Component best-practices
-* [How to lose weight (https://github.com/hubtee/awesome-opensource-documents/blob/master/in the browser)][repo-browser-diet] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-browser-diet], cc-sa, MIT) - The definitive front-end performance guide
-* [North][repo-north] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
-* RESTful Web APIs (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
-* DOM Enlightenment (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
-* [http2 explained][repo-http2-explained] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-* RESTful API Guidelines (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][zalando-guidelines], cc) - Comprehensive, "API First" design guidelines developed by Zalando
+* [HTTP API Design Guide][repo-http-api] (cc) - HTTP API design guide extracted from work on the Heroku Platform API
+* [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
+* [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
+* [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
+* [HTML Best Practices][repo-html-best] (cc0) - For writing maintainable and scalable HTML documents
+* [WebComponents.org][repo-webcomponents] ([Site][site-webcomponents], cc-sa) - A place to discuss and evolve Web Component best-practices
+* [How to lose weight (in the browser)][repo-browser-diet] ([Site][site-browser-diet], cc-sa, MIT) - The definitive front-end performance guide
+* [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
+* RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
+* DOM Enlightenment ([Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
+* [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+* RESTful API Guidelines ([Site][zalando-guidelines], cc) - Comprehensive, "API First" design guidelines developed by Zalando
 
 [site-http2-explained]: http://daniel.haxx.se/http2/
 [repo-http2-explained]: https://github.com/bagder/http2-explained
@@ -267,11 +267,11 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='writing_and_documentation'></a>
 ### Writing and Documentation
 
-* [Write the Docs][repo-write-the-docs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-write-the-docs], cc) - A place for Sphinx documentation and general writing of things.
-* [The Hitchhiker's Guide to Documentation!][repo-thgtd] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation.
-* [CommonMark Spec][repo-commonmark-spec] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-commonmark-spec], cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
-* reStructuredText Markup Specification (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rst-spec], Public Domain)
-* [Prose for Programmers][repo-prose-prog] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-nc-nd) - A book to help software developers write better prose.
+* [Write the Docs][repo-write-the-docs] ([Site][site-write-the-docs], cc) - A place for Sphinx documentation and general writing of things.
+* [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation.
+* [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
+* reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
+* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose.
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
@@ -285,13 +285,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='journalism_and_visualization'></a>
 ### Journalism and Visualization
 
-* [Data Journalism Handbook][site-data-journalism-handbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - The Data Journalism Handbook is a free, open source reference book for anyone interested in the emerging field of data journalism
-* [Intro to D3.js][repo-intro-to-d3] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-intro-to-d3], Apache 2.0) - The tutorial provides a quick intro to D3.js, a Javascript library for creating data visualizations in the browser.
-* [The Nature of Code][repo-natureofcode] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-natureofcode], cc-nc, LGPL) - This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing
-* [Data Science 45-min Intros][repo-data-science-45min] (https://github.com/hubtee/awesome-opensource-documents/blob/master/Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
-* [Data + Design][repo-data-design] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-data-design],  cc-nc-sa) - A Simple Introduction to Preparing and Visualizing Information
-* [D3 101 Screencasts][repo-d3-101-screencasts] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-d3-101-screencasts], MIT) - Curran Kelleher's D3.js screencasts
-* [Thematic Cartography Guide][repo-themacg] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-themacg], cc-nc) - A short, friendly guide to basic principles of thematic mapping.
+* [Data Journalism Handbook][site-data-journalism-handbook] (cc-sa) - The Data Journalism Handbook is a free, open source reference book for anyone interested in the emerging field of data journalism
+* [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0) - The tutorial provides a quick intro to D3.js, a Javascript library for creating data visualizations in the browser.
+* [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL) - This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing
+* [Data Science 45-min Intros][repo-data-science-45min] (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
+* [Data + Design][repo-data-design] ([Site][site-data-design],  cc-nc-sa) - A Simple Introduction to Preparing and Visualizing Information
+* [D3 101 Screencasts][repo-d3-101-screencasts] ([Site][site-d3-101-screencasts], MIT) - Curran Kelleher's D3.js screencasts
+* [Thematic Cartography Guide][repo-themacg] ([Site][site-themacg], cc-nc) - A short, friendly guide to basic principles of thematic mapping.
 
 [repo-themacg]: https://github.com/axismaps/thematic-cartography
 [site-themacg]: http://axismaps.github.io/thematic-cartography/
@@ -309,8 +309,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='android_development'></a>
 ### Android Development
 
-* Android Developers - API Guide (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-android-api-guide], cc) - Documentation for Android development
-* [Best practices in Android development][repo-android-bp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Do's and Don'ts for Android development, by Futurice developers
+* Android Developers - API Guide ([Site][site-android-api-guide], cc) - Documentation for Android development
+* [Best practices in Android development][repo-android-bp] (cc) - Do's and Don'ts for Android development, by Futurice developers
 
 [repo-android-bp]: https://github.com/futurice/android-best-practices
 [site-android-api-guide]: http://developer.android.com/guide/index.html
@@ -318,8 +318,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='ios_development'></a>
 ### IOS Development
 
-* [iOS Good Practices][repo-ios-good-practices] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Good ideas for iOS development, by Futurice developers.
-* [iOS Developer and Designer Interview Questions][repo-ios-questions] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
+* [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
+* [iOS Developer and Designer Interview Questions][repo-ios-questions] (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
 
 [repo-ios-questions]: https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
 [repo-ios-good-practices]: https://github.com/futurice/ios-good-practices
@@ -327,14 +327,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='subject-etc'></a>
 ### ETC
 
-* [Cocktails for programmers][repo-cocktails-for-programmer] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - Сocktails for programmers. Коктейли для программистов.
-* [Solarized][repo-solarized] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-solarized], MIT) - Precision colors for machines and people
-* [ØMQ - The Guide][repo-zguide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-zguide] cc-nc-sa) - Learning and Using ØMQ
-* [NPR Visuals' Best Practices][repo-npr-bp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Best practices and coding conventions for the NPR Visuals team.
-* [10up Engineering Best Practices][repo-10up-bp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-10up-bp], MIT) - This guide dictates how we, as a company, engineer websites
-* [Peco REAMDE][repo-peco] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - Documenatation for Peco(https://github.com/hubtee/awesome-opensource-documents/blob/master/Simplistic interactive filtering tool)
-* [Learn X in Y minutes][repo-xyminutes] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-xyminutes], cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
-* [RxMarbles][repo-rxmarbles] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rxmarbles], BSD) - Interactive diagrams of Rx Observables
+* [Cocktails for programmers][repo-cocktails-for-programmer] (MIT) - Сocktails for programmers. Коктейли для программистов.
+* [Solarized][repo-solarized] ([Site][site-solarized], MIT) - Precision colors for machines and people
+* [ØMQ - The Guide][repo-zguide] ([Site][site-zguide] cc-nc-sa) - Learning and Using ØMQ
+* [NPR Visuals' Best Practices][repo-npr-bp] (cc) - Best practices and coding conventions for the NPR Visuals team.
+* [10up Engineering Best Practices][repo-10up-bp] ([Site][site-10up-bp], MIT) - This guide dictates how we, as a company, engineer websites
+* [Peco REAMDE][repo-peco] (MIT) - Documenatation for Peco(Simplistic interactive filtering tool)
+* [Learn X in Y minutes][repo-xyminutes] ([Site][site-xyminutes], cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
+* [RxMarbles][repo-rxmarbles] ([Site][site-rxmarbles], BSD) - Interactive diagrams of Rx Observables
 
 [site-rxmarbles]: http://rxmarbles.com/
 [repo-rxmarbles]: https://github.com/staltz/rxmarbles
@@ -356,14 +356,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='language-c'></a>
 ### C
 
-* [C Style][repo-cstyle] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - My favorite C programming practices
+* [C Style][repo-cstyle] (cc-sa) - My favorite C programming practices
 
 [repo-cstyle]: https://github.com/mcinglis/c-style
 
 <a name='coffeescript'></a>
 ### Cofeescript
 
-* [Cofeescript Cookbook][repo-coffee-cookbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-coffee-cookbook], cc) - CoffeeScript recipes for the community by the community.
+* [Cofeescript Cookbook][repo-coffee-cookbook] ([Site][site-coffee-cookbook], cc) - CoffeeScript recipes for the community by the community.
 
 [site-coffee-cookbook]: https://coffeescript-cookbook.github.io/
 [repo-coffee-cookbook]: https://github.com/coffeescript-cookbook/coffeescript-cookbook.github.io
@@ -371,9 +371,9 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='css'></a>
 ### CSS
 
-* [Bootstrap][repo-bootstrap] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-bootstrap], cc) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [idiomatic CSS][repo-idiomatic-css] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Principles of writing consistent
-* [Font Awesome][repo-font-awesome] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-font-awesome], cc) - The iconic font and CSS toolkit
+* [Bootstrap][repo-bootstrap] ([Site][site-bootstrap], cc) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
+* [Font Awesome][repo-font-awesome] ([Site][site-font-awesome], cc) - The iconic font and CSS toolkit
 
 [repo-font-awesome]: https://github.com/FortAwesome/Font-Awesome/tree/master/src
 [site-font-awesome]: http://fortawesome.github.io/Font-Awesome/
@@ -384,24 +384,24 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='fortran'></a>
 ### Fortran
 
-* Introduction to Programming using Fortran 95 (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ipufortran], cc-nc-sa) - This text provides an introduction to programming and problem solving using the Fortran 95 programming language.
+* Introduction to Programming using Fortran 95 ([Site][site-ipufortran], cc-nc-sa) - This text provides an introduction to programming and problem solving using the Fortran 95 programming language.
 
 [site-ipufortran]: http://www.egr.unlv.edu/~ed/fortran
 
 <a name='ruby'></a>
 ### Ruby
 
-* [Why's Poignant Guide to Ruby][repo-poignant-ruby] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
-* [Rails Guide][repo-rails-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rails-guide], cc-sa) - Official Guide for Ruby on Rails
-* [The Rails Style Guide][repo-rails-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - A community-driven Ruby on Rails 4 style guide
-* [Ruby Style Guide][repo-ruby-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - A community-driven Ruby coding style guide
-* [Better Spec][repo-better-spec] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-better-spec], MIT) - RSpec Best Practices
-* [Ruby Hacking Guide][repo-rhg] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rhg-english], cc-nc-sa) - Ruby hacking guide english translation
-* Practicing Ruby (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-practicing-ruby], cc-sa) - We provide concentrated doses of programming experience across a wide range of different topics
-* [Ruby Best Practices][repo-rbp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-nc-sa) - Ruby Best Practices, by Gregory Brown
-* [Neo Ruby Koans][repo-ruby-koan] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ruby-koan], cc-nc-sa) - A set of Koans to teach the Ruby language
-* [Middleman][repo-middleman] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-middleman], cc) - Documentation for Middleman
-* [Jekyll][repo-jekyll] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jekyll], MIT) - Documentation for Jekyll
+* [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
+* [Rails Guide][repo-rails-guide] ([Site][site-rails-guide], cc-sa) - Official Guide for Ruby on Rails
+* [The Rails Style Guide][repo-rails-style-guide] (cc) - A community-driven Ruby on Rails 4 style guide
+* [Ruby Style Guide][repo-ruby-style-guide] (cc) - A community-driven Ruby coding style guide
+* [Better Spec][repo-better-spec] ([Site][site-better-spec], MIT) - RSpec Best Practices
+* [Ruby Hacking Guide][repo-rhg] ([Site][site-rhg-english], cc-nc-sa) - Ruby hacking guide english translation
+* Practicing Ruby ([Site][site-practicing-ruby], cc-sa) - We provide concentrated doses of programming experience across a wide range of different topics
+* [Ruby Best Practices][repo-rbp] (cc-nc-sa) - Ruby Best Practices, by Gregory Brown
+* [Neo Ruby Koans][repo-ruby-koan] ([Site][site-ruby-koan], cc-nc-sa) - A set of Koans to teach the Ruby language
+* [Middleman][repo-middleman] ([Site][site-middleman], cc) - Documentation for Middleman
+* [Jekyll][repo-jekyll] ([Site][site-jekyll], MIT) - Documentation for Jekyll
 
 [repo-jekyll]: https://jekyllrb.com/
 [site-jekyll]: https://github.com/jekyll/jekyll/tree/master/site
@@ -425,8 +425,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='clojure'></a>
 ### Clojure
 
-* [ClojureDocs][repo-clojure-docs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-clojure-docs], Eclipse Public License) - community-powered documentation and examples repository for the Clojure programming language
-* [Clojure Documentation][repo-clojure-doc] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-clojure-doc], cc) - community-driven documentation site for the Clojure programming language
+* [ClojureDocs][repo-clojure-docs] ([Site][site-clojure-docs], Eclipse Public License) - community-powered documentation and examples repository for the Clojure programming language
+* [Clojure Documentation][repo-clojure-doc] ([Site][site-clojure-doc], cc) - community-driven documentation site for the Clojure programming language
 
 [site-clojure-docs]: http://clojuredocs.org
 [repo-clojure-docs]: https://github.com/zk/clojuredocs
@@ -436,9 +436,9 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='elixir'></a>
 ### Elixir
 
-* [Elixir Getting Started][repo-elixir-getting-started] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-elixir-getting-started], Apache 2.0) - Official Elixir tutorial
-* [repo-30-days-of-elixir][repo-30-days-of-elixir] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A walk through the Elixir language in 30 exercises
-* [Elixir Style Guide][repo-elixir-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - A community driven style guide for Elixir
+* [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0) - Official Elixir tutorial
+* [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
+* [Elixir Style Guide][repo-elixir-style-guide] (cc) - A community driven style guide for Elixir
 
 [repo-elixir-style-guide]: https://github.com/niftyn8/elixir_style_guide
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
@@ -448,15 +448,15 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='forth'></a>
 ### Forth
 
-* Thinking Forth Project Thinking Forth Project (https://github.com/hubtee/awesome-opensource-documents/blob/master/[PDF][site-thinking-forth], cc-nc-sa)
+* Thinking Forth Project Thinking Forth Project ([PDF][site-thinking-forth], cc-nc-sa)
 
 [site-thinking-forth]: http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf
 
 <a name='erlang'></a>
 ### Erlang
 
-* Learn You Some Erlang for Great Good! (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-lysefgg], cc-nc-nd)
-* [Structure and Interpretation of Computer Program][repo-sicp-lfe] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-sicp-lfe], cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
+* Learn You Some Erlang for Great Good! ([Site][site-lysefgg], cc-nc-nd)
+* [Structure and Interpretation of Computer Program][repo-sicp-lfe] ([Site][site-sicp-lfe], cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
 
 [repo-sicp-lfe]: https://github.com/lfe/sicp
 [site-sicp-lfe]: http://lfe.gitbooks.io/sicp/
@@ -465,8 +465,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='go'></a>
 ### Go
 
-* [Go by Example][repo-go-by-example] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Go by Example is a hands-on introduction to Go using annotated example programs
-* [Build Web Application With Golang][repo-bwawg] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - A golang ebook intro how to build a web with golang
+* [Go by Example][repo-go-by-example] (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
+* [Build Web Application With Golang][repo-bwawg] (cc-sa) - A golang ebook intro how to build a web with golang
 
 [repo-bwawg]: https://github.com/astaxie/build-web-application-with-golang
 [repo-go-by-example]: https://github.com/mmcgrana/gobyexample
@@ -474,9 +474,9 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='haskell'></a>
 ### Haskell
 
-* Learn You a Haskell for Great Good! (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-lyhfgg], cc-nc-sa) - Learn You a Haskell for Great Good! is a hilarious, illustrated guide to this complex functional language
-* [How to learn Haskell][repo-howtlh] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc0) - This is a recommended path for learning Haskell based on experience helping others
-* [Haskell By Example][repo-haskell-example] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-haskell-example], cc) - Haskell by Example is a port of Go by Example to Haskell
+* Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa) - Learn You a Haskell for Great Good! is a hilarious, illustrated guide to this complex functional language
+* [How to learn Haskell][repo-howtlh] (cc0) - This is a recommended path for learning Haskell based on experience helping others
+* [Haskell By Example][repo-haskell-example] ([Site][site-haskell-example], cc) - Haskell by Example is a port of Go by Example to Haskell
 
 [repo-haskell-example]: https://github.com/lotz84/haskellbyexample
 [site-haskell-example]: http://lotz84.github.io/haskellbyexample/
@@ -486,30 +486,30 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='javascript'></a>
 ### Javascript
 
-* Learning JavaScript Design Patterns (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ljdp], cc-nc-nd) - In this book we will explore applying both classical and modern design patterns to the JavaScript programming language
-* [JavaScript-Garden][repo-javascript-garden] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-javascript-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-* [ECMAScript 6 Features][repo-es6-features] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
-* [React Primer Draft][repo-react-primer] (https://github.com/hubtee/awesome-opensource-documents/blob/master/GNU) - A primer for building Single-Page Applications with React
-* [Angular Style Guide][repo-angular-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
-* [JavaScript : The Right Way][repo-jstherightway] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jstherightway], cc-nc-sa) - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
-* [Idiomatic JavaScript][repo-idiomatic-js] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - Principles of Writing Consistent, Idiomatic JavaScript
-* [Angular Test Patterns][repo-angular-test-pattern] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A High-Quality Guide for Testing Angular 1.x Applications
-* [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A mostly reasonable approach to JavaScript
-* [JavaScript Garden][repo-js-garden] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-* [Node.js Style Guide][repo-node-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
-* [Node.js Best Practices][repo-nodejs-bp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-nodejs-bp], MIT) - This is a list of best practices for writing robust Node.js code. It is inspired by other guilds such as Felix Geisendörfer's Node Style Guide and what is popular within the community
-* [function qualityGuide () {][repo-function-quality] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
-* [The Node Beginner Book][repo-node-biginner] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-node-biginner], cc-nc-sa) - The Node Beginner Book is a comprehensive introduction to Node.js and some of the more advanced JavaScript topics like functional programming
-* [Learn You The Node.js For Much Win!][repo-learn-node-win] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
-* Understanding ECMAScript 6 (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-understanding-es6], cc-nc-nd) - ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!
-* [An introduction to Node.js][repo-art-of-node] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - a short introduction to node.js
-* [stream-handbook][repo-stream-handbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - how to write node programs with streams
-* [You Don't Know JS][repo-you-dont-know-js] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
-* [CasperJS][repo-casperjs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-casperjs], MIT) - Documentation for CasperJS
-* [Ember.js Guide][repo-emberjs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-emberjs], MIT) - Official Guide for Ember.js
-* [React Document][repo-react] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-react], cc) - Documentation for React
-* [Flux Application Architecture][repo-flux] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-flux], cc) - Documenatiton for Flux application architecture
-* [Redux Document][repo-redux] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-redux], MIT) - Documentation for Redux
+* Learning JavaScript Design Patterns ([Site][site-ljdp], cc-nc-nd) - In this book we will explore applying both classical and modern design patterns to the JavaScript programming language
+* [JavaScript-Garden][repo-javascript-garden] ([Site][site-javascript-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
+* [ECMAScript 6 Features][repo-es6-features] (MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
+* [React Primer Draft][repo-react-primer] (GNU) - A primer for building Single-Page Applications with React
+* [Angular Style Guide][repo-angular-style-guide] (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
+* [JavaScript : The Right Way][repo-jstherightway] ([Site][site-jstherightway], cc-nc-sa) - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
+* [Idiomatic JavaScript][repo-idiomatic-js] (cc) - Principles of Writing Consistent, Idiomatic JavaScript
+* [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
+* [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT) - A mostly reasonable approach to JavaScript
+* [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
+* [Node.js Style Guide][repo-node-style-guide] (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
+* [Node.js Best Practices][repo-nodejs-bp] ([Site][site-nodejs-bp], MIT) - This is a list of best practices for writing robust Node.js code. It is inspired by other guilds such as Felix Geisendörfer's Node Style Guide and what is popular within the community
+* [function qualityGuide () {][repo-function-quality] (MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
+* [The Node Beginner Book][repo-node-biginner] ([Site][site-node-biginner], cc-nc-sa) - The Node Beginner Book is a comprehensive introduction to Node.js and some of the more advanced JavaScript topics like functional programming
+* [Learn You The Node.js For Much Win!][repo-learn-node-win] (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
+* Understanding ECMAScript 6 ([Site][site-understanding-es6], cc-nc-nd) - ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!
+* [An introduction to Node.js][repo-art-of-node] (cc-sa) - a short introduction to node.js
+* [stream-handbook][repo-stream-handbook] (cc) - how to write node programs with streams
+* [You Don't Know JS][repo-you-dont-know-js] ([Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
+* [CasperJS][repo-casperjs] ([Site][site-casperjs], MIT) - Documentation for CasperJS
+* [Ember.js Guide][repo-emberjs] ([Site][site-emberjs], MIT) - Official Guide for Ember.js
+* [React Document][repo-react] ([Site][site-react], cc) - Documentation for React
+* [Flux Application Architecture][repo-flux] ([Site][site-flux], cc) - Documenatiton for Flux application architecture
+* [Redux Document][repo-redux] ([Site][site-redux], MIT) - Documentation for Redux
 
 [repo-node-style-guide]: https://github.com/felixge/node-style-guide
 [repo-flux]: https://facebook.github.io/react/docs/flux-overview.html
@@ -550,8 +550,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='lisp'></a>
 ### Lisp
 
-* [DIY Lisp][repo-diy-lisp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/BSD) - A hands-on, test driven guide to implementing a simple programming language.
-* [Build Your Own Lisp][repo-buildyourownlisp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-buildyourownlisp], cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
+* [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language.
+* [Build Your Own Lisp][repo-buildyourownlisp] ([Site][site-buildyourownlisp], cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
 
 [repo-diy-lisp]: https://github.com/kvalle/diy-lisp
 [repo-buildyourownlisp]: https://github.com/orangeduck/BuildYourOwnLisp
@@ -560,20 +560,20 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='objective-c'></a>
 ### Objective-C
 
-* [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times.
+* [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times.
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
 ### Ocaml
 
-* Real World OCaml (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-real-world-ocaml], cc-nc-nd) - Real World OCaml is aimed at programmers who have some experience with conventional programming languages, but not specifically with statically typed functional programming.
+* Real World OCaml ([Site][site-real-world-ocaml], cc-nc-nd) - Real World OCaml is aimed at programmers who have some experience with conventional programming languages, but not specifically with statically typed functional programming.
 
 [site-real-world-ocaml]: https://realworldocaml.org/v1/en/html/
 
 <a name='php'></a>
 ### PHP
 
-* [PHP: The Right Way][repo-php-right-way] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+* [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
 [site-php-right-way]: http://www.phptherightway.com/
@@ -581,17 +581,17 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='python'></a>
 ### Python
 
-* [Python Enhancement Proposals][repo-peps] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-peps], Open Publication License)
-* [The Hitchhiker’s Guide to Python!][repo-python-hguide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-python-hguide], cc-nc-sa) -  Python best practices guidebook, written for Humans.
-* [Django Documentation][repo-django-document] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-django-document], bsd) - Documenatiton for Django which is python web framework
-* Dive Into Python 3 (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-diveintopython3], cc-sa) - Dive Into Python is a free Python book for experienced programmers
-* [Explore Flask][repo-explore-flask] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-explore-flask], Public Domain) - Explore Flask is a book about best practices and patterns for developing web applications with Flask
-* [Full Stack Python][repo-full-python] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
-* [A Byte of Python][repo-byte-python] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-byte-python], cc-sa) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience
-* Learning to Program Using Python (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-lpupython], cc-sa)
-* [A guide to Python's magic methods][repo-magic-methods] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-magic-methods], cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
-* Think Python (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-think-python], cc-nc) - How to Think Like a Computer Scientist
-* Google's Python Class (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python
+* [Python Enhancement Proposals][repo-peps] ([Site][site-peps], Open Publication License)
+* [The Hitchhiker’s Guide to Python!][repo-python-hguide] ([Site][site-python-hguide], cc-nc-sa) -  Python best practices guidebook, written for Humans.
+* [Django Documentation][repo-django-document] ([Site][site-django-document], bsd) - Documenatiton for Django which is python web framework
+* Dive Into Python 3 ([Site][site-diveintopython3], cc-sa) - Dive Into Python is a free Python book for experienced programmers
+* [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain) - Explore Flask is a book about best practices and patterns for developing web applications with Flask
+* [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
+* [A Byte of Python][repo-byte-python] ([Site][site-byte-python], cc-sa) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience
+* Learning to Program Using Python ([Site][site-lpupython], cc-sa)
+* [A guide to Python's magic methods][repo-magic-methods] ([Site][site-magic-methods], cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
+* Think Python ([Site][site-think-python], cc-nc) - How to Think Like a Computer Scientist
+* Google's Python Class ([Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python
 
 [site-google-python]: https://developers.google.com/edu/python/
 [site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
@@ -615,10 +615,10 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='rust'></a>
 ### Rust
 
-* [The Rust Programming Language][repo-trpl] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-trpl], MIT) - Official Guide for Rust
-* [Rust by Example][repo-rust-by-example] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rust-by-example], MIT) - Rust by Example is a collection of examples that illustrate various Rust concepts and the standard libraries
-* [Rust For Rubyists][repo-rust-rubyist] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rust-rubyist], AGPL) - Rust for Rubyists was the first community tutorial for Rust
-* Rust for Python Programmers (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-rust-python], cc-nc-sa)
+* [The Rust Programming Language][repo-trpl] ([Site][site-trpl], MIT) - Official Guide for Rust
+* [Rust by Example][repo-rust-by-example] ([Site][site-rust-by-example], MIT) - Rust by Example is a collection of examples that illustrate various Rust concepts and the standard libraries
+* [Rust For Rubyists][repo-rust-rubyist] ([Site][site-rust-rubyist], AGPL) - Rust for Rubyists was the first community tutorial for Rust
+* Rust for Python Programmers ([Site][site-rust-python], cc-nc-sa)
 
 [site-rust-python]: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 [repo-rust-rubyist]: https://github.com/steveklabnik/rust_for_rubyists
@@ -631,8 +631,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='r'></a>
 ### R
 
-* [Introduction to R][repo-intro-r] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-intro-r], cc-nc-sa & apache 2.0) - These are notes for an introductory R workshop I am teaching for Python Programmers
-* Cookbook for R (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-r-cookbook], cc-sa) - The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data
+* [Introduction to R][repo-intro-r] ([Site][site-intro-r], cc-nc-sa & apache 2.0) - These are notes for an introductory R workshop I am teaching for Python Programmers
+* Cookbook for R ([Site][site-r-cookbook], cc-sa) - The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data
 
 [site-r-cookbook]: http://www.cookbook-r.com/
 [site-intro-r]: https://ramnathv.github.io/pycon2014-r/
@@ -641,16 +641,16 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='racket'></a>
 ### Racket
 
-* Racket Documentation (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-racket-documentation], LGPL) - Documentation for Racket
+* Racket Documentation ([Site][site-racket-documentation], LGPL) - Documentation for Racket
 
 [site-racket-documentation]: http://docs.racket-lang.org/index.html
 
 <a name='scala'></a>
 ### Scala
 
-* [Scala Best Practices][repo-scala-bp] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - A collection of best practices, friendly to people that want to contribute
-* [twitter.github.com/effectivescala][repo-effective-scala] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-effective-scala], cc-by) - Twitter's Effective Scala Guide
-* [Scala School!][repo-scala-school] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
+* [Scala Best Practices][repo-scala-bp] (cc) - A collection of best practices, friendly to people that want to contribute
+* [twitter.github.com/effectivescala][repo-effective-scala] ([Site][site-effective-scala], cc-by) - Twitter's Effective Scala Guide
+* [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
 [repo-effective-scala]: https://github.com/twitter/effectivescala
 [site-effective-scala]: http://twitter.github.io/effectivescala/
@@ -661,10 +661,10 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='smalltalk'></a>
 ### Smalltalk
 
-* Deep into Pharo (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-deep-pharo], cc-sa) - Deep into Pharo is the second volume of a series of books covering Pharo
-* Pharo by example (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-pharo-example], cc-sa) - Pharo by Example, intended for both students and developers, will guide you gently through the Pharo language and environment by means of a series of examples and exercises
-* Dynamic Web Development with Seaside (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-dwd-seaside], cc-nc-sa) - Dynamic Web Development with Seaside, intended for developers, will present the core of Seaside as well as advanced features such as Web 2.0 support and deployment
-* Squeak by Example (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-squeak-example], cc-sa) - Squeak by Example, intended for both students and developers, will guide you gently through the Squeak language and environment by means of a series of examples and exercises
+* Deep into Pharo ([Site][site-deep-pharo], cc-sa) - Deep into Pharo is the second volume of a series of books covering Pharo
+* Pharo by example ([Site][site-pharo-example], cc-sa) - Pharo by Example, intended for both students and developers, will guide you gently through the Pharo language and environment by means of a series of examples and exercises
+* Dynamic Web Development with Seaside ([Site][site-dwd-seaside], cc-nc-sa) - Dynamic Web Development with Seaside, intended for developers, will present the core of Seaside as well as advanced features such as Web 2.0 support and deployment
+* Squeak by Example ([Site][site-squeak-example], cc-sa) - Squeak by Example, intended for both students and developers, will guide you gently through the Squeak language and environment by means of a series of examples and exercises
 
 [site-squeak-example]: http://www.squeakbyexample.org/
 [site-dwd-seaside]: http://book.seaside.st/book
@@ -677,19 +677,19 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='server'></a>
 ### Server
 
-* [Nginx Server Configs][repo-nginx-configs] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - Nginx HTTP server boilerplate configs
+* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx HTTP server boilerplate configs
 
 [repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
 <a name='editor'></a>
 ### Editor
 
-* GNU Emacs manual (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-emacs-manual], GNU-FDL) - Emacs is the extensible, customizable, self-documenting real-time display editor. This manual describes how to edit with Emacs and some of the ways to customize it
-* GNU Emacs Lisp Reference Manual (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-elisp-manual], GNU-FDL) - Documentation for Emacs Lisp
-* [Emacs is sexy!][repo-emacs-sexy] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-emacs-sexy], GNU) - Simple website to share the love for Emacs
-* [Learn Vimscript the Hard Way][repo-vimscript-hard-way] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-vimscript-hard-way], custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
-* [The Emacs Lisp Style Guide][repo-elisp-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
-* A Byte of Vim (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (https://github.com/hubtee/awesome-opensource-documents/blob/master/version 7), even if all you know is how to use the computer keyboard
+* GNU Emacs manual ([Site][site-emacs-manual], GNU-FDL) - Emacs is the extensible, customizable, self-documenting real-time display editor. This manual describes how to edit with Emacs and some of the ways to customize it
+* GNU Emacs Lisp Reference Manual ([Site][site-elisp-manual], GNU-FDL) - Documentation for Emacs Lisp
+* [Emacs is sexy!][repo-emacs-sexy] ([Site][site-emacs-sexy], GNU) - Simple website to share the love for Emacs
+* [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
+* [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
+* A Byte of Vim ([Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
 
 [site-byte-vim]: http://www.swaroopch.com/notes/vim/
 [repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
@@ -703,11 +703,11 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='git'></a>
 ### Git
 
-* [Pro Git][repo-progit] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-progit], cc-nc-sa) - An open source book on Git by Scott Chacon and Ben Straub
-* [A Git Style Guide][repo-git-style-guide] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
-* [Github Cheatsheet][repo-github-cheatsheet] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A list of cool features of Git and GitHub
-* [Git Magic][repo-git-magic] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-git-magic], GPL) - A guide to using Git
-* [Git it][repo-git-it] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
+* [Pro Git][repo-progit] ([Site][site-progit], cc-nc-sa) - An open source book on Git by Scott Chacon and Ben Straub
+* [A Git Style Guide][repo-git-style-guide] (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
+* [Github Cheatsheet][repo-github-cheatsheet] (MIT) - A list of cool features of Git and GitHub
+* [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL) - A guide to using Git
+* [Git it][repo-git-it] ([Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
 
 [repo-git-style-guide]: https://github.com/agis-/git-style-guide
 [repo-git-magic]: https://github.com/blynn/gitmagic
@@ -721,8 +721,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='tool-etc'></a>
 ### etc.
 
-* Gibber User Manual (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-gibber-manual], cc) - Gibber is a creative coding environment that runs in the browser. This book explains why Gibber was created, what its features are and how to use it
-* Upstart Intro, Cookbook and Best Practises (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-upstart-cookbook], cc-sa)
+* Gibber User Manual ([Site][site-gibber-manual], cc) - Gibber is a creative coding environment that runs in the browser. This book explains why Gibber was created, what its features are and how to use it
+* Upstart Intro, Cookbook and Best Practises ([Site][site-upstart-cookbook], cc-sa)
 
 [site-upstart-cookbook]: http://upstart.ubuntu.com/cookbook/
 [site-gibber-manual]: https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
@@ -730,13 +730,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='library-docs'></a>
 ## Library Documentation
 
-* [riak docs][repo-riak] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-riak], cc) - Documentation for riak
-* [Vagrant][repo-vagrant] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-vagrant], MIT) - Documentation for Vagrant
-* [Docker][repo-docker] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-docker], Apache 2.0) - Documentation for Docker
-* [phpMyAdmin][repo-phpmyadmin] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-phpmyadmin], GPL) - Documentation for phpMyAdmin
-* [OmegaT][repo-omegat] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-omegat], GPL) - Documentation for OmegaT
-* [Sphinx documentation][repo-sphinx-doc] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-sphinx-doc], BSD) - Documentation for Sphinx
-* [Ansible Documentation][repo-ansible-document] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-ansible-document], GPL) - Documentation for Ansible
+* [riak docs][repo-riak] ([Site][site-riak], cc) - Documentation for riak
+* [Vagrant][repo-vagrant] ([Site][site-vagrant], MIT) - Documentation for Vagrant
+* [Docker][repo-docker] ([Site][site-docker], Apache 2.0) - Documentation for Docker
+* [phpMyAdmin][repo-phpmyadmin] ([Site][site-phpmyadmin], GPL) - Documentation for phpMyAdmin
+* [OmegaT][repo-omegat] ([Site][site-omegat], GPL) - Documentation for OmegaT
+* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD) - Documentation for Sphinx
+* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL) - Documentation for Ansible
 
 [repo-vagrant]: https://github.com/mitchellh/vagrant/tree/master/website/docs
 [site-vagrant]: https://docs.vagrantup.com/v2/
@@ -760,9 +760,9 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='korean'></a>
 ### Korean
 
-* 점프 투 파이썬 (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
-* [emacsbook][repo-emacsbook] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-nc)
-* 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-osdi], cc-nc-nd)
+* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
+* [emacsbook][repo-emacsbook] (cc-nc)
+* 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 ([Site][site-osdi], cc-nc-nd)
 
 [site-osdi]: http://osdi.insightbook.co.kr/
 [repo-emacsbook]: https://github.com/tsgates/emacsbook
@@ -771,13 +771,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='chinese'></a>
 ### Chinese
 
-* [JavaScript 标准参考教程][repo-jstutorial] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
-* [Build Web Applciation With Golang][repo-build-web-app-golang] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-sa) - A golang ebook intro how to build a web with golang
-* [七天学会NodeJS][repo-7days-node] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
-* [C++ 并发编程指南][repo-adcct] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - A Detailed Cplusplus Concurrency Tutorial
-* [Backbone.js入门教程][repo-backbonejs-note] (https://github.com/hubtee/awesome-opensource-documents/blob/master/MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
-* [ECMAScript 6入门][repo-es6tutorial-cn] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
-* [Nginx开发从入门到精通][repo-nginx-book-cn] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
+* [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
+* [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang
+* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
+* [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
+* [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
+* [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
+* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
@@ -794,8 +794,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='japanese'></a>
 ## Japanese
 
-* [Android Development Training Course][repo-and-training] (https://github.com/hubtee/awesome-opensource-documents/blob/master/[Site][site-and-training], Apache 2.0) - Training course repository for android app development
-* [はてな教科書][repo-hatena-book] (https://github.com/hubtee/awesome-opensource-documents/blob/master/cc-nc-sa) - はてな研修用教科書
+* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development
+* [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
 [repo-and-training]: https://github.com/mixi-inc/AndroidTraining
@@ -817,7 +817,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [OnlineProgrammingBooks.com][site-online-programming-books] - This site lists free eBooks and online books related to programming, computer science, software engineering, web design, mobile app development, networking, databases, information technology, AI, graphics and computer hardware which are provided by publishers or authors on their websites legally
 * [Free Software Foundation - books/documentation][site-fsf-book]
 * [Green Tea Press][site-greentea-press] - Free books by Allen Downey
-* [Wikipedia books(https://github.com/hubtee/awesome-opensource-documents/blob/master/community books)][site-wikipedia-book]
+* [Wikipedia books(community books)][site-wikipedia-book]
 * [Python Books][repo-python-books] - PythonBooks is a showcase of the best free ebooks about Python
 * [JSbooks][site-jsbooks] - The best free JavaScript resources
 

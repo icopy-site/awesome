@@ -48,9 +48,9 @@ Pull-Requests are welcomed.
 
 - [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
 - [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl) - Great intro on reduce, group, group_level.
-- [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation) - Index mapping (https://github.com/quangv/awesome-couchdb/blob/master/emits) for data joins.
+- [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation) - Index mapping (emits) for data joins.
 - [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html) - More documentation on "View Collation".
-- [Cloudant - MapReduce and the Secondary Index (https://github.com/quangv/awesome-couchdb/blob/master/Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - Great videos here on mapReduce, secondary indexes, and complex keys.
+- [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - Great videos here on mapReduce, secondary indexes, and complex keys.
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html) - Cloudant's documentation is also great resource for learning concepts of CouchDB.
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - How to manage design doc changes in production.
 
@@ -63,7 +63,7 @@ Pull-Requests are welcomed.
 
 ### Document Versioning
 
-- [Document Revisions (https://github.com/quangv/awesome-couchdb/blob/master/from wiki)](https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions)
+- [Document Revisions (from wiki)](https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions)
 - [Simple Document Versioning](http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb)
 
 
@@ -75,7 +75,7 @@ Pull-Requests are welcomed.
 ## Docs
 
 - [Official Docs](http://docs.couchdb.org/)
-- [FAQ (https://github.com/quangv/awesome-couchdb/blob/master/old wiki)](https://wiki.apache.org/couchdb/Frequently_asked_questions) - Seems to have more faqs than the [new wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Frequently+Asked+Questions).
+- [FAQ (old wiki)](https://wiki.apache.org/couchdb/Frequently_asked_questions) - Seems to have more faqs than the [new wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Frequently+Asked+Questions).
 
 ## Books
 
@@ -105,7 +105,7 @@ Pull-Requests are welcomed.
 
 > -dev is where developers of couchdb chat, -user is where users of couchdb chat
 > and there's some crosstalk ofc
-> -dev is appropriate if you're talking about changes to couchdb itself (https://github.com/quangv/awesome-couchdb/blob/master/"developer" doesn't mean you have to have a commit bit or anything) -rnewson
+> -dev is appropriate if you're talking about changes to couchdb itself ("developer" doesn't mean you have to have a commit bit or anything) -rnewson
 
 - [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb)
 - [Mailing Lists Description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
@@ -123,7 +123,7 @@ Pull-Requests are welcomed.
 
 #### Hosting
 
-- [Cloudant](https://cloudant.com/) - Distributed database as a service (https://github.com/quangv/awesome-couchdb/blob/master/DBaaS).
+- [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 - [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 - [IrisCouch](http://www.iriscouch.com/) - Cloud CouchDB.
 - [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
@@ -171,7 +171,7 @@ Pull-Requests are welcomed.
 ## Resource Lists
 
 - [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
-- [Official CouchDB Wiki (https://github.com/quangv/awesome-couchdb/blob/master/old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
+- [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
 - [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 - [List of CouchDB Clients](https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients)
 - [List of CouchDB Useful Utilities](https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities)

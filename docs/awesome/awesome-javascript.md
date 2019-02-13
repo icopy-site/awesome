@@ -107,7 +107,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Bundlers
 
-* [browserify](https://github.com/substack/node-browserify) - Browserify lets you require(https://github.com/sorrycc/awesome-javascript/blob/master/'modules') in the browser by bundling up all of your dependencies.
+* [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
@@ -196,7 +196,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
-* [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (https://github.com/sorrycc/awesome-javascript/blob/master/Light-weight, Robust, Fast).
+* [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
@@ -228,7 +228,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (https://github.com/sorrycc/awesome-javascript/blob/master/formerly known as Jade)
+* [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
@@ -248,7 +248,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
-* [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (https://github.com/sorrycc/awesome-javascript/blob/master/& canvas-to-SVG) Parser.
+* [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts.
@@ -295,12 +295,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Editors
 
-* [ace](https://github.com/ajaxorg/ace) - Ace (https://github.com/sorrycc/awesome-javascript/blob/master/Ajax.org Cloud9 Editor).
+* [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
 * [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 * [esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 * [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone.
-* [pen](https://github.com/sofish/pen) - enjoy live editing (https://github.com/sorrycc/awesome-javascript/blob/master/+markdown).
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
 * [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 * [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
@@ -342,7 +342,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *Libraries for working with files.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
-* [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (https://github.com/sorrycc/awesome-javascript/blob/master/loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+* [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
@@ -364,7 +364,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *Reactive programming libraries to extend JavaScript’s capabilities.*
 
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
-* [Bacon](https://github.com/baconjs/bacon.js) - FRP (https://github.com/sorrycc/awesome-javascript/blob/master/functional reactive programming) library for Javascript.
+* [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
@@ -385,13 +385,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-* [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (https://github.com/sorrycc/awesome-javascript/blob/master/e.g. "4 minutes ago").
+* [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
 * [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
-* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (https://github.com/sorrycc/awesome-javascript/blob/master/less then 2kb) used to format date with `*** time ago` statement.
-* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (https://github.com/sorrycc/awesome-javascript/blob/master/~2KB). Meant to replace parsing and formatting functionality of moment.js.
+* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## String
@@ -415,7 +415,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
-* [money.js](https://github.com/josscrowcroft/money.js) - A tiny (https://github.com/sorrycc/awesome-javascript/blob/master/1kb) javascript currency conversion library, for web & nodeJS.
+* [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
@@ -449,9 +449,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
 ## I18n And L10n
-*Localization (https://github.com/sorrycc/awesome-javascript/blob/master/l10n) and internationalization (https://github.com/sorrycc/awesome-javascript/blob/master/i18n) JavaScript libraries.*
+*Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
-* [https://github.com/sorrycc/awesome-javascript/blob/master/i18next](https://github.com/https://github.com/sorrycc/awesome-javascript/blob/master/i18next/https://github.com/sorrycc/awesome-javascript/blob/master/i18next) - internationalisation (https://github.com/sorrycc/awesome-javascript/blob/master/i18n) with javascript the easy way.
+* [i18next](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
@@ -463,13 +463,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [contra](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (https://github.com/sorrycc/awesome-javascript/blob/master/with same behavior of EventTarget from DOMElements available on browsers).
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 
 
 ## Routing
 
 * [director](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
-* [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (https://github.com/sorrycc/awesome-javascript/blob/master/~1200 bytes).
+* [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (~1200 bytes).
 * [pathjs](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
 * [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 * [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
@@ -478,7 +478,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Security
 
 * [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-* [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (https://github.com/sorrycc/awesome-javascript/blob/master/to prevent XSS) with a configuration specified by a Whitelist.
+* [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo
 
 
@@ -525,7 +525,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Machine Learning
 
-* [ConvNetJS](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (https://github.com/sorrycc/awesome-javascript/blob/master/or ordinary ones) in your browser.
+* [ConvNetJS](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 * [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 * [Brain.js](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
@@ -618,7 +618,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
-* [slidesJs](http://www.slidesjs.com) - Is a ressponsive slideshow plug-in for JQuery(https://github.com/sorrycc/awesome-javascript/blob/master/1.7.1+) with features like touch and CSS3 transitions
+* [slidesJs](http://www.slidesjs.com) - Is a ressponsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 * [unslider](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
 * [sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
@@ -662,10 +662,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (https://github.com/sorrycc/awesome-javascript/blob/master/of eyecon.ro), improvements by @eternicode.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
 * [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
-* [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (https://github.com/sorrycc/awesome-javascript/blob/master/jQuery plugin).
-* [rome](https://github.com/bevacqua/rome) - A customizable date (https://github.com/sorrycc/awesome-javascript/blob/master/and time) picker. Dependency free, opt-in UI.
+* [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
+* [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [datedropper](https://github.com/felicegattuso/datedropper) -  datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
 
 
@@ -724,14 +724,14 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 * [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
-* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (https://github.com/sorrycc/awesome-javascript/blob/master/iPhone 5S website) with One Page Scroll plugin.
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
 * [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
-* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (https://github.com/sorrycc/awesome-javascript/blob/master/Android + iOS) and desktop. No jQuery.
+* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 * [plax](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
-* [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (https://github.com/sorrycc/awesome-javascript/blob/master/also known as single page websites).
+* [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 
@@ -747,10 +747,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
-* [DataTables](https://www.datatables.net/) - (https://github.com/sorrycc/awesome-javascript/blob/master/jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
-* [Tabulator](http://olifolkerd.github.io/tabulator/) - (https://github.com/sorrycc/awesome-javascript/blob/master/jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
+* [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+* [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
 * [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
-* [floatThead](https://github.com/mkoryak/floatThead) - (https://github.com/sorrycc/awesome-javascript/blob/master/jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
+* [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
@@ -846,7 +846,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Image Processing
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
-* [pica](https://github.com/nodeca/pica) - High quality image resize (https://github.com/sorrycc/awesome-javascript/blob/master/with fast Lanczos filter, implemented in pure JS).
+* [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 
@@ -856,7 +856,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison.
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
-* [Babel (https://github.com/sorrycc/awesome-javascript/blob/master/Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+* [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
 

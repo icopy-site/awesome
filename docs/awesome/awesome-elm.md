@@ -53,11 +53,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
 * [Pokelmon](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
-* [https://github.com/isRuslan/awesome-elm/blob/master/JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (https://github.com/isRuslan/awesome-elm/blob/master/JWT) authentication using Django (https://github.com/isRuslan/awesome-elm/blob/master/backend) and Elm (https://github.com/isRuslan/awesome-elm/blob/master/frontend).
+* [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
 * [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
 * [Elmstagram](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benkbooth.com/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
-* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (https://github.com/isRuslan/awesome-elm/blob/master/trello-alike) built with Elm and HTML5 Drag & Drop API
-* [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (https://github.com/isRuslan/awesome-elm/blob/master/with routing) exploring various aspects of Elm.
+* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
+* [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -188,7 +188,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
-* [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm (https://github.com/isRuslan/awesome-elm/blob/master/[Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
+* [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -233,8 +233,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [vim-elm-help](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
 * [emmet-vim](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 * [elm-plugin](https://plugins.jetbrains.com/plugin/8192) - Elm plugin for IntelliJ IDEA.
-* [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) - Syntax highlighting, Snippets, Function information, REPL, Reactor support (https://github.com/isRuslan/awesome-elm/blob/master/Webserver/Debugger) - Starting/Stopping
-* [Elmmet: Emmet for Elm (https://github.com/isRuslan/awesome-elm/blob/master/Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) - Emmetio abbreviation expander into composition of Elm function with elm-format'er inside.
+* [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) - Syntax highlighting, Snippets, Function information, REPL, Reactor support (Webserver/Debugger) - Starting/Stopping
+* [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) - Emmetio abbreviation expander into composition of Elm function with elm-format'er inside.
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -286,7 +286,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Where to find help.*
 
-* [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (https://github.com/isRuslan/awesome-elm/blob/master/official forum).
+* [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 * [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 * [Slack](http://elmlang.herokuapp.com/) - Elm slack community.

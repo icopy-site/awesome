@@ -115,7 +115,7 @@ This is a community curated list, please submit your PR with the spots you know 
 
 > Q: What makes a hacking spot awesome?
 
-A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (https://github.com/daviddias/awesome-hacking-locations/blob/master/unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
+A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
 
 ## Template
 
@@ -124,7 +124,7 @@ A place where you would go and take your friends to go hacking with, power and w
 
 > SMALL DESCRIPTION OF THE AWESOME HACKING SPOT AND WHY IT IS SO AWESOME :D
 
-Webpage: PLACE WEBPAGE (https://github.com/daviddias/awesome-hacking-locations/blob/master/IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
+Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
@@ -178,9 +178,9 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/6022204011.png)
 
-#### Hackerspace Brussels (https://github.com/daviddias/awesome-hacking-locations/blob/master/HSBXL)
+#### Hackerspace Brussels (HSBXL)
 
-> Hackerspace Brussels (https://github.com/daviddias/awesome-hacking-locations/blob/master/HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
+> Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
 
 Webpage: https://hsbxl.be/
 
@@ -295,9 +295,9 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✘ | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00
 
-#### The Coffee Collective (https://github.com/daviddias/awesome-hacking-locations/blob/master/Godthåbsvej)
+#### The Coffee Collective (Godthåbsvej)
 
-> Coffee connoisseurs: Roasts and sells their own coffee + won several coffee championships (https://github.com/daviddias/awesome-hacking-locations/blob/master/bad cellphone coverage)
+> Coffee connoisseurs: Roasts and sells their own coffee + won several coffee championships (bad cellphone coverage)
 
 Webpage: http://coffeecollective.dk/bars/
 
@@ -305,7 +305,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2) | Mon-Fri 7:30-19:00, Sat 9:00-18:00, Sun 10:00-18:00
 
-#### Emmerys (https://github.com/daviddias/awesome-hacking-locations/blob/master/Store Kongensgade)
+#### Emmerys (Store Kongensgade)
 
 Webpage: http://www.emmerys.dk/cafebutik.html
 
@@ -313,7 +313,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Store Kongensgade 97, 1264 København K](https://goo.gl/maps/BPXXzi37DfE2) |
 
-#### Emmerys (https://github.com/daviddias/awesome-hacking-locations/blob/master/Store Strandstræde)
+#### Emmerys (Store Strandstræde)
 
 Webpage: http://www.emmerys.dk/cafebutik.html
 
@@ -331,7 +331,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Fiolstræde 10, 1171 København](https://goo.gl/maps/BaqeGzohcdC2) | Mon-Fri 9:00-22:00, Sat-Sun 10:00-22:00
 
-#### Riccos Kaffebar (https://github.com/daviddias/awesome-hacking-locations/blob/master/Sluseholmen)
+#### Riccos Kaffebar (Sluseholmen)
 
 > Make sure to get the rye bread sandwiches. Their advocadomad+kartoffelmad are sublime
 
@@ -359,7 +359,7 @@ Webpage: http://cafenutid.dk
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (https://github.com/daviddias/awesome-hacking-locations/blob/master/open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
+✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
 
 
 ## France 🇫🇷
@@ -428,7 +428,7 @@ Webpage: http://www-bsg.univ-paris1.fr
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [10 place du Panthéon (https://github.com/daviddias/awesome-hacking-locations/blob/master/Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
+✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -450,7 +450,7 @@ Wifi | Power | Address | Open Hours
 
 #### Schiller Bar
 
-> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (https://github.com/daviddias/awesome-hacking-locations/blob/master/english-speaking) staff.
+> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
 
 Webpage: http://www.schillerbar.com
 
@@ -479,7 +479,7 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-(https://github.com/daviddias/awesome-hacking-locations/blob/master/eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+(eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
 ## Hamburg
 
@@ -567,7 +567,7 @@ Wifi | Power | Address | Open Hours
 
 #### Cafe Peru
 
-> Nice little coffee, they have home-made pastries and good coffee (https://github.com/daviddias/awesome-hacking-locations/blob/master/it is hidden in a beautiful location)
+> Nice little coffee, they have home-made pastries and good coffee (it is hidden in a beautiful location)
 
 Webpage: http://www.caffeperu.it/
 
@@ -637,7 +637,7 @@ Wifi | Power | Address | Open Hours
 
 ## Vilnius
 
-> There are plenty of "Caffeine" branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you're paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (https://github.com/daviddias/awesome-hacking-locations/blob/master/no POS systems here support PINs).
+> There are plenty of "Caffeine" branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you're paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (no POS systems here support PINs).
 
 #### Knygynas DRAUGYSTĖ
 
@@ -680,7 +680,7 @@ Wifi | Power | Address | Open Hours
 
 #### Kek
 
-> Near the Delft Central Station; Good food; Hipster place; Has a small store (https://raw.githubusercontent.com/daviddias/awesome-hacking-locations/master/great for last minute gifts)
+> Near the Delft Central Station; Good food; Hipster place; Has a small store (great for last minute gifts)
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
@@ -759,7 +759,7 @@ Wifi| Power | Address  | Open Hours
 
 #### Karma Coffee
 
-> Awesome coffee shop. Multiple locations, only been to this one (https://github.com/daviddias/awesome-hacking-locations/blob/master/closest to main square). Not too many seats, but fast wifi.
+> Awesome coffee shop. Multiple locations, only been to this one (closest to main square). Not too many seats, but fast wifi.
 
 Webpage: http://www.karmaroasters.com/
 
@@ -831,7 +831,7 @@ Wifi | Power | Address | Open Hours
 
 #### Kafo
 
-> Great coffee shop. Location in the city center (https://github.com/daviddias/awesome-hacking-locations/blob/master/near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
+> Great coffee shop. Location in the city center (near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
 
 Webpage: http://kafo.info/
 
@@ -907,7 +907,7 @@ Wifi | Power | Address | Open Hours
 
 #### Centro Comercial Nova Arcada
 
-> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (https://github.com/daviddias/awesome-hacking-locations/blob/master/I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
+> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
 
 Webpage: http://www.novaarcada.pt/
 
@@ -1090,7 +1090,7 @@ Wifi | Power | Address | Open Hours
 
 #### Mercearia do Campo
 
-> Great lunch menu, quiet all day (https://github.com/daviddias/awesome-hacking-locations/blob/master/except lunch), friendly people and cosy atmosphere.
+> Great lunch menu, quiet all day (except lunch), friendly people and cosy atmosphere.
 
 Webpage: http://www.merceariadocampo.pt/en_GB/
 
@@ -1118,7 +1118,7 @@ Wifi | Power | Address | Open Hours
 
 > Calm and cosy cafe with relaxing music and a nice backyard.
 
-Webpage: (https://github.com/daviddias/awesome-hacking-locations/blob/master/duasdeletra.pt)[http://https://github.com/daviddias/awesome-hacking-locations/blob/master/duasdeletra.pt/]
+Webpage: (duasdeletra.pt)[http://duasdeletra.pt/]
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1242,9 +1242,9 @@ See https://github.com/otobrglez/awesome-workplaces-slovenia
 >
 > I saw ASUS RT-AC68U WiFi Router
 >
-> Router connected with KT Giga Internet, which is fastest internet in South Korea (https://github.com/daviddias/awesome-hacking-locations/blob/master/including oversea network access)
+> Router connected with KT Giga Internet, which is fastest internet in South Korea (including oversea network access)
 >
-> Many seats and seat types (https://github.com/daviddias/awesome-hacking-locations/blob/master/Sofa, Bar Stools...)
+> Many seats and seat types (Sofa, Bar Stools...)
 >
 > Has Smoking Area
 
@@ -1279,7 +1279,7 @@ Wifi | Power | Address | Open Hours
 
 #### Joliu
 
-> Coffee shop with a great ambiance (https://github.com/daviddias/awesome-hacking-locations/blob/master/Full of plants and music delicious to the ear)
+> Coffee shop with a great ambiance (Full of plants and music delicious to the ear)
 
 Webpage: http://espaijoliu.tumblr.com/
 
@@ -1292,7 +1292,7 @@ Wifi | Power | Address | Open Hours
 
 #### Frenesi Cafe
 
-> Small cozy coffee shop with comfortable sits and lots of plugs (https://github.com/daviddias/awesome-hacking-locations/blob/master/even USB plugs)
+> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
 
 Webpage: http://frenesicafe.com
 
@@ -1428,7 +1428,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (https://github.com/daviddias/awesome-hacking-locations/blob/master/Members Only)
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
@@ -1572,7 +1572,7 @@ Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk
 
 #### Black Hammer Brewing
 
-> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (https://github.com/daviddias/awesome-hacking-locations/blob/master/USB ports, staff will borrow even cables for charching etc). In the evening it gets quiet busy.
+> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (USB ports, staff will borrow even cables for charching etc). In the evening it gets quiet busy.
 
 Webpage: https://blackhammerbrewing.com
 
@@ -1710,8 +1710,8 @@ paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i5
 
 Notes:
 * Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
-* You get 45m of free wifi per day. More if you know what you're doing ;) (https://github.com/daviddias/awesome-hacking-locations/blob/master/but $14/mo for wifi is worth it if you hack there often)
-* Using IPFS will get you kicked off their network in ~2hr (https://github.com/daviddias/awesome-hacking-locations/blob/master/FYI).
+* You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
+* Using IPFS will get you kicked off their network in ~2hr (FYI).
 
 #### Forge Baking Company
 

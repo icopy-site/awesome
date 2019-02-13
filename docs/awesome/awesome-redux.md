@@ -170,13 +170,13 @@
 *Boilerplates /  Scaffolds / Starter Kits / Generators / Stack Ensembles*
 
  - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - Opinionated CLI for building Redux/React apps quicker.
- - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (https://github.com/brillout/awesome-redux/blob/master/not a boilerplate kit).
+ - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
  - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
- - [universal-redux](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (https://github.com/brillout/awesome-redux/blob/master/isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
+ - [universal-redux](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
  - [generator-react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
  - [generator-redux](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
  - [generator-react-webpack-redux](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
- - [socrates](https://github.com/matthewmueller/socrates) - Small (https://github.com/brillout/awesome-redux/blob/master/8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
+ - [socrates](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
 
 
 ## Miscellaneous

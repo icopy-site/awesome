@@ -105,7 +105,7 @@
 
 * [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
-* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (https://github.com/zhaopuming/awesome-d/blob/master/OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
+* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
@@ -119,7 +119,7 @@
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
 * [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners. 
 * [D Cookbook](http://www.packtpub.com/application-development/d-cookbook) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
-* [Learning D](https://www.packtpub.com/application-development/learning-d) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (https://github.com/zhaopuming/awesome-d/blob/master/...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
+* [Learning D](https://www.packtpub.com/application-development/learning-d) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
 * [D Web Development](https://www.packtpub.com/web-development/d-web-development) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
 
 ## Tutorials
@@ -133,10 +133,10 @@
 * [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
 
 ### Bare metal / kernel development
-* [D Bare bones](http://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (https://github.com/zhaopuming/awesome-d/blob/master/using GDC compiler)
-* [D barebone with ldc2](http://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (https://github.com/zhaopuming/awesome-d/blob/master/using LDC compiler)
+* [D Bare bones](http://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
+* [D barebone with ldc2](http://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
 * [XOmB bare bones](http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn).
-* [Bare Metal ARM Cortex-M GDC Cross Compiler](http://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (https://github.com/zhaopuming/awesome-d/blob/master/arm-none-eabi) GDC cross compiler for a Linux host.
+* [Bare Metal ARM Cortex-M GDC Cross Compiler](http://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ## Blogs
 *D related blogs.*
@@ -203,12 +203,12 @@
  
 ## Lexers, Parsers, Parser Generators
 
-* [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (https://github.com/zhaopuming/awesome-d/blob/master/possibly) future standard D parser/lexer.
+* [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator.
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-* [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (https://github.com/zhaopuming/awesome-d/blob/master/PEG) module written in D.
+* [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
-* [ctpg](https://github.com/youxkei/ctpg) - Compile-Time Parser (https://github.com/zhaopuming/awesome-d/blob/master/with converter) Generator written in D.
+* [ctpg](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ## Preprocesors
@@ -222,7 +222,7 @@
 ## Containers
 * [EMSI containers](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
 - [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-- [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (https://github.com/zhaopuming/awesome-d/blob/master/GC-free dynamic and associative arrays and more)
+- [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## Web Frameworks
@@ -257,12 +257,12 @@
 * [fast.json](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
-* [std.data.json](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (https://github.com/zhaopuming/awesome-d/blob/master/based on Vibed)
+* [std.data.json](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
 
 ### XML
 
-* [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (https://github.com/zhaopuming/awesome-d/blob/master/currently only supports XML)
+* [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * [dom.d] - an xml/html DOM based on what Javascript provides in browsers
 
@@ -276,8 +276,8 @@
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
-* [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (https://github.com/zhaopuming/awesome-d/blob/master/similar to JDBC). HibernateD (https://github.com/zhaopuming/awesome-d/blob/master/see below) uses ddbc for database abstraction.
-* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (https://github.com/zhaopuming/awesome-d/blob/master/similar to [Hibernate](http://hibernate.org/)).
+* [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
+* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
@@ -297,7 +297,7 @@
 *Libraries for working with graphical user interface applications.*
 
 
-* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(https://github.com/zhaopuming/awesome-d/blob/master/not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide).
+* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide).
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [DWT](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
 * [tkD](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
@@ -320,25 +320,25 @@
 *Bindings to game development related C libraries.*
 
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (https://github.com/zhaopuming/awesome-d/blob/master/DerelictGL3), 
-	* Bgfx (https://github.com/zhaopuming/awesome-d/blob/master/DerelictBgfx), 
-	* ENet (https://github.com/zhaopuming/awesome-d/blob/master/DerelictENet),  
-	* SDL 2 (https://github.com/zhaopuming/awesome-d/blob/master/DerelictSDL2), 
-	* GLFW 3 (https://github.com/zhaopuming/awesome-d/blob/master/DerelictGLFW3), 
-	* OpenGLES (https://github.com/zhaopuming/awesome-d/blob/master/DerelictGLES), 
-	* Free Image (https://github.com/zhaopuming/awesome-d/blob/master/DerelictFI), 
-	* Assimp3 (https://github.com/zhaopuming/awesome-d/blob/master/DerelictASSIMP3), 
-	* libtheora (https://github.com/zhaopuming/awesome-d/blob/master/DerelictTheora),  
-	* libogg (https://github.com/zhaopuming/awesome-d/blob/master/DerelictOgg), 
-	* libvorbis (https://github.com/zhaopuming/awesome-d/blob/master/DerelictVorbis), 
-	* SFML 2 (https://github.com/zhaopuming/awesome-d/blob/master/DerelictSFML2), 
-	* libpq (https://github.com/zhaopuming/awesome-d/blob/master/DerelictPQ), 
-	* PhysicsFS (https://github.com/zhaopuming/awesome-d/blob/master/DerelictPHYSFS), 
-	* Open Dynamics Engine (https://github.com/zhaopuming/awesome-d/blob/master/DerelictODE), 
-	* Lua (https://github.com/zhaopuming/awesome-d/blob/master/DerelictLua), 
-	* DevIL (https://github.com/zhaopuming/awesome-d/blob/master/DerelictIL), 
-	* OpenAL (https://github.com/zhaopuming/awesome-d/blob/master/DerelictAL), 
-	* ALURE (https://github.com/zhaopuming/awesome-d/blob/master/DerelictALURE).
+	* OpenGL 3 (DerelictGL3), 
+	* Bgfx (DerelictBgfx), 
+	* ENet (DerelictENet),  
+	* SDL 2 (DerelictSDL2), 
+	* GLFW 3 (DerelictGLFW3), 
+	* OpenGLES (DerelictGLES), 
+	* Free Image (DerelictFI), 
+	* Assimp3 (DerelictASSIMP3), 
+	* libtheora (DerelictTheora),  
+	* libogg (DerelictOgg), 
+	* libvorbis (DerelictVorbis), 
+	* SFML 2 (DerelictSFML2), 
+	* libpq (DerelictPQ), 
+	* PhysicsFS (DerelictPHYSFS), 
+	* Open Dynamics Engine (DerelictODE), 
+	* Lua (DerelictLua), 
+	* DevIL (DerelictIL), 
+	* OpenAL (DerelictAL), 
+	* ALURE (DerelictALURE).
 
 ## Game Frameworks
 
@@ -363,7 +363,7 @@
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
-* [dlib.image](https://github.com/gecko0307/dlib) - image processing (https://github.com/zhaopuming/awesome-d/blob/master/8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+* [dlib.image](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ## Machine Learning
@@ -382,7 +382,7 @@
 * [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 * [dstats](https://github.com/DlangScience/dstats) -  A statistics library for D. 
 * [mir](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (https://github.com/zhaopuming/awesome-d/blob/master/matrixes, tensors), algorithms, general purpose library.
+* [mir-algorithm](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 * [mir-random](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 * [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
@@ -399,7 +399,7 @@
 ## Configuration
 *Parsing configuration files*
 
-- [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (https://github.com/zhaopuming/awesome-d/blob/master/Simple Declarative Language) library for D.
+- [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 - [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
 - [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 

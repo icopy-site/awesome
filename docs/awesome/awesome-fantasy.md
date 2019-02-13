@@ -49,7 +49,7 @@ Books:
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
-My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (https://github.com/RichardLitt/awesome-fantasy/blob/master/mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
+My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -162,7 +162,7 @@ Books:
 
 > The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe, an adventurer and famous musician.
 > 
-> The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (https://github.com/RichardLitt/awesome-fantasy/blob/master/known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
+> The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
 > 
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
@@ -171,10 +171,10 @@ Books:
 The Lightbringer Series has one of the most intricately fleshed-out magic systems that I have ever seen in high fantasy, where the use of magic has interesting implications on characters' lifespan and personality. The storyline, character development, and plot twists make it a binge-worthy series. On top of that, Weeks does an excellent job of bringing the reader through each characters' strengths and weaknesses in personality, magical ability, and circumstances that shape how they end up fitting in to the larger picture. Through the development of his characters, his books address larger societal and philosophical issues from slavery and descrimination to theology and theism/atheism. It is incredibly well-thought out, and I can't wait to see what he does in the last and final installment of the series. The fifth book [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) is expected to come out sometime in 2019! - [@ciarrapeters](https://github.com/ciarrapeters)
 
 Books:
- * [The Black Prism] (https://www.goodreads.com/book/show/7165300-the-black-prism) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2010) [4.24]
- * [The Blinding Knife] (https://www.goodreads.com/book/show/12499290-the-blinding-knife) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2012) (https://github.com/RichardLitt/awesome-fantasy/blob/master/4.45)
- * [The Broken Eye] (https://www.goodreads.com/book/show/12652457-the-broken-eye) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2014) [4.47]
- * [The Blood Mirror] (https://www.goodreads.com/book/show/29467232-the-blood-mirror) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2016) [4.32]
+ * [The Black Prism] (https://www.goodreads.com/book/show/7165300-the-black-prism) (2010) [4.24]
+ * [The Blinding Knife] (https://www.goodreads.com/book/show/12499290-the-blinding-knife) (2012) (4.45)
+ * [The Broken Eye] (https://www.goodreads.com/book/show/12652457-the-broken-eye) (2014) [4.47]
+ * [The Blood Mirror] (https://www.goodreads.com/book/show/29467232-the-blood-mirror) (2016) [4.32]
 
 > Guile is the Prism, the most powerful man in the world. He is high priest and emperor, a man whose power, wit, and charm are all that preserves a tenuous peace. Yet Prisms never last, and Guile knows exactly how long he has left to live.
 >
@@ -209,7 +209,7 @@ Books:
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]
 
-The Mistborn trilogy (https://github.com/RichardLitt/awesome-fantasy/blob/master/well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (https://github.com/RichardLitt/awesome-fantasy/blob/master/for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
+The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
 
 I've only read the first trilogy at this point, but I loved it; the magic system is pretty well done, the characters are convincing, we've got some strong female leads, and there's a good amount of intrigue and plot setting. Brandon Sanderson is fairly good at turning tropes on their head, as well, which was fun to read - a lot of my original complaints have now turned into praises for the books. I'm looking forward to reading more. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -217,7 +217,7 @@ I have read the first six books and will continue reading every book in this ser
 
 The first trilogy introduces us to a strange and spectacular world: one where there is magic, intrigue, social/economic inequality and, possibly my favorite thing, different races of people that inhabit this world.
 
-The second trilogy takes place some 300 years after the events of the first, and many of these events have filtered through into the 'modern' day Scadrial (https://github.com/RichardLitt/awesome-fantasy/blob/master/it has a very old western feel to the whole setting); such as cities named after hero's, religions based on characters and many little secrets that are still unanswered from the first trilogy. We are introduced to a whole batch of new characters and some not so new characters - I won't say more otherwise I may give too much away.
+The second trilogy takes place some 300 years after the events of the first, and many of these events have filtered through into the 'modern' day Scadrial (it has a very old western feel to the whole setting); such as cities named after hero's, religions based on characters and many little secrets that are still unanswered from the first trilogy. We are introduced to a whole batch of new characters and some not so new characters - I won't say more otherwise I may give too much away.
 
 Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
@@ -258,7 +258,7 @@ This is one of the most ridiculous forays into world building, ever. At times, i
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
-The Stormlight Archive books (https://github.com/RichardLitt/awesome-fantasy/blob/master/only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (https://github.com/RichardLitt/awesome-fantasy/blob/master/sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
+The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
 
 I completely agree that however long these books are, it doesn't really matter. They're fantastic. The magic system is complex, and the characters Brandon focuses on have their own little foibles and bits of awesome. This is classic 90's fantasy, but still incredibly good. The world is also pretty novel for fantasy - no more England-like environments, but actually a different kind of landscape. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -270,7 +270,7 @@ Books:
  * [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]
  * _More coming_
 
-#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (https://github.com/RichardLitt/awesome-fantasy/blob/master/and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] :fire:
+#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] :fire:
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -289,11 +289,11 @@ Books:
  * [The Gathering Storm](http://www.goodreads.com/book/show/1166599.The_Gathering_Storm)
  * [Towers of Midnight](http://www.goodreads.com/book/show/8253920-towers-of-midnight)
  * [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
- * [New Spring (https://github.com/RichardLitt/awesome-fantasy/blob/master/prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
+ * [New Spring (prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
-#### [Black Company](https://www.goodreads.com/book/show/140671) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1984) *by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)* [4]
+#### [Black Company](https://www.goodreads.com/book/show/140671) (1984) *by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)* [4]
 
 This is my favorite dark fantasy series and the first book is awesome. These are written so differently than any fantasy-esque book I've ever read. It is difficult to describe, but as a veteran, it just feels like you're reading a fantasy book written by a former soldier that's been there, crude jokes, blood and all. I highly recommend this. - [@PeerRails](https://github.com/PeerRails)
 
@@ -311,7 +311,7 @@ Books:
  * [Soldiers Live](https://www.goodreads.com/book/show/400899.Soldiers_Live) [4.22]
  * _1 last book coming_
 
-#### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
+#### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
 
 Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
 
@@ -363,15 +363,15 @@ A pretty good children's story. Defined modern fantasy as we know it. - [@Richar
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
 Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.
 
-#### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1934) *by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
+#### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) *by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
 
 I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adventures, Jirel's opponents constantly seek to victimize her, use her as bait, lure her in, or overpower her. Often she can't escape witnessing or even being part of horrific things, but she takes these impossible situations and confronts them on her own terms. I thought this was a nice alternative to always evading danger or using feminine wiles to get out of tight corners. Jirel is physically and emotionally capable without being a know-it-all or preternaturally lucky. Moore paints incredibly vivid pictures of fantastical realms and creatures. I think these stories would translate well into a graphic novel. This collection is a fascinating bent on traditional sword and sorcery tales and well worth the read. - [@thejessleigh](https://github.com/thejessleigh)
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
-#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
-This book takes a while to ramp up, but if you can get through the (https://github.com/RichardLitt/awesome-fantasy/blob/master/intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
 >  
@@ -387,7 +387,7 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
-> Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (https://github.com/RichardLitt/awesome-fantasy/blob/master/a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
+> Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
 >  
 > Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
 >  
@@ -409,7 +409,7 @@ Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the
 
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
-> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (https://github.com/RichardLitt/awesome-fantasy/blob/master/or outside) the fantasy genre.
+> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
 
 ### Allegory
 
@@ -436,7 +436,7 @@ This was a weird, weird book, just like _Phantastes_. George MacDonald had a gif
 
 See the review for _Lilith_, above. - [@RichardLitt](https://github.com/RichardLitt)
 
-> "I was dead, and right content," the narrator says in the penultimate chapter of Phantastes. C.S. Lewis said that upon reading this astonishing 19th-century fairy tale he "had crossed a great frontier," and numerous others both before and since have felt similarly. In MacDonald's fairy tales, both those for children and (https://github.com/RichardLitt/awesome-fantasy/blob/master/like this one) those for adults, the "fairy land" clearly represents the spiritual world, or our own world revealed in all of its depth and meaning. At times almost forthrightly allegorical, at other times richly dreamlike (https://github.com/RichardLitt/awesome-fantasy/blob/master/and indeed having a close connection to the symbolic world of dreams), this story of a young man who finds himself on a long journey through a land of fantasy is more truly the story of the spiritual quest that is at the core of his life's work, a quest that must end with the ultimate surrender of the self. The glory of MacDonald's work is that this surrender is both hard won (https://github.com/RichardLitt/awesome-fantasy/blob/master/or lost ) and yet rippling with joy when at last experienced. As the narrator says of a heavenly woman in this tale, "She knew something too good to be told." One senses the same of the author himself.
+> "I was dead, and right content," the narrator says in the penultimate chapter of Phantastes. C.S. Lewis said that upon reading this astonishing 19th-century fairy tale he "had crossed a great frontier," and numerous others both before and since have felt similarly. In MacDonald's fairy tales, both those for children and (like this one) those for adults, the "fairy land" clearly represents the spiritual world, or our own world revealed in all of its depth and meaning. At times almost forthrightly allegorical, at other times richly dreamlike (and indeed having a close connection to the symbolic world of dreams), this story of a young man who finds himself on a long journey through a land of fantasy is more truly the story of the spiritual quest that is at the core of his life's work, a quest that must end with the ultimate surrender of the self. The glory of MacDonald's work is that this surrender is both hard won (or lost ) and yet rippling with joy when at last experienced. As the narrator says of a heavenly woman in this tale, "She knew something too good to be told." One senses the same of the author himself.
 
 #### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) *by [John Bunyan](https://en.wikipedia.org/wiki/John_Bunyan)* [4.0]
 
@@ -473,7 +473,7 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 
 This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
-> According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (https://github.com/RichardLitt/awesome-fantasy/blob/master/the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
+> According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
 >  
 > So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon — both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle — are not actually looking forward to the coming Rapture.
 >  

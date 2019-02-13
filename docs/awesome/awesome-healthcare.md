@@ -56,11 +56,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Open mHealth](http://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](http://docs.smarthealthit.org/) - Open standards based technology platform.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
-  * [Continuity of Care Document](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (https://github.com/kakoni/awesome-healthcare/blob/master/free account required).
+  * [Continuity of Care Document](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (free account required).
   * [Continuity of Care Record](http://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
-  * [HL7 Version 2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (https://github.com/kakoni/awesome-healthcare/blob/master/free account required).
+  * [HL7 Version 2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
-  * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (https://github.com/kakoni/awesome-healthcare/blob/master/SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
+  * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
@@ -91,7 +91,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMolar](http://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
-  * [Bika](https://www.bikalims.org/) - LIMS. - Superseded by SENAITE (https://github.com/kakoni/awesome-healthcare/blob/master/see below)
+  * [Bika](https://www.bikalims.org/) - LIMS. - Superseded by SENAITE (see below)
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
@@ -143,7 +143,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
 ### Hardware
-  * [echOpen](http://echopen.org/) - Low-cost (https://github.com/kakoni/awesome-healthcare/blob/master/affordable) echo-stethoscope.
+  * [echOpen](http://echopen.org/) - Low-cost (affordable) echo-stethoscope.
   * [Gluco](https://github.com/nebulabio/gluco) - Glucometer.
   * [MobilECG II](https://github.com/xdever/MobilECG-II) - Clinical grade Holter ECG.
   * [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.

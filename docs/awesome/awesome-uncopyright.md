@@ -85,7 +85,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
 - [Public Icons](http://publicicons.org/) - Collection of free icons.
 - [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
-- [Unsplash](https://unsplash.com/license) - Free (https://github.com/johnjago/awesome-uncopyright/blob/master/do whatever you want) high-resolution photos.
+- [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 
 ## Licenses
 

@@ -434,7 +434,7 @@ https://twitter.com/manekinekko
 <img src="https://twitter.com/svensauleau/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Sven Sauleau**\
-Topics: JavaScript (https://github.com/karlhorky/awesome-speakers/blob/master/Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
 https://twitter.com/svensauleau
 
 ## Germany 🇩🇪
@@ -596,7 +596,7 @@ https://twitter.com/fhinkel
 <img src="https://twitter.com/mathias/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Mathias Bynens**\
-Topics: JavaScript (https://github.com/karlhorky/awesome-speakers/blob/master/TC39), V8, Chrome\
+Topics: JavaScript (TC39), V8, Chrome\
 https://twitter.com/mathias
 
 ## Greece 🇬🇷
@@ -1793,7 +1793,7 @@ https://twitter.com/adammenges
 <img src="https://twitter.com/AnjanaVakil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Anjana Vakil**\
-Topics: Programming Language Paradigms, Functional Programming (https://github.com/karlhorky/awesome-speakers/blob/master/with JavaScript)\
+Topics: Programming Language Paradigms, Functional Programming (with JavaScript)\
 https://twitter.com/AnjanaVakil
 
 <img src="https://twitter.com/bethdean/profile_image?size=original" height="70px" width="70px" align="left" alt="" />

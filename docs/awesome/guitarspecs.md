@@ -64,11 +64,11 @@ Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
 Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
 [Strings](#strings) | ++ | ++
 [Scale Length](#scale-length) | + | +
-[Woods](https://github.com/gitfrage/guitarspecs/blob/master/#woods) (https://github.com/gitfrage/guitarspecs/blob/master/Body, neck and fretboard) | + | + |
+[Woods](#woods) (Body, neck and fretboard) | + | + |
 
-*influence (https://github.com/gitfrage/guitarspecs/blob/master/ "-" stands for little,  "++++"  stands for very strong)
+*influence ( "-" stands for little,  "++++"  stands for very strong)
 
-For example, for building a solid-body 'jazz-sounding' guitar you have to choose (https://github.com/gitfrage/guitarspecs/blob/master/top down by importance):
+For example, for building a solid-body 'jazz-sounding' guitar you have to choose (top down by importance):
 
  - vintage or jazz pickup with convenient po­ten­tiomet­er and capacitor values
  - flatwound strings
@@ -88,15 +88,15 @@ Neck thickness, neck width, neck contour and fret wire size affect playability a
 
 ### Neck Profile
 
-Neck Profile is the combination of contour (https://github.com/gitfrage/guitarspecs/blob/master/C, U, V , asymmetrc) and thickness (https://github.com/gitfrage/guitarspecs/blob/master/.0750" - 1")
+Neck Profile is the combination of contour (C, U, V , asymmetrc) and thickness (.0750" - 1")
 
 Contour     | Thickness   | Warmoth*      | Fender*                   | Gibson*      
 ------------|-------------|---------------|---------------------------|--------------
 D           | thin        | Wizard        | D Shape                   |           
-C           | thin/medium | Standard Thin | C Shape (https://github.com/gitfrage/guitarspecs/blob/master/AM Std)          | Traditional C
-C           | medium      | 59 Roundback  | Deep C                    | Round C (https://github.com/gitfrage/guitarspecs/blob/master/1959 LP)             
-U           | thick       | Fatback       | U Shape  (https://github.com/gitfrage/guitarspecs/blob/master/Vintage Tele)   | 
-V           | thick       | Boatneck      | V Shape (https://github.com/gitfrage/guitarspecs/blob/master/Vintage 52 Tele) |             
+C           | thin/medium | Standard Thin | C Shape (AM Std)          | Traditional C
+C           | medium      | 59 Roundback  | Deep C                    | Round C (1959 LP)             
+U           | thick       | Fatback       | U Shape  (Vintage Tele)   | 
+V           | thick       | Boatneck      | V Shape (Vintage 52 Tele) |             
 asymmetrisch| medium      | Wolfgang      | Modern C                  |        
 
 >  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles    
@@ -108,18 +108,18 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 
 Category               | Neck Nut Width     | e1/E6
 -----------------------|--------------------| -----------
-many Fenders from Japan| 41 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-5/8")     | approx. 34 mm
-Standard               | 42,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-11/16") | approx. 35 mm
-Acoustic analog        | 44,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-3/4")   | 35 mm till 37,5 mm
-Superwide (https://github.com/gitfrage/guitarspecs/blob/master/Warmoth)    | 48 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-7/8")     | approx. 40 mm
+many Fenders from Japan| 41 mm (1-5/8")     | approx. 34 mm
+Standard               | 42,9 mm (1-11/16") | approx. 35 mm
+Acoustic analog        | 44,5 mm (1-3/4")   | 35 mm till 37,5 mm
+Superwide (Warmoth)    | 48 mm (1-7/8")     | approx. 40 mm
 
 The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
 Category                | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
 ------------------------|-----------------|---------------|----------------|---------------
-e/E analog 43 mm neck   | 44,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-3/4")| 35 mm         | 7 mm           | 2 x 4.75 mm
-Ideal solution          | 44,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
-edge analog 43 mm neck  | 44,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
+e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x 4.75 mm
+Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
+edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
 
 > [graphtech.com ](http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts) - sizing guide and pre-slotted nuts
 
@@ -128,9 +128,9 @@ edge analog 43 mm neck  | 44,5 mm (https://github.com/gitfrage/guitarspecs/blob/
 
 Most guitar parts manufacturer adopted Fender's® neck heel and neck pocket dimensions:
 
- - 56 mm (https://github.com/gitfrage/guitarspecs/blob/master/2-3/16") - Width
- - 76 mm (https://github.com/gitfrage/guitarspecs/blob/master/3") - Length
- - 16 mm (https://github.com/gitfrage/guitarspecs/blob/master/5/8") - Pocket Depth
+ - 56 mm (2-3/16") - Width
+ - 76 mm (3") - Length
+ - 16 mm (5/8") - Pocket Depth
 
 These dimensions are not a standard. Only careful measurement ensures that your parts will be compatible.
 
@@ -138,7 +138,7 @@ Strat necks have a rounded base to their heel and Tele necks have a squared-off 
 
 ![neck-heel-strat-vs-tele](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/neck-heel-strat-vs-tele.jpg)
 
-Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (https://github.com/gitfrage/guitarspecs/blob/master/3mm) diameter (https://github.com/gitfrage/guitarspecs/blob/master/spread of 2" x 1-1/2").
+Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (3mm) diameter (spread of 2" x 1-1/2").
 
 
 ### Fretboard's Radius
@@ -150,7 +150,7 @@ Smaller radius means a more rounded shape.
  - 10" - Gibson®/PRS®
  - 12" - Ibanez®
  - 16" - Jackson®
- - compound (https://github.com/gitfrage/guitarspecs/blob/master/10" - 16") - Warmoth® and others
+ - compound (10" - 16") - Warmoth® and others
 
 > [youtube.com](https://www.youtube.com/watch?v=-yiBbIzGjW8) - understring radius gauges - video demonstration of three different gauges used for guitar setup and fretwork: standard, notched and understring.
 
@@ -176,9 +176,9 @@ High Jum­bo	 | wide	   | very high | many Ibanez
 
 ### Tuner Holes
 
- - approx. 8,7mm (https://github.com/gitfrage/guitarspecs/blob/master/11/32") - "Vintage Fender Style"
- - approx. 10mm (https://github.com/gitfrage/guitarspecs/blob/master/25/64" = 9,9mm)  - "Sperzel Style",
- - approx. 10mm  (https://github.com/gitfrage/guitarspecs/blob/master/13/32" = 10,3mm) - "Planet Waves Style"
+ - approx. 8,7mm (11/32") - "Vintage Fender Style"
+ - approx. 10mm (25/64" = 9,9mm)  - "Sperzel Style",
+ - approx. 10mm  (13/32" = 10,3mm) - "Planet Waves Style"
  - approx. 10mm on top and 8,7mm bottom -  "Schaller/Grover/Gotoh Slyle"
  
 Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter bushings.
@@ -188,7 +188,7 @@ Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter 
 ## Guitar Bodies
 ![Guitar Bodies](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip1_body.jpg)
 
-The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (https://github.com/gitfrage/guitarspecs/blob/master/very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
+The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
 
 > [music.stackexchange.com](http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et) - how much does electric guitar's body physics affect the tone and playability.
 
@@ -205,12 +205,12 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 Model               | E/e              |  Sites holes Ø    | Sites holes dist | holes   | Bridge hole Ø  | Bridgehole dist
 --------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Vintage Strat       | 57 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/4")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21 mm (https://github.com/gitfrage/guitarspecs/blob/master/.827")
-Vintage Narrow Strat| 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  4.78 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.188") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21 mm (https://github.com/gitfrage/guitarspecs/blob/master/.827")
-Standard Strat      | 52.83 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.08") |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 11.3 mm (https://github.com/gitfrage/guitarspecs/blob/master/.446")  | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 22.6 mm (https://github.com/gitfrage/guitarspecs/blob/master/.89")
-Vintage Tele        | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.9 mm (https://github.com/gitfrage/guitarspecs/blob/master/.429")  | 4       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21.6 mm (https://github.com/gitfrage/guitarspecs/blob/master/.85")
-Standard Tele       | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 32.4 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.267")
-Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125")| -
+Vintage Strat       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Vintage Narrow Strat| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Standard Strat      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
+Vintage Tele        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
+Standard Tele       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
+Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (0.125")| -
 
 
 #### Tremolo Routing
@@ -220,13 +220,13 @@ Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 
 
 Model                  | E/e               | holes     | holes dist.      | holes Ø
 -----------------------|-------------------|-----------|------------------|--------------
-Mexico Strat           | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/2 1/16)  | 6         | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/2 1/16) | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")
-Vintage                | 56,36 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 7/32")| 6         | 55,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.2")   | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")
-American Standard      | 52,83 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.08")  | 2         | 55,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.2")   | 9,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/.375")
-Floyd Rose (https://github.com/gitfrage/guitarspecs/blob/master/"recessed")| 53 mm (https://github.com/gitfrage/guitarspecs/blob/master/2-3/32")   | 2         | 74 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.913")   | 9,91 mm (https://github.com/gitfrage/guitarspecs/blob/master/.390")
+Mexico Strat           | 52,4 mm (2 1/16)  | 6         | 52,4 mm (2 1/16) | 3 mm (1/8")
+Vintage                | 56,36 mm (2 7/32")| 6         | 55,9 mm (2.2")   | 3 mm (1/8")
+American Standard      | 52,83 mm (2.08")  | 2         | 55,9 mm (2.2")   | 9,5 mm (.375")
+Floyd Rose ("recessed")| 53 mm (2-3/32")   | 2         | 74 mm (2.913")   | 9,91 mm (.390")
 Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 mm
 Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
-Wilkinson (https://github.com/gitfrage/guitarspecs/blob/master/"recessed") | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2-1/8")    | 2         | 55,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.2")   | 9,7 mm (https://github.com/gitfrage/guitarspecs/blob/master/.382")
+Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
 
 
 #### Tune-O-Matic Gibson Style Routing
@@ -238,7 +238,7 @@ Wilkinson (https://github.com/gitfrage/guitarspecs/blob/master/"recessed") | 54 
 
 Model       |  E/e       | bridge       | tailpiece         | tailpiece top     |  tailpiece bottom | Ø
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
-Tune-O-Matic| ca. 52 mm* | 74 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.91")| ca 82 mm*         | 38 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.49")     | 41 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.61")     | ca. 11 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.44")
+Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| ca 82 mm*         | 38 mm (1.49")     | 41 mm (1.61")     | ca. 11 mm (0.44")
 
 Instead Tailpiece - there may be "strings through the body" drillings.
 
@@ -285,15 +285,15 @@ Jazzmaster              | mm (")
 
 Tuning Machines Options:
 
- - Diameters of bore holes for axis (https://github.com/gitfrage/guitarspecs/blob/master/see chapter [Tuner Holes](#tuner-holes))
+ - Diameters of bore holes for axis (see chapter [Tuner Holes](#tuner-holes))
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
-   Larger ratio (https://github.com/gitfrage/guitarspecs/blob/master/1:18 > 1:14) allows finer adjustments.
+   Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
 ### Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
-Guitar bridge has large **influence on playability** (https://github.com/gitfrage/guitarspecs/blob/master/mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](https://github.com/gitfrage/guitarspecs/blob/master/#bridge-routing) chapter above describes common bridge categories with string spacing specification.
+Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
 
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
@@ -316,15 +316,15 @@ There are 3 common styles of knobs:
 ![jackplate](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip9_jackplate.jpg)
 
  - Jacks & jackplates
- - Neck plate (https://github.com/gitfrage/guitarspecs/blob/master/neck-to-body)
+ - Neck plate (neck-to-body)
  - Pickguard or pickup mounting rings, control plate for tele)
  - Screws for all parts above
- - String Ferrules (https://github.com/gitfrage/guitarspecs/blob/master/if you use "string through body"  instead of bridge)
+ - String Ferrules (if you use "string through body"  instead of bridge)
  - String Retainers
  - Strap Holders
 
 
-For each screw, the hole must be pre-drilled to the core diameter (https://github.com/gitfrage/guitarspecs/blob/master/not outer diameter)
+For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
 
 ----------------
 
@@ -356,10 +356,10 @@ Following topics change resonant frequency and resonant peak:
 ![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
 - Dimension and product group - see chapter  [Puckup Routing](#pickup-routing)
-- Output: low(https://github.com/gitfrage/guitarspecs/blob/master/vintage), medium, high (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/vintage used often for jazz and blues)
-- Wiring:  1, 2, 3  or 4-Con­ductor (https://github.com/gitfrage/guitarspecs/blob/master/4-Con­ductor allowing most flexible wiring)*
+- Output: low(vintage), medium, high (vintage used often for jazz and blues)
+- Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le
-- Passive vs. Active (https://github.com/gitfrage/guitarspecs/blob/master/Active often used for distortion sound)
+- Passive vs. Active (Active often used for distortion sound)
 - D.C. Resistance: indication how much output a pickup will have
 - E.Q. chat: A general idea as to the Bass, Mids and Treble.
 
@@ -370,7 +370,7 @@ Following topics change resonant frequency and resonant peak:
 
 ![electronics wiring options](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip14_switch.jpg)
 
-Effect | Pot | Push/Pull or Mini <br> DPDT(https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON)* | Mini <br>DPDP(https://github.com/gitfrage/guitarspecs/blob/master/ON/ON) | Mini <br> DPDP(https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
 ------------------------- |------|------|-----|-----|-----|----
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
 tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
@@ -382,18 +382,18 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 
 
      * switch owerview:
-    DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON):
+    DPDT (ON/OFF/ON):     DPDT (ON/ON):     DPDT (ON/ON/ON):
     0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
     0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
 
 
-'¹' DPDP(https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON) available as "Mini-switch" oder "Push/Push-Pot" for volume and tone control
+'¹' DPDP(ON/OFF/ON) available as "Mini-switch" oder "Push/Push-Pot" for volume and tone control
 
-'²' can be done by 4 Push/Pull pots, 4 Mini-switch (https://github.com/gitfrage/guitarspecs/blob/master/as SD "triple shot") or by 5-Way blade megaswitch
+'²' can be done by 4 Push/Pull pots, 4 Mini-switch (as SD "triple shot") or by 5-Way blade megaswitch
 
 '³' c-switch/varitone - Rotary switch for different pots
 
-> [open.guitars (https://github.com/gitfrage/guitarspecs/blob/master/german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
+> [open.guitars (german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
@@ -412,11 +412,11 @@ More wiring schemas from:
 Sound group    			| Pot  | Cap     | Examples
 ------------------------|------|---------|----
 standard hambucker  	| 500K | 0.047mF | most hambucker equiped guitars
-bright   			    | 500K | 0.022mF | some guitars (https://github.com/gitfrage/guitarspecs/blob/master/U.S. FAT Tele)
+bright   			    | 500K | 0.022mF | some guitars (U.S. FAT Tele)
 brighter   			    | 500K | 0.01mF  | some custom models
 brightest       		| 1M   | 0.01mF  | some custom models
 standard singele coils 	| 250K | 0.022mF | most strat & tele models
-jazzy  					| 250K | 0.047mF | some teles (https://github.com/gitfrage/guitarspecs/blob/master/ASAT BluesBoy)
+jazzy  					| 250K | 0.047mF | some teles (ASAT BluesBoy)
 
 > http://www.planetz.com/guitar-tone-capacitors-material-types -   comparison of tone capacitor material types and capacitance values.
 
@@ -432,8 +432,8 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
  - Resistance: 250K, 300K, 500K, 1M
  - Taper: Audio, Reverse Audio, Linear, Balance
  - Shaft Type: Knurled, Round & Plain
- - Shaft Diameter: 6 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.236 in), 6.35 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.25 in)
- - Shaft Length:  17mm, 19 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.75 in), 27,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.125 in)
+ - Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)
+ - Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)
 
 > [mouser.de - guitar potentiometer category](http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&Keyword=Potentiometers&FS=True) - showing more options.
 
@@ -443,7 +443,7 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 
 Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
-> [Custom Buffers (https://github.com/gitfrage/guitarspecs/blob/master/german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
+> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
 > [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.     
 > [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.    
 
@@ -453,8 +453,8 @@ Active Electronics tries to reduce dependancy from the shielded cable and amp in
 
 Depending on following options your sound will be more bright or more mellow:
 
- - Construction (https://github.com/gitfrage/guitarspecs/blob/master/Flat Wound/Round Wound)
- - Material (https://github.com/gitfrage/guitarspecs/blob/master/Steel/Nickel) and
+ - Construction (Flat Wound/Round Wound)
+ - Material (Steel/Nickel) and
  - Tension
 
 Most manufacturers use following naming convention to describe tension of string set:
@@ -471,7 +471,7 @@ Baritone 	|  .013    		 | .056
 There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "Balanced Tension" combinations.
 
 > [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.      
-> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (https://github.com/gitfrage/guitarspecs/blob/master/PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
+> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
 > [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
 
 
@@ -480,7 +480,7 @@ There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "
 
 A guitar's scale length is length of string between the nut and the bridge.
 
-Scale has a relatively low impact on sound and playability of the guitar. (https://github.com/gitfrage/guitarspecs/blob/master/Compared with other parameters such as strings or pickups).
+Scale has a relatively low impact on sound and playability of the guitar. (Compared with other parameters such as strings or pickups).
 
  Longer scale length sound and playability characteristics:
  - quick response, crisp attack
@@ -494,13 +494,13 @@ Shorter scale length sound characteristics:
  
 Common Scale Length:
  
- - 572 mm (https://github.com/gitfrage/guitarspecs/blob/master/22.5") or shorter - 3/4 & some travel guitars
- - 596,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/23.50") - Fender Jazzmaster/Jaguar guitars
- - 629 mm (https://github.com/gitfrage/guitarspecs/blob/master/24.75") - many Gibson guitars
- - 635 mm (https://github.com/gitfrage/guitarspecs/blob/master/25") - many PRS guitars
- - 648 mm (https://github.com/gitfrage/guitarspecs/blob/master/25.5") - many Fender guitars
- - 650 mm (https://github.com/gitfrage/guitarspecs/blob/master/25.5)	- typical classical guitars
- - 686 mm (https://github.com/gitfrage/guitarspecs/blob/master/27") or longer - Baritone guitars
+ - 572 mm (22.5") or shorter - 3/4 & some travel guitars
+ - 596,9 mm (23.50") - Fender Jazzmaster/Jaguar guitars
+ - 629 mm (24.75") - many Gibson guitars
+ - 635 mm (25") - many PRS guitars
+ - 648 mm (25.5") - many Fender guitars
+ - 650 mm (25.5)	- typical classical guitars
+ - 686 mm (27") or longer - Baritone guitars
 
 
 ## Woods
