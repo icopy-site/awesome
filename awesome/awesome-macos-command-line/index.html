@@ -12673,7 +12673,7 @@ killall Dock
 <div class="codehilite"><pre><span></span>sudo diskutil repairPermissions /
 </pre></div></p>
 <blockquote>
-<p>Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://support.apple.com/en-us/HT201560">Source</a>)</p>
+<p>Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://support.apple.com/en-us/HT201560">Source</a>)</p>
 </blockquote>
 <h4 id="set-boot-volume">Set Boot Volume<a class="headerlink" href="#set-boot-volume" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span><span class="c1">## Up to Yosemite</span>
@@ -12927,7 +12927,7 @@ defaults write com.apple.finder NewWindowTargetPath -string <span class="s2">&qu
 <h3 id="opening-things">Opening Things<a class="headerlink" href="#opening-things" title="Permanent link">&para;</a></h3>
 <h4 id="change-working-directory-to-finder-path">Change Working Directory to Finder Path<a class="headerlink" href="#change-working-directory-to-finder-path" title="Permanent link">&para;</a></h4>
 <p>If multiple windows are open, it chooses the top-most one.
-<div class="codehilite"><pre><span></span><span class="nb">cd</span> <span class="s2">&quot;</span><span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e <span class="s1">&#39;tell app &quot;Finder&quot; to POSIX path of (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/insertion location as alias)&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
+<div class="codehilite"><pre><span></span><span class="nb">cd</span> <span class="s2">&quot;</span><span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e <span class="s1">&#39;tell app &quot;Finder&quot; to POSIX path of (insertion location as alias)&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
 </pre></div></p>
 <h4 id="open-url">Open URL<a class="headerlink" href="#open-url" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>open https://github.com
@@ -13201,7 +13201,7 @@ scselect LocationNameFromStatus
 <blockquote>
 <p>Prior to macOS Sierra, ssh would present a dialog asking for your passphrase and would offer the option to store it into the keychain. This UI was deprecated some time ago and has been removed.</p>
 <p>Instead, a new UseKeychain option was introduced in macOS Sierra allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS Sierra, which caused all passphrases to be stored in the keychain.</p>
-<p>This was not the intended default behavior, so this has been changed in macOS 10.12.2. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://developer.apple.com/library/archive/technotes/tn2449/_index.html">Source</a>)
+<p>This was not the intended default behavior, so this has been changed in macOS 10.12.2. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://developer.apple.com/library/archive/technotes/tn2449/_index.html">Source</a>)
 <div class="codehilite"><pre><span></span>ssh-add -K /path/to/private_key
 </pre></div>
 Then add to <code>~/.ssh/config</code>:
@@ -13252,7 +13252,7 @@ Run a wireless scan:
 <div class="codehilite"><pre><span></span>airport -s
 </pre></div></p>
 <h4 id="show-current-ssid">Show Current SSID<a class="headerlink" href="#show-current-ssid" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span>/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I <span class="p">|</span> awk <span class="s1">&#39;/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, $2))}&#39;</span>
+<div class="codehilite"><pre><span></span>/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I <span class="p">|</span> awk <span class="s1">&#39;/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index($0, $2))}&#39;</span>
 </pre></div>
 
 <h4 id="show-local-ip-address">Show Local IP Address<a class="headerlink" href="#show-local-ip-address" title="Permanent link">&para;</a></h4>
@@ -13753,7 +13753,7 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <li><a href="http://levien.com/type/myfonts/inconsolata.html">Inconsolata</a> -  A monospace font, designed for code listings and the like.</li>
 <li><a href="http://input.fontbureau.com">Input</a> - A flexible system of fonts designed specifically for code.</li>
 <li><a href="https://github.com/andreberg/Meslo-Font">Meslo</a> - Customized version of Apple's Menlo font.</li>
-<li><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://www.typography.com/fonts/operator/overview/">Operator Mono</a> - A surprisingly usable alternative take on a monospace font (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial</a>).</li>
+<li><a href="https://www.typography.com/fonts/operator/overview/">Operator Mono</a> - A surprisingly usable alternative take on a monospace font (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial</a>).</li>
 <li><a href="https://github.com/powerline/fonts">Powerline Fonts</a> - Repo of patched fonts for the Powerline plugin.</li>
 <li><a href="https://adobe-fonts.github.io/source-code-pro/">Source Code Pro</a> - A monospaced font family for user interfaces and coding environments.</li>
 </ul>
@@ -13880,7 +13880,7 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <tr>
 <td>macOS 10.14</td>
 <td>Mojave</td>
-<td>September 24, 2018</td>
+<td><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 24, 2018</td>
 <td>10.14 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 24, 2018)</td>
 </tr>
 </tbody>

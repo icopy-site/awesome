@@ -6897,11 +6897,11 @@
 <h3 id="deep-dive">Deep Dive<a class="headerlink" href="#deep-dive" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/sindresorhus/promise-fun">Promise Fun</a> - @sindresorhus's notes, patterns, and solutions to common Promise problems</li>
-<li><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://blog.domenic.me/youre-missing-the-point-of-promises/">You're Missing the Point of Promises</a> - Promises are much more than callback aggregation, and that jQuery's implementation (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/prior">https://github.com/wbinnssmith/awesome-promises/blob/master/prior</a> to 3.0) isn't enough.</li>
+<li><a href="https://blog.domenic.me/youre-missing-the-point-of-promises/">You're Missing the Point of Promises</a> - Promises are much more than callback aggregation, and that jQuery's implementation (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/prior">https://github.com/wbinnssmith/awesome-promises/blob/master/prior</a> to 3.0) isn't enough.</li>
 <li><a href="https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html">We have a problem with promises</a> - "Many of us are using promises without really understanding them."</li>
 <li><a href="https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns">Promise anti-patterns</a> - Common misuses and how to avoid them.</li>
 <li><a href="http://taoofcode.net/promise-anti-patterns/">Promise anti-patterns (2)</a> - Another set of promises anti-patterns</li>
-<li><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/">Promise Ponderings, (https://github.com/wbinnssmith/awesome-promises/blob/master/Anti-)Patterns, and Apologies</a> - Promise behaviour demonstrated and explained by common questions and their answers.</li>
+<li><a href="https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/">Promise Ponderings, (https://github.com/wbinnssmith/awesome-promises/blob/master/Anti-)Patterns, and Apologies</a> - Promise behaviour demonstrated and explained by common questions and their answers.</li>
 <li><a href="http://www.mattgreer.org/articles/promises-in-wicked-detail/">Javascript Promises...In Wicked Detail</a> - Recreate the promise implementation</li>
 <li><a href="https://www.w3.org/2001/tag/doc/promises-guide">Writing Promise-Using Specifications</a> - "This document gives guidance on how to write specifications that create, accept, or manipulate promises"</li>
 <li><a href="https://developers.google.com/web/fundamentals/getting-started/primers/async-functions">Async functions - making promises friendly</a></li>
@@ -6940,15 +6940,15 @@
 </ul>
 <h2 id="convenience-utilities">Convenience Utilities<a class="headerlink" href="#convenience-utilities" title="Permanent link">&para;</a></h2>
 <p>Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the <code>Promise</code> constructor and prototype. Solution? tiny modules of course!</p>
-<h3 id="sindresorhuss-many-promise-utilities-httpsgithubcomwbinnssmithawesome-promisesblobmastersee-notes">sindresorhus's many Promise utilities (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/">https://github.com/wbinnssmith/awesome-promises/blob/master/</a><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/promise-fun">see notes</a>)<a class="headerlink" href="#sindresorhuss-many-promise-utilities-httpsgithubcomwbinnssmithawesome-promisesblobmastersee-notes" title="Permanent link">&para;</a></h3>
+<h3 id="sindresorhuss-many-promise-utilities-httpsgithubcomwbinnssmithawesome-promisesblobmastersee-notes">sindresorhus's many Promise utilities (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/">https://github.com/wbinnssmith/awesome-promises/blob/master/</a><a href="https://github.com/sindresorhus/promise-fun">see notes</a>)<a class="headerlink" href="#sindresorhuss-many-promise-utilities-httpsgithubcomwbinnssmithawesome-promisesblobmastersee-notes" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/sindresorhus/delay">delay</a> - Delay a promise a specified amount of time.</li>
-<li><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/pify">pify</a> - Promisify (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/&quot;denodify">https://github.com/wbinnssmith/awesome-promises/blob/master/"denodify</a>") a callback-style function.</li>
+<li><a href="https://github.com/sindresorhus/pify">pify</a> - Promisify (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/&quot;denodify">https://github.com/wbinnssmith/awesome-promises/blob/master/"denodify</a>") a callback-style function.</li>
 <li><a href="https://github.com/sindresorhus/loud-rejection">loud-rejection</a> - Make unhandled promise rejections fail loudly instead of the default silent fail.</li>
 <li><a href="https://github.com/sindresorhus/hard-rejection">hard-rejection</a> - Make unhandled promise rejections fail hard right away instead of the default silent fail</li>
 <li><a href="https://github.com/sindresorhus/p-queue">p-queue</a> - Promise queue with concurrency control</li>
 <li><a href="https://github.com/sindresorhus/p-break">p-break</a> - Break out of a promise chain</li>
-<li><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/p-lazy">p-lazy</a> - Create a lazy promise that defers execution until <code>.then(https://github.com/wbinnssmith/awesome-promises/blob/master/)</code> or <code>.catch(https://github.com/wbinnssmith/awesome-promises/blob/master/)</code> is called</li>
+<li><a href="https://github.com/sindresorhus/p-lazy">p-lazy</a> - Create a lazy promise that defers execution until <code>.then()</code> or <code>.catch()</code> is called</li>
 <li><a href="https://github.com/sindresorhus/p-defer">p-defer</a> - Create a deferred promise</li>
 <li><a href="https://github.com/sindresorhus/p-if">p-if</a> - Conditional promise chains</li>
 <li><a href="https://github.com/sindresorhus/p-tap">p-tap</a> - Tap into a promise chain without affecting its value or state</li>
@@ -6983,7 +6983,7 @@
 <ul>
 <li><a href="https://github.com/wbinnssmith/promise-method">promise-method</a> - Standalone <code>bluebird.method</code>. Turn a synchronously-returning method into a promise-returning one.</li>
 <li><a href="https://github.com/then/is-promise">is-promise</a> - Determine if something looks like a Promise.</li>
-<li><a href="https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/then/sprom">sprom</a> - Resolve when a stream ends. Optional buffering (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/be">https://github.com/wbinnssmith/awesome-promises/blob/master/be</a> careful with this!)</li>
+<li><a href="https://github.com/then/sprom">sprom</a> - Resolve when a stream ends. Optional buffering (<a href="https://github.com/wbinnssmith/awesome-promises/blob/master/be">https://github.com/wbinnssmith/awesome-promises/blob/master/be</a> careful with this!)</li>
 <li><a href="https://github.com/mozilla/task.js">task.js</a> - Write async functions in a blocking style using promises and generators. Like <code>bluebird.coroutine</code>.</li>
 <li><a href="https://github.com/tj/co">co</a> - Like <code>task.js</code> and <code>bluebird.coroutine</code>, but supports thunks too.</li>
 <li><a href="https://www.npmjs.com/package/lie-fs">lie-fs</a> - Promise wrappers for Node's FS API.</li>

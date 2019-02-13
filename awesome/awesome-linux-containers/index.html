@@ -7184,14 +7184,14 @@ A tool to help forensicate offline docker acquisitions.</li>
 <li><a href="https://benchmarks.cisecurity.org/about/">CIS Security Benchmarks</a></li>
 <li><a href="https://opensource.com/business/14/7/docker-security-selinux">Are Docker containers really secure?</a></li>
 <li><a href="https://opensource.com/business/14/9/security-for-docker">Bringing new security features to Docker</a></li>
-<li><a href="https://github.com/Friz-zy/awesome-linux-containers/blob/master/http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security">Docker, Linux Containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LXC), and security</a></li>
+<li><a href="http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security">Docker, Linux Containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LXC), and security</a></li>
 <li><a href="http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html">For containers, security is problem #1</a></li>
 <li><a href="https://mjg59.dreamwidth.org/33170.html">Linux Container Security</a></li>
 <li><a href="https://news.ycombinator.com/item?id=10030868">Ask HN: Best Linux sandbox?</a></li>
 <li><a href="https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf">CIS Docker 1.6 Benchmark v1.0.0</a></li>
 <li><a href="https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/">Understanding docker security and best practices</a></li>
 <li><a href="https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/">Update on Ubuntu Phone security issue</a></li>
-<li><a href="https://github.com/Friz-zy/awesome-linux-containers/blob/master/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html">Don't expose the Docker socket (https://github.com/Friz-zy/awesome-linux-containers/blob/master/not even to a container)</a></li>
+<li><a href="https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html">Don't expose the Docker socket (https://github.com/Friz-zy/awesome-linux-containers/blob/master/not even to a container)</a></li>
 <li><a href="http://rhelblog.redhat.com/?s=container&amp;submit=Search">RedHat Blog</a></li>
 <li><a href="https://access.redhat.com/articles/1353593">Introduction to Linux Containers</a></li>
 <li><a href="http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004">What’s Next for Containers? User Namespaces</a></li>
@@ -7265,7 +7265,7 @@ Docker uses copy-on-write file systems. This means containers can use the same f
 <p>Things are better. For example, most modern container technologies can make use of Linux's built-in security tools such as:<br />
 <a href="http://wiki.apparmor.net/index.php/Main_Page">AppArmor</a>, <a href="http://selinuxproject.org/page/Main_Page">SELinux</a> and <a href="http://man7.org/linux/man-pages/man2/seccomp.2.html">Seccomp</a> policies;<br />
 <a href="https://grsecurity.net/">Grsecurity</a>;<br />
-<a href="https://github.com/Friz-zy/awesome-linux-containers/blob/master/https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html">Control groups (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cgroups)</a>;<br />
+<a href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html">Control groups (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cgroups)</a>;<br />
 <a href="http://man7.org/linux/man-pages/man7/namespaces.7.html">Kernel namespaces</a><br />
 <a href="http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html">src</a></p>
 <p>Sure, you're deploying seccomp, but you can't use selinux inside your container, because the policy isn't per-namespace (<a href="https://github.com/Friz-zy/awesome-linux-containers/blob/master/">https://github.com/Friz-zy/awesome-linux-containers/blob/master/</a>?? lxc uses apparmore for each container...)<br />

@@ -8903,7 +8903,7 @@
 <p><a href="http://git.io/git-tips">English</a> | <a href="https://github.com/521xueweihan/git-tips">中文</a> | <a href="https://github.com/Imangazaliev/git-tips">Русский</a> | <a href="https://github.com/mingrammer/git-tips">한국어</a> | <a href="https://github.com/hprobotic/git-tips">Tiếng Việt</a> | <a href="https://github.com/isotai/git-tips">日本語</a></p>
 <h3 id="tools"><strong>Tools:</strong><a class="headerlink" href="#tools" title="Permanent link">&para;</a></h3>
 <ul>
-<li><a href="https://github.com/git-tips/tips/blob/master/https://www.npmjs.com/package/git-tip">git-tip</a> - A handy CLI to make optimum use of these tips. (<a href="https://github.com/git-tips/tips/blob/master/">https://github.com/git-tips/tips/blob/master/</a><a href="https://github.com/git-tips/tips/blob/master/https://github.com/djoudi5/docker-git-tip">Here in Docker container</a>)</li>
+<li><a href="https://www.npmjs.com/package/git-tip">git-tip</a> - A handy CLI to make optimum use of these tips. (<a href="https://github.com/git-tips/tips/blob/master/">https://github.com/git-tips/tips/blob/master/</a><a href="https://github.com/djoudi5/docker-git-tip">Here in Docker container</a>)</li>
 </ul>
 <p>P.S: All these commands are tested on <code>git version 2.7.4 (https://github.com/git-tips/tips/blob/master/Apple Git-66)</code>.</p>
 <!-- @doxie.inject start toc -->
@@ -9726,7 +9726,7 @@ git bisect reset                    <span class="c1"># Finish search </span>
 </pre></div>
 
 <h2 id="alias-git-undo">Alias: git undo<a class="headerlink" href="#alias-git-undo" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git config --global alias.undo <span class="s1">&#39;!f(https://github.com/git-tips/tips/blob/master/) { git reset --hard $(https://github.com/git-tips/tips/blob/master/git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f&#39;</span>
+<div class="codehilite"><pre><span></span>git config --global alias.undo <span class="s1">&#39;!f() { git reset --hard $(https://github.com/git-tips/tips/blob/master/git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f&#39;</span>
 </pre></div>
 
 <h2 id="add-object-notes">Add object notes<a class="headerlink" href="#add-object-notes" title="Permanent link">&para;</a></h2>
@@ -9788,7 +9788,7 @@ git bisect reset                    <span class="c1"># Finish search </span>
 </pre></div>
 
 <h2 id="exclude-author-from-logs">Exclude author from logs<a class="headerlink" href="#exclude-author-from-logs" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git log --perl-regexp --author<span class="o">=</span><span class="err">&#39;</span>^<span class="o">(</span>https://github.com/git-tips/tips/blob/master/<span class="o">(</span>https://github.com/git-tips/tips/blob/master/?!excluded-author-regex<span class="o">)</span>.*<span class="o">)</span>
+<div class="codehilite"><pre><span></span>git log --perl-regexp --author<span class="o">=</span><span class="err">&#39;</span>^<span class="o">(</span>https://github.com/git-tips/tips/blob/master/<span class="o">(</span>?!excluded-author-regex<span class="o">)</span>.*<span class="o">)</span>
 </pre></div>
 
 <h2 id="generates-a-summary-of-pending-changes">Generates a summary of pending changes<a class="headerlink" href="#generates-a-summary-of-pending-changes" title="Permanent link">&para;</a></h2>

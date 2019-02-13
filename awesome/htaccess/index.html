@@ -7342,7 +7342,7 @@
 <p><strong>Disclaimer</strong>: While dropping the snippet into an <code>.htaccess</code> file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.</p>
 <p><strong>IMPORTANT</strong>: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the <a href="https://httpd.apache.org/docs/2.4/upgrading.html">upgrading document</a> as well as <a href="https://github.com/phanan/htaccess/issues/2">this issue</a>.</p>
 <h2 id="credits">Credits<a class="headerlink" href="#credits" title="Permanent link">&para;</a></h2>
-<p>What we are doing here is mostly collecting useful snippets from all over the interwebs (<a href="https://github.com/phanan/htaccess/blob/master/for">https://github.com/phanan/htaccess/blob/master/for</a> example, a good chunk is from <a href="https://github.com/phanan/htaccess/blob/master/https://github.com/h5bp/server-configs-apache">Apache Server Configs</a>) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.</p>
+<p>What we are doing here is mostly collecting useful snippets from all over the interwebs (<a href="https://github.com/phanan/htaccess/blob/master/for">https://github.com/phanan/htaccess/blob/master/for</a> example, a good chunk is from <a href="https://github.com/h5bp/server-configs-apache">Apache Server Configs</a>) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.</p>
 <h2 id="table-of-contents">Table of Contents<a class="headerlink" href="#table-of-contents" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="#rewrite-and-redirection">Rewrite and Redirection</a><ul>
@@ -7422,7 +7422,7 @@ This works for <em>any</em> domain. <a href="https://stackoverflow.com/questions
 <div class="codehilite"><pre><span></span><span class="nb">RewriteEngine</span> <span class="k">on</span>
 <span class="nb">RewriteCond</span> %{HTTP_HOST} ^www\.
 <span class="nb">RewriteCond</span> %{HTTPS}s ^on(s)|off
-<span class="nb">RewriteCond</span> http%1://%{HTTP_HOST} ^(https://github.com/phanan/htaccess/blob/master/https?://)(https://github.com/phanan/htaccess/blob/master/www\.)?(https://github.com/phanan/htaccess/blob/master/.+)$
+<span class="nb">RewriteCond</span> http%1://%{HTTP_HOST} ^(https?://)(https://github.com/phanan/htaccess/blob/master/www\.)?(https://github.com/phanan/htaccess/blob/master/.+)$
 <span class="nb">RewriteRule</span> ^ %1%3%{REQUEST_URI} [R=301,L]
 </pre></div>
 
@@ -7451,7 +7451,7 @@ This works for <em>any</em> domain. <a href="https://stackoverflow.com/questions
 </pre></div>
 
 <h3 id="remove-trailing-slash">Remove Trailing Slash<a class="headerlink" href="#remove-trailing-slash" title="Permanent link">&para;</a></h3>
-<p>This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (<a href="https://github.com/phanan/htaccess/blob/master/except">https://github.com/phanan/htaccess/blob/master/except</a> for actual directories), e.g. <code>http://www.example.com/blog/</code> to <code>http://www.example.com/blog</code>. This is important for SEO, since it’s <a href="https://github.com/phanan/htaccess/blob/master/http://overit.com/blog/canonical-urls">recommended</a> to have a canonical URL for every page.
+<p>This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (<a href="https://github.com/phanan/htaccess/blob/master/except">https://github.com/phanan/htaccess/blob/master/except</a> for actual directories), e.g. <code>http://www.example.com/blog/</code> to <code>http://www.example.com/blog</code>. This is important for SEO, since it’s <a href="http://overit.com/blog/canonical-urls">recommended</a> to have a canonical URL for every page.
 <div class="codehilite"><pre><span></span><span class="nb">RewriteCond</span> %{REQUEST_FILENAME} !-d
 <span class="nb">RewriteCond</span> %{REQUEST_URI} (https://github.com/phanan/htaccess/blob/master/.+)/$
 <span class="nb">RewriteRule</span> ^ %1 [R=301,L]
@@ -7467,8 +7467,8 @@ This works for <em>any</em> domain. <a href="https://stackoverflow.com/questions
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/(https://github.com/phanan/htaccess/blob/master/.*).htm$ /$1.html
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/200(https://github.com/phanan/htaccess/blob/master/[0-9])/(https://github.com/phanan/htaccess/blob/master/[^01])(https://github.com/phanan/htaccess/blob/master/.*)$ /$2$3
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/category/(https://github.com/phanan/htaccess/blob/master/.*)$ /$1
-<span class="nb">RedirectMatch</span> <span class="m">301</span> ^/(https://github.com/phanan/htaccess/blob/master/.*)/htaccesselite-ultimate-htaccess-article.html(https://github.com/phanan/htaccess/blob/master/.*) <span class="sx">/htaccess/htaccess.html</span>
-<span class="nb">RedirectMatch</span> <span class="m">301</span> ^/(https://github.com/phanan/htaccess/blob/master/.*).html/1/(https://github.com/phanan/htaccess/blob/master/.*) /$1.html$2
+<span class="nb">RedirectMatch</span> <span class="m">301</span> ^/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*)/htaccesselite-ultimate-htaccess-article.html(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*) <span class="sx">/htaccess/htaccess.html</span>
+<span class="nb">RedirectMatch</span> <span class="m">301</span> ^/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*).html/1/(https://github.com/phanan/htaccess/blob/master/https://github.com/phanan/htaccess/blob/master/.*) /$1.html$2
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/manual/(https://github.com/phanan/htaccess/blob/master/.*)$ http://www.php.net/manual/$1
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/dreamweaver/(https://github.com/phanan/htaccess/blob/master/.*)$ <span class="sx">/tools/</span>$1
 <span class="nb">RedirectMatch</span> <span class="m">301</span> ^/z/(https://github.com/phanan/htaccess/blob/master/.*)$ http://static.askapache.com/$1
@@ -7551,7 +7551,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 </pre></div></p>
 <h3 id="deny-access-to-backup-and-source-files">Deny Access to Backup and Source Files<a class="headerlink" href="#deny-access-to-backup-and-source-files" title="Permanent link">&para;</a></h3>
 <p>These files may be left by some text/HTML editors (<a href="https://github.com/phanan/htaccess/blob/master/like">https://github.com/phanan/htaccess/blob/master/like</a> Vi/Vim) and pose a great security danger if exposed to public.
-<div class="codehilite"><pre><span></span><span class="nt">&lt;FilesMatch</span> <span class="s">&quot;(https://github.com/phanan/htaccess/blob/master/\.(https://github.com/phanan/htaccess/blob/master/bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$&quot;</span><span class="nt">&gt;</span>
+<div class="codehilite"><pre><span></span><span class="nt">&lt;FilesMatch</span> <span class="s">&quot;(https://github.com/phanan/htaccess/blob/master/\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$&quot;</span><span class="nt">&gt;</span>
     <span class="c">## Apache 2.2</span>
     <span class="nb">Order</span> allow,deny
     <span class="nb">Deny</span> from <span class="k">all</span>
@@ -7572,11 +7572,11 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} !^$
 
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} !^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?example.com [NC]
-<span class="nb">RewriteRule</span> \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
+<span class="nb">RewriteRule</span> \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
 <span class="c">## If you want to display a “blocked” banner in place of the hotlinked image,</span>
 <span class="c">## replace the above rule with:</span>
-<span class="c">## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
+<span class="c">## RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
 </pre></div>
 
 <h3 id="disable-image-hotlinking-for-specific-domains">Disable Image Hotlinking for Specific Domains<a class="headerlink" href="#disable-image-hotlinking-for-specific-domains" title="Permanent link">&para;</a></h3>
@@ -7584,11 +7584,11 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <div class="codehilite"><pre><span></span><span class="nb">RewriteEngine</span> <span class="k">on</span>
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite\.com [NC,OR]
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite2\.com [NC,OR]
-<span class="nb">RewriteRule</span> \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
+<span class="nb">RewriteRule</span> \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
 <span class="c">## If you want to display a “blocked” banner in place of the hotlinked image,</span>
 <span class="c">## replace the above rule with:</span>
-<span class="c">## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
+<span class="c">## RewriteRule \.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
 </pre></div></p>
 <h3 id="password-protect-a-directory">Password Protect a Directory<a class="headerlink" href="#password-protect-a-directory" title="Permanent link">&para;</a></h3>
 <p>First you need to create a <code>.htpasswd</code> file somewhere in the system:
@@ -7609,7 +7609,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">Require</span> valid-user
 <span class="nt">&lt;/Files&gt;</span>
 
-<span class="nt">&lt;FilesMatch</span> <span class="s">^(https://github.com/phanan/htaccess/blob/master/(https://github.com/phanan/htaccess/blob/master/one|two|three)-rings?\.o)$</span><span class="nt">&gt;</span>
+<span class="nt">&lt;FilesMatch</span> <span class="s">^(https://github.com/phanan/htaccess/blob/master/(one|two|three)-rings?\.o)$</span><span class="nt">&gt;</span>
 <span class="nb">Require</span> valid-user
 <span class="nt">&lt;/FilesMatch&gt;</span>
 </pre></div>
@@ -7636,7 +7636,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
     <span class="c"># https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html</span>
     <span class="nt">&lt;IfModule</span> <span class="s">mod_setenvif.c</span><span class="nt">&gt;</span>
         <span class="nt">&lt;IfModule</span> <span class="s">mod_headers.c</span><span class="nt">&gt;</span>
-            <span class="nb">SetEnvIfNoCase</span> ^(https://github.com/phanan/htaccess/blob/master/Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^(https://github.com/phanan/htaccess/blob/master/(https://github.com/phanan/htaccess/blob/master/gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+            <span class="nb">SetEnvIfNoCase</span> ^(https://github.com/phanan/htaccess/blob/master/Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^(https://github.com/phanan/htaccess/blob/master/(gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
             <span class="nb">RequestHeader</span> append Accept-Encoding <span class="s2">&quot;gzip,deflate&quot;</span> env=HAVE_Accept-Encoding
         <span class="nt">&lt;/IfModule&gt;</span>
     <span class="nt">&lt;/IfModule&gt;</span>
@@ -7796,7 +7796,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <p><div class="codehilite"><pre><span></span><span class="nb">RewriteEngine</span> <span class="k">On</span>
 <span class="nb">RewriteCond</span> %{HTTP_ACCEPT} image/webp
 <span class="nb">RewriteCond</span> %{DOCUMENT_ROOT}/$1.webp -f
-<span class="nb">RewriteRule</span> (https://github.com/phanan/htaccess/blob/master/.+)\.(https://github.com/phanan/htaccess/blob/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+<span class="nb">RewriteRule</span> (https://github.com/phanan/htaccess/blob/master/.+)\.(https://raw.githubusercontent.com/phanan/htaccess/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 </pre></div>
 <a href="https://github.com/vincentorback/WebP-images-with-htaccess">Source</a></p>
                 

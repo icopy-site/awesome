@@ -8391,7 +8391,7 @@
 <h3 id="usage"><a href="#usage-1">Usage</a><a class="headerlink" href="#usage" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="#getting-help-offline">Getting help offline</a></li>
-<li><a href="https://github.com/mhinz/vim-galore/blob/master/#getting-help-offline-alternative">Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)</a></li>
+<li><a href="#getting-help-offline-https://github.com/mhinz/vim-galore/blob/master/alternative">Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)</a></li>
 <li><a href="#getting-help-online">Getting help online</a></li>
 <li><a href="#autocmds-in-practice">Autocmds in practice</a></li>
 <li><a href="#user-events">User events</a></li>
@@ -8437,7 +8437,7 @@
 <ul>
 <li><a href="#global-and-vglobal">:global and :vglobal</a> - Execute a command on all matching lines.</li>
 <li><a href="#normal-and-execute">:normal and :execute</a> - The scripting dream team.</li>
-<li><a href="https://github.com/mhinz/vim-galore/blob/master/#redir-and-execute">:redir and execute(https://github.com/mhinz/vim-galore/blob/master/)</a> - Capture command output.</li>
+<li><a href="https://github.com/mhinz/vim-galore/blob/master/#redir-and-execute">:redir and execute()</a> - Capture command output.</li>
 </ul>
 <h3 id="debugging"><a href="#debugging-1">Debugging</a><a class="headerlink" href="#debugging" title="Permanent link">&para;</a></h3>
 <ul>
@@ -8480,14 +8480,14 @@
 <h2 id="intro_1">Intro<a class="headerlink" href="#intro_1" title="Permanent link">&para;</a></h2>
 <h2 id="what-is-vim">What is Vim?<a class="headerlink" href="#what-is-vim" title="Permanent link">&para;</a></h2>
 <p><a href="http://www.vim.org">Vim</a> is a text editor with a long line of ancestors that
-goes back to <a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/QED_(https://github.com/mhinz/vim-galore/blob/master/text_editor)">qed</a>. <a href="https://en.wikipedia.org/wiki/Bram_Moolenaar">Bram
+goes back to <a href="https://en.wikipedia.org/wiki/QED_(text_editor)">qed</a>. <a href="https://en.wikipedia.org/wiki/Bram_Moolenaar">Bram
 Moolenaar</a> released it in 1991.</p>
 <p>The project is hosted online at <a href="http://www.vim.org/index.php">vim.org</a>.</p>
 <p>Getting Vim: Use your favourite package manager or visit the <a href="http://www.vim.org/download.php">download
 page</a> from vim.org.</p>
 <p>Discussions and user questions are best done on the
 <a href="https://groups.google.com/forum/#!forum/vim_use">vim_use</a> mailing list or using
-IRC (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><a href="https://github.com/mhinz/vim-galore/blob/master/https://freenode.net">Freenode</a>) in the <code>#vim</code> channel.</p>
+IRC (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><a href="https://freenode.net">Freenode</a>) in the <code>#vim</code> channel.</p>
 <p>Development happens on <a href="https://github.com/vim/vim">GitHub</a>, discussions on the
 <a href="https://groups.google.com/forum/#!forum/vim_dev">vim_dev</a> mailing list.</p>
 <p>Read <a href="http://www.viemu.com/a-why-vi-vim.html">Why, oh WHY, do those #?@! nutheads use
@@ -8525,7 +8525,7 @@ things you need to know about. You can start it from the shell:</p>
 editors or IDEs you used before were most probably all non-modal, so working by
 switching modes will seem awkward at first, but the more you use Vim, the more
 it becomes <a href="https://en.wikipedia.org/wiki/Muscle_memory">muscle memory</a>.</p>
-<p>Vim was bolted on <a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Stevie_(https://github.com/mhinz/vim-galore/blob/master/text_editor)">Stevie</a>, a
+<p>Vim was bolted on <a href="https://en.wikipedia.org/wiki/Stevie_(text_editor)">Stevie</a>, a
 <a href="https://en.wikipedia.org/wiki/Vi">vi</a> clone, and supports two operating modes:
 "compatible" and "nocompatible". Using Vim in compatible mode means using vi
 defaults for all options, opposed to Vim defaults. As long as you didn't create
@@ -8584,7 +8584,7 @@ to install a package called <code>vim-x</code>, <code>vim-x11</code>, <code>vim-
 similar, since these packages usually come with the huge feature set.</p>
 <p>You can also test for the version or features programmatically:</p>
 <div class="codehilite"><pre><span></span><span class="c">&quot; Do something if running at least Vim 7.4.42 with +profile enabled.</span>
-<span class="k">if</span> <span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/v:version &gt; 704 || v:version == 704 &amp;&amp; has(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s1">&#39;patch42&#39;</span><span class="p">))</span> &amp;&amp; has<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/<span class="s1">&#39;profile&#39;</span><span class="p">)</span>
+<span class="k">if</span> <span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/v:version &gt; 704 || v:version == 704 &amp;&amp; has(&#39;patch42&#39;)) &amp;&amp; has(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s1">&#39;profile&#39;</span><span class="p">)</span>
 <span class="c">  &quot; do stuff</span>
 <span class="k">endif</span>
 </pre></div>
@@ -8803,7 +8803,7 @@ already, so use it to double-check your mappings.</p>
 <td><code>0</code> to <code>9</code></td>
 <td>vim</td>
 <td>[ ]</td>
-<td>Register <code>0</code>: Last yank. Register <code>1</code>: Last deletion. Register <code>2</code>: Second last deletion. And so on. Think of registers <code>1</code>-<code>9</code> as a read-only <a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Queue_(https://github.com/mhinz/vim-galore/blob/master/abstract_data_type)">queue</a> with 9 elements.</td>
+<td>Register <code>0</code>: Last yank. Register <code>1</code>: Last deletion. Register <code>2</code>: Second last deletion. And so on. Think of registers <code>1</code>-<code>9</code> as a read-only <a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queue</a> with 9 elements.</td>
 </tr>
 <tr>
 <td>Small delete</td>
@@ -9223,7 +9223,7 @@ and the cursor simply jumps to the other side.</p>
 followed by a character denoting the object. With <code>i</code> it only acts on the object
 itself, with <code>a</code> on the object plus trailing whitespace. E.g. <code>diw</code> deletes the
 current word and <code>ci(</code> changes everything between parentheses.</p>
-<p>Text objects take a count. Imagine <code>(https://github.com/mhinz/vim-galore/blob/master/(https://github.com/mhinz/vim-galore/blob/master/(https://github.com/mhinz/vim-galore/blob/master/ )))</code> and the cursor on or between the
+<p>Text objects take a count. Imagine <code>(https://github.com/mhinz/vim-galore/blob/master/(( )))</code> and the cursor on or between the
 most inner parentheses, then <code>d2a(</code> will remove the 2 inner pairs of parentheses
 and everything in between.</p>
 <p>See <code>:h text-objects</code> for all available text objects.</p>
@@ -9270,7 +9270,7 @@ of the line).</p>
 <strong>jumplist</strong>. A jumplist has up to 100 entries. Each window has its own
 jumplist. When you split a window, the jumplist is copied.</p>
 <p>A jump is one of the following commands: <code>'</code>, <code>`</code>, <code>G</code>, <code>/</code>, <code>?</code>, <code>n</code>, <code>N</code>,
-<code>%</code>, <code>(https://github.com/mhinz/vim-galore/blob/master/</code>, <code>)</code>, <code>[[</code>, <code>]]</code>, <code>{</code>, <code>}</code>, <code>:s</code>, <code>:tag</code>, <code>L</code>, <code>M</code>, <code>H</code> and commands
+<code>%https://github.com/mhinz/vim-galore/blob/master/</code>, <code>(https://github.com/mhinz/vim-galore/blob/master/</code>, <code>)https://github.com/mhinz/vim-galore/blob/master/</code>, <code>[[https://github.com/mhinz/vim-galore/blob/master/</code>, <code>]]https://github.com/mhinz/vim-galore/blob/master/</code>, <code>{https://github.com/mhinz/vim-galore/blob/master/</code>, <code>}https://github.com/mhinz/vim-galore/blob/master/</code>, <code>:shttps://github.com/mhinz/vim-galore/blob/master/</code>, <code>:taghttps://github.com/mhinz/vim-galore/blob/master/</code>, <code>Lhttps://github.com/mhinz/vim-galore/blob/master/</code>, <code>Mhttps://github.com/mhinz/vim-galore/blob/master/</code>, <code>H</code> and commands
 that start editing a new file.</p>
 <table>
 <thead>
@@ -9312,8 +9312,8 @@ and can be jumped to via <code>``</code> or <code>''</code>.</p>
 revert changes and <em>redo</em> to reapply previously reverted changes.</p>
 <p>The important bit to understand it that the data structure holding recent
 changes is not a
-<a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Queue_(https://github.com/mhinz/vim-galore/blob/master/abstract_data_type)">queue</a> but a
-<a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Tree_(https://github.com/mhinz/vim-galore/blob/master/data_structure)">tree</a>! Your changes are
+<a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queue</a> but a
+<a href="https://en.wikipedia.org/wiki/Tree_(data_structure)">tree</a>! Your changes are
 nodes in the tree and each (<a href="https://github.com/mhinz/vim-galore/blob/master/but">https://github.com/mhinz/vim-galore/blob/master/but</a> the top node) has a parent node. Each node keeps
 information about the changed text and time. A branch is a series of nodes that
 starts from any node and goes up to the top node. New branches get created when
@@ -9503,7 +9503,7 @@ q
 @q
 </pre></div>
 
-<p>(<a href="https://github.com/mhinz/vim-galore/blob/master/The">https://github.com/mhinz/vim-galore/blob/master/The</a> same could be done without macros: <code>:%s/^/\=line(https://github.com/mhinz/vim-galore/blob/master/'.') . '. '</code>)</p>
+<p>(<a href="https://github.com/mhinz/vim-galore/blob/master/The">https://github.com/mhinz/vim-galore/blob/master/The</a> same could be done without macros: <code>:%s/^/\=line('.') . '. '</code>)</p>
 <p>Mind that I also show how to achieve the same without using macros, but this
 mostly works only for such simple examples. For more complex automation, macros
 are the bomb!</p>
@@ -9595,7 +9595,7 @@ updating folds when it's not needed.</p>
 </pre></div>
 
 <h2 id="sessions">Sessions<a class="headerlink" href="#sessions" title="Permanent link">&para;</a></h2>
-<p>If you save a <strong>view</strong> (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>:h :mkview</code>), the current state of the window (<a href="https://github.com/mhinz/vim-galore/blob/master/and">https://github.com/mhinz/vim-galore/blob/master/and</a>
+<p>If you save a <strong>view</strong> (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>:h :mkview</code>), the current state of the window (and
 options and mappings) gets saved for later use (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>:h :loadview</code>).</p>
 <p>A <strong>session</strong> saves the views of all windows plus global settings. It basically
 makes a snapshot of your current Vim instance and saves it in a session file.
@@ -9679,7 +9679,7 @@ within that file.</p>
 <p>A few simple rules:</p>
 <ul>
 <li>options are enclosed in single quotes, e.g. <code>:h 'textwidth'</code></li>
-<li>VimL functions end in <code>(https://github.com/mhinz/vim-galore/blob/master/)</code>, e.g. <code>:h reverse(https://github.com/mhinz/vim-galore/blob/master/)</code></li>
+<li>VimL functions end in <code>()</code>, e.g. <code>:h reverse()</code></li>
 <li>commands start with <code>:</code>, e.g. <code>:h :echo</code></li>
 </ul>
 <p>You can use <code>&lt;c-d&gt;</code> (<a href="https://github.com/mhinz/vim-galore/blob/master/this">https://github.com/mhinz/vim-galore/blob/master/this</a> is <kbd>ctrl</kbd>+<kbd>d</kbd>) to list all tags that
@@ -9900,7 +9900,7 @@ with a Vim that doesn't have GUI support.</p>
 time?)</a></p>
 <h3 id="clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterwindows-macos">Clipboard usage (<a href="https://github.com/mhinz/vim-galore/blob/master/Windows">https://github.com/mhinz/vim-galore/blob/master/Windows</a>, macOS)<a class="headerlink" href="#clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterwindows-macos" title="Permanent link">&para;</a></h3>
 <p>Windows comes with a
-<a href="https://github.com/mhinz/vim-galore/blob/master/https://msdn.microsoft.com/en-us/library/windows/desktop/ms649012(https://github.com/mhinz/vim-galore/blob/master/v=vs.85).aspx">clipboard</a>
+<a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms649012(v=vs.85).aspx">clipboard</a>
 and macOS comes with a
 <a href="https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/PasteboardGuide106/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008100-SW1">pasteboard</a>.</p>
 <p>Both work like most users would expect them to work. You copy selected text with
@@ -10008,7 +10008,7 @@ your chosen X selection.</p>
 Fortunately the viminfo file remembers <a href="#marks">marks</a>. The <code>"</code> mark contains
 the position in the buffer where you left off.</p>
 <div class="codehilite"><pre><span></span>autocmd <span class="nb">BufReadPost</span> *
-    \ <span class="k">if</span> line<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/&quot;&#39;\&quot;&quot;) &gt; 1 &amp;&amp; line(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s2">&quot;&#39;\&quot;&quot;</span><span class="p">)</span> <span class="p">&lt;=</span> line<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/<span class="s2">&quot;$&quot;</span><span class="p">)</span> <span class="p">|</span>
+    \ <span class="k">if</span> line<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s2">&quot;&#39;\&quot;&quot;</span><span class="p">)</span> <span class="p">&gt;</span> <span class="m">1</span> &amp;&amp; line<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s2">&quot;&#39;\&quot;&quot;</span><span class="p">)</span> <span class="p">&lt;=</span> line<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/<span class="s2">&quot;$&quot;</span><span class="p">)</span> <span class="p">|</span>
     \   execute <span class="s2">&quot;normal! g`\&quot;&quot;</span> <span class="p">|</span>
     \ <span class="k">endif</span>
 </pre></div>
@@ -10208,7 +10208,7 @@ directory, use <code>:!ls</code>. Use <code>|</code> for piping in the shell as 
 sort | tail -n5</code>.</p>
 <p>Without a range, the output of <code>:!</code> will be shown in a scrollable window. On the
 other hand, if a range is given, these lines will be
-<a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Filter_(https://github.com/mhinz/vim-galore/blob/master/software)">filtered</a>. This means they
+<a href="https://en.wikipedia.org/wiki/Filter_(software)">filtered</a>. This means they
 will be piped to the
 <a href="https://en.wikipedia.org/wiki/Standard_streams#Standard_input_.28stdin.29">stdin</a>
 of the filter program and after processing be replaced by the
@@ -10474,8 +10474,8 @@ diff mode:</p>
 
 <p>These mappings also take a count, so <code>2]e</code> moves the current line 2 lines below.</p>
 <h2 id="quickly-add-empty-lines">Quickly add empty lines<a class="headerlink" href="#quickly-add-empty-lines" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span><span class="nb">nnoremap</span> [<span class="p">&lt;</span>space<span class="p">&gt;</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;</span><span class="k">put</span><span class="p">!</span> <span class="p">=</span>repeat<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/nr2char(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="m">10</span><span class="p">),</span> <span class="k">v</span>:count1<span class="p">)&lt;</span><span class="k">cr</span><span class="p">&gt;</span>&#39;[
-<span class="nb">nnoremap</span> ]<span class="p">&lt;</span>space<span class="p">&gt;</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;</span><span class="k">put</span> <span class="p">=</span>repeat<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/nr2char(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="m">10</span><span class="p">),</span> <span class="k">v</span>:count1<span class="p">)&lt;</span><span class="k">cr</span><span class="p">&gt;</span>
+<div class="codehilite"><pre><span></span><span class="nb">nnoremap</span> [<span class="p">&lt;</span>space<span class="p">&gt;</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;</span><span class="k">put</span><span class="p">!</span> <span class="p">=</span>repeat<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/nr2char<span class="p">(</span><span class="m">10</span><span class="p">),</span> <span class="k">v</span>:count1<span class="p">)&lt;</span><span class="k">cr</span><span class="p">&gt;</span>&#39;[
+<span class="nb">nnoremap</span> ]<span class="p">&lt;</span>space<span class="p">&gt;</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;</span><span class="k">put</span> <span class="p">=</span>repeat<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/nr2char<span class="p">(</span><span class="m">10</span><span class="p">),</span> <span class="k">v</span>:count1<span class="p">)&lt;</span><span class="k">cr</span><span class="p">&gt;</span>
 </pre></div>
 
 <p>Now <code>5[&lt;space&gt;</code> inserts 5 blank lines above the current line.</p>
@@ -10484,7 +10484,7 @@ diff mode:</p>
 it in the cmdline-window. Hit <code>&lt;cr&gt;</code> when you're done editing for setting the
 register.</p>
 <p>I often use this to correct typos I did while recording a macro.</p>
-<div class="codehilite"><pre><span></span><span class="nb">nnoremap</span> <span class="p">&lt;</span>leader<span class="p">&gt;</span><span class="k">m</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">r</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">r</span><span class="p">&gt;=</span><span class="s1">&#39;let @&#39;</span>. <span class="k">v</span>:<span class="k">register</span> .<span class="s1">&#39; = &#39;</span>. string<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/getreg(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="k">v</span>:<span class="k">register</span><span class="p">))&lt;</span><span class="k">cr</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">f</span><span class="p">&gt;&lt;</span><span class="k">left</span><span class="p">&gt;</span>
+<div class="codehilite"><pre><span></span><span class="nb">nnoremap</span> <span class="p">&lt;</span>leader<span class="p">&gt;</span><span class="k">m</span>  :<span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">u</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">r</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">r</span><span class="p">&gt;=</span><span class="s1">&#39;let @&#39;</span>. <span class="k">v</span>:<span class="k">register</span> .<span class="s1">&#39; = &#39;</span>. string<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/getreg<span class="p">(</span><span class="k">v</span>:<span class="k">register</span><span class="p">))&lt;</span><span class="k">cr</span><span class="p">&gt;&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">f</span><span class="p">&gt;&lt;</span><span class="k">left</span><span class="p">&gt;</span>
 </pre></div>
 
 <p>Use it like this <code>&lt;leader&gt;m</code> or <code>"q&lt;leader&gt;m</code>.</p>
@@ -10502,8 +10502,8 @@ autocmd <span class="nb">BufLeave</span> *.<span class="k">h</span>       mark H
 viminfo?</code> includes <code>:h viminfo-'</code>.</p>
 <h2 id="quickly-change-font-size-in-gui">Quickly change font size in GUI<a class="headerlink" href="#quickly-change-font-size-in-gui" title="Permanent link">&para;</a></h2>
 <p>I think this was taken from tpope's config:</p>
-<div class="codehilite"><pre><span></span>command<span class="p">!</span> Bigger  :<span class="k">let</span> &amp;<span class="nb">guifont</span> <span class="p">=</span> substitute<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/&amp;guifont, &#39;\d\+$&#39;, &#39;\=submatch(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="m">0</span><span class="p">)+</span><span class="m">1</span><span class="s1">&#39;, &#39;</span>&#39;<span class="p">)</span>
-command<span class="p">!</span> Smaller :<span class="k">let</span> &amp;<span class="nb">guifont</span> <span class="p">=</span> substitute<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/&amp;guifont, &#39;\d\+$&#39;, &#39;\=submatch(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="m">0</span><span class="p">)</span><span class="m">-1</span><span class="s1">&#39;, &#39;</span>&#39;<span class="p">)</span>
+<div class="codehilite"><pre><span></span>command<span class="p">!</span> Bigger  :<span class="k">let</span> &amp;<span class="nb">guifont</span> <span class="p">=</span> substitute<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/&amp;<span class="nb">guifont</span><span class="p">,</span> <span class="s1">&#39;\d\+$&#39;</span><span class="p">,</span> <span class="s1">&#39;\=submatch(0)+1&#39;</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">)</span>
+command<span class="p">!</span> Smaller :<span class="k">let</span> &amp;<span class="nb">guifont</span> <span class="p">=</span> substitute<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/&amp;<span class="nb">guifont</span><span class="p">,</span> <span class="s1">&#39;\d\+$&#39;</span><span class="p">,</span> <span class="s1">&#39;\=submatch(0)-1&#39;</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">)</span>
 </pre></div>
 
 <h2 id="change-cursor-style-dependent-on-mode">Change cursor style dependent on mode<a class="headerlink" href="#change-cursor-style-dependent-on-mode" title="Permanent link">&para;</a></h2>
@@ -10603,7 +10603,7 @@ mapping for "j" due to the "!").</p>
 prepend "abc" to every line.</p>
 <p>With <code>:execute</code> you can mix commands with expressions. Assume you edit a C
 source file and want to switch to its header file:</p>
-<div class="codehilite"><pre><span></span><span class="p">:</span>execute <span class="s1">&#39;edit&#39;</span> fnamemodify<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master<span class="sr">/expand(https://github.com/</span>mhinz<span class="sr">/vim-galore/</span>blob<span class="sr">/master/</span><span class="s1">&#39;%&#39;</span><span class="p">),</span> <span class="s1">&#39;:r&#39;</span><span class="p">)</span> . <span class="s1">&#39;.h&#39;</span>
+<div class="codehilite"><pre><span></span><span class="p">:</span>execute <span class="s1">&#39;edit&#39;</span> fnamemodify<span class="p">(</span>https:<span class="sr">//</span>github.<span class="k">com</span><span class="sr">/mhinz/</span><span class="k">vim</span><span class="p">-</span>galore<span class="sr">/blob/</span>master/expand<span class="p">(</span><span class="s1">&#39;%&#39;</span><span class="p">),</span> <span class="s1">&#39;:r&#39;</span><span class="p">)</span> . <span class="s1">&#39;.h&#39;</span>
 </pre></div>
 
 <p>Both commands are often used together. Assume you want to make the cursor go
@@ -10639,7 +10639,7 @@ can redirect to files, <a href="#registers">registers</a> or variables.</p>
 </pre></div>
 
 <p>This will start Vim without vimrc (<a href="https://github.com/mhinz/vim-galore/blob/master/thus">https://github.com/mhinz/vim-galore/blob/master/thus</a> default settings) and in nocompatible
-mode (<a href="https://github.com/mhinz/vim-galore/blob/master/which">https://github.com/mhinz/vim-galore/blob/master/which</a> makes it use Vim defaults instead of vi defaults). (<a href="https://github.com/mhinz/vim-galore/blob/master/See">https://github.com/mhinz/vim-galore/blob/master/See</a> <code>:h
+mode (<a href="https://github.com/mhinz/vim-galore/blob/master/which">https://github.com/mhinz/vim-galore/blob/master/which</a> makes it use Vim defaults instead of vi defaults). (See <code>:h
 --noplugin</code> for other combinations of what to load at start.)</p>
 <p>If you can still reproduce it now, it's most likely a bug in Vim itself! Report
 it to the <a href="https://groups.google.com/forum/#!forum/vim_dev">vim_dev</a> mailing
@@ -10757,7 +10757,7 @@ you're not interested in.) See <code>:h :breakadd</code>, <code>:h :breakdel</co
 <span class="c">&quot; line 3: endif</span>
 <span class="p">&gt;</span>
 <span class="c">&quot; function sy#start</span>
-<span class="c">&quot; line 5: let sy_path = resolve(https://github.com/mhinz/vim-galore/blob/master/expand(https://github.com/mhinz/vim-galore/blob/master/&#39;%:p&#39;))</span>
+<span class="c">&quot; line 5: let sy_path = resolve(https://github.com/mhinz/vim-galore/blob/master/expand(&#39;%:p&#39;))</span>
 <span class="p">&gt;</span><span class="k">q</span>
 <span class="p">:</span><span class="k">breakdel</span> *
 </pre></div>
@@ -10794,7 +10794,7 @@ even match.</p>
 <td>By Bram Moolenaar, the author of Vim.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/mhinz/vim-galore/blob/master/http://www.moolenaar.net/habits_2007.pdf">Seven habits of effective text editing 2.0 (https://github.com/mhinz/vim-galore/blob/master/PDF)</a></td>
+<td><a href="http://www.moolenaar.net/habits_2007.pdf">Seven habits of effective text editing 2.0 (https://github.com/mhinz/vim-galore/blob/master/PDF)</a></td>
 <td>See above.</td>
 </tr>
 <tr>
@@ -10806,7 +10806,7 @@ even match.</p>
 <td>Develop a Vim plugin from scratch.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/mhinz/vim-galore/blob/master/http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/">Practical Vim (https://github.com/mhinz/vim-galore/blob/master/2<sup>nd</sup> Edition)</a></td>
+<td><a href="http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/">Practical Vim (https://github.com/mhinz/vim-galore/blob/master/2<sup>nd</sup> Edition)</a></td>
 <td>Hands down the best book about Vim.</td>
 </tr>
 <tr>
@@ -10992,7 +10992,7 @@ encoding and font.</p>
 </tr>
 <tr>
 <td><code>:help!</code></td>
-<td><code>E478: Don't panic!</code> (<a href="https://github.com/mhinz/vim-galore/blob/master/Glitch">https://github.com/mhinz/vim-galore/blob/master/Glitch</a>? When used in a help buffer (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>buftype=help</code>) this works like <code>:h help.txt</code> instead.)</td>
+<td><code>E478: Don't panic!</code> (<a href="https://github.com/mhinz/vim-galore/blob/master/Glitch">https://github.com/mhinz/vim-galore/blob/master/Glitch</a>? When used in a help buffer (<code>buftype=help</code>) this works like <code>:h help.txt</code> instead.)</td>
 </tr>
 <tr>
 <td><code>:smile</code></td>
@@ -11012,7 +11012,7 @@ but used, you might already guessed it, hjkl instead.</p>
 <p>There are two things which can have a huge impact on performance:</p>
 <ol>
 <li>Complex <strong>regular expressions</strong>. Particular the Ruby syntax file caused
-   people to have slowdowns in the past. (<a href="https://github.com/mhinz/vim-galore/blob/master/Also">https://github.com/mhinz/vim-galore/blob/master/Also</a> see <a href="https://github.com/mhinz/vim-galore/blob/master/#debugging-syntax-files">Debugging syntax files</a>.)</li>
+   people to have slowdowns in the past. (<a href="https://github.com/mhinz/vim-galore/blob/master/Also">https://github.com/mhinz/vim-galore/blob/master/Also</a> see <a href="#debugging-syntax-files">Debugging syntax files</a>.)</li>
 <li><strong>Screen redraws</strong>. Some features force all lines to redraw.</li>
 </ol>
 <table>
@@ -11061,7 +11061,7 @@ drawbacks. In most cases using the things mentioned above is absolutely fine.</p
 <h2 id="editing-huge-files-is-slow">Editing huge files is slow<a class="headerlink" href="#editing-huge-files-is-slow" title="Permanent link">&para;</a></h2>
 <p>The biggest issue with big files is, that Vim reads the whole file at once. This
 is done due to how buffers are represented internally.
-(<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><a href="https://github.com/mhinz/vim-galore/blob/master/https://groups.google.com/forum/#!topic/vim_dev/oY3i8rqYGD4/discussion">Discussion on vim_dev@</a>)</p>
+(<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><a href="https://groups.google.com/forum/#!topic/vim_dev/oY3i8rqYGD4/discussion">Discussion on vim_dev@</a>)</p>
 <p>If you only want to read, <code>tail hugefile | vim -</code> is a good workaround.</p>
 <p>If you can live without syntax, settings and plugins for the moment:</p>
 <div class="codehilite"><pre><span></span>$ vim -u NONE -N
@@ -11103,7 +11103,7 @@ emulator</em> like xterm, gnome-terminal, iTerm2, etc. (opposed to a real
 sequences</a> (or <em>control
 sequences</em>) to control things like moving the cursor, changing text colors, etc.
 They're simply strings of ASCII characters starting with an escape character
-(<a href="https://github.com/mhinz/vim-galore/blob/master/displayed">https://github.com/mhinz/vim-galore/blob/master/displayed</a> in <a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/Caret_notation">caret notation</a> as
+(<a href="https://github.com/mhinz/vim-galore/blob/master/displayed">https://github.com/mhinz/vim-galore/blob/master/displayed</a> in <a href="https://en.wikipedia.org/wiki/Caret_notation">caret notation</a> as
 <code>^[</code>). When such a string arrives, the terminal emulator looks up the
 accompanying action in the <a href="https://en.wikipedia.org/wiki/Terminfo">terminfo</a>
 database.</p>

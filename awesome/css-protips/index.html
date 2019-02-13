@@ -7371,7 +7371,7 @@
 <li><a href="#use-a-css-reset">Use a CSS Reset</a></li>
 <li><a href="#inherit-box-sizing">Inherit <code>box-sizing</code></a></li>
 <li><a href="#use-unset-instead-of-resetting-all-properties">Use <code>unset</code> Instead of Resetting All Properties</a></li>
-<li><a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation">Use <code>:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)</code> to Apply/Unapply Borders on Navigation</a></li>
+<li><a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation">Use <code>:not()</code> to Apply/Unapply Borders on Navigation</a></li>
 <li><a href="#add-line-height-to-body">Add <code>line-height</code> to <code>body</code></a></li>
 <li><a href="#set-focus-for-form-elements">Set <code>:focus</code> for Form Elements</a></li>
 <li><a href="#vertically-center-anything">Vertically-Center Anything</a></li>
@@ -7544,9 +7544,9 @@
 <span class="p">}</span>
 </pre></div>
 
-<p>Or, since you've already learned a little about <a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation">using <code>:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)</code></a>, try:</p>
+<p>Or, since you've already learned a little about <a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation">using <code>:not()</code></a>, try:</p>
 <div class="codehilite"><pre><span></span><span class="c">/* select all items except the first 3 and display them */</span>
-<span class="nt">li</span><span class="p">:</span><span class="nd">not</span><span class="o">(</span><span class="nt">https</span><span class="o">://</span><span class="nt">github</span><span class="p">.</span><span class="nc">com</span><span class="o">/</span><span class="nt">AllThingsSmitty</span><span class="o">/</span><span class="nt">css-protips</span><span class="o">/</span><span class="nt">blob</span><span class="o">/</span><span class="nt">master</span><span class="o">/</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">https</span><span class="o">://</span><span class="nt">github</span><span class="p">.</span><span class="nc">com</span><span class="o">/</span><span class="nt">AllThingsSmitty</span><span class="o">/</span><span class="nt">css-protips</span><span class="o">/</span><span class="nt">blob</span><span class="o">/</span><span class="nt">master</span><span class="o">/</span><span class="nt">-n</span><span class="o">+</span><span class="nt">3</span><span class="o">))</span> <span class="p">{</span>
+<span class="nt">li</span><span class="p">:</span><span class="nd">not</span><span class="o">(</span><span class="nt">https</span><span class="o">://</span><span class="nt">github</span><span class="p">.</span><span class="nc">com</span><span class="o">/</span><span class="nt">AllThingsSmitty</span><span class="o">/</span><span class="nt">css-protips</span><span class="o">/</span><span class="nt">blob</span><span class="o">/</span><span class="nt">master</span><span class="o">/</span><span class="p">:</span><span class="nd">nth-child</span><span class="o">(</span><span class="nt">-n</span><span class="o">+</span><span class="nt">3</span><span class="o">))</span> <span class="p">{</span>
   <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
 <span class="p">}</span>
 </pre></div>
@@ -7556,7 +7556,7 @@
 <h3 id="use-svg-for-icons">Use SVG for Icons<a class="headerlink" href="#use-svg-for-icons" title="Permanent link">&para;</a></h3>
 <p>There's no reason not to use SVG for icons:</p>
 <div class="codehilite"><pre><span></span><span class="p">.</span><span class="nc">logo</span> <span class="p">{</span>
-  <span class="k">background</span><span class="p">:</span> <span class="nb">url</span><span class="p">(</span><span class="sx">https://github.com/AllThingsSmitty/css-protips/blob/master/&quot;logo.svg&quot;</span><span class="p">);</span>
+  <span class="k">background</span><span class="p">:</span> <span class="nb">url</span><span class="p">(</span><span class="sx">https://raw.githubusercontent.com/AllThingsSmitty/css-protips/master/&quot;logo.svg?sanitize=true&quot;</span><span class="p">);</span>
 <span class="p">}</span>
 </pre></div>
 
@@ -7729,7 +7729,7 @@
 <span class="p">}</span>
 </pre></div>
 
-<p>Once again, we're taking advantage of using the <a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation"><code>:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)</code></a> pseudo-class.</p>
+<p>Once again, we're taking advantage of using the <a href="https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation"><code>:not()</code></a> pseudo-class.</p>
 <p><sup><a href="#table-of-contents">back to table of contents</a></sup></p>
 <h3 id="use-root-for-flexible-type">Use <code>:root</code> for Flexible Type<a class="headerlink" href="#use-root-for-flexible-type" title="Permanent link">&para;</a></h3>
 <p>The type font size in a responsive layout should be able to adjust with each viewport. You can calculate the font size based on the viewport height and width using <code>:root</code>:</p>
