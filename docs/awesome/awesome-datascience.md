@@ -40,8 +40,8 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 Preview | Description
 ------------ | -------------
-[<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://www.datacamp.com) [(https://github.com/bulutyazilim/awesome-datascience/blob/master/img)](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
-[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](https://github.com/bulutyazilim/awesome-datascience/blob/master/http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills (https://github.com/bulutyazilim/awesome-datascience/blob/master/[img](https://github.com/bulutyazilim/awesome-datascience/blob/master/http://i.imgur.com/FxsL3b8.png))
+[<https://github.com/bulutyazilim/awesome-datascience/blob/master/img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(https://github.com/bulutyazilim/awesome-datascience/blob/master/img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
+[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills (https://raw.githubusercontent.com/bulutyazilim/awesome-datascience/master/[img](http://i.imgur.com/FxsL3b8.png))
 [<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
 [<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
 [<img src="http://i.imgur.com/bM7g2co.png" width="150" />](http://i.imgur.com/4e705Q4.png) | And a male version, from another article by [MarketingDistillery.com](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
@@ -135,11 +135,11 @@ Preview | Description
 * [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 * [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
 * [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
-* [grouplens.org](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://grouplens.org/datasets/) Sample movie (https://github.com/bulutyazilim/awesome-datascience/blob/master/with ratings), book and wiki datasets
+* [grouplens.org](https://grouplens.org/datasets/) Sample movie (https://github.com/bulutyazilim/awesome-datascience/blob/master/with ratings), book and wiki datasets
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 * [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 * [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
-* [ClimateData.us](https://github.com/bulutyazilim/awesome-datascience/blob/master/http://www.climatedata.us/) (https://github.com/bulutyazilim/awesome-datascience/blob/master/related: [U.S. Climate Resilience Toolkit](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://toolkit.climate.gov/))
+* [ClimateData.us](http://www.climatedata.us/) (https://github.com/bulutyazilim/awesome-datascience/blob/master/related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 * [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
@@ -163,7 +163,7 @@ Preview | Description
 * [GHTorrent](http://ghtorrent.org/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [Open Government Data Platform India](https://data.gov.in/)
-* [Google Dataset Search (https://github.com/bulutyazilim/awesome-datascience/blob/master/beta)](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://toolbox.google.com/datasetsearch)
+* [Google Dataset Search (https://github.com/bulutyazilim/awesome-datascience/blob/master/beta)](https://toolbox.google.com/datasetsearch)
 
 ## Bloggers
 
@@ -311,7 +311,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 ## Twitter Accounts
 
 - [Big Data Combine](https://twitter.com/BigDataCombine) - Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies
-- [Big Data Mania](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (https://github.com/bulutyazilim/awesome-datascience/blob/master/2015)
+- [Big Data Mania](https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (https://github.com/bulutyazilim/awesome-datascience/blob/master/2015)
 - [Big Data Science](https://twitter.com/analyticbridge) - Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research.
 - [Charlie Greenbacker](https://twitter.com/greenbacker) - Director of Data Science at @ExploreAltamira
 - [Chris Said](https://twitter.com/Chris_Said) - Data scientist at Twitter
@@ -345,7 +345,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
-- [Mark Stevenson](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (https://github.com/bulutyazilim/awesome-datascience/blob/master/@SaltJobs) | Analytics - Insight - Big Data - Datascience
+- [Mark Stevenson](https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (https://github.com/bulutyazilim/awesome-datascience/blob/master/@SaltJobs) | Analytics - Insight - Big Data - Datascience
 - [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) Data Scientist at BizQualify, Developer
@@ -368,8 +368,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Terry Timko](https://twitter.com/Terry_Timko) - InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence
 - [Tony Baer](https://twitter.com/TonyBaer) - IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in.
 - [Tony Ojeda](https://twitter.com/tonyojeda3) - Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC
-- [Vamshi Ambati](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (https://github.com/bulutyazilim/awesome-datascience/blob/master/Blog: https://allthingsds.wordpress.com )
-- [Wes McKinney](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://twitter.com/wesmckinn) - Pandas (https://github.com/bulutyazilim/awesome-datascience/blob/master/Python Data Analysis library).
+- [Vamshi Ambati](https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (https://github.com/bulutyazilim/awesome-datascience/blob/master/Blog: https://allthingsds.wordpress.com )
+- [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (https://github.com/bulutyazilim/awesome-datascience/blob/master/Python Data Analysis library).
 - [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
 @SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | https://www.skymind.ai/
@@ -383,7 +383,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
  - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
- - [Neural Nets for Newbies by Melanie Warrick (https://github.com/bulutyazilim/awesome-datascience/blob/master/May 2015)](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://www.youtube.com/watch?v=Cu6A96TUy_o)
+ - [Neural Nets for Newbies by Melanie Warrick (https://github.com/bulutyazilim/awesome-datascience/blob/master/May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
@@ -408,12 +408,12 @@ We are more than 3,190 data scientists and data geeks in our community.
 Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Datadog](https://www.datadoghq.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
- * [Kite Development Kit](https://github.com/bulutyazilim/awesome-datascience/blob/master/http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (https://github.com/bulutyazilim/awesome-datascience/blob/master/Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
+ * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (https://github.com/bulutyazilim/awesome-datascience/blob/master/Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
  * [Domino Data Labs](http://www.dominodatalab.com) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](http://flink.apache.org/) A platform for efficient, distributed, general-purpose data processing.
  * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
- * [Octave](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(https://github.com/bulutyazilim/awesome-datascience/blob/master/Free Matlab)
+ * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(https://github.com/bulutyazilim/awesome-datascience/blob/master/Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
  * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
@@ -434,7 +434,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 * [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
 * [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.
-* [Lambdo](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (https://github.com/bulutyazilim/awesome-datascience/blob/master/i) feature engineering and machine learning (https://github.com/bulutyazilim/awesome-datascience/blob/master/ii) model training and prediction (https://github.com/bulutyazilim/awesome-datascience/blob/master/iii) table population and column evaluation.
+* [Lambdo](https://ghttps://github.com/bulutyazilim/awesome-datascience/blob/master/ithub.com/asavhttps://github.com/bulutyazilim/awesome-datascience/blob/master/inov/lambdo) https://github.com/bulutyazilim/awesome-datascience/blob/master/is a workflow enghttps://github.com/bulutyazilim/awesome-datascience/blob/master/ine whhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ich shttps://github.com/bulutyazilim/awesome-datascience/blob/master/ignhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ifhttps://github.com/bulutyazilim/awesome-datascience/blob/master/icantly shttps://github.com/bulutyazilim/awesome-datascience/blob/master/implhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ifhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ies data analyshttps://github.com/bulutyazilim/awesome-datascience/blob/master/is by combhttps://github.com/bulutyazilim/awesome-datascience/blob/master/inhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ing https://github.com/bulutyazilim/awesome-datascience/blob/master/in one analyshttps://github.com/bulutyazilim/awesome-datascience/blob/master/is phttps://github.com/bulutyazilim/awesome-datascience/blob/master/ipelhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ine (https://github.com/bulutyazilim/awesome-datascience/blob/master/i) feature enghttps://github.com/bulutyazilim/awesome-datascience/blob/master/ineerhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ing and machhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ine learnhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ing (https://github.com/bulutyazilim/awesome-datascience/blob/master/ihttps://github.com/bulutyazilim/awesome-datascience/blob/master/i) model trahttps://github.com/bulutyazilim/awesome-datascience/blob/master/inhttps://github.com/bulutyazilim/awesome-datascience/blob/master/ing and predhttps://github.com/bulutyazilim/awesome-datascience/blob/master/icthttps://github.com/bulutyazilim/awesome-datascience/blob/master/ion (https://github.com/bulutyazilim/awesome-datascience/blob/master/ihttps://github.com/bulutyazilim/awesome-datascience/blob/master/ihttps://github.com/bulutyazilim/awesome-datascience/blob/master/i) table populathttps://github.com/bulutyazilim/awesome-datascience/blob/master/ion and column evaluathttps://github.com/bulutyazilim/awesome-datascience/blob/master/ion.
 * [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
@@ -447,7 +447,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [cartodb](http://cartodb.github.io/odyssey.js/)
  * [Cube](http://square.github.io/cube/)
  * [d3plus](http://d3plus.org/)
- * [Data-Driven Documents(https://github.com/bulutyazilim/awesome-datascience/blob/master/D3js)](https://github.com/bulutyazilim/awesome-datascience/blob/master/https://d3js.org/)
+ * [Data-Driven Documents(https://github.com/bulutyazilim/awesome-datascience/blob/master/D3js)](https://d3js.org/)
  * [datahero](https://datahero.com/)
  * [dygraphs](http://dygraphs.com/)
  * [ECharts](http://echarts.baidu.com/index-en.html)

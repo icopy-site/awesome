@@ -109,8 +109,8 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Videos
 
-- [Efficient, Expressive, and Extensible HTML Templates (https://github.com/web-padawan/awesome-lit-html/blob/master/Polymer Summit 2017)](https://github.com/web-padawan/awesome-lit-html/blob/master/https://www.youtube.com/watch?v=ruql541T7gc)
-- [lit-HTML (https://github.com/web-padawan/awesome-lit-html/blob/master/Chrome Dev Summit 2017)](https://github.com/web-padawan/awesome-lit-html/blob/master/https://www.youtube.com/watch?v=Io6JjgckHbg)
+- [Efficient, Expressive, and Extensible HTML Templates (https://github.com/web-padawan/awesome-lit-html/blob/master/Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
+- [lit-HTML (https://github.com/web-padawan/awesome-lit-html/blob/master/Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 
 ## Podcasts

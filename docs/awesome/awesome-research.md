@@ -87,7 +87,7 @@ First things first, everyone should know version control systems. Version contro
 #### Online Git Service
 
 * [GitHub](https://github.com/): No description needed.
-* [BitBucket](https://github.com/emptymalei/awesome-research/blob/master/https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (https://github.com/emptymalei/awesome-research/blob/master/up to 5 users).
+* [BitBucket](https://bitbucket.org): Alternative to GitHub with free private repositories for small teams (https://github.com/emptymalei/awesome-research/blob/master/up to 5 users).
 * [GitLab](https://about.gitlab.com/): Similar to GitHub and BitBucket, can be both cloud-based and self-hosted. It includes
   unlimited free private repositories, issue tracker and a continuous integration tool.
 
@@ -108,25 +108,25 @@ First things first, everyone should know version control systems. Version contro
 Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to gain efficiency and probably health.
 
 
-* [Pomotodo](https://github.com/emptymalei/awesome-research/blob/master/https://pomotodo.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
-* [Tadam](https://github.com/emptymalei/awesome-research/blob/master/https://tadamapp.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
-* [Productivity Challenge Timer](https://github.com/emptymalei/awesome-research/blob/master/https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (https://github.com/emptymalei/awesome-research/blob/master/`Android`): Pomodoro timer with great gamification features [Free].
+* [Pomotodo](https://pomotodo.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
+* [Tadam](https://tadamapp.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
+* [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (https://github.com/emptymalei/awesome-research/blob/master/`Android`): Pomodoro timer with great gamification features [Free].
 
 
 ### GTD-Task Manager
 
 The GTD (https://github.com/emptymalei/awesome-research/blob/master/Getting Things Done) method rests on the idea of moving planned tasks and projects out of the mind by
 recording them externally and then breaking them into actionable work items. This allows one to focus attention on
-taking action on tasks, instead of on recalling them (https://github.com/emptymalei/awesome-research/blob/master/[Wikipedia](https://github.com/emptymalei/awesome-research/blob/master/https://en.wikipedia.org/wiki/Getting_Things_Done)).
-Tasks can be classified in contexts (https://github.com/emptymalei/awesome-research/blob/master/@home, @computer, @office, etc), time of action (https://github.com/emptymalei/awesome-research/blob/master/now, next actions, scheduled or
+taking action on tasks, instead of on recalling them (https://github.com/emptymalei/awesome-research/blob/master/[Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
+Tasks can be classified in contexts (https://github.com/emptymalei/awesome-research/blob/master/@home, @computer, @office, etc), time of action (now, next actions, scheduled or
 someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic guide to GTD and
 [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) a flowchart.
 
-* [Wunderlist](https://github.com/emptymalei/awesome-research/blob/master/https://www.wunderlist.com) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
-* [Evernote](https://github.com/emptymalei/awesome-research/blob/master/https://evernote.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
-* [Anydo](https://github.com/emptymalei/awesome-research/blob/master/https://www.any.do/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
-* [Todoist](https://github.com/emptymalei/awesome-research/blob/master/https://todoist.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
-* [Taskade](https://github.com/emptymalei/awesome-research/blob/master/https://taskade.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
+* [Wunderlist](https://www.wunderlist.com) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`,`Chrome OS`): Almost perfect todo lists with cooperation and sharing.
+* [Evernote](https://evernote.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Win Store`): Not so lightweight but still very good for managing life especially since it has got a lot of integrations from a lot of other services.
+* [Anydo](https://www.any.do/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Android`,`iOS`): Good because it has a very good daily review which can help users remember what to do.
+* [Todoist](https://todoist.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
+* [Taskade](https://taskade.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
 
 
@@ -139,7 +139,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 
 Coding/Numerical calculation/Analytical derivation online.
 
-* [CoCalc (https://github.com/emptymalei/awesome-research/blob/master/SageMathCloud)](https://github.com/emptymalei/awesome-research/blob/master/https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
+* [CoCalc (https://github.com/emptymalei/awesome-research/blob/master/SageMathCloud)](https://cocalc.com/): LaTeX, R, iPython Notebook, etc.
 * [PiCloud](http://picloud.com): Python, but it was acquired by Dropbox and has been shut down. The new site is [Multyvac](http://www.multyvac.com/).
 * [Multyvac](https://www.multyvac.com/): Kind of the successor of PiCloud but will be more powerful for sure.
 * [WolframAlpha](https://www.wolframalpha.com/): Excellent engine to do mathematical derivation online and search.
@@ -161,34 +161,34 @@ Nature hosts a list of recommended data repositories [here](https://www.nature.c
 
 #### General and Interdisciplinary
 
-* [DRYAD](https://github.com/emptymalei/awesome-research/blob/master/http://datadryad.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Storage`, `Lookup`): The Dryad Digital Repository stores curated data.
-* [Figshare](https://github.com/emptymalei/awesome-research/blob/master/https://figshare.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Storage`, `Lookup`): Data sharing and storage
-* [Data.gov](https://github.com/emptymalei/awesome-research/blob/master/https://data.gov) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Data by US Federal Government
+* [DRYAD](http://datadryad.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Storage`, `Lookup`): The Dryad Digital Repository stores curated data.
+* [Figshare](https://figshare.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Storage`, `Lookup`): Data sharing and storage
+* [Data.gov](https://data.gov) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Data by US Federal Government
 
 #### Life Science
 
-* [GenBank](https://github.com/emptymalei/awesome-research/blob/master/https://www.ncbi.nlm.nih.gov/genbank/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Genetic sequence database
-* [National Centers for Environmental Information](https://github.com/emptymalei/awesome-research/blob/master/https://www.ncei.noaa.gov/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Weather, climate, coasts, oceans, and geophysics etc
-* [GEOSS Portal](https://github.com/emptymalei/awesome-research/blob/master/http://www.geoportal.org) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Earth science data
+* [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Genetic sequence database
+* [National Centers for Environmental Information](https://www.ncei.noaa.gov/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Weather, climate, coasts, oceans, and geophysics etc
+* [GEOSS Portal](http://www.geoportal.org) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Earth science data
 
 #### Physical Sciences
 
-* [US Virtual Astronomical Observatory](https://github.com/emptymalei/awesome-research/blob/master/http://www.usvao.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
-* [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://github.com/emptymalei/awesome-research/blob/master/https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
-* [Mikulski Archive for Space Telescopes](https://github.com/emptymalei/awesome-research/blob/master/http://archive.stsci.edu/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
+* [US Virtual Astronomical Observatory](http://www.usvao.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
+* [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
+* [Mikulski Archive for Space Telescopes](http://archive.stsci.edu/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
 
 #### Arts and Humanities
 
-* [Archaeology Data Service](https://github.com/emptymalei/awesome-research/blob/master/http://archaeologydataservice.ac.uk/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Certified repository
+* [Archaeology Data Service](http://archaeologydataservice.ac.uk/) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Certified repository
 
 #### Engineering
 
-* [Open Energy Information (https://github.com/emptymalei/awesome-research/blob/master/OpenEI)](https://github.com/emptymalei/awesome-research/blob/master/http://en.openei.org/wiki/Main_Page) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Wiki of collections of energy information
+* [Open Energy Information (https://github.com/emptymalei/awesome-research/blob/master/OpenEI)](http://en.openei.org/wiki/Main_Page) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`): Wiki of collections of energy information
 
 #### Social Sciences
 
-* [Inter-university Consortium for Political and Social Research (https://github.com/emptymalei/awesome-research/blob/master/ICPSR)](https://github.com/emptymalei/awesome-research/blob/master/https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
-* [Institute for Quantitative Social Science (https://github.com/emptymalei/awesome-research/blob/master/IQSS)](https://github.com/emptymalei/awesome-research/blob/master/http://library.harvard.edu/gdc) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
+* [Inter-university Consortium for Political and Social Research (https://github.com/emptymalei/awesome-research/blob/master/ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
+* [Institute for Quantitative Social Science (https://github.com/emptymalei/awesome-research/blob/master/IQSS)](http://library.harvard.edu/gdc) (https://github.com/emptymalei/awesome-research/blob/master/`Lookup`)
 
 
 ### Colors
@@ -242,7 +242,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 * [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
 * [proselint](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
 * [write good](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
-* [artbollocks-mode](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (https://github.com/emptymalei/awesome-research/blob/master/or other topics).
+* [artbollocks-mode](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (https://github.com/emptymalei/awesome-research/blob/master/or other topics).
 * [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
 * [Rousseau](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
@@ -277,10 +277,10 @@ Before doing the investigation on platforms, just remind yourself:
 
 These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Wordpress](https://github.com/emptymalei/awesome-research/blob/master/https://wordpress.org/) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Very popular but requires a lot of maintenance.
-* [Ghost](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/tryghost/Ghost) (https://github.com/emptymalei/awesome-research/blob/master/`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
-* [Pico](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/picocms/Pico) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Lightweight cms, open source, no database.
-* [Dropplets](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/circa75/dropplets) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Open source, simple, and elegant blog system; write in Markdown.
+* [Wordpress](https://wordpress.org/) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Very popular but requires a lot of maintenance.
+* [Ghost](https://github.com/tryghost/Ghost) (https://github.com/emptymalei/awesome-research/blob/master/`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Pico](https://github.com/picocms/Pico) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Lightweight cms, open source, no database.
+* [Dropplets](https://github.com/circa75/dropplets) (https://github.com/emptymalei/awesome-research/blob/master/`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 
 **These Blog/CMS software can be hosted on [Digital Ocean](https://www.digitalocean.com/).**
@@ -292,13 +292,13 @@ These programs are running on the server and can be [hosted using these services
 
 [Here is a nice website](https://staticsitegenerators.net/) that tells you all the static site generators. Nonetheless here is a list of the most popular ones.
 
-* [Jekyll](https://github.com/emptymalei/awesome-research/blob/master/http://jekyllrb.com/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Ruby`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
-* [Octopress](https://github.com/emptymalei/awesome-research/blob/master/http://octopress.org/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Ruby`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
-* [Hexo](https://github.com/emptymalei/awesome-research/blob/master/https://hexo.io/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Node.js`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
-* [Pelican](https://github.com/emptymalei/awesome-research/blob/master/http://getpelican.com) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Python`)(https://github.com/emptymalei/awesome-research/blob/master/`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
+* [Jekyll](http://jekyllrb.com/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Ruby`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Jekyll is the most widely used one. The best part about Jekyll is that one just deploy to GitHub Pages by pushing the source to GitHub.
+* [Octopress](http://octopress.org/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Ruby`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
+* [Hexo](https://hexo.io/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Node.js`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
+* [Pelican](http://getpelican.com) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Python`)(https://github.com/emptymalei/awesome-research/blob/master/`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://github.com/emptymalei/awesome-research/blob/master/https://getnikola.com/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Python`)(https://github.com/emptymalei/awesome-research/blob/master/`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
-* [Hugo](https://github.com/emptymalei/awesome-research/blob/master/http://gohugo.io/)(https://github.com/emptymalei/awesome-research/blob/master/Written in `Go`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
+* [Nikola](https://getnikola.com/) (https://github.com/emptymalei/awesome-research/blob/master/Written in `Python`)(https://github.com/emptymalei/awesome-research/blob/master/`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
+* [Hugo](http://gohugo.io/)(https://github.com/emptymalei/awesome-research/blob/master/Written in `Go`)(https://github.com/emptymalei/awesome-research/blob/master/`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
 
 
@@ -317,44 +317,44 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 
 #### Markdown
 
-* [StackEdit](https://github.com/emptymalei/awesome-research/blob/master/https://stackedit.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (https://github.com/emptymalei/awesome-research/blob/master/MathJax), Google Drive, Dropbox, and GitHub.
-* [Hackmd.io](https://github.com/emptymalei/awesome-research/blob/master/https://hackmd.io) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
-* [CMD markdown](https://github.com/emptymalei/awesome-research/blob/master/https://www.zybuluo.com/mdeditor)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): CMD is a Markdown editor with math (https://github.com/emptymalei/awesome-research/blob/master/MathJax) support. What is special is that it keeps edit history. (https://github.com/emptymalei/awesome-research/blob/master/Chinese UI.)
-* [Penflip](https://github.com/emptymalei/awesome-research/blob/master/https://www.penflip.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
-* [Authorea](https://github.com/emptymalei/awesome-research/blob/master/https://www.authorea.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
-* [Dillinger](https://github.com/emptymalei/awesome-research/blob/master/http://dillinger.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Markdown editor but no math mode.
-* [Online Kramdown Editor](https://github.com/emptymalei/awesome-research/blob/master/http://kramdown.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another Markdown editor without math support.
-* [Pandoc Markdown](https://github.com/emptymalei/awesome-research/blob/master/http://pandoc.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another Markdown editor with math (https://github.com/emptymalei/awesome-research/blob/master/MathJax) support.
-* [Marxico](https://github.com/emptymalei/awesome-research/blob/master/http://marxi.co/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://github.com/emptymalei/awesome-research/blob/master/https://maxiang.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
-* [Madoko](https://github.com/emptymalei/awesome-research/blob/master/https://www.madoko.net/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
-* [Markx](https://github.com/emptymalei/awesome-research/blob/master/http://markx.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Markdown editor for scientific writing. Batteries included.
-* [typora](https://github.com/emptymalei/awesome-research/blob/master/https://www.typora.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`):  Beautiful UI and in-situ live preview.
-* [Haroopad](https://github.com/emptymalei/awesome-research/blob/master/http://pad.haroopress.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (https://github.com/emptymalei/awesome-research/blob/master/mathjax) is supported.
-* [jbt/markdown-editor](https://github.com/emptymalei/awesome-research/blob/master/http://jbt.github.io/markdown-editor/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another online Markdown editor without math support.
-* [Mou](https://github.com/emptymalei/awesome-research/blob/master/http://25.io/mou/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](https://github.com/emptymalei/awesome-research/blob/master/http://matrix.sspai.com/p/c7a3c9c0)
-* [MarkdownPad](https://github.com/emptymalei/awesome-research/blob/master/http://markdownpad.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`): If you have no bad feelings about .NET, this is pretty good.
-* [ReText](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/retext-project/retext) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
-* [Madoko](https://github.com/emptymalei/awesome-research/blob/master/https://www.madoko.net/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): **LaTeX** &times; Markdown &sup2;
-* [eme](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/egoist/eme) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): Math support.
-* [Moeditor](https://github.com/emptymalei/awesome-research/blob/master/https://moeditor.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): All purpose markdown editor.
+* [StackEdit](https://stackedit.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (https://github.com/emptymalei/awesome-research/blob/master/MathJax), Google Drive, Dropbox, and GitHub.
+* [Hackmd.io](https://hackmd.io) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
+* [CMD markdown](https://www.zybuluo.com/mdeditor)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): CMD is a Markdown editor with math (https://github.com/emptymalei/awesome-research/blob/master/MathJax) support. What is special is that it keeps edit history. (https://github.com/emptymalei/awesome-research/blob/master/Chinese UI.)
+* [Penflip](https://www.penflip.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
+* [Authorea](https://www.authorea.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
+* [Dillinger](http://dillinger.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Markdown editor but no math mode.
+* [Online Kramdown Editor](http://kramdown.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another Markdown editor without math support.
+* [Pandoc Markdown](http://pandoc.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another Markdown editor with math (https://github.com/emptymalei/awesome-research/blob/master/MathJax) support.
+* [Marxico](http://marxi.co/)(https://github.com/emptymalei/awesome-research/blob/master/https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(https://github.com/emptymalei/awesome-research/blob/master/https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
+* [Madoko](https://www.madoko.net/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
+* [Markx](http://markx.herokuapp.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Markdown editor for scientific writing. Batteries included.
+* [typora](https://www.typora.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`):  Beautiful UI and in-situ live preview.
+* [Haroopad](http://pad.haroopress.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (https://github.com/emptymalei/awesome-research/blob/master/mathjax) is supported.
+* [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another online Markdown editor without math support.
+* [Mou](http://25.io/mou/)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
+* [MarkdownPad](http://markdownpad.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`): If you have no bad feelings about .NET, this is pretty good.
+* [ReText](https://github.com/retext-project/retext) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+* [Madoko](https://www.madoko.net/) (https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): **LaTeX** &times; Markdown &sup2;
+* [eme](https://github.com/egoist/eme) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): Math support.
+* [Moeditor](https://moeditor.org/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): All purpose markdown editor.
 
 Notebook softwares that you can write in Markdown:
 
-* [boostnote](https://github.com/emptymalei/awesome-research/blob/master/https://boostnote.io/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
-* [Quiver](https://github.com/emptymalei/awesome-research/blob/master/http://happenapps.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`iOS`): Programmer's notebook, math + Markdown, code snippet.
-* [Findings](https://github.com/emptymalei/awesome-research/blob/master/http://findingsapp.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Notebook for experimentalists, organized research materials and notes.
-* [Notion](https://github.com/emptymalei/awesome-research/blob/master/https://www.notion.so/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`iOS`,`Android`): Notetaking with kanban, math, calendar, table, etc.
-* [Agenda](https://github.com/emptymalei/awesome-research/blob/master/https://agenda.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`iOS`): Notes and GTD.
+* [boostnote](https://boostnote.io/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`Linux`): Math + Markdown, with snippet note support.
+* [Quiver](http://happenapps.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`iOS`): Programmer's notebook, math + Markdown, code snippet.
+* [Findings](http://findingsapp.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): Notebook for experimentalists, organized research materials and notes.
+* [Notion](https://www.notion.so/) (https://github.com/emptymalei/awesome-research/blob/master/`Win`,`Mac`,`iOS`,`Android`): Notetaking with kanban, math, calendar, table, etc.
+* [Agenda](https://agenda.com/) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`iOS`): Notes and GTD.
 
 
 #### LaTeX
 
 
-* [ShareLaTeX](https://github.com/emptymalei/awesome-research/blob/master/https://www.sharelatex.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-* [Overleaf](https://github.com/emptymalei/awesome-research/blob/master/https://www.overleaf.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Built in version control.
-* [Authorea](https://github.com/emptymalei/awesome-research/blob/master/https://www.authorea.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
-* [Papeeria](https://github.com/emptymalei/awesome-research/blob/master/https://www.papeeria.com)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
-* [JaxEdit](https://github.com/emptymalei/awesome-research/blob/master/http://jaxedit.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
+* [ShareLaTeX](https://www.sharelatex.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
+* [Overleaf](https://www.overleaf.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Built in version control.
+* [Authorea](https://www.authorea.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
+* [Papeeria](https://www.papeeria.com)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
+* [JaxEdit](http://jaxedit.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 
 
 **You can also host one using your own machine.**
@@ -440,8 +440,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 It is important to keep your computer awake during the presentation. Instead of changing the power options, the following tools can also do the job.
 
 
-* [Caffeine](https://github.com/emptymalei/awesome-research/blob/master/https://itunes.apple.com/us/app/caffeine/id411246225) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): As simple as a single click.
-* [Amphetamine](https://github.com/emptymalei/awesome-research/blob/master/https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): More configurations involved and more intelligent.
+* [Caffeine](https://itunes.apple.com/us/app/caffeine/id411246225) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): As simple as a single click.
+* [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) (https://github.com/emptymalei/awesome-research/blob/master/`Mac`): More configurations involved and more intelligent.
 
 
 ### Online Load and Edit
@@ -502,8 +502,8 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 **Local SVG editors:**
 
-* [Inkscape](https://github.com/emptymalei/awesome-research/blob/master/https://inkscape.org)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`)
-* [GIMP](https://github.com/emptymalei/awesome-research/blob/master/https://www.gimp.org)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`)
+* [Inkscape](https://inkscape.org)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`)
+* [GIMP](https://www.gimp.org)(https://github.com/emptymalei/awesome-research/blob/master/`Mac`,`Win`,`Linux`)
 
 
 ### Sharing Slides
@@ -518,11 +518,11 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 ### Code Editors
 
-* [Atom](https://github.com/emptymalei/awesome-research/blob/master/https://atom.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://github.com/emptymalei/awesome-research/blob/master/https://atom.io/packages/sync-settings) plugin.
-* [VS Code](https://github.com/emptymalei/awesome-research/blob/master/https://code.visualstudio.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
-* [Sublime Text](https://github.com/emptymalei/awesome-research/blob/master/https://www.sublimetext.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
-* [JetBrains](https://github.com/emptymalei/awesome-research/blob/master/https://www.jetbrains.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-* [vim](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/vim/vim)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+* [Atom](https://atom.io/)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
+* [VS Code](https://code.visualstudio.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
+* [Sublime Text](https://www.sublimetext.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
+* [JetBrains](https://www.jetbrains.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
+* [vim](https://github.com/vim/vim)(https://github.com/emptymalei/awesome-research/blob/master/`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
   * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
   * [vimrc from amix](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
@@ -530,13 +530,13 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 ### Softwares
 
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
-* [iPython Notebook](https://github.com/emptymalei/awesome-research/blob/master/http://ipython.org/notebook.html) (https://github.com/emptymalei/awesome-research/blob/master/`Python`): a useful tool for inline calculation, making graphs and writing notes.
+* [iPython Notebook](http://ipython.org/notebook.html) (https://github.com/emptymalei/awesome-research/blob/master/`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
   * [jiffylab](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
 * [Maple](https://www.maplesoft.com/index.aspx?L=E)
-* [RStudio](https://github.com/emptymalei/awesome-research/blob/master/https://www.rstudio.com/) (https://github.com/emptymalei/awesome-research/blob/master/`R`)
+* [RStudio](https://www.rstudio.com/) (https://github.com/emptymalei/awesome-research/blob/master/`R`)
 
 
 ### Scientific Computing
@@ -607,23 +607,23 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) are the recommended ones.**
 
-* [Rainy Mood](https://github.com/emptymalei/awesome-research/blob/master/http://www.rainymood.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
-* [Coffitivity](https://github.com/emptymalei/awesome-research/blob/master/http://coffitivity.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
-* [Brain.fm](https://github.com/emptymalei/awesome-research/blob/master/https://www.brain.fm/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
-* [Noizio](https://github.com/emptymalei/awesome-research/blob/master/http://noiz.io/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
-* [Noisli](https://github.com/emptymalei/awesome-research/blob/master/http://www.noisli.com/) (https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`, `Chrome`): free mixing of multiple tracks (https://github.com/emptymalei/awesome-research/blob/master/which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
-* [Soundrown](https://github.com/emptymalei/awesome-research/blob/master/http://soundrown.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): free mixing of multiple tracks
-* [Muji Sleep](https://github.com/emptymalei/awesome-research/blob/master/http://sleep.muji.net/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`)
-* [A Soft Murmur](https://github.com/emptymalei/awesome-research/blob/master/http://asoftmurmur.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
-* [mynoise](https://github.com/emptymalei/awesome-research/blob/master/https://mynoise.net/noiseMachines.php)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Web`): a noise generator; a lot of choices (https://github.com/emptymalei/awesome-research/blob/master/too many actually); detailed equalizer
-* [Rainy Cafe](https://github.com/emptymalei/awesome-research/blob/master/http://rainycafe.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): not much to say just a combination of rainy mood and coffitivity
-* [Sleep Pillow](https://github.com/emptymalei/awesome-research/blob/master/http://www.clearskyapps.com/portfolio/sleep)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Mac`): click and play style preloaded scenes; easy to use; beautiful design
-* [A youtube audio track of coffee shop (https://github.com/emptymalei/awesome-research/blob/master/really long)](https://github.com/emptymalei/awesome-research/blob/master/https://www.youtube.com/watch?v=KZV9FmHOsRg)
+* [Rainy Mood](http://www.rainymood.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): rainy day rainy mood, simple but with excellent white noise; a new beautiful soundtrack each day
+* [Coffitivity](http://coffitivity.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`, `Mac`): a rather simple but useful coffee shop noise library; premium has more three more soundtracks; elegant UI; scientific research powered
+* [Brain.fm](https://www.brain.fm/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): Improve Focus, Relaxation & Sleep with audio brainwave training. Not free but worth every penny.
+* [Noizio](http://noiz.io/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Mac`): a handy white noise tool that stays in your Mac status bar.
+* [Noisli](http://www.noisli.com/) (https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`, `Chrome`): free mixing of multiple tracks (https://github.com/emptymalei/awesome-research/blob/master/which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
+* [Soundrown](http://soundrown.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): free mixing of multiple tracks
+* [Muji Sleep](http://sleep.muji.net/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`)
+* [A Soft Murmur](http://asoftmurmur.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
+* [mynoise](https://mynoise.net/noiseMachines.php)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Web`): a noise generator; a lot of choices (https://github.com/emptymalei/awesome-research/blob/master/too many actually); detailed equalizer
+* [Rainy Cafe](http://rainycafe.com/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): not much to say just a combination of rainy mood and coffitivity
+* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Mac`): click and play style preloaded scenes; easy to use; beautiful design
+* [A youtube audio track of coffee shop (https://github.com/emptymalei/awesome-research/blob/master/really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
-* [TaoMix](https://github.com/emptymalei/awesome-research/blob/master/https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (https://github.com/emptymalei/awesome-research/blob/master/`Android`): sound mixings to concentrate
-* [Calm](https://github.com/emptymalei/awesome-research/blob/master/http://www.calm.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): to help you calming down
-* [Raining](https://github.com/emptymalei/awesome-research/blob/master/http://raining.fm)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): raining and thunder
-* [focus@will](https://github.com/emptymalei/awesome-research/blob/master/https://www.focusatwill.com)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): music to boost your brain; paid services now
+* [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) (https://github.com/emptymalei/awesome-research/blob/master/`Android`): sound mixings to concentrate
+* [Calm](http://www.calm.com/)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): to help you calming down
+* [Raining](http://raining.fm)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): raining and thunder
+* [focus@will](https://www.focusatwill.com)(https://github.com/emptymalei/awesome-research/blob/master/`iOS`, `Android`, `Web`): music to boost your brain; paid services now
 
 
 
@@ -631,7 +631,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 **Some Other Related Stuff**
 
-* [iSerenity](https://github.com/emptymalei/awesome-research/blob/master/http://www.iserenity.com/): multiple choices but not that good (https://github.com/emptymalei/awesome-research/blob/master/just my feeling).
+* [iSerenity](http://www.iserenity.com/): multiple choices but not that good (https://github.com/emptymalei/awesome-research/blob/master/just my feeling).
 * [Rany by simply noise](https://rain.simplynoise.com/): just rain.
 * [Natural Sound player](http://www.naturesoundplayer.com/): many natural sounds, cool.
 * [NatureSoundsFor.Me](http://naturesoundsfor.me/): make your own track, so many kinds of sounds.
@@ -676,7 +676,7 @@ To choose a license, an easy way is to use
 
 CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For alternative badges or icons, check the following.
 
-* [Guokr Badge](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/opentf/GuokrBadge): Green CC License badges. (https://github.com/emptymalei/awesome-research/blob/master/**Documentation is in Chinese.**)
+* [Guokr Badge](https://github.com/opentf/GuokrBadge): Green CC License badges. (https://github.com/emptymalei/awesome-research/blob/master/**Documentation is in Chinese.**)
 
 
 
@@ -686,12 +686,12 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **JS and jQuery**
 
-* [Highcharts](https://github.com/emptymalei/awesome-research/blob/master/http://www.highcharts.com/demo/bar-stacked) (https://github.com/emptymalei/awesome-research/blob/master/`js`): Line charts, area charts, column and bar charts, pie charts, scatter and bubble charts and more.
-* [Flot](https://github.com/emptymalei/awesome-research/blob/master/http://www.flotcharts.org/flot/examples/) (https://github.com/emptymalei/awesome-research/blob/master/`jQuery`)
-* [Raphaël](https://github.com/emptymalei/awesome-research/blob/master/http://raphaeljs.com/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
-* [JavaScript InfoVis Toolkit](https://github.com/emptymalei/awesome-research/blob/master/http://philogb.github.io/jit/demos.html) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
-* [D3js](https://github.com/emptymalei/awesome-research/blob/master/http://d3js.org/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
-* [Paper.js](https://github.com/emptymalei/awesome-research/blob/master/http://paperjs.org/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
+* [Highcharts](http://www.highcharts.com/demo/bar-stacked) (https://github.com/emptymalei/awesome-research/blob/master/`js`): Line charts, area charts, column and bar charts, pie charts, scatter and bubble charts and more.
+* [Flot](http://www.flotcharts.org/flot/examples/) (https://github.com/emptymalei/awesome-research/blob/master/`jQuery`)
+* [Raphaël](http://raphaeljs.com/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
+* [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
+* [D3js](http://d3js.org/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
+* [Paper.js](http://paperjs.org/) (https://github.com/emptymalei/awesome-research/blob/master/`js`)
 
 
 **Python**
@@ -707,10 +707,10 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 Professional graphs should be made using professional tools.
 
-* [GeoGebra](https://github.com/emptymalei/awesome-research/blob/master/http://www.geogebra.org/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-* [LaTeXDraw](https://github.com/emptymalei/awesome-research/blob/master/https://github.com/arnobl/latexdraw)(https://github.com/emptymalei/awesome-research/blob/master/`Linux`): "A vector drawing editor for LaTeX."
-* [TikZ](https://github.com/emptymalei/awesome-research/blob/master/http://www.texample.net/tikz/)(https://github.com/emptymalei/awesome-research/blob/master/`LaTeX`)
-* [BoxPlotR](https://github.com/emptymalei/awesome-research/blob/master/http://shiny.chemgrid.org/boxplotr/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): A web-tool for generation of box plots.
+* [GeoGebra](http://www.geogebra.org/)(https://github.com/emptymalei/awesome-research/blob/master/`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
+* [LaTeXDraw](https://github.com/arnobl/latexdraw)(https://github.com/emptymalei/awesome-research/blob/master/`Linux`): "A vector drawing editor for LaTeX."
+* [TikZ](http://www.texample.net/tikz/)(https://github.com/emptymalei/awesome-research/blob/master/`LaTeX`)
+* [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(https://github.com/emptymalei/awesome-research/blob/master/`Web`): A web-tool for generation of box plots.
 
 
 ## LaTeX
@@ -730,7 +730,7 @@ Professional graphs should be made using professional tools.
 
 ### Graphing
 
-* [TeX Example](https://github.com/emptymalei/awesome-research/blob/master/http://www.texample.net/) (https://github.com/emptymalei/awesome-research/blob/master/Tikz/PGF)
+* [TeX Example](http://www.texample.net/) (https://github.com/emptymalei/awesome-research/blob/master/Tikz/PGF)
 
 
 ### Fonts

@@ -132,8 +132,8 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
-HTML (https://github.com/mehcode/awesome-atom/blob/master/including [Handlebars](https://github.com/mehcode/awesome-atom/blob/master/http://handlebarsjs.com/)),
-CSS (https://github.com/mehcode/awesome-atom/blob/master/including [Sass](https://github.com/mehcode/awesome-atom/blob/master/http://sass-lang.com/) and [LESS](https://github.com/mehcode/awesome-atom/blob/master/http://lesscss.org/)),
+HTML (https://github.com/mehcode/awesome-atom/blob/master/including [Handlebars](http://handlebarsjs.com/)),
+CSS (https://github.com/mehcode/awesome-atom/blob/master/including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
 
 #### [Code Peek](https://atom.io/packages/code-peek)

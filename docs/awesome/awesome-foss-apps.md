@@ -9,7 +9,7 @@ This list is for developers who are looking for non-trivial quality applications
 ## TOC
 
 - [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/frontend only)](https://github.com/johnfaucett/awesome-foss-apps/blob/master/#web-apps-frontend-only)
-- [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)](https://github.com/johnfaucett/awesome-foss-apps/blob/master/#web-apps-fullstack)
+- [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)](#web-apps-https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)
 - [Desktop Apps](#desktop-apps)
 - [Mobile Apps](#mobile-apps)
 - [Games](#games)

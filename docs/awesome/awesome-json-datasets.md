@@ -40,10 +40,10 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 ## Climate
 
-* [Global Temperature Anomaly)](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1880-2015 vs. 1901-2000 Average)*
-* [US Annual Average Temperature and Anomaly)](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1880-2015 (https://github.com/jdorfman/awesome-json-datasets/blob/master/vs. 1901-2000 Average)*
-* [Contiguous US Annual Precipitation](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1895-2015)*
-* [Drought Severity Index](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Palmer for the Contiguous US, 1895-2016)*
+* [Global Temperature Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1880-2015 vs. 1901-2000 Average)*
+* [US Annual Average Temperature and Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1880-2015 (vs. 1901-2000 Average)*
+* [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/1895-2015)*
+* [Drought Severity Index](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Palmer for the Contiguous US, 1895-2016)*
 
 ## Crime
 
@@ -64,9 +64,9 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
 * [Pokémon](https://pokeapi.co/docsv2/)
-  * [Pokémon by Number](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://pokeapi.co/api/v2/pokemon/1/) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with desired Pokémon number)*
-  * [Types](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://pokeapi.co/api/v2/type/1/) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with another number to retrieve different type)*
-  * [Abilities](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://pokeapi.co/api/v2/ability/1) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with another number to retrieve different ability)*
+  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with desired Pokémon number)*
+  * [Types](http://pokeapi.co/api/v2/type/1/) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with another number to retrieve different type)*
+  * [Abilities](http://pokeapi.co/api/v2/ability/1) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Replace `1` with another number to retrieve different ability)*
 * [Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 * [Magic: The Gathering](http://magic.wizards.com)
   * [MTG LEA Set + Extras](https://mtgjson.com/json/LEA-x.json)
@@ -154,7 +154,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [cookies](http://httpbin.org/cookies)
 * [stream](http://httpbin.org/stream/10)
 * [delay](http://httpbin.org/delay/3)
-* [cache](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://httpbin.org/cache/60) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/`60` === `60 seconds`)*
+* [cache](http://httpbin.org/cache/60) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/`60` === `60 seconds`)*
 
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
@@ -162,7 +162,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
 * [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
-* [Near-Earth Asteroids and Comets](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://data.nasa.gov/resource/2vr3-k9wn.json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Discovered By NEOWISE)*
+* [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Discovered By NEOWISE)*
 
 ## Natural Disasters
 * [Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
@@ -264,20 +264,20 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 ## TV Shows
 
-* [Mr. Robot (https://github.com/jdorfman/awesome-json-datasets/blob/master/USA)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
-* [Better Call Saul (https://github.com/jdorfman/awesome-json-datasets/blob/master/AMC)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
-* [Homeland (https://github.com/jdorfman/awesome-json-datasets/blob/master/Showtime)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
-* [Silicon Valley (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=silicon-valley&embed=episodes)
-* [The Walking Dead (https://github.com/jdorfman/awesome-json-datasets/blob/master/AMC)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes)
-* [South Park (https://github.com/jdorfman/awesome-json-datasets/blob/master/Comedy Central)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes)
-* [Game of Thrones (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
-* [House of Cards (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes)
-* [The Big Bang Theory (https://github.com/jdorfman/awesome-json-datasets/blob/master/CBS)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=big-bang-theory&embed=episodes)
-* [Narcos (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=narcos&embed=episodes)
-* [Black Mirror (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=black-mirror&embed=episodes)
-* [Stranger Things (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes)
-* [Rick and Morty (https://github.com/jdorfman/awesome-json-datasets/blob/master/Adult Swim)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
-* [Westworld (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](https://github.com/jdorfman/awesome-json-datasets/blob/master/http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
+* [Mr. Robot (https://github.com/jdorfman/awesome-json-datasets/blob/master/USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
+* [Better Call Saul (https://github.com/jdorfman/awesome-json-datasets/blob/master/AMC)](http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
+* [Homeland (https://github.com/jdorfman/awesome-json-datasets/blob/master/Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
+* [Silicon Valley (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](http://api.tvmaze.com/singlesearch/shows?q=silicon-valley&embed=episodes)
+* [The Walking Dead (https://github.com/jdorfman/awesome-json-datasets/blob/master/AMC)](http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes)
+* [South Park (https://github.com/jdorfman/awesome-json-datasets/blob/master/Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes)
+* [Game of Thrones (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
+* [House of Cards (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes)
+* [The Big Bang Theory (https://github.com/jdorfman/awesome-json-datasets/blob/master/CBS)](http://api.tvmaze.com/singlesearch/shows?q=big-bang-theory&embed=episodes)
+* [Narcos (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](http://api.tvmaze.com/singlesearch/shows?q=narcos&embed=episodes)
+* [Black Mirror (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](http://api.tvmaze.com/singlesearch/shows?q=black-mirror&embed=episodes)
+* [Stranger Things (https://github.com/jdorfman/awesome-json-datasets/blob/master/Netflix)](http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes)
+* [Rick and Morty (https://github.com/jdorfman/awesome-json-datasets/blob/master/Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
+* [Westworld (https://github.com/jdorfman/awesome-json-datasets/blob/master/HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
@@ -314,14 +314,14 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
 ## More Awesome Lists
-* [Awesome](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/sindresorhus/awesome) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/The OG List)*
-* [Help Wanted](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/fullstackla/awesome-help-wanted) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Open Source projects looking for Help)*
-* [JSON](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/burningtree/awesome-json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Libraries and Resources)*
-* [WPO](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/davidsonfellipe/awesome-wpo) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Web Performance Optimization)*
-* [Shell](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/alebcay/awesome-shell) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/CLI Frameworks, Toolkits and Guides)*
-* [Public APIs](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/toddmotto/public-apis) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/JSON APIs for use in web dev, some of which require authentication)*
-* [Public Datasets](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/caesar0301/awesome-public-datasets) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Datasets beyond just JSON)*
-* [Style Guides](https://github.com/jdorfman/awesome-json-datasets/blob/master/https://github.com/kciter/awesome-style-guide) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Programming Languages, Platforms, Frameworks)*
+* [Awesome](https://github.com/sindresorhus/awesome) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/The OG List)*
+* [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Open Source projects looking for Help)*
+* [JSON](https://github.com/burningtree/awesome-json) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Libraries and Resources)*
+* [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Web Performance Optimization)*
+* [Shell](https://github.com/alebcay/awesome-shell) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/CLI Frameworks, Toolkits and Guides)*
+* [Public APIs](https://github.com/toddmotto/public-apis) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/JSON APIs for use in web dev, some of which require authentication)*
+* [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Datasets beyond just JSON)*
+* [Style Guides](https://github.com/kciter/awesome-style-guide) *(https://github.com/jdorfman/awesome-json-datasets/blob/master/Programming Languages, Platforms, Frameworks)*
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](https://github.com/jdorfman/awesome-json-datasets/blob/master/CONTRIBUTING.md).

@@ -49,7 +49,7 @@ Books:
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
-My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (https://github.com/RichardLitt/awesome-fantasy/blob/master/mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://github.com/RichardLitt)
+My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (https://github.com/RichardLitt/awesome-fantasy/blob/master/mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -141,7 +141,7 @@ Books:
 >  
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
-#### [The Inheritance Trilogy](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(https://github.com/RichardLitt/awesome-fantasy/blob/master/N.K._Jemisin)) *by [N.K. Jemisin](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/N._K._Jemisin)*
+#### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
 Dealing with racial and sexual discrimination in a high fantasy setting, the novel is excellent. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
@@ -171,10 +171,10 @@ Books:
 The Lightbringer Series has one of the most intricately fleshed-out magic systems that I have ever seen in high fantasy, where the use of magic has interesting implications on characters' lifespan and personality. The storyline, character development, and plot twists make it a binge-worthy series. On top of that, Weeks does an excellent job of bringing the reader through each characters' strengths and weaknesses in personality, magical ability, and circumstances that shape how they end up fitting in to the larger picture. Through the development of his characters, his books address larger societal and philosophical issues from slavery and descrimination to theology and theism/atheism. It is incredibly well-thought out, and I can't wait to see what he does in the last and final installment of the series. The fifth book [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) is expected to come out sometime in 2019! - [@ciarrapeters](https://github.com/ciarrapeters)
 
 Books:
- * [The Black Prism] (https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/7165300-the-black-prism) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2010) [4.24]
- * [The Blinding Knife] (https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/12499290-the-blinding-knife) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2012) (https://github.com/RichardLitt/awesome-fantasy/blob/master/4.45)
- * [The Broken Eye] (https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/12652457-the-broken-eye) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2014) [4.47]
- * [The Blood Mirror] (https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/29467232-the-blood-mirror) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2016) [4.32]
+ * [The Black Prism] (https://www.goodreads.com/book/show/7165300-the-black-prism) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2010) [4.24]
+ * [The Blinding Knife] (https://www.goodreads.com/book/show/12499290-the-blinding-knife) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2012) (https://github.com/RichardLitt/awesome-fantasy/blob/master/4.45)
+ * [The Broken Eye] (https://www.goodreads.com/book/show/12652457-the-broken-eye) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2014) [4.47]
+ * [The Blood Mirror] (https://www.goodreads.com/book/show/29467232-the-blood-mirror) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2016) [4.32]
 
 > Guile is the Prism, the most powerful man in the world. He is high priest and emperor, a man whose power, wit, and charm are all that preserves a tenuous peace. Yet Prisms never last, and Guile knows exactly how long he has left to live.
 >
@@ -209,7 +209,7 @@ Books:
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]
 
-The Mistborn trilogy (https://github.com/RichardLitt/awesome-fantasy/blob/master/well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (https://github.com/RichardLitt/awesome-fantasy/blob/master/for one, they're much shorter!). - [@CWSpear](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://github.com/CWSpear)
+The Mistborn trilogy (https://github.com/RichardLitt/awesome-fantasy/blob/master/well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (https://github.com/RichardLitt/awesome-fantasy/blob/master/for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
 
 I've only read the first trilogy at this point, but I loved it; the magic system is pretty well done, the characters are convincing, we've got some strong female leads, and there's a good amount of intrigue and plot setting. Brandon Sanderson is fairly good at turning tropes on their head, as well, which was fun to read - a lot of my original complaints have now turned into praises for the books. I'm looking forward to reading more. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -258,7 +258,7 @@ This is one of the most ridiculous forays into world building, ever. At times, i
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
-The Stormlight Archive books (https://github.com/RichardLitt/awesome-fantasy/blob/master/only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (https://github.com/RichardLitt/awesome-fantasy/blob/master/sleep was sacrificed). - [@CWSpear](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://github.com/CWSpear)
+The Stormlight Archive books (https://github.com/RichardLitt/awesome-fantasy/blob/master/only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (https://github.com/RichardLitt/awesome-fantasy/blob/master/sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
 
 I completely agree that however long these books are, it doesn't really matter. They're fantastic. The magic system is complex, and the characters Brandon focuses on have their own little foibles and bits of awesome. This is classic 90's fantasy, but still incredibly good. The world is also pretty novel for fantasy - no more England-like environments, but actually a different kind of landscape. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -270,7 +270,7 @@ Books:
  * [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]
  * _More coming_
 
-#### [The Wheel of Time](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Robert_Jordan) (https://github.com/RichardLitt/awesome-fantasy/blob/master/and [Brandon Sanderson](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] :fire:
+#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (https://github.com/RichardLitt/awesome-fantasy/blob/master/and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] :fire:
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -289,11 +289,11 @@ Books:
  * [The Gathering Storm](http://www.goodreads.com/book/show/1166599.The_Gathering_Storm)
  * [Towers of Midnight](http://www.goodreads.com/book/show/8253920-towers-of-midnight)
  * [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
- * [New Spring (https://github.com/RichardLitt/awesome-fantasy/blob/master/prequel)](https://github.com/RichardLitt/awesome-fantasy/blob/master/http://www.goodreads.com/book/show/187065.New_Spring)
+ * [New Spring (https://github.com/RichardLitt/awesome-fantasy/blob/master/prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
-#### [Black Company](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/140671) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1984) *by [Glen Cook](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Glen_Cook)* [4]
+#### [Black Company](https://www.goodreads.com/book/show/140671) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1984) *by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)* [4]
 
 This is my favorite dark fantasy series and the first book is awesome. These are written so differently than any fantasy-esque book I've ever read. It is difficult to describe, but as a veteran, it just feels like you're reading a fantasy book written by a former soldier that's been there, crude jokes, blood and all. I highly recommend this. - [@PeerRails](https://github.com/PeerRails)
 
@@ -311,7 +311,7 @@ Books:
  * [Soldiers Live](https://www.goodreads.com/book/show/400899.Soldiers_Live) [4.22]
  * _1 last book coming_
 
-#### [The Malazan Book Of The Fallen](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1999) *by [Steven Erikson](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
+#### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
 
 Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
 
@@ -363,15 +363,15 @@ A pretty good children's story. Defined modern fantasy as we know it. - [@Richar
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
 Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.
 
-#### [Jirel of Joiry](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1934) *by [C. L. Moore](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
+#### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (https://github.com/RichardLitt/awesome-fantasy/blob/master/1934) *by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
 
 I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adventures, Jirel's opponents constantly seek to victimize her, use her as bait, lure her in, or overpower her. Often she can't escape witnessing or even being part of horrific things, but she takes these impossible situations and confronts them on her own terms. I thought this was a nice alternative to always evading danger or using feminine wiles to get out of tight corners. Jirel is physically and emotionally capable without being a know-it-all or preternaturally lucky. Moore paints incredibly vivid pictures of fantastical realms and creatures. I think these stories would translate well into a graphic novel. This collection is a fascinating bent on traditional sword and sorcery tales and well worth the read. - [@thejessleigh](https://github.com/thejessleigh)
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
-#### [Jonathan Strange & Mr. Norrell](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2006) *by [Susanna Clarke](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (https://github.com/RichardLitt/awesome-fantasy/blob/master/2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
-This book takes a while to ramp up, but if you can get through the (https://github.com/RichardLitt/awesome-fantasy/blob/master/intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://github.com/thejessleigh)
+This book takes a while to ramp up, but if you can get through the (https://github.com/RichardLitt/awesome-fantasy/blob/master/intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
 >  
@@ -501,7 +501,7 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 
 ### Children's Books
 
-#### [The Saga of Eric the Viking](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://github.com/RichardLitt/awesome-fantasy/blob/master/https://en.wikipedia.org/wiki/Michael_Foreman_(https://github.com/RichardLitt/awesome-fantasy/blob/master/author/illustrator))* [3.94]
+#### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
 

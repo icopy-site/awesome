@@ -1,4 +1,4 @@
-![Open Source Society University (https://github.com/ossu/computer-science/blob/master/OSSU)](https://github.com/ossu/computer-science/blob/master/http://i.imgur.com/kYYCXtC.png)
+![Open Source Society University (https://github.com/ossu/computer-science/blob/master/OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
@@ -83,7 +83,7 @@ just remember that you can't purchase success!
 
 ## Curriculum
 
-**Curriculum version**: `8.0.0` (https://github.com/ossu/computer-science/blob/master/see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
+**Curriculum version**: `8.0.0` (https://github.com/ossu/computer-science/blob/master/see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -116,7 +116,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 These courses will introduce you to the world of computer science.
 Both are required, but feel free to skip straight to the second course when CS50 (https://github.com/ossu/computer-science/blob/master/the first course) moves away from C.
-(https://github.com/ossu/computer-science/blob/master/[Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50))
+(https://github.com/ossu/computer-science/blob/master/[Why?](FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50))
 
 **Topics covered**:
 `imperative programming`
@@ -131,7 +131,7 @@ Both are required, but feel free to skip straight to the second course when CS50
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://github.com/ossu/computer-science/blob/master/https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (https://github.com/ossu/computer-science/blob/master/[alt](https://github.com/ossu/computer-science/blob/master/https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (https://github.com/ossu/computer-science/blob/master/[alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
 
 ## Core CS
@@ -191,10 +191,10 @@ Courses | Duration | Effort | Prerequisites
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-[Linear Algebra - Foundations to Frontiers](https://github.com/ossu/computer-science/blob/master/https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) (https://github.com/ossu/computer-science/blob/master/[alt](https://github.com/ossu/computer-science/blob/master/http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
-[Calculus One](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/learn/calculus1)<sup>*1*</sup> (https://github.com/ossu/computer-science/blob/master/[alt](https://github.com/ossu/computer-science/blob/master/https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) (https://github.com/ossu/computer-science/blob/master/[alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
+[Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> (https://github.com/ossu/computer-science/blob/master/[alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
-[Mathematics for Computer Science](https://github.com/ossu/computer-science/blob/master/https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (https://github.com/ossu/computer-science/blob/master/Calculus Two)
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (https://github.com/ossu/computer-science/blob/master/Calculus Two)
 
 **<sup>1</sup> Note**: When you are enrolled, please see this
 [list of errors](https://www.coursera.org/learn/calculus1/discussions/forums/WcY9_8ayEeSWEiIAC0wC5g/threads/CgOJwV-jEeWncxKXIFxpFQ/replies/kH6u_2FPEeWukw4fFhIvKw)
@@ -221,7 +221,7 @@ for how to progress through the course.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/learn/build-a-computer) (https://github.com/ossu/computer-science/blob/master/[alt](https://github.com/ossu/computer-science/blob/master/http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (https://github.com/ossu/computer-science/blob/master/[alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | From Nand to Tetris Part I
 [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
@@ -323,7 +323,7 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Calculus: Parametric Equations and Polar Coordinates](https://github.com/ossu/computer-science/blob/master/https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (https://github.com/ossu/computer-science/blob/master/Calculus Two)
+[Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (https://github.com/ossu/computer-science/blob/master/Calculus Two)
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
 
@@ -355,7 +355,7 @@ Courses | Duration | Effort | Prerequisites
 
 **<sup>1</sup> Note**:
 These courses assume knowledge of basic physics.
-(https://github.com/ossu/computer-science/blob/master/[Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
+(https://github.com/ossu/computer-science/blob/master/[Why?](FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
 If you are struggling, you can find a physics MOOC or utilize the materials from Khan Academy:
 [Khan Academy - Physics](https://www.khanacademy.org/science/physics)
 
@@ -397,14 +397,14 @@ So if you don't wish to spend money or use the Capstone as your Final, it may be
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Robotics (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
-[Data Mining (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
-[Data Science (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (https://github.com/ossu/computer-science/blob/master/Specialization)](https://github.com/ossu/computer-science/blob/master/https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
+[Robotics (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
+[Data Mining (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+[Full Stack Web Development (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
+[Data Science (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (https://github.com/ossu/computer-science/blob/master/Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
 
 ## Final project
 
@@ -427,7 +427,7 @@ Put the OSSU-CS badge in the README of your repository!
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
-- HTML: `<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
+- HTML: `<a href="https://raw.githubusercontent.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation
 
@@ -477,7 +477,7 @@ These aren't the only specializations you can choose. Check the following websit
 
 - Look for a job as a developer!
 - Check out the [readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (https://github.com/ossu/computer-science/blob/master/e.g. via [meetup.com](https://github.com/ossu/computer-science/blob/master/https://www.meetup.com/)).
+- Join a local developer meetup (https://github.com/ossu/computer-science/blob/master/e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging technologies in the world of software development:
   + Explore the **actor model** through [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!

@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="1024" src="https://github.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
+	<img width="1024" src="https://raw.githubusercontent.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
 	<br>
 	<br>
 </h1>
@@ -93,7 +93,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example Hybrid (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS/Andriod) App's
-[RubyMotion Hybrid Sample](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS + Android) app.
+[RubyMotion Hybrid Sample](https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS + Android) app.
 
 
 ### Example macOS Apps
@@ -150,7 +150,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 Because Android support is quite new we're keeping the libraries together in this section.
 
-* [BluePotion](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (https://github.com/motion-open-source/awesome-rubymotion/blob/master/ALPHA).
+* [BluePotion](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (https://github.com/motion-open-source/awesome-rubymotion/blob/master/ALPHA).
 * [Toaster](https://github.com/jamonholmgren/toaster) - RubyMotion-android 'Toast' gem. Makes working with Android toasts really easy.
 * [Motion-maven](https://github.com/HipByte/motion-maven) - motion-maven lets you automatically manage 3rd-party Java dependencies in RubyMotion for Android projects using Maven.
 
@@ -180,8 +180,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Database
 * [Motion-firebase](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK.
-* [Yapper](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (https://github.com/motion-open-source/awesome-rubymotion/blob/master/thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe.
-* [Couchmotion](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/jannishuebl/couchmotion) - API for using Couchbase(https://github.com/motion-open-source/awesome-rubymotion/blob/master/CouchDB) a schemaless database with Rubymotion for Android and iOS.
+* [Yapper](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (https://github.com/motion-open-source/awesome-rubymotion/blob/master/thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe.
+* [Couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(https://github.com/motion-open-source/awesome-rubymotion/blob/master/CouchDB) a schemaless database with Rubymotion for Android and iOS.
 * [Motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion.
 
 
@@ -195,7 +195,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Dependencies Management
-* [MotionBundler](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (https://github.com/motion-open-source/awesome-rubymotion/blob/master/including their dependencies) within RubyMotion applications.
+* [MotionBundler](https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (https://github.com/motion-open-source/awesome-rubymotion/blob/master/including their dependencies) within RubyMotion applications.
 * [Motion-acknowledgements](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
 
 
@@ -206,12 +206,12 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Encryption
 * [Motion-bitmask](https://github.com/buffpojken/motion-bitmask) - Simple implementation of generic bitmasks for RubyMotion.
-* [Rm-digest](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/tmeinlschmidt/rm-digest) - MD5 and SHA1 digest for RubyMotion (https://github.com/motion-open-source/awesome-rubymotion/blob/master/gem).
+* [Rm-digest](https://github.com/tmeinlschmidt/rm-digest) - MD5 and SHA1 digest for RubyMotion (https://github.com/motion-open-source/awesome-rubymotion/blob/master/gem).
 
 
 ### Frameworks
-* [BubbleWrap](https://github.com/motion-open-source/awesome-rubymotion/blob/master/http://rubymotion.github.io/BubbleWrap) - Collection of (https://github.com/motion-open-source/awesome-rubymotion/blob/master/tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.
-* [Sugarcube](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/rubymotion/sugarcube) - These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (https://github.com/motion-open-source/awesome-rubymotion/blob/master/String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.
+* [BubbleWrap](http://rubymotion.github.io/BubbleWrap) - Collection of (https://github.com/motion-open-source/awesome-rubymotion/blob/master/tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.
+* [Sugarcube](https://github.com/rubymotion/sugarcube) - These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (https://github.com/motion-open-source/awesome-rubymotion/blob/master/String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
@@ -305,14 +305,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.
 * [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations.
 * [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode.
-* [Motion-bindable](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (https://github.com/motion-open-source/awesome-rubymotion/blob/master/or any other object.)
+* [Motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (https://github.com/motion-open-source/awesome-rubymotion/blob/master/or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver.
 * [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS.
 
 
 ### Networking
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion.
-* [Motion-net-service](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (https://github.com/motion-open-source/awesome-rubymotion/blob/master/NSNetService) zero configuration network protocol.
+* [Motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (https://github.com/motion-open-source/awesome-rubymotion/blob/master/NSNetService) zero configuration network protocol.
 * [Apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL.
 * [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking.
 
@@ -367,7 +367,7 @@ App project templates
 * [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - Clean RubyMotion project for quickly templating a styled application.
 * [Promotion-template](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running.
 * [Rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion.
-* [Motion-template-spritekit](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS/OSX/tvOS).
+* [Motion-template-spritekit](https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (https://github.com/motion-open-source/awesome-rubymotion/blob/master/iOS/OSX/tvOS).
 
 
 ### Testing
@@ -377,7 +377,7 @@ App project templates
 * [Motion-frank](https://github.com/cyrusinnovation/motion-frank) - Gem to use integrate frank-cucumber into RubyMotion projects.
 * [Motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework.
 * [Motion-facon](https://github.com/chuyeow/facon) - Port of Facon mocking library to RubyMotion.
-* [Guard-motion](https://github.com/motion-open-source/awesome-rubymotion/blob/master/https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (https://github.com/motion-open-source/awesome-rubymotion/blob/master/much like autotest).
+* [Guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (https://github.com/motion-open-source/awesome-rubymotion/blob/master/much like autotest).
 * [Motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.
 * [Motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications.
 * [Test Sweet](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
@@ -388,7 +388,7 @@ App project templates
 
 
 ## Books
-* [RubyMotion, iOS Development with Ruby](https://github.com/motion-open-source/awesome-rubymotion/blob/master/http://www.allitebooks.com/rubymotion/) - Author: Clay Allsopp (https://github.com/motion-open-source/awesome-rubymotion/blob/master/free download).
+* [RubyMotion, iOS Development with Ruby](http://www.allitebooks.com/rubymotion/) - Author: Clay Allsopp (https://github.com/motion-open-source/awesome-rubymotion/blob/master/free download).
 * [Building Mac macOS apps with RubyMotion](http://kickcode.com/building-mac-os-x-apps-with-rubymotion/) - Author: Elliott Draper.
 * [Instant RubyMotion App Development](https://www.packtpub.com/application-development/instant-rubymotion-app-development) - Author: Gant Laborde.
 * [RubyMotion iOS Development Essentials](https://www.packtpub.com/application-development/rubymotion-ios-development-essentials) - Author: Abhishek Nalwaya, Akshat Paul.

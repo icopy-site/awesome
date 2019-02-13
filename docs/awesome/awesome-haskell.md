@@ -78,7 +78,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Graphs](http://hackage.haskell.org/packages/#cat:Graphs) - a collaborative Hackage list.
 * [Optimization](http://hackage.haskell.org/packages/#cat:Optimization) - a collaborative Hackage list.
 * [Simulation](http://hackage.haskell.org/packages/#cat:Simulation) - a collaborative Hackage list.
-* [SMT](https://github.com/krispo/awesome-haskell/blob/master/http://hackage.haskell.org/packages/#cat:SMT) - a collaborative Hackage list for Satisfiability Modulo Theories (https://github.com/krispo/awesome-haskell/blob/master/SMT).
+* [https://github.com/krispo/awesome-haskell/blob/master/SMT](http://hackage.haskell.org/packages/#cat:https://github.com/krispo/awesome-haskell/blob/master/SMT) - a collaborative Hackage list for Satisfiability Modulo Theories (https://github.com/krispo/awesome-haskell/blob/master/SMT).
 * [Symbolic Computation](http://hackage.haskell.org/packages/#cat:Symbolic%20Computation) - a collaborative Hackage list.
 * [Theorem Provers](http://hackage.haskell.org/packages/#cat:Theorem%20Provers) - a collaborative Hackage list.
 
@@ -131,7 +131,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Parallelism](http://hackage.haskell.org/packages/#cat:Parallelism) - a collaborative Hackage list.
 
     ---
-* [Concurrency & Parallelism](https://github.com/krispo/awesome-haskell/blob/master/http://chimera.labs.oreilly.com/books/1230000000929/index.html) - (https://github.com/krispo/awesome-haskell/blob/master/Book) Parallel and Concurrent Programming in Haskell
+* [Concurrency & Parallelism](http://chimera.labs.oreilly.com/books/1230000000929/index.html) - (https://github.com/krispo/awesome-haskell/blob/master/Book) Parallel and Concurrent Programming in Haskell
 
 ## Configuration
 
@@ -242,7 +242,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Game Engine](http://hackage.haskell.org/packages/#cat:Game%20Engine) - a collaborative Hackage list.
 
 ## GUI
-* [Graphical User Interface (https://github.com/krispo/awesome-haskell/blob/master/GUI) Libraries](https://github.com/krispo/awesome-haskell/blob/master/https://wiki.haskell.org/Applications_and_libraries/GUI_libraries) - Official Website Resources.
+* [Graphical User Interface (https://github.com/krispo/awesome-haskell/blob/master/GUI) Libraries](https://wiki.haskell.org/Applications_and_libraries/https://github.com/krispo/awesome-haskell/blob/master/GUI_libraries) - Official Website Resources.
 
     ---
 * [GUI](http://hackage.haskell.org/packages/#cat:GUI) - a collaborative Hackage list.
@@ -279,7 +279,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Interfaces to Frameworks]() - Official Website Resources.
 * [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - Official Website Resources.
 * [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) - Official Website Resources.
-* [CMS](https://github.com/krispo/awesome-haskell/blob/master/https://wiki.haskell.org/Web/Content_Management) - Official Website Resources for Content Management Systems (https://github.com/krispo/awesome-haskell/blob/master/CMS).
+* [https://github.com/krispo/awesome-haskell/blob/master/CMS](https://wiki.haskell.org/Web/Content_Management) - Official Website Resources for Content Management Systems (https://github.com/krispo/awesome-haskell/blob/master/CMS).
 
     ---
 * [Web](http://hackage.haskell.org/packages/#cat:Web) - a collaborative Hackage list of frameworks, libraries, ...
@@ -296,9 +296,9 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-* [Stomp](https://github.com/krispo/awesome-haskell/blob/master/http://stomp.github.io/) - is the Simple (https://github.com/krispo/awesome-haskell/blob/master/or Streaming) Text Orientated Messaging Protocol. [Resources](https://github.com/krispo/awesome-haskell/blob/master/http://hackage.haskell.org/packages/#cat:Stomp).
-* [amqp](https://github.com/krispo/awesome-haskell/blob/master/https://github.com/hreinhardt/amqp) - client library for AMQP servers (https://github.com/krispo/awesome-haskell/blob/master/currently only RabbitMQ).
-* [IRC](https://github.com/krispo/awesome-haskell/blob/master/http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (https://github.com/krispo/awesome-haskell/blob/master/IRC).
+* [Stomp](http://stomp.github.io/) - is the Simple (https://github.com/krispo/awesome-haskell/blob/master/or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
+* [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (https://github.com/krispo/awesome-haskell/blob/master/currently only RabbitMQ).
+* [https://github.com/krispo/awesome-haskell/blob/master/IRC](http://hackage.haskell.org/packages/#cat:https://github.com/krispo/awesome-haskell/blob/master/IRC) - a collaborative Hackage list for Internet Relay Chat (https://github.com/krispo/awesome-haskell/blob/master/IRC).
 * [IRC Client](http://hackage.haskell.org/packages/#cat:IRC Client) - a collaborative Hackage list.
 
 ## Languages
@@ -319,7 +319,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *Additional languages on top of Haskell*
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
 * [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
-* [Copilot](https://github.com/krispo/awesome-haskell/blob/master/http://leepike.github.io/Copilot/) - a (https://github.com/krispo/awesome-haskell/blob/master/Haskell DSL) stream language for generating hard real-time C code.
+* [Copilot](http://leepike.github.io/Copilot/) - a (https://github.com/krispo/awesome-haskell/blob/master/Haskell DSL) stream language for generating hard real-time C code.
 
 ## Operating Systems
 
@@ -395,7 +395,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 * [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-* [learnhaskell](https://github.com/krispo/awesome-haskell/blob/master/https://github.com/bitemyapp/learnhaskell) - Haskell Learning (https://github.com/krispo/awesome-haskell/blob/master/also for non-English speakers).
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (https://github.com/krispo/awesome-haskell/blob/master/also for non-English speakers).
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
 * [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!

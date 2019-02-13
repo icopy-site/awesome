@@ -102,7 +102,7 @@ programming languages with appropriate bindings for Ruby.
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby scoring API for [PMML](https://github.com/arbox/machine-learning-with-ruby/blob/master/http://dmg.org/pmml/v4-3/GeneralStructure.html) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Predictive Model Markup Language).
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Predictive Model Markup Language).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
@@ -131,7 +131,7 @@ programming languages with appropriate bindings for Ruby.
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby bindings to the [Fast Artificial Neural Network Library (https://github.com/arbox/machine-learning-with-ruby/blob/master/FANN)](https://github.com/arbox/machine-learning-with-ruby/blob/master/http://leenissen.dk/fann/wp/).
+  Ruby bindings to the [Fast Artificial Neural Network Library (https://github.com/arbox/machine-learning-with-ruby/blob/master/FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum](https://github.com/irfansharif/cerebrum) -
   Experimental implementation for Artificial Neural Networks in Ruby.
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
@@ -322,7 +322,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2009
 
 - 2008
-  - _Support Vector Machines (https://github.com/arbox/machine-learning-with-ruby/blob/master/SVM) in Ruby_ by [Ilya Grigorik](https://github.com/arbox/machine-learning-with-ruby/blob/master/https://twitter.com/igrigorik)
+  - _Support Vector Machines (https://github.com/arbox/machine-learning-with-ruby/blob/master/SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
 - 2007
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
@@ -369,7 +369,7 @@ on the code here.
 ## Related Resources
 
 - <a name="gls"></a>
-  [GSL (https://github.com/arbox/machine-learning-with-ruby/blob/master/GNU Scientific Library)](https://github.com/arbox/machine-learning-with-ruby/blob/master/http://www.gnu.org/software/gsl/)
+  [GSL (https://github.com/arbox/machine-learning-with-ruby/blob/master/GNU Scientific Library)](http://www.gnu.org/software/gsl/)
 ```brew install gsl```
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
@@ -400,9 +400,9 @@ on the code here.
   General List of NLP related resources (https://github.com/arbox/machine-learning-with-ruby/blob/master/mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/arbox/machine-learning-with-ruby/blob/master/https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (https://github.com/arbox/machine-learning-with-ruby/blob/master/formelly IPython).
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (https://github.com/arbox/machine-learning-with-ruby/blob/master/formelly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
-  Lightweight [ETL](https://github.com/arbox/machine-learning-with-ruby/blob/master/https://en.wikipedia.org/wiki/Extract,_transform,_load) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Extract, Transform, Load) pipeline.
+  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (https://github.com/arbox/machine-learning-with-ruby/blob/master/Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -

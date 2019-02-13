@@ -261,14 +261,14 @@ A tool to help forensicate offline docker acquisitions.
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
 * [Are Docker containers really secure?](https://opensource.com/business/14/7/docker-security-selinux)
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
-* [Docker, Linux Containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LXC), and security](https://github.com/Friz-zy/awesome-linux-containers/blob/master/http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)
+* [Docker, Linux Containers (https://github.com/Friz-zy/awesome-linux-containers/blob/master/LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)
 * [For containers, security is problem #1](http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html)
 * [Linux Container Security](https://mjg59.dreamwidth.org/33170.html)
 * [Ask HN: Best Linux sandbox?](https://news.ycombinator.com/item?id=10030868)
 * [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 * [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 * [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
-* [Don't expose the Docker socket (https://github.com/Friz-zy/awesome-linux-containers/blob/master/not even to a container)](https://github.com/Friz-zy/awesome-linux-containers/blob/master/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+* [Don't expose the Docker socket (https://github.com/Friz-zy/awesome-linux-containers/blob/master/not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
 * [RedHat Blog](http://rhelblog.redhat.com/?s=container&submit=Search)
   - [Introduction to Linux Containers](https://access.redhat.com/articles/1353593)
   - [What’s Next for Containers? User Namespaces](http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004)
@@ -345,7 +345,7 @@ Docker uses copy-on-write file systems. This means containers can use the same f
 Things are better. For example, most modern container technologies can make use of Linux's built-in security tools such as:  
 [AppArmor](http://wiki.apparmor.net/index.php/Main_Page), [SELinux](http://selinuxproject.org/page/Main_Page) and [Seccomp](http://man7.org/linux/man-pages/man2/seccomp.2.html) policies;  
 [Grsecurity](https://grsecurity.net/);  
-[Control groups (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cgroups)](https://github.com/Friz-zy/awesome-linux-containers/blob/master/https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html);  
+[Control groups (https://github.com/Friz-zy/awesome-linux-containers/blob/master/cgroups)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/ch01.html);  
 [Kernel namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html)  
 [src](http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html)
 

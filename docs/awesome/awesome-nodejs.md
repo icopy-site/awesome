@@ -115,7 +115,7 @@
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
-- [Cytoscape.js](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/cytoscape/cytoscape.js) - Graph theory (https://github.com/sindresorhus/awesome-nodejs/blob/master/a.k.a. network) modeling and analysis.
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (https://github.com/sindresorhus/awesome-nodejs/blob/master/a.k.a. network) modeling and analysis.
 - [Kadence](https://kadence.github.io/) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
@@ -204,7 +204,7 @@
 
 - [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
-- [axios](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/mzabriskie/axios) - Promise based HTTP client (https://github.com/sindresorhus/awesome-nodejs/blob/master/works in the browser too).
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (https://github.com/sindresorhus/awesome-nodejs/blob/master/works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
@@ -319,7 +319,7 @@
 ### Templating
 
 - [marko](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-- [nunjucks](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (https://github.com/sindresorhus/awesome-nodejs/blob/master/jinja2 inspired).
+- [nunjucks](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (https://github.com/sindresorhus/awesome-nodejs/blob/master/jinja2 inspired).
 - [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
@@ -332,7 +332,7 @@
 - [Express](http://expressjs.com) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Feathers](http://feathersjs.com) - Microservice framework built in the spirit of Express.
 - [LoopBack](http://loopback.io) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-- [Meteor](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(https://github.com/sindresorhus/awesome-nodejs/blob/master/You might like [awesome-meteor](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/Urigo/awesome-meteor))*
+- [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(https://github.com/sindresorhus/awesome-nodejs/blob/master/You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](http://restify.com) - Enables you to build correct REST web services.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
@@ -403,7 +403,7 @@
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
 - Channels
-	- [js-csp](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (https://github.com/sindresorhus/awesome-nodejs/blob/master/like Clojurescript core.async, or Go).
+	- [js-csp](https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (https://github.com/sindresorhus/awesome-nodejs/blob/master/like Clojurescript core.async, or Go).
 
 
 ### Streams
@@ -415,7 +415,7 @@
 - [duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
 - [pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 - [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
-- [binary-split](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/maxogden/binary-split) - Newline (https://github.com/sindresorhus/awesome-nodejs/blob/master/or any delimiter) splitter stream.
+- [binary-split](https://github.com/maxogden/binary-split) - Newline (https://github.com/sindresorhus/awesome-nodejs/blob/master/or any delimiter) splitter stream.
 - [byline](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 - [pad-stream](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
@@ -445,7 +445,7 @@
 - [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
-- [pica](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/nodeca/pica) - High quality & fast resize (https://github.com/sindresorhus/awesome-nodejs/blob/master/lanczos3) in pure JS. Alternative to canvas drawImage(https://github.com/sindresorhus/awesome-nodejs/blob/master/), when no pixelation allowed.
+- [pica](https://github.com/nodeca/pica) - High quality & fast resize (https://github.com/sindresorhus/awesome-nodejs/blob/master/lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 
@@ -558,7 +558,7 @@
 - [yazl](https://github.com/thejoshwolfe/yazl) - Zip.
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - Unzip.
 - [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
-- [pako](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/nodeca/pako) - High speed zlib port to pure js (https://github.com/sindresorhus/awesome-nodejs/blob/master/deflate, inflate, gzip).
+- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (https://github.com/sindresorhus/awesome-nodejs/blob/master/deflate, inflate, gzip).
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
@@ -656,7 +656,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
-- [CloudRail](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (https://github.com/sindresorhus/awesome-nodejs/blob/master/Facebook, Twitter, Slack, Instagram, …).
+- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (https://github.com/sindresorhus/awesome-nodejs/blob/master/Facebook, Twitter, Slack, Instagram, …).
 
 
 ### Authorization
@@ -758,7 +758,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - Get superhero names.
 - [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
-- [cat-ascii-faces](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (https://github.com/sindresorhus/awesome-nodejs/blob/master/=ↀωↀ=)✧ (https://github.com/sindresorhus/awesome-nodejs/blob/master/^･o･^)ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (https://github.com/sindresorhus/awesome-nodejs/blob/master/=ↀωↀ=)✧ (https://github.com/sindresorhus/awesome-nodejs/blob/master/^･o･^)ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 
@@ -773,14 +773,14 @@
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [Electron](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(https://github.com/sindresorhus/awesome-nodejs/blob/master/You might like [awesome-electron](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/sindresorhus/awesome-electron))*
+- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(https://github.com/sindresorhus/awesome-nodejs/blob/master/You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
-- [strip-bom](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (https://github.com/sindresorhus/awesome-nodejs/blob/master/BOM) from a string/buffer/stream.
+- [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (https://github.com/sindresorhus/awesome-nodejs/blob/master/BOM) from a string/buffer/stream.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
@@ -789,7 +789,7 @@
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
-- [clipboardy](https://github.com/sindresorhus/awesome-nodejs/blob/master/https://github.com/sindresorhus/clipboardy) - Access the system clipboard (https://github.com/sindresorhus/awesome-nodejs/blob/master/copy/paste).
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (https://github.com/sindresorhus/awesome-nodejs/blob/master/copy/paste).
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.

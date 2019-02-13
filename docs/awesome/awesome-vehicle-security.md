@@ -3,7 +3,7 @@
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
-![](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/assets/car_hacking_jeep.gif)
+![](https://raw.githubusercontent.com/jaredthecoder/awesome-vehicle-security/master/assets/car_hacking_jeep.gif)
 
 ---
 
@@ -61,7 +61,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) - Texas A&M researchers develop intelligence system prototype.
 - [How big data will impact car security in the proximate future: Concerns and solutions](http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/) - Impact of big data on car security.
 - [Reverse engineering of the Nitro OBD2](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html) - Reverse engineering of CAN diagnostic tools.
-- [Analysis of an old Subaru Impreza - Subaru Select Monitor v1 (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/SSM1)](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://p1kachu.pluggi.fr/project/automotive/2018/12/28/subaru-ssm1/) - Digging into an old ECU through an old protocol and disabling a 1997 Subaru Impreza's speed limiter.
+- [Analysis of an old Subaru Impreza - Subaru Select Monitor v1 (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/SSM1)](https://p1kachu.pluggi.fr/project/automotive/2018/12/28/subaru-ssm1/) - Digging into an old ECU through an old protocol and disabling a 1997 Subaru Impreza's speed limiter.
 
 ## Presentations
 
@@ -78,10 +78,10 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2015.
 - [State of Automotive Cyber Safety, 2016](https://www.youtube.com/watch?v=WcObDVy2-1I) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2016.
 - [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng) - DEF CON 23 talk by Marc Rogers and Kevin Mahaffey on hacking a Tesla. Tesla Co-Founder and CTO, JB Straubel, joins them to thank them and present a challenge coin.
-- [Car Hacking Videos](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/http://tekeye.uk/automotive/cyber-security/car-hacking-videos) -  A web page with a long list of videos (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/40+) that are available online related to the topic of car hacking. From a 2007 DEF CON talk on modding engine ECUS and onwards (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/e.g. the 2017 Keen Security Tesla hack).
+- [Car Hacking Videos](http://tekeye.uk/automotive/cyber-security/car-hacking-videos) -  A web page with a long list of videos (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/40+) that are available online related to the topic of car hacking. From a 2007 DEF CON talk on modding engine ECUS and onwards (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/e.g. the 2017 Keen Security Tesla hack).
 - [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI) - Black Hat talk by Jonathan Petit. Automated and connected vehicles are the next evolution in transportation and will improve safety, traffic efficiency and driving experience. This talk will be divided in two parts: 1) security of autonomous automated vehicles and 2) privacy of connected vehicles. 2015
 - [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw) - Black Hat talk By Charlie Miller and Chris Valasek. Automotive security concerns have gone from the fringe to the mainstream with security researchers showing the susceptibility of the modern vehicle to local and remote attacks. Discussion of vehicle attack surfaces. 2014.
-- [Pentesting vehicles with YACHT (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/Yet Another Car Hacking Tool)](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) -A presentation that discuesses different attack surfaces of a vehicle, then continues to describe an approach to car hacking along with tools needed to analyse and gather useful information.
+- [Pentesting vehicles with YACHT (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) -A presentation that discuesses different attack surfaces of a vehicle, then continues to describe an approach to car hacking along with tools needed to analyse and gather useful information.
 - [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - Introduction to CAN hacking, and using a real car as an Xbox controller.
 
 ## Books
@@ -92,17 +92,17 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W)This book first introduced some basic knowledge of security for automotive R&D personnel, such as encryption and decryption, security authentication, digital signatures, common attack types, and methods. Then it introduced the working principles of some smart cars for security researchers, such as the automotive intranet. Protocol, network architecture, principle of X-By-Wire remote control system, common potential attack surface, etc. Finally, a detailed analysis of some actual automotive attack or security test cases, and defense analysis of the loopholes involved in the case during the analysis process.
 - [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - This book guides you through prototyping CAN applications on Arduinos, which can help when working with CAN on your own car.
 - [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - From 2003, this book fills in gaps in CAN literature and will educate you further on CAN networks and working with embedded systems.
-- [Inside Radio: An Attack and Defense Guide](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)This book discusses the security issues in a wide range of wireless devices and systems,Chapter 4 433/315MHz Communication (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/4.3　4.4 4.5 is about car keys Security)
+- [Inside Radio: An Attack and Defense Guide](https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)This book discusses the security issues in a wide range of wireless devices and systems,Chapter 4 433/315MHz Communication (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/4.3　4.4 4.5 is about car keys Security)
 
 ## Research Papers
 
 - [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
 - [Miller and Valasek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitive source".
-  - [Adventures in Automotive Networks and Control Units (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/aka car hacking)](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/http://illmatics.com/car_hacking.pdf)
+  - [Adventures in Automotive Networks and Control Units (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/aka car hacking)](http://illmatics.com/car_hacking.pdf)
   - [Car Hacking for Poories](http://illmatics.com/car_hacking_poories.pdf)
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
-  - [Remote Compromise of an Unaltered Passenger Vehicle (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/aka The Jeep Hack), 2015](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/http://illmatics.com/Remote%20Car%20Hacking.pdf)
+  - [Remote Compromise of an Unaltered Passenger Vehicle (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
 - [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
 - [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
@@ -126,7 +126,7 @@ CAN Bus Signal Injection Attacks](http://delivery.acm.org/10.1145/3070000/306481
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - course on Vehicle Hacking methodology.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
-- [I Am The Cavalry](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://www.iamthecavalry.org/) - Global grassroots (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://iamthecavalry.org/5star).
+- [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 - [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
 
@@ -140,7 +140,7 @@ CAN Bus Signal Injection Attacks](http://delivery.acm.org/10.1145/3070000/306481
 
 - [U.S. Automotve Cyber Security Summit](http://www.automotivecybersecurity.com/) [European Automotive Cyber Security Summit](https://automotive-cyber-security.iqpc.de/) - Conference series dedicated to automotive cyber security involving many OEMs, Tier 1s, academics, consultants, etc.
 - [escar conference](https://www.escar.info/) - Embedded security in cars. European event has run for over 10 years, and they now have US and Asia events.
-- [IT Security for Vehicles](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://www.vdi-wissensforum.de/en/event/it-security-for-vehicles/) - Conference run by the Association of German Engineers (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/VDI), with participation from US and European OEMs, Tier 1s, and others.
+- [IT Security for Vehicles](https://www.vdi-wissensforum.de/en/event/it-security-for-vehicles/) - Conference run by the Association of German Engineers (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/VDI), with participation from US and European OEMs, Tier 1s, and others.
 
 
 ## Who to Follow
@@ -184,7 +184,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 - [Security Ledger](https://soundcloud.com/securityledger) - A podcast focusing on interviewing security experts about topics related to security.
 
 ### Episodes
-- [Car Hacking with Craig Smith](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) - Software Engineering Daily did an amazing episode with Craig Smith, author of the Car Hacking Handbook (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/above), on hacking into vehicles.
+- [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) - Software Engineering Daily did an amazing episode with Craig Smith, author of the Car Hacking Handbook (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/above), on hacking into vehicles.
 - [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1) - Jason Haddix explores major vulnerabilities found in cars.
 - [Hacking Under the Hood and Into Your Car](http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car) - Chris Valasek and Charlie Miller discuss with NPR how they were able to hack into vehicles.
 - [Hacking Connected Vehicles with Chris Valasek of IOActive](https://soundcloud.com/securityledger/chris-valasek-of-ioactive) - Chris Valasek talks about hacking into connected vehicles.
@@ -222,7 +222,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [CANSPY](https://bitbucket.org/jcdemay/canspy) - A platform giving security auditors to audit CAN devices. It can be used to block, forward or modify CAN frames on the fly autonomously as well as interactively.
 - [CANBus Triple](https://canb.us/) - General purpose Controller Area Network swiss army knife and development platform.
 - [USBtin](http://www.fischl.de/usbtin/) - USBtin is a simple USB to CAN interface. It can monitor CAN busses and transmit CAN messages. USBtin implements the USB CDC class and creates a virtual comport on the host computer.
-- [OpenXC](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/http://openxcplatform.com/hardware.html) - OpenXC is a combination of open source hardware and software that lets you extend your vehicle with custom applications and pluggable modules. It uses standard, well-known tools to open up a wealth of data from the vehicle to developers. Started by researchers at Ford, it works for all 2002 and newer MY vehicles (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/standard OBD-II interface). Researchers at Ford Motor Company joined up to create a standard way of creating aftermarket software and hardware for vehicles.
+- [OpenXC](http://openxcplatform.com/hardware.html) - OpenXC is a combination of open source hardware and software that lets you extend your vehicle with custom applications and pluggable modules. It uses standard, well-known tools to open up a wealth of data from the vehicle to developers. Started by researchers at Ford, it works for all 2002 and newer MY vehicles (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/standard OBD-II interface). Researchers at Ford Motor Company joined up to create a standard way of creating aftermarket software and hardware for vehicles.
 - [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
 - [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
 
@@ -243,11 +243,11 @@ Software applications that will help you hack your car, investigate it's signals
 - [CANToolz](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- [openpilot](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/ACC) and Lane Keeping Assist System (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/LKAS) for Hondas and Acuras.
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/ACC) and Lane Keeping Assist System (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/LKAS) for Hondas and Acuras.
 - [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-- [mazda_getInfo](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/known bug in the CMU).
+- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/known bug in the CMU).
 - [talking-with-cars](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 - [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 

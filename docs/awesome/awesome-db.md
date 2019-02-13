@@ -20,7 +20,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [twitter/mysql](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
 * [postgres](https://github.com/postgres/postgres)
 * [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
-* [redis-nds](https://github.com/numetriclabz/awesome-db/blob/master/https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (https://github.com/numetriclabz/awesome-db/blob/master/the Naive Disk Store). Documentation on this feature is contained within README.nds.
+* [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (https://github.com/numetriclabz/awesome-db/blob/master/the Naive Disk Store). Documentation on this feature is contained within README.nds.
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
@@ -44,7 +44,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 * [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
-* [go-cache](https://github.com/numetriclabz/awesome-db/blob/master/https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (https://github.com/numetriclabz/awesome-db/blob/master/similar to Memcached) library for Go, suitable for single-machine applications.
+* [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (https://github.com/numetriclabz/awesome-db/blob/master/similar to Memcached) library for Go, suitable for single-machine applications.
 * [goleveldb](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -68,7 +68,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Javascript
 * [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
-* [mongodb](https://github.com/numetriclabz/awesome-db/blob/master/https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (https://github.com/numetriclabz/awesome-db/blob/master/objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://github.com/numetriclabz/awesome-db/blob/master/https://www.mongodb.org/)
+* [mongodb](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (https://github.com/numetriclabz/awesome-db/blob/master/objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
 
 
 

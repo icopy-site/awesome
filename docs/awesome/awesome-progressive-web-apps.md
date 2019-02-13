@@ -49,7 +49,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - A quick dive into the most common technologies and techniques for building progressive web apps.
 - [Intro To Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) - This free Udacity course by Google covers intro to PWAs, service workers and web app manifests.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into service workers.
-- [Progressive Web Apps (https://github.com/TalAter/awesome-progressive-web-apps/blob/master/Chrome Dev Summit 2015)](https://github.com/TalAter/awesome-progressive-web-apps/blob/master/https://www.youtube.com/watch?v=MyQ8mtR9WxI) - An introduction to progressive web apps by Alex Russell and Andreas Bovens.
+- [Progressive Web Apps (https://github.com/TalAter/awesome-progressive-web-apps/blob/master/Chrome Dev Summit 2015)](https://www.youtube.com/watch?v=MyQ8mtR9WxI) - An introduction to progressive web apps by Alex Russell and Andreas Bovens.
 - [Polymer and Progressive Web Apps: Building on the modern web - Google I/O 2016](https://www.youtube.com/watch?v=fFF2Yup2dMM) - Using Polymer to build progressive web apps.
 
 ## Case Studies
@@ -92,7 +92,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
 - [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 - [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
-- [web-push-libs](https://github.com/TalAter/awesome-progressive-web-apps/blob/master/https://github.com/web-push-libs) - A collection of useful libraries for web push in different technologies (https://github.com/TalAter/awesome-progressive-web-apps/blob/master/Node.js, PHP, Python, etc.)
+- [web-push-libs](https://github.com/web-push-libs) - A collection of useful libraries for web push in different technologies (https://github.com/TalAter/awesome-progressive-web-apps/blob/master/Node.js, PHP, Python, etc.)
 
 ### IndexedDB
 

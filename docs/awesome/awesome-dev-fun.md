@@ -2,7 +2,7 @@
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://twitter.com/mislavcimpersak) with some funny stuff.
+For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
 ## Contents
@@ -67,10 +67,10 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
-- [Object.toSting(https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/)](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
+- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
-- [HTML9 Responsive Boilerstrap JS](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/http://html9responsiveboilerstrapjs.com/) - H9RBS.js (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
+- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
@@ -137,7 +137,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers.
-- [sl](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://github.com/mtoyoda/sl) - SL (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+- [sl](https://github.com/mtoyoda/sl) - SL (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -157,12 +157,12 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 
 ## Miscellaneous
-- [Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
+- [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/cobyism/https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
 - [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/archiveeeeeeeeeed).
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/archiveeeeeeeeeed).
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷

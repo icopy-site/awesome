@@ -18,7 +18,7 @@ Pull requests are more than welcome.
 - [Ripple Primer](https://ripple.com/ripple_primer.pdf)
 - [Ripple Gateways](https://ripple.com/ripple-gateways.pdf)
 - [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
-- [Wikipedia](https://github.com/vhpoet/awesome-ripple/blob/master/https://en.wikipedia.org/wiki/Ripple_(https://github.com/vhpoet/awesome-ripple/blob/master/payment_protocol))
+- [Wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 - ["Ripple, The future of payments" video](https://vimeo.com/73887321)
 - [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
 - [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
@@ -52,8 +52,8 @@ Pull requests are more than welcome.
 #### Code
 ###### Rippled - The Guy!
 - [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
-- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/node)](https://github.com/vhpoet/awesome-ripple/blob/master/https://github.com/WietseWind/docker-rippled) - [Docker hub](https://github.com/vhpoet/awesome-ripple/blob/master/https://hub.docker.com/r/xrptipbot/rippled/)
-- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/validator)](https://github.com/vhpoet/awesome-ripple/blob/master/https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://github.com/vhpoet/awesome-ripple/blob/master/https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://github.com/vhpoet/awesome-ripple/blob/master/https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+- [rippled Docker container (https://github.com/vhpoet/awesome-ripple/blob/master/validator)](https://github.com/WietseWind/docker-rippled-https://github.com/vhpoet/awesome-ripple/blob/master/validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledhttps://github.com/vhpoet/awesome-ripple/blob/master/validator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-https://github.com/vhpoet/awesome-ripple/blob/master/validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
@@ -84,7 +84,7 @@ Pull requests are more than welcome.
 - [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
 - [ripple-data-api](https://github.com/ripple/ripple-data-api)
-- [ripple-vault-client](https://github.com/vhpoet/awesome-ripple/blob/master/ripple-vault-client)
+- [https://github.com/vhpoet/awesome-ripple/blob/master/ripple-vault-client](https://github.com/vhpoet/awesome-ripple/blob/master/ripple-vault-client)
 - [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
@@ -92,8 +92,8 @@ Pull requests are more than welcome.
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
-- [xrpayments.co](https://github.com/vhpoet/awesome-ripple/blob/master/https://xrpayments.co): Tool to generate payment request QR (https://github.com/vhpoet/awesome-ripple/blob/master/with currency conversion)
-- [XRP Text](https://github.com/vhpoet/awesome-ripple/blob/master/https://xrptext.com): Send XRP using SMS Text messages (https://github.com/vhpoet/awesome-ripple/blob/master/even on dumbphones)
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (https://github.com/vhpoet/awesome-ripple/blob/master/with currency conversion)
+- [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (https://github.com/vhpoet/awesome-ripple/blob/master/even on dumbphones)
 
 #### Hosted Tools
 ###### Clients
@@ -113,7 +113,7 @@ Pull requests are more than welcome.
 
 ###### Visualizations
 - [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
-- [Ripple Live (https://github.com/vhpoet/awesome-ripple/blob/master/GateHub)](https://github.com/vhpoet/awesome-ripple/blob/master/https://gatehub.net/live)
+- [Ripple Live (https://github.com/vhpoet/awesome-ripple/blob/master/GateHub)](https://gatehub.net/live)
 - [Rich list, ledger stats & XRP distribution](https://ledger.exposed)
 
 ###### Other tools

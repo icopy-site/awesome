@@ -29,7 +29,7 @@ Your feedback and contributions are always welcome!
 * [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
 * [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics.
 * [Woopra](https://www.woopra.com/) - track where your users are coming from.
-* [Mint](https://github.com/onurakpolat/awesome-analytics/blob/master/https://haveamint.com/) - self-hosted analytics solution (https://github.com/onurakpolat/awesome-analytics/blob/master/no longer on sale). 
+* [Mint](https://haveamint.com/) - self-hosted analytics solution (https://github.com/onurakpolat/awesome-analytics/blob/master/no longer on sale). 
 * [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
 * [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
@@ -97,7 +97,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 * [Appfigures](http://appfigures.com/) - app store analytics to track sales, reviews and rankings with an API.
 * [Appannie](http://www.appannie.com/) - track your app data from iTunes, Google Play & Amazon.
-* [Distimo](https://github.com/onurakpolat/awesome-analytics/blob/master/http://www.distimo.com/) - free app store analytics (https://github.com/onurakpolat/awesome-analytics/blob/master/acquired by [Appannie](https://github.com/onurakpolat/awesome-analytics/blob/master/http://www.appannie.com/)).
+* [Distimo](http://www.distimo.com/) - free app store analytics (https://github.com/onurakpolat/awesome-analytics/blob/master/acquired by [Appannie](http://www.appannie.com/)).
 * [Priori Data](https://prioridata.com/) - track and benchmark the performance of apps on Apple- and Play store.
 * [Asking Point](http://www.askingpoint.com/mobile-app-rating-widget) - track your mobile app user ratings.
 * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform.

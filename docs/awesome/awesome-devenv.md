@@ -55,7 +55,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Benchmarking
 *Tools to benchmark your code or services*
 
-* [apachebench (https://github.com/jondot/awesome-devenv/blob/master/ab)](https://github.com/jondot/awesome-devenv/blob/master/http://httpd.apache.org/docs/2.2/programs/ab.html)
+* [apachebench (https://github.com/jondot/awesome-devenv/blob/master/ab)](http://httpd.apache.org/docs/2.2/programs/https://github.com/jondot/awesome-devenv/blob/master/ab.html)
 * [boom](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas](https://github.com/macbre/phantomas) - website perf evaluation tool
@@ -103,10 +103,10 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Atom
 
-* [atom-beautify](https://github.com/jondot/awesome-devenv/blob/master/https://github.com/Glavin001/atom-beautify) - Beautify HTML (https://github.com/jondot/awesome-devenv/blob/master/including Handlebars), CSS (https://github.com/jondot/awesome-devenv/blob/master/including Sass and Less), JavaScript, and much more in Atom.
+* [atom-beautify](https://github.com/Glavin001/atom-beautify) - Beautify HTML (https://github.com/jondot/awesome-devenv/blob/master/including Handlebars), CSS (https://github.com/jondot/awesome-devenv/blob/master/including Sass and Less), JavaScript, and much more in Atom.
 * [file-icons](https://github.com/DanBrooker/file-icons) - Adds file specific icons to atom for improved visual grepping.
 * [highlight-selected](https://github.com/richrace/highlight-selected) - Double click on a word to highlight it throughout the open file.
-* [minimap](https://github.com/jondot/awesome-devenv/blob/master/https://github.com/atom-minimap/minimap) - A graphical map (https://github.com/jondot/awesome-devenv/blob/master/preview) of the full source code.
+* [minimap](https://github.com/atom-minimap/minimap) - A graphical map (https://github.com/jondot/awesome-devenv/blob/master/preview) of the full source code.
 * [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) - A minimap binding for the Atom git-diff package.
 * [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
 * [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - Get easy access to all your projects and manage them with project specific settings and options.
@@ -159,7 +159,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Misc
 *Useful tools that cannot find a home in other categories*
 
-* [Fenix Web Server](https://github.com/jondot/awesome-devenv/blob/master/https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (https://github.com/jondot/awesome-devenv/blob/master/desktop app).
+* [Fenix Web Server](https://fenixwebserver.com) - A multi-host local static web server with push-button sharing (https://github.com/jondot/awesome-devenv/blob/master/desktop app).
 * [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
 
 ## Notifications
@@ -171,7 +171,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
-* [Nanobox](https://github.com/jondot/awesome-devenv/blob/master/https://github.com/nanobox-io/nanobox) - A micro-PaaS (https://github.com/jondot/awesome-devenv/blob/master/μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (https://github.com/jondot/awesome-devenv/blob/master/μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
 *Tools for presenting your work*

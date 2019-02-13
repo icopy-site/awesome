@@ -4,7 +4,7 @@
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
 It can help you to build a guitar with specific sound and playability characteristics.
 
-![Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs/blob/master/./images/Sound-and-Playability.jpg)
+![Electric Guitar Specifications](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/Sound-and-Playability.jpg)
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
@@ -52,7 +52,7 @@ Please read [licence and the contribution guidelines](https://github.com/gitfrag
 ---------------
 
 ## Sound and Playability Influencing Factors
-![overview](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip8_general-pickup.jpg)
+![overview](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip8_general-pickup.jpg)
 
 Component   | Sound* | Playability*
 ------------|---------------------|---------------
@@ -79,7 +79,7 @@ For example, for building a solid-body 'jazz-sounding' guitar you have to choose
 ----------
 
 ## Guitar Necks
-![Guitar Necks](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip2_neck.jpg)
+![Guitar Necks](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip2_neck.jpg)
 
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
@@ -136,7 +136,7 @@ These dimensions are not a standard. Only careful measurement ensures that your 
 
 Strat necks have a rounded base to their heel and Tele necks have a squared-off base to their heel, which makes it difficult to interchange the two types of necks across various bodies.
 
-![neck-heel-strat-vs-tele](https://github.com/gitfrage/guitarspecs/blob/master/./images/neck-heel-strat-vs-tele.jpg)
+![neck-heel-strat-vs-tele](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/neck-heel-strat-vs-tele.jpg)
 
 Standard Fender heel mounting is done with 4-Bolt Holes - 1/8" (https://github.com/gitfrage/guitarspecs/blob/master/3mm) diameter (https://github.com/gitfrage/guitarspecs/blob/master/spread of 2" x 1-1/2").
 
@@ -186,7 +186,7 @@ Small holes can be enlarged with a sunk. Big holes can be retrofited by adapter 
 ----------
 
 ## Guitar Bodies
-![Guitar Bodies](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip1_body.jpg)
+![Guitar Bodies](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip1_body.jpg)
 
 The sound of electric guitar depends mainly on the vibration behavior of the string itself and the reproduction characteristics of the pickup. The vibration behavior of the string depends (https://github.com/gitfrage/guitarspecs/blob/master/very little) on wood. The body itself is very thick compared to the neck, that is why the body wood type and form have very limited influence on the sound of electric guitar.
 
@@ -206,10 +206,10 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 Model               | E/e              |  Sites holes Ø    | Sites holes dist | holes   | Bridge hole Ø  | Bridgehole dist
 --------------------|------------------|-------------------|------------------|---------|----------------|-------------
 Vintage Strat       | 57 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/4")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21 mm (https://github.com/gitfrage/guitarspecs/blob/master/.827")
-Vintage Narrow Strat| 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/8")   |  4.78 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.188") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21 mm (https://github.com/gitfrage/guitarspecs/blob/master/.827")
+Vintage Narrow Strat| 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  4.78 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.188") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21 mm (https://github.com/gitfrage/guitarspecs/blob/master/.827")
 Standard Strat      | 52.83 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.08") |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 11.3 mm (https://github.com/gitfrage/guitarspecs/blob/master/.446")  | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 22.6 mm (https://github.com/gitfrage/guitarspecs/blob/master/.89")
-Vintage Tele        | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.9 mm (https://github.com/gitfrage/guitarspecs/blob/master/.429")  | 4       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21.6 mm (https://github.com/gitfrage/guitarspecs/blob/master/.85")
-Standard Tele       | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 32.4 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.267")
+Vintage Tele        | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.9 mm (https://github.com/gitfrage/guitarspecs/blob/master/.429")  | 4       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 21.6 mm (https://github.com/gitfrage/guitarspecs/blob/master/.85")
+Standard Tele       | 54 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 https://github.com/gitfrage/guitarspecs/blob/master/1/8")   |  3.18 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125") | 10.5 mm (https://github.com/gitfrage/guitarspecs/blob/master/0.413") | 3       | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")    | 32.4 mm (https://github.com/gitfrage/guitarspecs/blob/master/1.267")
 Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (https://github.com/gitfrage/guitarspecs/blob/master/0.125")| -
 
 
@@ -220,7 +220,7 @@ Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 
 
 Model                  | E/e               | holes     | holes dist.      | holes Ø
 -----------------------|-------------------|-----------|------------------|--------------
-Mexico Strat           | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/16)  | 6         | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 1/16) | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")
+Mexico Strat           | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/2 1/16)  | 6         | 52,4 mm (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/2 1/16) | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")
 Vintage                | 56,36 mm (https://github.com/gitfrage/guitarspecs/blob/master/2 7/32")| 6         | 55,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.2")   | 3 mm (https://github.com/gitfrage/guitarspecs/blob/master/1/8")
 American Standard      | 52,83 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.08")  | 2         | 55,9 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.2")   | 9,5 mm (https://github.com/gitfrage/guitarspecs/blob/master/.375")
 Floyd Rose (https://github.com/gitfrage/guitarspecs/blob/master/"recessed")| 53 mm (https://github.com/gitfrage/guitarspecs/blob/master/2-3/32")   | 2         | 74 mm (https://github.com/gitfrage/guitarspecs/blob/master/2.913")   | 9,91 mm (https://github.com/gitfrage/guitarspecs/blob/master/.390")
@@ -278,20 +278,20 @@ Jazzmaster              | mm (")
 ----------
 
 ## Hardware
-![hardware](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip12_hardware.jpg)
+![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
 
 ### Tuning Machines
-![tuning machine head](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip10_tuning-machine-head.jpg)
+![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
 
 Tuning Machines Options:
 
- - Diameters of bore holes for axis (https://github.com/gitfrage/guitarspecs/blob/master/see chapter [Tuner Holes](https://github.com/gitfrage/guitarspecs/blob/master/#tuner-holes))
+ - Diameters of bore holes for axis (https://github.com/gitfrage/guitarspecs/blob/master/see chapter [Tuner Holes](#tuner-holes))
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
    Larger ratio (https://github.com/gitfrage/guitarspecs/blob/master/1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
 ### Bridges
-![bridge](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip11_bridge.jpg)
+![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
 Guitar bridge has large **influence on playability** (https://github.com/gitfrage/guitarspecs/blob/master/mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](https://github.com/gitfrage/guitarspecs/blob/master/#bridge-routing) chapter above describes common bridge categories with string spacing specification.
 
@@ -302,7 +302,7 @@ Good manufacturers provide detailed product information on their pages:
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
 
 ### Knob Styles
-![knob](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip13_knob.jpg)
+![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
 
 There are 3 common styles of knobs:
 
@@ -313,7 +313,7 @@ There are 3 common styles of knobs:
 > [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
 
 ### More Parts To Complete
-![jackplate](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip9_jackplate.jpg)
+![jackplate](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip9_jackplate.jpg)
 
  - Jacks & jackplates
  - Neck plate (https://github.com/gitfrage/guitarspecs/blob/master/neck-to-body)
@@ -329,14 +329,14 @@ For each screw, the hole must be pre-drilled to the core diameter (https://githu
 ----------------
 
 ## Electronics
-![electronics](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip3_harness.jpg)
+![electronics](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip3_harness.jpg)
 
 
 Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) - "If you know the resonant frequency and height of the resonant peak, you know about 90 percent of a pickup's transfer characteristics. Some other effects cannot be described using this model, but their influence is less important".
 
-Frequency response of a magnetic pickup may look like this ![resonant peak and frequency](https://github.com/gitfrage/guitarspecs/blob/master/./images/resonant_peak_and_frequency.jpg)
+Frequency response of a magnetic pickup may look like this ![resonant peak and frequency](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/resonant_peak_and_frequency.jpg)
 
 Sound group | Resonant frequency |  Resonant peak | Example Pickup
 ------------|--------------------|----------------|--------------
@@ -353,10 +353,10 @@ Following topics change resonant frequency and resonant peak:
  - Amp input impedance
 
 ### Pickup Properties
-![pickup properties](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip5_hambucker.jpg)
+![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
 - Dimension and product group - see chapter  [Puckup Routing](#pickup-routing)
-- Output: low(https://github.com/gitfrage/guitarspecs/blob/master/vintage), medium, high (https://github.com/gitfrage/guitarspecs/blob/master/vintage used often for jazz and blues)
+- Output: low(https://github.com/gitfrage/guitarspecs/blob/master/vintage), medium, high (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/vintage used often for jazz and blues)
 - Wiring:  1, 2, 3  or 4-Con­ductor (https://github.com/gitfrage/guitarspecs/blob/master/4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le
 - Passive vs. Active (https://github.com/gitfrage/guitarspecs/blob/master/Active often used for distortion sound)
@@ -368,9 +368,9 @@ Following topics change resonant frequency and resonant peak:
 
 ### Electronics Wiring Options
 
-![electronics wiring options](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip14_switch.jpg)
+![electronics wiring options](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip14_switch.jpg)
 
-Effect | Pot | Push/Pull or Mini <br> DPDT(https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON)* | Mini <br>DPDP(https://github.com/gitfrage/guitarspecs/blob/master/ON/ON) | Mini <br> DPDP(https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
+Effect | Pot | Push/Pull or Mini <br> DPDT(https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON)* | Mini <br>DPDP(https://github.com/gitfrage/guitarspecs/blob/master/ON/ON) | Mini <br> DPDP(https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
 ------------------------- |------|------|-----|-----|-----|----
 volume                    |  y   | -/y¹ |  -  |  -  | -   | -
 tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
@@ -382,7 +382,7 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 
 
      * switch owerview:
-    DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON):
+    DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/OFF/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/ON/ON):     DPDT (https://github.com/gitfrage/guitarspecs/blob/master/https://github.com/gitfrage/guitarspecs/blob/master/ON/ON/ON):
     0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
     0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
 
@@ -393,11 +393,11 @@ pickup switch             |  -   |  y   |  y  |  y  | y   | y
 
 '³' c-switch/varitone - Rotary switch for different pots
 
-> [open.guitars (https://github.com/gitfrage/guitarspecs/blob/master/german)](https://github.com/gitfrage/guitarspecs/blob/master/https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
+> [open.guitars (https://github.com/gitfrage/guitarspecs/blob/master/german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
-![electronics wiring schemas](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip4_wiring.jpg)
+![electronics wiring schemas](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip4_wiring.jpg)
 
 More wiring schemas from:
 
@@ -407,7 +407,7 @@ More wiring schemas from:
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 
 ### Potentiometer and Capacitor Values
-![cap values](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip16_cap.jpg)
+![cap values](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip16_cap.jpg)
 
 Sound group    			| Pot  | Cap     | Examples
 ------------------------|------|---------|----
@@ -421,7 +421,7 @@ jazzy  					| 250K | 0.047mF | some teles (https://github.com/gitfrage/guitarspe
 > http://www.planetz.com/guitar-tone-capacitors-material-types -   comparison of tone capacitor material types and capacitance values.
 
 ### Volume and Tone Potentiometer Options
-![volume and tone pot](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip15_pot.jpg)
+![volume and tone pot](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip15_pot.jpg)
 
 Group    | Pot body Ø  | Bushing Ø | Bushing length | Shaft length | Example
 ---------|-------------|-----------|----------------|--------------|------------
@@ -439,17 +439,17 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 
 
 ### Active Pickups Electronics
-![active pickups](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip7_active-pickup.jpg)
+![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
 
 Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
-> [Custom Buffers (https://github.com/gitfrage/guitarspecs/blob/master/german)](https://github.com/gitfrage/guitarspecs/blob/master/http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
+> [Custom Buffers (https://github.com/gitfrage/guitarspecs/blob/master/german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
 > [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.     
 > [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.    
 
 
 ## Strings
-![strings](https://github.com/gitfrage/guitarspecs/blob/master/./images/strings.jpg)
+![strings](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/strings.jpg)
 
 Depending on following options your sound will be more bright or more mellow:
 
@@ -471,12 +471,12 @@ Baritone 	|  .013    		 | .056
 There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "Balanced Tension" combinations.
 
 > [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.      
-> [Ghsstrings](https://github.com/gitfrage/guitarspecs/blob/master/http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (https://github.com/gitfrage/guitarspecs/blob/master/PDF)](https://github.com/gitfrage/guitarspecs/blob/master/http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
+> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (https://github.com/gitfrage/guitarspecs/blob/master/PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
 > [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
 
 
 ## Scale Length
-![scale-length](https://github.com/gitfrage/guitarspecs/blob/master/./images/scale-length-648-vs-628-mm-neck-web.jpg)
+![scale-length](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/scale-length-648-vs-628-mm-neck-web.jpg)
 
 A guitar's scale length is length of string between the nut and the bridge.
 
@@ -504,7 +504,7 @@ Common Scale Length:
 
 
 ## Woods
-![strings](https://github.com/gitfrage/guitarspecs/blob/master/./images/esche.png)
+![strings](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/esche.png)
 
 Woods       | Sound¹    | Weight²| Used for³| Looks
 ------------|---------- |--------|----------|-------------------

@@ -158,7 +158,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Go
 
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
-- [Gin](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (https://github.com/mfornos/awesome-microservices/blob/master/Golang). It features a Martini-like API with much better performance - up to 40 times faster.
+- [Gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (https://github.com/mfornos/awesome-microservices/blob/master/Golang). It features a Martini-like API with much better performance - up to 40 times faster.
 - [Gizmo](https://github.com/nytimes/gizmo) - Microservices toolkit.
 - [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
@@ -205,7 +205,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Dubbo](http://dubbo.io/) - A high-performance, java based RPC framework open-sourced by Alibaba.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
-- [Ja-micro](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (https://github.com/mfornos/awesome-microservices/blob/master/compatible with go-micro).
+- [Ja-micro](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (https://github.com/mfornos/awesome-microservices/blob/master/compatible with go-micro).
 - [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
 - [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
@@ -244,7 +244,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
-- [Serverless](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (https://github.com/mfornos/awesome-microservices/blob/master/formerly known as JAWS).
+- [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (https://github.com/mfornos/awesome-microservices/blob/master/formerly known as JAWS).
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids framework simplifies the development of microservices with Serverless using TypeScript by enabling the developer to emphasize more on business/domain logic rather than focusing too much on technical details.
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
 
@@ -343,8 +343,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 - [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
-- [Marathon](https://github.com/mfornos/awesome-microservices/blob/master/https://mesosphere.github.io/marathon/) - Deploy and manage containers (https://github.com/mfornos/awesome-microservices/blob/master/including Docker) on top of Apache Mesos at scale.
-- [Mesos](https://github.com/mfornos/awesome-microservices/blob/master/https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (https://github.com/mfornos/awesome-microservices/blob/master/physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (https://github.com/mfornos/awesome-microservices/blob/master/including Docker) on top of Apache Mesos at scale.
+- [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (https://github.com/mfornos/awesome-microservices/blob/master/physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
@@ -448,7 +448,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Avro](https://avro.apache.org/) - Apache data serialization system providing rich data structures in a compact, fast, binary data format.
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 - [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
-- [CBOR](https://github.com/mfornos/awesome-microservices/blob/master/http://cbor.io/) - Implementations of the CBOR standard (https://github.com/mfornos/awesome-microservices/blob/master/RFC 7049) in many languages.
+- [CBOR](http://cbor.io/) - Implementations of the CBOR standard (https://github.com/mfornos/awesome-microservices/blob/master/RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 - [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
@@ -456,10 +456,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ffjson](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
-- [Jackson Afterburner](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (https://github.com/mfornos/awesome-microservices/blob/master/+30-40% throughput for serialization, deserialization).
+- [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (https://github.com/mfornos/awesome-microservices/blob/master/+30-40% throughput for serialization, deserialization).
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
-- [Protostuff](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (https://github.com/mfornos/awesome-microservices/blob/master/schema evolution) and validation.
+- [Protostuff](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (https://github.com/mfornos/awesome-microservices/blob/master/schema evolution) and validation.
 - [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
@@ -524,7 +524,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### World Wide Web
 
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - Architecture of the World Wide Web, Volume One.
-- [RFC3986](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/rfc3986) - Uniform Resource Identifier (https://github.com/mfornos/awesome-microservices/blob/master/URI): Generic Syntax.
+- [RFC3986](https://tools.ietf.org/html/rfc3986) - Uniform Resource Identifier (https://github.com/mfornos/awesome-microservices/blob/master/URI): Generic Syntax.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) - URI Template.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
 
@@ -543,12 +543,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### CoAP
 
-- [RFC7252](https://github.com/mfornos/awesome-microservices/blob/master/http://coap.technology/spec.html) - The Constrained Application Protocol (https://github.com/mfornos/awesome-microservices/blob/master/CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
+- [RFC7252](http://coap.technology/spec.html) - The Constrained Application Protocol (https://github.com/mfornos/awesome-microservices/blob/master/CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
 
 ### RPC
 
 - [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
-- [JSON-RPC 2.0](https://github.com/mfornos/awesome-microservices/blob/master/http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (https://github.com/mfornos/awesome-microservices/blob/master/RPC) protocol.
+- [JSON-https://github.com/mfornos/awesome-microservices/blob/master/RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (https://github.com/mfornos/awesome-microservices/blob/master/RPC) protocol.
 
 ### Messaging
 
@@ -558,12 +558,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Security
 
-- [RFC5246](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (https://github.com/mfornos/awesome-microservices/blob/master/TLS) Protocol Version 1.2.
+- [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (https://github.com/mfornos/awesome-microservices/blob/master/TLS) Protocol Version 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
 - [RFC6749](https://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
-- [RFC7515](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/rfc7515) - JSON Web Signature (https://github.com/mfornos/awesome-microservices/blob/master/JWS) represents content secured with digital signatures or Message Authentication Codes (https://github.com/mfornos/awesome-microservices/blob/master/MACs) using JSON-based data structures.
-- [RFC7519](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/rfc7519) - JSON Web Token (https://github.com/mfornos/awesome-microservices/blob/master/JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
+- [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (https://github.com/mfornos/awesome-microservices/blob/master/JWS) represents content secured with digital signatures or Message Authentication Codes (https://github.com/mfornos/awesome-microservices/blob/master/MACs) using JSON-based data structures.
+- [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (https://github.com/mfornos/awesome-microservices/blob/master/JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 - [RFC7642](https://tools.ietf.org/html/rfc7642) - SCIM: Definitions, overview, concepts, and requirements.
 - [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
 - [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
@@ -571,7 +571,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Service Discovery
 
-- [HAL](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (https://github.com/mfornos/awesome-microservices/blob/master/HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
+- [https://github.com/mfornos/awesome-microservices/blob/master/HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (https://github.com/mfornos/awesome-microservices/blob/master/HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
 - [GraphQL](http://graphql.org/) - Query language designed to build client applications by providing an intuitive and flexible syntax and system for describing their data requirements and interactions. <sup>DRAFT</sup>
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
@@ -579,11 +579,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Data Formats
 
-- [RFC4627](https://github.com/mfornos/awesome-microservices/blob/master/https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (https://github.com/mfornos/awesome-microservices/blob/master/JSON).
-- [RFC7049](https://github.com/mfornos/awesome-microservices/blob/master/http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (https://github.com/mfornos/awesome-microservices/blob/master/CBOR).
-- [BSON](https://github.com/mfornos/awesome-microservices/blob/master/http://bsonspec.org/) - Binary JSON (https://github.com/mfornos/awesome-microservices/blob/master/BSON).
+- [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (https://github.com/mfornos/awesome-microservices/blob/master/JSON).
+- [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (https://github.com/mfornos/awesome-microservices/blob/master/CBOR).
+- [https://github.com/mfornos/awesome-microservices/blob/master/BSON](http://bsonspec.org/) - Binary JSON (https://github.com/mfornos/awesome-microservices/blob/master/BSON).
 - [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
-- [SBE](https://github.com/mfornos/awesome-microservices/blob/master/https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (https://github.com/mfornos/awesome-microservices/blob/master/SBE).
+- [https://github.com/mfornos/awesome-microservices/blob/master/SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (https://github.com/mfornos/awesome-microservices/blob/master/SBE).
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 - [UBJSON](http://ubjson.org/) - Universal Binary JSON Specification.
 
@@ -595,7 +595,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Unicode
 
-- [UNIV8](https://github.com/mfornos/awesome-microservices/blob/master/http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (https://github.com/mfornos/awesome-microservices/blob/master/Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
+- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (https://github.com/mfornos/awesome-microservices/blob/master/Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
 - [RFC3629](https://tools.ietf.org/html/rfc3629) - UTF-8, a transformation format of ISO 10646.
 
 ## Real Life Stories

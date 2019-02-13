@@ -77,9 +77,9 @@
 - [Bhikkhu Bodhi's A Course in the Pali Language](http://bodhimonastery.org/a-course-in-the-pali-language.html) - Designed to help you to learn the basics of Pali grammar and vocabulary through direct study of selections from the Buddha’s discourses. It aims to enable you to read the Buddha’s discourses in the original as quickly as possible.
 - [Buddha Vacana](http://www.buddha-vacana.org/index.html) - This website is dedicated to those who wish to understand better the words of the Buddha by learning the basics of Pali language, but who don't have much time available for it.
 - [Pali Suffixes](http://dhamma.ru/paali/tables/palisufi.htm) - List of the different ways words can end, from the Pali Dictionary by Kogen Mizuno.
-- [Basic Pāli Noun Declension (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](https://github.com/johnjago/awesome-theravada/blob/master/http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
-- [Pali Verbal Endings (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](https://github.com/johnjago/awesome-theravada/blob/master/http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
-- [Morphological analyzer and generator for Pali (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](https://github.com/johnjago/awesome-theravada/blob/master/https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
+- [Basic Pāli Noun Declension (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
+- [Pali Verbal Endings (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
+- [Morphological analyzer and generator for Pali (https://github.com/johnjago/awesome-theravada/blob/master/PDF)](https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
 
 ## Places
 
@@ -123,7 +123,7 @@
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
-- [Apadāna (https://github.com/johnjago/awesome-theravada/blob/master/Legends of the Buddhist Saints)](https://github.com/johnjago/awesome-theravada/blob/master/http://apadanatranslation.org/) - Complete translation of six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community.
+- [Apadāna (https://github.com/johnjago/awesome-theravada/blob/master/Legends of the Buddhist Saints)](http://apadanatranslation.org/) - Complete translation of six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community.
 - [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
 - [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
@@ -139,7 +139,7 @@
 
 - [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
 - [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
-- [Dana en Wat Pah Nanachat](https://github.com/johnjago/awesome-theravada/blob/master/https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (https://github.com/johnjago/awesome-theravada/blob/master/Español with English subtitles)
+- [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (https://github.com/johnjago/awesome-theravada/blob/master/Español with English subtitles)
 - [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
 ### YouTube Channels
@@ -152,18 +152,18 @@
 - [BSV Dhamma Talks](https://www.youtube.com/user/BSVWeeklyDTEng) - Buddhist Society of Victoria making available the Buddha's teachings to the community.
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - Videos from the non-sectarian Buddhist organisation of the same name.
 - [Buddhist Society of Western Australia](https://www.youtube.com/user/BuddhistSocietyWA/videos) - Talks from monks and nuns at Dhammaloka Buddhist Centre.
-- [Dhamma in English](https://github.com/johnjago/awesome-theravada/blob/master/https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (https://github.com/johnjago/awesome-theravada/blob/master/English)
+- [Dhamma in https://github.com/johnjago/awesome-theravada/blob/master/English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (https://github.com/johnjago/awesome-theravada/blob/master/English)
 - [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
 - [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - Inspiring and enlightening discourses by respected scholars, Buddhist monks and philosophers.
 - [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) - Short Q&A dhamma talks by Ajahn Nyanamoli Thero.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
-- [PhraSuchart Live](https://github.com/johnjago/awesome-theravada/blob/master/https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (https://github.com/johnjago/awesome-theravada/blob/master/Thai - ไทย)
+- [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (https://github.com/johnjago/awesome-theravada/blob/master/Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
 - [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
 - [StudentofthePath](https://www.youtube.com/user/StudentofthePath/videos) - American born Buddhist monastic's journey into homelessness.
 - [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Several documentaries on Buddhism in the late 1900s.
 - [urbanbuddhistmonk](https://www.youtube.com/user/westendbuddhistmedia) - Talks from Bhante Saranapala of the West End Buddhist Temple and Meditation Center.
-- [Wat Marp Jan (https://github.com/johnjago/awesome-theravada/blob/master/วัดมาบจันทร์)](https://github.com/johnjago/awesome-theravada/blob/master/https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
+- [Wat Marp Jan (https://github.com/johnjago/awesome-theravada/blob/master/วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 - [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 - [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
 

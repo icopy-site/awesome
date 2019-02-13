@@ -48,7 +48,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
-* [Rubyripper](https://github.com/ciconia/awesome-music/blob/master/https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application (https://github.com/ciconia/awesome-music/blob/master/"cd ripper") for Unix-like operating systems.
+* [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application (https://github.com/ciconia/awesome-music/blob/master/"cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
@@ -56,10 +56,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Free Music Scores
 
-* [cellist/Lilypond-Sheet-Music](https://github.com/ciconia/awesome-music/blob/master/https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (https://github.com/ciconia/awesome-music/blob/master/mostly chamber music and music for cello).
+* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (https://github.com/ciconia/awesome-music/blob/master/mostly chamber music and music for cello).
 * [ciconia/music](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
-* [Éditions Nicolas Sceaux](https://github.com/ciconia/awesome-music/blob/master/https://github.com/nsceaux/nenuvar) - baroque music scores (https://github.com/ciconia/awesome-music/blob/master/mainly French music), typeset using lilypond.
+* [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - baroque music scores (https://github.com/ciconia/awesome-music/blob/master/mainly French music), typeset using lilypond.
 * [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 * [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
@@ -76,7 +76,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
-* [Hacklily](https://github.com/ciconia/awesome-music/blob/master/https://www.hacklily.org) - online LilyPond-based sheet music editor (https://github.com/ciconia/awesome-music/blob/master/with optional GitHub integration).
+* [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (https://github.com/ciconia/awesome-music/blob/master/with optional GitHub integration).
 * [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
@@ -132,9 +132,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Standards
 
-* [MEI (https://github.com/ciconia/awesome-music/blob/master/Music Encoding Initiative)](https://github.com/ciconia/awesome-music/blob/master/http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
+* [MEI (https://github.com/ciconia/awesome-music/blob/master/Music Encoding Initiative)](http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
 * [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
-* [SMuFL (https://github.com/ciconia/awesome-music/blob/master/Standard Music Font Layout)](https://github.com/ciconia/awesome-music/blob/master/http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
+* [SMuFL (https://github.com/ciconia/awesome-music/blob/master/Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
 ## Other Awesomeness
 

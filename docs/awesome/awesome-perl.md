@@ -74,7 +74,7 @@ We also recommend these lists.
 
 ## Audio
 
-* [Audio::CD](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Audio::CD) - Interface to libcdaudio (https://github.com/hachiojipm/awesome-perl/blob/master/cd + cddb)
+* [Audio::CD](https://metacpan.org/pod/Audio::CD) - Interface to libcdaudio (https://github.com/hachiojipm/awesome-perl/blob/master/cd + cddb)
 * [Audio::Wav](https://metacpan.org/pod/Audio::Wav) - Modules for reading & writing Microsoft WAV files.
 
 ## Benchmarks
@@ -123,10 +123,10 @@ We also recommend these lists.
 ## Cloud
 
 * [AWS::CloudFront](https://metacpan.org/pod/AWS::CloudFront) - Lightweight interface to Amazon CloudFront CDN
-* [AWS::S3](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/AWS::S3) - Lightweight interface to Amazon S3 (https://github.com/hachiojipm/awesome-perl/blob/master/Simple Storage Service)
-* [Net::Amazon::EC2](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Net::Amazon::EC2) - Interface to the Amazon Elastic Compute Cloud (https://github.com/hachiojipm/awesome-perl/blob/master/EC2) environment.
-* [Net::AWS::SES](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Net::AWS::SES) - Perl extension that implements Amazon Simple Email Service (https://github.com/hachiojipm/awesome-perl/blob/master/SES) client
-* [WebService::DigitalOcean](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (https://github.com/hachiojipm/awesome-perl/blob/master/v2)
+* [AWS::S3](https://metacpan.org/pod/AWS::S3) - Lightweight interface to Amazon S3 (https://github.com/hachiojipm/awesome-perl/blob/master/Simple Storage Service)
+* [Net::Amazon::https://github.com/hachiojipm/awesome-perl/blob/master/EC2](https://metacpan.org/pod/Net::Amazon::https://github.com/hachiojipm/awesome-perl/blob/master/EC2) - Interface to the Amazon Elastic Compute Cloud (https://github.com/hachiojipm/awesome-perl/blob/master/EC2) environment.
+* [Net::AWS::https://github.com/hachiojipm/awesome-perl/blob/master/SES](https://metacpan.org/pod/Net::AWS::https://github.com/hachiojipm/awesome-perl/blob/master/SES) - Perl extension that implements Amazon Simple Email Service (https://github.com/hachiojipm/awesome-perl/blob/master/SES) client
+* [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (https://github.com/hachiojipm/awesome-perl/blob/master/v2)
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
 
 ## Commercial WebServices
@@ -381,7 +381,7 @@ We also recommend these lists.
 * [BioPerl](https://metacpan.org/pod/BioPerl)
 * [Chart::Clicker](https://metacpan.org/pod/Chart::Clicker) - Powerful, extensible charting
 * [PDL](http://pdl.perl.org/)
-* [PDL (https://github.com/hachiojipm/awesome-perl/blob/master/CPAN)](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/PDL)
+* [PDL (https://github.com/hachiojipm/awesome-perl/blob/master/CPAN)](https://metacpan.org/pod/PDL)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
 * [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
 * [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
@@ -451,7 +451,7 @@ We also recommend these lists.
 * [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
 * [Daiku](https://metacpan.org/pod/Daiku) - Make for Perl.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
-* [Reply](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Reply) - Read-eval-print-loop(https://github.com/hachiojipm/awesome-perl/blob/master/REPL) command-line tool.
+* [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(https://github.com/hachiojipm/awesome-perl/blob/master/REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
 *Libraries for developping command line applications*
@@ -475,7 +475,7 @@ We also recommend these lists.
 
 * [Amon2](https://metacpan.org/pod/Amon2)
 * [Catalyst](https://metacpan.org/pod/Catalyst) - Overflowing with features. Very popular.
-* [Dancer](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Dancer) (https://github.com/hachiojipm/awesome-perl/blob/master/[Official site](https://github.com/hachiojipm/awesome-perl/blob/master/http://perldancer.org/))
+* [Dancer](https://metacpan.org/pod/Dancer) (https://github.com/hachiojipm/awesome-perl/blob/master/[Official site](http://perldancer.org/))
 * [Dancer2](https://metacpan.org/pod/Dancer2)
 * [Gantry](https://metacpan.org/pod/Gantry) - Web application framework for mod\_perl, cgi, etc.
 * [Kossy](https://metacpan.org/pod/Kossy) - A Web framework with simple interface.
@@ -497,7 +497,7 @@ We also recommend these lists.
 
 *Somewhere between templates and full on frameworks*
 
-* [Embperl](https://github.com/hachiojipm/awesome-perl/blob/master/https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (https://github.com/hachiojipm/awesome-perl/blob/master/sort of like Perl crossed with PHP)
+* [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (https://github.com/hachiojipm/awesome-perl/blob/master/sort of like Perl crossed with PHP)
 * [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
 
 ## Web Scraping
@@ -518,4 +518,4 @@ Other amazingly awesome lists can be found in:
 
 ## How to contribute?
 
-Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)
+Please read [https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)

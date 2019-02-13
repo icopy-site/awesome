@@ -52,7 +52,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-> Go to [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md).
+> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md).
 
 
 ## Blogs
@@ -86,7 +86,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Case studies
 
-* [WPOStats](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (https://github.com/davidsonfellipe/awesome-wpo/blob/master/WPO) on user experience and business metrics.
+* [https://github.com/davidsonfellipe/awesome-wpo/blob/master/WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (https://github.com/davidsonfellipe/awesome-wpo/blob/master/WPO) on user experience and business metrics.
 
 
 ## Documentation
@@ -99,7 +99,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## People
 
-> Go to [PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md).
+> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md).
 
 
 ## Events
@@ -112,11 +112,11 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ### Meetups
 
-> They are categorized into [MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md).
+> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md).
+> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md).
 
 
 ## Tools
@@ -129,10 +129,10 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Page Speed](https://developers.google.com/speed/pagespeed/) - The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications.
 * [YSlow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
-* [YSlow for PhantomJS](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Test Anything Protocol) and JUnit.
-* [Grunt-WebPageTest](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[Demo](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://sideroad.github.io/sample-wpt-page/))
+* [YSlow for PhantomJS](http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Test Anything Protocol) and JUnit.
+* [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[Demo](http://sideroad.github.io/sample-wpt-page/))
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
-* [Grunt-perfbudget](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[more on performance budgets](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://timkadlec.com/2013/01/setting-a-performance-budget/)).
+* [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
 * [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behavior and performance, while generating actual load.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite.
@@ -192,7 +192,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 
 ## CDN
-> A content delivery network or content distribution network (https://github.com/davidsonfellipe/awesome-wpo/blob/master/CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
+> A content delivery network or content distribution network (https://github.com/davidsonfellipe/awesome-wpo/blob/master/CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a https://github.com/davidsonfellipe/awesome-wpo/blob/master/CDN is to serve content to end-users with high availability and high performance. See a large list of https://github.com/davidsonfellipe/awesome-wpo/blob/master/CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
 * [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites.
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
@@ -200,8 +200,8 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
-* :cn: [Bootstrap中文网开放CDN服务](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (https://github.com/davidsonfellipe/awesome-wpo/blob/master/only HTTP).
-* :ru: [Yandex CDN](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (https://github.com/davidsonfellipe/awesome-wpo/blob/master/best for use in Russia).
+* :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (https://github.com/davidsonfellipe/awesome-wpo/blob/master/only HTTP).
+* :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (https://github.com/davidsonfellipe/awesome-wpo/blob/master/best for use in Russia).
 
 > To find useful more information for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
@@ -264,25 +264,25 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 * [HeadJS](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
-* [Labjs](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://labjs.com/) - is an open-source (https://github.com/davidsonfellipe/awesome-wpo/blob/master/MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
+* [Labjs](http://labjs.com/) - is an open-source (https://github.com/davidsonfellipe/awesome-wpo/blob/master/MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 * [InstantClick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
-* [JIT](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/shootaroo/jit-grunt) - A JIT (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins.
+* [JIT](https://github.com/shootaroo/jit-grunt) - A JIT (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins.
 
 
 ## Metrics Monitor
 
 * [Phantomas](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool.
 * [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
-* [Bench](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/jmervine/bench) - Using Phantomas (https://github.com/davidsonfellipe/awesome-wpo/blob/master/a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
+* [Bench](https://github.com/jmervine/bench) - Using Phantomas (https://github.com/davidsonfellipe/awesome-wpo/blob/master/a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
 * [Keepfast](https://github.com/keepfast/keepfast) - Tool to monitor indicators related to performance of a web page.
 * [GTmetrix](https://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks.
 * [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
-* [WebPageTest](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (https://github.com/davidsonfellipe/awesome-wpo/blob/master/IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
+* [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (https://github.com/davidsonfellipe/awesome-wpo/blob/master/IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
-* [Perfjankie](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[Demo](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/asciidisco/perfjankie-test)).
+* [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite (https://github.com/davidsonfellipe/awesome-wpo/blob/master/[Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 * [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - Monitor your browser-side applications in real time, with a focus on real end users’ experiences.
 * [DareBoost](https://www.dareboost.com/) - Real Browser Monitoring. Offers complete reports about web performance and quality  using YSlow, Page Speed and numerous custom tips.
@@ -304,14 +304,14 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [HTML_minifier](https://github.com/stereobooster/html_minifier) - Ruby wrapper for kangax html-minifier.
 * [HTML_press](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 * [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
-* [HTML Minifier Online](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (https://github.com/davidsonfellipe/awesome-wpo/blob/master/HTMLMinifier Creator).
+* [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (https://github.com/davidsonfellipe/awesome-wpo/blob/master/HTMLMinifier Creator).
 * [Minimize](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
 * [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views
 
 
 ## Minifiers - JS & CSS
 
-* [YUI Compressor](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (https://github.com/davidsonfellipe/awesome-wpo/blob/master/although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
+* [YUI Compressor](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (https://github.com/davidsonfellipe/awesome-wpo/blob/master/although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
 * [UglifyJS2](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit,  written in JavaScript.
 * [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
@@ -325,7 +325,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 * [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
 * [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
-* [Prettyugly](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/stoyan/prettyugly) - Uglify (https://github.com/davidsonfellipe/awesome-wpo/blob/master/strip spaces) or prettify (https://github.com/davidsonfellipe/awesome-wpo/blob/master/add consistent spaces) CSS code.
+* [Prettyugly](https://github.com/stoyan/prettyugly) - Uglify (https://github.com/davidsonfellipe/awesome-wpo/blob/master/strip spaces) or prettify (https://github.com/davidsonfellipe/awesome-wpo/blob/master/add consistent spaces) CSS code.
 * [Grunt-contrib-cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) - CSS Minifier for Grunt.
 * [Gulp-cssmin](https://github.com/chilijung/gulp-cssmin) - CSS Minifier for Gulp.
 * [Grunt-uncss](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects.
@@ -335,14 +335,14 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 ## Miscellaneous
 
 * [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
-* [uCSS](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/oyvindeh/ucss) - uCSS is made for crawling (https://github.com/davidsonfellipe/awesome-wpo/blob/master/large) websites to find unused CSS selectors, but not remove unused CSS.
+* [uCSS](https://github.com/oyvindeh/ucss) - uCSS is made for crawling (https://github.com/davidsonfellipe/awesome-wpo/blob/master/large) websites to find unused CSS selectors, but not remove unused CSS.
 * [HTTPinvoke](https://github.com/jakutis/httpinvoke)- A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
-* [Critical](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (https://github.com/davidsonfellipe/awesome-wpo/blob/master/alpha).
-* [Csscolormin](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min(https://github.com/davidsonfellipe/awesome-wpo/blob/master/"white"); // minifies to "#fff".
+* [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (https://github.com/davidsonfellipe/awesome-wpo/blob/master/alpha).
+* [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min(https://github.com/davidsonfellipe/awesome-wpo/blob/master/"white"); // minifies to "#fff".
 * [StyleStats](http://www.stylestats.org/) - StyleStats is a Node.js library to collect CSS statistics.
-* [Lazysizes](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (https://github.com/davidsonfellipe/awesome-wpo/blob/master/responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (https://github.com/davidsonfellipe/awesome-wpo/blob/master/responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
-* [TMI](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/addyosmani/tmi) - TMI (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Too Many Images) - discover your image weight on the web.
+* [TMI](https://github.com/addyosmani/tmi) - TMI (https://github.com/davidsonfellipe/awesome-wpo/blob/master/Too Many Images) - discover your image weight on the web.
 
 
 ## Generators
@@ -393,13 +393,13 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 * [wrk](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
   processing, and custom reporting)
-* [beeswithmachineguns](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://github.com/newsapps/beeswithmachineguns) - A utility for arming (https://github.com/davidsonfellipe/awesome-wpo/blob/master/creating) many bees (https://github.com/davidsonfellipe/awesome-wpo/blob/master/micro EC2 instances) to attack (https://github.com/davidsonfellipe/awesome-wpo/blob/master/load test) targets (https://github.com/davidsonfellipe/awesome-wpo/blob/master/web applications).
+* [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (https://github.com/davidsonfellipe/awesome-wpo/blob/master/creating) many bees (https://github.com/davidsonfellipe/awesome-wpo/blob/master/micro EC2 instances) to attack (https://github.com/davidsonfellipe/awesome-wpo/blob/master/load test) targets (https://github.com/davidsonfellipe/awesome-wpo/blob/master/web applications).
 * [k6](https://k6.io/) - An open source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and websites using HTTP/1.1, HTTP/2 and WebSocket.
 
 
 ## Web server Modules
 
-* [PageSpeed Module](https://github.com/davidsonfellipe/awesome-wpo/blob/master/https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (https://github.com/davidsonfellipe/awesome-wpo/blob/master/CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
+* [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (https://github.com/davidsonfellipe/awesome-wpo/blob/master/CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 * [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 
 
@@ -412,7 +412,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [User Timing](http://www.w3.org/TR/user-timing/) - This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps.
 * [Performance Timeline](http://www.w3.org/TR/performance-timeline/) - This specification defines a unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces.
 * [CSS will-change](https://drafts.csswg.org/css-will-change/) - This specification defines the `will-change` CSS property which allows an author to declare ahead-of-time what properties are likely to change in the future, so the UA can set up the appropriate optimizations some time before they’re needed. This way, when the actual change happens, the page updates in a snappy manner.
-* [Resource Hints](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://www.w3.org/TR/resource-hints/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (https://github.com/davidsonfellipe/awesome-wpo/blob/master/&lt;link&gt;). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
+* [Resource Hints](http://www.w3.org/TR/resource-hints/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (https://github.com/davidsonfellipe/awesome-wpo/blob/master/&lt;link&gt;). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
 
 
 ## Stats

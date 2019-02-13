@@ -37,7 +37,7 @@
 
 
 ## 2014
-1. [Ilya Grigorik: **Website Performance Optimization** (https://github.com/bolshchikov/js-must-watch/blob/master/Udacity course)](https://github.com/bolshchikov/js-must-watch/blob/master/https://www.udacity.com/course/ud884) [1:13:57]
+1. [Ilya Grigorik: **Website Performance Optimization** (https://github.com/bolshchikov/js-must-watch/blob/master/Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
 1. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [29:07]
 1. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312) [20:13]

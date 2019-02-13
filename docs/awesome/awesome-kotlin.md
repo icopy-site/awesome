@@ -3,15 +3,15 @@
     please read CONTRIBUTING.md for more information.
 -->
 
-## Awesome Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/[https://kotlin.link](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://kotlin.link))
+## Awesome Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/[https://kotlin.link](https://kotlin.link))
 
 A curated list of awesome Kotlin related stuff inspired by awesome-java. :octocat:
 
 [![List of Awesome List Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis CI Build Status Badge](https://api.travis-ci.org/KotlinBy/awesome-kotlin.svg?branch=master)](https://travis-ci.org/KotlinBy/awesome-kotlin) [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
-:newspaper: [RSS Feed of articles, videos, slides, updates (https://github.com/KotlinBy/awesome-kotlin/blob/master/20 latest articles)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/rss.xml)
+:newspaper: [RSS Feed of articles, videos, slides, updates (https://github.com/KotlinBy/awesome-kotlin/blob/master/20 latest articles)](http://kotlin.link/rss.xml)
 
-:newspaper: [RSS Feed of articles, videos, slides, updates (https://github.com/KotlinBy/awesome-kotlin/blob/master/full archive)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/rss-full.xml)
+:newspaper: [RSS Feed of articles, videos, slides, updates (https://github.com/KotlinBy/awesome-kotlin/blob/master/full archive)](http://kotlin.link/rss-full.xml)
 
 ## Spread Awesome Kotlin!
 
@@ -148,7 +148,7 @@ Here awesome badge for your project:
 * [JetBrains/kotlin](https://github.com/jetbrains/kotlin) 
 * [Home Page](http://kotlinlang.org/) 
 * [Language Reference](http://kotlinlang.org/docs/reference/) 
-* [Slack (https://github.com/KotlinBy/awesome-kotlin/blob/master/18k+ users)](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://kotlinslack.herokuapp.com/) 
+* [Slack (https://github.com/KotlinBy/awesome-kotlin/blob/master/18k+ users)](https://kotlinslack.herokuapp.com/) 
 * [Public chat archive of Kotlin's Slack](http://kotlinlang.slackarchive.io/) 
 * [Try Kotlin!](http://try.kotlinlang.org/) 
 * [Blog](http://blog.jetbrains.com/kotlin/) 
@@ -166,7 +166,7 @@ Here awesome badge for your project:
 * [Trending Kotlin on Github](https://github.com/trending?l=kotlin) 
 * [Antonio Leiva - Android and any other monsters](http://antonioleiva.com/) 
 * [Programming Community Curated Resources for learning Kotlin](https://hackr.io/tutorials/learn-kotlin) 
-* [LinkedIn: Kotlin Developers (https://github.com/KotlinBy/awesome-kotlin/blob/master/Join!)](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://www.linkedin.com/groups/7417237/profile) 
+* [LinkedIn: Kotlin Developers (https://github.com/KotlinBy/awesome-kotlin/blob/master/Join!)](https://www.linkedin.com/groups/7417237/profile) 
 * [Kotlin - Google+](https://plus.google.com/communities/104597899765146112928) 
 * [From Java To Kotlin](https://github.com/fabiomsr/from-java-to-kotlin) 
 * [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
@@ -246,7 +246,7 @@ Here awesome badge for your project:
 * [qwertukg/SeleniumBuilder](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
 * [mockk/mockk](https://github.com/mockk/mockk) - Pure Kotlin mocking library.
 * [mvysny/DynaTest](https://github.com/mvysny/dynatest) - Write your tests in DSL way. Runs on JUnit5 Platform.
-* [tyro/arbitrater](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (https://github.com/KotlinBy/awesome-kotlin/blob/master/randomized) instances of classes by reflection for use in testing.
+* [tyro/arbitrater](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (https://github.com/KotlinBy/awesome-kotlin/blob/master/randomized) instances of classes by reflection for use in testing.
 * [xgouchet/Elmyr](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 * [neworld/kupiter](https://github.com/neworld/kupiter) - Kotlin DSL for Junit5
 * [karumi/KotlinSnapshot](https://github.com/Karumi/KotlinSnapshot) - Verify your data with snapshot testing.
@@ -288,7 +288,7 @@ Here awesome badge for your project:
 * [SalomonBrys/Kotson](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
 * [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Jackson module that adds support for serialization/deserialization of Kotlin classes and data classes.
 * [Shengaero/kotlin-json](https://github.com/Shengaero/kotlin-json) - A lightweight, stylistic, optimized, and multiplatform JSON library for Kotlin-JVM and Kotlin-JS
-* [fboldog/ext4klaxon](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/fboldog/ext4klaxon) - Type Extensions (https://github.com/KotlinBy/awesome-kotlin/blob/master/Long, Int, Enum, Date) for Klaxon.
+* [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) - Type Extensions (https://github.com/KotlinBy/awesome-kotlin/blob/master/Long, Int, Enum, Date) for Klaxon.
 * [Jire/KTON](https://github.com/Jire/KTON) - Object notation in pure Kotlin!
 * [fluidsonic/fluid-json](https://github.com/fluidsonic/fluid-json) - A JSON library written in pure Kotlin.
 * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
@@ -319,7 +319,7 @@ Here awesome badge for your project:
 ### <a name="libraries-frameworks-tools"></a>Tools <sup>[Back ⇈](#libraries-frameworks-tools-subcategory)</sup>
 * [Kotlin/dokka](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
 * [Vorlonsoft/EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle Script plugin to generate documentation by Dokka for Kotlin and Java, Android and non-Android projects.
-* [Vorlonsoft/GradleMavenPush](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/Vorlonsoft/GradleMavenPush) - Gradle Script plugin to upload Gradle Android/Kotlin/Java Artifacts to Maven repositories (https://github.com/KotlinBy/awesome-kotlin/blob/master/JCenter, Maven Central, ...).
+* [Vorlonsoft/GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle Script plugin to upload Gradle Android/Kotlin/Java Artifacts to Maven repositories (https://github.com/KotlinBy/awesome-kotlin/blob/master/JCenter, Maven Central, ...).
 * [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin.
 * [kohesive/keplin](https://github.com/kohesive/keplin) - Secure Kotlin scripting and binary lambda-scripts.
 * [shyiko/ktlint](https://github.com/shyiko/ktlint) - Kotlin linter.
@@ -349,8 +349,8 @@ Here awesome badge for your project:
 * [mathiasfrohlich/vscode-kotlin](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
 
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
-* [jneen/rouge](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (https://github.com/KotlinBy/awesome-kotlin/blob/master/wip)
-* [isagalaev/highlight.js](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (https://github.com/KotlinBy/awesome-kotlin/blob/master/out-of-date)
+* [jneen/rouge](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (https://github.com/KotlinBy/awesome-kotlin/blob/master/wip)
+* [isagalaev/highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (https://github.com/KotlinBy/awesome-kotlin/blob/master/out-of-date)
 * [github/linguist](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package
 * [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
 * [cansik/kotlin-latex-listing](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
@@ -377,13 +377,13 @@ Here awesome badge for your project:
 * [yole/kxdate](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 * [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing
-* [debop/koda-time](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (https://github.com/KotlinBy/awesome-kotlin/blob/master/From Java 8 use java.time instead)
+* [debop/koda-time](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (https://github.com/KotlinBy/awesome-kotlin/blob/master/From Java 8 use java.time instead)
 * [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
 * [cesarferreira/kotlin-pluralizer](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings.
 * [JoelW-S/groothy](https://github.com/JoelW-S/groothy) - Kotlin implementation of Groovy Truth.
 * [Jire/Strukt](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 * [moshbit/Kotlift](https://github.com/moshbit/Kotlift) - Kotlift is the first source-to-source language transpiler from Kotlin to Swift.
-* [consoleau/kassava](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString(https://github.com/KotlinBy/awesome-kotlin/blob/master/) and equals(https://github.com/KotlinBy/awesome-kotlin/blob/master/) without all of the boilerplate.
+* [consoleau/kassava](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 * [moove-it/fakeit](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 * [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - A simple utility library for readable loops.
 * [phxql/aleksa](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
@@ -395,7 +395,7 @@ Here awesome badge for your project:
 * [kunalsheth/units-of-measure](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
 * [spoptchev/kotlin-preconditions](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
 * [spoptchev/scientist](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
-* [soywiz/klock](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/JVM, JS and Common).
+* [soywiz/klock](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/JVM, JS and Common).
 * [d-max/dsl-logger](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
 * [evoasm/kasm](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 * [korlibs/kds](https://github.com/korlibs/kds) - Optimized Kotlin Data Structures for JVM, JS and Common
@@ -427,7 +427,7 @@ Here awesome badge for your project:
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
 * [data2viz/data2viz](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
 * [kotlin-graphics/glm](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
-* [kotlin-graphics/kotlin-unsigned](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (https://github.com/KotlinBy/awesome-kotlin/blob/master/Ubyte, Uint, Ulong and Ushort) for unsigned support.
+* [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (https://github.com/KotlinBy/awesome-kotlin/blob/master/Ubyte, Uint, Ulong and Ushort) for unsigned support.
 * [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 * [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
@@ -436,8 +436,8 @@ Here awesome badge for your project:
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 * [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - bullet port
 * [GlimpseFramework/glimpse-framework](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-* [java-opengl-labs/modern-jogl-examples](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (https://github.com/KotlinBy/awesome-kotlin/blob/master/jogl)
-* [java-opengl-labs/learn-OpenGL](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (https://github.com/KotlinBy/awesome-kotlin/blob/master/lwjgl)
+* [java-opengl-labs/modern-https://github.com/KotlinBy/awesome-kotlin/blob/master/jogl-examples](https://github.com/java-opengl-labs/modern-https://github.com/KotlinBy/awesome-kotlin/blob/master/jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (https://github.com/KotlinBy/awesome-kotlin/blob/master/jogl)
+* [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (https://github.com/KotlinBy/awesome-kotlin/blob/master/lwjgl)
 * [java-opengl-labs/Vulkan](https://github.com/java-opengl-labs/Vulkan) - port of https://github.com/SaschaWillems/Vulkan
 * [Jonatino/JOGL2D](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
 * [soywiz/kaifu2x](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
@@ -461,7 +461,7 @@ Here awesome badge for your project:
 * [aPureBase/arkenv](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
 
 ### <a name="libraries-frameworks-browsers"></a>Browsers <sup>[Back ⇈](#libraries-frameworks-browsers-subcategory)</sup>
-* [wendigo/chrome-reactive-kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/wendigo/chrome-reactive-kotlin) - Chrome Debugging Protocol for Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/with RxJava2)
+* [wendigo/chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - Chrome Debugging Protocol for Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/with RxJava2)
 
 
 ## <a name="projects"></a>Projects <sup>[Back ⇈](#projects-category)</sup>
@@ -480,7 +480,7 @@ Here awesome badge for your project:
 * [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
 * [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
 * [yyunikov/spring-boot-2-kotlin-starter](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
-* [viniciusccarvalho/kodein-cloud-functions](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (https://github.com/KotlinBy/awesome-kotlin/blob/master/AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+* [viniciusccarvalho/kodein-cloud-functions](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (https://github.com/KotlinBy/awesome-kotlin/blob/master/AWS, Azure) to run vanilla kotlin functions defined as kodein modules
 
 ### <a name="projects-build-tools"></a>Build tools <sup>[Back ⇈](#projects-build-tools-subcategory)</sup>
 * [cbeust/kobalt](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
@@ -490,14 +490,14 @@ Here awesome badge for your project:
 
 ### <a name="projects-misc"></a>Misc <sup>[Back ⇈](#projects-misc-subcategory)</sup>
 * [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
-* [brikk/brikk](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/brikk/brikk) - Brikk dependency manager (https://github.com/KotlinBy/awesome-kotlin/blob/master/Kotlin, KotlinJS, Java, ...).
+* [brikk/brikk](https://github.com/brikk/brikk) - Brikk dependency manager (https://github.com/KotlinBy/awesome-kotlin/blob/master/Kotlin, KotlinJS, Java, ...).
 * [lice-lang/lice](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
 * [sureshg/InstallCerts](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
-* [vicboma1/GameBoyEmulatorEnvironment](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (https://github.com/KotlinBy/awesome-kotlin/blob/master/coroutines).
+* [vicboma1/GameBoyEmulatorEnvironment](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (https://github.com/KotlinBy/awesome-kotlin/blob/master/coroutines).
 * [borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
 * [jenkinsci/doktor-plugin](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
 * [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-* [kpspemu/kpspemu](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/kpspemu/kpspemu) - Multiplatform (https://github.com/KotlinBy/awesome-kotlin/blob/master/JS and JVM) PSP Emulator written in Kotlin.
+* [kpspemu/kpspemu](https://github.com/kpspemu/kpspemu) - Multiplatform (https://github.com/KotlinBy/awesome-kotlin/blob/master/JS and JVM) PSP Emulator written in Kotlin.
 * [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
 * [chrislo27/RhythmHeavenRemixEditor](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
 * [Poweranimal/PowerCollections](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
@@ -586,7 +586,7 @@ Here awesome badge for your project:
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.
 * [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
-* [codenameone/CodenameOne](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (https://github.com/KotlinBy/awesome-kotlin/blob/master/iPhone/iPad), Android, Windows & more using Kotlin & Java
+* [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (https://github.com/KotlinBy/awesome-kotlin/blob/master/iPhone/iPad), Android, Windows & more using Kotlin & Java
 * [Rasalexman/Flair](https://github.com/Rasalexman/Flair) - Powerful android architecture framework based on MVC pattern without fragments and activities with events system, view backstack and simple lifecycle. Clean Architecture
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
@@ -662,7 +662,7 @@ Here awesome badge for your project:
 * [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
 
 ### <a name="kotlin-javascript-integration"></a>Integration <sup>[Back ⇈](#kotlin-javascript-integration-subcategory)</sup>
-* [kotlin/ts2kt](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (https://github.com/KotlinBy/awesome-kotlin/blob/master/stubs).
+* [kotlin/ts2kt](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (https://github.com/KotlinBy/awesome-kotlin/blob/master/stubs).
 
 
 ## <a name="kotlin-native"></a>Kotlin Native <sup>[Back ⇈](#kotlin-native-category)</sup>
@@ -769,7 +769,7 @@ Here awesome badge for your project:
 ### <a name="kotlin-user-groups-north-america"></a>North America <sup>[Back ⇈](#kotlin-user-groups-north-america-subcategory)</sup>
 * [Albuquerque Kotlin User Group](https://www.meetup.com/Kotlin-ABQ/) - USA
 * [Bay Area Kotlin User Group](http://www.meetup.com/Bay-Area-Kotlin-User-Group/) - USA
-* [Brooklyn (https://github.com/KotlinBy/awesome-kotlin/blob/master/NY) Kotlin User Group](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://www.meetup.com/Brooklyn-Kotlin/) - USA
+* [Brooklyn (https://github.com/KotlinBy/awesome-kotlin/blob/master/NY) Kotlin User Group](https://www.meetup.com/Brooklyn-Kotlin/) - USA
 * [Cambridge Kotlin Office Hours](https://www.meetup.com/kotlin-office-hours/) - USA
 * [Chicago Kotlin Users Group](http://www.meetup.com/Chicago-Kotlin/) - USA
 * [Cincinnati Kotlin User Group](https://www.meetup.com/Cincinnati-Kotlin/) - USA
@@ -982,7 +982,7 @@ Here awesome badge for your project:
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - Andrey Breslav
 * [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) - Nicolas Fränkel
 * [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) - Przemek Dąbrowski
-* [JUnit 5 with Spring Boot (https://github.com/KotlinBy/awesome-kotlin/blob/master/plus Kotlin)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) - Mike Plummer
+* [JUnit 5 with Spring Boot (https://github.com/KotlinBy/awesome-kotlin/blob/master/plus Kotlin)](http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) - Mike Plummer
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) - Artem Zinnatullin
 * [KotlinLifeguard #1](http://kotlin.link/articles/KotlinLifeguard-1.html) - Daniel Gomez Rico
 
@@ -1013,8 +1013,8 @@ Here awesome badge for your project:
 * [Gradle Meets Kotlin](http://kotlin.link/articles/Gradle-Meets-Kotlin.html) - Hadi Hariri
 * [Kotlin, dragging java into the modern world](http://kotlin.link/articles/Kotlin-dragging-java-into-the-modern-world.html) - Tim Gray
 * [Neural Network in Kotlin](http://kotlin.link/articles/Neural-Network-in-Kotlin.html) - Cédric Beust
-* [Some of my favorite Kotlin features (https://github.com/KotlinBy/awesome-kotlin/blob/master/that we use a lot in Basecamp)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Some-of-my-favorite-Kotlin-features-that-we-use-a-lot-in-Basecamp.html) - Dan Kim
-* [Neural Networks in Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/part 2)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Neural-Networks-in-Kotlin-part-2.html) - Cédric Beust
+* [Some of my favorite Kotlin features (https://github.com/KotlinBy/awesome-kotlin/blob/master/that we use a lot in Basecamp)](http://kotlin.link/articles/Some-of-my-favorite-Kotlin-features-that-we-use-a-lot-in-Basecamp.html) - Dan Kim
+* [Neural Networks in Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/part 2)](http://kotlin.link/articles/Neural-Networks-in-Kotlin-part-2.html) - Cédric Beust
 
 ### <a name="articles-blog-posts-april-2016"></a>April 2016 <sup>[Back ⇈](#articles-blog-posts-april-2016-subcategory)</sup>
 * [Experimental: Kotlin and mutation testing](http://kotlin.link/articles/Experimental-Kotlin-and-mutation-testing.html) - Nicolas Frankel
@@ -1029,7 +1029,7 @@ Here awesome badge for your project:
 * [Kotlin for Scala Developers](http://kotlin.link/articles/Kotlin-for-Scala-Developers.html) - Stephen Samuel
 * [Kotlin Post-1.0 Roadmap](http://kotlin.link/articles/Kotlin-Post-1-0-Roadmap.html) - Dmitry Jemerov
 * [Few thoughts about Kotlin and why I like it so much](http://kotlin.link/articles/Few-thoughts-about-Kotlin-and-why-I-like-it-so-much.html) - Dhananjay Nene
-* [Performance comparison - building Android UI with code (https://github.com/KotlinBy/awesome-kotlin/blob/master/Anko) vs XML Layout.](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Performance-comparison-building-Android-UI-with-code-Anko-vs-XML-Layout.html) - Andrew Drobyazko
+* [Performance comparison - building Android UI with code (https://github.com/KotlinBy/awesome-kotlin/blob/master/Anko) vs XML Layout.](http://kotlin.link/articles/Performance-comparison-building-Android-UI-with-code-https://github.com/KotlinBy/awesome-kotlin/blob/master/Anko-vs-XML-Layout.html) - Andrew Drobyazko
 * [Code improvements with Kotlin](http://kotlin.link/articles/Code-improvements-with-Kotlin.html) - Nicolas Frankel
 * [Exercises in Kotlin: Part 1 - Getting Started](http://kotlin.link/articles/Exercises-in-Kotlin-Part-1-Getting-Started.html) - Dhananjay Nene
 * [Exercises in Kotlin: Part 2 - High level syntax and Variables](http://kotlin.link/articles/Exercises-in-Kotlin-Part-2-High-level-syntax-and-Variables.html) - Dhananjay Nene
@@ -1098,7 +1098,7 @@ Here awesome badge for your project:
 * [Радио-Т 484](http://kotlin.link/articles/Радио-Т-484.html) - Umputun, Bobuk, Gray, Ksenks
 * [Weekend resources for new Kotlin programmers](http://kotlin.link/articles/Weekend-resources-for-new-Kotlin-programmers.html) - Joey deVilla
 * [The Kobalt diaries: testing](http://kotlin.link/articles/The-Kobalt-diaries-testing.html) - Cédric Beust
-* [Using Mockito for unit testing with Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/1/x)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Using-Mockito-for-unit-testing-with-Kotlin-1x.html) - MAKINGIANTS
+* [Using Mockito for unit testing with Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/1/x)](http://kotlin.link/articles/Using-Mockito-for-unit-testing-with-Kotlin-1x.html) - MAKINGIANTS
 * [Kotlin — Love at first line](http://kotlin.link/articles/Kotlin-Love-at-first-line.html) - Dimitar Kotevski
 * [More Kotlin Features to Love](http://kotlin.link/articles/More-Kotlin-Features-to-Love.html) - Jim Baca
 * [A Very Peculiar, but Possibly Cunning Kotlin Language Feature.](http://kotlin.link/articles/A-Very-Peculiar-but-Possibly-Cunning-Kotlin-Language-Feature.html) - Lukas Eder
@@ -1147,7 +1147,7 @@ Here awesome badge for your project:
 ### <a name="articles-blog-posts-june-2015"></a>June 2015 <sup>[Back ⇈](#articles-blog-posts-june-2015-subcategory)</sup>
 * [Quasar and Kotlin - a Powerful Match](http://kotlin.link/articles/Quasar-and-Kotlin-–-a-Powerful-Match.html) - Fabio
 * [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - Peter Ledbrook
-* [RxAndroid and Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/Part 1)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/RxAndroid-and-Kotlin-Part-1.html) - Ahmed Rizwan
+* [RxAndroid and Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/Part 1)](http://kotlin.link/articles/RxAndroid-and-Kotlin-Part-1.html) - Ahmed Rizwan
 
 ### <a name="articles-blog-posts-december-2014"></a>December 2014 <sup>[Back ⇈](#articles-blog-posts-december-2014-subcategory)</sup>
 * [Non-trivial constructors in Kotlin](http://kotlin.link/articles/Non-trivial-constructors-in-Kotlin.html) - Alex Shabanov
@@ -1173,14 +1173,14 @@ Here awesome badge for your project:
 
 ### <a name="videos-december-2016"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
 * [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) - Haim Yadid
-* [Functional Programming in Kotlin with funKTionale (https://github.com/KotlinBy/awesome-kotlin/blob/master/Video)](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - Mario Arias
+* [Functional Programming in Kotlin with funKTionale (https://github.com/KotlinBy/awesome-kotlin/blob/master/Video)](http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-https://github.com/KotlinBy/awesome-kotlin/blob/master/Video.html) - Mario Arias
 * [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) - Francisco Estevez
 * [Costruiamo un treno in Kotlin](http://kotlin.link/articles/Costruiamo-un-treno-in-Kotlin.html) - Francesco Vasco
 * [Kotlin: Будущие изменения и текущие мифы](http://kotlin.link/articles/Kotlin-Будущие-изменения-и-текущие-мифы.html) - Android в Лицах
 
 ### <a name="videos-november-2016"></a>November 2016 <sup>[Back ⇈](#videos-november-2016-subcategory)</sup>
 * [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - Anton Keks
-* [10 Kotlin Tricks in 10(https://github.com/KotlinBy/awesome-kotlin/blob/master/ish) Minutes](https://github.com/KotlinBy/awesome-kotlin/blob/master/http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - Jake Wharton
+* [10 Kotlin Tricks in 10(https://github.com/KotlinBy/awesome-kotlin/blob/master/ish) Minutes](http://kotlin.link/articles/10-Kotlin-Tricks-in-10-https://github.com/KotlinBy/awesome-kotlin/blob/master/ish-Minutes-by-Jake-Wharton.html) - Jake Wharton
 * [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) - JetBrains
 * [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) - Nevin Chen
 * [Code Swarm for Kotlin](http://kotlin.link/articles/Code-Swarm-for-kotlin.html) - Landon Wilkins

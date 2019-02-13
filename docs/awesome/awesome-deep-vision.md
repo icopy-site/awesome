@@ -51,9 +51,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### ImageNet Classification
 ![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
 (https://github.com/kjw0612/awesome-deep-vision/blob/master/from Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.)
-* Microsoft (https://github.com/kjw0612/awesome-deep-vision/blob/master/Deep Residual Learning) [[Paper](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
+* Microsoft (https://github.com/kjw0612/awesome-deep-vision/blob/master/Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-* Microsoft (https://github.com/kjw0612/awesome-deep-vision/blob/master/PReLu/Weight Initialization) [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1502.01852)
+* Microsoft (https://github.com/kjw0612/awesome-deep-vision/blob/master/PReLu/Weight Initialization) [[Paper]](http://arxiv.org/pdf/1502.01852)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
 * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167)
   * Sergey Ioffe, Christian Szegedy, Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, arXiv:1502.03167.
@@ -89,7 +89,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Joseph Redmon, Ali Farhadi (https://github.com/kjw0612/awesome-deep-vision/blob/master/Version 2)
 * Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
   * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
-* Deep Residual Network (https://github.com/kjw0612/awesome-deep-vision/blob/master/Current State-of-the-Art) [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/abs/1512.03385)
+* Deep Residual Network (https://github.com/kjw0612/awesome-deep-vision/blob/master/Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
 * Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
 * R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
@@ -117,7 +117,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Iterative Image Reconstruction
   * Sven Behnke: Learning Iterative Image Reconstruction. IJCAI, 2001. [[Paper]](http://www.ais.uni-bonn.de/behnke/papers/ijcai01.pdf)
   * Sven Behnke: Learning Iterative Image Reconstruction in the Neural Abstraction Pyramid. International Journal of Computational Intelligence and Applications, vol. 1, no. 4, pp. 427-438, 2001. [[Paper]](http://www.ais.uni-bonn.de/behnke/papers/ijcia01.pdf)
-* Super-Resolution (https://github.com/kjw0612/awesome-deep-vision/blob/master/SRCNN) [[Web]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1501.00092.pdf)
+* Super-Resolution (https://github.com/kjw0612/awesome-deep-vision/blob/master/SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/https://github.com/kjw0612/awesome-deep-vision/blob/master/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)
   * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, ECCV, 2014.
   * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092.
 * Very Deep Super-Resolution
@@ -134,7 +134,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
 #### Other Applications
-* Optical Flow (https://github.com/kjw0612/awesome-deep-vision/blob/master/FlowNet) [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1504.06852)
+* Optical Flow (https://github.com/kjw0612/awesome-deep-vision/blob/master/FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
 * Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993)
   * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993.
@@ -168,26 +168,26 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 (https://github.com/kjw0612/awesome-deep-vision/blob/master/from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)
 * PASCAL VOC2012 Challenge Leaderboard (https://github.com/kjw0612/awesome-deep-vision/blob/master/01 Sep. 2016)
   ![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/3803777/18164608/c3678488-7038-11e6-9ec1-74a1542dce13.png)
-  (https://github.com/kjw0612/awesome-deep-vision/blob/master/from PASCAL VOC2012 [leaderboards](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
+  (https://github.com/kjw0612/awesome-deep-vision/blob/master/from PASCAL VOC2012 [leaderboards](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
 * SEC: Seed, Expand and Constrain
   *  Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [[Paper]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
 * Adelaide
-  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1504.01013) (https://github.com/kjw0612/awesome-deep-vision/blob/master/1st ranked in VOC2012)
-  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1506.02108) (https://github.com/kjw0612/awesome-deep-vision/blob/master/4th ranked in VOC2012)
+  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (https://github.com/kjw0612/awesome-deep-vision/blob/master/1st ranked in VOC2012)
+  * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](http://arxiv.org/pdf/1506.02108) (https://github.com/kjw0612/awesome-deep-vision/blob/master/4th ranked in VOC2012)
 * Deep Parsing Network (https://github.com/kjw0612/awesome-deep-vision/blob/master/DPN)
-  * Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang, Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015 [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1509.02634.pdf) (https://github.com/kjw0612/awesome-deep-vision/blob/master/2nd ranked in VOC 2012)
+  * Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang, Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015 [[Paper]](http://arxiv.org/pdf/1509.02634.pdf) (https://github.com/kjw0612/awesome-deep-vision/blob/master/2nd ranked in VOC 2012)
 * CentraleSuperBoundaries, INRIA [[Paper]](http://arxiv.org/pdf/1511.07386)
   * Iasonas Kokkinos, Surpassing Humans in Boundary Detection using Deep Learning, arXiv:1411.07386 (https://github.com/kjw0612/awesome-deep-vision/blob/master/4th ranked in VOC 2012)
 * BoxSup [[Paper]](http://arxiv.org/pdf/1503.01640)
   * Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640. (https://github.com/kjw0612/awesome-deep-vision/blob/master/6th ranked in VOC2012)
 * POSTECH
-  * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1505.04366) (https://github.com/kjw0612/awesome-deep-vision/blob/master/7th ranked in VOC2012)
+  * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](http://arxiv.org/pdf/1505.04366) (https://github.com/kjw0612/awesome-deep-vision/blob/master/7th ranked in VOC2012)
   * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924. [[Paper]](http://arxiv.org/pdf/1506.04924)
   * Seunghoon Hong,Junhyuk Oh,	Bohyung Han, and	Honglak Lee, Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
 * Conditional Random Fields as Recurrent Neural Networks [[Paper]](http://arxiv.org/pdf/1502.03240)
   * Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, Philip H. S. Torr, Conditional Random Fields as Recurrent Neural Networks, arXiv:1502.03240. (https://github.com/kjw0612/awesome-deep-vision/blob/master/8th ranked in VOC2012)
 * DeepLab
-  * Liang-Chieh Chen, George Papandreou, Kevin Murphy, Alan L. Yuille, Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734. [[Paper]](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://arxiv.org/pdf/1502.02734) (https://github.com/kjw0612/awesome-deep-vision/blob/master/9th ranked in VOC2012)
+  * Liang-Chieh Chen, George Papandreou, Kevin Murphy, Alan L. Yuille, Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734. [[Paper]](http://arxiv.org/pdf/1502.02734) (https://github.com/kjw0612/awesome-deep-vision/blob/master/9th ranked in VOC2012)
 * Zoom-out [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf)
   * Mohammadreza Mostajabi, Payman Yadollahpour, Gregory Shakhnarovich, Feedforward Semantic Segmentation With Zoom-Out Features, CVPR, 2015
 * Joint Calibration [[Paper]](http://arxiv.org/pdf/1507.01581)
@@ -388,7 +388,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Courses
 * Deep Vision
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-  * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(https://github.com/kjw0612/awesome-deep-vision/blob/master/Introduction to Deep Learning)](https://github.com/kjw0612/awesome-deep-vision/blob/master/https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+  * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(https://github.com/kjw0612/awesome-deep-vision/blob/master/Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 * More Deep Learning
   * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -440,7 +440,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Blogs
 * [Deep down the rabbit hole: CVPR 2015 and beyond@Tombone's Computer Vision Blog](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
-* [CVPR recap and where we're going@Zoya Bylinskii (https://github.com/kjw0612/awesome-deep-vision/blob/master/MIT PhD Student)'s Blog](https://github.com/kjw0612/awesome-deep-vision/blob/master/http://zoyathinks.blogspot.kr/2015/06/cvpr-recap-and-where-were-going.html)
+* [CVPR recap and where we're going@Zoya Bylinskii (https://github.com/kjw0612/awesome-deep-vision/blob/master/MIT PhD Student)'s Blog](http://zoyathinks.blogspot.kr/2015/06/cvpr-recap-and-where-were-going.html)
 * [Facebook's AI Painting@Wired](http://www.wired.com/2015/06/facebook-googles-fake-brains-spawn-new-visual-reality/)
 * [Inceptionism: Going Deeper into Neural Networks@Google Research](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
 * [Implementing Neural networks](http://peterroelants.github.io/) 

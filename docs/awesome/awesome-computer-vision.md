@@ -5,7 +5,7 @@ A curated list of awesome computer vision resources, inspired by [awesome-php](h
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/jbhuang1@illinois.edu) to add links.
+Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/jbhuang1@illinois.edu) to add links.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Computer Vision
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Rick Szeliski 2010
-* [Computer Vision: A Modern Approach (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/2nd edition)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) - David Forsyth and Jean Ponce 2011
+* [Computer Vision: A Modern Approach (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) - David Forsyth and Jean Ponce 2011
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman 2004
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
@@ -56,65 +56,65 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Courses
 
 #### Computer Vision
- * [EENG 512 / CSCI 512 - Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Colorado School of Mines)
- * [Visual Object and Activity Recognition](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
- * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington)
- * Visual Recognition [Spring 2016](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://vision.cs.utexas.edu/381V-spring2016/), [Fall 2016](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://vision.cs.utexas.edu/381V-fall2016/) - Kristen Grauman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UT Austin)
- * [Language and Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.tamaraberg.com/teaching/Spring_15/) - Tamara Berg (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UNC Chapel Hill)
- * [Convolutional Neural Networks for Visual Recognition](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://vision.stanford.edu/teaching/cs231n/) - Fei-Fei Li and Andrej Karpathy (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://cs.nyu.edu/~fergus/teaching/vision/index.html) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU)
- * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://courses.engr.illinois.edu/cs543/sp2015/) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
- * [Computer Vision: Foundations and Applications](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [High-Level Vision: Behaviors, Neurons and Computational Models](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Advances in Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/RWTH Aachen University)
- * [Computer Vision 2](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/RWTH Aachen University)
- * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/EPFL):
- * [Computer Vision 1](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Dresden):
- * [Computer Vision 2](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://cvlab-dresden.de/courses/CV2/) Carsten Rother (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Dresden):
- * [Multiple View Geometry](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Munich):
+ * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Colorado School of Mines)
+ * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
+ * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington)
+ * Visual Recognition [Spring 2016](http://vision.cs.utexas.edu/381V-spring2016/), [Fall 2016](http://vision.cs.utexas.edu/381V-fall2016/) - Kristen Grauman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UT Austin)
+ * [Language and Vision](http://www.tamaraberg.com/teaching/Spring_15/) - Tamara Berg (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UNC Chapel Hill)
+ * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) - Fei-Fei Li and Andrej Karpathy (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Computer Vision](http://cs.nyu.edu/~fergus/teaching/vision/index.html) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU)
+ * [Computer Vision](https://courses.engr.illinois.edu/cs543/sp2015/) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/RWTH Aachen University)
+ * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/RWTH Aachen University)
+ * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/EPFL):
+ * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Dresden):
+ * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Dresden):
+ * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Munich):
 
 
 
 
 #### Computational Photography
-* [Image Manipulation and Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://cs.brown.edu/courses/csci1290/) - James Hays (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Brown University)
-* [Digital & Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
-* [Computational Camera and Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT Media Lab)
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Georgia Tech)
+* [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
+* [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
+* [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Brown University)
+* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+* [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT Media Lab)
+* [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Georgia Tech)
 * [Courses in Graphics](http://graphics.stanford.edu/courses/) - Stanford University
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU)
-* [Introduction to Visual Computing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
-* [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
-* [Computer Vision for Visual Effects](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute)
-* [Introduction to Image Processing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute)
+* [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU)
+* [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+* [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+* [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute)
+* [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute)
 
 #### Machine Learning and Statistical Learning
- * [Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.coursera.org/learn/machine-learning) - Andrew Ng (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Learning from Data](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Caltech)
- * [Statistical Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Statistical Learning Theory and Applications](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Statistical Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rice University)
- * [Practical Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
- * [Course on Information Theory, Pattern Recognition, and Neural Networks](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Cambridge)
- * [Methods for Applied Statistics: Unsupervised Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford)
- * [Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Oxford)
- * [Intro to Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Georgia Tech)
- * [(https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Convolutional) Neural Networks for Visual Recognition](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Machine Learning for Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Munich)
+ * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Caltech)
+ * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rice University)
+ * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
+ * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Cambridge)
+ * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford)
+ * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Oxford)
+ * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Georgia Tech)
+ * [(https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TU Munich)
 
 
 
 #### Optimization
- * [Convex Optimization I](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://stanford.edu/class/ee364a/) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Convex Optimization II](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://stanford.edu/class/ee364b/) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Convex Optimization](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
- * [Optimization at MIT](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://optimization.mit.edu/classes.php) - (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Convex Optimization](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
+ * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Optimization at https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT](http://optimization.mit.edu/classes.php) - (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
 
 ## Papers
 
@@ -123,8 +123,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
- * [Annotated Computer Vision Bibliography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
- * [Calendar of Computer Image Analysis, Computer Vision Conferences](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://iris.usc.edu/Information/Iris-Conferences.html) - (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
+ * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
+ * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
 
 #### Survey Papers
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
@@ -135,10 +135,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Computer Vision
  * [Computer Vision Talks](http://www.computervisiontalks.com/) - Lectures, keynotes, panel discussions on computer vision
- * [The Three R's of Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 2013
+ * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 2013
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
- * [The Future of Image Search](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 2008
- * [Should I do a PhD in Computer Vision?](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Australian National University)
+ * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 2008
+ * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Australian National University)
  - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
 
 #### Recent Conference Talks
@@ -153,73 +153,73 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 - [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
 #### 3D Computer Vision
- * [3D Computer Vision: Past, Present, and Future](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2011
- * [Reconstructing the World from Photos on the Internet](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2013
+ * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2011
+ * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2013
 
 #### Internet Vision
- * [The Distributed Camera](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University) 2011
- * [Planet-Scale Visual Understanding](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University) 2014
- * [A Trillion Photos](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2013
+ * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University) 2011
+ * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University) 2014
+ * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Washington) 2013
 
 #### Computational Photography
- * [Reflections on Image-Based Modeling and Rendering](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2013
- * [Photographing Events over Time](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2011
- * [Old and New algorithm for Blind Deconvolution](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2011
- * [A Tour of Modern "Image Processing"](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Santa Cruz/Google) 2010
- * [Topics in image and video processing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2007
- * [Computational Photography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2012
- * [Revealing the Invisible](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2012
- * [Overview of Computer Vision and Visual Effects](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute) 2014
+ * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2013
+ * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2011
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2011
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Santa Cruz/Google) 2010
+ * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2007
+ * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2012
+ * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2012
+ * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Rensselaer Polytechnic Institute) 2014
 
 #### Learning and Vision
- * [Where machine vision needs help from machine learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2011
- * [Learning in Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU) 2008
- * [Learning and Inference in Low-Level Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2009
+ * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT) 2011
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU) 2008
+ * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2009
 
 #### Object Recognition
- * [Object Recognition](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
- * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
+ * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
+ * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Stanford University)
 
 #### Graphical Models
- * [Graphical Models for Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Brown University) 2012
- * [Graphical Models](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Cambridge) 2009
- * [Machine Learning, Probability and Graphical Models](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU) 2006
- * [Graphical Models and Applications](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2009
+ * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Brown University) 2012
+ * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Cambridge) 2009
+ * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU) 2006
+ * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The Hebrew University of Jerusalem) 2009
 
 #### Machine Learning
- * [A Gentle Tutorial of the EM Algorithm](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://nikola-rt.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 1998
- * [Introduction To Bayesian Inference](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2009
- * [Support Vector Machines](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/National Taiwan University) 2006
- * [Bayesian or Frequentist, Which Are You? ](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
+ * [A Gentle Tutorial of the EM Algorithm](https://nikola-rt.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley) 1998
+ * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research) 2009
+ * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/National Taiwan University) 2006
+ * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Berkeley)
 
 #### Optimization
- * [Optimization Algorithms in Machine Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Wisconsin-Madison)
- * [Convex Optimization](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of California, Los Angeles)
- * [Continuous Optimization in Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=oZqoWozVDVg) - Andrew Fitzgibbon (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
- * [Beyond stochastic gradient descent for large-scale machine learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/sahd2014_bach_stochastic_gradient/) - Francis Bach (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/INRIA)
- * [Variational Methods for Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) - Daniel Cremers (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Technische Universität München) (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/[lecture 18 missing from playlist](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=GgcbVPNd3SI))
+ * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Wisconsin-Madison)
+ * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of California, Los Angeles)
+ * [Continuous Optimization in Computer Vision](https://www.youtube.com/watch?v=oZqoWozVDVg) - Andrew Fitzgibbon (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
+ * [Beyond stochastic gradient descent for large-scale machine learning](http://videolectures.net/sahd2014_bach_stochastic_gradient/) - Francis Bach (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/INRIA)
+ * [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) - Daniel Cremers (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Technische Universität München) (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/[lecture 18 missing from playlist](https://www.youtube.com/watch?v=GgcbVPNd3SI))
 
 #### Deep Learning
- * [A tutorial on Deep Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
- * [Deep Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
- * [Scaling up Deep Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
- * [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
- * [The Unreasonable Effectivness Of Deep Learning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU/Facebook Research) 2014
- * [Deep Learning for Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU/Facebook Research)
- * [High-dimensional learning with deep network contractions](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Ecole Normale Superieure)
+ * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+ * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+ * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
+ * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+ * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU/Facebook Research) 2014
+ * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/NYU/Facebook Research)
+ * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Ecole Normale Superieure)
  * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
  * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
  * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
-	* [Deep Learning Session 1](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Universtiy of Montreal)
-	* [Deep Learning Session 2](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
-	* [Deep Learning Session 3](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
+	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Universtiy of Montreal)
+	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
+	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Montreal)
 
 ## Software
 
 #### External Resource Links
- * [Computer Vision Resources](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
- * [Source Code Collection for Reproducible Research](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/West Virginia University)
+ * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
 
 #### General Purpose Computer Vision Library
@@ -284,9 +284,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
- * [Coarse2Fine Optical Flow](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
- * [C++/MatLab Optical Flow by C. Liu (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/based on Brox et al. and Bruhn et al.)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/celiu/OpticalFlow/)
+ * [C++/MatLab Optical Flow by C. Liu (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/based on Brox et al. and Bruhn et al.)](http://people.csail.mit.edu/celiu/OpticalFlow/)
  * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
 ###### Image Denoising
@@ -423,7 +423,7 @@ Non-uniform Deblurring
 
 ###### SLAM community:
  * [openSLAM](https://www.openslam.org/)
- * [Kitti Odometry: benchmark for outdoor visual odometry (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/codes may be available)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+ * [Kitti Odometry: benchmark for outdoor visual odometry (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/codes may be available)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
 ###### Tracking/Odometry:
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
@@ -452,10 +452,10 @@ Non-uniform Deblurring
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
- * [Geometric Context](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
- * [Recovering Spatial Layout](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
- * [Geometric Reasoning](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
- * [RGBD2Full3D](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
+ * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
+ * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
 
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
@@ -586,7 +586,7 @@ Non-uniform Deblurring
  * [Visual Tracker Benchmark v1.1](https://sites.google.com/site/benchmarkpami/)
  * [VOT Challenge](http://www.votchallenge.net/)
  * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
- * [Tracking Manipulation Tasks (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TMT)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://webdocs.cs.ualberta.ca/~vis/trackDB/)
+ * [Tracking Manipulation Tasks (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/TMT)](http://webdocs.cs.ualberta.ca/~vis/trackDB/)
 
 #### Visual Surveillance
  * [VIRAT](http://www.viratdata.org/)
@@ -662,48 +662,48 @@ Non-uniform Deblurring
 ## Resources for students
 
 #### Resource link collection
- * [Resources for students](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Advice for Graduate Students](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
- * [Graduate Skills Seminars](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
- * [Research Skills](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) - Simon Peyton Jones (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
- * [Resource collection](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://web.engr.illinois.edu/~taoxie/advice.htm) - Tao Xie (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC) and Yuan Xie (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UCSB)
+ * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
+ * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto)
+ * [Research Skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) - Simon Peyton Jones (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
+ * [Resource collection](http://web.engr.illinois.edu/~taoxie/advice.htm) - Tao Xie (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC) and Yuan Xie (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UCSB)
 
 #### Writing
- * [Write Good Papers](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Notes on writing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [How to Write a Bad Article](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [How to write a good CVPR submission](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [How to write a great research paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=g3dkRsTqdDA) - Simon Peyton Jones (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
+ * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [How to write a good CVPR submission](http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [How to write a great research paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Simon Peyton Jones (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
  * [How to write a SIGGRAPH paper](http://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) - SIGGRAPH ASIA 2011 Course
- * [Writing Research Papers](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) - Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
+ * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) - Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
  * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - Jim Blinn
- * [How to Get Your SIGGRAPH Paper Rejected](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.siggraph.org/sites/default/files/kajiya.pdf) - Jim Kajiya (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
+ * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) - Jim Kajiya (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Microsoft Research)
  * [How to write a SIGGRAPH paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The University of Hong Kong)
- * [How to Write a Great Paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) - Martin Martin Hering Hering--Bertram (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Hochschule Bremen University of Applied Sciences)
- * [How to have a paper get into SIGGRAPH?](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The University of Tokyo)
- * [Good Writing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Boston Dynamics, Inc.)
- * [How to Write a Computer Vision Paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
- * [Common mistakes in technical writing](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.dartmouth.edu/~wjarosz/writing.html) - Wojciech Jarosz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Dartmouth College)
+ * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) - Martin Martin Hering Hering--Bertram (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Hochschule Bremen University of Applied Sciences)
+ * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/The University of Tokyo)
+ * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Boston Dynamics, Inc.)
+ * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) - Wojciech Jarosz (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Dartmouth College)
 
 
 #### Presentation
- * [Giving a Research Talk](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [How to give a good talk](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto) and Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
+ * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Toronto) and Aaron Hertzmann (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Adobe Research)
  * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - Colin Purrington
 
 #### Research
- * [How to do research](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
  * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
- * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
  * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - Robert L. Park
- * [Five Principles for Choosing Research Problems in Computer Graphics](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University)
- * [How To Do Research In the MIT AI Lab](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
- * [Recent Advances in Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.slideshare.net/antiw/recent-advances-in-computer-vision) - Ming-Hsuan Yang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Merced)
- * [How to Come Up with Research Ideas in Computer Vision?](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
- * [How to Read Academic Papers](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/Cornell University)
+ * [How To Do Research In the https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/MIT)
+ * [Recent Advances in Computer Vision](http://www.slideshare.net/antiw/recent-advances-in-computer-vision) - Ming-Hsuan Yang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UC Merced)
+ * [How to Come Up with Research Ideas in Computer Vision?](http://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
+ * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/UIUC)
 
 #### Time Management
- * [Time Management](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
+ * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/CMU)
 
 ## Blogs
  * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
@@ -712,7 +712,7 @@ Non-uniform Deblurring
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
- * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Western Ontario)
+ * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/University of Western Ontario)
 
 
 ## Links

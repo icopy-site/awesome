@@ -4,7 +4,7 @@
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
-[Adobe AIR](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Air Native Extensions) coded in the native language (https://github.com/robinrodricks/awesome-actionscript3/blob/master/eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://gamua.com/starling/) framework and optionally the [Feathers UI](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
+[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) provides a single set of APIs to build cross-platform desktop/mobile applications and games. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript) is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Air Native Extensions) coded in the native language (https://github.com/robinrodricks/awesome-actionscript3/blob/master/eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). To build mobile apps/games with GPU-rendered graphics, use the [Starling](https://gamua.com/starling/) framework and optionally the [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
 
 Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
@@ -28,14 +28,14 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Code Editors
 * [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more.
 * [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content.
-* [Adobe Flash Builder](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/with advanced debugging tools).
+* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/with advanced debugging tools).
 * [Moonshine IDE](http://moonshine-ide.com/) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache FlexJS® and Feathers development with Cloud and Desktop support.
 * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - Commercial IDE that supports many different languages including AS3
 
 #### Live Debuggers
-* [Adobe Scout](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports Stage3D).
+* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports Stage3D).
 * [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application.
-* [De-Monster Debugger (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Starling)](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework.
+* [De-Monster Debugger (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for https://github.com/robinrodricks/awesome-actionscript3/blob/master/Starling Framework.
 
 #### Asset Creators
 * [Adobe Animate CC](https://www.adobe.com/products/animate.html) - Premiere vector graphics and animation toolset for vector/spritesheet creation.
@@ -47,12 +47,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files.
 
 #### SWF Inspectors
-* [SWFWire](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.swfwire.com/)).
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](http://www.swfwire.com/)).
 * [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector.
 
 #### SWF Decompilers
-* [AS3Sorcerer](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports SWF/SWC, Alchemy opcodes).
-* [Sothink Decompiler](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports asset extraction and conversion of SWF to FLA/Flex).
+* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports SWF/SWC, Alchemy opcodes).
+* [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/supports asset extraction and conversion of SWF to FLA/Flex).
 
 #### ANE Dev Tools
 * [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions .
@@ -61,7 +61,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## Frameworks
 #### MVC Frameworks
 
-* [PureMVC](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[multicore](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/PureMVC/puremvc-as3-multicore-framework)).
+* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework)).
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash.
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects.
@@ -71,10 +71,10 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### UI Frameworks
 
-* [Starling](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/Gamua/Starling-Framework), [help](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://wiki.starling-framework.org/start)).
-* [Feathers UI](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://feathersui.com/) - User interface components for Starling Framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/BowlerHatLLC/feathers), [help](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://feathersui.com/help/index.html)).
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start)).
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
-* [AS3Commons UI](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[site](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://sibirjak.com/osflash/projects/as3commons-ui/)).
+* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
 * [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
@@ -90,29 +90,29 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more.
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games.
-* [IsoHill](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.isohill.com/)).
+* [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](http://www.isohill.com/)).
 * [YCanvas](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer.
-* [ND2D](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[ND2Dx](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/NoRabbit/ND2Dx)).
+* [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[ND2Dx](https://github.com/NoRabbit/ND2Dx)).
 * [Nexus](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D.
 
 #### 3D Frameworks
 
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
-* [Away3D](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/away3d-examples-fp11)).
-* [Away3D OpenFL](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/away3d-examples-openfl)).
-* [AwayPhysics FP11](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/away3d/awayphysics-examples-fp11)).
-* [Alternativa3D](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AlternativaPlatform/Alternativa3DExamples)).
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/away3d/away3d-examples-fp11)).
+* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/away3d/away3d-examples-openfl)).
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/away3d/awayphysics-examples-fp11)).
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)).
 * [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
-* [Zen3D](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPU based).
+* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPU based).
 
 #### Animation
 
-* [GreenSock GSAP](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://greensock.com/gsap-as) - The industry-standard animation library for Flash (https://github.com/robinrodricks/awesome-actionscript3/blob/master/TweenLite, TweenMax) (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/greensock/GreenSock-AS3)).
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (https://github.com/robinrodricks/awesome-actionscript3/blob/master/TweenLite, TweenMax) (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/greensock/GreenSock-AS3)).
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
 * [FlashEff2](http://www.flasheff.com/) - Premiere programmatic animation library with 100+ transitions and text effects.
 * [FlashEffNano](http://www.flasheffnano.com/) - FlashEff transition library optimized for mobile devices, with 20+ transitions in 750 styles.
-* [StarlingGAFPlayer](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/zenrobin/StarlingGAFPlayer) - Play back GAF animations using Starling (https://github.com/robinrodricks/awesome-actionscript3/blob/master/animations authored in Flash Pro).
+* [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) - Play back GAF animations using Starling (https://github.com/robinrodricks/awesome-actionscript3/blob/master/animations authored in Flash Pro).
 
 #### Signals
 
@@ -124,7 +124,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Functional
 
 * [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
-* [Raix](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (https://github.com/robinrodricks/awesome-actionscript3/blob/master/arrays) or reactive data (https://github.com/robinrodricks/awesome-actionscript3/blob/master/events).
+* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (https://github.com/robinrodricks/awesome-actionscript3/blob/master/arrays) or reactive data (https://github.com/robinrodricks/awesome-actionscript3/blob/master/events).
 * [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
 
 #### Unit Testing
@@ -144,7 +144,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR.
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework.
-* [GPUI](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/inspirit/GPUI) - Tiny GUI Library based on Stage3D (https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPU).
+* [https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPUI](https://github.com/inspirit/https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPUI) - Tiny GUI Library based on Stage3D (https://github.com/robinrodricks/awesome-actionscript3/blob/master/GPU).
 * [Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers.
 * [Flex-maps](https://github.com/igorcosta/flex-maps) - Definitive solution for maps in Apache Flex.
 * [FlexBook](https://github.com/blvz/FlexBook) - Awesome Page Flip component for Flex.
@@ -162,25 +162,25 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Layout
 
-* [Adobe TLF](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/TLF).
+* [Adobe https://github.com/robinrodricks/awesome-actionscript3/blob/master/TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/TLF).
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex.
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
-* [TransformTool](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/senocular/TransformTool) - Free Transform Tool (https://github.com/robinrodricks/awesome-actionscript3/blob/master/AS, JS) for manipulating objects in 2D space.
+* [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (https://github.com/robinrodricks/awesome-actionscript3/blob/master/AS, JS) for manipulating objects in 2D space.
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library.
 * [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects.
-* [miglayout-as](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (https://github.com/robinrodricks/awesome-actionscript3/blob/master/SWT/Swing/JavaFX) layout manager.
+* [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (https://github.com/robinrodricks/awesome-actionscript3/blob/master/SWT/Swing/JavaFX) layout manager.
 
 #### Multi Touch
 
 * [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
-* [TUIO Client](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[web](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.tuio.org/?flash)).
+* [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[web](http://www.tuio.org/?flash)).
 * [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces.
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier.
 
 #### Game Controllers
 
-* [AS3dpad](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Android/iOS).
+* [AS3dpad](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Android/iOS).
 * [Gamepad](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard.
 * [Advanced_Joystick](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile.
 * [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
@@ -189,7 +189,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Augmented Reality
 
-* [FLARToolKit](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.libspark.org/wiki/saqoosha/FLARToolKit/en)).
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en)).
 * [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam.
 * [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality apps, using FLARToolkit/flare.tracker/flare.NFT.
 * [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library.
@@ -226,7 +226,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Inspirit Image](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing.
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector.
-* [ATF-Encoder](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Adobe Texture Format) files in pure AS3.
+* [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Adobe Texture Format) files in pure AS3.
 * [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation.
 
 #### Font
@@ -239,8 +239,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Particle
 
 * [Flint](https://github.com/richardlord/Flint) - Particle Engine for Flash and Flex.
-* [Desuade Partigen](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://desuade.com/partigen) - Desuade Partigen particle generation system (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/andrewfitz/desuade)).
-* [Angulex](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/ActionScript 3).
+* [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[github](https://github.com/andrewfitz/desuade)).
+* [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/ActionScript 3).
 * [SAP](https://github.com/gonchar/SAP) - Particle System for Starling.
 * [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - Particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com.
 * [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
@@ -250,12 +250,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player.
 * [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Panorama viewer.
 * [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
-* [Sphere_panorama](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Alternativa3D).
+* [Sphere_panorama](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Alternativa3D).
 * [CuTy](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10.
 
 #### QR Code
 
-* [Zxing AS3](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[docs](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://zxing.github.io/zxing/)).
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[docs](https://zxing.github.io/zxing/)).
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - QR code encoder in as3.
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader which supports webcam on Windows, Mac and Linux.
 
@@ -271,9 +271,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript.
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer.
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV.
-* [Local-recorder](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/pauln/local-audio-recorder) - Local audio recorder (https://github.com/robinrodricks/awesome-actionscript3/blob/master/no streaming server required).  Currently requires Flash Player 10.1 or above.
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (https://github.com/robinrodricks/awesome-actionscript3/blob/master/no streaming server required).  Currently requires Flash Player 10.1 or above.
 * [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects.
-* [Flod](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/photonstorm/Flod) - Amiga SoundTracker (https://github.com/robinrodricks/awesome-actionscript3/blob/master/MOD) and FastTracker (https://github.com/robinrodricks/awesome-actionscript3/blob/master/XM) Replay Library.
+* [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (https://github.com/robinrodricks/awesome-actionscript3/blob/master/MOD) and FastTracker (https://github.com/robinrodricks/awesome-actionscript3/blob/master/XM) Replay Library.
 
 #### Video Player
 
@@ -283,7 +283,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.
 * [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework.
-* [vgaplayer](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (https://github.com/robinrodricks/awesome-actionscript3/blob/master/RTMP).
+* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (https://github.com/robinrodricks/awesome-actionscript3/blob/master/RTMP).
 
 ## Database
 
@@ -318,12 +318,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Archives
 
 * [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives.
-* [ASZip](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[post](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://www.bytearray.org/?p=105)).
-* [Untar-Worker](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (https://github.com/robinrodricks/awesome-actionscript3/blob/master/background threads).
+* [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[post](http://www.bytearray.org/?p=105)).
+* [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (https://github.com/robinrodricks/awesome-actionscript3/blob/master/background threads).
 
 #### 3D Formats
 
-* [AsCollada](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/timknip/ascollada) - Parse COLLADA 3D model files (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[fork](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/david-gregory/ascollada)).
+* [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[fork](https://github.com/david-gregory/ascollada)).
 * [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files.
 * [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files.
 * [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
@@ -354,7 +354,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### FXG
 
-* [Fxg-as3-lib](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/pixelami/fxg-as3-lib) - Pure AS3 FXG rendering library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/both runtime rendering and mxml supported).
+* [Fxg-as3-lib](https://github.com/pixelami/fxg-as3-lib) - Pure AS3 FXG rendering library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/both runtime rendering and mxml supported).
 * [Fxg2as3](https://github.com/ZackPierce/fxg2as3) - Converting FXG markup into executable Actionscript 3 code.
 
 #### GIF
@@ -388,7 +388,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PDF
 
-* [AlivePDF](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://code.google.com/archive/p/alivepdf/) - Client side PDF generation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[docs](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://alivepdf.bytearray.org/), [github](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/riadvice/alivepdf)).
+* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
 * [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library.
@@ -401,7 +401,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### SWF
 
 * [AS3swf](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files.
-* [AS3abc](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Actionscript Block Code) files.
+* [AS3abc](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Actionscript Block Code) files.
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools.
 * [Abc-abstraction](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run.
 
@@ -413,13 +413,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### XML
 
 * [XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript.
-* [DynamicXMLParser](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (https://github.com/robinrodricks/awesome-actionscript3/blob/master/actionscript 3).
+* [DynamicXMLParser](https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (https://github.com/robinrodricks/awesome-actionscript3/blob/master/actionscript 3).
 * [Nudge](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML.
-* [AStream](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/kokorin/AStream) - XML to Object (https://github.com/robinrodricks/awesome-actionscript3/blob/master/and vice versa) mapping library written in AS3. Compatible with XStream.
+* [AStream](https://github.com/kokorin/AStream) - XML to Object (https://github.com/robinrodricks/awesome-actionscript3/blob/master/and vice versa) mapping library written in AS3. Compatible with XStream.
 
 #### XLSX
 
-* [AS3-xlsx-reader](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (https://github.com/robinrodricks/awesome-actionscript3/blob/master/.XLSX) or Open Office spreadsheets.
+* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (https://github.com/robinrodricks/awesome-actionscript3/blob/master/.XLSX) or Open Office spreadsheets.
 
 
 ## Networking
@@ -434,11 +434,11 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3midilib](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices.
 * [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards.
 * [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR.
-* [AIRkinect](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AS3NUI/airkinect-2-examples)).
+* [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[examples](https://github.com/AS3NUI/airkinect-2-examples)).
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate.
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library.
-* [OpenTSPS](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Kinect, web camera, etc) and sends it to clients as JSON (https://github.com/robinrodricks/awesome-actionscript3/blob/master/via WebSockets), OSC, TUIO, or TCP.
-* [LeapMotionAS3](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (https://github.com/robinrodricks/awesome-actionscript3/blob/master/provides Gestures, Image, Skeleton/Bone @ 210 FPS).
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Kinect, web camera, etc) and sends it to clients as JSON (https://github.com/robinrodricks/awesome-actionscript3/blob/master/via WebSockets), OSC, TUIO, or TCP.
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (https://github.com/robinrodricks/awesome-actionscript3/blob/master/provides Gestures, Image, Skeleton/Bone @ 210 FPS).
 
 #### Servers
 
@@ -453,7 +453,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### HTTP
 
-* [Hendrix-HTTP](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/HendrixString/Hendrix-HttP-AiR) - Lightweight HTTP library for ActionScript 3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/as3) inspired by Square's OkHttp.
+* [Hendrix-HTTP](https://github.com/HendrixString/Hendrix-HttP-AiR) - Lightweight HTTP library for ActionScript 3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/as3) inspired by Square's OkHttp.
 * [HTTPForm](https://github.com/dv/HTTPForm) - Emulate a multipart/form-data HTML form submission request, including file upload.
 * [AS3httpclient](https://github.com/abdul/as3httpclient) - HTTP client implementation.
 * [AS3httpclient](https://github.com/gabriel/as3httpclient) - HTTP client implementation.
@@ -480,7 +480,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AMFsocket](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication.
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF.
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) - Communication to Socket.IO v.0.8+ servers.
-* [ws-flash-client](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (https://github.com/robinrodricks/awesome-actionscript3/blob/master/uses Adobe Flash where native WebSocket is not available).
+* [ws-flash-client](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (https://github.com/robinrodricks/awesome-actionscript3/blob/master/uses Adobe Flash where native WebSocket is not available).
 
 #### Protocols
 
@@ -490,7 +490,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [XMPP](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library.
 * [XMPP](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library.
 * [AMQP](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP.
-* [NTP](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Network Time Protocol).
+* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Network Time Protocol).
 * [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol.
 * [BDD Cucumber](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript.
 
@@ -507,9 +507,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent.
 * [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent.
 * [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent.
-* [Godmode-as3](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/tconkling/godmode-as3) - Behavior tree implementation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/artificial intelligence).
+* [Godmode-as3](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (https://github.com/robinrodricks/awesome-actionscript3/blob/master/artificial intelligence).
 * [DecisionTree](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent.
-* [FuzzyStateMachine](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (https://github.com/robinrodricks/awesome-actionscript3/blob/master/FuSM) for AI bot/agent.
+* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (https://github.com/robinrodricks/awesome-actionscript3/blob/master/FuSM) for AI bot/agent.
 * [SmartKid](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D & 3D games.
 
 #### Async
@@ -521,7 +521,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Crypto
 
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
-* [AS3Crypto](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[patched](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/lyokato/as3crypto_patched)).
+* [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[patched](https://github.com/lyokato/as3crypto_patched)).
 * [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
 * [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
@@ -531,13 +531,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data
 
-* [AS3Commons Collections](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://sibirjak.com/osflash/projects/as3commons-collections/)).
+* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[website](http://sibirjak.com/osflash/projects/as3commons-collections/)).
 
 #### Geometry
 
 * [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
 * [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
-* [Coral](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Point, Vector, Matrix, Quaternion).
+* [Coral](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Point, Vector, Matrix, Quaternion).
 * [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes.
 * [PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
 * [Hilbert](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
@@ -548,11 +548,11 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Math
 
 * [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
-* [AS3LinAlg](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc).
+* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc).
 * [Performance Primitives](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
 * [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
 * [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
-* [AS3eval](https://github.com/robinrodricks/awesome-actionscript3/blob/master/http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[alternate](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/SimonRichardson/as3-eval)).
+* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. (https://github.com/robinrodricks/awesome-actionscript3/blob/master/[alternate](https://github.com/SimonRichardson/as3-eval)).
 * [FlashFormulaEditor](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
 
 #### Text
@@ -578,7 +578,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Scheme](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript.
 * [Lisp](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter.
 * [Lisp Compiler](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2.
-* [CannonML](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/abiyasa/cannonml_as3) - keim's CannonML (https://github.com/robinrodricks/awesome-actionscript3/blob/master/shmup scripting language) interpreter.
+* [CannonML](https://github.com/abiyasa/cannonml_as3) - keim's CannonML (https://github.com/robinrodricks/awesome-actionscript3/blob/master/shmup scripting language) interpreter.
 
 ## AIR Native Extensions
 
@@ -589,8 +589,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SystemVolume](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices.
 
 #### Multimedia ANE
-* [WebView (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Tuarua)](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android.
-* [WebView (https://github.com/robinrodricks/awesome-actionscript3/blob/master/FlashLab)](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR.
+* [WebView (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Tuarua)](https://github.com/tuarua/WebViewANE) - Modern WebView for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 21+. Uses CEF (https://github.com/robinrodricks/awesome-actionscript3/blob/master/Chromium Embedded Framework) on Windows, WKWebView on iOS/OSX, and WebView on Android.
+* [WebView (https://github.com/robinrodricks/awesome-actionscript3/blob/master/FlashLab)](https://github.com/myflashlab/webView-ANE) - Replacement for StageWebView, allows calling Javascript functions from AIR.
 * [AVANE](https://github.com/tuarua/AVANE) - For building video encoding applications using FFmpeg.
 * [PDF](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS.
 * [VideoPlayer](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player.
@@ -620,7 +620,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller.
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK.
 * [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse.
-* [LeapMotionAS3](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (https://github.com/robinrodricks/awesome-actionscript3/blob/master/provides Gestures, Image, Skeleton/Bone @ 210 FPS).
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (https://github.com/robinrodricks/awesome-actionscript3/blob/master/provides Gestures, Image, Skeleton/Bone @ 210 FPS).
 
 #### System ANE
 * [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 .
@@ -643,7 +643,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Admob](https://github.com/myflashlab/Admob-ANE) - Admob ANE.
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS.
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
-* [UMAnalytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
-* [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
+* [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
+* [Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.

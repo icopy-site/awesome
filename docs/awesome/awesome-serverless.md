@@ -53,7 +53,7 @@
 
 - [Serverless computing requires a shift in mindset](https://blogs.wsj.com/cio/2018/10/30/serverless-computing-requires-a-shift-in-mindset/) - Why IT leaders must communicate business value when talking about serverless solutions.
 - [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
-- [Launching TriggerMesh](https://github.com/pmuens/awesome-serverless/blob/master/https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (https://github.com/pmuens/awesome-serverless/blob/master/serverless management platform on top of knative) announcement blog post.
+- [Launching TriggerMesh](https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (https://github.com/pmuens/awesome-serverless/blob/master/serverless management platform on top of knative) announcement blog post.
 - [Serverless without containers](https://blog.cloudflare.com/cloud-computing-without-containers/) - How Cloudflare utilizes the v8 engine to isolate and run Cloudflare Workers written in Node.js.
 - [Takeaways from ServerlessNYC 2018](https://www.jeremydaly.com/takeaways-from-serverlessnyc-2018/) - Key takeaways from the ServerlessNYC 2018 conference.
 - [Serverless & Functions - Not one and the same](https://hackernoon.com/serverless-functions-not-one-and-the-same-150eb070d9a3) - Post about the differences between serverless computing and FaaS.

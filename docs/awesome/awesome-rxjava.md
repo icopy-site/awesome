@@ -36,7 +36,7 @@ String and Byte operators for RxJava.
 * [RxPartialApplication](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
 * [RxCurrying](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 * [RxEither](https://github.com/eleventigers/rxeither) - Either type for RxJava.
-* [RxReplayingShare](https://github.com/eleventigers/awesome-rxjava/blob/master/https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(https://github.com/eleventigers/awesome-rxjava/blob/master/1), publish(https://github.com/eleventigers/awesome-rxjava/blob/master/), and refCount(https://github.com/eleventigers/awesome-rxjava/blob/master/) operators.
+* [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(https://github.com/eleventigers/awesome-rxjava/blob/master/1), publish(), and refCount() operators.
 * [RxFunctions](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava.
 * [rxlint](https://bitbucket.org/littlerobots/rxlint) - An Android lint rule for RxJava code.
 * [RxComprehensions](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps.

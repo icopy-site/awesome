@@ -59,10 +59,10 @@ Websites
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
  - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
- - [chesscademy.com](https://github.com/hkirat/awesome-chess/blob/master/https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (https://github.com/hkirat/awesome-chess/blob/master/Works similar to Khan Academy.)
+ - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (https://github.com/hkirat/awesome-chess/blob/master/Works similar to Khan Academy.)
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
- - [freechess.org](https://github.com/hkirat/awesome-chess/blob/master/http://freechess.org/) - The 'Free Internet Chess Server' (https://github.com/hkirat/awesome-chess/blob/master/FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
+ - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (https://github.com/hkirat/awesome-chess/blob/master/FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
 
 Boards
 ---
@@ -80,7 +80,7 @@ Board Notations
  - [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) - A FEN "record" defines a particular game position, all in one text line and using only the ASCII character set.
  - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
  - Other Notations
- 	- [Algebraic Chess Notation](https://github.com/hkirat/awesome-chess/blob/master/https://en.wikipedia.org/wiki/Algebraic_notation_(https://github.com/hkirat/awesome-chess/blob/master/chess))
+ 	- [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
  	- [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) - Official chess game notation for all International Correspondence Chess Federation games.
  	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
  	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)

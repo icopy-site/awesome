@@ -1,6 +1,6 @@
 ## Awesome Dojo
 
-<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
+<a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-dojo/commits/master)
 [![Build Status](https://img.shields.io/travis/petk/awesome-dojo/master.svg)](https://travis-ci.org/petk/awesome-dojo)
@@ -31,7 +31,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## DojoToolkit.org resources and documentation
 
 * [API](http://dojotoolkit.org/api/) - API reference for Dojo Toolkit
-* [Roadmap](https://github.com/petk/awesome-dojo/blob/master/https://github.com/dojo/meta/wiki/Roadmap) Dojo Roadmap (https://github.com/petk/awesome-dojo/blob/master/all versions)
+* [Roadmap](https://github.com/dojo/meta/wiki/Roadmap) Dojo Roadmap (https://github.com/petk/awesome-dojo/blob/master/all versions)
 * [Blog](http://dojotoolkit.org/blog/) - Dojo Toolkit Blog
 * [Demos](http://demos.dojotoolkit.org/demos/) - Dojo Toolkit Demos
 * [Reference guide](https://github.com/dojo/docs) - [http://dojotoolkit.org/reference-guide/1.10/](http://dojotoolkit.org/reference-guide/1.10/)
@@ -68,7 +68,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) - AngularJS directives for dojo widgets
 * [delite](https://github.com/ibm-js/delite) - HTML Custom Element / Widget infrastructure
-* [deliteful](https://github.com/petk/awesome-dojo/blob/master/https://github.com/ibm-js/deliteful) - Multichannel (https://github.com/petk/awesome-dojo/blob/master/desktop/mobile) UI Custom Elements Library
+* [deliteful](https://github.com/ibm-js/deliteful) - Multichannel (https://github.com/petk/awesome-dojo/blob/master/desktop/mobile) UI Custom Elements Library
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
 * [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
@@ -95,7 +95,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo has](https://github.com/dojo/has) - A feature detection library
 * [Dojo shim](https://github.com/dojo/shim) - Modules that provide modular fills of ES6+ functionality
 * [Dojo parse](https://github.com/dojo/parser) - A package for declaratively instantiating widgets.
-* [Dojo2 App](https://github.com/petk/awesome-dojo/blob/master/https://github.com/dojo/app) - An application framework for Dojo 2 (https://github.com/petk/awesome-dojo/blob/master/example)
+* [Dojo2 App](https://github.com/dojo/app) - An application framework for Dojo 2 (https://github.com/petk/awesome-dojo/blob/master/example)
 
 
 
@@ -109,7 +109,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Maven](https://github.com/cometd/dojo-maven) - Maven packaging of the Dojo Toolkit
 * ASP.NET
     * [Dojo & ASP.NET](https://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
-    * [Dojo.NET](https://github.com/petk/awesome-dojo/blob/master/https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (https://github.com/petk/awesome-dojo/blob/master/both WebForms and MVC, including Razor) using the Dojo toolkit.
+    * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (https://github.com/petk/awesome-dojo/blob/master/both WebForms and MVC, including Razor) using the Dojo toolkit.
     * [Reactive Extensions](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
     * [Dojofaces](http://www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
@@ -142,7 +142,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Applications
 
-* [AuShada](https://github.com/petk/awesome-dojo/blob/master/https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (https://github.com/petk/awesome-dojo/blob/master/EMR) and Public Health Management
+* [AuShada](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (https://github.com/petk/awesome-dojo/blob/master/EMR) and Public Health Management
 * [dapi](https://github.com/dojo/dapi) - node.js Dojo API viewer
 * [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) - Dojo demo
@@ -173,7 +173,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Definitive TypeScript Guide](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
 * [Dojo to Typescript Converter](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
-* [Dojo Typings](https://github.com/petk/awesome-dojo/blob/master/https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (https://github.com/petk/awesome-dojo/blob/master/including Dijit and DojoX)
+* [Dojo Typings](https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (https://github.com/petk/awesome-dojo/blob/master/including Dijit and DojoX)
 
 [Back to top](#awesome-dojo)
 
@@ -188,7 +188,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Google Plus Community](https://plus.google.com/communities/107837593684207188221) - Dojo community on Google Plus
 * [Linked In Dojo Ajax Toolkit Developers Group](https://www.linkedin.com/groups/Dojo-Ajax-Toolkit-Developers-71399) - Dojo Community on LinkedIn
 * [Linked In Dojo Toolkit Group](https://www.linkedin.com/groups/dojo-toolkit-81926) - Dojo Community on LinkedIn
-* [Reddit Community](https://github.com/petk/awesome-dojo/blob/master/https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit (https://github.com/petk/awesome-dojo/blob/master/invitation-only).
+* [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit (https://github.com/petk/awesome-dojo/blob/master/invitation-only).
 * [SensioLabs Connect Club](https://connect.sensiolabs.com/club/dojo-toolkit) - Sensiolabs Connect Dojo Toolkit Club for PHP and Symfony developers
 * [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 * [Meetup](https://www.meetup.com/topics/dojo/) - Get involved locally and find local user groups.
@@ -213,7 +213,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Contributing and License
 
-You are most welcome to [contribute](https://github.com/petk/awesome-dojo/blob/master/CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/petk/awesome-dojo/blob/master/https://github.com/petk/awesome-dojo/graphs/contributors) who have helped to build this list.
+You are most welcome to [contribute](https://github.com/petk/awesome-dojo/blob/master/CONTRIBUTING.md) to this awesome Dojo Toolkit list as well. Big thanks to all [contributors](https://github.com/petk/awesome-dojo/graphs/contributors) who have helped to build this list.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 

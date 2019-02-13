@@ -33,7 +33,7 @@ Hope that helps clear things up.
 
 ## ☤ Coin Market Tools & Utilities
 
-- **[Coinbin.org](https://github.com/kennethreitz/awesome-coins/blob/master/http://coinbin.org)** — Human–friendly API for quickly getting coin data (https://github.com/kennethreitz/awesome-coins/blob/master/exchange rates, predictions, &c.)
+- **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (https://github.com/kennethreitz/awesome-coins/blob/master/exchange rates, predictions, &c.)
     * [List of All Known Coins](http://coinbin.org/coins) `/coins`
     * [BTC Current Value](http://coinbin.org/btc) `/btc`
     * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
@@ -50,9 +50,9 @@ Hope that helps clear things up.
 - [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
 - [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin](https://github.com/kennethreitz/awesome-coins/blob/master/https://github.com/bitcoinbook/bitcoinbook) (https://github.com/kennethreitz/awesome-coins/blob/master/ebook)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (https://github.com/kennethreitz/awesome-coins/blob/master/ebook)
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
-- [Blockchain for humans](https://github.com/kennethreitz/awesome-coins/blob/master/https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (https://github.com/kennethreitz/awesome-coins/blob/master/in construction).
+- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (https://github.com/kennethreitz/awesome-coins/blob/master/in construction).
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 - [Golden Cryptocurrency and Blockchain Cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
 - Publications
@@ -70,7 +70,7 @@ Hope that helps clear things up.
 
 Here's a list of [WhatToMine](https://whattomine.com).
 
-- **#**: [https://www.nicehash.com/](https://github.com/kennethreitz/awesome-coins/blob/master/https://www.nicehash.com/?refby=386829) — Mine any algo (https://github.com/kennethreitz/awesome-coins/blob/master/optimized for your GPU) & get paid in **BTC**.
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — Mine any algo (https://github.com/kennethreitz/awesome-coins/blob/master/optimized for your GPU) & get paid in **BTC**.
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 - **SC**: https://sia.nanopool.org/
@@ -131,7 +131,7 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://github.com/kennethreitz/awesome-coins/blob/master/https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (https://github.com/kennethreitz/awesome-coins/blob/master/adjustable).
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (https://github.com/kennethreitz/awesome-coins/blob/master/adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
 - [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
@@ -167,15 +167,15 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
-- `Scrypt` (https://github.com/kennethreitz/awesome-coins/blob/master/Litecoin / **[LTC](https://github.com/kennethreitz/awesome-coins/blob/master/http://coinbin.org/ltc)**)
-- `SHA256` (https://github.com/kennethreitz/awesome-coins/blob/master/Bitcoin / **[BTC](https://github.com/kennethreitz/awesome-coins/blob/master/http://coinbin.org/btc)**)
+- `Scrypt` (https://github.com/kennethreitz/awesome-coins/blob/master/Litecoin / **[LTC](http://coinbin.org/ltc)**)
+- `SHA256` (https://github.com/kennethreitz/awesome-coins/blob/master/Bitcoin / **[BTC](http://coinbin.org/btc)**)
 - `ScryptNF` (https://github.com/kennethreitz/awesome-coins/blob/master/Scrypt-Adaptive-Nfactor) (https://github.com/kennethreitz/awesome-coins/blob/master/GPU Coin, **GPUC**)
 - `X11` (https://github.com/kennethreitz/awesome-coins/blob/master/Dash / Darkcoin, Dashcoin, ASIC-Resistant)
 - `X13` (https://github.com/kennethreitz/awesome-coins/blob/master/MaruCoin / **MARU**) (https://github.com/kennethreitz/awesome-coins/blob/master/CPU/GPU)
 - `Keccak` (https://github.com/kennethreitz/awesome-coins/blob/master/MaxCoin / **MAX**)
 - `X15` (https://github.com/kennethreitz/awesome-coins/blob/master/HTML5 Coin, **HTML5**)
 - `Nist5` (https://github.com/kennethreitz/awesome-coins/blob/master/Talkcoin, **TAC**)
-- `NeoScrypt` (https://github.com/kennethreitz/awesome-coins/blob/master/Phoenixcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**PXC**), Imperialcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**IPC**), Feathercoin (https://github.com/kennethreitz/awesome-coins/blob/master/**FTC**), UFOcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**UFO**), Guncoin (https://github.com/kennethreitz/awesome-coins/blob/master/**GUN**), Bollywoodcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**BDC**), Orbitcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**ORB**), Halcyon (https://github.com/kennethreitz/awesome-coins/blob/master/**HAL**))
+- `NeoScrypt` (https://github.com/kennethreitz/awesome-coins/blob/master/Phoenixcoin (**PXC**), Imperialcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**IPC**), Feathercoin (https://github.com/kennethreitz/awesome-coins/blob/master/**FTC**), UFOcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**UFO**), Guncoin (https://github.com/kennethreitz/awesome-coins/blob/master/**GUN**), Bollywoodcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**BDC**), Orbitcoin (https://github.com/kennethreitz/awesome-coins/blob/master/**ORB**), Halcyon (https://github.com/kennethreitz/awesome-coins/blob/master/**HAL**))
 - `Lyra2RE` (https://github.com/kennethreitz/awesome-coins/blob/master/VertCoin / **VTC**, CryptoCoin)
 - `WhirlpoolX` (https://github.com/kennethreitz/awesome-coins/blob/master/Vanillacoin / **VNL**)
 - `Qubit` (https://github.com/kennethreitz/awesome-coins/blob/master/QuibitCoin / **Q2C**)
@@ -198,7 +198,7 @@ Actual Hosted Coin Wallets:
 - `Blake2`s (https://github.com/kennethreitz/awesome-coins/blob/master/NevaCoin, Netko Coin, Verge, TajCoin)
 - `Skunk` (https://github.com/kennethreitz/awesome-coins/blob/master/Signatum Coin / **SIGT**)
 
-[(https://github.com/kennethreitz/awesome-coins/blob/master/others)](https://github.com/kennethreitz/awesome-coins/blob/master/https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
+[(https://github.com/kennethreitz/awesome-coins/blob/master/others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
 ## ☤ Every Active Coin, Ranked
 

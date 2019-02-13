@@ -97,8 +97,8 @@ A curated list of awesome mathematics resources.
 ## Books
 
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
-* [Basics of Algebra, Topology, and Differential Calculus](https://github.com/rossant/awesome-math/blob/master/http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
-* [Multivariable Calculus](https://github.com/rossant/awesome-math/blob/master/http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
+* [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
@@ -113,8 +113,8 @@ A curated list of awesome mathematics resources.
 ## Misc
 
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
-* [Paul's Online Math Notes](https://github.com/rossant/awesome-math/blob/master/http://tutorial.math.lamar.edu/) - Paul Dawkins (https://github.com/rossant/awesome-math/blob/master/Lamar University)
-* [List of electronic textbooks](https://github.com/rossant/awesome-math/blob/master/http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (https://github.com/rossant/awesome-math/blob/master/Arkansas Tech University)
+* [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (https://github.com/rossant/awesome-math/blob/master/Lamar University)
+* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (https://github.com/rossant/awesome-math/blob/master/Arkansas Tech University)
 * [Topology Atlas](http://at.yorku.ca/topology/)
 
 
@@ -133,12 +133,12 @@ A curated list of awesome mathematics resources.
 
 ### Logic
 
-* [Introduction to Logic](https://github.com/rossant/awesome-math/blob/master/http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (https://github.com/rossant/awesome-math/blob/master/Stanford University)
-* [An Introduction to Formal Logic](https://github.com/rossant/awesome-math/blob/master/https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (https://github.com/rossant/awesome-math/blob/master/University at Albany)
-* [A Problem Course in Mathematical Logic](https://github.com/rossant/awesome-math/blob/master/http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (https://github.com/rossant/awesome-math/blob/master/Trent University)
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (https://github.com/rossant/awesome-math/blob/master/Stanford University)
+* [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (https://github.com/rossant/awesome-math/blob/master/University at Albany)
+* [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (https://github.com/rossant/awesome-math/blob/master/Trent University)
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* [Mathematical Logic](https://github.com/rossant/awesome-math/blob/master/http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (https://github.com/rossant/awesome-math/blob/master/Pennsylvania State University)
+* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (https://github.com/rossant/awesome-math/blob/master/Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
 * [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
@@ -148,7 +148,7 @@ A curated list of awesome mathematics resources.
 
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - Thomas Streicher
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
-* [Category Theory](https://github.com/rossant/awesome-math/blob/master/http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (https://github.com/rossant/awesome-math/blob/master/Carnegie Mellon University)
+* [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey (https://github.com/rossant/awesome-math/blob/master/Carnegie Mellon University)
 * [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
 * [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - Michael Barr, Charles Wells
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - Michael Barr, Charles Wells
@@ -156,7 +156,7 @@ A curated list of awesome mathematics resources.
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 * [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://github.com/rossant/awesome-math/blob/master/http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (https://github.com/rossant/awesome-math/blob/master/MIT)
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (https://github.com/rossant/awesome-math/blob/master/MIT)
 
 ### Homotopy Type Theory
 
@@ -173,7 +173,7 @@ A curated list of awesome mathematics resources.
 ## Number Theory
 
 * [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
-* [Elementary Number Theory](https://github.com/rossant/awesome-math/blob/master/http://www.iiserpune.ac.in/~ayan/MTH312/%28127%29.pdf) - W. Edwin Clark (https://github.com/rossant/awesome-math/blob/master/University of South Florida)
+* [Elementary Number Theory](http://www.iiserpune.ac.in/~ayan/MTH312/%28127%29.pdf) - W. Edwin Clark (https://github.com/rossant/awesome-math/blob/master/University of South Florida)
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
@@ -185,14 +185,14 @@ A curated list of awesome mathematics resources.
 * [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf)
 * [Introduction to Algebraic Number Theory](http://www1.spms.ntu.edu.sg/~frederique/ANT10.pdf) - F. Oggier
 * [Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ANT.pdf) - J.S. Milne
-* [Algebraic Number Theory Course Notes](https://github.com/rossant/awesome-math/blob/master/http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
+* [Algebraic Number Theory Course Notes](http://people.math.gatech.edu/~mbaker/pdf/ANTBook.pdf) - Matthew Baker (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
 * [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
 ### Analytic Number Theory
 
-* [Introduction to Analytic Number Theory](https://github.com/rossant/awesome-math/blob/master/http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
-* [Elements of Analytic Number Theory](https://github.com/rossant/awesome-math/blob/master/http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (https://github.com/rossant/awesome-math/blob/master/Novosibirsk)
-* [Analytic Number Theory](https://github.com/rossant/awesome-math/blob/master/http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (https://github.com/rossant/awesome-math/blob/master/LMU Munich)
+* [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
+* [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (https://github.com/rossant/awesome-math/blob/master/Novosibirsk)
+* [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (https://github.com/rossant/awesome-math/blob/master/LMU Munich)
 * [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
 
 
@@ -203,12 +203,12 @@ A curated list of awesome mathematics resources.
 
 ### Abstract Algebra
 
-* [Introduction to Abstract Algebra](https://github.com/rossant/awesome-math/blob/master/https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (https://github.com/rossant/awesome-math/blob/master/Creighton University)
-* [Introduction to Modern Algebra](https://github.com/rossant/awesome-math/blob/master/http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (https://github.com/rossant/awesome-math/blob/master/Clark University)
+* [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (https://github.com/rossant/awesome-math/blob/master/Creighton University)
+* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - David Joyce (https://github.com/rossant/awesome-math/blob/master/Clark University)
 * [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. Oggier
-* [Abstract Algebra : Theory and Applications](https://github.com/rossant/awesome-math/blob/master/http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (https://github.com/rossant/awesome-math/blob/master/Austin State University)
+* [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (https://github.com/rossant/awesome-math/blob/master/Austin State University)
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
-* [Elements of Abstract and Linear Algebra](https://github.com/rossant/awesome-math/blob/master/http://www.math.miami.edu/~ec/book) - E.H. Connell (https://github.com/rossant/awesome-math/blob/master/University of Miami)
+* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (https://github.com/rossant/awesome-math/blob/master/University of Miami)
 * [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
 
 ### Group Theory
@@ -225,22 +225,22 @@ A curated list of awesome mathematics resources.
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
-* [MIT OpenCourseWare Lectures on Linear Algebra (https://github.com/rossant/awesome-math/blob/master/18.06) as Jupyter Notebooks](https://github.com/rossant/awesome-math/blob/master/https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* [MIT OpenCourseWare Lectures on Linear Algebra (https://github.com/rossant/awesome-math/blob/master/18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - Jim Hefferon
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
-* [Introduction to Applied Linear Algebra](https://github.com/rossant/awesome-math/blob/master/https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (https://github.com/rossant/awesome-math/blob/master/Stanford University), Lieven Vandenberghe (https://github.com/rossant/awesome-math/blob/master/UCLA)
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (https://github.com/rossant/awesome-math/blob/master/Stanford University), Lieven Vandenberghe (https://github.com/rossant/awesome-math/blob/master/UCLA)
 
 ### Ring Theory
 
-* [Foundations of Module and Ring Theory](https://github.com/rossant/awesome-math/blob/master/http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (https://github.com/rossant/awesome-math/blob/master/University of Düsseldorf)
+* [Foundations of Module and Ring Theory](http://www.math.uni-duesseldorf.de/~wisbauer/book.pdf) - Robert Wisbauer (https://github.com/rossant/awesome-math/blob/master/University of Düsseldorf)
 
 ### Galois Theory
 
-* [An Introduction to Galois Theory](https://github.com/rossant/awesome-math/blob/master/http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (https://github.com/rossant/awesome-math/blob/master/University of Glasgow)
+* [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) - Andrew Baker (https://github.com/rossant/awesome-math/blob/master/University of Glasgow)
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) - J.S. Milne
 * [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) - Miles Reid
 
@@ -250,7 +250,7 @@ A curated list of awesome mathematics resources.
 
 ## Combinatorics
 
-* [Basic Combinatorics](https://github.com/rossant/awesome-math/blob/master/http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (https://github.com/rossant/awesome-math/blob/master/University of Tennessee)
+* [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (https://github.com/rossant/awesome-math/blob/master/University of Tennessee)
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
@@ -273,10 +273,10 @@ A curated list of awesome mathematics resources.
 ### Differential Geometry
 
 * [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-* [Notes on Differential Geometry and Lie Groups](https://github.com/rossant/awesome-math/blob/master/http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
+* [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
 * [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 * [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
-* [An Introduction to Riemannian Geometry](https://github.com/rossant/awesome-math/blob/master/http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (https://github.com/rossant/awesome-math/blob/master/Lund University)
+* [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (https://github.com/rossant/awesome-math/blob/master/Lund University)
 * [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
 * [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
 
@@ -285,18 +285,18 @@ A curated list of awesome mathematics resources.
 * [A Brief Introduction to Algebraic Geometry](http://www.sci.ccny.cuny.edu/~ksda/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 * [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev
 * [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
-* [Algebraic Geometry](https://github.com/rossant/awesome-math/blob/master/http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
+* [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (https://github.com/rossant/awesome-math/blob/master/University of Pennsylvania)
 * [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
-* [Algebraic Geometry](https://github.com/rossant/awesome-math/blob/master/http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (https://github.com/rossant/awesome-math/blob/master/University of Kaiserslautern)
-* [The Stacks Project](https://github.com/rossant/awesome-math/blob/master/https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (https://github.com/rossant/awesome-math/blob/master/Columbia)
+* [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (https://github.com/rossant/awesome-math/blob/master/University of Kaiserslautern)
+* [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (https://github.com/rossant/awesome-math/blob/master/Columbia)
 
 ### Topology
 
-* [Elementary Applied Topology](https://github.com/rossant/awesome-math/blob/master/https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (https://github.com/rossant/awesome-math/blob/master/UPenn)
+* [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (https://github.com/rossant/awesome-math/blob/master/UPenn)
 * [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
 * [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) - Alex Küronya
 * [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) - Jim L. Brown
-* [General Topology](https://github.com/rossant/awesome-math/blob/master/http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (https://github.com/rossant/awesome-math/blob/master/Paris VI University)
+* [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (https://github.com/rossant/awesome-math/blob/master/Paris VI University)
 * [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
 
@@ -305,8 +305,8 @@ A curated list of awesome mathematics resources.
 * [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) - Allen Hatcher
 * [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
 * [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
-* [Algebra and Topology](https://github.com/rossant/awesome-math/blob/master/http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (https://github.com/rossant/awesome-math/blob/master/Paris VI University)
-* [Lecture Notes in Algebraic Topology](https://github.com/rossant/awesome-math/blob/master/http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (https://github.com/rossant/awesome-math/blob/master/Indiana University)
+* [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (https://github.com/rossant/awesome-math/blob/master/Paris VI University)
+* [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (https://github.com/rossant/awesome-math/blob/master/Indiana University)
 * [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
@@ -317,14 +317,14 @@ A curated list of awesome mathematics resources.
 
 * [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
-* [An Introduction to Real Analysis](https://github.com/rossant/awesome-math/blob/master/https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
-* [Introduction to Real Analysis](https://github.com/rossant/awesome-math/blob/master/http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (https://github.com/rossant/awesome-math/blob/master/Trinity University, Texas)
+* [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
+* [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (https://github.com/rossant/awesome-math/blob/master/Trinity University, Texas)
 * [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
-* [Lecture Notes in Real Analysis](https://github.com/rossant/awesome-math/blob/master/http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (https://github.com/rossant/awesome-math/blob/master/McMaster University)
+* [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (https://github.com/rossant/awesome-math/blob/master/McMaster University)
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
-* [Modern Real Analysis](https://github.com/rossant/awesome-math/blob/master/http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (https://github.com/rossant/awesome-math/blob/master/Indiana University)
+* [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (https://github.com/rossant/awesome-math/blob/master/Indiana University)
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
@@ -338,7 +338,7 @@ A curated list of awesome mathematics resources.
 
 ### Harmonic Analysis
 
-* [Harmonic Analysis Lecture Notes](https://github.com/rossant/awesome-math/blob/master/http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (https://github.com/rossant/awesome-math/blob/master/University of Illinois at Urbana–Champaign)
+* [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (https://github.com/rossant/awesome-math/blob/master/University of Illinois at Urbana–Champaign)
 * [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
@@ -346,7 +346,7 @@ A curated list of awesome mathematics resources.
 ### Complex Analysis
 
 * [Introduction to Complex Analysis](http://www.unc.edu/math/Faculty/met/complex.pdf) - Michael Taylor
-* [An Introduction to Complex Analysis and Geometry](https://github.com/rossant/awesome-math/blob/master/http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
+* [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
@@ -355,13 +355,13 @@ A curated list of awesome mathematics resources.
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * [A Concise Course in Complex Analysis and Riemann Surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
-* [Complex Analysis](https://github.com/rossant/awesome-math/blob/master/http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
+* [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
 
 ### Functional Analysis
 
-* [An Introduction to Functional Analysis](https://github.com/rossant/awesome-math/blob/master/http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (https://github.com/rossant/awesome-math/blob/master/University of Waterloo)
-* [Functional Analysis: Lecture Notes](https://github.com/rossant/awesome-math/blob/master/http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (https://github.com/rossant/awesome-math/blob/master/Michigan State University)
-* [Functional Analysis Lecture Notes](https://github.com/rossant/awesome-math/blob/master/http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (https://github.com/rossant/awesome-math/blob/master/University of East Anglia)
+* [An Introduction to Functional Analysis](http://www.math.uwaterloo.ca/~lwmarcou/Preprints/LinearAnalysis.pdf) - Laurent W. Marcoux (https://github.com/rossant/awesome-math/blob/master/University of Waterloo)
+* [Functional Analysis: Lecture Notes](http://users.math.msu.edu/users/jeffrey/920/920notes.pdf) - Jeff Schenker (https://github.com/rossant/awesome-math/blob/master/Michigan State University)
+* [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (https://github.com/rossant/awesome-math/blob/master/University of East Anglia)
 * [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - Gerald Teschl
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - Christian Remling
@@ -371,18 +371,18 @@ Shlomo Sternberg
 
 ### Measure Theory
 
-* [An Introduction to Measure Theory](https://github.com/rossant/awesome-math/blob/master/https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (https://github.com/rossant/awesome-math/blob/master/UCLA)
+* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (https://github.com/rossant/awesome-math/blob/master/UCLA)
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
-* [Measure Theory](https://github.com/rossant/awesome-math/blob/master/https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
-* [Measure and Integration](https://github.com/rossant/awesome-math/blob/master/https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (https://github.com/rossant/awesome-math/blob/master/ETH Zürich)
+* [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
+* [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon (https://github.com/rossant/awesome-math/blob/master/ETH Zürich)
 * [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - Bruce K. Driver
 
 ### Ordinary Differential Equations
 
 * [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
-* [Ordinary Differential Equation](https://github.com/rossant/awesome-math/blob/master/https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (https://github.com/rossant/awesome-math/blob/master/University of Bielefeld)
+* [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (https://github.com/rossant/awesome-math/blob/master/University of Bielefeld)
 * [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugen J. Ionascu
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
 * [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
@@ -394,9 +394,9 @@ Shlomo Sternberg
 
 ### Partial Differential Equations
 
-* [Notes on Partial Differential Equations](https://github.com/rossant/awesome-math/blob/master/https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
-* [Partial Differential Equations: Lecture Notes](https://github.com/rossant/awesome-math/blob/master/http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (https://github.com/rossant/awesome-math/blob/master/Leipzig University)
-* [Linear Methods of Applied Mathematics](https://github.com/rossant/awesome-math/blob/master/http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
+* [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (https://github.com/rossant/awesome-math/blob/master/University of California at Davis)
+* [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (https://github.com/rossant/awesome-math/blob/master/Leipzig University)
+* [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (https://github.com/rossant/awesome-math/blob/master/Georgia Tech)
 
 
 ## Probability and Statistics
@@ -404,24 +404,24 @@ Shlomo Sternberg
 ### Probability Theory
 
 * [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
-* [Introduction to Probability](https://github.com/rossant/awesome-math/blob/master/http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (https://github.com/rossant/awesome-math/blob/master/MIT)
-* [A Short Introduction to Probability](https://github.com/rossant/awesome-math/blob/master/http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (https://github.com/rossant/awesome-math/blob/master/University of Queensland)
+* [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (https://github.com/rossant/awesome-math/blob/master/MIT)
+* [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (https://github.com/rossant/awesome-math/blob/master/University of Queensland)
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
-* [Probability and Statistics Cookbook](https://github.com/rossant/awesome-math/blob/master/https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (https://github.com/rossant/awesome-math/blob/master/UC Berkeley)
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (https://github.com/rossant/awesome-math/blob/master/UC Berkeley)
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 * [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 
 ### Statistics
 
-* [Lecture Notes on Statistical Theory](https://github.com/rossant/awesome-math/blob/master/http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
+* [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (https://github.com/rossant/awesome-math/blob/master/University of Illinois)
 * [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
-* [Probability and Mathematical Statistics](https://github.com/rossant/awesome-math/blob/master/http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (https://github.com/rossant/awesome-math/blob/master/University of Louisville)
+* [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (https://github.com/rossant/awesome-math/blob/master/University of Louisville)
 * [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
-* [Theory of Statistics](https://github.com/rossant/awesome-math/blob/master/http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (https://github.com/rossant/awesome-math/blob/master/George Mason University)
-* [Theory of Statistics](https://github.com/rossant/awesome-math/blob/master/http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (https://github.com/rossant/awesome-math/blob/master/University of Arizona)
+* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (https://github.com/rossant/awesome-math/blob/master/George Mason University)
+* [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins (https://github.com/rossant/awesome-math/blob/master/University of Arizona)
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
-* [Statistics Papers](https://github.com/rossant/awesome-math/blob/master/http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (https://github.com/rossant/awesome-math/blob/master/IDRE) at UCLA on methods such as bootstrap and factor invariance.
+* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (https://github.com/rossant/awesome-math/blob/master/IDRE) at UCLA on methods such as bootstrap and factor invariance.
 * [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 * [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
 * [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
@@ -435,33 +435,33 @@ Shlomo Sternberg
 
 ### Stochastic processes
 
-* [Lectures on Stochastic Processes](https://github.com/rossant/awesome-math/blob/master/http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (https://github.com/rossant/awesome-math/blob/master/Tata Institute of Fundamental Research, Bombay)
-* [Probability and Stochastic Processes with Applications](https://github.com/rossant/awesome-math/blob/master/http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (https://github.com/rossant/awesome-math/blob/master/Harvard University)
-* [Stochastic Processes](https://github.com/rossant/awesome-math/blob/master/http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (https://github.com/rossant/awesome-math/blob/master/Stanford University)
-* [Lecture Notes on Stochastic Processes](https://github.com/rossant/awesome-math/blob/master/http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (https://github.com/rossant/awesome-math/blob/master/Freie Universität Berlin)
-* [Introduction to Stochastic Processes - Lecture Notes](https://github.com/rossant/awesome-math/blob/master/https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (https://github.com/rossant/awesome-math/blob/master/University of Texas)
-* [Applied Stochastic Processes in science and engineering](https://github.com/rossant/awesome-math/blob/master/https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (https://github.com/rossant/awesome-math/blob/master/University of Waterloo)
-* [An Introduction to Stochastic Processes in Continuous Time](https://github.com/rossant/awesome-math/blob/master/http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (https://github.com/rossant/awesome-math/blob/master/Leiden University)
+* [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (https://github.com/rossant/awesome-math/blob/master/Tata Institute of Fundamental Research, Bombay)
+* [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (https://github.com/rossant/awesome-math/blob/master/Harvard University)
+* [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (https://github.com/rossant/awesome-math/blob/master/Stanford University)
+* [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (https://github.com/rossant/awesome-math/blob/master/Freie Universität Berlin)
+* [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (https://github.com/rossant/awesome-math/blob/master/University of Texas)
+* [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (https://github.com/rossant/awesome-math/blob/master/University of Waterloo)
+* [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (https://github.com/rossant/awesome-math/blob/master/Leiden University)
 * [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
 
 
 ## Numerical Analysis
 
-* [Introduction to Numerical Analysis](https://github.com/rossant/awesome-math/blob/master/http://www.math.umd.edu/~dlevy/books/na.pdf) - Doron Levy (https://github.com/rossant/awesome-math/blob/master/University of Maryland)
-* [A Concise Introduction to Numerical Analysis](https://github.com/rossant/awesome-math/blob/master/http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (https://github.com/rossant/awesome-math/blob/master/University of Minnesota)
+* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/books/na.pdf) - Doron Levy (https://github.com/rossant/awesome-math/blob/master/University of Maryland)
+* [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (https://github.com/rossant/awesome-math/blob/master/University of Minnesota)
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-* [Lectures In Basic Computational Numerical Analysis](https://github.com/rossant/awesome-math/blob/master/http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (https://github.com/rossant/awesome-math/blob/master/University of Kentucky)
+* [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (https://github.com/rossant/awesome-math/blob/master/University of Kentucky)
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) - Douglas Wilhelm Harder
 
 
 ## Signal processing
 
-* [Introduction to Signal Processing](https://github.com/rossant/awesome-math/blob/master/http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (https://github.com/rossant/awesome-math/blob/master/Rutgers University)
+* [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (https://github.com/rossant/awesome-math/blob/master/Rutgers University)
 * [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
-* [Linear algebra, signal processing, and wavelets. A unified approach.](https://github.com/rossant/awesome-math/blob/master/https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (https://github.com/rossant/awesome-math/blob/master/University of Oslo)
+* [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (https://github.com/rossant/awesome-math/blob/master/University of Oslo)
 
 
 ## Mathematics for Computer Science
@@ -479,7 +479,7 @@ Shlomo Sternberg
 
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
-* [Mechanism of the Heavens (https://github.com/rossant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
+* [Mechanism of the Heavens (https://github.com/rossant/awesome-math/blob/master/1831)](http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 ## License
 

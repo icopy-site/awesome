@@ -38,11 +38,11 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [PDF](https://github.com/blog/1974-pdf-viewing) - View PDFs right in your browser.
   - [STL files](https://github.com/blog/1465-stl-file-viewing) - It's pretty amazing, 3D right in the browser.
   - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice, comma separated values right in the browser!
-  - [SVG](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (https://github.com/phillipadsmith/awesome-github/blob/master/In fact, [you can do this with most image files](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/blog/817-behold-image-view-modes).)
+  - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (https://github.com/phillipadsmith/awesome-github/blob/master/In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
 - [GitHub Government Community](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
-- [MOOC in Spanish](https://github.com/phillipadsmith/awesome-github/blob/master/https://miriadax.net/web/gitmooc) - Introductory course (https://github.com/phillipadsmith/awesome-github/blob/master/MOOC) in Spanish from Madrid Polytechnical University
+- [https://github.com/phillipadsmith/awesome-github/blob/master/MOOC in Spanish](https://miriadax.net/web/gitmooc) - Introductory course (https://github.com/phillipadsmith/awesome-github/blob/master/MOOC) in Spanish from Madrid Polytechnical University
 
 ## Resources for those already familiar with GitHub
 
@@ -55,19 +55,19 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 - [Resume](http://resume.github.io/) - Resumes generated using GitHub. 
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
-- [Blocks](https://github.com/phillipadsmith/awesome-github/blob/master/http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (https://github.com/phillipadsmith/awesome-github/blob/master/Introduction is [here](https://github.com/phillipadsmith/awesome-github/blob/master/http://bost.ocks.org/mike/block/))
+- [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (https://github.com/phillipadsmith/awesome-github/blob/master/Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
-- [GitHub Cheat Sheet](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (https://github.com/phillipadsmith/awesome-github/blob/master/A resource so good, it's worth mentioning twice.)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (https://github.com/phillipadsmith/awesome-github/blob/master/A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 - [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
 - [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
-- [HuBoard](https://github.com/phillipadsmith/awesome-github/blob/master/https://huboard.com/) - Instant project management for your GitHub issues (https://github.com/phillipadsmith/awesome-github/blob/master/sadly, no free plan, but appears to be [open source](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/huboard/huboard-web))
+- [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (https://github.com/phillipadsmith/awesome-github/blob/master/sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
 - [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
-- [Penflip](https://github.com/phillipadsmith/awesome-github/blob/master/https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (https://github.com/phillipadsmith/awesome-github/blob/master/similar to GitHub).
+- [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (https://github.com/phillipadsmith/awesome-github/blob/master/similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
@@ -78,8 +78,8 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
-- [Github-Auto-Issue-Creator](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (https://github.com/phillipadsmith/awesome-github/blob/master/locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
-- [Problem Child](https://github.com/phillipadsmith/awesome-github/blob/master/https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (https://github.com/phillipadsmith/awesome-github/blob/master/and pull requests).
+- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) - A Python script that searches a GitHub repository (https://github.com/phillipadsmith/awesome-github/blob/master/locally) and automatically creates GitHub issues for TODO statements, keeping them tracked.
+- [Problem Child](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (https://github.com/phillipadsmith/awesome-github/blob/master/and pull requests).
 - [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
 - [HubPress](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 - [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.

@@ -127,10 +127,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Using Service Workers and Cache to Take Web Performance to a New Level](https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/)
 (https://github.com/pazguille/offline-first/blob/master/Chris Love - Dec 23, 2016)
 
-[Faking progress (https://github.com/pazguille/offline-first/blob/master/service worker edition)](https://github.com/pazguille/offline-first/blob/master/https://medium.com/remys-blog/faking-progress-service-worker-edition-4c3fa16e5b32#.coya1w3ki)
+[Faking progress (https://github.com/pazguille/offline-first/blob/master/service worker edition)](https://medium.com/remys-blog/faking-progress-service-worker-edition-4c3fa16e5b32#.coya1w3ki)
 (https://github.com/pazguille/offline-first/blob/master/Remy Sharp - Dec 22, 2016)
 
-[Introduction to Progressive Web Apps (https://github.com/pazguille/offline-first/blob/master/Offline First)](https://github.com/pazguille/offline-first/blob/master/https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
+[Introduction to Progressive Web Apps (https://github.com/pazguille/offline-first/blob/master/Offline First)](https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
 (https://github.com/pazguille/offline-first/blob/master/Prosper Otemuyiwa - Dec 19, 2016)
 
 [Won’t Get Fooled Again: Lessons in Lie-Fi](https://medium.com/outsystems-engineering/wont-get-fooled-again-lessons-in-lie-fi-9097052ea66e#.texx2j9pd)
@@ -190,13 +190,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
 (https://github.com/pazguille/offline-first/blob/master/Salva - Oct 19, 2016)
 
-["Instant Loading" with IndexedDB (https://github.com/pazguille/offline-first/blob/master/Building a PWA, Part 2)](https://github.com/pazguille/offline-first/blob/master/https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+["Instant Loading" with IndexedDB (https://github.com/pazguille/offline-first/blob/master/Building a PWA, Part 2)](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 (https://github.com/pazguille/offline-first/blob/master/Ire Aderinokun - Oct 18, 2016)
 
 [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
 (https://github.com/pazguille/offline-first/blob/master/Jake Archibald - Oct 13, 2016)
 
-["Offline First" with Service Worker (https://github.com/pazguille/offline-first/blob/master/Building a PWA, Part 1)](https://github.com/pazguille/offline-first/blob/master/https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+["Offline First" with Service Worker (https://github.com/pazguille/offline-first/blob/master/Building a PWA, Part 1)](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
 (https://github.com/pazguille/offline-first/blob/master/Ire Aderinokun - Oct 11, 2016)
 
 [Do you need Service Worker in your web app?](https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c?gi=666f4385e803)
@@ -268,7 +268,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 (https://github.com/pazguille/offline-first/blob/master/Ashteya Biharisingh - Apr 18, 2016)
 
-[Offline-First, Document Sharing, Templates: Monod is Back (https://github.com/pazguille/offline-first/blob/master/not in Black)](https://github.com/pazguille/offline-first/blob/master/https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
+[Offline-First, Document Sharing, Templates: Monod is Back (https://github.com/pazguille/offline-first/blob/master/not in Black)](https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
 (https://github.com/pazguille/offline-first/blob/master/Apr 15, 2016)
 
 [Issue 4: Offline badging, DevTools, Testing, Travis, Web Storage, Service Worker Scopes, Data-driven Development, Compute Engine](https://medium.com/totally-tooling-tears/issue-4-offline-badging-testing-travis-devtools-issues-web-storage-data-driven-development-8dd1cfbc410a#.mgur8g8n3)
@@ -373,7 +373,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Cache sandboxed HTTP requests with Service Worker](https://medium.com/@roman01la/cache-sandboxed-http-requests-with-service-worker-6bb3801237d1#.3jjklzohz)
 (https://github.com/pazguille/offline-first/blob/master/Roman Liutikov - Oct 26, 2015)
 
-[The offline experience (https://github.com/pazguille/offline-first/blob/master/or, saying goodbye to imperative data fetching)](https://github.com/pazguille/offline-first/blob/master/https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
+[The offline experience (https://github.com/pazguille/offline-first/blob/master/or, saying goodbye to imperative data fetching)](https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
 (https://github.com/pazguille/offline-first/blob/master/Dario Gieselaar - Oct 25, 2015)
 
 [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
@@ -505,7 +505,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Working offline](https://developer.mozilla.org/en-US/Apps/Fundamentals/Offline)
 (https://github.com/pazguille/offline-first/blob/master/Aug 12, 2014)
 
-[Offline First - the new paradigm in web development done Neptune style](https://github.com/pazguille/offline-first/blob/master/http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (https://github.com/pazguille/offline-first/blob/master/Njål Stabell - Augt 5, 2014)
+[Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (https://github.com/pazguille/offline-first/blob/master/Njål Stabell - Augt 5, 2014)
 
 [Breaking Development: Offline First is the new Mobile First](http://www.lukew.com/ff/entry.asp?1902)
 (https://github.com/pazguille/offline-first/blob/master/Luke Wroblewski - Jul 29, 2014)
@@ -516,7 +516,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Web Apps,Web Storage,IndexedDB,AppCache,File API Futures](https://www.youtube.com/watch?v=pklpK55uQmE&feature=youtu.be)
 (https://github.com/pazguille/offline-first/blob/master/Ali Alabbas - May 21, 2014)
 
-[Service Workers: Offline Now(https://github.com/pazguille/offline-first/blob/master/ish)!](https://github.com/pazguille/offline-first/blob/master/https://www.youtube.com/watch?v=BKD7ZLRi9HI)
+[Service Workers: Offline Now(https://github.com/pazguille/offline-first/blob/master/ish)!](https://www.youtube.com/watch?v=BKD7ZLRi9HI)
 (https://github.com/pazguille/offline-first/blob/master/Alex Russell - May 21, 2014)
 
 [Service Worker - first draft published](https://jakearchibald.com/2014/service-worker-first-draft/)
@@ -623,7 +623,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Taking Your Web Apps Offline](https://www.youtube.com/watch?v=EZF1EfjQlbo)
 (https://github.com/pazguille/offline-first/blob/master/Mike Nitchie - Nov 16, 2015)
 
-[There is a client-side proxy (https://github.com/pazguille/offline-first/blob/master/ServiceWorker) in your browser!](https://github.com/pazguille/offline-first/blob/master/https://www.youtube.com/watch?v=etACK2qbHfc)
+[There is a client-side proxy (https://github.com/pazguille/offline-first/blob/master/ServiceWorker) in your browser!](https://www.youtube.com/watch?v=etACK2qbHfc)
 (https://github.com/pazguille/offline-first/blob/master/Ilya Grigorik - Nov 16, 2015)
 
 [OnConnectionLost: The life of an offline web application](https://www.youtube.com/watch?v=rw8Q9ZLDkEs)
@@ -719,7 +719,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building Offline Web Apps with HTML5](https://www.youtube.com/watch?v=W41mvarupH0)
 (https://github.com/pazguille/offline-first/blob/master/Jonathan Stark - Jul 25, 2012)
 
-[Getting off(https://github.com/pazguille/offline-first/blob/master/line): appcache, localStorage for HTML5 apps that work offline](https://github.com/pazguille/offline-first/blob/master/https://www.youtube.com/watch?v=dN8e-QdYyCk)
+[Getting off(https://github.com/pazguille/offline-first/blob/master/line): appcache, localStorage for HTML5 apps that work offhttps://github.com/pazguille/offline-first/blob/master/line](https://www.youtube.com/watch?v=dN8e-QdYyCk)
 (https://github.com/pazguille/offline-first/blob/master/John Allsopp - Jul 3, 2012)
 
 ### Slides
@@ -751,7 +751,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [At your service! - More than appcache uses for Service Workers](http://delapuente.github.io/presentations/at-your-service/index.html)
 (https://github.com/pazguille/offline-first/blob/master/Salvador de la Puente González - Oct 21, 2015)
 
-[Offline First (https://github.com/pazguille/offline-first/blob/master/Web) Apps](https://github.com/pazguille/offline-first/blob/master/https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin)
+[Offline First (https://github.com/pazguille/offline-first/blob/master/Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin)
 (https://github.com/pazguille/offline-first/blob/master/Alex Feyerke - Oct 20, 2015)
 
 [Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent)
@@ -775,7 +775,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
 (https://github.com/pazguille/offline-first/blob/master/Marcel Kalveram - May 17, 2015)
 
-[noBackend e Offline First: focusing on creating experiences (https://github.com/pazguille/offline-first/blob/master/pt-br)](https://github.com/pazguille/offline-first/blob/master/https://speakerdeck.com/joselitojunior1/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
+[noBackend e Offline First: focusing on creating experiences (https://github.com/pazguille/offline-first/blob/master/pt-br)](https://speakerdeck.com/joselitojunior1/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
 (https://github.com/pazguille/offline-first/blob/master/Joselito Júnior - May 16, 2015)
 
 [HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
@@ -820,7 +820,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
 (https://github.com/pazguille/offline-first/blob/master/Ola Gasidlo - May 19, 2014)
 
-[Offline First (https://github.com/pazguille/offline-first/blob/master/Web) Apps](https://github.com/pazguille/offline-first/blob/master/https://speakerdeck.com/espylaub/offline-first-web-apps)
+[Offline First (https://github.com/pazguille/offline-first/blob/master/Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps)
 (https://github.com/pazguille/offline-first/blob/master/Alex Feyerke - May 2, 2014)
 
 [Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
@@ -831,7 +831,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
-[offline-plugin](https://github.com/pazguille/offline-first/blob/master/https://github.com/NekR/offline-plugin/): Offline plugin (https://github.com/pazguille/offline-first/blob/master/ServiceWorker, AppCache) for webpack.
+[offline-plugin](https://github.com/NekR/offline-plugin/): Offline plugin (https://github.com/pazguille/offline-first/blob/master/ServiceWorker, AppCache) for webpack.
 
 [Pinterest Service Workers](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
@@ -895,7 +895,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
 (https://github.com/pazguille/offline-first/blob/master/by Raymond Camden)
 
-[Offline First: The book (https://github.com/pazguille/offline-first/blob/master/draft)](https://github.com/pazguille/offline-first/blob/master/http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
+[Offline First: The book (https://github.com/pazguille/offline-first/blob/master/draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
 (https://github.com/pazguille/offline-first/blob/master/by John Allsopp)
 
 [Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)
@@ -913,7 +913,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Soundslice](https://www.soundslice.com/): Learn and teach music better with interactive notation with [offline mode](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/).
 
 ## Who to Follow
-- [Matthew Riley](https://github.com/pazguille/offline-first/blob/master/https://github.com/tofumatt): Works at mozilla, creator of localForage (https://github.com/pazguille/offline-first/blob/master/localstroage, IndexedDb and WebSQL Wrapper)
+- [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (https://github.com/pazguille/offline-first/blob/master/localstroage, IndexedDb and WebSQL Wrapper)
 - [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
 
 ## Contributing

@@ -19,7 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) – Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
 - [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – A tutorial on how to implement GTD with [Remember the Milk](https://www.rememberthemilk.com).
-- [Inbox Zero](https://github.com/jyguyomarch/awesome-productivity/blob/master/http://www.43folders.com/izero) – Rigorous approach to email management aimed at keeping the inbox (https://github.com/jyguyomarch/awesome-productivity/blob/master/almost) empty at all times.
+- [Inbox Zero](http://www.43folders.com/izero) – Rigorous approach to email management aimed at keeping the inbox (https://github.com/jyguyomarch/awesome-productivity/blob/master/almost) empty at all times.
 - [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
 - [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
@@ -40,10 +40,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### File Management
 
 - [Box](https://www.box.com) – Very good cloud storage solution for business customers.
-- [Dropbox](https://github.com/jyguyomarch/awesome-productivity/blob/master/https://www.dropbox.com) – Simple, elegant and versatile (https://github.com/jyguyomarch/awesome-productivity/blob/master/PC, Macs, Android...) cloud storage solution.
+- [Dropbox](https://www.dropbox.com) – Simple, elegant and versatile (https://github.com/jyguyomarch/awesome-productivity/blob/master/PC, Macs, Android...) cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
 - [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
-- [Mega](https://github.com/jyguyomarch/awesome-productivity/blob/master/https://mega.nz/) – A very generous (https://github.com/jyguyomarch/awesome-productivity/blob/master/50G from the get go) and highly secure cloud storage solution.
+- [Mega](https://mega.nz/) – A very generous (https://github.com/jyguyomarch/awesome-productivity/blob/master/50G from the get go) and highly secure cloud storage solution.
 
 ### Note Management
 
@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Habit Trackers
 
 - [everydayCheck](https://everydaycheck.com) - Form new habits by doing things every day.
-- [Habitica](https://github.com/jyguyomarch/awesome-productivity/blob/master/https://habitica.com) – Complete your real life daily goals in a role play game (https://github.com/jyguyomarch/awesome-productivity/blob/master/previously called _HabitRPG_).
+- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (https://github.com/jyguyomarch/awesome-productivity/blob/master/previously called _HabitRPG_).
 - [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
@@ -89,7 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
-- [IFTTT](https://github.com/jyguyomarch/awesome-productivity/blob/master/https://ifttt.com) – Allows you to create chains of conditional statements (https://github.com/jyguyomarch/awesome-productivity/blob/master/called _recipes_) between web services in order to make the web work for you and boost your productivity.
+- [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (https://github.com/jyguyomarch/awesome-productivity/blob/master/called _recipes_) between web services in order to make the web work for you and boost your productivity.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
-- [Tasker](https://github.com/jyguyomarch/awesome-productivity/blob/master/http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (https://github.com/jyguyomarch/awesome-productivity/blob/master/_e.g._ automatically turn on wifi when you arrive home).
+- [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (https://github.com/jyguyomarch/awesome-productivity/blob/master/_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.

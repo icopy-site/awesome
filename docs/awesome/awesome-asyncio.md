@@ -27,7 +27,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to build web applications.*
 
-* [aiohttp](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP-3156).
+* [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP-3156).
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
 * [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 * [Vibora](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
@@ -44,7 +44,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to implement applications using message queues.*
 
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
-* [aiozmq](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/aio-libs/aiozmq) - Asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/pep 3156) integration with ZeroMQ.
+* [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/pep 3156) integration with ZeroMQ.
 * [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 * [asyncio-nats](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
 * [aiokafka](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
@@ -59,9 +59,9 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-* [aioredis](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/aio-libs) Redis client (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP 3156).
-* [asyncio-redis](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP 3156).
-* [aiocouchdb](https://github.com/timofurrer/awesome-asyncio/blob/master/https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (https://github.com/timofurrer/awesome-asyncio/blob/master/asyncio).
+* [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP 3156).
+* [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (https://github.com/timofurrer/awesome-asyncio/blob/master/PEP 3156).
+* [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (https://github.com/timofurrer/awesome-asyncio/blob/master/asyncio).
 * [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 * [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 * [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee](https://github.com/coleifer/peewee) and aiopg.
@@ -117,5 +117,5 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Recordings of awesome talks about asyncio.*
 
-* [Topics of Interest (https://github.com/timofurrer/awesome-asyncio/blob/master/Python Asyncio)](https://github.com/timofurrer/awesome-asyncio/blob/master/https://youtu.be/ZzfHjytDceU) | [screencast](https://github.com/timofurrer/awesome-asyncio/blob/master/https://youtu.be/lYe8W04ERnY) | [slides](https://github.com/timofurrer/awesome-asyncio/blob/master/https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (https://github.com/timofurrer/awesome-asyncio/blob/master/David Beazley).
-* [Python Asynchronous I/O Walkthrough](https://github.com/timofurrer/awesome-asyncio/blob/master/https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](https://github.com/timofurrer/awesome-asyncio/blob/master/http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).
+* [Topics of Interest (https://github.com/timofurrer/awesome-asyncio/blob/master/Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (https://github.com/timofurrer/awesome-asyncio/blob/master/David Beazley).
+* [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).

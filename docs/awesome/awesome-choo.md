@@ -42,16 +42,16 @@ under the hood:
 
 ### Demos
 
-- [Input example](https://github.com/choojs/awesome-choo/blob/master/http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/yoshuawuyts/choo/tree/master/examples/title))
+- [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
 - [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 - [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
-- [TodoMVC](https://github.com/choojs/awesome-choo/blob/master/http://shuheikagawa.com/todomvc-choo) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/shuhei/todomvc-choo))
-- [choo-firebase](https://github.com/choojs/awesome-choo/blob/master/https://choo-firebase-2ec21.firebaseapp.com) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/mw222rs/choo-firebase))
-- [Grow](https://github.com/choojs/awesome-choo/blob/master/https://grow.static.land) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/sethvincent/grow))
-- [Chatbot](https://github.com/choojs/awesome-choo/blob/master/http://chootbot.herokuapp.com) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/plaey/chatbot))
+- [TodoMVC](http://shuheikagawa.com/todomvc-choo) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/shuhei/todomvc-choo))
+- [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/mw222rs/choo-firebase))
+- [Grow](https://grow.static.land) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/sethvincent/grow))
+- [Chatbot](http://chootbot.herokuapp.com) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/plaey/chatbot))
 - [chat-random](https://github.com/akiva/chat-random)
 - [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo)
-- [choo-scriber](https://github.com/choojs/awesome-choo/blob/master/https://zhouhansen.github.io/choo-scriber) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/choojs/awesome-choo/blob/master/https://github.com/ZhouHansen/choo-scriber))
+- [choo-scriber](https://zhouhansen.github.io/choo-scriber) - (https://github.com/choojs/awesome-choo/blob/master/[repo](https://github.com/ZhouHansen/choo-scriber))
 
 ### Community
 
@@ -68,7 +68,7 @@ under the hood:
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view.
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo.
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo.
-- [choo-detached](https://github.com/choojs/awesome-choo/blob/master/https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (https://github.com/choojs/awesome-choo/blob/master/no routing).
+- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (https://github.com/choojs/awesome-choo/blob/master/no routing).
 - [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`.
 - [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps.
 - [choo-store](https://github.com/ungoldman/choo-store) - Lightweight state structure for choo apps.

@@ -146,7 +146,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Great list of NET interview questions covering all the NET platform topics](http://www.indiabix.com/technical/dotnet/)
 * [NET Interview Questions and Answers for Beginners which consists of the most frequently asked questions in NET This list of 100+ questions and answers gauge your familiarity with the NET platform](http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners)
 * [Questions gathered by community of the StackOverflow](http://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer)
-* [What Great NET Developers Ought To Know (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/More NET Interview Questions)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
+* [What Great NET Developers Ought To Know (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/More NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx)
 
 ### Clojure
 
@@ -161,7 +161,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [CSS interview questions and answers for freshers and experienced candidates Also there you can find CSS online practice tests to fight written tests and certification exams on CSS](http://www.careerride.com/Interview-Questions-CSS.aspx)
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
-* [Top 50 CSS(https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
+* [Top 50 CSS(https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
 * [CSS Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
 
 ### Cucumber
@@ -263,7 +263,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
-* [The Best Frontend JavaScript Interview Questions (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/written by a Frontend Engineer)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/written-by-a-Frontend-Engineer))
+* [The Best Frontend JavaScript Interview Questions (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 
@@ -325,7 +325,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
 * [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
-* [Python Frequently Asked Questions (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Programming)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/https://docs.python.org/2/faq/programming.html)
+* [Python Frequently Asked Questions (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Programming)](https://docs.python.org/2/faq/programming.html)
 * [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 * [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
 * [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
@@ -349,7 +349,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 * [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
 * [This is a first in the series of interview questions related with ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
-* [This quiz intends to test your understanding around ReactJS fundamentals (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Set 3)](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
+* [This quiz intends to test your understanding around ReactJS fundamentals (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
 * [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
@@ -509,7 +509,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ## Coding exercises
 
 * [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview)
-* [Interactive, test-driven Python coding challenges (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/https://github.com/donnemartin/interactive-coding-challenges)
+* [Interactive, test-driven Python coding challenges (https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
 
 ## Comprehensive lists

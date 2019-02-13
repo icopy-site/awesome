@@ -2,7 +2,7 @@
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
 
-If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (https://github.com/sublimino/awesome-funny-markov/blob/master/please do), send a pull request or contact me [@sublimino](https://github.com/sublimino/awesome-funny-markov/blob/master/https://twitter.com/sublimino). 
+If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (https://github.com/sublimino/awesome-funny-markov/blob/master/please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino). 
 
 Looking for more information on Markov Chains? Try [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -20,7 +20,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 ## Web and Tech
 
 - [Headline Smasher](http://www.headlinesmasher.com/best/all) - Fake headlines created by smashing up real headlines.
-- [Subreddit Simulator](https://github.com/sublimino/awesome-funny-markov/blob/master/https://www.reddit.com/r/subredditsimulator) - The most confusing subreddit (https://github.com/sublimino/awesome-funny-markov/blob/master/often on the front page).
+- [Subreddit Simulator](https://www.reddit.com/r/subredditsimulator) - The most confusing subreddit (https://github.com/sublimino/awesome-funny-markov/blob/master/often on the front page).
 - [Alternative Hacker News](https://news.ycombniator.com/) - Hacker News dataset eats itself.
 - [Phaker News](http://lou.wtf/phaker-news/) - Another spin on Hacker News.
 - [Cybersauce Broadcasting Corporation](http://www.x11r5.com/radio/) - A computer generated and dictated podcast.
@@ -28,10 +28,10 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](http://patchworkdollgames.com/yourswimsuit/) - A dating sim about the futility of dating sims.
 - [The Doom That Came to Puppet](http://thedoomthatcametopuppet.tumblr.com/) - Mutations on Puppet documentation and the assorted works of H. P. Lovecraft.
 - [King James Programming](http://kingjamesprogramming.tumblr.com/) - Combined King James Bible, Structure and Interpretation of Computer Programs, and some of Eric S. Raymond's writings.
-- [Git man page Generator](https://github.com/sublimino/awesome-funny-markov/blob/master/http://git-man-page-generator.lokaltog.net/) - Suspiciously believeable (https://github.com/sublimino/awesome-funny-markov/blob/master/but incorrect) Git documentation.
+- [Git man page Generator](http://git-man-page-generator.lokaltog.net/) - Suspiciously believeable (https://github.com/sublimino/awesome-funny-markov/blob/master/but incorrect) Git documentation.
 - [Jon Skeet bot](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) - Stack Overflow's homage to their greatest ever user, Jon Skeet.
 - [StackExchange Simulator](https://se-simulator.lw1.at/) - Random question and answers based on the StackOverflow/StackExchange data dumps.
-- [4chan Text Generator](https://github.com/sublimino/awesome-funny-markov/blob/master/https://github.com/02sh/4chanMarkovText) - With sample inputs for /biz/ /pol/ /b/ /fit/ (https://github.com/sublimino/awesome-funny-markov/blob/master/NSFW).
+- [4chan Text Generator](https://github.com/02sh/4chanMarkovText) - With sample inputs for /biz/ /pol/ /b/ /fit/ (https://github.com/sublimino/awesome-funny-markov/blob/master/NSFW).
 
 ## Twitter
 
@@ -57,7 +57,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Jesus Markoving Christ](http://joshmillard.com/markov/christ/) - An incoherent savior for an incoherent age.
 - [Star Trek the Next Generation](http://joshmillard.com/markov/sttng/) - Previously, on Next Generation....
 - [XKCD](https://xkcd.com/210/) - 90's Flowchart.
-- [Markov Bible](https://github.com/sublimino/awesome-funny-markov/blob/master/https://web.archive.org/web/20081224025955/http://www.markovbible.com/) - The whole book (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
+- [Markov Bible](https://web.https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org/web/20081224025955/http://www.markovbible.com/) - The whole book (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
 - [Automatic Donald Trump](https://filiph.github.io/markov/) - Donald Trump's smart keyboard.
 - [Insta-Trump](http://trump.frost.works/) - create a mathematically generated Trump speech.
 
@@ -68,12 +68,12 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Mark V. Shaney at Your Service](http://www.yisongyue.com/shaney/) - Interactie Markov examples.
 - [foswig.js](http://mrsharpoblunto.github.io/foswig.js/) - Generate awesome Javascript project names from the popular JavaScript library names on GitHub.
 - [Benedict Cumberbatch Name Generator](http://benedictcumberbatchgenerator.tumblr.com/) - Permutations on the gentleman's names.
-- [Reimagined Yo Mama](https://github.com/sublimino/awesome-funny-markov/blob/master/https://github.com/Trshant/reimagined-yomama) - yo mama jokes using markov chains (https://github.com/sublimino/awesome-funny-markov/blob/master/code only).
+- [Reimagined Yo Mama](https://github.com/Trshant/reimagined-yomama) - yo mama jokes using markov chains (https://github.com/sublimino/awesome-funny-markov/blob/master/code only).
 
 ## A history of funny Markov chains
 
-- ["I Spent an Interesting Evening Recently with a Grain of Salt"](https://github.com/sublimino/awesome-funny-markov/blob/master/https://web.archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html) - The Original Prank (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
-- [Mark V. Shaney's Website](https://github.com/sublimino/awesome-funny-markov/blob/master/https://web.archive.org/web/19970418070034/http://softway.com.au/people/mvs/) - Mark V. Shaney's finest hours (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
+- ["I Spent an Interesting Evening Recently with a Grain of Salt"](https://web.https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html) - The Original Prank (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
+- [Mark V. Shaney's Website](https://web.https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org/web/19970418070034/http://softway.com.au/people/mvs/) - Mark V. Shaney's finest hours (https://github.com/sublimino/awesome-funny-markov/blob/master/archive.org).
 - [Fun With Markov Chains](http://www.eblong.com/zarf/markov/) - Featuring "Alice in Elsinore: The Alice books and Hamlet", and "The Revelation of St. Alice: The Alice books, and the books of Genesis and Revelation".
 
 

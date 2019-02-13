@@ -63,7 +63,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
 * [geojson-vt](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
-* [geojson2rtree](https://github.com/tmcw/awesome-geojson/blob/master/https://github.com/maxogden/geojson2rtree): generate a static rtree (https://github.com/tmcw/awesome-geojson/blob/master/using terraformer) from a set of geojson features
+* [geojson2rtree](https://github.com/maxogden/geojson2rtree): generate a static rtree (https://github.com/tmcw/awesome-geojson/blob/master/using terraformer) from a set of geojson features
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
 * [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
@@ -104,7 +104,7 @@ GeoJSON utilities that will make your life easier.
 * [whereonearth-airport](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building](https://github.com/straup/whereonearth-building/): building outlines
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
-* [tgn-geojson](https://github.com/tmcw/awesome-geojson/blob/master/https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (https://github.com/tmcw/awesome-geojson/blob/master/TGN) As GeoJSON.
+* [tgn-geojson](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (https://github.com/tmcw/awesome-geojson/blob/master/TGN) As GeoJSON.
 * [strava-to-geojsonio](https://github.com/taketime/strava-to-geojsonio): export runs & rides from Strava to GeoJSON
 * [strava-geojson](https://github.com/tmcw/strava-geojson): export _all_ strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
@@ -114,8 +114,8 @@ GeoJSON utilities that will make your life easier.
 * [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
-* [geojson-jackson](https://github.com/tmcw/awesome-geojson/blob/master/https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (https://github.com/tmcw/awesome-geojson/blob/master/based on [Jackson](https://github.com/tmcw/awesome-geojson/blob/master/http://wiki.fasterxml.com/JacksonHome))
-* [mapbox-java](https://github.com/tmcw/awesome-geojson/blob/master/https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (https://github.com/tmcw/awesome-geojson/blob/master/based on [Gson](https://github.com/tmcw/awesome-geojson/blob/master/https://github.com/google/gson))
+* [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (https://github.com/tmcw/awesome-geojson/blob/master/based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+* [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (https://github.com/tmcw/awesome-geojson/blob/master/based on [Gson](https://github.com/google/gson))
 
 ### resources
 

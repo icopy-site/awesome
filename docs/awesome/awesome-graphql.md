@@ -125,7 +125,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 * [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize) - OO-style schema definition functions and schema resolver functions for GraphQL-Tools using Sequelize ORM
-* [graphql-tools-types](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (https://github.com/chentsulin/awesome-graphql/blob/master/Void, Int, Float, String, Date, UUID, JSON)
+* [graphql-tools-types](https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (https://github.com/chentsulin/awesome-graphql/blob/master/Void, Int, Float, String, Date, UUID, JSON)
 * [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
@@ -134,7 +134,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
 * [GraysQL](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
-* [Annotated GraphQL](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (https://github.com/chentsulin/awesome-graphql/blob/master/i.e.: transform an existing REST api into a GraphQL endpoint).
+* [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (https://github.com/chentsulin/awesome-graphql/blob/master/i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
 * [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
@@ -163,7 +163,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [relay-sink](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
-* [react-relay-network-layer](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/relay-tools/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (https://github.com/chentsulin/awesome-graphql/blob/master/urlThunk, retryThunk, auth, defer and other).
+* [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (https://github.com/chentsulin/awesome-graphql/blob/master/urlThunk, retryThunk, auth, defer and other).
 * [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
 
@@ -188,7 +188,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [graphql-bundle](https://github.com/hoticeking/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 * [GraphQL](https://github.com/youshido-php/GraphQL) â€“Â Well documented PHP implementation with no dependencies.
-* [GraphQL Symfony Bundle](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/youshido-php/GraphQLBundle) â€“Â GraphQL Bundle for the Symfony 3 (https://github.com/chentsulin/awesome-graphql/blob/master/supports 2.6+).
+* [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) â€“Â GraphQL Bundle for the Symfony 3 (https://github.com/chentsulin/awesome-graphql/blob/master/supports 2.6+).
 * [graphql-wp](https://github.com/tim-field/graphql-wp) â€“ a WordPress plugin that exposes a GraphQL endpoint.
 * [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
@@ -203,7 +203,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 * [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 * [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
-* [graphene-gae](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (https://github.com/chentsulin/awesome-graphql/blob/master/GAE).
+* [graphene-gae](https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (https://github.com/chentsulin/awesome-graphql/blob/master/GAE).
 * [django-graphiql](https://github.com/graphql-python/django-graphiql) - Integrate GraphiQL easily into your Django project.
 * [flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
 * [python-graphql-client](https://github.com/graphcool/python-graphql-client) - Simple GraphQL client for Python 2.7+
@@ -238,7 +238,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 ### Go Libraries
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
-* [graphql-go](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use (https://github.com/chentsulin/awesome-graphql/blob/master/was https://github.com/neelance/graphql-go).
+* [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use (https://github.com/chentsulin/awesome-graphql/blob/master/was https://github.com/neelance/graphql-go).
 * [GQLGen](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
 * [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL client for Go
 * [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
@@ -337,10 +337,10 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
-* [GraphQLviz](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (https://github.com/chentsulin/awesome-graphql/blob/master/schemas) with Graphviz.
+* [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (https://github.com/chentsulin/awesome-graphql/blob/master/schemas) with Graphviz.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
-* [GraphQLHub](https://github.com/chentsulin/awesome-graphql/blob/master/https://www.graphqlhub.com/) - Query public API's schemas (https://github.com/chentsulin/awesome-graphql/blob/master/e.g. Reddit, Twitter, Github, etc) using GraphiQL
+* [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (https://github.com/chentsulin/awesome-graphql/blob/master/e.g. Reddit, Twitter, Github, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
@@ -363,7 +363,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
-* [GraphQL Metrics](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (https://github.com/chentsulin/awesome-graphql/blob/master/if there was an error or not) to the console as well as to InfluxDB.
+* [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (https://github.com/chentsulin/awesome-graphql/blob/master/if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) â€“Â An full-featured API client with first-party GraphQL query editor
@@ -397,10 +397,10 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 
 ### JavaScript Examples
 
-* [react-starter-kit](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (https://github.com/chentsulin/awesome-graphql/blob/master/Node.js/Express, GraphQL, React)
+* [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (https://github.com/chentsulin/awesome-graphql/blob/master/Node.js/Express, GraphQL, React)
 * [graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - Project template for building a GraphQL server with Node.js v7+ and JavaScript
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping swapi.co.
-* [graphql-server](https://github.com/chentsulin/awesome-graphql/blob/master/https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (https://github.com/chentsulin/awesome-graphql/blob/master/MongoDB) and Node.js.
+* [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (https://github.com/chentsulin/awesome-graphql/blob/master/MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2
 * [graphql-aws](https://github.com/jonsharratt/graphql-aws) - Amazon AWS GraphQL API Server.
 * [graffiti-todo](https://github.com/RisingStack/graffiti-todo) - Example Relay TodoMVC application using graffiti-mongoose.  **WARNING** Graffiti is no longer actively maintained.  For hobbyist only.

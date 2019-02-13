@@ -1,6 +1,6 @@
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
-A curated list of awesome [streaming (https://github.com/manuzhang/awesome-streaming/blob/master/stream processing)](https://github.com/manuzhang/awesome-streaming/blob/master/http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/sindresorhus/awesome). 
+A curated list of awesome [streaming (https://github.com/manuzhang/awesome-streaming/blob/master/stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome). 
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 * [Apache Apex](https://github.com/apache/apex-core) [Java] - unified platform for big data stream and batch processing.
 * [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
 * [Apache Gearpump](https://github.com/apache/incubator-gearpump) [Scala] - lightweight real-time distributed streaming engine built on Akka.
-* [Apache Samza](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/apache/samza) [Scala/Java] - distributed stream processing framework that build on Kafka(https://github.com/manuzhang/awesome-streaming/blob/master/messaging, storage) and YARN(https://github.com/manuzhang/awesome-streaming/blob/master/fault tolerance, processor isolation, security and resource management).
+* [Apache Samza](https://github.com/apache/samza) [Scala/Java] - distributed stream processing framework that build on Kafka(https://github.com/manuzhang/awesome-streaming/blob/master/messaging, storage) and YARN(https://github.com/manuzhang/awesome-streaming/blob/master/fault tolerance, processor isolation, security and resource management).
 * [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 * [Apache Storm](https://github.com/apache/storm) [Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing. 
 * [Faust](https://github.com/robinhood/faust) [Python] - stream processing library, porting the ideas from Kafka Streams to Python
@@ -30,12 +30,12 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 * [heron](https://github.com/apache/incubator-heron) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter.
 * [mantis](http://www.slideshare.net/g9yuayon/qcon-talk-on-netflix-mantis-a-stream-processing-system), [tech-blog](https://medium.com/netflix-techblog/stream-processing-with-mantis-78af913f51a6) - Netflix's event stream processing system.
 * [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
-* [mupd8(https://github.com/manuzhang/awesome-streaming/blob/master/muppet)](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
+* [mupd8(https://github.com/manuzhang/awesome-streaming/blob/master/muppet)](https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 * [s4](https://github.com/apache/incubator-s4) [Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
 * [SPQR](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
 * [tigon](https://github.com/caskdata/tigon) [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
 * [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
-* [Teknek](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (https://github.com/manuzhang/awesome-streaming/blob/master/Stream Operator Language)
+* [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (https://github.com/manuzhang/awesome-streaming/blob/master/Stream Operator Language)
 * [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C++] - a distributed stream processing framework built in C++ on top of Apache Mesos, designed for high performance data processing jobs that require flexibility & control.
 * [StreamBox](https://engineering.purdue.edu/~xzl/xsel/p/streambox/) - a modern stream processing engine which can handle out-of-order streaming data and achieve high throughput with low latency.
 * [Wallaroo](https://github.com/WallarooLabs/wallaroo) [Python] - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
@@ -45,13 +45,13 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 
 ### Streaming Library
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) [Python/Java/Scala] - platform for distributed processing and real-time analytics. Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
-* [Apache Kafka Streams](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/apache/kafka) [Java] - lightweight stream processing library included in Apache Kafka (https://github.com/manuzhang/awesome-streaming/blob/master/since 0.10 version).
+* [Apache Kafka Streams](https://github.com/apache/kafka) [Java] - lightweight stream processing library included in Apache Kafka (https://github.com/manuzhang/awesome-streaming/blob/master/since 0.10 version).
 * [Akka Streams](https://github.com/akka/akka) [Scala] - stream processing library on Akka Actors. 
 * [Swave](https://github.com/sirthias/swave) [Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
-* [FS2(https://github.com/manuzhang/awesome-streaming/blob/master/prev. 'Scalaz-Stream')](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/functional-streams-for-scala/fs2) [Scala] - Compositional, streaming I/O library for Scala.
+* [FS2(https://github.com/manuzhang/awesome-streaming/blob/master/prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Compositional, streaming I/O library for Scala.
 * [monix](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
 * [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
-* [Bistro Streams](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/asavinov/bistro) [Java] - a light-weight stream processing library which does for stream analytics what column stores did for databases by radically changing the way (https://github.com/manuzhang/awesome-streaming/blob/master/stream) data is processed.
+* [Bistro Streams](https://github.com/asavinov/bistro) [Java] - a light-weight https://github.com/manuzhang/awesome-streaming/blob/master/stream processing library which does for https://github.com/manuzhang/awesome-streaming/blob/master/stream analytics what column stores did for databases by radically changing the way (https://github.com/manuzhang/awesome-streaming/blob/master/stream) data is processed.
 * [Streamline](https://github.com/hortonworks/streamline) [Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 * [StreamAlert](https://github.com/airbnb/streamalert) [Python] - Airbnb's Real-time Data Analysis and Alerting.
 
@@ -68,8 +68,8 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 ### DSL
 * [summingbird](https://github.com/twitter/summingbird) [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 * [coast](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
-* [Apache Beam](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/apache/beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (https://github.com/manuzhang/awesome-streaming/blob/master/EIPs) and Domain Specific Languages (https://github.com/manuzhang/awesome-streaming/blob/master/DSLs), open sourced by Google.
-* [Esper](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/espertechinc/esper) [Java] - component for complex event processing (https://github.com/manuzhang/awesome-streaming/blob/master/CEP) and event series analysis.
+* [Apache Beam](https://github.com/apache/beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (https://github.com/manuzhang/awesome-streaming/blob/master/EIPs) and Domain Specific Languages (https://github.com/manuzhang/awesome-streaming/blob/master/DSLs), open sourced by Google.
+* [Esper](https://github.com/espertechinc/esper) [Java] - component for complex event processing (https://github.com/manuzhang/awesome-streaming/blob/master/CEP) and event series analysis.
 * [Streamparse](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
 
 ### Data Pipeline
@@ -91,11 +91,11 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 
 * [streamDM](https://github.com/huawei-noah/streamDM) [Scala] - mining Big Data streams using Spark Streaming from Huawei.
 * [jubatus](http://jubat.us/en/) [C++] - distributed processing framework and streaming machine learning library.
-* [Apache Samoa](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/apache/incubator-samoa) [Java] - distributed streaming machine learning (https://github.com/manuzhang/awesome-streaming/blob/master/ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
+* [Apache Samoa](https://github.com/apache/incubator-samoa) [Java] - distributed streaming machine learning (https://github.com/manuzhang/awesome-streaming/blob/master/ML) framework that contains a programing abstraction for distributed streaming https://github.com/manuzhang/awesome-streaming/blob/master/ML algorithms.
 * [trident-ml](https://github.com/pmerienne/trident-ml) [Java] - realtime online machine learning library based on Trident.
-* [StormCV](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/sensorstorm/StormCV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (https://github.com/manuzhang/awesome-streaming/blob/master/CV) specific operations and data model.
+* [Stormhttps://github.com/manuzhang/awesome-streaming/blob/master/CV](https://github.com/sensorstorm/Stormhttps://github.com/manuzhang/awesome-streaming/blob/master/CV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (https://github.com/manuzhang/awesome-streaming/blob/master/CV) specific operations and data model.
 * [DataSketches](https://github.com/DataSketches/sketches-core) [Java] - sketches library from Yahoo!.
-* [StreamingBandit](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/Nth-iteration-labs/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (https://github.com/manuzhang/awesome-streaming/blob/master/cMAB) problems.
+* [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (https://github.com/manuzhang/awesome-streaming/blob/master/cMAB) problems.
 
 ### Streaming SQL
 
@@ -109,7 +109,7 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 
 * [storm-benchmark](https://github.com/intel-hadoop/storm-benchmark) [Java] - a set of benchmarks to test Storm performance.
 * [storm-perf-test](https://github.com/yahoo/storm-perf-test) [Java] - a simple storm performance/stress test.
-* [streaming-benchmarks](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/yahoo/streaming-benchmarks) [Java] - Benchmarks for Low Latency (https://github.com/manuzhang/awesome-streaming/blob/master/Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+* [streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) [Java] - Benchmarks for Low Latency (https://github.com/manuzhang/awesome-streaming/blob/master/Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
 * [flotilla](https://github.com/tylertreat/Flotilla) [Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 
@@ -122,13 +122,13 @@ A curated list of awesome [streaming (https://github.com/manuzhang/awesome-strea
 * [aeron](https://github.com/real-logic/Aeron) [Java/C++] - efficient reliable unicast and multicast message transport.
 * [StreamFlow](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
 * [samza-luwak](https://github.com/romseygeek/samza-luwak) [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
-* [Turbine](https://github.com/manuzhang/awesome-streaming/blob/master/https://github.com/Netflix/Turbine) [Java] - tool for aggregating streams of Server-Sent Event (https://github.com/manuzhang/awesome-streaming/blob/master/SSE) JSON data into a single stream.
+* [Turbine](https://github.com/Netflix/Turbine) [Java] - tool for aggregating streams of Server-Sent Event (https://github.com/manuzhang/awesome-streaming/blob/master/SSE) JSON data into a single stream.
 
 ### Readings
 
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) by Tyler Akidau. 
-3. [Real Time Analytics: Algorithms and Systems (https://github.com/manuzhang/awesome-streaming/blob/master/VLDB 2015)](https://github.com/manuzhang/awesome-streaming/blob/master/http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
+3. [Real Time Analytics: Algorithms and Systems (https://github.com/manuzhang/awesome-streaming/blob/master/VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 
 
 ## License 

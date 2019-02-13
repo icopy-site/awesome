@@ -24,14 +24,14 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### Lab Equipment Software
 
- * [Grafana](https://github.com/dylanrees/citizen-science/blob/master/http://grafana.org/) - Create a dashboard (https://github.com/dylanrees/citizen-science/blob/master/online if you wish) that visualizes your experimental data.
+ * [Grafana](http://grafana.org/) - Create a dashboard (https://github.com/dylanrees/citizen-science/blob/master/online if you wish) that visualizes your experimental data.
  * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
  * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
 
 ### Modeling and Computation
 
  * [OpenSCAD](http://www.openscad.org/) - 3D modeling software.
- * [SageMath](https://github.com/dylanrees/citizen-science/blob/master/https://cloud.sagemath.com/) - Open-source cloud-based computation (https://github.com/dylanrees/citizen-science/blob/master/similar to MATLAB and Mathematica).
+ * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (https://github.com/dylanrees/citizen-science/blob/master/similar to MATLAB and Mathematica).
  * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB.
  * [Dia](http://dia-installer.de/) - Open-source software for making diagrams.
  * [Gephi](https://gephi.org/) - Open graph visualization platform.
@@ -44,7 +44,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
- * [Evergreen ILS](https://github.com/dylanrees/citizen-science/blob/master/http://evergreen-ils.org/) - Software for managing a library of books (https://github.com/dylanrees/citizen-science/blob/master/and the loaning process).
+ * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (https://github.com/dylanrees/citizen-science/blob/master/and the loaning process).
  * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
@@ -61,7 +61,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - A vast library of interesting textbooks and other resources in PDF form on such topics as permaculture, agriculture, economics, crafts and activism.
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - A large student-edited multi-institutional wiki for microbiology.
  * [OpenCulture Textbooks](http://www.openculture.com/free_textbooks) - The textbook section of a website dedicated to the open sharing of information.
- * [Free Tech Books](https://github.com/dylanrees/citizen-science/blob/master/http://www.freetechbooks.com/categories) - Free ebooks (https://github.com/dylanrees/citizen-science/blob/master/mostly computer science and engineering).
+ * [Free Tech Books](http://www.freetechbooks.com/categories) - Free ebooks (https://github.com/dylanrees/citizen-science/blob/master/mostly computer science and engineering).
  * [OpenWetWare](http://openwetware.org/wiki/Main_Page) - A site that maintains a list of bio lab protocols as well as an electronic lab notebook for team use.
 
 ## Tools and Equipment
@@ -98,7 +98,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ### Electronics
 
   * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer.
-  * [Raspberry Pi Zero](https://github.com/dylanrees/citizen-science/blob/master/https://www.raspberrypi.org/products/pi-zero/) - The cheapest, smallest Raspberry Pi (https://github.com/dylanrees/citizen-science/blob/master/$5).
+  * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - The cheapest, smallest Raspberry Pi (https://github.com/dylanrees/citizen-science/blob/master/$5).
   * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network.
   * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
   * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
@@ -117,8 +117,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
  * [SciHub](https://sci-hub.tw/) - Another site for gaining access to science papers that are normally behind paywalls.
- * [Public Library of Science (https://github.com/dylanrees/citizen-science/blob/master/PLOS)](https://github.com/dylanrees/citizen-science/blob/master/https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
- * [arXiv](https://github.com/dylanrees/citizen-science/blob/master/http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (https://github.com/dylanrees/citizen-science/blob/master/mostly physics and math).
+ * [Public Library of Science (https://github.com/dylanrees/citizen-science/blob/master/PLOS)](https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
+ * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (https://github.com/dylanrees/citizen-science/blob/master/mostly physics and math).
  * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.
  * [Investigative Dashboard](https://investigativedashboard.org/) - A tool for researchers, especially journalists, to share documents and findings.
  
@@ -140,7 +140,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
  * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [Spectrophotometric Determination of Lead](http://www.pharmtech.com/spectrophotometric-determination-lead) - Another simple DIY lead testing procedure.
- * [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://github.com/dylanrees/citizen-science/blob/master/https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (https://github.com/dylanrees/citizen-science/blob/master/an 8-year-old boy).  The boy received lead author credit in a scientific paper.
+ * [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (https://github.com/dylanrees/citizen-science/blob/master/an 8-year-old boy).  The boy received lead author credit in a scientific paper.
  
 ## Citizen Science Spaces and Projects
 
@@ -196,7 +196,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
- * [Welcome to How To Grow (https://github.com/dylanrees/citizen-science/blob/master/almost) Anything in GaudiLabs - Switzerland](https://github.com/dylanrees/citizen-science/blob/master/http://bio.academany.org/2015/labs/luzern/final_project.html) - A guide to setting up a basic microbiology lab.
+ * [Welcome to How To Grow (https://github.com/dylanrees/citizen-science/blob/master/almost) Anything in GaudiLabs - Switzerland](http://bio.academany.org/2015/labs/luzern/final_project.html) - A guide to setting up a basic microbiology lab.
  
 ## Conferences and Events
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 

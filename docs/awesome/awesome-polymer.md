@@ -33,7 +33,7 @@
 ## Articles
 * [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 * [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
-* [Write web components with ES2015 (https://github.com/Granze/awesome-polymer/blob/master/ES6)](https://github.com/Granze/awesome-polymer/blob/master/http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
+* [Write web components with ES2015 (https://github.com/Granze/awesome-polymer/blob/master/ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 * [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
 * [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/)
@@ -95,7 +95,7 @@
 * [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
 * [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0.
 * [Polylint](https://github.com/PolymerLabs/polylint) Detect errors in your code.
-* [Polygit](https://github.com/Granze/awesome-polymer/blob/master/http://polygit.org/) The Magic Server serves files directly from github (https://github.com/Granze/awesome-polymer/blob/master/via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
+* [Polygit](http://polygit.org/) The Magic Server serves files directly from github (https://github.com/Granze/awesome-polymer/blob/master/via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
 * [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.

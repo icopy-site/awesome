@@ -1,4 +1,4 @@
-Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
+Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
@@ -101,7 +101,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
 - [longclaw](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
-- [django-oscar-wagtail](https://github.com/springload/awesome-wagtail/blob/master/https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (https://github.com/springload/awesome-wagtail/blob/master/or Oscar Commerce integration for Wagtail?).
+- [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (https://github.com/springload/awesome-wagtail/blob/master/or Oscar Commerce integration for Wagtail?).
 
 ### SEO and SMO
 
@@ -157,7 +157,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
-- [Wagtail Condensed Inline Panel](https://github.com/springload/awesome-wagtail/blob/master/https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (https://github.com/springload/awesome-wagtail/blob/master/collapsible with drag and drop support).
+- [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (https://github.com/springload/awesome-wagtail/blob/master/collapsible with drag and drop support).
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
@@ -168,7 +168,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
-- [Wagtail Boilerplate](https://github.com/springload/awesome-wagtail/blob/master/https://github.com/Frojd/Wagtail-Boilerplate) – A Django/Wagtail cookiecutter with built in support for docker, deployments (https://github.com/springload/awesome-wagtail/blob/master/with ansible), Reactjs, pytest and S3.
+- [Wagtail Boilerplate](https://github.com/Frojd/Wagtail-Boilerplate) – A Django/Wagtail cookiecutter with built in support for docker, deployments (https://github.com/springload/awesome-wagtail/blob/master/with ansible), Reactjs, pytest and S3.
 
 ## Resources
 
@@ -270,7 +270,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Dutch Wagtail Meetup](https://www.meetup.com/Dutch-Wagtail-Meetup/) - This is a group for anyone interested in working and developing with Wagtail.
 - [Wellington Wagtail CMS Meetup](https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/) - The first Wagtail CMS meetup in New Zealand!
-- [Wagtail Space](https://github.com/springload/awesome-wagtail/blob/master/https://www.wagtail.space/) - Wagtail training sessions, Wagtail (https://github.com/springload/awesome-wagtail/blob/master/lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.
+- [Wagtail Space](https://www.wagtail.space/) - Wagtail training sessions, Wagtail (https://github.com/springload/awesome-wagtail/blob/master/lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.
 - [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) – Kickstarter campaign to accelerate the development of Wagtail.
 
 ## Open-source sites
@@ -280,7 +280,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Torchbox](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 - [Made with Wagtail](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 - [OpenCanada.org](https://github.com/OpenCanada/website) – The opencanada.org website source.
-- [Federal Electoral Commission](https://github.com/springload/awesome-wagtail/blob/master/https://github.com/18F/fec-cms) – The content management system (https://github.com/springload/awesome-wagtail/blob/master/CMS) for the new Federal Election Commission website.
+- [Federal Electoral Commission](https://github.com/18F/fec-cms) – The content management system (https://github.com/springload/awesome-wagtail/blob/master/CMS) for the new Federal Election Commission website.
 - [Table Tennis Wellington Business Class](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 - [Jordi Joan’s blog](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
 - [Localore: Finding America](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
@@ -291,7 +291,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Secure the News](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
-- [RTEI](https://github.com/springload/awesome-wagtail/blob/master/https://github.com/okfn/rtei) – Right to Education Index website (https://github.com/springload/awesome-wagtail/blob/master/OKFN).
+- [RTEI](https://github.com/okfn/rtei) – Right to Education Index website (https://github.com/springload/awesome-wagtail/blob/master/OKFN).
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 - [Project TIER](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 

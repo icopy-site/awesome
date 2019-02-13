@@ -160,7 +160,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 ### OpenResty
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A list like this one, but focused on OpenResty.
 - Core platform
-  - [ngx_lua](https://github.com/LewisJEllis/awesome-lua/blob/master/https://www.nginx.com/resources/wiki/modules/lua/) - The core piece of OpenResty. Embeds Lua in Nginx and exposes, among other things, the cosocket API for non-blocking sockets (https://github.com/LewisJEllis/awesome-lua/blob/master/compatible with LuaSocket's API).
+  - [ngx_lua](https://www.nginx.com/resources/wiki/modules/lua/) - The core piece of OpenResty. Embeds Lua in Nginx and exposes, among other things, the cosocket API for non-blocking sockets (https://github.com/LewisJEllis/awesome-lua/blob/master/compatible with LuaSocket's API).
   - [OpenResty GitHub Organization](https://github.com/openresty) - Home of the repositories for ngx_lua, ngx_openresty, and many related modules.
 - Third-party modules
   - [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client driver, built on the cosocket API.
@@ -190,7 +190,7 @@ Search this page for 'OpenResty' to find related packages under other categories
   - [lanes](https://github.com/LuaLanes/lanes) - Library implementing a message passing model with one OS thread per Lua thread.
   - [luaproc](https://github.com/askyrme/luaproc) - Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also [the paper](http://www.inf.puc-rio.br/~roberto/docs/ry08-05.pdf) where it originated.
 
-For more on the differences (https://github.com/LewisJEllis/awesome-lua/blob/master/particularly between `lanes` and `luaproc`), see this [comparison](https://github.com/LewisJEllis/awesome-lua/blob/master/http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_For_Windows/lanes/comparison.html) of options; somewhat dated, but covers how each one works and the significant differences.
+For more on the differences (https://github.com/LewisJEllis/awesome-lua/blob/master/particularly between `lanes` and `luaproc`), see this [comparison](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_For_Windows/lanes/comparison.html) of options; somewhat dated, but covers how each one works and the significant differences.
 
 
 ### Templating
@@ -337,7 +337,7 @@ For more on the differences (https://github.com/LewisJEllis/awesome-lua/blob/mas
 
 ### Experimental, etc
 - [punchdrunk.js](https://github.com/TannerRogalsky/punchdrunk) - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.
-- [luvit](https://github.com/LewisJEllis/awesome-lua/blob/master/https://github.com/luvit/luvit) - Node.js's underlying architecture (https://github.com/LewisJEllis/awesome-lua/blob/master/libUV) with Lua on top instead of JavaScript.
+- [luvit](https://github.com/luvit/luvit) - Node.js's underlying architecture (https://github.com/LewisJEllis/awesome-lua/blob/master/libUV) with Lua on top instead of JavaScript.
 - [graphql-lua](https://github.com/bjornbytes/graphql-lua) - Lua implementation of [GraphQL](http://graphql.org/).
 
 
@@ -347,7 +347,7 @@ For more on the differences (https://github.com/LewisJEllis/awesome-lua/blob/mas
 - [kpie](https://github.com/skx/kpie) - A scripting utility to juggle windows.
 - [lumail](https://lumail.org/) - A console-based mail client, with extensive scripting capabilities.
 - [AwesomeWM](https://awesomewm.org/) - A highly configurable and extensible window manager for X, scripted and configured by Lua.
-- [Textadept](https://github.com/LewisJEllis/awesome-lua/blob/master/https://foicica.com/textadept/) - Extremely lightweight, customizable, cross-platform editor, written (https://github.com/LewisJEllis/awesome-lua/blob/master/mostly) in (https://github.com/LewisJEllis/awesome-lua/blob/master/and scripted by) Lua.
+- [Textadept](https://foicica.com/textadept/) - Extremely lightweight, customizable, cross-platform editor, written (https://github.com/LewisJEllis/awesome-lua/blob/master/mostly) in (https://github.com/LewisJEllis/awesome-lua/blob/master/and scripted by) Lua.
 - [KoReader](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
 
 

@@ -2,7 +2,7 @@
 
 > A curated list of awesome inspectIT documentations and resources.
 
-[![inspectIT](https://github.com/inspectit-labs/awesome-inspectit/blob/master/media/inspectit.png)](https://github.com/inspectit-labs/awesome-inspectit/blob/master/http://www.inspectit.rocks/)
+[![inspectIT](https://raw.githubusercontent.com/inspectit-labs/awesome-inspectit/master/media/inspectit.png)](http://www.inspectit.rocks/)
 
 inspectIT is an open source APM (https://github.com/inspectit-labs/awesome-inspectit/blob/master/Application Performance Management) tool for analyzing Java (https://github.com/inspectit-labs/awesome-inspectit/blob/master/EE) applications.
 
@@ -25,12 +25,12 @@ inspectIT is an open source APM (https://github.com/inspectit-labs/awesome-inspe
 ## Tutorials
 * [How to Write Your Own Sensor](https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a) - Walkthrough on how to implement a custom sensor for inspectIT.
 * [inspectIT Workshop](https://github.com/inspectit-labs/workshop) - Hands-on workshop about inspectIT and its setup, configuration and usage.
-* [Using Java Management Extensions (https://github.com/inspectit-labs/awesome-inspectit/blob/master/JMX)](https://github.com/inspectit-labs/awesome-inspectit/blob/master/https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - Walkthrough on how to monitor JMX attributes.
+* [Using Java Management Extensions (https://github.com/inspectit-labs/awesome-inspectit/blob/master/JMX)](https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - Walkthrough on how to monitor https://github.com/inspectit-labs/awesome-inspectit/blob/master/JMX attributes.
  
 ## Videos
 
 * [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
-* [Integration of inspectIT into a Sping Boot or Java application](https://github.com/inspectit-labs/awesome-inspectit/blob/master/https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (https://github.com/inspectit-labs/awesome-inspectit/blob/master/Boot) or Java application.
+* [Integration of inspectIT into a Sping https://github.com/inspectit-labs/awesome-inspectit/blob/master/Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (https://github.com/inspectit-labs/awesome-inspectit/blob/master/Boot) or Java application.
 
 ## Blog Posts
 

@@ -36,7 +36,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Choose your base shell.*
 
-* [bash](https://github.com/alebcay/awesome-shell/blob/master/https://www.gnu.org/software/bash/) - GNU Project's shell (https://github.com/alebcay/awesome-shell/blob/master/Bourne Again SHell)
+* [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (https://github.com/alebcay/awesome-shell/blob/master/Bourne Again SHell)
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
@@ -86,14 +86,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 * [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 * [k](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
-* [k alias](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/lingtalfi/k) - get kool aliases (https://github.com/alebcay/awesome-shell/blob/master/and more) working with a simple one-liner
+* [k alias](https://github.com/lingtalfi/k) - get kool aliases (https://github.com/alebcay/awesome-shell/blob/master/and more) working with a simple one-liner
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
-* [lf.sh](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (https://github.com/alebcay/awesome-shell/blob/master/grepping, copying path to clipboard, etc)
-* [Lmod](https://github.com/alebcay/awesome-shell/blob/master/https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (https://github.com/alebcay/awesome-shell/blob/master/compare to modules)
+* [lf.sh](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (https://github.com/alebcay/awesome-shell/blob/master/grepping, copying path to clipboard, etc)
+* [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (https://github.com/alebcay/awesome-shell/blob/master/compare to modules)
 * [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
-* [mackup](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/lra/mackup/) - Keep your application settings in sync (https://github.com/alebcay/awesome-shell/blob/master/OS X/Linux)
-* [modules](https://github.com/alebcay/awesome-shell/blob/master/http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (https://github.com/alebcay/awesome-shell/blob/master/compare to Lmod, direnv, and autoenv)
+* [mackup](https://github.com/lra/mackup/) - Keep your application settings in sync (https://github.com/alebcay/awesome-shell/blob/master/OS X/Linux)
+* [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (https://github.com/alebcay/awesome-shell/blob/master/compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
@@ -103,7 +103,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
-* [SHML](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/odb/shml) - Style framework for the terminal (https://github.com/alebcay/awesome-shell/blob/master/Shell Markup Language)
+* [SHML](https://github.com/odb/shml) - Style framework for the terminal (https://github.com/alebcay/awesome-shell/blob/master/Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
@@ -202,7 +202,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
-* [wifi-wand](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (https://github.com/alebcay/awesome-shell/blob/master/install by `gem install wifi-wand`)
+* [wifi-wand](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (https://github.com/alebcay/awesome-shell/blob/master/install by `gem install wifi-wand`)
 * [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ## Downloading and Serving
@@ -234,11 +234,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
-* [mpv](https://github.com/alebcay/awesome-shell/blob/master/https://mpv.io/) - Lets you play most audio and video formats (https://github.com/alebcay/awesome-shell/blob/master/using ASCII characters) in the shell as well as in a GUI.
-* [nehm](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (https://github.com/alebcay/awesome-shell/blob/master/if you use it) your SoundCloud likes in convenient way
+* [mpv](https://mpv.io/) - Lets you play most audio and video formats (https://github.com/alebcay/awesome-shell/blob/master/using ASCII characters) in the shell as well as in a GUI.
+* [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (https://github.com/alebcay/awesome-shell/blob/master/if you use it) your SoundCloud likes in convenient way
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
-* [sejda](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (https://github.com/alebcay/awesome-shell/blob/master/split, merge, rotate, convert to jpg, extract text, etc)
-* [xidel](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (https://github.com/alebcay/awesome-shell/blob/master/Turing-complete) XPath and XQuery.
+* [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (https://raw.githubusercontent.com/alebcay/awesome-shell/master/split, merge, rotate, convert to jpg, extract text, etc)
+* [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (https://github.com/alebcay/awesome-shell/blob/master/Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
@@ -279,7 +279,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
-* [wttr.in](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (https://github.com/alebcay/awesome-shell/blob/master/curl wttr.in)
+* [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (https://github.com/alebcay/awesome-shell/blob/master/curl wttr.in)
 
 ## Games
 
@@ -337,7 +337,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
-* [shellfire](https://github.com/alebcay/awesome-shell/blob/master/https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (https://github.com/alebcay/awesome-shell/blob/master/bash, sh and dash) function libraries
+* [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (https://github.com/alebcay/awesome-shell/blob/master/bash, sh and dash) function libraries
 * [shpec](https://github.com/rylnd/shpec) - A shell testing framework
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub](https://github.com/basecamp/sub) - A delicious way to organize programs
@@ -350,13 +350,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 ## Guides
 
 * [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
-* [Greg Wooledge's (https://github.com/alebcay/awesome-shell/blob/master/aka "greycat") wiki](https://github.com/alebcay/awesome-shell/blob/master/http://mywiki.wooledge.org).
+* [Greg Wooledge's (https://github.com/alebcay/awesome-shell/blob/master/aka "greycat") wiki](http://mywiki.wooledge.org).
   Specifically [Bash Guide](http://mywiki.wooledge.org/BashGuide), [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 * [The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 * [The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 * [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-* [Use the Unofficial Bash Strict Mode (https://github.com/alebcay/awesome-shell/blob/master/Unless You Looove Debugging)](https://github.com/alebcay/awesome-shell/blob/master/http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Use the Unofficial Bash Strict Mode (https://github.com/alebcay/awesome-shell/blob/master/Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)

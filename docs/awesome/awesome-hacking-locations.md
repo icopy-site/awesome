@@ -359,7 +359,7 @@ Webpage: http://cafenutid.dk
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://github.com/daviddias/awesome-hacking-locations/blob/master/https://goo.gl/maps/iR2ffyCTRzw) | Mon (https://github.com/daviddias/awesome-hacking-locations/blob/master/open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
+✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (https://github.com/daviddias/awesome-hacking-locations/blob/master/open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
 
 
 ## France 🇫🇷
@@ -428,7 +428,7 @@ Webpage: http://www-bsg.univ-paris1.fr
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [10 place du Panthéon (https://github.com/daviddias/awesome-hacking-locations/blob/master/Rue Valette) 75005 Paris](https://github.com/daviddias/awesome-hacking-locations/blob/master/https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
+✔ | ✔ | [10 place du Panthéon (https://github.com/daviddias/awesome-hacking-locations/blob/master/Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -479,7 +479,7 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-(https://github.com/daviddias/awesome-hacking-locations/blob/master/eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://github.com/daviddias/awesome-hacking-locations/blob/master/https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+(https://github.com/daviddias/awesome-hacking-locations/blob/master/eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
 
 ## Hamburg
 
@@ -680,7 +680,7 @@ Wifi | Power | Address | Open Hours
 
 #### Kek
 
-> Near the Delft Central Station; Good food; Hipster place; Has a small store (https://github.com/daviddias/awesome-hacking-locations/blob/master/great for last minute gifts)
+> Near the Delft Central Station; Good food; Hipster place; Has a small store (https://raw.githubusercontent.com/daviddias/awesome-hacking-locations/master/great for last minute gifts)
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
@@ -907,7 +907,7 @@ Wifi | Power | Address | Open Hours
 
 #### Centro Comercial Nova Arcada
 
-> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (https://github.com/daviddias/awesome-hacking-locations/blob/master/I hacked away [this script](https://github.com/daviddias/awesome-hacking-locations/blob/master/https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
+> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (https://github.com/daviddias/awesome-hacking-locations/blob/master/I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
 
 Webpage: http://www.novaarcada.pt/
 
@@ -1118,7 +1118,7 @@ Wifi | Power | Address | Open Hours
 
 > Calm and cosy cafe with relaxing music and a nice backyard.
 
-Webpage: (https://github.com/daviddias/awesome-hacking-locations/blob/master/duasdeletra.pt)[http://duasdeletra.pt/]
+Webpage: (https://github.com/daviddias/awesome-hacking-locations/blob/master/duasdeletra.pt)[http://https://github.com/daviddias/awesome-hacking-locations/blob/master/duasdeletra.pt/]
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1428,7 +1428,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://github.com/daviddias/awesome-hacking-locations/blob/master/https://goo.gl/maps/iyzxMYzKocw) | 24/7 (https://github.com/daviddias/awesome-hacking-locations/blob/master/Members Only)
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (https://github.com/daviddias/awesome-hacking-locations/blob/master/Members Only)
 
 ## Scotland
 

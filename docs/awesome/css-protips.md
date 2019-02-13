@@ -22,7 +22,7 @@ A collection of tips to help take your CSS skills pro.
 1. [Use a CSS Reset](#use-a-css-reset)
 1. [Inherit `box-sizing`](#inherit-box-sizing)
 1. [Use `unset` Instead of Resetting All Properties](#use-unset-instead-of-resetting-all-properties)
-1. [Use `:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)` to Apply/Unapply Borders on Navigation](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation)
+1. [Use `:not()` to Apply/Unapply Borders on Navigation](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation)
 1. [Add `line-height` to `body`](#add-line-height-to-body)
 1. [Set `:focus` for Form Elements](#set-focus-for-form-elements)
 1. [Vertically-Center Anything](#vertically-center-anything)
@@ -263,11 +263,11 @@ li:nth-child(https://github.com/AllThingsSmitty/css-protips/blob/master/-n+3) {
 }
 ```
 
-Or, since you've already learned a little about [using `:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation), try:
+Or, since you've already learned a little about [using `:not()`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation), try:
 
 ```css
 /* select all items except the first 3 and display them */
-li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:nth-child(https://github.com/AllThingsSmitty/css-protips/blob/master/-n+3)) {
+li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:nth-child(-n+3)) {
   display: block;
 }
 ```
@@ -283,7 +283,7 @@ There's no reason not to use SVG for icons:
 
 ```css
 .logo {
-  background: url(https://github.com/AllThingsSmitty/css-protips/blob/master/"logo.svg");
+  background: url(https://raw.githubusercontent.com/AllThingsSmitty/css-protips/master/"logo.svg?sanitize=true");
 }
 ```
 
@@ -533,7 +533,7 @@ video[autoplay]:not(https://github.com/AllThingsSmitty/css-protips/blob/master/[
 }
 ```
 
-Once again, we're taking advantage of using the [`:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
+Once again, we're taking advantage of using the [`:not()`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

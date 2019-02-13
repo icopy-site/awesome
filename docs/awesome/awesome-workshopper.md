@@ -27,8 +27,8 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [data-plumber](https://github.com/maxogden/data-plumber) | Munging data on the command line |
 | [es5-workshop](https://github.com/timoxley/es5-workshop) | Introduction to ES5 methods |
 | [expressworks](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
-| [footballbot-workshop](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (https://github.com/therebelrobot/awesome-workshopper/blob/master/robotics) |
-| [functional-javascript-workshop](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (https://github.com/therebelrobot/awesome-workshopper/blob/master/i.e. no underscore), just ES5. |
+| [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (https://github.com/therebelrobot/awesome-workshopper/blob/master/robotics) |
+| [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (https://github.com/therebelrobot/awesome-workshopper/blob/master/i.e. no underscore), just ES5. |
 | [git-it](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. |
 | [goingnative](https://github.com/workshopper/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
@@ -39,7 +39,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [javascripting](https://github.com/sethvincent/javascripting) | Learn JavaScript by adventuring around in the terminal |
 | [jsadventure](https://github.com/mk30/jsadventure) | Introduction to Javascript. No programming experience needed. |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) | An intro to koa |
-| [learn-generators](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://github.com/isRuslan/learn-generators) | JavaScript ES(https://github.com/therebelrobot/awesome-workshopper/blob/master/6\|2015) generators workshopper. Learn in practice. :metal: |
+| [learn-generators](https://github.com/isRuslan/learn-generators) | JavaScript ES(https://github.com/therebelrobot/awesome-workshopper/blob/master/6\|2015) generators workshopper. Learn in practice. :metal: |
 | [learnjs](https://github.com/mikeal/learnjs) | Introduction to Javascript |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | Learn you CouchDB for great good! |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) | Learn MongoDB using the terminal |
@@ -50,7 +50,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) | A series of MongoDB aggregation workshops |
 | [mongoose-adventure](https://github.com/wearefractal/mongoose-adventure) | Introduction to Mongoose |
 | [node-debug-school](https://github.com/joyent/node-debug-school) | nodeschool curriculum for debugging Node.js |
-| [nodebot-workshop](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://github.com/tableflip/nodebot-workshop) | Arduino / Johnny-five (https://github.com/therebelrobot/awesome-workshopper/blob/master/robotics) |
+| [nodebot-workshop](https://github.com/tableflip/nodebot-workshop) | Arduino / Johnny-five (https://github.com/therebelrobot/awesome-workshopper/blob/master/robotics) |
 | [nodenext](https://github.com/geek/nodenext) | Learn about the next version of node |
 | [npm-tutor](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
 | [oobootcamp](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
@@ -61,7 +61,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |
 | [stylist-workshop](https://github.com/alanshaw/stylist) | Introduction to CSS |
 | [swirl](https://github.com/swirldev/swirl) | Learn the statistical computing and graphics programming language R, in R |
-| [tapeshopper](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://github.com/tomgco/tapeshopper) | Learn how to test with tape! (https://github.com/therebelrobot/awesome-workshopper/blob/master/tap-producing test harness for node) |
+| [tapeshopper](https://github.com/tomgco/tapeshopper) | Learn how to test with tape! (https://github.com/therebelrobot/awesome-workshopper/blob/master/tap-producing test harness for node) |
 | [test-anything](https://github.com/finnp/test-anything) | Introduction to testing |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) | Introduction to React |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) | A tour of the features of Babel.js |
@@ -72,7 +72,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | ------------- | ------------- |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
 | [adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
-| [browser-menu](https://github.com/therebelrobot/awesome-workshopper/blob/master/https://www.npmjs.com/package/browser-menu) | Browser Menu (https://github.com/therebelrobot/awesome-workshopper/blob/master/web based) |
+| [browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (https://github.com/therebelrobot/awesome-workshopper/blob/master/web based) |
 | [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
 | [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
 

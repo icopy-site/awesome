@@ -20,7 +20,7 @@ This list contains a variety of resources on diversity, more specifically divers
 ## Organizations
 Organizations bringing diversity to tech.
 
-- [1 Million Women To Tech](https://github.com/folkswhocode/awesome-diversity/blob/master/https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (https://github.com/folkswhocode/awesome-diversity/blob/master/DIY) and paid (https://github.com/folkswhocode/awesome-diversity/blob/master/certification) courses.
+- [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (https://github.com/folkswhocode/awesome-diversity/blob/master/DIY) and paid (https://github.com/folkswhocode/awesome-diversity/blob/master/certification) courses.
 - [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
 - [Black Girls Code](http://www.blackgirlscode.com/) - Organization devoted to showing the world that black girls can code.
@@ -48,8 +48,8 @@ Organizations bringing diversity to tech.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 - [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - Program to connect young black males with all they need to become high-performing entrepreneurs and technologists.
-- [Kapor Center](https://github.com/folkswhocode/awesome-diversity/blob/master/http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (https://github.com/folkswhocode/awesome-diversity/blob/master/STEM) education and tech careers for underrepresented people of color.
-- [Lesbians Who Tech](https://github.com/folkswhocode/awesome-diversity/blob/master/https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (https://github.com/folkswhocode/awesome-diversity/blob/master/and the people who love them).
+- [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (https://github.com/folkswhocode/awesome-diversity/blob/master/STEM) education and tech careers for underrepresented people of color.
+- [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (https://github.com/folkswhocode/awesome-diversity/blob/master/and the people who love them).
 - [OS4W](https://www.os4w.org) - OS4W aims to be a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
@@ -74,7 +74,7 @@ Organizations bringing diversity to tech.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 - [Women Who Tech](https://www.womenwhotech.com/) - Nonprofit organization to bring together talented and renowned women breaking new ground in technology to transform the world and inspire change.
-- [Wonder Women Tech](https://github.com/folkswhocode/awesome-diversity/blob/master/https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (https://github.com/folkswhocode/awesome-diversity/blob/master/Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
+- [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (https://github.com/folkswhocode/awesome-diversity/blob/master/Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
 ## Events
@@ -104,7 +104,7 @@ The following is a list of individual resources with actionable items for being 
 - [Dev Team Diversity #Realtalk](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - By Sarah Mei.
 - [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - By Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) - By Kat Matfield.
-- [How A Common Interview Question Fuels The Gender Pay Gap (https://github.com/folkswhocode/awesome-diversity/blob/master/And How To Stop It)](https://github.com/folkswhocode/awesome-diversity/blob/master/https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) - By Claire Cain Miller.
+- [How A Common Interview Question Fuels The Gender Pay Gap (https://github.com/folkswhocode/awesome-diversity/blob/master/And How To Stop It)](https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) - By Claire Cain Miller.
 - [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 - [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.

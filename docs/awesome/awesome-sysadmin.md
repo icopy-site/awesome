@@ -6,7 +6,7 @@
 
 ## Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
+**A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
@@ -91,7 +91,7 @@
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
-* [Lsyncd](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (https://github.com/n1trux/awesome-sysadmin/blob/master/rsync by default).
+* [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (https://github.com/n1trux/awesome-sysadmin/blob/master/rsync by default).
 * [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
 * [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
@@ -106,7 +106,7 @@
 
 *Build and software organization tools.*
 
-* [EasyBuild](https://github.com/n1trux/awesome-sysadmin/blob/master/https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (https://github.com/n1trux/awesome-sysadmin/blob/master/HPC) systems in an efficient way.
+* [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (https://github.com/n1trux/awesome-sysadmin/blob/master/HPC) systems in an efficient way.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
 * [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 
@@ -129,8 +129,8 @@
 * [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
 * [just-install](http://just-install.it/) – Python script for downloading and silently installing MSI files.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
-* [Opsi](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.opsi.org) (https://github.com/n1trux/awesome-sysadmin/blob/master/open PC server integration) - Client Management for Windows based on Debian.
-* [WAPT](https://github.com/n1trux/awesome-sysadmin/blob/master/https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (https://github.com/n1trux/awesome-sysadmin/blob/master/un)installation, configuration and upgrades of Windows based software.
+* [Opsi](http://www.opsi.org) (https://github.com/n1trux/awesome-sysadmin/blob/master/open PC server integration) - Client Management for Windows based on Debian.
+* [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (https://github.com/n1trux/awesome-sysadmin/blob/master/un)installation, configuration and upgrades of Windows based software.
 * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
 ## Cloning
@@ -164,7 +164,7 @@
 * [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 * [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-* [Kubernetes](https://github.com/n1trux/awesome-sysadmin/blob/master/http://kubernetes.io/) - Orchestration system for Docker containers - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/kubernetes/kubernetes), [Documentation](https://github.com/n1trux/awesome-sysadmin/blob/master/http://kubernetes.io/docs/)) `Apache` `Go`
+* [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
 * [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
@@ -186,7 +186,7 @@
 
 *Collaborative software or groupware suites.*
 
-* [Citadel/UX](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.citadel.org/) - Collaboration suite (https://github.com/n1trux/awesome-sysadmin/blob/master/messaging and groupware) that is descended from the Citadel family of programs.
+* [Citadel/UX](http://www.citadel.org/) - Collaboration suite (https://github.com/n1trux/awesome-sysadmin/blob/master/messaging and groupware) that is descended from the Citadel family of programs.
 * [EGroupware](http://www.egroupware.org/start.html) - Groupware software written in PHP.
 * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
 * [Kolab](https://kolab.org/) - Another groupware suite.
@@ -202,7 +202,7 @@
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 * [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
-* [netbox](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/digitalocean/netbox) - IP address management (https://github.com/n1trux/awesome-sysadmin/blob/master/IPAM) and data center infrastructure management (https://github.com/n1trux/awesome-sysadmin/blob/master/DCIM) tool
+* [netbox](https://github.com/digitalocean/netbox) - IP address management (https://github.com/n1trux/awesome-sysadmin/blob/master/IPAM) and data center infrastructure management (https://github.com/n1trux/awesome-sysadmin/blob/master/DCIM) tool
 
 ## Configuration Management
 
@@ -221,7 +221,7 @@
 *Continuous integration/deployment software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
-* [CapsuleCD](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (https://github.com/n1trux/awesome-sysadmin/blob/master/npm, cookbooks, gems, pip, jars, etc).
+* [CapsuleCD](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (https://github.com/n1trux/awesome-sysadmin/blob/master/npm, cookbooks, gems, pip, jars, etc).
 * [concourse](http://concourse.ci/) - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
@@ -261,13 +261,13 @@
 
 *Tools and scripts to support deployments to your servers.*
 
-* [Capistrano](https://github.com/n1trux/awesome-sysadmin/blob/master/http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
+* [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
-* [Mina](https://github.com/n1trux/awesome-sysadmin/blob/master/http://nadarei.co/mina/) - Really fast deployer and server automation tool (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
+* [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
 * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
-* [Vlad the Deployer](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/seattlerb/vlad) - Deployment automation (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
+* [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (https://github.com/n1trux/awesome-sysadmin/blob/master/rake based).
 
 ## Distributed Filesystems
 
@@ -350,9 +350,9 @@
 ### Tools and web interfaces
 
 * [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-* [Indieauth](https://github.com/n1trux/awesome-sysadmin/blob/master/https://indieauth.com/) - Sign in with your domain name (https://github.com/n1trux/awesome-sysadmin/blob/master/using the rel-me-auth protocol).
-* [Libravatar](https://github.com/n1trux/awesome-sysadmin/blob/master/https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (https://github.com/n1trux/awesome-sysadmin/blob/master/profile picture) to other websites.
-* [LDAP Account Manager (https://github.com/n1trux/awesome-sysadmin/blob/master/LAM)](https://github.com/n1trux/awesome-sysadmin/blob/master/https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (https://github.com/n1trux/awesome-sysadmin/blob/master/e.g. users, groups, DHCP settings) stored in an LDAP directory.
+* [Indieauth](https://indieauth.com/) - Sign in with your domain name (https://github.com/n1trux/awesome-sysadmin/blob/master/using the rel-me-auth protocol).
+* [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (https://github.com/n1trux/awesome-sysadmin/blob/master/profile picture) to other websites.
+* [LDAP Account Manager (https://github.com/n1trux/awesome-sysadmin/blob/master/LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (https://github.com/n1trux/awesome-sysadmin/blob/master/e.g. users, groups, DHCP settings) stored in an LDAP directory.
 * [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
 * [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
 * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
@@ -376,16 +376,16 @@
 * [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-* [GoAccess](https://github.com/n1trux/awesome-sysadmin/blob/master/http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/allinurl/goaccess)) `MIT` `C`
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 * [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
-* [Hindsight](https://github.com/n1trux/awesome-sysadmin/blob/master/http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (https://github.com/n1trux/awesome-sysadmin/blob/master/Replaces Heka).
+* [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (https://github.com/n1trux/awesome-sysadmin/blob/master/Replaces Heka).
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-* [Octopussy](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.octopussy.pm) - Log Management Solution (https://github.com/n1trux/awesome-sysadmin/blob/master/Visualize / Alert / Report).
+* [Octopussy](http://www.octopussy.pm) - Log Management Solution (https://github.com/n1trux/awesome-sysadmin/blob/master/Visualize / Alert / Report).
 
 ## Mail Clients
 
-* [Claws Mail](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.claws-mail.org/) - Old school email client (https://github.com/n1trux/awesome-sysadmin/blob/master/and news reader), based on GTK+.
+* [Claws Mail](http://www.claws-mail.org/) - Old school email client (https://github.com/n1trux/awesome-sysadmin/blob/master/and news reader), based on GTK+.
 * [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
 * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
 * [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
@@ -396,22 +396,22 @@
 
 *Monitoring software.*
 
-* [Adagios](https://github.com/n1trux/awesome-sysadmin/blob/master/http://adagios.org/) - Web based Nagios interface for configuration and monitoring (https://github.com/n1trux/awesome-sysadmin/blob/master/replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/opinkerfi/adagios), [Documentation](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/opinkerfi/adagios/wiki))
+* [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (https://github.com/n1trux/awesome-sysadmin/blob/master/replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 * [Bloonix](https://bloonix.org) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
 * [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
-* [Bosun](https://github.com/n1trux/awesome-sysadmin/blob/master/http://bosun.org/) - Monitoring and alerting system by Stack Exchange (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/bosun-monitor/bosun), [Documentation](https://github.com/n1trux/awesome-sysadmin/blob/master/http://bosun.org/quickstart.html)) `MIT` `Go`
+* [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-* [cadvisor](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/google/cadvisor)) `Apache` `Go`
+* [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/google/cadvisor)) `Apache` `Go`
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
-* [ElastiFlow](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/robcowart/elastiflow) - Network flow Monitoring (https://github.com/n1trux/awesome-sysadmin/blob/master/Netflow, sFlow and IPFIX) with the Elastic Stack.
+* [ElastiFlow](https://github.com/robcowart/elastiflow) - Network flow Monitoring (https://github.com/n1trux/awesome-sysadmin/blob/master/Netflow, sFlow and IPFIX) with the Elastic Stack.
 * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-* [Icinga](https://github.com/n1trux/awesome-sysadmin/blob/master/https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/Icinga)) - `GPLv2`
+* [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/Icinga)) - `GPLv2`
 * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
 * [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
@@ -428,9 +428,9 @@
 * [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
 * [Sensu](https://sensuapp.org/) - Monitoring framework.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
-* [ServerStatus moejda](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (https://github.com/n1trux/awesome-sysadmin/blob/master/days), free RAM, free HDD
+* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (https://github.com/n1trux/awesome-sysadmin/blob/master/days), free RAM, free HDD
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-* [SWMP - Server Web Monitor Page](https://github.com/n1trux/awesome-sysadmin/blob/master/https://swmp.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.(https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/fuzzymannerz/swmp))
+* [SWMP - Server Web Monitor Page](https://swmp.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.(https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
@@ -475,7 +475,7 @@
 *Network configuration management tools.*
 
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
-* [GNS3](https://github.com/n1trux/awesome-sysadmin/blob/master/https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/GNS3/gns3-gui/), [Documentation](https://github.com/n1trux/awesome-sysadmin/blob/master/https://docs.gns3.com/)) - `GPLv3`
+* [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
 * [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
 * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
@@ -489,7 +489,7 @@
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
 * [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
 * [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
-* [Lewsnetter](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/bborn/lewsnetter) - E-mail marketing application (https://github.com/n1trux/awesome-sysadmin/blob/master/create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
+* [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (https://github.com/n1trux/awesome-sysadmin/blob/master/create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
 ## NoSQL
 
@@ -518,8 +518,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Packaging
 
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
-* [omnibus-ruby](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/chef/omnibus) - Full stack, cross distro packaging software (https://github.com/n1trux/awesome-sysadmin/blob/master/Ruby).
-* [packman](https://github.com/n1trux/awesome-sysadmin/blob/master/http://packman.readthedocs.org) - Full stack, cross distro packaging software (https://github.com/n1trux/awesome-sysadmin/blob/master/Python).
+* [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (https://github.com/n1trux/awesome-sysadmin/blob/master/Ruby).
+* [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (https://github.com/n1trux/awesome-sysadmin/blob/master/Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
 ## Project Management
@@ -543,15 +543,15 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Firebird](http://www.firebirdsql.org/) - True universal database.
 * [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
 * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
-  * [adminer](https://github.com/n1trux/awesome-sysadmin/blob/master/https://www.adminer.org/) -  Database management in a single PHP file (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source code](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/vrana/adminer))
+  * [adminer](https://www.adminer.org/) -  Database management in a single PHP file (https://github.com/n1trux/awesome-sysadmin/blob/master/[Source code](https://github.com/vrana/adminer))
 * [Percona Server](https://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
-* [PostgreSQL](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.postgresql.org/) - Object-relational database management system (https://github.com/n1trux/awesome-sysadmin/blob/master/ORDBMS).
+* [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (https://github.com/n1trux/awesome-sysadmin/blob/master/ORDBMS).
 * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
 ## Remote Management
 
-* [Tiger VNC](https://github.com/n1trux/awesome-sysadmin/blob/master/http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (https://github.com/n1trux/awesome-sysadmin/blob/master/Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
+* [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (https://github.com/n1trux/awesome-sysadmin/blob/master/Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 * [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 * [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 * [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP wrapper library allowing Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
@@ -579,7 +579,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Cachet](https://cachethq.io) - Status page system written in PHP.
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
-* [System Status Dashboard (https://github.com/n1trux/awesome-sysadmin/blob/master/SSD)](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
+* [System Status Dashboard (https://github.com/n1trux/awesome-sysadmin/blob/master/SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
 * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 
 ## Troubleshooting
@@ -590,7 +590,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-* [perf-tools](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (https://github.com/n1trux/awesome-sysadmin/blob/master/aka perf) and ftrace.
+* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (https://github.com/n1trux/awesome-sysadmin/blob/master/aka perf) and ftrace.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
@@ -599,11 +599,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Software versioning and revision control.*
 
 * [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
-* [Git](https://github.com/n1trux/awesome-sysadmin/blob/master/http://git-scm.com/) - Distributed revision control and source code management (https://github.com/n1trux/awesome-sysadmin/blob/master/SCM) with an emphasis on speed.
+* [Git](http://git-scm.com/) - Distributed revision control and source code management (https://github.com/n1trux/awesome-sysadmin/blob/master/SCM) with an emphasis on speed.
 * [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 * [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
-* [Darcs](https://github.com/n1trux/awesome-sysadmin/blob/master/http://darcs.net/) - Patch-based distributed version control (https://github.com/n1trux/awesome-sysadmin/blob/master/more info: [wiki](https://github.com/n1trux/awesome-sysadmin/blob/master/http://darcs.net/Theory/PekkaPatchTheory))
+* [Darcs](http://darcs.net/) - Patch-based distributed version control (https://github.com/n1trux/awesome-sysadmin/blob/master/more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
 ## Virtualization
 
@@ -621,7 +621,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
-* [Xen](https://github.com/n1trux/awesome-sysadmin/blob/master/http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (https://github.com/n1trux/awesome-sysadmin/blob/master/IA 64) and PowerPC 970 architectures.
+* [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (https://github.com/n1trux/awesome-sysadmin/blob/master/IA 64) and PowerPC 970 architectures.
 * [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
 
 ## VPN
@@ -706,8 +706,8 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ### RPM-based distributions
 
-* [ElRepo](https://github.com/n1trux/awesome-sysadmin/blob/master/http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (https://github.com/n1trux/awesome-sysadmin/blob/master/RHEL, CentOS, etc).
-* [EPEL](https://github.com/n1trux/awesome-sysadmin/blob/master/https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (https://github.com/n1trux/awesome-sysadmin/blob/master/CentOS, Scientific Linux).
+* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (https://github.com/n1trux/awesome-sysadmin/blob/master/RHEL, CentOS, etc).
+* [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (https://github.com/n1trux/awesome-sysadmin/blob/master/CentOS, Scientific Linux).
 * [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 * [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.

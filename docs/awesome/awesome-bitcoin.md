@@ -86,8 +86,8 @@ List of content
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
-* [pycoin](https://github.com/igorbarinov/awesome-bitcoin/blob/master/https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (https://github.com/igorbarinov/awesome-bitcoin/blob/master/ku) and transactions (https://github.com/igorbarinov/awesome-bitcoin/blob/master/tx).
-* [bitcoin_tools](https://github.com/igorbarinov/awesome-bitcoin/blob/master/https://github.com/sr-gi/bitcoin_tools) Python library for building and analyzing transactions and scripts (https://github.com/igorbarinov/awesome-bitcoin/blob/master/both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
+* [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (https://github.com/igorbarinov/awesome-bitcoin/blob/master/ku) and transactions (https://github.com/igorbarinov/awesome-bitcoin/blob/master/tx).
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) Python library for building and analyzing transactions and scripts (https://github.com/igorbarinov/awesome-bitcoin/blob/master/both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
 
 ## Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)

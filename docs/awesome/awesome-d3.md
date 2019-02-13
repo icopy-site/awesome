@@ -114,7 +114,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [earthjs](https://github.com/earthjs/earthjs) - Building orthographic globe with SVG, Canvas & WebGL
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
-- [maptable](https://github.com/wbkd/awesome-d3/blob/master/https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (https://github.com/wbkd/awesome-d3/blob/master/Map, Filters, Table)
+- [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (https://github.com/wbkd/awesome-d3/blob/master/Map, Filters, Table)
 - [simple-map-d3](https://github.com/MinnPost/simple-map-d3) - Easy choropleth style maps
 - [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
 
@@ -137,7 +137,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
-- [d3-hsluv](https://github.com/wbkd/awesome-d3/blob/master/https://github.com/petulla/d3-hsluv) - Human-friendly HSL (https://github.com/wbkd/awesome-d3/blob/master/Hue, Saturation, Lightness) color space.
+- [d3-hsluv](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (https://github.com/wbkd/awesome-d3/blob/master/Hue, Saturation, Lightness) color space.
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
@@ -176,7 +176,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
-- [d3-force-gravity](https://github.com/wbkd/awesome-d3/blob/master/https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (https://github.com/wbkd/awesome-d3/blob/master/or force-field-like repulsion)
+- [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (https://github.com/wbkd/awesome-d3/blob/master/or force-field-like repulsion)
 - [d3-force-reuse](https://github.com/twosixlabs/d3-force-reuse) - Faster force-directed graph layouts by reusing force approximations
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines

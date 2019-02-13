@@ -1,4 +1,4 @@
-## awesome npm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+## awesome npm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
@@ -25,7 +25,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 - [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 - [Writing small modules](https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules)
-- [Semver: A Primer](https://github.com/sindresorhus/awesome-npm/blob/master/https://nodesource.com/blog/semver-a-primer/) *(https://github.com/sindresorhus/awesome-npm/blob/master/Must read!)*
+- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(https://github.com/sindresorhus/awesome-npm/blob/master/Must read!)*
 - [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 - [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
@@ -95,7 +95,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
-- [cloudsmith](https://github.com/sindresorhus/awesome-npm/blob/master/https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (https://github.com/sindresorhus/awesome-npm/blob/master/and many others).
+- [cloudsmith](https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (https://github.com/sindresorhus/awesome-npm/blob/master/and many others).
 
 ### Other
 
@@ -184,7 +184,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-You can easily [run scripts](https://github.com/sindresorhus/awesome-npm/blob/master/https://docs.npmjs.com/cli/run-script) using npm by adding them to the `"scripts"` field in package.json and run them with `npm run <script-name>`. Run `npm run` to see available scripts. Binaries of locally install packages are made available in the [PATH](https://github.com/sindresorhus/awesome-npm/blob/master/https://en.wikipedia.org/wiki/PATH_(https://github.com/sindresorhus/awesome-npm/blob/master/variable)), so you can run them by name.
+You can easily [run scripts](https://docs.npmjs.com/cli/run-script) using npm by adding them to the `"scripts"` field in package.json and run them with `npm run <script-name>`. Run `npm run` to see available scripts. Binaries of locally install packages are made available in the [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
@@ -325,7 +325,7 @@ This will lint your files before running your tests. The tests will not run if l
 
 ### Run script with `npx`
 
-`npm` [comes bundled](https://github.com/sindresorhus/awesome-npm/blob/master/https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
 
 ```json
 {
@@ -354,7 +354,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-With `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://github.com/sindresorhus/awesome-npm/blob/master/https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](https://github.com/sindresorhus/awesome-npm/blob/master/http://nvm.sh), [`nave`](https://github.com/sindresorhus/awesome-npm/blob/master/https://github.com/isaacs/nave), or [`n`](https://github.com/sindresorhus/awesome-npm/blob/master/https://github.com/tj/n).
+With `npx` (https://github.com/sindresorhus/awesome-npm/blob/master/Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0 -- node --version

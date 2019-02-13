@@ -8,13 +8,13 @@ A curated list of awesome Assembler :)
 Assembler List
 ----------
 
-* *[Flat Assembler (https://github.com/jaspergould/awesome-asm/blob/master/FASM)](https://github.com/jaspergould/awesome-asm/blob/master/http://flatassembler.net/)*
+* *[Flat Assembler (https://github.com/jaspergould/awesome-asm/blob/master/FASM)](http://flatassembler.net/)*
 >is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
 
-* *[Microsoft Macro Assembler (https://github.com/jaspergould/awesome-asm/blob/master/MASM)](https://github.com/jaspergould/awesome-asm/blob/master/https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
+* *[Microsoft Macro Assembler (https://github.com/jaspergould/awesome-asm/blob/master/MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
 >is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
 
-* *[Netwide Assembler (https://github.com/jaspergould/awesome-asm/blob/master/NASM)](https://github.com/jaspergould/awesome-asm/blob/master/http://www.nasm.us/)*
+* *[Netwide Assembler (https://github.com/jaspergould/awesome-asm/blob/master/NASM)](http://www.nasm.us/)*
 >is an assembler and disassembler for the Intel x86 architecture
 
 * *[YASM](http://yasm.tortall.net/)*
@@ -33,7 +33,7 @@ Assembler List
 >XEDParse is an open source (https://github.com/jaspergould/awesome-asm/blob/master/LGPLv3) library for assembling single x86(https://github.com/jaspergould/awesome-asm/blob/master/-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
 
 * *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
->High Level Assembly (https://github.com/jaspergould/awesome-asm/blob/master/HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (https://github.com/jaspergould/awesome-asm/blob/master/HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow HLL programmers to learn HLA as fast as possible.
+>High Level Assembly (https://github.com/jaspergould/awesome-asm/blob/master/HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (https://github.com/jaspergould/awesome-asm/blob/master/HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow https://github.com/jaspergould/awesome-asm/blob/master/HLL programmers to learn https://github.com/jaspergould/awesome-asm/blob/master/HLA as fast as possible.
 
 Disassembler & Debuggers
 ----------
@@ -56,7 +56,7 @@ Disassembler & Debuggers
 >Immunity Debugger is a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industrys first heap analysis tool.
 
 * *[Hopper](http://www.hopperapp.com/)*
->Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64), iOS (https://github.com/jaspergould/awesome-asm/blob/master/ARM/Intel), PE (https://github.com/jaspergould/awesome-asm/blob/master/PE32/32+/64) and ELF (https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64 and ARM). 
+>Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64), iOS (https://github.com/jaspergould/awesome-asm/blob/master/ARM/Intel), PE (https://github.com/jaspergould/awesome-asm/blob/master/PE32/32+/64) and ELF (https://github.com/jaspergould/awesome-asm/blob/master/https://github.com/jaspergould/awesome-asm/blob/master/Intel 32/64 and ARM). 
 
 * *[WinDbg](http://www.windbg.org/)*
 >WinDbg is a multipurposed debugger for Microsoft Windows, distributed on the web by Microsoft as part of the Debugging Tools for Windows.
@@ -103,7 +103,7 @@ Books
 >32-bit, 64-bit, SSE, and AVX by **Daniel Kusswurm**
 
 * *[.NET IL Assembler](http://www.apress.com/9781430267614)*
->Common Intermediate Language (https://github.com/jaspergould/awesome-asm/blob/master/[wiki](https://github.com/jaspergould/awesome-asm/blob/master/https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
+>Common Intermediate Language (https://github.com/jaspergould/awesome-asm/blob/master/[wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
 >
 * *[Assembly Language for x86 Processors, 7th edition](http://kipirvine.com/asm/)*
 >by **Kip Irvine** (https://github.com/jaspergould/awesome-asm/blob/master/great book!)

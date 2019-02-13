@@ -15,7 +15,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Architecture
 
-- [The Architecture of Open Source Applications (https://github.com/fcambus/nginx-resources/blob/master/Volume 2): nginx](https://github.com/fcambus/nginx-resources/blob/master/http://aosabook.org/en/nginx.html)
+- [The Architecture of Open Source Applications (https://github.com/fcambus/nginx-resources/blob/master/Volume 2): nginx](http://aosabook.org/en/nginx.html)
 - [Nginx Guts - Shedding light on Nginx internals](http://www.nginxguts.com/category/nginx/)
 - [Nginx discovery journey](http://www.nginx-discovery.com/)
 - [Nginx Internals](http://www.slideshare.net/joshzhu/nginx-internals)
@@ -41,9 +41,9 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](https://www.nginx.com/resources/admin-guide/)
-- [agentzh's Nginx Tutorials](https://github.com/fcambus/nginx-resources/blob/master/https://openresty.org/download/agentzh-nginx-tutorials-en.html) (https://github.com/fcambus/nginx-resources/blob/master/[Source](https://github.com/fcambus/nginx-resources/blob/master/https://github.com/openresty/nginx-tutorials))
+- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) (https://github.com/fcambus/nginx-resources/blob/master/[Source](https://github.com/openresty/nginx-tutorials))
 - [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
-- [Load Balancing with NGINX and NGINX Plus](https://github.com/fcambus/nginx-resources/blob/master/https://www.nginx.com/blog/load-balancing-with-nginx-plus/) (https://github.com/fcambus/nginx-resources/blob/master/[Part 2](https://github.com/fcambus/nginx-resources/blob/master/https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
+- [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) (https://github.com/fcambus/nginx-resources/blob/master/[Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
 - [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
 - [Nginx Load Balancing Basics](http://blog.jsdelivr.com/2013/01/nginx-load-balancing-basics.html)
 - [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
@@ -64,7 +64,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-- [Telize - JSON IP and GeoIP REST API (https://github.com/fcambus/nginx-resources/blob/master/IP Geolocation) built on Nginx and Lua](https://github.com/fcambus/nginx-resources/blob/master/https://www.telize.com)
+- [Telize - JSON IP and GeoIP REST API (https://github.com/fcambus/nginx-resources/blob/master/IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 - [GIN - JSON-API framework](http://gin.io/)
 - [Outbound API rate limits: the nginx way](https://monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way)
 - [Using Nginx to comply with a third-party API's rate limits](https://vitobotta.com/2014/01/12/using-nginx-to-comply-with-a-third-party-apis-rate-limits/)
@@ -108,12 +108,12 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
 - [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
-- [SysAdvent 2014 - OpenResty, Nginx and Lua](https://github.com/fcambus/nginx-resources/blob/master/http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) (https://github.com/fcambus/nginx-resources/blob/master/[Source](https://github.com/fcambus/nginx-resources/blob/master/https://github.com/lusis/sysadvent-2014))
-- [OpenResty (https://github.com/fcambus/nginx-resources/blob/master/Nginx) with dynamically generated certificates](https://github.com/fcambus/nginx-resources/blob/master/http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
+- [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) (https://github.com/fcambus/nginx-resources/blob/master/[Source](https://github.com/lusis/sysadvent-2014))
+- [OpenResty (https://github.com/fcambus/nginx-resources/blob/master/Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
-- [Developing OpenResty Framework using decoupled libraries](https://github.com/fcambus/nginx-resources/blob/master/http://www.iresty.com/download/ebook/2015_con/aapo.pdf) (https://github.com/fcambus/nginx-resources/blob/master/[Video](https://github.com/fcambus/nginx-resources/blob/master/https://www.youtube.com/watch?v=VqBt5icKCI8))
-- [Programming OpenResty (https://github.com/fcambus/nginx-resources/blob/master/written by the OpenResty creator)](https://github.com/fcambus/nginx-resources/blob/master/https://www.gitbook.com/book/openresty/programming-openresty/details)
+- [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) (https://github.com/fcambus/nginx-resources/blob/master/[Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
+- [Programming OpenResty (https://github.com/fcambus/nginx-resources/blob/master/written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
 - [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx)
 
 - [OpenResty Con 2015](http://www.iresty.com)

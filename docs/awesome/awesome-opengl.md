@@ -21,10 +21,10 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *OpenGL articles (https://github.com/eug/awesome-opengl/blob/master/non-tutorials)*
 
-* [(https://github.com/eug/awesome-opengl/blob/master/2014) Ray tracing with OpenGL Compute Shaders](https://github.com/eug/awesome-opengl/blob/master/https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (https://github.com/eug/awesome-opengl/blob/master/LWJGL).
-* [(https://github.com/eug/awesome-opengl/blob/master/2014) Things that drive me nuts about OpenGL](https://github.com/eug/awesome-opengl/blob/master/http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html) by **Rich Geldreich** - Constructive (https://github.com/eug/awesome-opengl/blob/master/or not) criticism of GL API.
-* [(https://github.com/eug/awesome-opengl/blob/master/2011) A trip through the graphics pipeline](https://github.com/eug/awesome-opengl/blob/master/https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Compreheensive and rich series about the D3D/OpenGL graphics pipeline.
-* [(https://github.com/eug/awesome-opengl/blob/master/2010) What is OpenGL?](https://github.com/eug/awesome-opengl/blob/master/http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) by **Joe Groff** - Brief introduction to the building blocks of OpenGL.
+* [(https://github.com/eug/awesome-opengl/blob/master/2014) Ray tracing with OpenGL Compute Shaders](https://github.com/https://github.com/eug/awesome-opengl/blob/master/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (https://github.com/eug/awesome-opengl/blob/master/LWJGL).
+* [(https://github.com/eug/awesome-opengl/blob/master/2014) Things that drive me nuts about OpenGL](http://richg42.blogspot.com.au/https://github.com/eug/awesome-opengl/blob/master/2014/05/things-that-drive-me-nuts-about-opengl.html) by **Rich Geldreich** - Constructive (https://github.com/eug/awesome-opengl/blob/master/or not) criticism of GL API.
+* [(https://github.com/eug/awesome-opengl/blob/master/2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/https://github.com/eug/awesome-opengl/blob/master/2011/07/09/a-trip-through-the-graphics-pipeline-https://github.com/eug/awesome-opengl/blob/master/2011-index) by **Fabian Giesen** - Compreheensive and rich series about the D3D/OpenGL graphics pipeline.
+* [(https://github.com/eug/awesome-opengl/blob/master/2010) What is OpenGL?](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) by **Joe Groff** - Brief introduction to the building blocks of OpenGL.
 
 
 ## Books
@@ -82,7 +82,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
-* [SOIL](https://github.com/eug/awesome-opengl/blob/master/http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (https://github.com/eug/awesome-opengl/blob/master/see [SOIL2](https://github.com/eug/awesome-opengl/blob/master/https://bitbucket.org/SpartanJ/soil2))
+* [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (https://github.com/eug/awesome-opengl/blob/master/see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
 
@@ -122,12 +122,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 *OpenGL video tutorials*
 
 * [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive tutorials about modern OpenGL and Qt.
-* [MakingGamesWithBen](https://github.com/eug/awesome-opengl/blob/master/https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (https://github.com/eug/awesome-opengl/blob/master/step-by-step) about OpenGL and game development.
+* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (https://github.com/eug/awesome-opengl/blob/master/step-by-step) about OpenGL and game development.
 * [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
 * [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - Introduction to OpenGL in C++
 * [thebennybox](https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
-* [sentdex](https://github.com/eug/awesome-opengl/blob/master/https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (https://github.com/eug/awesome-opengl/blob/master/immediate mode) using Python.
+* [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (https://github.com/eug/awesome-opengl/blob/master/immediate mode) using Python.
 * [Sonar Systems](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Learn about the new and modern OpenGL 3.0+.
 
 ## Websites

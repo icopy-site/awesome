@@ -21,7 +21,7 @@
 * [peerwiki](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
 * [screencat](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [signalhub](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
-* [torrent-mount](https://github.com/Kikobeats/awesome-network-js/blob/master/https://github.com/mafintosh/torrent-mount) – Mount a torrent (https://github.com/Kikobeats/awesome-network-js/blob/master/or magnet link) as a filesystem in real time using torrent-stream and fuse.
+* [torrent-mount](https://github.com/mafintosh/torrent-mount) – Mount a torrent (https://github.com/Kikobeats/awesome-network-js/blob/master/or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [webcat](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
 * [websocketd](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
 * [webtorrent](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
@@ -57,7 +57,7 @@
 * [airswarm](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
-* [bittorrent-tracker](https://github.com/Kikobeats/awesome-network-js/blob/master/https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (https://github.com/Kikobeats/awesome-network-js/blob/master/client & server) implementation
+* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (https://github.com/Kikobeats/awesome-network-js/blob/master/client & server) implementation
 * [bonjour](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
 * [dht-rpc](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.

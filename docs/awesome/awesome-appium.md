@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tips](#tips)
 
 ## Server
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (https://github.com/SrinivasanTarget/awesome-appium/blob/master/iOS), emulators (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Android), and real devices (https://github.com/SrinivasanTarget/awesome-appium/blob/master/iOS, Android, Windows, Mac).
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (https://github.com/SrinivasanTarget/awesome-appium/blob/master/iOS), emulators (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Android), and real devices (https://github.com/SrinivasanTarget/awesome-appium/blob/master/iOS, https://github.com/SrinivasanTarget/awesome-appium/blob/master/Android, Windows, Mac).
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib)
@@ -33,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c)
 - [PHP](https://github.com/appium/php-client)
-- [C# (https://github.com/SrinivasanTarget/awesome-appium/blob/master/.NET)](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://github.com/appium/appium-dotnet-driver)
+- [C# (https://github.com/SrinivasanTarget/awesome-appium/blob/master/.NET)](https://github.com/appium/appium-dotnet-driver)
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
 
 ## Inspectors
@@ -51,7 +51,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
 - [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
 - [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
-- [How to Find Elements in iOS (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Not) By XPath](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://appiumpro.com/editions/8)
+- [How to Find Elements in iOS (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Not) By XPath](https://appiumpro.com/editions/8)
 - [Testing Android App Upgrades](https://appiumpro.com/editions/9)
 - [Anatomy of Logging in Appium](https://appiumpro.com/editions/10)
 - [Simulating SMS Messages on Android](https://appiumpro.com/editions/11)
@@ -87,10 +87,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How To Test Real iOS Devices With Appium, Part 2](https://appiumpro.com/editions/41)
 - [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 - [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
-- [Working With Web Components (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Shadow DOM)](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://appiumpro.com/editions/44)
+- [Working With Web Components (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Shadow DOM)](https://appiumpro.com/editions/44)
 - [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
 - [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
-- [Running Appium From Source (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Or The Latest Beta)](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://appiumpro.com/editions/47)
+- [Running Appium From Source (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Or The Latest Beta)](https://appiumpro.com/editions/47)
 - [How To Flash Elements On Screen While Debugging Appium Tests](https://appiumpro.com/editions/48)
 - [How To Spread Some Holiday Cheer Using Appium](https://appiumpro.com/editions/49)
 - [Special Capabilities for Speeding up Android Test Initialization](https://appiumpro.com/editions/50)
@@ -99,7 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
 
 ## Tutorials
-- [TOOLSQA](https://github.com/SrinivasanTarget/awesome-appium/blob/master/http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Android & iOS).
+- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Android & iOS).
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners.
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials.
 - [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) - Appium Tutorial for Complete Beginners.
@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
- - [Appium Architecture & Appium Desktop](https://github.com/SrinivasanTarget/awesome-appium/blob/master/https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Updated)
+ - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (https://github.com/SrinivasanTarget/awesome-appium/blob/master/Updated)
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
  - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz.

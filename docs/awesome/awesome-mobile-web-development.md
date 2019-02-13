@@ -19,8 +19,8 @@ All that you need to create a great mobile web experience.
 ## Articles and Documentation
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - How to prevent 300 ms delay on tap.
-- [60 FPS on Mobile Web](https://github.com/myshov/awesome-mobile-web-development/blob/master/http://engineering.flipboard.com/2015/02/mobile-web) - How to make a really fast mobile website (https://github.com/myshov/awesome-mobile-web-development/blob/master/by Flipboard).
-- [Animating the Mobile Web](https://github.com/myshov/awesome-mobile-web-development/blob/master/https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (https://github.com/myshov/awesome-mobile-web-development/blob/master/by Yelp).
+- [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - How to make a really fast mobile website (https://github.com/myshov/awesome-mobile-web-development/blob/master/by Flipboard).
+- [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (https://github.com/myshov/awesome-mobile-web-development/blob/master/by Yelp).
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - How to deal with "the notch" on iPhone X.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - The good high-level overview of mobile web development.
@@ -32,10 +32,10 @@ All that you need to create a great mobile web experience.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - The list of best practices for mobile web applications from W3C.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development/blob/master/https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - Guideline (https://github.com/myshov/awesome-mobile-web-development/blob/master/must read) from Mozilla about designing mobile websites.
+- [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - Guideline (https://github.com/myshov/awesome-mobile-web-development/blob/master/must read) from Mozilla about designing mobile websites.
 - [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) - Best practices for optimizing mobile web apps.
 - [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - An introduction to intersection observers.
-- [Offline First (https://github.com/myshov/awesome-mobile-web-development/blob/master/Awesome List)](https://github.com/myshov/awesome-mobile-web-development/blob/master/https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff (https://github.com/myshov/awesome-mobile-web-development/blob/master/Progressive Web Apps, Service Workers etc.)
+- [Offline First (https://github.com/myshov/awesome-mobile-web-development/blob/master/Awesome List)](https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff (https://github.com/myshov/awesome-mobile-web-development/blob/master/Progressive Web Apps, Service Workers etc.)
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - How to prevent your phone from sleeping.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
@@ -66,7 +66,7 @@ All that you need to create a great mobile web experience.
 - [Remote Playback API](https://www.w3.org/TR/remote-playback/) - On controlling remote playback of media from a web page.
 - [Vibration API](https://www.w3.org/TR/vibration/) - On access to the vibration mechanism of the hosting device.
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/) - On access to a visual portion of a screen excluding on-screen keyboards, areas outside of a pinch-zoom area etc..
-- [Wake Lock Api](https://github.com/myshov/awesome-mobile-web-development/blob/master/https://www.w3.org/TR/wake-lock/) - On access to wake lock request (https://github.com/myshov/awesome-mobile-web-development/blob/master/prevents some aspect of a device from entering the power-saving state).
+- [Wake Lock Api](https://www.w3.org/TR/wake-lock/) - On access to wake lock request (https://github.com/myshov/awesome-mobile-web-development/blob/master/prevents some aspect of a device from entering the power-saving state).
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) - On an API to discover and communicate with devices over the Bluetooth 4.
 - [Web NFC API](https://w3c.github.io/web-nfc/) - On access to Near Field Communication capabilities of the device.
 - [Web Notifications](https://www.w3.org/TR/notifications/) - On an API for end-user notifications.
@@ -110,7 +110,7 @@ All that you need to create a great mobile web experience.
 - [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
 - [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions.
-- [Web Inspector Remote (https://github.com/myshov/awesome-mobile-web-development/blob/master/Weinre)](https://github.com/myshov/awesome-mobile-web-development/blob/master/https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
+- [Web Inspector Remote (https://github.com/myshov/awesome-mobile-web-development/blob/master/Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.

@@ -114,7 +114,7 @@ Made with Electron.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
-- [dida](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/xwartz/dida) - Add tasks to TickTick (https://github.com/sindresorhus/awesome-electron/blob/master/滴答清单).
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (https://github.com/sindresorhus/awesome-electron/blob/master/滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
 - [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
@@ -171,7 +171,7 @@ Made with Electron.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager.
-- [Mailspring](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/Foundry376/Mailspring) - Extensible email client. (https://github.com/sindresorhus/awesome-electron/blob/master/Fork of Nylas Mail)
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (https://github.com/sindresorhus/awesome-electron/blob/master/Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
@@ -199,10 +199,10 @@ Made with Electron.
 - [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 - [MockingBot](https://mockingbot.com) - Prototyping tool for designing apps.
 - [Caret](http://caret.io) - Markdown editor.
-- [Wantedly Chat](https://github.com/sindresorhus/awesome-electron/blob/master/https://www.wantedly.com/chat) - Business team chat. *(https://github.com/sindresorhus/awesome-electron/blob/master/Japanese)*
-- [Remember](https://github.com/sindresorhus/awesome-electron/blob/master/https://rememberapp.co.kr) - Business card management. *(https://github.com/sindresorhus/awesome-electron/blob/master/Korean)*
-- [Pubu](https://github.com/sindresorhus/awesome-electron/blob/master/https://pubu.im) - Real-time chat for team communication. *(https://github.com/sindresorhus/awesome-electron/blob/master/Chinese)*
-- [BearyChat](https://github.com/sindresorhus/awesome-electron/blob/master/https://bearychat.com) - Team messaging service. *(https://github.com/sindresorhus/awesome-electron/blob/master/Chinese)*
+- [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(https://github.com/sindresorhus/awesome-electron/blob/master/Japanese)*
+- [Remember](https://rememberapp.co.kr) - Business card management. *(https://github.com/sindresorhus/awesome-electron/blob/master/Korean)*
+- [Pubu](https://pubu.im) - Real-time chat for team communication. *(https://github.com/sindresorhus/awesome-electron/blob/master/Chinese)*
+- [BearyChat](https://bearychat.com) - Team messaging service. *(https://github.com/sindresorhus/awesome-electron/blob/master/Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
@@ -245,7 +245,7 @@ Made with Electron.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
-- [electron-sandbox](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (https://github.com/sindresorhus/awesome-electron/blob/master/sandbox & communication over IPC).
+- [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (https://github.com/sindresorhus/awesome-electron/blob/master/sandbox & communication over IPC).
 - [angular-electron](https://github.com/maximegris/angular-electron) - Angular 5, Electron, TypeScript, SASS, Hot Reload.
 
 
@@ -296,7 +296,7 @@ Made with Electron.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
-- [electron-vibrancy](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (https://github.com/sindresorhus/awesome-electron/blob/master/blur) to windows.
+- [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (https://github.com/sindresorhus/awesome-electron/blob/master/blur) to windows.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 - [elemon](https://github.com/manidlou/elemon) - Live-reload your app during development.
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
@@ -305,11 +305,11 @@ Made with Electron.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
-- [electron-process-manager](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/getstation/electron-process-manager) - Process manager UI (https://github.com/sindresorhus/awesome-electron/blob/master/like Chrome's task manager).
+- [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (https://github.com/sindresorhus/awesome-electron/blob/master/like Chrome's task manager).
 - [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
-- [electron-serve](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/sindresorhus/electron-serve) - Static file serving (https://github.com/sindresorhus/awesome-electron/blob/master/Useful for routing, like `react-router`).
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (https://github.com/sindresorhus/awesome-electron/blob/master/Useful for routing, like `react-router`).
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
@@ -319,11 +319,11 @@ Made with Electron.
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
-- [Nightmare](https://github.com/sindresorhus/awesome-electron/blob/master/http://www.nightmarejs.org) - High-level browser automation library (https://github.com/sindresorhus/awesome-electron/blob/master/alternative to PhantomJS).
+- [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (https://github.com/sindresorhus/awesome-electron/blob/master/alternative to PhantomJS).
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
-- [electron-har](https://github.com/sindresorhus/awesome-electron/blob/master/https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (https://github.com/sindresorhus/awesome-electron/blob/master/HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (https://github.com/sindresorhus/awesome-electron/blob/master/HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
 
@@ -408,10 +408,10 @@ Made with Electron.
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](https://atom-slack.herokuapp.com)
-- [electron-jp](https://github.com/sindresorhus/awesome-electron/blob/master/https://electron-jp-slackin.herokuapp.com) *(https://github.com/sindresorhus/awesome-electron/blob/master/Japanese)*
-- [electron-br](https://github.com/sindresorhus/awesome-electron/blob/master/https://electron-br.slack.com) *(https://github.com/sindresorhus/awesome-electron/blob/master/Brazilian Portuguese)*
-- [electron-pl](https://github.com/sindresorhus/awesome-electron/blob/master/https://electronpl.github.io) *(https://github.com/sindresorhus/awesome-electron/blob/master/Polish)*
-- [`@electron_ru` on Telegram](https://github.com/sindresorhus/awesome-electron/blob/master/https://telegram.me/electron_ru) *(https://github.com/sindresorhus/awesome-electron/blob/master/Russian)*
+- [electron-jp](https://electron-jp-slackin.herokuapp.com) *(https://github.com/sindresorhus/awesome-electron/blob/master/Japanese)*
+- [electron-br](https://electron-br.slack.com) *(https://github.com/sindresorhus/awesome-electron/blob/master/Brazilian Portuguese)*
+- [electron-pl](https://electronpl.github.io) *(https://github.com/sindresorhus/awesome-electron/blob/master/Polish)*
+- [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(https://github.com/sindresorhus/awesome-electron/blob/master/Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 

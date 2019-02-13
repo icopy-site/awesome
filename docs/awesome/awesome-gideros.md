@@ -6,7 +6,7 @@
 	<br>
 </h1>
 
-A curated list of awesome resources for the [Gideros Game Development Framework](https://github.com/stetso/awesome-gideros/blob/master/http://giderosmobile.com/) that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (https://github.com/stetso/awesome-gideros/blob/master/Windows, OSX). Please feel free to contribute to the list by making a pull request.
+A curated list of awesome resources for the [Gideros Game Development Framework](http://giderosmobile.com/) that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (https://github.com/stetso/awesome-gideros/blob/master/Windows, OSX). Please feel free to contribute to the list by making a pull request.
 
 ## Contents
 
@@ -33,7 +33,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Getting Started
 
-- [Download Gideros](https://github.com/stetso/awesome-gideros/blob/master/http://giderosmobile.com/download) - Get Gideros here (https://github.com/stetso/awesome-gideros/blob/master/it is free but donations are welcome!).
+- [Download Gideros](http://giderosmobile.com/download) - Get Gideros here (https://github.com/stetso/awesome-gideros/blob/master/it is free but donations are welcome!).
 - [Getting Started Manual](http://docs.giderosmobile.com) - Check here first to get an overview of the framework.
 - [API Reference](http://docs.giderosmobile.com/reference/) - Whenever you need to figure something out- this is the first place to go.
 - [Forum](http://giderosmobile.com/forum/) - Join the very helpful community.
@@ -68,7 +68,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Using ZeroBrane Studio with Gideros](http://www.indiedb.com/tutorials/gideros-with-zerobrane) - Introductory tutorial for using ZBS with Gideros Remote Preview.
 - [Live Coding with Gideros and ZeroBrane Studio](https://www.youtube.com/watch?v=wPYvJxFxMkM) - Video showing the live coding capabilities of ZBS and Gideros.
 - [ZeroBrane Studio integration and debugging](https://www.youtube.com/watch?v=GIipyzSpSr0) - Video tutorial by the creator of ZBS.
-- [Visual Studio Code plugin](https://github.com/stetso/awesome-gideros/blob/master/https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug ) - With Gideros support (https://github.com/stetso/awesome-gideros/blob/master/Windows only).
+- [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug ) - With Gideros support (https://github.com/stetso/awesome-gideros/blob/master/Windows only).
 - [Sublime Text 3 plugin](http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1) - Adding Gideros support to ST3.
 
 ### Graphics and Shaders
@@ -87,7 +87,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Shake detection](http://appcodingeasy.com/Gideros-Mobile/Gideros-Shake-detection) - Small snippet to detect device shake.
 
 ### Animation and Tweens
-- [GTween](https://github.com/stetso/awesome-gideros/blob/master/http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - Tween sprite variables with this library (https://github.com/stetso/awesome-gideros/blob/master/comes with all the easing functions you need).
+- [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - Tween sprite variables with this library (https://github.com/stetso/awesome-gideros/blob/master/comes with all the easing functions you need).
 - [Animation using MovieClip](http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/) - Tutorial on how to animate sprites using the MovieClip class.
 - [Spriteheet animation class](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
 
@@ -103,14 +103,14 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ### Saving and Loading
 - [Using JSON](http://giderosmobile.com/forum/discussion/6918/saving-and-loading-data-files#Item_1) - Loading and saving manually via JSON.
 - [DataSaver module](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile) - User-friendly wrapper to make saving and loading data as easy as possible.
-- [Encrypting save files](https://github.com/stetso/awesome-gideros/blob/master/http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1) - Some ideas (https://github.com/stetso/awesome-gideros/blob/master/with code) about securing the save files from unwanted manipulation.
+- [Encrypting save files](http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1) - Some ideas (https://github.com/stetso/awesome-gideros/blob/master/with code) about securing the save files from unwanted manipulation.
 
 ### Monetization
 - [Admob integration](http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app) - Video tutorial about integrating Admob into your game.
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - Second part of the Admob tutorial showing Google Play Service integration.
 
 ### GUI
-- [Layout](https://github.com/stetso/awesome-gideros/blob/master/https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework (https://github.com/stetso/awesome-gideros/blob/master/[forum entry](https://github.com/stetso/awesome-gideros/blob/master/http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+- [Layout](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework (https://github.com/stetso/awesome-gideros/blob/master/[forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 

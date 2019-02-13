@@ -1,12 +1,12 @@
 <h3 align="center">
-	<img width="120" src="https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/rethinkdb.jpg" alt="RethinkDB">
+	<img width="120" src="https://raw.githubusercontent.com/d3viant0ne/awesome-rethinkdb/master/media/rethinkdb.jpg" alt="RethinkDB">
 	<br>
 </h3>
 ## Awesome RethinkDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
 
 ### Table of Contents
  - [Resources](#resources)
@@ -50,7 +50,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 ##### Drivers
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 - [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 
@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [KOA RethinkDB](https://github.com/hden/koa-rethinkdb) - Koa middleware that gets you a RethinkDB client.
  - Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden) 
 - [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - Integrating RethinkDB with RabbitMQ
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
 **[Back to top](#table-of-contents)**
 
@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 ##### Drivers
 
 - [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported JavaScript Driver.
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb)
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 
 ##### ORM
 
@@ -101,7 +101,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [flask-rethinkdb](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
 **[Back to top](#table-of-contents)**
 
@@ -111,7 +111,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 ##### Drivers
 
 - [RethinkDB Ruby](http://rethinkdb.com/docs/install-drivers/ruby/) - Officially Supported Ruby Driver.
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb)
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 
 ##### ORM
 
@@ -125,7 +125,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [lotus-rethinkdb](https://github.com/angeloashmore/lotus-rethinkdb) - RethinkDB adapter for Lotus::Model.
  - Maintainer: `Angelo Ashmore`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/angeloashmore) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/angeloashmore)
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/ruby/) - Integrating RethinkDB with RabbitMQ
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
 **[Back to top](#table-of-contents)**
 
@@ -135,7 +135,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 ##### Drivers
 
 - [RethinkDB Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Supported Java Driver.
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb)
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 - [Rethinker](https://github.com/futurechimp/rethinker) - A simplistic serialisation library for use alongside the official RethinkDb Java driver.
  - Maintainer: `Dave Hrycyszyn`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/futurechimp) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/futurechimp)
 - [Rethinkdb4j](https://github.com/tony-brewerio/rethinkdb4j) - Asynchronous Netty-based RethinkDB driver for Java.
@@ -150,7 +150,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 ##### Technology Integrations
 
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/java/) - Integrating RethinkDB with RabbitMQ
- - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
 **[Back to top](#table-of-contents)**
 
@@ -170,7 +170,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua.
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C. 
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
-- [PHP](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ReQL).
+- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ReQL).
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
 
 **[Back to top](#table-of-contents)**
@@ -215,7 +215,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 #### Community Examples
 
 - [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets.
-- [RethinkDB Reactjs](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/Rails) + Server Side Events.
+- [RethinkDB Reactjs](https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/Rails) + Server Side Events.
 - [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB
 - [Boot RethinkDB](https://github.com/geowarin/boot-rethinkdb) - Chat example with spring boot and RethinkDB.
 - [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) - Go RethinkDB Todo List Example Application.
@@ -231,7 +231,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 
 #### Administrative Tools
 
-- [Chateau](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/neumino/chateau) - Another (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/awesome) data explorer for RethinkDB.
+- [Chateau](https://github.com/neumino/chateau) - Another (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/awesome) data explorer for RethinkDB.
 - [RethinkDB CLI](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb.
 - [RethinkDB Nightly](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 

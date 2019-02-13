@@ -219,9 +219,9 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 ### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
-<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
+<img src="https://raw.githubusercontent.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
-This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (https://github.com/dariubs/GoBooks/blob/master/you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (https://github.com/dariubs/GoBooks/blob/master/you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that https://github.com/dariubs/GoBooks/blob/master/you'll learn a lot when https://github.com/dariubs/GoBooks/blob/master/you code without a framework.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 

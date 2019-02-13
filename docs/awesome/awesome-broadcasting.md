@@ -28,11 +28,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
-* [Lame](https://github.com/ebu/awesome-broadcasting/blob/master/http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (https://github.com/ebu/awesome-broadcasting/blob/master/MP3) encoder.
+* [Lame](http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (https://github.com/ebu/awesome-broadcasting/blob/master/MP3) encoder.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](http://www.opus-codec.org) - A totally open, royalty-free, highly versatile audio codec.
 * [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
-* [TwoLame](https://github.com/ebu/awesome-broadcasting/blob/master/http://www.twolame.org/) - An MPEG Audio Layer 2 (https://github.com/ebu/awesome-broadcasting/blob/master/MP2) encoder.
+* [TwoLame](http://www.twolame.org/) - An MPEG Audio Layer 2 (https://github.com/ebu/awesome-broadcasting/blob/master/MP2) encoder.
 
 ## Companion Screens
 
@@ -45,7 +45,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV application which can playback media from a URL. Conforms to HbbTV and W3C specifications.
-* [TAL](https://github.com/ebu/awesome-broadcasting/blob/master/http://bbc.github.io/tal/) - The TV Application Layer (https://github.com/ebu/awesome-broadcasting/blob/master/TAL) is an open source library for building applications for Connected TV devices.
+* [https://github.com/ebu/awesome-broadcasting/blob/master/TAL](http://bbc.github.io/tal/) - The TV Application Layer (https://github.com/ebu/awesome-broadcasting/blob/master/TAL) is an open source library for building applications for Connected TV devices.
 
 ## Distributed Media Processing
 
@@ -59,7 +59,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [dvbshout](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
-* [ts2mpa](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (https://github.com/ebu/awesome-broadcasting/blob/master/TS).
+* [ts2mpa](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (https://github.com/ebu/awesome-broadcasting/blob/master/TS).
 * [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
@@ -83,13 +83,13 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## LiveIP
 *Audio/Video over IP & Streaming*
 
-* [butt](https://github.com/ebu/awesome-broadcasting/blob/master/https://danielnoethen.de/) - broadcast using this tool (https://github.com/ebu/awesome-broadcasting/blob/master/butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
+* [https://github.com/ebu/awesome-broadcasting/blob/master/butt](https://danielnoethen.de/) - broadcast using this tool (https://github.com/ebu/awesome-broadcasting/blob/master/butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 * [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
-* [DarkIce](https://github.com/ebu/awesome-broadcasting/blob/master/http://www.darkice.org/) - A live audio streamer that records audio from an audio interface (https://github.com/ebu/awesome-broadcasting/blob/master/e.g. sound card), encodes it and sends it to a streaming server.
-* [Icecast](https://github.com/ebu/awesome-broadcasting/blob/master/http://icecast.org/) - A streaming media (https://github.com/ebu/awesome-broadcasting/blob/master/audio/video) server which supports Ogg (https://github.com/ebu/awesome-broadcasting/blob/master/Vorbis and Theora), Opus, WebM and MP3 streams.
-* [Kamailio](https://github.com/ebu/awesome-broadcasting/blob/master/http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (https://github.com/ebu/awesome-broadcasting/blob/master/EBU ACIP).
+* [DarkIce](http://www.darkice.org/) - A live audio streamer that records audio from an audio interface (https://github.com/ebu/awesome-broadcasting/blob/master/e.g. sound card), encodes it and sends it to a streaming server.
+* [Icecast](http://icecast.org/) - A streaming media (https://github.com/ebu/awesome-broadcasting/blob/master/audio/video) server which supports Ogg (https://github.com/ebu/awesome-broadcasting/blob/master/Vorbis and Theora), Opus, WebM and MP3 streams.
+* [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (https://github.com/ebu/awesome-broadcasting/blob/master/EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
-* [PJSIP](https://github.com/ebu/awesome-broadcasting/blob/master/http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (https://github.com/ebu/awesome-broadcasting/blob/master/dual licensing).
+* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (https://github.com/ebu/awesome-broadcasting/blob/master/dual licensing).
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
 
 ## Media Players
@@ -111,10 +111,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 * [EBUCore](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) - Python implementation of the AMWA IS-04 NMOS Registration and Discovery Specification and AMWA IS-05 NMOS Device Connection Management Specification.
-* [jebu-core](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://github.com/ebu/awesome-broadcasting/blob/master/https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (https://github.com/ebu/awesome-broadcasting/blob/master/EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://github.com/ebu/awesome-broadcasting/blob/master/https://tech.ebu.ch/docs/tech/tech3364.pdf).
+* [jebu-core](https://github.com/mikrosimage/jebu-core) - https://github.com/ebu/awesome-broadcasting/blob/master/EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (https://github.com/ebu/awesome-broadcasting/blob/master/EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
 * [Ledger](https://github.com/Streampunk/ledger) - Node.js implementation of the NMOS registration and discovery specifications.
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
-* [NMOS](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/sony/nmos-cpp) - An NMOS (https://github.com/ebu/awesome-broadcasting/blob/master/Networked Media Open Specifications) Registry and Node in C++ (https://github.com/ebu/awesome-broadcasting/blob/master/IS-04, IS-05).
+* [NMOS](https://github.com/sony/nmos-cpp) - An NMOS (https://github.com/ebu/awesome-broadcasting/blob/master/Networked Media Open Specifications) Registry and Node in C++ (https://github.com/ebu/awesome-broadcasting/blob/master/IS-04, IS-05).
 * [SDPoker](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 * [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
@@ -122,14 +122,14 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Level metering for JACK, according to the [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness recommendation - [documentation](http://kokkinizita.linuxaudio.org/linuxaudio/ebumeter-doc/quickguide.html).
-* [Jack Meter](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/njh/jackmeter) - Text console based DPM (https://github.com/ebu/awesome-broadcasting/blob/master/Digital Peak Meter) for JACK.
+* [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (https://github.com/ebu/awesome-broadcasting/blob/master/Digital Peak Meter) for JACK.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK.
-* [Jmeters](https://github.com/ebu/awesome-broadcasting/blob/master/http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical Audio meters for JACK with the correct ballistics for both the VU and the PPMs (https://github.com/ebu/awesome-broadcasting/blob/master/compared to Meterbridge).
-* [LTC-tools](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/x42/ltc-tools) - A collection of tools to read, generate and trigger against Linear Timecode (https://github.com/ebu/awesome-broadcasting/blob/master/LTC) and convert to MIDI Timecode (https://github.com/ebu/awesome-broadcasting/blob/master/MTC) with JACK and to/from standalone files.
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical Audio meters for JACK with the correct ballistics for both the VU and the PPMs (https://github.com/ebu/awesome-broadcasting/blob/master/compared to Meterbridge).
+* [https://github.com/ebu/awesome-broadcasting/blob/master/LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to read, generate and trigger against Linear Timecode (https://github.com/ebu/awesome-broadcasting/blob/master/LTC) and convert to MIDI Timecode (https://github.com/ebu/awesome-broadcasting/blob/master/MTC) with JACK and to/from standalone files.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
-* [MXF Inspect](https://github.com/ebu/awesome-broadcasting/blob/master/http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (https://github.com/ebu/awesome-broadcasting/blob/master/Material eXchange Format) file.
-* [Photon](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (https://github.com/ebu/awesome-broadcasting/blob/master/IMF) standard.
+* [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (https://github.com/ebu/awesome-broadcasting/blob/master/Material eXchange Format) file.
+* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (https://github.com/ebu/awesome-broadcasting/blob/master/IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
@@ -142,9 +142,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
-* [Codem-isoboxer](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (https://github.com/ebu/awesome-broadcasting/blob/master/ISOBMFF) parser.
+* [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (https://github.com/ebu/awesome-broadcasting/blob/master/ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
-* [EBU ADM Renderer](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer (https://github.com/ebu/awesome-broadcasting/blob/master/[EBU Tech 3388](https://github.com/ebu/awesome-broadcasting/blob/master/https://tech.ebu.ch/publications/tech3388))
+* [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer (https://github.com/ebu/awesome-broadcasting/blob/master/[EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video. Now including support for SMPTE ST 2110.
 * [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
@@ -155,7 +155,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
 * [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
-* [MP4Box.js](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (https://github.com/ebu/awesome-broadcasting/blob/master/and in NodeJS).
+* [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (https://github.com/ebu/awesome-broadcasting/blob/master/and in NodeJS).
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
 * [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
@@ -177,12 +177,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Radio Production
 
-* [Airtime](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (https://github.com/ebu/awesome-broadcasting/blob/master/via web-based schedule).
+* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (https://github.com/ebu/awesome-broadcasting/blob/master/via web-based schedule).
 * [Ardour](https://ardour.org/) - A digital audio workstation.
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
 * [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
-* [LibreTime](https://github.com/ebu/awesome-broadcasting/blob/master/http://libretime.org/) - Radio broadcast & automation platform (https://github.com/ebu/awesome-broadcasting/blob/master/fork of Airtime).
-* [Liquidsoap](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming (https://github.com/ebu/awesome-broadcasting/blob/master/[documentation](https://github.com/ebu/awesome-broadcasting/blob/master/http://liquidsoap.fm/index.html)).
+* [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (https://github.com/ebu/awesome-broadcasting/blob/master/fork of Airtime).
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming (https://github.com/ebu/awesome-broadcasting/blob/master/[documentation](http://liquidsoap.fm/index.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
@@ -190,10 +190,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Software-defined radio
 
 * [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
-* [Gqrx SDR](https://github.com/ebu/awesome-broadcasting/blob/master/http://gqrx.dk/) - An open source software defined radio receiver (https://github.com/ebu/awesome-broadcasting/blob/master/SDR).
-* [ODR-mmbTools](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.opendigitalradio.org) - Fork, continuation of CRC-mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (https://github.com/ebu/awesome-broadcasting/blob/master/slideshow, text), distributed infrastructure, SFN.
+* [Gqrx https://github.com/ebu/awesome-broadcasting/blob/master/SDR](http://gqrx.dk/) - An open source software defined radio receiver (https://github.com/ebu/awesome-broadcasting/blob/master/SDR).
+* [ODR-mmbTools](https://www.opendigitalradio.org) - Fork, continuation of CRC-mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (https://github.com/ebu/awesome-broadcasting/blob/master/slideshow, text), distributed infrastructure, SFN.
 * [rtl-sdr](http://osmocom.org/projects/sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
-* [welle.io](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.welle.io/) - An open source DAB and DAB+ software defined radio (https://github.com/ebu/awesome-broadcasting/blob/master/SDR) with support for airspy and rtlsdr.
+* [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (https://github.com/ebu/awesome-broadcasting/blob/master/SDR) with support for airspy and rtlsdr.
 
 ## Subtitling
 
@@ -201,19 +201,19 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - A set of components for generating, testing and distributing subtitle documents in the [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) format.
-* [GStreamer TTML subtitling package](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (https://github.com/ebu/awesome-broadcasting/blob/master/TTML) subtitles.
+* [GStreamer https://github.com/ebu/awesome-broadcasting/blob/master/TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (https://github.com/ebu/awesome-broadcasting/blob/master/TTML) subtitles.
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered.
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
-* [Subtitling Conversion Framework (https://github.com/ebu/awesome-broadcasting/blob/master/SCF)](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
-* [Timed Text Toolkit (https://github.com/ebu/awesome-broadcasting/blob/master/ttt)](https://github.com/ebu/awesome-broadcasting/blob/master/https://github.com/skynav/ttt) - A collection of related tools that provide support for or make use of the W3C Timed Text Markup Language (https://github.com/ebu/awesome-broadcasting/blob/master/TTML).
+* [Subtitling Conversion Framework (https://github.com/ebu/awesome-broadcasting/blob/master/SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
+* [Timed Text Toolkit (https://github.com/ebu/awesome-broadcasting/blob/master/ttt)](https://github.com/skynav/https://github.com/ebu/awesome-broadcasting/blob/master/ttt) - A collection of related tools that provide support for or make use of the W3C Timed Text Markup Language (https://github.com/ebu/awesome-broadcasting/blob/master/TTML).
 
 ## Video Production
 
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
-* [Open Lighting Architecture (https://github.com/ebu/awesome-broadcasting/blob/master/OLA)](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.openlighting.org/ola/) - OLA is a framework for lighting control information, the travel adaptor for the lighting industry, for converting between Digital Multiplex (https://github.com/ebu/awesome-broadcasting/blob/master/DMX-512) and IP variants and interfacing with USB adaptors.
+* [Open Lighting Architecture (https://github.com/ebu/awesome-broadcasting/blob/master/OLA)](https://www.openlighting.org/ola/) - https://github.com/ebu/awesome-broadcasting/blob/master/OLA is a framework for lighting control information, the travel adaptor for the lighting industry, for converting between Digital Multiplex (https://github.com/ebu/awesome-broadcasting/blob/master/DMX-512) and IP variants and interfacing with USB adaptors.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
-* [Q Light Controller+ (https://github.com/ebu/awesome-broadcasting/blob/master/QLC+)](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.qlcplus.org/) - QLC+ is cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
+* [Q Light Controller+ (https://github.com/ebu/awesome-broadcasting/blob/master/QLC+)](https://www.qlcplus.org/) - https://github.com/ebu/awesome-broadcasting/blob/master/QLC+ is cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
 * [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
 
 ## Resources

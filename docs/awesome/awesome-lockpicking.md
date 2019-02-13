@@ -2,7 +2,7 @@
 
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
-[Lock picking](https://github.com/meitar/awesome-lockpicking/blob/master/https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
+[Lock picking](https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
 
 ## Contents
 
@@ -20,19 +20,19 @@
 
 ## Contests, conferences, and events
 
-* [Chaos Communications Congress (https://github.com/meitar/awesome-lockpicking/blob/master/CCC)](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.ccc.de/) - CCC hosts the German Lockpicking Championships.
+* [Chaos Communications Congress (https://github.com/meitar/awesome-lockpicking/blob/master/CCC)](https://www.ccc.de/) - https://github.com/meitar/awesome-lockpicking/blob/master/CCC hosts the German Lockpicking Championships.
 * [DEF CON](https://defcon.org/) - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
-* [Hackers On Planet Earth (https://github.com/meitar/awesome-lockpicking/blob/master/HOPE)](https://github.com/meitar/awesome-lockpicking/blob/master/https://hope.net/) - Annual conference often featuring a locksport competition and presentations on physical security.
+* [Hackers On Planet Earth (https://github.com/meitar/awesome-lockpicking/blob/master/HOPE)](https://hope.net/) - Annual conference often featuring a locksport competition and presentations on physical security.
 * [OzLockCon](https://ozlockcon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
 * [LockCon](https://toool.nl/LockCon) - Annual, invitation-only international conference about locks for members of respected locksport organizations.
 
 ## Hobby projects
 
-* [3D Printed Lock Picks](https://github.com/meitar/awesome-lockpicking/blob/master/http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. (https://github.com/meitar/awesome-lockpicking/blob/master/[Find more digital models](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.yeggi.com/q/lockpick/).)
+* [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. (https://github.com/meitar/awesome-lockpicking/blob/master/[Find more digital models](https://www.yeggi.com/q/lockpick/).)
 * [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
-* [How to Make a Set of Lockpicks! (https://github.com/meitar/awesome-lockpicking/blob/master/using street sweeper bristles)](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+* [How to Make a Set of Lockpicks! (https://github.com/meitar/awesome-lockpicking/blob/master/using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
 * [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
-* [Under Door Tool Kit Instructions](https://github.com/meitar/awesome-lockpicking/blob/master/https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door (https://github.com/meitar/awesome-lockpicking/blob/master/"lever opening"/"Mule") tool using material available at a typical hardware store.
+* [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door (https://github.com/meitar/awesome-lockpicking/blob/master/"lever opening"/"Mule") tool using material available at a typical hardware store.
 
 ## How-to lockpicking guides
 
@@ -49,8 +49,8 @@
 
 ## Locksport associations and organizations
 
-* [Fraternal Order of Lock Sport (https://github.com/meitar/awesome-lockpicking/blob/master/FOOLS)](https://github.com/meitar/awesome-lockpicking/blob/master/http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
-* [The Open Organization Of Lockpickers (https://github.com/meitar/awesome-lockpicking/blob/master/TOOOL)](https://github.com/meitar/awesome-lockpicking/blob/master/https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
+* [Fraternal Order of Lock Sport (https://github.com/meitar/awesome-lockpicking/blob/master/FOOLS)](http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
+* [The Open Organization Of Lockpickers (https://github.com/meitar/awesome-lockpicking/blob/master/TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
 
@@ -73,7 +73,7 @@
 * [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
 * [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
 * [Mad Bob Picks](https://www.madbobpicks.co.uk/) - UK-based manufacturer of lock pick accessories, notable for their Jackknifes and lifetime warranty.
-* [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their top-of-keyway turning tools are famous but overpriced (https://github.com/meitar/awesome-lockpicking/blob/master/you can make your own).
+* [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their top-of-keyway turning tools are famous but overpriced (https://github.com/meitar/awesome-lockpicking/blob/master/you can make your own).
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.

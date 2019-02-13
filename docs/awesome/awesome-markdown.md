@@ -70,7 +70,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 
 ### C
 
-- [Hoedown](https://github.com/BubuAnabelas/awesome-markdown/blob/master/https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (https://github.com/BubuAnabelas/awesome-markdown/blob/master/Sundown fork).
+- [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (https://github.com/BubuAnabelas/awesome-markdown/blob/master/Sundown fork).
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 - [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
 
@@ -134,7 +134,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [Mark Text](https://github.com/BubuAnabelas/awesome-markdown/blob/master/https://github.com/marktext/marktext/) - Next generation Markdown editor (https://github.com/BubuAnabelas/awesome-markdown/blob/master/built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (https://github.com/BubuAnabelas/awesome-markdown/blob/master/built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
@@ -194,9 +194,9 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
 - [Pandoc’s Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](http://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
-- [Stack Overflow Markdown Documentation (https://github.com/BubuAnabelas/awesome-markdown/blob/master/archived)](https://github.com/BubuAnabelas/awesome-markdown/blob/master/https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
+- [Stack Overflow Markdown Documentation (https://github.com/BubuAnabelas/awesome-markdown/blob/master/archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
-- [The text/markdown Media Type (https://github.com/BubuAnabelas/awesome-markdown/blob/master/RFC7763)](https://github.com/BubuAnabelas/awesome-markdown/blob/master/https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
+- [The text/markdown Media Type (https://github.com/BubuAnabelas/awesome-markdown/blob/master/RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
 
 ### Tutorials

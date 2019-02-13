@@ -66,10 +66,10 @@
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
-* [timeago.js](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/hustcc/timeago.js) - A tiny(https://github.com/parro-it/awesome-micro-npm-packages/blob/master/~1.7kb) library used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(https://github.com/parro-it/awesome-micro-npm-packages/blob/master/~1.7kb) library used to format date with `*** time ago` statement.
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
-* [twas](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/vutran/twas) - Generate a relative time string (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/Example: "3 seconds ago")
+* [twas](https://github.com/vutran/twas) - Generate a relative time string (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/Example: "3 seconds ago")
 
 ### Object
 
@@ -81,9 +81,9 @@
 * [just-pluck](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
 * [deep-equal](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
-* [set-value](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/`'a.b.c'`) paths.
-* [get-value](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/jonschlinkert/get-value) - Use property paths (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/a.b.c) to get a nested value from an object.
-* [has-value](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/`'a.b.c'`) paths.
+* [set-value](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/`'a.b.c'`) paths.
+* [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/a.b.c) to get a nested value from an object.
+* [has-value](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/`'a.b.c'`) paths.
 * [has-key-deep](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
 * [flatkeys](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 * [flatten-obj](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
@@ -98,7 +98,7 @@
 
 ### Function
 
-* [compose-function](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(https://github.com/parro-it/awesome-micro-npm-packages/blob/master/g(https://github.com/parro-it/awesome-micro-npm-packages/blob/master/x))`.
+* [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(https://github.com/parro-it/awesome-micro-npm-packages/blob/master/g(x))`.
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
@@ -134,12 +134,12 @@
 
 ### File System
 
-* [rimraf](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/isaacs/rimraf) - A deep deletion module for node (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/like rm -rf).
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 * [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
-* [fs-promise](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/optional fs-extra, graceful-fs).
+* [fs-promise](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/optional fs-extra, graceful-fs).
 
 ### Browser
 
@@ -154,7 +154,7 @@
 ### Semver
 
 * [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
-* [semver-max](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/https://github.com/eush77/semver-max) - Find maximum (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/or minimum) version according to semver.
+* [semver-max](https://github.com/eush77/semver-max) - Find maximum (https://github.com/parro-it/awesome-micro-npm-packages/blob/master/or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
 
 

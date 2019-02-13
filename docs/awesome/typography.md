@@ -47,7 +47,7 @@ A curated collection of awesome web typography articles.
 - [How we use web fonts responsibly, or, avoiding a @font-face-palm](https://www.filamentgroup.com/lab/font-loading.html)
 - [Better @font-face with Font Load Events](https://dev.opera.com/articles/better-font-face/)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html)
-- [Using Web Fonts the Best Way (https://github.com/deanhume/typography/blob/master/in 2015)](https://github.com/deanhume/typography/blob/master/https://helloanselm.com/writings/using-webfonts-in-2015)
+- [Using Web Fonts the Best Way (https://github.com/deanhume/typography/blob/master/in 2015)](https://helloanselm.com/writings/using-webfonts-in-2015)
 - [Web Font Loading Patterns](http://bramstein.com/writing/web-font-loading-patterns.html)
 - [Performance and Web Typography - Video](https://www.youtube.com/watch?v=emLfXChvVPQ)
 - [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)

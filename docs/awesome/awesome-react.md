@@ -143,8 +143,8 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
-* [Live React Bootcamp by Tyler Mcginnis(https://github.com/enaqx/awesome-react/blob/master/free)](https://github.com/enaqx/awesome-react/blob/master/https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
-* [React.js Fundamentals (https://github.com/enaqx/awesome-react/blob/master/paid)](https://github.com/enaqx/awesome-react/blob/master/https://tylermcginnis.com/courses/react-fundamentals)
+* [Live React Bootcamp by Tyler Mcginnis(https://github.com/enaqx/awesome-react/blob/master/free)](https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
+* [React.js Fundamentals (https://github.com/enaqx/awesome-react/blob/master/paid)](https://tylermcginnis.com/courses/react-fundamentals)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React js tutorial](https://hackr.io/tutorials/learn-react)
@@ -162,13 +162,13 @@ A collection of awesome things regarding React ecosystem.
 * [GraphCMS Beginners Guide with React](https://docs.graphcms.com/tutorials/developers/beginners_guide_with_react)
 * [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
 * [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
-* [SSR Split (https://github.com/enaqx/awesome-react/blob/master/A/B) Testing and Analytics with React, Redux, and Next.js](https://github.com/enaqx/awesome-react/blob/master/https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
-* [Material-UI: Get started (https://github.com/enaqx/awesome-react/blob/master/Fast!) ⚡ React 16+](https://github.com/enaqx/awesome-react/blob/master/https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
+* [SSR Split (https://github.com/enaqx/awesome-react/blob/master/A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
+* [Material-UI: Get started (https://github.com/enaqx/awesome-react/blob/master/Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
 
 ##### React best practices
 
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [Pete Hunt: React: Rethinking Best Practices (https://github.com/enaqx/awesome-react/blob/master/updated) - JSConf.Asia 2013](https://github.com/enaqx/awesome-react/blob/master/https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [Pete Hunt: React: Rethinking Best Practices (https://github.com/enaqx/awesome-react/blob/master/updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [React.js Best Practices](https://github.com/ximet/awesome-best-practices/blob/master/frontend/react/bestPracticeReact.md)
 * [Clean Code vs. Dirty Code: React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
@@ -237,10 +237,10 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React and Haskell
 * [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
-* [TodoMVC example with Shade (https://github.com/enaqx/awesome-react/blob/master/Haste+React)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/takeoutweight/shade-todomvc)
+* [TodoMVC example with Shade (https://github.com/enaqx/awesome-react/blob/master/Haste+React)](https://github.com/takeoutweight/shade-todomvc)
 * [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell)
-* [blaze-react, blaze-html style React bindings using GHCJS](https://github.com/enaqx/awesome-react/blob/master/https://github.com/meiersi/blaze-react) (https://github.com/enaqx/awesome-react/blob/master/[video tutorial](https://github.com/enaqx/awesome-react/blob/master/https://www.youtube.com/watch?v=4nTnC0t7pzY))
-* [purescript-react bindings](https://github.com/enaqx/awesome-react/blob/master/https://github.com/purescript-contrib/purescript-react) (https://github.com/enaqx/awesome-react/blob/master/[example app](https://github.com/enaqx/awesome-react/blob/master/https://github.com/fujimura/purescript-react-example))
+* [blaze-react, blaze-html style React bindings using GHCJS](https://github.com/meiersi/blaze-react) (https://github.com/enaqx/awesome-react/blob/master/[video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
+* [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) (https://github.com/enaqx/awesome-react/blob/master/[example app](https://github.com/fujimura/purescript-react-example))
 
 ##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
@@ -317,14 +317,14 @@ A collection of awesome things regarding React ecosystem.
 ##### Development Toolkits and Frameworks
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [Neutrino](https://neutrinojs.org/) - Create and build modern JavaScript applications with zero initial configuration.
-* [nwb](https://github.com/enaqx/awesome-react/blob/master/https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (https://github.com/enaqx/awesome-react/blob/master/until you need it).
+* [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (https://github.com/enaqx/awesome-react/blob/master/until you need it).
 * [Next.js](https://nextjs.org/) - A minimalistic framework for server-rendered React applications.
 * [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
 * [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - Create React App using typescript with no build configuration.
 * [rekit](http://rekit.js.org/) - IDE and toolkit for building scalable web applications with React, Redux and React-router.
 * [ARc](https://arc.js.org) - A progressive React starter kit based on Atomic Design.
 * [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
-* [Crana](https://github.com/enaqx/awesome-react/blob/master/https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (https://github.com/enaqx/awesome-react/blob/master/batteries included).
+* [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (https://github.com/enaqx/awesome-react/blob/master/batteries included).
 * [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
 
 
@@ -332,9 +332,9 @@ A collection of awesome things regarding React ecosystem.
 ##### Boilerplates
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
-* [React Starter Kit — isomorphic web app boilerplate (https://github.com/enaqx/awesome-react/blob/master/Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/kriasoft/react-starter-kit)
-* [ASP.NET Core Starter Kit (https://github.com/enaqx/awesome-react/blob/master/C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/enaqx/awesome-react/blob/master/https://github.com/kriasoft/aspnet-starter-kit)
-* [ASP.NET Core Starter Kit (https://github.com/enaqx/awesome-react/blob/master/F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#](https://github.com/enaqx/awesome-react/blob/master/https://github.com/kriasoft/fsharp-starter-kit)
+* [React Starter Kit — isomorphic web app boilerplate (https://github.com/enaqx/awesome-react/blob/master/Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
+* [ASP.NET Core Starter Kit (https://github.com/enaqx/awesome-react/blob/master/C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, https://github.com/enaqx/awesome-react/blob/master/C#](https://github.com/kriasoft/aspnet-starter-kit)
+* [ASP.NET Core Starter Kit (https://github.com/enaqx/awesome-react/blob/master/F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, https://github.com/enaqx/awesome-react/blob/master/F#](https://github.com/kriasoft/fsharp-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
 * [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
@@ -344,11 +344,11 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
-* [UniversalRelayBoilerplate - Boilerplate + examples for React Native (https://github.com/enaqx/awesome-react/blob/master/iOS, Android), React (https://github.com/enaqx/awesome-react/blob/master/isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/enaqx/awesome-react/blob/master/https://github.com/codefoundries/UniversalRelayBoilerplate)
+* [UniversalRelayBoilerplate - Boilerplate + examples for React Native (https://github.com/enaqx/awesome-react/blob/master/iOS, Android), React (https://github.com/enaqx/awesome-react/blob/master/isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [react-express-stripe - A minimal boilerplate to accept payments in a React App](https://github.com/rwieruch/react-express-stripe)
 * [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more.](https://github.com/Atyantik/react-pwa)
-* [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (https://github.com/enaqx/awesome-react/blob/master/using ES6, Babel, SASS and webpack development server)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/temilaj/react-webpack-starter)
+* [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (https://github.com/enaqx/awesome-react/blob/master/using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
 * [Happyreaction - React/Spring/Java maven archetype for bootstrapping a new project quickly](https://github.com/ignl/happyreaction)
 * [Create React NPM Component - CLI tool for creating a component for distribution on NPM](https://github.com/deltaskelta/create-react-npm-component)
 * [Suicrux - Universal starter with ultimate hot-reloading. PWA/LL/SSR/React/Redux/i18n.](https://github.com/Metnew/suicrux)
@@ -356,12 +356,12 @@ A collection of awesome things regarding React ecosystem.
 * [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase](https://github.com/zerostatic/react-firebase-authentication)
 * [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready](https://github.com/gilbarbara/react-redux-saga-boilerplate)
-* [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (https://github.com/enaqx/awesome-react/blob/master/Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/enaqx/awesome-react/blob/master/https://github.com/prescottprue/generator-react-firebase)
+* [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (https://github.com/enaqx/awesome-react/blob/master/Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
-* [Create React App (https://github.com/enaqx/awesome-react/blob/master/ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/enaqx/awesome-react/blob/master/https://github.com/kkoomen/react-boilerplate) (https://github.com/enaqx/awesome-react/blob/master/Can be used along with the corresponding tool: CRA-gen)
-  * [CRA-gen (https://github.com/enaqx/awesome-react/blob/master/Create React App CLI generator using custom templates)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/kkoomen/cra-gen)
-* [create Adobe-CEP (https://github.com/enaqx/awesome-react/blob/master/Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/enaqx/awesome-react/blob/master/https://github.com/HendrixString/adobe-cep-react-create)
+* [Create React App (https://github.com/enaqx/awesome-react/blob/master/ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (https://github.com/enaqx/awesome-react/blob/master/Can be used along with the corresponding tool: CRA-gen)
+  * [CRA-gen (https://github.com/enaqx/awesome-react/blob/master/Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
+* [create Adobe-CEP (https://github.com/enaqx/awesome-react/blob/master/Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
 * [next-boilerplate - Next.js with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
 * [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
@@ -497,9 +497,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
 * [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
-* [react-bootstrap-daterangepicker - A date/time picker for react (https://github.com/enaqx/awesome-react/blob/master/using Bootstrap)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/skratchdot/react-bootstrap-daterangepicker)
+* [react-bootstrap-daterangepicker - A date/time picker for react (https://github.com/enaqx/awesome-react/blob/master/using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
 * [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
-* [react-bootstrap-multiselect - A multiselect component for react (https://github.com/enaqx/awesome-react/blob/master/with bootstrap)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/skratchdot/react-bootstrap-multiselect)
+* [react-bootstrap-multiselect - A multiselect component for react (https://github.com/enaqx/awesome-react/blob/master/with bootstrap)](https://github.com/skratchdot/react-bootstrap-multiselect)
 * [react-colorpicker - Colorpicker for React](https://github.com/stayradiated/react-colorpicker)
 * [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
 * [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
@@ -514,7 +514,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 * [react-star-rating - A simple star rating component built with React.](https://github.com/cameronjroe/react-star-rating)
 * [react-data-components - React components and mixins for manipulating data](https://github.com/carlosrocha/react-data-components)
-* [react-number-editor - Number editor (https://github.com/enaqx/awesome-react/blob/master/textfield) component for react](https://github.com/enaqx/awesome-react/blob/master/https://github.com/tleunen/react-number-editor)
+* [react-number-editor - Number editor (https://github.com/enaqx/awesome-react/blob/master/textfield) component for react](https://github.com/tleunen/react-number-editor)
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 * [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
@@ -524,7 +524,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 * [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
 * [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
-* [react-portal - A transportation of (https://github.com/enaqx/awesome-react/blob/master/not just) modals and lightboxes to document.body](https://github.com/enaqx/awesome-react/blob/master/https://github.com/tajo/react-portal)
+* [react-portal - A transportation of (https://github.com/enaqx/awesome-react/blob/master/not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
 * [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
 * [react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste ](https://github.com/adazzle/react-data-grid)
 * [react-datagrid - A carefully crafted DataGrid for React](https://github.com/nishp1/react-datagrid)
@@ -566,7 +566,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-text-mask - React input mask](https://github.com/text-mask/text-mask)
 * [react-imask - another React input mask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/react-imask)
 * [rebass - Configurable React Stateless Functional UI Components](https://github.com/jxnblk/rebass)
-* [echarts-for-react - baidu Echarts(https://github.com/enaqx/awesome-react/blob/master/v3.0) components for React](https://github.com/enaqx/awesome-react/blob/master/https://github.com/hustcc/echarts-for-react)
+* [echarts-for-react - baidu Echarts(https://github.com/enaqx/awesome-react/blob/master/v3.0) components for React](https://github.com/hustcc/echarts-for-react)
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
@@ -600,7 +600,7 @@ A collection of awesome things regarding React ecosystem.
 * [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
 * [react-filepond - Drag 'n Drop accessible file upload component](https://github.com/pqina/react-filepond)
 * [pimg - A Progressive Image Component used for lazy loading images](https://github.com/ooade/pimg)
-* [object-editor-react - Schema-aware editor for structured JSON objects (https://github.com/enaqx/awesome-react/blob/master/drop-in component)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/b-gran/object-editor-react)
+* [object-editor-react - Schema-aware editor for structured JSON objects (https://github.com/enaqx/awesome-react/blob/master/drop-in component)](https://github.com/b-gran/object-editor-react)
 * [react-terminal-component - Emulate a terminal with autocomplete, commands, a file-system, themes and more.](https://github.com/rohanchandra/react-terminal-component)
 * [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
 * [numeric-keyboard - Numeric keyboard for mobile browsers.](https://github.com/viclm/numeric-keyboard)
@@ -719,7 +719,7 @@ A collection of awesome things regarding React ecosystem.
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 * [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
 * [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
-* [jreact - React on server-side Java (https://github.com/enaqx/awesome-react/blob/master/with Rhino or Nashorn)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/KnisterPeter/jreact)
+* [jreact - React on server-side Java (https://github.com/enaqx/awesome-react/blob/master/with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
 * [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
 * [react-play - Rendering React components in the Play Framework with JDK8's Nashorn](https://github.com/ssorallen/react-play)
 * [rx-react - Utilities to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
@@ -728,8 +728,8 @@ A collection of awesome things regarding React ecosystem.
 * [firedux - Firebase + Redux for ReactJS](https://github.com/AndersDJohnson/firedux)
 * [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
-* [react-masonry-mixin - Standalone mixin for Masonry (https://github.com/enaqx/awesome-react/blob/master/@desandro)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/eiriklv/react-masonry-mixin)
-* [react-packery-mixin - Standalone mixin for Packery (https://github.com/enaqx/awesome-react/blob/master/Metafizzy)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/eiriklv/react-packery-mixin)
+* [react-masonry-mixin - Standalone mixin for Masonry (https://github.com/enaqx/awesome-react/blob/master/@desandro)](https://github.com/eiriklv/react-masonry-mixin)
+* [react-packery-mixin - Standalone mixin for Packery (https://github.com/enaqx/awesome-react/blob/master/Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 * [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
 * [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
 * [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
@@ -791,7 +791,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
 * [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
-* [swarm - JavaScript replicated model (https://github.com/enaqx/awesome-react/blob/master/M of MVC) library](https://github.com/enaqx/awesome-react/blob/master/https://github.com/gritzko/swarm)
+* [swarm - JavaScript replicated model (https://github.com/enaqx/awesome-react/blob/master/M of MVC) library](https://github.com/gritzko/swarm)
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 ##### Data Managing
@@ -836,7 +836,7 @@ A collection of awesome things regarding React ecosystem.
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [react-cosmos - DX tool for designing reusable React components](https://github.com/react-cosmos/react-cosmos)
 * [Storybook - Development environment for UI components](https://github.com/storybooks/storybook)
-* [generator-sui-react - A yeoman generator for Schibsted User Interface (https://github.com/enaqx/awesome-react/blob/master/SUI) ReactJS components](https://github.com/enaqx/awesome-react/blob/master/https://github.com/SUI-Components/generator-sui-react)
+* [generator-sui-react - A yeoman generator for Schibsted User Interface (https://github.com/enaqx/awesome-react/blob/master/SUI) ReactJS components](https://github.com/https://github.com/enaqx/awesome-react/blob/master/SUI-Components/generator-sui-react)
 * [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
 * [Docz - An incredible environment to build components and generate beautiful and highly customizable documentation using MDX](https://github.com/pedronauck/docz)
 
@@ -889,8 +889,8 @@ A collection of awesome things regarding React ecosystem.
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 * [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-* [The Beauty Of React Native: Building Your First iOS App With JavaScript (https://github.com/enaqx/awesome-react/blob/master/Part 1)](https://github.com/enaqx/awesome-react/blob/master/https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
-* [The Beauty Of React Native: Building Your First iOS App With JavaScript (https://github.com/enaqx/awesome-react/blob/master/Part 2)](https://github.com/enaqx/awesome-react/blob/master/https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
+* [The Beauty Of React Native: Building Your First iOS App With JavaScript (https://github.com/enaqx/awesome-react/blob/master/Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
+* [The Beauty Of React Native: Building Your First iOS App With JavaScript (https://github.com/enaqx/awesome-react/blob/master/Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
 * [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
@@ -909,7 +909,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Boilerplates
 * [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
-* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (https://github.com/enaqx/awesome-react/blob/master/88% coverage)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/bartonhammond/snowflake)
+* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (https://github.com/enaqx/awesome-react/blob/master/88% coverage)](https://github.com/bartonhammond/snowflake)
 * [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
 
 #### React Native Awesome Components
@@ -1206,8 +1206,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
-* [Learn ReactJS (https://github.com/enaqx/awesome-react/blob/master/make a Pokedex!) - part 1](https://github.com/enaqx/awesome-react/blob/master/https://www.youtube.com/watch?v=A9xmIxYBGf4)
-* [Learn ReactJS (https://github.com/enaqx/awesome-react/blob/master/make a Pokedex!) - part 2](https://github.com/enaqx/awesome-react/blob/master/https://www.youtube.com/watch?v=lNqnZ58YGE0)
+* [Learn ReactJS (https://github.com/enaqx/awesome-react/blob/master/make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
+* [Learn ReactJS (https://github.com/enaqx/awesome-react/blob/master/make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
 * [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
 * [React.js Components  - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
 * [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
@@ -1273,7 +1273,7 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Example Apps
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-* [fil -  A playground for in-browser interpreters (https://github.com/enaqx/awesome-react/blob/master/Redux)](https://github.com/enaqx/awesome-react/blob/master/https://github.com/fatiherikli/fil)
+* [fil -  A playground for in-browser interpreters (https://github.com/enaqx/awesome-react/blob/master/Redux)](https://github.com/fatiherikli/fil)
 * [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
@@ -1283,7 +1283,7 @@ A collection of awesome things regarding React ecosystem.
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 * [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
 * [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
-* [Responsive React 'The Movie Database' (https://github.com/enaqx/awesome-react/blob/master/TMDb) App](https://github.com/enaqx/awesome-react/blob/master/https://github.com/SKempin/reactjs-tmdb-app)
+* [Responsive React 'The Movie Database' (https://github.com/enaqx/awesome-react/blob/master/TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
 * [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
 
 ---

@@ -66,14 +66,14 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## Books
 
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://books.google.by/books/about/Apache_JMeter.html?id=nX8oKIEvUcYC) by Emily H. Halili (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.packtpub.com/networking-and-servers/apache-jmeter)) - A practical beginner's guide to automated testing and performance measurement for your websites.
-- [Performance Testing with JMeter 2.9](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://books.google.by/books?id=fpWmv3wPT64C) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.packtpub.com/application-development/performance-testing-jmeter-29)) - Guide to test web applications using Apache JMeter with practical, hands-on examples.
-- [Performance Testing with JMeter, 2nd Edition](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://books.google.by/books?id=6ditCAAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
-- [Performance Testing with JMeter 3, 3rd Edition](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://books.google.by/books?id=BedDDwAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
-- [JMeter Cookbook](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.packtpub.com/application-development/jmeter-cookbook)) - 70 insightful and practical recipes to help successfully use Apache JMeter.
-- [JMeter by Example](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://leanpub.com/jmeterbyexample) by Sai Matam and Jagdeep Jain (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://leanpub.com/jmeterbyexample)) - A simple, practical, step-by-step tutorial to measure the performance of websites.
-- [Maîtriser JMeter: Du Test de charge à Devops](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (https://github.com/aliesbelik/awesome-jmeter/blob/master/Milamber) and Philippe Mouawad (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) - french version
-- [Master Apache JMeter: From load testing to DevOps](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://leanpub.com/master-jmeter-from-load-test-to-devops) by Antonio Gomes Rodrigues, Bruno Demion (https://github.com/aliesbelik/awesome-jmeter/blob/master/Milamber) and Philippe Mouawad (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://leanpub.com/master-jmeter-from-load-test-to-devops)) - english version
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.by/books/about/Apache_JMeter.html?id=nX8oKIEvUcYC) by Emily H. Halili (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)) - A practical beginner's guide to automated testing and performance measurement for your websites.
+- [Performance Testing with JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)) - Guide to test web applications using Apache JMeter with practical, hands-on examples.
+- [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
+- [Performance Testing with JMeter 3, 3rd Edition](https://books.google.by/books?id=BedDDwAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
+- [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook)) - 70 insightful and practical recipes to help successfully use Apache JMeter.
+- [JMeter by Example](https://leanpub.com/jmeterbyexample) by Sai Matam and Jagdeep Jain (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://leanpub.com/jmeterbyexample)) - A simple, practical, step-by-step tutorial to measure the performance of websites.
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (https://github.com/aliesbelik/awesome-jmeter/blob/master/Milamber) and Philippe Mouawad (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) - french version
+- [Master Apache JMeter: From load testing to DevOps](https://leanpub.com/master-jmeter-from-load-test-to-devops) by Antonio Gomes Rodrigues, Bruno Demion (https://github.com/aliesbelik/awesome-jmeter/blob/master/Milamber) and Philippe Mouawad (https://github.com/aliesbelik/awesome-jmeter/blob/master/[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops)) - english version
 
 ## Trainings & Courses
 
@@ -109,7 +109,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/edit?usp=sharing) - List of available plugins and extensions.
 - [JMeter Plugins](http://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter.
 - [UBIK Load Pack](http://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-- [AtlantBH Custom JMeter Components](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://github.com/ATLANTBH/jmeter-components/) - Set of JMeter extensions developed by AtlantBH (https://github.com/aliesbelik/awesome-jmeter/blob/master/currently included into JMeter Plugins project).
+- [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/) - Set of JMeter extensions developed by AtlantBH (https://github.com/aliesbelik/awesome-jmeter/blob/master/currently included into JMeter Plugins project).
 
 ## CI
 
@@ -129,7 +129,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
         - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
         - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
         - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
-        - JMeter Continuous Performance Testing (https://github.com/aliesbelik/awesome-jmeter/blob/master/JMeter + Ant + Jenkins): [part 1](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
+        - JMeter Continuous Performance Testing (https://github.com/aliesbelik/awesome-jmeter/blob/master/JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
         - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
     - Bamboo
         - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
@@ -220,9 +220,9 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ### Streaming Protocols
 
-- [Easy and realistic Load Testing of HTTP Live Streaming (https://github.com/aliesbelik/awesome-jmeter/blob/master/HLS) with Apache JMeter](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+- [Easy and realistic Load Testing of HTTP Live Streaming (https://github.com/aliesbelik/awesome-jmeter/blob/master/HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
-- [How to Load Test HTTP Live Media Streaming (https://github.com/aliesbelik/awesome-jmeter/blob/master/HLS) with JMeter](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
+- [How to Load Test HTTP Live Media Streaming (https://github.com/aliesbelik/awesome-jmeter/blob/master/HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [Load testing HLS with Ruby JMeter](https://smoothscaling.com/load-testing-hls-with-ruby-jmeter-85b9b1e6db72)
 
 ### Mobile Apps
@@ -248,9 +248,9 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
-- [Smooth Scaling (https://github.com/aliesbelik/awesome-jmeter/blob/master/Flood.io) Blog](https://github.com/aliesbelik/awesome-jmeter/blob/master/https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
+- [Smooth Scaling (https://github.com/aliesbelik/awesome-jmeter/blob/master/Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
-- [JMeter Expert Blog](https://github.com/aliesbelik/awesome-jmeter/blob/master/http://jmeter-expert.blogspot.com/) - JMeterExpert blog (https://github.com/aliesbelik/awesome-jmeter/blob/master/not updated).
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (https://github.com/aliesbelik/awesome-jmeter/blob/master/not updated).
 - [OctoPerf Blog](https://octoperf.com/blog) - OctoPerf blog about JMeter and load testing.
 - [Abstracta](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 

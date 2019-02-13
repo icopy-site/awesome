@@ -17,8 +17,8 @@ maybe not widely known) features or are awesome in some other way.
 ## Standalone Code Points
 
 * The code points of the Unicode blocks [Box
-    Drawing](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/box_drawing) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2500 to U+257F) and [Block
-    Elements](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/block_elements) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2580 to U+259F) cover
+    Drawing](https://codepoints.net/box_drawing) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2500 to U+257F) and [Block
+    Elements](https://codepoints.net/block_elements) (https://github.com/Codepoints/awesome-codepoints/blob/master/U+2580 to U+259F) cover
     most of your monospace command-line visualization needs.
 
         ╭───────╮
@@ -45,7 +45,7 @@ maybe not widely known) features or are awesome in some other way.
     this code point steps into the breach.
 * [U+1D455](https://codepoints.net/U+1D455) is missing. It would be an italic
     small “h”. It was not encoded, because it would be identical to the Planck
-    constant ℎ (https://github.com/Codepoints/awesome-codepoints/blob/master/[U+210E](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/U+210E)).
+    constant ℎ (https://github.com/Codepoints/awesome-codepoints/blob/master/[U+210E](https://codepoints.net/U+210E)).
 
 ## Code Points that Affect Others
 
@@ -108,7 +108,7 @@ maybe not widely known) features or are awesome in some other way.
 
 * [U+00A0](https://codepoints.net/U+00A0) NO-BREAK SPACE - force adjacent
     characters to stick together. Well known as `&nbsp;` in HTML.
-* [U+00AD](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/U+00AD) SOFT HYPHEN - (https://github.com/Codepoints/awesome-codepoints/blob/master/in HTML: `&shy;`)
+* [U+00AD](https://codepoints.net/U+00AD) SOFT HYPHEN - (https://github.com/Codepoints/awesome-codepoints/blob/master/in HTML: `&shy;`)
     like ZERO WIDTH SPACE, but show a hyphen if (https://github.com/Codepoints/awesome-codepoints/blob/master/and only if) a break occurs.
 * [U+200B](https://codepoints.net/U+200B) ZERO WIDTH SPACE - the inverse to
     U+00A0: create no space, but allow word breaking.
@@ -134,7 +134,7 @@ different types of whitespace.
 ## Record Holders and Extremes
 
 * [U+0000](https://codepoints.net/U+0000) &lt;control> - first code point.
-* [U+10FFFF](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/U+10FFFF) (https://github.com/Codepoints/awesome-codepoints/blob/master/_non-character_) - last code
+* [U+10FFFF](https://codepoints.net/U+10FFFF) (https://github.com/Codepoints/awesome-codepoints/blob/master/_non-character_) - last code
     point. The whole rest of its plane apart from U+10FFFE, the code points
     in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
     be never filled by a future Unicode standard.
@@ -168,7 +168,7 @@ different types of whitespace.
     leads with a whopping 73 entries of similar looking glyphs, followed by
     [U+006C](https://codepoints.net/U+006C) LATIN SMALL LETTER L with 70
     entries.
-* [U+1F4C0](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel (https://github.com/Codepoints/awesome-codepoints/blob/master/[source](https://github.com/Codepoints/awesome-codepoints/blob/master/https://twitter.com/ken_lunde/status/960188623390846976))
+* [U+1F4C0](https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel (https://github.com/Codepoints/awesome-codepoints/blob/master/[source](https://twitter.com/ken_lunde/status/960188623390846976))
 
 ## For Funsies
 
@@ -202,7 +202,7 @@ For plain-text gaming, Unicode is well equipped with several complete sets:
 * [Die faces](https://codepoints.net/U+2680..U+2685) and a nice [die
     emoji](https://codepoints.net/U+1F3B2).
 * [Go pieces](https://codepoints.net/U+2686..U+2689).
-* [Draughts (https://github.com/Codepoints/awesome-codepoints/blob/master/or checkers) pieces](https://github.com/Codepoints/awesome-codepoints/blob/master/https://codepoints.net/U+26C0..U+26C3).
+* [Draughts (https://github.com/Codepoints/awesome-codepoints/blob/master/or checkers) pieces](https://codepoints.net/U+26C0..U+26C3).
 * [Shogi pieces](https://codepoints.net/U+2616,U+2617,U+26C9,U+26CA), a
     [Japanese variant of chess](https://en.wikipedia.org/wiki/Shogi).
 * [Domino tiles](https://codepoints.net/domino_tiles)

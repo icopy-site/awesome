@@ -5,7 +5,7 @@
 
 ### __Tools:__
 
-* [git-tip](https://github.com/git-tips/tips/blob/master/https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. (https://github.com/git-tips/tips/blob/master/[Here in Docker container](https://github.com/git-tips/tips/blob/master/https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. (https://github.com/git-tips/tips/blob/master/[Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (https://github.com/git-tips/tips/blob/master/Apple Git-66)`.
 
@@ -1055,7 +1055,7 @@ git rev-list --count <branch-name>
 
 ## Alias: git undo
 ```sh
-git config --global alias.undo '!f(https://github.com/git-tips/tips/blob/master/) { git reset --hard $(https://github.com/git-tips/tips/blob/master/git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
+git config --global alias.undo '!f() { git reset --hard $(https://github.com/git-tips/tips/blob/master/git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
 ```
 
 ## Add object notes
@@ -1136,7 +1136,7 @@ git log --since='FEB 1 2017' --until='FEB 14 2017'
 
 ## Exclude author from logs
 ```sh
-git log --perl-regexp --author='^(https://github.com/git-tips/tips/blob/master/(https://github.com/git-tips/tips/blob/master/?!excluded-author-regex).*)
+git log --perl-regexp --author='^(https://github.com/git-tips/tips/blob/master/(?!excluded-author-regex).*)
 
 ```
 

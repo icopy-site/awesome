@@ -34,8 +34,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
 - [Check All](https://chrome.google.com/webstore/detail/check-all/hcajloodonmplhncgandpgjgagckkdhn) - "Select All" is often not available. Why not bring your own?
-- [MyWords](https://github.com/TheJambo/awesome-testing/blob/master/https://addons.mozilla.org/en-US/firefox/addon/mywords/) - Handy extension that can be used to save common snippets (https://github.com/TheJambo/awesome-testing/blob/master/Jira tables, test data etc.) you use often for easy typing.
-- [Xmind](https://github.com/TheJambo/awesome-testing/blob/master/http://www.xmind.net/) - The best (https://github.com/TheJambo/awesome-testing/blob/master/free) Mindmapping tool for documenting your tests.
+- [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) - Handy extension that can be used to save common snippets (https://github.com/TheJambo/awesome-testing/blob/master/Jira tables, test data etc.) you use often for easy typing.
+- [Xmind](http://www.xmind.net/) - The best (https://github.com/TheJambo/awesome-testing/blob/master/free) Mindmapping tool for documenting your tests.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
@@ -49,11 +49,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - My go to book for people brand new to testing.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - A very good book on structuring Exploratory Testing and designing tests.
-- [The Domain Testing Workbook](https://github.com/TheJambo/awesome-testing/blob/master/https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (https://github.com/TheJambo/awesome-testing/blob/master/also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (https://github.com/TheJambo/awesome-testing/blob/master/also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - An incredibly useful book for usability testing.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
-- [UI is Communication](https://github.com/TheJambo/awesome-testing/blob/master/https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (https://github.com/TheJambo/awesome-testing/blob/master/UI and Usability Testing).
-- [Thinking, Fast and Slow](https://github.com/TheJambo/awesome-testing/blob/master/https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (https://github.com/TheJambo/awesome-testing/blob/master/experiments == tests).
+- [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (https://github.com/TheJambo/awesome-testing/blob/master/UI and Usability Testing).
+- [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (https://github.com/TheJambo/awesome-testing/blob/master/experiments == tests).
 
 ## Training (https://github.com/TheJambo/awesome-testing/blob/master/Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
@@ -61,7 +61,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
-- [BBST Testing Courses](https://github.com/TheJambo/awesome-testing/blob/master/http://testingeducation.org/BBST/) - The famous Black Box Software Testing (https://github.com/TheJambo/awesome-testing/blob/master/BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [https://github.com/TheJambo/awesome-testing/blob/master/BBST Testing Courses](http://testingeducation.org/https://github.com/TheJambo/awesome-testing/blob/master/BBST/) - The famous Black Box Software Testing (https://github.com/TheJambo/awesome-testing/blob/master/BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
 ## Blogs
 - [James Bach](http://www.satisfice.com/blog/)

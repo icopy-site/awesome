@@ -141,7 +141,7 @@ String formatting of date is hard.
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
 Provides intricate examples that are unsuspected valid email addresses
 according the RFC-822.
-- [So you think you can validate email addresses (https://github.com/kdeldycke/awesome-falsehood/blob/master/FOSDEM 2018)](https://github.com/kdeldycke/awesome-falsehood/blob/master/https://fosdem.org/2018/schedule/event/email_address_quiz/) -
+- [So you think you can validate email addresses (https://github.com/kdeldycke/awesome-falsehood/blob/master/FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) -
 Presentation of edge-case email addresses and why you should not use regex to parse them.
 
 

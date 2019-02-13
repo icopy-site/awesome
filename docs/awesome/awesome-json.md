@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Applications
 **OS X**
-* [Visual JSON](https://github.com/burningtree/awesome-json/blob/master/https://itunes.apple.com/app/id488709442) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
+* [Visual JSON](https://itunes.apple.com/app/id488709442) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ## Binary Serialization
@@ -49,18 +49,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Browser Extensions
 **Chrome**
-* [JSON Formatter](https://github.com/burningtree/awesome-json/blob/master/https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
-* [JSON Viewer](https://github.com/burningtree/awesome-json/blob/master/https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
-* [JSON Browser](https://github.com/burningtree/awesome-json/blob/master/https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/platy/json-browser/)) - Browse a JSON web with the help of JSON schemas.
-* [JSON Finder](https://github.com/burningtree/awesome-json/blob/master/https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
+* [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
+* [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/platy/json-browser/)) - Browse a JSON web with the help of JSON schemas.
+* [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
 
 **Firefox**
-* [JSONView](https://github.com/burningtree/awesome-json/blob/master/https://addons.mozilla.org/en-US/firefox/addon/jsonview/) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
-* [JSON-DataView](https://github.com/burningtree/awesome-json/blob/master/https://addons.mozilla.org/en-US/firefox/addon/json-dataview/) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
+* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
+* [JSON-DataView](https://addons.mozilla.org/en-US/firefox/addon/json-dataview/) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
 
 **Safari**
-* [JSONAce](https://github.com/burningtree/awesome-json/blob/master/https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
-* [JSONView](https://github.com/burningtree/awesome-json/blob/master/https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/burningtree/awesome-json/blob/master/https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
+* [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
+* [JSONView](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) (https://github.com/burningtree/awesome-json/blob/master/[github](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ## Command-line tools
 * [fx](https://github.com/antonmedv/fx) - A interactive terminal tool.
@@ -73,21 +73,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [gron](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
 * [jid](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
-* [jv](https://github.com/burningtree/awesome-json/blob/master/https://github.com/maxzender/jv) - jv (https://github.com/burningtree/awesome-json/blob/master/for jsonviewer) helps you view your JSON.
+* [jv](https://github.com/maxzender/jv) - jv (https://github.com/burningtree/awesome-json/blob/master/for jsonviewer) helps you view your JSON.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
-* [lowdb](https://github.com/burningtree/awesome-json/blob/master/https://github.com/typicode/lowdb) - Flat file database built on lodash API. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [Lawnchair](https://github.com/burningtree/awesome-json/blob/master/https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSON ODM](https://github.com/burningtree/awesome-json/blob/master/https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [lowdb](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [Lawnchair](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSON ODM](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 * [Kinto](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
 * [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
-* [RxDB](https://github.com/burningtree/awesome-json/blob/master/https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSONlite](https://github.com/burningtree/awesome-json/blob/master/https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (https://github.com/burningtree/awesome-json/blob/master/Bash)
+* [RxDB](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSONlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (https://github.com/burningtree/awesome-json/blob/master/Bash)
 
 ## Datasets
 * [country.io](http://country.io/data/) - Various country related datasets, as JSON inc currency, country codes, names and more
@@ -95,22 +95,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
-* [getCountries(https://github.com/burningtree/awesome-json/blob/master/)](https://github.com/burningtree/awesome-json/blob/master/http://peric.github.io/GetCountries/) - Generator for custom Countries data.
+* [getCountries()](http://peric.github.io/GetCountries/) - Generator for custom Countries data.
 
 ## Data modeling
-* [JSONModel](https://github.com/burningtree/awesome-json/blob/master/https://github.com/jsonmodel/jsonmodel ) - Magical Data Modelling Framework. (https://github.com/burningtree/awesome-json/blob/master/Objective-C)
+* [JSONModel](https://github.com/jsonmodel/jsonmodel ) - Magical Data Modelling Framework. (https://github.com/burningtree/awesome-json/blob/master/Objective-C)
 
 ## Data generation
 * [jsonymize](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
-* [dyson](https://github.com/burningtree/awesome-json/blob/master/https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (https://github.com/burningtree/awesome-json/blob/master/node.js)
+* [dyson](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (https://github.com/burningtree/awesome-json/blob/master/node.js)
 
 ## Differencing
 * [JSONPatch](http://jsonpatch.com/) - A format for describing changes to a document.
-* [JSON-Patch](https://github.com/burningtree/awesome-json/blob/master/https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (https://github.com/burningtree/awesome-json/blob/master/RFC 6902). (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [jiff](https://github.com/burningtree/awesome-json/blob/master/https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [json-patch-php](https://github.com/burningtree/awesome-json/blob/master/https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (https://github.com/burningtree/awesome-json/blob/master/IETF RFC 6902) (https://github.com/burningtree/awesome-json/blob/master/PHP)
-* [dffptch](https://github.com/burningtree/awesome-json/blob/master/https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [jsondiffpatch](https://github.com/burningtree/awesome-json/blob/master/https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean https://github.com/burningtree/awesome-json/blob/master/Javascript implementation of the JSON-Patch standard (https://github.com/burningtree/awesome-json/blob/master/RFC 6902). (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [jiff](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [json-patch-php](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (https://github.com/burningtree/awesome-json/blob/master/IETF RFC 6902) (https://github.com/burningtree/awesome-json/blob/master/PHP)
+* [dffptch](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 
 ## Editors
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
@@ -118,11 +118,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Format Extensions
 * [GeoJSON](http://geojson.org/) - A geospatial data interchange format.
 * [JSON-LD](https://json-ld.org/) - A lightweight Linked Data format.
-* [JSON-RPC](https://github.com/burningtree/awesome-json/blob/master/https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (https://github.com/burningtree/awesome-json/blob/master/RPC) protocol.
+* [JSON-https://github.com/burningtree/awesome-json/blob/master/RPC](https://www.jsonrpc.org/) - A stateless, light-weight remote procedure call (https://github.com/burningtree/awesome-json/blob/master/RPC) protocol.
 * [JSONP](https://en.wikipedia.org/wiki/JSONP) - Safer cross-domain Ajax with JSON-P/JSONP.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
-* [JSON6](https://github.com/burningtree/awesome-json/blob/master/https://github.com/d3x0r/json6) - JSON for Humans (https://github.com/burningtree/awesome-json/blob/master/ES6).
+* [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (https://github.com/burningtree/awesome-json/blob/master/ES6).
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
@@ -132,18 +132,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
 * [JSON Table Schema](https://frictionlessdata.io/docs/json-table-schema/) - a simple schema for tabular data
-* [NDJSON](https://github.com/burningtree/awesome-json/blob/master/http://ndjson.org/) (https://github.com/burningtree/awesome-json/blob/master/Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+* [NDJSON](http://ndjson.org/) (https://github.com/burningtree/awesome-json/blob/master/Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
-* [JSON Meta Application Protocol (https://github.com/burningtree/awesome-json/blob/master/JMAP)](https://github.com/burningtree/awesome-json/blob/master/https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
+* [JSON Meta Application Protocol (https://github.com/burningtree/awesome-json/blob/master/JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 * [J<sub>ack</sub>SON: JSON secret keeper](https://github.com/r0hi7/jackson) - JSONic way of storing secrets in config file.
 
 ## Frontend components
-* [JSON editor jQuery plugin](https://github.com/burningtree/awesome-json/blob/master/https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
-* [jqTree](https://github.com/burningtree/awesome-json/blob/master/http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
-* [jsTree](https://github.com/burningtree/awesome-json/blob/master/https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
-* [Dynatable.js](https://github.com/burningtree/awesome-json/blob/master/https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
-* [JSON Formatter](https://github.com/burningtree/awesome-json/blob/master/https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
-* [react-jsonschema-form](https://github.com/burningtree/awesome-json/blob/master/https://mozilla-services.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (https://github.com/burningtree/awesome-json/blob/master/React)
+* [JSON editor https://github.com/burningtree/awesome-json/blob/master/jQuery plugin](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
+* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/) - A https://github.com/burningtree/awesome-json/blob/master/React component for building Web forms from JSON Schema. (https://github.com/burningtree/awesome-json/blob/master/React)
 
 ## Libraries
 **C**
@@ -217,8 +217,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
 
 ## Linters
-* [jsonlint](https://github.com/burningtree/awesome-json/blob/master/https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSON Lint](https://github.com/burningtree/awesome-json/blob/master/https://github.com/Seldaek/jsonlint) - PHP linter. (https://github.com/burningtree/awesome-json/blob/master/PHP)
+* [jsonlint](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - https://github.com/burningtree/awesome-json/blob/master/PHP linter. (https://github.com/burningtree/awesome-json/blob/master/PHP)
 
 ## Online tools
 * [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
@@ -262,16 +262,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Supersets
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
 * [HanSON](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
-* [μson](https://github.com/burningtree/awesome-json/blob/master/https://github.com/burningtree/uson) (https://github.com/burningtree/awesome-json/blob/master/uson) - a shorthand for JSON.
+* [μson](https://github.com/burningtree/https://github.com/burningtree/awesome-json/blob/master/uson) (https://github.com/burningtree/awesome-json/blob/master/uson) - a shorthand for JSON.
 * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) - Human-Optimized Config Object Notation.
-* [ASON](https://github.com/burningtree/awesome-json/blob/master/http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (https://github.com/burningtree/awesome-json/blob/master/draft).
+* [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (https://github.com/burningtree/awesome-json/blob/master/draft).
 * [TOML](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
 * [HCL](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ## Tutorials
 * [Introducing JSON](http://json.org/)
-* [JSON Tutorial](https://github.com/burningtree/awesome-json/blob/master/https://www.w3resource.com/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (https://github.com/burningtree/awesome-json/blob/master/JSON).
-* [JSON - Rosetta Code](https://github.com/burningtree/awesome-json/blob/master/http://rosettacode.org/wiki/JSON) - Basic operations in different languages (https://github.com/burningtree/awesome-json/blob/master/57 languages in this moment).
+* [https://github.com/burningtree/awesome-json/blob/master/JSON Tutorial](https://www.w3resource.com/https://github.com/burningtree/awesome-json/blob/master/JSON/introduction.php) - An introductory tutorial on JavaScript Object Notation (https://github.com/burningtree/awesome-json/blob/master/JSON).
+* [JSON - Rosetta Code](http://rosettacode.org/wiki/JSON) - Basic operations in different languages (https://github.com/burningtree/awesome-json/blob/master/57 languages in this moment).
 * [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 * [jq Primer: Munging JSON Data](http://andrew.gibiansky.com/) - How jq can be used to process JSON files just as effectively as traditional Unix tools.
 
@@ -287,12 +287,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Templates
 * [Jsonnet](https://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
-* [rabl](https://github.com/burningtree/awesome-json/blob/master/https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (https://github.com/burningtree/awesome-json/blob/master/Ruby)
-* [json2html](https://github.com/burningtree/awesome-json/blob/master/http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (https://github.com/burningtree/awesome-json/blob/master/Ruby)
+* [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 
 ## Testing
-* [JSON Test](https://github.com/burningtree/awesome-json/blob/master/http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (https://github.com/burningtree/awesome-json/blob/master/JSON).
-* [JSONassert](https://github.com/burningtree/awesome-json/blob/master/https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (https://github.com/burningtree/awesome-json/blob/master/Java)
+* [https://github.com/burningtree/awesome-json/blob/master/JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (https://github.com/burningtree/awesome-json/blob/master/JSON).
+* [JSONassert](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (https://github.com/burningtree/awesome-json/blob/master/Java)
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 
 ## Text Editor Plugins
@@ -300,49 +300,49 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Reformat](https://github.com/gongo/json-reformat) - Reformat tool.
 
 **Vim**
-* [vim-json](https://github.com/burningtree/awesome-json/blob/master/https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (https://github.com/burningtree/awesome-json/blob/master/non-JS) warnings, quote concealing. Pathogen-friendly.
+* [vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (https://github.com/burningtree/awesome-json/blob/master/non-JS) warnings, quote concealing. Pathogen-friendly.
 
 ## Transformations
-* [json-sharp](https://github.com/burningtree/awesome-json/blob/master/https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [json2json](https://github.com/burningtree/awesome-json/blob/master/https://github.com/joelvh/json2json) - Transform (https://github.com/burningtree/awesome-json/blob/master/reformat) structures from one to another. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [trans](https://github.com/burningtree/awesome-json/blob/master/https://github.com/gabesoft/trans) - The ultimate object transformer. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [osmtogeojson](https://github.com/burningtree/awesome-json/blob/master/https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [json-sharp](https://github.com/globocom/json-sharp) - https://github.com/burningtree/awesome-json/blob/master/Javascript tool to process operations on pure JSON objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [json2json](https://github.com/joelvh/json2json) - Transform (https://github.com/burningtree/awesome-json/blob/master/reformat) structures from one to another. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [trans](https://github.com/gabesoft/trans) - The ultimate object transformer. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [osmtogeojson](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Fast XML to JSON and vice versa javascript/JSON conversion.
-* [x2js](https://github.com/burningtree/awesome-json/blob/master/https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSONC](https://github.com/burningtree/awesome-json/blob/master/https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JsonMapper](https://github.com/burningtree/awesome-json/blob/master/https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (https://github.com/burningtree/awesome-json/blob/master/PHP)
-* [SassyJSON](https://github.com/burningtree/awesome-json/blob/master/https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (https://github.com/burningtree/awesome-json/blob/master/Sass)
+* [x2js](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSONC](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested structures onto https://github.com/burningtree/awesome-json/blob/master/PHP classes (https://github.com/burningtree/awesome-json/blob/master/PHP)
+* [https://github.com/burningtree/awesome-json/blob/master/SassyJSON](https://github.com/HugoGiraudel/https://github.com/burningtree/awesome-json/blob/master/SassyJSON) - https://github.com/burningtree/awesome-json/blob/master/Sass-powered API. (https://github.com/burningtree/awesome-json/blob/master/Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
-* [JSONtoFoundation](https://github.com/burningtree/awesome-json/blob/master/https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (https://github.com/burningtree/awesome-json/blob/master/Swift)
-* [fanci](https://github.com/burningtree/awesome-json/blob/master/https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (https://github.com/burningtree/awesome-json/blob/master/node.js)
-* [Pinch](https://github.com/burningtree/awesome-json/blob/master/https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [deepjson](https://github.com/burningtree/awesome-json/blob/master/http://deepjson.jacoborus.codes/) - A better way to load big json config files. (https://github.com/burningtree/awesome-json/blob/master/node.js)
-* [jsontl](https://github.com/burningtree/awesome-json/blob/master/https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (https://github.com/burningtree/awesome-json/blob/master/node.js)
+* [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (https://github.com/burningtree/awesome-json/blob/master/Swift)
+* [fanci](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (https://github.com/burningtree/awesome-json/blob/master/node.js)
+* [Pinch](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (https://github.com/burningtree/awesome-json/blob/master/node.js)
+* [jsontl](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (https://github.com/burningtree/awesome-json/blob/master/node.js)
 * [json-transforms](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
-* [normalizr](https://github.com/burningtree/awesome-json/blob/master/https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 * [JSON-populate](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
-* [Sawmill](https://github.com/burningtree/awesome-json/blob/master/https://github.com/logzio/sawmill) - JSON transformation library (https://github.com/burningtree/awesome-json/blob/master/Java)
+* [Sawmill](https://github.com/logzio/sawmill) - JSON transformation library (https://github.com/burningtree/awesome-json/blob/master/Java)
 * [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
-* [JSON Mask](https://github.com/burningtree/awesome-json/blob/master/https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSON Mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
-* [ObjectPath](https://github.com/burningtree/awesome-json/blob/master/http://objectpath.org/) - The agile query language for semi-structured data. (https://github.com/burningtree/awesome-json/blob/master/Python)
-* [DefiantJS](https://github.com/burningtree/awesome-json/blob/master/http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSONSelect](https://github.com/burningtree/awesome-json/blob/master/https://github.com/lloyd/JSONSelect) - CSS-like selectors. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
-* [JSONPath](https://github.com/burningtree/awesome-json/blob/master/https://goessner.net/articles/JsonPath/) - XPath implementation. (https://github.com/burningtree/awesome-json/blob/master/Javascript/PHP)
+* [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (https://github.com/burningtree/awesome-json/blob/master/Python)
+* [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSONSelect](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (https://github.com/burningtree/awesome-json/blob/master/Javascript)
+* [JSONPath](https://goessner.net/articles/JsonPath/) - XPath implementation. (https://github.com/burningtree/awesome-json/blob/master/Javascript/PHP)
 * [searchjs](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 * [json-rel](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 * [JSONata](http://jsonata.org/) - Query and transformation language used in Node-RED, supports function expressions.
 
 ## JSON Schema Frontend components
-* [JSON Editor](https://github.com/burningtree/awesome-json/blob/master/https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
-* [angular-schema-form](https://github.com/burningtree/awesome-json/blob/master/https://github.com/json-schema-form/angular-schema-form) - Generate forms. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
-* [JSON Schema View](https://github.com/burningtree/awesome-json/blob/master/https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
-* [Angular JSON Schema Form](https://github.com/burningtree/awesome-json/blob/master/https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
-* [AlpacaJS](https://github.com/burningtree/awesome-json/blob/master/http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [JSON Editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (https://github.com/burningtree/awesome-json/blob/master/jQuery)
+* [angular-schema-form](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
+* [JSON Schema View](https://github.com/mohsen1/json-schema-view) - An https://github.com/burningtree/awesome-json/blob/master/AngularJS directive for rendering JSON Schema in HTML (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
+* [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (https://github.com/burningtree/awesome-json/blob/master/AngularJS)
+* [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, https://github.com/burningtree/awesome-json/blob/master/jQuery Mobile, https://github.com/burningtree/awesome-json/blob/master/jQuery UI and HTML (https://github.com/burningtree/awesome-json/blob/master/jQuery)
 
 
 ## JSON Schema Tools
@@ -385,7 +385,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Python**
 * [jsonschema](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
-* [JSON Schema Toolkit](https://github.com/burningtree/awesome-json/blob/master/https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (https://github.com/burningtree/awesome-json/blob/master/recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
+* [JSON Schema Toolkit](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (https://github.com/burningtree/awesome-json/blob/master/recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.

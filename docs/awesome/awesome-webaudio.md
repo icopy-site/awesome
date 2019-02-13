@@ -53,7 +53,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
 - [Tuna](https://github.com/Theodeus/tuna) - An audio effects library.
-- [web-audio-recorder-js](https://github.com/notthetup/awesome-webaudio/blob/master/https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (https://github.com/notthetup/awesome-webaudio/blob/master/Web Audio API AudioNode object) and encodes to audio file image (https://github.com/notthetup/awesome-webaudio/blob/master/Blob object).
+- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (https://github.com/notthetup/awesome-webaudio/blob/master/Web Audio API AudioNode object) and encodes to audio file image (https://github.com/notthetup/awesome-webaudio/blob/master/Blob object).
 - [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
@@ -81,7 +81,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 - [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
-- [GridSound](https://github.com/notthetup/awesome-webaudio/blob/master/https://gridsound.github.io) - A work-in-progress DAW (https://github.com/notthetup/awesome-webaudio/blob/master/Digital Audio Workstation).
+- [GridSound](https://gridsound.github.io) - A work-in-progress DAW (https://github.com/notthetup/awesome-webaudio/blob/master/Digital Audio Workstation).
 - [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
 - [AudioNodes](https://audionodes.com) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
@@ -96,8 +96,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) - A reference that aims to be easy to understand for those who know some JavaScript and basic audio principles.
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
-- [Web Audio Perf](https://github.com/notthetup/awesome-webaudio/blob/master/https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (https://github.com/notthetup/awesome-webaudio/blob/master/from WAC2016).
-- [Percussion Synthesis Using Web Audio](https://github.com/notthetup/awesome-webaudio/blob/master/https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (https://github.com/notthetup/awesome-webaudio/blob/master/from WAC2016).
+- [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (https://github.com/notthetup/awesome-webaudio/blob/master/from WAC2016).
+- [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (https://github.com/notthetup/awesome-webaudio/blob/master/from WAC2016).
 
 ### Books
 - [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.

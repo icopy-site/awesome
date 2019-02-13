@@ -1,5 +1,5 @@
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/holman)'s [Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet/blob/master/http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://vimeo.com/72955426) talk at WDCNZ 2013 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/more-git-and-github-secrets)).
+A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
 
@@ -188,7 +188,7 @@ https://github.com/rails/rails/compare/byroot:master...master
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-Add `.pibb` to the end of any Gist URL (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[like this](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
+Add `.pibb` to the end of any Gist URL (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
 
 Gists can be treated as a repository so they can be cloned like any other:
 
@@ -828,7 +828,7 @@ $ git log --all --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/t
 
 produces:
 
-![git log --all --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/auto)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --date=relative](https://github.com/tiimgreen/github-cheat-sheet/blob/master/http://i.imgur.com/58eOtkW.png)
+![git log --all --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/auto)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --date=relative](http://i.imgur.com/58eOtkW.png)
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
@@ -969,7 +969,7 @@ Some useful aliases include:
 | `git branches` | `git branch -a` | `git config --global alias.branches 'branch -a'` |
 | `git cleanup` | `git branch --merged \| grep -v '*' \| xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"` |
 | `git remotes` | `git remote -v` | `git config --global alias.remotes 'remote -v'` |
-| `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --"` |
+| `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/yellow)%d%Creset %s %Cgreen(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/%cr) %C(https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/tiimgreen/github-cheat-sheet/blob/master/bold blue)<%an>%Creset' --abbrev-commit --"` |
 
 *Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig*
 

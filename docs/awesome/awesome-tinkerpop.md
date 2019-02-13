@@ -27,8 +27,8 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [tinkergraph-js](https://github.com/jbmusso/tinkergraph-js) - A pure JavaScript implementation of TinkerPop's TinkerGraph in-memory graph database.
 * [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) - JavaScript graph database client for TinkerPop3 Gremlin Server.
 * [Elastic Gremlin](https://github.com/rmagen/elastic-gremlin) - TinkerPop3 implementation on Elasticsearch backend.
-* [Hadoop (https://github.com/mohataher/awesome-tinkerpop/blob/master/Giraph)](https://github.com/mohataher/awesome-tinkerpop/blob/master/http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using Giraph.
-* [Hadoop (https://github.com/mohataher/awesome-tinkerpop/blob/master/Spark)](https://github.com/mohataher/awesome-tinkerpop/blob/master/http://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer) - OLAP graph processor using Spark.
+* [Hadoop (https://github.com/mohataher/awesome-tinkerpop/blob/master/Giraph)](http://tinkerpop.apache.org/docs/current/reference/#giraphgraphcomputer) - OLAP graph processor using https://github.com/mohataher/awesome-tinkerpop/blob/master/Giraph.
+* [Hadoop (https://github.com/mohataher/awesome-tinkerpop/blob/master/Spark)](http://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer) - OLAP graph processor using https://github.com/mohataher/awesome-tinkerpop/blob/master/Spark.
 * [IBM Graph](https://console.ng.bluemix.net/catalog/services/ibm-graph/) - OLTP graph database as a service.
 * [Neo4j](http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin) - OLTP graph database.
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support.
@@ -37,17 +37,17 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [DuctileDB](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
 * [hgraphdb](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database.
 * [JanusGraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database http://janusgraph.org 
-* [JanusGraph for DynamoDB (https://github.com/mohataher/awesome-tinkerpop/blob/master/Amazon)](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB storage backend for JanusGraph.
+* [JanusGraph for DynamoDB (https://github.com/mohataher/awesome-tinkerpop/blob/master/Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The https://github.com/mohataher/awesome-tinkerpop/blob/master/Amazon DynamoDB storage backend for JanusGraph.
 * [orientdb-gremlin](https://github.com/orientechnologies/orientdb-gremlin) - TinkerPop3 Graph Structure Implementation for OrientDB.
 
 
 #### <A NAME="wrappers"></A>Wrappers/Clients
 ##### C# .NET
-*   [Teva Gremlin](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://www.nuget.org/packages/Teva.Common.Data.Gremlin/) (https://github.com/mohataher/awesome-tinkerpop/blob/master/.NET - C#) - A Gremlin Server driver for .NET.
+*   [Teva Gremlin](https://www.nuget.org/packages/Teva.Common.Data.Gremlin/) (https://github.com/mohataher/awesome-tinkerpop/blob/master/.NET - C#) - A Gremlin Server driver for .NET.
 
 ##### Clojure
 * [ogre](https://github.com/clojurewerkz/ogre) - Clojure library for querying TinkerPop graphs.
-* [scalajs-gremlin-client](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/viagraphs/scalajs-gremlin-client) (https://github.com/mohataher/awesome-tinkerpop/blob/master/scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.
+* [https://github.com/mohataher/awesome-tinkerpop/blob/master/scalajs-gremlin-client](https://github.com/viagraphs/https://github.com/mohataher/awesome-tinkerpop/blob/master/scalajs-gremlin-client) (https://github.com/mohataher/awesome-tinkerpop/blob/master/scala) - A Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API.
 
 ##### Go
 * [go-gremlin](https://github.com/go-gremlin/gremlin) - Go graph database client for TinkerPop3 Gremlin Server.
@@ -58,29 +58,29 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [greskell-websocket](https://github.com/debug-ito/greskell) - Haskell client for TinkerPop3 Gremlin Server.
 
 ##### Java
-* [gremlin-driver](https://github.com/mohataher/awesome-tinkerpop/blob/master/http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (https://github.com/mohataher/awesome-tinkerpop/blob/master/java) - A Gremlin Server driver for Java.
+* [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-https://github.com/mohataher/awesome-tinkerpop/blob/master/java) (https://github.com/mohataher/awesome-tinkerpop/blob/master/java) - A Gremlin Server driver for Java.
 * [neo4j-tinkerpop-api](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3.
 * [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) - Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol.
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 
 ##### Javascript
 * [ts-tinkerpop](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
-* [gremlin-javascript](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/jbmusso/gremlin-javascript) (https://github.com/mohataher/awesome-tinkerpop/blob/master/js) - A Gremlin Server driver for JavaScript.
+* [gremlin-javascript](https://github.com/jbmusso/gremlin-javascript) (https://github.com/mohataher/awesome-tinkerpop/blob/master/js) - A Gremlin Server driver for JavaScript.
 
 ##### PHP
-* [gremlin-php](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (https://github.com/mohataher/awesome-tinkerpop/blob/master/Neo4J, Titan, etc.).
+* [gremlin-php](https://github.com/PommeVerte/gremlin-php) - gremlin-server php driver compatible with TinkerPop3. It will allow you to connect to gremlin-server and it's backends (https://github.com/mohataher/awesome-tinkerpop/blob/master/Neo4J, Titan, etc.).
 
 ##### Python
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python.
 * [python-gremlin-rest](https://github.com/windj007/python-gremlin-rest) - A REST-based client for Gremlin Server.
 * [gremlinclient](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
-* [aiogremlin](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/davebshow/aiogremlin) (https://github.com/mohataher/awesome-tinkerpop/blob/master/python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
-* [gremlinrestclient](https://github.com/mohataher/awesome-tinkerpop/blob/master/http://gremlinrestclient.readthedocs.org/en/latest/) (https://github.com/mohataher/awesome-tinkerpop/blob/master/python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
+* [aiogremlin](https://github.com/davebshow/aiogremlin) (https://github.com/mohataher/awesome-tinkerpop/blob/master/python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
+* [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (https://github.com/mohataher/awesome-tinkerpop/blob/master/python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
 * [goblin](https://github.com/ZEROFAIL/goblin) - OGM for TinkerPop3 Gremlin Server.
 * [goblin 3.5](https://github.com/davebshow/goblin) - A Python 3.5 rewrite of the TinkerPop 3 OGM Goblin.
 
 ##### Reactive
-* [reactive-gremlin](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/coreyauger/reactive-gremlin) (https://github.com/mohataher/awesome-tinkerpop/blob/master/scala) - An Akka HTTP Websocket Connector.
+* [reactive-gremlin](https://github.com/coreyauger/reactive-gremlin) (https://github.com/mohataher/awesome-tinkerpop/blob/master/scala) - An Akka HTTP Websocket Connector.
 
 ##### Scala
 * [Gremlin Scala](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
@@ -101,7 +101,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
 * [Ferma](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 * [Frames](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
-* [Archimedes](https://github.com/mohataher/awesome-tinkerpop/blob/master/https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (https://github.com/mohataher/awesome-tinkerpop/blob/master/part of the TinkerPop graph stack).
+* [Archimedes](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (https://github.com/mohataher/awesome-tinkerpop/blob/master/part of the TinkerPop graph stack).
 * [AccumuloGraph](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo.
 * [Frontenac](https://github.com/Loupi/Frontenac) - A .NET port of the TinkerPop Stack.
 * [Mogwai](https://github.com/platinummonkey/mogwai) - TinkerPop 2 Graph Database Library for Python.
@@ -134,7 +134,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 
 ## <A NAME="contributing"></A>How to Contribute
-![alt tag](https://github.com/mohataher/awesome-tinkerpop/blob/master/awesome-tinkerpop.jpg)
+![alt tag](https://raw.githubusercontent.com/mohataher/awesome-tinkerpop/master/awesome-tinkerpop.jpg)
 
 Please follow the [guidelines here](https://github.com/mohataher/awesome-tinkerpop/blob/master/contributing.md). Please, make sure your contribution and PR are awesome!
 

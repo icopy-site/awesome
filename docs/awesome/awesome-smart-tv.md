@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for building Smart TV apps
 
-<a href="https://github.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a>
+<a href="https://raw.githubusercontent.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a>
 
 [Smart TV](https://en.wikipedia.org/wiki/Smart_TV) is a growing platform of TVs having access to the internet and allowing to browse web-sites and install applications. It has own ecosystem with main players like Samsung, LG, Android TV and Apple TV. In this list you will find official and third-party resources for developing Smart TV apps and communicating with TV from remote devices.
 
@@ -32,10 +32,10 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [vscode-extension-tizentv](https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv) - A Visual Studio Code extension that provides a lightweight IDE for Tizen application developers.
 
 #### Third-party remote control libraries
-* [samsungctl](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
-* [samsung-tv-remote](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [homebridge-samsungtv2016](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [homebridge-samsung-tizen](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [samsungctl](https://github.com/Ape/samsungctl) - Library and command line tool for remote controlling Samsung televisions via a TCP/IP connection. It currently supports both pre-2016 TVs as well most of the modern Tizen-OS TVs with Ethernet or Wi-Fi connectivity (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
+* [samsung-tv-remote](https://github.com/Badisi/samsung-tv-remote) - Node.js module to remotely control Samsung Smart TV starting from 2016 (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [homebridge-samsungtv2016](https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [homebridge-samsung-tizen](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
 * [samsung-remote-models-2014-and-newer](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 * [SmartCrypto](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 * [samsung-messagebox](https://github.com/shantanugoel/samsung-messagebox) - Python script to show notifications on Samsung TVs.
@@ -51,13 +51,13 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [webOS TV Developers Forum](http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV) - Ask questions, share information and learn about Smart TV app development with other developers.
 
 #### Third-party remote control libraries
-* [lgtv2](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [node-red-contrib-lgtv](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://github.com/vitalets/awesome-smart-tv/blob/master/https://nodered.org) allowing  remote control of LG webOS Smart TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [node-webos](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [lgtv2mqtt](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [ares-webos-sdk](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/stevenvong/ares-webos-sdk) - webOS [CLI](https://github.com/vitalets/awesome-smart-tv/blob/master/http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
-* [pylgtv](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
-* [LGWebOSRemote](https://github.com/vitalets/awesome-smart-tv/blob/master/https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
+* [lgtv2](https://github.com/hobbyquaker/lgtv2) - Node.js module for remote control of LG webOS TV via WebSocket messages (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Module for [Node-RED](https://nodered.org) allowing  remote control of LG webOS Smart TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [node-webos](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [ares-webos-sdk](https://github.com/stevenvong/ares-webos-sdk) - webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) as separate NPM module (https://github.com/vitalets/awesome-smart-tv/blob/master/JavaScript).
+* [pylgtv](https://github.com/TheRealLink/pylgtv) - Library to control webOS based LG Tv devices (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
+* [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) - Command line tool for webOS remote control of LG TVs (https://github.com/vitalets/awesome-smart-tv/blob/master/Python).
 * [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
 #### Articles
@@ -95,12 +95,12 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Remote control protocols
 * [DLNA](https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance) - Industry-wide standard for sharing data over a home network. Depending on the DLNA-compatible devices you own, you might be able to stream films from your laptop to your TV, play an MP3 stored on your phone over your hi-fi system, or print a photo from your tablet on your home printer.
-* [DIAL](https://github.com/vitalets/awesome-smart-tv/blob/master/http://www.dial-multiscreen.org/) - Developed by Netflix and Google, this protocol alows client devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like smartphone, tablet, or computer) to discover apps on server devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like a smart TV or streaming box) and launch content on them.
+* [DIAL](http://www.dial-multiscreen.org/) - Developed by Netflix and Google, this protocol alows client devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like smartphone, tablet, or computer) to discover apps on server devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like a smart TV or streaming box) and launch content on them.
 * [Wi-Fi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) - Standard enabling devices to easily connect with each other without requiring a wireless access point.
-* [Miracast](https://github.com/vitalets/awesome-smart-tv/blob/master/https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (https://github.com/vitalets/awesome-smart-tv/blob/master/such as laptops, tablets, or smartphones) to displays (https://github.com/vitalets/awesome-smart-tv/blob/master/such as TVs, monitors or projectors). Works over Wi-Fi Direct.
+* [Miracast](https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (https://github.com/vitalets/awesome-smart-tv/blob/master/such as laptops, tablets, or smartphones) to displays (https://github.com/vitalets/awesome-smart-tv/blob/master/such as TVs, monitors or projectors). Works over Wi-Fi Direct.
 
 ## Misc
-* [LIRC](https://github.com/vitalets/awesome-smart-tv/blob/master/http://lirc.org) - A package that allows you to decode and send infra-red signals of many (https://github.com/vitalets/awesome-smart-tv/blob/master/but not all) commonly used remote controls.
+* [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (https://github.com/vitalets/awesome-smart-tv/blob/master/but not all) commonly used remote controls.
 * [smart-tv-app-dev-guidelines](https://github.com/ruiposse/smart-tv-app-dev-guidelines) - A Smart TV App Development examples, tutorials, best-practices and documentation. Last updated on 2015.
 * [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.
 * [lrud](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.

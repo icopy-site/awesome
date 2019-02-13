@@ -36,7 +36,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## EventDispatcher
 
-* [Decouple your application with (https://github.com/pehapkari/awesome-symfony-education/blob/master/Domain-)Events](https://github.com/pehapkari/awesome-symfony-education/blob/master/https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
+* [Decouple your application with (https://github.com/pehapkari/awesome-symfony-education/blob/master/Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
 * [Re-thinking Event Listeners](http://mmoreram.com/blog/2015/08/20/re-thinking-event-listeners/) [2015]
 * [Journey to the Center of Symfony: HttpKernel Request-Response](https://knpuniversity.com/screencast/symfony-journey) by KnpUniversity [2015]
 

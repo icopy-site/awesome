@@ -1,6 +1,6 @@
 ## Awesome jQuery
 
-<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
+<a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-jquery/commits/master)
@@ -77,7 +77,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 #### Free Books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-* [jQuery Succinctly, Syncfusion](https://github.com/petk/awesome-jquery/blob/master/https://www.syncfusion.com/resources/techportal/ebooks/jquery) (https://github.com/petk/awesome-jquery/blob/master/PDF, .mobi) *(https://github.com/petk/awesome-jquery/blob/master/Registration required)*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (https://github.com/petk/awesome-jquery/blob/master/PDF, .mobi) *(https://github.com/petk/awesome-jquery/blob/master/Registration required)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 
@@ -150,7 +150,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *WYSIWYG editors.*
 
 * [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-* [Hallo](https://github.com/petk/awesome-jquery/blob/master/https://github.com/bergie/hallo) - Simple rich text editor (https://github.com/petk/awesome-jquery/blob/master/contentEditable) for jQuery UI.
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (https://github.com/petk/awesome-jquery/blob/master/contentEditable) for jQuery UI.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 * [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
 * [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
@@ -169,7 +169,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 * [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
-* [Payform](https://github.com/petk/awesome-jquery/blob/master/https://github.com/jondavidjohn/payform) - A library (https://github.com/petk/awesome-jquery/blob/master/with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+* [Payform](https://github.com/jondavidjohn/payform) - A library (https://github.com/petk/awesome-jquery/blob/master/with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 * [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select\> box.
@@ -209,7 +209,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Menus animation, usability enhancements and beautification.*
 
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
-* [jPanelMenu](https://github.com/petk/awesome-jquery/blob/master/https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (https://github.com/petk/awesome-jquery/blob/master/like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
+* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (https://github.com/petk/awesome-jquery/blob/master/like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
 * [mmenu](https://github.com/FrDH/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
@@ -269,7 +269,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins for handling, manipulating or formating time and date.*
 
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
-* [Timeago](https://github.com/petk/awesome-jquery/blob/master/https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (https://github.com/petk/awesome-jquery/blob/master/e.g. "4 minutes ago").
+* [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (https://github.com/petk/awesome-jquery/blob/master/e.g. "4 minutes ago").
 
 [Back to top](#awesome-jquery)
 
@@ -305,7 +305,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
 * [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
-* [Slugify](https://github.com/petk/awesome-jquery/blob/master/https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (https://github.com/petk/awesome-jquery/blob/master/like Django slugify(https://github.com/petk/awesome-jquery/blob/master/)).
+* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (https://raw.githubusercontent.com/petk/awesome-jquery/master/like Django slugify()).
 * [Readmore.js](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
 * [autoNumberic](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
@@ -404,7 +404,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ## Contributing and License
 
-You are most welcome to [contribute](https://github.com/petk/awesome-jquery/blob/master/CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/petk/awesome-jquery/blob/master/https://github.com/petk/awesome-jquery/graphs/contributors) who have helped to build this list.
+You are most welcome to [contribute](https://github.com/petk/awesome-jquery/blob/master/CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/petk/awesome-jquery/graphs/contributors) who have helped to build this list.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -15,9 +15,9 @@ A collection of simple tips to help up your jQuery game.
 
 ## Tips
 
-1. [Use `noConflict(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-noconflict)
+1. [Use `noConflict()`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-noconflict)
 1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
-1. [Use `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` Binding Instead of `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-on-binding-instead-of-click)
+1. [Use `.on()` Binding Instead of `.click()`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-on-binding-instead-of-click)
 1. [Back to Top Button](#back-to-top-button)
 1. [Preload Images](#preload-images)
 1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
@@ -47,7 +47,7 @@ The `$` alias used by jQuery is also used by other JavaScript libraries. To ensu
 jQuery.noConflict();
 ```
 
-Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `jQuery(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'div p').hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`). If you have multiple versions of jQuery on the same page (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/not recommended), you can use `noConflict(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` to set an alias to a specific version:
+Now you'll reference the jQuery object using the `jQuery` variable name instead of `$` (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `jQuery('div p').hide()`). If you have multiple versions of jQuery on the same page (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/not recommended), you can use `noConflict()` to set an alias to a specific version:
 
 ```javascript
 let $x = jQuery.noConflict();
@@ -73,9 +73,9 @@ Now you're off...
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Use `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` Binding Instead of `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`
+### Use `.on()` Binding Instead of `.click()`
 
-Using `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` gives you several advantages over using `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`, such as the ability to add multiple events...
+Using `.on()` gives you several advantages over using `.click()`, such as the ability to add multiple events...
 
 ```javascript
 .on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click tap hover')
@@ -89,7 +89,7 @@ Using `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 .on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click.menuOpening')
 ```
 
-Namespaces give you the power to unbind a specific event (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `.off(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click.menuOpening')`).
+Namespaces give you the power to unbind a specific event (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `.off('click.menuOpening')`).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -100,7 +100,7 @@ By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin
 
 ```javascript
 // Back to top
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.container').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', '.back-to-top', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.container').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', '.back-to-top', function (e) {
   e.preventDefault();
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'html, body').animate(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/{scrollTop: 0}, 800);
 });
@@ -131,7 +131,7 @@ $.preloadImages = function () {
   }
 };
 
-$.preloadImages(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img/hover-on.png', 'img/hover-off.png');
+$.preloadImages(https://raw.githubusercontent.com/AllThingsSmitty/jquery-tips-everyone-should-know/master/'img/hover-on.png', 'img/hover-off.png');
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -142,7 +142,7 @@ $.preloadImages(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-k
 Sometimes you might need to check if your images have fully loaded in order to continue on with your scripts:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'load', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'load', function () {
   console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'image load successful');
 });
 ```
@@ -157,8 +157,8 @@ You can also check if one particular image has loaded by replacing the `<img>` t
 If you happen to find broken image links on your site replacing them one by one can be a pain. This simple piece of code can save a lot of headaches:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  if(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/!$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).hasClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'broken-image')) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function () {
+  if(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/!$(this).hasClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'broken-image')) {
     $(this).prop('src', 'img/broken.png').addClass('broken-image');
   }
 });
@@ -167,8 +167,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Alternatively, if you wish to hide broken images this snippet will take care of that for:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'error', function () {
+  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).hide();
 });
 ```
 
@@ -181,16 +181,16 @@ jQuery AJAX methods are a common way to request text, HTML, XML, or JSON. If you
 
 ```javascript
 $.post('sign_up.php', {
-  user_name: $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=user_name]').val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/),
-  email:     $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=email]').val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/),
-  password:  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=password]').val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/),
+  user_name: $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=user_name]').val(),
+  email:     $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=email]').val(),
+  password:  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[name=password]').val(),
 });
 ```
 
-But all of those `val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` calls are expensive and using `.val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` on `<textarea>` elements will strip carriage return characters from the browser-reported value. A better way of collecting user inputs is using the `serialize(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` function which collects them as a string:
+But all of those `val()` calls are expensive and using `.val()` on `<textarea>` elements will strip carriage return characters from the browser-reported value. A better way of collecting user inputs is using the `serialize()` function which collects them as a string:
 
 ```javascript
-$.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'sign_up', $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#sign-up-form').serialize(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/));
+$.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'sign_up', $('#sign-up-form').serialize());
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -201,7 +201,7 @@ $.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/
 Let's say you want to change the visual of a clickable element on your page when a user hovers over it. You can add a class to your element when the user is hovering; when the user stops hovering removes the class:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function () {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).addClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
 }, function () {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).removeClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
@@ -211,7 +211,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 You need to add the necessary CSS. If you want an even _simpler_ way use the `toggleClass` method:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover', function () {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).toggleClass(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'hover');
 });
 ```
@@ -243,7 +243,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Sometimes you don't want links to go to a certain web page nor reload the page; you might want them to do something else like trigger another script. This will do the trick of preventing the default action:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a.no-link').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'a.no-link').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (e) {
   e.preventDefault();
 });
 ```
@@ -262,11 +262,11 @@ var blocks = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-kn
 Now you can use the `blocks` variable wherever you want without having to search the DOM every time:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#hideBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#hideBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
   blocks.fadeOut();
 });
 
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#showBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#showBlocks').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
   blocks.fadeIn();
 });
 ```
@@ -282,12 +282,12 @@ Sliding and fading are common in animations with jQuery. You might want to show 
 
 ```javascript
 // Fade
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.element').fadeToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'slow');
 });
 
 // Toggle
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.btn').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.element').slideToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'slow');
 });
 ```
@@ -301,11 +301,11 @@ This is a simple method for a quick accordion:
 
 ```javascript
 // Close all panels
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').hide();
 
 // Accordion
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.accordion-header').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  var next = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).next(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.accordion-header').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function () {
+  var next = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).next();
   next.slideToggle(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'fast');
   $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').not(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/next).slideUp(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'fast');
   return false;
@@ -322,7 +322,7 @@ By adding this script all you really need to do on your web page is the necessar
 Sometimes you'll want two divs to have the same height no matter what content they have in them:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.div').css(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'min-height', $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.main-div').height(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/));
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.div').css(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'min-height', $('.main-div').height());
 ```
 
 This example sets the `min-height` which means that it can be bigger than the main div but never smaller. However, a more flexible method would be to loop over a set of elements and set `height` to the height of the tallest element:
@@ -330,9 +330,9 @@ This example sets the `min-height` which means that it can be bigger than the ma
 ```javascript
 var $columns = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.column');
 var height = 0;
-$columns.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) > height) {
-    height = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$columns.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
+  if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/$(this).height() > height) {
+    height = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height();
   }
 });
 $columns.height(height);
@@ -342,8 +342,8 @@ If you want _all_ columns to have the same height:
 
 ```javascript
 var $rows = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.same-height-columns');
-$rows.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.column').height(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/));
+$rows.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
+  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.column').height($(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/this).height());
 });
 ```
 
@@ -372,8 +372,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 By using the `contains()` selector in jQuery you can find text in content of an element. If text doesn't exists, that element will be hidden:
 
 ```javascript
-var search = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#search').val(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'div:not(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/:contains(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/"' + search + '"))').hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+var search = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#search').val();
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'div:not(:contains("' + search + '"))').hide();
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -384,7 +384,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 Trigger JavaScript when the user is no longer focusing on a tab or refocuses on a tab:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'visibilitychange', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'visibilitychange', function (e) {
   if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.target.visibilityState === 'visible') {
     console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'Tab is now in view!');
   } else if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.target.visibilityState === 'hidden') {
@@ -401,7 +401,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 When an AJAX call returns a 404 or 500 error, the error handler will be executed. If the handler isn't defined, other jQuery code might not work as intended. To define a global AJAX error handler:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'ajaxError', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e, xhr, settings, error) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'ajaxError', function (e, xhr, settings, error) {
   console.log(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/error);
 });
 ```
@@ -414,9 +414,9 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 jQuery allows for the "chaining" of plugin method calls to mitigate the process of repeatedly querying the DOM and creating multiple jQuery objects. Let's say the following snippet represents your plugin method calls:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').show(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').show();
 $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'bla');
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').otherStuff(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#elem').otherStuff();
 ```
 
 This could be vastly improved by using chaining:
@@ -448,10 +448,10 @@ Let's say you end up with too many items in a list. Maybe the content is produce
 
 ```javascript
 var ul = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#list'),
-lis = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'li', ul).get(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
+lis = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'li', ul).get();
 
-lis.sort(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/a, b) {
-  return (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/a).text(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/).toUpperCase(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) < $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b).text(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/).toUpperCase(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)) ? -1 : 1;
+lis.sort(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (a, b) {
+  return (https://githuhttps://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b.com/AllThingsSmitty/jquery-tips-everyone-should-know/https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/blohttps://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b/master/$(a).text().toUpperCase() < $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/b).text().toUpperCase()) ? -1 : 1;
 });
 
 ul.append(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/lis);
@@ -467,8 +467,8 @@ There you go!
 If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
+  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (e) {
     return false;
   })
 })
@@ -477,8 +477,8 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 ...and you can also do the same for a specific element:
 
 ```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#submit').bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function () {
+  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#submit').bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (e) {
     return false;
   })
 })

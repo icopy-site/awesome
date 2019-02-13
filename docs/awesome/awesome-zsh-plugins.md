@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins.svg)](https://github.com/unixorn/awesome-zsh-plugins/stargazers)
 [![Code Climate](https://codeclimate.com/github/unixorn/awesome-zsh-plugins/badges/gpa.svg)](https://codeclimate.com/github/unixorn/awesome-zsh-plugins)
 [![Issue Count](https://codeclimate.com/github/unixorn/awesome-zsh-plugins/badges/issue_count.svg)](https://codeclimate.com/github/unixorn/awesome-zsh-plugins)
-[![GitHub last commit (https://github.com/unixorn/awesome-zsh-plugins/blob/master/branch)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins/master.svg)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/unixorn/awesome-zsh-plugins)
+[![GitHub last commit (https://github.com/unixorn/awesome-zsh-plugins/blob/master/branch)](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins/master.svg)](https://github.com/unixorn/awesome-zsh-plugins)
 
 A collection of ZSH frameworks, plugins, tutorials & themes inspired by the various awesome list collections out there.
 
@@ -102,7 +102,7 @@ These frameworks make customizing your ZSH setup easier.
 
 ### [antigen](https://github.com/zsh-users/antigen)
 
-**Antigen** is a small set of functions that help you easily manage your shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ZSH) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to ZSH, what Vundle is to vim. Antigen can load oh-my-zsh themes and plugins and will automatically clone them for you.
+**Antigen** is a small set of functions that help you easily manage your shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ZSH) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to https://github.com/unixorn/awesome-zsh-plugins/blob/master/ZSH, what Vundle is to vim. Antigen can load oh-my-zsh themes and plugins and will automatically clone them for you.
 
 ### [ax-zsh](https://github.com/alexbarton/ax-zsh)
 
@@ -146,7 +146,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 
 ### [zgen](https://github.com/tarjoilija/zgen)
 
-**Zgen** is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have a minimal overhead when starting up the shell because nobody likes waiting. The script generates a static `init.zsh` file which does nothing but source your plugins and append them to your `fpath`. This saves startup time by not having to execute time consuming logic (https://github.com/unixorn/awesome-zsh-plugins/blob/master/plugin checking, updates, etc). The downside is that you have to refresh the init script manually with `zgen reset` whenever you update your `.zshrc`. Can load [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://ohmyz.sh/)-compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.
+**Zgen** is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have a minimal overhead when starting up the shell because nobody likes waiting. The script generates a static `init.zsh` file which does nothing but source your plugins and append them to your `fpath`. This saves startup time by not having to execute time consuming logic (https://github.com/unixorn/awesome-zsh-plugins/blob/master/plugin checking, updates, etc). The downside is that you have to refresh the init script manually with `zgen reset` whenever you update your `.zshrc`. Can load [oh-my-zsh](http://ohmyz.sh/)-compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.
 
 ### [zilsh](https://github.com/zilsh/zilsh)
 
@@ -174,18 +174,18 @@ zapack is a basic fast minimal ZSH plugin loader.
 
 - Can manage everything
   - Zsh plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
-  - Gist files (https://github.com/unixorn/awesome-zsh-plugins/blob/master/[gist.github.com](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://gist.github.com/discover))
+  - Gist files (https://github.com/unixorn/awesome-zsh-plugins/blob/master/[gist.github.com](https://gist.github.com/discover))
   - Externally managed plugins e.g., [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto) plugins/themes
   - Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
   - Local plugins
-  - etc. (https://github.com/unixorn/awesome-zsh-plugins/blob/master/you can add your [own sources](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
+  - etc. (https://github.com/unixorn/awesome-zsh-plugins/blob/master/you can add your [own sources](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
 - Super-fast parallel installation/update
 - Support for lazy-loading
 - Branch/tag/commit support
 - Post-update, post-load hooks
 - Dependencies between packages
-- Unlike [antigen](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zsh-users/antigen), no ZSH plugin file (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`*.plugin.zsh`) required
-- Interactive interface (https://github.com/unixorn/awesome-zsh-plugins/blob/master/[fzf](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/junegunn/fzf), [peco](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/peco/peco), [zaw](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zsh-users/zaw), and so on)
+- Unlike [antigen](https://github.com/zsh-users/antigen), no ZSH plugin file (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`*.plugin.zsh`) required
+- Interactive interface (https://github.com/unixorn/awesome-zsh-plugins/blob/master/[fzf](https://github.com/junegunn/fzf), [peco](https://github.com/peco/peco), [zaw](https://github.com/zsh-users/zaw), and so on)
 - Cache mechanism for reducing [the startup time](https://github.com/zplug/zplug#vs)
 
 ### [zplugin](https://github.com/zdharma/zplugin)
@@ -194,7 +194,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 
 ### [ZPM](https://github.com/zpm-zsh/zpm)
 
-**ZPM** (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ ZSH Plugin Manager ) is a plugin manager for [ZSH](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://www.zsh.org/) similar to vim-plug. ZPM plugins are compatible with [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://ohmyz.sh/). ZPM runs on Linux, macOS, FreeBSD and Android.
+**ZPM** (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ ZSH Plugin Manager ) is a plugin manager for [ZSH](http://www.zsh.org/) similar to vim-plug. ZPM plugins are compatible with [oh-my-zsh](http://ohmyz.sh/). ZPM runs on Linux, macOS, FreeBSD and Android.
 
 ### [ZR](https://github.com/jedahan/zr)
 
@@ -275,12 +275,12 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [anyframe](https://github.com/mollifier/anyframe) - A peco/percol/fzf wrapper plugin for ZSH.
 * [apache2](https://github.com/voronkovich/apache2.plugin.zsh) - Adds aliases and functions for managing Apache2.
 * [apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - Adds MacBook Pro's touchbar support in [iTerm 2](https://iterm2.com).
-* [appup](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/Cloudstek/zsh-plugin-appup) - Adds `start`, `stop`, `up` and `down` commands when it detects a `docker-compose.yml` or `Vagrantfile` in the current directory (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. your application). Just run `up` and get coding!
+* [appup](https://github.com/Cloudstek/zsh-plugin-appup) - Adds `start`, `stop`, `up` and `down` commands when it detects a `docker-compose.yml` or `Vagrantfile` in the current directory (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. your application). Just run `up` and get coding!
 * [artisan](https://github.com/jessarcher/zsh-artisan) - Laravel `artisan` plugin for ZSH to help you to run `artisan` from anywhere in the project tree, with tab completion!
 * [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
 * [asdf](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
 * [assume-role](https://github.com/weizard/assume-role) - ZSH plugin to allow you to assume AWS IAM roles easily. Includes completions.
-* [async](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in ZSH without requiring any external tools. Allows you to run multiple asynchronous jobs, enforce unique jobs (https://github.com/unixorn/awesome-zsh-plugins/blob/master/multiple instances of the same job will not run), flush all currently running jobs and create multiple workers (https://github.com/unixorn/awesome-zsh-plugins/blob/master/each with their own jobs).
+* [async](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in ZSH without requiring any external tools. Allows you to run multiple asynchronous jobs, enforce unique jobs (https://github.com/unixorn/awesome-zsh-plugins/blob/master/multiple instances of the same job will not run), flush all currently running jobs and create multiple workers (https://github.com/unixorn/awesome-zsh-plugins/blob/master/each with their own jobs).
 * [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - A plugin for Oh My Zsh that lets you launch a file or folder in [Atom](https://atom.io) from [iTerm 2](https://iterm2.com). It's based on the Sublime plugin. Only supports macOS.
 * [atom](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on macOS.
 * [auto-color-ls](https://github.com/gretzky/auto-color-ls) - Automatically list directories with `colorls`.
@@ -297,7 +297,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [aws-mfa](https://github.com/FreebirdRides/oh-my-zsh-aws-mfa) - Plugin for AWS MFA.
 * [aws-upload](https://github.com/borracciaBlu/aws-upload-zsh) - Boost your productivity with `aws-upload`.
 * [aws-vault](https://github.com/blimmer/zsh-aws-vault) - Plugin for [aws-vault](https://github.com/99designs/aws-vault).
-* [base16](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/chriskempson/base16-shell) - Adds script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (https://github.com/unixorn/awesome-zsh-plugins/blob/master/if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://www.vim.org).
+* [base16](https://github.com/chriskempson/base16-shell) - Adds script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (https://github.com/unixorn/awesome-zsh-plugins/blob/master/if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 * [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts) - Print random baseball related "fun facts" in your shell. Depends on `fortune` and `cowsay` being installed.
 * [basex](https://github.com/dirkk/zsh-basex) - Adds several [BaseX](http://basex.org/) aliases for simplified usage.
 * [bash](https://github.com/chrissicool/zsh-bash) - Makes ZSH more Bash compatible. It redefines the source command to act more like `bash` does. It also enables `bash` completions.
@@ -321,13 +321,13 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [cdc](https://github.com/evanthegrayt/cdc) - Shell function for changing directory to frequently-used places.
 * [cdr](https://github.com/willghatch/zsh-cdr) - Easy setup of cdr for ZSH.
 * [change-case](https://github.com/mtxr/zsh-change-case) - Plugin for fast swap between upper and lower case in your command line. :sunglasses:
-* [clean-project](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (https://github.com/unixorn/awesome-zsh-plugins/blob/master/automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
+* [clean-project](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (https://github.com/unixorn/awesome-zsh-plugins/blob/master/automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
 * [clipboard](https://github.com/zpm-zsh/clipboard) - Adds a cross-platform helper function to access the system clipboard.
 * [cmd-architect](https://github.com/psprint/zsh-cmd-architect) - Build commands from what's in history and at prompt, move, delete, add command segments and search history with multi-word queries.
 * [colored-man-pages-mod](https://github.com/zuxfoucault/colored-man-pages_mod) - Forked from [robbyrussell/oh-my-zsh/plugins/colored-man-pages](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh). Colorizes `man` output.
 * [colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) - Colorize `man` pages.
-* [colors (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Tarrasch)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/Tarrasch/zsh-colors) - Makes it easier to colorize text from the CLI. `red foo` just works.
-* [colors (https://github.com/unixorn/awesome-zsh-plugins/blob/master/zpm-zsh)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zpm-zsh/colors) - Colorize output of various programs.
+* [colors (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Tarrasch)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/Tarrasch/zsh-colors) - Makes it easier to colorize text from the CLI. `red foo` just works.
+* [colors (https://github.com/unixorn/awesome-zsh-plugins/blob/master/zpm-zsh)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/zpm-zsh/colors) - Colorize output of various programs.
 * [command-not-found](https://github.com/Tarrasch/zsh-command-not-found) - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.
 * [command-note](https://github.com/KKRainbow/zsh-command-note.plugin) - Record complex commands and comment on them.
 * [command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in ZSH and [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
@@ -357,9 +357,9 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [dotpyvenv](https://github.com/jeanpantoja/dotpyvenv) - If you have a `.pyvenv` virtualenv, will automagically switches to it.
 * [dropbox](https://github.com/zpm-zsh/dropbox) - A dropbox plugin for Zsh that provides `dropbox-cli` and `dropbox-uploader` commands.
 * [dune-quotes](https://github.com/brokendisk/dune-quotes) - Random Dune quote generator plugin.
-* [dwim](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (https://github.com/unixorn/awesome-zsh-plugins/blob/master/control-u) that will replace the current (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or previous) command line with the command you will want to run next.
+* [dwim](https://github.com/oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (https://github.com/unixorn/awesome-zsh-plugins/blob/master/control-u) that will replace the current (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or previous) command line with the command you will want to run next.
 * [ec2ssh](https://github.com/h3poteto/zsh-ec2ssh) - List EC2 instances and `ssh` login to the instances easily.
-* [editing-workbench](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/psprint/zsh-editing-workbench) - Adds sane, complex command line editing (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. incremental history _word_ completion).
+* [editing-workbench](https://github.com/psprint/zsh-editing-workbench) - Adds sane, complex command line editing (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. incremental history _word_ completion).
 * [elixir](https://github.com/gusaiani/elixir-oh-my-zsh) - Adds shortcuts for Elixir, IEX, Mix, Kiex and Phoenix.
 * [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line.
 * [emojis](https://github.com/MichaelAquilina/zsh-emojis) - Adds numerous ascii art emojis to your environment in convenient variables.
@@ -373,14 +373,14 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips](https://github.com/djui/alias-tips)
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Optimized an improved `zsh-users/zsh-syntax-highlighting` – better response times, `zed/vared` can edit `10 kB` functions.
 * [favorite-directories](https://github.com/seletskiy/zsh-favorite-directories) - Fast jumps to your favorite directories.
-* [firebase](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/rmrs/firebase-zsh) - Add an indicator in the prompt that you're in a directory with a `firebase.json` file (https://github.com/unixorn/awesome-zsh-plugins/blob/master/aka "firebase project").
+* [firebase](https://github.com/rmrs/firebase-zsh) - Add an indicator in the prompt that you're in a directory with a `firebase.json` file (https://github.com/unixorn/awesome-zsh-plugins/blob/master/aka "firebase project").
 * [fixnumpad-osx](https://github.com/zackintosh/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh) - Enables numpad keys of Apple keyboards to be recognized in ZSH.
 * [flow-plugin](https://github.com/sandstorm/oh-my-zsh-flow-plugin) - This plugin makes the `flow` command available inside every subdirectory of the TYPO3 Flow distribution.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder [fzf](https://github.com/junegunn/fzf).
 * [functional](https://github.com/Tarrasch/zsh-functional) - ZSH higher order functions.
 * [fuzzy-search-and-edit](https://github.com/seletskiy/zsh-fuzzy-search-and-edit) - ZSH plugin for fuzzy searching files and instantly opening a matched file on matched line.
 * [fz](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z](https://github.com/rupa/z)'s tab completion and lets you easily jump around among your historical directories.
-* [fzf-finder](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/junegunn/fzf) and (https://github.com/unixorn/awesome-zsh-plugins/blob/master/optionally) [bat](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/sharkdp/bat). Searches in the local tree of subdirectories for files.
+* [fzf-finder](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf](https://github.com/junegunn/fzf) and (https://github.com/unixorn/awesome-zsh-plugins/blob/master/optionally) [bat](https://github.com/sharkdp/bat). Searches in the local tree of subdirectories for files.
 * [fzf-marks](https://github.com/urbainvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in `bash` and `zsh`, using the fuzzy finder [fzf](https://github.com/junegunn/fzf).
 * [fzf-mpd](https://github.com/anders-dc/fzf-mpd/) - A ZSH plugin that allows you to control [mpd](https://www.musicpd.org/) using [fzf](https://github.com/junegunn/fzf).
 * [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf](https://github.com/junegunn/fzf).
@@ -388,17 +388,17 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [fzy](https://github.com/aperezdc/zsh-fzy) - Plugin that uses [fzy](https://github.com/jhawthorn/fzy) for certain fuzzy matching operations.
 * [gcloud-project](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Project.
 * [geeknote](https://github.com/s7anley/zsh-geeknote) - Geeknote plugin for ZSH.
-* [geometry-datetime](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/desyncr/geometry-datetime) - [Geometry](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/geometry-zsh/geometry) datetime plugin. Shows datetime (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`date` unix command) in your prompt.
+* [geometry-datetime](https://github.com/desyncr/geometry-datetime) - [Geometry](https://github.com/geometry-zsh/geometry) datetime plugin. Shows datetime (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`date` unix command) in your prompt.
 * [geometry-hydrate](https://github.com/jedahan/geometry-hydrate) - [Geometry](https://github.com/geometry-zsh/geometry) plugin to remind you to hydrate.
 * [geometry-npm-package-version](https://github.com/drager/geometry-npm-package-version) - Geometry plugin to display the current folder's npm package version.
 * [geometry-rust-version](https://github.com/drager/geometry-rust-version) - [Geometry](https://github.com/geometry-zsh/geometry) plugin to display the current folder's Rust version when either a `.rs` or `Cargo.toml` is present.
-* [get-jquery](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading jQuery library from [code.jquery.com](https://github.com/unixorn/awesome-zsh-plugins/blob/master/code.jquery.com).
+* [get-jquery](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading jQuery library from [https://github.com/unixorn/awesome-zsh-plugins/blob/master/code.jquery.com](https://github.com/unixorn/awesome-zsh-plugins/blob/master/code.jquery.com).
 * [ghost-zeus](https://github.com/fontno/ghost_zeus) - Lets you use zeus with normal rails commands.
 * [gimme](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage Go installations with gimme.
 * [git-add-remote](https://github.com/caarlos0/git-add-remote) - Easily add the upstream remote to your `git` fork.
-* [git-aliases (https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
+* [git-aliases (https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
 * [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
-* [git-complete-urls](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/rapgenic/zsh-git-complete-urls) - enhance `git` completion to include in the remotes completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. from `git clone`) any URL in the clipboard.
+* [git-complete-urls](https://github.com/rapgenic/zsh-git-complete-urls) - enhance `git` completion to include in the remotes completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. from `git clone`) any URL in the clipboard.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Extra `git` helper scripts packaged as a plugin.
 * [git-ignore](https://github.com/laggardkernel/git-ignore) - Generates `.gitignore` files from gitignore.io **offline**. `fzf`, completion, preview integrated.
 * [git-it-on.zsh](https://github.com/peterhurford/git-it-on.zsh) - Adds ability to open a folder in your current branch on GitHub.
@@ -411,7 +411,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [git-sync](https://github.com/caarlos0/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
 * [gitcd](https://github.com/viko16/gitcd.plugin.zsh) - cd to a git working directory after cloning it.
 * [gitfast](https://github.com/tevren/gitfast-zsh-plugin) - Updated fork of oh-my-zsh gitfast plugin.
-* [gitgo](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/ltj/gitgo) - Open a Github/Gitlab repository in your browser from the command line (https://github.com/unixorn/awesome-zsh-plugins/blob/master/macOS only).
+* [gitgo](https://github.com/ltj/gitgo) - Open a Github/Gitlab repository in your browser from the command line (https://github.com/unixorn/awesome-zsh-plugins/blob/master/macOS only).
 * [gitignore](https://github.com/voronkovich/gitignore.plugin.zsh) - Plugin for creating `.gitignore` files.
 * [gitio](https://github.com/denysdovhan/gitio-zsh) - A ZSH plugin for generating a GitHub short URL using [git.io](https://git.io).
 * [gitsync](https://github.com/washtubs/gitsync) - ZSH plugin to improve workflows for one person developing on the same repository on multiple machines.
@@ -423,8 +423,8 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [grunt-plugin](https://github.com/clauswitt/zsh-grunt-plugin) - Add autocompletion for `grunt`.
 * [gtm-terminal-plugin](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics](https://github.com/git-time-metric/gtm/blob/master/README.md).
 * [gumsible](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - Wrapper plugin for [Molecule](https://molecule.readthedocs.io/en/latest/index.html).
-* [gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/dgnest)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/dgnest/zsh-gvm-plugin) - gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Go version manager) plugin for ZSH.
-* [gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/yerinle)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/yerinle/zsh-gvm) - Provides autocompletion for `gvm` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Groovy enVironment Manager).
+* [gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/dgnest)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/dgnest/zsh-gvm-plugin) - gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Go version manager) plugin for ZSH.
+* [gvm (https://github.com/unixorn/awesome-zsh-plugins/blob/master/yerinle)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/yerinle/zsh-gvm) - Provides autocompletion for `gvm` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Groovy enVironment Manager).
 * [hacker-quotes](https://github.com/oldratlee/hacker-quotes) - Outputs a hacker quote randomly when you open a terminal.
 * [hadoop-plugin](https://github.com/valek/zsh-hadoop-plugin) - Adds some convenience aliases for hadoop functions.
 * [hanami](https://github.com/davydovanton/hanami-zsh) - ZSH plugin for [hanami](http://hanamirb.org) projects.
@@ -432,7 +432,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [hipchat](https://github.com/robertzk/hipchat.zsh) - Send hipchat messages from the shell.
 * [histdb](https://github.com/larkery/zsh-histdb) - Stores your history in an SQLite database.
 * [history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - Allows you to specify patterns that will automatically exclude commands from being inserted into your permanent history. Particularly useful for preventing secrets being written.
-* [history-search-multi-word](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zdharma/history-search-multi-word) - syntax highlighted, multi-word history searcher for ZSH, bound to Ctrl-R, with advanced functions (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. bump of history entry to top of history).
+* [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - syntax highlighted, multi-word history searcher for ZSH, bound to Ctrl-R, with advanced functions (https://github.com/unixorn/awesome-zsh-plugins/blob/master/e.g. bump of history entry to top of history).
 * [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - Needs to be loaded after zsh-syntax-highlighting, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md.
 * [history-sync](https://github.com/wulfgarpro/history-sync) - An Oh My Zsh plugin for GPG encrypted, Internet synchronized ZSH history using `git`.
 * [history](https://github.com/b4b4r07/zsh-history) - Extend history so that it can be queried by SQL.
@@ -445,7 +445,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [iosctl](https://github.com/obayer/iosctl) - Quickly access App, Data, and Log of the running simulator.
 * [iterm-tab-color](https://github.com/bernardop/iterm-tab-color-oh-my-zsh) - Adds function to set the tab color in iTerm2 and can automatically change color based on cwd or command being executed.
 * [iterm-tab-colors](https://github.com/tysonwolker/iterm-tab-colors) - Automatically changes iTerm 2 tab color based on the current working directory.
-* [iterm-touchbar](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/iam4x/zsh-iterm-touchbar) - Display iTerm2 feedback in the MacbookPro TouchBar (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Current directory, git branch & status).
+* [iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display iTerm2 feedback in the MacbookPro TouchBar (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Current directory, git branch & status).
 * [iterm2-colors](https://github.com/shayneholmes/zsh-iterm2colors) - Manage your iTerm 2's color scheme from the command line.
 * [iterm2-tabs](https://github.com/gimbo/iterm2-tabs.zsh) - Set colors and titles of iTerm 2 tabs.
 * [jabba](https://github.com/2m/zsh-jabba) - Adds shell integration code and completions for the [jabba](https://github.com/shyiko/jabba) Java version manager.
@@ -466,7 +466,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [kubernetes](https://github.com/Dbz/zsh-kubernetes) - Add kubernetes helper functions and aliases.
 * [laradock-workspace](https://github.com/rluders/laradock-workspace-zsh) - Provides an interface to [Laradock](http://laradock.io/)'s workspace.
 * [laravel](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for Laravel 5, 5.1, 5.2 & 5.3.
-* [last-working-directory (https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/mdumitru/last-working-dir) - Broken out version of the version in [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
+* [last-working-directory (https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/mdumitru/last-working-dir) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
 * [lesaint-git](https://github.com/lesaint/lesaint-git) - Replacement `git` plugin for Oh-My-Zsh-compatible frameworks.
 * [lesaint-mvn](https://github.com/lesaint/lesaint-mvn) - Maven plugins for Oh-My-Zsh.
 * [linuxbrew](https://github.com/zpm-zsh/linuxbrew) - ZSH plugin for [linuxbrew](http://linuxbrew.sh/).
@@ -500,16 +500,16 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [nodenv](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load `nodenv` and its completions into the shell.
 * [nohup](https://github.com/micrenda/zsh-nohup) - Add `nohup` to the current command pressing `Ctrl-H`.
 * [noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - macOS users know the pain of trying to figure out what command actually flushes the DNS cache on their version of macOS, and this plugin makes that annoyance go away.
-* [notes (https://github.com/unixorn/awesome-zsh-plugins/blob/master/aperezdc)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/aperezdc/zsh-notes) - Inspired by [terminal_velocity](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://www.seanh.cc/terminal_velocity/), it provides a fast interface to create and access a set of [Markdown](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://en.wikipedia.org/wiki/Markdown) text files inside a directory.
-* [notes (https://github.com/unixorn/awesome-zsh-plugins/blob/master/chipsenkbeil)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/chipsenkbeil/zsh-notes) - Provides a quick notes editing experience in ZSH.
-* [notify](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/marzocchi/zsh-notify) - A plugin for ZSH (https://github.com/unixorn/awesome-zsh-plugins/blob/master/on macOS and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or the command's terminal tab is inactive).
+* [notes (https://github.com/unixorn/awesome-zsh-plugins/blob/master/aperezdc)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/aperezdc/zsh-notes) - Inspired by [terminal_velocity](https://www.seanh.cc/terminal_velocity/), it provides a fast interface to create and access a set of [Markdown](https://en.wikipedia.org/wiki/Markdown) text files inside a directory.
+* [notes (https://github.com/unixorn/awesome-zsh-plugins/blob/master/chipsenkbeil)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/chipsenkbeil/zsh-notes) - Provides a quick notes editing experience in ZSH.
+* [notify](https://github.com/marzocchi/zsh-notify) - A plugin for ZSH (https://github.com/unixorn/awesome-zsh-plugins/blob/master/on macOS and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or the command's terminal tab is inactive).
 * [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) - calls `nvm use` automatically whenever you enter a directory that contains an `.nvmrc` file with a string telling `nvm` which node to use.
 * [nvm-auto](https://github.com/dijitalmunky/nvm-auto) - Aims to alleviate needing to type `nvm use` as much as possible, especially if you often switch between versions of node.js and use `.nvmrc` files in your project to manage what version of node your project needs.
 * [nvm](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading `nvm`.
 * [oh-my-matrix](https://github.com/amstrad/oh-my-matrix) - Turn your terminal into the matrix.
 * [open-create-projects](https://github.com/marcossegovia/open-create-projects) - Open/Create projects in Jetbrains.
 * [open-pr](https://github.com/caarlos0/zsh-open-pr) - A ZSH plugin to open pull requests from command line.
-* [openshift-origin](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/ryanswart/openshift-origin-zsh-plugin) - Add a few shortcuts to common openshift origin (https://github.com/unixorn/awesome-zsh-plugins/blob/master/oc) actions.
+* [openshift-origin](https://github.com/ryanswart/openshift-origin-zsh-plugin) - Add a few shortcuts to common openshift origin (https://github.com/unixorn/awesome-zsh-plugins/blob/master/oc) actions.
 * [opera-git-plugin](https://github.com/aswitalski/oh-my-zsh-opera-git-plugin) - `git` aliases.
 * [operator](https://github.com/nivv/operator-theme) - Clean and simple theme, works best with Menlo for Powerline.
 * [opp](https://github.com/hchbaw/opp.zsh) - Vim's text-objects-ish for ZSH.
@@ -532,21 +532,21 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [plugin-vscode](https://github.com/wuotr/zsh-plugin-vscode) - Plugin for Visual Studio Code, a text editor for macOS, Windows, and Linux.
 * [plugin](https://github.com/darrenbutcher/plugin) - Creates custom oh-my-zsh plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks.
 * [pretty-time](https://github.com/sindresorhus/pretty-time-zsh) - Convert seconds to a human readable string: 165392 → 1d 21h 56m 32s.
-* [profile-secrets](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gmatheu/shell-plugins) - Securely keep sensitive variables (https://github.com/unixorn/awesome-zsh-plugins/blob/master/api tokens, passwords, etc) as part of your terminal init files. Uses gpg to encrypt/decrypt the file with your secrets.
-* [project (https://github.com/unixorn/awesome-zsh-plugins/blob/master/gko)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gko/project) - Create node/python/ruby project both locally and on github(https://github.com/unixorn/awesome-zsh-plugins/blob/master/private or public repository).
-* [project (https://github.com/unixorn/awesome-zsh-plugins/blob/master/voronkovich)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/voronkovich/project.plugin.zsh) - Plugin for managing projects.
+* [profile-secrets](https://github.com/gmatheu/shell-plugins) - Securely keep sensitive variables (https://github.com/unixorn/awesome-zsh-plugins/blob/master/api tokens, passwords, etc) as part of your terminal init files. Uses gpg to encrypt/decrypt the file with your secrets.
+* [project (https://github.com/unixorn/awesome-zsh-plugins/blob/master/gko)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/gko/project) - Create node/python/ruby project both locally and on github(https://github.com/unixorn/awesome-zsh-plugins/blob/master/private or public repository).
+* [project (https://github.com/unixorn/awesome-zsh-plugins/blob/master/voronkovich)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/voronkovich/project.plugin.zsh) - Plugin for managing projects.
 * [proxy-plugin](https://github.com/escalate/oh-my-zsh-proxy-plugin) - Aliases to manage proxy shell environment settings.
 * [proxy](https://github.com/SukkaW/zsh-proxy) - Configure your proxy settings.
 * [purs](https://github.com/xcambar/purs) - A [Pure](https://github.com/sindresorhus/pure)-inspired prompt in [Rust](https://www.rust-lang.org/).
 * [pyenv-lazy-load](https://github.com/erikced/zsh-pyenv-lazy-load) - Plugin for lazy-loading `pyenv` in ZSH.
-* [pyenv-lazy](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load pyenv. The initial `eval "$(https://github.com/unixorn/awesome-zsh-plugins/blob/master/pyenv init -)"` is executed the first time `pyenv` is called.
-* [q (https://github.com/unixorn/awesome-zsh-plugins/blob/master/cal2195)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/cal2195/q) - Vim-like macro registers for your ZSH shell.
-* [q (https://github.com/unixorn/awesome-zsh-plugins/blob/master/tomsquest)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/tomsquest/q.plugin.zsh) - Tail/remove the temp file for [Q](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/y0ssar1an/q), the Dirty Debugging Tool.
+* [pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load pyenv. The initial `eval "$(https://github.com/unixorn/awesome-zsh-plugins/blob/master/pyenv init -)"` is executed the first time `pyenv` is called.
+* [q (https://github.com/unixorn/awesome-zsh-plugins/blob/master/cal2195)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/cal2195/q) - Vim-like macro registers for your ZSH shell.
+* [q (https://github.com/unixorn/awesome-zsh-plugins/blob/master/tomsquest)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/tomsquest/q.plugin.zsh) - Tail/remove the temp file for [Q](https://github.com/y0ssar1an/q), the Dirty Debugging Tool.
 * [quoter](https://github.com/pxgamer/quoter-zsh) - Display a random quote when opening a new terminal session.
 * [randeme](https://github.com/ex-surreal/randeme) - Chooses a random theme for each session. If you not like the chosen theme you can run `randeme_rm` to never show that theme again.
 * [razer-status-code](https://github.com/michaelmcallister/razer-status-code) - change the colour of your [Razer Mouse](https://openrazer.github.io/) based on the status of the last executed command. Requires OpenRazer linux drivers.
-* [rbenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ELLIOTTCABLE)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/ELLIOTTCABLE/rbenv.plugin.zsh) - A faster fork of the rbenv plugin from oh-my-zsh.
-* [rbenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/jsahlen)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/jsahlen/rbenv.plugin.zsh) - Variant based on the original oh-my-zsh rbenv plugin.
+* [rbenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ELLIOTTCABLE)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/ELLIOTTCABLE/rbenv.plugin.zsh) - A faster fork of the rbenv plugin from oh-my-zsh.
+* [rbenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/jsahlen)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/jsahlen/rbenv.plugin.zsh) - Variant based on the original oh-my-zsh rbenv plugin.
 * [redis](https://github.com/zservices/redis) - Will run `redis-server` pointing it to the `redis.conf` configuration file. This can be used with the [zdharma/zredis](https://github.com/zdharma/zredis) plugin to share variables between shells.
 * [reentry-hook](https://github.com/RobSis/zsh-reentry-hook) - Plugin that re-enters working directory if it has been removed and re-created.
 * [reminder](https://github.com/AlexisBRENON/oh-my-zsh-reminder) - A plugin which displays reminders above every prompt.
@@ -555,7 +555,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [robo-zsh-plugin](https://github.com/shengyou/robo-zsh-plugin) - A ZSH plugin for [Robo](https://robo.li/).
 * [rockz](https://github.com/aperezdc/rockz) - Lua + LuaRocks virtual environment manager based upon VirtualZ.
 * [ruby-switch](https://github.com/LockonS/ruby-switch) - Switch ruby versions and manage the PATH variable at the same time.
-* [rvm](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/johnhamelink/rvm-zsh) - Initiates RVM and adds rubygem binaries (https://github.com/unixorn/awesome-zsh-plugins/blob/master/like compass) accessible in the user's `$PATH`.
+* [rvm](https://github.com/johnhamelink/rvm-zsh) - Initiates RVM and adds rubygem binaries (https://github.com/unixorn/awesome-zsh-plugins/blob/master/like compass) accessible in the user's `$PATH`.
 * [safe-paste](https://github.com/oz/safe-paste) - A safe-paste plugin. See Conrad Irwin's [bracketed-paste](https://cirw.in/blog/bracketed-paste) blog post.
 * [saneopt](https://github.com/willghatch/zsh-saneopt) - Sane defaults for ZSH options, in the spirit of vim-sensible.
 * [schroot](https://github.com/fshp/schroot.plugin.zsh) - Show current `chroot` name in your prompt.
@@ -595,7 +595,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [tmux-fork](https://github.com/sharktamer/zsh-tmux) Standalone fork of the oh-my-zsh tmux plugin
 * [tmux-rename](https://github.com/sei40kr/zsh-tmux-rename) - Rename [tmux](https://tmux.github.io) windows automatically.
 * [tmux-simple](https://github.com/TBSliver/zsh-plugin-tmux-simple) - Simple plugin for using [tmux](https://tmux.github.io) with ZSH.
-* [tmux-vim-integration](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/jsahlen/tmux-vim-integration.plugin.zsh) - Open files in a running `vim` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or NeoVim) session, from an adjacent `tmux` pane.
+* [tmux-vim-integration](https://github.com/jsahlen/tmux-vim-integration.plugin.zsh) - Open files in a running `vim` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or NeoVim) session, from an adjacent `tmux` pane.
 * [tmux-zsh-vim-titles](https://github.com/MikeDacre/tmux-zsh-vim-titles) - Create unified terminal titles for `tmux`, ZSH, and Vim/NVIM, modular.
 * [tmux](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
 * [tmuxrepl](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L tmux session.
@@ -608,13 +608,13 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [uvenv](https://github.com/vincentto13/uvenv.plugin.zsh) - Extends the functionality of the original oh-my-zsh venv module
 * [vanilli.sh](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
 * [velocity](https://github.com/rahulsalvi/velocity-python) - Powerline-based theme elements for ZSH and [tmux](https://tmux.github.io).
-* [venv-lite](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gimbo/venv-lite.zsh) - A super-lightweight sort-of-clone of [virtualenvwrapper](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://virtualenvwrapper.readthedocs.io/en/latest/); it pretty much expects you to be using [pyenv](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/pyenv/pyenv) (https://github.com/unixorn/awesome-zsh-plugins/blob/master/though you don't *have* to), and because it's based on the [`venv` module](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://docs.python.org/3/library/venv.html), (https://github.com/unixorn/awesome-zsh-plugins/blob/master/creation) only works for python >= 3.3.
+* [venv-lite](https://github.com/gimbo/venv-lite.zsh) - A super-lightweight sort-of-clone of [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/); it pretty much expects you to be using [pyenv](https://github.com/pyenv/pyenv) (https://github.com/unixorn/awesome-zsh-plugins/blob/master/though you don't *have* to), and because it's based on the [`venv` module](https://docs.python.org/3/library/venv.html), (https://github.com/unixorn/awesome-zsh-plugins/blob/master/creation) only works for python >= 3.3.
 * [vi-mode](https://github.com/sinetoami/vi-mode) - Add more `vi`-like functionality to ZSH.
 * [viexchange](https://github.com/okapia/zsh-viexchange) - Vi mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
 * [vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly Vi-mode bindings, adding basic Emacs keys, incremental search, mode indicators and more.
 * [vim-plugin](https://github.com/nviennot/zsh-vim-plugin) - Allows you to do `vim filename:123` to open a file with the cursor at a specific line.
 * [vimman](https://github.com/yonchu/vimman) - View vim plugin manuals (help) like man in ZSH.
-* [vimto](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/laurenkt/zsh-vimto) - Improved ZSH vim mode (https://github.com/unixorn/awesome-zsh-plugins/blob/master/bindkey -v) plugin.
+* [vimto](https://github.com/laurenkt/zsh-vimto) - Improved ZSH vim mode (https://github.com/unixorn/awesome-zsh-plugins/blob/master/bindkey -v) plugin.
 * [virtualenv-mod](https://github.com/mattcl/virtualenv-mod) - A modified virtualenv ZSH plugin for oh-my-zsh.
 * [virtualenv-prompt](https://github.com/tonyseek/oh-my-zsh-virtualenv-prompt) - A fork of the virtualenv plugin from upstream. It adds support for customizing the virtualenv prompt in oh-my-zsh themes.
 * [virtualz](https://github.com/aperezdc/virtualz) - Python [virtualenv](https://virtualenv.pypa.io/en/latest/) manager inspired by Adam Brenecki's [Virtualfish](https://github.com/adambrenecki/virtualfish) for the [Fish shell](http://fishshell.com/), replaces virtualenvwrapper.
@@ -634,7 +634,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [workon](https://github.com/bryanculver/workon.plugin.zsh) - Simple utility for jumping between projects
 * [yadm](https://github.com/juanrgon/yadm-zsh) - Displays a warning if there are local yadm configuration changes.
 * [yapipenv](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's pip environment if `pipenv` detects the presence of one.
-* [yeoman-zsh-plugin](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (https://github.com/unixorn/awesome-zsh-plugins/blob/master/includes options and command auto-completion).
+* [yeoman-zsh-plugin](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (https://github.com/unixorn/awesome-zsh-plugins/blob/master/includes options and command auto-completion).
 * [you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use those aliases you defined.
 * [youtube-dl](https://github.com/joow/youtube-dl) - Simple plugin for [youtube-dl](https://youtube-dl.org/)
 * [z.lua](https://github.com/skywind3000/z.lua) - A command line tool which helps you navigate faster by learning your habits. An alternative to [z.sh](https://github.com/rupa/z) with windows and posix shells support and various improvements.
@@ -652,7 +652,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [zjump](https://github.com/qoomon/zjump) - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.
 * [zredis](https://github.com/zdharma/zredis) - Adds Redis database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
 * [zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native ZSH port of `z.sh` - without `awk`, `sed`, `sort`, or `date`.
-* [zshmarks](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (https://github.com/unixorn/awesome-zsh-plugins/blob/master/by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh.
+* [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (https://github.com/unixorn/awesome-zsh-plugins/blob/master/by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh.
 * [zshrc](https://github.com/freak2geek/zshrc) - Load local `.zshrc` files from your project scopes.
 * [zsnapac](https://github.com/johnramsden/zsh-zsnapac) - Plugin for taking ZFS pre/post upgrade snapshots on Arch Linux.
 * [zsnapshot](https://github.com/psprint/zsnapshot) - Adds command to dump the current ZSH state into a file, for later restoration by sourcing the snapshot file.
@@ -693,11 +693,11 @@ These plugins add tab completions without adding extra functions or aliases.
 * [gcloud-zsh-completion](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
 * [git-annex-completion](https://github.com/Schnouki/git-annex-zsh-completion) - Allows tab completion for most git-annex commands.
 * [git-flow-completion](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for git-flow.
-* [gradle-completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/eriwen)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gradle/gradle-completion) - Bash and ZSH completion support for gradle.
-* [gradle-completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ninrod)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/ninrod/gradle-zsh-completion) - ZSH completion support for gradle.
+* [gradle-completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/eriwen)](https://github.com/gradle/gradle-completion) - Bash and ZSH completion support for gradle.
+* [gradle-completion (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ninrod)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/ninrod/gradle-zsh-completion) - ZSH completion support for gradle.
 * [grid5000-zsh-plugin](https://github.com/pmorillon/grid5000-zsh-plugin) - Grid 5000 plugin - adds theme, autocompletions.
 * [gulp-autocompletion](https://github.com/srijanshetty/gulp-autocompletion-zsh) - Autocompletion for gulp.
-* [gulp](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/akoenig/gulp.plugin.zsh) - Autocompletion for your gulp.js tasks in the Z-Shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ZSH).
+* [gulp](https://github.com/akoenig/gulp.plugin.zsh) - Autocompletion for your gulp.js tasks in the Z-Shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/ZSH).
 * [hashlink](https://github.com/tong/zsh.plugin.hashlink) - Completions for [https://hashlink.haxe.org/](https://hashlink.haxe.org/).
 * [haxelib](https://github.com/tong/zsh.plugin.haxelib) - Completions for haxelib.
 * [ipfs](https://github.com/aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
@@ -719,9 +719,9 @@ These plugins add tab completions without adding extra functions or aliases.
 * [parallels-zsh-plugin](https://github.com/benclark/parallels-zsh-plugin) - Add completions for Parallels desktop.
 * [pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion) - convenience repo to easily obtain [pass](https://www.passwordstore.org/) command completion for ZSH.
 * [pip-completion](https://github.com/srijanshetty/zsh-pip-completion) - Autocompletion plugin for pip.
-* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/AlexGascon)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/AlexGascon/pipenv-oh-my-zsh) - Enables aliases for the most common pipenv commands.
-* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/gangleri)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gangleri/pipenv) - Completions for `pipenv`.
-* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/owenstranathan)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/owenstranathan/pipenv.zsh) - automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
+* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/AlexGascon)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/AlexGascon/pipenv-oh-my-zsh) - Enables aliases for the most common pipenv commands.
+* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/gangleri)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/gangleri/pipenv) - Completions for `pipenv`.
+* [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/owenstranathan)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/owenstranathan/pipenv.zsh) - automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
 * [pks-autocomplete](https://github.com/tybritten/pks-zsh-autocomplete-plugin) - Adds completions for Pivotal's [PKS CLI](https://network.pivotal.io/products/pivotal-container-service)
 * [racket completion](https://github.com/racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
 * [rake-completion.zshplugin](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
@@ -771,7 +771,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [asciigit](https://github.com/cemsbr/asciigit) - An ASCII-only theme for `git` users who don't want to use fonts with extra glyphs.
 * [asq](https://github.com/AugustoQueiroz/asq-theme) - Based on [theunraveler](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#theunraveler).
 * [astral](https://github.com/alphabetum/astral) - Theme for dark backgrounds with zen mode.
-* [astro](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/iplaces/astro-zsh-theme/blob/master/README.md) - Based on [`ys`](https://github.com/unixorn/awesome-zsh-plugins/blob/master/http://blog.ysmood.org/my-ys-terminal-theme/) theme and `robbyrussell` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/default theme) theme.
+* [astro](https://github.com/iplaces/astro-zsh-theme/blob/master/README.md) - Based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/) theme and `robbyrussell` (https://github.com/unixorn/awesome-zsh-plugins/blob/master/default theme) theme.
 * [aterminal](https://github.com/guiferpa/aterminal) - Displays Nodejs, NPM, Docker, Go, Python, Elixir and Ruby information in the prompt.
 * [avit-d2k](https://github.com/fdaciuk/avit-da2k) - Based on the oh-my-zsh [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) theme, with small changes.
 * [avit-mod](https://github.com/zlsun/avit-mod) - Modified version of oh-my-zsh's [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) theme.
@@ -807,8 +807,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [cinnabar](https://github.com/nvillapiano/zsh-theme---cinnabar) - Shows timestamp, large line breaks, git branch and status.
 * [clarity](https://github.com/nbitmage/clarity.zsh) - Designed for for simpleness and extensibility.
 * [classyTouch](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Minimal, clean theme with `git` support.
-* [clean (https://github.com/unixorn/awesome-zsh-plugins/blob/master/akz92)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/akz92/clean) - Minimalist ZSH theme.
-* [clean (https://github.com/unixorn/awesome-zsh-plugins/blob/master/BrandonRoehl)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/BrandonRoehl/zsh-clean) - A minimalist variant of [pure](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/sindresorhus/pure). Pure is not clean, clean is not pure.
+* [clean (https://github.com/unixorn/awesome-zsh-plugins/blob/master/akz92)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/akz92/clean) - Minimalist ZSH theme.
+* [clean (https://github.com/unixorn/awesome-zsh-plugins/blob/master/BrandonRoehl)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/BrandonRoehl/zsh-clean) - A minimalist variant of [pure](https://github.com/sindresorhus/pure). Pure is not clean, clean is not pure.
 * [cloudy](https://github.com/Huvik/Cloudy) - Minimal cloudy ZSH theme.
 * [clover](https://github.com/tzing/clover.zsh-theme) - Inspired by [zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme) and [pure](https://github.com/sindresorhus/pure).
 * [cmder-wsl](https://github.com/szyminson/cmder-wsl-zsh) - Configuration file for [cmder](http://cmder.net/) configured to work in quake mode with ZSH and a modified [Agnoster](https://gist.github.com/agnoster/3712874) theme.
@@ -837,7 +837,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [droolscar](https://github.com/isuke/droolscar) - [Powerline](https://github.com/powerline/powerline) variant.
 * [dustmod](https://github.com/bmihaila/dustmod) - Derived from the [dst](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/dst.zsh-theme) theme in oh-my-zsh.
 * [eggshausted](https://github.com/inutano/eggshausted) - A `git`-aware theme for people who are tired of getting errors.
-* [emojeer](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/lxynox/emojeer-ohmyzsh) - Emoji flavored [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/robbyrussell/oh-my-zsh) theme.
+* [emojeer](https://github.com/lxynox/emojeer-ohmyzsh) - Emoji flavored [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/robbyrussell/oh-my-zsh) theme.
 * [endless-dog](https://github.com/qwelyt/endless-dog) - OMZ theme that mimics grml-zsh-config.
 * [enormous](https://github.com/leighmcculloch/zsh-theme-enormous) - Takes up an enormous amount of space in the terminal.
 * [eriner](https://github.com/zimfw/eriner) - A Zim fork of the Powerline-inspired agnoster prompt theme. Includes `git` status decorations.
@@ -871,17 +871,17 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [hackersaurus](https://github.com/bhilburn/hackersaurus) - A theme with `git` status and exit code of last command run embedded in the prompt. Related to [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
 * [hanpen](https://github.com/kojole/hanpen.zsh-theme) - Shows `git` branch and status, last command exit code, last command execution time if more than `ZSH_THEME_HANPEN_CMD_MAX_EXEC_TIME`.
 * [haribo](https://github.com/haribo/omz-haribo-theme) - Simple `git` status + timestamp in prompt.
-* [hcompact](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/fusion809/zsh-theme) - Displays time, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
+* [hcompact](https://github.com/fusion809/zsh-theme) - Displays time, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
 * [heart](https://github.com/gko/heart-theme) - Heart themed prompt for light backgrounds.
 * [hedgehog](https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157) - Simple, no-nonsense and clean, with support for `git` and return codes.
-* [helb](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/helb/helb.zshtheme) - Loosely based on Gentoo's old bash theme. Includes `git` information, return value of last command, and uses different username color and prompt char for users (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`$`) and root (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`#`).
-* [hfulldate](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/fusion809/zsh-theme) - Displays time, date, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
+* [helb](https://github.com/helb/helb.zshtheme) - Loosely based on Gentoo's old bash theme. Includes `git` information, return value of last command, and uses different username color and prompt char for users (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`$`) and root (https://github.com/unixorn/awesome-zsh-plugins/blob/master/`#`).
+* [hfulldate](https://github.com/fusion809/zsh-theme) - Displays time, date, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
 * [hhktony](https://github.com/hhktony/hhktony.zsh-theme) - Inspired by robbyrussell theme + ssh connection status prompt.
 * [himself](https://github.com/mwamodojnr/himself) - Optimized for people using `git`, [solarized](https://github.com/altercation/solarized) terminals and unicode-compatible fonts.
 * [hipstersmoothie-p9x](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - A variant of [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
 * [honukai-iterm](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for oh-my-zsh and iTerm 2.
 * [horizontal](https://github.com/nuimk/horizontal) - Two line prompt with a horizontal separator.
-* [hornix](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/fusion809/zsh-theme) - Displays time & date, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
+* [hornix](https://github.com/fusion809/zsh-theme) - Displays time & date, OS (https://github.com/unixorn/awesome-zsh-plugins/blob/master/including distro if on Linux), directory and whether running as root.
 * [horse-sh](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
 * [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
 * [hyperzsh](https://github.com/tylerreckart/hyperzsh) - Gives you a comprehensive overview of the branch you're working on and the status of your repository without cluttering your terminal.
@@ -950,7 +950,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [molokai-powerline](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
 * [moonline](https://github.com/kagamilove0707/moonline.zsh) - Minimal but easily extensible prompt.
 * [moux](https://github.com/gagbo/moux) - Works well with a dark background, includes `git` decorations in `RPROMPT`.
-* [multi-shell-repo-prompt](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/dotcode/multi-shell-repo-prompt) - Provides useful information (https://github.com/unixorn/awesome-zsh-plugins/blob/master/in your prompt) about the repository that you are in. It currently works for [Git](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://git-scm.com/) and [Mercurial](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://www.mercurial-scm.org/), under [ZSH](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://en.wikipedia.org/wiki/Zsh) as well as [bash](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29).
+* [multi-shell-repo-prompt](https://github.com/dotcode/multi-shell-repo-prompt) - Provides useful information (https://github.com/unixorn/awesome-zsh-plugins/blob/master/in your prompt) about the repository that you are in. It currently works for [Git](https://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), under [ZSH](https://en.wikipedia.org/wiki/Zsh) as well as [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29).
 * [multiline](https://github.com/jan-auer/zsh-multiline) - Powerline-esque theme based on [agnoster](https://github.com/agnoster/agnoster-zsh-theme).
 * [muslim](https://github.com/nksoff/muslim) - A simple minimal ZSH prompt theme.
 * [nanofish](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
@@ -964,11 +964,11 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [nknu](https://github.com/aanc/oh-my-zsh-nknu-theme) - A simple oh-my-zsh theme.
 * [nmaxcom](https://github.com/nmaxcom/nmaxcom-zsh-theme) - Minimalist ZSH theme with `git` status decorations.
 * [node](https://github.com/skuridin/oh-my-zsh-node-theme) - OMZ's node theme, broken out to make it easier to use with other plugin managers.
-* [nodeys](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/marszall87/nodeys-zsh-theme) - Based on ys theme, with added NodeJS version (https://github.com/unixorn/awesome-zsh-plugins/blob/master/from NVM plugin).
+* [nodeys](https://github.com/marszall87/nodeys-zsh-theme) - Based on ys theme, with added NodeJS version (https://github.com/unixorn/awesome-zsh-plugins/blob/master/from NVM plugin).
 * [noon](https://github.com/silky/noon.zsh-theme) - Has light and dark variants, shows `git` information.
 * [nothing](https://github.com/eendroroy/nothing) - Lightning fast and really simple because it has almost nothing in it.
 * [nox](https://github.com/kbrsh/nox) - Dark theme, displays the current working directory and git status.
-* [nt9](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - Clean, distraction free and `git` focused development theme. Shows path relative to `git` root (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or ~ when outside `git` repo), time since last commit, current SHA, branch and branch state.
+* [nt9](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - Clean, distraction free and `git` focused development theme. Shows path relative to `git` root (https://github.com/unixorn/awesome-zsh-plugins/blob/master/or ~ when outside `git` repo), time since last commit, current SHA, branch and branch state.
 * [nuqlezsh](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - Simple theme for prezto and oh-my-zsh.
 * [odin](https://github.com/tylerreckart/odin) - Odin is a `git`-flavored ZSH theme.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated prompt for bash and ZSH.
@@ -979,7 +979,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [page](https://github.com/SLIB53/page-zsh-theme) - A simple theme with VCS support. The prompt shows 1 level of the current working directory, branch, and a color coded curved fat arrow.
 * [papercolor](https://github.com/erikschreier/PaperColor-themes) - Color scheme for ZSH, `vim` and `tmux`. Includes `git` status decorations.
 * [pastel](https://github.com/iboyperson/pastel) - A ZSH theme inspired by [sugar-free](https://github.com/cbrock/sugar-free). Includes `git` decorations.
-* [phi φ](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/LasaleFamine/phi-zsh-theme) - A clean and simple theme for ZSH inspired and forked from [Lambda (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Mod) ZSH Theme](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/halfo/lambda-mod-zsh-theme).
+* [phi φ](https://github.com/LasaleFamine/phi-zsh-theme) - A clean and simple theme for ZSH inspired and forked from [Lambda (https://github.com/unixorn/awesome-zsh-plugins/blob/master/Mod) ZSH Theme](https://github.com/halfo/lambda-mod-zsh-theme).
 * [plain](https://github.com/jimeh/plain.zsh-theme) - A plain and simple theme for ZSH which shows basic `git` information.
 * [planet](https://github.com/borb/planet-zsh) - A slimmed down version of [steef](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) from [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 * [platypus](https://github.com/fdv/platypus) - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
@@ -989,22 +989,22 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerless](https://github.com/martinrotter/powerless) - Tiny & simple pure ZSH prompt inspired by powerline.
 * [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Powerlevel9k is a theme for ZSH which uses [Powerline Fonts](https://github.com/powerline/fonts). It can be used with vanilla ZSH or ZSH frameworks such as [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh), [Prezto](https://github.com/sorin-ionescu/prezto), [Antigen](https://github.com/zsh-users/antigen), and [many others](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions).
 * [powerlevelHipstersmoothie](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - Add-on for [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
-* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/brucehsu)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/brucehsu/oh-my-zsh-powerline-theme) - A two-line version of powerline: one for information, one for input.
-* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/jeremy)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - Another take on a powerline theme. Nicely configurable, but requires at least a 256 color-capable terminal with a powerline-compatible terminal font.
-* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/syui)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/syui/powerline.zsh) - A git aware powerline theme.
+* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/brucehsu)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/brucehsu/oh-my-zsh-powerline-theme) - A two-line version of powerline: one for information, one for input.
+* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/jeremy)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/jeremyFreeAgent/oh-my-zsh-powerline-theme) - Another take on a powerline theme. Nicely configurable, but requires at least a 256 color-capable terminal with a powerline-compatible terminal font.
+* [powerline (https://github.com/unixorn/awesome-zsh-plugins/blob/master/syui)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/syui/powerline.zsh) - A git aware powerline theme.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train.zsh).
 * [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in golang.
 * [powerline-hs](https://github.com/rdnetto/powerline-hs) - A [Powerline](https://github.com/powerline/powerline) clone written in Haskell. It is significantly faster than the original implementation, and makes the shell noticeably more responsive.
 * [powerline-pills](https://github.com/lucasqueiroz/powerline-pills-zsh) - Created in Ruby, uses powerline characters to simulate pills with useful information.
-* [powerline-shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/b-ryan)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/b-ryan/powerline-shell) - Beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh.
-* [powerline-shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/banga)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/b-ryan/powerline-shell) - A [powerline](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
+* [powerline-shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/b-ryan)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/b-ryan/powerline-shell) - Beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh.
+* [powerline-shell (https://github.com/unixorn/awesome-zsh-plugins/blob/master/banga)](https://github.com/b-ryan/powerline-shell) - A [powerline](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
 * [powerline-train](https://github.com/sherubthakur/powerline-train) - A powerline variant.
 * [powerline](https://github.com/carlcarl/powerline-zsh) - A [Powerline](https://github.com/Lokaltog/vim-powerline)-like prompt, based on [powerline-bash](https://github.com/milkbikis/powerline-bash). Displays virtualenv, `git` status information and the exit code of the last command run.
 * [powerzeesh](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme).
 * [pre](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm 2 and ZSH.
 * [predawn-shell](https://github.com/jamiewilson/predawn-shell) - Theme optimized for dark terminal themes.
 * [prezto-cloud-prompt](https://github.com/klaude/prezto-cloud-prompt) - Prezto port of oh-my-zsh's cloud prompt.
-* [prezto-lambda](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/nixolas1/prezto-lambda) - Lambda theme (https://github.com/unixorn/awesome-zsh-plugins/blob/master/for prezto).
+* [prezto-lambda](https://github.com/nixolas1/prezto-lambda) - Lambda theme (https://github.com/unixorn/awesome-zsh-plugins/blob/master/for prezto).
 * [prezto_powerline](https://github.com/davidjrice/prezto_powerline) - Powerline for prezto. Shows git information, RVM version.
 * [prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - A fairly heavyweight ZSH prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background.
 * [prompt_j2](https://github.com/malinoskj2/prompt_j2) - Has a dynamic exit status indicator, can change to two lines dynamically to display context.
@@ -1016,7 +1016,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [pustelto](https://github.com/Pustelto/shell_theme) - Colorful theme inspired by the [Spaceship](https://github.com/denysdovhan/spaceship-prompt) theme, includes `git` decorations.
 * [qoomon](https://github.com/qoomon/zsh-theme-qoomon) - Optimized for dark backgrounds, includes `git` information. Theme repo includes iTerm 2 and Terminal color settings.
 * [racotecnic](https://github.com/elboletaire/zsh-theme-racotecnic) - Based on af-magic and posh-git.
-* [radium](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/dimitardimitrov/radium) - Designed for dark terminals, (https://github.com/unixorn/awesome-zsh-plugins/blob/master/works best with [Solarized](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/altercation/solarized) iTerm 2 theme) (https://github.com/unixorn/awesome-zsh-plugins/blob/master/prezto).
+* [radium](https://github.com/dimitardimitrov/radium) - Designed for dark terminals, (https://github.com/unixorn/awesome-zsh-plugins/blob/master/works best with [Solarized](https://github.com/altercation/solarized) iTerm 2 theme) (https://github.com/unixorn/awesome-zsh-plugins/blob/master/prezto).
 * [rafiki](https://github.com/akabiru/rafiki-zsh) - Adds emojis to your ZSH terminal.
 * [random-emoji-robbyrussell](https://github.com/parwat08/random-emoji-robbyrussell) - Based on [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) and `robbyrussell` themes.
 * [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) - Random emoji.
@@ -1068,8 +1068,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [staples](https://github.com/dersam/staples) - Based on bureau, displays user@host if connected through SSH.
 * [starboy](https://github.com/prdpx7/Starboy) - A simple ZSH theme
 * [statusline](https://github.com/el1t/statusline) - A responsive ZSH theme that provides informational segments when you need them.
-* [steef (https://github.com/unixorn/awesome-zsh-plugins/blob/master/danihodovic)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/danihodovic/steeef) - ZSH steeef theme as a standalone repository. The purpose behind this repo is avoid having a dependency on oh-my-zsh when using the steeef theme. ZSH plugin managers such as Antibody can use the theme without having to use oh-my-zsh.
-* [steef (https://github.com/unixorn/awesome-zsh-plugins/blob/master/zimfw)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/zimfw/steeef) - A customizable version of [steeef's](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) theme.
+* [steef (https://github.com/unixorn/awesome-zsh-plugins/blob/master/danihodovic)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/danihodovic/steeef) - ZSH steeef theme as a standalone repository. The purpose behind this repo is avoid having a dependency on oh-my-zsh when using the steeef theme. ZSH plugin managers such as Antibody can use the theme without having to use oh-my-zsh.
+* [steef (https://github.com/unixorn/awesome-zsh-plugins/blob/master/zimfw)](https://github.com/https://github.com/unixorn/awesome-zsh-plugins/blob/master/zimfw/steeef) - A customizable version of [steeef's](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) theme.
 * [sugar-free](https://github.com/cbrock/sugar-free) - Based on the [Pure](https://github.com/sindresorhus/pure) and [Candy](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/candy.zsh-theme) themes.
 * [sukeesh](https://github.com/sukeesh/sukeesh-zsh-theme) - Includes `git` status decorations. Works better on dark terminal backgrounds.
 * [susi](https://github.com/carcruz/susi-zsh-iterm) - Includes `git` status decorations and an accompanying iTerm2 color scheme.
@@ -1126,7 +1126,7 @@ Some of the themes listed here require Powerline-compatible fonts, here are a fe
 * [Hack](https://sourcefoundry.org/hack/) - Another Powerline-compatible font designed specifically for source code.
 * [Input Mono](http://input.fontbureau.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes powerline glyphs.
 * [Monoid](https://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
-* [nerd fonts](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (https://github.com/unixorn/awesome-zsh-plugins/blob/master/over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
+* [nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (https://github.com/unixorn/awesome-zsh-plugins/blob/master/over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
 * [Powerline patched font collection](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs.
 * [Terminus](http://files.ax86.net/terminus-ttf/) - TTF version of Terminus that includes powerline glyphs.
 * [Iosevka](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable.

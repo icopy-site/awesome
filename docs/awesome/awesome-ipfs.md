@@ -24,7 +24,7 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 Everyone is welcome to submit their new awesome-ipfs item. In order to add an element to this list, you need to modify the files in `/data` and then run a simple `make build` before publishing your pull request as the Readme and the website are automatically generated. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
-**NOTE**: If you want to edit the README file directly (https://github.com/ipfs/awesome-ipfs/blob/master/not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead and run `make build` again. Thank you!
+**NOTE**: If you want to edit the README file directly (https://github.com/ipfs/awesome-ipfs/blob/master/not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead and run `make build` again. Thank you!
 
 ## Apps
 
@@ -54,10 +54,10 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - Gorilla is a rich REPL for Clojure in the notebook style. [Demo](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-- [hasteIPFS](https://github.com/ipfs/awesome-ipfs/blob/master/https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (https://github.com/ipfs/awesome-ipfs/blob/master/Read only for now)
+- [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (https://github.com/ipfs/awesome-ipfs/blob/master/Read only for now)
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 - [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access toEthereum and IPFS to help build decentralized application easier.
-- [InterPlanetary Wayback](https://github.com/ipfs/awesome-ipfs/blob/master/https://github.com/oduwsdl/ipwb) - Web Archive (https://github.com/ipfs/awesome-ipfs/blob/master/WARC) indexing and replay using IPFS.
+- [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (https://github.com/ipfs/awesome-ipfs/blob/master/WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
@@ -74,7 +74,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
-- [OpenBazaar](https://github.com/ipfs/awesome-ipfs/blob/master/https://www.openbazaar.org/) - This new version(https://github.com/ipfs/awesome-ipfs/blob/master/v2.0) is built on IPFS, Openbazaar stores can now be accessible to buyers even when they are offline.
+- [OpenBazaar](https://www.openbazaar.org/) - This new version(https://github.com/ipfs/awesome-ipfs/blob/master/v2.0) is built on IPFS, Openbazaar stores can now be accessible to buyers even when they are offline.
 - [Orbit](https://orbit.chat) - Distributed, peer-to-peer chat application on IPFS. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source](https://github.com/OriginProtocol/demo-dapp)
 - [Partyshare](https://partysha.re) - A simple file sharing app.
@@ -127,7 +127,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Tools
 
-- [Blockwatch](https://github.com/ipfs/awesome-ipfs/blob/master/https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (https://github.com/ipfs/awesome-ipfs/blob/master/stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/ipfs/awesome-ipfs/blob/master/https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (https://github.com/ipfs/awesome-ipfs/blob/master/stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 - [dillo-ipfs](https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/) - IPFS integration for the Dillo web browser. [Source](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.

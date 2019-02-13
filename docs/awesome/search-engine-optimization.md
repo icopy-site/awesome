@@ -1,4 +1,4 @@
-## [Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO)](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://marcobiedermann.github.io/search-engine-optimization/)
+## [Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
@@ -55,11 +55,11 @@ A helpful checklist / collection of Search Engine Optimization (https://github.c
 * **[RichSnippets](https://schema.org/):** markup your code with rich snippets, they show up on the search results page
 * **Robots:** block pages which should not be indexed via the `robots.txt` file or
 `<meta name="robots" content="">`
-* **Validation:** write valid code (https://github.com/marcobiedermann/search-engine-optimization/blob/master/[HTML Validator](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://validator.w3.org/) [CSS Validator](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://jigsaw.w3.org/css-validator/))
+* **Validation:** write valid code (https://github.com/marcobiedermann/search-engine-optimization/blob/master/[HTML Validator](https://validator.w3.org/) [CSS Validator](https://jigsaw.w3.org/css-validator/))
 * **[WAI-Aria](https://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understand your code
 
 ## Meta Information
-* **[Description](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (https://github.com/marcobiedermann/search-engine-optimization/blob/master/max. 160 characters)
+* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (https://github.com/marcobiedermann/search-engine-optimization/blob/master/max. 160 characters)
 `<meta name="description" content="">`
 * **Title:** each page should have a unique speaking title (https://github.com/marcobiedermann/search-engine-optimization/blob/master/60 - 100 characters)
 `<title>Website Title</title>`
@@ -84,7 +84,7 @@ search engines do not use this meta tag
 * **[Uniqueness](https://www.youtube.com/watch?v=mQZY7EmjbMA):** do not provide duplicated content, use unique content types
 
 ## Images
-* **[Alt tag](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://support.google.com/webmasters/answer/114016):** add an alt-tag this a description of the image (https://github.com/marcobiedermann/search-engine-optimization/blob/master/60 - 70 characters)
+* **[Alt tag](https://support.google.com/webmasters/answer/114016):** add an alt-tag this a description of the image (https://github.com/marcobiedermann/search-engine-optimization/blob/master/60 - 70 characters)
 * **Dimensions:** add the `width=""` and `height=""` attributes to the image
 * **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0):** use a short descriptive name
 * **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
@@ -138,7 +138,7 @@ search engines do not use this meta tag
 
 ### Webmasters
 * **[Bing Webmasters](http://www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
-* **[Google Search Console (https://github.com/marcobiedermann/search-engine-optimization/blob/master/GWT)](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility of their websites
+* **[Google Search Console (https://github.com/marcobiedermann/search-engine-optimization/blob/master/GWT)](https://www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility of their websites
 * **[Google Tag Manager](https://www.google.com/analytics/tag-manager/):** learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
@@ -169,7 +169,7 @@ search engines do not use this meta tag
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
 * **[Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator):** this tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
-* **[Screaming Frog SEO Spider Tool & Crawler Software](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (https://github.com/marcobiedermann/search-engine-optimization/blob/master/PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
+* **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (https://github.com/marcobiedermann/search-engine-optimization/blob/master/PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
 
 ### Structured Data
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** enter the URL you want to scrape to see how the page's markup appears to Facebook
@@ -193,7 +193,7 @@ search engines do not use this meta tag
 * **[Google sitemap](https://typo3.org/extensions/repository/view/dd_googlesitemap):** High performance Google sitemap implementation that avoids typical errors by other similar extensions.
 
 ### WordPress Plugins
-* **[All in One SEO Pack](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (https://github.com/marcobiedermann/search-engine-optimization/blob/master/almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
+* **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (https://github.com/marcobiedermann/search-engine-optimization/blob/master/almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
 * **[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/):** improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 
 ## Books
@@ -215,7 +215,7 @@ search engines do not use this meta tag
 * **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101):** Ecommerce SEO 101 Video Series with Helen Overland by shopify
 * **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html):** make web sites more accessible and search engine friendly through proper markup and web standards compliance. With Morten Rand-Hendriksen by Lynda.com
 * **[International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html):** attract international visitors to your websites with these SEO tips. Learn how to determine target markets and optimize your website's technical aspects and content for countries and languages around the world. With David Booth by Lynda.com
-* **[Learning Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO): A Video Introduction](https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction):** Learning Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO): A Video Introduction with Matt Bailey by video2brain
+* **[Learning Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction):** Learning Search Engine Optimization (https://github.com/marcobiedermann/search-engine-optimization/blob/master/https://github.com/marcobiedermann/search-engine-optimization/blob/master/SEO): A Video Introduction with Matt Bailey by video2brain
 * **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics):** Learning Web Analytics with Matt Bailey by video2brain
 * **[SEO for Beginners](http://seoforbeginners.com/):** SEO for Beginners: A Video Guide Introduction
 * **[SEO for Ecommerce](https://www.lynda.com/Google-Analytics-tutorials/SEO-Ecommerce/386884-2.html):** SEO for ecommerce is different. Get strategies tailored for optimizing an online store to improve page rankings and build traffic. With Steven Harris by Lynda.com

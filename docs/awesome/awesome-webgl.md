@@ -120,7 +120,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 * [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
-* [WebGl Playground](https://github.com/sjfricke/awesome-webgl/blob/master/http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (https://github.com/sjfricke/awesome-webgl/blob/master/if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
+* [WebGl Playground](http://jessevdk.github.io/webgl-play/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (https://github.com/sjfricke/awesome-webgl/blob/master/if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
 * [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
@@ -188,7 +188,7 @@ Processing Unit (https://github.com/sjfricke/awesome-webgl/blob/master/GPU).
 
 > WebGL 2 references
 
-* [WebGL 2 Spec Sheet (https://github.com/sjfricke/awesome-webgl/blob/master/Editor Draft)](https://github.com/sjfricke/awesome-webgl/blob/master/https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
+* [WebGL 2 Spec Sheet (https://github.com/sjfricke/awesome-webgl/blob/master/Editor Draft)](https://www.khronos.org/registry/webgl/specs/latest/2.0/) - All the detailed information about WebGL 2.
 * [WebGL 2 Reference Card](https://www.khronos.org/files/webgl20-reference-guide.pdf) - WebGL 2.0 API Quick Reference Card for printing.
 * [WebGL 2 Compatible Chart](https://caniuse.com/#feat=webgl2) - Chart to show current browsers supporting WebGL 2
 

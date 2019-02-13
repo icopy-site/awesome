@@ -1,4 +1,4 @@
-![Awesome MongoDB](https://github.com/ramnes/awesome-mongodb/blob/master/logo.png)
+![Awesome MongoDB](https://raw.githubusercontent.com/ramnes/awesome-mongodb/master/logo.png)
 
 ## Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -6,7 +6,7 @@
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
 ## Table of Contents
  - [Resources](#resources)
@@ -53,26 +53,26 @@ Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/
  - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
  - [MongoDB documentation](https://docs.mongodb.com/manual/)
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
- - [More MongoDB tutorials (https://github.com/ramnes/awesome-mongodb/blob/master/by Studio 3T)](https://github.com/ramnes/awesome-mongodb/blob/master/https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
+ - [More MongoDB tutorials (https://github.com/ramnes/awesome-mongodb/blob/master/by Studio 3T)](https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
 
 ### Articles
 
- - [14 Things I Wish I'd Known When Starting with MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/Phil Factor)](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.infoq.com/articles/Starting-With-MongoDB)
- - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (https://github.com/ramnes/awesome-mongodb/blob/master/Ahmad Awais)](https://github.com/ramnes/awesome-mongodb/blob/master/https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
- - [Five Things About Scaling MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.)](https://github.com/ramnes/awesome-mongodb/blob/master/https://emptysqua.re/blog/five-things/) - Scale 101
- - [Optimizing MongoDB Compound Indexes (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.)](https://github.com/ramnes/awesome-mongodb/blob/master/https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
- - [Server Discovery And Monitoring In PyMongo, Perl, And C (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.) ](https://github.com/ramnes/awesome-mongodb/blob/master/https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
- - [Monitoring MongoDB performance metrics (https://github.com/ramnes/awesome-mongodb/blob/master/Jean-Mathieu Saponaro, Datadog)](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
+ - [14 Things I Wish I'd Known When Starting with MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB)
+ - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (https://github.com/ramnes/awesome-mongodb/blob/master/Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
+ - [Five Things About Scaling MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
+ - [Optimizing MongoDB Compound Indexes (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
+ - [Server Discovery And Monitoring In PyMongo, Perl, And C (https://github.com/ramnes/awesome-mongodb/blob/master/A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
+ - [Monitoring MongoDB performance metrics (https://github.com/ramnes/awesome-mongodb/blob/master/Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
  - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
- - [MongoDB Applied Design Patterns (https://github.com/ramnes/awesome-mongodb/blob/master/Rick Copeland)](https://github.com/ramnes/awesome-mongodb/blob/master/http://shop.oreilly.com/product/0636920027041.do)
+ - [MongoDB Applied Design Patterns (https://github.com/ramnes/awesome-mongodb/blob/master/Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction
 
 ### Talks
- - [MongoDB Schema Design (https://github.com/ramnes/awesome-mongodb/blob/master/Tugdual Grall, MongoDB Inc.)](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
- - [Partial and Fuzzy Matching with MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/John Page, MongoDB Inc.)](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.youtube.com/watch?v=hXbLHInH5qU) [35']
- - [Scaling MongoDB on Amazon Web Services (https://github.com/ramnes/awesome-mongodb/blob/master/Michael Saffitz, Apptentive)](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
+ - [MongoDB Schema Design (https://github.com/ramnes/awesome-mongodb/blob/master/Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
+ - [Partial and Fuzzy Matching with MongoDB (https://github.com/ramnes/awesome-mongodb/blob/master/John Page, MongoDB Inc.)](https://www.youtube.com/watch?v=hXbLHInH5qU) [35']
+ - [Scaling MongoDB on Amazon Web Services (https://github.com/ramnes/awesome-mongodb/blob/master/Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
  - [Create a TV Show Tracker Using AngularJS, Node.js, and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - Build a REST API using Mongoose to create and retrieve data
@@ -119,7 +119,7 @@ Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/
  - [mongo-queue-java](https://github.com/gaillard/mongo-queue-java) - Java message queue on top of MongoDB
  - [mongoFS](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
  - [Mongojack](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
- - [Morphia](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/MorphiaOrg/morphia) - Java ODM (https://github.com/ramnes/awesome-mongodb/blob/master/"Object-Document Mapper")
+ - [Morphia](https://github.com/MorphiaOrg/morphia) - Java ODM (https://github.com/ramnes/awesome-mongodb/blob/master/"Object-Document Mapper")
  - [Morphium](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
  - [Mungbean](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
  - [Spring Data MongoDB](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
@@ -127,7 +127,7 @@ Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
  - [MEAN.JS](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
- - [MERN (https://github.com/ramnes/awesome-mongodb/blob/master/mern-starter)](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
+ - [MERN (https://github.com/ramnes/awesome-mongodb/blob/master/mern-starter)](https://github.com/Hashnode/https://github.com/ramnes/awesome-mongodb/blob/master/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
  - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
@@ -163,12 +163,12 @@ Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
- - [Mongo-Thingy](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (https://github.com/ramnes/awesome-mongodb/blob/master/schemaless)
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (https://github.com/ramnes/awesome-mongodb/blob/master/schemaless)
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
- - [PyMongo](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/mongodb/mongo-python-driver) - Official (https://github.com/ramnes/awesome-mongodb/blob/master/and recommended) Python driver
+ - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (https://github.com/ramnes/awesome-mongodb/blob/master/and recommended) Python driver
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
- - [μMongo](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/Scille/umongo) - Driver-independent (https://github.com/ramnes/awesome-mongodb/blob/master/async/sync) ODM based on marshmallow
+ - [μMongo](https://github.com/Scille/umongo) - Driver-independent (https://github.com/ramnes/awesome-mongodb/blob/master/async/sync) ODM based on marshmallow
 
 ### R
  - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
@@ -200,16 +200,16 @@ Inspired by the [awesome](https://github.com/ramnes/awesome-mongodb/blob/master/
 Services:
 
  - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
- - [mLab](https://github.com/ramnes/awesome-mongodb/blob/master/https://mlab.com/) - Fully managed DBaaS (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoLab)
- - [MongoDB Atlas](https://github.com/ramnes/awesome-mongodb/blob/master/https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (https://github.com/ramnes/awesome-mongodb/blob/master/works with AWS, Azure, or GCP)
+ - [mLab](https://mlab.com/) - Fully managed DBaaS (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoLab)
+ - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (https://github.com/ramnes/awesome-mongodb/blob/master/works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
- - [Scalegrid](https://github.com/ramnes/awesome-mongodb/blob/master/https://scalegrid.io) - Fully managed DBaaS (https://github.com/ramnes/awesome-mongodb/blob/master/with option to bring your own Azure/AWS account)
+ - [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (https://github.com/ramnes/awesome-mongodb/blob/master/with option to bring your own Azure/AWS account)
 
 ### Data
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
- - [Mongolastic](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (https://github.com/ramnes/awesome-mongodb/blob/master/and vice-versa) migration tool
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (https://github.com/ramnes/awesome-mongodb/blob/master/and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
  - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
 
@@ -218,16 +218,16 @@ Services:
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [Dockerfile](https://github.com/dockerfile/mongodb)
  - [Helm Chart](https://github.com/helm/charts/tree/master/stable/mongodb)
- - [puppet-mongodb](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/voxpupuli/puppet-mongodb) - Puppet module (https://github.com/ramnes/awesome-mongodb/blob/master/formerly puppetlabs-mongodb)
+ - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (https://github.com/ramnes/awesome-mongodb/blob/master/formerly puppetlabs-mongodb)
 
 ### Desktop
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
- - [NoSQLBooster](https://github.com/ramnes/awesome-mongodb/blob/master/https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoBooster)
- - [Nosqlclient](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (https://github.com/ramnes/awesome-mongodb/blob/master/formerly Mongoclient)
- - [Robo 3T](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (https://github.com/ramnes/awesome-mongodb/blob/master/formerly Robomongo)
- - [Studio 3T](https://github.com/ramnes/awesome-mongodb/blob/master/https://studio3t.com/) - Cross-platform GUI, stable and powerful (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoChef)
+ - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoBooster)
+ - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (https://github.com/ramnes/awesome-mongodb/blob/master/formerly Mongoclient)
+ - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (https://github.com/ramnes/awesome-mongodb/blob/master/formerly Robomongo)
+ - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (https://github.com/ramnes/awesome-mongodb/blob/master/formerly MongoChef)
 
 ### Development
  - [DB — AI Playground](https://play.db-ai.co) - Online playground to write, debug and share aggregations and queries
@@ -242,14 +242,14 @@ Services:
  - [MongoDB Stitch](https://www.mongodb.com/cloud) - MongoDB Inc. serverless platform offer
 
 ### Monitoring
- - [check_mongodb](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/dalenys/check_mongodb) - Nagios plugin (https://github.com/ramnes/awesome-mongodb/blob/master/in Bash)
+ - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (https://github.com/ramnes/awesome-mongodb/blob/master/in Bash)
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
  - [mtop](https://github.com/beaufour/mtop) - Another top clone
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
- - [nagios-plugin-mongodb](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (https://github.com/ramnes/awesome-mongodb/blob/master/in Python)
+ - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (https://github.com/ramnes/awesome-mongodb/blob/master/in Python)
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
 
 Services:
@@ -281,7 +281,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
  - [GrandNode](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go
- - [NodeBB](https://github.com/ramnes/awesome-mongodb/blob/master/https://github.com/NodeBB/NodeBB) - Node.js based forum software (https://github.com/ramnes/awesome-mongodb/blob/master/"built for the modern web")
+ - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software (https://github.com/ramnes/awesome-mongodb/blob/master/"built for the modern web")
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built with Flask
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express

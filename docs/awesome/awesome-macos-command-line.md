@@ -611,7 +611,7 @@ You don't have to use the Disk Utility GUI for this.
 ```bash
 sudo diskutil repairPermissions /
 ```
-> Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://support.apple.com/en-us/HT201560))
+> Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://support.apple.com/en-us/HT201560))
 
 #### Set Boot Volume
 ```bash
@@ -934,7 +934,7 @@ defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
 #### Change Working Directory to Finder Path
 If multiple windows are open, it chooses the top-most one.
 ```bash
-cd "$(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e 'tell app "Finder" to POSIX path of (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/insertion location as alias)')"
+cd "$(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e 'tell app "Finder" to POSIX path of (insertion location as alias)')"
 ```
 
 #### Open URL
@@ -1300,7 +1300,7 @@ traceroute github.com
 >
 > Instead, a new UseKeychain option was introduced in macOS Sierra allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS Sierra, which caused all passphrases to be stored in the keychain.
 >
-> This was not the intended default behavior, so this has been changed in macOS 10.12.2. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
+> This was not the intended default behavior, so this has been changed in macOS 10.12.2. (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[Source](https://developer.apple.com/library/archive/technotes/tn2449/_index.html))
 ```bash
 ssh-add -K /path/to/private_key
 ```
@@ -1366,7 +1366,7 @@ airport -s
 
 #### Show Current SSID
 ```bash
-/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | awk '/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, $2))}'
+/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | awk '/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index($0, $2))}'
 ```
 
 #### Show Local IP Address
@@ -2004,7 +2004,7 @@ chsh -s $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
 - [Meslo](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
-- [Operator Mono](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial).
+- [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial).
 - [Powerline Fonts](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
@@ -2033,7 +2033,7 @@ OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (
 OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)
 macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 19, 2017)
 macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 9, 2018)
-macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
+macOS 10.14                | Mojave             | https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
 
 
 ## License

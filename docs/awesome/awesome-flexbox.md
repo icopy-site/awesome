@@ -1,4 +1,4 @@
-[![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://github.com/afonsopacifer/awesome-flexbox/)
+[![awesome flexbox](https://raw.githubusercontent.com/afonsopacifer/awesome-flexbox/master/awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -46,20 +46,20 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Guides for developers or designer start their studies this wonderful technology.*
 * [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
 * [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-* [flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://desenvolvimentoparaweb.com/css/flexbox/)
+* [flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
-* [How Flexbox works — explained with big, colorful, animated gifs (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://medium.com/@lucasjs/como-o-flexbox-funciona-explicado-com-gifs-grandes-e-coloridos-26c42a0bcdc)
-* [Learn layout - flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://pt-br.learnlayout.com/flexbox.html)
+* [How Flexbox works — explained with big, colorful, animated gifs (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://medium.com/@lucasjs/como-o-flexbox-funciona-explicado-com-gifs-grandes-e-coloridos-26c42a0bcdc)
+* [Learn layout - flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](http://https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br.learnlayout.com/flexbox.html)
 * [Learn layout - flexbox](http://learnlayout.com/flexbox.html)
 * [Reference of flexbox](http://tympanus.net/codrops/css_reference/flexbox/)
 * [Responsive design of the future with flexbox](http://blog.teamtreehouse.com/responsive-design-of-the-future-with-flexbox)
 * [The Flexbox Reading List: Techniques and Tools](https://www.smashingmagazine.com/author/cosima-mielke/)
-* [Um guia visual para Flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://edsonjunior.com/um-guia-visual-para-flexbox/)
-* [Usando caixas flexiveis CSS (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://developer.mozilla.org/pt-BR/docs/CSS/Usando_caixas_flexiveis_css)
+* [Um guia visual para Flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](http://edsonjunior.com/um-guia-visual-para-flexbox/)
+* [Usando caixas flexiveis CSS (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://developer.mozilla.org/pt-BR/docs/CSS/Usando_caixas_flexiveis_css)
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 * [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
-* [Desarrollo de aplicaciones web Flexibles (https://github.com/afonsopacifer/awesome-flexbox/blob/master/es-es)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://nucliweb.github.io/flexbox/)
+* [Desarrollo de aplicaciones web Flexibles (https://github.com/afonsopacifer/awesome-flexbox/blob/master/es-es)](http://nucliweb.github.io/flexbox/)
 * [Webflow Flexbox](https://flexbox.webflow.com/)
 
 ## Cross Browser
@@ -69,9 +69,9 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [6 Reasons to Start Using Flexbox](http://bitsofco.de/6-reasons-to-start-using-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_31)
 * [Advanced cross-browser flexbox](https://dev.opera.com/articles/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
-* [CSS Flexbox Is Entirely Logical (https://github.com/afonsopacifer/awesome-flexbox/blob/master/Almost)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://paulrobertlloyd.com/2016/03/logical_flexbox)
+* [CSS Flexbox Is Entirely Logical (https://github.com/afonsopacifer/awesome-flexbox/blob/master/Almost)](https://paulrobertlloyd.com/2016/03/logical_flexbox)
 * [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/)
-* [Normalizando bugs no flexbox em diversos navegadores (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197&source=single)
+* [Normalizando bugs no flexbox em diversos navegadores (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197&source=single)
 * [Normalizing cross-browser Flexbox bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
 * [Using flexbox: mixing old and new for the best browser support](https://css-tricks.com/using-flexbox/)
 * [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_8)
@@ -91,7 +91,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*
-* [Almost complete guide to flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/without flexbox)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_36):metal:
+* [Almost complete guide to flexbox (https://github.com/afonsopacifer/awesome-flexbox/blob/master/without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_36):metal:
 * [Designing CSS layouts with flexbox is as easy as pie](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly&utm_medium=email)
 * [Flexbox’s Best-Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.i0v3krqo0)
@@ -105,13 +105,13 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Tired of reading? See an interactive presentation and learn flexbox now.*
 
 #### Videos
-* [CSS Layout o ontem, o hoje e o depois (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
+* [CSS Layout o ontem, o hoje e o depois (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
 * [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
-* [CSS FlexBox Practical Examples (https://github.com/afonsopacifer/awesome-flexbox/blob/master/Rebuilding Dribbble.com using FlexBox)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://www.youtube.com/watch?v=H1lREysgdgc)
+* [CSS FlexBox Practical Examples (https://github.com/afonsopacifer/awesome-flexbox/blob/master/Rebuilding Dribbble.com using FlexBox)](https://www.youtube.com/watch?v=H1lREysgdgc)
 * [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
 * [Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
 * [Flexbox - CSS Day](https://vimeo.com/131664957)
-* [Guía Completa de Flexbox desde 0 (https://github.com/afonsopacifer/awesome-flexbox/blob/master/ESP)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://www.youtube.com/watch?v=F-KCncXMPk0)
+* [Guía Completa de Flexbox desde 0 (https://github.com/afonsopacifer/awesome-flexbox/blob/master/ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
 * [HTML5. Desenvolvimento avançado](https://www.youtube.com/watch?v=b9ZrOdTFkNk)
 * [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_34)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
@@ -132,7 +132,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 #### Slides and Notes
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
-* [CSS Flexbox: Estruturando layouts sem gambiarras (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pr-br)](https://github.com/afonsopacifer/awesome-flexbox/blob/master/https://speakerdeck.com/afonsopacifer/flexbox)
+* [CSS Flexbox: Estruturando layouts sem gambiarras (https://github.com/afonsopacifer/awesome-flexbox/blob/master/pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
 * [CSS3 layout](http://zomigi.com/blog/css3-layout/)
 * [Flexbox](http://zomigi.com/blog/flexbox-presentation/)
 * [Flexbox and Grid Layout](http://pt.slideshare.net/diegoeis/flexbox-to-the-people)

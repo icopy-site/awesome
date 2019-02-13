@@ -53,7 +53,7 @@
 * [Phpspec Lumen](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
 * [Understand Lumen](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
 * [Badge Poser](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
-* [Cors Illuminate](https://github.com/unicodeveloper/awesome-lumen/blob/master/https://github.com/neomerx/cors-illuminate) - CORS (https://github.com/unicodeveloper/awesome-lumen/blob/master/Cross-Origin Resource Sharing) support for Laravel and Lumen
+* [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (https://github.com/unicodeveloper/awesome-lumen/blob/master/Cross-Origin Resource Sharing) support for Laravel and Lumen
 * [Jwt Artisan](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5.

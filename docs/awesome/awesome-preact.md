@@ -21,7 +21,7 @@
 - [Tips](#tips)
 
 ### Community
-- [Slack](https://github.com/ooade/awesome-preact/blob/master/https://preact-slack.now.sh) (https://github.com/ooade/awesome-preact/blob/master/Discussion Forum)
+- [Slack](https://preact-slack.now.sh) (https://github.com/ooade/awesome-preact/blob/master/Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
 - [Github](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
@@ -44,19 +44,19 @@
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - URL router for Preact.
-- [Preact Route Async](https://github.com/ooade/awesome-preact/blob/master/https://github.com/mjanssen/preact-route-async) - A (https://github.com/ooade/awesome-preact/blob/master/440b gzip) route component that enables async loading of page-components.
+- [Preact Route Async](https://github.com/mjanssen/preact-route-async) - A (https://github.com/ooade/awesome-preact/blob/master/440b gzip) route component that enables async loading of page-components.
 
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
-- [Preact Scroll Header](https://github.com/ooade/awesome-preact/blob/master/https://github.com/lukeed/preact-scroll-header) - A (https://github.com/ooade/awesome-preact/blob/master/800b gzip) header that will show/hide while scrolling for Preact.
-- [Preact Progress](https://github.com/ooade/awesome-preact/blob/master/https://github.com/lukeed/preact-progress) - Simple and lightweight (https://github.com/ooade/awesome-preact/blob/master/~590 bytes gzip) progress bar component for Preact.
-- [Preact Compat](https://github.com/ooade/awesome-preact/blob/master/https://git.io/preact-compat) - Use any React library with Preact *(https://github.com/ooade/awesome-preact/blob/master/[full example](https://github.com/ooade/awesome-preact/blob/master/http://git.io/preact-compat-example))*.
+- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (https://github.com/ooade/awesome-preact/blob/master/800b gzip) header that will show/hide while scrolling for Preact.
+- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (https://github.com/ooade/awesome-preact/blob/master/~590 bytes gzip) progress bar component for Preact.
+- [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *(https://github.com/ooade/awesome-preact/blob/master/[full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - Universal rendering.
 - [Preact Markup](https://git.io/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - Simple HTML editor component.
 - [Preact Token Input](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-- [Preact Virtual List](https://github.com/ooade/awesome-preact/blob/master/https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows (https://github.com/ooade/awesome-preact/blob/master/[demo](https://github.com/ooade/awesome-preact/blob/master/https://jsfiddle.net/developit/qqan9pdo/)).
+- [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows (https://github.com/ooade/awesome-preact/blob/master/[demo](https://jsfiddle.net/developit/qqan9pdo/)).
 - [Preact Cycle](https://git.io/preact-cycle) - Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
@@ -91,7 +91,7 @@
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 
 ### Testing Utils
-- [Preact JSX Chai](https://github.com/ooade/awesome-preact/blob/master/https://git.io/preact-jsx-chai) - JSX assertion testing _(https://github.com/ooade/awesome-preact/blob/master/no DOM, right in Node)_.
+- [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(https://github.com/ooade/awesome-preact/blob/master/no DOM, right in Node)_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices.
@@ -113,7 +113,7 @@
 - [Hueify](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 - [Golazon](https://github.com/sobstel/golazon) - Football data mnmlist way.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
-- [Code and Comment](https://github.com/ooade/awesome-preact/blob/master/https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github (https://github.com/ooade/awesome-preact/blob/master/[demo](https://github.com/ooade/awesome-preact/blob/master/https://code-and-comment.github.io/code-and-comment/)).
+- [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github (https://github.com/ooade/awesome-preact/blob/master/[demo](https://code-and-comment.github.io/code-and-comment/)).
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

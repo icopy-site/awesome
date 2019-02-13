@@ -41,7 +41,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
 - [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
 - [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
-- [Ember with Phoenix (https://github.com/nmec/awesome-ember/blob/master/AKA The PEEP Stack)](https://github.com/nmec/awesome-ember/blob/master/https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](https://github.com/nmec/awesome-ember/blob/master/http://jsonapi.org/)-compliant [Phoenix](https://github.com/nmec/awesome-ember/blob/master/http://www.phoenixframework.org/) backend.
+- [Ember with Phoenix (https://github.com/nmec/awesome-ember/blob/master/AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
 ## Screencasts
 

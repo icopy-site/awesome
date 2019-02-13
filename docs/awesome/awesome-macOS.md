@@ -65,7 +65,7 @@
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
-- [Textual](https://github.com/iCHAIT/awesome-macOS/blob/master/https://www.codeux.com/textual/) - An Internet Relay Chat (https://github.com/iCHAIT/awesome-macOS/blob/master/IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/Codeux-Software/Textual)
+- [Textual](https://www.codeux.com/textual/) - An Internet Relay Chat (https://github.com/iCHAIT/awesome-macOS/blob/master/IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 
 ### Data Recovery
 
@@ -85,13 +85,13 @@
 - [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
-- [GitX-dev](https://github.com/iCHAIT/awesome-macOS/blob/master/https://rowanj.github.io/gitx/) - A fork (https://github.com/iCHAIT/awesome-macOS/blob/master/variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
+- [GitX-dev](https://rowanj.github.io/gitx/) - A fork (https://github.com/iCHAIT/awesome-macOS/blob/master/variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 - [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful diff and merge application supporting text, images, and folders.
-- [Knuff](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (https://github.com/iCHAIT/awesome-macOS/blob/master/APNs). [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
+- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (https://github.com/iCHAIT/awesome-macOS/blob/master/APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) - A modern PostgreSQL client.
@@ -250,7 +250,7 @@
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
 - [Helium](http://heliumfloats.com/) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
-- [InsomniaX](https://github.com/iCHAIT/awesome-macOS/blob/master/http://semaja2.net/projects/insomniaxinfo/) - Prevents macOS from automatically going to sleep (https://github.com/iCHAIT/awesome-macOS/blob/master/on lid closing or idle timeout). ![Freeware][Freeware Icon]
+- [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) - Prevents macOS from automatically going to sleep (https://github.com/iCHAIT/awesome-macOS/blob/master/on lid closing or idle timeout). ![Freeware][Freeware Icon]
 - [Irvue](http://irvue.tumblr.com) - Thousands of stunning photos and wallpapers from Unsplash on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/leonspok/Irvue-Screensaver) ![Freeware][Freeware Icon]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced system monitor for your menubar.
 - [Kawa](https://github.com/noraesae/kawa) - A better input source switcher with shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/noraesae/kawa) ![Freeware][Freeware Icon]
@@ -263,14 +263,14 @@
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
-- [Media Converter](https://github.com/iCHAIT/awesome-macOS/blob/master/http://media-converter.sourceforge.net/) - Simple (https://github.com/iCHAIT/awesome-macOS/blob/master/drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://sourceforge.net/p/media-converter/code/HEAD/tree/) ![Freeware][Freeware Icon]
+- [Media Converter](http://media-converter.sourceforge.net/) - Simple (https://github.com/iCHAIT/awesome-macOS/blob/master/drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under macOS 10.9+ in read-write mode.
 - [Noizio](http://noiz.io/) - Ambient sound equalizer for relaxation or productivity.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
-- [Noti](https://github.com/iCHAIT/awesome-macOS/blob/master/https://noti.center/) - Receive Android notifications on your mac (https://github.com/iCHAIT/awesome-macOS/blob/master/with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
+- [Noti](https://noti.center/) - Receive Android notifications on your mac (https://github.com/iCHAIT/awesome-macOS/blob/master/with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
@@ -303,7 +303,7 @@
 
 ### Window Management
 
-- [Amethyst](https://github.com/iCHAIT/awesome-macOS/blob/master/http://ianyh.com/amethyst/) - Window manager (https://github.com/iCHAIT/awesome-macOS/blob/master/automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+- [Amethyst](http://ianyh.com/amethyst/) - Window manager (https://github.com/iCHAIT/awesome-macOS/blob/master/automatically keep windows sized in grids). [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 - [Divvy Window Manager](http://mizage.com/divvy/) - Window management for tiling your windows.
 - [Hammerspoon](http://www.hammerspoon.org/) - Extremely powerful scripting engine for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 - [kwm](https://koekeishiya.github.io/kwm/) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/kwm) ![Freeware][Freeware Icon]
@@ -382,7 +382,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
 * [LinkLiar](https://github.com/halo/LinkLiar) - Menu application written in Swift to help you spoof the MAC addresses of your Wi-Fi and Ethernet interfaces. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
-* [macchanger by shilch](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/shilch/macchanger/) - Change / spoof MAC address (https://github.com/iCHAIT/awesome-macOS/blob/master/random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/iCHAIT/awesome-macOS/blob/master/https://github.com/shilch/macchanger)
+* [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (https://github.com/iCHAIT/awesome-macOS/blob/master/random, custom and restore). [![Open-Source Software][OSS Icon]](https://github.com/shilch/macchanger)
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon]](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]

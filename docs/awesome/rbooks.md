@@ -1,6 +1,6 @@
 R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
-A curated list of books about different aspects and applications of [R](https://github.com/RomanTsegelskyi/rbooks/blob/master/https://www.r-project.org/) programming language and an attempt to modernize [R Books](https://github.com/RomanTsegelskyi/rbooks/blob/master/) in a more user friendly way. Inspired by [GoBooks](https://github.com/RomanTsegelskyi/rbooks/blob/master/).
+A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
 
 * [R Books](#r-books)
 	* [Beginner Books](#beginner-books)

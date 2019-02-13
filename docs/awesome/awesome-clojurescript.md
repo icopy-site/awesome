@@ -110,8 +110,8 @@
 
 
 ### Internationalization
-- [Tower](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/ptaoussanis/tower) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) i18n & L10n library.
-- [Tempura](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/ptaoussanis/tempura) - A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) i18n library, succeeding Tower
+- [Tower](https://github.com/ptaoussanis/tower) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) i18n & L10n library.
+- [Tempura](https://github.com/ptaoussanis/tempura) - A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) i18n library, succeeding Tower
 
 
 ### JavaScript Interoperability
@@ -122,14 +122,14 @@
 
 
 ### Miscellaneous
-- [Automat](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/ztellman/automat) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library for defining and using finite-state automata, inspired by Ragel.
-- [Bardo](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/pleasetrythisathome/bardo) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library for functional interpolation and transitions.
-- [core.async](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/clojure/core.async/) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library designed to provide facilities for async programming and communication.
+- [Automat](https://github.com/ztellman/automat) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library for defining and using finite-state automata, inspired by Ragel.
+- [Bardo](https://github.com/pleasetrythisathome/bardo) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library for functional interpolation and transitions.
+- [core.async](https://github.com/clojure/core.async/) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) library designed to provide facilities for async programming and communication.
 - [Entanglement](https://github.com/Frozenlock/entanglement) – It creates atoms from other atoms and links the data together.
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
-- [Keybind](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/piranha/keybind) – Library for handling key bindings (https://github.com/hantuzun/awesome-clojurescript/blob/master/shortcuts) in browser.
+- [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (https://github.com/hantuzun/awesome-clojurescript/blob/master/shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
@@ -152,19 +152,19 @@
 - [Javelin](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
 - [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold](https://github.com/ztellman/manifold) to ClojureScript.
 - [Reagi](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
-- [rx-cljs](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (https://github.com/hantuzun/awesome-clojurescript/blob/master/Rx) for Javascript.
+- [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (https://github.com/hantuzun/awesome-clojurescript/blob/master/Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### Routing
-- [Bidi](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/juxt/bidi) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/script) data driven routing library.
+- [Bidi](https://github.com/juxt/bidi) – A Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/script) data driven routing library.
 - [Router](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
 - [Secretary](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 
 ### State Management
-- [component](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script).
+- [component](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script).
 - [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 - [mount](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 - [plato](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
@@ -173,7 +173,7 @@
 
 
 ### Testing
-- [cljs.test](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (https://github.com/hantuzun/awesome-clojurescript/blob/master/merged from [clojurescript.test](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/cemerick/clojurescript.test)) 
+- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (https://github.com/hantuzun/awesome-clojurescript/blob/master/merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test)) 
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Speclj](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
@@ -204,7 +204,7 @@
 
 ### WebSockets
 - [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
-- [Sente](https://github.com/hantuzun/awesome-clojurescript/blob/master/https://github.com/ptaoussanis/sente) – Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) + core.async + WebSockets/Ajax.
+- [Sente](https://github.com/ptaoussanis/sente) – Clojure(https://github.com/hantuzun/awesome-clojurescript/blob/master/Script) + core.async + WebSockets/Ajax.
 
 
 * * *

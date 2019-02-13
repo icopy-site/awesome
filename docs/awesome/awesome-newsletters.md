@@ -147,7 +147,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
-* [SVG Weekly](https://github.com/zudochkin/awesome-newsletters/blob/master/https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (https://github.com/zudochkin/awesome-newsletters/blob/master/SVG), sharing tutorials, tools, experiments, talks and data.
+* [https://github.com/zudochkin/awesome-newsletters/blob/master/SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (https://github.com/zudochkin/awesome-newsletters/blob/master/SVG), sharing tutorials, tools, experiments, talks and data.
 
 ## Programming
 ### Common Section
@@ -268,7 +268,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [DevOps Weekly](https://www.devopsweekly.com/). A weekly slice of devops news.
 * [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
 every Sunday in the form of the DevOps newsletter.
-* [Sysadmin Casts](https://github.com/zudochkin/awesome-newsletters/blob/master/https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (https://github.com/zudochkin/awesome-newsletters/blob/master/released weekly).
+* [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (https://github.com/zudochkin/awesome-newsletters/blob/master/released weekly).
 * [Server Admin for Programmers](https://serversforhackers.com/)
 * [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
@@ -298,7 +298,7 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
-* [Data Eng Weekly](https://github.com/zudochkin/awesome-newsletters/blob/master/https://dataengweekly.com). Your weekly Data Engineering news (https://github.com/zudochkin/awesome-newsletters/blob/master/Formerly Hadoop Weekly). [Archive](https://github.com/zudochkin/awesome-newsletters/blob/master/https://dataengweekly.com/archive.html).
+* [Data Eng Weekly](https://dataengweekly.com). Your weekly Data Engineering news (https://github.com/zudochkin/awesome-newsletters/blob/master/Formerly Hadoop Weekly). [Archive](https://dataengweekly.com/archive.html).
 * [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 * [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter.
@@ -310,7 +310,7 @@ every Sunday in the form of the DevOps newsletter.
 * [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 * [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [DevCraft](https://devcraftweekly.com/). A weekly newsletter on the art, craft and lifestyle of Software Engineering.
-* [Four Short Links](https://github.com/zudochkin/awesome-newsletters/blob/master/https://www.oreilly.com/feed/four-short-links). 4 short links about (https://github.com/zudochkin/awesome-newsletters/blob/master/mostly research oriented) technology every weekday.
+* [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (https://github.com/zudochkin/awesome-newsletters/blob/master/mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
 ## Business/Finance

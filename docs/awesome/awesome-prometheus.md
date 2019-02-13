@@ -2,7 +2,7 @@
 
 > A curated list of awesome Prometheus resources, projects and tools.
 
-[![Prometheus](https://github.com/roaldnefs/awesome-prometheus/blob/master/media/prometheus.png)](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://prometheus.io/)
+[![Prometheus](https://raw.githubusercontent.com/roaldnefs/awesome-prometheus/master/media/prometheus.png)](https://prometheus.io/)
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
 
@@ -39,7 +39,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 - [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 - [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
-- [Prometheus Monitoring Tutorial (https://github.com/roaldnefs/awesome-prometheus/blob/master/10 minutes)](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
+- [Prometheus Monitoring Tutorial (https://github.com/roaldnefs/awesome-prometheus/blob/master/10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
 
 ## Books
 
@@ -81,10 +81,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) - Initial experiences with the Prometheus by Grig Gheorghiu.
 - [Monitor your applications with Prometheus](http://blog.alexellis.io/prometheus-monitoring/) - Monitor your applications with Prometheus by Alex Ellis.
 - [Practical Services Monitoring with Prometheus and Docker](https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603) - Practical services monitoring with Prometheus and Docker by Simon KP.
-- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 1): Metrics and Labels](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/) - Part 1 in the series _Prometheus Blog Series_ by Pierre Vincent.
-- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 2): Metric types](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) - Part 2 in the series _Prometheus Blog Series_ by Pierre Vincent.
-- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 3): Exposing and collecting metrics](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) - Part 3 in the series _Prometheus Blog Series_ by Pierre Vincent.
-- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 4): Instrumenting code in Go and Java](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) - Part 4 in the series _Prometheus Blog Series_ by Pierre Vincent.
+- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/) - https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 1 in the series _Prometheus Blog Series_ by Pierre Vincent.
+- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) - https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 2 in the series _Prometheus Blog Series_ by Pierre Vincent.
+- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) - https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 3 in the series _Prometheus Blog Series_ by Pierre Vincent.
+- [Prometheus Blog Series (https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) - https://github.com/roaldnefs/awesome-prometheus/blob/master/Part 4 in the series _Prometheus Blog Series_ by Pierre Vincent.
 
 ## Dashboards
 
@@ -93,11 +93,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Exporters
 
-- [Blackbox exporter](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
-- [HAProxy exporter](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
-- [Memcached exporter](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
-- [MySQL Server exporter](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
-- [Node exporter](https://github.com/roaldnefs/awesome-prometheus/blob/master/https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
+- [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
+- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
+- [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
+- [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
+- [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(https://github.com/roaldnefs/awesome-prometheus/blob/master/official exporter)**.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats.
 

@@ -34,7 +34,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ### Authorization
 * [Pundit](https://github.com/elabs/pundit) - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
-* [cancancan](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (https://github.com/hothero/awesome-rails-gem/blob/master/the Ability class) and not duplicated across controllers, views, and database queries.
+* [cancancan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (https://github.com/hothero/awesome-rails-gem/blob/master/the Ability class) and not duplicated across controllers, views, and database queries.
 * [rolify](https://github.com/RolifyCommunity/rolify) - Role management library with resource scoping.
 * [acl9](https://github.com/be9/acl9/) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 
@@ -53,7 +53,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [custom_counter_cache](https://github.com/cedric/custom_counter_cache) - A simple approach to creating a custom counter cache that can be used across multiple models.
 * [Sequenced](https://github.com/djreimer/sequenced) - Sequenced is a simple gem that generates scoped sequential IDs for ActiveRecord models.
 * [FriendlyId](https://github.com/norman/friendly_id) - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
-* [AASM](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/aasm/aasm) - State machines for Ruby classes (https://github.com/hothero/awesome-rails-gem/blob/master/plain Ruby, Rails Active Record, Mongoid).
+* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (https://github.com/hothero/awesome-rails-gem/blob/master/plain Ruby, Rails Active Record, Mongoid).
 * [PaperTrail](https://github.com/airblade/paper_trail) - PaperTrail lets you track changes to your models' data. It's good for auditing or versioning.
 * [paranoia](https://github.com/rubysherpas/paranoia) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 * [Validates](https://github.com/kaize/validates) - Validates provides collection of useful custom validators for Rails applications, including:
@@ -75,7 +75,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * Tagging
   * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.
   * [closure_tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies.
-* [ActionStore](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/rails-engine/action-store) - Store different kind of actions (https://github.com/hothero/awesome-rails-gem/blob/master/Like, Follow, Star, Block ...) in one table via ActiveRecord Polymorphic Association.
+* [ActionStore](https://github.com/rails-engine/action-store) - Store different kind of actions (https://github.com/hothero/awesome-rails-gem/blob/master/Like, Follow, Star, Block ...) in one table via ActiveRecord Polymorphic Association.
 
 ## Plugins
 * [Spreadsheet](https://github.com/zdavatz/spreadsheet) - Library is designed to read and write Spreadsheet Documents.
@@ -127,7 +127,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 ## Scheduled/Recurrence Jobs
 * [Whenever](https://github.com/javan/whenever) - Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs.
 * [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-* [Rufus-Scheduler](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/jmettraux/rufus-scheduler) - Rufus-scheduler is a Ruby gem for scheduling pieces of code (https://github.com/hothero/awesome-rails-gem/blob/master/jobs). It understands running a job AT a certain time, IN a certain time, EVERY x time or simply via a CRON statement.
+* [Rufus-Scheduler](https://github.com/jmettraux/rufus-scheduler) - Rufus-scheduler is a Ruby gem for scheduling pieces of code (https://github.com/hothero/awesome-rails-gem/blob/master/jobs). It understands running a job AT a certain time, IN a certain time, EVERY x time or simply via a CRON statement.
 * [Delayed Job](https://github.com/collectiveidea/delayed_job) - Database based asynchronous priority queue system.
 * [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby.
   * [sidetiq](https://github.com/tobiassvn/sidetiq) - Recurring jobs for sidekiq.
@@ -136,10 +136,10 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - Sucker punch is a single-process Ruby asynchronous processing library.
 
 ## View Helper
-* [formtastic](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/justinfrench/formtastic) - Formtastic is a Rails FormBuilder DSL (https://github.com/hothero/awesome-rails-gem/blob/master/with some other goodies) to make it far easier to create beautiful, semantically rich, syntactically awesome, readily stylable and wonderfully accessible HTML forms in your Rails applications
+* [formtastic](https://github.com/justinfrench/formtastic) - Formtastic is a Rails FormBuilder DSL (https://github.com/hothero/awesome-rails-gem/blob/master/with some other goodies) to make it far easier to create beautiful, semantically rich, syntactically awesome, readily stylable and wonderfully accessible HTML forms in your Rails applications
 * [Simple Form](https://github.com/plataformatec/simple_form) - Simple form aims to be as flexible as possible while helping you with powerful components to create your forms. The basic goal of Simple Form is to not touch your way of defining the layout, letting you find the better design for your eyes.
 * [Nested Form](https://github.com/ryanb/nested_form) - This is a Rails gem for conveniently manage multiple nested models in a single form. It does so in an unobtrusive way through jQuery or Prototype. It can also be integrated with Simple Form.
-* [meta-tags](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/kpumuk/meta-tags) - Search Engine Optimization (https://github.com/hothero/awesome-rails-gem/blob/master/SEO) plugin for Ruby on Rails applications.
+* [meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (https://github.com/hothero/awesome-rails-gem/blob/master/SEO) plugin for Ruby on Rails applications.
 * [active_link_to](https://github.com/comfy/active_link_to) - active_link_to adds css 'active' class to your links.
 * [cells](https://github.com/apotonick/cells) - Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.
 * [i18n Country Code Select](https://github.com/onomojo/i18n_country_select) - I18n Country Code Select Form Helper for Rails 3 & 4.
@@ -161,7 +161,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails
 
 ## Logging
-* [Impressionist](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/charlotte-ruby/impressionist) - Impressionist can log page impressions (https://github.com/hothero/awesome-rails-gem/blob/master/technically action impressions), but it is not limited to that. You can log impressions multiple times per request. And you can also attach it to a model. The goal of this project is to provide customizable stats that are immediately accessible in your application as opposed to using Google Analytics and pulling data using their API.
+* [Impressionist](https://github.com/charlotte-ruby/impressionist) - Impressionist can log page impressions (https://github.com/hothero/awesome-rails-gem/blob/master/technically action impressions), but it is not limited to that. You can log impressions multiple times per request. And you can also attach it to a model. The goal of this project is to provide customizable stats that are immediately accessible in your application as opposed to using Google Analytics and pulling data using their API.
 * [Ahoy](https://github.com/ankane/ahoy) - Ahoy provides a solid foundation to track visits and events in Ruby, JavaScript, and native apps.
 * [Lograge](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
@@ -177,7 +177,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [terminal-notifier](https://github.com/julienXX/terminal-notifier) - terminal-notifier is a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8 and higher.
 * [letter_opener](https://github.com/ryanb/letter_opener) - Preview email in the default browser instead of sending it. This means you do not need to set up email delivery in your development environment, and you no longer need to worry about accidentally sending a test email to someone else's address.
 * [Better Errors](https://github.com/charliesome/better_errors) - Better errors replaces the standard Rails error page with a much better and more useful error page.
-  * If you would like to use Better Errors' advanced features (https://github.com/hothero/awesome-rails-gem/blob/master/REPL, local/instance variable inspection, pretty stack frame names), you need to add the [binding_ _of__caller](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/banister/binding_of_caller).
+  * If you would like to use Better Errors' advanced features (https://github.com/hothero/awesome-rails-gem/blob/master/REPL, local/instance variable inspection, pretty stack frame names), you need to add the [binding_ _of__caller](https://github.com/banister/binding_of_caller).
 * [RailsPanel](https://github.com/dejan/rails_panel) - RailsPanel is a Chrome extension for Rails development that will end your tailing of development.log.
 
 ## Coding Style
@@ -193,7 +193,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
   - [selenium-webdriver](https://github.com/vertis/selenium-webdriver) - Selenium-webdriver provides ruby bindings for WebDriver.
   - [poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
   - [page-object](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
-* [factory_bot](https://github.com/hothero/awesome-rails-gem/blob/master/https://github.com/thoughtbot/factory_bot) - Factory_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (https://github.com/hothero/awesome-rails-gem/blob/master/saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (https://github.com/hothero/awesome-rails-gem/blob/master/user, admin_user, and so on), including factory inheritance.
+* [factory_bot](https://github.com/thoughtbot/factory_bot) - Factory_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (https://github.com/hothero/awesome-rails-gem/blob/master/saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (https://github.com/hothero/awesome-rails-gem/blob/master/user, admin_user, and so on), including factory inheritance.
 * [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Factory_bot_rails provides Rails integration for factory_bot.
 * [factory_factory_girl](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.Support ActiveRecord, DataMapper, Sequel, MongoMapper, Mongoid, CouchPotato, Ohm and Redis.

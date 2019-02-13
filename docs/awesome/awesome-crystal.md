@@ -118,9 +118,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
- * [termbox-crystal](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/nsf/termbox) (https://github.com/veelenga/awesome-crystal/blob/master/terminal UI library)
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (https://github.com/veelenga/awesome-crystal/blob/master/terminal UI library)
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
- * [x_do.cr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/woodruffw/x_do.cr) - Bindings for libxdo (https://github.com/veelenga/awesome-crystal/blob/master/[`xdotool`](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/jordansissel/xdotool))
+ * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo (https://github.com/veelenga/awesome-crystal/blob/master/[`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
@@ -137,7 +137,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
- * [OptionParser](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/OptionParser.html) - command-line options processing (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
 
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
@@ -157,29 +157,29 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
- * [money](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/crystal-money/money) - Handling money and currency conversion with ease (https://github.com/veelenga/awesome-crystal/blob/master/almost complete port of [RubyMoney](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/RubyMoney/money))
- * [moola](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (https://github.com/veelenga/awesome-crystal/blob/master/inspired by [RubyMoney](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/RubyMoney/money))
+ * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (https://github.com/veelenga/awesome-crystal/blob/master/almost complete port of [RubyMoney](https://github.com/RubyMoney/money))
+ * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (https://github.com/veelenga/awesome-crystal/blob/master/inspired by [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
- * [sass.cr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS (https://github.com/veelenga/awesome-crystal/blob/master/[libsass](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/sass/libsass/) binding)
+ * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS (https://github.com/veelenga/awesome-crystal/blob/master/[libsass](https://github.com/sass/libsass/) binding)
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease
  * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
- * [wkhtmltopdf-crystal](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (https://github.com/veelenga/awesome-crystal/blob/master/HTML to PDF / image converter)
+ * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (https://github.com/veelenga/awesome-crystal/blob/master/HTML to PDF / image converter)
 
 ## Data Formats
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
- * [CSV](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
- * [Gzip](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [INI](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/INI.html) - INI file parser (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [JSON](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
- * [XML](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [YAML](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [Zip](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [Zlib](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [Zip](https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [Zlib](https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Data Generators
@@ -249,7 +249,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) - Build Realtime Web applications with Kemal and Vue.js
- * [lattice-core-card-game](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/jasonl99/card_game) - A demo web app for (https://github.com/veelenga/awesome-crystal/blob/master/WebSocket-based) lattice-core
+ * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (https://github.com/veelenga/awesome-crystal/blob/master/WebSocket-based) lattice-core
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [os-crystal](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
  * [realtime-todo-app](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
@@ -271,10 +271,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
- * [multi-auth](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (https://github.com/veelenga/awesome-crystal/blob/master/inspired by omniauth)
+ * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (https://github.com/veelenga/awesome-crystal/blob/master/inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
- * [response_time](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (https://github.com/veelenga/awesome-crystal/blob/master/pure http server, kemal, etc.)
+ * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (https://github.com/veelenga/awesome-crystal/blob/master/pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - Easy testing for Kemal
 
 ## Game Development
@@ -303,12 +303,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
- * [http-multiserver.cr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (https://github.com/veelenga/awesome-crystal/blob/master/a.k.a. URL mapping)
+ * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (https://github.com/veelenga/awesome-crystal/blob/master/a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
- * [HTTP::Client](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [HTTP::Server](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [HTTP::WebSocket](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [params](https://github.com/vladfaust/params.cr) - The strongly-typed HTTP params parsing module
@@ -316,7 +316,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
- * [stumpy_gif](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/stumpycr/stumpy_gif) - Write (https://github.com/veelenga/awesome-crystal/blob/master/animated) GIF images
+ * [stumpy_gif](https://github.com/stumpycr/stumpy_gif) - Write (https://github.com/veelenga/awesome-crystal/blob/master/animated) GIF images
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
@@ -338,15 +338,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [instana](https://github.com/instana/crystal-sensor) - A metrics and distributed trace collector for [Instana](https://www.instana.com/)
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
- * [Logger](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Logger.html) - logging utility (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Machine Learning
- * [ai4cr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (https://github.com/veelenga/awesome-crystal/blob/master/based on https://github.com/SergioFierens/ai4r)
- * [crystal-fann](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/NeuraLegion/crystal-fann) - FANN (https://github.com/veelenga/awesome-crystal/blob/master/Fast Artifical Neural Network) binding
+ * [ai4cr](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (https://github.com/veelenga/awesome-crystal/blob/master/based on https://github.com/SergioFierens/ai4r)
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (https://github.com/veelenga/awesome-crystal/blob/master/Fast Artifical Neural Network) binding
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
- * [shainet](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/NeuraLegion/shainet) - SHAInet (https://github.com/veelenga/awesome-crystal/blob/master/Neural Network in pure crystal)
+ * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (https://github.com/veelenga/awesome-crystal/blob/master/Neural Network in pure crystal)
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
@@ -368,7 +368,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
- * [inflector.cr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (https://github.com/veelenga/awesome-crystal/blob/master/port from ActiveSupport)
+ * [inflector.cr](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (https://github.com/veelenga/awesome-crystal/blob/master/port from ActiveSupport)
  * [lirith](https://github.com/lirith-engine/lirith) - Graphics engine
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
@@ -376,19 +376,19 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
- * [ulid](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (https://github.com/veelenga/awesome-crystal/blob/master/ULID)
+ * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (https://github.com/veelenga/awesome-crystal/blob/master/ULID)
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
- * [Crirc](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/Meoowww/Crirc) - IRC protocol implementation (https://github.com/veelenga/awesome-crystal/blob/master/Client, Server, Bots)
+ * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (https://github.com/veelenga/awesome-crystal/blob/master/Client, Server, Bots)
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [gopher.cr](https://github.com/anicholson/gopher.cr) - Gopher server toolkit
- * [jwt](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/crystal-community/jwt) - Implementation of JWT (https://github.com/veelenga/awesome-crystal/blob/master/JSON Web Token)
+ * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (https://github.com/veelenga/awesome-crystal/blob/master/JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
- * [OAuth](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/OAuth.html) - OAuth consumer (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [OAuth2](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
- * [OpenSSL](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth consumer (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [Socks](https://github.com/wontruefree/socks) - SOCKS proxy
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
@@ -421,7 +421,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
- * [kgen](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/kemalyst/kemalyst-generator) - Kemalyst command line tool for console, init, generate (https://github.com/veelenga/awesome-crystal/blob/master/scaffolding), and watch.
+ * [kgen](https://github.com/kemalyst/kemalyst-generator) - Kemalyst command line tool for console, init, generate (https://github.com/veelenga/awesome-crystal/blob/master/scaffolding), and watch.
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
  * [wasp](https://github.com/icyleaf/wasp) - Static Site Generator
 
@@ -471,7 +471,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
- * [ECR (https://github.com/veelenga/awesome-crystal/blob/master/Embedded Crystal)](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [ECR (https://github.com/veelenga/awesome-crystal/blob/master/Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
@@ -487,7 +487,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
- * [Spec](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Spec.html) - spec framework (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
@@ -499,7 +499,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
- * [crystal-swapi](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/sb89/crystal-swapi) - Star Wars API (https://github.com/veelenga/awesome-crystal/blob/master/SWAPI) wrapper
+ * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (https://github.com/veelenga/awesome-crystal/blob/master/SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
@@ -524,7 +524,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
- * [lattice-core](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (https://github.com/veelenga/awesome-crystal/blob/master/based on Kemal)
+ * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (https://github.com/veelenga/awesome-crystal/blob/master/based on Kemal)
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [prism](https://github.com/vladfaust/prism) - Lightspeed web framework with typed params
  * [raze](https://github.com/samueleaton/raze) - Modular, light web framework
@@ -571,7 +571,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
- * [icr](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/crystal-community/icr) - Interactive console for Crystal (https://github.com/veelenga/awesome-crystal/blob/master/like IRB for Ruby)
+ * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (https://github.com/veelenga/awesome-crystal/blob/master/like IRB for Ruby)
  * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
@@ -590,7 +590,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
  * [capistrano-kemal](https://github.com/bitfex/capistrano-kemal) - Capistrano Plugin for Kemal
  * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
- * [DPPM](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (https://github.com/veelenga/awesome-crystal/blob/master/mostly Linux)
+ * [DPPM](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (https://github.com/veelenga/awesome-crystal/blob/master/mostly Linux)
 
 ## Editor Plugins
  * Atom

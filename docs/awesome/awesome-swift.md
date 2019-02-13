@@ -156,7 +156,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Indie iOS Focus Weekly](https://indieiosfocus.com) - Curated weekly iOS newsletter.
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot (https://github.com/matteocrippa/awesome-swift/blob/master/discontinued, look the archive)](https://github.com/matteocrippa/awesome-swift/blob/master/https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Newsletter by Natasha the Robot (https://github.com/matteocrippa/awesome-swift/blob/master/discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 
@@ -279,7 +279,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
-* [SwiftLCS](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (https://github.com/matteocrippa/awesome-swift/blob/master/LCS) algorithm.
+* [Swifthttps://github.com/matteocrippa/awesome-swift/blob/master/LCS](https://github.com/Frugghi/Swifthttps://github.com/matteocrippa/awesome-swift/blob/master/LCS) :penguin: - implementation of the longest common subsequence (https://github.com/matteocrippa/awesome-swift/blob/master/LCS) algorithm.
 
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
@@ -294,7 +294,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Comets](https://github.com/cruisediary/Comets) - Animating Particles.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations.
 * [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
-* [EasyAnimation](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView.animateWithDuration(https://github.com/matteocrippa/awesome-swift/blob/master/_:, animations:...) to a whole new level.
+* [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A library to take the power of UIView.animateWithDuration(https://github.com/matteocrippa/awesome-swift/blob/master/_:, animations:...) to a whole new level.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
@@ -350,7 +350,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, without the steep learning curve.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
-* [AudioPlayerSwift](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (https://github.com/matteocrippa/awesome-swift/blob/master/basic and advanced usage) in iOS, OS X and tvOS apps.
+* [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (https://github.com/matteocrippa/awesome-swift/blob/master/basic and advanced usage) in iOS, OS X and tvOS apps.
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music.
 * [Soundable](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
@@ -396,7 +396,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Chart
 [back to top](#readme) 
 
-* [Charts](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (https://github.com/matteocrippa/awesome-swift/blob/master/port of MPAndroidChart).
+* [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (https://github.com/matteocrippa/awesome-swift/blob/master/port of MPAndroidChart).
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
@@ -447,8 +447,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [GroupWork](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
-* [Queuer](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (https://github.com/matteocrippa/awesome-swift/blob/master/aka GCD).
-* [Venice](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (https://github.com/matteocrippa/awesome-swift/blob/master/CSP), Linux ready.
+* [Queuer](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (https://github.com/matteocrippa/awesome-swift/blob/master/aka GCD).
+* [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (https://github.com/matteocrippa/awesome-swift/blob/master/CSP), Linux ready.
 
 ### Currency
 [back to top](#readme) 
@@ -532,12 +532,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [fluent](https://github.com/vapor/fluent) :penguin: - Simple ActiveRecord implementation.
-* [Perfect-CRUD](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (https://github.com/matteocrippa/awesome-swift/blob/master/ORM) system using Codable protocol.
+* [Perfect-CRUD](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (https://github.com/matteocrippa/awesome-swift/blob/master/ORM) system using Codable protocol.
 
 #### Other Data
 *Other ways to persist data* [back to top](#readme) 
 
-* [CoreXLSX](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (https://github.com/matteocrippa/awesome-swift/blob/master/XLSX) format support.
+* [Corehttps://github.com/matteocrippa/awesome-swift/blob/master/XLSX](https://github.com/MaxDesiatov/Corehttps://github.com/matteocrippa/awesome-swift/blob/master/XLSX) - Excel spreadsheet (https://github.com/matteocrippa/awesome-swift/blob/master/XLSX) format support.
 * [CSVParser](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
@@ -599,14 +599,14 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [Time](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
-* [TrueTime.swift](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (https://github.com/matteocrippa/awesome-swift/blob/master/NTP library).
+* [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (https://github.com/matteocrippa/awesome-swift/blob/master/NTP library).
 
 ### Dependency Injection
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
 * [Corridor](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
-* [Deli](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(https://github.com/matteocrippa/awesome-swift/blob/master/DI).
+* [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(https://github.com/matteocrippa/awesome-swift/blob/master/DI).
 * [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 * [Pure](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
@@ -657,11 +657,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Observable](https://github.com/roberthein/Observable) - The easiest way to observe values.
 * [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
-* [ReactiveCocoa](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (https://github.com/matteocrippa/awesome-swift/blob/master/RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (https://github.com/matteocrippa/awesome-swift/blob/master/RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow.
-* [RxReduce](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/RxSwiftCommunity/RxReduce) - Reactive implementation of the state container pattern (https://github.com/matteocrippa/awesome-swift/blob/master/like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.
-* [RxSwift](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (https://github.com/matteocrippa/awesome-swift/blob/master/Rx).
+* [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) - Reactive implementation of the state container pattern (https://github.com/matteocrippa/awesome-swift/blob/master/like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.
+* [https://github.com/matteocrippa/awesome-swift/blob/master/RxSwift](https://github.com/ReactiveX/https://github.com/matteocrippa/awesome-swift/blob/master/RxSwift) - Microsoft Reactive Extensions (https://github.com/matteocrippa/awesome-swift/blob/master/Rx).
 * [Signals](https://github.com/artman/Signals) - Replaces delegates and notifications.
 * [Snail](https://github.com/UrbanCompass/Snail) - An Observables framework.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
@@ -676,7 +676,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful file browser for iOS.
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management.
-* [FileProvider](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (https://github.com/matteocrippa/awesome-swift/blob/master/WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.
+* [FileProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (https://github.com/matteocrippa/awesome-swift/blob/master/WebDAV/FTP/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
 * [PathKit](https://github.com/kylef/PathKit) :penguin: - Effortless path operations.
 
@@ -691,7 +691,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans.
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
 * [SwiftIcons](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
-* [UIFontComplete](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/Nirma/UIFontComplete) - Font management (https://github.com/matteocrippa/awesome-swift/blob/master/System & Custom) for iOS and tvOS.
+* [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Font management (https://github.com/matteocrippa/awesome-swift/blob/master/System & Custom) for iOS and tvOS.
 
 ### Game Engine
 [back to top](#readme) 
@@ -714,7 +714,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Framework for backwards-compatible Peek and Pop.
 * [ShowTime](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
-* [SwipyCell](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (https://github.com/matteocrippa/awesome-swift/blob/master/known from the Mailbox App).
+* [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (https://github.com/matteocrippa/awesome-swift/blob/master/known from the Mailbox App).
 
 ### Hardware
 *A category dedicated to hardware related libs* [back to top](#readme) 
@@ -769,7 +769,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
-* [AXPhotoViewer](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (https://github.com/matteocrippa/awesome-swift/blob/master/or small!) number of photos.
+* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (https://github.com/matteocrippa/awesome-swift/blob/master/or small!) number of photos.
 * [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
@@ -784,7 +784,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS.
 * [ImageScout](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 * [ImageViewer](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter.
-* [JLStickerTextView](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (https://github.com/matteocrippa/awesome-swift/blob/master/multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+* [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (https://github.com/matteocrippa/awesome-swift/blob/master/multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Image download and caching.
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
@@ -799,12 +799,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Snowflake](https://github.com/onmyway133/Snowflake) - Work with SVG.
 * [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
 * [SwiftGif](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
-* [SwiftSVG](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (https://github.com/matteocrippa/awesome-swift/blob/master/String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (https://github.com/matteocrippa/awesome-swift/blob/master/String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
-* [Viewer](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/3lvis/Viewer) - Image viewer (https://github.com/matteocrippa/awesome-swift/blob/master/or Lightbox) with support for local and remote videos and images.
+* [Viewer](https://github.com/3lvis/Viewer) - Image viewer (https://github.com/matteocrippa/awesome-swift/blob/master/or Lightbox) with support for local and remote videos and images.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
@@ -842,7 +842,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Auto Layout
 *Bored of using storyboard? Give a try to declarative auto layout libs.* [back to top](#readme) 
 
-* [Bamboo](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/wordlessj/Bamboo) - Auto Layout (https://github.com/matteocrippa/awesome-swift/blob/master/and manual layout) in one line.
+* [Bamboo](https://github.com/wordlessj/Bamboo) - Auto Layout (https://github.com/matteocrippa/awesome-swift/blob/master/and manual layout) in one line.
 * [Cartography](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
 * [Cassowary](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 * [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
@@ -851,7 +851,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [KVConstraintKit](https://github.com/keshavvishwkarma/KVConstraintKit) - An Impressive Autolayout DSL for iOS, tvOS & OSX.
 * [MisterFusion](https://github.com/marty-suzuki/MisterFusion) - DSL for AutoLayout, supports Size Class.
 * [Mortar](https://github.com/jmfieldman/Mortar) - A concise but flexible DSL for creating Auto Layout constraints and adding subviews.
-* [NorthLayout](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/banjun/NorthLayout) - Fast path to layout using Visual Format Language (https://github.com/matteocrippa/awesome-swift/blob/master/VFL) with extended syntax.
+* [NorthLayout](https://github.com/banjun/NorthLayout) - Fast path to layout using Visual Format Language (https://github.com/matteocrippa/awesome-swift/blob/master/VFL) with extended syntax.
 * [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - Autolayout DSL for iOS & OS X.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
@@ -866,9 +866,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
 * [Localize](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
-* [NoOptionalInterpolation](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(https://github.com/matteocrippa/awesome-swift/blob/master/...)" and "nil" in string interpolation. Easy pluralization.
+* [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(https://github.com/matteocrippa/awesome-swift/blob/master/...)" and "nil" in string interpolation. Easy pluralization.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
-* [SwiftGen-L10n](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (https://github.com/matteocrippa/awesome-swift/blob/master/with appropriate associated values if those strings contains printf-format placeholders like `%@`).
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (https://github.com/matteocrippa/awesome-swift/blob/master/with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 
 ### Location
 [back to top](#readme) 
@@ -891,7 +891,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
 * [TraceLog](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - Utility for logging excessive blocking on the main thread.
-* [WatchdogInspector](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (https://github.com/matteocrippa/awesome-swift/blob/master/fps) in the status bar of your iOS app.
+* [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (https://github.com/matteocrippa/awesome-swift/blob/master/fps) in the status bar of your iOS app.
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
@@ -922,13 +922,13 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
-* [Ciao](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (https://github.com/matteocrippa/awesome-swift/blob/master/Bonjour, Zeroconf).
+* [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (https://github.com/matteocrippa/awesome-swift/blob/master/Bonjour, Zeroconf).
 * [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 * [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
-* [Just](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/JustHTTP/Just) :penguin: - HTTP for Humans (https://github.com/matteocrippa/awesome-swift/blob/master/a python-requests style HTTP library).
+* [Just](https://github.com/JustHTTP/Just) :penguin: - HTTP for Humans (https://github.com/matteocrippa/awesome-swift/blob/master/a python-requests style HTTP library).
 * [Malibu](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 * [Moya](https://github.com/Moya/Moya) - Network abstraction layer.
 * [MultiPeer](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
@@ -971,7 +971,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - IBM's cross platform low level socket framework.
 * [BlueSSLService](https://github.com/IBM-Swift/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
-* [DNWebSocket](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Autobahn tested WebSocket Library (https://github.com/matteocrippa/awesome-swift/blob/master/RFC 6455).
+* [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Autobahn tested WebSocket Library (https://github.com/matteocrippa/awesome-swift/blob/master/RFC 6455).
 * [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [sockets](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
@@ -1040,7 +1040,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
-* [RNCryptor](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/RNCryptor/RNCryptor) - CCCryptor (https://github.com/matteocrippa/awesome-swift/blob/master/Apple's AES encryption) wrappers for iOS and Mac.
+* [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (https://github.com/matteocrippa/awesome-swift/blob/master/Apple's AES encryption) wrappers for iOS and Mac.
 * [SCrypto](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 * [Siphash](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
@@ -1138,7 +1138,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
 * [Chronos](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Each](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
-* [EKI](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (https://github.com/matteocrippa/awesome-swift/blob/master/queue, task, group, timer and semaphore).
+* [EKI](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (https://github.com/matteocrippa/awesome-swift/blob/master/queue, task, group, timer and semaphore).
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.
 * [Schedule](https://github.com/jianstm/Schedule) :penguin: - A missing lightweight task scheduler with an incredibly human-friendly syntax.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - API for NSTimer.
@@ -1191,7 +1191,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - A command-line tool that automatically generates a Plist of all your dependencies.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support.
-* [Magnetic](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by Apple Music).
+* [Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by Apple Music).
 * [Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 * [MantleModal](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 * [Material](https://github.com/CosmicMind/Material) - Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.
@@ -1216,7 +1216,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
-* [Shiny](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/efremidze/Shiny) - Iridescent Effect View (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by Apple Pay Cash).
+* [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by Apple Pay Cash).
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
@@ -1286,7 +1286,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Floaty](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
 * [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
-* [MultiToggleButton](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (https://github.com/matteocrippa/awesome-swift/blob/master/like the camera flash and timer buttons).
+* [MultiToggleButton](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (https://github.com/matteocrippa/awesome-swift/blob/master/like the camera flash and timer buttons).
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
 * [PMSuperButton](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
@@ -1296,7 +1296,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [CalendarKit](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view.
-* [CalendarView](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (https://github.com/matteocrippa/awesome-swift/blob/master/and scrolling) and the display of native calendar events.
+* [CalendarView](https://github.com/mmick66/CalendarView) - Calendar Component, It features both vertical and horizontal layout (https://github.com/matteocrippa/awesome-swift/blob/master/and scrolling) and the display of native calendar events.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - UI calendar handler.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component.
@@ -1332,7 +1332,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
-* [IncrementableLabel](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/tbaranes/IncrementableLabel) - An UILabel subclass to (https://github.com/matteocrippa/awesome-swift/blob/master/de)increment numbers in an UILabel.
+* [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - An UILabel subclass to (https://github.com/matteocrippa/awesome-swift/blob/master/de)increment numbers in an UILabel.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
@@ -1343,7 +1343,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Menu
 [back to top](#readme) 
 
-* [AKSwiftSlideMenu](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (https://github.com/matteocrippa/awesome-swift/blob/master/Drawer).
+* [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (https://github.com/matteocrippa/awesome-swift/blob/master/Drawer).
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
@@ -1353,7 +1353,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
-* [MenuItemKit](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (https://github.com/matteocrippa/awesome-swift/blob/master/closure) support.
+* [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (https://github.com/matteocrippa/awesome-swift/blob/master/closure) support.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
@@ -1514,7 +1514,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
-* [CallbackURLKit](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (https://github.com/matteocrippa/awesome-swift/blob/master/Inter app communication).
+* [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (https://github.com/matteocrippa/awesome-swift/blob/master/Inter app communication).
 * [Closures](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 * [Curry](https://github.com/thoughtbot/Curry) - Function currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Fast diff library.
@@ -1526,7 +1526,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
-* [Focus](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/typelift/Focus) - Optics library (https://github.com/matteocrippa/awesome-swift/blob/master/includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
+* [Focus](https://github.com/typelift/Focus) - Optics library (https://github.com/matteocrippa/awesome-swift/blob/master/includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 * [Lumos](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
@@ -1557,7 +1557,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
 * [TSAO](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
-* [UTIKit](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/cockscomb/UTIKit) - an UTI (https://github.com/matteocrippa/awesome-swift/blob/master/Uniform Type Identifier) wrapper.
+* [UTIKit](https://github.com/cockscomb/UTIKit) - an UTI (https://github.com/matteocrippa/awesome-swift/blob/master/Uniform Type Identifier) wrapper.
 * [Vaccine](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate [weak self] and guard statements within closures.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
@@ -1572,7 +1572,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
 * [RxValidator](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
-* [SwiftValidators](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by validator.js).
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (https://github.com/matteocrippa/awesome-swift/blob/master/inspired by validator.js).
 * [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.
 
 #### Phone Numbers
@@ -1607,4 +1607,4 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/blob/master/https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
+Please take a quick look at the [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!

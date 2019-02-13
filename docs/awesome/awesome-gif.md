@@ -59,7 +59,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
-- [Gifify (https://github.com/davisonio/awesome-gif/blob/master/not the same)](https://github.com/davisonio/awesome-gif/blob/master/https://github.com/jclem/gifify) - convert screen recording into GIF
+- [Gifify (https://github.com/davisonio/awesome-gif/blob/master/not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
@@ -82,7 +82,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video
 - [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
-- [Gifit (https://github.com/davisonio/awesome-gif/blob/master/the other one)](https://github.com/davisonio/awesome-gif/blob/master/https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
+- [Gifit (https://github.com/davisonio/awesome-gif/blob/master/the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 
 ### Libraries
@@ -101,7 +101,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - A simple library to display animated GIF images in WPF
-- [XamlAnimatedGif](https://github.com/davisonio/awesome-gif/blob/master/https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (https://github.com/davisonio/awesome-gif/blob/master/WPF, WinRT, Windows Phone)
+- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (https://github.com/davisonio/awesome-gif/blob/master/WPF, WinRT, Windows Phone)
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
 
 #### Haxe
@@ -208,7 +208,7 @@ Imagemagick
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-Bash script (https://github.com/davisonio/awesome-gif/blob/master/```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
+Bash script (https://raw.githubusercontent.com/davisonio/awesome-gif/master/```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
@@ -294,10 +294,10 @@ convert -layers Optimize output.gif output_optimized.gif
 ```python
 from moviepy.editor import *
 
-clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip(https://github.com/davisonio/awesome-gif/blob/master/"input.avi")
-        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(https://github.com/davisonio/awesome-gif/blob/master/4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
+clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip("input.avi")
+        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
         .resize(https://github.com/davisonio/awesome-gif/blob/master/0.3))
-clip.write_gif(https://github.com/davisonio/awesome-gif/blob/master/"output.gif")
+clip.write_gif(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"output.gif")
 
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
@@ -309,11 +309,11 @@ Freezing a region
 ```python
 from moviepy.editor import *
 
-clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip(https://github.com/davisonio/awesome-gif/blob/master/"input.avi")
-        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(https://github.com/davisonio/awesome-gif/blob/master/4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
+clip = (https://github.com/davisonio/awesome-gif/blob/master/VideoFileClip("input.avi")
+        .subclip(https://github.com/davisonio/awesome-gif/blob/master/(4,00.00),(https://github.com/davisonio/awesome-gif/blob/master/5,00.00))
         .resize(https://github.com/davisonio/awesome-gif/blob/master/0.3)
-        .fx(https://github.com/davisonio/awesome-gif/blob/master/vfx.freeze_region, outside_region=(https://github.com/davisonio/awesome-gif/blob/master/170, 230, 380, 320)))
-clip.write_gif(https://github.com/davisonio/awesome-gif/blob/master/"output.gif", fps=15)
+        .fx(https://github.com/davisonio/awesome-gif/blob/master/vfx.freeze_region, outside_region=(170, 230, 380, 320)))
+clip.write_gif(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"output.gif", fps=15)
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
@@ -345,7 +345,7 @@ clip = mp.VideoFileClip(https://github.com/davisonio/awesome-gif/blob/master/"in
 scenes = FramesMatches.from_clip(https://github.com/davisonio/awesome-gif/blob/master/clip, 10, 3)
 
 selected_scenes = scenes.select_scenes(https://github.com/davisonio/awesome-gif/blob/master/2, 1, 4, 0.5)
-selected_scenes.write_gifs(https://github.com/davisonio/awesome-gif/blob/master/clip.resize(https://github.com/davisonio/awesome-gif/blob/master/width=450), "./outputs_directory")
+selected_scenes.write_gifs(https://github.com/davisonio/awesome-gif/blob/master/clip.resize(width=450), "./outputs_directory")
 
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
@@ -380,11 +380,11 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
 function(https://github.com/davisonio/awesome-gif/blob/master/status) {
   if (https://github.com/davisonio/awesome-gif/blob/master/status === "success") {
       var current = 0;
-      var grabber = setInterval(https://github.com/davisonio/awesome-gif/blob/master/function (https://github.com/davisonio/awesome-gif/blob/master/) {
-          var frame = page.evaluate(https://github.com/davisonio/awesome-gif/blob/master/function(https://github.com/davisonio/awesome-gif/blob/master/) {
-           return document.getElementById(https://github.com/davisonio/awesome-gif/blob/master/'mycanvas').toDataURL(https://github.com/davisonio/awesome-gif/blob/master/"image/png").split(https://github.com/davisonio/awesome-gif/blob/master/",")[1];
+      var grabber = setInterval(https://github.com/davisonio/awesome-gif/blob/master/function () {
+          var frame = page.evaluate(https://github.com/davisonio/awesome-gif/blob/master/function() {
+           return document.getElementById(https://github.com/davisonio/awesome-gif/blob/master/'mycanvas').toDataURL(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"image/png").split(https://github.com/davisonio/awesome-gif/blob/master/",")[1];
           });
-          fs.write(https://github.com/davisonio/awesome-gif/blob/master/"./frame-" + current + ".png",atob(https://github.com/davisonio/awesome-gif/blob/master/frame), 'wb');
+          fs.write(https://raw.githubusercontent.com/davisonio/awesome-gif/master/"./frame-" + current + ".png",atob(frame), 'wb');
       if (https://github.com/davisonio/awesome-gif/blob/master/++current === NB_FRAME) {
          window.clearInterval(https://github.com/davisonio/awesome-gif/blob/master/grabber);
          phantom.exit(0);

@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
-[![Contributors needed](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
@@ -68,7 +68,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Communication
 
-* [Tlk.io](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://tlk.io/) - Create a room with any URL (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/eg `tlk.io/some-room`) you wish and chat in groups.
+* [Tlk.io](https://tlk.io/) - Create a room with any URL (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/eg `tlk.io/some-room`) you wish and chat in groups.
 * [Discord](https://discordapp.com/) - Voice and text conference online. Username is asked at start to create a temp avatar.
 * [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
 * [Appear.in](https://appear.in/) - Video conference online. Create any room like `appear.in/some-room` and starting chatting.
@@ -88,7 +88,7 @@ To save the world from creating user accounts and installing software applicatio
 #### Markdown
 
 * [Dillinger](http://dillinger.io/) - Powerful Markdown WYSIWYG with export to HTML and PDF. User account to save documents.
-* [Github.md](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/GFM) preview with print feature.
+* [Github.md](http://aviaryan.in/javascripts/github.md/) - Simple GitHub-style Markdown (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/GFM) preview with print feature.
 * [HackMD](https://hackmd.io) - A collaborative, powerful, real-time online markdown editor with preview.
 * [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - Minimal Markdown editor.
@@ -157,12 +157,12 @@ To save the world from creating user accounts and installing software applicatio
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 * [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
-* [Logo Makr](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/PNG is free).
+* [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/PNG is free).
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
-* [ezGIF](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://ezgif.com/) - GIF images editor (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/cropping, scaling, optimizing and more).
+* [ezGIF](https://ezgif.com/) - GIF images editor (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - Color scheme designer.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 * [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
@@ -176,11 +176,11 @@ To save the world from creating user accounts and installing software applicatio
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
 * [Bitport](https://bitport.io/welcome) `[Account]` - Torrent downloader. Limited to 1 torrent of 1gb per day in free account.
-* [Vubey](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/bitrates).
+* [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 * [Instagram Story Downloader](https://wizseotools.com/instagram-story-downloader/) - Instagram Story Downloader lets you download stories of public accounts by just entering the username.
-* [Instagram Media Downloader](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://wizseotools.com/insta-save/) - Allows you to download Instagram Images & videos. Supports Multiple Image/Video Posts (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/Sidecar).
+* [Instagram Media Downloader](https://wizseotools.com/insta-save/) - Allows you to download Instagram Images & videos. Supports Multiple Image/Video Posts (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/Sidecar).
 
 
 ### Music, Radio and Podcasts
@@ -194,7 +194,7 @@ To save the world from creating user accounts and installing software applicatio
 * [plug.dj](https://plug.dj/) - Listen to thousands of DJs, powered by YouTube, sign-in required to become a DJ.
 * [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
-* [NoteFlight](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/review).
+* [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/review).
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
@@ -216,7 +216,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Hardbin](https://hardbin.com/) - Secure encrypted pastebin hosted on IPFS.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
-* [10 Minute Mail](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/extendible).
+* [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites. 
 
 
@@ -225,7 +225,7 @@ To save the world from creating user accounts and installing software applicatio
 * [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) - Online terminals for Ipython, Octave, 
 Powershell, Redis and lots others. Also has a good collection of IDEs for programming languages.
 * [Ideone](http://ideone.com/) - Online IDE supporting most popular languages.
-* [codepad](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://codepad.org/) - Online compiler which also allows you to create project (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
+* [codepad](http://codepad.org/) - Online compiler which also allows you to create project (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/you get alloted a subdomain for your project). Note that there's no support for reading from stdin.
 * [Repl.it](https://repl.it/) - Online terminals for all popular programming languages.
 * [Codechef IDE](https://www.codechef.com/ide) - Simple single file code compiler supporting major languages.
 * [Cloud9](https://c9.io/) `[Account]`  - Very powerful online dev environment, just like your local PC.
@@ -256,7 +256,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [CSS Matic](https://www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
 * [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 * [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
-* [ObjGen](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://www.objgen.com/) - This app helps you generate code (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
+* [ObjGen](http://www.objgen.com/) - This app helps you generate code (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
 
 
@@ -292,7 +292,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) - Copy special characters that are generally unavailable in a keyboard.
 * [PolishMyWriting](http://www.polishmywriting.com/) - Paste a text and get feedback on your writing.
 * [Wordle](http://www.wordle.net/) - A toy to generate 'Word Clouds' form a given piece of text.
-* [tYp3r](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/The annoying text generator :-P).
+* [tYp3r](http://typ3r.aavi.me) - dA aNn0Y1Ng t3Xt g3NeRa7or (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/The annoying text generator :-P).
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
@@ -305,16 +305,16 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [RANDOM.ORG](https://www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
-* [Web-Capture](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://web-capture.net/) - Webapp for converting webpages to popular formats (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/PDF, JPEG, ZIP) just by submitting link.
+* [Web-Capture](https://web-capture.net/) - Webapp for converting webpages to popular formats (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
-* [Image Metadata Viewer](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://exif.regex.info/exif.cgi) - View hidden data (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/metadata) of any image.
+* [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View hidden data (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/metadata) of any image.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - Find the web host of any website.
 * [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 * [TallTweets](http://talltweets.com/) - Send tweets longer than 140 characters.
 * [Postify](http://postfity.com/) `[Account]` - Schedule posts on Facebook, Twitter & LinkedIn.
-* [Krutidev <--> Unicode](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/Mangal) and vice versa in one click.
+* [Krutidev <--> Unicode](http://wrd.bih.nic.in/font_KtoU.htm) - Convert Krutidev to Unicode (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/Mangal) and vice versa in one click.
 * [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
@@ -323,7 +323,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
-* [is.gd](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/https://is.gd/) - Link shortener with custom URLs and open API (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/no tokens).
+* [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/no tokens).
 * [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 * [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 * [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.

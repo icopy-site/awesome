@@ -39,13 +39,13 @@ Pull requests very welcome.
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
-* [mxunit-watch](https://github.com/seancoyne/awesome-coldfusion/blob/master/https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (https://github.com/seancoyne/awesome-coldfusion/blob/master/.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
+* [mxunit-watch](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (https://github.com/seancoyne/awesome-coldfusion/blob/master/.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
 
 ## Dependency Injection
 
 * [ColdSpring](http://www.coldspringframework.org/) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
-* [DI/1 - Inject One](https://github.com/seancoyne/awesome-coldfusion/blob/master/https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (https://github.com/seancoyne/awesome-coldfusion/blob/master/inversion of control) framework
+* [DI/1 - Inject One](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (https://github.com/seancoyne/awesome-coldfusion/blob/master/inversion of control) framework
 * [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - The Enterprise Dependency Injection Framework
 
 ## CMS
@@ -80,7 +80,7 @@ Pull requests very welcome.
 * [iQuery](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`.
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
-* [Moment.cfc](https://github.com/seancoyne/awesome-coldfusion/blob/master/https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (https://github.com/seancoyne/awesome-coldfusion/blob/master/not a direct port)
+* [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (https://github.com/seancoyne/awesome-coldfusion/blob/master/not a direct port)
 * [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
 * [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
@@ -92,19 +92,19 @@ Pull requests very welcome.
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 * [Adobe ColdFusion Builder 3](http://www.adobe.com/products/coldfusion-builder.html) - Eclipse based ColdFusion IDE from Adobe
 * [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML)
-* [cfbrackets](https://github.com/seancoyne/awesome-coldfusion/blob/master/http://cfbrackets.org) - adds support for ColdFusion Markup Language (https://github.com/seancoyne/awesome-coldfusion/blob/master/CFML) to [Brackets Code Editor](https://github.com/seancoyne/awesome-coldfusion/blob/master/http://brackets.io/)
+* [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (https://github.com/seancoyne/awesome-coldfusion/blob/master/CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 
 ## Tools
 
-* [CommandBox](https://github.com/seancoyne/awesome-coldfusion/blob/master/https://github.com/Ortus-Solutions/commandbox) - ColdFusion (https://github.com/seancoyne/awesome-coldfusion/blob/master/CFML) CLI, Package Manager, REPL and more
+* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (https://github.com/seancoyne/awesome-coldfusion/blob/master/CFML) CLI, Package Manager, REPL and more
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
 
 * [CF Live](http://cflive.net) - Realtime CFML testing console
-* [CF411](https://github.com/seancoyne/awesome-coldfusion/blob/master/http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (https://github.com/seancoyne/awesome-coldfusion/blob/master/in over 150 categories) by Charlie Arehart
+* [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (https://github.com/seancoyne/awesome-coldfusion/blob/master/in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [ColdFusion Koans](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [ColdFusion UI the Right Way](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
@@ -114,7 +114,7 @@ Pull requests very welcome.
 ## Resources
 * [CFRepo](http://www.gpickin.com/cfrepo/) - A repository of ColdFusion installers created by Gavin Pickin
 * [lucee5-heroku](https://github.com/mikesprague/lucee5-heroku) - Application template for deploying Lucee 5 apps to Heroku by Mike Sprague
-* [Vagrant LEMTL](https://github.com/seancoyne/awesome-coldfusion/blob/master/https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (https://github.com/seancoyne/awesome-coldfusion/blob/master/or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
+* [Vagrant LEMTL](https://github.com/mikesprague/vagrant-lemtl) - Vagrant box with Linux, Nginx, MariaDB (https://github.com/seancoyne/awesome-coldfusion/blob/master/or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague
 
 ## Documentation
 

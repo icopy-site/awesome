@@ -120,7 +120,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Talks
 
 - [Overview](https://www.youtube.com/watch?v=1P1-HXNfFPc) - Frege, a Haskell for the JVM by Dierk König.
-- [Frege vs. Haskell](https://github.com/sfischer13/awesome-frege/blob/master/https://www.youtube.com/watch?v=o2qwNlVeyA4) - FregeDay: Roadmap for resolving differences between Haskell and Frege (https://github.com/sfischer13/awesome-frege/blob/master/Ingo Wechsung).
+- [Frege vs. Haskell](https://www.youtube.com/watch?v=o2qwNlVeyA4) - FregeDay: Roadmap for resolving differences between Haskell and Frege (https://github.com/sfischer13/awesome-frege/blob/master/Ingo Wechsung).
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Talks) - List of more talks on the Frege wiki.
 

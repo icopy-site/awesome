@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [By Ramon Gebben](http://daily-javascript.com/articles/vorpal/)
 
-  A brief introduction to Vorpal by the author of [daily-javascript.com](https://github.com/vorpaljs/awesome-vorpal/blob/master/daily-javascript.com).
+  A brief introduction to Vorpal by the author of [https://github.com/vorpaljs/awesome-vorpal/blob/master/daily-javascript.com](https://github.com/vorpaljs/awesome-vorpal/blob/master/daily-javascript.com).
 
 ## Projects
 
@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
-- [phunt](https://github.com/vorpaljs/awesome-vorpal/blob/master/https://github.com/Kristories/phunt) - Access [Product Hunt](https://github.com/vorpaljs/awesome-vorpal/blob/master/https://www.producthunt.com/) on the CLI. *Trended on (https://github.com/vorpaljs/awesome-vorpal/blob/master/you guessed it) Product Hunt.*
+- [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (https://github.com/vorpaljs/awesome-vorpal/blob/master/you guessed it) Product Hunt.*
 - [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
 - [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.

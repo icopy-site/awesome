@@ -5,7 +5,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/blob/master/https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
 
 ### Contents
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## Game Development
 
 * [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine
-* [StageXL](https://github.com/yissachar/awesome-dart/blob/master/http://www.stagexl.org/) - StageXL offers an easy to use and complete API (https://github.com/yissachar/awesome-dart/blob/master/based on the Flash API) for impressive 2D content like games and other rich applications.
+* [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (https://github.com/yissachar/awesome-dart/blob/master/based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
@@ -134,7 +134,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](https://crossdart.info) - Cross-referenced source code of the packages from Pub.
-* [Crossdart Github Chrome Extension](https://github.com/yissachar/awesome-dart/blob/master/https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (https://github.com/yissachar/awesome-dart/blob/master/both in tree views and pull requests).
+* [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (https://github.com/yissachar/awesome-dart/blob/master/both in tree views and pull requests).
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [json2dart](https://javiercbk.github.io/json_to_dart) - Given a json, it generates the dart classes to parse and generate json with given structure.
@@ -152,8 +152,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
 * [Stack Overflow](https://stackoverflow.com/tags/dart)
-* [Facebook Group (https://github.com/yissachar/awesome-dart/blob/master/pt-BR)](https://github.com/yissachar/awesome-dart/blob/master/https://www.facebook.com/groups/dartlangbr)
-* [Telegram chat (https://github.com/yissachar/awesome-dart/blob/master/ru-RU)](https://github.com/yissachar/awesome-dart/blob/master/https://t.me/rudart)
+* [Facebook Group (https://github.com/yissachar/awesome-dart/blob/master/pt-BR)](https://www.facebook.com/groups/dartlangbr)
+* [Telegram chat (https://github.com/yissachar/awesome-dart/blob/master/ru-RU)](https://t.me/rudart)
 
 
 ## IDEs, Editors, and Plugins

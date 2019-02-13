@@ -4,7 +4,7 @@
 <hr/>
 
 <p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+    <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
@@ -64,17 +64,17 @@ Graphics
 * :money_with_wings: [CGTextures](http://www.textures.com) - A large collection of textures.
 * :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
-* :free: [Google Poly](https://github.com/ellisonleao/magictools/blob/master/https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (https://github.com/ellisonleao/magictools/blob/master/Only remixable models are downloadable.)
+* :free: [Google Poly](https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (https://github.com/ellisonleao/magictools/blob/master/Only remixable models are downloadable.)
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
-* :free: [Liberated Pixel Cup assets](https://github.com/ellisonleao/magictools/blob/master/http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (https://github.com/ellisonleao/magictools/blob/master/LPC) held by the OpenGameArt forums
+* :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (https://github.com/ellisonleao/magictools/blob/master/LPC) held by the OpenGameArt forums
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * :free: [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
 * :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 * :money_with_wings: [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos
 * :free: [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 * :free: [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
-* :free: [SpriteLib](https://github.com/ellisonleao/magictools/blob/master/http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (https://github.com/ellisonleao/magictools/blob/master/also commonly known as sprites).
+* :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (https://github.com/ellisonleao/magictools/blob/master/also commonly known as sprites).
 * :free: [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
 * :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
 * :free: [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
@@ -112,7 +112,7 @@ Graphics
 
 * :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 * :free: [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
-* :tada: [Universal LPC Sprite Sheet Character Generator](https://github.com/ellisonleao/magictools/blob/master/http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (https://github.com/ellisonleao/magictools/blob/master/Liberated Pixel Cup) graphics
+* :tada: [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (https://github.com/ellisonleao/magictools/blob/master/Liberated Pixel Cup) graphics
 
 #### Tile/Level Editors
 
@@ -138,7 +138,7 @@ Graphics
 * :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 * :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 * :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
-* :free: [Multipaint](https://github.com/ellisonleao/magictools/blob/master/http://multipaint.kameli.net) - A cross-platform (https://github.com/ellisonleao/magictools/blob/master/Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (https://github.com/ellisonleao/magictools/blob/master/like C64, ZX Spectrum etc.)
+* :free: [Multipaint](http://multipaint.kameli.net) - A cross-platform (https://github.com/ellisonleao/magictools/blob/master/Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (https://github.com/ellisonleao/magictools/blob/master/like C64, ZX Spectrum etc.)
 * :moneybag: [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
@@ -146,14 +146,14 @@ Graphics
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
-* :moneybag: [PXL8](https://github.com/ellisonleao/magictools/blob/master/http://www.pxl8.it) - A cross platform (https://github.com/ellisonleao/magictools/blob/master/Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
+* :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (https://github.com/ellisonleao/magictools/blob/master/Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 * :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 * :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 * :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
-* [Universal LPC Sprite Sheet Character Generator](https://github.com/ellisonleao/magictools/blob/master/http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (https://github.com/ellisonleao/magictools/blob/master/Liberated Pixel Cup) graphics
+* [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (https://github.com/ellisonleao/magictools/blob/master/Liberated Pixel Cup) graphics
 * :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 * :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 
@@ -225,7 +225,7 @@ Code
 * :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A dead simple 2D game library in Go.
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
-* :tada: [EnTT](https://github.com/ellisonleao/magictools/blob/master/https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (https://github.com/ellisonleao/magictools/blob/master/ECS) and much more
+* :tada: [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (https://github.com/ellisonleao/magictools/blob/master/ECS) and much more
 * :tada: [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
 * :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 * :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
@@ -255,7 +255,7 @@ Code
 * :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 * :tada: [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
-* :tada: [LibGDX](https://github.com/ellisonleao/magictools/blob/master/https://libgdx.badlogicgames.com/) - Powerful (https://github.com/ellisonleao/magictools/blob/master/totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
+* :tada: [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (https://github.com/ellisonleao/magictools/blob/master/totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 * :tada: [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
 * :free: [LuaStudio](http://scormpool.com/luastudio) - Cross-Platform framework/development tool for making 2D/3D games with Lua/LuaJIT, compatible iOS, Android, Mac and Windows devices.
@@ -263,7 +263,7 @@ Code
 * :tada: [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
 * :tada: [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 * :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
-* :tada: [MINX](https://github.com/ellisonleao/magictools/blob/master/https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (https://github.com/ellisonleao/magictools/blob/master/to the style of XNA)
+* :tada: [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (https://github.com/ellisonleao/magictools/blob/master/to the style of XNA)
 * :tada: [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
 * :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 * :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
@@ -273,7 +273,7 @@ Code
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
-* :tada: [Ogre3D](https://github.com/ellisonleao/magictools/blob/master/http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (https://github.com/ellisonleao/magictools/blob/master/as opposed to a game engine) written in C++.
+* :tada: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (https://github.com/ellisonleao/magictools/blob/master/as opposed to a game engine) written in C++.
 * :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 * :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 * :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
@@ -289,7 +289,7 @@ Code
 * :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 * :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-* :tada: [Polycode](https://github.com/ellisonleao/magictools/blob/master/http://polycode.org) - Open-Source Framework for creating games in C++ (https://github.com/ellisonleao/magictools/blob/master/with Lua bindings).
+* :tada: [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (https://github.com/ellisonleao/magictools/blob/master/with Lua bindings).
 * :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 * :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
@@ -323,7 +323,7 @@ Code
 ### AI
 
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
-* :tada: [SimpleAI](https://github.com/ellisonleao/magictools/blob/master/https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (https://github.com/ellisonleao/magictools/blob/master/and with optional LUA bindings) released under MIT.
+* :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (https://github.com/ellisonleao/magictools/blob/master/and with optional LUA bindings) released under MIT.
 
 
 Audio
@@ -345,7 +345,7 @@ Audio
 * :free: [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * :free: [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * :free: [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* :free: [Bosca Ceoil](https://github.com/ellisonleao/magictools/blob/master/http://boscaceoil.net/) - Online (https://github.com/ellisonleao/magictools/blob/master/and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
+* :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (https://github.com/ellisonleao/magictools/blob/master/and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
 * :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
 * :free: [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * :free: [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
@@ -356,7 +356,7 @@ Audio
 * :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 * :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 * :free: [Soundation](https://soundation.com/) - Online Professional music studio.
-* :free: [SunVox](https://github.com/ellisonleao/magictools/blob/master/http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (https://github.com/ellisonleao/magictools/blob/master/tracker).
+* :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (https://github.com/ellisonleao/magictools/blob/master/tracker).
 
 Board Games
 -----------
@@ -430,7 +430,7 @@ Must see
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
-* [Unity in Action (https://github.com/ellisonleao/magictools/blob/master/book)](https://github.com/ellisonleao/magictools/blob/master/https://www.manning.com/books/unity-in-action-second-edition)
+* [Unity in Action (https://github.com/ellisonleao/magictools/blob/master/book)](https://www.manning.com/https://github.com/ellisonleao/magictools/blob/master/books/unity-in-action-second-edition)
 
 ### Magazines
 
@@ -442,7 +442,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/ellisonleao/magictools/blob/master/https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (https://github.com/ellisonleao/magictools/blob/master/GDC, youtube, etc).
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (https://github.com/ellisonleao/magictools/blob/master/GDC, youtube, etc).
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

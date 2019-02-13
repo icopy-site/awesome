@@ -71,14 +71,14 @@
 
 ### C++
 
-- [WPILib (https://github.com/andrewda/awesome-frc/blob/master/Java/C++)](https://github.com/andrewda/awesome-frc/blob/master/https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+- [WPILib (https://github.com/andrewda/awesome-frc/blob/master/Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
 - [BaseBot](https://github.com/frc5024/basebot) - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C#
 
-- [WPILib (https://github.com/andrewda/awesome-frc/blob/master/C#)](https://github.com/andrewda/awesome-frc/blob/master/https://github.com/robotdotnet/WPILib) - Unofficial WPILib port for writing robot code in C#.
-- [NetworkTables (https://github.com/andrewda/awesome-frc/blob/master/C#)](https://github.com/andrewda/awesome-frc/blob/master/https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for C#.
-- [FRC-Extension (https://github.com/andrewda/awesome-frc/blob/master/Visual Studio)](https://github.com/andrewda/awesome-frc/blob/master/https://github.com/robotdotnet/FRC-Extension) - Visual Studio extension to make writing C# robots a breeze.
+- [WPILib (https://github.com/andrewda/awesome-frc/blob/master/C#)](https://github.com/robotdotnet/WPILib) - Unofficial WPILib port for writing robot code in https://github.com/andrewda/awesome-frc/blob/master/C#.
+- [NetworkTables (https://github.com/andrewda/awesome-frc/blob/master/C#)](https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for https://github.com/andrewda/awesome-frc/blob/master/C#.
+- [FRC-Extension (https://github.com/andrewda/awesome-frc/blob/master/Visual Studio)](https://github.com/robotdotnet/FRC-Extension) - https://github.com/andrewda/awesome-frc/blob/master/Visual Studio extension to make writing C# robots a breeze.
 
 ### Python
 

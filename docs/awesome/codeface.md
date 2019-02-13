@@ -15,7 +15,7 @@
 
 ## New!
 
-Each typeface directory in the repository now includes a vertical metrics table (https://github.com/chrissimpkins/codeface/blob/master/`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool](https://github.com/chrissimpkins/codeface/blob/master/https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
+Each typeface directory in the repository now includes a vertical metrics table (https://github.com/chrissimpkins/codeface/blob/master/`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
 
 ## Fun Little Rant About Font Customization
 
@@ -224,7 +224,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 
 
-### [Fira Code](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-code)  [![Ligatures](https://github.com/chrissimpkins/codeface/blob/master/https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
+https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/# [Fira Code](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-code)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-code/license.txt) ]
 
@@ -279,7 +279,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 
 
-### [Hasklig](https://github.com/chrissimpkins/codeface/blob/master/fonts/hasklig)  [![Ligatures](https://github.com/chrissimpkins/codeface/blob/master/https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
+https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/# [Hasklig](https://github.com/chrissimpkins/codeface/blob/master/fonts/hasklig)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/hasklig/license.txt) ]
 
@@ -466,7 +466,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 
 
-### [Monoid](https://github.com/chrissimpkins/codeface/blob/master/fonts/monoid)  [![Ligatures](https://github.com/chrissimpkins/codeface/blob/master/https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
+https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chrissimpkins/codeface/blob/master/# [Monoid](https://github.com/chrissimpkins/codeface/blob/master/fonts/monoid)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](https://github.com/chrissimpkins/codeface/blob/master/#)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/monoid/license.txt) ]
 

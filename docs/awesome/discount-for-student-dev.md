@@ -39,7 +39,7 @@ Table of Contents
 ## Source Code Repos
 
   * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [FREE] - Free unlimited public and private repositories for academic users and teams.
-  * [GitHub](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack) [FREE] -  Personal account (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $7/month) with unlimited private repositories while you're a student.
+  * [GitHub](https://education.github.com/pack) [FREE] -  Personal account (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $7/month) with unlimited private repositories while you're a student.
 
 
 ## IDE and Code Editing
@@ -80,11 +80,11 @@ Table of Contents
 
 ## Email
 
-  * [Send Grid](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://sendgrid.com/partner/github-education) [CREDIT] - Student plan 15K free emails/month (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack).
+  * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT] - Student plan 15K free emails/month (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
-  * [Travis CI](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://travis-ci.org) [FREE] - Private builds (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $69/month) while you're a student available via [Github Student Developer Pack](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack).
+  * [Travis CI](https://travis-ci.org) [FREE] - Private builds (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
   * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
   * [Semaphore](http://semaphoreci.com/docs/education-plans.html) [FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
 
@@ -94,9 +94,9 @@ Table of Contents
 
 ## Management Systems
 
-  * [Bitnami](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $49/month) for one year available via [Github Student Developer Pack](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack).
+  * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
-  * [Orchestrate](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://orchestrate.io/) [FREE] - Orchestrate is a complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. You can host your data on a public cloud, such as in CenturyLink data centers, or use Orchestrate Enterprise’s dedicated clusters. [Github Student Developer Pack](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack) members receive a free developer account (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $49/month).
+  * [Orchestrate](https://orchestrate.io/) [FREE] - Orchestrate is a complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. You can host your data on a public cloud, such as in CenturyLink data centers, or use Orchestrate Enterprise’s dedicated clusters. [Github Student Developer Pack](https://education.github.com/pack) members receive a free developer account (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $49/month).
   * [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
 ## Maps
@@ -120,8 +120,8 @@ Table of Contents
 
 ## Security
 
-  * [NameCheap](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://namecheap.com/) [DISCOUNT] - One year SSL certificate (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $9/year) via [Github Student Developer Pack](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://education.github.com/pack).
-  * [Shodan](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
+  * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (https://github.com/AchoArnold/discount-for-student-dev/blob/master/normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 
 ## Software Modeling Tools
 
@@ -148,7 +148,7 @@ Table of Contents
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
 ## Password Managers
- * [RoboForm](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year (https://github.com/AchoArnold/discount-for-student-dev/blob/master/$12/year thereafter)
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year (https://github.com/AchoArnold/discount-for-student-dev/blob/master/$12/year thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Infrastructure Monitoring
@@ -156,9 +156,9 @@ Table of Contents
 
 ## Software Packs
 
-  * [Microsoft Imagine (https://github.com/AchoArnold/discount-for-student-dev/blob/master/formerly DreamSpark)](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (https://github.com/AchoArnold/discount-for-student-dev/blob/master/no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](https://github.com/AchoArnold/discount-for-student-dev/blob/master/http://onthehub.com/download/free-software/windows-10-education-for-students/).
+  * [Microsoft Imagine (https://github.com/AchoArnold/discount-for-student-dev/blob/master/formerly DreamSpark)](https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (https://github.com/AchoArnold/discount-for-student-dev/blob/master/no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
   * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
-  * [Intel Tools for Students](https://github.com/AchoArnold/discount-for-student-dev/blob/master/https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (https://github.com/AchoArnold/discount-for-student-dev/blob/master/includes Fortran and C/C++).
+  * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (https://github.com/AchoArnold/discount-for-student-dev/blob/master/includes Fortran and C/C++).
   * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
   * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
   * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.

@@ -4,7 +4,7 @@ Below is a list of open source games and game-related projects that can be found
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/blob/master/https://github.com/leereilly/games/issues), or fork this repository and submit a pull request (https://github.com/leereilly/games/blob/master/[click here to edit this file from github](https://github.com/leereilly/games/blob/master/https://github.com/leereilly/games/edit/master/README.md)).
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request (https://github.com/leereilly/games/blob/master/[click here to edit this file from github](https://github.com/leereilly/games/edit/master/README.md)).
 
 **Would you like to help maintain and improve this repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
 
@@ -53,19 +53,19 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 A selection of major game studios, publishers, etc. using GitHub:
 
-[<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
-[<img src="https://github.com/mojang.png" title="Mojang" height="50">](https://github.com/mojang)&nbsp;
-[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
-[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
-[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
-[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
-[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
-[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
-[<img src="https://github.com/gree.png" title="GREE" height="50">](https://github.com/gree)&nbsp;
-[<img src="https://github.com/dena.png" title="DeNA" height="50">](https://github.com/dena)&nbsp;
-[<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
-[<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
-[<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
+[<img src="https://raw.githubusercontent.com/zynga.png" title="Zynga" height="50">](https://raw.githubusercontent.com/zynga)&nbsp;
+[<img src="https://raw.githubusercontent.com/mojang.png" title="Mojang" height="50">](https://raw.githubusercontent.com/mojang)&nbsp;
+[<img src="https://raw.githubusercontent.com/riotgames.png" title="Riot Games" height="50">](https://raw.githubusercontent.com/riotgames)&nbsp;
+[<img src="https://raw.githubusercontent.com/epicgames.png" title="Epic Games" height="50">](https://raw.githubusercontent.com/epicgames)&nbsp;
+[<img src="https://raw.githubusercontent.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://raw.githubusercontent.com/OculusVR)&nbsp;
+[<img src="https://raw.githubusercontent.com/unity-technologies.png" title="Unity Technologies" height="50">](https://raw.githubusercontent.com/unity-technologies)&nbsp;
+[<img src="https://raw.githubusercontent.com/electronicarts.png" title="Electronic Arts" height="50">](https://raw.githubusercontent.com/electronicarts)&nbsp;
+[<img src="https://raw.githubusercontent.com/valvesoftware.png" title="Valve" height="50">](https://raw.githubusercontent.com/valvesoftware)&nbsp;
+[<img src="https://raw.githubusercontent.com/gree.png" title="GREE" height="50">](https://raw.githubusercontent.com/gree)&nbsp;
+[<img src="https://raw.githubusercontent.com/dena.png" title="DeNA" height="50">](https://raw.githubusercontent.com/dena)&nbsp;
+[<img src="https://raw.githubusercontent.com/playgameservices.png" title="Google Play Game Services" height="50">](https://raw.githubusercontent.com/playgameservices)&nbsp;
+[<img src="https://raw.githubusercontent.com/blizzard.png" title="Blizzard" height="50">](https://raw.githubusercontent.com/blizzard)&nbsp;
+[<img src="https://raw.githubusercontent.com/ccpgames.png" title="CCP Games" height="50">](https://raw.githubusercontent.com/ccpgames)&nbsp;
 
 
 ## Browser-Based
@@ -128,7 +128,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
 * [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-* [Mode](https://github.com/leereilly/games/blob/master/https://github.com/AdamAtomic/Mode) - Small(https://github.com/leereilly/games/blob/master/but sadly not that simple) demo game built on the Flixel framework. [Play it now!](https://github.com/leereilly/games/blob/master/http://www.adamatomic.com/mode/)
+* [Mode](https://github.com/AdamAtomic/Mode) - Small(https://github.com/leereilly/games/blob/master/but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
 * [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7. [Play it now!](http://candy-demo.enclavegames.com/)
 * [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
 * [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
@@ -138,7 +138,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
-* [Raging Gardens](https://github.com/leereilly/games/blob/master/https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (https://github.com/leereilly/games/blob/master/ninja) rabbit farts too often.
+* [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (https://github.com/leereilly/games/blob/master/ninja) rabbit farts too often.
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
 * [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
@@ -228,7 +228,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
 * [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
 * [Sudoku JS](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind. [Play it now](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html)
-* [Swap](https://github.com/leereilly/games/blob/master/https://github.com/nmoroze/swap) - New(https://github.com/leereilly/games/blob/master/award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](https://github.com/leereilly/games/blob/master/http://nmoroze.github.io/swap/)
+* [Swap](https://github.com/nmoroze/swap) - New(https://github.com/leereilly/games/blob/master/award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play it now!](http://alex.nisnevich.com/untrusted/)
 * [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
@@ -284,7 +284,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SDL-Ball](https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
 * [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
-* [Wannabe Tempest](https://github.com/leereilly/games/blob/master/https://github.com/awlzac/wbt) - Tempest(https://github.com/leereilly/games/blob/master/80's arcade game) clone in Java, and a small project for playing with git.
+* [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(https://github.com/leereilly/games/blob/master/80's arcade game) clone in Java, and a small project for playing with git.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
 
 ## FPS
@@ -356,7 +356,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
-* [PokerTH](https://github.com/leereilly/games/blob/master/https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (https://github.com/leereilly/games/blob/master/online) multiplayer and botplay. [Play it now!](https://github.com/leereilly/games/blob/master/http://www.pokerth.net/)
+* [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (https://github.com/leereilly/games/blob/master/online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 
 ## Racing
 
@@ -394,7 +394,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
 * [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play it now!](http://www.adityaravishankar.com/projects/games/lastcolony/)
-* [MegaGlest](https://github.com/leereilly/games/blob/master/https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (https://github.com/leereilly/games/blob/master/cross-platform, 3-d).
+* [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (https://github.com/leereilly/games/blob/master/cross-platform, 3-d).
 * [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 * [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
@@ -403,7 +403,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
 * [Pax Britannica](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
-* [PCOTM (https://github.com/leereilly/games/blob/master/Phone Case of the Monster)](https://github.com/leereilly/games/blob/master/https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
+* [PCOTM (https://github.com/leereilly/games/blob/master/Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 * [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
@@ -436,7 +436,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
-* [Wannabe Tempest](https://github.com/leereilly/games/blob/master/https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(https://github.com/leereilly/games/blob/master/80's arcade game).
+* [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(https://github.com/leereilly/games/blob/master/80's arcade game).
 
 ## IOS
 
@@ -448,7 +448,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [DrugsNRock](https://github.com/biou/DrugsNRock) - Simple multiplayer rhythm game designed during the 2013 Global Game Jam.
 * [FinalFighter](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
-* [Gorillas](https://github.com/leereilly/games/blob/master/https://github.com/Lyndir/Gorillas) - iPhone(https://github.com/leereilly/games/blob/master/or iPod touch) port of the popular old QBasic game.
+* [Gorillas](https://github.com/Lyndir/Gorillas) - iPhone(https://github.com/leereilly/games/blob/master/or iPod touch) port of the popular old QBasic game.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
@@ -474,14 +474,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
-* [System Shock](https://github.com/leereilly/games/blob/master/https://github.com/NightDiveStudios/shockmac/) - Source code for original System Shock game (https://github.com/leereilly/games/blob/master/PowerMac version), more readable fork available [here](https://github.com/leereilly/games/blob/master/https://github.com/ToxicFrog/shockmac).
+* [System Shock](https://github.com/NightDiveStudios/shockmac/) - Source code for original System Shock game (https://github.com/leereilly/games/blob/master/PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac).
 
 -------
 
 ## Frameworks/Engines/Libraries
 
 * [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
-* [Allegro 5](https://github.com/leereilly/games/blob/master/https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(https://github.com/leereilly/games/blob/master/graphics, sound, etc.).
+* [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(https://github.com/leereilly/games/blob/master/graphics, sound, etc.).
 * [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
@@ -499,7 +499,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS](https://github.com/CreateJS/EaselJS/) - Library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
-* [Evennia MUD/MU* Creation System](https://github.com/leereilly/games/blob/master/https://github.com/evennia/evennia) - Library for creating online multiplayer text games (https://github.com/leereilly/games/blob/master/MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
+* [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (https://github.com/leereilly/games/blob/master/MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 * [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
@@ -519,7 +519,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [lycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
 * [Matter.js](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
-* [MonoGame](https://github.com/leereilly/games/blob/master/https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (https://github.com/leereilly/games/blob/master/supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
+* [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (https://github.com/leereilly/games/blob/master/supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
 * [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
@@ -531,12 +531,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
 * [QICI Engine](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
-* [Ren'py](https://github.com/leereilly/games/blob/master/https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (https://github.com/leereilly/games/blob/master/iOS beta) and desktop platforms.
+* [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (https://github.com/leereilly/games/blob/master/iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
 * [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
-* [Starling](https://github.com/leereilly/games/blob/master/https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (https://github.com/leereilly/games/blob/master/iOS, Android), the desktop (https://github.com/leereilly/games/blob/master/Windows, OS X), and to the browser (https://github.com/leereilly/games/blob/master/via the Flash plugin).
-* [Superpowers](https://github.com/leereilly/games/blob/master/https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (https://github.com/leereilly/games/blob/master/2D & 3D with WebGL)
+* [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (https://github.com/leereilly/games/blob/master/iOS, Android), the desktop (https://github.com/leereilly/games/blob/master/Windows, OS X), and to the browser (https://github.com/leereilly/games/blob/master/via the Flash plugin).
+* [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (https://github.com/leereilly/games/blob/master/2D & 3D with WebGL)
 * [Tesseract](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 * [tiled](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
@@ -552,7 +552,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Maps/Hacks/Plugins/Utilities/All of the Things™
 
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
-* [Brood War API](https://github.com/leereilly/games/blob/master/https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (https://github.com/leereilly/games/blob/master/RTS) game Starcraft: Broodwar.
+* [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (https://github.com/leereilly/games/blob/master/RTS) game Starcraft: Broodwar.
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
 * [Greenworks](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
@@ -560,14 +560,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IodineGBA](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
 * [JavaScript Breakouts](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
-* [Leaderboard(https://github.com/leereilly/games/blob/master/Java)](https://github.com/leereilly/games/blob/master/https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(https://github.com/leereilly/games/blob/master/in Java).
-* [Leaderboard(https://github.com/leereilly/games/blob/master/PHP)](https://github.com/leereilly/games/blob/master/https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(https://github.com/leereilly/games/blob/master/in PHP).
-* [Leaderboard(https://github.com/leereilly/games/blob/master/Python)](https://github.com/leereilly/games/blob/master/https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(https://github.com/leereilly/games/blob/master/in Python).
-* [Leaderboard(https://github.com/leereilly/games/blob/master/Ruby)](https://github.com/leereilly/games/blob/master/https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(https://github.com/leereilly/games/blob/master/in Ruby).
-* [Leaderboard(https://github.com/leereilly/games/blob/master/Scala)](https://github.com/leereilly/games/blob/master/https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (https://github.com/leereilly/games/blob/master/in Scala).
+* [Leaderboard(https://github.com/leereilly/games/blob/master/Java)](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in https://github.com/leereilly/games/blob/master/Java).
+* [Leaderboard(https://github.com/leereilly/games/blob/master/PHP)](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in https://github.com/leereilly/games/blob/master/PHP).
+* [Leaderboard(https://github.com/leereilly/games/blob/master/Python)](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in https://github.com/leereilly/games/blob/master/Python).
+* [Leaderboard(https://github.com/leereilly/games/blob/master/Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in https://github.com/leereilly/games/blob/master/Ruby).
+* [Leaderboard(https://github.com/leereilly/games/blob/master/Scala)](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in https://github.com/leereilly/games/blob/master/Scala).
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
-* [Mudlet](https://github.com/leereilly/games/blob/master/https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (https://github.com/leereilly/games/blob/master/text-only MMORPGs) client with scripting in Lua.
+* [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (https://github.com/leereilly/games/blob/master/text-only MMORPGs) client with scripting in Lua.
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.

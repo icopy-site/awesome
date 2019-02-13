@@ -69,25 +69,25 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ### Misc
 
 - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features.
-- [Compat](https://github.com/dustinspecker/awesome-eslint/blob/master/https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatability of APIs used (https://github.com/dustinspecker/awesome-eslint/blob/master/[caniuse](https://github.com/dustinspecker/awesome-eslint/blob/master/http://caniuse.com/#search=fetch) as an ESLint plugin).
+- [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatability of APIs used (https://github.com/dustinspecker/awesome-eslint/blob/master/[caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) - Enables linting CoffeeScript files with, with optional linting rules from the Coffeelint library.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
-- [es5](https://github.com/dustinspecker/awesome-eslint/blob/master/https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (https://github.com/dustinspecker/awesome-eslint/blob/master/forbid ES2015+ usage).
+- [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (https://github.com/dustinspecker/awesome-eslint/blob/master/forbid ES2015+ usage).
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
 - [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names.
 - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown.
-- [Node](https://github.com/dustinspecker/awesome-eslint/blob/master/https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (https://github.com/dustinspecker/awesome-eslint/blob/master/checking importing paths, ES syntax, ...).
+- [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (https://github.com/dustinspecker/awesome-eslint/blob/master/checking importing paths, ES syntax, ...).
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
-- [TypeLint](https://github.com/dustinspecker/awesome-eslint/blob/master/https://github.com/yarax/typelint) - Introduces types, based on existing schemas (https://github.com/dustinspecker/awesome-eslint/blob/master/Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
+- [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (https://github.com/dustinspecker/awesome-eslint/blob/master/Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 - [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
-- [ESLint Comments](https://github.com/dustinspecker/awesome-eslint/blob/master/https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (https://github.com/dustinspecker/awesome-eslint/blob/master/`/*eslint-disable*/`, etc...).
+- [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (https://github.com/dustinspecker/awesome-eslint/blob/master/`/*eslint-disable*/`, etc...).
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Practices
@@ -142,7 +142,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - Article walking through the creation of an ESLint rule and plugin.
 - [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint.
 - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics.
-- [Linting React JSX with ESLint (https://github.com/dustinspecker/awesome-eslint/blob/master/in ES6)](https://github.com/dustinspecker/awesome-eslint/blob/master/https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
+- [Linting React JSX with ESLint (https://github.com/dustinspecker/awesome-eslint/blob/master/in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
 

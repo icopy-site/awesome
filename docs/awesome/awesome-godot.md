@@ -1,6 +1,6 @@
 ## Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Godot Engine logo](https://github.com/Calinou/awesome-godot/blob/master/godot-logo.svg)](https://github.com/Calinou/awesome-godot/blob/master/https://godotengine.org)
+[![Godot Engine logo](https://raw.githubusercontent.com/Calinou/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
@@ -40,7 +40,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
-- [Mountain of Hope](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (https://github.com/Calinou/awesome-godot/blob/master/PGA 2015)
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (https://github.com/Calinou/awesome-godot/blob/master/PGA 2015)
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
@@ -64,8 +64,8 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method.
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
-- [Open Source A-RPG Demo](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (https://github.com/Calinou/awesome-godot/blob/master/Godot 3.0).
-- [OpenRPG](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (https://github.com/Calinou/awesome-godot/blob/master/Godot 3.1).
+- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (https://github.com/Calinou/awesome-godot/blob/master/Godot 3.0).
+- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (https://github.com/Calinou/awesome-godot/blob/master/Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
@@ -127,13 +127,13 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays.
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
-- [Example Model Importer](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (https://github.com/Calinou/awesome-godot/blob/master/proof of concept).
+- [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (https://github.com/Calinou/awesome-godot/blob/master/proof of concept).
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
 - [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
-- [GodotTIE](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (https://github.com/Calinou/awesome-godot/blob/master/like in a RPG dialogue).
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (https://github.com/Calinou/awesome-godot/blob/master/like in a RPG dialogue).
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
@@ -149,7 +149,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](https://www.mapeditor.org/) for Godot 2.1.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
-- [Simple Adventure API](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (https://github.com/Calinou/awesome-godot/blob/master/precursor to [this](https://github.com/Calinou/awesome-godot/blob/master/https://github.com/Biarity/Godot-Adventure-Framework)).
+- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (https://github.com/Calinou/awesome-godot/blob/master/precursor to [this](https://github.com/Biarity/Godot-Adventure-Framework)).
 
 ## GDScript editor support
 

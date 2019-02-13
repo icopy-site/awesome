@@ -70,7 +70,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
-- [passport-steam](https://github.com/scholtzm/awesome-steam/blob/master/https://github.com/liamcurry/passport-steam) - Steam (https://github.com/scholtzm/awesome-steam/blob/master/OpenID) authentication strategy for Passport and Node.js.
+- [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (https://github.com/scholtzm/awesome-steam/blob/master/OpenID) authentication strategy for Passport and Node.js.
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
 
 #### Misc

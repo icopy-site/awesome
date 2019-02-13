@@ -30,7 +30,7 @@
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - A Rich text editor inspired by Medium & Facebook Notes.
 * [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
-* [Facebook Notes Clone(https://github.com/nikgraf/awesome-draft-js/blob/master/ish)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
+* [Facebook Notes Clone(https://github.com/nikgraf/awesome-draft-js/blob/master/ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
@@ -63,7 +63,7 @@
   - [Link](https://github.com/vacenz/last-draft-js-plugins)
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
-  - [Mathjax](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (https://github.com/nikgraf/awesome-draft-js/blob/master/La)TeX rendered by Mathjax.
+  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (https://github.com/nikgraf/awesome-draft-js/blob/master/La)TeX rendered by Mathjax.
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Modal](https://github.com/vacenz/last-draft-js-plugins)
   - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism.
@@ -92,17 +92,17 @@
 * [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - Export ContentState to HTML.
 * [Draft.js: Export ContentState to PDFMake](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake.
 * [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
-* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Ruby)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
-* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Python)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
-* [Draft.js AST Exporter](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST).
-* [Draft.js AST Importer](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST) output from the companion draft-js-ast-exporter.
+* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Ruby)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
+* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Python)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js https://github.com/nikgraf/awesome-draft-js/blob/master/AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST).
+* [Draft.js https://github.com/nikgraf/awesome-draft-js/blob/master/AST Importer](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators.
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content.
 * [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
-* [Draft.js Exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Go)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
+* [Draft.js Exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Go)](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) - Filter Draft.js content to preserve only the formatting you allow.
 * [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application

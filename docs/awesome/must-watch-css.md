@@ -14,7 +14,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 ### 2018
 
-1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://github.com/AllThingsSmitty/must-watch-css/blob/master/https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/): Jen Simmons (https://github.com/AllThingsSmitty/must-watch-css/blob/master/Layout Land playlist) `55:04`
+1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/): Jen Simmons (https://github.com/AllThingsSmitty/must-watch-css/blob/master/Layout Land playlist) `55:04`
 1. [**Creative Text Effects with CSS**](https://www.youtube.com/watch?v=9EU7urOl1LE): Mandy Michael, Talk.CSS `40:46`
 1. [**Learn CSS Grid**](https://www.youtube.com/watch?v=DCZdCKjnBCs&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Wes Bos, Laracon `44:59`
 
@@ -30,7 +30,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SFHTML5 `17:15`
-1. [**CSS Variables: var(https://github.com/AllThingsSmitty/must-watch-css/blob/master/--subtitle)**](https://github.com/AllThingsSmitty/must-watch-css/blob/master/https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, CSSConf.US `56:57`
+1. [**CSS Variables: var(https://github.com/AllThingsSmitty/must-watch-css/blob/master/--subtitle)**](https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, CSSConf.US `56:57`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, View Source Conference `25:45`
 1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`

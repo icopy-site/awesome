@@ -21,7 +21,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ## Videos
 ###### Tutorial-only
-- **[Sketch 3 Tutorials](https://github.com/diessica/awesome-sketch/blob/master/https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (https://github.com/diessica/awesome-sketch/blob/master/25 *awesome* lessons for beginners)
+- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (https://github.com/diessica/awesome-sketch/blob/master/25 *awesome* lessons for beginners)
 - [Exploring Sketch plugins](https://www.youtube.com/playlist?list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9)
 - [LearnSketch channel](https://www.youtube.com/user/learnsketch/videos)
 
@@ -31,7 +31,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
 
 ###### General screencasts
-- [SketchCasts](https://github.com/diessica/awesome-sketch/blob/master/http://www.sketchcasts.net/) *(https://github.com/diessica/awesome-sketch/blob/master/paid mostly)*
+- [SketchCasts](http://www.sketchcasts.net/) *(https://github.com/diessica/awesome-sketch/blob/master/paid mostly)*
 
 ## Guides
 - [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
@@ -62,7 +62,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [on Reddit](http://www.reddit.com/r/sketchapp)
 - [SketchTalk](http://sketchtalk.io/), unofficial forum
 - [Sketch Hunt](http://sketchhunt.com/)
-- [Designer News](https://github.com/diessica/awesome-sketch/blob/master/https://www.designernews.co/) *(https://github.com/diessica/awesome-sketch/blob/master/people talk a lot about Sketch there!)*
+- [Designer News](https://www.designernews.co/) *(https://github.com/diessica/awesome-sketch/blob/master/people talk a lot about Sketch there!)*
 
 ## Plugins
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
@@ -78,7 +78,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
-- [Easier.cc](https://github.com/diessica/awesome-sketch/blob/master/http://easier.cc/) (https://github.com/diessica/awesome-sketch/blob/master/Files up to 5 MB)
+- [Easier.cc](http://easier.cc/) (https://github.com/diessica/awesome-sketch/blob/master/Files up to 5 MB)
 - [User Flow](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency)
@@ -88,7 +88,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
-- Websites related to resources (https://github.com/diessica/awesome-sketch/blob/master/see [Other](https://github.com/diessica/awesome-sketch/blob/master/#other) section).
+- Websites related to resources (https://github.com/diessica/awesome-sketch/blob/master/see [Other](#other) section).
 - In the [Sketch community](#community)
 
 ## Templates & UI Kits
@@ -106,19 +106,19 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 
 ## Other
-- (https://github.com/diessica/awesome-sketch/blob/master/Newsletter) [Sketch official newsletter](https://github.com/diessica/awesome-sketch/blob/master/https://bohemian.curated.co/)
-- (https://github.com/diessica/awesome-sketch/blob/master/Newsletter) [Sketch tricks](https://github.com/diessica/awesome-sketch/blob/master/http://sketchtricks.com/)
-- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [SketchApp Resources](https://github.com/diessica/awesome-sketch/blob/master/http://www.sketchappsources.com/)
-- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [SketchLand](https://github.com/diessica/awesome-sketch/blob/master/http://sketch.land)
-- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [SketchResources](https://github.com/diessica/awesome-sketch/blob/master/http://sketchresources.com/)
-- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [Sketchapp TV](https://github.com/diessica/awesome-sketch/blob/master/http://sketchapp.tv/)
-- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [Sketch Repo](https://github.com/diessica/awesome-sketch/blob/master/http://sketchrepo.com/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Newsletter) [Sketch tricks](http://sketchtricks.com/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [SketchApp https://github.com/diessica/awesome-sketch/blob/master/Resources](http://www.sketchappsources.com/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [SketchLand](http://sketch.land)
+- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [Sketchhttps://github.com/diessica/awesome-sketch/blob/master/Resources](http://sketchresources.com/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [Sketchapp TV](http://sketchapp.tv/)
+- (https://github.com/diessica/awesome-sketch/blob/master/Resources) [Sketch Repo](http://sketchrepo.com/)
 - [SketchApp Rocks](http://sketchapp.rocks/)
 - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
 - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
 ## Keep up to date!
-Sketch has got a **fast-growing community**. Joining them (https://github.com/diessica/awesome-sketch/blob/master/*see [Community](https://github.com/diessica/awesome-sketch/blob/master/#community) section ↑*), following their [blog](https://github.com/diessica/awesome-sketch/blob/master/http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://github.com/diessica/awesome-sketch/blob/master/https://bohemian.curated.co/) are the best ways to keep up to date so far.
+Sketch has got a **fast-growing community**. Joining them (https://github.com/diessica/awesome-sketch/blob/master/*see [Community](#community) section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
 
 ---
 

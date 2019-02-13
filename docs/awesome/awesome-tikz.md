@@ -58,7 +58,7 @@ Tools
 
 -   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
 -   [ktikz](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
--   [gratex](https://github.com/xiaohanyu/awesome-tikz/blob/master/https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (https://github.com/xiaohanyu/awesome-tikz/blob/master/PGF & TikZ).
+-   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (https://github.com/xiaohanyu/awesome-tikz/blob/master/PGF & TikZ).
 -   [itikz](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 -   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 -   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
@@ -80,14 +80,14 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
--   [forest](https://github.com/xiaohanyu/awesome-tikz/blob/master/http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (https://github.com/xiaohanyu/awesome-tikz/blob/master/linguistic) trees.
+-   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (https://github.com/xiaohanyu/awesome-tikz/blob/master/linguistic) trees.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
 -   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
--   [logicpuzzle](https://github.com/xiaohanyu/awesome-tikz/blob/master/http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (https://github.com/xiaohanyu/awesome-tikz/blob/master/grid-based) logic puzzles.
+-   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (https://github.com/xiaohanyu/awesome-tikz/blob/master/grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
@@ -98,7 +98,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [pgf-umlsd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd) - Draw UML Sequence Diagrams.
 -   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - Draw Gantt charts with TikZ.
 -   [pgfplots](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots) - Loads, rounds, formats and postprocesses numerical tables.
--   [prooftrees](https://github.com/xiaohanyu/awesome-tikz/blob/master/http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (https://github.com/xiaohanyu/awesome-tikz/blob/master/symbolic logic).
+-   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (https://github.com/xiaohanyu/awesome-tikz/blob/master/symbolic logic).
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
@@ -135,14 +135,14 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
 -   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
 -   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - Macros for drawing graphs of graph theory.
--   [tkz-orm](https://github.com/xiaohanyu/awesome-tikz/blob/master/http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (https://github.com/xiaohanyu/awesome-tikz/blob/master/ORM) diagrams.
+-   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (https://github.com/xiaohanyu/awesome-tikz/blob/master/ORM) diagrams.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
 Videos
 -----
 
 -   [A TikZ tutorial: Generating graphics in the spirit of TeX](https://www.youtube.com/watch?v=hYjsJVXBlvM)
--   [Creating Flowcharts with TikZ (https://github.com/xiaohanyu/awesome-tikz/blob/master/LaTeX)](https://github.com/xiaohanyu/awesome-tikz/blob/master/https://www.youtube.com/watch?v=LoBC8zIB-3k)
+-   [Creating Flowcharts with TikZ (https://github.com/xiaohanyu/awesome-tikz/blob/master/LaTeX)](https://www.youtube.com/watch?v=LoBC8zIB-3k)
 -   [Creating Circuit Diagrams for LaTeX Documents Using Circuitikz](https://www.youtube.com/watch?v=WRTELZP1l0Y)
 -   [Creating Mind Maps Using TikZ](https://www.youtube.com/watch?v=V9vQ118o2kk)
 -   [Graphics with PGF and TikZ](https://www.youtube.com/watch?v=BaHuvXmTPwE&t=1268s)

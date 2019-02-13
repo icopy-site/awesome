@@ -36,53 +36,53 @@ If you would like add something, just send the text as you would like it to appe
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
-* [Measure Software Quality using Application Security](https://github.com/ligurio/awesome-software-quality/blob/master/https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (https://github.com/ligurio/awesome-software-quality/blob/master/WIP) - Dinis Cruz
+* [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (https://github.com/ligurio/awesome-software-quality/blob/master/WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
-* [Professional Software Development](https://github.com/ligurio/awesome-software-quality/blob/master/http://mixmastamyk.bitbucket.org/pro_soft_dev/) (https://github.com/ligurio/awesome-software-quality/blob/master/Chapter: "5. Software Quality") - Mike G. Miller
+* [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (https://github.com/ligurio/awesome-software-quality/blob/master/Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
-* [A Software Testing Primer](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.betoryuu.com/images/tour/items/file/testingPrimer.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
-* [Classic Testing Mistakes](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Brian Marick
+* [A Software Testing Primer](http://www.betoryuu.com/images/tour/items/file/testingPrimer.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [Classic Testing Mistakes](http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Brian Marick
 * [Code Coverage Analysis](http://www.bullseye.com/coverage.html) - Steve Cornett
 * [Practical Software Testing](http://www.softwaretestinghelp.com/practical-software-testing-new-free-ebook-download/) - STH in association with Chindam Damodar
-* [A Tutorial in Exploratory Testing](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.kaner.com/pdfs/QAIExploring.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [A Tutorial in Exploratory Testing](http://www.kaner.com/pdfs/QAIExploring.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
 * [Essential Acceptance Testing](https://leanpub.com/essential_acceptance_testing/c/HgPDBsxyYT6q)
 * [Embedded Software Testing Methods](https://www.theseus.fi/bitstream/handle/10024/46873/Lepisto_Juho.pdf?sequence=1) Juho Lepistö
 * [Foundations of Software Testing: Fundamental Algorithms and Techniques](http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/9788131707951) Aditya P. Mathur
-* [Introduction to software testing](https://github.com/ligurio/awesome-software-quality/blob/master/http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [Introduction to software testing](http://ebooks.allfree-stuff.com/eBooks_down/Software%20Testing/Introduction%20to%20Software%20Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
 * [Manual Testing Help](http://www.softwaretestinghelp.com/manual-testing-help-ebook-free-download/)
-* [Mobile Testing: Ready Reckoner](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
+* [Mobile Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas, Sundaresan Krishnaswami
 * [Performance Testing Guidance](https://perftestingguide.codeplex.com/)
 * [Random testing book](https://github.com/regehr/random-testing-book) DRAFT
 * [Software Testing: A Comprehensive Approach](https://github.com/laboon/ebook) - Bill Laboon
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/index.htm)
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
-* [The Essential Guide to Mobile App Testing](https://github.com/ligurio/awesome-software-quality/blob/master/http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
-* [UI and UX Testing: Ready Reckoner](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
-* [What If: A collection of tips from a software tester](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
-* [What If: 50+ tips to win testing contests](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
-* [What If: 50+ tips to boost your productivity](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
-* [What If: 50+ tips to improve tester-programmer relationship](https://github.com/ligurio/awesome-software-quality/blob/master/http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
+* [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
+* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
+* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Ajay Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
 * [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -- Rikard Endgren
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -- by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
-* [Software Testing and Analysis: Process, Principles, and Techniques](https://github.com/ligurio/awesome-software-quality/blob/master/http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young (https://github.com/ligurio/awesome-software-quality/blob/master/[slides](https://github.com/ligurio/awesome-software-quality/blob/master/http://ix.cs.uoregon.edu/~michal/book/))
+* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young (https://github.com/ligurio/awesome-software-quality/blob/master/[slides](http://ix.cs.uoregon.edu/~michal/book/))
 
 #### Standards In software Testing
 
 * [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 * [The International Software Testing Standard](http://softwaretestingstandard.org/)
-* [Standard for Software Component Testing](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.testingstandards.co.uk/Component%20Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
-* [Everything You Need to Know About Software Test Formats](https://github.com/ligurio/awesome-software-quality/blob/master/https://dou.ua/lenta/articles/software-test-formats/) (https://github.com/ligurio/awesome-software-quality/blob/master/in Russian)
+* [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [Everything You Need to Know About Software Test Formats](https://dou.ua/lenta/articles/software-test-formats/) (https://github.com/ligurio/awesome-software-quality/blob/master/in Russian)
 * [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 * [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
 
 #### Testing of Free and OpenSource Software
 
-* [Quality Improvement in Volunteer Free and Open Source Software Project](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.cyrius.com/publications/michlmayr-phd.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
 
 #### Testing by different programming languages
 
@@ -96,12 +96,12 @@ If you would like add something, just send the text as you would like it to appe
 
 #### Testing Tools
 
-* [The Evolving Art of Fuzzing](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Jared DeMott
-* [AccelTest](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
+* [The Evolving Art of Fuzzing](http://www.vdalabs.com/tools/The_Evolving_Art_of_Fuzzing.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF) - Jared DeMott
+* [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (https://github.com/ligurio/awesome-software-quality/blob/master/PDF)
 * [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
 * [HP Quality Center Tutorial](http://www.tutorialspoint.com/qc/index.htm)
 * [HP QuickTest Professional Tutorial](http://www.tutorialspoint.com/qtp/index.htm)
-* [.NET Performance Testing and Optimization - The Complete Guide](https://github.com/ligurio/awesome-software-quality/blob/master/http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.zip) (https://github.com/ligurio/awesome-software-quality/blob/master/zip) -  RedGate, By Paul Glavich and Chris Farrell
+* [.NET Performance Testing and Optimization - The Complete Guide](http://download.red-gate.com/ebooks/DotNet/Perf_Test_and_opt_eBook.https://github.com/ligurio/awesome-software-quality/blob/master/zip) (https://github.com/ligurio/awesome-software-quality/blob/master/zip) -  RedGate, By Paul Glavich and Chris Farrell
 * [Record-Playback Test Automation: Sahi & Selenium IDE](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi)
 * [Selenium 2.0 Using the WebDriver API to Create Robust User Acceptance Tests](http://refcardz.dzone.com/refcardz/getting-started-selenium-20#refcard-download-social-buttons-display)
 * [SoapUI 101: Beginner's Guide to Functional Testing](http://www2.smartbear.com/download-mqi-nbound-soapui-top-5-blast-ebook-blog.html)
@@ -130,14 +130,14 @@ If you would like add something, just send the text as you would like it to appe
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html) - Jean-Yves Girard, Yves Lafont and Paul Taylor
 * [Proof assistants: History, ideas and future](http://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025) - H. Geuvers
-* [Introduction to Logic](https://github.com/ligurio/awesome-software-quality/blob/master/http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (https://github.com/ligurio/awesome-software-quality/blob/master/Stanford University)
-* [An Introduction to Formal Logic](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (https://github.com/ligurio/awesome-software-quality/blob/master/University at Albany)
-* [A Problem Course in Mathematical Logic](https://github.com/ligurio/awesome-software-quality/blob/master/http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (https://github.com/ligurio/awesome-software-quality/blob/master/Trent University)
+* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (https://github.com/ligurio/awesome-software-quality/blob/master/Stanford University)
+* [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (https://github.com/ligurio/awesome-software-quality/blob/master/University at Albany)
+* [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (https://github.com/ligurio/awesome-software-quality/blob/master/Trent University)
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
-* [Mathematical Logic](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (https://github.com/ligurio/awesome-software-quality/blob/master/Pennsylvania State University)
+* [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (https://github.com/ligurio/awesome-software-quality/blob/master/Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/ligurio/awesome-software-quality/blob/master/https://github.com/paulmckrcu/perfbook/) (https://github.com/ligurio/awesome-software-quality/blob/master/chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) (https://github.com/ligurio/awesome-software-quality/blob/master/chapters "Validation" and "Formal verification") - Paul E. McKenney @paulmckrcu
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 * [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
 
@@ -145,9 +145,9 @@ If you would like add something, just send the text as you would like it to appe
 
 #### Управление проектами
 
-* [Черная книга менеджера](https://github.com/ligurio/awesome-software-quality/blob/master/http://www.stratoplan.ru/free/mbb/) (https://github.com/ligurio/awesome-software-quality/blob/master/[pdf](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
-* [Белая книжная полка менеджера](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/) (https://github.com/ligurio/awesome-software-quality/blob/master/[epub](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
-* Как стать менеджером (https://github.com/ligurio/awesome-software-quality/blob/master/[pdf](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](https://github.com/ligurio/awesome-software-quality/blob/master/http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
+* [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) (https://github.com/ligurio/awesome-software-quality/blob/master/[pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)) Слава Панкратов
+* [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) (https://github.com/ligurio/awesome-software-quality/blob/master/[epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
+* Как стать менеджером (https://github.com/ligurio/awesome-software-quality/blob/master/[pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)) - Слава Панкратов, Александр Орлов
 * [It starts with a great product](https://www.intercom.com/books/product-management)
 
 #### Тестирование ПО
@@ -235,8 +235,8 @@ If you would like add something, just send the text as you would like it to appe
 #### Formal Software Verification
 
 * [Formal Specification](http://www.macs.hw.ac.uk/~gabbay/F28FS/)
-* [Formal Software Verification](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.edx.org/course/formal-software-verification-usmx-umuc-stv1-3x) and [Formal Software Verification (https://github.com/ligurio/awesome-software-quality/blob/master/previous page of the course)](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.edx.org/course/formal-software-verification-usmx-university-maryland-university-stv1-3x)
-* [Logic, Languages, Compilation, and Verification](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) (https://github.com/ligurio/awesome-software-quality/blob/master/[Youtube](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/user/nrolland/playlists))
+* [Formal Software Verification](https://www.edx.org/course/formal-software-verification-usmx-umuc-stv1-3x) and [Formal Software Verification (https://github.com/ligurio/awesome-software-quality/blob/master/previous page of the course)](https://www.edx.org/course/formal-software-verification-usmx-university-maryland-university-stv1-3x)
+* [Logic, Languages, Compilation, and Verification](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) (https://github.com/ligurio/awesome-software-quality/blob/master/[Youtube](https://www.youtube.com/user/nrolland/playlists))
 * [A survey of automated theorem proving](http://compsciclub.ru/en/courses/theoremproving/2013-autumn/)
 * [Tutorials and advanced lectures](http://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
 * [Types Project](http://www.cse.chalmers.se/research/group/logic/Types/index.html)
@@ -297,25 +297,25 @@ If you would like add something, just send the text as you would like it to appe
 * [Школа автоматизации процессов разработки](https://academy.yandex.ru/events/testing/spb-2014/)
 * [Школа тестирования баннерной системы](https://academy.yandex.ru/events/testing/msk-2014/)
 * [Software Testing](http://compsciclub.ru/courses/softwaretesting/2008-spring/)
-* Software Testing 101 (https://github.com/ligurio/awesome-software-quality/blob/master/[на английском](https://github.com/ligurio/awesome-software-quality/blob/master/http://kspt.ftk.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101.pdf), [на русском](https://github.com/ligurio/awesome-software-quality/blob/master/http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101-ru.pdf))
+* Software Testing 101 (https://github.com/ligurio/awesome-software-quality/blob/master/[на английском](http://kspt.ftk.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101.pdf), [на русском](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-101-ru.pdf))
 * [Software Testing 102](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v2.pdf)
 * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
 * [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
-* Школа тестирования: [Ручное тестирование и Автоматизация тестирования](https://github.com/ligurio/awesome-software-quality/blob/master/https://academy.yandex.ru/events/testing/spb-2016/) (https://github.com/ligurio/awesome-software-quality/blob/master/[Youtube](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
-* [Тестирование на основе моделей](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.lektorium.tv/course/22774) (https://github.com/ligurio/awesome-software-quality/blob/master/[слайды](https://github.com/ligurio/awesome-software-quality/blob/master/http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) - Кулямин Виктор
-* [Серия семинаров по тестированию (https://github.com/ligurio/awesome-software-quality/blob/master/автоматизация)](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - Сергей Андреев
+* Школа тестирования: [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) (https://github.com/ligurio/awesome-software-quality/blob/master/[Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
+* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) (https://github.com/ligurio/awesome-software-quality/blob/master/[слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) - Кулямин Виктор
+* [Серия семинаров по тестированию (https://github.com/ligurio/awesome-software-quality/blob/master/автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - Сергей Андреев
 
 #### Формальная верификация ПО
 
 * [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.lektorium.tv/course/22862?id=22862) (https://github.com/ligurio/awesome-software-quality/blob/master/[PDF](https://github.com/ligurio/awesome-software-quality/blob/master/http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
+* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) (https://github.com/ligurio/awesome-software-quality/blob/master/[PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
 * [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
-* [Формальная спецификация и верификация программ](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) (https://github.com/ligurio/awesome-software-quality/blob/master/[практикум](https://github.com/ligurio/awesome-software-quality/blob/master/http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
+* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) (https://github.com/ligurio/awesome-software-quality/blob/master/[практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
 ## Workshops and interactive learning tools
@@ -341,7 +341,7 @@ If you would like add something, just send the text as you would like it to appe
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
-- [Code-defenders game (https://github.com/ligurio/awesome-software-quality/blob/master/mutation testing)](https://github.com/ligurio/awesome-software-quality/blob/master/http://code-defenders.org/login)
+- [Code-defenders game (https://github.com/ligurio/awesome-software-quality/blob/master/mutation testing)](http://code-defenders.org/login)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
@@ -392,7 +392,7 @@ If you would like add something, just send the text as you would like it to appe
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
-- [TAP (https://github.com/ligurio/awesome-software-quality/blob/master/Test Anything Protocol)](https://github.com/ligurio/awesome-software-quality/blob/master/https://github.com/sindresorhus/awesome-tap)
+- [TAP (https://github.com/ligurio/awesome-software-quality/blob/master/Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)

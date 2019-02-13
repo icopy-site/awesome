@@ -1,4 +1,4 @@
-## <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome)
 
 ## Transpilers
 
@@ -15,7 +15,7 @@
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
-* [Lebab](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (https://github.com/addyosmani/es6-tools/blob/master/approximates)
+* [Lebab](https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (https://github.com/addyosmani/es6-tools/blob/master/approximates)
 
 ## Build-time transpilation
 
@@ -34,7 +34,7 @@
 * Traceur: [grunt-traceur](https://github.com/aaronfrost/grunt-traceur) ES6 > ES5 transpilation, [grunt-traceur-build](https://github.com/tarruda/grunt-traceur-build)
 * ES6 Module Transpiler: [grunt-es6-module-transpiler](https://github.com/joefiorini/grunt-es6-module-transpiler)
 * Regenerator: [grunt-regenerator](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
-* [grunt-microlib](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (https://github.com/addyosmani/es6-tools/blob/master/sample [Gruntfile](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
+* [grunt-microlib](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (https://github.com/addyosmani/es6-tools/blob/master/sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
 * es6-transpiler: [grunt-es6-transpiler](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * TypeScript: [grunt-ts](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation
@@ -96,7 +96,7 @@
 
 ## Module Loaders
 
-* ES6 [Module Loader polyfill](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/ModuleLoader/es6-module-loader) (https://github.com/addyosmani/es6-tools/blob/master/compat with latest spec and Traceur)
+* ES6 [Module Loader polyfill](https://github.com/ModuleLoader/es6-module-loader) (https://github.com/addyosmani/es6-tools/blob/master/compat with latest spec and Traceur)
 * [js-loaders](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
 * [Babel Module Loader](https://github.com/babel/babel-loader)
@@ -143,7 +143,7 @@
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap](https://github.com/EliSnow/Blitz-Collections)
-* [harmony-reflect](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](https://github.com/addyosmani/es6-tools/blob/master/http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (https://github.com/addyosmani/es6-tools/blob/master/contains the [Proxy API](https://github.com/addyosmani/es6-tools/blob/master/http://soft.vub.ac.be/~tvcutsem/proxies/))
+* [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (https://github.com/addyosmani/es6-tools/blob/master/contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 
 ## Editors
@@ -168,11 +168,11 @@
 * [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
-* [let-er](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/getify/let-er) - transpiles [let-block block-scoping](https://github.com/addyosmani/es6-tools/blob/master/http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (https://github.com/addyosmani/es6-tools/blob/master/not accepted into ES6) into either ES3 or ES6
+* [let-er](https://github.com/getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (https://github.com/addyosmani/es6-tools/blob/master/not accepted into ES6) into either ES3 or ES6
 * [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function](https://github.com/esnext/es6-arrow-function).
 * [Paws on ES6](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities.
 * [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
-* [es6-translate](https://github.com/addyosmani/es6-tools/blob/master/https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (https://github.com/addyosmani/es6-tools/blob/master/node flavored) commonjs packages in ES6.
+* [es6-translate](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (https://github.com/addyosmani/es6-tools/blob/master/node flavored) commonjs packages in ES6.
 * [Isparta](https://github.com/douglasduteil/isparta)
 * [babel-node](https://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using Babel.
 * [ES6 Lab setup](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `Babel` or `traceur` with `gulp` and `jasmine` support.

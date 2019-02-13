@@ -15,9 +15,9 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 
 ### Links
 
-* [Radio (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](https://github.com/kyleterry/awesome-radio/blob/master/http://en.wikipedia.org/wiki/Radio)
-* [Radio Spectrum (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](https://github.com/kyleterry/awesome-radio/blob/master/http://en.wikipedia.org/wiki/Radio_spectrum)
-* [Skywave (https://github.com/kyleterry/awesome-radio/blob/master/skip) (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](https://github.com/kyleterry/awesome-radio/blob/master/http://en.wikipedia.org/wiki/Skywave)
+* [Radio (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Radio)
+* [Radio Spectrum (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Radio_spectrum)
+* [Skywave (https://github.com/kyleterry/awesome-radio/blob/master/skip) (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/Skywave)
 * [Mystery signal from a
   helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
 * [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
@@ -85,7 +85,7 @@ setup.
 * [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
 for parts, radios, antennas and mounts.
 * [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
-* [CB Slang (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](https://github.com/kyleterry/awesome-radio/blob/master/http://en.wikipedia.org/wiki/List_of_CB_slang)
+* [CB Slang (https://github.com/kyleterry/awesome-radio/blob/master/wikipedia)](http://en.https://github.com/kyleterry/awesome-radio/blob/master/wikipedia.org/wiki/List_of_CB_slang)
 * [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
 * [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
 * [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
@@ -149,7 +149,7 @@ in schools all over the world and kids went home each night to build some new
 contraption, or have a chat with someone over the wireless. These young people
 became the mainstay of the technical professions and developed much of the
 modern technology we use today.
-(https://github.com/kyleterry/awesome-radio/blob/master/[WIA](https://github.com/kyleterry/awesome-radio/blob/master/http://www.wia.org.au/licenses/foundation/about/))
+(https://github.com/kyleterry/awesome-radio/blob/master/[WIA](http://www.wia.org.au/licenses/foundation/about/))
 
 [What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
 

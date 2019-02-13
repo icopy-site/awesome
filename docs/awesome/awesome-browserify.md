@@ -28,7 +28,7 @@ Please help improve this list by [contributing](https://github.com/browserify/aw
 
 Browserify lets you `require(https://github.com/browserify/awesome-browserify/blob/master/'modules')` in the browser by bundling up all of your dependencies.
 
-You can use a node-style `require(https://github.com/browserify/awesome-browserify/blob/master/)` to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the `require(https://github.com/browserify/awesome-browserify/blob/master/)` calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
+You can use a node-style `require()` to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the `require()` calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
 
 ## Official Resources
 
@@ -48,7 +48,7 @@ You can use a node-style `require(https://github.com/browserify/awesome-browseri
 - [Hello World with Browserify](http://browserify.org/#middle-section)
 - [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
-- [Browserify guide](https://github.com/browserify/awesome-browserify/blob/master/http://zhaoda.net/2015/10/16/browserify-guide/) (https://github.com/browserify/awesome-browserify/blob/master/Chinese)
+- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (https://github.com/browserify/awesome-browserify/blob/master/Chinese)
 
 ## Articles
 
@@ -68,7 +68,7 @@ You can use a node-style `require(https://github.com/browserify/awesome-browseri
 
 ## Videos
 
-- [James Halliday (https://github.com/browserify/awesome-browserify/blob/master/substack) - LXJS 2013 - Modularidade para todos](https://github.com/browserify/awesome-browserify/blob/master/https://www.youtube.com/watch?v=DCQNm6yiZh0)
+- [James Halliday (https://github.com/browserify/awesome-browserify/blob/master/substack) - LXJS 2013 - Modularidade para todos](https://www.youtube.com/watch?v=DCQNm6yiZh0)
 - [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U) by [shama](https://github.com/shama/)
 - [Transform your Bundles with Browserify](https://www.youtube.com/watch?v=Uk2bgp8OLT8) by [shama](https://github.com/shama/)
 
@@ -99,7 +99,7 @@ You can use a node-style `require(https://github.com/browserify/awesome-browseri
 
 - [babelify](https://github.com/babel/babelify) - Browserify transform for babel.
 - [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time.
-- [brfs](https://github.com/browserify/awesome-browserify/blob/master/https://github.com/substack/brfs) - `fs.readFileSync(https://github.com/browserify/awesome-browserify/blob/master/)` and `fs.readFile(https://github.com/browserify/awesome-browserify/blob/master/)` static asset browserify transform.
+- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
 
 ### Node in the Browser
 
@@ -119,7 +119,7 @@ Contributions welcome! Please read the [contributing guidelines](https://github.
 
 ## License
 
-The [browserify logo](https://github.com/browserify/awesome-browserify/blob/master/browserify.png) is by [substack](https://github.com/browserify/awesome-browserify/blob/master/https://github.com/substack).
+The [browserify logo](https://raw.githubusercontent.com/browserify/awesome-browserify/master/browserify.png) is by [substack](https://github.com/substack).
 
 All other content is released to the public domain under [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
 

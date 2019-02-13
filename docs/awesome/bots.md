@@ -62,8 +62,8 @@ Table of Contents
 
 ## Tools For Bot Conversation Mockups
 * [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
-* [Bot Sketch](https://github.com/hackerkid/bots/blob/master/https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (https://github.com/hackerkid/bots/blob/master/Mac Only)
-* [Botframe](https://github.com/hackerkid/bots/blob/master/https://botframe.com) - a playground to design bots (https://github.com/hackerkid/bots/blob/master/conversation mockups).
+* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (https://github.com/hackerkid/bots/blob/master/Mac Only)
+* [Botframe](https://botframe.com) - a playground to design bots (https://github.com/hackerkid/bots/blob/master/conversation mockups).
 * [Botmock](https://botmock.com) - Create conversation flows and interactive prototypes from a simple drag and drop editor, then share or test those prototypes and get feedback in one centralized location.
 
 
@@ -77,17 +77,17 @@ Table of Contents
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 * [Microsoft Bot Framework](http://docs.botframework.com) - Node.js/.NET library for building, connecting, testing, and deploying powerful and intelligent bots. 
 * [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
-* [BotMan](https://github.com/hackerkid/bots/blob/master/https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (https://github.com/hackerkid/bots/blob/master/FB, Instagram, MS Bot Framework, etc)
+* [BotMan](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (https://github.com/hackerkid/bots/blob/master/FB, Instagram, MS Bot Framework, etc)
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go](https://github.com/paked/messenger)
 
 ### Slack
-* [Node.js (https://github.com/hackerkid/bots/blob/master/Official)](https://github.com/hackerkid/bots/blob/master/https://github.com/slackhq/node-slack-sdk)
+* [Node.js (https://github.com/hackerkid/bots/blob/master/Official)](https://github.com/slackhq/node-slack-sdk)
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
-* [Python (https://github.com/hackerkid/bots/blob/master/Official)](https://github.com/hackerkid/bots/blob/master/https://github.com/slackhq/python-slackclient)
-* [Relax (https://github.com/hackerkid/bots/blob/master/scalable RTM library to scale to 1000's of teams)](https://github.com/hackerkid/bots/blob/master/https://github.com/zerobotlabs/relax)
+* [Python (https://github.com/hackerkid/bots/blob/master/Official)](https://github.com/slackhq/python-slackclient)
+* [Relax (https://github.com/hackerkid/bots/blob/master/scalable RTM library to scale to 1000's of teams)](https://github.com/zerobotlabs/relax)
 
 ### Telegram
 * [Node.js](https://github.com/yagop/node-telegram-bot-api)

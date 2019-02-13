@@ -14,7 +14,7 @@ A curated list of fonts and typography resources.
 1. [Other](#other)
 
 ## General
-* [27 fonts (https://github.com/brabadu/awesome-fonts/blob/master/give or take) that explain your world](https://github.com/brabadu/awesome-fonts/blob/master/https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [27 fonts (https://github.com/brabadu/awesome-fonts/blob/master/give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
@@ -26,7 +26,7 @@ A curated list of fonts and typography resources.
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
-  * [Files of Google Fonts](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/google/fonts) (https://github.com/brabadu/awesome-fonts/blob/master/[sources](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/googlefonts))
+  * [Files of Google Fonts](https://github.com/google/fonts) (https://github.com/brabadu/awesome-fonts/blob/master/[sources](https://github.com/googlefonts))
   * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
   * [Roboto](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
 * [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
@@ -72,7 +72,7 @@ A curated list of fonts and typography resources.
 * [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
-* [emojize](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/ded/emojize) - High resolution, unicode (https://github.com/brabadu/awesome-fonts/blob/master/emoji) to html conversion utility.
+* [https://github.com/brabadu/awesome-fonts/blob/master/emojize](https://github.com/ded/https://github.com/brabadu/awesome-fonts/blob/master/emojize) - High resolution, unicode (https://github.com/brabadu/awesome-fonts/blob/master/emoji) to html conversion utility.
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
@@ -106,7 +106,7 @@ A curated list of fonts and typography resources.
 * [octicons](https://octicons.github.com/) - GitHub's icon font
 * [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 * [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
-* [PE-Analog-Clock-icon-font](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual (https://github.com/brabadu/awesome-fonts/blob/master/"analog") representation of time stamps
+* [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual (https://github.com/brabadu/awesome-fonts/blob/master/"analog") representation of time stamps
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
 * [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit
@@ -146,14 +146,14 @@ A curated list of fonts and typography resources.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
-* [fontkit](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser (https://github.com/brabadu/awesome-fonts/blob/master/[demo](https://github.com/brabadu/awesome-fonts/blob/master/https://fontkit-demo.now.sh/))
+* [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser (https://github.com/brabadu/awesome-fonts/blob/master/[demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
 * [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 * [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
-* [Typr.js](https://github.com/brabadu/awesome-fonts/blob/master/https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (https://github.com/brabadu/awesome-fonts/blob/master/TTF, OTF)
+* [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (https://github.com/brabadu/awesome-fonts/blob/master/TTF, OTF)
 
 #### Event listeners for fonts loading on a web page
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)

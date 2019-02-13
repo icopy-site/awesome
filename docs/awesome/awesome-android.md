@@ -1,8 +1,8 @@
 ## Awesome Android
-[<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://github.com/jstumpp/awesome-android)
+[<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://raw.githubusercontent.com/jstumpp/awesome-android)
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+  <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
   <a href="https://travis-ci.org/JStumpp/awesome-android"><img alt="Build Status" src="https://api.travis-ci.org/JStumpp/awesome-android.svg?branch=master" /></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
@@ -109,7 +109,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
-- [Toothpick](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (https://github.com/JStumpp/awesome-android/blob/master/DI) library for Java.
+- [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (https://github.com/JStumpp/awesome-android/blob/master/DI) library for Java.
 
 ### Android Services
 - [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
@@ -160,7 +160,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon
 - [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
-- [Litho (https://github.com/JStumpp/awesome-android/blob/master/By Facebook)](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+- [Litho (https://github.com/JStumpp/awesome-android/blob/master/By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
@@ -364,19 +364,19 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Wireless
 
-- [SmartGattLib](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (https://github.com/JStumpp/awesome-android/blob/master/a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (https://github.com/JStumpp/awesome-android/blob/master/a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
 
 ### Chat & Messaging
 
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
-- [Kommunicate Live Chat SDK](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (https://github.com/JStumpp/awesome-android/blob/master/android, iOS) applications and website for customer support.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/CometChat/android-chat-sdk-demo) - Add voice, video and text chat to your app (https://github.com/JStumpp/awesome-android/blob/master/and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
+- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (https://github.com/JStumpp/awesome-android/blob/master/android, iOS) applications and website for customer support.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/CometChat/android-chat-sdk-demo) - Add voice, video and text chat to your app (https://github.com/JStumpp/awesome-android/blob/master/and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
 
 #### Custom Dialog
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
-- [HijriDatePicker](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (https://github.com/JStumpp/awesome-android/blob/master/Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (https://github.com/JStumpp/awesome-android/blob/master/Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 - [Noty](https://github.com/emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
 
 ### Version Checking
@@ -401,11 +401,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Other
 
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
-- [Google Play Services](https://github.com/JStumpp/awesome-android/blob/master/https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (https://github.com/JStumpp/awesome-android/blob/master/sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
+- [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (https://github.com/JStumpp/awesome-android/blob/master/sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [Android Scripting](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
-- [Android Priority Job Queue](https://github.com/JStumpp/awesome-android/blob/master/https://github.com/yigit/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (https://github.com/JStumpp/awesome-android/blob/master/tasks) that run in the background, improving UX and application stability.
+- [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (https://github.com/JStumpp/awesome-android/blob/master/tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
@@ -486,7 +486,7 @@ My personal recommendation is (https://github.com/JStumpp/awesome-android/blob/m
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative. 
 
 ### Lua
-- [Corona SDK](https://github.com/JStumpp/awesome-android/blob/master/https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (https://github.com/JStumpp/awesome-android/blob/master/especially Games).
+- [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (https://github.com/JStumpp/awesome-android/blob/master/especially Games).
 
 ### Scala
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.

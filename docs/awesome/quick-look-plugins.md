@@ -33,7 +33,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook 
 
 Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLColorCode.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/anthonygelibert/QLColorCode)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
@@ -42,7 +42,7 @@ Run `brew cask install qlcolorcode` or [download manually](https://github.com/an
 
 Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLStephen.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/whomwah/qlstephen)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
 
 ### [QLMarkdown](https://github.com/toland/qlmarkdown)
@@ -51,7 +51,7 @@ Run `brew cask install qlstephen` or [download manually](https://github.com/whom
 
 Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLMarkdown.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/toland/qlmarkdown)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
@@ -60,7 +60,7 @@ Run `brew cask install qlmarkdown` or [download manually](https://github.com/dow
 
 Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookJSON.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/http://www.sagtau.com/quicklookjson.html)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
@@ -73,16 +73,16 @@ Run `brew cask install betterzip` to install the BetterZip app and its Quick Loo
 
 The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/BetterZipQL.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/http://macitbetter.com/BetterZip-Quick-Look-Generator/)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 
 ### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
 > Display image size and resolution
 
-~~Run `brew cask install qlimagesize` [(https://github.com/sindresorhus/quick-look-plugins/blob/master/more info)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/Homebrew/homebrew-cask/pull/57212)~~ or [download manually](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/Nyx0uf/qlImageSize#installation)
+~~Run `brew cask install qlimagesize` [(https://github.com/sindresorhus/quick-look-plugins/blob/master/more info)](https://github.com/Homebrew/homebrew-cask/pull/57212)~~ or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/qlImageSize.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/Nyx0uf/qlImageSize)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
@@ -91,7 +91,7 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/WebP.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/dchest/webp-quicklook)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
@@ -100,7 +100,7 @@ Run `brew cask install webpquicklook` or [download manually](https://github.com/
 
 Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/SuspiciousPackage.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/http://www.mothersruin.com/software/SuspiciousPackage/)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 
 ### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
@@ -109,7 +109,7 @@ Run `brew cask install suspicious-package` or [download manually](http://www.mot
 
 Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookASE.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/rsodre/QuickLookASE)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 
 ### [QLVideo](https://github.com/Marginal/QLVideo)
@@ -118,7 +118,7 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 
 Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLVideo.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/Marginal/QLVideo)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 
 ## More
@@ -131,7 +131,7 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/ProvisionQL.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/ealeksandrov/ProvisionQL)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 
 ### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
@@ -140,7 +140,7 @@ Run `brew cask install provisionql` or [download manually](https://github.com/ea
 
 Run `brew cask install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookAPK.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/hezi/QuickLookAPK)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
 
 ### [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat)
@@ -149,7 +149,7 @@ Run `brew cask install quicklookapk` or [download manually](https://github.com/h
 
 Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/quicklook-pat.png)](https://github.com/sindresorhus/quick-look-plugins/blob/master/https://github.com/pixelrowdies/quicklook-pat)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
 
 ## License

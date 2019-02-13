@@ -11,7 +11,7 @@ All these resources might help inspire you and put you on the right track but in
 
 Contributions are more than welcome.
 
-by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/mezood)** (https://github.com/mezod/awesome-indie/blob/master/Doing things every day with **[everyday.app](https://github.com/mezod/awesome-indie/blob/master/https://everyday.app)**)
+by **[@mezod](https://twitter.com/mezood)** (https://github.com/mezod/awesome-indie/blob/master/Doing things every day with **[everyday.app](https://everyday.app)**)
 
 **Notes:**
 
@@ -70,9 +70,9 @@ by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
-- **[Bootstrapped Slack](https://github.com/mezod/awesome-indie/blob/master/https://bootstrapped.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](https://github.com/mezod/awesome-indie/blob/master/http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
+- **[Bootstrapped Slack](https://bootstrapped.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
-- **[Sideprojectxyz](https://github.com/mezod/awesome-indie/blob/master/https://sideprojectxyz.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](https://github.com/mezod/awesome-indie/blob/master/http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
@@ -142,7 +142,7 @@ by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter
 
 - **[Giant Robots](http://giantrobots.fm/)**
 
-  [Ben Orenstein](https://github.com/mezod/awesome-indie/blob/master/http://www.benorenstein.com/) (https://github.com/mezod/awesome-indie/blob/master/former growth/product lead at Thoughtbot) and [Derrick Reimer](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/derrickreimer) (https://github.com/mezod/awesome-indie/blob/master/co-founder of Drip) talk weekly about growing their SaaS businesses.
+  [Ben Orenstein](http://www.benorenstein.com/) (https://github.com/mezod/awesome-indie/blob/master/former growth/product lead at Thoughtbot) and [Derrick Reimer](https://twitter.com/derrickreimer) (https://github.com/mezod/awesome-indie/blob/master/co-founder of Drip) talk weekly about growing their SaaS businesses.
   
 - **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
 
@@ -198,7 +198,7 @@ by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter
 
   ...and this one too :D
 
-- **[Storemapper: Bootstrapped to $50,000/year in 2 years (https://github.com/mezod/awesome-indie/blob/master/with live metrics)](https://github.com/mezod/awesome-indie/blob/master/https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/)** by [Tyler Tringas](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/tylertringas)
+- **[Storemapper: Bootstrapped to $50,000/year in 2 years (https://github.com/mezod/awesome-indie/blob/master/with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/)** by [Tyler Tringas](https://twitter.com/tylertringas)
 
   This is just an example of a business more than one would be happy with :-) Besides liking how Tyler shares his story building Storemapper, I think he always maximizes for valuable content.
 
@@ -333,7 +333,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[PeersConf](http://peersconf.com/)** [$]
 
-  "A conference for those who make the web, and make it their business". Seattle (https://github.com/mezod/awesome-indie/blob/master/changes every year). By [Jessica D'Amico](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/justjessdc).
+  "A conference for those who make the web, and make it their business". Seattle (https://github.com/mezod/awesome-indie/blob/master/changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
 
 ### Books
 
@@ -369,7 +369,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
-  Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (https://github.com/mezod/awesome-indie/blob/master/256kb)](https://github.com/mezod/awesome-indie/blob/master/https://github.com/255kb/).
+  Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (https://github.com/mezod/awesome-indie/blob/master/256kb)](https://github.com/255kb/).
 
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
 
@@ -389,7 +389,7 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
   
 - **[30x500 Academy](https://30x500.com/academy/)** [$]
 
-  "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](https://github.com/mezod/awesome-indie/blob/master/http://codefol.io/posts/30x500-why)(https://github.com/mezod/awesome-indie/blob/master/good), [here](https://github.com/mezod/awesome-indie/blob/master/https://news.ycombinator.com/item?id=8119354)(https://github.com/mezod/awesome-indie/blob/master/bad) and [here](https://github.com/mezod/awesome-indie/blob/master/https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/amyhoy) and [Alex Hillman](https://github.com/mezod/awesome-indie/blob/master/https://twitter.com/alexhillman). 
+  "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(https://github.com/mezod/awesome-indie/blob/master/good), [here](https://news.ycombinator.com/item?id=8119354)(https://github.com/mezod/awesome-indie/blob/master/bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->

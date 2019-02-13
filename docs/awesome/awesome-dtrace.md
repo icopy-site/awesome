@@ -26,10 +26,10 @@ Recommended reading for learning DTrace.
 
 ### Other
 
-- [dtrace(https://github.com/xen0l/awesome-dtrace/blob/master/1m) man page](https://github.com/xen0l/awesome-dtrace/blob/master/https://illumos.org/man/1m/dtrace) - DTrace manual page.
+- [dtrace(https://github.com/xen0l/awesome-dtrace/blob/master/1m) man page](https://illumos.org/man/https://github.com/xen0l/awesome-dtrace/blob/master/1m/dtrace) - DTrace manual page.
 - [DTrace cheatsheet](http://www.brendangregg.com/DTrace/DTrace-cheatsheet.pdf) - DTrace cheatsheet by Brendan Gregg.
 - [DTrace one-liners](http://www.brendangregg.com/DTrace/dtrace_oneliners.txt) - DTrace one liners. Handy commands.
-- [DTrace one-liners (https://github.com/xen0l/awesome-dtrace/blob/master/FreeBSD)](https://github.com/xen0l/awesome-dtrace/blob/master/https://wiki.freebsd.org/DTrace/One-Liners) - DTrace one liners from FreeBSD.
+- [DTrace one-liners (https://github.com/xen0l/awesome-dtrace/blob/master/FreeBSD)](https://wiki.freebsd.org/DTrace/One-Liners) - DTrace one liners from https://github.com/xen0l/awesome-dtrace/blob/master/FreeBSD.
 - [DTrace QuickStart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html) - DTrace quick starting guide.
 - [Using DTrace stories](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
 - [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
@@ -82,7 +82,7 @@ Interesting videos about DTrace.
     - [War Stories](https://www.youtube.com/watch?v=yR39YqVXQOM&index=11&list=PL8516982CBF9FADCC)
     - [Sun Benchmarks](https://www.youtube.com/watch?v=uK0DjEXo99w&list=PL8516982CBF9FADCC&index=12)
     - [Erlang](https://www.youtube.com/watch?v=PXIGE5GFAkE&index=13&list=PL8516982CBF9FADCC)
-    - [Erlang (https://github.com/xen0l/awesome-dtrace/blob/master/continued)](https://github.com/xen0l/awesome-dtrace/blob/master/https://www.youtube.com/watch?v=YTNiCv9Za2Y&index=14&list=PL8516982CBF9FADCC)
+    - [Erlang (https://github.com/xen0l/awesome-dtrace/blob/master/continued)](https://www.youtube.com/watch?v=YTNiCv9Za2Y&index=14&list=PL8516982CBF9FADCC)
     - [Instrumenting Adobe AIR](https://www.youtube.com/watch?v=4astU1_X5xM&index=15&list=PL8516982CBF9FADCC)
     - [HotSpot Runtime & Java](https://www.youtube.com/watch?v=8kdJDHqiByI&list=PL8516982CBF9FADCC&index=16)
     - [PostgreSQL: Looking Under the Hood with Solaris](https://www.youtube.com/watch?v=p5NKcxDny_4&list=PL8516982CBF9FADCC&index=17)
@@ -107,13 +107,13 @@ Interesting videos about DTrace.
 
 - [dtrace.conf 2016](https://www.joyent.com/about/events/2016/dtrace-conf)
     - [Introduction](https://player.vimeo.com/video/173346406)
-    - [(https://github.com/xen0l/awesome-dtrace/blob/master/Useful!) DTrace intro](https://github.com/xen0l/awesome-dtrace/blob/master/https://player.vimeo.com/video/173346405)
+    - [(https://github.com/xen0l/awesome-dtrace/blob/master/Useful!) DTrace intro](https://player.vimeo.com/video/173346405)
     - [CTF Everywhere!](https://player.vimeo.com/video/173346404)
     - [Distributed DTrace](https://player.vimeo.com/video/173346403)
     - [DTracign Apps](https://player.vimeo.com/video/173346402)
     - [DTrace and JSON: Together at last!](https://player.vimeo.com/video/173346401)
-    - [ASSERT(https://github.com/xen0l/awesome-dtrace/blob/master/) as a DTrace probe (https://github.com/xen0l/awesome-dtrace/blob/master/and why I need some help)](https://github.com/xen0l/awesome-dtrace/blob/master/https://player.vimeo.com/video/173346400)
-    - [Implementing (https://github.com/xen0l/awesome-dtrace/blob/master/or not) fds[] in FreeBSD](https://github.com/xen0l/awesome-dtrace/blob/master/https://player.vimeo.com/video/173346399)
+    - [ASSERT() as a DTrace probe (https://github.com/xen0l/awesome-dtrace/blob/master/and why I need some help)](https://player.vimeo.com/video/173346400)
+    - [Implementing (https://github.com/xen0l/awesome-dtrace/blob/master/or not) fds[] in FreeBSD](https://player.vimeo.com/video/173346399)
     - [OpenDTrace](https://player.vimeo.com/video/173346398)
     - [DTrace Performance Improvements with Always-on Instrumentation](https://player.vimeo.com/video/173300658)
     - [D language improvements](https://player.vimeo.com/video/173300657)
@@ -121,7 +121,7 @@ Interesting videos about DTrace.
     - [DTrace and Go](https://player.vimeo.com/video/173300655)
     - [DTrace and Postgres](https://player.vimeo.com/video/173300654)
     - [DTrace in the Zone](https://player.vimeo.com/video/173300653)
-    - [DTrace ustack(https://github.com/xen0l/awesome-dtrace/blob/master/) performance improvements](https://github.com/xen0l/awesome-dtrace/blob/master/https://player.vimeo.com/video/173300651)
+    - [DTrace ustack() performance improvements](https://player.vimeo.com/video/173300651)
     - [DTrace Exploitation](https://player.vimeo.com/video/173300650)
 
 ## Software
@@ -177,7 +177,7 @@ List of software with DTrace support.
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools](https://github.com/xen0l/awesome-dtrace/blob/master/https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (https://github.com/xen0l/awesome-dtrace/blob/master/illumos-based).
+- [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (https://github.com/xen0l/awesome-dtrace/blob/master/illumos-based).
 - [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop](https://github.com/davepacheco/portsnoop) - Trace event port activity.
 - [storage tools](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.

@@ -68,7 +68,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol.
 - [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol.
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol.
-- [neo4j-dotnet-driver](https://github.com/neueda/awesome-neo4j/blob/master/https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (https://github.com/neueda/awesome-neo4j/blob/master/Bolt).
+- [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (https://github.com/neueda/awesome-neo4j/blob/master/Bolt).
 - [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol.
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
 - [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
@@ -92,7 +92,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Python
 
 - [py2neo](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
-- [neomodel](https://github.com/neueda/awesome-neo4j/blob/master/https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (https://github.com/neueda/awesome-neo4j/blob/master/OGM) for the neo4j graph database, built on the awesome py2neo.
+- [neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (https://github.com/neueda/awesome-neo4j/blob/master/OGM) for the neo4j graph database, built on the awesome py2neo.
 
 ### PHP
 
@@ -139,7 +139,7 @@ Neo4j graph database.
 - [neo4j-csv-firehose](https://github.com/sarmbruster/neo4j-csv-firehose) - Enables Neo4j’s `LOAD CSV` Cypher command to load from other datasources as well.
 - [neo4j-rdbms-import](https://github.com/jexp/neo4j-rdbms-import) - An automatic importer for relational databases into Neo4j.
 - [Doc manager for Neo4j](https://github.com/neo4j-contrib/neo4j_doc_manager) - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector.
-- [neoloadcsvskelgen](https://github.com/neueda/awesome-neo4j/blob/master/https://github.com/wadael/neoloadcsvskelgen) - Will output a skeleton of LOAD CSV Cypher code, from very little input (https://github.com/neueda/awesome-neo4j/blob/master/filename, separator, hints). Save time, avoid typos. 
+- [neoloadcsvskelgen](https://github.com/wadael/neoloadcsvskelgen) - Will output a skeleton of LOAD CSV Cypher code, from very little input (https://github.com/neueda/awesome-neo4j/blob/master/filename, separator, hints). Save time, avoid typos. 
 
 ## Benchmarking
 
@@ -154,7 +154,7 @@ Neo4j graph database.
 - [GraphAware Neo4j Algorithms](https://github.com/graphaware/neo4j-algorithms) - Custom graph algorithms for Neo4j with own Java and REST APIs.
 - [GraphAware Neo4j Warmup](https://github.com/graphaware/neo4j-warmup) - Simple library that warms up Neo4j caches with a single REST call.
 - [GraphAware Neo4j RestTest](https://github.com/graphaware/neo4j-resttest) - GraphAware RestTest is a simple library for testing code that talks to Neo4j running in standalone server mode.
-- [GraphAware Neo4j Expire](https://github.com/neueda/awesome-neo4j/blob/master/https://github.com/graphaware/neo4j-expire) - GraphAware Expire is a simple library that automatically deletes nodes and relationships from the database when they've reached their expiration date or time-to-live (https://github.com/neueda/awesome-neo4j/blob/master/TTL).
+- [GraphAware Neo4j Expire](https://github.com/graphaware/neo4j-expire) - GraphAware Expire is a simple library that automatically deletes nodes and relationships from the database when they've reached their expiration date or time-to-live (https://github.com/neueda/awesome-neo4j/blob/master/TTL).
 - [Spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
 - [Graphify](https://github.com/Graphify/graphify) - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
 - [neo4j-tx-participation](https://github.com/jexp/neo4j-tx-participation) - This is a Neo4j Server Extension to make Neo4j REST-API participate in transactions started by the transactional Cypher endpoint.
@@ -166,8 +166,8 @@ Neo4j graph database.
 
 ## Development
 
-- [Maven repositories](https://github.com/neueda/awesome-neo4j/blob/master/https://m2.neo4j.org/index.html) - Neo4j Maven repositories (https://github.com/neueda/awesome-neo4j/blob/master/releases, snapshots).
-- [GraphAware Neo4j Framework](https://github.com/neueda/awesome-neo4j/blob/master/https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (https://github.com/neueda/awesome-neo4j/blob/master/iterative) graph algorithms, etc.
+- [Maven repositories](https://m2.neo4j.org/index.html) - Neo4j Maven repositories (https://github.com/neueda/awesome-neo4j/blob/master/releases, snapshots).
+- [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (https://github.com/neueda/awesome-neo4j/blob/master/iterative) graph algorithms, etc.
 - [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
 - [Liquigraph](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.

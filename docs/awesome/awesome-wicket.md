@@ -60,17 +60,17 @@ List of libraries and components which can be used in your application
 - [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) -  Control a background process within a Wicket application.
 - [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket.
 - [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) - [Mozilla Persona](https://login.persona.org/) integration with Wicket.
-- [Console](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/wicketstuff/core/wiki/Console) - Provides support for executing code dynamically (https://github.com/PhantomYdn/awesome-wicket/blob/master/at runtime).
+- [Console](https://github.com/wicketstuff/core/wiki/Console) - Provides support for executing code dynamically (https://github.com/PhantomYdn/awesome-wicket/blob/master/at runtime).
 - [Context](https://github.com/wicketstuff/core/wiki/Context) - Used to locate components,models and models' objects declaratively with @Context annotation.
 - [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) - Support of dashboards for Wicket for quick access to required information in widgets.
 - [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java): [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
 - [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast.
 - [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) - [DataTables jQuery](http://www.datatables.net/) Plugin Integration.
 - [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging.
-- [Eidogo](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/wicketstuff/core/wiki/Eidogo) - SGF viewer and editor for GO game (https://github.com/PhantomYdn/awesome-wicket/blob/master/also called baduk, igo or weiqi).
+- [Eidogo](https://github.com/wicketstuff/core/wiki/Eidogo) - SGF viewer and editor for GO game (https://github.com/PhantomYdn/awesome-wicket/blob/master/also called baduk, igo or weiqi).
 - [Facebook](https://github.com/wicketstuff/core/wiki/Facebook) - Contains wicket components and behaviors to use the [Facebook](https://facebook.com) social plugins with wicket.
-- [Fast Serializer](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/wicketstuff/core/wiki/FastSerializer) - Wicket Serializer using the Fast 1.x (https://github.com/PhantomYdn/awesome-wicket/blob/master/FST) library.
-- [Fast Serializer 2](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/wicketstuff/core/wiki/FastSerializer2) - Wicket Serializer using the Fast 2.x (https://github.com/PhantomYdn/awesome-wicket/blob/master/FST) library.
+- [Fast Serializer](https://github.com/wicketstuff/core/wiki/FastSerializer) - Wicket Serializer using the Fast 1.x (https://github.com/PhantomYdn/awesome-wicket/blob/master/FST) library.
+- [Fast Serializer 2](https://github.com/wicketstuff/core/wiki/FastSerializer2) - Wicket Serializer using the Fast 2.x (https://github.com/PhantomYdn/awesome-wicket/blob/master/FST) library.
 - [GMap3](https://github.com/wicketstuff/core/wiki/Gmap3) - Offers a component to use Google Maps v3 within Wicket applications.
 - [Google AppEngine Initializer](https://github.com/wicketstuff/core/wiki/Google-AppEngine-Initializer) - Provides Wicket's org.apache.wicket.IInitializer implementation that auto-configures the Wicket Application to be runable at Google AppEngine.
 - [Google Charts](https://github.com/wicketstuff/core/wiki/GoogleCharts) - Allows creation of charts using the [Google Chart API](https://developers.google.com/chart/).
@@ -113,12 +113,12 @@ List of libraries and components which can be used in your application
 Web Framework on top of wicket which allow you to build your system easily and smoothly
 
 - [Apache Isis](https://isis.apache.org/) - A framework for rapidly developing domain-driven apps in Java.
-- [BrixCMS](https://github.com/PhantomYdn/awesome-wicket/blob/master/http://www.brixcms.org/) - Wicket based CMS (https://github.com/PhantomYdn/awesome-wicket/blob/master/seems to be dead).
+- [BrixCMS](http://www.brixcms.org/) - Wicket based CMS (https://github.com/PhantomYdn/awesome-wicket/blob/master/seems to be dead).
 - [Hippo CMS](http://www.onehippo.com/en) - Enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics.
 - [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
-- [Wicketopia](https://github.com/PhantomYdn/awesome-wicket/blob/master/https://github.com/jwcarman/Wicketopia) - Rapid Application Development (https://github.com/PhantomYdn/awesome-wicket/blob/master/RAD) library for the Wicket.
+- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (https://github.com/PhantomYdn/awesome-wicket/blob/master/RAD) library for the Wicket.
 
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)

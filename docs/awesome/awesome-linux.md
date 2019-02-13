@@ -216,7 +216,7 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 
 ### Courses
 
-#### [Introduction to Linux (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/LFS101x-1)](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
+#### [Introduction to Linux (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/LFS101x-1)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
 
 Organized by the Linux Foundation, it's a great free course to learn basics about Linux. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -350,20 +350,20 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
 * [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 * [ramme](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://github.com/raelgc/scudcloud/) - Slack client with additional features (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/compared to the original Slack client).
+* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/compared to the original Slack client).
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
 Distro-oriented:
 
-* [Y PPA Manager](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://launchpad.net/y-ppa-manager) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Ubuntu) - Manage PPAs and search for packages.
-* [pirut](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/http://fedoraproject.org/wiki/Tools/pirut) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - Provides a set of graphical tools for managing software.
-* [Synaptics](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/http://www.nongnu.org/synaptic/) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Debian and `.deb` users) - Graphical package management program for `apt`.
-* [YaST](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://en.opensuse.org/YaST_Software_Management) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/openSUSE) - Main package management tool on openSUSE.
-* [dnfdragora](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://github.com/manatools/dnfdragora) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - A GUI for the `dnf` package manager.
-* [Yay](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://github.com/Jguer/yay) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://wiki.archlinux.org/index.php/AUR_helpers).
-* [Aura](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://github.com/aurapm/aura) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Secure, multilingual package manager.
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Ubuntu) - Manage PPAs and search for packages.
+* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - Provides a set of graphical tools for managing software.
+* [Synaptics](http://www.nongnu.org/synaptic/) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Debian and `.deb` users) - Graphical package management program for `apt`.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/openSUSE) - Main package management tool on https://github.com/aleksandar-todorovic/awesome-linux/blob/master/openSUSE.
+* [dnfdragora](https://github.com/manatools/dnfdragora) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Fedora) - A GUI for the `dnf` package manager.
+* [Yay](https://github.com/Jguer/yay) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
+* [Aura](https://github.com/aurapm/aura) (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
@@ -411,7 +411,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 #### [Linux.org](http://www.linux.org/)
 
-Although its design is outdated, Linux.org is (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic/awesome-linux/blob/master/https://github.com/aleksandar-todorovic)
+Although its design is outdated, Linux.org is (https://github.com/aleksandar-todorovic/awesome-linux/blob/master/probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Kernel.org](https://www.kernel.org/)
 

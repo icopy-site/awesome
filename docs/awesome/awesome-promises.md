@@ -32,11 +32,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. N
 
 ### Deep Dive
 * [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems
-* [You're Missing the Point of Promises](https://github.com/wbinnssmith/awesome-promises/blob/master/https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (https://github.com/wbinnssmith/awesome-promises/blob/master/prior to 3.0) isn't enough.
+* [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (https://github.com/wbinnssmith/awesome-promises/blob/master/prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - Common misuses and how to avoid them.
 * [Promise anti-patterns (2)](http://taoofcode.net/promise-anti-patterns/) - Another set of promises anti-patterns
-* [Promise Ponderings, (https://github.com/wbinnssmith/awesome-promises/blob/master/Anti-)Patterns, and Apologies](https://github.com/wbinnssmith/awesome-promises/blob/master/https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/) - Promise behaviour demonstrated and explained by common questions and their answers.
+* [Promise Ponderings, (https://github.com/wbinnssmith/awesome-promises/blob/master/Anti-)Patterns, and Apologies](https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/) - Promise behaviour demonstrated and explained by common questions and their answers.
 * [Javascript Promises...In Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/) - Recreate the promise implementation
 * [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide) - "This document gives guidance on how to write specifications that create, accept, or manipulate promises"
 * [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
@@ -76,14 +76,14 @@ All of these provide more features than the language yet remain compatible. Node
 ## Convenience Utilities
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
-### sindresorhus's many Promise utilities (https://github.com/wbinnssmith/awesome-promises/blob/master/[see notes](https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/promise-fun))
+### sindresorhus's many Promise utilities (https://github.com/wbinnssmith/awesome-promises/blob/master/[see notes](https://github.com/sindresorhus/promise-fun))
 * [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-* [pify](https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/pify) - Promisify (https://github.com/wbinnssmith/awesome-promises/blob/master/"denodify") a callback-style function.
+* [pify](https://github.com/sindresorhus/pify) - Promisify (https://github.com/wbinnssmith/awesome-promises/blob/master/"denodify") a callback-style function.
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 * [p-break](https://github.com/sindresorhus/p-break) - Break out of a promise chain
-* [p-lazy](https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until `.then(https://github.com/wbinnssmith/awesome-promises/blob/master/)` or `.catch(https://github.com/wbinnssmith/awesome-promises/blob/master/)` is called
+* [p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * [p-defer](https://github.com/sindresorhus/p-defer) - Create a deferred promise
 * [p-if](https://github.com/sindresorhus/p-if) - Conditional promise chains
 * [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
@@ -117,7 +117,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 ### Others
 * [promise-method](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
 * [is-promise](https://github.com/then/is-promise) - Determine if something looks like a Promise.
-* [sprom](https://github.com/wbinnssmith/awesome-promises/blob/master/https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (https://github.com/wbinnssmith/awesome-promises/blob/master/be careful with this!)
+* [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (https://github.com/wbinnssmith/awesome-promises/blob/master/be careful with this!)
 * [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.

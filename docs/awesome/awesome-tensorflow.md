@@ -44,7 +44,7 @@ More info [here](http://tensorflow.org).
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
-* [TensorLayer](https://github.com/jtoy/awesome-tensorflow/blob/master/http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. (https://github.com/jtoy/awesome-tensorflow/blob/master/[CN](https://github.com/jtoy/awesome-tensorflow/blob/master/https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
+* [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. (https://github.com/jtoy/awesome-tensorflow/blob/master/[CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
 
 <a name="github-projects" />
@@ -59,7 +59,7 @@ More info [here](http://tensorflow.org).
 * [SRGAN](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 * [Neural Style](https://github.com/anishathalye/neural-style) - An implementation of neural style
-* [AlexNet3D](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (https://github.com/jtoy/awesome-tensorflow/blob/master/conv3d).
+* [AlexNet3D](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (https://github.com/jtoy/awesome-tensorflow/blob/master/conv3d).
 * [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 * [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 * [Deep-Q learning Pong with TensorFlow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
@@ -84,8 +84,8 @@ More info [here](http://tensorflow.org).
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 * [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - For Playing Atari Ping Pong
 * [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - For Playing Frozen Lake Game
-* [AC](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (https://github.com/jtoy/awesome-tensorflow/blob/master/Cartpole)
-* [A3C](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (https://github.com/jtoy/awesome-tensorflow/blob/master/A3C) for Continuous Action Space (https://github.com/jtoy/awesome-tensorflow/blob/master/Bipedal Walker)
+* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (https://github.com/jtoy/awesome-tensorflow/blob/master/Cartpole)
+* [https://github.com/jtoy/awesome-tensorflow/blob/master/A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - Asynchronous Advantage Actor Critic (https://github.com/jtoy/awesome-tensorflow/blob/master/A3C) for Continuous Action Space (https://github.com/jtoy/awesome-tensorflow/blob/master/Bipedal Walker)
 * [DAGGER](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - For Playing [Gym Torcs](https://github.com/ugo-nama-kun/gym_torcs)
 * [TRPO](https://github.com/jjkke88/RL_toolbox) - For Continuous and Discrete Action Space by
 * [Highway Network](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
@@ -122,7 +122,7 @@ More info [here](http://tensorflow.org).
 
 ## Libraries
 
-* [TensorFlow Estimators](https://github.com/jtoy/awesome-tensorflow/blob/master/https://www.tensorflow.org/guide/estimators) - high-level TensorFlow API that greatly simplifies machine learning programming (https://github.com/jtoy/awesome-tensorflow/blob/master/originally [tensorflow/skflow](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/tensorflow/skflow))
+* [TensorFlow Estimators](https://www.tensorflow.org/guide/estimators) - high-level TensorFlow API that greatly simplifies machine learning programming (https://github.com/jtoy/awesome-tensorflow/blob/master/originally [tensorflow/skflow](https://github.com/tensorflow/skflow))
 * [R Interface to TensorFlow](https://tensorflow.rstudio.com/) - R interface to TensorFlow APIs, including Estimators, Keras, Datasets, etc.
 * [Lattice](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
@@ -134,14 +134,14 @@ More info [here](http://tensorflow.org).
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
-* [SyntaxNet: Neural Models of Syntax](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (https://github.com/jtoy/awesome-tensorflow/blob/master/2016)](https://github.com/jtoy/awesome-tensorflow/blob/master/http://arxiv.org/pdf/1603.06042.pdf)
-* [keras-js](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/transcranial/keras-js) - Run Keras models (https://github.com/jtoy/awesome-tensorflow/blob/master/tensorflow backend) in the browser, with GPU support
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (https://github.com/jtoy/awesome-tensorflow/blob/master/2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [keras-js](https://github.com/transcranial/keras-js) - Run Keras models (https://github.com/jtoy/awesome-tensorflow/blob/master/tensorflow backend) in the browser, with GPU support
 * [NNFlow](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 * [Sonnet](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
-* [pytorch2keras](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (https://github.com/jtoy/awesome-tensorflow/blob/master/with TensorFlow backend) format
-* [gluon2keras](https://github.com/jtoy/awesome-tensorflow/blob/master/https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (https://github.com/jtoy/awesome-tensorflow/blob/master/with TensorFlow backend) format
+* [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (https://github.com/jtoy/awesome-tensorflow/blob/master/with TensorFlow backend) format
+* [gluon2keras](https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (https://github.com/jtoy/awesome-tensorflow/blob/master/with TensorFlow backend) format
 
 <a name="video" />
 
@@ -159,7 +159,7 @@ More info [here](http://tensorflow.org).
 * [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
-* [Tensorflow and deep learning - without at PhD, Part 2 (https://github.com/jtoy/awesome-tensorflow/blob/master/Google Cloud Next '17)](https://github.com/jtoy/awesome-tensorflow/blob/master/https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
+* [Tensorflow and deep learning - without at PhD, Part 2 (https://github.com/jtoy/awesome-tensorflow/blob/master/Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
 
 
@@ -171,11 +171,11 @@ More info [here](http://tensorflow.org).
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
-* [Comparative Study of Deep Learning Software Frameworks](https://github.com/jtoy/awesome-tensorflow/blob/master/http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (https://github.com/jtoy/awesome-tensorflow/blob/master/multi-threaded) CPU and GPU (https://github.com/jtoy/awesome-tensorflow/blob/master/Nvidia Titan X) settings
-* [Distributed TensorFlow with MPI](https://github.com/jtoy/awesome-tensorflow/blob/master/http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (https://github.com/jtoy/awesome-tensorflow/blob/master/MPI)
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (https://github.com/jtoy/awesome-tensorflow/blob/master/multi-threaded) CPU and GPU (https://github.com/jtoy/awesome-tensorflow/blob/master/Nvidia Titan X) settings
+* [Distributed TensorFlow with https://github.com/jtoy/awesome-tensorflow/blob/master/MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (https://github.com/jtoy/awesome-tensorflow/blob/master/MPI)
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
-* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://github.com/jtoy/awesome-tensorflow/blob/master/https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (https://github.com/jtoy/awesome-tensorflow/blob/master/Winner of The Best Open Source Software Award of ACM MM 2017)
+* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (https://github.com/jtoy/awesome-tensorflow/blob/master/Winner of The Best Open Source Software Award of ACM MM 2017)
 
 <a name="blogs" />
 
@@ -192,7 +192,7 @@ More info [here](http://tensorflow.org).
 * [Building Machine Learning Estimator in TensorFlow](http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/) - Understanding the Internals of TensorFlow Learn Estimators
 * [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 * [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
-* [The Good, Bad, & Ugly of TensorFlow](https://github.com/jtoy/awesome-tensorflow/blob/master/https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (https://github.com/jtoy/awesome-tensorflow/blob/master/+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
+* [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (https://github.com/jtoy/awesome-tensorflow/blob/master/+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 * [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 * [RNNs In TensorFlow, A Practical Guide And Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Step-by-step guide with full code examples on GitHub.
 * [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
@@ -222,7 +222,7 @@ More info [here](http://tensorflow.org).
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
 * [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
-* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/jtoy/awesome-tensorflow/blob/master/http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (https://github.com/jtoy/awesome-tensorflow/blob/master/Deep Q).
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (https://github.com/jtoy/awesome-tensorflow/blob/master/Deep Q).
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implmentation by using TensorFlow and TensorLayer.
 
@@ -234,7 +234,7 @@ More info [here](http://tensorflow.org).
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (https://github.com/jtoy/awesome-tensorflow/blob/master/please do), send me a pull request or contact me [@jtoy](https://github.com/jtoy/awesome-tensorflow/blob/master/https://twitter.com/jtoy)
+If you want to contribute to this list (https://github.com/jtoy/awesome-tensorflow/blob/master/please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
 Also, if you notice that any of the above listed repositories should be deprecated, due to any of the following reasons:
 
 * Repository's owner explicitly say that "this library is not maintained".

@@ -137,7 +137,7 @@
 - [slack-oldbot](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
 - [slack-upvote](https://github.com/tampajohn/slack-upvote) - Slack voting integration
 - [slackbot](https://github.com/collinvandyck/slackbot) - A silly little slackhq robot
-- [slackbot](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/trinchan/slackbot) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Framework for building slash commands for Slack
+- [slackbot](https://github.com/trinchan/slackbot) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Framework for building slash commands for Slack
 - [slackcat](https://github.com/paulhammond/slackcat) - Post messages to Slack from the command line
 - [slacker-news](https://github.com/munrocape/slacker-news) - Slack integration that reports current news items
 - [slackline](https://github.com/ernesto-jimenez/slackline) - Create a Slack channel shared by two organizations
@@ -247,7 +247,7 @@
 - [slack-webex-plugin](https://github.com/gsingers/slack-webex-plugin) - Launch a Webex Personal Room or other type of meeting from Slack
 - [slack-yandex-api](https://github.com/wearegoat/slack-yandex-api) - Simple server app for Yandex API and Slack integration
 - [slack.com.js](https://github.com/caseman72/slack.com.js) - Google Chrome extension to make emoticons look better
-- [slack-issue-tracker-parser](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/caiosba/slack-issue-tracker-parser) (https://github.com/matiassingers/awesome-slack/blob/master/II) - A Google Chrome extension to turn issues numbers into links to the issue on an issue tracker
+- [slack-issue-tracker-parser](https://github.com/caiosba/slack-issue-tracker-parser) (https://github.com/matiassingers/awesome-slack/blob/master/II) - A Google Chrome extension to turn issues numbers into links to the issue on an issue tracker
 - [slackapi-angularjs](https://github.com/nickaranz/slackapi-angularjs) - AngularJS module wrapper for the Slack Web API
 - [slackarma](https://github.com/gdroel/slackarma) - Give your teammates reputation points in Slack
 - [slackbot-says](https://github.com/smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
@@ -363,7 +363,7 @@
 - [pyslack](https://github.com/loisaidasam/pyslack) - Python API Wrapper
 - [python-rtmbot](https://github.com/slackhq/python-rtmbot) - A Slack bot written in Python that connects to the RTM API
 - [python-slack.com](https://github.com/rosscdh/python-slack.com) - Python classes for integrating with Slack
-- [python-slackclient](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/slackhq/python-slackclient) (https://github.com/matiassingers/awesome-slack/blob/master/[pypi](https://github.com/matiassingers/awesome-slack/blob/master/https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
+- [python-slackclient](https://github.com/slackhq/python-slackclient) (https://github.com/matiassingers/awesome-slack/blob/master/[pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
 - [scudcloud](https://github.com/raelgc/scudcloud/) - Ubuntu client for Slack
@@ -404,11 +404,11 @@
 
 - [addon-slack](https://github.com/magnumci/addon-slack) - Send MagnumCI build notifications to Slack
 - [adventure-bot](https://github.com/wstrinz/adventure-bot) - Text adventures in Slack!
-- [airbrake2slack](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/releu/airbrake2slack) - Airbrake to Slack integration (https://github.com/matiassingers/awesome-slack/blob/master/through Heroku)
+- [airbrake2slack](https://github.com/releu/airbrake2slack) - Airbrake to Slack integration (https://github.com/matiassingers/awesome-slack/blob/master/through Heroku)
 - [Alfred-Slack-Channels](https://github.com/akira-hamada/Alfred-Slack-Channels) - Alfred WorkFlow to Switch Slack Channels
 - [beach](https://github.com/willrax/beach) - Small Sinatra app to host web hooks for Slack
 - [capistrano-slack](https://github.com/j-mcnally/capistrano-slack) - Send Capistrano deployment messages to Slack
-- [capistrano-slack](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/nextupdate/capistrano-slack) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Send Capistrano deployment messages to Slack
+- [capistrano-slack](https://github.com/nextupdate/capistrano-slack) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Send Capistrano deployment messages to Slack
 - [capistrano-slackify](https://github.com/onthebeach/capistrano-slackify) - Send Capistrano deployment messages to Slack
 - [chef-slack](https://github.com/risk-io/chef-slack) - Cookbook to send messages to Slack
 - [chef-slack\_handler](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
@@ -426,7 +426,7 @@
 - [omniauth-slack](https://github.com/kmrshntr/omniauth-slack) - Omniauth provider for Slack
 - [pagerbot](https://github.com/stripe-contrib/pagerbot) - Manage Pagerduty on-call schedules from within your internal chat channels
 - [puppet-slack](https://github.com/orlando/puppet-slack) - Slack Puppet Module for Boxen
-- [puppet-slack](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/fsalum/puppet-slack) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Puppet report processor integration with Slack
+- [puppet-slack](https://github.com/fsalum/puppet-slack) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Puppet report processor integration with Slack
 - [redmine-slack](https://github.com/sciyoshi/redmine-slack) - Send Redmine updates to Slack
 - [resque-slack](https://github.com/julienXX/resque-slack) - Post failed Rescue jobs notifications in a Slack channel
 - [semaphore-to-slack](https://github.com/flevour/semaphore-to-slack) - Post Semaphore status messages to Slack
@@ -447,7 +447,7 @@
 - [slack-slam](https://github.com/matthewdu/slack-slam) - A key-value store for Slack
 - [slack-timezone-converter](https://github.com/caiosba/slack-timezone-converter) - Converts any time string in a message to all timezones where the team is
 - [slackbot](https://github.com/typekit/slackbot) - The laziest bot around
-- [slackbot](https://github.com/matiassingers/awesome-slack/blob/master/https://github.com/tomnatt/slackbot) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Bots for Slack.com
+- [slackbot](https://github.com/tomnatt/slackbot) (https://github.com/matiassingers/awesome-slack/blob/master/II) - Bots for Slack.com
 - [slackbot-plugin](https://github.com/vjanelle/slackbot-plugin) - Attempt at a ruby-based jenkins Slack notifier
 - [slackbots](https://github.com/treeder/slackbots) - A bunch of rad slackbots that run on IronWorker
 - [slackbotsy](https://github.com/rlister/slackbotsy) - Ruby bot for Slack, inspire by botsy

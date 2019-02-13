@@ -38,9 +38,9 @@
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (https://github.com/tleb/awesome-mastodon/blob/master/Elm).
-* [toot](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/ihabunek/toot) - Mastodon CLI client (https://github.com/tleb/awesome-mastodon/blob/master/Python).
-* [madonctl](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/McKael/madonctl) - Mastodon CLI client (https://github.com/tleb/awesome-mastodon/blob/master/Go).
+* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (https://github.com/tleb/awesome-mastodon/blob/master/Elm).
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (https://github.com/tleb/awesome-mastodon/blob/master/Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
@@ -57,11 +57,11 @@
 * [Mastodon bridge](https://bridge.joinmastodon.org/) - Find your Twitter friends in the federated Mastodon network.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-* [Mastodon Network Monitoring (https://github.com/tleb/awesome-mastodon/blob/master/MNM)](https://github.com/tleb/awesome-mastodon/blob/master/https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
-* [Last](https://github.com/tleb/awesome-mastodon/blob/master/https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (https://github.com/tleb/awesome-mastodon/blob/master/Perl).
+* [Mastodon Network Monitoring (https://github.com/tleb/awesome-mastodon/blob/master/MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
+* [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (https://github.com/tleb/awesome-mastodon/blob/master/Perl).
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
-* [Forget](https://github.com/tleb/awesome-mastodon/blob/master/https://forget.codl.fr/about/) - Delete toots after a user defined period of time (https://github.com/tleb/awesome-mastodon/blob/master/Python [source code](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/codl/forget/)).
-* [Mastodon Toot Bookmarklet](https://github.com/tleb/awesome-mastodon/blob/master/https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page (https://github.com/tleb/awesome-mastodon/blob/master/[source code](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
+* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (https://github.com/tleb/awesome-mastodon/blob/master/Python [source code](https://github.com/codl/forget/)).
+* [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page (https://github.com/tleb/awesome-mastodon/blob/master/[source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
 
 ## User styles
 
@@ -76,15 +76,15 @@
 
 ## Bots
 
-* [feed2toot](https://github.com/tleb/awesome-mastodon/blob/master/https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
-* [usercount](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
-* [autofollow](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
-* [hnbot](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (https://github.com/tleb/awesome-mastodon/blob/master/Python).
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
-* [Remindr](https://github.com/tleb/awesome-mastodon/blob/master/https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (https://github.com/tleb/awesome-mastodon/blob/master/Python).
-* [News Bot](https://github.com/tleb/awesome-mastodon/blob/master/https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/ClojureScript), source available on [GitHub](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/yogthos/mastodon-bot).
-* [Welcome Bot](https://github.com/tleb/awesome-mastodon/blob/master/https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (https://github.com/tleb/awesome-mastodon/blob/master/Python).
+* [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (https://github.com/tleb/awesome-mastodon/blob/master/ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
+* [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (https://github.com/tleb/awesome-mastodon/blob/master/Python).
 
 ## News & magazines bots
 
@@ -96,9 +96,9 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA.
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
-* [@btc@framapiaf.org](https://github.com/tleb/awesome-mastodon/blob/master/https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
-* [@ethereum@framapiaf.org](https://github.com/tleb/awesome-mastodon/blob/master/https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
-* [@monero@framapiaf.org](https://github.com/tleb/awesome-mastodon/blob/master/https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
+* [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
+* [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
+* [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (https://github.com/tleb/awesome-mastodon/blob/master/marketcap, community, rise/drop alerts).
 * [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
 
 ### Français
@@ -114,7 +114,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi.
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours.
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique.
-* [@Mediapart@mastodon.social](https://github.com/tleb/awesome-mastodon/blob/master/https://mastodon.social/@Mediapart) - Mediapart officiel (https://github.com/tleb/awesome-mastodon/blob/master/non actif).
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (https://github.com/tleb/awesome-mastodon/blob/master/non actif).
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif.
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
@@ -145,7 +145,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films.
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale.
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
-* [@korbenbot@mastodon.xyz](https://github.com/tleb/awesome-mastodon/blob/master/https://mastodon.xyz/@korbenbot) - Korben (https://github.com/tleb/awesome-mastodon/blob/master/bot).
+* [@korbenhttps://github.com/tleb/awesome-mastodon/blob/master/bot@mastodon.xyz](https://mastodon.xyz/@korbenhttps://github.com/tleb/awesome-mastodon/blob/master/bot) - Korben (https://github.com/tleb/awesome-mastodon/blob/master/bot).
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
 ## Libraries

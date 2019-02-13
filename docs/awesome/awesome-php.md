@@ -115,21 +115,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Web development frameworks.*
 
 * [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
-* [CakePHP](https://github.com/ziadoz/awesome-php/blob/master/https://cakephp.org/) - A rapid application development framework (https://github.com/ziadoz/awesome-php/blob/master/CP).
-* [Laravel 5](https://github.com/ziadoz/awesome-php/blob/master/https://laravel.com/) - Another PHP framework (https://github.com/ziadoz/awesome-php/blob/master/L5).
+* [CakePHP](https://cakephp.org/) - A rapid application development framework (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Laravel 5](https://laravel.com/) - Another PHP framework (https://github.com/ziadoz/awesome-php/blob/master/L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
-* [Symfony](https://github.com/ziadoz/awesome-php/blob/master/https://symfony.com/) - A framework comprised of individual components (https://github.com/ziadoz/awesome-php/blob/master/SF).
+* [Symfony](https://symfony.com/) - A framework comprised of individual components (https://github.com/ziadoz/awesome-php/blob/master/SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 2](https://github.com/ziadoz/awesome-php/blob/master/https://framework.zend.com) - Another framework comprised of individual components (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
+* [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
 
-* [CakePHP CRUD](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/friendsofcake/crud) - A Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) plugin for CakePHP.
-* [Knp RAD Components](https://github.com/ziadoz/awesome-php/blob/master/http://rad.knplabs.com/) - A set of Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) components for Symfony.
+* [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) plugin for CakePHP.
+* [Knp https://github.com/ziadoz/awesome-php/blob/master/RAD Components](http://rad.knplabs.com/) - A set of Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) components for Symfony.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ### Components
@@ -261,7 +261,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
-* [Symfony DI](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/symfony/dependency-injection) - A dependency injection container component (https://github.com/ziadoz/awesome-php/blob/master/SF).
+* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (https://github.com/ziadoz/awesome-php/blob/master/SF).
 
 ### Imagery
 *Libraries for manipulating images.*
@@ -280,7 +280,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-* [Behat](https://github.com/ziadoz/awesome-php/blob/master/http://docs.behat.org/en/v2.5/) - A behaviour driven development (https://github.com/ziadoz/awesome-php/blob/master/BDD) testing framework.
+* [Behat](http://docs.behat.org/en/v2.5/) - A behaviour driven development (https://github.com/ziadoz/awesome-php/blob/master/BDD) testing framework.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
@@ -292,7 +292,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
-* [PHP-Mock](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (https://github.com/ziadoz/awesome-php/blob/master/e.g. time(https://github.com/ziadoz/awesome-php/blob/master/)).
+* [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (https://github.com/ziadoz/awesome-php/blob/master/e.g. time()).
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
@@ -318,7 +318,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/justinwalsh/daux.io) - A documentation generator which uses Markdown files.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
-* [phpDox](https://github.com/ziadoz/awesome-php/blob/master/http://phpdox.de/) - A documentation generator for PHP projects (https://github.com/ziadoz/awesome-php/blob/master/that is not limited to API documentation).
+* [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (https://github.com/ziadoz/awesome-php/blob/master/that is not limited to API documentation).
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
 
 ### Security
@@ -331,7 +331,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
-* [random_compat](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes(https://github.com/ziadoz/awesome-php/blob/master/)` and `random_int(https://github.com/ziadoz/awesome-php/blob/master/)`
+* [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
@@ -358,7 +358,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-* [PHPQA](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (https://github.com/ziadoz/awesome-php/blob/master/phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (https://github.com/ziadoz/awesome-php/blob/master/phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
@@ -462,7 +462,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 * [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
-* [Cake Event](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/event) - An event dispatcher library (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
@@ -502,7 +502,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-* [PHPSpreadsheet](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (https://github.com/ziadoz/awesome-php/blob/master/successor of PHPExcel)
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (https://github.com/ziadoz/awesome-php/blob/master/successor of PHPExcel)
 
 ### Database
 *Libraries for interacting with databases using object-relational mapping (https://github.com/ziadoz/awesome-php/blob/master/ORM) or datamapping techniques.*
@@ -511,10 +511,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Cake ORM](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Eloquent](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/illuminate/database) - A simple ORM (https://github.com/ziadoz/awesome-php/blob/master/L5).
+* [Eloquent](https://github.com/illuminate/database) - A simple ORM (https://github.com/ziadoz/awesome-php/blob/master/L5).
 * [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
@@ -541,7 +541,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with event and task queues.*
 
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
-* [BunnyPHP](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (https://github.com/ziadoz/awesome-php/blob/master/RabbitMQ) sync and also async (https://github.com/ziadoz/awesome-php/blob/master/ReactPHP) library.
+* [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (https://github.com/ziadoz/awesome-php/blob/master/RabbitMQ) sync and also async (https://github.com/ziadoz/awesome-php/blob/master/ReactPHP) library.
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
@@ -559,7 +559,7 @@ Libraries to help manage database schemas and migrations.
 ### Command Line
 *Libraries related to the command line.*
 
-* [Aura.Cli](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request (https://github.com/ziadoz/awesome-php/blob/master/ Context ) and response (https://github.com/ziadoz/awesome-php/blob/master/ Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+* [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request (https://github.com/ziadoz/awesome-php/blob/master/ Context ) and response (https://github.com/ziadoz/awesome-php/blob/master/ Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 * [Boris](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
@@ -577,7 +577,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for implementing user authentication and authorization.*
 
 * [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
-* [SocialConnect Auth](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/socialConnect/auth) - An open source social sign (https://github.com/ziadoz/awesome-php/blob/master/OAuth1\OAuth2\OpenID\OpenIDConnect).
+* [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (https://github.com/ziadoz/awesome-php/blob/master/OAuth1\OAuth2\OpenID\OpenIDConnect).
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
@@ -610,7 +610,7 @@ Libraries to help manage database schemas and migrations.
 * [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 * [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-* [Mobile-Detect](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (https://github.com/ziadoz/awesome-php/blob/master/including tablets).
+* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (https://github.com/ziadoz/awesome-php/blob/master/including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
@@ -631,7 +631,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for filtering and validating data.*
 
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
-* [Cake Validation](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/validation) - Another validation library (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake Validation](https://github.com/cakephp/validation) - Another validation library (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
@@ -646,7 +646,7 @@ Libraries to help manage database schemas and migrations.
 * [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
-* [HAL](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/blongden/hal) - A Hypertext Application Language (https://github.com/ziadoz/awesome-php/blob/master/HAL) builder library.
+* [https://github.com/ziadoz/awesome-php/blob/master/HAL](https://github.com/blongden/hal) - A Hypertext Application Language (https://github.com/ziadoz/awesome-php/blob/master/HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
@@ -655,34 +655,34 @@ Libraries to help manage database schemas and migrations.
 ### Caching
 *Libraries for caching data.*
 
-* [Alternative PHP Cache (https://github.com/ziadoz/awesome-php/blob/master/APC)](https://github.com/ziadoz/awesome-php/blob/master/http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
+* [Alternative PHP Cache (https://github.com/ziadoz/awesome-php/blob/master/APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-* [Cake Cache](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/cache) - A caching library (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake Cache](https://github.com/cakephp/cache) - A caching library (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
-* [Zend Cache](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/zendframework/zend-cache) - Another caching library (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
+* [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
 
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
 
-* [Cake Collection](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/collection) - A simple collections library (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
-* [PINQ](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (https://github.com/ziadoz/awesome-php/blob/master/Language Integrated Query).
+* [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (https://github.com/ziadoz/awesome-php/blob/master/Language Integrated Query).
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
-* [Zend Serializer](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
+* [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (https://github.com/ziadoz/awesome-php/blob/master/ZF2).
 
 ### Notifications
 *Libraries for working with notification software.*
 
-* [JoliNotif](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (https://github.com/ziadoz/awesome-php/blob/master/support for Growl, notify-send, toaster, etc)
+* [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (https://github.com/ziadoz/awesome-php/blob/master/support for Growl, notify-send, toaster, etc)
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
@@ -698,8 +698,8 @@ Libraries to help manage database schemas and migrations.
 ### Internationalisation and Localisation
 *Libraries for Internationalization (https://github.com/ziadoz/awesome-php/blob/master/I18n) and Localization (https://github.com/ziadoz/awesome-php/blob/master/L10n).*
 
-* [Aura.Intl](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/auraphp/Aura.Intl) - Provides internationalization (https://github.com/ziadoz/awesome-php/blob/master/I18N) tools, specifically package-oriented per-locale message translation.
-* [Cake I18n](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (https://github.com/ziadoz/awesome-php/blob/master/CP)
+* [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (https://github.com/ziadoz/awesome-php/blob/master/I18N) tools, specifically package-oriented per-locale message translation.
+* [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (https://github.com/ziadoz/awesome-php/blob/master/CP)
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -721,9 +721,9 @@ Libraries to help manage database schemas and migrations.
 ### Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [Annotations](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/doctrine/annotations) - An annotations library (https://github.com/ziadoz/awesome-php/blob/master/part of Doctrine).
+* [Annotations](https://github.com/doctrine/annotations) - An annotations library (https://github.com/ziadoz/awesome-php/blob/master/part of Doctrine).
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
-* [Cake Utility](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (https://github.com/ziadoz/awesome-php/blob/master/CP).
+* [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (https://github.com/ziadoz/awesome-php/blob/master/CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
@@ -734,12 +734,12 @@ Libraries to help manage database schemas and migrations.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-* [noCAPTCHA](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (https://github.com/ziadoz/awesome-php/blob/master/reCAPTCHA).
+* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (https://github.com/ziadoz/awesome-php/blob/master/reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP-ML](https://github.com/php-ai/php-ml) - A library for Machine Learning in PHP.
-* [PHPCR](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (https://github.com/ziadoz/awesome-php/blob/master/JCR).
+* [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (https://github.com/ziadoz/awesome-php/blob/master/JCR).
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
@@ -749,7 +749,7 @@ Libraries to help manage database schemas and migrations.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Symfony VarDumper](https://github.com/ziadoz/awesome-php/blob/master/http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (https://github.com/ziadoz/awesome-php/blob/master/SF).
+* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (https://github.com/ziadoz/awesome-php/blob/master/SF).
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
@@ -827,7 +827,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
-* [PHP UG](https://github.com/ziadoz/awesome-php/blob/master/http://php.ug) - A website to help people locate their nearest PHP user group (https://github.com/ziadoz/awesome-php/blob/master/UG).
+* [PHP https://github.com/ziadoz/awesome-php/blob/master/UG](http://php.ug) - A website to help people locate their nearest PHP user group (https://github.com/ziadoz/awesome-php/blob/master/UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
@@ -842,7 +842,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
-* [The Open Web Application Security Project (https://github.com/ziadoz/awesome-php/blob/master/OWASP)](https://github.com/ziadoz/awesome-php/blob/master/https://www.owasp.org/index.php/Main_Page) - An open software security community.
+* [The Open Web Application Security Project (https://github.com/ziadoz/awesome-php/blob/master/OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](https://websec.io/) - A web security community resource.
 
 ### PHP Books
@@ -910,17 +910,17 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Reading materials related to the PHP internals or performance.*
 
 * [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
-* [How Big Are PHP Arrays (https://github.com/ziadoz/awesome-php/blob/master/And Values) Really?](https://github.com/ziadoz/awesome-php/blob/master/http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
+* [How Big Are PHP Arrays (https://github.com/ziadoz/awesome-php/blob/master/And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
 * [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
-* [PHP RFCs](https://github.com/ziadoz/awesome-php/blob/master/https://wiki.php.net/rfc) - The home of PHP RFCs (https://github.com/ziadoz/awesome-php/blob/master/Request for Comments).
+* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (https://github.com/ziadoz/awesome-php/blob/master/Request for Comments).
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) - An article about print and echo performance.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - An article ternary performance.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - An article about opcodes.
 * [When Does Foreach Copy?](http://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
-* [Why Objects (https://github.com/ziadoz/awesome-php/blob/master/Usually) Use Less Memory Than Arrays](https://github.com/ziadoz/awesome-php/blob/master/https://gist.github.com/nikic/5015323) - An article about object and array internals.
+* [Why Objects (https://github.com/ziadoz/awesome-php/blob/master/Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.

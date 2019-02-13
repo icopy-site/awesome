@@ -87,7 +87,7 @@
 
 ## License
 
-The MIT License (https://github.com/weblancaster/awesome-IoT-hybrid/blob/master/MIT)
+The https://github.com/weblancaster/awesome-IoT-hybrid/blob/master/MIT License (https://github.com/weblancaster/awesome-IoT-hybrid/blob/master/MIT)
 
 Copyright (c) 2014 Michael Lancaster
 

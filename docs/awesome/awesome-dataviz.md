@@ -80,7 +80,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Textures.js](http://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 - [Timeline.js](http://timeline.knightlab.com/) -  Create interactive timelines.
 - [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
-- [Vis.js](https://github.com/fasouto/awesome-dataviz/blob/master/http://visjs.org/) - A dynamic visualization library including timeline, networks and graphs (https://github.com/fasouto/awesome-dataviz/blob/master/2D and 3D).
+- [Vis.js](http://visjs.org/) - A dynamic visualization library including timeline, networks and graphs (https://github.com/fasouto/awesome-dataviz/blob/master/2D and 3D).
 
 ## Android tools
 - [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
@@ -92,8 +92,8 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## C++ tools
 - [LargeVis](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
-- [PlotJuggler](https://github.com/fasouto/awesome-dataviz/blob/master/https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (https://github.com/fasouto/awesome-dataviz/blob/master/based on Qwt).
-- [Visualization Toolkit (https://github.com/fasouto/awesome-dataviz/blob/master/VTK)](https://github.com/fasouto/awesome-dataviz/blob/master/https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (https://github.com/fasouto/awesome-dataviz/blob/master/based on Qwt).
+- [Visualization Toolkit (https://github.com/fasouto/awesome-dataviz/blob/master/VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ## Golang tools
 - [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
@@ -127,7 +127,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
 - [ggvis](http://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
 - [lattice](http://lattice.r-forge.r-project.org) - trellis graphics for R
-- [plotly](https://github.com/fasouto/awesome-dataviz/blob/master/https://github.com/ropensci/plotly) - Interactive charts (https://github.com/fasouto/awesome-dataviz/blob/master/including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+- [plotly](https://github.com/ropensci/plotly) - Interactive charts (https://github.com/fasouto/awesome-dataviz/blob/master/including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 - [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to Bokeh.
 - [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
 - [shiny](http://shiny.rstudio.com) - Framework for creating interactive applications/visualisations

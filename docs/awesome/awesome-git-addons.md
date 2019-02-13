@@ -158,7 +158,7 @@ total 855
 
 ```
 $ git create-branch development
-Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
 To https://github.com/tj/git-extras.git
  * [new branch]      HEAD -> development
 Branch development set up to track remote branch development from origin.
@@ -308,12 +308,12 @@ $ git release 0.1.0
 On branch development
 Your branch is up-to-date with 'origin/development'.
 nothing to commit, working directory clean
-Total 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
 To https://github.com/tj/git-extras.git
    9fde751..e62edfa  master -> master
 Counting objects: 1, done.
 Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/1/1), 166 bytes | 0 bytes/s, done.
-Total 1 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 1 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
 To https://github.com/tj/git-extras.git
  * [new tag]         0.1.0 -> 0.1.0
 ... complete
@@ -325,7 +325,7 @@ To https://github.com/tj/git-extras.git
 $ git contrib visionmedia
 visionmedia (https://github.com/stevemao/awesome-git-addons/blob/master/18):
   Export STATUS_CODES
-  Replaced several Array.prototype.slice.call(https://github.com/stevemao/awesome-git-addons/blob/master/) calls with Array.prototype.unshift.call(https://github.com/stevemao/awesome-git-addons/blob/master/)
+  Replaced several Array.prototype.slice.call() calls with Array.prototype.unshift.call()
   Moved help msg to node-repl
 ```
 
@@ -512,7 +512,7 @@ $ git psykorebase master feature
 ```
 
 
-## [gitflow (https://github.com/stevemao/awesome-git-addons/blob/master/AVH Edition)](https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/petervanderdoes/gitflow-avh)
+## [gitflow (https://github.com/stevemao/awesome-git-addons/blob/master/AVH Edition)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
 
@@ -999,7 +999,7 @@ $ git issue clone git@github.com:dspinellis/gi-example.git my-issues
 Cloning into '.issues'...
 remote: Counting objects: 60, done.
 remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/42/42), done.
-remote: Total 60 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), reused 60 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), pack-reused 0
+remote: Total 60 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), reused 60 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 8), pack-reused 0
 Receiving objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/60/60), 5.35 KiB | 0 bytes/s, done.
 Resolving deltas: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/8/8), done.
 Checking connectivity... done.
@@ -1028,7 +1028,7 @@ $ git issue push
 Counting objects: 7, done.
 Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/6/6), done.
 Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/7/7), 767 bytes | 0 bytes/s, done.
-Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
 To git@github.com:dspinellis/gi-example.git
    d6be890..740f9a0  master -> master
 ```
@@ -1073,7 +1073,7 @@ Date:   Fri, 29 Jan 2016 01:03:57 +0200
 $ git issue pull
 remote: Counting objects: 7, done.
 remote: Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/6/6), done.
-remote: Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 7 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), pack-reused 0
+remote: Total 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 7 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), pack-reused 0
 Unpacking objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/7/7), done.
 From github.com:dspinellis/gi-example
    d6be890..740f9a0  master     -> origin/master
@@ -1474,7 +1474,7 @@ On branch fire-master-maochenyan@gmail.com-1451379915
 nothing to commit, working directory clean
 Counting objects: 2, done.
 Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/2/2), 168 bytes | 0 bytes/s, done.
-Total 2 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
+Total 2 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
 To git@bitbucket.org:maochenyan/fire.git
  * [new branch]      fire-master-maochenyan@gmail.com-1451379915 -> fire-master-maochenyan@gmail.com-1451379915
 Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch fire-master-maochenyan@gmail.com-1451379915 from origin.

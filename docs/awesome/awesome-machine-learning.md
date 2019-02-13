@@ -2,7 +2,7 @@
 
 A curated list of awesome machine learning frameworks, libraries and software (https://github.com/josephmisiti/awesome-machine-learning/blob/master/by language). Inspired by `awesome-php`.
 
-If you want to contribute to this list (https://github.com/josephmisiti/awesome-machine-learning/blob/master/please do), send me a pull request or contact me [@josephmisiti](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://twitter.com/josephmisiti).
+If you want to contribute to this list (https://github.com/josephmisiti/awesome-machine-learning/blob/master/please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti).
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
@@ -12,7 +12,7 @@ Further resources:
 
 * For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
-* For a list of (https://github.com/josephmisiti/awesome-machine-learning/blob/master/mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+* For a list of (https://github.com/josephmisiti/awesome-machine-learning/blob/master/mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
 
 * For a list of blogs on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
 
@@ -155,7 +155,7 @@ Further resources:
 <a name="c-general-purpose"></a>
 #### General-Purpose Machine Learning
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
-* [Recommender](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CF).
+* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **[Deprecated]**
 * [neonrvm](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
@@ -181,18 +181,18 @@ Further resources:
 
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
-* [CatBoost](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/even multi-GPU) computation.
-* [CNTK](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Microsoft/CNTK) - The Computational Network Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
+* [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/even multi-GPU) computation.
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK](https://github.com/Microsoft/https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK) - The Computational Network Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 * [DeepDetect](https://github.com/jolibrain/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
-* [Distributed Machine learning Tool Kit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/DMTK)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/http://www.dmtk.io/) - A distributed machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multisense) Word Embedding.
+* [Distributed Machine learning Tool Kit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/DMTK)](http://www.dmtk.io/) - A distributed machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multisense) Word Embedding.
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications.
 * [DSSTNE](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
 * [DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 * [igraph](http://igraph.org/) - General purpose graph library.
 * [Intel(R) DAAL](https://github.com/intel/daal) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
-* [LightGBM](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+* [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * [libfm](https://github.com/srendle/libfm) - A generic approach that allows to mimic most factorization models by feature engineering.
 * [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
 * [mlpack](https://www.mlpack.org/) - A scalable C++ machine learning library.
@@ -205,8 +205,8 @@ Further resources:
 * [sofia-ml](https://code.google.com/archive/p/sofia-ml) - Suite of fast incremental algorithms.
 * [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling.
 * [Timbl](https://languagemachines.github.io/timbl/) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
-* [Vowpal Wabbit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/VW)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/VowpalWabbit/vowpal_wabbit) - A fast out-of-core learning system.
-* [Warp-CTC](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CTC), on both CPU and GPU.
+* [Vowpal Wabbit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/VW)](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast out-of-core learning system.
+* [Warp-https://github.com/josephmisiti/awesome-machine-learning/blob/master/CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CTC), on both CPU and GPU.
 * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) - A fast SVM library on GPUs and CPUs.
@@ -220,10 +220,10 @@ Further resources:
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
 
-* [BLLIP Parser](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (https://github.com/josephmisiti/awesome-machine-learning/blob/master/also known as the Charniak-Johnson parser).
+* [BLLIP Parser](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (https://github.com/josephmisiti/awesome-machine-learning/blob/master/also known as the Charniak-Johnson parser).
 * [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
-* [CRF++](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks. **[Deprecated]**
-* [CRFsuite](https://github.com/josephmisiti/awesome-machine-learning/blob/master/http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFs) for labeling sequential data. **[Deprecated]**
+* [CRF++](https://taku910.github.io/crfpp/) - Open source implementation of Conditional Random Fields (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks. **[Deprecated]**
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFsuite](http://www.chokkan.org/software/crfsuite/) - https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFsuite is an implementation of Conditional Random Fields (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CRFs) for labeling sequential data. **[Deprecated]**
 * [frog](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 * [libfolia](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
 * [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
@@ -239,7 +239,7 @@ Further resources:
 
 <a name="cpp-gestures"></a>
 #### Gesture Detection
-* [grt](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+* [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 <a name="common-lisp"></a>
 ## Common Lisp
@@ -247,10 +247,10 @@ Further resources:
 <a name="common-lisp-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [mgl](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/melisgl/mgl/) - Neural networks (https://github.com/josephmisiti/awesome-machine-learning/blob/master/boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
+* [mgl](https://github.com/melisgl/mgl/) - Neural networks (https://github.com/josephmisiti/awesome-machine-learning/blob/master/boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
 * [mgl-gpr](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **[Deprecated]**
 * [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **[Deprecated]**
-* [cl-online-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/masatoi/cl-online-learning) - Online learning algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Perceptron, AROW, SCW, Logistic Regression).
+* [cl-online-learning](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Perceptron, AROW, SCW, Logistic Regression).
 * [cl-random-forest](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp.
 
 <a name="clojure"></a>
@@ -259,7 +259,7 @@ Further resources:
 <a name="clojure-nlp"></a>
 #### Natural Language Processing
 
-* [Clojure-openNLP](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (https://github.com/josephmisiti/awesome-machine-learning/blob/master/opennlp).
+* [Clojure-openNLP](https://github.com/dakrone/clojure-https://github.com/josephmisiti/awesome-machine-learning/blob/master/opennlp) - Natural Language Processing in Clojure (https://github.com/josephmisiti/awesome-machine-learning/blob/master/opennlp).
 * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript.
 
 <a name="clojure-general-purpose"></a>
@@ -270,7 +270,7 @@ Further resources:
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **[Deprecated]**
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **[Deprecated]**
 * [DL4CLJ](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
-* [Encog](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/jimpil/enclog) - Clojure wrapper for Encog (https://github.com/josephmisiti/awesome-machine-learning/blob/master/v3) (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Machine-Learning framework that specializes in neural-nets). **[Deprecated]**
+* [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (https://github.com/josephmisiti/awesome-machine-learning/blob/master/v3) (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Machine-Learning framework that specializes in neural-nets). **[Deprecated]**
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **[Deprecated]**
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **[Deprecated]**
 * [clortex](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm. **[Deprecated]**
@@ -292,7 +292,7 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
-* [crystal-fann](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/NeuraLegion/crystal-fann) - FANN (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Fast Artificial Neural Network) binding.
+* [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Fast Artificial Neural Network) binding.
 
 <a name="elixir"></a>
 ## Elixir
@@ -306,7 +306,7 @@ Further resources:
 <a name="elixir-nlp"></a>
 #### Natural Language Processing
 
-* [Stemmer](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/fredwu/stemmer) - An English (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Porter2) stemming implementation in Elixir.
+* [Stemmer](https://github.com/fredwu/stemmer) - An English (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Porter2) stemming implementation in Elixir.
 
 <a name="erlang"></a>
 ## Erlang
@@ -344,7 +344,7 @@ Further resources:
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in Go.
 * [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **[Deprecated]**
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model.
-* [neat](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NEAT). **[Deprecated]**
+* [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NEAT). **[Deprecated]**
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 
 <a name="go-data-analysis"></a>
@@ -383,14 +383,14 @@ Further resources:
 
 <a name="java-nlp"></a>
 #### Natural Language Processing
-* [Cortical.io](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://www.cortical.io/) - Retina: an API performing complex NLP operations (https://github.com/josephmisiti/awesome-machine-learning/blob/master/disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
-* [IRIS](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/cortical-io/Iris) - [Cortical.io's](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cortical.io) FREE NLP, Retina API Analysis Tool (https://github.com/josephmisiti/awesome-machine-learning/blob/master/written in JavaFX!) - [See the Tutorial Video](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://www.youtube.com/watch?v=CsF4pd7fGF0).
+* [Cortical.io](https://www.cortical.io/) - Retina: an API performing complex NLP operations (https://github.com/josephmisiti/awesome-machine-learning/blob/master/disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
+* [IRIS](https://github.com/cortical-io/Iris) - [Cortical.io's](https://cortical.io) FREE NLP, Retina API Analysis Tool (https://github.com/josephmisiti/awesome-machine-learning/blob/master/written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0).
 * [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences.
-* [Stanford POS Tagger](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (https://github.com/josephmisiti/awesome-machine-learning/blob/master/POS Tagger).
+* [Stanford https://github.com/josephmisiti/awesome-machine-learning/blob/master/POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (https://github.com/josephmisiti/awesome-machine-learning/blob/master/POS Tagger).
 * [Stanford Name Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
 * [Stanford Word Segmenter](https://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks.
-* [Tregex, Tsurgeon and Semgrex](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (https://github.com/josephmisiti/awesome-machine-learning/blob/master/the name is short for "tree regular expressions").
+* [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (https://github.com/josephmisiti/awesome-machine-learning/blob/master/the name is short for "tree regular expressions").
 * [Stanford Phrasal: A Phrase-Based Translation System](https://nlp.stanford.edu/phrasal/)
 * [Stanford English Tokenizer](https://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
 * [Stanford Tokens Regex](https://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words".
@@ -401,10 +401,10 @@ Further resources:
 * [MALLET](http://mallet.cs.umass.edu/) - A Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 * [OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text.
 * [LingPipe](http://alias-i.com/lingpipe/index.html) - A tool kit for processing text using computational linguistics.
-* [ClearTK](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) components in Java and is built on top of Apache UIMA. **[Deprecated]**
-* [Apache cTAKES](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (https://github.com/josephmisiti/awesome-machine-learning/blob/master/cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
+* [ClearTK](https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) components in Java and is built on top of Apache UIMA. **[Deprecated]**
+* [Apache https://github.com/josephmisiti/awesome-machine-learning/blob/master/cTAKES](https://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (https://github.com/josephmisiti/awesome-machine-learning/blob/master/cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
 * [NLP4J](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **[Deprecated]**
-* [CogcompNLP](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
+* [Cogcomphttps://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP-friendly data structures and a number of https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP-related utilities that support writing https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
 
 <a name="java-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -412,14 +412,14 @@ Further resources:
 * [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
 * [AMIDST Toolbox](http://www.amidsttoolbox.com/) - A Java Toolbox for Scalable Probabilistic Machine Learning.
 * [Datumbox](https://github.com/datumbox/datumbox-framework) - Machine Learning framework for rapid development of Machine Learning and Statistical applications.
-* [ELKI](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://elki-project.github.io/) - Java toolkit for data mining. (https://github.com/josephmisiti/awesome-machine-learning/blob/master/unsupervised: clustering, outlier detection etc.)
+* [ELKI](https://elki-project.github.io/) - Java toolkit for data mining. (https://github.com/josephmisiti/awesome-machine-learning/blob/master/unsupervised: clustering, outlier detection etc.)
 * [Encog](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Distributed machine learning library in Flink.
 * [H2O](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 * [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
 * [liblinear-java](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning.
-* [Meka](https://github.com/josephmisiti/awesome-machine-learning/blob/master/http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/extension to Weka).
+* [Meka](http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/extension to Weka).
 * [MLlib in Apache Spark](https://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 * [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
@@ -430,7 +430,7 @@ Further resources:
 * [RapidMiner](https://rapidminer.com) - RapidMiner integration into Java code.
 * [Stanford Classifier](https://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [SmileMiner](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
-* [SystemML](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/apache/systemml) - flexible, scalable machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ML) language.
+* [Systemhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ML](https://github.com/apache/systemml) - flexible, scalable machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ML) language.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 * [LBJava](https://github.com/CogComp/lbjava) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
 
@@ -508,7 +508,7 @@ Further resources:
 * [DN2A](https://github.com/antoniodeluca/dn2a.js) - Digital Neural Networks Architecture. **[Deprecated]**
 * [figue](https://code.google.com/archive/p/figue) - K-means, fuzzy c-means and agglomerative clustering.
 * [Gaussian Mixture Model](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model.
-* [Node-fann](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/rlidwka/node-fann) - FANN (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Fast Artificial Neural Network Library) bindings for Node.js **[Deprecated]**
+* [Node-fann](https://github.com/rlidwka/node-fann) - FANN (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Fast Artificial Neural Network Library) bindings for Node.js **[Deprecated]**
 * [Keras.js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support provided by WebGL 2.
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser. **[Deprecated]**
 * [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
@@ -529,7 +529,7 @@ Further resources:
 * [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes.
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [TensorFlow.js](https://js.tensorflow.org/) - A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
-* [JSMLT](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (https://github.com/josephmisiti/awesome-machine-learning/blob/master/see [visualml.io](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://visualml.io)).
+* [JSMLT](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (https://github.com/josephmisiti/awesome-machine-learning/blob/master/see [visualml.io](https://visualml.io)).
 * [xgboost-node](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 * [WebDNN](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network Javascript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.  
@@ -539,7 +539,7 @@ Further resources:
 
 * [stdlib](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript. **[Deprecated]**
-* [simple-statistics](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/including IE) as well as in Node.js.
+* [simple-statistics](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/including IE) as well as in Node.js.
 * [regression-js](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 * [Lyric](https://github.com/flurry/Lyric) - Linear Regression library. **[Deprecated]**
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
@@ -560,16 +560,16 @@ Further resources:
 * [MLBase](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
 * [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
 * [DA](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis.
-* [Regression](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. linear regression and logistic regression). **[Deprecated]**
+* [Regression](https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. linear regression and logistic regression). **[Deprecated]**
 * [Local Regression](https://github.com/JuliaStats/Loess.jl) - Local regression, so smooooth!
 * [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia. **[Deprecated]**
-* [Mixed Models](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/statistical) mixed-effects models.
+* [Mixed Models](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/statistical) mixed-effects models.
 * [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia. **[Deprecated]**
 * [Distances](https://github.com/JuliaStats/Distances.jl) - Julia module for Distance evaluation.
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia.
 * [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia. **[Deprecated]**
-* [Mamba](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (https://github.com/josephmisiti/awesome-machine-learning/blob/master/MCMC) for Bayesian analysis in Julia.
+* [Mamba](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (https://github.com/josephmisiti/awesome-machine-learning/blob/master/MCMC) for Bayesian analysis in Julia.
 * [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
 * [Gaussian Processes](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl) **[Deprecated]**
@@ -618,7 +618,7 @@ Further resources:
 <a name="julia-misc"></a>
 #### Misc Stuff / Presentations
 
-* [DSP](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/filtering, periodograms, spectrograms, window functions).
+* [DSP](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/filtering, periodograms, spectrograms, window functions).
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
 * [Images](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
@@ -643,13 +643,13 @@ Further resources:
   * [dpnn](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
   * [dp](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **[Deprecated]**
   * [optim](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
-  * [unsup](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (https://github.com/josephmisiti/awesome-machine-learning/blob/master/LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/k-means, PCA). **[Deprecated]**
+  * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (https://github.com/josephmisiti/awesome-machine-learning/blob/master/LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/k-means, PCA). **[Deprecated]**
   * [manifold](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
   * [svm](https://github.com/koraykv/torch-svm) - Torch-SVM library. **[Deprecated]**
   * [lbfgs](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs. **[Deprecated]**
   * [vowpalwabbit](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch. **[Deprecated]**
   * [OpenGM](https://github.com/clementfarabet/lua---opengm) - OpenGM is a C++ library for graphical modeling, and inference. The Lua bindings provide a simple way of describing graphs, from Lua, and then optimizing them with OpenGM. **[Deprecated]**
-  * [spaghetti](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (https://github.com/josephmisiti/awesome-machine-learning/blob/master/sparse linear) module for torch7 by @MichaelMathieu **[Deprecated]**
+  * [spaghetti](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (https://github.com/josephmisiti/awesome-machine-learning/blob/master/sparse linear) module for torch7 by @MichaelMathieu **[Deprecated]**
   * [LuaSHKit](https://github.com/ocallaco/LuaSHkit) - A lua wrapper around the Locality sensitive hashing library SHKit **[Deprecated]**
   * [kernel smoothing](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers. **[Deprecated]**
   * [cutorch](https://github.com/torch/cutorch) - Torch CUDA Implementation.
@@ -661,7 +661,7 @@ Further resources:
   * [sfm](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package. **[Deprecated]**
   * [fex](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. **[Deprecated]**
   * [OverFeat](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **[Deprecated]**
-  * [wav2letter](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ASR) system from Facebook AI Research.
+  * [wav2letter](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ASR) system from Facebook AI Research.
 * [Numeric Lua](http://numlua.luaforge.net/)
 * [Lunatic Python](https://labix.org/lunatic-python)
 * [SciLua](http://scilua.org/)
@@ -683,7 +683,7 @@ Further resources:
   * kinect demo
   * filter-bank visualization
   * saliency-networks
-* [Training a Convnet for the Galaxy-Zoo Kaggle challenge(https://github.com/josephmisiti/awesome-machine-learning/blob/master/CUDA demo)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/soumith/galaxyzoo)
+* [Training a Convnet for the Galaxy-Zoo Kaggle challenge(https://github.com/josephmisiti/awesome-machine-learning/blob/master/CUDA demo)](https://github.com/soumith/galaxyzoo)
 * [Music Tagging](https://github.com/mbhenaff/MusicTagging) - Music Tagging scripts for torch7.
 * [torch-datasets](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
   * BSR 500
@@ -730,7 +730,7 @@ on MNIST digits[DEEP LEARNING].
 * [Pattern Recognition and Machine Learning](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 * [Optunity](https://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly with MATLAB.
 * [MXNet](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
-* [Machine Learning in MatLab/Octave](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+* [Machine Learning in MatLab/Octave](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 
 <a name="matlab-data-analysis"></a>
@@ -760,7 +760,7 @@ on MNIST digits[DEEP LEARNING].
 
 * [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications.
 * [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/) - Support Vector Machines, Decision Trees, Naive Bayesian models, K-means, Gaussian Mixture models and general algorithms such as Ransac, Cross-validation and Grid-Search for machine-learning applications. This package is part of the Accord.NET Framework.
-* [DiffSharp](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://diffsharp.github.io/DiffSharp/) - An automatic differentiation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/AD) library providing exact and efficient derivatives (https://github.com/josephmisiti/awesome-machine-learning/blob/master/gradients, Hessians, Jacobians, directional derivatives, and matrix-free Hessian- and Jacobian-vector products) for machine learning and optimization applications. Operations can be nested to any level, meaning that you can compute exact higher-order derivatives and differentiate functions that are internally making use of differentiation, for applications such as hyperparameter optimization.
+* [DiffSharp](https://diffsharp.github.io/DiffSharp/) - An automatic differentiation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/AD) library providing exact and efficient derivatives (https://github.com/josephmisiti/awesome-machine-learning/blob/master/gradients, Hessians, Jacobians, directional derivatives, and matrix-free Hessian- and Jacobian-vector products) for machine learning and optimization applications. Operations can be nested to any level, meaning that you can compute exact higher-order derivatives and differentiate functions that are internally making use of differentiation, for applications such as hyperparameter optimization.
 * [Encog](https://www.nuget.org/packages/encog-dotnet-core/) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 * [Infer.NET](https://dotnet.github.io/infer/) - Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through to customised solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics, epidemiology, vision, and many others.
@@ -773,7 +773,7 @@ on MNIST digits[DEEP LEARNING].
 
 * [numl](https://www.nuget.org/packages/numl/) - numl is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering.
 * [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - Numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .Net 4.0, .Net 3.5 and Mono on Windows, Linux and Mac; Silverlight 5, WindowsPhone/SL 8, WindowsPhone 8.1 and Windows 8 with PCL Portable Profiles 47 and 344; Android/iOS with Xamarin.
-* [Sho](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://www.microsoft.com/en-us/research/project/sho-the-net-playground-for-data/) - Sho is an interactive environment for data analysis and scientific computing that lets you seamlessly connect scripts (https://github.com/josephmisiti/awesome-machine-learning/blob/master/in IronPython) with compiled code (https://github.com/josephmisiti/awesome-machine-learning/blob/master/in .NET) to enable fast and flexible prototyping. The environment includes powerful and efficient libraries for linear algebra as well as data visualization that can be used from any .NET language, as well as a feature-rich interactive shell for rapid development.
+* [Sho](https://www.microsoft.com/en-us/research/project/sho-the-net-playground-for-data/) - Sho is an interactive environment for data analysis and scientific computing that lets you seamlessly connect scripts (https://github.com/josephmisiti/awesome-machine-learning/blob/master/in IronPython) with compiled code (https://github.com/josephmisiti/awesome-machine-learning/blob/master/in .NET) to enable fast and flexible prototyping. The environment includes powerful and efficient libraries for linear algebra as well as data visualization that can be used from any .NET language, as well as a feature-rich interactive shell for rapid development.
 
 <a name="objectivec"></a>
 ## Objective C
@@ -781,14 +781,14 @@ on MNIST digits[DEEP LEARNING].
 <a name="objectivec-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [YCML](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (https://github.com/josephmisiti/awesome-machine-learning/blob/master/OS X / iOS).
+* [YCML](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (https://github.com/josephmisiti/awesome-machine-learning/blob/master/OS X / iOS).
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural network. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **[Deprecated]**
 * [MAChineLearning](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
-* [BPN-NeuralNetwork](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers neural network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ Input Layer, Hidden Layer and Output Layer ) and it named Back Propagation Neural Network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **[Deprecated]**
-* [Multi-Perceptron-NeuralNetwork](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - it implemented multi-perceptrons neural network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ニューラルネットワーク) based on Back Propagation Neural Network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN) and designed unlimited-hidden-layers.
-* [KRHebbian-Algorithm](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (https://github.com/josephmisiti/awesome-machine-learning/blob/master/adjust the weights) in neural network of Machine Learning. **[Deprecated]**
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN-NeuralNetwork](https://github.com/Kalvar/ios-https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN-NeuralNetwork) - It implemented 3 layers neural network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ Input Layer, Hidden Layer and Output Layer ) and it named Back Propagation Neural Network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **[Deprecated]**
+* [Multi-Perceptron-NeuralNetwork](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - it implemented multi-perceptrons neural network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ニューラルネットワーク) based on Back Propagation Neural Network (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BPN) and designed unlimited-hidden-layers.
+* [KRHebbian-Algorithm](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (https://github.com/josephmisiti/awesome-machine-learning/blob/master/adjust the weights) in neural network of Machine Learning. **[Deprecated]**
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression. **[Deprecated]**
-* [KRFuzzyCMeans-Algorithm](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (https://github.com/josephmisiti/awesome-machine-learning/blob/master/FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression. **[Deprecated]**
+* [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (https://github.com/josephmisiti/awesome-machine-learning/blob/master/FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression. **[Deprecated]**
 
 <a name="ocaml"></a>
 ## OCaml
@@ -852,7 +852,7 @@ be
 
 * [PHP-ML](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
-* [Rubix ML](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/RubixML) - A high-level machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ML) library that lets you build programs that learn from data using the PHP language.
+* [Rubix https://github.com/josephmisiti/awesome-machine-learning/blob/master/ML](https://github.com/Rubixhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ML) - A high-level machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ML) library that lets you build programs that learn from data using the PHP language.
 * [19 Questions](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 <a name="python"></a>
@@ -870,7 +870,7 @@ be
 * [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 * [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
 * [albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
-* [pytessarct](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (https://github.com/josephmisiti/awesome-machine-learning/blob/master/OCR) tool for python. That is, it will recognize and "read" the text embedded in images.Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/tesseract-ocr/tesseract)>.
+* [pytessarct](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (https://github.com/josephmisiti/awesome-machine-learning/blob/master/OCR) tool for python. That is, it will recognize and "read" the text embedded in images.Python-tesseract is a wrapper for [Google's Tesseract-https://github.com/josephmisiti/awesome-machine-learning/blob/master/OCR Engine](https://github.com/tesseract-ocr/tesseract)>.
 * [imutils](https://github.com/jrosebr1/imutils) - A library containg Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 * [PyTorchCV](https://github.com/donnyyou/PyTorchCV) - A PyTorch-Based Framework for Deep Learning in Computer Vision.
 
@@ -881,7 +881,7 @@ be
 * [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 * [Quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
-* [TextBlob](https://github.com/josephmisiti/awesome-machine-learning/blob/master/http://textblob.readthedocs.io/en/dev/) - Providing a consistent API for diving into common natural language processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
+* [TextBlob](http://textblob.readthedocs.io/en/dev/) - Providing a consistent API for diving into common natural language processing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
 * [YAlign](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora. **[Deprecated]**
 * [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
@@ -890,11 +890,11 @@ be
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 * [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit. **[Deprecated]**
-* [Rosetta](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. Vowpal Wabbit)
-* [BLLIP Parser](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://pypi.org/project/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (https://github.com/josephmisiti/awesome-machine-learning/blob/master/also known as the Charniak-Johnson parser). **[Deprecated]**
+* [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. Vowpal Wabbit)
+* [BLLIP Parser](https://pypi.org/project/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (https://github.com/josephmisiti/awesome-machine-learning/blob/master/also known as the Charniak-Johnson parser). **[Deprecated]**
 * [PyNLPl](https://github.com/proycon/pynlpl) - Python Natural Language Processing Library. General purpose NLP library for Python. Also contains some specific modules for parsing common NLP formats, most notably for [FoLiA](https://proycon.github.io/folia/), but also ARPA language models, Moses phrasetables, GIZA++ alignments.
-* [python-ucto](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/proycon/python-ucto) - Python binding to ucto (https://github.com/josephmisiti/awesome-machine-learning/blob/master/a unicode-aware rule-based tokenizer for various languages).
-* [python-frog](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (https://github.com/josephmisiti/awesome-machine-learning/blob/master/pos tagging, lemmatisation, dependency parsing, NER)
+* [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (https://github.com/josephmisiti/awesome-machine-learning/blob/master/a unicode-aware rule-based tokenizer for various languages).
+* [python-frog](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (https://github.com/josephmisiti/awesome-machine-learning/blob/master/pos tagging, lemmatisation, dependency parsing, NER)
 * [python-zpar](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constiuency parser, and dependency parser for English.
 * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 * [spaCy](https://github.com/explosion/spaCy) - Industrial strength NLP with Python and Cython.
@@ -907,8 +907,8 @@ be
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) **[Deprecated]**
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit.
 * [rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data.
-* [yase](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/PPACI/yase) - Transcode sentence (https://github.com/josephmisiti/awesome-machine-learning/blob/master/or other sequence) to list of word vector .
-* [Polyglot](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/aboSamoor/polyglot) - Multilingual text (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) processing toolkit.
+* [yase](https://github.com/PPACI/yase) - Transcode sentence (https://github.com/josephmisiti/awesome-machine-learning/blob/master/or other sequence) to list of word vector .
+* [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (https://github.com/josephmisiti/awesome-machine-learning/blob/master/NLP) processing toolkit.
 * [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
 * [Dedupe](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
@@ -919,10 +919,10 @@ be
 * [PyOD](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 * [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -> Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.
-* [CNTK](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://docs.microsoft.com/cognitive-toolkit/).
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK](https://github.com/Microsoft/https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK) - Microsoft Cognitive Toolkit (https://github.com/josephmisiti/awesome-machine-learning/blob/master/CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning. 
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
-* [XGBoost](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
+* [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
 * [Apache SINGA](https://singa.apache.org) - An Apache Incubating project for developing an open source machine learning library.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
 * [Featureforge](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
@@ -932,7 +932,7 @@ be
 * [metric-learn](https://github.com/metric-learn/metric-learn) - A Python module for metric learning.
 * [SimpleAI](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 * [astroML](https://www.astroml.org/) - Machine Learning and Data Mining for Astronomy.
-* [graphlab-create](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://turi.com/products/create/docs/) - A library with various machine learning models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
+* [graphlab-create](https://turi.com/products/create/docs/) - A library with various machine learning models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
 * [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
@@ -950,18 +950,18 @@ be
 * [Crab](https://github.com/muricoca/crab) - A flexible, fast recommender engine. **[Deprecated]**
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
-* [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (https://github.com/josephmisiti/awesome-machine-learning/blob/master/pix2pix) translation from the paper by [isola et al](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://arxiv.org/pdf/1611.07004.pdf).[DEEP LEARNING]
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/williamFalcon/https://github.com/josephmisiti/awesome-machine-learning/blob/master/pix2pix-keras) - Implementation of image to image (https://github.com/josephmisiti/awesome-machine-learning/blob/master/pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).[DEEP LEARNING]
 * [Restricted Boltzmann Machines](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox. **[Deprecated]**
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree **[Deprecated]**
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
-* [neuropredict](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (https://github.com/josephmisiti/awesome-machine-learning/blob/master/no coding needed) and comprehensive machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing the much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
+* [neuropredict](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (https://github.com/josephmisiti/awesome-machine-learning/blob/master/no coding needed) and comprehensive machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing the much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 * [imbalanced-learn](https://imbalanced-learn.org/en/stable/index.html) - Python module to perform under sampling and over sampling with various techniques.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [breze](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks. **[Deprecated]**
-* [pyhsmm](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/HMMs) and explicit-duration Hidden semi-Markov Models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+* [pyhsmm](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/HMMs) and explicit-duration Hidden semi-Markov Models (https://github.com/josephmisiti/awesome-machine-learning/blob/master/HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 * [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 * [SKLL](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 * [neurolab](https://github.com/zueve/neurolab)
@@ -980,21 +980,21 @@ be
 * [Annoy](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
 * [TPOT](https://github.com/EpistasisLab/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 * [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
-* [DIGITS](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (https://github.com/josephmisiti/awesome-machine-learning/blob/master/DIGITS) is a web application for training deep learning models.
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/DIGITS](https://github.com/NVIDIA/https://github.com/josephmisiti/awesome-machine-learning/blob/master/DIGITS) - The Deep Learning GPU Training System (https://github.com/josephmisiti/awesome-machine-learning/blob/master/DIGITS) is a web application for training deep learning models.
 * [Orange](https://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification. **[Deprecated]**
 * [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 * [REP](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience. **[Deprecated]**
-* [rgf_python](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/RGF-team/rgf) - Python bindings for Regularized Greedy Forest (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
+* [rgf_python](https://github.com/RGF-team/rgf) - Python bindings for Regularized Greedy Forest (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
 * [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 * [fuku-ml](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 * [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
-* [xRBM](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RBM) and its conditional variants in Tensorflow.
-* [CatBoost](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/even multi-GPU) computation.
+* [xhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/RBM](https://github.com/omimo/xhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/RBM) - A library for Restricted Boltzmann Machine (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RBM) and its conditional variants in Tensorflow.
+* [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, well documented and supports CPU and GPU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/even multi-GPU) computation.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technic as handy library in Python.
 * [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python, built on top of scikit-learn.
 * [Cogitare](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python. 
@@ -1013,12 +1013,12 @@ be
 
 * [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 * [NumPy](https://www.numpy.org/) - A fundamental package for scientific computing with Python.
-* [Numba](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://numba.pydata.org/) - Python JIT (https://github.com/josephmisiti/awesome-machine-learning/blob/master/just in time) compiler to LLVM aimed at scientific Python by the developers of Cython and NumPy.
+* [Numba](https://numba.pydata.org/) - Python JIT (https://github.com/josephmisiti/awesome-machine-learning/blob/master/just in time) compiler to LLVM aimed at scientific Python by the developers of Cython and NumPy.
 * [Mars](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which often regarded as a parallel and distributed version of NumPy. 
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [igraph](https://igraph.org/python/) - binding to igraph library - General purpose graph library.
 * [Pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
-* [Open Mining](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/mining/mining) - Business Intelligence (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BI) in Python (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Pandas web interface) **[Deprecated]**
+* [Open Mining](https://github.com/mining/mining) - Business Intelligence (https://github.com/josephmisiti/awesome-machine-learning/blob/master/BI) in Python (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Pandas web interface) **[Deprecated]**
 * [PyMC](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 * [PyDy](https://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion based around NumPy, SciPy, IPython, and matplotlib.
@@ -1044,27 +1044,27 @@ be
 * [vispy](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 * [cerebro2](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC. **[Deprecated]**
 * [NuPIC Studio](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool! **[Deprecated]**
-* [SparklingPandas](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (https://github.com/josephmisiti/awesome-machine-learning/blob/master/POPS).
+* [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (https://github.com/josephmisiti/awesome-machine-learning/blob/master/POPS).
 * [Seaborn](https://seaborn.pydata.org/) - A python visualization library based on matplotlib.
-* [bqplot](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (https://github.com/josephmisiti/awesome-machine-learning/blob/master/IPython).
+* [bqplot](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (https://github.com/josephmisiti/awesome-machine-learning/blob/master/IPython).
 * [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 * [Superset](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
 * [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
-* [SOMPY](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Uses neural networks for data analysis).
+* [SOMPY](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Uses neural networks for data analysis).
 * [somoclu](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 * [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 * [visualize_ML](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis. **[Deprecated]**
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
 * [Bowtie](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
-* [lime](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/marcotcr/lime) - Lime is about explaining what machine learning classifiers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/or models) are doing. It is able to explain any black box classifier, with two or more classes.
+* [lime](https://github.com/marcotcr/lime) - Lime is about explaining what machine learning classifiers (https://github.com/josephmisiti/awesome-machine-learning/blob/master/or models) are doing. It is able to explain any black box classifier, with two or more classes.
 * [PyCM](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 * [Dash](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
-* [Lambdo](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (https://github.com/josephmisiti/awesome-machine-learning/blob/master/i) feature engineering and machine learning (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ii) model training and prediction (https://github.com/josephmisiti/awesome-machine-learning/blob/master/iii) table population and column evaluation via user-defined (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Python) functions.
+* [Lambdo](https://ghttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ithub.com/asavhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/inov/lambdo) - A workflow enghttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ine for solvhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing machhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ine learnhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing problems by combhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/inhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing https://github.com/josephmisiti/awesome-machine-learning/blob/master/in one analyshttps://github.com/josephmisiti/awesome-machine-learning/blob/master/is phttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ipelhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ine (https://github.com/josephmisiti/awesome-machine-learning/blob/master/i) feature enghttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ineerhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing and machhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ine learnhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ihttps://github.com/josephmisiti/awesome-machine-learning/blob/master/i) model trahttps://github.com/josephmisiti/awesome-machine-learning/blob/master/inhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ing and predhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/icthttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ion (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ihttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ihttps://github.com/josephmisiti/awesome-machine-learning/blob/master/i) table populathttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ion and column evaluathttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ion vhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ia user-defhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ined (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Python) functhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/ions.
 
 <a name="python-misc"></a>
 #### Misc Scripts / iPython Notebooks / Codebases
-* [Map/Reduce implementations of common ML algorithms](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark. 
+* [Map/Reduce implementations of common ML algorithms](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark. 
 * [BioPy](https://github.com/jaredthecoder/BioPy) - Biologically-Inspired and Machine Learning Algorithms in Python. **[Deprecated]**
 * [SVM Explorer](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
@@ -1084,8 +1084,8 @@ be
 * [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn.
 * [sentiment-analyzer](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
 * [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
-* [group-lasso](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Sparse) Group Lasso model.
-* [jProcessing](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(https://github.com/josephmisiti/awesome-machine-learning/blob/master/ISO--8859-1 configured) in Python.
+* [group-lasso](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Sparse) Group Lasso model.
+* [jProcessing](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(https://github.com/josephmisiti/awesome-machine-learning/blob/master/ISO--8859-1 configured) in Python.
 * [mne-python-notebooks](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
 * [Neon Course](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon.
 * [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library.
@@ -1098,7 +1098,7 @@ be
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) - Examples demonstrating how to use Optunity in synergy with machine learning libraries.
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
-* [TDB](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/ericjang/tdb) - TensorDebugger (https://github.com/josephmisiti/awesome-machine-learning/blob/master/TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/TDB](https://github.com/ericjang/tdb) - TensorDebugger (https://github.com/josephmisiti/awesome-machine-learning/blob/master/TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 * [Suiron](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 * [Practical XGBoost in Python](https://parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python.
@@ -1109,7 +1109,7 @@ be
 <a name="python-neural-networks"></a>
 #### Neural Networks
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. **[Deprecated]**
-* [Neuron](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Linear Neural Unit), QNU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Quadratic Neural Unit), RBF (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Radial Basis Function), MLP (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multi Layer Perceptron), MLP-ELM (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **[Deprecated]**
+* [Neuron](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Linear Neural Unit), QNU (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Quadratic Neural Unit), RBF (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Radial Basis Function), MLP (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multi Layer Perceptron), MLP-ELM (https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/josephmisiti/awesome-machine-learning/blob/master/Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **[Deprecated]**
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 <a name="python-kaggle"></a>
@@ -1144,7 +1144,7 @@ be
 * [DeepMind Lab](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 * [Gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists. 
-* [ViZDoom](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (https://github.com/josephmisiti/awesome-machine-learning/blob/master/the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+* [ViZDoom](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (https://github.com/josephmisiti/awesome-machine-learning/blob/master/the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 * [Roboschool](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
 * [Retro](https://github.com/openai/retro) - Retro Games in Gym
 * [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
@@ -1191,7 +1191,7 @@ be
 #### Misc
 
 * [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
-* [Listof](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (https://github.com/josephmisiti/awesome-machine-learning/blob/master/stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](https://github.com/josephmisiti/awesome-machine-learning/blob/master/http://kevincobain2000.github.io/listof/)
+* [Listof](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (https://github.com/josephmisiti/awesome-machine-learning/blob/master/stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 
 <a name="rust"></a>
@@ -1204,7 +1204,7 @@ be
 * [rusty-machine](https://github.com/AtheMathmo/rusty-machine) - a pure-rust machine learning library.
 * [leaf](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe. Available under the MIT license. [**[Deprecated]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
 * [RustNN](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library. **[Deprecated]**
-* [RusticSOM](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (https://github.com/josephmisiti/awesome-machine-learning/blob/master/SOM).
+* [Rustichttps://github.com/josephmisiti/awesome-machine-learning/blob/master/SOM](https://github.com/avinashshenoy97/Rustichttps://github.com/josephmisiti/awesome-machine-learning/blob/master/SOM) - A Rust library for Self Organising Maps (https://github.com/josephmisiti/awesome-machine-learning/blob/master/SOM).
 
 
 <a name="r"></a>
@@ -1227,7 +1227,7 @@ be
 * [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
 * [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **[Deprecated]**
 * [Cubist](https://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling.
-* [e1071](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e1071), TU Wien
+* [https://github.com/josephmisiti/awesome-machine-learning/blob/master/e1071](https://cran.r-project.org/web/packages/https://github.com/josephmisiti/awesome-machine-learning/blob/master/e1071/index.html) - https://github.com/josephmisiti/awesome-machine-learning/blob/master/e1071: Misc Functions of the Department of Statistics (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e1071), TU Wien
 * [earth](https://cran.r-project.org/web/packages/earth/index.html) - earth: Multivariate Adaptive Regression Spline Models
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html) - elasticnet: Elastic-Net for Sparse Estimation and Sparse PCA.
 * [ElemStatLearn](https://cran.r-project.org/web/packages/ElemStatLearn/index.html) - ElemStatLearn: Data sets, functions and examples from the book: "The Elements of Statistical Learning, Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
@@ -1265,25 +1265,25 @@ be
 * [pamr](https://cran.r-project.org/web/packages/pamr/index.html) - pamr: Pam: prediction analysis for microarrays. **[Deprecated]**
 * [party](https://cran.r-project.org/web/packages/party/index.html) - party: A Laboratory for Recursive Partytioning.
 * [partykit](https://cran.r-project.org/web/packages/partykit/index.html) - partykit: A Toolkit for Recursive Partytioning.
-* [penalized](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/penalized/index.html) - penalized: L1 (https://github.com/josephmisiti/awesome-machine-learning/blob/master/lasso and fused lasso) and L2 (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ridge) penalized estimation in GLMs and in the Cox model.
+* [penalized](https://cran.r-project.org/web/packages/penalized/index.html) - penalized: L1 (https://github.com/josephmisiti/awesome-machine-learning/blob/master/lasso and fused lasso) and L2 (https://github.com/josephmisiti/awesome-machine-learning/blob/master/ridge) penalized estimation in GLMs and in the Cox model.
 * [penalizedLDA](https://cran.r-project.org/web/packages/penalizedLDA/index.html) - penalizedLDA: Penalized classification using Fisher's linear discriminant. **[Deprecated]**
 * [penalizedSVM](https://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM: Feature Selection SVM using penalty functions.
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests.
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
-* [randomForestSRC](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RF-SRC).
+* [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RF-SRC).
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html) - rattle: Graphical user interface for data mining in R.
 * [rda](https://cran.r-project.org/web/packages/rda/index.html) - rda: Shrunken Centroids Regularized Discriminant Analysis.
-* [rdetools](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/rdetools/index.html) - rdetools: Relevant Dimension Estimation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RDE) in Feature Spaces. **[Deprecated]**
-* [REEMtree](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/REEMtree/index.html) - REEMtree: Regression Trees with Random Effects for Longitudinal (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Panel) Data. **[Deprecated]**
+* [rdetools](https://cran.r-project.org/web/packages/rdetools/index.html) - rdetools: Relevant Dimension Estimation (https://github.com/josephmisiti/awesome-machine-learning/blob/master/RDE) in Feature Spaces. **[Deprecated]**
+* [REEMtree](https://cran.r-project.org/web/packages/REEMtree/index.html) - REEMtree: Regression Trees with Random Effects for Longitudinal (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Panel) Data. **[Deprecated]**
 * [relaxo](https://cran.r-project.org/web/packages/relaxo/index.html) - relaxo: Relaxed Lasso. **[Deprecated]**
 * [rgenoud](https://cran.r-project.org/web/packages/rgenoud/index.html) - rgenoud: R version of GENetic Optimization Using Derivatives
-* [Rmalschains](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/Rmalschains/index.html) - Rmalschains: Continuous Optimization using Memetic Algorithms with Local Search Chains (https://github.com/josephmisiti/awesome-machine-learning/blob/master/MA-LS-Chains) in R.
-* [rminer](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/rminer/index.html) - rminer: Simpler use of data mining methods (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. NN and SVM) in classification and regression. **[Deprecated]**
+* [Rmalschains](https://cran.r-project.org/web/packages/Rmalschains/index.html) - Rmalschains: Continuous Optimization using Memetic Algorithms with Local Search Chains (https://github.com/josephmisiti/awesome-machine-learning/blob/master/MA-LS-Chains) in R.
+* [rminer](https://cran.r-project.org/web/packages/rminer/index.html) - rminer: Simpler use of data mining methods (https://github.com/josephmisiti/awesome-machine-learning/blob/master/e.g. NN and SVM) in classification and regression. **[Deprecated]**
 * [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html) - ROCR: Visualizing the performance of scoring classifiers. **[Deprecated]**
 * [RoughSets](https://cran.r-project.org/web/packages/RoughSets/index.html) - RoughSets: Data Analysis Using Rough Set and Fuzzy Rough Set Theories. **[Deprecated]**
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees.
 * [RPMM](https://cran.r-project.org/web/packages/RPMM/index.html) - RPMM: Recursively Partitioned Mixture Model.
-* [RSNNS](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://cran.r-project.org/web/packages/RSNNS/index.html) - RSNNS: Neural Networks in R using the Stuttgart Neural Network Simulator (https://github.com/josephmisiti/awesome-machine-learning/blob/master/SNNS).
+* [Rhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/SNNS](https://cran.r-project.org/web/packages/Rhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/SNNS/index.html) - Rhttps://github.com/josephmisiti/awesome-machine-learning/blob/master/SNNS: Neural Networks in R using the Stuttgart Neural Network Simulator (https://github.com/josephmisiti/awesome-machine-learning/blob/master/SNNS).
 * [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) - RWeka: R/Weka interface.
 * [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least Angle Regression.
 * [sda](https://cran.r-project.org/web/packages/sda/index.html) - sda: Shrinkage Discriminant Analysis and CAT Score Variable Selection. **[Deprecated]**
@@ -1292,11 +1292,11 @@ be
 * [tgp](https://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models. **[Deprecated]**
 * [tree](https://cran.r-project.org/web/packages/tree/index.html) - tree: Classification and regression trees.
 * [varSelRF](https://cran.r-project.org/web/packages/varSelRF/index.html) - varSelRF: Variable selection using random forests.
-* [XGBoost.R](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
+* [XGBoost.R](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Tree) Library.
 * [Optunity](https://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly to R.
 * [igraph](https://igraph.org/r/) - binding to igraph library - General purpose graph library.
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
-* [TDSP-Utilities](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/IDEAR) ; 2) Automated Modeling and Reporting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/AMR).
+* [TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/IDEAR) ; 2) Automated Modeling and Reporting (https://github.com/josephmisiti/awesome-machine-learning/blob/master/AMR).
 
 <a name="r-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -1427,7 +1427,7 @@ be
 
 <a name="tools-misc"></a>
 #### Misc
-* [Notebooks](https://github.com/josephmisiti/awesome-machine-learning/blob/master/https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+* [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (https://github.com/josephmisiti/awesome-machine-learning/blob/master/Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 <a name="credits"></a>

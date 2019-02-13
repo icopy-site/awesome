@@ -95,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
-- [Staticman](https://github.com/agarrharr/awesome-static-website-services/blob/master/https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (https://github.com/agarrharr/awesome-static-website-services/blob/master/e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
+- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (https://github.com/agarrharr/awesome-static-website-services/blob/master/e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
@@ -114,7 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
-- [99 Inbound](https://github.com/agarrharr/awesome-static-website-services/blob/master/https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (https://github.com/agarrharr/awesome-static-website-services/blob/master/e.g. MailChimp)
+- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (https://github.com/agarrharr/awesome-static-website-services/blob/master/e.g. MailChimp)
 
 #### Normal Forms
 
@@ -132,7 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Utterences](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 - [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 - [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
-- [Formester](https://github.com/agarrharr/awesome-static-website-services/blob/master/https://www.formester.com) - Forms and email marketing (https://github.com/agarrharr/awesome-static-website-services/blob/master/lead collection, email campaigns, and newsletters) with integrations.
+- [Formester](https://www.formester.com) - Forms and email marketing (https://github.com/agarrharr/awesome-static-website-services/blob/master/lead collection, email campaigns, and newsletters) with integrations.
 
 #### Provided by the Host
 
