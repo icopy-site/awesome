@@ -1,4 +1,4 @@
-# Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
@@ -234,7 +234,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
   * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles.
 
 ## Websites
@@ -272,5 +272,5 @@ Various resources, such as books, websites and articles.
 * [DataWorks Summit](https://dataworkssummit.com/)
 * [Spark Summit](https://databricks.com/sparkaisummit)
 
-# Other Awesome Lists
+## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome) list.

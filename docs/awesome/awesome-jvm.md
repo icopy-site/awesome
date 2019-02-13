@@ -1,4 +1,4 @@
-# Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome JVM low level, performance and non-framework related stuff.
 
@@ -334,7 +334,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
 * [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
-# Resources
+## Resources
 
 ## Documentation
 
@@ -457,7 +457,7 @@ Machine Specification Java SE 8 Edition.
 * [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
 
 
-# Contributing
+## Contributing
 
 Contributions are very welcome!
 

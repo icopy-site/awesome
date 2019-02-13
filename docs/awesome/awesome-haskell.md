@@ -369,7 +369,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
 * [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 
-# Resources
+## Resources
 
 ## Websites
 
@@ -439,6 +439,6 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Hoogle](https://www.haskell.org/hoogle/) - is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
 * [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

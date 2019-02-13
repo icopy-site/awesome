@@ -1,4 +1,4 @@
-# Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [resources](#resources).
 
@@ -6,7 +6,7 @@ A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [reso
 
 [Contributions](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md) are always welcome! 
 
-# Modules
+## Modules
 Lists all the modules available with the following `badges` : 
 
 | Badge                                                                                                                                                                                 | Meaning                                                                                                                                                                                                                      |  
@@ -220,10 +220,10 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[useragentcheck] ](http://www.playframework.com/modules/useragentcheck) [UserAgentCheck](https://github.com/orefalo/play-useragentcheck)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/useragentcheck) UserAgentCheck displays a banner to notify users when their browser is outdated. 
 * **[[play1-chart] ](http://sant0s.github.io/play1-chart/) [Play1-Chart](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images. 
 
-# Tools
+## Tools
 *You know a tool that every player should use? [Tell us!](https://github.com/PerfectCarl/awesome-play1/edit/master/README.md)*
 
-# Resources
+## Resources
 
 - [Mavenized modules](https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules) and [how to use them](https://code.google.com/p/maven-play-plugin/wiki/Usage)
 - [Using Play's controller](http://www.javabeat.net/using-controllers-in-play-framework/) with a nice roundup about caching, expiration and eTags

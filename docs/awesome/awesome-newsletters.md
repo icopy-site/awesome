@@ -1,4 +1,4 @@
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
+## Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -358,7 +358,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 
 
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 

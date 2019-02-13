@@ -1,4 +1,4 @@
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (https://github.com/h4cc/awesome-elixir/blob/master/`:+1:`) at the according issue or create a new one.
@@ -1667,7 +1667,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [yaml_elixir](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 * [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
 
 ## Books
@@ -1798,5 +1798,5 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
 * [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.

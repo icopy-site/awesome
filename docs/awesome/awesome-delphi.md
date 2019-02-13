@@ -3,7 +3,7 @@ This is an archived snapshot of [awesome-pascal](https://github.com/Fr0sT-Brutal
 It was left only to keep links alive. All development will happen in [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) list.
 ===========================================================================================================================================
 
-# Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 

@@ -1,4 +1,4 @@
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -807,14 +807,14 @@
 
 ----
 
-# RSS feeds
+## RSS feeds
 
 You can find an opml file to import rss feeds here: [engineering_blogs.opml](https://github.com/kilimchoi/engineering-blogs/blob/master/./engineering_blogs.opml)
 
-# Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/kilimchoi/engineering-blogs/blob/master/contributing.md) first.
 
-# License
+## License
 
 Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

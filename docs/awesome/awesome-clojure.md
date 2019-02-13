@@ -1,4 +1,4 @@
-# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (https://github.com/razum2um/awesome-clojure/blob/master/IDE)](https://github.com/razum2um/awesome-clojure/blob/master/http://lighttable.com/)

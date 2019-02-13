@@ -1,4 +1,4 @@
-# Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome speakers in the programming and design communities
 
@@ -15,7 +15,7 @@ Please add to the list and help make the community better connected and richer.
 - [North America](#north-america)
 - [South America](#south-america)
 
-# Africa
+## Africa
 
 ## Nigeria 🇳🇬
 
@@ -61,7 +61,7 @@ https://twitter.com/developerayo
 Topics: Android, Android Things, Firebase, IoT\
 https://twitter.com/riggaroo
 
-# Asia
+## Asia
 
 ## Pakistan 🇵🇰
 
@@ -205,7 +205,7 @@ https://twitter.com/hj_chen
 Topics: CSS, JavaScript\
 https://twitter.com/zellwk
 
-# Australia
+## Australia
 
 ## Australia 🇦🇺
 
@@ -235,7 +235,7 @@ https://twitter.com/markdalgleish
 Topics: JavaScript, Web Development, Progressive Web Apps\
 https://twitter.com/philnash
 
-# Europe
+## Europe
 
 ## Austria 🇦🇹
 
@@ -1424,7 +1424,7 @@ https://twitter.com/heydonworks
 Topics: Accessibility\
 https://twitter.com/ninjanails
 
-# North America
+## North America
 
 ## Canada 🇨🇦
 
@@ -1930,7 +1930,7 @@ https://twitter.com/DevWithTheHair
 Topics: Accessibility\
 https://twitter.com/ShellELittle
 
-# South America
+## South America
 
 ## Argentina 🇦🇷
 
@@ -2002,7 +2002,7 @@ https://twitter.com/JoaoVictor_AC
 Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
 https://twitter.com/sseraphini
 
-# License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -170,7 +170,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 
 
-# Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) first.
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)

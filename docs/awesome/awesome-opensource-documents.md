@@ -1,4 +1,4 @@
-# Awesome Open Source Documents
+## Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, and books which can be read, used, modified, translated, redistributed and even rewritten under their same license.
 

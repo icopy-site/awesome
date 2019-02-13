@@ -1,11 +1,11 @@
-# NOT BEING ACTIVELY MAINTAINED
+## NOT BEING ACTIVELY MAINTAINED
 Version with travis-ci support and auto deployment: https://github.com/ayr-ton/awesome-geek-podcasts
 --
-# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of podcasts we like to listen to.
 
-# Table of Contents
+## Table of Contents
 
 ## Podcasts by language
 

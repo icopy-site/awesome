@@ -1,4 +1,4 @@
-# Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 

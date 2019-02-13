@@ -1,4 +1,4 @@
-# Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
+## Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
 A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 - [Awesome Fortran](#awesome-fortran)
@@ -116,7 +116,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - docker image provided by @baekjoon
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.
 
 ## Fortran Websites
@@ -129,10 +129,10 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 * [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.

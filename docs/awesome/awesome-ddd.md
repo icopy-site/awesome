@@ -1,4 +1,4 @@
-# Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Domain-Driven Design (https://github.com/heynickc/awesome-ddd/blob/master/DDD), Command Query Responsibility Segregation (https://github.com/heynickc/awesome-ddd/blob/master/CQRS), Event Sourcing, and Event Storming resources.
 

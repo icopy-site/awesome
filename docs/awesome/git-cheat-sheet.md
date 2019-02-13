@@ -6,7 +6,7 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 </p>
 <hr>
 
-# Other Available Languages:
+## Other Available Languages:
 
 1. [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md)
 2. [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)

@@ -1,4 +1,4 @@
-# Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -506,7 +506,7 @@ We also recommend these lists.
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in:
 
@@ -516,6 +516,6 @@ Other amazingly awesome lists can be found in:
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
-# How to contribute?
+## How to contribute?
 
 Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)

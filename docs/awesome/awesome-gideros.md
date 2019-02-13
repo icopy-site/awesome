@@ -1,4 +1,4 @@
-# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
 	<a href="http://giderosmobile.com"><img width="200" src="https://raw.githubusercontent.com/stetso/awesome-gideros/master/gideros_logo.png" alt="Awesome Gideros"></a>

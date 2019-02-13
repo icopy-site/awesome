@@ -1,4 +1,4 @@
-# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://github.com/love2d-community/awesome-love2d/blob/master/https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/love2d-community/awesome-love2d/blob/master/https://github.com/sindresorhus/awesome)
+## ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://github.com/love2d-community/awesome-love2d/blob/master/https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/love2d-community/awesome-love2d/blob/master/https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
@@ -330,11 +330,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
-# Contributing
+## Contributing
 
 Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE

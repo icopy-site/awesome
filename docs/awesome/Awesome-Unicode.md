@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
-# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 
@@ -12,13 +12,13 @@
 
 <br><br>
 
-# Foreword
+## Foreword
 
 Unicode is Awesome! Prior to Unicode, international communication was grueling- everyone had defined their separate extended character set in the upperhalf of ASCII (https://github.com/jagracey/Awesome-Unicode/blob/master/called Code Pages) that would conflict- Just think, German speakers coordinating with Korean speakers over which 127 character Code Page to use. Thankfully the Unicode standard caught on and unified communication. Unicode 8.0 standardizes over 120,000 characters from over 129 scripts - some modern, some ancient, and some still undeciphered. Unicode handles left-to-right and right-to-left text, combining marks, and includes diverse cultural, political, religious characters and emojis. Unicode is awesomely human - and ultimately underappreciated.
 
 <br>
 
-# Contents
+## Contents
 
 - [Quick Unicode Background](#quick-unicode-background)
 	- [What Characters Does the Unicode Standard Include?](#what-characters-does-the-unicode-standard-include)
@@ -56,7 +56,7 @@ Unicode is Awesome! Prior to Unicode, international communication was grueling- 
 - [License](#license)
 
 
-# Quick Unicode Background
+## Quick Unicode Background
 
 ## What Characters Does the Unicode Standard Include?
 
@@ -226,7 +226,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 
 
 
-# Awesome Characters List
+## Awesome Characters List
 
 
 
@@ -353,7 +353,7 @@ The zero-width non-joiner (https://github.com/jagracey/Awesome-Unicode/blob/mast
 
 
 
-# Quirks and Troubleshooting
+## Quirks and Troubleshooting
 
 - **String length is typically determined by counting codepoints.** This means that surrogate pairs would count as two characters. Combining multiple diacritics may be stacked over the same character. `a + ̈  == ̈a   `, increasing length, while only producing a single character.
 
@@ -484,7 +484,7 @@ The zero-width non-joiner (https://github.com/jagracey/Awesome-Unicode/blob/mast
 
 
 
-# Awesome Packages & Libraries
+## Awesome Packages & Libraries
 - [PhantomScript](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
 - [ESReverser](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
 - [mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
@@ -492,7 +492,7 @@ The zero-width non-joiner (https://github.com/jagracey/Awesome-Unicode/blob/mast
 - [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 
-# Emojis
+## Emojis
 * [Unicode Consortium's Emoji Chart](http://www.unicode.org/emoji/charts/full-emoji-list.html)
 * [Emojipedia](http://emojipedia.org/) - Information about specific emoji, news blog.
 * [emojitracker](http://emojitracker.com/) - Realtime emoji use on Twitter.
@@ -549,7 +549,7 @@ Just follow the desired Emoji with one of the skin color modifiers `\u{1F466}\u{
 
 
 
-# Creatively Naming Variables and Methods
+## Creatively Naming Variables and Methods
 *Examples are written in JavaScript (https://github.com/jagracey/Awesome-Unicode/blob/master/ES6)*
 
 In general, characters designated the [ID_START](https://codepoints.net/search?IDS=1) property may be used at the beggining of a variable name. Characters designated with the [ID_CONTINUE](https://codepoints.net/search?IDC=1) property may be used after the first character of a variable.
@@ -713,13 +713,13 @@ And heres some basic results
 ```
 
 
-# Unicode Fonts
+## Unicode Fonts
 *A single TrueType / OpenType font format cannot cover all UTF-8 characters as there is a hard limit of 65535 glyphs in a font. Since there are over 1.1 million UTF-8 glphys, you will need to use a font-family to cover them all.*
 - https://en.wikipedia.org/wiki/Unicode_font#List_of_Unicode_fonts
 - http://www.unifont.org/fontguide/
 
 
-# More Reading
+## More Reading
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html) - By Joel Spolsky
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 * [The Unicode Consortium's Recommended Reading List](http://www.unicode.org/resources/readinglist.html)
@@ -728,7 +728,7 @@ And heres some basic results
 * [Creative usernames and Spotify account hijacking](https://labs.spotify.com/2013/06/18/creative-usernames/)
 
 
-# Exploring Deeper into Unicode Yourself
+## Exploring Deeper into Unicode Yourself
 - [Shapecatcher](http://shapecatcher.com/) - Draw the character you're looking for.
 - [Confusable Unicode Characters](http://unicode.org/cldr/utility/confusables.jsp?r=None)
 - [Unicode Character Database](http://www.unicode.org/ucd/)
@@ -742,7 +742,7 @@ And heres some basic results
 
 
 
-# Overview Map
+## Overview Map
 ## A map of the Basic Multilingual Plane
 **Each numbered box represents 256 code points.**
 <p align="center">
@@ -1022,7 +1022,7 @@ And heres some basic results
 
 
 
-# [Principles of the Unicode Standard](http://www.unicode.org/standard/principles.html)
+## [Principles of the Unicode Standard](http://www.unicode.org/standard/principles.html)
 
 
 The Unicode Standard set forth the following fundamental principles:
@@ -1042,7 +1042,7 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 
 
 
-# Unicode Versions
+## Unicode Versions
 
 * [Version 9.0.0](https://github.com/jagracey/Awesome-Unicode/blob/master/http://www.unicode.org/versions/Unicode9.0.0/) (https://github.com/jagracey/Awesome-Unicode/blob/master/Latest Version, August 2016 - adds exactly 7,500 characters)
 * [Version 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
@@ -1063,12 +1063,12 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 <br><br>
 
 
-# Contributing
+## Contributing
 
 See the *Awesome Unicode* [contribution guide](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) for details on how to contribute.
 
 
-# Code of Conduct
+## Code of Conduct
 
 See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 >In the interest of fostering an open and welcoming environment, we as
@@ -1078,7 +1078,7 @@ size, disability, ethnicity, gender identity and expression, level of experience
 nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 
-# License
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the

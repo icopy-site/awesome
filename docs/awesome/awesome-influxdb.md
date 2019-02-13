@@ -1,4 +1,4 @@
-# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and up.

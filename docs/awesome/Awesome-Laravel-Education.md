@@ -1,8 +1,8 @@
-# [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about the Laravel PHP Framework, to help you beginner, intermediate or advanced developer.
 
-# Translations
+## Translations
 
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
@@ -10,7 +10,7 @@ Please select the curated list below to begin your learning of the Laravel PHP F
 - [English](#user-content-english-version)
 - [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
-# How to contribute?
+## How to contribute?
 
 - Please make an individual pull request for each suggestion
 - New categories or improvements to the existing categorization are welcome
@@ -24,7 +24,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
 
-# English Version
+## English Version
 
 ## Index
 
@@ -346,7 +346,7 @@ These guys below contributed with content, translations and more. What are you w
 - [LaravelCollections.com](https://laravelcollections.com)
 - [LaravelLinks Telegram Channel](https://telegram.me/laravellinks)
 
-# License
+## License
 
 The MIT License (https://github.com/fukuball/Awesome-Laravel-Education/blob/master/MIT)
 

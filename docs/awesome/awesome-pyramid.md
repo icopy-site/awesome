@@ -1,4 +1,4 @@
-# Awesome Pyramid
+## Awesome Pyramid
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
@@ -371,7 +371,7 @@ provide new storage backends.*
 * [pyramid_extdirect](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
 * [pyramid_retry](https://github.com/Pylons/pyramid_retry) - pyramid_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 
-# Projects
+## Projects
 
 *Outstanding Pyramid projects.*
 
@@ -451,7 +451,7 @@ provide new storage backends.*
 
 * [AppEnlight](https://getappenlight.com/) - Performance, exception, and uptime monitoring for the Web
 
-# Resources
+## Resources
 
 Where to discover new Pyramid apps and projects.
 
@@ -501,7 +501,7 @@ Where to discover new Pyramid apps and projects.
 * [Projects, Websites, Companies and Organizations that use
   Pyramid](https://trypyramid.com/community-powered-by-pyramid.html) - add your project to the list
 
-# Contributing
+## Contributing
 
 Just fork and send a pull request with your awesome Pyramid apps, projects or
 resources.

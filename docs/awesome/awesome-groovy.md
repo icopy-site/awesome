@@ -125,7 +125,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing
 * [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
-# Resources
+## Resources
 
 ## Official Resources
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
@@ -162,7 +162,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [GR8Conf Europe](https://gr8conf.eu)
 * [GR8Conf USA](http://gr8conf.us)
 
-# Contributing
+## Contributing
 
 Fork this repository, edit this file and send a pull request.
 
@@ -188,6 +188,6 @@ If you are lazy to download the repo, an easy way is:
 
     groovy "https://git.io/awesome" -l groovy glide
 
-# Credits
+## Credits
 
 To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this](https://github.com/bayandin/awesome-awesomeness).

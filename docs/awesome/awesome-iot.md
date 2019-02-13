@@ -1,4 +1,4 @@
-# Awesome IoT
+## Awesome IoT
 
 <img src="https://raw.githubusercontent.com/HQarroum/awesome-iot/master/iot-logo.png" align="right" width="100">
 

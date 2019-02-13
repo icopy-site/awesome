@@ -1,4 +1,4 @@
-# Awesome Accessibility
+## Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
 [![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

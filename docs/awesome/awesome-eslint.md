@@ -1,4 +1,4 @@
-# Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 

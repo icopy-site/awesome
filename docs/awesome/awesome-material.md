@@ -1,4 +1,4 @@
-# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of Google's [material design](http://www.google.com/design/spec) based libraries, resources and awesome things.
 
@@ -86,7 +86,7 @@ Other
   - [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   
-# Other Awesome Lists
+## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing

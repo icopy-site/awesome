@@ -1,4 +1,4 @@
-# Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+## Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
@@ -12,7 +12,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Table of Contents.
+## Table of Contents.
 
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
@@ -49,7 +49,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Major Companies
+## Major Companies
 
 A selection of major game studios, publishers, etc. using GitHub:
 
@@ -68,7 +68,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
 
 
-# Browser-Based
+## Browser-Based
 
 ## Boardgame
 
@@ -259,7 +259,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 -------
 
-# Native
+## Native
 
 ## Action
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
@@ -423,7 +423,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
 
-# Mobile Games
+## Mobile Games
 
 ## Android
 
@@ -457,12 +457,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 -------
 
-# Chat bots
+## Chat bots
 * [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
 
 -------
 
-# Just The Source
+## Just The Source
 
 * [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
@@ -478,7 +478,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 -------
 
-# Frameworks/Engines/Libraries
+## Frameworks/Engines/Libraries
 
 * [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
 * [Allegro 5](https://github.com/leereilly/games/blob/master/https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(https://github.com/leereilly/games/blob/master/graphics, sound, etc.).
@@ -549,7 +549,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 -------
 
-# Maps/Hacks/Plugins/Utilities/All of the Things™
+## Maps/Hacks/Plugins/Utilities/All of the Things™
 
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/leereilly/games/blob/master/https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (https://github.com/leereilly/games/blob/master/RTS) game Starcraft: Broodwar.
@@ -573,7 +573,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 
-# License
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 

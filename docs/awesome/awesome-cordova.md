@@ -1,4 +1,4 @@
-# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
+## Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
 
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
@@ -87,10 +87,10 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * Logging
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome!

@@ -1,4 +1,4 @@
-# Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A hand-picked bookmark collection of subjectively modern/interesting and ideally open-source libraries/tools for Xamarin Android/iOS/Windows/OSX
 

@@ -1,4 +1,4 @@
-# Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome captcha libraries and captcha crack tools.
 

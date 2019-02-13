@@ -4,7 +4,7 @@
   Author: n1trux
   -->
 
-# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-sysadmin/blob/master/https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
@@ -654,7 +654,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
-# Resources
+## Resources
 
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
 

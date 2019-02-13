@@ -1,4 +1,4 @@
-# Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Hi there! This guide is for you:**
 
@@ -9,7 +9,7 @@ I learned Python by hacking first, and getting serious *later.* I wanted to do t
 
 _Note:_ There are several fields within "Data" and Machine Learning is just one. It's good to know the context: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
-# Get your feet wet!
+## Get your feet wet!
 
 I suggest you get your feet wet ASAP. You'll boost your confidence.
 
@@ -45,7 +45,7 @@ You just classified some hand-written digits using [scikit-learn]. Neat huh?
 
 I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (https://github.com/hangtwenty/dive-into-machine-learning/blob/master/Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
 
-# Dive in
+## Dive in
 
 ## A Visual Introduction to Machine Learning
 
@@ -125,7 +125,7 @@ _Know another great notebook? Please submit a PR!_
 
 ----
 
-# Immerse yourself
+## Immerse yourself
 
 Now you should be hooked, and hungry to learn more. Pick one of the courses below and start on your way.
 
@@ -202,7 +202,7 @@ Some good cheat sheets I've come across. (https://github.com/hangtwenty/dive-int
 - [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
 - [Matplotlib / Pandas / Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M).
 
-# Assorted Opinions and Other Resources
+## Assorted Opinions and Other Resources
 
 ## More Data Science materials
 

@@ -1,4 +1,4 @@
-# Digital Tools for Activism
+## Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
@@ -15,7 +15,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
   5. [License](#license)
 
 
-# The List
+## The List
 
 ## Open-source host-it-yourself:
 

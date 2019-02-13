@@ -1,4 +1,4 @@
-# Awesome Fish
+## Awesome Fish
 
 A curated list of packages, prompts, and resources for the amazing <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 

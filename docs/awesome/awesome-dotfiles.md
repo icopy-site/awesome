@@ -1,4 +1,4 @@
-# Awesome dotfiles
+## Awesome dotfiles
 
 A curated list of dotfiles resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 

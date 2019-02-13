@@ -10,7 +10,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 Also check out the sister project, [awesome-dynamic-analysis](https://github.com/mre/awesome-dynamic-analysis).  
 
-# Table of Contents
+## Table of Contents
 
 #### [Programming Languages](#programming-languages-1)
 
@@ -83,7 +83,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 ---
 
-# Programming Languages
+## Programming Languages
 
 ## Abap
 * [abapOpenChecks](https://github.com/larshp/abapOpenChecks) - Enhances the SAP Code Inspector with new and customizable checks.
@@ -441,7 +441,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [Test Design Studio](http://patterson-consulting.net/tds) :copyright: - A full IDE with static code analysis for Micro Focus Unified Functional Testing VBScript-based automated tests.
 
-# Multiple languages
+## Multiple languages
 
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) :copyright: - Static analysis for C/C++/C#, PHP and Java
 * [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/) :copyright: - Combined SAST, DAST, IAST security scanner for C#, PHP, Java, SQL languages
@@ -486,7 +486,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Wotan](https://github.com/fimbullinter/wotan) - Pluggable TypeScript and JavaScript linter
 * [XCode](https://github.com/mre/awesome-static-analysis/blob/master/https://developer.apple.com/xcode/) :copyright: - XCode provides a pretty decent UI for [Clang's](https://github.com/mre/awesome-static-analysis/blob/master/http://clang-analyzer.llvm.org/xcode.html) static code analyzer (https://github.com/mre/awesome-static-analysis/blob/master/C/C++, Obj-C)
 
-# Other
+## Other
 
 ## Build tools
 
@@ -632,7 +632,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Teamscale](http://www.teamscale.com/) :copyright: - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
 * [Upsource](https://www.jetbrains.com/upsource/) :copyright: - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
 
-# More collections
+## More collections
 
 * [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 * [linters](https://github.com/mcandre/linters) - An introduction to static code analysis

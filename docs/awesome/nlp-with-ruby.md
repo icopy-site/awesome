@@ -7,7 +7,7 @@
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
-# Awesome NLP with Ruby [<img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
+## Awesome NLP with Ruby [<img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Useful resources for text processing in Ruby
 

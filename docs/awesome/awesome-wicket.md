@@ -1,4 +1,4 @@
-# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
 A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)
@@ -137,6 +137,6 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
 - [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
 
-# License
+## License
 
  [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

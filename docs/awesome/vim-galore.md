@@ -138,7 +138,7 @@
 
 <br>
 
-# Intro
+## Intro
 
 ## What is Vim?
 
@@ -303,7 +303,7 @@ Help:
 
 Or quickly open a cheatsheet from within Vim: [vim-cheat40](https://github.com/lifepillar/vim-cheat40).
 
-# Basics
+## Basics
 
 ## Buffers, windows, tabs
 
@@ -1146,7 +1146,7 @@ Many of the concepts mentioned above also have _local_ counterparts:
 
 [Variables also have different scopes](https://vimhelp.appspot.com/usr_41.txt.html#41.2).
 
-# Usage
+## Usage
 
 ## Getting help offline
 
@@ -1980,7 +1980,7 @@ So, here is the checklist for enabling true colors:
 A popular reference for colors in the terminal:
 https://gist.github.com/XVilka/8346728
 
-# Tips
+## Tips
 
 ## Go to other end of selected text
 
@@ -2208,7 +2208,7 @@ autocmd ColorScheme desert highlight StatusLine ctermbg=darkgray cterm=NONE guib
 
 This triggers only for `:colorscheme desert`.
 
-# Commands
+## Commands
 
 Useful commands that are good to know. Use `:h :<command name>` to learn more
 about them, e.g. `:h :global`.
@@ -2287,7 +2287,7 @@ Help:
 :h execute()
 ```
 
-# Debugging
+## Debugging
 
 ## General tips
 
@@ -2485,7 +2485,7 @@ even match.
 
 See `:h :syntime`.
 
-# Miscellaneous
+## Miscellaneous
 
 ## Additional resources
 
@@ -2628,7 +2628,7 @@ Keyboard layout: [click](https://raw.githubusercontent.com/mhinz/vim-galore/mast
 
 This also shows why `~` is used to denote the home directory on Unix systems.
 
-# Common problems
+## Common problems
 
 ## Editing small files is slow
 
@@ -2780,7 +2780,7 @@ it.
 
 Help: `:h function-search-undo`
 
-# Technical quirks
+## Technical quirks
 
 ## Newline used for NUL
 
@@ -2789,7 +2789,7 @@ displayed in a buffer as `^@`.
 
 See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
 
-# Terminology
+## Terminology
 
 ## Vim script? Vimscript? VimL?
 

@@ -1,4 +1,4 @@
-# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
@@ -65,7 +65,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Guide to iBeacon Hardware by beekn.net](http://beekn.net/guide-to-ibeacons/)
 * [Developing an iBeacon App by beekn.net](http://beekn.net/developing-ibeacon-app/)
 
-# Hacks & Cool Apps
+## Hacks & Cool Apps
 
 * [Empowering vision impaired people to navigate the world independently](https://github.com/beaconinside/awesome-beacon/blob/master/https://www.wayfindr.net) (https://github.com/beaconinside/awesome-beacon/blob/master/an open standard)
 * [Google Glass & Beacons](https://github.com/tmwagency/Glasstimote)
@@ -86,7 +86,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [ScanBeacon](https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/RadiusNetworks/scanbeacon-gem) - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (https://github.com/beaconinside/awesome-beacon/blob/master/on Mac OS X) or a BlueGiga BLE112 device (https://github.com/beaconinside/awesome-beacon/blob/master/on mac or linux)
 
 
-# iOS
+## iOS
 
 
 ## Beacon Scanner Apps
@@ -120,7 +120,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [How does iBeacon wake up our app?](http://stackoverflow.com/questions/24590534/how-does-ibeacon-wake-up-our-app-for-how-long-and-how-to-extend-that-time/24590886#24590886)
 * [Use Core Bluetooth instead of iBeacon - Any Downsides?](http://stackoverflow.com/questions/24267421/use-core-bluetooth-instead-of-ibeacon-any-downsides/24268389#24268389)
 
-# Virtual Beacons
+## Virtual Beacons
 
 * [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
 * [Android BLE advertising library](https://github.com/uriio/beacons-android)
@@ -130,7 +130,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
 
-# Android
+## Android
 
 ## Beacon Development
 
@@ -163,7 +163,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 
 
-# Cordova, Phonegap, Xamarin, Titanium
+## Cordova, Phonegap, Xamarin, Titanium
 
 * [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
@@ -171,7 +171,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 
 
-# OS X
+## OS X
 
 * [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner)
@@ -180,22 +180,22 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Electron Slide Beacon](https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (https://github.com/beaconinside/awesome-beacon/blob/master/Physical Web) bluetooth beacon.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework ns Swift using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon, iBeacon.
 
-# Linux
+## Linux
 
 * [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon)
 * [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon)
 
-# Node.js
+## Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 * [A node.js BLE (https://github.com/beaconinside/awesome-beacon/blob/master/Bluetooth low energy) central module](https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/sandeepmistry/noble)
 * [A node.js module for implementing BLE (https://github.com/beaconinside/awesome-beacon/blob/master/Bluetooth low energy) peripherals](https://github.com/beaconinside/awesome-beacon/blob/master/https://github.com/sandeepmistry/bleno)
 
-# Windows
+## Windows
 
 * [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
-# Bluetooth Low Energy
+## Bluetooth Low Energy
 
 * [Official Bluetooth Smart Portal](https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy)
 * [Bluetooth Smart Go To Market Toolkit](https://www.bluetooth.com/marketing-branding/market-your-bluetooth-product)
@@ -215,7 +215,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos)
 
-# Beacon Developer Kits & BLE Chips
+## Beacon Developer Kits & BLE Chips
 
 * [Dialog Semiconductor Beacon Reference Design](http://support.dialog-semiconductor.com/ref-designs#beacon)
 * [Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
@@ -251,7 +251,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the property of their respective trademark owners.
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

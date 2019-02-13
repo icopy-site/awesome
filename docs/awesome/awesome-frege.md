@@ -1,4 +1,4 @@
-# Awesome Frege [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Frege [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Frege](https://github.com/Frege/frege) programming language
 

@@ -1,12 +1,12 @@
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
-# Clustering
+## Clustering
 - [Multilingual Latent Dirichlet Allocation LDA](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
 
-# Speech
+## Speech
 
 - [Mexican Spanish Speech Recognition DB - 150 Speakers](http://www.speechocean.com/en-ASR-Corpora/631.html)
 - [Mexican Spanish Speech Recognition DB - 299 Speakers](http://www.speechocean.com/en-ASR-Corpora/603.html)
@@ -21,7 +21,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Ruby Snowball Implementation](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(https://github.com/dav009/awesome-spanish-nlp/blob/master/Based on NLTK +  CESS corpus](https://github.com/dav009/awesome-spanish-nlp/blob/master/https://code.google.com/p/spaghetti-tagger/)
 
-# Multiword Expressions  Extractors (https://github.com/dav009/awesome-spanish-nlp/blob/master/MLWE)
+## Multiword Expressions  Extractors (https://github.com/dav009/awesome-spanish-nlp/blob/master/MLWE)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
 
 ## Name Entity Recognition (https://github.com/dav009/awesome-spanish-nlp/blob/master/NER)

@@ -1,4 +1,4 @@
-# Awesome R
+## Awesome R
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -535,7 +535,7 @@ Angle Regression
 * [swirl <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://swirlstats.com/) - An interactive R tutorial directly in your R console.
 * [DataScienceR <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/ujjwalkarn/DataScienceR) - a list of R tutorials for Data Science, NLP and Machine Learning.
 
-# Resources
+## Resources
 
 Where to discover new R-esources.
 
@@ -617,13 +617,13 @@ Where to discover new R-esources.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [lists](https://github.com/jnv/lists)
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 
-# Contributing
+## Contributing
 Your contributions are always welcome!
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)

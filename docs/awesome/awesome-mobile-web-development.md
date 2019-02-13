@@ -1,4 +1,4 @@
-# Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 All that you need to create a great mobile web experience.
 

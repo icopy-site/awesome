@@ -1,4 +1,4 @@
-# Awesome FFmpeg [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome FFmpeg [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [FFmpeg](http://ffmpeg.org) is a cross-platform solution to record, convert and stream audio and video.
 

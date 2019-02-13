@@ -11,7 +11,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 </div>
 <br/>
 
-# Table of Contents
+## Table of Contents
 
 - [Official](#official)
 - [Syntax](#syntax)
@@ -169,7 +169,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Contribute](#contribute)
 - [License](#license)
 
-# Official
+## Official
 
 - [Official website](https://code.visualstudio.com/)
 - [Source code](https://github.com/microsoft/vscode) on GitHub
@@ -177,7 +177,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Releases (https://github.com/viatsko/awesome-vscode/blob/master/insiders channel)](https://github.com/viatsko/awesome-vscode/blob/master/https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
-# Syntax
+## Syntax
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
@@ -215,7 +215,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
-# Migrating from other editors
+## Migrating from other editors
 
 The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.
 
@@ -239,13 +239,13 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Intellij IDEA keybindings for VS Code.
 
-# Using VS Code with particular technologies
+## Using VS Code with particular technologies
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (https://github.com/viatsko/awesome-vscode/blob/master/mostly Web).
 
 Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
-# Lint and IntelliSense
+## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (https://github.com/viatsko/awesome-vscode/blob/master/likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
@@ -449,7 +449,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
-# Productivity
+## Productivity
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
@@ -663,7 +663,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
-# Formatting & Beautification
+## Formatting & Beautification
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
@@ -766,7 +766,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
-# Uncategorized
+## Uncategorized
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
@@ -894,7 +894,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
-# Themes
+## Themes
 
 ## UI
 
@@ -1089,7 +1089,7 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/slime.png" width="600" />
 </a>
 
-# People to Follow
+## People to Follow
 
 A list of Twitter accounts for various people in the VS Code Community
 
@@ -1110,7 +1110,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
 - [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
 
-# Resources for extension developers
+## Resources for extension developers
 
 ## Documentation
 
@@ -1139,7 +1139,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
-# Online Courses
+## Online Courses
 
 ## Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)
 
@@ -1148,11 +1148,11 @@ After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais
 - [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
 
-# Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
 
-# License
+## License
 
 I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/viatsko/awesome-vscode/blob/master/Microsoft).
 

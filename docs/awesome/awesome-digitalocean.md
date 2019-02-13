@@ -1,4 +1,4 @@
-# Awesome DigitalOcean [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome DigitalOcean [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/jonleibowitz/awesome-digitalocean/master/media/DO_Logo.png" align="right" width="100">](https://www.digitalocean.com/)
 

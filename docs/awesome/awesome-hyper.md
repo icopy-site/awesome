@@ -1,4 +1,4 @@
-# Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
+## Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
@@ -20,7 +20,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 
 -- /AWESOME ITEM TEMPLATE -->
 
-# Contents
+## Contents
 
 - [Packages](#packages)
   - [Productivity](#productivity)
@@ -30,7 +30,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 - [Themes](#themes)
 - [Resources](#resources)
 
-# Packages
+## Packages
 Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 ## Productivity
@@ -151,7 +151,7 @@ Name and description | Downloads
 
 [⬆ Back to top](#contents)
 
-# Themes
+## Themes
 
 Name and description | Downloads
 -------------------- | -------------
@@ -264,7 +264,7 @@ Know of another really awesome theme? [Get it on awesome-hyper!](https://github.
 
 [⬆ Back to top](#contents)
 
-# Resources
+## Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper.
 * [Extending Hyper](https://github.com/bnb/awesome-hyper/blob/master/https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen (https://github.com/bnb/awesome-hyper/blob/master/[@mathisonian](https://github.com/bnb/awesome-hyper/blob/master/https://github.com/mathisonian)) at EmpireNode 2016.

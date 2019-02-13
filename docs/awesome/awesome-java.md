@@ -1,4 +1,4 @@
-# Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Java frameworks, libraries and software.
 

@@ -1,4 +1,4 @@
-# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
@@ -13,7 +13,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ---
 
-# Contents
+## Contents
 
 - [Learn](#learn)
     - [Articles](#articles)
@@ -44,7 +44,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-# Learn
+## Learn
 
 ## Articles
 
@@ -193,12 +193,12 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 ## Miscellaneous
 - [Reverse Engineering Resources](https://github.com/ps1337/automotive-security-research)
 
-# Projects
+## Projects
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
 - [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 
-# Hardware
+## Hardware
 
 Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
 
@@ -226,7 +226,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
 - [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
 
-# Software
+## Software
 
 Overview of software, both open source and proprietary, as well as libraries from various programming languages. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
 
@@ -288,7 +288,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 - [NodeJS extension to SocketCAN](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 
-# Companies and Jobs
+## Companies and Jobs
 
 Companies and job opportunities in the vehicle security field.
 
@@ -305,7 +305,7 @@ Companies and job opportunities in the vehicle security field.
 - [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 List of lists.
 
@@ -322,6 +322,6 @@ List of lists.
   - [awesome](https://github.com/sindresorhus/awesome)
   - [lists](https://github.com/jnv/lists)
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) first.

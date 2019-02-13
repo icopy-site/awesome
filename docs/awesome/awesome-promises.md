@@ -2,7 +2,7 @@
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
 
-# Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of useful resources for JavaScript Promises
 

@@ -1,9 +1,9 @@
-# FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of Free and open-source software for developers
 
  
 Feel free to send a PR :)
-# Brothers
+## Brothers
 [free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
@@ -11,7 +11,7 @@ Feel free to send a PR :)
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
-# Contents
+## Contents
    * [Source Code Repos](#source-code-repos)
    * [IDE](#ide)
    * [Collaboration Tools](#collaboration-tools)

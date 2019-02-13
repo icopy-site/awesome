@@ -1,4 +1,4 @@
-# Awesome Phalcon
+## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
@@ -360,7 +360,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
 
 
-# Server Applications
+## Server Applications
 
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
@@ -371,7 +371,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 
-# Resources
+## Resources
 
 *Where to discover new Phalcon libraries.*
 

@@ -1,4 +1,4 @@
-# Awesome FRC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome FRC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/andrewda/awesome-frc/master/media/first.svg?sanitize=true" align="right" width="150">](https://www.firstinspires.org/robotics/frc)
 

@@ -464,6 +464,6 @@ Where to learn about RubyMotion and discover new RubyMotion libraries, projects 
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.

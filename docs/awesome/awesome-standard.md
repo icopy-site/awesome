@@ -1,4 +1,4 @@
-# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
@@ -66,7 +66,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
 - **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
 - **[generate-swap-generator](https://www.npmjs.com/package/generate-swap-generator)** Generate Your Own ESNext+StandardJS+Mocha Ready NodeJS Generators In Seconds!
-# inspired by `standard`
+## inspired by `standard`
 
 - **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 - **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.

@@ -127,10 +127,10 @@ Patreon: https://www.patreon.com/herrbischoff
 
 #### Transparency in Menu and Windows
 ```bash
-# Reduce Transparency
+## Reduce Transparency
 defaults write com.apple.universalaccess reduceTransparency -bool true
 
-# Restore Default Transparency
+## Restore Default Transparency
 defaults write com.apple.universalaccess reduceTransparency -bool false
 ```
 
@@ -139,10 +139,10 @@ defaults write com.apple.universalaccess reduceTransparency -bool false
 
 #### Set Wallpaper
 ```bash
-# Up to Mountain Lion
+## Up to Mountain Lion
 osascript -e 'tell application "Finder" to set desktop picture to POSIX file "/path/to/picture.jpg"'
 
-# Since Mavericks
+## Since Mavericks
 sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db "update data set value = '/path/to/picture.jpg'" && killall Dock
 ```
 
@@ -154,20 +154,20 @@ sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db "update data set v
 #### List All Apps Downloaded from App Store
 
 ```bash
-# Via find
+## Via find
 find /Applications -path '*Contents/_MASReceipt/receipt' -maxdepth 4 -print |\sed 's#.app/Contents/_MASReceipt/receipt#.app#g; s#/Applications/##'
 
-# Via Spotlight
+## Via Spotlight
 mdfind kMDItemAppStoreHasReceipt=1
 ```
 
 #### Show Debug Menu
 Works up to Yosemite.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.appstore ShowDebugMenu -bool true
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.appstore ShowDebugMenu -bool false
 ```
 
@@ -181,19 +181,19 @@ sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resourc
 
 #### Activate And Deactivate the ARD Agent and Helper
 ```bash
-# Activate And Restart the ARD Agent and Helper
+## Activate And Restart the ARD Agent and Helper
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -restart -agent -console
 
-# Deactivate and Stop the Remote Management Service
+## Deactivate and Stop the Remote Management Service
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -stop
 ```
 
 #### Enable and Disable Remote Desktop Sharing
 ```bash
-# Allow Access for All Users and Give All Users Full Access
+## Allow Access for All Users and Give All Users Full Access
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
 
-# Disable ARD Agent and Remove Access Privileges for All Users
+## Disable ARD Agent and Remove Access Privileges for All Users
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
 ```
 
@@ -211,10 +211,10 @@ rm -r ~/Library/Containers/com.apple.RemoteDesktop
 
 #### Debug Mode
 ```bash
-# Enable
+## Enable
 defaults write com.apple.addressbook ABShowDebugMenu -bool true
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.addressbook ABShowDebugMenu -bool false
 ```
 
@@ -230,10 +230,10 @@ defaults write com.apple.addressbook ABShowDebugMenu -bool false
 #### Keyboard Media Keys
 This works up to Yosemite. System Integrity Protection was introduced in El Capitan which prevents system Launch Agents from being unloaded.
 ```bash
-# Stop Responding to Key Presses
+## Stop Responding to Key Presses
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
-# Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 ```
 
@@ -309,10 +309,10 @@ osascript -e 'tell application "Safari" to get URL of current tab of front windo
 
 #### Use Backspace/Delete to Go Back a Page
 ```bash
-# Enable
+## Enable
 defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool YES
 
-# Disable
+## Disable
 defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool NO
 ```
 
@@ -334,10 +334,10 @@ defaults write -app Skim SKAutoReloadFileUpdate -boolean true
 
 #### Focus Follows Mouse
 ```bash
-# Enable
+## Enable
 defaults write com.apple.Terminal FocusFollowsMouse -string YES
 
-# Disable
+## Disable
 defaults write com.apple.Terminal FocusFollowsMouse -string NO
 ```
 
@@ -368,13 +368,13 @@ sudo defaults write /System/Library/LaunchDaemons/com.apple.backupd-auto StartIn
 #### Local Backups
 Whether Time Machine performs local backups while the Time Machine backup volume is not available.
 ```bash
-# Status
+## Status
 defaults read /Library/Preferences/com.apple.TimeMachine MobileBackups
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo tmutil enablelocal
 
-# Disable
+## Disable
 sudo tmutil disablelocal
 ```
 
@@ -392,7 +392,7 @@ This little script will output the last 12 hours of Time Machine activity follow
 
 filter='processImagePath contains "backupd" and subsystem beginswith "com.apple.TimeMachine"'
 
-# show the last 12 hours
+## show the last 12 hours
 start="$(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/date -j -v-12H +'%Y-%m-%d %H:%M:%S')"
 
 echo ""
@@ -410,13 +410,13 @@ log stream --style syslog --info --predicate "$filter"
 
 #### Toggle Backup While on Battery
 ```bash
-# Status
+## Status
 sudo defaults read /Library/Preferences/com.apple.TimeMachine RequiresACPower
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool true
 
-# Disable
+## Disable
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool false
 ```
 
@@ -483,11 +483,11 @@ killall Dock
 
 #### Auto Rearrange Spaces Based on Most Recent Use
 ```bash
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.dock mru-spaces -bool true && \
 killall Dock
 
-# Disable
+## Disable
 defaults write com.apple.dock mru-spaces -bool false && \
 killall Dock
 ```
@@ -495,22 +495,22 @@ killall Dock
 #### Icon Bounce
 Global setting whether Dock icons should bounce when the respective application demands your attention.
 ```bash
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.dock no-bouncing -bool true && \
 killall Dock
 
-# Disable
+## Disable
 defaults write com.apple.dock no-bouncing -bool false && \
 killall Dock
 ```
 
 #### Lock the Dock Size
 ```bash
-# Enable
+## Enable
 defaults write com.apple.Dock size-immutable -bool yes && \
 killall Dock
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.Dock size-immutable -bool no && \
 killall Dock
 ```
@@ -531,11 +531,11 @@ killall Dock
 #### Scroll Gestures
 Use your touchpad or mouse scroll wheel to interact with Dock items. Allows you to use an upward scrolling gesture to open stacks. Using the same gesture on applications that are running invokes Exposé/Mission Control.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.dock scroll-to-open -bool true && \
 killall Dock
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.dock scroll-to-open -bool false && \
 killall Dock
 ```
@@ -557,22 +557,22 @@ killall Dock
 
 #### Show Hidden App Icons
 ```bash
-# Enable
+## Enable
 defaults write com.apple.dock showhidden -bool true && \
 killall Dock
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.dock showhidden -bool false && \
 killall Dock
 ```
 
 #### Show Only Active Applications
 ```bash
-# Enable
+## Enable
 defaults write com.apple.dock static-only -bool true && \
 killall Dock
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.dock static-only -bool false && \
 killall Dock
 ```
@@ -615,10 +615,10 @@ sudo diskutil repairPermissions /
 
 #### Set Boot Volume
 ```bash
-# Up to Yosemite
+## Up to Yosemite
 bless --mount "/path/to/mounted/volume" --setBoot
 
-# From El Capitan
+## From El Capitan
 sudo systemsetup -setstartupdisk /System/Library/CoreServices
 ```
 
@@ -727,11 +727,11 @@ sudo asr -restore -noverify -source /path/to/diskimage.dmg -target /Volumes/Volu
 #### Show External Media
 External HDs, thumb drives, etc.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true && \
 killall Finder
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
@@ -739,11 +739,11 @@ killall Finder
 #### Show Internal Media
 Built-in HDs or SSDs.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool true && \
 killall Finder
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
@@ -751,11 +751,11 @@ killall Finder
 #### Show Removable Media
 CDs, DVDs, iPods, etc.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true && \
 killall Finder
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool false && \
 killall Finder
 ```
@@ -763,11 +763,11 @@ killall Finder
 #### Show Network Volumes
 AFP, SMB, NFS, WebDAV, etc.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool true && \
 killall Finder
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool false && \
 killall Finder
 ```
@@ -790,10 +790,10 @@ defaults write -g AppleShowAllExtensions -bool true
 
 #### Show Hidden Files
 ```bash
-# Show All
+## Show All
 defaults write com.apple.finder AppleShowAllFiles true
 
-# Restore Default File Visibility
+## Restore Default File Visibility
 defaults write com.apple.finder AppleShowAllFiles false
 ```
 
@@ -823,11 +823,11 @@ killall Finder
 #### Show "Quit Finder" Menu Item
 Makes possible to see Finder menu item "Quit Finder" with default shortcut <kbd>Cmd</kbd> + <kbd>Q</kbd>
 ```bash
-# Enable
+## Enable
 defaults write com.apple.finder QuitMenuItem -bool true && \
 killall Finder
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder QuitMenuItem -bool false && \
 killall Finder
 ```
@@ -835,19 +835,19 @@ killall Finder
 #### Smooth Scrolling
 Useful if you’re on an older Mac that messes up the animation.
 ```bash
-# Disable
+## Disable
 defaults write -g NSScrollAnimationEnabled -bool false
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write -g NSScrollAnimationEnabled -bool true
 ```
 
 #### Rubberband Scrolling
 ```bash
-# Disable
+## Disable
 defaults write -g NSScrollViewRubberbanding -bool false
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write -g NSScrollViewRubberbanding -bool true
 ```
 
@@ -859,21 +859,21 @@ defaults write -g NSNavPanelExpandedStateForSaveMode2 -bool true
 
 #### Desktop Icon Visibility
 ```bash
-# Hide Icons
+## Hide Icons
 defaults write com.apple.finder CreateDesktop -bool false && \
 killall Finder
 
-# Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder CreateDesktop -bool true && \
 killall Finder
 ```
 
 #### Path Bar
 ```bash
-# Show
+## Show
 defaults write com.apple.finder ShowPathbar -bool true
 
-# Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowPathbar -bool false
 ```
 
@@ -885,10 +885,10 @@ defaults write -g AppleShowScrollBars -string "Always"
 
 #### Status Bar
 ```bash
-# Show
+## Show
 defaults write com.apple.finder ShowStatusBar -bool true
 
-# Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.finder ShowStatusBar -bool false
 ```
 
@@ -996,13 +996,13 @@ Please see [this file](https://github.com/herrbischoff/awesome-macos-command-lin
 ### Bluetooth
 
 ```bash
-# Status
+## Status
 defaults read /Library/Preferences/com.apple.Bluetooth ControllerPowerState
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 1
 
-# Disable
+## Disable
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 0 && \
 sudo killall -HUP blued
 ```
@@ -1050,13 +1050,13 @@ sysctl -n machdep.cpu.brand_string
 ### Infrared Receiver
 
 ```bash
-# Status
+## Status
 defaults read /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int 1
 
-# Disable
+## Disable
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int 0
 ```
 
@@ -1106,11 +1106,11 @@ sudo systemsetup -setrestartfreeze on
 #### Chime When Charging
 Play iOS charging sound when MagSafe is connected.
 ```bash
-# Enable
+## Enable
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool true && \
 open /System/Library/CoreServices/PowerChime.app
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool false && \
 killall PowerChime
 ```
@@ -1122,33 +1122,33 @@ killall PowerChime
 
 #### Auto-Correct
 ```bash
-# Disable
+## Disable
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool false
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool true
 
-# Show Status
+## Show Status
 defaults read -g NSAutomaticSpellingCorrectionEnabled
 ```
 
 #### Full Keyboard Access
 Enable Tab in modal dialogs.
 ```bash
-# Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 0
 
-# All controls
+## All controls
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 ```
 
 #### Key Repeat
 Disable the default "press and hold" behavior.
 ```bash
-# Enable Key Repeat
+## Enable Key Repeat
 defaults write -g ApplePressAndHoldEnabled -bool false
 
-# Disable Key Repeat
+## Disable Key Repeat
 defaults write -g ApplePressAndHoldEnabled -bool true
 ```
 
@@ -1163,11 +1163,11 @@ defaults write -g KeyRepeat -int 0.02
 #### Reset Launchpad Layout
 You need to restart `Dock` because Launchpad is tied to it.
 ```bash
-# Up to Yosemite
+## Up to Yosemite
 rm ~/Library/Application\ Support/Dock/*.db && \
 killall Dock
 
-# From El Capitan
+## From El Capitan
 defaults write com.apple.dock ResetLaunchPad -bool true && \
 killall Dock
 ```
@@ -1227,10 +1227,10 @@ defaults write com.apple.QuickTimePlayerX MGPlayMovieOnOpen 1
 
 #### Bonjour Service
 ```bash
-# Disable
+## Disable
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array-add "-NoMulticastAdvertisements"
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array "/usr/sbin/mDNSResponder" "-launchd"
 ```
 
@@ -1269,10 +1269,10 @@ sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.serve
 #### Network Locations
 Switch between network locations created in the Network preference pane.
 ```bash
-# Status
+## Status
 scselect
 
-# Switch Network Location
+## Switch Network Location
 scselect LocationNameFromStatus
 ```
 
@@ -1313,10 +1313,10 @@ Host server.example.com
 
 #### Remote Login
 ```bash
-# Enable remote login
+## Enable remote login
 sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist
 
-# Disable remote login
+## Disable remote login
 sudo launchctl unload -w /System/Library/LaunchDaemons/ssh.plist
 ```
 
@@ -1422,13 +1422,13 @@ defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
 
 #### Firewall Service
 ```bash
-# Show Status
+## Show Status
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate
 
-# Enable
+## Enable
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 ```
 
@@ -1451,13 +1451,13 @@ spctl --remove /path/to/Application.app
 
 #### Manage Gatekeeper
 ```bash
-# Status
+## Status
 spctl --status
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo spctl --master-enable
 
-# Disable
+## Disable
 sudo spctl --master-disable
 ```
 
@@ -1473,10 +1473,10 @@ LC_ALL=C tr -dc "[:alnum:]" < /dev/urandom | head -c 20 | pbcopy
 #### Launch Screen Saver
 
 ```bash
-# Up to Sierra
+## Up to Sierra
 open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/ScreenSaverEngine.app
 
-# From High Sierra
+## From High Sierra
 /System/Library/CoreServices/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine
 ```
 
@@ -1488,25 +1488,25 @@ open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/Scree
 
 #### Screensaver Immediate Lock
 ```bash
-# Status
+## Status
 defaults read com.apple.screensaver askForPasswordDelay
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.screensaver askForPasswordDelay -int 0
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)
 defaults write com.apple.screensaver askForPasswordDelay -int 10
 ```
 
 #### Screensaver Password
 ```bash
-# Status
+## Status
 defaults read com.apple.screensaver askForPassword
 
-# Enable
+## Enable
 defaults write com.apple.screensaver askForPassword -int 1
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults write com.apple.screensaver askForPassword -int 0
 ```
 
@@ -1559,13 +1559,13 @@ locate -i *.jpg
 ### AirDrop
 
 ```bash
-# Enable AirDrop over Ethernet and on Unsupported Macs
+## Enable AirDrop over Ethernet and on Unsupported Macs
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 defaults remove com.apple.NetworkBrowser DisableAirDrop
 
-# Disable
+## Disable
 defaults write com.apple.NetworkBrowser DisableAirDrop -bool YES
 ```
 
@@ -1653,13 +1653,13 @@ sudo fdesetup authrestart
 
 #### FileVault Service
 ```bash
-# Status
+## Status
 sudo fdesetup status
 
-# Enable
+## Enable
 sudo fdesetup enable
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo fdesetup disable
 ```
 
@@ -1674,19 +1674,19 @@ sudo sysdiagnose -f ~/Desktop/
 
 #### Create Bootable Installer
 ```bash
-# Mojave
+## Mojave
 sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
-# High Sierra
+## High Sierra
 sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ macOS\ High\ Sierra.app
 
-# Sierra
+## Sierra
 sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ macOS\ Sierra.app
 
-# El Capitan
+## El Capitan
 sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
 
-# Yosemite
+## Yosemite
 sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
 ```
 
@@ -1740,10 +1740,10 @@ sudo purge
 
 #### Show Memory Statistics
 ```bash
-# One time
+## One time
 vm_stat
 
-# Table of data, repeat 10 times total, 1 second wait between each poll
+## Table of data, repeat 10 times total, 1 second wait between each poll
 vm_stat -c 10 1
 ```
 
@@ -1751,11 +1751,11 @@ vm_stat -c 10 1
 
 #### Notification Center Service
 ```bash
-# Disable
+## Disable
 launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist && \
 killall -9 NotificationCenter
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
 ```
 
@@ -1768,36 +1768,36 @@ qlmanage -p /path/to/file
 
 ### Remote Apple Events
 ```bash
-# Status
+## Status
 sudo systemsetup -getremoteappleevents
 
-# Enable
+## Enable
 sudo systemsetup -setremoteappleevents on
 
-# Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo systemsetup -setremoteappleevents off
 ```
 
 ### Root User
 
 ```bash
-# Enable
+## Enable
 dsenableroot
 
-# Disable
+## Disable
 dsenableroot -d
 ```
 
 ### Safe Mode Boot
 
 ```bash
-# Status
+## Status
 nvram boot-args
 
-# Enable
+## Enable
 sudo nvram boot-args="-x"
 
-# Disable
+## Disable
 sudo nvram boot-args=""
 ```
 
@@ -1863,10 +1863,10 @@ sudo softwareupdate -l
 #### Set Software Update Server
 This should only be done for testing purposes or unmanaged clients. To use network-wide, either correctly set up DNS along with [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/) and bind your clients via OpenDirectory. Alternatively, use [Reposado](https://github.com/wdas/reposado) together with correct network DNS settings to make resolution transparent. [Margarita](https://github.com/jessepeterson/margarita) looks nice to have as well.
 ```bash
-# Use own SUS
+## Use own SUS
 sudo defaults write /Library/Preferences/com.apple.SoftwareUpdate CatalogURL http://su.example.com:8088/index.sucatalog
 
-# Reset to Apple SUS
+## Reset to Apple SUS
 sudo defaults delete /Library/Preferences/com.apple.SoftwareUpdate CatalogURL
 ```
 
@@ -1881,10 +1881,10 @@ sw_vers -productVersion
 
 #### Spotlight Indexing
 ```bash
-# Disable
+## Disable
 mdutil -i off -d /path/to/volume
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 mdutil -i on /path/to/volume
 ```
 
@@ -1931,13 +1931,13 @@ sudo systemsetup -settimezone Europe/Berlin
 
 #### Set Clock Using Network Time
 ```bash
-# Status
+## Status
 sudo systemsetup getusingnetworktime
 
-# Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
+## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)
 sudo systemsetup setusingnetworktime on
 
-# Disable
+## Disable
 sudo systemsetup setusingnetworktime off
 ```
 

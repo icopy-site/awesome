@@ -1,8 +1,8 @@
-# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome mathematics resources.
 
-# Contents
+## Contents
 
 <!-- START_TOC -->
 
@@ -62,7 +62,7 @@ A curated list of awesome mathematics resources.
 
 <!-- END_TOC -->
 
-# General Resources
+## General Resources
 
 ## Learning Platforms
 
@@ -118,7 +118,7 @@ A curated list of awesome mathematics resources.
 * [Topology Atlas](http://at.yorku.ca/topology/)
 
 
-# Lecture Notes
+## Lecture Notes
 
 ## Foundations of Mathematics
 
@@ -481,7 +481,7 @@ Shlomo Sternberg
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * [Mechanism of the Heavens (https://github.com/rossant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

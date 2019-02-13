@@ -1,4 +1,4 @@
-# Awesome Go
+## Awesome Go
 
 [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome)
 
@@ -1784,7 +1784,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [xpath](https://github.com/antchfx/xpath) - XPath package for Go.
 * [xquery](https://github.com/antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
 * [xml2map](https://github.com/sbabiv/xml2map) - XML to MAP converter written Golang.
-# Tools
+## Tools
 
 *Go software and plugins.*
 
@@ -1964,7 +1964,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [vFlow](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
 * [wellington](https://github.com/avelino/awesome-go/blob/master/https://github.com/wellington/wellington) - Sass project management tool, extends the language with sprite functions (https://github.com/avelino/awesome-go/blob/master/like Compass).
 
-# Resources
+## Resources
 
 *Where to discover new Go libraries.*
 

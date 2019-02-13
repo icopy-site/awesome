@@ -1,4 +1,4 @@
-# [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I (https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/[Guillaume Chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.

@@ -1,4 +1,4 @@
-# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://github.com/hzoo/awesome-gametalks/blob/master/https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (https://github.com/hzoo/awesome-gametalks/blob/master/Nintendo)
 
@@ -150,7 +150,7 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 - https://twitter.com/GameDevTalks/
 
 
-# Podcasts
+## Podcasts
 
 ## Dedicated Podcasts
 

@@ -655,7 +655,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
-# Resources
+## Resources
 
 Where to discover new Scala libraries.
 
@@ -663,6 +663,6 @@ Where to discover new Scala libraries.
 
 * [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.

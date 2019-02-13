@@ -1,4 +1,4 @@
-# Awesome Mac
+## Awesome Mac
 
 [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)

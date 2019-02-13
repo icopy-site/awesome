@@ -1,4 +1,4 @@
-# Awesome Calculators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Calculators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://i.imgur.com/9q98DcX.png" align="right" width="120">](https://github.com/xxczaki/awesome-calculators)
 

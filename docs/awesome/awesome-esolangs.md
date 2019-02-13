@@ -1,4 +1,4 @@
-# Awesome Esolangs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Esolangs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/angrykoala/awesome-esolangs/master/logo_piet.png" align="right">
 

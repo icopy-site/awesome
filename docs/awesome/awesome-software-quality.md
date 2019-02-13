@@ -27,7 +27,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Awesome lists](#awesome-lists)
 
 
-# Books
+## Books
 
 ## In English
 
@@ -167,7 +167,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Тестирование на основе моделей](http://panda.ispras.ru/~kuliamin/mbt-course.html) - В.В. Кулямин
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
-# Courses
+## Courses
 
 ## In English
 
@@ -318,7 +318,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Формальная спецификация и верификация программ](https://github.com/ligurio/awesome-software-quality/blob/master/https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) (https://github.com/ligurio/awesome-software-quality/blob/master/[практикум](https://github.com/ligurio/awesome-software-quality/blob/master/http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
-# Workshops and interactive learning tools
+## Workshops and interactive learning tools
 
 - Anki:
     - [Software Testing](https://github.com/datateknik-lth/datateknik-lth/tree/master/ETS200-softwaretesting)
@@ -349,11 +349,11 @@ If you would like add something, just send the text as you would like it to appe
 - [Verigames](http://verigames.com/)
 - [Edukera](https://www.edukera.com/)
 
-# Conferences
+## Conferences
 
 * [Software Testing Conferences](http://testingconferences.org/)
 
-# Podcasts
+## Podcasts
 
 #### Russian
 
@@ -376,7 +376,7 @@ If you would like add something, just send the text as you would like it to appe
 * [The Ministry of Testing Podcast](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 * [TDD in context](http://www.schmonz.com/tag/tdd-in-context/)
 
-# Bugs and Learned Lessons
+## Bugs and Learned Lessons
 
 * [NASA Public Lessons Learned System](https://llis.nasa.gov/)
 * [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
@@ -385,7 +385,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 
-# Awesome Lists
+## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
 - [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)

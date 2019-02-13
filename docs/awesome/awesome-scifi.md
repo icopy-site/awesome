@@ -1,4 +1,4 @@
-# Awesome Sci-Fi [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Sci-Fi [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Sci-Fi worth consuming
 

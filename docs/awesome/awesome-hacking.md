@@ -1,4 +1,4 @@
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
 
@@ -43,7 +43,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 <!-- /MarkdownTOC -->
 
-# System
+## System
 
 ## Tutorials
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
@@ -76,7 +76,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
 
-# Reverse Engineering
+## Reverse Engineering
 
 ## Tutorials
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
@@ -109,7 +109,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Open Malware](http://www.offensivecomputing.net/)
 
 
-# Web
+## Web
 
 ## Tools
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -118,7 +118,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-# Network
+## Network
 
 ## Tools
  * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
@@ -141,7 +141,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
 
-# Forensic
+## Forensic
 
 ## Tools
  * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
@@ -154,7 +154,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
 
 
-# Cryptography
+## Cryptography
 
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
@@ -162,7 +162,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
 
-# Wargame
+## Wargame
 
 ## System
  * [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/)
@@ -192,7 +192,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
-# CTF
+## CTF
 
 ## Competition
  * [DEF CON](https://legitbs.net/)
@@ -219,12 +219,12 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
-# OS
+## OS
 
 ## Online resources
  * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 
-# ETC
+## ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools

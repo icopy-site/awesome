@@ -1,4 +1,4 @@
-# Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
+## Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
 

@@ -1,4 +1,4 @@
-# GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/holman)'s [Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet/blob/master/http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://vimeo.com/72955426) talk at WDCNZ 2013 (https://github.com/tiimgreen/github-cheat-sheet/blob/master/[slides](https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
@@ -701,13 +701,13 @@ To move to the previous branch in Git:
 
 ```bash
 $ git checkout -
-# Switched to branch 'master'
+## Switched to branch 'master'
 
 $ git checkout -
-# Switched to branch 'next'
+## Switched to branch 'next'
 
 $ git checkout -
-# Switched to branch 'master'
+## Switched to branch 'master'
 ```
 
 [*Read more about Git branching.*](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
@@ -980,10 +980,10 @@ For example, if you type `git comit` you will get this:
 
 ```bash
 $ git comit -m "Message"
-# git: 'comit' is not a git command. See 'git --help'.
+## git: 'comit' is not a git command. See 'git --help'.
 
-# Did you mean this?
-#   commit
+## Did you mean this?
+##   commit
 ```
 
 Auto-correct can be enabled like this (https://github.com/tiimgreen/github-cheat-sheet/blob/master/with a 1.5 second delay):
@@ -996,9 +996,9 @@ So now the command `git comit` will be auto-corrected to `git commit` like this:
 
 ```bash
 $ git comit -m "Message"
-# WARNING: You called a Git command named 'comit', which does not exist.
-# Continuing under the assumption that you meant 'commit'
-# in 1.5 seconds automatically...
+## WARNING: You called a Git command named 'comit', which does not exist.
+## Continuing under the assumption that you meant 'commit'
+## in 1.5 seconds automatically...
 ```
 
 The delay before git will rerun the command is so the user has time to abort.

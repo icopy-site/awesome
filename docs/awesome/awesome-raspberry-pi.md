@@ -1,4 +1,4 @@
-# Awesome Raspberry Pi
+## Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![All Contributors](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/./CONTRIBUTORS.md)

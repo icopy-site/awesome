@@ -1,4 +1,4 @@
-# Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 

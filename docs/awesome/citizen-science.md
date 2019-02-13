@@ -1,4 +1,4 @@
-# Digital Tools for Citizen Science
+## Digital Tools for Citizen Science
 
 Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 

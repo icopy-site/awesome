@@ -1,4 +1,4 @@
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
 If you are looking for CakePHP 2.x resources please visit:
@@ -68,7 +68,7 @@ Additional lists you might find useful:
 - [Conferences](#conferences)
 - [Contributing](#contributing)
 
-# Plugins
+## Plugins
 
 ## APM
 *Plugins for Application Performance Monitoring.*
@@ -409,7 +409,7 @@ Additional lists you might find useful:
 - [Salesforce plugin](https://github.com/voycey/cakephp-salesforce) - Allows use of CakePHP's ORM to Query and Interact with Salesforce Enterprise Instances.
 - [Twitter plugin](https://github.com/cvo-technologies/cakephp-twitter) - Allows access to the Twitter REST and streaming APIs using the [Webservice](https://github.com/UseMuffin/Webservice) ORM.
 
-# Software
+## Software
 *Software for creating a development environment.*
 
 ## Development Environment
@@ -448,7 +448,7 @@ Additional lists you might find useful:
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
 
 ## Help
@@ -499,7 +499,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [Core Google Group](https://groups.google.com/forum/#!forum/cakephp-core) - Discussions around the CakePHP core.
 - [Top 10 (https://github.com/friendsofcake/awesome-cakephp/blob/master/and more) core contributors](https://github.com/friendsofcake/awesome-cakephp/blob/master/https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
-# Conferences
+## Conferences
 
 ## Official
 *International conference.*
@@ -513,7 +513,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [CakePHP-France](http://www.meetup.com/CakePHP-France) - MeetUps in France.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) for details.
 
 ## Credits

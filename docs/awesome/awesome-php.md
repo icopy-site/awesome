@@ -1,4 +1,4 @@
-# Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
+## Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
@@ -753,7 +753,7 @@ Libraries to help manage database schemas and migrations.
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
-# Software
+## Software
 *Software for creating a development environment.*
 
 ### PHP Installation
@@ -813,7 +813,7 @@ Libraries to help manage database schemas and migrations.
 * [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ### PHP Websites

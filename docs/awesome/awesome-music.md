@@ -1,4 +1,4 @@
-# Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A categorized collection of awesome music libraries, tools, frameworks and software.
 
@@ -136,7 +136,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
 * [SMuFL (https://github.com/ciconia/awesome-music/blob/master/Standard Music Font Layout)](https://github.com/ciconia/awesome-music/blob/master/http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
-# Other Awesomeness
+## Other Awesomeness
 
 ## Related lists
 

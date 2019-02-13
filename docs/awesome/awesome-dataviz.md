@@ -1,4 +1,4 @@
-# Awesome dataviz 
+## Awesome dataviz 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
@@ -151,7 +151,7 @@ Tools that are not tied to a particular platform or language.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
 - [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 
-# Resources
+## Resources
 
 ## Books
 - [Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) by Isabel Meirelles.
@@ -196,7 +196,7 @@ Tools that are not tied to a particular platform or language.
 - [Visual Complexity](http://www.visualcomplexity.com/vc/) - A site about the visualization of complex networks.  
 
 
-# Contributing
+## Contributing
 
 - Please check for duplicates first.
 - Keep descriptions short, simple and unbiased.
@@ -206,7 +206,7 @@ Tools that are not tied to a particular platform or language.
 Thanks for your suggestions!
 
 
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 

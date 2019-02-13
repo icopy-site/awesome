@@ -1,4 +1,4 @@
-# Awesome npm scripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome npm scripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/RyanZim/awesome-npm-scripts/master/npm-logo.png" align="right" width="150">](https://www.npmjs.com)
 

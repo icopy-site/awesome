@@ -1,4 +1,4 @@
-# Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
@@ -216,7 +216,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Q Light Controller+ (https://github.com/ebu/awesome-broadcasting/blob/master/QLC+)](https://github.com/ebu/awesome-broadcasting/blob/master/https://www.qlcplus.org/) - QLC+ is cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
 * [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
 
 ## Blogs
@@ -236,5 +236,5 @@ Various resources, such as books, websites and articles, for improving your skil
 
 <!-- This page is available on http://ebu.io/opensource -->
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.

@@ -1,4 +1,4 @@
-# Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Flask resources and plugins
 
@@ -170,7 +170,7 @@
 - [Flask-Paginate](https://github.com/lixxu/flask-paginate) - Pagination support for Flask
 - [Flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application
 
-# Resources
+## Resources
 ## Tutorials
 
 - [How to build a news app that never goes down and costs you practically nothing](https://github.com/humiaozuzu/awesome-flask/blob/master/http://blog.apps.npr.org/2013/02/14/app-template-redux.html) (https://github.com/humiaozuzu/awesome-flask/blob/master/by NPR)

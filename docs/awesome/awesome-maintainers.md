@@ -1,4 +1,4 @@
-# Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Talks, blog posts, and interviews about the experience of being an open source maintainer
 
 * [@alyssais](https://github.com/alyssais), [Homebrew](https://github.com/Homebrew/brew)

@@ -1,4 +1,4 @@
-# awesome-mysql
+## awesome-mysql
 
 A curated list of awesome MySQL free and opensource software, libraries and resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -199,7 +199,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
-# Resources
+## Resources
 
 *At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
 

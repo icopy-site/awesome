@@ -1,4 +1,4 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (https://github.com/fffaraz/awesome-cpp/blob/master/or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++](#awesome-cpp)
@@ -796,7 +796,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
-# Software
+## Software
 *Software for creating a development environment.*
 
 ## Compiler
@@ -909,7 +909,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [Uncrustify](https://github.com/bengardner/uncrustify) - Code beautifier.
 
-# Resources
+## Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
 
 ## API Design
@@ -1008,7 +1008,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
-# Other Awesome Lists
+## Other Awesome Lists
 *Other amazingly awesome lists*
 
 * [lists](https://github.com/fffaraz/awesome-cpp/blob/master/https://github.com/jnv/lists) - List of (https://github.com/fffaraz/awesome-cpp/blob/master/awesome) lists curated on GitHub.
@@ -1029,5 +1029,5 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.

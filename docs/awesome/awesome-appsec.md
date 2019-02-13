@@ -1,4 +1,4 @@
-# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
@@ -11,11 +11,11 @@ useful for tomorrow's application security experts.
 If you are an absolute beginner to the topic of software security, you may benefit
 from reading [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
 
-# Contributing
+## Contributing
 
 [Please refer to the contributing guide for details](https://github.com/paragonie/awesome-appsec/blob/master/CONTRIBUTING.md).
 
-# Application Security Learning Resources
+## Application Security Learning Resources
 
 
   * [General](#general)
@@ -146,7 +146,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Secure Ruby Development Guide](https://github.com/paragonie/awesome-appsec/blob/master/#secure-ruby-development-guide-2014) (https://github.com/paragonie/awesome-appsec/blob/master/2014)
 
 
-# General
+## General
 
 ## Articles
 
@@ -406,7 +406,7 @@ Quickly and easily assess the security of your HTTP response headers.
 
 A free CSP and HPKP reporting service.
 
-# Android
+## Android
 
 ## Books and ebooks
 
@@ -416,7 +416,7 @@ A free CSP and HPKP reporting service.
 
 A community-maintained Wiki detailing secure coding standards for Android development.
 
-# C
+## C
 
 ## Books and ebooks
 
@@ -432,7 +432,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
-# C++
+## C++
 
 ## Books and ebooks
 
@@ -442,7 +442,7 @@ Provides guidelines for improving software security through secure coding. Cover
 
 A community-maintained Wiki detailing secure coding standards for C++ programming.
 
-# C Sharp
+## C Sharp
 
 ## Books and ebooks
 
@@ -452,7 +452,7 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 
 An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
 
-# Go
+## Go
 
 ## Articles
 
@@ -462,7 +462,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 A guide to managing sensitive data in memory.
 
-# Java
+## Java
 
 ## Books and ebooks
 
@@ -478,7 +478,7 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 Secure Java programming guidelines straight from Oracle.
 
-# Node.js
+## Node.js
 
 ## Articles
 
@@ -506,7 +506,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
-# PHP
+## PHP
 
 ## Articles
 
@@ -632,7 +632,7 @@ Pádraic Brady is a Zend Framework security expert
 
 A weekly newsletter about PHP, security, and the community.
 
-# Perl
+## Perl
 
 ## Books and ebooks
 
@@ -642,7 +642,7 @@ A weekly newsletter about PHP, security, and the community.
 
 A community-maintained Wiki detailing secure coding standards for Perl programming.
 
-# Python
+## Python
 
 ## Books and ebooks
 
@@ -666,7 +666,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 A wiki maintained by the OWASP Python Security project.
 
-# Ruby
+## Ruby
 
 ## Books and ebooks
 

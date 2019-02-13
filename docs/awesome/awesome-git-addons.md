@@ -1,4 +1,4 @@
-# Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of add-ons that extend/enhance the git CLI.
 
@@ -1631,15 +1631,15 @@ Options:
 ## [git-user](https://github.com/gesquive/git-user)
 
 ```
-# add a work profile for Henry
+## add a work profile for Henry
 $ git user add work "Dr. Henry Jekyll" henry@jekyll.com
 Added profile 'work'
 
-# add a personal profile for Edward
+## add a personal profile for Edward
 $ git user add home "Edward Hyde" hyde@night.com
 Added profile 'home'
 
-# list out our saved profiles
+## list out our saved profiles
 $ git user list
 Global Profile:
   User: Henry <hjekyll@gmail.com>
@@ -1648,11 +1648,11 @@ Saved Profiles:
   home: Edward Hyde <hyde@night.com>
   work: Dr. Henry Jekyll <henry@jekyll.com>
 
-# set the current git repository user to the home profile
+## set the current git repository user to the home profile
 $ git user set home
 The user for the 'project' repository has been set too 'Edward Hyde <hyde@night.com>'
 
-# list profiles again, notice how the current repository profile is now set
+## list profiles again, notice how the current repository profile is now set
 $ git user
 Project Profile:
   Path: /path/to/git/project
@@ -1680,17 +1680,17 @@ TBD
 
 ```
 $ git recall
-# By default (https://github.com/stevemao/awesome-git-addons/blob/master/without options), the command will display commits from yesterday and
-# for the current user.
+## By default (https://github.com/stevemao/awesome-git-addons/blob/master/without options), the command will display commits from yesterday and
+## for the current user.
 
 $ git recall -d 5 -a "Doge"
-# Show all Doge's commits from 5 days ago.
+## Show all Doge's commits from 5 days ago.
 
 $ git recall -d 5 -a "all"
-# Show commits of all contributors from 5 days ago.
+## Show commits of all contributors from 5 days ago.
 
 $ git recall -f
-# Fetch commits beforehand.
+## Fetch commits beforehand.
 ```
 
 

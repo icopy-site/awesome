@@ -1,4 +1,4 @@
-# Awesome chrome-devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome chrome-devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 

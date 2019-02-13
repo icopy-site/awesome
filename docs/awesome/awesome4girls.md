@@ -1,4 +1,4 @@
-# awesome4girls [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg?style=flat-square&label=awesomeness)](https://travis-ci.org/cristianoliveira/awesome4girls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+## awesome4girls [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg?style=flat-square&label=awesomeness)](https://travis-ci.org/cristianoliveira/awesome4girls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -567,7 +567,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
-# License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 (https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
 
 This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://github.com/cristianoliveira/awesome4girls/blob/master/https://creativecommons.org/publicdomain/zero/1.0/)

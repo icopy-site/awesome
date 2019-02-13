@@ -1,4 +1,4 @@
-# .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of useful .htaccess snippets, all in one place.
 
 **NOTE**: `.htaccess` files are for people that do not have rights to edit the main server configuration file. They are intrinsically slower and more complicated than using the main config. Please see the [howto in the httpd documentation](https://httpd.apache.org/docs/current/howto/htaccess.html) for further details.
@@ -97,9 +97,9 @@ RewriteEngine on
 RewriteCond %{HTTPS} !on
 RewriteRule (https://github.com/phanan/htaccess/blob/master/.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-# Note: It’s also recommended to enable HTTP Strict Transport Security (https://github.com/phanan/htaccess/blob/master/HSTS)
-# on your HTTPS website to help prevent man-in-the-middle attacks.
-# See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
+## Note: It’s also recommended to enable HTTP Strict Transport Security (https://github.com/phanan/htaccess/blob/master/HSTS)
+## on your HTTPS website to help prevent man-in-the-middle attacks.
+## See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
 <IfModule mod_headers.c>
     # Remove "includeSubDomains" if you don't want to enforce HSTS on all subdomains
     Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
@@ -199,7 +199,7 @@ RewriteRule ^robots.txt - [L]
 Deny from all
 
 ## Apache 2.4
-# Require all denied
+## Require all denied
 ```
 
 But wait, this will lock you out from your content as well! Thus introducing...
@@ -212,8 +212,8 @@ Deny from all
 Allow from xxx.xxx.xxx.xxx
 
 ## Apache 2.4
-# Require all denied
-# Require ip xxx.xxx.xxx.xxx
+## Require all denied
+## Require ip xxx.xxx.xxx.xxx
 ```
 `xxx.xxx.xxx.xxx` is your IP. If you replace the last three digits with `0/12` for example, this will specify a range of IPs within the same network, thus saving you the trouble to list all allowed IPs separately. [Source](http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
 
@@ -227,9 +227,9 @@ Deny from xxx.xxx.xxx.xxx
 Deny from xxx.xxx.xxx.xxy
 
 ## Apache 2.4
-# Require all granted
-# Require not ip xxx.xxx.xxx.xxx
-# Require not ip xxx.xxx.xxx.xxy
+## Require all granted
+## Require not ip xxx.xxx.xxx.xxx
+## Require not ip xxx.xxx.xxx.xxy
 ```
 
 ### Deny Access to Hidden Files and Directories
@@ -268,15 +268,15 @@ Options All -Indexes
 ### Disable Image Hotlinking
 ``` apacheconf
 RewriteEngine on
-# Remove the following line if you want to block blank referrer too
+## Remove the following line if you want to block blank referrer too
 RewriteCond %{HTTP_REFERER} !^$
 
 RewriteCond %{HTTP_REFERER} !^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?example.com [NC]
 RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
-# If you want to display a “blocked” banner in place of the hotlinked image,
-# replace the above rule with:
-# RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## If you want to display a “blocked” banner in place of the hotlinked image,
+## replace the above rule with:
+## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 ```
 
 ### Disable Image Hotlinking for Specific Domains
@@ -287,9 +287,9 @@ RewriteCond %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/m
 RewriteCond %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite2\.com [NC,OR]
 RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
-# If you want to display a “blocked” banner in place of the hotlinked image,
-# replace the above rule with:
-# RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## If you want to display a “blocked” banner in place of the hotlinked image,
+## replace the above rule with:
+## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 ```
 
 ### Password Protect a Directory
@@ -326,7 +326,7 @@ This denies access for all users who are coming from (https://github.com/phanan/
 [Source](http://www.htaccess-guide.com/deny-visitors-by-referrer/)
 ``` apacheconf
 RewriteEngine on
-# Options +FollowSymlinks
+## Options +FollowSymlinks
 RewriteCond %{HTTP_REFERER} somedomain\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} anotherdomain\.com
 RewriteRule .* - [F]
@@ -453,7 +453,7 @@ FileETag None
 ``` apacheconf
 php_value <key> <val>
 
-# For example:
+## For example:
 php_value upload_max_filesize 50M
 php_value max_execution_time 240
 ```
@@ -498,10 +498,10 @@ CDN-served webfonts might not work in Firefox or IE due to [CORS](https://en.wik
 ### Auto UTF-8 Encode
 Your text content should always be UTF-8 encoded, no?
 ``` apacheconf
-# Use UTF-8 encoding for anything served text/plain or text/html
+## Use UTF-8 encoding for anything served text/plain or text/html
 AddDefaultCharset utf-8
 
-# Force UTF-8 for a number of file formats
+## Force UTF-8 for a number of file formats
 AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 ```
 [Source](https://github.com/h5bp/server-configs-apache)
@@ -512,7 +512,7 @@ If you’re on a shared host, chances are there are more than one version of PHP
 ``` apacheconf
 AddHandler application/x-httpd-php56 .php
 
-# Alternatively, you can use AddType
+## Alternatively, you can use AddType
 AddType application/x-httpd-php56 .php
 ```
 

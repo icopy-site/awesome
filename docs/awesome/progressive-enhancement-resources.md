@@ -1,4 +1,4 @@
-# Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A comprehensive collection of resources on Progressive Enhancement. From concept and strategies to feature detection and testing methods. Complete with a list of (https://github.com/jbmoelker/progressive-enhancement-resources/blob/master/code) examples.
 

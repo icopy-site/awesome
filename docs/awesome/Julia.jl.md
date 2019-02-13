@@ -1,4 +1,4 @@
-# Julia.jl
+## Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
@@ -13,7 +13,7 @@
    
 ----
 
-# INDEX
+## INDEX
 For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions. [Pkg3.jl](https://github.com/JuliaLang/Pkg3.jl) is an next-generation package manager for Julia that creates a `Manifest.toml` file that records the exact versions of each dependency and their transitive dependencies.  
 
 To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
@@ -48,7 +48,7 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 
 ----
 
-# LICENSE
+## LICENSE
 + COPYRIGHT © 2012-Now [SVAKSHA](https://github.com/svaksha/Julia.jl/blob/master/http://svaksha.com/pages/Bio), herewith dual-licensed for the data (https://github.com/svaksha/Julia.jl/blob/master/ODbL-v1.0+) and the software (https://github.com/svaksha/Julia.jl/blob/master/AGPLv3+), respectively. 
 
 ## [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
@@ -65,7 +65,7 @@ The motivation for this change is to make it easier for people to re-use this da
 
 ----
 
-# CONTRIBUTE
+## CONTRIBUTE
 [Contributions](https://github.com/svaksha/Julia.jl/blob/master/https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (https://github.com/svaksha/Julia.jl/blob/master/PR). Here are some guidelines and tips on how to submit a Bug Report (https://github.com/svaksha/Julia.jl/blob/master/BR) and/or [PR](https://github.com/svaksha/Julia.jl/blob/master/https://github.com/svaksha/Julia.jl/pulls):
 
 ## Guidelines

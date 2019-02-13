@@ -174,7 +174,7 @@
 
 
 
-# Resources
+## Resources
 
 
 ### Official Resources
@@ -562,7 +562,7 @@
 - [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
 - [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
 
-# Projects Using Vue.js
+## Projects Using Vue.js
 
 ### Open Source
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
@@ -952,7 +952,7 @@
 - [vue-focus-lock](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
 - [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 
-# Components & Libraries
+## Components & Libraries
 
 
 ## UI Components

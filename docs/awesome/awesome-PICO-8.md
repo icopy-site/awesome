@@ -1,4 +1,4 @@
-# Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ![PICO-8](https://www.lexaloffle.com/gfx/p8_jelpi.gif)

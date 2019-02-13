@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.png" alt="awesome-crystal"></p>
 
-# Awesome Crystal
+## Awesome Crystal
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
@@ -536,7 +536,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [salt](https://github.com/icyleaf/salt) - A Human Friendly Interface for HTTP server
  * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server
 
-# Community
+## Community
  * [Crystal weekly newsletters](http://crystalweekly.com/)
  * [Gitter](https://gitter.im/crystal-lang/crystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
@@ -548,7 +548,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Unofficial
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
-# Resources
+## Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
  * [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
@@ -563,7 +563,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ru.crystal-lang.org](http://ru.crystal-lang.org/) - Russian
  * [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
 
-# Services and Apps
+## Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
@@ -579,7 +579,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
-# Tools
+## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal

@@ -23,7 +23,7 @@ tools, tutorials, articles and more. PRs are welcome!
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
 
-# Buzzing
+## Buzzing
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
@@ -63,7 +63,7 @@ dotan-at-paracode.com.
 > We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
-# Categories
+## Categories
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 

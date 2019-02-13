@@ -1,4 +1,4 @@
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
@@ -146,7 +146,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ---
 
-# License
+## License
 
 [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 

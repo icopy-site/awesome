@@ -1,4 +1,4 @@
-# Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-logo.png" align="right" width="150">](https://vapor.codes)
 

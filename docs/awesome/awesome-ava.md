@@ -1,4 +1,4 @@
-# Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
+## Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
 
 > [AVA](https://ava.li) is a minimal & futuristic JavaScript test runner
 

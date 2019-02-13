@@ -1,4 +1,4 @@
-# Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Meteor Packages, libraries and software.
 
@@ -275,7 +275,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [numtel:mysql](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor
 * [simple:rethink](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor
 
-# Resources
+## Resources
 
 Where to discover new Meteor things.
 
@@ -347,7 +347,7 @@ Where to discover new Meteor things.
 
 * [We Work Meteor](https://www.weworkmeteor.com/)
 
-# [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
+## [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
 Your contributions are always welcome!
 

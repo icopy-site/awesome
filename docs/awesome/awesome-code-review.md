@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/joho/awesome-code-review/master/Awesome Code Review.png" alt="Awesome Code Review" />
 
-# Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of tools, articles, books, and any other resource related to [code review](https://en.wikipedia.org/wiki/Code_review)
 

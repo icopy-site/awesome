@@ -1,10 +1,10 @@
-# Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
 [Lock picking](https://github.com/meitar/awesome-lockpicking/blob/master/https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
 
-# Contents
+## Contents
 
 * [Books](#books)
 * [Contests, conferences, and events](#contests-conferences-and-events)
@@ -14,11 +14,11 @@
 * [Online communities](#online-communities)
 * [Vendors](#vendors)
 
-# Books
+## Books
 
 * [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
 
-# Contests, conferences, and events
+## Contests, conferences, and events
 
 * [Chaos Communications Congress (https://github.com/meitar/awesome-lockpicking/blob/master/CCC)](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.ccc.de/) - CCC hosts the German Lockpicking Championships.
 * [DEF CON](https://defcon.org/) - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
@@ -26,7 +26,7 @@
 * [OzLockCon](https://ozlockcon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
 * [LockCon](https://toool.nl/LockCon) - Annual, invitation-only international conference about locks for members of respected locksport organizations.
 
-# Hobby projects
+## Hobby projects
 
 * [3D Printed Lock Picks](https://github.com/meitar/awesome-lockpicking/blob/master/http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. (https://github.com/meitar/awesome-lockpicking/blob/master/[Find more digital models](https://github.com/meitar/awesome-lockpicking/blob/master/https://www.yeggi.com/q/lockpick/).)
 * [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
@@ -34,7 +34,7 @@
 * [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
 * [Under Door Tool Kit Instructions](https://github.com/meitar/awesome-lockpicking/blob/master/https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door (https://github.com/meitar/awesome-lockpicking/blob/master/"lever opening"/"Mule") tool using material available at a typical hardware store.
 
-# How-to lockpicking guides
+## How-to lockpicking guides
 
 * [Art of Lockpicking](https://art-of-lockpicking.com/) - Educational website with animations detailing the process of picking locks.
 * [Beginner's Guide to Security Pins](https://web.archive.org/web/20171210065243/http://www.ninjacache.com:80/secpins_intro) - Short article guiding beginners comfortable with picking padlocks towards an understanding of more complex locks.
@@ -47,27 +47,27 @@
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 * [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - Locksport primer in the style of a comic book, with photographs and speech bubbles.
 
-# Locksport associations and organizations
+## Locksport associations and organizations
 
 * [Fraternal Order of Lock Sport (https://github.com/meitar/awesome-lockpicking/blob/master/FOOLS)](https://github.com/meitar/awesome-lockpicking/blob/master/http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
 * [The Open Organization Of Lockpickers (https://github.com/meitar/awesome-lockpicking/blob/master/TOOOL)](https://github.com/meitar/awesome-lockpicking/blob/master/https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
 
-# Online communities
+## Online communities
 
 * [Keypicking.com](https://keypicking.com/) - Bustling online forum for the discussion of lockpicking and locksport.
 * [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
 * [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
 
-# Online resources
+## Online resources
 
 * [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
 
-# Vendors
+## Vendors
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 * [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.

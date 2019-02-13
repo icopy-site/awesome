@@ -1,4 +1,4 @@
-# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [Capture The Flag](https://github.com/apsdehal/awesome-ctf/blob/master/https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (https://github.com/apsdehal/awesome-ctf/blob/master/CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 
@@ -42,7 +42,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Wikis](#wikis)
   - [Writeups Collections](#writeups-collections)
 
-# Create
+## Create
 
 *Tools used for creating CTF challenges*
 
@@ -87,7 +87,7 @@ Check solve section for steganography.
 - [Uglify](http://marijnhaverbeke.nl//uglifyjs)
 
 
-# Solve
+## Solve
 
 *Tools used for solving CTF challenges*
 
@@ -268,7 +268,7 @@ Check solve section for steganography.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
 
-# Resources
+## Resources
 
 *Where to discover about CTF*
 

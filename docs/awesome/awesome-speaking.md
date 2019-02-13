@@ -51,5 +51,5 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 
-# LICENSE
+## LICENSE
 [MIT](https://github.com/matteofigus/awesome-speaking/blob/master/LICENSE.md)

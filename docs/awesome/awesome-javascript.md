@@ -1,4 +1,4 @@
-# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
@@ -896,7 +896,7 @@ http://www.listjs.com
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 * [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
-# Worth Reading
+## Worth Reading
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
 * [JSbooks](https://github.com/revolunet/JSbooks)
@@ -906,7 +906,7 @@ http://www.listjs.com
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 
 
-# Other Awesome Lists
+## Other Awesome Lists
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -926,11 +926,11 @@ http://www.listjs.com
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-# Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/sorrycc/awesome-javascript/blob/master/CONTRIBUTING.md) first.
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

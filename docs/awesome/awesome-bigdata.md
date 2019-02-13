@@ -1,4 +1,4 @@
-# Awesome Big Data
+## Awesome Big Data
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -740,7 +740,7 @@ for Data Analytics at Twitter.
  * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
 
 
-# Other Awesome Lists
+## Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).

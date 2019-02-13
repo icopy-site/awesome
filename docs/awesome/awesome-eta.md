@@ -1,4 +1,4 @@
-# Awesome Eta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Eta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
 

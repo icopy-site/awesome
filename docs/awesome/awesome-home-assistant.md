@@ -1,4 +1,4 @@
-# Awesome Home Assistant
+## Awesome Home Assistant
 
 <div align="center">
   <a href="https://awesome-ha.com">

@@ -21,7 +21,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-# Models
+## Models
 
 ## Image - Metadata/Text
 *Models that takes image data as input and output useful information about the image.*
@@ -66,11 +66,11 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * **Artists Recommendation** - Recommend an artist based on given location and genre. [Download](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel) | [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 
 
-# Visualization Tools
+## Visualization Tools
 *Tools that helps visualize CoreML Models*
 * [Netron](https://lutzroeder.github.io/Netron)
 
-# Supported formats
+## Supported formats
 *List of model formats that could be converted to Core ML with examples*
 * [Caffe](https://apple.github.io/coremltools/generated/coremltools.converters.caffe.convert.html)
 * [Keras](https://apple.github.io/coremltools/generated/coremltools.converters.keras.convert.html)
@@ -80,7 +80,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [LibSVM](https://apple.github.io/coremltools/generated/coremltools.converters.libsvm.convert.html)
 * [Torch7](https://github.com/prisma-ai/torch2coreml)
 
-# The Gold
+## The Gold
 *Collections of machine learning models that could be converted to Core ML*
 
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
@@ -102,6 +102,6 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [mtcnn](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 * [deephorizon](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
-# Contributing and License
+## Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.

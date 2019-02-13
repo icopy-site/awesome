@@ -1,4 +1,4 @@
-# Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
+## Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
 - [Awesome Erlang](#awesome-Erlang)
@@ -247,7 +247,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 * [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
 
-# Resources
+## Resources
 Various resources, such as books, websites and articles, for improving your Erlang development skills and knowledge.
 
 ## Websites
@@ -276,5 +276,5 @@ Various resources, such as books, websites and articles, for improving your Erla
 ## Screencasts
 *Cool video tutorials.*
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.

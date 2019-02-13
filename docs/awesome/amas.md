@@ -1,4 +1,4 @@
-# Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 

@@ -1260,7 +1260,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RenderSync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
 
-# Services and Apps
+## Services and Apps
 
 Online tools, services and APIs to simplify development.
 
@@ -1285,7 +1285,7 @@ Online tools, services and APIs to simplify development.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
 * [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
 
-# Resources
+## Resources
 
 Where to discover new Ruby libraries, projects and trends.
 

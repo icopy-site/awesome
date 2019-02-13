@@ -1,4 +1,4 @@
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
@@ -1267,7 +1267,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django.
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
-# Services
+## Services
 
 Online tools and APIs to simplify development.
 
@@ -1287,7 +1287,7 @@ Online tools and APIs to simplify development.
 * [CodeFactor](https://www.codefactor.io/) - Automated Code Review for Git.
 * [Landscape](https://landscape.io/) - Hosted continuous Python code metrics.
 
-# Resources
+## Resources
 
 Where to discover new Python libraries.
 
@@ -1336,7 +1336,7 @@ Where to discover new Python libraries.
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Python Tricks](https://realpython.com/python-tricks/)
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 List of lists.
 
@@ -1352,7 +1352,7 @@ List of lists.
     * [Python Podcasts](https://www.cybrhome.com/topic/python-podcasts)
     * [Python for Social Good](https://github.com/metakermit/awesome-python-for-social-good)
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 

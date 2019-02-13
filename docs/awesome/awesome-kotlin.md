@@ -3,7 +3,7 @@
     please read CONTRIBUTING.md for more information.
 -->
 
-# Awesome Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/[https://kotlin.link](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://kotlin.link))
+## Awesome Kotlin (https://github.com/KotlinBy/awesome-kotlin/blob/master/[https://kotlin.link](https://github.com/KotlinBy/awesome-kotlin/blob/master/https://kotlin.link))
 
 A curated list of awesome Kotlin related stuff inspired by awesome-java. :octocat:
 

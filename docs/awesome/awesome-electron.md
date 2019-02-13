@@ -1,4 +1,4 @@
-# Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
 

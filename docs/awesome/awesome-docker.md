@@ -1,4 +1,4 @@
-# Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) [![Say Thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/veggiemonk)
+## Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) [![Say Thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/veggiemonk)
 
 > A curated list of Docker resources and projects
 > Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] and improved by these **[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
@@ -18,7 +18,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 All the links are monitored and tested with [awesome_bot](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
 
-# Contents
+## Contents
 
 <!-- TOC -->
 
@@ -74,19 +74,19 @@ All the links are monitored and tested with [awesome_bot](https://github.com/dkh
 
 <!-- /TOC -->
 
-# Legend
+## Legend
 
 - Abandoned :skull:
 - Beta :construction:
 - Monetized :heavy_dollar_sign:
 
-# What is Docker
+## What is Docker
 
 > Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.
 
 _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
-# Where to start
+## Where to start
 
 - [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum): A comprehensive tutorial for getting started with Docker. Teaches how to use Docker and deploy dockerized apps on AWS with Elastic Beanstalk and Elastic Container Service.
 - [Docker Documentation](https://docs.docker.com/): the official documentation
@@ -105,7 +105,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [@JensPiegsa](http://docker.jens-piegsa.com)
 - [@wsargent](https://github.com/veggiemonk/awesome-docker/blob/master/https://github.com/wsargent/docker-cheat-sheet) (https://github.com/veggiemonk/awesome-docker/blob/master/Most popular)
 
-# Where to start (https://github.com/veggiemonk/awesome-docker/blob/master/Windows)
+## Where to start (https://github.com/veggiemonk/awesome-docker/blob/master/Windows)
 
 - [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) Comparing the feature sets and implementations of Docker on Windows and Linux
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) Walkthrough installing Docker on Windows 10, building a Docker image and running a Windows container
@@ -119,7 +119,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ---
 
-# Projects
+## Projects
 
 - Moby = open source development
 - Docker CE = free product release based on Moby
@@ -615,7 +615,7 @@ Services to securely store your Docker images.
 - [SPM for Docker](https://github.com/sematext/sematext-agent-docker) :heavy_dollar_sign: - Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. [@sematext](https://github.com/sematext)
 - [Sysdig Monitor](https://sysdig.com/products/monitor/) :heavy_dollar_sign: - Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.
 
-# Useful Resources
+## Useful Resources
 
 - **[Valuable Docker Links](https://www.nkode.io/2014/08/24/valuable-docker-links.html)** High quality articles about docker! **MUST SEE**
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
@@ -684,7 +684,7 @@ Services to securely store your Docker images.
 - [State of containers: a debate with CoreOS, VMware and Google](https://github.com/veggiemonk/awesome-docker/blob/master/https://www.youtube.com/watch?v=IiITP3yIRd8) (https://github.com/veggiemonk/awesome-docker/blob/master/27:38)
 - [SysAdminCasts: Introduction to Docker](https://github.com/veggiemonk/awesome-docker/blob/master/https://sysadmincasts.com/episodes/31-introduction-to-docker) (https://github.com/veggiemonk/awesome-docker/blob/master/15:49)
 
-# Communities and Meetups
+## Communities and Meetups
 
 ## Brazilian
 

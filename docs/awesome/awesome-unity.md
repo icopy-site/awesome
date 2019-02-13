@@ -125,13 +125,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Playmaker (https://github.com/RyanNielson/awesome-unity/blob/master/Paid)](https://github.com/RyanNielson/awesome-unity/blob/master/https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
 
-# Projects
+## Projects
 
 ## Games
 
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
-# Resources
+## Resources
 
 ## Tips and Tricks
 
@@ -152,5 +152,5 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 
-# Contributing
+## Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.

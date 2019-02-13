@@ -1,4 +1,4 @@
-# Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome lit-html resources.
 

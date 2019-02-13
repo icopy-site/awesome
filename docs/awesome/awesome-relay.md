@@ -1,7 +1,7 @@
-# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
 
-# Table of Contents
+## Table of Contents
 - [Learning Resources](#learning-resources)
   - [Documentation](#documentation)
   - [FAQs](#faqs)
@@ -22,7 +22,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Scala](#scala)
 - [Testing](#testing)
 
-# Learning Resources
+## Learning Resources
 ## Documentation
 - [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
 
@@ -61,7 +61,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
 
-# Ecosystem
+## Ecosystem
 ## Libraries & Packages
 - [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
@@ -97,7 +97,7 @@ Boilerplate + examples for React Native (https://github.com/expede/awesome-relay
 - [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 - [Relay Fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 
-# Relay-Specific Server Support
+## Relay-Specific Server Support
 ## Go
 - [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
@@ -119,5 +119,5 @@ Boilerplate + examples for React Native (https://github.com/expede/awesome-relay
 ## Scala
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
-# Testing
+## Testing
 - [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 

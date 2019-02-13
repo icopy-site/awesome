@@ -1,4 +1,4 @@
-# Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of boilerplates and templates to enhance productivity.
 
@@ -180,7 +180,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 - [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
-# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
+## [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
 Your contributions are always welcome!
 

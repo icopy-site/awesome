@@ -3,7 +3,7 @@ awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d730
 
 _:clipboard: A list of styleguides_
 
-# Contents
+## Contents
 
 - [Contributing](#contributing)
 - [How to build a styleguide](#how-to-build-a-styleguide)
@@ -40,17 +40,17 @@ _:clipboard: A list of styleguides_
 - [License](#license)
 
 
-# Contributing
+## Contributing
 
 If you have used any of these styleguides, please add a comment if you can! The more information, the better. Please look at  the [contributing](https://github.com/RichardLitt/awesome-styleguides/blob/master/contributing.md) file. Thanks!
 
-# How to build a styleguide
+## How to build a styleguide
 * [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/) - By Ian Feather of Lonely Planet, advocates Style Guide Driven Development, which is pretty snazzy.
 * [Huge's Styleguide Tool](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
 * [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) - A good overview of what is out there.
 
 
-# Other Styleguide Lists
+## Other Styleguide Lists
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/) - A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [Narkoz](https://github.com/narkoz/guides)
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
@@ -58,7 +58,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Styleguides.io](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
-# Styleguides
+## Styleguides
 
 ## Generic
 * [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
@@ -186,7 +186,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
 
-# Non-Code
+## Non-Code
 
 * [BBC News Style Guide](https://www.bbc.co.uk/academy/en/collections/news-style-guide) - The guide for all BBC News output covers spelling, punctuation and grammar, as well as accuracy, fairness and impartiality.
 * [Bishop Fox Cybersecurity Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/) - From malicious viruses to viral memes, for security researchers.
@@ -198,7 +198,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 * [Xerox Publishing Standards](https://archive.org/details/xeroxpublishingstan00xero) - The definitive reference to writing style and design for the business world. Provided courtesy of Xerox Corporation.
 
-# License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

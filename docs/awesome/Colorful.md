@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/Siddharth11/Colorful/master/color-palette.gif" alt="header image">
 </p>
 
-# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__
 Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 

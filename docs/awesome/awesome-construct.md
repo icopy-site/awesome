@@ -1,4 +1,4 @@
-# Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.construct.net/)
 

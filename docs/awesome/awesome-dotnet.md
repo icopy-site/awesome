@@ -1,4 +1,4 @@
-# Awesome .NET!
+## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
@@ -12,13 +12,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 
-# Table of Contents
+## Table of Contents
 
 * [Awesome DotNet](#awesome-dotnet)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -1030,7 +1030,7 @@ metadata in media files, including video, audio, and photo formats
 * [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
-# Other Lists
+## Other Lists
 
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 * [awesome-LINQ](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
@@ -1044,7 +1044,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
-# Resources
+## Resources
 
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.

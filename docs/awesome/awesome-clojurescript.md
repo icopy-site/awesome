@@ -1,7 +1,7 @@
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      align="right"/>
 
-# Awesome ClojureScript
+## Awesome ClojureScript
 
 ##### A community driven list of ClojureScript frameworks, libraries and wrappers.
 

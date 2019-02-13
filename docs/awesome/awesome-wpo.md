@@ -1,4 +1,4 @@
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
@@ -119,7 +119,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 > They are categorized into [TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md).
 
 
-# Tools
+## Tools
 
 
 ## Analyzers
@@ -403,7 +403,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 
 
-# Specs
+## Specs
 
 * [Web Performance Working Group](http://www.w3.org/2010/webperf/) - The mission of the Web Performance Working Group, part of the Rich Web Client Activity, is to provide methods to measure aspects of application performance of user agent features and APIs.
 * [Page Visibility](http://www.w3.org/TR/page-visibility/) - This specification defines a means for site developers to programmatically determine the current visibility state of the page in order to develop power and CPU efficient web applications.
@@ -415,17 +415,17 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Resource Hints](https://github.com/davidsonfellipe/awesome-wpo/blob/master/http://www.w3.org/TR/resource-hints/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (https://github.com/davidsonfellipe/awesome-wpo/blob/master/&lt;link&gt;). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
 
 
-# Stats
+## Stats
 
 * [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 
-# Contributing
+## Contributing
 
 For contributing, [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).

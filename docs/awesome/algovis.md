@@ -3,7 +3,7 @@ algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 
 This is collection of projects and links about algorithm visualization.
 
-# Projects
+## Projects
 
 * [Setosa](https://github.com/enjalot/algovis/blob/master/http://setosa.io) blog (https://github.com/enjalot/algovis/blob/master/example: [Gridlock vs. Bottlenecks](https://github.com/enjalot/algovis/blob/master/http://setosa.io/blog/2014/09/02/gridlock/index.html))
 [<img src='https://raw.githubusercontent.com/enjalot/algovis/master/images/setosa.png' width='800px'/>](http://setosa.io/blog/2014/09/02/gridlock/index.html)
@@ -34,7 +34,7 @@ This is collection of projects and links about algorithm visualization.
 * [Melkman's Algorithm interactively explained](http://maxgoldste.in/melkman/)
 [<img src='https://raw.githubusercontent.com/enjalot/algovis/master/images/melkman.png' width='800px'/>](http://maxgoldste.in/melkman/)
 
-# Libraries & tools
+## Libraries & tools
 
 * [Tailspin](http://will.thimbleby.net/algorithms/doku.php): JS interpreter in JS that runs an algorithm and lets the visualization inspect the local variables. Records history to allow stepping backwards too.
 * [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with pseudocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
@@ -44,14 +44,14 @@ This is collection of projects and links about algorithm visualization.
 * [Tangle](http://worrydream.com/Tangle/)
 
 
-# References
+## References
 
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Active Essays on the Web](http://tinlizzie.org/chalkboard/#ActiveEssaysOnTheWeb)
 * [Visualizing sorting algorithms](http://corte.si/posts/code/visualisingsorting/) - arguing that static visualizations are better than algorithm animation
 
 
-# Examples
+## Examples
 
 * [Garbage Collection](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
 * [Spatial Hashing](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)

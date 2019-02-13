@@ -13,7 +13,7 @@
 ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
-# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
+## Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Shells](#shells)
@@ -347,7 +347,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [rebash](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
-# Guides
+## Guides
 
 * [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (https://github.com/alebcay/awesome-shell/blob/master/aka "greycat") wiki](https://github.com/alebcay/awesome-shell/blob/master/http://mywiki.wooledge.org).
@@ -361,7 +361,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 

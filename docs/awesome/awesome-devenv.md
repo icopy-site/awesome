@@ -1,4 +1,4 @@
-# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
@@ -17,7 +17,7 @@ But in short:
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
-# Content
+## Content
 
 _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 

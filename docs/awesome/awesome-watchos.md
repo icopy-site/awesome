@@ -1,7 +1,7 @@
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
 =========================
 
-# Deprecated! This list will no longer be updated due to my focus shift.
+## Deprecated! This list will no longer be updated due to my focus shift.
 
 =========================
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
@@ -22,10 +22,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 - [Contributing](#contributing)
 
 
-# Getting Started
+## Getting Started
  * [Apple Watch Programming Guide](https://developer.apple.com/library/ios/documentation/General/Conceptual/WatchKitProgrammingGuide/index.html) - Official apple watch programming guide by Apple.
 
-# Libraries And Frameworks
+## Libraries And Frameworks
 
 ### Connectivity
  * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
@@ -49,7 +49,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="250"/>
 
-# Design
+## Design
 
 ### Design Guidelines
  * [Designing for Apple Watch](https://developer.apple.com/videos/wwdc/2015/?id=802) - Official WWDC 2015 session by Apple about how to design for apple watch.
@@ -61,7 +61,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  * [ Watch Design Resources](https://developer.apple.com/watch/human-interface-guidelines/resources/) - Official design resources provided by Apple, including Apple Watch Bezels, Guides, Templates, Typeface.
  * [Chart of Apple Watch Complication Types and Layouts](http://i.imgur.com/4Thz881.jpg) - An useful chart of all the possible combinations of Complications.
 
-# Tools
+## Tools
 
 ### Prototyping
  * [thinkapps for watch](http://thinkapps.com/watch-apps) - A website help you create your free Apple Watch App prototype in just 10 minutes.
@@ -70,7 +70,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  * [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
  * [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
 
-# Sample Apps
+## Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
 
    <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
@@ -120,7 +120,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="230"/>
 
-# Books
+## Books
  * [watchOS 2 by Tutorials](http://www.raywenderlich.com/store/watchos-2-by-tutorials)
 
     <space><space><img src="http://cdn5.raywenderlich.com/wp-content/themes/raywenderlich/images/store-2015/w2t_PDF_640.png") alt="Example App" width="320"/>
@@ -129,7 +129,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1_204_203_200_.jpg") alt="Example App" width="280"/>
 
-# Tutorials
+## Tutorials
 
 ### WatchKit Introduction
  * [WatchKit Tutorial with Swift Part 1: Getting Started](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
@@ -151,10 +151,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 ##### Connectivity
  * [How to communicate between devices using Watch Connectivity](http://www.kristinathai.com/watchos-2-tutorial-using-sendmessage-for-instantaneous-data-transfer-watch-connectivity-1/?utm_campaign=WatchKit%2BResources) - A tutorial about how to use  Watch Connectivity framework to communicate between devices.
 
-# Twitters
+## Twitters
 * [WatchKit Resources](https://twitter.com/WatchKitSources)
 
-# Other Awesome Lists
+## Other Awesome Lists
 Other amazingly awesome lists can be found in the
  * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
@@ -169,12 +169,12 @@ Other amazingly awesome lists can be found in the
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
-# Contributing
+## Contributing
 Contributions welcome! Read the [contribution guidelines](https://github.com/yenchenlin/awesome-watchos/blob/master/contributing.md) first.
 
 Feel free to contribute & Thank you very much!
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -16,7 +16,7 @@
   </a>
 </p>
 
-# Contents
+## Contents
 
 - [Summary](#summary)
 - [Curriculum](#curriculum)
@@ -32,7 +32,7 @@
   - [Team](#team)
 - [References](#references)
 
-# Summary
+## Summary
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
@@ -81,7 +81,7 @@ just remember that you can't purchase success!
 
 **Getting help**. Please check our [Frequently Asked Questions](https://github.com/ossu/computer-science/blob/master/FAQ.md), and if you cannot find the answer, file an issue or talk to our [friendly community](https://github.com/ossu/computer-science/blob/master/#community)!
 
-# Curriculum
+## Curriculum
 
 **Curriculum version**: `8.0.0` (https://github.com/ossu/computer-science/blob/master/see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
@@ -485,10 +485,10 @@ These aren't the only specializations you can choose. Check the following websit
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
-# Code of conduct
+## Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
-# Community
+## Community
 
 - Subscribe to our [newsletter](https://tinyletter.com/ossu).
 - Use our [forum](https://github.com/ossu/forum) if you need some help.
@@ -528,7 +528,7 @@ You can change the status of your board to be *public* or *private*.
 * **Curriculum Maintainers**: [Eric Douglas](https://github.com/ericdouglas) and [hanjiexi](https://github.com/hanjiexi)
 * **Contributors**: [contributors](https://github.com/ossu/computer-science/graphs/contributors)
 
-# References
+## References
 
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)

@@ -6,7 +6,7 @@
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
-# Awesome Machine Learning with Ruby [<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
+## Awesome Machine Learning with Ruby [<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Curated List of Ruby Machine Learning Links and Resources
 

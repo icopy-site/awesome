@@ -1,4 +1,4 @@
-# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (https://github.com/AchoArnold/discount-for-student-dev/blob/master/SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
@@ -162,7 +162,7 @@ Table of Contents
   * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
   * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
   * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

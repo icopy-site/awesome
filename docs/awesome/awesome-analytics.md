@@ -1,4 +1,4 @@
-# Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
 
@@ -130,7 +130,7 @@ Often there is no clear differentiation between social media management and anal
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 
-# Other Awesome Lists
+## Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).

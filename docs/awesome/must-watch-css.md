@@ -2,7 +2,7 @@
   <img src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" width="200" alt="TV icon">
 </p>
 
-# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 

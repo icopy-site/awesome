@@ -1,4 +1,4 @@
-# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
