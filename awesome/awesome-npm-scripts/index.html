@@ -6970,20 +6970,20 @@
 <p>A quick reference of the shell operators &amp; commands that work the same on Unix and Windows.</p>
 <ul>
 <li><code>&amp;&amp;</code> runs commands in sequence. If a command fails, the script exits.</li>
-<li><code>|</code> pipes the stdout of one command into the stdin of the next. (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/">https://github.com/RyanZim/awesome-npm-scripts/blob/master/</a><code>do-something | something else</code>)</li>
-<li><code>&gt;</code> writes the stdout of a command to a file. (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/">https://github.com/RyanZim/awesome-npm-scripts/blob/master/</a><code>do-something &gt; file</code>)</li>
-<li><code>&lt;</code> sends the contents of a file to a command's stdin. (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/">https://github.com/RyanZim/awesome-npm-scripts/blob/master/</a><code>command &lt; file</code>)</li>
+<li><code>|</code> pipes the stdout of one command into the stdin of the next. (<code>do-something | something else</code>)</li>
+<li><code>&gt;</code> writes the stdout of a command to a file. (<code>do-something &gt; file</code>)</li>
+<li><code>&lt;</code> sends the contents of a file to a command's stdin. (<code>command &lt; file</code>)</li>
 <li><code>cd &lt;dir&gt;</code> changes the current working directory to <code>&lt;dir&gt;</code>. Note that <code>cd</code> alone prints the current working directory on windows, but changes the working directory to <code>~</code> on *nix.</li>
 </ul>
 <h2 id="npm-run-reference"><code>npm run</code> Reference<a class="headerlink" href="#npm-run-reference" title="Permanent link">&para;</a></h2>
 <p>You can use <code>npm run-script</code> or <code>npm run</code>; they both do the same thing, but <code>npm run</code> is shorter.</p>
 <ul>
 <li>Run just <code>npm run</code> to print a list of scripts.</li>
-<li>Running <code>npm run script</code> (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/where">https://github.com/RyanZim/awesome-npm-scripts/blob/master/where</a> <code>script</code> is the name of your script) will run <code>prescript</code>, <code>script</code>, and <code>postscript</code>; in that order.</li>
-<li>You can't nest <code>pre</code> and <code>post</code> hooks (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/i.e">https://github.com/RyanZim/awesome-npm-scripts/blob/master/i.e</a>. <code>preprescript</code> won't work).</li>
+<li>Running <code>npm run script</code> (where <code>script</code> is the name of your script) will run <code>prescript</code>, <code>script</code>, and <code>postscript</code>; in that order.</li>
+<li>You can't nest <code>pre</code> and <code>post</code> hooks (i.e. <code>preprescript</code> won't work).</li>
 <li>You can pass arguments to your scripts by passing <code>--</code> to <code>npm run</code>, followed by the arguments. Example: Given the script <code>"mocha": "mocha"</code>, you can run <code>npm run mocha -- --reporter xunit</code>. This effectively runs <code>mocha --reporter xunit</code>.</li>
 <li>Running <code>npm test</code> is the same as running <code>npm run test</code>. The same applies to <code>npm start</code> and <code>npm stop</code>.</li>
-<li>You can run <code>npm run &lt;script&gt; -s</code> to silence the default npm output (<a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/useful">https://github.com/RyanZim/awesome-npm-scripts/blob/master/useful</a> for calling a script within another script).</li>
+<li>You can run <code>npm run &lt;script&gt; -s</code> to silence the default npm output (useful for calling a script within another script).</li>
 </ul>
 <h2 id="contributing">Contributing<a class="headerlink" href="#contributing" title="Permanent link">&para;</a></h2>
 <p>See <a href="https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>

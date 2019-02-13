@@ -2439,8 +2439,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#securely-remove-path-httpsgithubcomherrbischoffawesome-macos-command-lineblobmasterforce" title="Securely Remove Path (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force)" class="md-nav__link">
-    Securely Remove Path (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force)
+  <a href="#securely-remove-path-force" title="Securely Remove Path (Force)" class="md-nav__link">
+    Securely Remove Path (Force)
   </a>
   
 </li>
@@ -11335,8 +11335,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#securely-remove-path-httpsgithubcomherrbischoffawesome-macos-command-lineblobmasterforce" title="Securely Remove Path (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force)" class="md-nav__link">
-    Securely Remove Path (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force)
+  <a href="#securely-remove-path-force" title="Securely Remove Path (Force)" class="md-nav__link">
+    Securely Remove Path (Force)
   </a>
   
 </li>
@@ -12146,7 +12146,7 @@
 
 <blockquote>
 <p>A curated list of shell commands and tools specific to OS X.</p>
-<p><em>“You don’t have to know everything. You simply need to know where to find it when necessary.” (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/John">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/John</a> Brunner)</em></p>
+<p><em>“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)</em></p>
 </blockquote>
 <p><a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a> <a href="https://travis-ci.org/herrbischoff/awesome-macos-command-line"><img alt="Build Status" src="https://travis-ci.org/herrbischoff/awesome-macos-command-line.svg?branch=master" /></a></p>
 <p>If you want to contribute, you are highly encouraged to do so. Please read the <a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/contributing.md">contribution guidelines</a>.</p>
@@ -12320,7 +12320,7 @@ mdfind <span class="nv">kMDItemAppStoreHasReceipt</span><span class="o">=</span>
 <div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.appstore ShowDebugMenu -bool <span class="nb">true</span>
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.appstore ShowDebugMenu -bool <span class="nb">false</span>
 </pre></div></p>
 <h3 id="apple-remote-desktop">Apple Remote Desktop<a class="headerlink" href="#apple-remote-desktop" title="Permanent link">&para;</a></h3>
@@ -12358,7 +12358,7 @@ rm -r ~/Library/Containers/com.apple.RemoteDesktop
 <div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">true</span>
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12373,7 +12373,7 @@ defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">fals
 <div class="codehilite"><pre><span></span><span class="c1">## Stop Responding to Key Presses</span>
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
-<span class="c1">## Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Respond to Key Presses (Default)</span>
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 </pre></div></p>
 <p>From El Capitan onwards, you can either disable SIP or resort to a kind of hack, which will make iTunes inaccessible to any user, effectively preventing it from starting itself or its helpers. Be aware that for all intents and purposes this will trash your iTunes installation and may conflict with OS updates down the road.
@@ -12410,7 +12410,7 @@ launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
 <span class="k">set</span> <span class="nv">sizeAfter</span> <span class="k">to</span> <span class="nb">do shell script</span> <span class="s2">&quot;ls -lnah ~/Library/Mail/&quot;</span> <span class="o">&amp;</span> <span class="nv">mail_version</span> <span class="o">&amp;</span> <span class="s2">&quot;/MailData | grep -E &#39;Envelope Index$&#39; | awk {&#39;print $5&#39;}&quot;</span>
 
-<span class="nb">display dialog</span> <span class="p">(</span><span class="nv">https</span><span class="p">:</span><span class="o">//</span><span class="nv">github</span><span class="p">.</span><span class="nv">com</span><span class="o">/</span><span class="nv">herrbischoff</span><span class="o">/</span><span class="nv">awesome</span><span class="o">-</span><span class="nv">macos</span><span class="o">-</span><span class="nv">command</span><span class="o">-</span><span class="nv">line</span><span class="o">/</span><span class="nv">blob</span><span class="o">/</span><span class="nv">master</span><span class="o">/</span><span class="s2">&quot;Mail index before: &quot;</span> <span class="o">&amp;</span> <span class="nv">sizeBefore</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="s2">&quot;Mail index after: &quot;</span> <span class="o">&amp;</span> <span class="nv">sizeAfter</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="s2">&quot;Enjoy the new speed!&quot;</span><span class="p">)</span>
+<span class="nb">display dialog</span> <span class="p">(</span><span class="s2">&quot;Mail index before: &quot;</span> <span class="o">&amp;</span> <span class="nv">sizeBefore</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="s2">&quot;Mail index after: &quot;</span> <span class="o">&amp;</span> <span class="nv">sizeAfter</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="no">return</span> <span class="o">&amp;</span> <span class="s2">&quot;Enjoy the new speed!&quot;</span><span class="p">)</span>
 
 <span class="k">tell</span> <span class="nb">application</span> <span class="s2">&quot;Mail&quot;</span> <span class="k">to</span> <span class="nb">activate</span>
 </pre></div></p>
@@ -12482,7 +12482,7 @@ defaults write com.apple.Terminal FocusFollowsMouse -string NO
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.TimeMachine MobileBackups
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo tmutil enablelocal
 
 <span class="c1">## Disable</span>
@@ -12500,10 +12500,10 @@ sudo tmutil disablelocal
 <span class="nv">filter</span><span class="o">=</span><span class="s1">&#39;processImagePath contains &quot;backupd&quot; and subsystem beginswith &quot;com.apple.TimeMachine&quot;&#39;</span>
 
 <span class="c1">## show the last 12 hours</span>
-<span class="nv">start</span><span class="o">=</span><span class="s2">&quot;</span><span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/date -j -v-12H +<span class="s1">&#39;%Y-%m-%d %H:%M:%S&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
+<span class="nv">start</span><span class="o">=</span><span class="s2">&quot;</span><span class="k">$(</span>date -j -v-12H +<span class="s1">&#39;%Y-%m-%d %H:%M:%S&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
 
 <span class="nb">echo</span> <span class="s2">&quot;&quot;</span>
-<span class="nb">echo</span> <span class="s2">&quot;[History (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/from </span><span class="nv">$start</span><span class="s2">)]&quot;</span>
+<span class="nb">echo</span> <span class="s2">&quot;[History (from </span><span class="nv">$start</span><span class="s2">)]&quot;</span>
 <span class="nb">echo</span> <span class="s2">&quot;&quot;</span>
 
 log show --style syslog --info --start <span class="s2">&quot;</span><span class="nv">$start</span><span class="s2">&quot;</span> --predicate <span class="s2">&quot;</span><span class="nv">$filter</span><span class="s2">&quot;</span>
@@ -12518,7 +12518,7 @@ log stream --style syslog --info --predicate <span class="s2">&quot;</span><span
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo defaults <span class="nb">read</span> /Library/Preferences/com.apple.TimeMachine RequiresACPower
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool <span class="nb">true</span>
 
 <span class="c1">## Disable</span>
@@ -12570,7 +12570,7 @@ killall Dock
 </pre></div>
 
 <h4 id="auto-rearrange-spaces-based-on-most-recent-use">Auto Rearrange Spaces Based on Most Recent Use<a class="headerlink" href="#auto-rearrange-spaces-based-on-most-recent-use" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable (Default)</span>
 defaults write com.apple.dock mru-spaces -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
@@ -12581,7 +12581,7 @@ killall Dock
 
 <h4 id="icon-bounce">Icon Bounce<a class="headerlink" href="#icon-bounce" title="Permanent link">&para;</a></h4>
 <p>Global setting whether Dock icons should bounce when the respective application demands your attention.
-<div class="codehilite"><pre><span></span><span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable (Default)</span>
 defaults write com.apple.dock no-bouncing -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
@@ -12594,7 +12594,7 @@ killall Dock
 defaults write com.apple.Dock size-immutable -bool yes <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.Dock size-immutable -bool no <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
@@ -12615,7 +12615,7 @@ killall Dock
 defaults write com.apple.dock scroll-to-open -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.dock scroll-to-open -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div></p>
@@ -12635,7 +12635,7 @@ killall Dock
 defaults write com.apple.dock showhidden -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.dock showhidden -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
@@ -12645,14 +12645,14 @@ killall Dock
 defaults write com.apple.dock static-only -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.dock static-only -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
 
 <h2 id="documents">Documents<a class="headerlink" href="#documents" title="Permanent link">&para;</a></h2>
 <h4 id="convert-file-to-html">Convert File to HTML<a class="headerlink" href="#convert-file-to-html" title="Permanent link">&para;</a></h4>
-<p>Supported formats are plain text, rich text (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/rtf">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/rtf</a>) and Microsoft Word (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/doc/docx">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/doc/docx</a>).
+<p>Supported formats are plain text, rich text (rtf) and Microsoft Word (doc/docx).
 <div class="codehilite"><pre><span></span>textutil -convert html file.ext
 </pre></div></p>
 <h2 id="files-disks-and-volumes">Files, Disks and Volumes<a class="headerlink" href="#files-disks-and-volumes" title="Permanent link">&para;</a></h2>
@@ -12666,14 +12666,14 @@ killall Dock
 </pre></div></p>
 <h4 id="eject-all-mountable-volumes">Eject All Mountable Volumes<a class="headerlink" href="#eject-all-mountable-volumes" title="Permanent link">&para;</a></h4>
 <p>The only reliable way to do this is by sending an AppleScript command to Finder.
-<div class="codehilite"><pre><span></span>osascript -e <span class="s1">&#39;tell application &quot;Finder&quot; to eject (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/every disk whose ejectable is true)&#39;</span>
+<div class="codehilite"><pre><span></span>osascript -e <span class="s1">&#39;tell application &quot;Finder&quot; to eject (every disk whose ejectable is true)&#39;</span>
 </pre></div></p>
 <h4 id="repair-file-permissions">Repair File Permissions<a class="headerlink" href="#repair-file-permissions" title="Permanent link">&para;</a></h4>
 <p>You don't have to use the Disk Utility GUI for this.
 <div class="codehilite"><pre><span></span>sudo diskutil repairPermissions /
 </pre></div></p>
 <blockquote>
-<p>Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://support.apple.com/en-us/HT201560">Source</a>)</p>
+<p>Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (<a href="https://support.apple.com/en-us/HT201560">Source</a>)</p>
 </blockquote>
 <h4 id="set-boot-volume">Set Boot Volume<a class="headerlink" href="#set-boot-volume" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span><span class="c1">## Up to Yosemite</span>
@@ -12764,7 +12764,7 @@ defaults write com.apple.frameworks.diskimages skip-verify-remote -bool <span cl
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12774,7 +12774,7 @@ killall Finder
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12784,7 +12784,7 @@ killall Finder
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12794,7 +12794,7 @@ killall Finder
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12843,7 +12843,7 @@ killall Finder
 defaults write com.apple.finder QuitMenuItem -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.finder QuitMenuItem -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12852,14 +12852,14 @@ killall Finder
 <div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSScrollAnimationEnabled -bool <span class="nb">false</span>
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults write -g NSScrollAnimationEnabled -bool <span class="nb">true</span>
 </pre></div></p>
 <h4 id="rubberband-scrolling">Rubberband Scrolling<a class="headerlink" href="#rubberband-scrolling" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSScrollViewRubberbanding -bool <span class="nb">false</span>
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults write -g NSScrollViewRubberbanding -bool <span class="nb">true</span>
 </pre></div>
 
@@ -12873,7 +12873,7 @@ defaults write -g NSNavPanelExpandedStateForSaveMode2 -bool <span class="nb">tru
 defaults write com.apple.finder CreateDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1">## Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Show Icons (Default)</span>
 defaults write com.apple.finder CreateDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div>
@@ -12882,7 +12882,7 @@ killall Finder
 <div class="codehilite"><pre><span></span><span class="c1">## Show</span>
 defaults write com.apple.finder ShowPathbar -bool <span class="nb">true</span>
 
-<span class="c1">## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Hide (Default)</span>
 defaults write com.apple.finder ShowPathbar -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12894,7 +12894,7 @@ defaults write com.apple.finder ShowPathbar -bool <span class="nb">false</span>
 <div class="codehilite"><pre><span></span><span class="c1">## Show</span>
 defaults write com.apple.finder ShowStatusBar -bool <span class="nb">true</span>
 
-<span class="c1">## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Hide (Default)</span>
 defaults write com.apple.finder ShowStatusBar -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12927,7 +12927,7 @@ defaults write com.apple.finder NewWindowTargetPath -string <span class="s2">&qu
 <h3 id="opening-things">Opening Things<a class="headerlink" href="#opening-things" title="Permanent link">&para;</a></h3>
 <h4 id="change-working-directory-to-finder-path">Change Working Directory to Finder Path<a class="headerlink" href="#change-working-directory-to-finder-path" title="Permanent link">&para;</a></h4>
 <p>If multiple windows are open, it chooses the top-most one.
-<div class="codehilite"><pre><span></span><span class="nb">cd</span> <span class="s2">&quot;</span><span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/osascript -e <span class="s1">&#39;tell app &quot;Finder&quot; to POSIX path of (insertion location as alias)&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
+<div class="codehilite"><pre><span></span><span class="nb">cd</span> <span class="s2">&quot;</span><span class="k">$(</span>osascript -e <span class="s1">&#39;tell app &quot;Finder&quot; to POSIX path of (insertion location as alias)&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
 </pre></div></p>
 <h4 id="open-url">Open URL<a class="headerlink" href="#open-url" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>open https://github.com
@@ -12970,7 +12970,7 @@ atsutil server -ping
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.Bluetooth ControllerPowerState
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int <span class="m">1</span>
 
 <span class="c1">## Disable</span>
@@ -12989,11 +12989,11 @@ sudo killall -HUP blued
 </pre></div>
 
 <h4 id="remaining-battery-percentage">Remaining Battery Percentage<a class="headerlink" href="#remaining-battery-percentage" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span>pmset -g batt <span class="p">|</span> egrep <span class="s2">&quot;(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[0-9]+\%).*&quot;</span> -o --colour<span class="o">=</span>auto <span class="p">|</span> cut -f1 -d<span class="s1">&#39;;&#39;</span>
+<div class="codehilite"><pre><span></span>pmset -g batt <span class="p">|</span> egrep <span class="s2">&quot;([0-9]+\%).*&quot;</span> -o --colour<span class="o">=</span>auto <span class="p">|</span> cut -f1 -d<span class="s1">&#39;;&#39;</span>
 </pre></div>
 
 <h4 id="remaining-battery-time">Remaining Battery Time<a class="headerlink" href="#remaining-battery-time" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span>pmset -g batt <span class="p">|</span> egrep <span class="s2">&quot;(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/[0-9]+\%).*&quot;</span> -o --colour<span class="o">=</span>auto <span class="p">|</span> cut -f3 -d<span class="s1">&#39;;&#39;</span>
+<div class="codehilite"><pre><span></span>pmset -g batt <span class="p">|</span> egrep <span class="s2">&quot;([0-9]+\%).*&quot;</span> -o --colour<span class="o">=</span>auto <span class="p">|</span> cut -f3 -d<span class="s1">&#39;;&#39;</span>
 </pre></div>
 
 <h4 id="show-connected-devices-udid">Show Connected Device's UDID<a class="headerlink" href="#show-connected-devices-udid" title="Permanent link">&para;</a></h4>
@@ -13012,7 +13012,7 @@ sudo killall -HUP blued
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int <span class="m">1</span>
 
 <span class="c1">## Disable</span>
@@ -13058,7 +13058,7 @@ defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEna
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 open /System/Library/CoreServices/PowerChime.app
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall PowerChime
 </pre></div></p>
@@ -13068,7 +13068,7 @@ killall PowerChime
 <div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool <span class="nb">false</span>
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool <span class="nb">true</span>
 
 <span class="c1">## Show Status</span>
@@ -13077,7 +13077,7 @@ defaults <span class="nb">read</span> -g NSAutomaticSpellingCorrectionEnabled
 
 <h4 id="full-keyboard-access">Full Keyboard Access<a class="headerlink" href="#full-keyboard-access" title="Permanent link">&para;</a></h4>
 <p>Enable Tab in modal dialogs.
-<div class="codehilite"><pre><span></span><span class="c1">## Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Text boxes and lists only (Default)</span>
 defaults write NSGlobalDomain AppleKeyboardUIMode -int <span class="m">0</span>
 
 <span class="c1">## All controls</span>
@@ -13147,7 +13147,7 @@ killall Dock
 <div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array-add <span class="s2">&quot;-NoMulticastAdvertisements&quot;</span>
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array <span class="s2">&quot;/usr/sbin/mDNSResponder&quot;</span> <span class="s2">&quot;-launchd&quot;</span>
 </pre></div>
 
@@ -13201,7 +13201,7 @@ scselect LocationNameFromStatus
 <blockquote>
 <p>Prior to macOS Sierra, ssh would present a dialog asking for your passphrase and would offer the option to store it into the keychain. This UI was deprecated some time ago and has been removed.</p>
 <p>Instead, a new UseKeychain option was introduced in macOS Sierra allowing users to specify whether they would like for the passphrase to be stored in the keychain. This option was enabled by default on macOS Sierra, which caused all passphrases to be stored in the keychain.</p>
-<p>This was not the intended default behavior, so this has been changed in macOS 10.12.2. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://developer.apple.com/library/archive/technotes/tn2449/_index.html">Source</a>)
+<p>This was not the intended default behavior, so this has been changed in macOS 10.12.2. (<a href="https://developer.apple.com/library/archive/technotes/tn2449/_index.html">Source</a>)
 <div class="codehilite"><pre><span></span>ssh-add -K /path/to/private_key
 </pre></div>
 Then add to <code>~/.ssh/config</code>:
@@ -13224,7 +13224,7 @@ sudo launchctl unload -w /System/Library/LaunchDaemons/ssh.plist
 <div class="codehilite"><pre><span></span>sudo lsof -i :80
 </pre></div></p>
 <h4 id="show-external-ip-address">Show External IP Address<a class="headerlink" href="#show-external-ip-address" title="Permanent link">&para;</a></h4>
-<p>Works if your ISP doesn't replace DNS requests (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/which">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/which</a> it shouldn't).
+<p>Works if your ISP doesn't replace DNS requests (which it shouldn't).
 <div class="codehilite"><pre><span></span>dig +short myip.opendns.com @resolver1.opendns.com
 </pre></div>
 Alternative that works on all networks.
@@ -13252,7 +13252,7 @@ Run a wireless scan:
 <div class="codehilite"><pre><span></span>airport -s
 </pre></div></p>
 <h4 id="show-current-ssid">Show Current SSID<a class="headerlink" href="#show-current-ssid" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span>/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I <span class="p">|</span> awk <span class="s1">&#39;/ SSID/ {print substr(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/$0, index($0, $2))}&#39;</span>
+<div class="codehilite"><pre><span></span>/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I <span class="p">|</span> awk <span class="s1">&#39;/ SSID/ {print substr($0, index($0, $2))}&#39;</span>
 </pre></div>
 
 <h4 id="show-local-ip-address">Show Local IP Address<a class="headerlink" href="#show-local-ip-address" title="Permanent link">&para;</a></h4>
@@ -13300,7 +13300,7 @@ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate
 <span class="c1">## Enable</span>
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 </pre></div>
 
@@ -13321,7 +13321,7 @@ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 spctl --status
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo spctl --master-enable
 
 <span class="c1">## Disable</span>
@@ -13350,10 +13350,10 @@ open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/Scree
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> com.apple.screensaver askForPasswordDelay
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults write com.apple.screensaver askForPasswordDelay -int <span class="m">0</span>
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)</span>
+<span class="c1">## Disable (Integer = lock delay in seconds)</span>
 defaults write com.apple.screensaver askForPasswordDelay -int <span class="m">10</span>
 </pre></div>
 
@@ -13364,7 +13364,7 @@ defaults <span class="nb">read</span> com.apple.screensaver askForPassword
 <span class="c1">## Enable</span>
 defaults write com.apple.screensaver askForPassword -int <span class="m">1</span>
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 defaults write com.apple.screensaver askForPassword -int <span class="m">0</span>
 </pre></div>
 
@@ -13381,7 +13381,7 @@ defaults write com.apple.screensaver askForPassword -int <span class="m">0</span
 <div class="codehilite"><pre><span></span>srm -r /path/to/folder/
 </pre></div>
 
-<h4 id="securely-remove-path-httpsgithubcomherrbischoffawesome-macos-command-lineblobmasterforce">Securely Remove Path (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Force</a>)<a class="headerlink" href="#securely-remove-path-httpsgithubcomherrbischoffawesome-macos-command-lineblobmasterforce" title="Permanent link">&para;</a></h4>
+<h4 id="securely-remove-path-force">Securely Remove Path (Force)<a class="headerlink" href="#securely-remove-path-force" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>srm -rf /path/to/complete/destruction
 </pre></div>
 
@@ -13405,7 +13405,7 @@ defaults write com.apple.screensaver askForPassword -int <span class="m">0</span
 <div class="codehilite"><pre><span></span><span class="c1">## Enable AirDrop over Ethernet and on Unsupported Macs</span>
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool <span class="nb">true</span>
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 defaults remove com.apple.NetworkBrowser DisableAirDrop
 
 <span class="c1">## Disable</span>
@@ -13424,10 +13424,10 @@ defaults write com.apple.NetworkBrowser DisableAirDrop -bool YES
 
 <h4 id="copy-large-file-with-progress">Copy Large File with Progress<a class="headerlink" href="#copy-large-file-with-progress" title="Permanent link">&para;</a></h4>
 <p>Make sure you have <code>pv</code> installed and replace <code>/dev/rdisk2</code> with the appropriate write device or file.
-<div class="codehilite"><pre><span></span><span class="nv">FILE</span><span class="o">=</span>/path/to/file.iso pv -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/du -h <span class="nv">$FILE</span> <span class="p">|</span> awk <span class="s1">&#39;/.*/ {print $1}&#39;</span><span class="k">)</span> <span class="nv">$FILE</span> <span class="p">|</span> sudo dd <span class="nv">of</span><span class="o">=</span>/dev/rdisk2 <span class="nv">bs</span><span class="o">=</span>1m
+<div class="codehilite"><pre><span></span><span class="nv">FILE</span><span class="o">=</span>/path/to/file.iso pv -s <span class="k">$(</span>du -h <span class="nv">$FILE</span> <span class="p">|</span> awk <span class="s1">&#39;/.*/ {print $1}&#39;</span><span class="k">)</span> <span class="nv">$FILE</span> <span class="p">|</span> sudo dd <span class="nv">of</span><span class="o">=</span>/dev/rdisk2 <span class="nv">bs</span><span class="o">=</span>1m
 </pre></div></p>
 <h4 id="restore-sane-shell">Restore Sane Shell<a class="headerlink" href="#restore-sane-shell" title="Permanent link">&para;</a></h4>
-<p>In case your shell session went insane (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/some">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/some</a> script or application turned it into a garbled mess).
+<p>In case your shell session went insane (some script or application turned it into a garbled mess).
 <div class="codehilite"><pre><span></span>stty sane
 </pre></div></p>
 <h4 id="restart">Restart<a class="headerlink" href="#restart" title="Permanent link">&para;</a></h4>
@@ -13479,7 +13479,7 @@ sudo fdesetup status
 <span class="c1">## Enable</span>
 sudo fdesetup <span class="nb">enable</span>
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 sudo fdesetup disable
 </pre></div>
 
@@ -13529,7 +13529,7 @@ sudo /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>
 <h3 id="launchservices">LaunchServices<a class="headerlink" href="#launchservices" title="Permanent link">&para;</a></h3>
 <h4 id="rebuild-launchservices-database">Rebuild LaunchServices Database<a class="headerlink" href="#rebuild-launchservices-database" title="Permanent link">&para;</a></h4>
 <p>To be independent of OS X version, this relies on <code>locate</code> to find <code>lsregister</code>. If you do not have your <code>locate</code> database built yet, <a href="#build-locate-database">do it</a>.
-<div class="codehilite"><pre><span></span>sudo <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/locate lsregister<span class="k">)</span> -kill -seed -r
+<div class="codehilite"><pre><span></span>sudo <span class="k">$(</span>locate lsregister<span class="k">)</span> -kill -seed -r
 </pre></div></p>
 <h3 id="login-window">Login Window<a class="headerlink" href="#login-window" title="Permanent link">&para;</a></h3>
 <h4 id="set-login-window-text">Set Login Window Text<a class="headerlink" href="#set-login-window-text" title="Permanent link">&para;</a></h4>
@@ -13555,7 +13555,7 @@ vm_stat -c <span class="m">10</span> <span class="m">1</span>
 launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall -9 NotificationCenter
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
 </pre></div>
 
@@ -13571,7 +13571,7 @@ sudo systemsetup -getremoteappleevents
 <span class="c1">## Enable</span>
 sudo systemsetup -setremoteappleevents on
 
-<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (Default)</span>
 sudo systemsetup -setremoteappleevents off
 </pre></div>
 
@@ -13654,7 +13654,7 @@ sudo defaults delete /Library/Preferences/com.apple.SoftwareUpdate CatalogURL
 <div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 mdutil -i off -d /path/to/volume
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 mdutil -i on /path/to/volume
 </pre></div>
 
@@ -13692,7 +13692,7 @@ mdutil -i on /path/to/volume
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo systemsetup getusingnetworktime
 
-<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (Default)</span>
 sudo systemsetup setusingnetworktime on
 
 <span class="c1">## Disable</span>
@@ -13701,7 +13701,7 @@ sudo systemsetup setusingnetworktime off
 
 <h2 id="terminal_1">Terminal<a class="headerlink" href="#terminal_1" title="Permanent link">&para;</a></h2>
 <h4 id="ring-terminal-bell">Ring Terminal Bell<a class="headerlink" href="#ring-terminal-bell" title="Permanent link">&para;</a></h4>
-<p>Rings the terminal bell (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/if">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/if</a> enabled) and puts a badge on it.
+<p>Rings the terminal bell (if enabled) and puts a badge on it.
 <div class="codehilite"><pre><span></span>tput bel
 </pre></div></p>
 <h3 id="alternative-terminals">Alternative Terminals<a class="headerlink" href="#alternative-terminals" title="Permanent link">&para;</a></h3>
@@ -13713,8 +13713,8 @@ sudo systemsetup setusingnetworktime off
 <h4 id="bash">Bash<a class="headerlink" href="#bash" title="Permanent link">&para;</a></h4>
 <p>Install the latest version and set as current user's default shell:
 <div class="codehilite"><pre><span></span>brew install bash <span class="o">&amp;&amp;</span> <span class="se">\</span>
-<span class="nb">echo</span> <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix<span class="k">)</span>/bin/bash <span class="p">|</span> sudo tee -a /etc/shells <span class="o">&amp;&amp;</span> <span class="se">\</span>
-chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix<span class="k">)</span>/bin/bash
+<span class="nb">echo</span> <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/bash <span class="p">|</span> sudo tee -a /etc/shells <span class="o">&amp;&amp;</span> <span class="se">\</span>
+chsh -s <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/bash
 </pre></div></p>
 <ul>
 <li><a href="https://www.gnu.org/software/bash/">Homepage</a> - The default shell for OS X and most other Unix-based operating systems.</li>
@@ -13723,8 +13723,8 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <h4 id="fish">fish<a class="headerlink" href="#fish" title="Permanent link">&para;</a></h4>
 <p>Install the latest version and set as current user's default shell:
 <div class="codehilite"><pre><span></span>brew install fish <span class="o">&amp;&amp;</span> <span class="se">\</span>
-<span class="nb">echo</span> <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix<span class="k">)</span>/bin/fish <span class="p">|</span> sudo tee -a /etc/shells <span class="o">&amp;&amp;</span> <span class="se">\</span>
-chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix<span class="k">)</span>/bin/fish
+<span class="nb">echo</span> <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/fish <span class="p">|</span> sudo tee -a /etc/shells <span class="o">&amp;&amp;</span> <span class="se">\</span>
+chsh -s <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/fish
 </pre></div></p>
 <ul>
 <li><a href="http://fishshell.com">Homepage</a> - A smart and user-friendly command line
@@ -13735,8 +13735,8 @@ shell for OS X, Linux, and the rest of the family.</li>
 <h4 id="zsh">Zsh<a class="headerlink" href="#zsh" title="Permanent link">&para;</a></h4>
 <p>Install the latest version and set as current user's default shell:
 <div class="codehilite"><pre><span></span>brew install zsh <span class="o">&amp;&amp;</span> <span class="se">\</span>
-sudo sh -c <span class="s1">&#39;echo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix)/bin/zsh &gt;&gt; /etc/shells&#39;</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
-chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/brew --prefix<span class="k">)</span>/bin/zsh
+sudo sh -c <span class="s1">&#39;echo $(brew --prefix)/bin/zsh &gt;&gt; /etc/shells&#39;</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
+chsh -s <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/zsh
 </pre></div></p>
 <ul>
 <li><a href="http://www.zsh.org">Homepage</a> - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.</li>
@@ -13753,7 +13753,7 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <li><a href="http://levien.com/type/myfonts/inconsolata.html">Inconsolata</a> -  A monospace font, designed for code listings and the like.</li>
 <li><a href="http://input.fontbureau.com">Input</a> - A flexible system of fonts designed specifically for code.</li>
 <li><a href="https://github.com/andreberg/Meslo-Font">Meslo</a> - Customized version of Apple's Menlo font.</li>
-<li><a href="https://www.typography.com/fonts/operator/overview/">Operator Mono</a> - A surprisingly usable alternative take on a monospace font (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/commercial</a>).</li>
+<li><a href="https://www.typography.com/fonts/operator/overview/">Operator Mono</a> - A surprisingly usable alternative take on a monospace font (commercial).</li>
 <li><a href="https://github.com/powerline/fonts">Powerline Fonts</a> - Repo of patched fonts for the Powerline plugin.</li>
 <li><a href="https://adobe-fonts.github.io/source-code-pro/">Source Code Pro</a> - A monospaced font family for user interfaces and coding environments.</li>
 </ul>
@@ -13773,19 +13773,19 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <td>Rhapsody Developer Release</td>
 <td>Grail1Z4 / Titan1U</td>
 <td>August 31, 1997</td>
-<td>DR2 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/May">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/May</a> 14, 1998)</td>
+<td>DR2 (May 14, 1998)</td>
 </tr>
 <tr>
 <td>Mac OS X Server 1.0</td>
 <td>Hera</td>
 <td>March 16, 1999</td>
-<td>1.2v3 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October</a> 27, 2000)</td>
+<td>1.2v3 (October 27, 2000)</td>
 </tr>
 <tr>
 <td>Mac OS X Developer Preview</td>
 <td>n/a</td>
 <td>March 16, 1999</td>
-<td>DP4 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April</a> 5, 2000)</td>
+<td>DP4 (April 5, 2000)</td>
 </tr>
 <tr>
 <td>Mac OS X Public Beta</td>
@@ -13797,91 +13797,91 @@ chsh -s <span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-c
 <td>Mac OS X 10.0</td>
 <td>Cheetah</td>
 <td>March 24, 2001</td>
-<td>10.0.4 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June</a> 22, 2001)</td>
+<td>10.0.4 (June 22, 2001)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.1</td>
 <td>Puma</td>
 <td>September 25, 2001</td>
-<td>10.1.5 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/June</a> 6, 2002)</td>
+<td>10.1.5 (June 6, 2002)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.2</td>
 <td>Jaguar</td>
 <td>August 24, 2002</td>
-<td>10.2.8 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October</a> 3, 2003)</td>
+<td>10.2.8 (October 3, 2003)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.3</td>
 <td>Panther</td>
 <td>October 24, 2003</td>
-<td>10.3.9 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/April</a> 15, 2005)</td>
+<td>10.3.9 (April 15, 2005)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.4</td>
 <td>Tiger</td>
 <td>April 29, 2005</td>
-<td>10.4.11 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/November">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/November</a> 14, 2007)</td>
+<td>10.4.11 (November 14, 2007)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.5</td>
 <td>Leopard</td>
 <td>October 26, 2007</td>
-<td>10.5.8 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August</a> 5, 2009)</td>
+<td>10.5.8 (August 5, 2009)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.6</td>
 <td>Snow Leopard</td>
 <td>August 28, 2009</td>
-<td>10.6.8 v1.1 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July</a> 25, 2011)</td>
+<td>10.6.8 v1.1 (July 25, 2011)</td>
 </tr>
 <tr>
 <td>Mac OS X 10.7</td>
 <td>Lion</td>
 <td>July 20, 2011</td>
-<td>10.7.5 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 19, 2012)</td>
+<td>10.7.5 (September 19, 2012)</td>
 </tr>
 <tr>
 <td>OS X 10.8</td>
 <td>Mountain Lion</td>
 <td>July 25, 2012</td>
-<td>10.8.5 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October</a> 3, 2013)</td>
+<td>10.8.5 (12F45) (October 3, 2013)</td>
 </tr>
 <tr>
 <td>OS X 10.9</td>
 <td>Mavericks</td>
 <td>October 22, 2013</td>
-<td>10.9.5 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 18, 2014)</td>
+<td>10.9.5 (13F1112) (September 18, 2014)</td>
 </tr>
 <tr>
 <td>OS X 10.10</td>
 <td>Yosemite</td>
 <td>October 16, 2014</td>
-<td>10.10.5 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August</a> 13, 2015)</td>
+<td>10.10.5 (14F27) (August 13, 2015)</td>
 </tr>
 <tr>
 <td>OS X 10.11</td>
 <td>El Capitan</td>
 <td>September 30, 2015</td>
-<td>10.11.6 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July</a> 18, 2016)</td>
+<td>10.11.6 (15G31) (July 18, 2016)</td>
 </tr>
 <tr>
 <td>macOS 10.12</td>
 <td>Sierra</td>
 <td>September 20, 2016</td>
-<td>10.12.6 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July</a> 19, 2017)</td>
+<td>10.12.6 (16G29) (July 19, 2017)</td>
 </tr>
 <tr>
 <td>macOS 10.13</td>
 <td>High Sierra</td>
 <td>September 25, 2017</td>
-<td>10.13.6 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July</a> 9, 2018)</td>
+<td>10.13.6 (17G65) (July 9, 2018)</td>
 </tr>
 <tr>
 <td>macOS 10.14</td>
 <td>Mojave</td>
-<td><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 24, 2018</td>
-<td>10.14 (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391</a>) (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September</a> 24, 2018)</td>
+<td>September 24, 2018</td>
+<td>10.14 (18A391) (September 24, 2018)</td>
 </tr>
 </tbody>
 </table>

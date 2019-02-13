@@ -7233,7 +7233,7 @@
 <li><a href="https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328">Small focused modules</a></li>
 <li><a href="http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs">Unix philosophy and Node.js</a> - Write programs that do one thing and do it well.</li>
 <li><a href="https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules">Writing small modules</a></li>
-<li><a href="https://nodesource.com/blog/semver-a-primer/">Semver: A Primer</a> <em>(<a href="https://github.com/sindresorhus/awesome-npm/blob/master/Must">https://github.com/sindresorhus/awesome-npm/blob/master/Must</a> read!)</em></li>
+<li><a href="https://nodesource.com/blog/semver-a-primer/">Semver: A Primer</a> <em>(Must read!)</em></li>
 <li><a href="https://nodesource.com/blog/semver-tilde-and-caret/">Semver: Tilde and Caret</a></li>
 <li><a href="https://addyosmani.com/blog/using-npm-offline/">Offline installation of npm packages</a></li>
 <li><a href="https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run">Task automation with npm run</a></li>
@@ -7301,7 +7301,7 @@
 <li><a href="https://github.com/Pana/nrm">nrm</a> - Registry manager.</li>
 <li><a href="https://github.com/dickeyxxx/npm-register">npm-register</a> - Easy to set up and maintain npm registry and proxy.</li>
 <li><a href="https://github.com/verdaccio/verdaccio">verdaccio</a> - Lightweight private npm proxy registry.</li>
-<li><a href="https://cloudsmith.io/f/open_source/">cloudsmith</a> - A fully managed package management SaaS with support for npm registries (<a href="https://github.com/sindresorhus/awesome-npm/blob/master/and">https://github.com/sindresorhus/awesome-npm/blob/master/and</a> many others).</li>
+<li><a href="https://cloudsmith.io/f/open_source/">cloudsmith</a> - A fully managed package management SaaS with support for npm registries (and many others).</li>
 </ul>
 <h3 id="other">Other<a class="headerlink" href="#other" title="Permanent link">&para;</a></h3>
 <ul>
@@ -7370,7 +7370,7 @@
 </pre></div>
 
 <h3 id="dont-add-to-packagejson-when-installing">Don't add to package.json when installing<a class="headerlink" href="#dont-add-to-packagejson-when-installing" title="Permanent link">&para;</a></h3>
-<p>By default npm adds packages you install to the <code>dependencies</code> field in package.json (<a href="https://github.com/sindresorhus/awesome-npm/blob/master/since">https://github.com/sindresorhus/awesome-npm/blob/master/since</a> v5). You can prevent this by specifying the <code>--no-save</code> flag. You can add a package to <code>devDependencies</code> with <code>--save-dev</code>/<code>-D</code>:</p>
+<p>By default npm adds packages you install to the <code>dependencies</code> field in package.json (since v5). You can prevent this by specifying the <code>--no-save</code> flag. You can add a package to <code>devDependencies</code> with <code>--save-dev</code>/<code>-D</code>:</p>
 <div class="codehilite"><pre><span></span>$ npm install --save-dev ava
 </pre></div>
 
@@ -7484,7 +7484,7 @@ awesome-package
 <p>This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.</p>
 <p><em>Note: <code>pre</code> and <code>post</code> scripts can also be used for your custom npm scripts. So <code>npm run foo</code> will also run <code>prefoo</code> and <code>postfoo</code> if defined.</em></p>
 <h3 id="run-script-with-npx">Run script with <code>npx</code><a class="headerlink" href="#run-script-with-npx" title="Permanent link">&para;</a></h3>
-<p><code>npm</code> <a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">comes bundled</a> with <code>npx</code> (<a href="https://github.com/sindresorhus/awesome-npm/blob/master/Since">https://github.com/sindresorhus/awesome-npm/blob/master/Since</a> v5.2.0) — a tool to execute package binaries. Each command is executed either from the local <code>node_modules/.bin</code> directory, or from a central cache, installing any packages needed in order for <code>&lt;command&gt;</code> to run.</p>
+<p><code>npm</code> <a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">comes bundled</a> with <code>npx</code> (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local <code>node_modules/.bin</code> directory, or from a central cache, installing any packages needed in order for <code>&lt;command&gt;</code> to run.</p>
 <div class="codehilite"><pre><span></span><span class="p">{</span>
     <span class="nt">&quot;name&quot;</span><span class="p">:</span> <span class="s2">&quot;awesome-package&quot;</span><span class="p">,</span>
     <span class="nt">&quot;dependencies&quot;</span><span class="p">:</span> <span class="p">{</span>
@@ -7505,7 +7505,7 @@ Bentley
 </pre></div>
 
 <h3 id="run-commands-with-different-nodejs-versions">Run commands with different Node.js versions<a class="headerlink" href="#run-commands-with-different-nodejs-versions" title="Permanent link">&para;</a></h3>
-<p>With <code>npx</code> (<a href="https://github.com/sindresorhus/awesome-npm/blob/master/Comes">https://github.com/sindresorhus/awesome-npm/blob/master/Comes</a> bundled with npm v5.2.0 or newer) and the <a href="https://www.npmjs.com/package/node-bin"><code>node-bin</code></a> package, you can easily try out code in different Node.js versions without having to use a version manager like <a href="http://nvm.sh"><code>nvm</code></a>, <a href="https://github.com/isaacs/nave"><code>nave</code></a>, or <a href="https://github.com/tj/n"><code>n</code></a>.</p>
+<p>With <code>npx</code> (Comes bundled with npm v5.2.0 or newer) and the <a href="https://www.npmjs.com/package/node-bin"><code>node-bin</code></a> package, you can easily try out code in different Node.js versions without having to use a version manager like <a href="http://nvm.sh"><code>nvm</code></a>, <a href="https://github.com/isaacs/nave"><code>nave</code></a>, or <a href="https://github.com/tj/n"><code>n</code></a>.</p>
 <div class="codehilite"><pre><span></span>$ npx --package=node-bin@6.11.0 -- node --version
 v6.11.0
 </pre></div>
@@ -7529,7 +7529,7 @@ $ npm link rainbow
 </pre></div>
 
 <p>Specify either a commit SHA, branch, tag, or nothing.</p>
-<p>You can also install Git dependencies with semver: <em>(<a href="https://github.com/sindresorhus/awesome-npm/blob/master/Requires">https://github.com/sindresorhus/awesome-npm/blob/master/Requires</a> npm v5 or newer)</em></p>
+<p>You can also install Git dependencies with semver: <em>(Requires npm v5 or newer)</em></p>
 <div class="codehilite"><pre><span></span>$ npm install &#39;sindresorhus/chalk#semver:^2.0.0&#39;
 </pre></div>
 

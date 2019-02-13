@@ -7183,7 +7183,7 @@
 <em>Key Unicode terminology is defined in the <a href="https://github.com/jagracey/Awesome-Unicode/blob/master/GLOSSARY.md">glossary</a>.</em></p>
 <p><br><br></p>
 <h2 id="foreword">Foreword<a class="headerlink" href="#foreword" title="Permanent link">&para;</a></h2>
-<p>Unicode is Awesome! Prior to Unicode, international communication was grueling- everyone had defined their separate extended character set in the upperhalf of ASCII (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/called">https://github.com/jagracey/Awesome-Unicode/blob/master/called</a> Code Pages) that would conflict- Just think, German speakers coordinating with Korean speakers over which 127 character Code Page to use. Thankfully the Unicode standard caught on and unified communication. Unicode 8.0 standardizes over 120,000 characters from over 129 scripts - some modern, some ancient, and some still undeciphered. Unicode handles left-to-right and right-to-left text, combining marks, and includes diverse cultural, political, religious characters and emojis. Unicode is awesomely human - and ultimately underappreciated.</p>
+<p>Unicode is Awesome! Prior to Unicode, international communication was grueling- everyone had defined their separate extended character set in the upperhalf of ASCII (called Code Pages) that would conflict- Just think, German speakers coordinating with Korean speakers over which 127 character Code Page to use. Thankfully the Unicode standard caught on and unified communication. Unicode 8.0 standardizes over 120,000 characters from over 129 scripts - some modern, some ancient, and some still undeciphered. Unicode handles left-to-right and right-to-left text, combining marks, and includes diverse cultural, political, religious characters and emojis. Unicode is awesomely human - and ultimately underappreciated.</p>
 <p><br></p>
 <h2 id="contents">Contents<a class="headerlink" href="#contents" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7237,18 +7237,18 @@
 <h2 id="quick-unicode-background">Quick Unicode Background<a class="headerlink" href="#quick-unicode-background" title="Permanent link">&para;</a></h2>
 <h2 id="what-characters-does-the-unicode-standard-include">What Characters Does the Unicode Standard Include?<a class="headerlink" href="#what-characters-does-the-unicode-standard-include" title="Permanent link">&para;</a></h2>
 <p>The Unicode Standard defines codes for characters used in all the major languages written today. Scripts include the European alphabetic scripts, Middle Eastern right-to-left scripts, and many scripts of Asia.</p>
-<p>The Unicode Standard further includes punctuation marks, diacritics, mathematical symbols, technical symbols, arrows, dingbats, emoji, etc. It provides codes for diacritics, which are modifying character marks such as the tilde (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a>~), that are used in conjunction with base characters to represent accented letters (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ñ">https://github.com/jagracey/Awesome-Unicode/blob/master/ñ</a>, for example). In all, the Unicode Standard, Version 9.0 provides codes for 128,172 characters from the world's alphabets, ideograph sets, and symbol collections.</p>
+<p>The Unicode Standard further includes punctuation marks, diacritics, mathematical symbols, technical symbols, arrows, dingbats, emoji, etc. It provides codes for diacritics, which are modifying character marks such as the tilde (~), that are used in conjunction with base characters to represent accented letters (ñ, for example). In all, the Unicode Standard, Version 9.0 provides codes for 128,172 characters from the world's alphabets, ideograph sets, and symbol collections.</p>
 <p>The majority of common-use characters fit into the first 64K code points, an area of the codespace that is called the basic multilingual plane, or BMP for short. There are sixteen other supplementary planes available for encoding other characters, with currently over 850,000 unused code points. More characters are under consideration for addition to future versions of the standard.</p>
 <p>The Unicode Standard also reserves code points for private use. Vendors or end users can assign these internally for their own characters and symbols, or use them with specialized fonts. There are 6,400 private use code points on the BMP and another 131,068 supplementary private use code points, should 6,400 be insufficient for particular applications.</p>
 <h2 id="unicode-character-encodings">Unicode Character Encodings<a class="headerlink" href="#unicode-character-encodings" title="Permanent link">&para;</a></h2>
 <p>Character encoding standards define not only the identity of each character and its numeric value, or code point, but also how this value is represented in bits.</p>
-<p>The Unicode Standard defines three encoding forms that allow the same data to be transmitted in a byte, word or double word oriented format (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/i.e">https://github.com/jagracey/Awesome-Unicode/blob/master/i.e</a>. in 8, 16 or 32-bits per code unit). All three encoding forms encode the same common character repertoire and can be efficiently transformed into one another without loss of data. The Unicode Consortium fully endorses the use of any of these encoding forms as a conformant way of implementing the Unicode Standard.</p>
+<p>The Unicode Standard defines three encoding forms that allow the same data to be transmitted in a byte, word or double word oriented format (i.e. in 8, 16 or 32-bits per code unit). All three encoding forms encode the same common character repertoire and can be efficiently transformed into one another without loss of data. The Unicode Consortium fully endorses the use of any of these encoding forms as a conformant way of implementing the Unicode Standard.</p>
 <p>UTF-8 is popular for HTML and similar protocols. UTF-8 is a way of transforming all Unicode characters into a variable length encoding of bytes. It has the advantages that the Unicode characters corresponding to the familiar ASCII set have the same byte values as ASCII, and that Unicode characters transformed into UTF-8 can be used with much existing software without extensive software rewrites.  </p>
 <p>UTF-16 is popular in many environments that need to balance efficient access to characters with economical use of storage. It is reasonably compact and all the heavily used characters fit into a single 16-bit code unit, while all other characters are accessible via pairs of 16-bit code units.</p>
 <p>UTF-32 is useful where memory space is no concern, but fixed width, single code unit access to characters is desired. Each Unicode character is  encoded in a single 32-bit code unit when using UTF-32.</p>
-<p>All three encoding forms need at most 4 bytes (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/or">https://github.com/jagracey/Awesome-Unicode/blob/master/or</a> 32-bits) of data for each character.</p>
+<p>All three encoding forms need at most 4 bytes (or 32-bits) of data for each character.</p>
 <h2 id="lets-talk-numbers">Lets talk Numbers<a class="headerlink" href="#lets-talk-numbers" title="Permanent link">&para;</a></h2>
-<p>The Unicode characterset is divided into 17 core segments called "planes", which are further divided into blocks. Each plane has space for 65,536 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/2¹⁶">https://github.com/jagracey/Awesome-Unicode/blob/master/2¹⁶</a>) codepoints, supporting a grand total of 1,114,112 codepoints. There are two "Private Use Area" planes (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/#16">https://github.com/jagracey/Awesome-Unicode/blob/master/#16</a> &amp; #17) that are allocated to be used however one wishes. These two Private Use planes account for 131,072 codepoints.</p>
+<p>The Unicode characterset is divided into 17 core segments called "planes", which are further divided into blocks. Each plane has space for 65,536 (2¹⁶) codepoints, supporting a grand total of 1,114,112 codepoints. There are two "Private Use Area" planes (#16 &amp; #17) that are allocated to be used however one wishes. These two Private Use planes account for 131,072 codepoints.</p>
 <table>
 <thead>
 <tr>
@@ -7261,91 +7261,91 @@
 <tr>
 <td>1.</td>
 <td><strong>Basic Multilingual Plane</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+0000</a> to U+FFFF)</td>
+<td>(U+0000 to U+FFFF)</td>
 </tr>
 <tr>
 <td>2.</td>
 <td><strong>Supplementary Multilingual Plane</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+10000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+10000</a> to U+1FFFF)</td>
+<td>(U+10000 to U+1FFFF)</td>
 </tr>
 <tr>
 <td>3.</td>
 <td><strong>Supplementary Ideographic Plane</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+20000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+20000</a> to U+2FFFF)</td>
+<td>(U+20000 to U+2FFFF)</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Tertiary Ideographic Plane</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+30000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+30000</a> to U+3FFFF)</td>
+<td>(U+30000 to U+3FFFF)</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Plane 5 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+40000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+40000</a> to U+4FFFF)</td>
+<td>Plane 5 (unassigned)</td>
+<td>(U+40000 to U+4FFFF)</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Plane 6 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+50000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+50000</a> to U+5FFFF)</td>
+<td>Plane 6 (unassigned)</td>
+<td>(U+50000 to U+5FFFF)</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Plane 7 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+60000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+60000</a> to U+6FFFF)</td>
+<td>Plane 7 (unassigned)</td>
+<td>(U+60000 to U+6FFFF)</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Plane 8 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+70000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+70000</a> to U+7FFFF)</td>
+<td>Plane 8 (unassigned)</td>
+<td>(U+70000 to U+7FFFF)</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Plane 9 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+80000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+80000</a> to U+8FFFF)</td>
+<td>Plane 9 (unassigned)</td>
+<td>(U+80000 to U+8FFFF)</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Plane 10 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+90000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+90000</a> to U+9FFFF)</td>
+<td>Plane 10 (unassigned)</td>
+<td>(U+90000 to U+9FFFF)</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Plane 11 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+A0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+A0000</a> to U+AFFFF)</td>
+<td>Plane 11 (unassigned)</td>
+<td>(U+A0000 to U+AFFFF)</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Plane 12 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+B0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+B0000</a> to U+BFFFF)</td>
+<td>Plane 12 (unassigned)</td>
+<td>(U+B0000 to U+BFFFF)</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Plane 13 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+C0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+C0000</a> to U+CFFFF)</td>
+<td>Plane 13 (unassigned)</td>
+<td>(U+C0000 to U+CFFFF)</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Plane 14 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned">https://github.com/jagracey/Awesome-Unicode/blob/master/unassigned</a>)</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+D0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+D0000</a> to U+DFFFF)</td>
+<td>Plane 14 (unassigned)</td>
+<td>(U+D0000 to U+DFFFF)</td>
 </tr>
 <tr>
 <td>15.</td>
 <td><strong>Supplementary Special-purpose Plane</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+E0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+E0000</a> to U+EFFFF)</td>
+<td>(U+E0000 to U+EFFFF)</td>
 </tr>
 <tr>
 <td>16.</td>
 <td><strong>Supplementary Private Use Area - A</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+F0000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+F0000</a> to U+FFFFF)</td>
+<td>(U+F0000 to U+FFFFF)</td>
 </tr>
 <tr>
 <td>17.</td>
 <td><strong>Supplementary Private Use Area - B</strong></td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+100000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+100000</a> to U+10FFFF)</td>
+<td>(U+100000 to U+10FFFF)</td>
 </tr>
 </tbody>
 </table>
-<p>The first plane is called the Basic Multilingual Plane or BMP. It contains the code points from U+0000 to U+FFFF, which are the most frequently used characters. The other sixteen planes (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+010000">https://github.com/jagracey/Awesome-Unicode/blob/master/U+010000</a> → U+10FFFF) are called supplementary planes or astral planes.</p>
+<p>The first plane is called the Basic Multilingual Plane or BMP. It contains the code points from U+0000 to U+FFFF, which are the most frequently used characters. The other sixteen planes (U+010000 → U+10FFFF) are called supplementary planes or astral planes.</p>
 <h2 id="utf-16-surrogate-pairs">UTF-16 Surrogate Pairs<a class="headerlink" href="#utf-16-surrogate-pairs" title="Permanent link">&para;</a></h2>
 <blockquote>
 <p>Characters outside the BMP, e.g. U+1D306 tetragram for centre (𝌆), can only be encoded in UTF-16 using two 16-bit code units: 0xD834 0xDF06. This is called a surrogate pair. Note that a surrogate pair only represents a single character.
@@ -7360,25 +7360,25 @@ code unit and the second value is a low-surrogate code unit. Surrogate pairs are
 Forms.) -- <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47">Unicode 8.0.0 Chapter 3 - Surrogates</a></p>
 </blockquote>
 <h2 id="calculating-surrogate-pairs">Calculating Surrogate Pairs<a class="headerlink" href="#calculating-surrogate-pairs" title="Permanent link">&para;</a></h2>
-<p>The Unicode character <strong>💩 Pile of Poo (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/U+1F4A9">https://github.com/jagracey/Awesome-Unicode/blob/master/U+1F4A9</a>)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/in">https://github.com/jagracey/Awesome-Unicode/blob/master/in</a> JavaScript). Keep in mind that we're using hexidecimal notation.</p>
-<div class="codehilite"><pre><span></span> <span class="kd">var</span> <span class="nx">High_Surrogate</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/Code_Point){ return Math.floor((https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point - 0x10000) / 0x400) + 0xD800 };</span>
- <span class="kd">var</span> <span class="nx">Low_Surrogate</span>  <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/Code_Point){ return (https://github.com/jagracey/Awesome-Unicode/blob/master/https://github.com/jagracey/Awesome-Unicode/blob/master/Code_Point - 0x10000) % 0x400 + 0xDC00 };</span>
+<p>The Unicode character <strong>💩 Pile of Poo (U+1F4A9)</strong> in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.</p>
+<div class="codehilite"><pre><span></span> <span class="kd">var</span> <span class="nx">High_Surrogate</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">((</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">/</span> <span class="mh">0x400</span><span class="p">)</span> <span class="o">+</span> <span class="mh">0xD800</span> <span class="p">};</span>
+ <span class="kd">var</span> <span class="nx">Low_Surrogate</span>  <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">Code_Point</span><span class="p">){</span> <span class="k">return</span> <span class="p">(</span><span class="nx">Code_Point</span> <span class="o">-</span> <span class="mh">0x10000</span><span class="p">)</span> <span class="o">%</span> <span class="mh">0x400</span> <span class="o">+</span> <span class="mh">0xDC00</span> <span class="p">};</span>
 
  <span class="c1">// Reverses The Conversion</span>
- <span class="kd">var</span> <span class="nx">Code_Point</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/High_Surrogate, Low_Surrogate){</span>
-    <span class="k">return</span> <span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/High_Surrogate - 0xD800) * 0x400 + Low_Surrogate - 0xDC00 + 0x10000;</span>
+ <span class="kd">var</span> <span class="nx">Code_Point</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">High_Surrogate</span><span class="p">,</span> <span class="nx">Low_Surrogate</span><span class="p">){</span>
+    <span class="k">return</span> <span class="p">(</span><span class="nx">High_Surrogate</span> <span class="o">-</span> <span class="mh">0xD800</span><span class="p">)</span> <span class="o">*</span> <span class="mh">0x400</span> <span class="o">+</span> <span class="nx">Low_Surrogate</span> <span class="o">-</span> <span class="mh">0xDC00</span> <span class="o">+</span> <span class="mh">0x10000</span><span class="p">;</span>
  <span class="p">};</span>
 </pre></div>
 
 <div class="codehilite"><pre><span></span> <span class="o">&gt;</span> <span class="kd">var</span> <span class="nx">codepoint</span> <span class="o">=</span> <span class="mh">0x1F4A9</span><span class="p">;</span>                                 <span class="c1">// 0x1F4A9 == 128169</span>
- <span class="o">&gt;</span> <span class="nx">High_Surrogate</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/codepoint).toString(https://github.com/jagracey/Awesome-Unicode/blob/master/16)</span>
+ <span class="o">&gt;</span> <span class="nx">High_Surrogate</span><span class="p">(</span><span class="nx">codepoint</span><span class="p">).</span><span class="nx">toString</span><span class="p">(</span><span class="mi">16</span><span class="p">)</span>
  <span class="s2">&quot;d83d&quot;</span>                                                     <span class="c1">// 0xD83D == 55357</span>
- <span class="o">&gt;</span> <span class="nx">Low_Surrogate</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/codepoint).toString(https://github.com/jagracey/Awesome-Unicode/blob/master/16)</span>
+ <span class="o">&gt;</span> <span class="nx">Low_Surrogate</span><span class="p">(</span><span class="nx">codepoint</span><span class="p">).</span><span class="nx">toString</span><span class="p">(</span><span class="mi">16</span><span class="p">)</span>
  <span class="s2">&quot;dca9&quot;</span>                                                     <span class="c1">// 0xDCA9 == 56489</span>
 
- <span class="o">&gt;</span> <span class="nb">String</span><span class="p">.</span><span class="nx">fromCharCode</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/  High_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint) , Low_Surrogate(https://github.com/jagracey/Awesome-Unicode/blob/master/codepoint) );</span>
+ <span class="o">&gt;</span> <span class="nb">String</span><span class="p">.</span><span class="nx">fromCharCode</span><span class="p">(</span>  <span class="nx">High_Surrogate</span><span class="p">(</span><span class="nx">codepoint</span><span class="p">)</span> <span class="p">,</span> <span class="nx">Low_Surrogate</span><span class="p">(</span><span class="nx">codepoint</span><span class="p">)</span> <span class="p">);</span>
   <span class="s2">&quot;💩&quot;</span>
-<span class="o">&gt;</span> <span class="nb">String</span><span class="p">.</span><span class="nx">fromCodePoint</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/0x1F4A9)</span>
+<span class="o">&gt;</span> <span class="nb">String</span><span class="p">.</span><span class="nx">fromCodePoint</span><span class="p">(</span><span class="mh">0x1F4A9</span><span class="p">)</span>
   <span class="s2">&quot;💩&quot;</span>
  <span class="o">&gt;</span> <span class="s1">&#39;\ud83d\udca9&#39;</span>
   <span class="s2">&quot;💩&quot;</span>
@@ -7386,8 +7386,8 @@ Forms.) -- <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47">U
 
 <h2 id="composing-decomposing">Composing &amp; Decomposing<a class="headerlink" href="#composing-decomposing" title="Permanent link">&para;</a></h2>
 <p>Unicode includes a mechanism for modifying character shape that greatly extends the supported glyph repertoire. This covers the use of combining diacritical marks. They are inserted after the main character. Multiple combining diacritics may be stacked over the same character. Unicode also contains precomposed versions of most letter/diacritic combinations in normal use.</p>
-<p>Certain sequences of characters can also be represented as a single character, called a precomposed character (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/or">https://github.com/jagracey/Awesome-Unicode/blob/master/or</a> composite or decomposible character). For example, the character "ü" can be encoded as the single code point U+00FC "ü" or as the base character U+0075 "u" followed by the non-spacing character U+0308 "¨". The Unicode Standard encodes precomposed characters for compatibility with established standards such as Latin 1, which includes many precomposed characters such as "ü" and "ñ".</p>
-<p>Precomposed characters may be decomposed for consistency or analysis. For example, in alphabetizing (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/collating">https://github.com/jagracey/Awesome-Unicode/blob/master/collating</a>) a list of names, the character "ü" may be decomposed into a "u" followed by the non-spacing character "¨". Once the character has been decomposed, it may be easier for the collation to work with the character because it can be processed as a "u" with modifications. This allows easier alphabetical sorting for languages where character modifiers do not affect alphabetical order. The Unicode Standard defines the <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=44">decompositions</a> for all precomposed characters. It also defines normalization forms to provide for unique representations of characters.</p>
+<p>Certain sequences of characters can also be represented as a single character, called a precomposed character (or composite or decomposible character). For example, the character "ü" can be encoded as the single code point U+00FC "ü" or as the base character U+0075 "u" followed by the non-spacing character U+0308 "¨". The Unicode Standard encodes precomposed characters for compatibility with established standards such as Latin 1, which includes many precomposed characters such as "ü" and "ñ".</p>
+<p>Precomposed characters may be decomposed for consistency or analysis. For example, in alphabetizing (collating) a list of names, the character "ü" may be decomposed into a "u" followed by the non-spacing character "¨". Once the character has been decomposed, it may be easier for the collation to work with the character because it can be processed as a "u" with modifications. This allows easier alphabetical sorting for languages where character modifiers do not affect alphabetical order. The Unicode Standard defines the <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=44">decompositions</a> for all precomposed characters. It also defines normalization forms to provide for unique representations of characters.</p>
 <h2 id="myths-of-unicode">Myths of Unicode<a class="headerlink" href="#myths-of-unicode" title="Permanent link">&para;</a></h2>
 <p><em>From Mark Davis's <a href="http://macchiato.com/slides/UnicodeMyths.pdf">Unicode Myths</a> slides.</em>
 - <strong>Unicode is simply a 16-bit code</strong> - Some people are under the misconception that Unicode is simply a 16-bit code where each character takes 16 bits and therefore there are 65,536 possible characters. This is not, actually, correct. It is the single most common myth about Unicode, so if you thought that, don't feel bad.</p>
@@ -7396,8 +7396,8 @@ Forms.) -- <a href="http://unicode.org/versions/Unicode8.0.0/ch03.pdf#page=47">U
 <p><strong>You can use any unassigned codepoint for internal use</strong> - No. Eventually that hole will be filled with a different character. Instead use private use or noncharacters.</p>
 </li>
 <li>
-<p><strong>Every Unicode code point represents a character</strong> - No. There are lots of nonCharacters (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/FFFE">https://github.com/jagracey/Awesome-Unicode/blob/master/FFFE</a>, FFFF, 1FFFE,…)
-There are also surrogate code points, private and unassigned codepoints, and control/format “characters" (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/RLM">https://github.com/jagracey/Awesome-Unicode/blob/master/RLM</a>, ZWNJ,…)</p>
+<p><strong>Every Unicode code point represents a character</strong> - No. There are lots of nonCharacters (FFFE, FFFF, 1FFFE,…)
+There are also surrogate code points, private and unassigned codepoints, and control/format “characters" (RLM, ZWNJ,…)</p>
 </li>
 <li>
 <p><strong>Unicode will run out of space</strong> - If it were linear, we would run out in 2140 AD. But it isn't linear. See <a href="http://www.unicode.org/roadmaps/">http://www.unicode.org/roadmaps/</a></p>
@@ -7405,9 +7405,9 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <li>
 <p><strong>Case mappings are 1-1</strong> - No. They can also be:</p>
 </li>
-<li>One-to-many: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ß">https://github.com/jagracey/Awesome-Unicode/blob/master/ß</a> → SS )</li>
-<li>Contextual: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a>…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )</li>
-<li>Locale-sensitive: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a> I ↔ ı AND İ ↔ i )</li>
+<li>One-to-many: (ß → SS )</li>
+<li>Contextual: (…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )</li>
+<li>Locale-sensitive: ( I ↔ ı AND İ ↔ i )</li>
 </ul>
 <h2 id="applied-unicode-encodings">Applied Unicode Encodings<a class="headerlink" href="#applied-unicode-encodings" title="Permanent link">&para;</a></h2>
 <table>
@@ -7419,11 +7419,11 @@ There are also surrogate code points, private and unassigned codepoints, and con
 </thead>
 <tbody>
 <tr>
-<td>HTML Entity (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/Decimal">https://github.com/jagracey/Awesome-Unicode/blob/master/Decimal</a>)</td>
+<td>HTML Entity (Decimal)</td>
 <td>&#128406;</td>
 </tr>
 <tr>
-<td>HTML Entity (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/Hexadecimal">https://github.com/jagracey/Awesome-Unicode/blob/master/Hexadecimal</a>)</td>
+<td>HTML Entity (Hexadecimal)</td>
 <td>&#x1F596;</td>
 </tr>
 <tr>
@@ -7431,28 +7431,28 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <td>%F0%9F%96%96</td>
 </tr>
 <tr>
-<td>UTF-8 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/hex">https://github.com/jagracey/Awesome-Unicode/blob/master/hex</a>)</td>
-<td>0xF0 0x9F 0x96 0x96 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/f09f9696">https://github.com/jagracey/Awesome-Unicode/blob/master/f09f9696</a>)</td>
+<td>UTF-8 (hex)</td>
+<td>0xF0 0x9F 0x96 0x96 (f09f9696)</td>
 </tr>
 <tr>
-<td>UTF-8 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/binary">https://github.com/jagracey/Awesome-Unicode/blob/master/binary</a>)</td>
+<td>UTF-8 (binary)</td>
 <td>11110000:10011111:10010110:10010110</td>
 </tr>
 <tr>
-<td>UTF-16/UTF-16BE (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/hex">https://github.com/jagracey/Awesome-Unicode/blob/master/hex</a>)</td>
-<td>0xD83D 0xDD96 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/d83ddd96">https://github.com/jagracey/Awesome-Unicode/blob/master/d83ddd96</a>)</td>
+<td>UTF-16/UTF-16BE (hex)</td>
+<td>0xD83D 0xDD96 (d83ddd96)</td>
 </tr>
 <tr>
-<td>UTF-16LE (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/hex">https://github.com/jagracey/Awesome-Unicode/blob/master/hex</a>)</td>
-<td>0x3DD8 0x96DD (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/3dd896dd">https://github.com/jagracey/Awesome-Unicode/blob/master/3dd896dd</a>)</td>
+<td>UTF-16LE (hex)</td>
+<td>0x3DD8 0x96DD (3dd896dd)</td>
 </tr>
 <tr>
-<td>UTF-32/UTF-32BE (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/hex">https://github.com/jagracey/Awesome-Unicode/blob/master/hex</a>)</td>
-<td>0x0001F596 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/0001f596">https://github.com/jagracey/Awesome-Unicode/blob/master/0001f596</a>)</td>
+<td>UTF-32/UTF-32BE (hex)</td>
+<td>0x0001F596 (0001f596)</td>
 </tr>
 <tr>
-<td>UTF-32LE (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/hex">https://github.com/jagracey/Awesome-Unicode/blob/master/hex</a>)</td>
-<td>0x96F50100 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96f50100">https://github.com/jagracey/Awesome-Unicode/blob/master/96f50100</a>)</td>
+<td>UTF-32LE (hex)</td>
+<td>0x96F50100 (96f50100)</td>
 </tr>
 <tr>
 <td>Octal Escape Sequence</td>
@@ -7524,18 +7524,18 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <tbody>
 <tr>
 <td><code>'﻿'</code></td>
-<td>U+FEFF (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/Byte">https://github.com/jagracey/Awesome-Unicode/blob/master/Byte</a> Order Mark - BOM)</td>
-<td>has the important property of unambiguity on byte reorder. It is also zerowidth, and invisible. In non-complying software (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/like">https://github.com/jagracey/Awesome-Unicode/blob/master/like</a> the PHP interpreter) this leads to all sorts of fun behaviour.</td>
+<td>U+FEFF (Byte Order Mark - BOM)</td>
+<td>has the important property of unambiguity on byte reorder. It is also zerowidth, and invisible. In non-complying software (like the PHP interpreter) this leads to all sorts of fun behaviour.</td>
 </tr>
 <tr>
 <td><code>'￯'</code></td>
-<td>'\uFFEF' Reversed Byte Order Mark (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/BOM">https://github.com/jagracey/Awesome-Unicode/blob/master/BOM</a>)</td>
+<td>'\uFFEF' Reversed Byte Order Mark (BOM)</td>
 <td>does not equate to a legal character, other than the beginning of text.</td>
 </tr>
 <tr>
 <td><code>'​'</code></td>
 <td>'\u200B' zero-width non-break space</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/a">https://github.com/jagracey/Awesome-Unicode/blob/master/a</a> character with no appearance and no effect other than preventing the formation of ligatures).</td>
+<td>(a character with no appearance and no effect other than preventing the formation of ligatures).</td>
 </tr>
 <tr>
 <td><code>' '</code></td>
@@ -7545,12 +7545,12 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <tr>
 <td><code>'­'</code></td>
 <td>U+00AD SOFT HYPHEN</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/in">https://github.com/jagracey/Awesome-Unicode/blob/master/in</a> HTML: ­) like ZERO WIDTH SPACE, but show a hyphen if (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/and">https://github.com/jagracey/Awesome-Unicode/blob/master/and</a> only if) a break occurs.</td>
+<td>(in HTML: ­) like ZERO WIDTH SPACE, but show a hyphen if (and only if) a break occurs.</td>
 </tr>
 <tr>
 <td><code>'‍'</code></td>
 <td>U+200D ZERO WIDTH JOINER</td>
-<td>force adjacent characters to be joined together (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/e.g">https://github.com/jagracey/Awesome-Unicode/blob/master/e.g</a>., arabic characters or supported emoji). Can be used this to compose sequentially combined emoji.</td>
+<td>force adjacent characters to be joined together (e.g., arabic characters or supported emoji). Can be used this to compose sequentially combined emoji.</td>
 </tr>
 <tr>
 <td><code>'⁠'</code></td>
@@ -7599,23 +7599,23 @@ There are also surrogate code points, private and unassigned codepoints, and con
 </tr>
 <tr>
 <td><code>'︀'</code></td>
-<td><strong>Variation Selectors</strong> (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a> U+FE00 to U+FE0F &amp; U+E0100 to U+E01EF )</td>
-<td>a block of 256 zero width characters that posess the ID_Continue proprerty- meaning they can be used in variable names (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/not">https://github.com/jagracey/Awesome-Unicode/blob/master/not</a> the first letter). What makes these special is the fact that mouse cursors pass over them as they are combining characters - unlike most other zero width characters.</td>
+<td><strong>Variation Selectors</strong> ( U+FE00 to U+FE0F &amp; U+E0100 to U+E01EF )</td>
+<td>a block of 256 zero width characters that posess the ID_Continue proprerty- meaning they can be used in variable names (not the first letter). What makes these special is the fact that mouse cursors pass over them as they are combining characters - unlike most other zero width characters.</td>
 </tr>
 <tr>
 <td><code>'ᅟ'</code></td>
 <td><strong>U+115F HANGUL CHOSEONG FILLER</strong></td>
-<td>In general it produces a space. Rendered as zero width (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/invisible">https://github.com/jagracey/Awesome-Unicode/blob/master/invisible</a>) if not explicitly supported in rendering. Designated ID_Start</td>
+<td>In general it produces a space. Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start</td>
 </tr>
 <tr>
 <td><code>'ᅠ'</code></td>
 <td><strong>U+1160 HANGUL JUNGSEONG FILLER</strong></td>
-<td>Perhaps it produces a space? Rendered as zero width (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/invisible">https://github.com/jagracey/Awesome-Unicode/blob/master/invisible</a>) if not explicitly supported in rendering. Designated ID_Start</td>
+<td>Perhaps it produces a space? Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start</td>
 </tr>
 <tr>
 <td><code>'ㅤ'</code></td>
 <td><strong>U+3164 HANGUL FILLER</strong></td>
-<td>In general it produces a space. Rendered as zero width (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/invisible">https://github.com/jagracey/Awesome-Unicode/blob/master/invisible</a>) if not explicitly supported in rendering. Designated ID_Start</td>
+<td>In general it produces a space. Rendered as zero width (invisible) if not explicitly supported in rendering. Designated ID_Start</td>
 </tr>
 <tr>
 <td><br><br></td>
@@ -7631,8 +7631,8 @@ There are also surrogate code points, private and unassigned codepoints, and con
 </table>
 <p><br><br></p>
 <h2 id="variable-identifiers-can-effectively-include-whitespace">Variable identifiers can effectively include whitespace!<a class="headerlink" href="#variable-identifiers-can-effectively-include-whitespace" title="Permanent link">&para;</a></h2>
-<p>The <strong>U+3164 HANGUL FILLER</strong> character displays as an advancing whitespace character. The character is rendered as completely invisible (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/and">https://github.com/jagracey/Awesome-Unicode/blob/master/and</a> non advancing, i.e. "zero width"), if not explicitly <a href="http://unicode.org/faq/unsup_char.html">supported in rendering</a>. That means the ugly character replacement (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a>�) symbol should never be displayed.</p>
-<p>I'm not yet sure why U+3164 was specified to behave this way. Interestingly, U+3164 was added to Unicode in version 1.1 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/1993)-">https://github.com/jagracey/Awesome-Unicode/blob/master/1993)-</a> so the consortium must have had a lot of time to think it through. Anyway, here are a few examples.</p>
+<p>The <strong>U+3164 HANGUL FILLER</strong> character displays as an advancing whitespace character. The character is rendered as completely invisible (and non advancing, i.e. "zero width"), if not explicitly <a href="http://unicode.org/faq/unsup_char.html">supported in rendering</a>. That means the ugly character replacement (�) symbol should never be displayed.</p>
+<p>I'm not yet sure why U+3164 was specified to behave this way. Interestingly, U+3164 was added to Unicode in version 1.1 (1993)- so the consortium must have had a lot of time to think it through. Anyway, here are a few examples.</p>
 <p><div class="codehilite"><pre><span></span><span class="o">&gt;</span> <span class="kd">var</span> <span class="nx">ᅟ</span> <span class="o">=</span> <span class="s1">&#39;foo&#39;</span><span class="p">;</span>
 <span class="kc">undefined</span>
 <span class="o">&gt;</span> <span class="nx">ᅟ</span>
@@ -7643,7 +7643,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="kc">undefined</span>
 <span class="o">&gt;</span> <span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span>
 <span class="kc">undefined</span>
-<span class="o">&gt;</span> <span class="k">if</span> <span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/ foo ===ㅤ`baz` ){}    // alert</span>
+<span class="o">&gt;</span> <span class="k">if</span> <span class="p">(</span> <span class="nx">foo</span> <span class="o">===</span><span class="nx">ㅤ</span><span class="sb">`baz`</span> <span class="p">){}</span>    <span class="c1">// alert</span>
 <span class="kc">undefined</span>
 
 
@@ -7653,11 +7653,11 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="s1">&#39;bar&#39;</span>
 </pre></div>
 <br>
-<strong>NOTE:</strong> I've tested U+3164 rendering on Ubuntu and OS X with the following: <code>node</code>, <code>php</code>, <code>ruby</code>, <code>python3.5</code>, <code>scala</code> ,<code>vim</code>, <code>cat</code>, <code>chrome</code>+<code>github gist</code>. Atom is the only system that fails by (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/incorrectly">https://github.com/jagracey/Awesome-Unicode/blob/master/incorrectly</a>) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.</p>
+<strong>NOTE:</strong> I've tested U+3164 rendering on Ubuntu and OS X with the following: <code>node</code>, <code>php</code>, <code>ruby</code>, <code>python3.5</code>, <code>scala</code> ,<code>vim</code>, <code>cat</code>, <code>chrome</code>+<code>github gist</code>. Atom is the only system that fails by (incorrectly) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.</p>
 <p><br></p>
 <h2 id="modifiers">Modifiers<a class="headerlink" href="#modifiers" title="Permanent link">&para;</a></h2>
-<p>The zero-width joiner (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ">https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ</a>) is a non-printing character used in the computerized typesetting of some complex scripts such as the Arabic script or any Indic script. When placed between two characters that would otherwise not be connected, a <a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ">https://github.com/jagracey/Awesome-Unicode/blob/master/ZWJ</a> causes them to be printed in their connected forms.</p>
-<p>The zero-width non-joiner (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ">https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ</a>) is a non-printing character used in the computerization of writing systems that make use of ligatures. When placed between two characters that would otherwise be connected into a ligature, a <a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ">https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ</a> causes them to be printed in their final and initial forms, respectively. This is also an effect of a space character, but a <a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ">https://github.com/jagracey/Awesome-Unicode/blob/master/ZWNJ</a> is used when it is desirable to keep the words closer together or to connect a word with its morpheme.</p>
+<p>The zero-width joiner (ZWJ) is a non-printing character used in the computerized typesetting of some complex scripts such as the Arabic script or any Indic script. When placed between two characters that would otherwise not be connected, a ZWJ causes them to be printed in their connected forms.</p>
+<p>The zero-width non-joiner (ZWNJ) is a non-printing character used in the computerization of writing systems that make use of ligatures. When placed between two characters that would otherwise be connected into a ligature, a ZWNJ causes them to be printed in their final and initial forms, respectively. This is also an effect of a space character, but a ZWNJ is used when it is desirable to keep the words closer together or to connect a word with its morpheme.</p>
 <div class="codehilite"><pre><span></span><span class="o">&gt;</span> <span class="s1">&#39;a&#39;</span>
  <span class="s2">&quot;a&quot;</span>
 
@@ -7768,9 +7768,9 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <li>
 <p><strong>Upper and lower case mappings are not always one-to-one.</strong> They can also be:</p>
 </li>
-<li>One-to-many: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ß">https://github.com/jagracey/Awesome-Unicode/blob/master/ß</a> → SS )</li>
-<li>Contextual: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a>…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )</li>
-<li>Locale-sensitive: (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a> I ↔ ı AND İ ↔ i )</li>
+<li>One-to-many: (ß → SS )</li>
+<li>Contextual: (…Σ ↔ …ς AND …ΣΤ… ↔ …στ… )</li>
+<li>Locale-sensitive: ( I ↔ ı AND İ ↔ i )</li>
 </ul>
 <h3 id="one-to-many-case-mappings">One-To-Many Case Mappings<a class="headerlink" href="#one-to-many-case-mappings" title="Permanent link">&para;</a></h3>
 <p><em>Most of the below characters express their one-to-many case mappings when uppercased- while others should be lowercased. This list should be split up</em></p>
@@ -8558,7 +8558,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 </table>
 <p>Further, emojis now support skin color modifiers.</p>
 <blockquote>
-<p>Five symbol modifier characters that provide for a range of skin tones for human emoji were released in Unicode Version 8.0 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/mid-2015">https://github.com/jagracey/Awesome-Unicode/blob/master/mid-2015</a>). These characters are based on the six tones of the Fitzpatrick scale, a recognized standard for dermatology (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/there">https://github.com/jagracey/Awesome-Unicode/blob/master/there</a> are many examples of this scale online, such as FitzpatrickSkinType.pdf). The exact shades may vary between implementations. -- <a href="http://unicode.org/reports/tr51/#Diversity">Unicode Consortium's Diversity report</a></p>
+<p>Five symbol modifier characters that provide for a range of skin tones for human emoji were released in Unicode Version 8.0 (mid-2015). These characters are based on the six tones of the Fitzpatrick scale, a recognized standard for dermatology (there are many examples of this scale online, such as FitzpatrickSkinType.pdf). The exact shades may vary between implementations. -- <a href="http://unicode.org/reports/tr51/#Diversity">Unicode Consortium's Diversity report</a></p>
 </blockquote>
 <table>
 <thead>
@@ -8610,9 +8610,9 @@ There are also surrogate code points, private and unassigned codepoints, and con
 </p>
 
 <h2 id="creatively-naming-variables-and-methods">Creatively Naming Variables and Methods<a class="headerlink" href="#creatively-naming-variables-and-methods" title="Permanent link">&para;</a></h2>
-<p><em>Examples are written in JavaScript (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/ES6">https://github.com/jagracey/Awesome-Unicode/blob/master/ES6</a>)</em></p>
+<p><em>Examples are written in JavaScript (ES6)</em></p>
 <p>In general, characters designated the <a href="https://codepoints.net/search?IDS=1">ID_START</a> property may be used at the beggining of a variable name. Characters designated with the <a href="https://codepoints.net/search?IDC=1">ID_CONTINUE</a> property may be used after the first character of a variable.</p>
-<div class="codehilite"><pre><span></span><span class="kd">function</span> <span class="nx">rand</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/μ,σ){ ... };</span>
+<div class="codehilite"><pre><span></span><span class="kd">function</span> <span class="nx">rand</span><span class="p">(</span><span class="nx">μ</span><span class="p">,</span><span class="nx">σ</span><span class="p">){</span> <span class="p">...</span> <span class="p">};</span>
 
 <span class="nb">String</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">reverseⵑ</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(){..};</span>
 
@@ -8643,7 +8643,7 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <span class="c1">// While perfectly valid, this doesn’t work in most browsers:</span>
 <span class="kd">var</span> <span class="nx">foo\u200Cbar</span> <span class="o">=</span> <span class="mi">42</span><span class="p">;</span>
 
-<span class="c1">// This is *not* a bitwise left shift (https://github.com/jagracey/Awesome-Unicode/blob/master/`&lt;&lt;`):</span>
+<span class="c1">// This is *not* a bitwise left shift (`&lt;&lt;`):</span>
 <span class="kd">var</span> <span class="nx">〱〱</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
 <span class="c1">// This is, though:</span>
 <span class="nx">〱〱</span> <span class="o">&lt;&lt;</span> <span class="nx">〱〱</span><span class="p">;</span> <span class="c1">// 8</span>
@@ -8683,59 +8683,59 @@ There are also surrogate code points, private and unassigned codepoints, and con
 <p>If you want to rename all your HTML tags to what appears as nothing, the following script is just what your looking for.</p>
 <p><em>Do note however that HTML does not support all unicode characters.</em>
 <div class="codehilite"><pre><span></span><span class="c1">// U+1160 HANGUL JUNGSEONG FILLER</span>
-<span class="nx">transformAllTags</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;ᅠ&#39;);</span>
+<span class="nx">transformAllTags</span><span class="p">(</span><span class="s1">&#39;ᅠ&#39;</span><span class="p">);</span>
 
 <span class="c1">// An actual HTML element node designed to look like a comment node, using the U+01C3 LATIN LETTER RETROFLEX CLICK </span>
 <span class="c1">//  &lt;ǃ-- name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;&lt;/ǃ--&gt;</span>
-<span class="nx">transformAllTags</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;ǃ--&#39;);</span>
+<span class="nx">transformAllTags</span><span class="p">(</span><span class="s1">&#39;ǃ--&#39;</span><span class="p">);</span>
 
 <span class="c1">// or even &lt;ᅠ⃝</span>
-<span class="nx">transformAllTags</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;\u{1160}\u{20dd}&#39;);</span>
+<span class="nx">transformAllTags</span><span class="p">(</span><span class="s1">&#39;\u{1160}\u{20dd}&#39;</span><span class="p">);</span>
 
 <span class="c1">// and for a bonus, all existing tag names will have each character ensquared. h⃞t⃞m⃞l⃞</span>
 <span class="nx">transformAllTags</span><span class="p">();</span>
 
 
-<span class="kd">function</span> <span class="nx">transformAllTags</span> <span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/newName){</span>
+<span class="kd">function</span> <span class="nx">transformAllTags</span> <span class="p">(</span><span class="nx">newName</span><span class="p">){</span>
    <span class="c1">// querySelectorAll doesn&#39;t actually return an array.</span>
-   <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/document.querySelectorAll(&#39;*&#39;))</span>
-     <span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/function(x){</span>
-         <span class="nx">transformTag</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/x, newName);</span>
+   <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s1">&#39;*&#39;</span><span class="p">))</span>
+     <span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">){</span>
+         <span class="nx">transformTag</span><span class="p">(</span><span class="nx">x</span><span class="p">,</span> <span class="nx">newName</span><span class="p">);</span>
    <span class="p">});</span>
 <span class="p">}</span>
 
-<span class="kd">function</span> <span class="nx">wonky</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/str){</span>
-  <span class="k">return</span> <span class="nx">str</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;&#39;).join(https://github.com/jagracey/Awesome-Unicode/blob/master/&#39;\u{20de}&#39;) + https://github.com/jagracey/Awesome-Unicode/blob/master/&#39;\u{20de}&#39;;</span>
+<span class="kd">function</span> <span class="nx">wonky</span><span class="p">(</span><span class="nx">str</span><span class="p">){</span>
+  <span class="k">return</span> <span class="nx">str</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">).</span><span class="nx">join</span><span class="p">(</span><span class="s1">&#39;\u{20de}&#39;</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;\u{20de}&#39;</span><span class="p">;</span>
 <span class="p">}</span>
 
-<span class="kd">function</span> <span class="nx">transformTag</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem, tagType){</span>
-    <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem instanceof HTMLElement) ? https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem : document.getElementById(https://github.com/jagracey/Awesome-Unicode/blob/master/tagIdOrElem);</span>
-    <span class="k">if</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/!elem || !(elem instanceof HTMLElement))return;</span>
+<span class="kd">function</span> <span class="nx">transformTag</span><span class="p">(</span><span class="nx">tagIdOrElem</span><span class="p">,</span> <span class="nx">tagType</span><span class="p">){</span>
+    <span class="kd">var</span> <span class="nx">elem</span> <span class="o">=</span> <span class="p">(</span><span class="nx">tagIdOrElem</span> <span class="k">instanceof</span> <span class="nx">HTMLElement</span><span class="p">)</span> <span class="o">?</span> <span class="nx">tagIdOrElem</span> <span class="o">:</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="nx">tagIdOrElem</span><span class="p">);</span>
+    <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="nx">elem</span> <span class="o">||</span> <span class="o">!</span><span class="p">(</span><span class="nx">elem</span> <span class="k">instanceof</span> <span class="nx">HTMLElement</span><span class="p">))</span><span class="k">return</span><span class="p">;</span>
     <span class="kd">var</span> <span class="nx">children</span> <span class="o">=</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">childNodes</span><span class="p">;</span>
     <span class="kd">var</span> <span class="nx">parent</span> <span class="o">=</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">parentNode</span><span class="p">;</span>
-    <span class="kd">var</span> <span class="nx">newNode</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/tagType||wonky(elem.tagName));</span>
-    <span class="k">for</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/var a=0;a&lt;elem.attributes.length;a++){</span>
-        <span class="nx">newNode</span><span class="p">.</span><span class="nx">setAttribute</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/elem.attributes[a].nodeName, elem.attributes[a].value);</span>
+    <span class="kd">var</span> <span class="nx">newNode</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="nx">tagType</span><span class="o">||</span><span class="nx">wonky</span><span class="p">(</span><span class="nx">elem</span><span class="p">.</span><span class="nx">tagName</span><span class="p">));</span>
+    <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">a</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="nx">a</span><span class="o">&lt;</span><span class="nx">elem</span><span class="p">.</span><span class="nx">attributes</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span><span class="nx">a</span><span class="o">++</span><span class="p">){</span>
+        <span class="nx">newNode</span><span class="p">.</span><span class="nx">setAttribute</span><span class="p">(</span><span class="nx">elem</span><span class="p">.</span><span class="nx">attributes</span><span class="p">[</span><span class="nx">a</span><span class="p">].</span><span class="nx">nodeName</span><span class="p">,</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">attributes</span><span class="p">[</span><span class="nx">a</span><span class="p">].</span><span class="nx">value</span><span class="p">);</span>
     <span class="p">}</span>
-    <span class="k">for</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/var i= 0,clen=children.length;i&lt;clen;i++){</span>
-        <span class="nx">newNode</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/children[0]); //0...always point to the first non-moved element</span>
+    <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">i</span><span class="o">=</span> <span class="mi">0</span><span class="p">,</span><span class="nx">clen</span><span class="o">=</span><span class="nx">children</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span><span class="nx">i</span><span class="o">&lt;</span><span class="nx">clen</span><span class="p">;</span><span class="nx">i</span><span class="o">++</span><span class="p">){</span>
+        <span class="nx">newNode</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">children</span><span class="p">[</span><span class="mi">0</span><span class="p">]);</span> <span class="c1">//0...always point to the first non-moved element</span>
     <span class="p">}</span>
     <span class="nx">newNode</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">cssText</span> <span class="o">=</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">cssText</span><span class="p">;</span>
-    <span class="nx">parent</span><span class="p">.</span><span class="nx">replaceChild</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/newNode,elem);</span>
+    <span class="nx">parent</span><span class="p">.</span><span class="nx">replaceChild</span><span class="p">(</span><span class="nx">newNode</span><span class="p">,</span><span class="nx">elem</span><span class="p">);</span>
 <span class="p">}</span>
 </pre></div>
 Here is what it does support:</p>
-<div class="codehilite"><pre><span></span><span class="kd">function</span> <span class="nx">testBegin</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/str){</span>
+<div class="codehilite"><pre><span></span><span class="kd">function</span> <span class="nx">testBegin</span><span class="p">(</span><span class="nx">str</span><span class="p">){</span>
  <span class="k">try</span><span class="p">{</span>
-    <span class="nb">eval</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/`document.createElement( &#39;${str}&#39; );`)</span>
+    <span class="nb">eval</span><span class="p">(</span><span class="sb">`document.createElement( &#39;</span><span class="si">${</span><span class="nx">str</span><span class="si">}</span><span class="sb">&#39; );`</span><span class="p">)</span>
     <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
  <span class="p">}</span>
  <span class="k">catch</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span> <span class="k">return</span> <span class="kc">false</span><span class="p">;</span> <span class="p">}</span>
 <span class="p">}</span>
 
-<span class="kd">function</span> <span class="nx">testContinue</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/str){</span>
+<span class="kd">function</span> <span class="nx">testContinue</span><span class="p">(</span><span class="nx">str</span><span class="p">){</span>
  <span class="k">try</span><span class="p">{</span>
-    <span class="nb">eval</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/`document.createElement( &#39;a${str}&#39; );`)</span>
+    <span class="nb">eval</span><span class="p">(</span><span class="sb">`document.createElement( &#39;a</span><span class="si">${</span><span class="nx">str</span><span class="si">}</span><span class="sb">&#39; );`</span><span class="p">)</span>
     <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
  <span class="p">}</span>
  <span class="k">catch</span><span class="p">(</span><span class="nx">e</span><span class="p">){</span> <span class="k">return</span> <span class="kc">false</span><span class="p">;</span> <span class="p">}</span>
@@ -8744,13 +8744,13 @@ Here is what it does support:</p>
 
 <p>And heres some basic results
 <div class="codehilite"><pre><span></span><span class="c1">// Test if dashes can start an HTML Tag</span>
-<span class="o">&gt;</span> <span class="nx">testBegin</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;-&#39;)</span>
+<span class="o">&gt;</span> <span class="nx">testBegin</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">)</span>
 <span class="o">&lt;</span> <span class="kc">false</span>
 
-<span class="o">&gt;</span> <span class="nx">testContinue</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;-&#39;)</span>
+<span class="o">&gt;</span> <span class="nx">testContinue</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">)</span>
 <span class="o">&lt;</span> <span class="kc">true</span>
 
-<span class="o">&gt;</span> <span class="nx">testBegin</span><span class="p">(</span><span class="nx">https</span><span class="o">:</span><span class="c1">//github.com/jagracey/Awesome-Unicode/blob/master/&#39;ᅠ-&#39;)   // Prepend dash with U+1160 HANGUL JUNGSEONG FILLER</span>
+<span class="o">&gt;</span> <span class="nx">testBegin</span><span class="p">(</span><span class="s1">&#39;ᅠ-&#39;</span><span class="p">)</span>   <span class="c1">// Prepend dash with U+1160 HANGUL JUNGSEONG FILLER</span>
 <span class="o">&lt;</span> <span class="kc">true</span>
 </pre></div></p>
 <h2 id="unicode-fonts">Unicode Fonts<a class="headerlink" href="#unicode-fonts" title="Permanent link">&para;</a></h2>
@@ -8784,7 +8784,7 @@ Here is what it does support:</p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roadmap_to_Unicode_BMP.svg/750px-Roadmap_to_Unicode_BMP.svg.png" alt="A map of the Basic Multilingual Plane. Each numbered box represents 256 code points."/>
 </p></p>
-<p><em>The Chinese, Japanese and Korean (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/CJK">https://github.com/jagracey/Awesome-Unicode/blob/master/CJK</a>) scripts share a common background, collectively known as <a href="https://github.com/jagracey/Awesome-Unicode/blob/master/CJK">https://github.com/jagracey/Awesome-Unicode/blob/master/CJK</a> characters. In the process called Han unification, the common (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/shared">https://github.com/jagracey/Awesome-Unicode/blob/master/shared</a>) characters were identified and named "<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/CJK">https://github.com/jagracey/Awesome-Unicode/blob/master/CJK</a> Unified Ideographs".</em></p>
+<p><em>The Chinese, Japanese and Korean (CJK) scripts share a common background, collectively known as CJK characters. In the process called Han unification, the common (shared) characters were identified and named "CJK Unified Ideographs".</em></p>
 <h2 id="unicode-blocks">Unicode Blocks<a class="headerlink" href="#unicode-blocks" title="Permanent link">&para;</a></h2>
 <p><em>The Unicode standard arranges groups of characters together in blocks. This is the complete list of blocks across all 17 planes.</em></p>
 <table>
@@ -8801,367 +8801,367 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Basic_Latin">Basic Latin</a></td>
 <td>U+0000</td>
 <td>U+007F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin-1_Supplement">Latin-1 Supplement</a></td>
 <td>U+0080</td>
 <td>U+00FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended-A">Latin Extended-A</a></td>
 <td>U+0100</td>
 <td>U+017F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended-B">Latin Extended-B</a></td>
 <td>U+0180</td>
 <td>U+024F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/208">https://github.com/jagracey/Awesome-Unicode/blob/master/208</a>)</td>
+<td>(208)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/IPA_Extensions">IPA Extensions</a></td>
 <td>U+0250</td>
 <td>U+02AF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96">https://github.com/jagracey/Awesome-Unicode/blob/master/96</a>)</td>
+<td>(96)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Spacing_Modifier_Letters">Spacing Modifier Letters</a></td>
 <td>U+02B0</td>
 <td>U+02FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/80">https://github.com/jagracey/Awesome-Unicode/blob/master/80</a>)</td>
+<td>(80)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Combining_Diacritical_Marks">Combining Diacritical Marks</a></td>
 <td>U+0300</td>
 <td>U+036F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/112">https://github.com/jagracey/Awesome-Unicode/blob/master/112</a>)</td>
+<td>(112)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Greek_and_Coptic">Greek and Coptic</a></td>
 <td>U+0370</td>
 <td>U+03FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/135">https://github.com/jagracey/Awesome-Unicode/blob/master/135</a>)</td>
+<td>(135)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cyrillic">Cyrillic</a></td>
 <td>U+0400</td>
 <td>U+04FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cyrillic_Supplement">Cyrillic Supplement</a></td>
 <td>U+0500</td>
 <td>U+052F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Armenian">Armenian</a></td>
 <td>U+0530</td>
 <td>U+058F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/89">https://github.com/jagracey/Awesome-Unicode/blob/master/89</a>)</td>
+<td>(89)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hebrew">Hebrew</a></td>
 <td>U+0590</td>
 <td>U+05FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/87">https://github.com/jagracey/Awesome-Unicode/blob/master/87</a>)</td>
+<td>(87)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic">Arabic</a></td>
 <td>U+0600</td>
 <td>U+06FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/255">https://github.com/jagracey/Awesome-Unicode/blob/master/255</a>)</td>
+<td>(255)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Syriac">Syriac</a></td>
 <td>U+0700</td>
 <td>U+074F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/77">https://github.com/jagracey/Awesome-Unicode/blob/master/77</a>)</td>
+<td>(77)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic_Supplement">Arabic Supplement</a></td>
 <td>U+0750</td>
 <td>U+077F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Thaana">Thaana</a></td>
 <td>U+0780</td>
 <td>U+07BF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/50">https://github.com/jagracey/Awesome-Unicode/blob/master/50</a>)</td>
+<td>(50)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/NKo">NKo</a></td>
 <td>U+07C0</td>
 <td>U+07FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/59">https://github.com/jagracey/Awesome-Unicode/blob/master/59</a>)</td>
+<td>(59)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Samaritan">Samaritan</a></td>
 <td>U+0800</td>
 <td>U+083F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/61">https://github.com/jagracey/Awesome-Unicode/blob/master/61</a>)</td>
+<td>(61)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mandaic">Mandaic</a></td>
 <td>U+0840</td>
 <td>U+085F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic_Extended-A">Arabic Extended-A</a></td>
 <td>U+08A0</td>
 <td>U+08FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/50">https://github.com/jagracey/Awesome-Unicode/blob/master/50</a>)</td>
+<td>(50)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Devanagari">Devanagari</a></td>
 <td>U+0900</td>
 <td>U+097F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bengali">Bengali</a></td>
 <td>U+0980</td>
 <td>U+09FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/93">https://github.com/jagracey/Awesome-Unicode/blob/master/93</a>)</td>
+<td>(93)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Gurmukhi">Gurmukhi</a></td>
 <td>U+0A00</td>
 <td>U+0A7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/79">https://github.com/jagracey/Awesome-Unicode/blob/master/79</a>)</td>
+<td>(79)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Gujarati">Gujarati</a></td>
 <td>U+0A80</td>
 <td>U+0AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/85">https://github.com/jagracey/Awesome-Unicode/blob/master/85</a>)</td>
+<td>(85)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Oriya">Oriya</a></td>
 <td>U+0B00</td>
 <td>U+0B7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/90">https://github.com/jagracey/Awesome-Unicode/blob/master/90</a>)</td>
+<td>(90)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tamil">Tamil</a></td>
 <td>U+0B80</td>
 <td>U+0BFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/72">https://github.com/jagracey/Awesome-Unicode/blob/master/72</a>)</td>
+<td>(72)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Telugu">Telugu</a></td>
 <td>U+0C00</td>
 <td>U+0C7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96">https://github.com/jagracey/Awesome-Unicode/blob/master/96</a>)</td>
+<td>(96)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kannada">Kannada</a></td>
 <td>U+0C80</td>
 <td>U+0CFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/87">https://github.com/jagracey/Awesome-Unicode/blob/master/87</a>)</td>
+<td>(87)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Malayalam">Malayalam</a></td>
 <td>U+0D00</td>
 <td>U+0D7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/100">https://github.com/jagracey/Awesome-Unicode/blob/master/100</a>)</td>
+<td>(100)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sinhala">Sinhala</a></td>
 <td>U+0D80</td>
 <td>U+0DFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/90">https://github.com/jagracey/Awesome-Unicode/blob/master/90</a>)</td>
+<td>(90)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Thai">Thai</a></td>
 <td>U+0E00</td>
 <td>U+0E7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/87">https://github.com/jagracey/Awesome-Unicode/blob/master/87</a>)</td>
+<td>(87)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Lao">Lao</a></td>
 <td>U+0E80</td>
 <td>U+0EFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/67">https://github.com/jagracey/Awesome-Unicode/blob/master/67</a>)</td>
+<td>(67)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tibetan">Tibetan</a></td>
 <td>U+0F00</td>
 <td>U+0FFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/211">https://github.com/jagracey/Awesome-Unicode/blob/master/211</a>)</td>
+<td>(211)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Myanmar">Myanmar</a></td>
 <td>U+1000</td>
 <td>U+109F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/160">https://github.com/jagracey/Awesome-Unicode/blob/master/160</a>)</td>
+<td>(160)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Georgian">Georgian</a></td>
 <td>U+10A0</td>
 <td>U+10FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/88">https://github.com/jagracey/Awesome-Unicode/blob/master/88</a>)</td>
+<td>(88)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hangul_Jamo">Hangul Jamo</a></td>
 <td>U+1100</td>
 <td>U+11FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ethiopic">Ethiopic</a></td>
 <td>U+1200</td>
 <td>U+137F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/358">https://github.com/jagracey/Awesome-Unicode/blob/master/358</a>)</td>
+<td>(358)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ethiopic_Supplement">Ethiopic Supplement</a></td>
 <td>U+1380</td>
 <td>U+139F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/26">https://github.com/jagracey/Awesome-Unicode/blob/master/26</a>)</td>
+<td>(26)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cherokee">Cherokee</a></td>
 <td>U+13A0</td>
 <td>U+13FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/92">https://github.com/jagracey/Awesome-Unicode/blob/master/92</a>)</td>
+<td>(92)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics">Unified Canadian Aboriginal Syllabics</a></td>
 <td>U+1400</td>
 <td>U+167F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/640">https://github.com/jagracey/Awesome-Unicode/blob/master/640</a>)</td>
+<td>(640)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ogham">Ogham</a></td>
 <td>U+1680</td>
 <td>U+169F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Runic">Runic</a></td>
 <td>U+16A0</td>
 <td>U+16FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/89">https://github.com/jagracey/Awesome-Unicode/blob/master/89</a>)</td>
+<td>(89)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tagalog">Tagalog</a></td>
 <td>U+1700</td>
 <td>U+171F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/20">https://github.com/jagracey/Awesome-Unicode/blob/master/20</a>)</td>
+<td>(20)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hanunoo">Hanunoo</a></td>
 <td>U+1720</td>
 <td>U+173F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/23">https://github.com/jagracey/Awesome-Unicode/blob/master/23</a>)</td>
+<td>(23)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Buhid">Buhid</a></td>
 <td>U+1740</td>
 <td>U+175F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/20">https://github.com/jagracey/Awesome-Unicode/blob/master/20</a>)</td>
+<td>(20)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tagbanwa">Tagbanwa</a></td>
 <td>U+1760</td>
 <td>U+177F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/18">https://github.com/jagracey/Awesome-Unicode/blob/master/18</a>)</td>
+<td>(18)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Khmer">Khmer</a></td>
 <td>U+1780</td>
 <td>U+17FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/114">https://github.com/jagracey/Awesome-Unicode/blob/master/114</a>)</td>
+<td>(114)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mongolian">Mongolian</a></td>
 <td>U+1800</td>
 <td>U+18AF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/156">https://github.com/jagracey/Awesome-Unicode/blob/master/156</a>)</td>
+<td>(156)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended">Unified Canadian Aboriginal Syllabics Extended</a></td>
 <td>U+18B0</td>
 <td>U+18FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/70">https://github.com/jagracey/Awesome-Unicode/blob/master/70</a>)</td>
+<td>(70)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Limbu">Limbu</a></td>
 <td>U+1900</td>
 <td>U+194F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/68">https://github.com/jagracey/Awesome-Unicode/blob/master/68</a>)</td>
+<td>(68)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tai_Le">Tai Le</a></td>
 <td>U+1950</td>
 <td>U+197F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/35">https://github.com/jagracey/Awesome-Unicode/blob/master/35</a>)</td>
+<td>(35)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/New_Tai_Lue">New Tai Lue</a></td>
 <td>U+1980</td>
 <td>U+19DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/83">https://github.com/jagracey/Awesome-Unicode/blob/master/83</a>)</td>
+<td>(83)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Khmer_Symbols">Khmer Symbols</a></td>
 <td>U+19E0</td>
 <td>U+19FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Buginese">Buginese</a></td>
 <td>U+1A00</td>
 <td>U+1A1F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/30">https://github.com/jagracey/Awesome-Unicode/blob/master/30</a>)</td>
+<td>(30)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tai_Tham">Tai Tham</a></td>
 <td>U+1A20</td>
 <td>U+1AAF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/127">https://github.com/jagracey/Awesome-Unicode/blob/master/127</a>)</td>
+<td>(127)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Combining_Diacritical_Marks_Extended">Combining Diacritical Marks Extended</a></td>
 <td>U+1AB0</td>
 <td>U+1AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/15">https://github.com/jagracey/Awesome-Unicode/blob/master/15</a>)</td>
+<td>(15)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Balinese">Balinese</a></td>
 <td>U+1B00</td>
 <td>U+1B7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/121">https://github.com/jagracey/Awesome-Unicode/blob/master/121</a>)</td>
+<td>(121)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sundanese">Sundanese</a></td>
 <td>U+1B80</td>
 <td>U+1BBF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/64">https://github.com/jagracey/Awesome-Unicode/blob/master/64</a>)</td>
+<td>(64)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Batak">Batak</a></td>
 <td>U+1BC0</td>
 <td>U+1BFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/56">https://github.com/jagracey/Awesome-Unicode/blob/master/56</a>)</td>
+<td>(56)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Lepcha">Lepcha</a></td>
 <td>U+1C00</td>
 <td>U+1C4F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/74">https://github.com/jagracey/Awesome-Unicode/blob/master/74</a>)</td>
+<td>(74)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ol_Chiki">Ol Chiki</a></td>
 <td>U+1C50</td>
 <td>U+1C7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sundanese_Supplement">Sundanese Supplement</a></td>
@@ -9173,487 +9173,487 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Vedic_Extensions">Vedic Extensions</a></td>
 <td>U+1CD0</td>
 <td>U+1CFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/41">https://github.com/jagracey/Awesome-Unicode/blob/master/41</a>)</td>
+<td>(41)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Phonetic_Extensions">Phonetic Extensions</a></td>
 <td>U+1D00</td>
 <td>U+1D7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Phonetic_Extensions_Supplement">Phonetic Extensions Supplement</a></td>
 <td>U+1D80</td>
 <td>U+1DBF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/64">https://github.com/jagracey/Awesome-Unicode/blob/master/64</a>)</td>
+<td>(64)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Combining_Diacritical_Marks_Supplement">Combining Diacritical Marks Supplement</a></td>
 <td>U+1DC0</td>
 <td>U+1DFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/58">https://github.com/jagracey/Awesome-Unicode/blob/master/58</a>)</td>
+<td>(58)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended_Additional">Latin Extended Additional</a></td>
 <td>U+1E00</td>
 <td>U+1EFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Greek_Extended">Greek Extended</a></td>
 <td>U+1F00</td>
 <td>U+1FFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/233">https://github.com/jagracey/Awesome-Unicode/blob/master/233</a>)</td>
+<td>(233)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/General_Punctuation">General Punctuation</a></td>
 <td>U+2000</td>
 <td>U+206F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/111">https://github.com/jagracey/Awesome-Unicode/blob/master/111</a>)</td>
+<td>(111)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Superscripts_and_Subscripts">Superscripts and Subscripts</a></td>
 <td>U+2070</td>
 <td>U+209F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/42">https://github.com/jagracey/Awesome-Unicode/blob/master/42</a>)</td>
+<td>(42)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Currency_Symbols">Currency Symbols</a></td>
 <td>U+20A0</td>
 <td>U+20CF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/31">https://github.com/jagracey/Awesome-Unicode/blob/master/31</a>)</td>
+<td>(31)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols">Combining Diacritical Marks for Symbols</a></td>
 <td>U+20D0</td>
 <td>U+20FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/33">https://github.com/jagracey/Awesome-Unicode/blob/master/33</a>)</td>
+<td>(33)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Letterlike_Symbols">Letterlike Symbols</a></td>
 <td>U+2100</td>
 <td>U+214F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/80">https://github.com/jagracey/Awesome-Unicode/blob/master/80</a>)</td>
+<td>(80)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Number_Forms">Number Forms</a></td>
 <td>U+2150</td>
 <td>U+218F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/60">https://github.com/jagracey/Awesome-Unicode/blob/master/60</a>)</td>
+<td>(60)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arrows">Arrows</a></td>
 <td>U+2190</td>
 <td>U+21FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/112">https://github.com/jagracey/Awesome-Unicode/blob/master/112</a>)</td>
+<td>(112)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mathematical_Operators">Mathematical Operators</a></td>
 <td>U+2200</td>
 <td>U+22FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Technical">Miscellaneous Technical</a></td>
 <td>U+2300</td>
 <td>U+23FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/251">https://github.com/jagracey/Awesome-Unicode/blob/master/251</a>)</td>
+<td>(251)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Control_Pictures">Control Pictures</a></td>
 <td>U+2400</td>
 <td>U+243F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/39">https://github.com/jagracey/Awesome-Unicode/blob/master/39</a>)</td>
+<td>(39)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Optical_Character_Recognition">Optical Character Recognition</a></td>
 <td>U+2440</td>
 <td>U+245F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/11">https://github.com/jagracey/Awesome-Unicode/blob/master/11</a>)</td>
+<td>(11)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Enclosed_Alphanumerics">Enclosed Alphanumerics</a></td>
 <td>U+2460</td>
 <td>U+24FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/160">https://github.com/jagracey/Awesome-Unicode/blob/master/160</a>)</td>
+<td>(160)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Box_Drawing">Box Drawing</a></td>
 <td>U+2500</td>
 <td>U+257F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Block_Elements">Block Elements</a></td>
 <td>U+2580</td>
 <td>U+259F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Geometric_Shapes">Geometric Shapes</a></td>
 <td>U+25A0</td>
 <td>U+25FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96">https://github.com/jagracey/Awesome-Unicode/blob/master/96</a>)</td>
+<td>(96)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Symbols">Miscellaneous Symbols</a></td>
 <td>U+2600</td>
 <td>U+26FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Dingbats">Dingbats</a></td>
 <td>U+2700</td>
 <td>U+27BF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/192">https://github.com/jagracey/Awesome-Unicode/blob/master/192</a>)</td>
+<td>(192)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-A">Miscellaneous Mathematical Symbols-A</a></td>
 <td>U+27C0</td>
 <td>U+27EF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Arrows-A">Supplemental Arrows-A</a></td>
 <td>U+27F0</td>
 <td>U+27FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/16">https://github.com/jagracey/Awesome-Unicode/blob/master/16</a>)</td>
+<td>(16)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Braille_Patterns">Braille Patterns</a></td>
 <td>U+2800</td>
 <td>U+28FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Arrows-B">Supplemental Arrows-B</a></td>
 <td>U+2900</td>
 <td>U+297F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-B">Miscellaneous Mathematical Symbols-B</a></td>
 <td>U+2980</td>
 <td>U+29FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/128">https://github.com/jagracey/Awesome-Unicode/blob/master/128</a>)</td>
+<td>(128)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Mathematical_Operators">Supplemental Mathematical Operators</a></td>
 <td>U+2A00</td>
 <td>U+2AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows">Miscellaneous Symbols and Arrows</a></td>
 <td>U+2B00</td>
 <td>U+2BFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/206">https://github.com/jagracey/Awesome-Unicode/blob/master/206</a>)</td>
+<td>(206)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Glagolitic">Glagolitic</a></td>
 <td>U+2C00</td>
 <td>U+2C5F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/94">https://github.com/jagracey/Awesome-Unicode/blob/master/94</a>)</td>
+<td>(94)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended-C">Latin Extended-C</a></td>
 <td>U+2C60</td>
 <td>U+2C7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Coptic">Coptic</a></td>
 <td>U+2C80</td>
 <td>U+2CFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/123">https://github.com/jagracey/Awesome-Unicode/blob/master/123</a>)</td>
+<td>(123)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Georgian_Supplement">Georgian Supplement</a></td>
 <td>U+2D00</td>
 <td>U+2D2F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/40">https://github.com/jagracey/Awesome-Unicode/blob/master/40</a>)</td>
+<td>(40)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tifinagh">Tifinagh</a></td>
 <td>U+2D30</td>
 <td>U+2D7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/59">https://github.com/jagracey/Awesome-Unicode/blob/master/59</a>)</td>
+<td>(59)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ethiopic_Extended">Ethiopic Extended</a></td>
 <td>U+2D80</td>
 <td>U+2DDF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/79">https://github.com/jagracey/Awesome-Unicode/blob/master/79</a>)</td>
+<td>(79)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cyrillic_Extended-A">Cyrillic Extended-A</a></td>
 <td>U+2DE0</td>
 <td>U+2DFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Punctuation">Supplemental Punctuation</a></td>
 <td>U+2E00</td>
 <td>U+2E7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/67">https://github.com/jagracey/Awesome-Unicode/blob/master/67</a>)</td>
+<td>(67)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Radicals_Supplement">CJK Radicals Supplement</a></td>
 <td>U+2E80</td>
 <td>U+2EFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/115">https://github.com/jagracey/Awesome-Unicode/blob/master/115</a>)</td>
+<td>(115)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kangxi_Radicals">Kangxi Radicals</a></td>
 <td>U+2F00</td>
 <td>U+2FDF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/214">https://github.com/jagracey/Awesome-Unicode/blob/master/214</a>)</td>
+<td>(214)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ideographic_Description_Characters">Ideographic Description Characters</a></td>
 <td>U+2FF0</td>
 <td>U+2FFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/12">https://github.com/jagracey/Awesome-Unicode/blob/master/12</a>)</td>
+<td>(12)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Symbols_and_Punctuation">CJK Symbols and Punctuation</a></td>
 <td>U+3000</td>
 <td>U+303F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/64">https://github.com/jagracey/Awesome-Unicode/blob/master/64</a>)</td>
+<td>(64)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hiragana">Hiragana</a></td>
 <td>U+3040</td>
 <td>U+309F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/93">https://github.com/jagracey/Awesome-Unicode/blob/master/93</a>)</td>
+<td>(93)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Katakana">Katakana</a></td>
 <td>U+30A0</td>
 <td>U+30FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96">https://github.com/jagracey/Awesome-Unicode/blob/master/96</a>)</td>
+<td>(96)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bopomofo">Bopomofo</a></td>
 <td>U+3100</td>
 <td>U+312F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/41">https://github.com/jagracey/Awesome-Unicode/blob/master/41</a>)</td>
+<td>(41)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hangul_Compatibility_Jamo">Hangul Compatibility Jamo</a></td>
 <td>U+3130</td>
 <td>U+318F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/94">https://github.com/jagracey/Awesome-Unicode/blob/master/94</a>)</td>
+<td>(94)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kanbun">Kanbun</a></td>
 <td>U+3190</td>
 <td>U+319F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/16">https://github.com/jagracey/Awesome-Unicode/blob/master/16</a>)</td>
+<td>(16)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bopomofo_Extended">Bopomofo Extended</a></td>
 <td>U+31A0</td>
 <td>U+31BF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/27">https://github.com/jagracey/Awesome-Unicode/blob/master/27</a>)</td>
+<td>(27)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Strokes">CJK Strokes</a></td>
 <td>U+31C0</td>
 <td>U+31EF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/36">https://github.com/jagracey/Awesome-Unicode/blob/master/36</a>)</td>
+<td>(36)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Katakana_Phonetic_Extensions">Katakana Phonetic Extensions</a></td>
 <td>U+31F0</td>
 <td>U+31FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/16">https://github.com/jagracey/Awesome-Unicode/blob/master/16</a>)</td>
+<td>(16)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Enclosed_CJK_Letters_and_Months">Enclosed CJK Letters and Months</a></td>
 <td>U+3200</td>
 <td>U+32FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/254">https://github.com/jagracey/Awesome-Unicode/blob/master/254</a>)</td>
+<td>(254)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Compatibility">CJK Compatibility</a></td>
 <td>U+3300</td>
 <td>U+33FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/256">https://github.com/jagracey/Awesome-Unicode/blob/master/256</a>)</td>
+<td>(256)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A">CJK Unified Ideographs Extension A</a></td>
 <td>U+3400</td>
 <td>U+4DBF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/6191">https://github.com/jagracey/Awesome-Unicode/blob/master/6191</a>)</td>
+<td>(6191)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Yijing_Hexagram_Symbols">Yijing Hexagram Symbols</a></td>
 <td>U+4DC0</td>
 <td>U+4DFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/64">https://github.com/jagracey/Awesome-Unicode/blob/master/64</a>)</td>
+<td>(64)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs">CJK Unified Ideographs</a></td>
 <td>U+4E00</td>
 <td>U+9FFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/20941">https://github.com/jagracey/Awesome-Unicode/blob/master/20941</a>)</td>
+<td>(20941)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Yi_Syllables">Yi Syllables</a></td>
 <td>U+A000</td>
 <td>U+A48F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/1165">https://github.com/jagracey/Awesome-Unicode/blob/master/1165</a>)</td>
+<td>(1165)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Yi_Radicals">Yi Radicals</a></td>
 <td>U+A490</td>
 <td>U+A4CF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/55">https://github.com/jagracey/Awesome-Unicode/blob/master/55</a>)</td>
+<td>(55)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Lisu">Lisu</a></td>
 <td>U+A4D0</td>
 <td>U+A4FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Vai">Vai</a></td>
 <td>U+A500</td>
 <td>U+A63F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/300">https://github.com/jagracey/Awesome-Unicode/blob/master/300</a>)</td>
+<td>(300)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cyrillic_Extended-B">Cyrillic Extended-B</a></td>
 <td>U+A640</td>
 <td>U+A69F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/96">https://github.com/jagracey/Awesome-Unicode/blob/master/96</a>)</td>
+<td>(96)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bamum">Bamum</a></td>
 <td>U+A6A0</td>
 <td>U+A6FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/88">https://github.com/jagracey/Awesome-Unicode/blob/master/88</a>)</td>
+<td>(88)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Modifier_Tone_Letters">Modifier Tone Letters</a></td>
 <td>U+A700</td>
 <td>U+A71F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended-D">Latin Extended-D</a></td>
 <td>U+A720</td>
 <td>U+A7FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/159">https://github.com/jagracey/Awesome-Unicode/blob/master/159</a>)</td>
+<td>(159)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Syloti_Nagri">Syloti Nagri</a></td>
 <td>U+A800</td>
 <td>U+A82F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/44">https://github.com/jagracey/Awesome-Unicode/blob/master/44</a>)</td>
+<td>(44)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Common_Indic_Number_Forms">Common Indic Number Forms</a></td>
 <td>U+A830</td>
 <td>U+A83F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/10">https://github.com/jagracey/Awesome-Unicode/blob/master/10</a>)</td>
+<td>(10)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Phags-pa">Phags-pa</a></td>
 <td>U+A840</td>
 <td>U+A87F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/56">https://github.com/jagracey/Awesome-Unicode/blob/master/56</a>)</td>
+<td>(56)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Saurashtra">Saurashtra</a></td>
 <td>U+A880</td>
 <td>U+A8DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/81">https://github.com/jagracey/Awesome-Unicode/blob/master/81</a>)</td>
+<td>(81)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Devanagari_Extended">Devanagari Extended</a></td>
 <td>U+A8E0</td>
 <td>U+A8FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/30">https://github.com/jagracey/Awesome-Unicode/blob/master/30</a>)</td>
+<td>(30)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kayah_Li">Kayah Li</a></td>
 <td>U+A900</td>
 <td>U+A92F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Rejang">Rejang</a></td>
 <td>U+A930</td>
 <td>U+A95F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/37">https://github.com/jagracey/Awesome-Unicode/blob/master/37</a>)</td>
+<td>(37)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hangul_Jamo_Extended-A">Hangul Jamo Extended-A</a></td>
 <td>U+A960</td>
 <td>U+A97F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Javanese">Javanese</a></td>
 <td>U+A980</td>
 <td>U+A9DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/91">https://github.com/jagracey/Awesome-Unicode/blob/master/91</a>)</td>
+<td>(91)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Myanmar_Extended-B">Myanmar Extended-B</a></td>
 <td>U+A9E0</td>
 <td>U+A9FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/31">https://github.com/jagracey/Awesome-Unicode/blob/master/31</a>)</td>
+<td>(31)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cham">Cham</a></td>
 <td>U+AA00</td>
 <td>U+AA5F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/83">https://github.com/jagracey/Awesome-Unicode/blob/master/83</a>)</td>
+<td>(83)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Myanmar_Extended-A">Myanmar Extended-A</a></td>
 <td>U+AA60</td>
 <td>U+AA7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tai_Viet">Tai Viet</a></td>
 <td>U+AA80</td>
 <td>U+AADF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/72">https://github.com/jagracey/Awesome-Unicode/blob/master/72</a>)</td>
+<td>(72)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Meetei_Mayek_Extensions">Meetei Mayek Extensions</a></td>
 <td>U+AAE0</td>
 <td>U+AAFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/23">https://github.com/jagracey/Awesome-Unicode/blob/master/23</a>)</td>
+<td>(23)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ethiopic_Extended-A">Ethiopic Extended-A</a></td>
 <td>U+AB00</td>
 <td>U+AB2F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Latin_Extended-E">Latin Extended-E</a></td>
 <td>U+AB30</td>
 <td>U+AB6F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/54">https://github.com/jagracey/Awesome-Unicode/blob/master/54</a>)</td>
+<td>(54)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cherokee_Supplement">Cherokee Supplement</a></td>
 <td>U+AB70</td>
 <td>U+ABBF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/80">https://github.com/jagracey/Awesome-Unicode/blob/master/80</a>)</td>
+<td>(80)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Meetei_Mayek">Meetei Mayek</a></td>
 <td>U+ABC0</td>
 <td>U+ABFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/56">https://github.com/jagracey/Awesome-Unicode/blob/master/56</a>)</td>
+<td>(56)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hangul_Syllables">Hangul Syllables</a></td>
@@ -9665,7 +9665,7 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Hangul_Jamo_Extended-B">Hangul Jamo Extended-B</a></td>
 <td>U+D7B0</td>
 <td>U+D7FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/72">https://github.com/jagracey/Awesome-Unicode/blob/master/72</a>)</td>
+<td>(72)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/High_Surrogates">High Surrogates</a></td>
@@ -9695,61 +9695,61 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/CJK_Compatibility_Ideographs">CJK Compatibility Ideographs</a></td>
 <td>U+F900</td>
 <td>U+FAFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/472">https://github.com/jagracey/Awesome-Unicode/blob/master/472</a>)</td>
+<td>(472)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Alphabetic_Presentation_Forms">Alphabetic Presentation Forms</a></td>
 <td>U+FB00</td>
 <td>U+FB4F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/58">https://github.com/jagracey/Awesome-Unicode/blob/master/58</a>)</td>
+<td>(58)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic_Presentation_Forms-A">Arabic Presentation Forms-A</a></td>
 <td>U+FB50</td>
 <td>U+FDFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/643">https://github.com/jagracey/Awesome-Unicode/blob/master/643</a>)</td>
+<td>(643)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Variation_Selectors">Variation Selectors</a></td>
 <td>U+FE00</td>
 <td>U+FE0F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/16">https://github.com/jagracey/Awesome-Unicode/blob/master/16</a>)</td>
+<td>(16)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Vertical_Forms">Vertical Forms</a></td>
-<td>U+FEhttps://github.com/jagracey/Awesome-Unicode/blob/master/10</td>
+<td>U+FE10</td>
 <td>U+FE1F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/10">https://github.com/jagracey/Awesome-Unicode/blob/master/10</a>)</td>
+<td>(10)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Combining_Half_Marks">Combining Half Marks</a></td>
 <td>U+FE20</td>
 <td>U+FE2F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/16">https://github.com/jagracey/Awesome-Unicode/blob/master/16</a>)</td>
+<td>(16)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Compatibility_Forms">CJK Compatibility Forms</a></td>
 <td>U+FE30</td>
 <td>U+FE4F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Small_Form_Variants">Small Form Variants</a></td>
 <td>U+FE50</td>
 <td>U+FE6F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/26">https://github.com/jagracey/Awesome-Unicode/blob/master/26</a>)</td>
+<td>(26)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic_Presentation_Forms-B">Arabic Presentation Forms-B</a></td>
 <td>U+FE70</td>
 <td>U+FEFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/141">https://github.com/jagracey/Awesome-Unicode/blob/master/141</a>)</td>
+<td>(141)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms">Halfwidth and Fullwidth Forms</a></td>
 <td>U+FF00</td>
 <td>U+FFEF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/225">https://github.com/jagracey/Awesome-Unicode/blob/master/225</a>)</td>
+<td>(225)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Specials">Specials</a></td>
@@ -9761,409 +9761,409 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Linear_B_Syllabary">Linear B Syllabary</a></td>
 <td>U+10000</td>
 <td>U+1007F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/88">https://github.com/jagracey/Awesome-Unicode/blob/master/88</a>)</td>
+<td>(88)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Linear_B_Ideograms">Linear B Ideograms</a></td>
 <td>U+10080</td>
 <td>U+100FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/123">https://github.com/jagracey/Awesome-Unicode/blob/master/123</a>)</td>
+<td>(123)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Aegean_Numbers">Aegean Numbers</a></td>
 <td>U+10100</td>
 <td>U+1013F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/57">https://github.com/jagracey/Awesome-Unicode/blob/master/57</a>)</td>
+<td>(57)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ancient_Greek_Numbers">Ancient Greek Numbers</a></td>
 <td>U+10140</td>
 <td>U+1018F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/77">https://github.com/jagracey/Awesome-Unicode/blob/master/77</a>)</td>
+<td>(77)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ancient_Symbols">Ancient Symbols</a></td>
 <td>U+10190</td>
 <td>U+101CF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/13">https://github.com/jagracey/Awesome-Unicode/blob/master/13</a>)</td>
+<td>(13)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Phaistos_Disc">Phaistos Disc</a></td>
 <td>U+101D0</td>
 <td>U+101FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/46">https://github.com/jagracey/Awesome-Unicode/blob/master/46</a>)</td>
+<td>(46)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Lycian">Lycian</a></td>
 <td>U+10280</td>
-<td>U+10https://github.com/jagracey/Awesome-Unicode/blob/master/29F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>U+1029F</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Carian">Carian</a></td>
 <td>U+102A0</td>
 <td>U+102DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/49">https://github.com/jagracey/Awesome-Unicode/blob/master/49</a>)</td>
+<td>(49)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Coptic_Epact_Numbers">Coptic Epact Numbers</a></td>
 <td>U+102E0</td>
 <td>U+102FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/28">https://github.com/jagracey/Awesome-Unicode/blob/master/28</a>)</td>
+<td>(28)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_Italic">Old Italic</a></td>
 <td>U+10300</td>
 <td>U+1032F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/36">https://github.com/jagracey/Awesome-Unicode/blob/master/36</a>)</td>
+<td>(36)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Gothic">Gothic</a></td>
 <td>U+10330</td>
 <td>U+1034F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/27">https://github.com/jagracey/Awesome-Unicode/blob/master/27</a>)</td>
+<td>(27)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_Permic">Old Permic</a></td>
 <td>U+10350</td>
 <td>U+1037F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/43">https://github.com/jagracey/Awesome-Unicode/blob/master/43</a>)</td>
+<td>(43)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ugaritic">Ugaritic</a></td>
 <td>U+10380</td>
 <td>U+1039F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/31">https://github.com/jagracey/Awesome-Unicode/blob/master/31</a>)</td>
+<td>(31)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_Persian">Old Persian</a></td>
 <td>U+103A0</td>
 <td>U+103DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/50">https://github.com/jagracey/Awesome-Unicode/blob/master/50</a>)</td>
+<td>(50)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Deseret">Deseret</a></td>
 <td>U+10400</td>
 <td>U+1044F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/80">https://github.com/jagracey/Awesome-Unicode/blob/master/80</a>)</td>
+<td>(80)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Shavian">Shavian</a></td>
 <td>U+10450</td>
 <td>U+1047F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Osmanya">Osmanya</a></td>
 <td>U+10480</td>
 <td>U+104AF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/40">https://github.com/jagracey/Awesome-Unicode/blob/master/40</a>)</td>
+<td>(40)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Elbasan">Elbasan</a></td>
 <td>U+10500</td>
 <td>U+1052F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/40">https://github.com/jagracey/Awesome-Unicode/blob/master/40</a>)</td>
+<td>(40)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Caucasian_Albanian">Caucasian Albanian</a></td>
-<td>U+10https://github.com/jagracey/Awesome-Unicode/blob/master/530</td>
+<td>U+10530</td>
 <td>U+1056F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/53">https://github.com/jagracey/Awesome-Unicode/blob/master/53</a>)</td>
+<td>(53)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Linear_A">Linear A</a></td>
 <td>U+10600</td>
 <td>U+1077F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/341">https://github.com/jagracey/Awesome-Unicode/blob/master/341</a>)</td>
+<td>(341)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cypriot_Syllabary">Cypriot Syllabary</a></td>
 <td>U+10800</td>
 <td>U+1083F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/55">https://github.com/jagracey/Awesome-Unicode/blob/master/55</a>)</td>
+<td>(55)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Imperial_Aramaic">Imperial Aramaic</a></td>
 <td>U+10840</td>
 <td>U+1085F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/31">https://github.com/jagracey/Awesome-Unicode/blob/master/31</a>)</td>
+<td>(31)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Palmyrene">Palmyrene</a></td>
 <td>U+10860</td>
 <td>U+1087F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Nabataean">Nabataean</a></td>
 <td>U+10880</td>
 <td>U+108AF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/40">https://github.com/jagracey/Awesome-Unicode/blob/master/40</a>)</td>
+<td>(40)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Hatran">Hatran</a></td>
 <td>U+108E0</td>
 <td>U+108FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/26">https://github.com/jagracey/Awesome-Unicode/blob/master/26</a>)</td>
+<td>(26)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Phoenician">Phoenician</a></td>
 <td>U+10900</td>
 <td>U+1091F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Lydian">Lydian</a></td>
 <td>U+10920</td>
 <td>U+1093F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/27">https://github.com/jagracey/Awesome-Unicode/blob/master/27</a>)</td>
+<td>(27)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Meroitic_Hieroglyphs">Meroitic Hieroglyphs</a></td>
 <td>U+10980</td>
 <td>U+1099F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Meroitic_Cursive">Meroitic Cursive</a></td>
 <td>U+109A0</td>
 <td>U+109FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/90">https://github.com/jagracey/Awesome-Unicode/blob/master/90</a>)</td>
+<td>(90)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kharoshthi">Kharoshthi</a></td>
 <td>U+10A00</td>
 <td>U+10A5F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/65">https://github.com/jagracey/Awesome-Unicode/blob/master/65</a>)</td>
+<td>(65)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_South_Arabian">Old South Arabian</a></td>
 <td>U+10A60</td>
 <td>U+10A7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_North_Arabian">Old North Arabian</a></td>
 <td>U+10A80</td>
 <td>U+10A9F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/32">https://github.com/jagracey/Awesome-Unicode/blob/master/32</a>)</td>
+<td>(32)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Manichaean">Manichaean</a></td>
 <td>U+10AC0</td>
 <td>U+10AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/51">https://github.com/jagracey/Awesome-Unicode/blob/master/51</a>)</td>
+<td>(51)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Avestan">Avestan</a></td>
 <td>U+10B00</td>
 <td>U+10B3F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/61">https://github.com/jagracey/Awesome-Unicode/blob/master/61</a>)</td>
+<td>(61)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Inscriptional_Parthian">Inscriptional Parthian</a></td>
 <td>U+10B40</td>
 <td>U+10B5F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/30">https://github.com/jagracey/Awesome-Unicode/blob/master/30</a>)</td>
+<td>(30)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Inscriptional_Pahlavi">Inscriptional Pahlavi</a></td>
 <td>U+10B60</td>
 <td>U+10B7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/27">https://github.com/jagracey/Awesome-Unicode/blob/master/27</a>)</td>
+<td>(27)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Psalter_Pahlavi">Psalter Pahlavi</a></td>
 <td>U+10B80</td>
 <td>U+10BAF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/29">https://github.com/jagracey/Awesome-Unicode/blob/master/29</a>)</td>
+<td>(29)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_Turkic">Old Turkic</a></td>
 <td>U+10C00</td>
 <td>U+10C4F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/73">https://github.com/jagracey/Awesome-Unicode/blob/master/73</a>)</td>
+<td>(73)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Old_Hungarian">Old Hungarian</a></td>
 <td>U+10C80</td>
 <td>U+10CFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/108">https://github.com/jagracey/Awesome-Unicode/blob/master/108</a>)</td>
+<td>(108)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Rumi_Numeral_Symbols">Rumi Numeral Symbols</a></td>
 <td>U+10E60</td>
 <td>U+10E7F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/31">https://github.com/jagracey/Awesome-Unicode/blob/master/31</a>)</td>
+<td>(31)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Brahmi">Brahmi</a></td>
 <td>U+11000</td>
 <td>U+1107F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/109">https://github.com/jagracey/Awesome-Unicode/blob/master/109</a>)</td>
+<td>(109)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kaithi">Kaithi</a></td>
 <td>U+11080</td>
 <td>U+110CF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/66">https://github.com/jagracey/Awesome-Unicode/blob/master/66</a>)</td>
+<td>(66)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sora_Sompeng">Sora Sompeng</a></td>
 <td>U+110D0</td>
 <td>U+110FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/35">https://github.com/jagracey/Awesome-Unicode/blob/master/35</a>)</td>
+<td>(35)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Chakma">Chakma</a></td>
 <td>U+11100</td>
 <td>U+1114F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/67">https://github.com/jagracey/Awesome-Unicode/blob/master/67</a>)</td>
+<td>(67)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mahajani">Mahajani</a></td>
 <td>U+11150</td>
 <td>U+1117F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/39">https://github.com/jagracey/Awesome-Unicode/blob/master/39</a>)</td>
+<td>(39)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sharada">Sharada</a></td>
 <td>U+11180</td>
 <td>U+111DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/94">https://github.com/jagracey/Awesome-Unicode/blob/master/94</a>)</td>
+<td>(94)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sinhala_Archaic_Numbers">Sinhala Archaic Numbers</a></td>
 <td>U+111E0</td>
 <td>U+111FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/20">https://github.com/jagracey/Awesome-Unicode/blob/master/20</a>)</td>
+<td>(20)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Khojki">Khojki</a></td>
 <td>U+11200</td>
 <td>U+1124F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/61">https://github.com/jagracey/Awesome-Unicode/blob/master/61</a>)</td>
+<td>(61)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Multani">Multani</a></td>
 <td>U+11280</td>
 <td>U+112AF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/38">https://github.com/jagracey/Awesome-Unicode/blob/master/38</a>)</td>
+<td>(38)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Khudawadi">Khudawadi</a></td>
 <td>U+112B0</td>
 <td>U+112FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/69">https://github.com/jagracey/Awesome-Unicode/blob/master/69</a>)</td>
+<td>(69)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Grantha">Grantha</a></td>
 <td>U+11300</td>
 <td>U+1137F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/85">https://github.com/jagracey/Awesome-Unicode/blob/master/85</a>)</td>
+<td>(85)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tirhuta">Tirhuta</a></td>
 <td>U+11480</td>
 <td>U+114DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/82">https://github.com/jagracey/Awesome-Unicode/blob/master/82</a>)</td>
+<td>(82)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Siddham">Siddham</a></td>
 <td>U+11580</td>
 <td>U+115FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/92">https://github.com/jagracey/Awesome-Unicode/blob/master/92</a>)</td>
+<td>(92)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Modi">Modi</a></td>
 <td>U+11600</td>
 <td>U+1165F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/79">https://github.com/jagracey/Awesome-Unicode/blob/master/79</a>)</td>
+<td>(79)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Takri">Takri</a></td>
 <td>U+11680</td>
 <td>U+116CF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/66">https://github.com/jagracey/Awesome-Unicode/blob/master/66</a>)</td>
+<td>(66)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ahom">Ahom</a></td>
 <td>U+11700</td>
 <td>U+1173F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/57">https://github.com/jagracey/Awesome-Unicode/blob/master/57</a>)</td>
+<td>(57)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Warang_Citi">Warang Citi</a></td>
 <td>U+118A0</td>
 <td>U+118FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/84">https://github.com/jagracey/Awesome-Unicode/blob/master/84</a>)</td>
+<td>(84)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Pau_Cin_Hau">Pau Cin Hau</a></td>
 <td>U+11AC0</td>
 <td>U+11AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/57">https://github.com/jagracey/Awesome-Unicode/blob/master/57</a>)</td>
+<td>(57)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cuneiform">Cuneiform</a></td>
 <td>U+12000</td>
 <td>U+123FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/922">https://github.com/jagracey/Awesome-Unicode/blob/master/922</a>)</td>
+<td>(922)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Cuneiform_Numbers_and_Punctuation">Cuneiform Numbers and Punctuation</a></td>
 <td>U+12400</td>
 <td>U+1247F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/116">https://github.com/jagracey/Awesome-Unicode/blob/master/116</a>)</td>
+<td>(116)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Early_Dynastic_Cuneiform">Early Dynastic Cuneiform</a></td>
 <td>U+12480</td>
 <td>U+1254F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/196">https://github.com/jagracey/Awesome-Unicode/blob/master/196</a>)</td>
+<td>(196)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Egyptian_Hieroglyphs">Egyptian Hieroglyphs</a></td>
 <td>U+13000</td>
 <td>U+1342F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/1071">https://github.com/jagracey/Awesome-Unicode/blob/master/1071</a>)</td>
+<td>(1071)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Anatolian_Hieroglyphs">Anatolian Hieroglyphs</a></td>
 <td>U+14400</td>
 <td>U+1467F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/583">https://github.com/jagracey/Awesome-Unicode/blob/master/583</a>)</td>
+<td>(583)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bamum_Supplement">Bamum Supplement</a></td>
 <td>U+16800</td>
 <td>U+16A3F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/569">https://github.com/jagracey/Awesome-Unicode/blob/master/569</a>)</td>
+<td>(569)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mro">Mro</a></td>
 <td>U+16A40</td>
 <td>U+16A6F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/43">https://github.com/jagracey/Awesome-Unicode/blob/master/43</a>)</td>
+<td>(43)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Bassa_Vah">Bassa Vah</a></td>
 <td>U+16AD0</td>
 <td>U+16AFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/36">https://github.com/jagracey/Awesome-Unicode/blob/master/36</a>)</td>
+<td>(36)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Pahawh_Hmong">Pahawh Hmong</a></td>
 <td>U+16B00</td>
 <td>U+16B8F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/127">https://github.com/jagracey/Awesome-Unicode/blob/master/127</a>)</td>
+<td>(127)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miao">Miao</a></td>
 <td>U+16F00</td>
 <td>U+16F9F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/133">https://github.com/jagracey/Awesome-Unicode/blob/master/133</a>)</td>
+<td>(133)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Kana_Supplement">Kana Supplement</a></td>
@@ -10175,7 +10175,7 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Duployan">Duployan</a></td>
 <td>U+1BC00</td>
 <td>U+1BC9F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/143">https://github.com/jagracey/Awesome-Unicode/blob/master/143</a>)</td>
+<td>(143)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Shorthand_Format_Controls">Shorthand Format Controls</a></td>
@@ -10187,151 +10187,151 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/Byzantine_Musical_Symbols">Byzantine Musical Symbols</a></td>
 <td>U+1D000</td>
 <td>U+1D0FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/246">https://github.com/jagracey/Awesome-Unicode/blob/master/246</a>)</td>
+<td>(246)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Musical_Symbols">Musical Symbols</a></td>
 <td>U+1D100</td>
 <td>U+1D1FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/231">https://github.com/jagracey/Awesome-Unicode/blob/master/231</a>)</td>
+<td>(231)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ancient_Greek_Musical_Notation">Ancient Greek Musical Notation</a></td>
 <td>U+1D200</td>
 <td>U+1D24F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/70">https://github.com/jagracey/Awesome-Unicode/blob/master/70</a>)</td>
+<td>(70)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tai_Xuan_Jing_Symbols">Tai Xuan Jing Symbols</a></td>
 <td>U+1D300</td>
 <td>U+1D35F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/87">https://github.com/jagracey/Awesome-Unicode/blob/master/87</a>)</td>
+<td>(87)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Counting_Rod_Numerals">Counting Rod Numerals</a></td>
 <td>U+1D360</td>
 <td>U+1D37F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/18">https://github.com/jagracey/Awesome-Unicode/blob/master/18</a>)</td>
+<td>(18)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols">Mathematical Alphanumeric Symbols</a></td>
 <td>U+1D400</td>
 <td>U+1D7FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/996">https://github.com/jagracey/Awesome-Unicode/blob/master/996</a>)</td>
+<td>(996)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Sutton_SignWriting">Sutton SignWriting</a></td>
 <td>U+1D800</td>
 <td>U+1DAAF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/672">https://github.com/jagracey/Awesome-Unicode/blob/master/672</a>)</td>
+<td>(672)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mende_Kikakui">Mende Kikakui</a></td>
 <td>U+1E800</td>
 <td>U+1E8DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/213">https://github.com/jagracey/Awesome-Unicode/blob/master/213</a>)</td>
+<td>(213)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Arabic_Mathematical_Alphabetic_Symbols">Arabic Mathematical Alphabetic Symbols</a></td>
 <td>U+1EE00</td>
 <td>U+1EEFF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/143">https://github.com/jagracey/Awesome-Unicode/blob/master/143</a>)</td>
+<td>(143)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Mahjong_Tiles">Mahjong Tiles</a></td>
 <td>U+1F000</td>
 <td>U+1F02F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/44">https://github.com/jagracey/Awesome-Unicode/blob/master/44</a>)</td>
+<td>(44)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Domino_Tiles">Domino Tiles</a></td>
 <td>U+1F030</td>
 <td>U+1F09F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/100">https://github.com/jagracey/Awesome-Unicode/blob/master/100</a>)</td>
+<td>(100)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Playing_Cards">Playing Cards</a></td>
 <td>U+1F0A0</td>
 <td>U+1F0FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/82">https://github.com/jagracey/Awesome-Unicode/blob/master/82</a>)</td>
+<td>(82)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement">Enclosed Alphanumeric Supplement</a></td>
 <td>U+1F100</td>
 <td>U+1F1FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/173">https://github.com/jagracey/Awesome-Unicode/blob/master/173</a>)</td>
+<td>(173)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement">Enclosed Ideographic Supplement</a></td>
 <td>U+1F200</td>
 <td>U+1F2FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/57">https://github.com/jagracey/Awesome-Unicode/blob/master/57</a>)</td>
+<td>(57)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs">Miscellaneous Symbols and Pictographs</a></td>
 <td>U+1F300</td>
 <td>U+1F5FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/766">https://github.com/jagracey/Awesome-Unicode/blob/master/766</a>)</td>
+<td>(766)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Emoticons">Emoticons</a></td>
 <td>U+1F600</td>
 <td>U+1F64F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/80">https://github.com/jagracey/Awesome-Unicode/blob/master/80</a>)</td>
+<td>(80)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Ornamental_Dingbats">Ornamental Dingbats</a></td>
 <td>U+1F650</td>
 <td>U+1F67F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/48">https://github.com/jagracey/Awesome-Unicode/blob/master/48</a>)</td>
+<td>(48)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Transport_and_Map_Symbols">Transport and Map Symbols</a></td>
 <td>U+1F680</td>
 <td>U+1F6FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/98">https://github.com/jagracey/Awesome-Unicode/blob/master/98</a>)</td>
+<td>(98)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Alchemical_Symbols">Alchemical Symbols</a></td>
 <td>U+1F700</td>
 <td>U+1F77F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/116">https://github.com/jagracey/Awesome-Unicode/blob/master/116</a>)</td>
+<td>(116)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Geometric_Shapes_Extended">Geometric Shapes Extended</a></td>
 <td>U+1F780</td>
 <td>U+1F7FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/85">https://github.com/jagracey/Awesome-Unicode/blob/master/85</a>)</td>
+<td>(85)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Arrows-C">Supplemental Arrows-C</a></td>
 <td>U+1F800</td>
 <td>U+1F8FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/148">https://github.com/jagracey/Awesome-Unicode/blob/master/148</a>)</td>
+<td>(148)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplemental_Symbols_and_Pictographs">Supplemental Symbols and Pictographs</a></td>
 <td>U+1F900</td>
 <td>U+1F9FF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/15">https://github.com/jagracey/Awesome-Unicode/blob/master/15</a>)</td>
+<td>(15)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B">CJK Unified Ideographs Extension B</a></td>
 <td>U+20000</td>
 <td>U+2A6DF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/42676">https://github.com/jagracey/Awesome-Unicode/blob/master/42676</a>)</td>
+<td>(42676)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_C">CJK Unified Ideographs Extension C</a></td>
 <td>U+2A700</td>
 <td>U+2B73F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/60">https://github.com/jagracey/Awesome-Unicode/blob/master/60</a>)</td>
+<td>(60)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_D">CJK Unified Ideographs Extension D</a></td>
 <td>U+2B740</td>
 <td>U+2B81F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/27">https://github.com/jagracey/Awesome-Unicode/blob/master/27</a>)</td>
+<td>(27)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_E">CJK Unified Ideographs Extension E</a></td>
@@ -10343,19 +10343,19 @@ Here is what it does support:</p>
 <td><a href="https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement">CJK Compatibility Ideographs Supplement</a></td>
 <td>U+2F800</td>
 <td>U+2FA1F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/542">https://github.com/jagracey/Awesome-Unicode/blob/master/542</a>)</td>
+<td>(542)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Tags">Tags</a></td>
 <td>U+E0000</td>
 <td>U+E007F</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/97">https://github.com/jagracey/Awesome-Unicode/blob/master/97</a>)</td>
+<td>(97)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Variation_Selectors_Supplement">Variation Selectors Supplement</a></td>
 <td>U+E0100</td>
 <td>U+E01EF</td>
-<td>(<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/240">https://github.com/jagracey/Awesome-Unicode/blob/master/240</a>)</td>
+<td>(240)</td>
 </tr>
 <tr>
 <td><a href="https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A">Supplementary Private Use Area-A</a></td>
@@ -10379,7 +10379,7 @@ Here is what it does support:</p>
 <li><strong>Efficiency</strong>             - The documentation must be efficient and complete.</li>
 <li><strong>Unification</strong>            - Where different cultures or languages use the same character, it shall be only included once. This point is</li>
 <li><strong>Characters, not glyphs</strong> - Only characters, not glyphs shall be encoded. In a nutshell, glyphs are the actual graphical</li>
-<li><strong>Dynamic composition</strong>    - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/">https://github.com/jagracey/Awesome-Unicode/blob/master/</a>“ ¨ ”).</li>
+<li><strong>Dynamic composition</strong>    - New characters can be composed of other, already standardized characters. For example, the character “Ä” can be composed of an “A” and a dieresis sign (“ ¨ ”).</li>
 <li><strong>Semantics</strong>              - Included characters must be well defined and distinguished from others.</li>
 <li><strong>Stability</strong>              - Once defined characters shall never be removed or their codepoints reassigned. In the case of an error, a codepoint shall be deprecated.</li>
 <li><strong>Plain Text</strong>             - Characters in the standard are text and never mark-up or metacharacters.</li>
@@ -10388,7 +10388,7 @@ Here is what it does support:</p>
 <p>Note: Principle descriptions are from <a href="https://codepoints.net/about#unicode">codepoints.net</a></p>
 <h2 id="unicode-versions">Unicode Versions<a class="headerlink" href="#unicode-versions" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="http://www.unicode.org/versions/Unicode9.0.0/">Version 9.0.0</a> (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/Latest">https://github.com/jagracey/Awesome-Unicode/blob/master/Latest</a> Version, August 2016 - adds exactly 7,500 characters)</li>
+<li><a href="http://www.unicode.org/versions/Unicode9.0.0/">Version 9.0.0</a> (Latest Version, August 2016 - adds exactly 7,500 characters)</li>
 <li><a href="http://www.unicode.org/versions/Unicode8.0.0/">Version 8.0.0</a></li>
 <li><a href="http://www.unicode.org/versions/Unicode7.0.0/">Version 7.0.0</a></li>
 <li><a href="http://www.unicode.org/versions/Unicode6.3.0/">Version 6.3.0</a></li>
@@ -10397,7 +10397,7 @@ Here is what it does support:</p>
 <li><a href="http://www.unicode.org/versions/Unicode6.0.0/">Version 6.0.0</a></li>
 <li><a href="http://www.unicode.org/versions/Unicode5.2.0/">Version 5.2.0</a></li>
 <li><a href="http://www.unicode.org/versions/Unicode5.1.0/">Version 5.1.0</a></li>
-<li>Version 5.0.0 (<a href="https://github.com/jagracey/Awesome-Unicode/blob/master/unavailable">https://github.com/jagracey/Awesome-Unicode/blob/master/unavailable</a>)</li>
+<li>Version 5.0.0 (unavailable)</li>
 <li><a href="http://www.unicode.org/versions/Unicode4.0.1/">Version 4.0.1</a></li>
 <li><a href="http://www.unicode.org/versions/corrigendum5.html">Version 4.0.0</a></li>
 </ul>

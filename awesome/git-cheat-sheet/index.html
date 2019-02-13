@@ -6863,11 +6863,11 @@ $ git stash pop
 <hr>
 
 <h2 id="commit-history">Commit History<a class="headerlink" href="#commit-history" title="Permanent link">&para;</a></h2>
-<h5 id="show-all-commits-starting-with-newest-httpsgithubcomarslanbilalgit-cheat-sheetblobmasteritll-show-the-hash-author-information-date-of-commit-and-title-of-the-commit">Show all commits, starting with newest (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll">https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll</a> show the hash, author information, date of commit and title of the commit):<a class="headerlink" href="#show-all-commits-starting-with-newest-httpsgithubcomarslanbilalgit-cheat-sheetblobmasteritll-show-the-hash-author-information-date-of-commit-and-title-of-the-commit" title="Permanent link">&para;</a></h5>
+<h5 id="show-all-commits-starting-with-newest-itll-show-the-hash-author-information-date-of-commit-and-title-of-the-commit">Show all commits, starting with newest (it'll show the hash, author information, date of commit and title of the commit):<a class="headerlink" href="#show-all-commits-starting-with-newest-itll-show-the-hash-author-information-date-of-commit-and-title-of-the-commit" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git log
 </pre></div>
 
-<h5 id="show-all-the-commitshttpsgithubcomarslanbilalgit-cheat-sheetblobmasteritll-show-just-the-commit-hash-and-the-commit-message">Show all the commits(<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll">https://github.com/arslanbilal/git-cheat-sheet/blob/master/it'll</a> show just the commit hash and the commit message):<a class="headerlink" href="#show-all-the-commitshttpsgithubcomarslanbilalgit-cheat-sheetblobmasteritll-show-just-the-commit-hash-and-the-commit-message" title="Permanent link">&para;</a></h5>
+<h5 id="show-all-the-commitsitll-show-just-the-commit-hash-and-the-commit-message">Show all the commits(it'll show just the commit hash and the commit message):<a class="headerlink" href="#show-all-the-commitsitll-show-just-the-commit-hash-and-the-commit-message" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git log --oneline
 </pre></div>
 
@@ -6999,16 +6999,16 @@ $ git stash pop
 </pre></div>
 
 <h5 id="delete-a-branch-on-the-remote">Delete a branch on the remote:<a class="headerlink" href="#delete-a-branch-on-the-remote" title="Permanent link">&para;</a></h5>
-<p><div class="codehilite"><pre><span></span>$ git push &lt;remote&gt; :&lt;branch&gt; (https://github.com/arslanbilal/git-cheat-sheet/blob/master/since Git v1.5.0)
+<p><div class="codehilite"><pre><span></span>$ git push &lt;remote&gt; :&lt;branch&gt; (since Git v1.5.0)
 </pre></div>
 OR
-<div class="codehilite"><pre><span></span>$ git push &lt;remote&gt; --delete &lt;branch&gt; (https://github.com/arslanbilal/git-cheat-sheet/blob/master/since Git v1.7.0)
+<div class="codehilite"><pre><span></span>$ git push &lt;remote&gt; --delete &lt;branch&gt; (since Git v1.7.0)
 </pre></div></p>
 <h5 id="publish-your-tags">Publish your tags:<a class="headerlink" href="#publish-your-tags" title="Permanent link">&para;</a></h5>
 <p><div class="codehilite"><pre><span></span>$ git push --tags
 </pre></div>
 <hr></p>
-<h4 id="configure-the-merge-tool-globally-to-meld-httpsgithubcomarslanbilalgit-cheat-sheetblobmastereditor">Configure the merge tool globally to meld (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/editor">https://github.com/arslanbilal/git-cheat-sheet/blob/master/editor</a>)<a class="headerlink" href="#configure-the-merge-tool-globally-to-meld-httpsgithubcomarslanbilalgit-cheat-sheetblobmastereditor" title="Permanent link">&para;</a></h4>
+<h4 id="configure-the-merge-tool-globally-to-meld-editor">Configure the merge tool globally to meld (editor)<a class="headerlink" href="#configure-the-merge-tool-globally-to-meld-editor" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>$ git config --global merge.tool meld
 </pre></div>
 
@@ -7034,7 +7034,7 @@ OR
 <div class="codehilite"><pre><span></span>$ git rebase --continue
 </pre></div>
 
-<h5 id="use-your-editor-to-manually-solve-conflicts-and-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterafter-resolving-mark-file-as-resolved">Use your editor to manually solve conflicts and (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/after">https://github.com/arslanbilal/git-cheat-sheet/blob/master/after</a> resolving) mark file as resolved:<a class="headerlink" href="#use-your-editor-to-manually-solve-conflicts-and-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterafter-resolving-mark-file-as-resolved" title="Permanent link">&para;</a></h5>
+<h5 id="use-your-editor-to-manually-solve-conflicts-and-after-resolving-mark-file-as-resolved">Use your editor to manually solve conflicts and (after resolving) mark file as resolved:<a class="headerlink" href="#use-your-editor-to-manually-solve-conflicts-and-after-resolving-mark-file-as-resolved" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git add &lt;resolved-file&gt;
 </pre></div>
 
@@ -7062,7 +7062,7 @@ squash &lt;commit_id3&gt;
 <div class="codehilite"><pre><span></span>$ git reset --hard HEAD
 </pre></div>
 
-<h5 id="get-all-the-files-out-of-the-staging-areahttpsgithubcomarslanbilalgit-cheat-sheetblobmasterie-undo-the-last-git-add">Get all the files out of the staging area(<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/i.e">https://github.com/arslanbilal/git-cheat-sheet/blob/master/i.e</a>. undo the last <code>git add</code>):<a class="headerlink" href="#get-all-the-files-out-of-the-staging-areahttpsgithubcomarslanbilalgit-cheat-sheetblobmasterie-undo-the-last-git-add" title="Permanent link">&para;</a></h5>
+<h5 id="get-all-the-files-out-of-the-staging-areaie-undo-the-last-git-add">Get all the files out of the staging area(i.e. undo the last <code>git add</code>):<a class="headerlink" href="#get-all-the-files-out-of-the-staging-areaie-undo-the-last-git-add" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git reset HEAD
 </pre></div>
 
@@ -7070,7 +7070,7 @@ squash &lt;commit_id3&gt;
 <div class="codehilite"><pre><span></span>$ git checkout HEAD &lt;file&gt;
 </pre></div>
 
-<h5 id="revert-a-commit-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterby-producing-a-new-commit-with-contrary-changes">Revert a commit (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/by">https://github.com/arslanbilal/git-cheat-sheet/blob/master/by</a> producing a new commit with contrary changes):<a class="headerlink" href="#revert-a-commit-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterby-producing-a-new-commit-with-contrary-changes" title="Permanent link">&para;</a></h5>
+<h5 id="revert-a-commit-by-producing-a-new-commit-with-contrary-changes">Revert a commit (by producing a new commit with contrary changes):<a class="headerlink" href="#revert-a-commit-by-producing-a-new-commit-with-contrary-changes" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git revert &lt;commit&gt;
 </pre></div>
 
@@ -7119,11 +7119,11 @@ $ git commit -m &quot;remove xyz file&quot;
 <div class="codehilite"><pre><span></span>$ port install git-flow
 </pre></div>
 
-<h5 id="linux-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterdebian-based">Linux (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/Debian-based">https://github.com/arslanbilal/git-cheat-sheet/blob/master/Debian-based</a>):<a class="headerlink" href="#linux-httpsgithubcomarslanbilalgit-cheat-sheetblobmasterdebian-based" title="Permanent link">&para;</a></h5>
+<h5 id="linux-debian-based">Linux (Debian-based):<a class="headerlink" href="#linux-debian-based" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ sudo apt-get install git-flow
 </pre></div>
 
-<h5 id="windows-httpsgithubcomarslanbilalgit-cheat-sheetblobmastercygwin">Windows (<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/Cygwin">https://github.com/arslanbilal/git-cheat-sheet/blob/master/Cygwin</a>):<a class="headerlink" href="#windows-httpsgithubcomarslanbilalgit-cheat-sheetblobmastercygwin" title="Permanent link">&para;</a></h5>
+<h5 id="windows-cygwin">Windows (Cygwin):<a class="headerlink" href="#windows-cygwin" title="Permanent link">&para;</a></h5>
 <h6 id="you-need-wget-and-util-linux-to-install-git-flow">You need wget and util-linux to install git-flow.<a class="headerlink" href="#you-need-wget-and-util-linux-to-install-git-flow" title="Permanent link">&para;</a></h6>
 <p><div class="codehilite"><pre><span></span>$ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh install &lt;state&gt; <span class="p">|</span> bash
 </pre></div>
@@ -7180,7 +7180,7 @@ OR</p>
 <div class="codehilite"><pre><span></span>git flow release publish RELEASE
 </pre></div>
 
-<h6 id="httpsgithubcomarslanbilalgit-cheat-sheetblobmasteryou-can-track-a-remote-release-with-the-git-flow-release-track-release-command">(<a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/You">https://github.com/arslanbilal/git-cheat-sheet/blob/master/You</a> can track a remote release with the: <code>git flow release track RELEASE</code> command)<a class="headerlink" href="#httpsgithubcomarslanbilalgit-cheat-sheetblobmasteryou-can-track-a-remote-release-with-the-git-flow-release-track-release-command" title="Permanent link">&para;</a></h6>
+<h6 id="you-can-track-a-remote-release-with-the-git-flow-release-track-release-command">(You can track a remote release with the: <code>git flow release track RELEASE</code> command)<a class="headerlink" href="#you-can-track-a-remote-release-with-the-git-flow-release-track-release-command" title="Permanent link">&para;</a></h6>
 <h5 id="finish-up-a-release">Finish up a release:<a class="headerlink" href="#finish-up-a-release" title="Permanent link">&para;</a></h5>
 <h6 id="finishing-a-release-is-one-of-the-big-steps-in-git-branching-it-performs-several-actions">Finishing a release is one of the big steps in git branching. It performs several actions:<a class="headerlink" href="#finishing-a-release-is-one-of-the-big-steps-in-git-branching-it-performs-several-actions" title="Permanent link">&para;</a></h6>
 <h6 id="1-merges-the-release-branch-back-into-master">1) Merges the release branch back into 'master'<a class="headerlink" href="#1-merges-the-release-branch-back-into-master" title="Permanent link">&para;</a></h6>
