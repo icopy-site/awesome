@@ -1,18 +1,32 @@
 # Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Contents
 
+* **[Free Online Books](#free-online-books)**  
 
+* **[Courses](#courses)**  
 
+* **[Videos and Lectures](#videos-and-lectures)**  
 
+* **[Papers](#papers)**  
 
+* **[Tutorials](#tutorials)**  
 
+* **[Researchers](#researchers)**  
 
+* **[Websites](#websites)**  
 
+* **[Datasets](#datasets)**
 
+* **[Conferences](#Conferences)**
 
+* **[Frameworks](#frameworks)**  
 
+* **[Tools](#tools)**  
 
+* **[Miscellaneous](#miscellaneous)**  
 
+* **[Contributing](#contributing)**  
 
  
 ### Free Online Books
@@ -523,28 +537,6 @@
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data
-
------
-### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
-
------
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.search on graph structured data
-
------
-### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
-
------
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.search on graph structured data
 
 -----
 ### Contributing

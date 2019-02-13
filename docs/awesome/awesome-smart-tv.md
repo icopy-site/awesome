@@ -6,6 +6,17 @@
 
 [Smart TV](https://en.wikipedia.org/wiki/Smart_TV) is a growing platform of TVs having access to the internet and allowing to browse web-sites and install applications. It has own ecosystem with main players like Samsung, LG, Android TV and Apple TV. In this list you will find official and third-party resources for developing Smart TV apps and communicating with TV from remote devices.
 
+## Contents
+* [Platforms](#platforms)
+  * [Samsung Tizen](#samsung-tizen)
+  * [LG webOS](#lg-webos)
+  * [Android TV](#android-tv)
+  * [Apple tvOS](#apple-tvos)
+  * [Google Chromecast](#google-chromecast)
+* [Cross-platform frameworks](#cross-platform-frameworks)
+* [Remote control protocols](#remote-control-protocols)
+* [Misc](#misc)
+* [Community](#community)
 
 ## Platforms
 Below are the most popular platforms for Smart TV. The full list is [here](https://en.wikipedia.org/wiki/List_of_smart_TV_platforms_and_middleware_software).
@@ -84,6 +95,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 ## Remote control protocols
 * [DLNA](https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance) - Industry-wide standard for sharing data over a home network. Depending on the DLNA-compatible devices you own, you might be able to stream films from your laptop to your TV, play an MP3 stored on your phone over your hi-fi system, or print a photo from your tablet on your home printer.
+* [DIAL](https://github.com/vitalets/awesome-smart-tv/blob/master/http://www.dial-multiscreen.org/) - Developed by Netflix and Google, this protocol alows client devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like smartphone, tablet, or computer) to discover apps on server devices (https://github.com/vitalets/awesome-smart-tv/blob/master/like a smart TV or streaming box) and launch content on them.
 * [Wi-Fi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) - Standard enabling devices to easily connect with each other without requiring a wireless access point.
 * [Miracast](https://github.com/vitalets/awesome-smart-tv/blob/master/https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (https://github.com/vitalets/awesome-smart-tv/blob/master/such as laptops, tablets, or smartphones) to displays (https://github.com/vitalets/awesome-smart-tv/blob/master/such as TVs, monitors or projectors). Works over Wi-Fi Direct.
 
@@ -102,4 +114,4 @@ Feel free to share your experience and contribute useful extension resources by 
 Please read the [contribution guidelines](https://github.com/vitalets/awesome-smart-tv/blob/master/CONTRIBUTING.md) first. Thanks!
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)commons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)commons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

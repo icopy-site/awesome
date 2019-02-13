@@ -113,10 +113,4 @@ There are a lot of ways to get updates, choose your own
 - 00 - [Insert item inside an Array](http://www.jstips.co/en/javascript/insert-item-inside-an-array/)
 
 ### License
-[GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)n-array/)
-
-### License
-[GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)n-array/)
-
-### License
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)

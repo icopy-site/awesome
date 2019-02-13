@@ -8,8 +8,73 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 **Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
 
+### Table of Contents
 
+- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
+  - [Android](#android)
+  - [AngularJS](#angularjs)
+  - [Angular](#angular)
+  - [BackboneJS](#backbonejs)
+  - [C++](#c)
+  - [C](#c-1)
+  - [C♯](#c-2)
+  - [.NET](#net)
+  - [Clojure](#clojure)
+  - [CSS](#css)
+  - [Cucumber](#cucumber)
+  - [Django](#django)
+  - [EmberJS](#emberjs)
+  - [Erlang](#erlang)
+  - [Golang](#golang)
+  - [GraphQl](#graphql)
+  - [HTML](#html)
+  - [Ionic](#ionic)
+  - [iOS](#ios)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [jQuery](#jquery)
+  - [Front-end build tools](#front-end-build-tools)
+  - [KnockoutJS](#knockoutjs)
+  - [Less](#less)
+  - [Lisp](#lisp)
+  - [NodeJS](#nodejs)
+  - [Objective-C](#objective-c)
+  - [PHP](#php)
+  - [Python](#python)
+  - [ReactJS](#reactjs)
+  - [Rails](#ruby-on-rails)
+  - [Ruby](#ruby)
+  - [Sass](#sass)
+  - [Scala](#scala)
+  - [Shell](#shell)
+  - [Swift](#swift)
+  - [WordPress](#wordpress)
+- [Database technologies](#database-technologies)
+  - [Cassandra](#cassandra)
+  - [Microsoft Access](#microsoft-access)
+  - [MongoDB](#mongodb)
+  - [MySQL](#mysql)
+  - [Neo4j](#neo4j)
+  - [Oracle](#oracle)
+  - [Postgres](#postgres)
+  - [SQL](#sql)
+  - [SQL Lite](#sql-lite)
+- [Caching technologies](#caching-technologies)
+  - [Memcached](#memcached)
+  - [Redis](#redis)
 
+- [OS](#os)
+  - [Linux](#linux)
+  - [Windows](#windows)
+- [Algorithms](#algorithms)
+- [Blockchain](#blockchain)
+- [Coding exercises](#coding-exercises)
+- [Comprehensive lists](#comprehensive-lists)
+- [Design patterns](#design-patterns)
+- [Data structures](#data-structures)
+- [Networks](#networks)
+- [Security](#security)
+- [Data Science](#data-science)
 
 ## Programming Languages/Frameworks/Platforms
 
@@ -480,18 +545,6 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
-* [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
-
-### License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)-science-interview-questions-for-top-tech-companies/189)
-* [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
-
-### License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
 

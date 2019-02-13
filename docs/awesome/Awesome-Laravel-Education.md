@@ -7,6 +7,7 @@ A curated list of resources for learning about the Laravel PHP Framework, to hel
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
 - [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
+- [English](#user-content-english-version)
 - [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
 # How to contribute?
@@ -27,6 +28,35 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Index
 
+- [New to Laravel](#user-content-new-to-laravel)
+- [Quick References](#user-content-quick-references)
+- [Learn From Video / Posts](#user-content-learn-from-video--posts)
+  - [Composer / Homestead / Docker](#user-content-composer--homestead--docker)
+  - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
+  - [Database](#user-content-database)
+  - [Models / Eloquent](#user-content-models--eloquent)
+  - [Views / Blade / Language](#user-content-views--blade--language)
+  - [Forms / Validation](#user-content-forms--validation)
+  - [Architecture Foundations / IoC](#user-content-architecture-foundations--ioc)
+  - [Auth / Security](#user-content-auth--security)
+  - [Middleware](#user-content-middleware)
+  - [Front End](#user-content-front-end)
+  - [Session](#user-content-session)
+  - [Filesystem / Cloud Storage](#user-content-filesystem--cloud-storage)
+  - [Cache](#user-content-cache)
+  - [Mail](#user-content-mail)
+  - [Testing and Coding Standard](#user-content-testing-and-coding-standard)
+  - [Case Study](#user-content-case-study)
+- [Tutorial](#user-content-tutorial)
+- [Blogs](#user-content-blogs)
+- [Newsletters](#user-content-newsletters)
+- [Open Source Laravel](#user-content-open-source-laravel)
+- [Coding Standard](#user-content-coding-standard)
+- [Dependency Management](#user-content-dependency-management)
+- [Develop Tools](#user-content-develop-tools)
+- [PHP Book List for Developer](#user-content-php-book-list-for-developer)
+- [Interview](#user-content-interview)
+- [Misc](#user-content-misc)
 
 ## New to Laravel
 
@@ -334,16 +364,6 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.ES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.ES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,

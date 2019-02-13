@@ -14,7 +14,35 @@ next to it. This icon means the component is part of the official
 
 For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/blob/master/./vert-x2.md).
 
+## Contents
 
+- [Books](#books)
+- [Build tools](#build-tools)
+- [Web Frameworks](#web-frameworks)
+- [Authentication Authorisation](#authentication-authorisation)
+- [Database Clients](#database-clients)
+- [Integration](#integration)
+- [Middleware](#middleware)
+- [Language Support](#language-support)
+- [Reactive](#reactive)
+- [Sync Thread Non Block](#sync-thread-non-block)
+- [Vert.x Event Bus Clients](#vertx-event-bus-clients)
+- [Cluster Managers](#cluster-managers)
+- [Cloud Support](#cloud-support)
+- [Docker](#docker)
+- [Microservices](#microservices)
+- [Search Engines](#search-engines)
+- [Service Factory](#service-factory)
+- [Config](#config)
+- [Dependency Injection](#dependency-injection)
+- [Testing](#testing)
+- [Development Tools](#development-tools)
+- [Miscellaneous](#miscellaneous)
+- [Distribution](#distribution)
+- [Examples](#examples)
+- [Deployment](#deployment)
+- [Utilities](#utilities)
+- [Front-End](#front-end)
 
 ## Books
 
@@ -339,14 +367,6 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 ## Front-End
 
 * [VertxUI](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/vert-x3/vertx-awesome/blob/master/CONTRIBUTING.md) first.ub.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/vert-x3/vertx-awesome/blob/master/CONTRIBUTING.md) first.ub.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
 ## Contribute
 

@@ -10,14 +10,44 @@ It can help you to build a guitar with specific sound and playability characteri
 
 Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
+## Table of Contents
 
+- [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
+- [Guitar Necks](#guitar-necks)
+  - [Neck Profile](#neck-profile)
+  - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing)
+  - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
+  - [Fretboard’s Radius](#fretboards-radius)
+  - [Fret Sizes](#fret-sizes)
+  - [Common Neck Head Shapes](#common-neck-head-shapes)
+  - [Tuner Holes](#tuner-holes)
 
+- [Guitar Bodies](#guitar-bodies)
+    - [Bridge Routing](#bridge-routing)
+        - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
+        - [Tremolo Routing](#tremolo-routing)
+        - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
+    - [Pickup Routing](#pickup-routing)
 
+- [Hardware](#hardware)
+  - [Tuning Machines](#tuning-machines)
+  - [Bridges](#bridges)
+  - [Knob Styles](#knob-styles)
+  - [More Parts To Complete](#more-parts-to-complete)
 
+- [Electronics](#electronics)
+  - [Pickup Properties](#pickup-properties)
+  - [Electronics Wiring Options](#electronics-wiring-options)
+  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
+  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
+  - [Active Pickups Electronic](#active-pickups-electronics)
 
+- [Strings](#strings)
 
+- [Scale Length](#scale-length)
 
+- [Woods](#woods)
 
 ---------------
 
@@ -26,6 +56,14 @@ Please read [licence and the contribution guidelines](https://github.com/gitfrag
 
 Component   | Sound* | Playability*
 ------------|---------------------|---------------
+Neck - [Neck Profile](#neck-profile) | + | ++++
+Neck - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing) | - | +++
+Body - [Form](#guitar-bodies) | + | ++++
+Body - [Bridge](#bridges) Form and Material | + | ++
+Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
+Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
+[Strings](#strings) | ++ | ++
+[Scale Length](#scale-length) | + | +
 [Woods](https://github.com/gitfrage/guitarspecs/blob/master/#woods) (https://github.com/gitfrage/guitarspecs/blob/master/Body, neck and fretboard) | + | + |
 
 *influence (https://github.com/gitfrage/guitarspecs/blob/master/ "-" stands for little,  "++++"  stands for very strong)
@@ -308,12 +346,16 @@ mellow      | 1.5 - 2kHz   | low peak | Rolling back tone pot
 
 Following topics change resonant frequency and resonant peak:
 
+ - [Pickup Properties](#pickup-properties)  - position and height of frequency peak vary from type to type.     
+ - [Electronics Wiring Options](#electronics-wiring-options)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.    
+ - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) changing provides also simple way to change resonant frequency and peak.     
  - Cable capacitance - longer cable will lead to lower resonant frequency.  
  - Amp input impedance
 
 ### Pickup Properties
 ![pickup properties](https://github.com/gitfrage/guitarspecs/blob/master/./images/clip5_hambucker.jpg)
 
+- Dimension and product group - see chapter  [Puckup Routing](#pickup-routing)
 - Output: low(https://github.com/gitfrage/guitarspecs/blob/master/vintage), medium, high (https://github.com/gitfrage/guitarspecs/blob/master/vintage used often for jazz and blues)
 - Wiring:  1, 2, 3  or 4-Con­ductor (https://github.com/gitfrage/guitarspecs/blob/master/4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le
@@ -483,32 +525,6 @@ Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
 Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
 ¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.
-² Weight may vary for the same variety.
-³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
-
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm)  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone. Sound¹    | Weight²| Used for³| Looks
-------------|---------- |--------|----------|-------------------
-Alder     	| bright   	| medium | T/B      | bright, simple
-Ash    		| bright   	| medium | T/B  	| bright, simple
-Basswood   	| neutral	| light  | B  		| bright, simple
-Bubinga     | bright   	| medium | T/B/N/F  | red, often grained
-Ebony 		| bright  	| heavy  | N/F  	| dark
-Maple 		|very bright| heavy  | T/B/N/F  | bright, often grained
-Koa   		| warm 		| medium | T/B/N 	| dark, grained, attractive
-Korina 		| warm 		| medium | T/B/N 	| grained, attractive
-Mahogany	| warm   	| medium | T/B/N  	| red
-Poplar 		| neutral	| medium | B  		| bright, simple
-Rosewood 	| warm   	| medium | T/B/N/F  | dark
-Sitka Spruce| neutral 	| light  | T/B 		| bright, simple
-Swamp-Ash 	| neutral	| light  | T/B 		| bright, attractive
-Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
-Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
-
-¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.
-² Weight may vary for the same variety.
-³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
-
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm)  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.nd NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.
 ² Weight may vary for the same variety.
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 

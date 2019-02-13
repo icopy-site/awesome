@@ -24,6 +24,19 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 </div>
 
 
+## Contents
+- [Development Projects](#development-projects)
+    - [APIs](#apis)
+    - [Apps](#apps)
+    - [Bots](#bots)
+    - [Miscellaneous](#miscellaneous)
+- [Resources & Others](#resources--others)
+    - [Communities](#communities)
+    - [Official](#official)
+    - [Maps](#maps)
+    - [Tips & Tricks](#tips--tricks)
+    - [Wiki](#wiki)
+    - [Others](#others)
 
 ## Development Projects
 #### APIs
@@ -127,4 +140,4 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.

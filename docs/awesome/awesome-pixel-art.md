@@ -4,6 +4,19 @@
 
 Awesome Pixel Art is a repository specifically dedicated to creating and learning pixel art, as well as providing links that help you get engaged in the community! In pixel art, every placed pixel has importance in creating the envisioned graphic. Below you'll find help links ranging from basic introductory elements to color and animation tutorials. There are plenty of points of inspiration in games, animations and among other artists!
 
+## Contents
+- [Tutorials](#tutorials)
+  - [Basics](#basics)
+  - [Color](#color)
+  - [Animation](#animation)
+- [Inspiration](#inspiration)
+  - [Games](#games)
+  - [Videos](#videos)
+  - [Other](#other)
+- [Community](#community)
+  - [Artists](#artists)
+  - [Hubs](#hubs)
+- [Editors](#editors)
 
 ## Tutorials
 
@@ -60,4 +73,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
-- [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.Windows. Easy to try out in the browser saving sprites online.Windows. Easy to try out in the browser saving sprites online.
+- [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.

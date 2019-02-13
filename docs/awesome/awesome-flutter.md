@@ -42,7 +42,20 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
 </tr></table></div>
 
+## Contents
 
+- [Articles](#articles)
+- [Videos](#videos)
+- [Components](#components)
+- [Navigation](#navigation)
+- [Template](#templates)
+- [Plugins](#plugins)
+- [Frameworks](#frameworks)
+- [Open Source Apps](#open-source-apps)
+- [Utilities](#utilities)
+- [Community](#community)
+- [Books](#books)
+- [Bonus](#bonus)
 
 ## Articles
 
@@ -209,6 +222,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [SimpleAuth](https://github.com/Clancey/simple_auth) [82⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey).
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth-> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
 
+### Text & Rich Content
 
 - [Markdown](https://github.com/flutter/flutter_markdown) [184⭐] - Markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) [69⭐] - Text editor with style by [Lung Razvan](https://github.com/long1eu).
@@ -509,34 +523,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel.
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community.
 - Twitter [FlutterLagos](https://github.com/Solido/awesome-flutter/blob/master/https://twitter.com/FlutterLagos) - Dart & Flutter community (https://github.com/Solido/awesome-flutter/blob/master/Lagos).
-
-### 🇷🇺 Russia
-
-- [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
-
-### 🇺🇸 United States
-
-- Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.s).
-
-### 🇷🇺 Russia
-
-- [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
-
-### 🇺🇸 United States
-
-- Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.s).
 
 ### 🇷🇺 Russia
 

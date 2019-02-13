@@ -47,7 +47,31 @@
 <br>
 
 
+## Contents
 
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Security](#security)
+- [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Platforms
@@ -426,12 +450,14 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 
 
+## Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
+- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
 
 ## Hardware
@@ -585,36 +611,20 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.rosoftsoftwareswap)
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.](https://webchat.freenode.net/?channels=microsoft)
+
+
+#### Reddit
+
+* [/r/windows](https://www.reddit.com/r/windows/)
+* [/r/windowsapps](https://www.reddit.com/r/windowsapps)
+* [/r/microsoft](https://www.reddit.com/r/Microsoft)
+* [/r/sysadmin](https://www.reddit.com/r/sysadmin)
+* [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
 
 ## Contribute
 
 Contributions are most welcome, please adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
-
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svgontributions are most welcome, please adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
-
-**[⬆ back to top](#applications)**
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
 
 **[⬆ back to top](#applications)**
 

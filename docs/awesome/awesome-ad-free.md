@@ -6,7 +6,28 @@ A curated list of ad-free alternatives to popular services on the web.
 
 —Matthew Butterick
 
+## Contents
 
+- [Alternatives](#alternatives)
+  - [Blogs](#blogs)
+  - [Communication](#communication)
+  - [File Sharing](#file-sharing)
+  - [Mobile Apps](#mobile-apps)
+  - [Music](#music)
+  - [Other](#other)
+  - [Publications](#publications)
+  - [Reference](#reference)
+  - [Social](#social)
+  - [Utilities](#utilities)
+  - [Video](#video)
+- [Resources](#resources)
+  - [Ad Blockers](#ad-blockers)
+  - [Articles](#articles)
+  - [Businesses](#businesses)
+  - [Groups](#groups)
+  - [Make Money Without Ads](#make-money-without-ads)
+  - [Talks](#talks)
+ - [License](#license)
 
 ## Alternatives
 
@@ -144,14 +165,6 @@ These business don't advertise yet are successful.
 
 - [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 - [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)here was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)here was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
 ## License
 

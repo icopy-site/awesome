@@ -24,7 +24,27 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 
 <!--lint disable alphabetize-lists-->
 
+## Contents
 
+- [CMS / Blogs](#cms--blogs)
+- [Libraries](#libraries)
+	- [C](#c)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+	- [Perl](#perl)
+	- [PHP](#php)
+	- [Python](#python)
+	- [Ruby](#ruby)
+- [Tools](#tools)
+	- [Converters](#converters)
+	- [Editors](#editors)
+	- [Linters](#linters)
+	- [Miscellaneous](#miscellaneous)
+	- [Presentations](#presentations)
+- [Services](#services)
+- [Resources](#resources)
+	- [Documentation](#documentation)
+	- [Tutorials](#tutorials)
 
 ---
 
@@ -205,9 +225,5 @@ To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabel
 [android-os]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png 'Android OS'
 [ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png 'iOS Logo'
 [apple]: https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png 'Apple'
-[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
-[windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'png 'Apple'
-[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
-[windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'png 'Apple'
 [linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
 [windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'

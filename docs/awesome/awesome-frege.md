@@ -6,11 +6,44 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Introduction](#introduction)
+  - [Overview](#overview)
+  - [First Steps](#first-steps)
+  - [Comparisons](#comparisons)
+  - [Official Resources](#official-resources)
+- [Community](#community)
+  - [Chat](#chat)
+  - [Questions](#questions)
+  - [Social Media](#social-media)
+- [Information](#information)
+  - [Articles & Blogs](#articles--blogs)
+  - [Books](#books)
+  - [Conferences](#conferences)
+  - [Courses](#courses)
+  - [Talks](#talks)
+- [Libraries](#libraries)
+  - [Android](#android)
+  - [Big Data](#big-data)
+  - [Databases](#databases)
+  - [Email](#email)
+  - [Graphics](#graphics)
+  - [GUI](#gui)
+  - [Web Frameworks](#web-frameworks)
+- [Sample Applications](#sample-applications)
+  - [Games](#games)
+  - [Media](#media)
+  - [Web](#web)
+- [Tools](#tools)
+  - [Build Tools](#build-tools)
+  - [IDEs](#ides)
+  - [REPLs](#repls)
+  - [Unit Testing](#unit-testing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -173,9 +206,5 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.cdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.cdomain/zero/1.0/)
 
 To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.

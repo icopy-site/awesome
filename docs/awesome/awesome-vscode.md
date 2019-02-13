@@ -11,10 +11,163 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 </div>
 <br/>
 
+# Table of Contents
 
+- [Official](#official)
+- [Syntax](#syntax)
+- [Migrating from other editors](#migrating-from-other-editors)
+  - [Migrating from Vim](#migrating-from-vim)
+  - [Migrating from Atom](#migrating-from-atom)
+  - [Migrating from Sublime Text](#migrating-from-sublime-text)
+  - [Migrating from Visual Studio](#migrating-from-visual-studio)
+  - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+- [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
+- [Lint and IntelliSense](#lint-and-intellisense)
+  - [1C](#1c)
+  - [Bash](#bash)
+    - [Bash IDE](#bash-ide)
+    - [Bash Debug](#bash-debug)
+  - [C++](#c)
+  - [C#](#c)
+  - [Clojure](#clojure)
+  - [CSS](#css)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Shell](#shell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Typescript](#typescript)
+  - [Markdown](#markdown)
+    - [markdownlint](#markdownlint)
+    - [Markdown All in one](#markdown-all-in-one)
+  - [PHP](#php)
+    - [IntelliSense](#intellisense)
+    - [Laravel](#laravel)
+    - [Twig](#twig)
+    - [Other extensions](#other-extensions)
+    - [Read more](#read-more)
+  - [Python](#python)
+    - [TensorFlow](#tensorflow)
+  - [ReasonML](#reasonml)
+  - [Rust](#rust)
+  - [Terraform](#terraform)
+- [Productivity](#productivity)
+  - [Azure Cosmos DB](#azure-cosmos-db)
+  - [Azure IoT Toolkit](#azure-iot-toolkit)
+  - [Bookmarks](#bookmarks)
+  - [Create tests](#create-tests)
+  - [Deploy](#deploy)
+  - [Duplicate Action](#duplicate-action)
+  - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
+  - [Gi](#gi)
+  - [Git History](#git-history)
+  - [Git Project Manager](#git-project-manager)
+  - [GitLink](#gitlink)
+  - [GitLens](#gitlens)
+  - [Git Indicators](#git-indicators)
+  - [GitHub](#github)
+  - [GitHub Pull Request Monitor](#github-pull-request-monitor)
+  - [Icon Fonts](#icon-fonts)
+  - [Import Cost](#import-cost)
+  - [JS Parameter Annotations](#js-parameter-annotations)
+  - [Jumpy](#jumpy)
+  - [Kanban](#kanban)
+  - [Live Server](#live-server)
+  - [Multiple clipboards](#multiple-clipboards)
+  - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
+  - [Instant Markdown](#instant-markdown)
+  - [npm Intellisense](#npm-intellisense)
+  - [Partial Diff](#partial-diff)
+  - [Paste JSON as Code](#paste-json-as-code)
+  - [Path IntelliSense](#path-intellisense)
+  - [Power Tools](#power-tools)
+  - [Project Manager](#project-manager)
+  - [REST Client](#rest-client)
+  - [Remote VSCode](#remote-vscode)
+  - [Settings Sync](#settings-sync)
+  - [Todo Tree](#todo-tree)
+  - [Toggle Quotes](#toggle-quotes)
+  - [WakaTime](#wakatime)
+  - [Yo](#yo)
+- [Formatting/Beautification](#formatting--beautification)
+  - [Better Align](#better-align)
+  - [Auto Close Tag](#auto-close-tag)
+  - [Auto Rename Tag](#auto-rename-tag)
+  - [beautify](#beautify)
+  - [html2pug](#html2pug)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Paste and Indent](#paste-and-indent)
+  - [Sort Lines](#sort-lines)
+  - [Surround](#surround)
+  - [Wrap Selection](#wrap-selection)
+  - [Formatting Toggle](#formatting-toggle)
+  - [Bracket Pair Colorizer](#bracket-pair-colorizer)
+  - [Auto Import](#auto-import)
+  - [shell-format](#shell-format)
+  - [Vscode Google Translate](#vscode-google-translate)
+- [Explorer Icons](#explorer-icons)
+  - [City Lights Icons](#city-lights-icons)
+  - [VSCode Icons](#vscode-icons)
+  - [Seti-UI](#seti-icons)
+  - [Material-Icon-Theme](#material-icon-theme)
+- [Uncategorized](#uncategorized)
+  - [Browser Preview](#browser-preview)
+  - [Carbon-now-sh](#carbon-now-sh)
+  - [Code Runner](#code-runner)
+  - [Color Highlight](#color-highlight)
+  - [Output Colorizer](#output-colorizer)
+  - [Dash](#dash)
+  - [Debugger for Chrome](#debugger-for-chrome)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Edit with Shell Command](#edit-with-shell-command)
+  - [Editor Config for VS Code](#editor-config-for-vs-code)
+  - [ftp-sync](#ftp-sync)
+  - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
+  - [PlatformIO](#platformio)
+  - [Polacode](#polacode)
+  - [Quokka](#quokka)
+  - [Remote Workspace](#remote-workspace)
+  - [Runner](#runner)
+  - [Slack](#slack)
+  - [SmoothType](#smoothtype)
+  - [Spotify](#spotify)
+  - [SVG](#svg)
+  - [SVG Viewer](#svg-viewer)
   - [Text Marker (https://github.com/viatsko/awesome-vscode/blob/master/Highlighter)](https://github.com/viatsko/awesome-vscode/blob/master/#text-marker-highlighter)
+  - [ESDOC MDN](#esdoc-mdn)
+- [Themes](#themes)
+  - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
+  - [Ariake Dark by wart](#ariake-dark-by-wart)
+  - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+  - [Ayu by teabyii](#ayu-by-teabyii)
+  - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+  - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
+  - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+  - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
+  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
+  - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
+  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Mno by u29dc](#mno-by-u29dc)
+  - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
   - [Monokai Pro by monokai (https://github.com/viatsko/awesome-vscode/blob/master/commercial)](https://github.com/viatsko/awesome-vscode/blob/master/#monokai-pro-by-monokai-commercial)
+  - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
+  - [Plastic by Will Stone](#plastic-by-will-stone)
+  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
+  - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+  - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
+- [People to Follow](#people-to-follow)
+- [Resources for extension developers](#resources-for-extension-developers)
+  - [Documentation](#documentation)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
+- [Online Courses](#online-courses)
   - [Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)](https://github.com/viatsko/awesome-vscode/blob/master/#visual-studio-code-power-user-course-commercial)
+- [Contribute](#contribute)
+- [License](#license)
 
 # Official
 
@@ -129,6 +282,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
+![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
 
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 
@@ -990,49 +1144,6 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)
 
 After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
-
-- [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
-- [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
-
-# Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
-
-# License
-
-I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/viatsko/awesome-vscode/blob/master/Microsoft).
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.
-
-- [Themer](https://github.com/viatsko/awesome-vscode/blob/master/https://themer.mjswensen.com) - Easily create your own theme for VS Code (https://github.com/viatsko/awesome-vscode/blob/master/and matching ones for your other tools).
-- [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
-
-![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
-
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
-
-# Online Courses
-
-## Visual Studio Code Power User Course (https://github.com/viatsko/awesome-vscode/blob/master/commercial)
-
-After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
-
-- [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
-- [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
-
-# Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
-
-# License
-
-I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/viatsko/awesome-vscode/blob/master/Microsoft).
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
 - [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.

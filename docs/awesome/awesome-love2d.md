@@ -1,7 +1,34 @@
 # ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://github.com/love2d-community/awesome-love2d/blob/master/https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/love2d-community/awesome-love2d/blob/master/https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
+## Table of contents
 
+* [3D](#3d)
+* [AI](#ai)
+* [Animation](#animation)
+* [Camera](#camera)
+* [Development](#development)
+* [Drawing](#drawing)
+* [Entity](#entity)
+* [Helper Libraries](#helper)
+* [Input](#input)
+* [Lighting](#lighting)
+* [Math](#math)
+* [Music](#music)
+* [Networking](#networking)
+* [Object Orientation](#object)
+* [Performance](#performance)
+* [Physics](#physics)
+* [Platforms](#platforms)
+* [Publishing](#publishing)
+* [Serialization](#serialization)
+* [Shaders](#shaders)
+* [Testing](#testing)
+* [Tweening](#tweening)
+* [UI](#ui)
+* [Utilities](#utilities)
+* [Tutorials](#tutorials)
+* [IDEs](#ides)
 
 ## 3D
 *3D-centric Libraries*
@@ -263,6 +290,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://github.com/love2d-community/awesome-love2d/blob/master/https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (https://github.com/love2d-community/awesome-love2d/blob/master/Snake, Sokoban, Tetris, etc.)
+* [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
 * [Introduction to Game Development](https://github.com/love2d-community/awesome-love2d/blob/master/https://cs50.harvard.edu/games/2019/spring/) - Harvard College’s CS50 extension (https://github.com/love2d-community/awesome-love2d/blob/master/Spring 2018)
 
 ## IDEs
@@ -310,12 +338,6 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
-
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.ove-shaders) - A collection of shaders designed to work in LÖVE
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
-
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.ove-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

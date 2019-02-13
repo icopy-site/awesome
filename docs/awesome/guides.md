@@ -4,11 +4,55 @@ Guides for programmers who want to be awesome.
 The intent of this repository is to collect and distribute links to useful
 coding style guides and development practices across the web.
 
+## Contents
 
++ [Styling](#styling)
+  + [CSS](#css)
+  + [Sass](#sass)
 
++ [Markup](#markup)
+  + [HTML](#html)
+  + [XML](#xml)
 
++ [Programming languages](#programming-languages)
+  + [C](#c)
+  + [C++](#c-1)
+  + [C#](#c-2)
+  + [CoffeeScript](#coffeescript)
+  + [Elixir](#elixir)
+  + [Go](#go)
+  + [JavaScript](#javascript)
+  + [Java](#java)
+  + [Objective-C](#objective-c)
+  + [PHP](#php)
+  + [Perl](#perl)
+  + [Python](#python)
+  + [Ruby](#ruby)
+  + [Scala](#scala)
+  + [Shell](#shell)
+  + [SQL](#sql)
+  + [Swift](#swift)
+  + [Vimscript](#vimscript)
 
++ [Frameworks](#frameworks)
+  + [AngularJS](#angularjs)
+  + [RSpec](#rspec)
+  + [Ruby on Rails](#rails)
+  + [Vue](#vue)
 
++ [Other](#other)
+  + [API](#api)
+  + [Bots](#bots)
+  + [Deployment](#deployment)
+  + [Favicon](#favicon)
+  + [iOS](#ios)
+  + [Git](#git)
+  + [JSON](#json)
+  + [Machine Learning](#machine-learning)
+  + [Node.js](#nodejs)
+  + [Security](#security)
+  + [UI](#ui)
+  + [Writing](#writing)
 
 ## Styling
 
@@ -211,14 +255,6 @@ coding style guides and development practices across the web.
 
 Any improvements or suggestions are welcome!
 See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
-
----
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).s://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
-
----
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).s://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
 
 ---
 

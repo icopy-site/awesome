@@ -4,9 +4,39 @@
 
 > This is a curated list of awesome stuff for the [(https://github.com/egeerardyn/awesome-LaTeX/blob/master/La)TeX typesetting system](https://github.com/egeerardyn/awesome-LaTeX/blob/master/https://www.latex-project.org/).
 
+## Contents
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Contents](#contents)
+- [Distributions](#distributions)
+- [Engines](#engines)
+	- [LaTeX formulas on the web](#latex-formulas-on-the-web)
+- [Editors](#editors)
+	- [LaTeX-focused](#latex-focused)
+	- [General purpose text editors](#general-purpose-text-editors)
+	- [Online editors](#online-editors)
+- [Bibliography tools](#bibliography-tools)
+- [Build Tools](#build-tools)
+- [Misc. Tools](#misc-tools)
+- [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
+- [Packages](#packages)
+	- [Tables](#tables)
+	- [Graphics](#graphics)
+		- [PSTricks](#pstricks)
+		- [TikZ](#tikz)
+	- [Source Code](#source-code)
+	- [Typography](#typography)
+- [Templates](#templates)
+- [Symbols](#symbols)
+- [Resources](#resources)
+- [Showcases](#showcases)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Blogs](#blogs)
+- [Social media](#social-media)
+- [Meta Awesome-LaTeX](#meta-awesome-latex)
+- [Legend](#legend)
 
 <!-- /TOC -->
 
@@ -253,9 +283,5 @@ All trademarks are property of their respective owners.
 [mac]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
 [linux]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [windows]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
-[foss]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
-[awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg6d1f77a8aa07eee/fig/windows.svg
-[foss]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
-[awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg6d1f77a8aa07eee/fig/windows.svg
 [foss]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

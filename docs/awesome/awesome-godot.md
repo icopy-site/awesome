@@ -4,7 +4,22 @@
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
+## Contents
 
+- [Games](#games)
+  - [2D](#2d)
+  - [3D](#3d)
+- [Demos](#demos)
+- [Tutorials](#tutorials)
+  - [Text tutorials](#text-tutorials)
+  - [Video tutorials](#video-tutorials)
+- [Themes](#themes)
+- [Modules](#modules)
+- [Plugins and scripts](#plugins-and-scripts)
+- [GDScript editor support](#gdscript-editor-support)
+- [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
+- [Unofficial Godot builds](#unofficial-godot-builds)
+- [Other](#other)
 
 ## Games
 
@@ -171,4 +186,4 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.ip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.ip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.

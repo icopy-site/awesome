@@ -11,7 +11,19 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 </a>
 
 
+## Contents
 
+- [Apps](#apps)
+- [Boilerplates](#boilerplates)
+- [Tools](#tools)
+- [Components](#components)
+- [Documentation](#documentation)
+- [Articles](#articles)
+- [Books](#books)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Community](#community)
+- [Tips](#tips)
 
 
 ## Apps
@@ -412,20 +424,6 @@ Contribute some ;)
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.he [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.on guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) first.
 
 
 ## License

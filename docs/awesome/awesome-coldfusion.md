@@ -5,6 +5,19 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 Pull requests very welcome.
 
 * [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
+	* [Engines](#engines)
+	* [Application Frameworks](#application-frameworks)
+	* [Testing](#testing)
+	* [Dependency Injection](#dependency-injection)
+	* [Content Management Systems](#cms)
+	* [NoSQL](#nosql)
+	* [REST](#rest)
+	* [Other Libraries](#other-libraries)
+	* [Editors](#editors)
+	* [Tools](#tools)
+	* [References](#references)
+	* [Resources](#resources)
+	* [Documentation](#documentation)
 	
 ----
 
@@ -17,6 +30,7 @@ Pull requests very welcome.
 
 * [CFWheels](https://cfwheels.org) - An open source CFML framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
+* [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
@@ -36,6 +50,8 @@ Pull requests very welcome.
 
 ## CMS
 
+* [CONTENS CMS](http://www.contens.com/) - Professional Content Management
+* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura](https://github.com/blueriver/MuraCMS)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
@@ -115,6 +131,4 @@ Pull requests very welcome.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work..org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.

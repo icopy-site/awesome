@@ -3,7 +3,27 @@
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
 
+### Table of contents
 
+* [Motivation](#motivation)
+* [Infographic](#infographic)
+* [What is Data Science?](#what-is-data-science)
+* [Colleges](#colleges)
+* [MOOC's](#moocs)
+* [Data Sets ](#data-sets)
+* [Bloggers](#bloggers)
+* [Podcasts](#podcasts)
+* [Books](#books)
+* [Facebook Accounts](#facebook-accounts)
+* [Twitter Accounts ](#twitter-accounts )
+* [YouTube Videos & Channels](#youtube-videos--channels)
+* [Toolboxes - Environment](#toolboxes---environment)
+* [Journals, Publications and Magazines](#journals-publications-and-magazines)
+* [Presentations](#presentations)
+* [Data Science Competitions](#competitions)
+* [Comics](#comics)
+* [Tutorials](#tutorials)
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
@@ -514,16 +534,6 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
- - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
- - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
- - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
- - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)eas)
- - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
- - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
- - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
- - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
- - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)eas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
  - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)

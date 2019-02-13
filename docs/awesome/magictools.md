@@ -17,7 +17,39 @@ A curated list of game development resources to make **magic** happen.
 - :moneybag: - Paid
 - :money_with_wings: - Partially Free
 
+## Table of Contents
 
+- [Graphics](#graphics)
+    - [Assets/Placeholders](#assetsplaceholders)
+    - [Spritesheet Tools](#spritesheet-tools)
+    - [Bitmap Compression](#bitmap-compression)
+    - [Texture Tools](#texture-tools)
+    - [Character Generators](#character-generators)
+    - [Tile/Level Editors](#tilelevel-editors)
+    - [Animation](#animation)
+    - [Vector/Image Editor](#vectorimage-editor)
+    - [Modeling](#modeling)
+    - [Terrain Generators](#terrain-generators)
+    - [Voxel Editors](#voxel-editors)
+- [Code](#code)
+  - [Engines and Frameworks](#engines-and-frameworks)
+  - [AI](#ai)
+- [Audio](#audio)
+  - [Collections](#collections)
+  - [Music and Audio Editors](#music-and-audio-editors)
+- [Board Games](#board-games)
+- [Must see](#must-see)
+  - [Blogs and Portals](#blogs-and-portals)
+  - [Books](#books)
+  - [Magazines](#magazines)
+  - [Videos/Podcasts](#videospodcasts)
+  - [Game Jams](#game-jams)
+  - [Project Management](#project-management)
+  - [Complete Game Sources](#complete-game-sources)
+- [Ads](#ads)
+- [Learn](#learn)
+  - [General Game Development](#general-game-development)
+  - [Computer Graphics](#computer-graphics)
 
 
 Graphics
@@ -96,6 +128,7 @@ Graphics
 * :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 * :moneybag: [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
+* :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 
 #### Vector/Image Editor
 
@@ -275,7 +308,9 @@ Code
 * :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 * :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
+* :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
+* :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
 * :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 * :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
@@ -465,20 +500,6 @@ Learn
 * :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 * :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
-* :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-* :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
-
-### Computer Graphics
-
-* :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)me-programmer) A Study Path for Game Programmer :octocat:
-* :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-* :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
-
-### Computer Graphics
-
-* :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)me-programmer) A Study Path for Game Programmer :octocat:
 * :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
 

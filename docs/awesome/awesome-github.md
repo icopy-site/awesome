@@ -7,6 +7,10 @@ Think GitHub is awesome? Contribute something to this list! It's easy, just have
 
 The awesomeness is currently organized into just a few different buckets: 
 
+* [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
+* [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
+* [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
+* [Novel uses of GitHub](#novel-uses-of-github)
 
 What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
 
@@ -65,6 +69,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
 - [Penflip](https://github.com/phillipadsmith/awesome-github/blob/master/https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (https://github.com/phillipadsmith/awesome-github/blob/master/similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
+- [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
@@ -91,9 +96,4 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
-- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. th to a free self-taught education in Computer Science.
-- [Clef's Handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion.
-- [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
-- [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
-- [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. itHub.
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 

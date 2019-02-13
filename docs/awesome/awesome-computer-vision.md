@@ -7,7 +7,18 @@ For a list people in computer vision listed with their academic genealogy, pleas
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/jbhuang1@illinois.edu) to add links.
 
+## Table of Contents
 
+ - [Books](#books)
+ - [Courses](#courses)
+ - [Papers](#papers)
+ - [Software](#software)
+ - [Datasets](#datasets)
+ - [Tutorials and Talks](#tutorials-and-talks)
+ - [Resources for students](#resources-for-students)
+ - [Blogs](#blogs)
+ - [Links](#links)
+ - [Songs](#songs)
 
 ## Books
 
@@ -112,6 +123,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
+ * [Annotated Computer Vision Bibliography](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
  * [Calendar of Computer Image Analysis, Computer Vision Conferences](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/http://iris.usc.edu/Information/Iris-Conferences.html) - (https://github.com/jbhuang0604/awesome-computer-vision/blob/master/USC)
 
 #### Survey Papers
@@ -478,6 +490,7 @@ Non-uniform Deblurring
 * [Online-boosting Tracking](http://www.vision.ee.ethz.ch/boostingTrackers/)
 * [Spatio-Temporal Context Learning](http://www4.comp.polyu.edu.hk/~cslzhang/STC/STC.htm)
 * [Locality Sensitive Histograms](http://www.shengfenghe.com/visual-tracking-via-locality-sensitive-histograms.html)
+* [Enhanced adaptive coupled-layer LGTracker++](http://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W03/papers/Xiao_An_Enhanced_Adaptive_2013_ICCV_paper.pdf)
 * [TLD: Tracking - Learning - Detection](http://personal.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html)
 * [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 * [Kernelized Correlation Filters](http://home.isr.uc.pt/~henriques/circulant/)
@@ -708,32 +721,6 @@ Non-uniform Deblurring
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
-* [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
-## Songs
-* [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
-* [The RANSAC Song](http://danielwedge.com/ransac/)
-* [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
-
-## Licenses
-License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.on](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
-* [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
-## Songs
-* [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
-* [The RANSAC Song](http://danielwedge.com/ransac/)
-* [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
-
-## Licenses
-License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.on](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
 ## Songs

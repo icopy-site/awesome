@@ -10,6 +10,22 @@ A curated list of awesome [Site Reliability](https://www.usenix.org/conference/s
 Please take a look at the [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) first.
 Contributions are always welcome!
 
+## Contents
+- [Culture](#culture)
+- [Education](#education)
+- [Books](#books)
+- [Hiring](#hiring)
+- [Reliability](#reliability)
+- [Monitoring & Observability & Alerting](#monitoring--observability--alerting)
+- [On-Call](#on-call)
+- [Post-Mortem](#post-mortem)
+- [Capacity Planning](#capacity-planning)
+- [Service Level Agreement](#service-level-agreement)
+- [Performance](#performance)
+- [Misc Articles](#misc-articles)
+- [Blogs](#blogs)
+- [Conferences & Meetups](#conferences--meetups)
+- [Twitter](#twitter)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -107,6 +123,7 @@ Contributions are always welcome!
 * [So you want to be a Site Reliability Engineer?](https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer)
 * [Spiraling Ops Debt & the SRE Coding Imperative](https://blog.loomsystems.com/2017/02/06/spiraling-ops-debt-the-sre-coding-imperative/)
 * [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
+* [Career Profiles/Site Reliability Engineer](https://www.khanacademy.org/college-careers-more/career-content/career-profile-videos/site-reliability-engineer/v/ruth-grace-site-reliability-engineer-what-i-do-and-how-much-i-make)
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
@@ -397,14 +414,6 @@ Contributions are always welcome!
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 * [Tammy Bütow](https://twitter.com/tammybutow)
 * [Thomas A. Limoncelli](https://twitter.com/yesthattom)
-* [Todd Underwood](https://twitter.com/tmu)
-* [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
-* [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
-* [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.omas A. Limoncelli](https://twitter.com/yesthattom)
-* [Todd Underwood](https://twitter.com/tmu)
-* [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
-* [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
-* [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.omas A. Limoncelli](https://twitter.com/yesthattom)
 * [Todd Underwood](https://twitter.com/tmu)
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.

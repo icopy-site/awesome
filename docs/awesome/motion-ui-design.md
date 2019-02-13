@@ -3,6 +3,26 @@ What is motion design? It's a magic that's alive your interfaces, makes a user f
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (https://github.com/fliptheweb/motion-ui-design/blob/master/todo inside) by pull request!
 
+## Contents
+- [Resources for inspiration](#resources-for-inspiration)
+	* [Sites](#sites)
+	* [Pinterest boards](#pinterest-boards)
+	* [Processing](#processing-and-other-weird-but-funny-stuff)
+- [Articles](#articles)
+- [Software](#software)
+	* [Video, gif, presentation](#video-gif-presentation)
+	* [Visual programming](#visual-programming)
+	* [HTML, CSS and JavaScript](#html-css-and-javascript)
+- [Helpers](#helpers)
+- [Libraries](#libraries)
+	* [CSS](#css)
+	* [JavaScript](#javascript)
+	* [SVG](#svg)
+- [Web animation performance](#web-animation-performance)
+- [Speeches, presentations, videos](#speeches-presentations-videos)
+- [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
+- [Guidelines](#guidelines)
+- [Books](#books)
 
 ## Resources for inspiration
 ### Sites
@@ -93,6 +113,7 @@ List of all possible software that can produce UI animations separated by using 
 * [Animatron](http://animatron.com/) – Web app for creating animations, banners, and infographics.
 * [Pixate](http://pixate.com/) – Prototyping platform.
 * [SpiritJS](https://github.com/fliptheweb/motion-ui-design/blob/master/https://spiritjs.io/) – Animation tool for the web (https://github.com/fliptheweb/motion-ui-design/blob/master/unrealized yet).
+* Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious your secret weapon – Pen and paper!
 
@@ -205,9 +226,5 @@ And obvious your secret weapon – Pen and paper!
 ## License
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**tps://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**

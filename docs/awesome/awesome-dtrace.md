@@ -2,7 +2,15 @@
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
 
+## Contents
 
+- [Learn](#learn)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Software](#software)
+- [Tools](#tools)
+- [Community](#community)
+- [Contributing](#contributing)
 
 - - -
 
@@ -180,14 +188,6 @@ List of software with DTrace support.
 - [Mailing list](http://dtrace.org/blogs/mailing-list/) - DTrace community mailing list.
 - [FreeBSD DTrace mailing list](https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace) - FreeBSD DTrace community mailing list.
 - [China DTrace](http://chinadtrace.org/) - A Chinese DTrace site.
-
-## Contributing
-
-Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first. DTrace site.
-
-## Contributing
-
-Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first. DTrace site.
 
 ## Contributing
 

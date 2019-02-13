@@ -2,6 +2,14 @@
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
++ [INDEX](#index)
++ [LICENSE](#license)
+   + [ODbL and AGPLv3](#odbl-and-agplv3)
+   + [Mirrors](#mirrors)
++ [CONTRIBUTE](#contribute)
+   + [Guidelines](#guidelines)
+   + [BugReport-PullRequest](#bugreport-pullrequest)
+   + [Package Status](#package-status)
    
 ----
 
@@ -85,6 +93,4 @@ On a scale of 1 to 5 (https://github.com/svaksha/Julia.jl/blob/master/1=lowest,.
 + `Usability` : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (https://github.com/svaksha/Julia.jl/blob/master/issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
 + `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
 + `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
-+ `License` : Which software license do you use? If you dont have a license, please state `None`. pect prompt security patches?
-+ `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
-+ `License` : Which software license do you use? If you dont have a license, please state `None`. License` : Which software license do you use? If you dont have a license, please state `None`. 
++ `License` : Which software license do you use? If you dont have a license, please state `None`. 

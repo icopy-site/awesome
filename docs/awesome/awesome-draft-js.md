@@ -2,6 +2,7 @@
 
 [Draft.js](https://draftjs.org/) is a framework for building rich text editors in React.
 
+**Table of Contents**
 
 - [Community](https://github.com/nikgraf/awesome-draft-js#community)
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
@@ -86,12 +87,24 @@
 
 ## Common Utilities
 
+* [BackDraft.js](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
+* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - Export ContentState to HTML.
+* [Draft.js: Export ContentState to PDFMake](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake.
 * [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
+* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Ruby)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
+* [Draft.js exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Python)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js AST Exporter](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST).
 * [Draft.js AST Importer](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (https://github.com/nikgraf/awesome-draft-js/blob/master/AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators.
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS.
+* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content.
+* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
+* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
+* [Draft.js Exporter (https://github.com/nikgraf/awesome-draft-js/blob/master/Go)](https://github.com/nikgraf/awesome-draft-js/blob/master/https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
+* [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) - Filter Draft.js content to preserve only the formatting you allow.
 * [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
 ## Blog Posts & Articles
@@ -136,4 +149,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work. possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work. possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.

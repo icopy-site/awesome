@@ -5,14 +5,38 @@ A collection of simple tips to help up your jQuery game.
 > For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
+## Table of Contents
 
+* [Tips](#tips)
+* [Support](#support)
+* [Translations](#translations)
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/CONTRIBUTING.md)
 
 
 ## Tips
 
 1. [Use `noConflict(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-noconflict)
+1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
 1. [Use `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` Binding Instead of `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/#use-on-binding-instead-of-click)
+1. [Back to Top Button](#back-to-top-button)
+1. [Preload Images](#preload-images)
+1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
+1. [Fix Broken Images Automatically](#fix-broken-images-automatically)
+1. [Post a Form with AJAX](#post-a-form-with-ajax)
+1. [Toggle Classes on Hover](#toggle-classes-on-hover)
+1. [Disabling Input Fields](#disabling-input-fields)
+1. [Stop the Loading of Links](#stop-the-loading-of-links)
+1. [Cache jQuery Selectors](#cache-jquery-selectors)
+1. [Toggle Fade/Slide](#toggle-fadeslide)
+1. [Simple Accordion](#simple-accordion)
+1. [Make Two Divs the Same Height](#make-two-divs-the-same-height)
+1. [Open External Links in New Tab/Window](#open-external-links-in-new-tabwindow)
+1. [Find Element By Text](#find-element-by-text)
+1. [Trigger on Visibility Change](#trigger-on-visibility-change)
+1. [AJAX Call Error Handling](#ajax-call-error-handling)
+1. [Chain Plugin Calls](#chain-plugin-calls)
+1. [Sort List Items Alphabetically](#sort-list-items-alphabetically)
+1. [Disable Right-Click](#disable-right-click)
 
 
 ### Use `noConflict()`
@@ -29,6 +53,7 @@ Now you'll reference the jQuery object using the `jQuery` variable name instead 
 let $x = jQuery.noConflict();
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Checking If jQuery Loaded
@@ -45,6 +70,7 @@ if (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/mas
 
 Now you're off...
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)` Binding Instead of `.click(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/)`
@@ -65,6 +91,7 @@ Using `.on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 
 Namespaces give you the power to unbind a specific event (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e.g., `.off(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click.menuOpening')`).
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Back to Top Button
@@ -90,6 +117,7 @@ Changing the `scrollTop` value changes where you wants the scrollbar to land. Al
 
 **Note:** Watch for some [buggy behavior](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Preload Images
@@ -106,6 +134,7 @@ $.preloadImages = function () {
 $.preloadImages(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'img/hover-on.png', 'img/hover-off.png');
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Checking If Images Are Loaded
@@ -120,6 +149,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 You can also check if one particular image has loaded by replacing the `<img>` tag with an ID or class.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Fix Broken Images Automatically
@@ -142,6 +172,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 });
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Post a Form with AJAX
@@ -162,6 +193,7 @@ But all of those `val(https://github.com/AllThingsSmitty/jquery-tips-everyone-sh
 $.post(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'sign_up', $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#sign-up-form').serialize(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/));
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Toggle Classes on Hover
@@ -186,6 +218,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 **Note:** CSS may be a faster solution in this case but it's still worthwhile to know this.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Disabling Input Fields
@@ -202,6 +235,7 @@ All you need to do is run the `prop` method again on the input, but set the valu
 $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'input[type="submit"]').prop(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'disabled', false);
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Stop the Loading of Links
@@ -214,6 +248,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 });
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Cache jQuery Selectors
@@ -238,6 +273,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 Caching jQuery selectors is a good performance gain.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Toggle Fade/Slide
@@ -256,6 +292,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 });
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Simple Accordion
@@ -264,6 +301,7 @@ This is a simple method for a quick accordion:
 
 ```javascript
 // Close all panels
+$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.content').hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
 
 // Accordion
 $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#accordion').find(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'.accordion-header').on(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'click', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
@@ -276,6 +314,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 By adding this script all you really need to do on your web page is the necessary HTML to get this working.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Make Two Divs the Same Height
@@ -310,6 +349,7 @@ $rows.each(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 
 **Note:** This can be done several ways [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) but depending on what your needs are, knowing how to do this in jQuery is handy.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Open External Links in New Tab/Window
@@ -324,6 +364,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 
 **Note:** `window.location.origin` doesn't work in IE10. [This fix](http://tosbourn.com/a-fix-for-window-location-origin-in-internet-explorer/) takes care of the issue.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Find Element By Text
@@ -335,6 +376,7 @@ var search = $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-kn
 $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'div:not(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/:contains(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/"' + search + '"))').hide(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/);
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Trigger on Visibility Change
@@ -351,6 +393,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 });
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### AJAX Call Error Handling
@@ -363,6 +406,7 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 });
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Chain Plugin Calls
@@ -393,7 +437,9 @@ $elem.html(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/b
 $elem.otherStuff();
 ```
 
+Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best practices that lead to shorter and faster code.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Sort List Items Alphabetically
@@ -413,6 +459,7 @@ ul.append(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/bl
 
 There you go!
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Disable Right-Click
@@ -437,12 +484,14 @@ $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/maste
 })
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Translations
@@ -454,40 +503,5 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
 * [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
-hub.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
-    return false;
-  })
-})
-```
 
-...and you can also do the same for a specific element:
-
-```javascript
-$(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/document).ready(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/) {
-  $(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'#submit').bind(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/'contextmenu', function (https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/e) {
-    return false;
-  })
-})
-```
-
-
-
-## Support
-
-Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
-
-
-
-## Translations
-
-* [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
-* [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
-* [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
-* [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
-* [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
-* [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
-* [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
-ortuguês do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
-* [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
-* [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
-* [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+<sup>[back to table of contents](#table-of-contents)</sup>

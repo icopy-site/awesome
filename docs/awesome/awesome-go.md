@@ -10,10 +10,95 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
+### Contents
 
+- [Awesome Go](#awesome-go)
+    - [Audio and Music](#audio-and-music)
+    - [Authentication and OAuth](#authentication-and-oauth)
+    - [Bot Building](#bot-building)
+    - [Command Line](#command-line)
+    - [Configuration](#configuration)
+    - [Continuous Integration](#continuous-integration)
+    - [CSS Preprocessors](#css-preprocessors)
+    - [Data Structures](#data-structures)
+    - [Database](#database)
+    - [Database Drivers](#database-drivers)
+    - [Date and Time](#date-and-time)
+    - [Distributed Systems](#distributed-systems)
+    - [Email](#email)
+    - [Embeddable Scripting Languages](#embeddable-scripting-languages)
+    - [Error Handling](#error-handling)
+    - [Files](#files)
+    - [Financial](#financial)
+    - [Forms](#forms)
+    - [Functional](#functional)
+    - [Game Development](#game-development)
+    - [Generation and Generics](#generation-and-generics)
+    - [Geographic](#geographic)
+    - [Go Compilers](#go-compilers)
+    - [Goroutines](#goroutines)
+    - [GUI](#gui)
+    - [Hardware](#hardware)
+    - [Images](#images)
+    - [IoT](#iot-internet-of-things)
+    - [Job Scheduler](#job-scheduler)
+    - [JSON](#json)
+    - [Logging](#logging)
+    - [Machine Learning](#machine-learning)
+    - [Messaging](#messaging)
+    - [Microsoft Office](#microsoft-office)
+        - [Microsoft Excel](#microsoft-excel)
+    - [Miscellaneous](#miscellaneous)
+        - [Dependency Injection](#dependency-injection)
+        - [Strings](#strings)
+    - [Natural Language Processing](#natural-language-processing)
+    - [Networking](#networking)
+        - [HTTP Clients](#http-clients)
+    - [OpenGL](#opengl)
+    - [ORM](#orm)
+    - [Package Management](#package-management)
+    - [Query Language](#query-language)
+    - [Resource Embedding](#resource-embedding)
+    - [Science and Data Analysis](#science-and-data-analysis)
+    - [Security](#security)
+    - [Serialization](#serialization)
+    - [Template Engines](#template-engines)
+    - [Testing](#testing)
+    - [Text Processing](#text-processing)
+    - [Third-party APIs](#third-party-apis)
+    - [Utilities](#utilities)
+    - [UUID](#uuid)
+    - [Validation](#validation)
+    - [Version Control](#version-control)
+    - [Video](#video)
+    - [Web Frameworks](#web-frameworks)
+        - [Middlewares](#middlewares)
+            - [Actual middlewares](#actual-middlewares)
+            - [Libraries for creating HTTP middlewares](#libraries-for-creating-http-middlewares)
+        - [Routers](#routers)
+    - [Windows](#windows)
+    - [XML](#xml)
 
+- [Tools](#tools)
+    - [Code Analysis](#code-analysis)
+    - [Editor Plugins](#editor-plugins)
+    - [Go Generate Tools](#go-generate-tools)
+    - [Go Tools](#go-tools)
+    - [Software Packages](#software-packages)
+        - [DevOps Tools](#devops-tools)
+        - [Other Software](#other-software)
 
+- [Server Applications](#server-applications)
 
+- [Resources](#resources)
+    - [Benchmarks](#benchmarks)
+    - [Conferences](#conferences)
+    - [E-Books](#e-books)
+    - [Gophers](#gophers)
+    - [Meetups](#meetups)
+    - [Twitter](#twitter)
+    - [Websites](#websites)
+        - [Tutorials](#tutorials)
 
 ## Audio and Music
 
@@ -162,7 +247,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with environment variables and flags parsing.
 * [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 * [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
-* [conflate](https://github.com/miracl/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
+* [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 * [env](https://github.com/avelino/awesome-go/blob/master/https://github.com/caarlos0/env) - Parse environment variables to Go structs (https://github.com/avelino/awesome-go/blob/master/with defaults).
 * [envcfg](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
 * [envconf](https://github.com/ian-kent/envconf) - Configuration from environment.
@@ -238,6 +323,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 * [levenshtein](https://github.com/agnivade/levenshtein) - Implementation to calculate levenshtein distance in Go.
 * [mafsa](https://github.com/smartystreets/mafsa) - MA-FSA implementation with Minimal Perfect Hashing.
+* [merkletree](https://github.com/cbergoon/merkletree) - Implementation of a merkle tree providing an efficient and secure verification of the contents of data structures.
 * [mspm](https://github.com/BlackRabbitt/mspm) - Multi-String Pattern Matching Algorithm for information retrieval.
 * [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 * [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
@@ -1530,7 +1616,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [retry-go](https://github.com/rafaeljesus/retry-go) - Retrying made simple and easy for golang.
 * [robustly](https://github.com/VividCortex/robustly) - Runs functions resiliently, catching and restarting panics.
 * [serve](https://github.com/syntaqx/serve) - A static http server anywhere you need.
-* [silk] (https://github.com/chrispassas/silk) - Read silk netflow files
+* [silk](https://github.com/chrispassas/silk) - Read silk netflow files.
 * [slicer](https://github.com/leaanthony/slicer) - Makes working with slices easier.
 * [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
@@ -2033,36 +2119,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
 * [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) - How to cancel MySQL queries.
 * [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
-* [Games With Go](http://gameswithgo.org/) - A video series teaching programming and game development.
-* [Go By Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
-* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.
-* [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
-* [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8) - Interactively edit & play Go snippets on your mobile device.
-* [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
-* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
-* [Golangbot](https://golangbot.com/learn-golang-series/) - Tutorials to get started with programming in Go.
-* [Hackr.io](https://hackr.io/tutorials/learn-golang) - Learn Go from the best online golang tutorials submitted & voted by the golang programming community.
-* [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
-* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
-* [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
-* [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
-* [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
-* [Your basic Go](http://yourbasic.org/golang) - Huge collection of tutorials and how to's.m Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
-* [Games With Go](http://gameswithgo.org/) - A video series teaching programming and game development.
-* [Go By Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
-* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.
-* [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
-* [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8) - Interactively edit & play Go snippets on your mobile device.
-* [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
-* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
-* [Golangbot](https://golangbot.com/learn-golang-series/) - Tutorials to get started with programming in Go.
-* [Hackr.io](https://hackr.io/tutorials/learn-golang) - Learn Go from the best online golang tutorials submitted & voted by the golang programming community.
-* [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
-* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
-* [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
-* [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
-* [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
-* [Your basic Go](http://yourbasic.org/golang) - Huge collection of tutorials and how to's.m Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
 * [Games With Go](http://gameswithgo.org/) - A video series teaching programming and game development.
 * [Go By Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
 * [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.

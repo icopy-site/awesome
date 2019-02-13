@@ -1,7 +1,20 @@
 # Awesome Book Authoring
 A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for technical book authors.
 
+# Table of Contents
 
+- [Must Reads](#must-reads)
+- [Book Proposals](#book-proposals)
+- [Contracts](#contracts)
+- [Royalties, Advances, and Other Money Stuff](#royalties-advances-and-other-money-stuff)
+- [Editors](#editors)
+- [Publishers](#publishers)
+- [Marketing](#marketing)
+- [Misc.](#misc)
+- [List of Publishers](#list-of-publishers)
+- [Self Publishing](#self-publishing)
+- [Writing Workflows and Tooling](#writing-workflows-and-tooling)
+- [Personal Experiences, Post Mortems and Campfire Stories](#personal-experiences-post-mortems-and-campfire-stories)
 
 ## Must Reads
 
@@ -77,4 +90,4 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.
 - [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](https://github.com/TalAter/awesome-book-authoring/blob/master/http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (https://github.com/TalAter/awesome-book-authoring/blob/master/two of them self published).
 - [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
-- [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)tp://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)tp://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)
+- [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)

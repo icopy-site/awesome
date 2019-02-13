@@ -8,10 +8,53 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Network of U.S. political blogs by [Adamic and Glance (https://github.com/briatte/awesome-network-analysis/blob/master/2004)](https://github.com/briatte/awesome-network-analysis/blob/master/https://dl.acm.org/citation.cfm?doid=1134271.1134277) (https://github.com/briatte/awesome-network-analysis/blob/master/[preprint](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
 
+## Contents
 
+- __[Books](#books)__
+  - [Classics](#classics)
+  - [Dissemination](#dissemination)
+  - [General Overviews](#general-overviews)
+  - [Graph Theory](#graph-theory)
+  - [Method-specific](#method-specific)
+  - [Software-specific](#software-specific)
+  - [Topic-specific](#topic-specific)
+- __[Conferences](#conferences)__
+- __[Courses](#courses)__
+- __[Datasets](#datasets)__
+- __[Journals](#journals)__
+- __[Professional groups](#professional-groups)__
   - [Research Groups (https://github.com/briatte/awesome-network-analysis/blob/master/USA)](https://github.com/briatte/awesome-network-analysis/blob/master/#research-groups-usa)
   - [Research Groups (https://github.com/briatte/awesome-network-analysis/blob/master/Other)](https://github.com/briatte/awesome-network-analysis/blob/master/#research-groups-other)
+- __[Review Articles](#review-articles)__
+  - [Archeological and Historical Networks](#archeological-and-historical-networks)
+  - [Bibliographic, Citation and Semantic Networks](#bibliographic-citation-and-semantic-networks)
+  - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
+  - [Complex Networks](#complex-networks)
+  - [Ethics of Network Analysis](#ethics-of-network-analysis)
+  - [Network Modeling](#network-modeling)
+  - [Network Visualization](#network-visualization)
+  - [Social, Economic and Political Networks](#social-economic-and-political-networks)
+- __[Selected Papers](#selected-papers)__
+- __[Software](#software)__
+  - [Algorithms](#algorithms)
+  - [C / C++](#c--c)
+  - [Java](#java)  
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [MATLAB](#matlab)
+  - [Python](#python)
+  - [R](#r)
+  - [Stata](#stata)
+  - [Syntaxes](#syntaxes)
+  - [Tutorials](#tutorials)
+- __[Varia](#varia)__
+  - [Blog Series](#blog-series)
+  - [Fictional Networks](#fictional-networks)
+  - [Network Science](#network-science)
+  - [Small Worlds](#small-worlds)
+  - [Two-Mode Networks](#two-mode-networks)
 - __[Contributing Guidelines](https://github.com/briatte/awesome-network-analysis/blob/master/CONTRIBUTING.md)__
+- __[License](#license)__
 
 ## Books
 
@@ -409,6 +452,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > For a hint of why this section of the list might be useful to some, see [Mark Round’s Map of Data Formats and Software Tools](https://github.com/briatte/awesome-network-analysis/blob/master/http://mdround.blogs.com/usingnetworks/2009/07/sna-tools-and-formats-diagram-updated.html) (https://github.com/briatte/awesome-network-analysis/blob/master/2009).  
 > Several links in this section come from the [NetWiki Shared Code](https://github.com/briatte/awesome-network-analysis/blob/master/http://netwiki.amath.unc.edu/SharedCode/SharedCode) page, from the Cambridge Networks Network [List of Resources for Complex Network Analysis](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.cnn.group.cam.ac.uk/Resources), and from the [Software for Social Network Analysis](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.gmw.rug.nl/~huisman/sna/software.html) page by Mark Huisman and Marijtje A.J. van Duijn. For a recent academic review on the subject, see the [Social Network Algorithms and Software](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.sciencedirect.com/science/article/pii/B9780080970868431211) entry of the _International Encyclopedia of Social and Behavioral Sciences_, 2nd edition (https://github.com/briatte/awesome-network-analysis/blob/master/2015).  
 > See also the [Social Network Analysis Project Survey](https://github.com/briatte/awesome-network-analysis/blob/master/https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0) (https://github.com/briatte/awesome-network-analysis/blob/master/[blog post](https://github.com/briatte/awesome-network-analysis/blob/master/http://pudo.org/blog/2013/12/21/sna-survey.html)), an earlier attempt to chart social network analysis tools that links to many commercial platforms not included in this list, such as [Detective.io](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.detective.io/). The Wikipedia English entry on [Social Network Analysis Software](https://github.com/briatte/awesome-network-analysis/blob/master/https://en.wikipedia.org/wiki/Social_network_analysis_software) also links to many commercial that are often very expensive, outdated, and far from being awesome by any reasonable standard.  
+> Software-centric tutorials are listed below their program of choice: other tutorials are listed [in the next section](#tutorials).
 
 -   [ArcGIS Network Analyst](http://www.esri.com/software/arcgis/extensions/networkanalyst) - Network-based spatial analysis software for solving complex routing problems.
 -   [CFinder](https://github.com/briatte/awesome-network-analysis/blob/master/http://www.cfinder.org/) - Cross-platform Java program to identify clusters and communities through the Clique Percolation Method (https://github.com/briatte/awesome-network-analysis/blob/master/CPM).
@@ -839,11 +883,5 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](https://comunelab.fbk.eu/manlio/), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts), [Roman Bartusiak](http://riomus.ml/), [Koustuv Sinha](http://koustuvsinha.github.io/), [Mohsen Mosleh](http://mohsenmosleh.com/), [Sandro Sousa](https://github.com/sandrofsousa), [Jean-Baptiste Pressac](https://github.com/JBPressac), [Patrick Connolly](https://github.com/patcon), [Hristo Georgiev](http://hristog.github.io/), [Tiago Azevedo](http://github.com/tjiagoM), [Luis Miguel Montilla](https://twitter.com/luismmontilla), [Keith Turner](https://github.com/keith-turner) and [Sandra B.](https://github.com/sandravizmad) – have waived all copyright and related or neighboring rights to this work.
-
-Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Eiko Fried](http://eiko-fried.com/), [Wouter de Nooy](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Camille Roth](http://camille.roth.free.fr/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list.p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](https://comunelab.fbk.eu/manlio/), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts), [Roman Bartusiak](http://riomus.ml/), [Koustuv Sinha](http://koustuvsinha.github.io/), [Mohsen Mosleh](http://mohsenmosleh.com/), [Sandro Sousa](https://github.com/sandrofsousa), [Jean-Baptiste Pressac](https://github.com/JBPressac), [Patrick Connolly](https://github.com/patcon), [Hristo Georgiev](http://hristog.github.io/), [Tiago Azevedo](http://github.com/tjiagoM), [Luis Miguel Montilla](https://twitter.com/luismmontilla), [Keith Turner](https://github.com/keith-turner) and [Sandra B.](https://github.com/sandravizmad) – have waived all copyright and related or neighboring rights to this work.
-
-Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Eiko Fried](http://eiko-fried.com/), [Wouter de Nooy](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Camille Roth](http://camille.roth.free.fr/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list./hristog.github.io/), [Tiago Azevedo](http://github.com/tjiagoM), [Luis Miguel Montilla](https://twitter.com/luismmontilla), [Keith Turner](https://github.com/keith-turner) and [Sandra B.](https://github.com/sandravizmad) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Eiko Fried](http://eiko-fried.com/), [Wouter de Nooy](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Camille Roth](http://camille.roth.free.fr/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list.

@@ -14,7 +14,41 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ---
 
+## Contents
 
+- [Books](#books)
+- [Online Books](#online-books)
+- [Courses](#courses)
+- [Tools](#tools)
+  - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
+  - [Visual Programming Languages](#visual-programming-languages)
+  - [Sound Programming Languages](#sound-programming-languages)
+  - [Web Programming • Libraries](#web-programming--libraries)
+  - [Projection Mapping • VJing](#projection-mapping--vjing)
+  - [Online](#online)
+  - [Hardware](#hardware)
+  - [Other](#other)
+- [Learning Resources](#learning-resources)
+  - [Videos](#videos)
+  - [Talks](#talks)
+  - [Articles](#articles)
+    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
+    - [Canvas](#canvas)
+    - [Hardware](#hardware-1)
+    - [Other](#other-1)
+  - [Interactive](#interactive)
+  - [Quick References • Cheat-Sheets](#quick-references--cheatsheets)
+- [Communities](#communities)
+  - [Subreddits](#subreddits)
+  - [Slack](#slack)
+  - [Other](#other-2)
+- [Math](#math)
+- [Machine learning • Computer Vision • Ai](#machine-learning--computer-vision--ai)
+- [Inspiration](#inspiration)
+- [Events](#events)
+- [Schools • Workshops](#schools--workshops)
+- [Blogs • Websites](#blogs--websites)
+- [Related](#related)
 
 ## Books
 
@@ -490,30 +524,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
-
-
-## Special Thanks
-
-[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.rning) - A resource repository for 3D machine learning.
-
-
-## Special Thanks
-
-[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.rning) - A resource repository for 3D machine learning.
 
 
 ## Special Thanks

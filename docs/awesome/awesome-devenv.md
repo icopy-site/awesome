@@ -17,11 +17,32 @@ But in short:
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
+# Content
 
 _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 
 
 
+- [Admins](#admins)
+- [Benchmarking](#benchmarking)
+- [Data](#data)
+- [Diagnostics](#diagnostics)
+- [Desktop](#desktop)
+- [Dotfiles](#dotfiles)
+- [Editors](#editors)
+  - [Atom](#atom)
+  - [Sublime Text](#sublime-text-3)
+  - [Vim](#vim)
+  - [IntelliJ](#intellij)
+- [Git](#git)
+- [Misc](#misc)
+- [Notifications](#notifications)
+- [Orchestration](#orchestration)
+- [Presentation](#presentation)
+- [Shell](#shell)
+- [Text](#text)
+- [Terminal](#terminal)
+- [Workflow](#workflow)
 
 
 ## Admins
@@ -216,6 +237,4 @@ to `/home/Users/yourself/projects`.
 * [watchman](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
-* [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy. to enhance your project workflow via enable/disable pull request approval checks.
-* [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy. to enhance your project workflow via enable/disable pull request approval checks.
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.

@@ -8,7 +8,42 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 
 :octocat: All contributions welcome. Feel free to contribute (https://github.com/alferov/awesome-gulp/blob/master/[guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
 
+## Contents
 
+- [Legend](#legend)
+- [Resources](#resources)
+  - [General Resources](#general-resources)
+  - [Official Documentation](#official-documentation)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+    - [Gulp Tutorials](#gulp-tutorials)
+    - [Gulp 4 Tutorials](#gulp-4-tutorials)
+    - [Gulp with Browserify](#gulp-with-browserify)
+    - [Gulp with Angular](#gulp-with-browserify)
+    - [Gulp with Angular and Browserify](#gulp-with-angular-and-browserify)
+    - [Gulp with Angular and Webpack](#gulp-with-angular-and-webpack)
+    - [Gulp with React and Browserify](#gulp-with-react-and-browserify)
+    - [Gulp with Ember](#gulp-with-ember)
+  - [Miscellaneous Resources](#miscellaneous-resources)
+- [Plugins](#plugins)
+  - [Compilation](#compilation)
+  - [Transpilation](#transpilation)
+  - [Concatenation](#concatenation)
+  - [Minification](#minification)
+  - [Optimization](#optimization)
+  - [Injecting Assets](#injecting-assets)
+  - [Templating](#templating)
+  - [Linting](#linting)
+  - [Live Reload](#live-reload)
+  - [Caching](#caching)
+  - [Flow Control](#flow-control)
+  - [Logging](#logging)
+  - [Testing](#testing)
+  - [Miscellaneous Plugins](#miscellaneous-plugins)
+- [Scaffolding](#scaffolding)
+  - [Boilerplates](#boilerplates)
+  - [Yeoman Generators](#yeoman-generators)
+- [Miscellaneous](#miscellaneous)
 
 ## Legend
 
@@ -274,14 +309,6 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 - [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.
 
 ## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Philipp Alferov](https://github.com/alferov) has waived all copyright and related or neighboring rights to this work.# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Philipp Alferov](https://github.com/alferov) has waived all copyright and related or neighboring rights to this work.# License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

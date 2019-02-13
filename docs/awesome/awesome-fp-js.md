@@ -4,7 +4,21 @@ This is a curated list of awesome [functional programming](https://en.wikipedia.
 
 Functional programming is a [style of programming](https://wiki.haskell.org/Functional_programming) which models computations as the evaluation of expressions. Contrast this  with imperative programming where programs are composed of statements which change global state when executed. Functional programming typically avoids using mutable state and favors _side-effect free_ functions and _immutable_ data instead. This encourages writing composable and declarative programs that are easy to reason about.
 
+##### Table of Contents
 
+* [Libraries](#libraries)
+  * [Data Structures](#data-structures)
+  * [Algebraic Data Types](#algebraic-data-types)
+  * [Lenses](#lenses)
+* [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
+* [Programming Tools](#programming-tools)
+* [Resources](#resources)
+  * [Books](#books)
+  * [Articles](#articles)
+  * [Videos](#videos)
+  * [Examples and Exercises](#examples-and-exercises)
+* [Community](#community)
+* [Contribution](#contribution)
 
 ## Libraries
 
@@ -204,9 +218,5 @@ Please read the [contribution guidelines](https://github.com/stoeffel/awesome-fp
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.ttp://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.ttp://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.

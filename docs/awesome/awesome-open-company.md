@@ -1,10 +1,20 @@
 # Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
 
 (https://github.com/opencompany/awesome-open-company/blob/master/**[click here](https://github.com/opencompany/awesome-open-company/blob/master/#companies)** to jump straight to the list below.)
 
 *Contributions to this list are welcome! Just [edit the README.md](https://github.com/opencompany/awesome-open-company/blob/master/../../edit/master/README.md) (https://github.com/opencompany/awesome-open-company/blob/master/this document) and send the changes as a pull request. [Guidelines](https://github.com/opencompany/awesome-open-company/blob/master/../../wiki/Inclusion+guidelines) are available.*
 
+## Table of contents
+1. [What is an open company?](#what-is-an-open-company)
+2. **[Companies](#companies)**
+3. [Resources](#resources)
+  1. [Books](#books)
+  2. [Articles](#articles)
+  3. [Videos](#videos)
+4. [Similar lists](#similar-lists)
+5. [License](#license)
 
 ## What is an open company?
 
@@ -93,5 +103,3 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 
 ## License
 *This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
-## License
-*This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*c domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*

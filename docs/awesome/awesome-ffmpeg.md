@@ -7,7 +7,14 @@
 </p>
 
 
+## Contents
 
+- [Docs](#docs)
+- [JavaScript](#javascript)
+- [Native](#native)
+- [Mobile](#mobile)
+- [Tutorials](#tutorials)
+- [Community](#community)
 
 
 ## Docs
@@ -71,4 +78,4 @@ Contributions welcome! Please read the [contributing guideline](https://github.c
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Travis Fischer](https://github.com/transitive-bullshit) has waived all copyright and related or neighboring rights to this work. has waived all copyright and related or neighboring rights to this work. has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Travis Fischer](https://github.com/transitive-bullshit) has waived all copyright and related or neighboring rights to this work.

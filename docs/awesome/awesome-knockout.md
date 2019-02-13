@@ -44,4 +44,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
 ## Examples
-- [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockoutborative web app using WebSockets and Knockoutborative web app using WebSockets and Knockout
+- [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout

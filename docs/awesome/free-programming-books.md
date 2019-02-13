@@ -89,4 +89,4 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-playgrounds.md)
 
 ## License
-Each file included in this repository is licensed under the [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).Y License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).Y License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).
+Each file included in this repository is licensed under the [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).

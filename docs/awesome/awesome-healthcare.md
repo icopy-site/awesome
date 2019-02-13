@@ -2,7 +2,28 @@
 
 Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
 
+## Contents
 
+- [EHR](#ehr)
+- [Specifications](#specifications)
+- [Prescribing](#prescribing)
+- [Nursing](#nursing)
+- [Imaging](#imaging)
+- [Dental](#dental)
+- [Laboratory](#laboratory)
+- [Libraries](#libraries)
+- [Frameworks](#frameworks)
+- [Applications](#applications)
+- [Personal Health Record](#phr)
+- [Integration](#integration)
+- [Research](#research)
+- [Hardware](#hardware)
+- [Bioinformatics](#bioinformatics)
+- [Data](#data)
+- [Datasets](#datasets)
+- [Enterprise Master Patient Index](#empi)
+- [Machine Learning](#machine-learning)
+- [Compliance](#compliance)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -27,6 +48,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMRS](http://openmrs.org/) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project
   * [Ripple](http://rippleosi.org/) -  NHS funded community led initiative towards an integrated Digital Care Record Platform.
+  * [VistA](https://www.osehra.org/content/osehra-vista) - Health Information Technology System.
 
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
@@ -152,4 +174,4 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 
 ### Compliance
-* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.ompliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.ompliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.

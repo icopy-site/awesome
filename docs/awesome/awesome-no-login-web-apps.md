@@ -18,8 +18,31 @@ To save the world from creating user accounts and installing software applicatio
 * Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps. 
 
 
+## Contents
 
+* [Audio and Video](#audio-and-video)
+* [Business and Finance](#business-and-finance)
+* [Communication](#communication)
+* [Document editors](#document-editors)
+	* [Latex](#latex)
+	* [Markdown](#markdown)
+	* [Others](#doc-eds-others)
+* [Drawing](#drawing)
+* [File Converters](#file-converters)
+* [File Hosting/Sharing](#file-hostingsharing)
+* [Games](#games)
+* [Graphics, Image and Design](#graphics-image-and-design)
+* [Internet Downloaders](#internet-downloaders)
+* [Music, Radio and Podcasts](#music-radio-and-podcasts)
+* [Notepads and Notebooks](#notepads-and-notebooks)
+* [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
+* [Programming Editors and IDEs](#programming-editors-and-ides)
+* [Programming Tools](#programming-tools)
+* [Search Engines](#search-engines)
+* [Study and Education](#study-and-education)
+* [Text based tools](#text-tools)
 * [Utilities (https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/uncategorized)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/#utilities)
+* [Miscellaneous](#miscellaneous)
 
 
 ### Audio and Video
@@ -310,22 +333,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
-
------
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work. clock, use MP3 files and YouTube videos as alarm.
-
------
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.videos as alarm.
+* [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 
 -----
 

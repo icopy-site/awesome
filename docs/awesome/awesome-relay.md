@@ -1,9 +1,30 @@
 # Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
 
+# Table of Contents
+- [Learning Resources](#learning-resources)
+  - [Documentation](#documentation)
+  - [FAQs](#faqs)
+  - [Tutorials](#tutorials)
+  - [Overviews](#overviews)
+  - [Example Implementations](#example-implementations)
+  - [Lists of Lists](#lists-of-lists)
+- [Ecosystem](#ecosystem)
+  - [Libraries & Packages](#libraries--packages)
+  - [Tooling](#tooling)
+  - [Starter Kits](#starter-kits)
+- [Relay-Specific Server Support](#relay-specific-server-support)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Ruby](#ruby)
+    - [Rails](#rails)
+  - [Scala](#scala)
+- [Testing](#testing)
 
 # Learning Resources
 ## Documentation
+- [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
 
 ## FAQs
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
@@ -99,4 +120,4 @@ Boilerplate + examples for React Native (https://github.com/expede/awesome-relay
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
 # Testing
-- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. ikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. ikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
+- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 

@@ -2,6 +2,7 @@
 
 [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://github.com/jaywcjlove/awesome-mac/blob/master/https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
+[![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
  Now we have become very big, Different from the original idea.
 Collect premium software in various categories. Feel free to **star** and **fork**.
@@ -21,7 +22,64 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
 
+## Contents
 
++ [Reading and Writing Tools](#reading-and-writing-tools)
+    - [Text Editors](#text-editors)
+    - [Office](#office)
+    - [Markdown Tools](#markdown-tools-)
+    - [Note-taking](#note-taking)
+    - [Ebooks](#ebooks)
+    - [RSS](#rss)
+    - [Others](#others)
++ [Developer Tools](#developer-tools)
+    - [IDEs](#ides)
+    - [Developer Utilities](#developer-utilities)
+    - [Regular Expression Editors](#regular-expression-editors)
+    - [API Development and Analysis](#api-development-and-analysis)
+    - [Network Analysis](#network-analysis)
+    - [Command Line Tools](#command-line-tools-)
+    - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
+    - [Version Control](#version-control)
+    - [Virtualization](#virtualization)
+    - [Databases](#databases)
++ [Design and Product](#design-and-product)
+    - [Design Tools](#design-tools)
+    - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
+    - [Screencapturing Software](#screencapturing-software)
+    - [Other Tools](#other-tools)
++ [Communication](#communication)
+    - [Collaboration and Team Tools](#collaboration-and-team-tools)
+    - [Email Clients](#email-clients)
+    - [File Sharing](#file-sharing)
++ [Data Recovery Tools](#data-recovery-tools)
++ [Audio and Video Tools](#audio-and-video-tools)
++ [Download Management Tools](#download-management-tools)
++ [Cloud Storage](#cloud-storage)
++ [Input Methods](#input-methods)
++ [Browsers](#browsers)
++ [Translation Tools](#translation-tools)
++ [Security Tools](#security-tools)
++ [Proxy and VPN Tools](#proxy-and-vpn-tools)
++ [Utilities](#utilities)
+    - [Clipboard Tools](#clipboard-tools)
+    - [Menu Bar Tools](#menu-bar-tools)
+    - [File Organization Tools](#file-organization-tools)
+    - [General Tools](#general-tools)
+    - [To-Do Lists](#to-do-lists)
+    - [Productivity](#productivity)
+    - [Window Management](#window-management)
+    - [Password Management](#password-management)
+    - [Finder Tools](#finder-tools)
+    - [Quality of Life Improvements](#quality-of-life-improvements)
+    - [System Related Tools](#system-related-tools)
++ [Gaming Software](#gaming-software)
++ [Remote Login Software](#remote-login-software)
++ [QuickLook Plugins](#quickLook-plugins-)
++ [Third Party App Markets](#third-party-app-markets)
+    - [Package Managers](#package-managers)
++ [Mac App Download Sites](#mac-app-download-sites)
++ [Podcasts](#podcasts)
 
 ## Reading and Writing Tools
 
@@ -201,6 +259,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
+* [ccat](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
@@ -511,6 +570,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [qBittorrent](https://www.qbittorrent.org/) - A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [You-Get](https://github.com/jaywcjlove/awesome-mac/blob/master/https://you-get.org/) - Tiny command-line utility to download media contents (https://github.com/jaywcjlove/awesome-mac/blob/master/videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/awesome-mac/blob/master/https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
 
 ## Cloud Storage
@@ -713,6 +773,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [FruitJuice](http://fruitjuiceapp.com) - Will let you know how long to stay unplugged each day to keep your battery healthy. [![App Store][app-store Icon]](https://itunes.apple.com/app/fruitjuice-battery-health/id671736912)
 * [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon]
 * [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
+* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - HTML 5 video player. Keep your Mac from "burning".
 * [InsomniaX](https://github.com/jaywcjlove/awesome-mac/blob/master/https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (https://github.com/jaywcjlove/awesome-mac/blob/master/so you can play music with your lid closed, for example).
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
@@ -787,6 +848,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 * [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 
+**[⬆ back to top](#contents)**
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
@@ -802,42 +864,6 @@ This project exists thanks to all the people who contribute.
 ## Backers
 
 Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
-
-<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/awesome-mac#sponsor)
-
-<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).cjlove/awesome-mac/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
-
-<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/awesome-mac#sponsor)
-
-<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
-
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).pencollective.com/awesome-mac#backer)
 
 <a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
 

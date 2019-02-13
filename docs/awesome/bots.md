@@ -11,6 +11,16 @@
 Table of Contents
 -----------------
 
+- [Platform Documentation](#platform-documentation)
+- [Tools For Building Bots](#tools-for-building-bots)
+- [Tools For Bot Analytics](#tools-for-bot-analytics)
+- [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
+- [Libraries](#libraries)
+- [Bot Stores](#bot-stores)
+- [Tutorials](#tutorials)
+- [Communities](#communities)
+- [Developers](#developers)
+- [Testing](#testing)
 
 ## Platform Documentation
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
@@ -173,15 +183,5 @@ Table of Contents
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.ng
-* [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
-* [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.tivecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.

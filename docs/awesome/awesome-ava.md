@@ -3,7 +3,15 @@
 > [AVA](https://ava.li) is a minimal & futuristic JavaScript test runner
 
 
+## Contents
 
+- [Articles](#articles)
+- [Videos](#videos)
+- [Packages](#packages)
+- [Works with AVA](#works-with-ava)
+- [Tutorials](#tutorials)
+- [Miscellaneous](#miscellaneous)
+- [Support](#support)
 
 
 ## Articles
@@ -82,4 +90,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.sorhus.com) has waived all copyright and related or neighboring rights to this work.sorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

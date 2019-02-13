@@ -4,6 +4,43 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 The official Meteor resources page can be found [here](https://www.meteor.com/tools/resources)
 
+- [Awesome Meteor](#awesome-meteor)
+    - [Getting Started](#getting-started)
+    - [Collections](#collections)
+    - [Forms and Templates](#forms-and-templates)
+    - [Users and Authentication](#users-and-authentication)
+    - [REST](#rest)
+    - [Files](#files)
+    - [Routers](#routers)
+    - [Debugging Tools](#debugging-tools)
+    - [Editor Plugins](#editor-plugins)
+    - [Search, sort and paginate](#search-sort-paginate)
+    - [Mobile](#mobile)
+    - [Offline](#offline)
+    - [Testing](#testing)
+    - [SEO](#seo)
+    - [Data Visualization](#data-visualization)
+    - [Analytics](#analytics)
+    - [Cron Jobs](#cron-jobs)
+    - [Payments](#payments)
+    - [Deployment](#deployment)
+    - [Front End Frameworks](#front-end-frameworks)
+    - [Alternative Databases](#alternative-databases)
+    - [Package managers](#package-managers)
+    - [Internationalization](#internationalization)
+    - [Scaffolding](#scaffolding)
+    - [Tooling](#tooling)
+- [Boilerplate](#boilerplate)
+- [Resources](#resources)
+    - [Books](#books)
+    - [Courses](#courses)
+    - [Tutorials](#tutorials)
+    - [Blogs](#blogs)
+    - [Websites](#websites)
+    - [Weekly](#weekly)
+    - [Twitter](#twitter)
+    - [Job Boards](#job-boards)
+- [Contributing](#contributing)
 
 - - -
 
@@ -301,57 +338,6 @@ Where to discover new Meteor things.
 * [Meteor-Blog](http://info.meteor.com/blog)
 * [Meteor Weekly](https://goodbits.io)
 * [This Week In Meteor](https://goodbits.io)
-
-## Twitter
-
-* [Official Meteor](https://twitter.com/meteorjs)
-
-## Job Boards
-
-* [We Work Meteor](https://www.weworkmeteor.com/)
-
-# [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
-
-Your contributions are always welcome!
-
-Thank you @gillesfabio for creating this repo!letproofmeteor.com/) - Online course for Meteor performance in production, by Arunoda Susiripala
-* [Meteorpedia](https://github.com/Urigo/awesome-meteor/blob/master/http://www.meteorpedia.com) (https://github.com/Urigo/awesome-meteor/blob/master/[infrequently](https://github.com/Urigo/awesome-meteor/blob/master/http://www.meteorpedia.com/special/RecentChanges/) updated)
-* [DiscoverMeteor Encyclopedia](https://www.discovermeteor.com/encyclopedia)
-* [Roadmap](https://trello.com/b/hjBDflxp/meteor-roadmap)
-* [Meetups](http://meteor.meetup.com/)
-* [Reddit](https://www.reddit.com/r/meteor)
-* [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
-* [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq)
-* [The Meteor Chef](https://themeteorchef.com)
-
-### Q&A
-
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
-* [Meteor forums](https://forums.meteor.com/)
-* [Gitter IM channel](https://gitter.im/meteor/meteor)
-* [The Meteor Chef Slack channel](https://themeteorchef.slack.com)
-* IRC - #meteor on freenode
-
-
-## Weekly
-
-* [Meteor-Blog](http://info.meteor.com/blog)
-* [Meteor Weekly](https://goodbits.io)
-* [This Week In Meteor](https://goodbits.io)
-
-## Twitter
-
-* [Official Meteor](https://twitter.com/meteorjs)
-
-## Job Boards
-
-* [We Work Meteor](https://www.weworkmeteor.com/)
-
-# [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
-
-Your contributions are always welcome!
-
-Thank you @gillesfabio for creating this repo!eek In Meteor](https://goodbits.io)
 
 ## Twitter
 

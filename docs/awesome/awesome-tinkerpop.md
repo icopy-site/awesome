@@ -7,6 +7,17 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 >Apache TinkerPop™ is a graph computing framework for both graph databases (https://github.com/mohataher/awesome-tinkerpop/blob/master/OLTP) and graph analytic systems (https://github.com/mohataher/awesome-tinkerpop/blob/master/OLAP).
 
+### Table of Contents
+* [TinkerPop3](#tinkerpop3)
+	- [Implementations](#tinkerpop3-implementations)
+	- [Wrappers/Clients](#wrappers)
+	- [Query Languages](#qlang)
+* [TinkerPop2](#tinkerpop2)
+* [Communites](#communites)
+* [People to Follow](#people-to-follow)
+* [Tutorials and Resources](#tutorials-and-resources)
+* [How to Contribute](#contributing)
+* [License](#license)
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations
@@ -130,4 +141,4 @@ Please follow the [guidelines here](https://github.com/mohataher/awesome-tinkerp
 ## <A NAME="license"></A>License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.sible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.sible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.

@@ -8,8 +8,26 @@
 
  :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/blob/master/https://github.com/dhamaniasad/awesome-postgres/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/blob/master/https://github.com/dhamaniasad/awesome-postgres/issues) to start a discussion. Please take a look at the [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
+## Contents
 
+- [High-Availability](#high-availability)
+- [Backups](#backups)
+- [GUI](#gui)
+- [Distributions](#distributions)
+- [CLI](#cli)
+- [Server](#server)
+- [Monitoring](#monitoring)
+- [Extensions](#extensions)
+- [Optimization](#optimization)
+- [Utilities](#utilities)
+- [Language bindings](#language-bindings)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [Articles](#articles)
+- [Newsletters](#newsletters)
 - [PaaS (https://github.com/dhamaniasad/awesome-postgres/blob/master/PostgreSQL as a Service)](https://github.com/dhamaniasad/awesome-postgres/blob/master/#paas-postgresql-as-a-service)
+- [Docker images](#docker-images)
+- [Videos](#videos)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -208,9 +226,5 @@ For Database Management
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
-* [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
-* [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videosel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
-* [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
-* [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videosdeos
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos

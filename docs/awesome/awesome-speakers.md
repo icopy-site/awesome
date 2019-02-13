@@ -6,7 +6,14 @@ Let's make it more transparent and easy to find awesome speakers for meetups and
 
 Please add to the list and help make the community better connected and richer.
 
+## Contents
 
+- [Africa](#africa)
+- [Asia](#asia)
+- [Australia](#australia)
+- [Europe](#europe)
+- [North America](#north-america)
+- [South America](#south-america)
 
 # Africa
 
@@ -1948,110 +1955,6 @@ https://twitter.com/obetomuniz
 ### Curitiba
 
 <img src="https://twitter.com/fdaciuk/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Fernando Daciuk**\
-Topics: React, JavaScript\
-https://twitter.com/fdaciuk
-
-### Joinville
-
-<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Marcelo Camargo**\
-Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
-https://twitter.com/nexwire
-
-### Rio de Janeiro
-
-<img src="https://twitter.com/raphamorims/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Raphael Amorim**\
-Topics: React, JavaScript, jQuery\
-https://twitter.com/raphamorims
-
-### São Paulo
-
-<img src="https://twitter.com/carolcode/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Caroline Soares**\
-Topics: Frontend development, woman's inspiration, JavaScript, CSS\
-https://twitter.com/carolcode
-
-<img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Fernanda Bernardo**\
-Topics: CSS, JavaScript, HTML\
-https://twitter.com/Feh_Bernardo
-
-<img src="https://twitter.com/JoaoVictor_AC/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**João Victor Dias**\
-Topics: Computer Vision, Keras, CNN, R, Data Science path\
-https://twitter.com/JoaoVictor_AC
-
-<img src="https://twitter.com/sseraphini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Sibelius Seraphini**\
-Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
-https://twitter.com/sseraphini
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.=original" height="70px" width="70px" align="left" alt="" />
-
-**Fernando Daciuk**\
-Topics: React, JavaScript\
-https://twitter.com/fdaciuk
-
-### Joinville
-
-<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Marcelo Camargo**\
-Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
-https://twitter.com/nexwire
-
-### Rio de Janeiro
-
-<img src="https://twitter.com/raphamorims/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Raphael Amorim**\
-Topics: React, JavaScript, jQuery\
-https://twitter.com/raphamorims
-
-### São Paulo
-
-<img src="https://twitter.com/carolcode/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Caroline Soares**\
-Topics: Frontend development, woman's inspiration, JavaScript, CSS\
-https://twitter.com/carolcode
-
-<img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Fernanda Bernardo**\
-Topics: CSS, JavaScript, HTML\
-https://twitter.com/Feh_Bernardo
-
-<img src="https://twitter.com/JoaoVictor_AC/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**João Victor Dias**\
-Topics: Computer Vision, Keras, CNN, R, Data Science path\
-https://twitter.com/JoaoVictor_AC
-
-<img src="https://twitter.com/sseraphini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Sibelius Seraphini**\
-Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
-https://twitter.com/sseraphini
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.=original" height="70px" width="70px" align="left" alt="" />
 
 **Fernando Daciuk**\
 Topics: React, JavaScript\

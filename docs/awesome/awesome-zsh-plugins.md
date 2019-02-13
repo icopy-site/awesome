@@ -16,7 +16,61 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
 
+- [Frameworks](#frameworks)
+  - [alf](#alf)
+  - [ansible-role-zsh](#ansible-role-zsh)
+  - [ant-zsh](#ant-zsh)
+  - [antibody](#antibody)
+  - [antigen-hs](#antigen-hs)
+  - [antigen](#antigen)
+  - [ax-zsh](#ax-zsh)
+  - [dotzsh](#dotzsh)
+  - [fresh](#fresh)
+  - [oh-my-zsh](#oh-my-zsh)
+  - [prezto](#prezto)
+  - [pumice](#pumice)
+  - [Toasty](#toasty)
+  - [zapack](#zapack)
+  - [zeesh](#zeesh)
+  - [zgem](#zgem)
+  - [zgen](#zgen)
+  - [zilsh](#zilsh)
+  - [zim](#zim)
+  - [zit](#zit)
+  - [zoppo](#zoppo)
+  - [zpacker](#zpacker)
+  - [zplug](#zplug)
+  - [zplugin](#zplugin)
+  - [ZPM](#zpm)
+  - [ZR](#zr)
+  - [zshing](#zshing)
+  - [ztanesh](#ztanesh)
+  - [zulu](#zulu)
+- [Tutorials](#tutorials)
+  - [Generic ZSH](#generic-zsh)
+  - [Antigen](#antigen)
+  - [Oh-My-Zsh](#oh-my-zsh)
+  - [Prezto](#prezto)
+  - [Zgen](#zgen)
+- [Plugins](#plugins)
+- [Even more completions](#even-more-completions)
+- [Themes](#themes)
+  - [Fonts](#fonts)
+- [Installation](#installation)
+  - [Antibody](#antibody)
+  - [Antigen](#antigen-1)
+  - [dotzsh](#dotzsh-1)
+  - [Oh-My-Zsh](#oh-my-zsh-1)
+  - [Prezto](#prezto-1)
+  - [Zgen](#zgen-1)
+  - [zplug](#zplug-1)
+- [Writing New Plugins](#writing-new-plugins)
+- [Other Resources](#other-resources)
+  - [ZSH Tools](#zsh-tools)
+  - [Other Useful Lists](#other-useful-lists)
+  - [Other References](#other-references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -316,6 +370,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [explain-shell](https://github.com/gmatheu/shell-plugins) - Opens commands on [explainshell.com](https://explainshell.com).
 * [extend-history](https://github.com/xav-b/zsh-extend-history) - Extends command history by adding exit code for each command in the history.
 * [fancy-ctrl-z](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
+* [fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips](https://github.com/djui/alias-tips)
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Optimized an improved `zsh-users/zsh-syntax-highlighting` – better response times, `zed/vared` can edit `10 kB` functions.
 * [favorite-directories](https://github.com/seletskiy/zsh-favorite-directories) - Fast jumps to your favorite directories.
 * [firebase](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/rmrs/firebase-zsh) - Add an indicator in the prompt that you're in a directory with a `firebase.json` file (https://github.com/unixorn/awesome-zsh-plugins/blob/master/aka "firebase project").
@@ -591,6 +646,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [zero](https://github.com/arlimus/zero.zsh) - Zero is both a plugin and a theme. See the github page for installation details.
 * [zgdbm](https://github.com/zdharma/zgdbm) - Adds GDBM as a plugin.
 * [zgen-compinit-tweak](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make compinit run only once after all loading is done by [zgen](https://github.com/tarjoilija/zgen).
+* [zhooks](https://github.com/agkozak/zhooks) - Displays the contents of any ZSH hook arrays and the code of any hook functions that have been defined. Useful for debugging.
 * [zimfw-extras](https://github.com/PatTheMav/zimfw-extras) - Custom extras for zimfw, packaged into a zimfw plugin.
 * [zinfo_line](https://github.com/kmhjs/zinfo_line) - Makes more information available to ZSH themes.
 * [zjump](https://github.com/qoomon/zjump) - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.
@@ -600,6 +656,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [zshrc](https://github.com/freak2geek/zshrc) - Load local `.zshrc` files from your project scopes.
 * [zsnapac](https://github.com/johnramsden/zsh-zsnapac) - Plugin for taking ZFS pre/post upgrade snapshots on Arch Linux.
 * [zsnapshot](https://github.com/psprint/zsnapshot) - Adds command to dump the current ZSH state into a file, for later restoration by sourcing the snapshot file.
+* [Ztrace](https://github.com/psprint/ztrace) - Catches output of commands, allows to reuse that output, glue it with history content.
 * [ZUI](https://github.com/zdharma/zui/) - ZSH User Interface library – CGI+DHTML-like rapid TUI application development with ZSH.
 
 ## Completions
@@ -665,6 +722,7 @@ These plugins add tab completions without adding extra functions or aliases.
 * [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/AlexGascon)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/AlexGascon/pipenv-oh-my-zsh) - Enables aliases for the most common pipenv commands.
 * [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/gangleri)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/gangleri/pipenv) - Completions for `pipenv`.
 * [pipenv (https://github.com/unixorn/awesome-zsh-plugins/blob/master/owenstranathan)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/https://github.com/owenstranathan/pipenv.zsh) - automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
+* [pks-autocomplete](https://github.com/tybritten/pks-zsh-autocomplete-plugin) - Adds completions for Pivotal's [PKS CLI](https://network.pivotal.io/products/pivotal-container-service)
 * [racket completion](https://github.com/racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
 * [rake-completion.zshplugin](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
 * [rancher-zsh-completion](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
@@ -691,6 +749,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [abbr](https://github.com/PhilsLab/abbr-zsh-theme) - Displays an abbreviated version of the current directory path, shows the Python virtualenv, Rust version, `git` status, and the exit code of last command. Works well on dark backgrounds by default but colors can be easily customized.
 * [absolute](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with git status, node version and the exit code from the last command.
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires a Powerline-compatible font.
+* [af-magic-mod](https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme) - af-magic-mod theme.
 * [aflah-bhari](https://github.com/AflahB/aflah-bhari-zsh-theme) - Modified version of the [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) theme in oh-my-zsh.
 * [aftermath](https://github.com/schanur/aftermath) - Get a nice summary line after each command you run on your shell.
 * [agitnoster](https://github.com/dbestevez/agitnoster-theme) - Based on [agnoster theme](https://gist.github.com/3712874) included in [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) and [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt). Shows detailed information about `git` status.
@@ -1107,52 +1166,6 @@ Most of these plugins can be installed by adding `zgen load githubuser/reponame`
 ### [zplug](https://github.com/zplug/zplug)
 
 Most of these plugins can be installed by adding `zplug "githubuser/reponame"` to your `.zshrc` file.
-
-## Writing New Plugins
-
-I've documented some recommendations for writing a new plugin [here](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins.md).
-
-## Other Resources
-
-### ZSH Tools
-
-* [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger
-* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
-
-### Other Useful Lists
-
-* [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment
-* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
-* [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
-
-Find other useful awesome-* lists at the [awesome collection](https://github.com/sindresorhus/awesome)
-
-### Other References
-
-The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.g `zplug "githubuser/reponame"` to your `.zshrc` file.
-
-## Writing New Plugins
-
-I've documented some recommendations for writing a new plugin [here](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins.md).
-
-## Other Resources
-
-### ZSH Tools
-
-* [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger
-* [zunit](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
-
-### Other Useful Lists
-
-* [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment
-* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
-* [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
-
-Find other useful awesome-* lists at the [awesome collection](https://github.com/sindresorhus/awesome)
-
-### Other References
-
-The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.g `zplug "githubuser/reponame"` to your `.zshrc` file.
 
 ## Writing New Plugins
 

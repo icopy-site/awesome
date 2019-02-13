@@ -10,7 +10,19 @@ This is intended to be an *incomplete* list of resources about visual regression
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
+## Contents
 
+- [General information](#general-information)
+- [Browser automation](#browser-automation)
+- [Tools and frameworks](#tools-and-frameworks)
+- [Online services](#online-services)
+- [Blog posts](#blog-posts)
+- [Slideshows, talks and videos](#slideshows-talks-and-videos)
+- [Deprecated](#deprecated)
+- [Miscellaneous](#Miscellaneous)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
 
 ## General information
 
@@ -143,6 +155,4 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 [![CC-BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).ns.org/licenses/by-sa/4.0/).
-License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).ns.org/licenses/by-sa/4.0/).
 License holders are [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).

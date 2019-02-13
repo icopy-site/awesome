@@ -3,6 +3,37 @@ A curated list of awesome JSON libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+* [Awesome JSON](#awesome-json)
+  * [Applications](#applications)
+  * [Binary Serialization](#binary-serialization)
+  * [Browser Extensions](#browser-extensions)
+  * [Command-line tools](#command-line-tools)
+  * [Databases](#databases)
+  * [Datasets](#datasets)
+  * [Data modeling](#data-modeling)
+  * [Data generation](#data-generation)
+  * [Differencing](#differencing)
+  * [Format Extensions](#format-extensions)
+  * [Frontend components](#frontend-components)
+  * [Libraries](#libraries)
+  * [Linters](#linters)
+  * [Online tools](#online-tools)
+  * [Schema Specifications](#schema-specifications)
+  * [Services](#services)
+  * [Supersets](#supersets)
+  * [Related formats](#related-formats)
+  * [Resources](#resources)
+  * [Templates](#templates)
+  * [Testing](#testing)
+  * [Text Editor Plugins](#text-editor-plugins)
+  * [Transformations](#transformations)
+  * [Tutorials](#tutorials)
+  * [Queries](#queries)
+  * [JSON Schema Frontend components](#json-schema-frontend-components)
+  * [JSON Schema Tools](#json-schema-tools)
+  * [JSON Schema Resources](#json-schema-resources)
+  * [JSON Schema Validators](#json-schema-validators)
+  * [Contribute](#contribute)
 
 ## Applications
 **OS X**
@@ -358,34 +389,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
-
-## Contribute
-Contributions welcome! Read the [contribution guidelines](https://github.com/burningtree/awesome-json/blob/master/CONTRIBUTING.md) first.
-
-## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)b.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
-* [jjv](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
-* [request-validator](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
-* [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
-* [ajv](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
-
-
-**PHP**
-* [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
-* [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
-
-**Python**
-* [jsonschema](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
-* [JSON Schema Toolkit](https://github.com/burningtree/awesome-json/blob/master/https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (https://github.com/burningtree/awesome-json/blob/master/recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
-
-**Ruby**
-* [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
-
-## Contribute
-Contributions welcome! Read the [contribution guidelines](https://github.com/burningtree/awesome-json/blob/master/CONTRIBUTING.md) first.
-
-## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)ps://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/burningtree/awesome-json/blob/master/CONTRIBUTING.md) first.

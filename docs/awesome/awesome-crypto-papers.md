@@ -14,7 +14,23 @@ It is aimed at people who are using cryptography in higher-level security system
 
 It will be extended gradually as I find something of "must-have" value. Pull requests are very welcome.
 
+## Contents
 
+* [Introducing people to data security and cryptography](#introducing-people-to-data-security-and-cryptography).
+  * [Simple: cryptography for non-engineers](#simple-cryptography-for-non-engineers).
+  * [Brief engineer-oriented introductions](#brief-engineer-oriented-introductions).
+* [Specific topics](#specific-topcs).
+  * [Hashing](#hashing) - important bits on modern and classic hashes.
+  * [Secret key cryptography](#secret-key-cryptography) - all things symmetric encryption.
+  * [Cryptoanalysis](#cryptoanalysis) - attacking cryptosystems.
+  * [Public key cryptography: General and DLP](#public-key-cryptography-general-and-dlp) - RSA, DH and other classic techniques.
+  * [Public key cryptography: Elliptic-curve crypto](#public-key-cryptography-elliptic-curve-crypto) - ECC, with focus on pratcial cryptosystems.
+  * [Zero Knowledge Proofs](#zero-knowledge-proofs) - Proofs of knowledge and other non-revealing cryptosystems.
+  * [Math](#math) - useful math materials in cryptographic context.
+  * [Post-quantum cryptography](#post-quantum-cryptography) - Cryptography in post-quantum period.
+* [Books](#books).
+* [Lectures and educational courses](#lectures-and-educational-courses).
+* [Online crypto challenges](#online-crypto-challenges).
 
 ## The list
 
@@ -163,9 +179,5 @@ Not exactly papers, but crypto challenges are awesome educational material.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.tps://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.tps://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, author has waived all copyright and related or neighboring rights to this work.

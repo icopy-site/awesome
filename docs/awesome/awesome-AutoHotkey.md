@@ -8,9 +8,57 @@ Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
+* [Awesome AutoHotkey](#awesome-autohotkey)
+ * [Libraries](#libraries)
+    * [Clipboard](#clipboard)
+    * [Console](#console)
+    * [Data format](#libraries-data-format)
+    * [Data Structures and Algorithms](#libraries-data-structs-algorithms)
+    * [Database](#database)
+    * [Filesystem](#filesystem)
+    * [Graphics](#libraries-graphics)
+    * [GUI](#libraries-gui)
+    * [Hotkeys](#hotkeys)
+    * [Joystick](#joystick)
+    * [Maths](#maths)
+    * [Memory](#memory)
+    * [Networking](#networking)
     * [Plotting (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/graphs, bars, charts and etc)](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/#libraries-plotting)
+    * [System](#libraries-system)
+    * [Text manipulation](#text-manipulation)
+  * [Library Distributions](#library-distributions)
+  * [Scripts](#scripts)
+    * [Clipboard](#scripts-clipboard)
+    * [Filesystem](#scripts-filesystem)
+    * [Graphics](#scripts-graphics)
+    * [GUI](#scripts-gui)
+    * [Maths](#scripts-maths)
+    * [Mouse](#mouse)
+    * [Typing](#typing)
+    * [Window management](#window-management)
+    * [Games](#games)
+  * [Tools](#tools)
+    * [Interpreter](#interpreter)
+    * [Decompilers](#decompilers)
+    * [Debugging](#debugging)
+    * [Integrated Development Environment](#integrated-development-environment)
+    * [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
+    * [Script Recorders and Writers](#script-recorders-and-writers)
+    * [Web Syntax Highlighters](#web-syntax-highlighters)
+    * [Others](#tools-others)
     * [(https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Use in) other programming languages](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/#use-in-other-programming-languages)
+  * [Tutorials](#tutorials)
+    * [Classes](#tutorials-classes)
+    * [COM](#tutorials-com)
+    * [GUI](#tutorials-gui)
     * [MCode (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/machine code)](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/#tutorials-mcode)
+  * [Resources](#resources)
+    * [Documentation](#documentation)
+    * [Books](#books)
+    * [Quick-start guides](#quick-start-guides)
+    * [Websites](#websites)
+  * [Forks](#forks)
+    * [AutoHotkey_H](#autohotkey_h)
 
 <hr/>
 
@@ -115,6 +163,7 @@ Development state:
 * [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK
 
 ### <a name="libraries-plotting"></a>Plotting (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/graphs, bars, charts and etc)
+* [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - by SKAN - Function library for graphically plotting real time data.
 * [SVGraph](https://github.com/CapnOdin/SVGraph) - by CapnOdin - SVGraph bringing graphing and charting to AutoHotkey. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
@@ -201,6 +250,7 @@ Development state:
 
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
+* [Print Array](https://autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
 * [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
 
 ### Decompilers
@@ -244,6 +294,7 @@ Development state:
 * [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
 ### (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Use in) other programming languages
+* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/CLR, C#, VB)](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
 * [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
 * [Exo-Javascript](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Interactive Command-line) [link](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://github.com/joedf/Exo-CLI.ahk).
@@ -291,38 +342,6 @@ Development state:
 
 ### AutoHotkey_H
 * [AutoHotkey_H](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread(https://github.com/ahkscript/awesome-AutoHotkey/blob/master/) function or AutoHotkey.dll. [Full list of changes](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
-
-## License
-
-[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).websites, documentation, guides, videos and articles related to AutoHotkey.*
-
-### Documentation
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
- 
-### Books
-* [ahkbook](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/not completed yet). Forum thread: [link](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
-
-### Quick-start guides
-* [Official quick start tutorial](https://autohotkey.com/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=27).
-
-### Websites
-* [ahkscript.org](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/http://ahkscript.org/) - Official website of [AutoHotkey Foundation LLC](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/http://ahkscript.org/foundation/), a non-profit LLC (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Limited Liability Company) founded for this software. Certificate of Organization (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/pdf) [link](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/http://ahkscript.org/certificate_of_organization.pdf).
-* [autohotkey.com](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://autohotkey.com/) - Official website of the AutoHotkey scripting language (https://github.com/ahkscript/awesome-AutoHotkey/blob/master/downloads, forum, documentation).
-* [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
-
-## Forks
-*Forks of AHK which add new features to the core language*
-
-### AutoHotkey_H
-* [AutoHotkey_H](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread(https://github.com/ahkscript/awesome-AutoHotkey/blob/master/) function or AutoHotkey.dll. [Full list of changes](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
-
-## License
-
-[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).Hotkey/blob/master/https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
 
 ## License
 

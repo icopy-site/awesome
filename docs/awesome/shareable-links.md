@@ -8,7 +8,35 @@
 
 Like `shareable-links`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
 
+#### Contents
 
+- [Buffer](#buffer)
+- [Delicious](#delicious)
+- [Digg](#digg)
+- [Echo JS](#echo-js)
+- [Email](#email)
+- [Facebook](#facebook)
+- [Flattr](#flattr)
+- [Flipboard](#flipboard)
+- [Google Bookmarks](#google-bookmarks)
+- [Google Plus](#google-plus)
+- [Hacker News](#hacker-news)
+- [Instapaper](#instapaper)
+- [Line](#line)
+- [LinkedIn](#linkedin)
+- [Pinterest](#pinterest)
+- [Pocket](#pocket)
+- [Reddit](#reddit)
+- [Renren](#renren)
+- [Sina Weibo](#sina-weibo)
+- [StumbleUpon](#stumbleupon)
+- [Telegram](#telegram)
+- [Tumblr](#tumblr)
+- [Twitter](#twitter)
+- [Viber](#viber)
+- [Vkontakte](#vkontakte)
+- [WhatsApp](#whatsapp)
+- [Xing](#xing)
 
 ## Buffer
 - URL: https://buffer.com/add
@@ -261,9 +289,5 @@ https://www.xing.com/spi/shares/new?url=https://example.com
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.rors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.rors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.

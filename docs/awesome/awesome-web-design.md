@@ -3,7 +3,20 @@
 
 **Check out my [website](http://nicolesaidy.com) & [blog](http://blog.nicolesaidy.com). ✨**
 
+## Contents
 
+- [Blog & News](#blog--news)
+- [Inspiration](#inspiration)
+- [Colors](#colors)
+- [Typography](#typography)
+- [Icons](#icons)
+- [Images](#images)
+- [Guidelines](#guidelines)
+- [Design Tools](#design-tools)
+- [Prototype Tools](#prototype-tools)
+- [Tutorials](#tutorials)
+- [Productivity](#productivity)
+- [Slack Teams](#slack-teams)
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -122,4 +135,4 @@
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)p://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)p://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

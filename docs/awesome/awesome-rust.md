@@ -4,7 +4,92 @@ A curated list of Rust code and resources.
 
 If you want to contribute, please read [this](https://github.com/rust-unofficial/awesome-rust/blob/master/CONTRIBUTING.md).
 
+## Table of contents
 
+- [Applications](#applications)
+  - [Audio](#audio)
+  - [Cryptocurrencies](#cryptocurrencies)
+  - [Database](#database)
+  - [Emulators](#emulators)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Industrial automation](#industrial-automation)
+  - [Operating systems](#operating-systems)
+  - [Productivity](#productivity)
+  - [Security tools](#security-tools)
+  - [System tools](#system-tools)
+  - [Text editors](#text-editors)
+  - [Text processing](#text-processing)
+  - [Utilities](#utilities)
+  - [Video](#video)
+  - [Virtualization](#virtualization)
+  - [Window managers](#window-managers)
+  - [Web](#web)
+  - [Web Servers](#web-servers)
+- [Development tools](#development-tools)
+  - [Build system](#build-system)
+  - [Debugging](#debugging)
+  - [Deployment](#deployment)
+  - [Embedded](#embedded)
+  - [FFI](#ffi)
+  - [IDEs](#ides)
+  - [Pattern recognition](#pattern-recognition)
+  - [Profiling](#profiling)
+  - [Static analysis](#static-analysis)
+  - [Testing](#testing)
+  - [Transpiling](#transpiling)
+- [Services](#services)
+- [Libraries](#libraries)
+  - [Artificial Intelligence](#artificial-intelligence)
+      - [Genetic algorithms](#genetic-algorithms)
+      - [Machine learning](#machine-learning)
+  - [Astronomy](#astronomy)
+  - [Asynchronous](#asynchronous)
+  - [Audio](#audio-1)
+  - [Authentication](#authentication)
+  - [Automotive](#automotive)
+  - [Bioinformatics](#bioinformatics)
+  - [Caching](#caching)
+  - [Cloud](#cloud)
+  - [Command-line](#command-line)
+  - [Compression](#compression)
+  - [Computation](#computation)
+  - [Concurrency](#concurrency)
+  - [Configuration](#configuration)
+  - [Cryptography](#cryptography)
+  - [Database](#database-1)
+  - [Data processing](#data-processing)
+  - [Data structures](#data-structures)
+  - [Data visualization](#data-visualization)
+  - [Date and time](#date-and-time)
+  - [Distributed systems](#distributed-systems)
+  - [Email](#email)
+  - [Encoding](#encoding)
+  - [Filesystem](#filesystem)
+  - [Game development](#game-development)
+  - [Geospatial](#geospatial)
+  - [Graphics](#graphics-1)
+  - [Graph processing](#graph-processing)
+  - [GUI](#gui)
+  - [Image processing](#image-processing)
+  - [Industrial automation](#industrial-automation)
+  - [Language specification](#language-specification)
+  - [Logging](#logging)
+  - [Macro](#macro)
+  - [Markup language](#markup-language)
+  - [Mobile](#mobile)
+  - [Network programming](#network-programming)
+  - [Parser](#parser)
+  - [Platform specific](#platform-specific)
+  - [Scripting](#scripting)
+  - [Template engine](#template-engine)
+  - [Text processing](#text-processing-1)
+  - [Text search](#text-search)
+  - [Virtualization](#virtualization-1)
+  - [Web programming](#web-programming)
+  - [Peripherals](#peripherals)
+- [Resources](#resources)
+- [License](#license)
 
 ## Applications
 
@@ -1001,6 +1086,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 * HTTP
   * [pop-os/parallel-getter](https://github.com/pop-os/parallel-getter) — Download a file with parallel GET requests to maximize bandwidth usage.
+  * [pop-os/url-crawler](https://github.com/pop-os/url-crawler) — A configurable parallel web crawler, designed to crawl a website for content.
   * [pop-os/url-scraper](https://github.com/pop-os/url-scraper) — Scrape URLs from HTML pages
 * FTP
   * [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) — an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-ftp)
@@ -1184,36 +1270,6 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
   * [Rust in Motion](https://github.com/rust-unofficial/awesome-rust/blob/master/https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/rust-unofficial/awesome-rust/blob/master/https://github.com/carols10cents) and [Jake Goulding](https://github.com/rust-unofficial/awesome-rust/blob/master/https://github.com/shepmaster) (https://github.com/rust-unofficial/awesome-rust/blob/master/paid)
   * [rust-learning](https://github.com/ctjhoa/rust-learning) — a collection of useful resources to learn Rust
   * [Rustlings](https://github.com/rustlings/rustlings) — small exercises to get you used to reading and writing Rust code
-  * [stdx](https://github.com/brson/stdx) — Learn these crates first as an extension to std
-  * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
-  * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
-* Podcasts
-  * [New Rustacean](https://newrustacean.com) — a podcast about learning Rust
-  * [Rusty Spike](https://rusty-spike.blubrry.net) - news on all things Rust
-* [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
-* [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
-* [Rust Guidelines](http://aturon.github.io/)
-* [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
-* [Rust Subreddit](https://github.com/rust-unofficial/awesome-rust/blob/master/https://www.reddit.com/r/rust/) — a subreddit(https://github.com/rust-unofficial/awesome-rust/blob/master/forum) where rust related questions, articles and resources are posted and discussed
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)ustlings) — small exercises to get you used to reading and writing Rust code
-  * [stdx](https://github.com/brson/stdx) — Learn these crates first as an extension to std
-  * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
-  * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
-* Podcasts
-  * [New Rustacean](https://newrustacean.com) — a podcast about learning Rust
-  * [Rusty Spike](https://rusty-spike.blubrry.net) - news on all things Rust
-* [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
-* [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
-* [Rust Guidelines](http://aturon.github.io/)
-* [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
-* [Rust Subreddit](https://github.com/rust-unofficial/awesome-rust/blob/master/https://www.reddit.com/r/rust/) — a subreddit(https://github.com/rust-unofficial/awesome-rust/blob/master/forum) where rust related questions, articles and resources are posted and discussed
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)ustlings) — small exercises to get you used to reading and writing Rust code
   * [stdx](https://github.com/brson/stdx) — Learn these crates first as an extension to std
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)

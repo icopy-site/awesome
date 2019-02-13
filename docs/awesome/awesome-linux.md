@@ -10,7 +10,49 @@
 
 ---
 
+## Table of Content
 
+* [Distributions](#distributions)
+  * [Beginners](#beginners)
+    * [elementary OS](#elementary-os)
+    * [Fedora](#fedora)
+    * [Linux Mint](#linux-mint)
+    * [Ubuntu](#ubuntu)
+  * [Intermediate](#intermediate)
+    * [CentOS](#centos)
+    * [Debian GNU/Linux](#debian-gnulinux)
+    * [Mageia](#mageia)
+    * [Manjaro](#manjaro)
+    * [openSUSE](#opensuse)
+  * [Advanced](#advanced)
+    * [Arch Linux](#arch-linux)
+  * [Special Purpose](#special-purpose)
+    * [CoreOS](#coreos)
+    * [Kali Linux](#kali-linux)
+    * [Puppy Linux](#puppy-linux)
+    * [Ubuntu Studio](#ubuntu-studio)
+    * [Tails](#tails)
+* [Learning Resources](#learning-resources)
+  * [Books](#books)
+  * [Courses](#courses)
+* [X Desktop Environments](#x-desktop-environments)
+  * [GNOME](#gnome)
+  * [KDE](#kde)
+  * [Xfce](#xfce)
+  * [LXDE](#lxde)
+  * [Other Desktop Environments](#other-desktop-environments)
+* [X Windows Managers](#x-windows-managers)
+* [Applications](#applications)
+  * [GUI-based Applications](#gui-based-applications)
+    * [GNOME-based](#gnome-based)
+    * [Pantheon-based](#pantheon-based)
+    * [KDE-based](#kde-based)
+    * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
+    * [Third-party clients for online services](#third-party-clients-for-online-services)
+    * [Package management and creation tools](#distro-based-package-management-tools)
+  * [Console-based Applications and Tools](#console-based-applications-and-tools)
+* [Useful Websites](#useful-websites)
+* [License](#license)
 
 ## Distributions
 
@@ -380,22 +422,6 @@ Although its design is outdated, Linux.org is (https://github.com/aleksandar-tod
 > Opensource.com is an online publication focused on how open source is applied to different areas including business, education, government, health, law and other disciplines of life.
 
 > Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
-
-#### [Linux.die](https://linux.die.net/)
-
-> Linux.die is a resource with documentation, tutorials, books, etc in Linux.
-
-## License
-
-This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.ackle the business, social, environmental, and technological challenges facing us today.
-
-#### [Linux.die](https://linux.die.net/)
-
-> Linux.die is a resource with documentation, tutorials, books, etc in Linux.
-
-## License
-
-This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.ackle the business, social, environmental, and technological challenges facing us today.
 
 #### [Linux.die](https://linux.die.net/)
 

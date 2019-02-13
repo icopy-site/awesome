@@ -7,7 +7,17 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
 
+## Contents
 
+- [Articles](#articles)
+- [Tools](#tools)
+- [Packages](#packages)
+- [Clients](#clients)
+- [Tips](#tips)
+- [FAQ](#faq)
+- [Community](#community)
+- [Documentation](#documentation)
+- [Support](#support)
 
 
 ## Articles
@@ -456,34 +466,6 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [package.json](https://docs.npmjs.com/files/package.json)
 - [npm run script](https://docs.npmjs.com/cli/run-script)
 - [Stats API](https://github.com/npm/download-counts)
-
-
-## Support
-
-- [npm.community](https://npm.community/c/support)
-- [Twitter](https://twitter.com/npm_support)
-- [Contact form](https://www.npmjs.com/support)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
-
-
-## Support
-
-- [npm.community](https://npm.community/c/support)
-- [Twitter](https://twitter.com/npm_support)
-- [Contact form](https://www.npmjs.com/support)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
 
 ## Support

@@ -18,7 +18,107 @@ When you find something helpful in here, you could buy me a coffee. I spend a lo
 Patreon: https://www.patreon.com/herrbischoff
 
 
+## Contents
 
+- [Appearance](#appearance)
+    - [Transparency](#transparency)
+    - [Wallpaper](#wallpaper)
+- [Applications](#applications)
+    - [App Store](#app-store)
+    - [Apple Remote Desktop](#apple-remote-desktop)
+    - [Contacts](#contacts)
+    - [Google](#google)
+    - [iTunes](#itunes)
+    - [Mail](#mail)
+    - [Safari](#safari)
+    - [Sketch](#sketch)
+    - [Skim](#skim)
+    - [Terminal](#terminal)
+    - [TextEdit](#textedit)
+    - [Visual Studio Code](#visual-studio-code)
+- [Backup](#backup)
+    - [Time Machine](#time-machine)
+- [Developer](#developer)
+    - [Vim](#vim)
+    - [Xcode](#xcode)
+- [Dock](#dock)
+- [Documents](#documents)
+- [Files, Disks and Volumes](#files-disks-and-volumes)
+    - [APFS](#apfs)
+    - [Disk Images](#disk-images)
+- [Finder](#finder)
+    - [Desktop](#desktop)
+    - [Files and Folders](#files-and-folders)
+    - [Layout](#layout)
+    - [Metadata Files](#metadata-files)
+    - [Opening Things](#opening-things)
+- [Fonts](#fonts)
+- [Functions](#functions)
+- [Hardware](#hardware)
+    - [Bluetooth](#bluetooth)
+    - [Harddisks](#harddisks)
+    - [Hardware Information](#hardware-information)
+    - [Infrared Receiver](#infrared-receiver)
+    - [Power Management](#power-management)
+- [Input Devices](#input-devices)
+    - [Keyboard](#keyboard)
+- [Launchpad](#launchpad)
+- [Media](#media)
+    - [Audio](#audio)
+    - [Video](#video)
+- [Networking](#networking)
+    - [Bonjour](#bonjour)
+    - [DHCP](#dhcp)
+    - [DNS](#dns)
+    - [Hostname](#hostname)
+    - [Network Preferences](#network-preferences)
+    - [Networking Tools](#networking-tools)
+    - [SSH](#ssh)
+    - [TCP/IP](#tcpip)
+    - [TFTP](#tftp)
+    - [Wi-Fi](#wi-fi)
+- [Package Managers](#package-managers)
+- [Printing](#printing)
+- [Security](#security)
+    - [Application Firewall](#application-firewall)
+    - [Gatekeeper](#gatekeeper)
+    - [Passwords](#passwords)
+    - [Physical Access](#physical-access)
+    - [Wiping Data](#wiping-data)
+- [Search](#search)
+    - [Find](#find)
+    - [Locate](#locate)
+- [System](#system)
+    - [AirDrop](#airdrop)
+    - [AppleScript](#applescript)
+    - [Basics](#basics)
+    - [Clipboard](#clipboard)
+	- [Date and Time](#date-and-time)
+    - [FileVault](#filevault)
+    - [Information/Reports](#informationreports)
+    - [Install OS](#install-os)
+    - [Kernel Extensions](#kernel-extensions)
+    - [LaunchAgents](#launchagents)
+    - [LaunchServices](#launchservices)
+    - [Login Window](#login-window)
+    - [Memory Management](#memory-management)
+    - [Notification Center](#notification-center)
+    - [QuickLook](#quicklook)
+    - [Remote Apple Events](#remote-apple-events)
+    - [Root User](#root-user)
+    - [Safe Mode Boot](#safe-mode-boot)
+    - [Screenshots](#screenshots)
+    - [Software Installation](#software-installation)
+    - [Software Update](#software-update)
+    - [Software Version](#software-version)
+    - [Spotlight](#spotlight)
+    - [System Integrity Protection](#system-integrity-protection)
+- [Terminal](#terminal)
+    - [Alternative Terminals](#alternative-terminals)
+    - [Shells](#shells)
+    - [Terminal Fonts](#terminal-fonts)
+- [Glossary](#glossary)
+    - [Mac OS X, OS X, and macOS Version Information](#mac-os-x-os-x-and-macos-version-information)
 
 
 ## Appearance
@@ -55,6 +155,7 @@ sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db "update data set v
 
 ```bash
 # Via find
+find /Applications -path '*Contents/_MASReceipt/receipt' -maxdepth 4 -print |\sed 's#.app/Contents/_MASReceipt/receipt#.app#g; s#/Applications/##'
 
 # Via Spotlight
 mdfind kMDItemAppStoreHasReceipt=1
@@ -569,6 +670,7 @@ mkdir ~/mnt
 
 ### Disk Images
 
+#### Create Disk Image From Folder Contents
 ```bash
 hdiutil create -volname "Volume Name" -srcfolder /path/to/folder -ov diskimage.dmg
 ```
@@ -875,10 +977,12 @@ atsutil server -ping
 #### Get SF Mono Fonts
 You need to download and install Xcode 8 beta for this to work. Afterwards they should be available in all applications.
 ```bash
+cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/Fonts/SFMono-* ~/Library/Fonts
 ```
 
 From Sierra onward, they are included in Terminal.app.
 ```bash
+cp -v /Applications/Utilities/Terminal.app/Contents/Resources/Fonts/SFMono-* ~/Library/Fonts
 ```
 
 
@@ -1524,6 +1628,7 @@ cat whatever.txt | pbcopy
 pbpaste | textutil -convert txt -stdin -stdout -encoding 30 | pbcopy
 ```
 
+#### Convert Tabs to Spaces for Clipboard Content
 ```bash
 pbpaste | expand | pbcopy
 ```
@@ -1533,6 +1638,7 @@ pbpaste | expand | pbcopy
 pbpaste > whatever.txt
 ```
 
+#### Sort and Strip Duplicate Lines from Clipboard Content
 ```bash
 pbpaste | sort | uniq | pbcopy
 ```
@@ -1613,6 +1719,7 @@ Please see [this file](https://github.com/herrbischoff/awesome-macos-command-lin
 ### LaunchServices
 
 #### Rebuild LaunchServices Database
+To be independent of OS X version, this relies on `locate` to find `lsregister`. If you do not have your `locate` database built yet, [do it](#build-locate-database).
 ```bash
 sudo $(https://github.com/herrbischoff/awesome-macos-command-line/blob/master/locate lsregister) -kill -seed -r
 ```
@@ -1921,28 +2028,6 @@ Mac OS X 10.5              | Leopard            | October 26, 2007   | 10.5.8 (h
 Mac OS X 10.6              | Snow Leopard       | August 28, 2009    | 10.6.8 v1.1 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 25, 2011)
 Mac OS X 10.7              | Lion               | July 20, 2011      | 10.7.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 19, 2012)
 OS X 10.8                  | Mountain Lion      | July 25, 2012      | 10.8.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2013)
-OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
-OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
-OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)
-macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 19, 2017)
-macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 9, 2018)
-macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
-
-
-## License
-
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.      | Mountain Lion      | July 25, 2012      | 10.8.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/12F45) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/October 3, 2013)
-OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
-OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
-OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)
-macOS 10.12                | Sierra             | September 20, 2016 | 10.12.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/16G29) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 19, 2017)
-macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/17G65) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 9, 2018)
-macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/18A391) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 24, 2018)
-
-
-## License
-
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.f/awesome-macos-command-line/blob/master/October 3, 2013)
 OS X 10.9                  | Mavericks          | October 22, 2013   | 10.9.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/13F1112) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/September 18, 2014)
 OS X 10.10                 | Yosemite           | October 16, 2014   | 10.10.5 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/14F27) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/August 13, 2015)
 OS X 10.11                 | El Capitan         | September 30, 2015 | 10.11.6 (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/15G31) (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/July 18, 2016)

@@ -28,7 +28,26 @@
   <br /><br />
 </div>
 
+## Contents
 
+- [General](#general)
+- [Chats](#chats)
+- [Platforms](#platforms)
+- [JAMstack Sites Showcase](#jamstack-sites-showcase)
+- [Static Site Generators](#static-site-generators)
+- [CMS](#cms)
+- [API](#api)
+  - [Authentication](#authentication)
+  - [Comments](#comments)
+  - [Forms](#forms)
+  - [E-commerce](#e-commerce)
+  - [Search](#search)
+  - [Database](#database)
+  - [Automation](#automation)
+- [Serverless](#serverless)
+- [Videos](#videos)
+- [Tutorials / Articles](#tutorials--articles)
+- [Podcasts](#podcasts)
 
 ---
 
@@ -181,14 +200,6 @@
 ## Podcasts
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)://www.netlify.com/tags/podcast/)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/).com/tags/podcast/)
 
 ## License
 

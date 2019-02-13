@@ -9,13 +9,40 @@ A collection of tips to help take your CSS skills pro.
 > For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
+## Table of Contents
 
+* [Protips](#protips)
+* [Support](#support)
+* [Translations](#translations)
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/css-protips/blob/master/CONTRIBUTING.md)
 
 
 ## Protips
 
+1. [Use a CSS Reset](#use-a-css-reset)
+1. [Inherit `box-sizing`](#inherit-box-sizing)
+1. [Use `unset` Instead of Resetting All Properties](#use-unset-instead-of-resetting-all-properties)
 1. [Use `:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)` to Apply/Unapply Borders on Navigation](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation)
+1. [Add `line-height` to `body`](#add-line-height-to-body)
+1. [Set `:focus` for Form Elements](#set-focus-for-form-elements)
+1. [Vertically-Center Anything](#vertically-center-anything)
+1. [Comma-Separated Lists](#comma-separated-lists)
+1. [Select Items Using Negative `nth-child`](#select-items-using-negative-nth-child)
+1. [Use SVG for Icons](#use-svg-for-icons)
+1. [Use the "Lobotomized Owl" Selector](#use-the-lobotomized-owl-selector)
+1. [Use `max-height` for Pure CSS Sliders](#use-max-height-for-pure-css-sliders)
+1. [Equal-Width Table Cells](#equal-width-table-cells)
+1. [Get Rid of Margin Hacks With Flexbox](#get-rid-of-margin-hacks-with-flexbox)
+1. [Use Attribute Selectors with Empty Links](#use-attribute-selectors-with-empty-links)
+1. [Style "Default" Links](#style-default-links)
+1. [Consistent Vertical Rhythm](#consistent-vertical-rhythm)
+1. [Intrinsic Ratio Boxes](#intrinsic-ratio-boxes)
+1. [Style Broken Images](#style-broken-images)
+1. [Use `rem` for Global Sizing; Use `em` for Local Sizing](#use-rem-for-global-sizing-use-em-for-local-sizing)
+1. [Hide Autoplay Videos That Aren't Muted](#hide-autoplay-videos-that-arent-muted)
+1. [Use `:root` for Flexible Type](#use-root-for-flexible-type)
+1. [Set `font-size` on Form Elements for a Better Mobile Experience](#set-font-size-on-form-elements-for-a-better-mobile-experience)
+1. [Use Pointer Events to Control Mouse Events](#use-pointer-events-to-control-mouse-events)
 
 
 ### Use a CSS Reset
@@ -36,7 +63,9 @@ Now elements will be stripped of margins and padding, and `box-sizing` lets you 
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
+**Note:** If you follow the [Inherit `box-sizing`](#inherit-box-sizing) tip below you might opt to not include the `box-sizing` property in  your CSS reset.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Inherit `box-sizing`
@@ -57,6 +86,7 @@ html {
 
 This makes it easier to change `box-sizing` in plugins or other components that leverage other behavior.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `unset` Instead of Resetting All Properties
@@ -84,6 +114,7 @@ button {
 
 **Note:** the `all` shorthand isn't supported in IE11 and is currently under consideration for support in Edge. `unset` isn't supported in IE11.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `:not()` to Apply/Unapply Borders on Navigation
@@ -118,6 +149,7 @@ Sure, you can use `.nav li + li`, but with `:not()` the intent is very clear and
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Add `line-height` to `body`
@@ -134,6 +166,7 @@ This way textual elements can inherit from `body` easily.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/VjbdYd)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Set `:focus` for Form Elements
@@ -154,6 +187,7 @@ textarea:focus {
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/ePzoOP/)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Vertically-Center Anything
@@ -194,6 +228,7 @@ Want to center something else? Vertically, horizontally...anything, anytime, any
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Comma-Separated Lists
@@ -208,7 +243,9 @@ ul > li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:last-chi
 
 Use the `:not()` pseudo-class and no comma will be added to the last item.
 
+**Note:** This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn't work with CSS-generated content. Proceed with caution.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Select Items Using Negative `nth-child`
@@ -237,6 +274,7 @@ li:not(https://github.com/AllThingsSmitty/css-protips/blob/master/:nth-child(htt
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/WxjKZp)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use SVG for Icons
@@ -259,6 +297,7 @@ SVG scales well for all resolution types and is supported in all browsers [back 
 }
 ```
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use the "Lobotomized Owl" Selector
@@ -277,6 +316,7 @@ For more on the "lobotomized owl" selector, read [Heydon Pickering's post](http:
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `max-height` for Pure CSS Sliders
@@ -298,6 +338,7 @@ Implement CSS-only sliders using `max-height` with overflow hidden:
 
 The element expands to the `max-height` value on hover and the slider displays as a result of the overflow.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Equal-Width Table Cells
@@ -314,6 +355,7 @@ Pain-free table layouts.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/jALALm)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Get Rid of Margin Hacks With Flexbox
@@ -333,6 +375,7 @@ When working with column gutters you can get rid of `nth-`, `first-`, and `last-
 
 Now column gutters always appear evenly-spaced.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use Attribute Selectors with Empty Links
@@ -349,6 +392,7 @@ That's pretty convenient.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Style "Default" Links
@@ -364,6 +408,7 @@ a[href]:not(https://github.com/AllThingsSmitty/css-protips/blob/master/[class]) 
 
 Now links that are inserted via a CMS, which don't usually have a `class` attribute, will have a distinction without generically affecting the cascade.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Consistent Vertical Rhythm
@@ -378,6 +423,7 @@ Use a universal selector (https://github.com/AllThingsSmitty/css-protips/blob/ma
 
 Consistent vertical rhythm provides a visual aesthetic that makes content far more readable.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Intrinsic Ratio Boxes
@@ -405,6 +451,7 @@ Using 20% for padding makes the height of the box equal to 20% of its width. No 
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Style Broken Images
@@ -442,6 +489,7 @@ img::after {
 
 Learn more about styling for this pattern in [Ire Aderinokun](https://github.com/ireade/)'s [original post](http://bitsofco.de/styling-broken-images/).
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `rem` for Global Sizing; Use `em` for Local Sizing
@@ -472,6 +520,7 @@ aside .module {
 
 Now each module becomes compartmentalized and easier to style, more maintainable, and flexible.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Hide Autoplay Videos That Aren't Muted
@@ -486,6 +535,7 @@ video[autoplay]:not(https://github.com/AllThingsSmitty/css-protips/blob/master/[
 
 Once again, we're taking advantage of using the [`:not(https://github.com/AllThingsSmitty/css-protips/blob/master/)`](https://github.com/AllThingsSmitty/css-protips/blob/master/#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `:root` for Flexible Type
@@ -508,6 +558,7 @@ body {
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Set `font-size` on Form Elements for a Better Mobile Experience
@@ -525,6 +576,7 @@ textarea {
 
 :dancer:
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use Pointer Events to Control Mouse Events
@@ -540,12 +592,14 @@ textarea {
 
 It's that simple.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Translations
@@ -564,74 +618,4 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 * [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
-Now you can utilize the `root em` unit based on the value calculated by `:root`:
-
-```css
-body {
-  font: 1rem/1.6 sans-serif;
-}
-```
-
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
-
-
-
-### Set `font-size` on Form Elements for a Better Mobile Experience
-
-To avoid mobile browsers (https://github.com/AllThingsSmitty/css-protips/blob/master/iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
-
-```css
-input[type="text"],
-input[type="number"],
-select,
-textarea {
-  font-size: 16px;
-}
-```
-
-:dancer:
-
-
-
-### Use Pointer Events to Control Mouse Events
-
-[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) allow you to specifiy how the mouse interacts with the element it's touching. To disable the default pointer event on a button, for instance:
-
-```css
-.button-disabled {
-  opacity: .5;
-  pointer-events: none;
-}
-```
-
-It's that simple.
-
-
-
-## Support
-
-Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
-
-
-
-## Translations
-
-* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
-* [Deutsche](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
-* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
-* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
-* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
-* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
-* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
-* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
-* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
-* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
-* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
-* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
-* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+<sup>[back to table of contents](#table-of-contents)</sup>

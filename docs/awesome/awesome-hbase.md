@@ -6,8 +6,30 @@ A curated list of awesome HBase projects and resources.
 
 [HBase](http://hbase.apache.org) is a distributed, scalable, big data store.
 
+## Contents
 
+- [Projects](#projects)
+    - [Clients](#clients)
+    - [Cloud](#cloud)
+    - [Frameworks](#frameworks)
+        - [Datasets](#datasets)
+        - [Document](#document)
+        - [Entity/JPA](#entityjpa)
+        - [Geospatial](#geospatial)
+        - [Graph](#graph)
+        - [SQL/OLAP](#sqlolap)
+        - [Time Series](#time-series)
+    - [Infrastructure](#infrastructure)
+        - [Secondary Indices](#secondary-indices)
+        - [Transactions](#transactions)
+    - [Integrations](#integrations)
+    - [Tools](#tools)
+    - [Miscellaneous](#miscellaneous)
 
+- [Resources](#resources)
+    - [Books](#books)
+    - [Papers](#papers)
+    - [Community](#community)
 
     
 ## Projects
@@ -75,6 +97,7 @@ A curated list of awesome HBase projects and resources.
 #### Secondary Indices
 
 * [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
+* [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
 
@@ -138,6 +161,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Papers
 
+* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - The inspiration for HBase.
 * [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) - How Facebook deployed HBase to production.
 
 ### Community
@@ -153,9 +177,5 @@ A curated list of awesome HBase projects and resources.
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>mg src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>mg src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>

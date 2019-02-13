@@ -17,10 +17,48 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 <h1 align="center"><a href="https://github.com/agarrharr/awesome-cli-apps/issues/247">Looking for new maintainers</a></h1>
 
+## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Entertainment](#entertainment)
+  - [Music](#music)
+  - [Social Media](#social-media)
+  - [Video](#video)
+  - [Games](#games)
+- [Development](#development)
+  - [Text Editors](#text-editors)
+  - [Web Development](#web-development)
+  - [Mobile Development](#mobile-development)
+- [Devops](#devops)
+- [Database](#database)
+- [Productivity](#productivity)
+- [Utilities](#utilities)
+  - [macOS](#macos)
+- [Command Line Learning](#command-line-learning)
+- [Data Manipulation](#data-manipulation)
+- [Files and Directories](#files-and-directories)
+  - [File managers](#file-managers)
+  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
+  - [Files](#files)
+  - [Directory Listing](#directory-listing)
+  - [Directory Navigation](#directory-navigation)
+- [Terminal Utilities](#terminal-utilities)
+- [Version Control](#version-control)
+  - [Git](#git)
+  - [Changelogs](#changelogs)
+- [Images](#images)
+  - [Gif Creation](#gif-creation)
+  - [Image Conversion](#image-conversion)
+- [SVG](#svg)
+- [Text Manipulation](#text-manipulation)
+- [Screensavers](#screensavers)
+- [Graphics](#graphics)
+- [Other](#other)
+- [Other Awesome Lists](#other-awesome-lists)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -375,18 +413,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Other Awesome Lists
 
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work./github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work./github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
 
 ## License
 

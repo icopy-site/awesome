@@ -12,7 +12,29 @@
 
 Pull-Requests are welcomed.
 
+## Contents
 
+- [Patterns & Best Practices](#patterns--best-practices)
+  - [Map/Reduce](#mapreduce)
+  - [Joins](#joins)
+  - [Document Versioning](#document-versioning)
+- [Blogs](#blogs)
+- [Docs](#docs)
+- [Books](#books)
+- [Videos](#videos)
+- [Libraries](#libraries)
+- [Community](#community)
+  - [Mailing List](#mailing-list)
+  - [Companies](#companies)
+    - [Hosting](#hosting)
+  - [Related Projects](#related-projects)
+- [Misc/Technical](#misctechnical)
+  - [Attachments](#attachments)
+  - [Backups](#backups)
+  - [CouchApps](#couchapps)
+  - [Scaling](#scaling)
+- [Resource Lists](#resource-lists)
+- [License](#license)
 
 ## Patterns & Best Practices
 
@@ -156,4 +178,4 @@ Pull-Requests are welcomed.
 - [Old Wiki's Related Projects List](https://wiki.apache.org/couchdb/Related_Projects)
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -3,6 +3,34 @@
 A hand-picked bookmark collection of subjectively modern/interesting and ideally open-source libraries/tools for Xamarin Android/iOS/Windows/OSX
 
 
+## Contents
+- [General](#general)
+- [Architecture](#architecture)
+- [Async](#async)
+- [Charts](#charts)
+- [Cloud](#cloud)
+- [Database](#database)
+- [Fody](#fody)
+- [Framework](#framework)
+- [Game Engine](#game-engine)
+- [IO/Storage](#iostorage)
+- [IOC/DI](#iocdi)
+- [Internationalization](#internationalization)
+- [Layout](#layout)
+- [Media](#media)
+- [MVVM](#mvvm)
+- [Network](#network)
+- [Reactive](#reactive)
+- [Security](#security)
+- [Serialization](#serialization)
+- [TDD/BDD](#tddbdd)
+- [Tools](#tools)
+- [UI](#ui)
+- [Wearable](#wearable)
+- [Xamarin.Forms](#xamarinforms)
+- [XPlat APIs](#xplat-apis)
+- [Other lists](#other-lists)
+- [Websites](#websites)
 
 
 ## General
@@ -283,18 +311,6 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 - [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
-- [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-
-
-## License
-
-see [LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md)marin.
-- [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-
-
-## License
-
-see [LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md)marin.
 - [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
 
 

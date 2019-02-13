@@ -3,6 +3,7 @@
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
 <p align="center">
+<b><a href="#contents">Contents</a></b>
 ·
 <b><a href="#use">Use</a></b>
 ·
@@ -15,7 +16,37 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ![](https://davison.io/assets/img/awesome-gif-logo.gif)
 
+## Contents
 
+- [General Tools](#general-tools)
+- [Utilities](#utilities)
+- [Libraries](#libraries)
+	- [ActionScript](#actionscript)
+	- [C++](#c)
+	- [C#](#c-sharp)
+	- [Haxe](#haxe)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+	- [PHP](#php)
+	- [Objective-C](#objective-c)
+	- [Swift](#swift)
+- [GUI](#gui)
+- [Hosting](#hosting)
+- [Online Tools](#online-tools)
+- [Community](#community)
+- [Niche](#niche)
+- [Scripts](#scripts)
+	- [Frames to GIF](#frames-to-gif)
+	- [GIF to frames](#gif-to-frames)
+	- [High quality GIF](#high-quality-gif)
+	- [Optimize GIF](#optimize-gif)
+	- [Lossy GIF compressor](#lossy-gif-compressor)
+	- [Making GIF from video](#making-gif-from-video)
+	- [Cinemagraphs](#cinemagraphs)
+	- [Perfect loop](#perfect-loop)
+	- [Youtube video to GIF](#youtube-video-to-gif)
+	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
+- [Miscellaneous](#miscellaneous)
 
 ### General Tools
 
@@ -372,6 +403,7 @@ or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 The best ways to use this list are:
 
+- by browing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 ## Authors
@@ -383,26 +415,6 @@ The best ways to use this list are:
 With many thanks to the [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors). :clap:
 
 **Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-gif/blob/master/CONTRIBUTING.md). :raised_hands:
-
-## License & Credits
-
-Unless otherwise stated:
-
-- Copyright © 2017+ [Craig Davison](https://davison.io). Released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
-
-- Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).ob/master/CONTRIBUTING.md). :raised_hands:
-
-## License & Credits
-
-Unless otherwise stated:
-
-- Copyright © 2017+ [Craig Davison](https://davison.io). Released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
-
-- Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).ob/master/CONTRIBUTING.md). :raised_hands:
 
 ## License & Credits
 

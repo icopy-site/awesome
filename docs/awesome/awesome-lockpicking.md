@@ -4,7 +4,15 @@
 
 [Lock picking](https://github.com/meitar/awesome-lockpicking/blob/master/https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
 
+# Contents
 
+* [Books](#books)
+* [Contests, conferences, and events](#contests-conferences-and-events)
+* [Hobby projects](#hobby-projects)
+* [How-to lockpicking guides](#how-to-lockpicking-guides)
+* [Locksport associations and organizations](#locksport-associations-and-organizations)
+* [Online communities](#online-communities)
+* [Vendors](#vendors)
 
 # Books
 
@@ -71,4 +79,4 @@
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
-* [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.ooxe.com/) - German retailer of lock picking tools, tool cases and locks.ooxe.com/) - German retailer of lock picking tools, tool cases and locks.
+* [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.

@@ -28,13 +28,100 @@ I've collected more data from Hacker News, AngelList and Quora, to make the 2015
 
 It's on GitHub for a reason! Please submit pull requests.
 
+## Supported with ❤️ by [Instabug](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
 
 [![instabug](https://user-images.githubusercontent.com/9888943/46256666-08746700-c4ae-11e8-8c64-406bbbfe2e0f.png)](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
 
 > Instabug will enable you to easily collect feedback from your beta testers and users. The SDK will automatically attach all the details you would need to debug and fix bugs and crashes faster. Join the top apps in the world that rely on Instabug to enhance their app quality and iterate faster. [learn more.](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
+## Contents
 
+* [Accounting/Invoicing](#accountinginvoicing)
+* [API Builder](#api-builder)
+* [App Developer Tools](#app-developer-tools)
+* [Application Distribution](#application-distribution)
+* [Application Performance](#application-performance)
+* [AWS Tools](#aws-tools)
+* [Backend-aaS](#backend-aas)
+* [Banking](#banking)
+* [Billing & Payment Processing](#billing--payment-processing)
+* [Browser/Email Testing](#browseremail-testing)
+* [Bug/Issue Tracking](#bugissue-tracking)
+* [Business & Traffic Analytics](#business--traffic-analytics)
+* [Business Cards and Print Material](#business-cards-and-print-material)
+* [Community Tools](#community-tools)
+* [Content Creation/Infographics](#content-creationinfographics)
+* [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
+* [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
+* [CRM/Sales Tools](#crmsales-tools)
+* [Customer Feedback](#customer-feedback)
+* [Customer Support/Help Desks](#customer-supporthelp-desks)
+* [Dashboards](#dashboards)
+* [Data](#data)
+* [Database-aaS](#database-aas)
+* [Database](#database)
+* [Deployment](#deployment)
+* [Design Collaboration](#design-collaboration)
+* [Designers](#designers)
+* [DNS](#dns)
+* [Documentation](#documentation)
+* [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
+* [Email Marketing](#email-marketing)
+* [Engineering Metrics](#engineering-metrics)
+* [Error/Exception Handling](#errorexception-handling)
+* [Forms / Surveys](#forms--surveys)
+* [Fundraising / Investor Relations](#fundraising--investor-relations)
+* [Geocoding](#geocoding)
+* [Group Communication/Chat Tools](#group-communicationchat-tools)
+* [Heroku Tools](#heroku-tools)
+* [HR](#hr)
+* [Identity Verification](#identity-verification)
+* [Income Analytics](#income-analytics)
+* [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
+* [Load Testing](#load-testing)
+* [Localization & Internationalization](#localization--internationalization)
+* [Log Monitoring](#log-monitoring)
+* [Naming](#naming)
+* [Notes](#notes)
+* [Offsite Backups](#offsite-backups)
+* [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
+* [Other APIs](#other-apis)
+* [PaaS](#paas)
+* [Password Management](#password-management)
+* [Payments, Billing & Downloads](#payments-billing--downloads)
+* [Payroll](#payroll)
+* [Personal Machine Backups](#personal-machine-backups)
+* [Personal Productivity](#personal-productivity)
+* [Phone/PBX/SMS](#phonepbxsms)
+* [Planning & Project Management](#planning--project-management)
+* [Presentations / Slides](#presentations--slides)
+* [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
+* [Prototyping/Mockups](#prototypingmockups)
+* [Remote Collaboration](#remote-collaboration)
+* [Remote Workers](#remote-workers)
+* [Search](#search)
+* [Security](#security)
+* [SEO Tools](#seo-tools)
+* [Server Monitoring](#server-monitoring)
+* [Shipping](#shipping)
+* [Site Search](#site-search)
+* [Social Media Marketing](#social-media-marketing)
+* [Source Code Hosting](#source-code-hosting)
+* [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
+* [Space Rental](#space-rental)
+* [Status Blogs/User Alerts](#status-blogsuser-alerts)
+* [Storage](#storage)
+* [System Monitoring](#system-monitoring)
+* [Task Scheduling](#task-scheduling)
+* [Time Tracking](#time-tracking)
+* [Transactional Email](#transactional-email)
+* [User Feedback](#user-feedback)
+* [User Management](#user-management)
+* [User Testing](#user-testing)
+* [Video Hosting](#video-hosting)
+* [VPS](#vps)
+* [WebSockets-aaS](#websockets-aas)
 
 ### Identity Verification
 
@@ -463,6 +550,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS. |
 | [Framer](https://framer.com) | [@framer](https://twitter.com/framer) | Free Trial - $12/mo | Pixel-perfect, responsive designs. Truly high-fidelity prototypes. Seamless collaboration. Framer powers the product teams at Dropbox, Pinterest, Twitter, and thousands more. |
 
+### Content Creation/Infographics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -982,6 +1070,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 The best ways to use this list are:
 
+- by browing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:
@@ -991,36 +1080,6 @@ This list also uses tags to help when searching the contents:
 ## See also
 
 * [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
-* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
-
-## Credits
-
-**[Chris Barber](https://www.chrisbarber.co)**
-
-[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
-
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**e online development environments
-* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
-
-## Credits
-
-**[Chris Barber](https://www.chrisbarber.co)**
-
-[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
-
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**e online development environments
 * [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
 
 ## Credits

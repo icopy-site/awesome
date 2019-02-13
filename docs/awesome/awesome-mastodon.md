@@ -5,8 +5,22 @@
 
 > Curated list of Mastodon-related stuff!
 
+**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
 
+## Contents
 
+* [Official](#official)
+* [Documentation](#documentation)
+* [Clients](#clients)
+* [Tools](#tools)
+* [User styles](#user-styles)
+* [User scripts](#user-scripts)
+* [Bots](#bots)
+* [News & magazines bots](#news--magazines-bots)
+* [Associations](#associatons)
+* [Blogs](#blogs)
+* [Libraries](#libraries)
+* [Hosting](#hosting)
 
 ## Official
 
@@ -34,6 +48,7 @@
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
+* [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 
 ## Tools
@@ -137,19 +152,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
 * [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
-
-## Hosting
-
-* [Masto.host](https://masto.host) - Fully managed Mastodon hosting.s.nico/@MinutePapillon) - Kriss / Minute Papillon.
-
-## Libraries
-
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
-* [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
-
-## Hosting
-
-* [Masto.host](https://masto.host) - Fully managed Mastodon hosting.eto/megalodon) - Mastodon API client library for node.js.
 
 ## Hosting
 

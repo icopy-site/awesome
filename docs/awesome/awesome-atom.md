@@ -2,8 +2,48 @@
 
 A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
+## Table of Content
 
+- [Syntax](#syntax)
+- [Lint](#lint)
+- [Build](#build)
+- [Extensions](#extensions)
+  - [Nuclide](#nuclide)
 - [Themes](http://enrmarc.github.io/atom-theme-gallery/)
+- [Collaboration](#collaboration)
+  - [CodeSideStory](#codesidestory)
+- [Uncategorized](#uncategorized)
+  - [Nuclide](#nuclide)
+  - [Advanced Open File](#advanced-open-file)
+  - [Atom Reverser](#atom-reverser)
+  - [Atom Terminal](#atom-terminal)
+  - [Autocomplete module import](#autocomplete-module-import)
+  - [Beautify](#beautify)
+  - [Code Peek](#code-peek)
+  - [Color Picker](#color-picker)
+  - [Copy Paste](#copy-paste)
+  - [CSS Declaration Sorter](#css-declaration-sorter)
+  - [Duplicate Selection](#duplicate-selection)
+  - [Editor Config](#editor-config)
+  - [Emmet](#emmet)
+  - [File Icons](#file-icons)
+  - [Fonts](#fonts)
+  - [Git Time Machine](#git-time-machine)
+  - [html-to-css](#html-to-css)
+  - [iMDone](#imdone)
+  - [Jumpy](#jumpy)
+  - [Merge Conflicts](#merge-conflicts)
+  - [Minimap](#minimap)
+  - [Pigments](#pigments)
+  - [Project Plus](#project-plus)
+  - [Sort lines](#sort-lines)
+  - [Sorter](#sorter)
+  - [Sync Settings](#sync-settings)
+  - [PlatformIO IDE Terminal](#platformio-ide-terminal)
+  - [TernJS](#ternjs)
+  - [Test Navigator](#test-navigator)
+  - [Themer](#themer)
+  - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
 
@@ -43,6 +83,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 ## Build
 
+To enable building, you'll need the general [build](https://atom.io/packages/build) which provides the interface for the provider plugins for specific languages and adds integrates with [lint](#lint). The full list of current plugins can be found at [atombuild.github.io](http://atombuild.github.io/), a few examples being:
 
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
@@ -197,19 +238,6 @@ JavaScript, and much more in Atom.
 > Generate Atom syntax/UI theme packages (https://github.com/mehcode/awesome-atom/blob/master/and matching themes for your other tools) from your favorite colors.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
-> Quickly toggle between single and double quotes.
-
-#### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
-> Quick look in tree view.r Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
-
-#### [Themer](https://themer.mjswensen.com)
-> Generate Atom syntax/UI theme packages (https://github.com/mehcode/awesome-atom/blob/master/and matching themes for your other tools) from your favorite colors.
-
-#### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
-> Quickly toggle between single and double quotes.
-
-#### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
-> Quick look in tree view.otes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
 
 #### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)

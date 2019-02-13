@@ -9,7 +9,19 @@
 - tools to make your development process simpler and more enjoyable;
 - and more!
 
+## Contents
 
+- [How to use](#how-to-use)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Services](#services)
+- [Education](#education)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Newsletters](#newsletters)
+  - [Videos](#videos)
+- [Open-source Projects](#open-source-projects)
+- [License](#license)
 
 ## How to use
 
@@ -125,9 +137,5 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If youâ€
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, _Milan Vit_ has waived all copyright and related or neighbouring rights to this work.1.0/)
-
-To the extent possible under law, _Milan Vit_ has waived all copyright and related or neighbouring rights to this work.1.0/)
 
 To the extent possible under law, _Milan Vit_ has waived all copyright and related or neighbouring rights to this work.

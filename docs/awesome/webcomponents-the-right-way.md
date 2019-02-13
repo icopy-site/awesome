@@ -6,7 +6,38 @@
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
+## Contents
 
+- [Specifications](#specifications)
+- [Introduction](#introduction)
+- [Custom Elements](#custom-elements)
+- [Shadow DOM](#shadow-dom)
+- [HTML Templates](#html-templates)
+- [Polyfills](#polyfills)
+- [Best Practices](#best-practices)
+- [Use Cases](#use-cases)
+- [Accessibility](#accessibility)
+- [Discover](#discover)
+- [Libraries](#libraries)
+  - [Class Based](#class-based)
+  - [Functional](#functional)
+  - [Other](#other)
+- [Component Libraries](#component-libraries)
+- [Frameworks](#frameworks)
+  - [Overview](#overview)
+  - [Angular](#angular)
+  - [Vue](#vue)
+- [Compilers](#compilers)
+- [Books](#books)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [History](#history)
+- [Future](#future)
+  - [CSS Shadow Parts](#css-shadow-parts)
+  - [Form-associated Custom Elements](#form-associated-custom-elements)
+  - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
+- [Who to follow](#who-to-follow)
+- [License](#license)
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
@@ -313,36 +344,6 @@ These materials are here for historical reasons only, they are grouped by years 
       <td align="center">
         <a href="https://twitter.com/justinfagnani">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
-          <div>Justin Fagnani</div>
-        </a>
-      </td>
-    </tr>
-  <tbody>
-</table>
-
-## License
-
-Copyright 2014-2018, All rights reserved.
-
-Code licensed under the:
-[MIT license](http://mateusortiz.mit-license.org)
-
-@author Mateus Ortiz <mteusortiz@gmail.com>06/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
-          <div>Justin Fagnani</div>
-        </a>
-      </td>
-    </tr>
-  <tbody>
-</table>
-
-## License
-
-Copyright 2014-2018, All rights reserved.
-
-Code licensed under the:
-[MIT license](http://mateusortiz.mit-license.org)
-
-@author Mateus Ortiz <mteusortiz@gmail.com>06/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
           <div>Justin Fagnani</div>
         </a>
       </td>

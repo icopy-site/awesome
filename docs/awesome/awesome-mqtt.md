@@ -6,7 +6,31 @@
 
 MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notification Services.
 
+## Contents
 
+- [Community Resources](#community-resources)
+- [Broker](#broker)
+- [Tools](#tools)
+- [Clients](#clients)
+- [Scripting](#scripting)
+- [Interfaces](#interfaces)
+    - [Makers](#makers)
+    - [Industry](#industry)
+    - [Telephony, PBX](#telephony-pbx)
+    - [Operating System](#operating-system)
+    - [Monitoring](#monitoring)
+    - [Location Tracking](#location-tracking)
+    - [Logging](#logging)
+    - [Smart Home Hardware Interfaces](#smart-home-hardware-interfaces)
+    - [Smart Home Integration Software](#smart-home-integration-software)
+    - [Lighting](#lighting)
+    - [Home Entertainment](#home-entertainment)
+    - [Smart Metering](#smart-metering)
+    - [Messaging](#messaging)
+    - [Misc](#misc)
+- [Visualization, Dashboards](#visualization-dashboards)
+- [Architecture, Convention](#architecture-convention)
+- [Security, Encryption](#security-encryption)
 
 
 ### Community Resources
@@ -154,6 +178,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages.
 * [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
+* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 * [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT.
 * [WinThing](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT.
 
@@ -307,6 +332,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 * [thingsboard](https://thingsboard.io/) - Device management, data collection, processing and visualization for your IoT projects.
 
+Other tools that can be used to create Visualization/Dashboards can be found under [Smart Home Integration Software](#smart-home-integration-software)
 
 
 ### Architecture, Convention
@@ -317,30 +343,6 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 ### Security, Encryption
 
 * [Teserakt E4](https://teserakt.io/) - End-to-end encryption for MQTT and other M2M protocols - Commercial solution.
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/hobbyquaker/awesome-mqtt/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) lightweight MQTT convention for the IoT.
-
-### Security, Encryption
-
-* [Teserakt E4](https://teserakt.io/) - End-to-end encryption for MQTT and other M2M protocols - Commercial solution.
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/hobbyquaker/awesome-mqtt/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)er M2M protocols - Commercial solution.
 
 
 ## Contribute

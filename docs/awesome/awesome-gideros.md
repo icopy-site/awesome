@@ -8,7 +8,28 @@
 
 A curated list of awesome resources for the [Gideros Game Development Framework](https://github.com/stetso/awesome-gideros/blob/master/http://giderosmobile.com/) that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (https://github.com/stetso/awesome-gideros/blob/master/Windows, OSX). Please feel free to contribute to the list by making a pull request.
 
+## Contents
 
+- [Getting Started](#getting-started)
+- [Resources](#resources)
+	- [Tutorials and Tips](#tutorials-and-tips)
+	- [Full game examples](#full-game-examples)
+	- [Publications](#publications)
+	- [IDEs and Editors](#ides-and-editors)
+	- [Graphics and Shaders](#graphics-and-shaders)
+	- [Scene Managment](#scene-management)
+	- [Input](#input)
+	- [Animation and Tweens](#animation-and-tweens)
+	- [Tilemaps](#tilemaps)
+	- [Camera](#camera)
+	- [Audio](#audio)
+	- [Saving and Loading](#saving-and-loading)
+	- [Monetization](#monetization)
+	- [GUI](#gui)
+	- [3D](#3d)
+	- [Plugins](#plugins)
+- [Useful Lua-Libraries](#useful-lua-libraries)
+- [License and Contriuting](#license-and-contributing)
 
 ## Getting Started
 
@@ -120,4 +141,4 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 Please contribute to the list. Simply read the [contribution guidelines](https://github.com/stetso/awesome-gideros/blob/master/contributing.md) to get started.
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)//mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)//mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -9,7 +9,24 @@ A curated collection of Progressive Web Apps resources.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/TalAter/awesome-progressive-web-apps/blob/master/contributing.md).
 
+## Contents
 
+- [Must Reads](#must-reads)
+- [Learning Resources](#learning-resources)
+- [Browser Support](#browser-support)
+- [Videos](#videos)
+- [Case Studies](#case-studies)
+- [Sample Progressive Web Apps](#sample-progressive-web-apps)
+- [Specific Technologies](#specific-technologies)
+  - [Service Workers](#service-workers)
+  - [CacheStorage API](#cachestorage-api)
+  - [Background Sync](#background-sync)
+  - [Push Notifications](#push-notifications)
+  - [IndexedDB](#indexeddb)
+  - [Installable Web Apps](#installable-web-apps)
+    - [App Icons](#app-icons)
+  - [Web Share APIs](#web-share-apis)
+- [Awesome Performance](#awesome-performance)
 
 ## Must Reads
 
@@ -104,4 +121,4 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Website Performance Optimization](https://udacity.com/ud884) - A free Udacity course on optimizing websites for speed.
 - [Browser Rendering Optimization](https://udacity.com/ud860) - A free Udacity course helping you create web apps that maintain jank-free 60fps performance.
 - [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
-- [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.erstand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.erstand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
+- [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.

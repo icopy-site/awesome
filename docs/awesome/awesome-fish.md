@@ -4,7 +4,18 @@ A curated list of packages, prompts, and resources for the amazing <a href="http
 
 Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
+## Table of Contents
 
+- [Package Management](#package-management)
+- [Prompts](#prompts)
+- [Utilities](#utilities)
+  - [Environment](#environment)
+  - [Key Bindings](#key-bindings)
+  - [Node.js](#nodejs)
+- [Resources](#resources)
+  - [Articles](#articles)
+  - [Community](#community)
+  - [Learning](#learning)
 
 ## Package Management
 
@@ -72,4 +83,4 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ---
 
-👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)hub.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)hub.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)
+👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)

@@ -16,7 +16,17 @@ This list includes all the best tools, tutorials and examples related to the awe
 </p>
 
 
+## Contents
 
+- [Community](#community)
+- [Games Showcase](#games-showcase)
+- [Hosting](#hosting)
+- [Tools](#tools)
+- [Export](#export)
+- [Plugins/Behaviors/Effects](#pluginsbehaviorseffects)
+- [Tutorials](#tutorials)
+- [E-Books](#e-books)
+- [Useful Links](#useful-links)
 
 ## Community
 - [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
@@ -90,4 +100,4 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

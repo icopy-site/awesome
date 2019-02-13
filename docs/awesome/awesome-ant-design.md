@@ -24,7 +24,22 @@
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
+## Contents
 
+- [Resources](#resources)
+- [Articles](#articles)
+- [Tools](#tools)
+- [Related Projects](#related-projects)
+- [Angular](#angular)
+- [Vue.js](#vuejs)
+- [Components](#components)
+- [Applications](#applications)
+- [Frameworks](#frameworks)
+- [Boilerplates](#boilerplates)
+- [Non-JavaScript Libraries](#non-javascript-libraries)
+- [Electron](#electron)
+- [Icons](#icons)
+- [Contributing](#contributing)
 
 ## Resources
 
@@ -175,9 +190,5 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).tp://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).tp://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

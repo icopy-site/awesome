@@ -4,7 +4,13 @@
 
 No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
+## Contents
 
+- [What is Data Science?](#what-is-data-science)
+- [Common Algorithms and Procedures](#common-algorithms-and-procedures)
+- [Data Science using Python](#data-science-using-python)
+- [Data Science Challenges for Beginners](#data-science-challenges-for-beginners)
+- [More advanced resources and lists](#more-advanced-resources-and-lists)
 
 ## What is Data Science?
 
@@ -89,6 +95,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sib
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Simon Böhm has waived all copyright and
-related or neighboring rights to this work. law, Simon Böhm has waived all copyright and
-related or neighboring rights to this work. law, Simon Böhm has waived all copyright and
 related or neighboring rights to this work.

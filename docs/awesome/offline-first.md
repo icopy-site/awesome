@@ -8,6 +8,18 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+- [W3C Specification](#w3c-specification)
+- [Newsletter](#newsletter)
+- [Posts](#posts)
+- [Presentations](#presentations)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Tools](#tools)
+- [Books](#books)
+- [Showcase](#showcase)
+- [Who to Follow](#who-to-follow)
+- [Contributing](#contributing)
 
 ## W3C Specification
 
@@ -903,34 +915,6 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 ## Who to Follow
 - [Matthew Riley](https://github.com/pazguille/offline-first/blob/master/https://github.com/tofumatt): Works at mozilla, creator of localForage (https://github.com/pazguille/offline-first/blob/master/localstroage, IndexedDb and WebSQL Wrapper)
 - [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
-
-## Contributing
-Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/pazguille/offline-first/blob/master/CONTRIBUTING.md).
-
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
-
-## Maintained by
-- Guille Paz (https://github.com/pazguille/offline-first/blob/master/Front-end developer | Web standards lover)
-- E-mail: [guille87paz@gmail.com](https://github.com/pazguille/offline-first/blob/master/mailto:guille87paz@gmail.com)
-- Twitter: [@pazguille](https://twitter.com/pazguille)
-- Web: [https://pazguille.me/](https://pazguille.me/)
-
-## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)vice worker fanatic, works at google helping make offline web apps a thing.
-
-## Contributing
-Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/pazguille/offline-first/blob/master/CONTRIBUTING.md).
-
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
-
-## Maintained by
-- Guille Paz (https://github.com/pazguille/offline-first/blob/master/Front-end developer | Web standards lover)
-- E-mail: [guille87paz@gmail.com](https://github.com/pazguille/offline-first/blob/master/mailto:guille87paz@gmail.com)
-- Twitter: [@pazguille](https://twitter.com/pazguille)
-- Web: [https://pazguille.me/](https://pazguille.me/)
-
-## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)vice worker fanatic, works at google helping make offline web apps a thing.
 
 ## Contributing
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/pazguille/offline-first/blob/master/CONTRIBUTING.md).

@@ -6,7 +6,38 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 *You might also like [Awesome Django](https://gitlab.com/rosarior/awesome-django) and [Awesome Python](https://github.com/vinta/awesome-python). :snake:*
 
+## Contents
 
+- [General resources](#general-resources)
+- [Apps](#apps)
+  - [Blogging/news](#bloggingnews)
+  - [Rich text editor extensions](#rich-text-editor-extensions)
+  - [Widgets](#widgets)
+  - [StreamField](#streamfield)
+  - [Static site generation](#static-site-generation)
+  - [Settings management](#settings-management)
+  - [E-commerce](#e-commerce)
+  - [SEO and SMO](#seo-and-smo)
+  - [Analytics](#analytics)
+  - [Customer experience](#customer-experience)
+  - [Security](#security)
+  - [Media](#media)
+  - [Translations](#translations)
+  - [Forms](#forms)
+  - [Testing](#testing)
+  - [Misc](#misc)
+- [Tools](#tools)
+- [Resources](#resources)
+  - [Getting started](#getting-started)
+  - [Articles](#articles)
+  - [Recipes](#recipes)
+  - [Presentations](#presentations)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
+  - [Showcases](#showcases)
+  - [Lists](#lists)
+- [Community](#community)
+- [Open-source sites](#open-source-sites)
 
 ## General resources
 
@@ -15,6 +46,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
+- [Other resources](#resources)
 
 ## Apps
 
@@ -217,6 +249,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - This video will show you how to create and display pages using the Wagtail CMS.
 - [Draftail extensions – custom entities tutorial](https://www.youtube.com/watch?v=nCMgoTerEb4) - Step-by-step tutorial to make extensions for Draftail.
 - [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) - Catherine talks you through the steps you can take to add some useful supplementary text fields to the Wagtail admin.
+- [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) - Catherine talks you through the steps you can take to customise your rich text editors to control which features are available to your content editors.
 - [Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface](https://www.youtube.com/watch?v=uZc0aZrHtQw) - Chris talks you through using tabs to organise fields.
 - [Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections](https://www.youtube.com/watch?v=HGXHtFpLDCA) - Kieran talks you through the process of organising your images and documents into collections.
 - [Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience](https://www.youtube.com/watch?v=CedcZmQ9KHs) - Chelsea talks you through the process of organising your fields to make it easier to manage them and streamline the editor experience.
@@ -270,12 +303,5 @@ Please read the [contribution guidelines](https://github.com/springload/awesome-
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.

@@ -3,6 +3,32 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
+## Table of Contents
+* [Events/Meetups](#eventsmeetups)
+  * [Clojure](#clojure)
+  * [Go-lang](#go-lang)
+  * [Java](#java)
+  * [Javascript](#javascript)
+  * [PHP](#php)
+  * [Python](#python)
+  * [Ruby](#ruby)
+  * [UX](#ux)
+* [General](#general)
+* [Initiatives/Programs](#initiativesprograms)
+  * [Academy/Camp](#academycamp)
+  * [Chatrooms](#chatrooms)
+  * [Communities/Groups](#communitiesgroups)
+  * [Conferences/Talks](#conferencestalks)
+  * [Linux/OpenSource](#linuxopensource)
+  * [Mentorship](#mentorship)
+* [Organisation toolkits](#organisation-toolkits)
+* [Other Initiatives](#other-initiatives)
+  * [Awards](#awards)
+  * [Content](#content)
+  * [Documentaries/Movies](#documentariesmovies)
+  * [Jobs](#jobs)
+  * [Speakers](#speakers)
+* [Other Lists](#other-lists)
 
 ----
 
@@ -442,6 +468,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Given the still small number of women speaking at events (https://github.com/cristianoliveira/awesome4girls/blob/master/especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
+### Content
 (https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
@@ -537,20 +564,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
-
-----
-
-# License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
-
-This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://github.com/cristianoliveira/awesome4girls/blob/master/https://creativecommons.org/publicdomain/zero/1.0/)gender gap.
-
-----
-
-# License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-(https://github.com/cristianoliveira/awesome4girls/blob/master/[Go to top](https://github.com/cristianoliveira/awesome4girls/blob/master/#awesome4girls---))
-
-This work is licensed under a [CC0 1.0 Universal (https://github.com/cristianoliveira/awesome4girls/blob/master/CC0 1.0).](https://github.com/cristianoliveira/awesome4girls/blob/master/https://creativecommons.org/publicdomain/zero/1.0/)gender gap.
 
 ----
 

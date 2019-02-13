@@ -6,10 +6,35 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 
 ------------------------------
 
+### Table of Contents
 
+- [Getting started](#getting-started)
+- [Community](#community)
+- [Data](#data)
+- [Software for Creating APIs](#software-for-creating-apis)
+- [Agency Tools](#agency-tools)
+- [Hardware](#hardware)
+- [Apps](#apps)
+  - [Web Apps](#web-apps)
   - [Native Apps (https://github.com/CUTR-at-USF/awesome-transit/blob/master/open source)](https://github.com/CUTR-at-USF/awesome-transit/blob/master/#native-apps-open-source)
   - [Native Apps (https://github.com/CUTR-at-USF/awesome-transit/blob/master/closed source)](https://github.com/CUTR-at-USF/awesome-transit/blob/master/#native-apps-closed-source)
+- [Visualizations](#visualizations)
+- [GTFS](#gtfs)
+  - [GTFS Libraries](#gtfs-libraries)
+  - [GTFS Converters](#gtfs-converters)
+  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
+  - [GTFS Analysis Tools](#gtfs-analysis-tools)
+  - [GTFS Timetable Publishing Tools](#gtfs-timetable-publishing-tools)
+  - [GTFS Validators](#gtfs-validators)
+- [GTFS Realtime](#gtfs-realtime)
+  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
+  - [GTFS Realtime Validators](#gtfs-realtime-validators)
   - [GTFS Realtime (https://github.com/CUTR-at-USF/awesome-transit/blob/master/and Other Real-time API) Archival Tools](https://github.com/CUTR-at-USF/awesome-transit/blob/master/#gtfs-realtime-and-other-real-time-api-archival-tools)
+  - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
+  - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
+- [SIRI](#siri)
+- [Other multimodal data formats](#other-multimodal-data-formats)
+- [Resources](#resources)
 
 ### Getting started
 
@@ -73,6 +98,7 @@ Software that you can set up to provide an API to transit and multimodal data.
 
 ### Agency Tools
 
+Tools for transit agencies.  See also [GTFS Tools](#gtfs-tools) for tools specific to GTFS.
 
 - [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
@@ -346,23 +372,6 @@ On-line courses, blog posts, and reports related to open transit data.
 To the extent possible under law, [Luqmaan Dawoodjee](https://github.com/luqmaan) and the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) have waived all copyright and related or neighboring rights to this work.
 
 ## About
-
-Originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan), now maintained by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/).
-
-This list is intended as a community resource for informational use only - listing of a project/product does not imply endorsement.ndors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
-- [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Luqmaan Dawoodjee](https://github.com/luqmaan) and the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) have waived all copyright and related or neighboring rights to this work.
-
-## About
-
-Originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan), now maintained by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/).
-
-This list is intended as a community resource for informational use only - listing of a project/product does not imply endorsement.## About
 
 Originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan), now maintained by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/).
 

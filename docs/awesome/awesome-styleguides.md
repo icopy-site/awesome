@@ -3,7 +3,41 @@ awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d730
 
 _:clipboard: A list of styleguides_
 
+# Contents
 
+- [Contributing](#contributing)
+- [How to build a styleguide](#how-to-build-a-styleguide)
+- [Other Styleguide Lists](#other-styleguide-lists)
+- [Styleguides](#styleguides)
+	- [Generic](#generic)
+	- [CSS](#css)
+		- [Sass](#sass)
+	- [C++](#c)
+	- [Shell Script](#shell-script)
+	- [Git](#git)
+	- [HTML](#html)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+		- [AngularJS](#angularjs)
+		- [CoffeeScript](#coffeescript)
+		- [HTTP Design](#http-design)
+		- [JSON](#json)
+		- [jQuery](#jquery)
+		- [Modules](#modules)
+		- [npm](#npm)
+		- [React](#react)
+		- [Riot](#riot)
+	- [Lisp](#lisp)
+	- [Objective-C](#objective-c)
+	- [PHP](#php)
+	- [Python](#python)
+	- [Ruby](#ruby)
+		- [Ruby on Rails](#ruby-on-rails)
+	- [Rust](#rust)
+	- [Swift](#swift)
+- [Non-Code](#non-code)
+	- [Historical](#historical)
+- [License](#license)
 
 
 # Contributing
@@ -115,6 +149,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
 
 ## Objective-C
+* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
@@ -166,9 +201,5 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.icdomain/zero/1.0/)
-
-To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.icdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.

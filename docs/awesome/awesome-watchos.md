@@ -7,6 +7,19 @@
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
+### Contents
+- [Getting Started](#getting-started)
+- [Library and Frameworks](#libraries-and-frameworks)
+- [Design](#design)
+	- [Design Guidelines](#design-guidelines)
+	- [Design Resources](#design-resources)
+- [Tools](#tools)
+- [Sample Apps](#sample-apps)
+- [Books](#books)
+- [Tutorials](#tutorials)
+- [Twitters](#twitters)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 
 # Getting Started
@@ -164,9 +177,5 @@ Feel free to contribute & Thank you very much!
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin1994) has waived all copyright and related or neighboring rights to this work.ro/1.0/)
-
-To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin1994) has waived all copyright and related or neighboring rights to this work.ro/1.0/)
 
 To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin1994) has waived all copyright and related or neighboring rights to this work.

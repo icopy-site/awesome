@@ -17,6 +17,7 @@
 * [ipp-printer](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client.
+* [peervisionary](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
 * [peerwiki](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
 * [screencat](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [signalhub](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
@@ -70,4 +71,4 @@
 * [peervision](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
 * [polo](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
 * [rtsp-server](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
-* [utp-native](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.ort protocol, a network protocol similar to tcp that runs on top of udp.ort protocol, a network protocol similar to tcp that runs on top of udp.
+* [utp-native](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.

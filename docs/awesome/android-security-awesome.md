@@ -4,6 +4,9 @@ android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/
 
 A collection of android security related resources.
 
+1. [Tools](#tools)
+2. [Academic/Research/Publications/Books](#academic)
+3. [Exploits/Vulnerabilities/Bugs](#exploits)
 
 ## <a name="tools"></a>Tools
 
@@ -233,16 +236,6 @@ A collection of android security related resources.
 ### How to report Security issues
 
 1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
-2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
-
-## Contributing
-Your contributions are always welcome!Security issues
-
-1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
-2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
-
-## Contributing
-Your contributions are always welcome!rces.html#report-issues)
 2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## Contributing

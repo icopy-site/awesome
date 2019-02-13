@@ -6,7 +6,46 @@
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (https://github.com/iCHAIT/awesome-macOS/blob/master/as in free beer).*
 
+## Table of Contents
 
+- [Applications](#applications)
+    - [Audio](#audio)
+    - [Backup](#backup)
+    - [Bookmark Utilities](#bookmark-utilities)
+    - [Chat Clients](#chat-clients)
+    - [Data Recovery](#data-recovery)
+    - [Developers](#developers)
+    - [E-Book Utilities](#e-book-utilities)
+    - [Editors](#editors)
+    - [Email Utilities](#email-utilities)
+    - [Finder](#finder)
+    - [Games](#games)
+    - [Graphics](#graphics)
+    - [Productivity](#productivity)
+    - [Sharing Files](#sharing-files)
+    - [Terminal](#terminal)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [Window Management](#window-management)
+    - [Others](#others)
+- [Command Line Utilities](#command-line-utilities)
+- [macOS Utilities](#macos-utilities)
+- [Setup](#setup)
+    - [DevMyMac](#devmymac)
+    - [laptop](#laptop)
+    - [mac-dev-setup](#mac-dev-setup)
+    - [macbook-playbook](#macbook-playbook)
+    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
+    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
+    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
+- [Security](#security)
+- [Miscellaneous](#miscellaneous)
+- [Discussion Forums](#discussion-forums)
+    - [Apple](#apple)
+    - [IRC channels](#irc-channels)
+    - [MacRumors](#macrumors)
+    - [Reddit](#reddit)
+- [Contribute](#contribute)
 
 
 ## Applications
@@ -398,23 +437,12 @@ Contributions are most welcome, please adhere to the [Contribution Guidelines](h
 
 Please consider checking out the [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) to be included.
 
+**[⬆ back to top](#table-of-contents)**
 
 
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-[chitchat]: https://github.com/stonesam92/ChitChat
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-[chitchat]: https://github.com/stonesam92/ChitChat
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 

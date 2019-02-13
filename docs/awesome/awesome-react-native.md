@@ -55,6 +55,7 @@ alt="Build Status" />
 Have something that belongs under "Buzzing"? drop me a line:
 dotan-at-paracode.com.
 
+## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
 [![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
 
@@ -68,6 +69,57 @@ dotan-at-paracode.com.
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Buzzing](#buzzing)
+    - [Recommended SDK for bug and crash reporting Instabug](#recommended-sdk-for-bug-and-crash-reporting-instabug)
+- [Categories](#categories)
+    - [Conferences](#conferences)
+        - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
+        - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
+        - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
+        - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
+        - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
+    - [Articles](#articles)
+        - [Reference](#reference)
+        - [Howtos](#howtos)
+        - [Assorted](#assorted)
+        - [Continuous Integration](#continuous-integration)
+        - [Internals](#internals)
+    - [Components](#components)
+        - [UI](#ui)
+        - [Navigation](#navigation)
+            - [Navigation/Routing Articles](#navigationrouting-articles)
+            - [Navigation Demos](#navigation-demos)
+        - [Deep Linking](#deep-linking)
+        - [Text & Rich Content](#text--rich-content)
+        - [Analytics](#analytics)
+        - [Utils & Infra](#utils--infra)
+        - [Forms](#forms)
+        - [Geolocation](#geolocation)
+        - [Internationalization](#internationalization)
+        - [Build & Development](#build--development)
+        - [Styling](#styling)
+        - [System](#system)
+        - [Web](#web)
+        - [Media](#media)
+        - [Storage](#storage)
+        - [Backend](#backend)
+        - [Integrations](#integrations)
+        - [Monetization](#monetization)
+        - [Animation](#animation)
+        - [Other Platforms](#other-platforms)
+    - [Utilities](#utilities)
+    - [Seeds](#seeds)
+    - [Libraries](#libraries)
+    - [Open Source Apps](#open-source-apps)
+    - [Frameworks](#frameworks)
+    - [Tutorials](#tutorials)
+    - [Books](#books)
+    - [Videos](#videos)
+        - [Talks](#talks)
+        - [Training & tutorials](#training--tutorials)
+    - [Blogs](#blogs)
+    - [Newsletters](#newsletters)
+    - [Releases](#releases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -264,6 +316,7 @@ Components and native modules.
 * [react-native-calendar ★559](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 * [react-native-photo-browser ★565](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 * [react-native-popup-menu ★653](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
+* [rn-placeholder ★734](https://github.com/jondot/awesome-react-native/blob/master/https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (https://github.com/jondot/awesome-react-native/blob/master/+ React Native Web !)
 * [react-native-qrcode ★644](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
 * [react-native-timeline-listview ★665](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 * [react-native-parsed-text ★552](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
@@ -570,6 +623,7 @@ Components and native modules.
 * [react-native-drawpad ★20](https://github.com/Partido-Asia/react-native-drawpad) - A pad for users to draw by touching
 * [react-native-navbar-color ★12](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-frame-loading ★9](https://github.com/heyman333/react-native-frame-loading) - The Loading indicator with frame by frame view animation
+* [react-native-censored ★8](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 * [react-native-animated-styles ★7](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
@@ -652,6 +706,7 @@ Components and native modules.
 
 * [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
+### Text & Rich Content
 
 * [react-native-hyperlink ★354](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
 * [react-native-draftjs-render ★253](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model
@@ -834,6 +889,7 @@ Components and native modules.
 * [react-native-calendar-reminders ★69](https://github.com/wmcmahan/React-Native-CalendarReminders) - React Native module for IOS EventKit Reminders
 * [react-native-barcode-scanner ★60](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 * [react-native-bluetooth-state ★61](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
+* [react-native-clipboard ★58](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
 * [react-native-android-sms ★48](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
 * [react-native-android-speech ★47](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
 * [react-native-nfc-ios ★52](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
@@ -1063,6 +1119,7 @@ Useful React Native tooling.
 * [rn-snoopy ★329](https://github.com/jondot/rn-snoopy) - Profiling, monitoring and alerting over the React Native bridge. [More here](https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac).
 * [react-native-snippets ★249](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 * [react-native-bundle-visualizer ★141](https://github.com/IjzerenHein/react-native-bundle-visualizer) - See what's inside your RN bundle; useful for optimizing the bundle size
+* [AsyncStorage Dev Menu Item ★67](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
 * [Makeicon ★70](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 * [React Native Actions ★55](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
@@ -1239,6 +1296,7 @@ Open source React Native apps and other examples.
 ## Frameworks
 
 * [NativeBase ★10520](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+* [Teaset ★1575](https://github.com/jondot/awesome-react-native/blob/master/https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(https://github.com/jondot/awesome-react-native/blob/master/ES6) components, focusing on content display and action control.
 * [Awesome React Native Meteor ★152](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 * [React Native Diagnose ★13](https://github.com/netbeast/react-native-diagnose) - A framework to test a React Native app during runtime and production
 
@@ -1263,6 +1321,7 @@ Walkthroughs and tutorials that help you learn React Native.
 * [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 * [Introducing React Native (https://github.com/jondot/awesome-react-native/blob/master/on Ray Wenderlich's)](https://github.com/jondot/awesome-react-native/blob/master/http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
+* [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 * [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 * [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
 * [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
@@ -1337,63 +1396,6 @@ Assortment of conference and training videos.
 
 * [React Native Training](https://medium.com/react-native-training)
 * [Use React Native Blog](http://www.reactnative.com/)
-* [Facebook Code Blog](https://code.facebook.com/)
-* [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
-* [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
-* [Brent Vatne](http://brentvatne.ca/)
-* [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
-* [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
-* [Spencer Carli](https://medium.com/@spencer_carli)
-* [Official React Native Blog](http://facebook.github.io/react-native/blog/)
-* [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
-
-## Newsletters
-
-* [Let's React](http://letsreact.io)
-* [React Native Newsletter](http://reactnative.cc)
-* [React Native Coach](http://reactnativecoach.com)
-
-## Releases
-
-* [Stable: 0.57.0](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#057)
-* [Next: latest](https://github.com/facebook/react-native/releases/latest)
-* [All Versions](https://facebook.github.io/react-native/versions)
-* [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
-* [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
-* [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)om/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
-* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
-* Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
-* [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
-* [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
-
-## Blogs
-
-* [React Native Training](https://medium.com/react-native-training)
-* [Use React Native Blog](http://www.reactnative.com/)
-* [Facebook Code Blog](https://code.facebook.com/)
-* [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
-* [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
-* [Brent Vatne](http://brentvatne.ca/)
-* [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
-* [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
-* [Spencer Carli](https://medium.com/@spencer_carli)
-* [Official React Native Blog](http://facebook.github.io/react-native/blog/)
-* [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
-
-## Newsletters
-
-* [Let's React](http://letsreact.io)
-* [React Native Newsletter](http://reactnative.cc)
-* [React Native Coach](http://reactnativecoach.com)
-
-## Releases
-
-* [Stable: 0.57.0](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md#057)
-* [Next: latest](https://github.com/facebook/react-native/releases/latest)
-* [All Versions](https://facebook.github.io/react-native/versions)
-* [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
-* [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
-* [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html))
 * [Facebook Code Blog](https://code.facebook.com/)
 * [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
 * [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)

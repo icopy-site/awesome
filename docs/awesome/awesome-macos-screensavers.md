@@ -4,8 +4,17 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
 
+- [Clocks](#clocks)
 - [iOS (https://github.com/agarrharr/awesome-macos-screensavers/blob/master/and Apple TV) Inspired](https://github.com/agarrharr/awesome-macos-screensavers/blob/master/#ios-and-apple-tv-inspired)
+- [Retro](#retro)
+- [Sci-Fi](#sci-fi)
+- [Video Game](#video-game)
+- [Aquarium](#aquarium)
+- [Developer](#developer)
+- [Graphics](#graphics)
+- [Other](#other)
 
 ---
 
@@ -212,15 +221,5 @@ Free
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.r/awesome-macos-screensavers/blob/master/https://plus.google.com/featuredphotos)
-
----
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.1.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.

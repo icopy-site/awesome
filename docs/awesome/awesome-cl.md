@@ -20,6 +20,7 @@ a problem better than a community standard but they aren't as
 widespread, or not considered as stable. For example, we prefer
 Spinneret over Cl-Who.
 
+Add something new! See the [contributing](#contributing) section for adding something to the
 list.
 
 This is released under the GNU Free Documentation License - its text
@@ -29,7 +30,108 @@ alternative to Github.  Preference is given to [free software][13] and
 sellers who aren't evil for physical resources.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
 
+- [Audio](#audio)
+- [Build Systems](#build-systems)
+- [Compilers, code generators](#compilers-code-generators)
+    - [C, C++](#c-c)
+- [Crypto](#crypto)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Database](#database)
+    - [ORMs](#orms)
+    - [Persistent object databases](#persistent-object-databases)
+    - [Wrappers](#wrappers)
+    - [To third parties](#to-third-parties)
+    - [Tools](#tools)
+- [Data Structures](#data-structures)
+- [Foreign Function Interface](#foreign-function-interface)
+    - [C](#c)
+    - [Java](#java)
+    - [Miscellaneous](#miscellaneous)
+    - [Objective-C](#objective-c)
+    - [Python](#python)
+- [Game Development](#game-development)
+- [Graphics](#graphics)
+- [GUI](#gui)
+- [Implementations](#implementations)
+- [JSON](#json)
+- [YAML](#yaml)
+- [Language extensions](#language-extensions)
+    - [CLOS extensions](#clos-extensions)
+    - [Iteration](#iteration)
+    - [Lambda shorthands](#lambda-shorthands)
+    - [Non-deterministic, logic programming](#non-deterministic-logic-programming)
+    - [Reactive programming](#reactive-programming)
+    - [Contract programming](#contract-programming)
+- [Learning and Tutorials](#learning-and-tutorials)
+    - [Online](#online)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+    - [Reference](#reference)
+    - [Offline](#offline)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+    - [Community](#community)
+- [Library Manager](#library-manager)
+    - [Interfaces to other package managers](#interfaces-to-other-package-managers)
+- [Machine Learning](#machine-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Network and Internet](#network-and-internet)
+    - [HTTP clients](#http-clients)
+    - [HTTP Servers](#http-servers)
+        - [Clack plugins](#clack-plugins)
+    - [Web frameworks](#web-frameworks)
+    - [Assets management](#assets-management)
+    - [Parsing html](#parsing-html)
+    - [Querying HTML/DOM](#querying-htmldom)
+    - [HTML generators and templates](#html-generators-and-templates)
+    - [URI handling](#uri-handling)
+    - [Javascript](#javascript)
+    - [Email](#email)
+    - [Websockets](#websockets)
+    - [Static site generators](#static-site-generators)
+    - [Deployment](#deployment)
+    - [Monitoring](#monitoring)
+    - [Third-party APIs](#third-party-apis)
+    - [Others](#others)
+- [Numerical and Scientific](#numerical-and-scientific)
+- [Parallelism and Concurrency](#parallelism-and-concurrency)
+    - [Event processing](#event-processing)
+    - [Job processing](#job-processing)
+- [Regex](#regex)
+- [Scripting](#scripting)
+- [Text Editor Resources](#text-editor-resources)
+    - [Emacs](#emacs)
+    - [Vim & Neovim](#vim--neovim)
+    - [Eclipse](#eclipse)
+    - [Lem](#lem)
+    - [Atom](#atom)
+    - [Sublime Text](#sublime-text)
+    - [Notebooks](#notebooks)
+    - [REPLs](#repls)
+- [Text Processing](#text-processing)
+- [Tools](#tools)
+- [Unit Testing](#unit-testing)
+- [Utilities](#utilities)
+    - [Caching](#caching)
+    - [Configuration](#configuration)
+    - [CSV](#csv)
+    - [Date and time](#date-and-time)
+    - [Data validation](#data-validation)
+    - [Documentation builders](#documentation-builders)
+    - [Files and directories](#files-and-directories)
+    - [Git](#git)
+    - [i18n](#i18n)
+    - [Linting](#linting)
+    - [Logging](#logging)
+    - [Markdown](#markdown)
+    - [Plotting](#plotting)
+    - [Other](#other)
+- [XML](#xml)
+- [Contributing](#contributing)
 
 <!-- markdown-toc end -->
 
@@ -428,6 +530,7 @@ Community
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/T5D2EAJ)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) on Freenode - main Common Lisp IRC channel.
+* [Planet List](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 
 Library Manager
 ===============
@@ -571,6 +674,14 @@ Javascript
 See also
 [trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs
 minor mode for live Parenscript interaction.
+
+
+Email
+-----
+
+* [trivial-imap](https://github.com/CodyReichert/awesome-cl/blob/master/https://github.com/40ants/trivial-imap) - tries to make easy some common cases of working with IMAP servers, like reading emails from the server. A thin wrapper over post-office library (https://github.com/CodyReichert/awesome-cl/blob/master/which is a fork of Franz's cl-imap). [BSD][15].
+* [mailgun](https://github.com/40ants/mailgun) - A thin wrapper to post HTML emails through mailgun.com. No license specified.
+* [mito-email-auth](https://github.com/40ants/mito-email-auth) - Helper to authenticate a website's users by sending them unique code by email.
 
 
 Websockets
@@ -1020,47 +1131,6 @@ The rules we (https://github.com/CodyReichert/awesome-cl/blob/master/try to) res
 [17]: https://directory.fsf.org/wiki/License:BSD_2Clause
 [20]: http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html
 [21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
-[33]: http://directory.fsf.org/wiki/License:Zlib
-[39]: http://directory.fsf.org/wiki?title=License:FreeBSD
-[47]: http://directory.fsf.org/wiki/License:CPLv1.0
-[51]: http://directory.fsf.org/wiki/License:ArtisticLicense2.0
-[54]: http://directory.fsf.org/wiki/License:Boost1.0
-[59]: http://directory.fsf.org/wiki/License:EPLv1.0
-[71]: https://github.com/Shinmera/plump
-[72]: https://github.com/Shinmera/lquery
-[89]: http://directory.fsf.org/wiki/License:Apache2.0
-[156]: http://letoverlambda.com/
-[157]: http://norvig.com/paip.html
-[176]: https://github.com/gwkkwg/lift/blob/master/COPYING
-[188]: https://github.com/triclops200/quickapp
-[200]: https://opensource.org/licenses/MIT
-[201]: https://github.com/google/lisp-koans
-[205]: https://www.postgresql.org/about/licence/
-[206]: http://www.gigamonkeys.com/book/
-[207]: https://opensource.org/licenses/bsd-license.php
-[208]:https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-[209]: http://www.eclipse.org/legal/epl-v10.html/courses/325/readings/graham/graham-notes.html
-[21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
-[33]: http://directory.fsf.org/wiki/License:Zlib
-[39]: http://directory.fsf.org/wiki?title=License:FreeBSD
-[47]: http://directory.fsf.org/wiki/License:CPLv1.0
-[51]: http://directory.fsf.org/wiki/License:ArtisticLicense2.0
-[54]: http://directory.fsf.org/wiki/License:Boost1.0
-[59]: http://directory.fsf.org/wiki/License:EPLv1.0
-[71]: https://github.com/Shinmera/plump
-[72]: https://github.com/Shinmera/lquery
-[89]: http://directory.fsf.org/wiki/License:Apache2.0
-[156]: http://letoverlambda.com/
-[157]: http://norvig.com/paip.html
-[176]: https://github.com/gwkkwg/lift/blob/master/COPYING
-[188]: https://github.com/triclops200/quickapp
-[200]: https://opensource.org/licenses/MIT
-[201]: https://github.com/google/lisp-koans
-[205]: https://www.postgresql.org/about/licence/
-[206]: http://www.gigamonkeys.com/book/
-[207]: https://opensource.org/licenses/bsd-license.php
-[208]:https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-[209]: http://www.eclipse.org/legal/epl-v10.html730.Object_Oriented_Programming_in_Common_LISP
 [33]: http://directory.fsf.org/wiki/License:Zlib
 [39]: http://directory.fsf.org/wiki?title=License:FreeBSD
 [47]: http://directory.fsf.org/wiki/License:CPLv1.0

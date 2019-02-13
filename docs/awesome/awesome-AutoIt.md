@@ -9,11 +9,46 @@
 
 Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table Of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Awesome AutoIt](#awesome-autoit-)
+  - [UDF/Libraries](#udflibraries)
+    - [Automation](#automation)
+      - [Browsers](#browsers)
+      - [Microsoft Office](#microsoft-office)
+      - [OpenOffice](#openoffice)
+    - [Databases and web connections](#databases-and-web-connections)
+    - [Data compression](#data-compression)
+    - [Encryption and hash](#encryption-and-hash)
+    - [GUI Additions](#gui-additions)
+    - [Controls](#controls)
+    - [Hardware](#hardware)
+    - [Information gathering](#information-gathering)
+    - [Internet protocol suite](#internet-protocol-suite)
+    - [Maths](#maths)
+    - [Media](#media)
+    - [Graphics and image](#graphics-and-image)
+    - [Players](#players)
+    - [Sound](#sound)
+    - [PDF](#pdf)
+    - [Security](#security)
+    - [Social Media and other Website API](#social-media-and-other-website-api)
+    - [Windows](#windows)
+    - [Misc](#misc)
+  - [Tools](#tools)
+  - [Useful Resources](#useful-resources)
+    - [Documents](#documents)
+    - [Websites](#websites)
+    - [Guides/Tutorials](#guidestutorials)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Syntax Highlighter](#syntax-highlighter)
+  - [License](#license)
+  - [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -416,18 +451,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp
 - [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists](https://github.com/jnv/lists) by @jnv
-esome) by @erichs
-- [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists](https://github.com/jnv/lists) by @jnv
-
-[[Back to Top](#awesome-autoit)]some](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139

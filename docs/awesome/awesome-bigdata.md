@@ -6,6 +6,40 @@ A curated list of awesome big data frameworks, resources and other awesomeness. 
 
 Your contributions are always welcome!
 
+- [Awesome Big Data](#awesome-bigdata)
+    - [RDBMS](#rdbms)
+    - [Frameworks](#frameworks)
+    - [Distributed Programming](#distributed-programming)
+    - [Distributed Filesystem](#distributed-filesystem)
+    - [Key-Map Data Model](#key-map-data-model)
+    - [Document Data Model](#document-data-model)
+    - [Key-value Data Model](#key-value-data-model)
+    - [Graph Data Model](#graph-data-model)
+    - [NewSQL Databases](#newsql-databases)
+    - [Columnar Databases](#columnar-databases)
+    - [Time-Series Databases](#time-series-databases)
+    - [SQL-like processing](#sql-like-processing)
+    - [Data Ingestion](#data-ingestion)
+    - [Service Programming](#service-programming)
+    - [Scheduling](#scheduling)
+    - [Machine Learning](#machine-learning)
+    - [Benchmarking](#benchmarking)
+    - [Security](#security)
+    - [System Deployment](#system-deployment)
+    - [Applications](#applications)
+    - [Search engine and framework](#search-engine-and-framework)
+    - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
+    - [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
+    - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
+    - [Embedded Databases](#embedded-databases)
+    - [Business Intelligence](#business-intelligence)
+    - [Data Visualization](#data-visualization)
+    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
+    - [Interesting Readings](#interesting-readings)
+    - [Interesting Papers](#interesting-papers)
+    - [Videos](#videos)
+    - [Books](#books)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## RDBMS
 * [MySQL](https://www.mysql.com/) The world's most popular open source database.
@@ -83,9 +117,12 @@ Your contributions are always welcome!
 * [Ambry](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [Apache Kudu](http://kudu.apache.org/) - Hadoop's storage layer to enable fast analytics on fast data.
+* [BeeGFS](https://www.beegfs.io/content/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
 * [Disco DDFS](http://disco.readthedocs.org/en/latest/howto/ddfs.html) - distributed filesystem.
 * [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - object storage system.
+* [Google Colossus](https://github.com/onurakpolat/awesome-bigdata/blob/master/http://static.googleusercontent.com/media/research.google.reverse-proxy.org/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf) - distributed filesystem (https://github.com/onurakpolat/awesome-bigdata/blob/master/GFS2).
+* [Google GFS](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - distributed filesystem.
 * [Google Megastore](https://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
 * [GridGain](https://www.gridgain.com/) - GGFS, Hadoop compliant in-memory file system.
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
@@ -120,7 +157,9 @@ Your contributions are always welcome!
 
 Another group of technologies that can also be called "columnar databases" is distinguished by how it stores data, on disk or in memory -- rather than storing data the traditional way, where all column values for a given key are stored next to each other, "row by row", these systems store all *column* values next to each other. So more work is needed to get all columns for a given key, but less work is needed to get all values for a given column.
 
+The former group is referred to as "key map data model" here. The line between these and the [Key-value Data Model](#key-value-data-model) stores is fairly blurry.
 
+The latter, being more about the storage format than about the data model, is listed under [Columnar Databases](#columnar-databases).
 
 You can read more about this distinction on Prof. Daniel Abadi's blog: [Distinguishing two major types of Column Stores](http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html).
 
@@ -129,6 +168,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 * [Baidu Tera](https://github.com/baidu/tera) - an Internet-scale database, inspired by BigTable.
 * [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
+* [Google BigTable](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview) - is a fully managed, schemaless database for storing non-relational data over BigTable.
 * [Hypertable](http://www.hypertable.org/) - column-oriented distributed datastore, inspired by BigTable.
 * [InfiniDB](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
@@ -196,6 +236,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Columnar Databases
 
+**Note** please read the note on [Key-Map Data Model](#key-map-data-model) section.
 
 * [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
@@ -432,6 +473,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Metron](http://metron.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
+* [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
 * [Argus](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
 * [AthenaX](https://github.com/onurakpolat/awesome-bigdata/blob/master/https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (https://github.com/onurakpolat/awesome-bigdata/blob/master/SQL).
 * [Atlas](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
@@ -471,6 +513,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google Percolator](https://research.google.com/pubs/pub36726.html) - continuous indexing system.
 * [TeraGoogle]() - large search index.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - implementation of Percolator, part of HBase.
+* [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - quickly and easily search for any content stored in HBase.
 * [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) - search architecture at LinkedIn.
@@ -618,9 +661,15 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ### 2013 - 2014
 * [2014](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - **Stanford** - Mining of Massive Datasets.
+* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/eurosys13-paper83.pdf) - **AMPLab** - Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices.
+* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/01/dmx1.pdf) - **AMPLab** - MLbase: A Distributed Machine-learning System.
+* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/02/shark_sigmod2013.pdf) - **AMPLab** - Shark: SQL and Rich Analytics at Scale.
+* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf) - **AMPLab** - GraphX: A Resilient Distributed Graph System on Spark.
+* [2013](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf) - **Google** - HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm.
 * [2013](http://research.microsoft.com/pubs/200169/now-vldb.pdf) - **Microsoft** - Scalable Progressive Analytics on Big Data in the Cloud.
 * [2013](http://static.druid.io/docs/druid.pdf) - **Metamarkets** - Druid: A Real-time Analytical Data Store.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p764-rae.pdf) - **Google** - Online, Asynchronous Schema Change in F1.
+* [2013](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf) - **Google** - F1: A Distributed SQL Database That Scales.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p734-akidau.pdf) - **Google** - MillWheel: Fault-Tolerant Stream Processing at Internet Scale.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf) - **Facebook** - Scuba: Diving into Data at Facebook.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf) - **Facebook** - Unicorn: A System for Searching the Social Graph.
@@ -630,20 +679,33 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [2012](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) - **Twitter** - The Unified Logging Infrastructure
 for Data Analytics at Twitter.
+* [2012](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/04/blinkdb_vldb12_demo.pdf) - **AMPLab** - Blink and It’s Done: Interactive Queries on Very Large Data.
 * [2012](https://www.usenix.org/system/files/login/articles/zaharia.pdf) - **AMPLab** - Fast and Interactive Analytics over Hadoop Data with Spark.
+* [2012](https://amplab.cs.berkeley.edu/wp-content/uploads/2012/03/mod482-xin1.pdf) - **AMPLab** - Shark: Fast Data Analysis Using Coarse-grained Distributed Memory.
 * [2012](https://www.usenix.org/legacy/event/nsdi11/tech/full_papers/Bolosky.pdf) - **Microsoft** - Paxos Replicated State Machines as the Basis of a High-Performance Data Store.
 * [2012](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf) - **Microsoft** - Paxos Made Parallel.
 * [2012](https://arxiv.org/pdf/1203.5485.pdf) - **AMPLab** - BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data.
 * [2012](http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf) - **Google** - Processing a trillion cells per mouse click.
+* [2012](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - **Google** - Spanner: Google’s Globally-Distributed Database.
+* [2011](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/euro118-ananthanarayanan.pdf) - **AMPLab** - Scarlett: Coping with Skewed Popularity Content in MapReduce Clusters.
+* [2011](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Mesos-A-Platform-for-Fine-Grained-Resource-Sharing-in-the-Data-Center.pdf) - **AMPLab** - Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center.
+* [2011](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36971.pdf) - **Google** - Megastore: Providing Scalable, Highly Available Storage for Interactive Services.
 
 ### 2001 - 2010
 
 * [2010](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf) - **Facebook** - Finding a needle in Haystack: Facebook’s photo storage.
+* [2010](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf) - **AMPLab** - Spark: Cluster Computing with Working Sets.
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) - **Google** - Pregel: A System for Large-Scale Graph Processing.
+* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and Notiﬁcations base of Percolator and Caffeine.
+* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf) - **Google** - Dremel: Interactive Analysis of Web-Scale Datasets.
 * [2010](http://leoneu.github.io/) - **Yahoo** - S4: Distributed Stream Computing Platform.
 * [2009](http://www.vldb.org/pvldb/2/vldb09-861.pdf) - HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.
 * [2008](http://www.cca08.org/papers/Paper-13-Ariel-Rabkin.pdf) - **AMPLab** - Chukwa: A large-scale monitoring system.
 * [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo: Amazon’s Highly Available Key-value Store.
+* [2006](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) - **Google** - The Chubby lock service for loosely-coupled distributed systems.
+* [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
+* [2004](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
+* [2003](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
 
 ## Videos
 
@@ -681,41 +743,6 @@ for Data Analytics at Twitter.
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
-- Another list? [list](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
-- Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets).
-- Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
-- Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
-- Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).ong with new tools designed specifically to capture and analyze web-scale data.
-* [Spark in Action](https://www.manning.com/books/spark-in-action) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
-* [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
-* [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
-* [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
-
-#### Distributed systems
-* [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) – Theory of distributed systems. Include parts about time and ordering, replication and impossibility results.
-
-#### Graph Based approach
-* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
-
-### Data Visualization
- * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
- * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
- * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
- * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
-
-
-# Other Awesome Lists
-- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome](https://github.com/sindresorhus/awesome).
-- Another list? [list](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
-- Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets).
-- Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
-- Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
-- Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).e lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).

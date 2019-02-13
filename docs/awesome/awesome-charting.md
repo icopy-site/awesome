@@ -7,6 +7,12 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
+**Table of Contents**
+*  [Commercial Libraries](#commercial-libraries)
+*  [Free and Open Source Libraries](#free-and-open-source-libraries)
+*  [Free Libraries](#free-libraries)
+*  [Framework-Specific Libraries](#framework-specific-libraries)
+*  [Data Visualization Resources](#data-visualization-resources)
 
 ## Commercial Libraries
 * [amCharts](https://www.amcharts.com/) - Three libraries for traditional charts, stock, and maps. Features a hand-drawn style theme option.
@@ -69,4 +75,4 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Junk Charts](https://github.com/zingchart/awesome-charting/blob/master/http://junkcharts.typepad.com) - Dataviz critic (https://github.com/zingchart/awesome-charting/blob/master/and Columbia professor) Kaiser Fung breaks down data visualizations to identify what is wrong and recommends ways to make them better.
 * [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
 * [Visualizing Data](http://www.visualisingdata.com) - Dataviz consultant Andy Kirk compiles examples, resources, and reference materials on the subject of charting and visualization.
-* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.n and design by Moritz Stefaner previously of the World Economic Forum.n and design by Moritz Stefaner previously of the World Economic Forum.
+* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.

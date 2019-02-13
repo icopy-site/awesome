@@ -6,7 +6,13 @@
 
 Code review is the systematic examination (https://github.com/joho/awesome-code-review/blob/master/sometimes referred to as peer review) of computer source code.
 
+## Contents
 
+- [Academic Papers](#academic-papers)
+- [Articles](#articles)
+- [Books](#books)
+- [Talks and Podcasts](#talks-and-podcasts)
+- [Tools](#tools)
 
 ## Academic Papers
 
@@ -75,6 +81,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/joh
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [John Barton](https://johnbarton.co) has waived all copyright and
-related or neighboring rights to this work.co) has waived all copyright and
-related or neighboring rights to this work.co) has waived all copyright and
 related or neighboring rights to this work.

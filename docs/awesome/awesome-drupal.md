@@ -7,7 +7,18 @@
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
+## Contents
 
+- [Tools](#tools)
+- [Modules](#modules)
+- [Documentation](#documentation)
+- [Articles](#articles)
+- [Distributions](#distributions)
+- [Books](#books)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Community](#community)
+- [Tips](#tips)
 
 
 ## Tools
@@ -157,9 +168,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/nir
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.licdomain/zero/1.0/)
-
-To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.licdomain/zero/1.0/)
 
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.

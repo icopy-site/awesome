@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/dav
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.ndro.pictures) has waived all copyright and related or neighboring rights to this work.ndro.pictures) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.

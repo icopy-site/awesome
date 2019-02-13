@@ -2,6 +2,31 @@
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
+- [Awesome Hadoop](#awesome-hadoop)
+	- [Hadoop](#hadoop)
+	- [YARN](#yarn)
+	- [NoSQL](#nosql)
+	- [SQL on Hadoop](#sql-on-hadoop)
+	- [Data Management](#data-management)
+	- [Workflow, Lifecycle and Governance](#workflow-lifecycle-and-governance)
+	- [Data Ingestion and Integration](#data-ingestion-and-integration)
+	- [DSL](#dsl)
+	- [Libraries and Tools](#libraries-and-tools)
+	- [Realtime Data Processing](#realtime-data-processing)
+	- [Distributed Computing and Programming](#distributed-computing-and-programming)
+	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
+	- [Monitoring](#monitoring)
+	- [Search](#search)
+	- [Security](#security)
+	- [Benchmark](#benchmark)
+	- [Machine learning and Big Data analytics](#machine-learning-and-big-data-analytics)
+	- [Misc.](#misc)
+- [Resources](#resources)
+	- [Websites](#websites)
+	- [Presentations](#presentations)
+	- [Books](#books)
+	- [Hadoop and Big Data Events](#hadoop-and-big-data-events)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
 
@@ -100,6 +125,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Elephant Bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
+* [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 * [Apache Superset (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating)](https://github.com/youngwookim/awesome-hadoop/blob/master/https://superset.incubator.apache.org/) - Apache Superset (https://github.com/youngwookim/awesome-hadoop/blob/master/incubating) is a modern, enterprise-ready business intelligence web application
@@ -244,30 +270,6 @@ Various resources, such as books, websites and articles.
 * [ApacheCon](http://www.apachecon.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 * [DataWorks Summit](https://dataworkssummit.com/)
-* [Spark Summit](https://databricks.com/sparkaisummit)
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome) list.oop-provisioning)
-
-## Books
-
-* [Hadoop: The Definitive Guide](http://www.amazon.com/gp/product/1449311520/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449311520&linkCode=as2&tag=matratsblo-20)
-* [Hadoop Operations](http://www.amazon.com/gp/product/1449327052/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449327052&linkCode=as2&tag=matratsblo-20)
-* [Apache Hadoop Yarn](http://www.amazon.com/dp/0321934504?tag=matratsblo-20)
-* [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do)
-* [Programming Pig](http://shop.oreilly.com/product/0636920018087.do)
-* [Programming Hive](http://shop.oreilly.com/product/0636920023555.do)
-* [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
-* [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
-
-## Hadoop and Big Data Events
-* [ApacheCon](http://www.apachecon.com/)
-* [Strata + Hadoop World](http://conferences.oreilly.com/strata)
-* [DataWorks Summit](https://dataworkssummit.com/)
-* [Spark Summit](https://databricks.com/sparkaisummit)
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome) list.mmit.com/)
 * [Spark Summit](https://databricks.com/sparkaisummit)
 
 # Other Awesome Lists

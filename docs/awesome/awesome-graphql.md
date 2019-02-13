@@ -4,9 +4,51 @@
 
 If you want to contribute to this list (https://github.com/chentsulin/awesome-graphql/blob/master/please do), send me a pull request.
 
+## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Specification](#spec)
+- [Foundation](#foundation)
+- [Community](#community)
+- [Libraries](#lib)
+	- [Javascript](#lib-js)
+	- [Ruby](#lib-rb)
+	- [PHP](#lib-php)
+	- [Python](#lib-py)
+	- [Java](#lib-java)
+	- [C/C++](#lib-c)
+	- [Go](#lib-go)
+	- [Scala](#lib-scala)
+	- [.NET](#lib-dotnet)
+	- [Elixir](#lib-elixir)
+	- [Haskell](#lib-haskell)
+	- [SQL](#lib-sql)
+	- [Lua](#lib-lua)
+	- [Elm](#lib-elm)
+	- [Clojure](#lib-clojure)
+	- [Swift](#lib-swift)
+	- [OCaml](#lib-ocaml)
+	- [Android](#lib-android)
+	- [iOS](#lib-ios)
+- [Tools](#tools)
+- [Services](#services)
+- [Databases](#databases)
+- [Examples](#example)
+	- [Javascript](#example-js)
+	- [Typescript](#example-ts)
+	- [Ruby](#example-rb)
+	- [Go](#example-go)
+	- [Scala](#example-scala)
+	- [Python](#example-python)
+	- [Elixir](#example-elixir)
+	- [Java](#example-java)
+	- [Android](#example-android)
+	- [iOS](#example-ios)
+- [Videos](#video)
+- [Blogs](#blogs)
+- [Posts](#post)
+- [Workshoppers](#workshopper)
 
 <!-- /MarkdownTOC -->
 
@@ -343,6 +385,7 @@ If you want to contribute to this list (https://github.com/chentsulin/awesome-gr
 
 ## Services
 
+* [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 
@@ -515,22 +558,6 @@ Boilerplate + examples for React Native (https://github.com/chentsulin/awesome-g
 
 * [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
 * [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more
-* [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
-* [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) has waived all copyright and related or neighboring rights to this work.Relay, JavaScript, Ruby, Java, Elixir and many more
-* [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
-* [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) has waived all copyright and related or neighboring rights to this work.Relay, JavaScript, Ruby, Java, Elixir and many more
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
 

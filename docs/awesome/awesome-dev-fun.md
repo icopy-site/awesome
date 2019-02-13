@@ -5,7 +5,25 @@
 For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
+## Contents
 
+- [Android](#android)
+- [CSS](#css)
+- [Elixir](#elixir)
+- [Golang](#golang)
+- [Haskell](#haskell)
+- [HTML](#html)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [PHP](#php)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Esoteric languages](#esoteric-languages)
+- [SaaS](#saas)
+- [Browser extensions](#browser-extensions)
+- [CLI](#cli)
+- [DevOps](#devops)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Android
@@ -147,6 +165,4 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/archiveeeeeeeeeed).
-- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷eeeeeed).
-- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷eeeeeed).
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷

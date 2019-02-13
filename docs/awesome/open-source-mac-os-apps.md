@@ -36,6 +36,53 @@ You can see in which language an app is written. Currently there are following l
 - ![type_script_icon] - TypeScript language.
 
 
+## Contents
+- [Audio](#audio)
+- [Backup](#backup)
+- [Browser](#browser)
+- [Chat](#chat)
+- [Cryptocurrency](#cryptocurrency)
+- [Database](#database)
+- [Development](#development)
+    - [Git](#git)
+    - [iOS / macOS](#ios--macos)
+    - [JSON Parsing](#json-parsing)
+    - [Web development](#web-development)
+    - [Other](#other)
+- [Downloader](#downloader)
+- [Editors](#editors)
+    - [CSV](#csv)
+    - [JSON](#json)
+    - [Markdown](#markdown)
+    - [TeX](#tex)
+    - [Text](#text)
+- [Extensions](#extensions)
+- [Finder](#finder)
+- [Games](#games)
+- [Graphics](#graphics)
+- [IDE](#ide)
+- [Images](#images)
+- [Keyboard](#keyboard)
+- [Mail](#mail)
+- [Menubar](#menubar)
+- [Music](#music)
+- [News](#news)
+- [Notes](#notes)
+- [Other](#other-1)
+- [Podcast](#podcast)
+- [Productivity](#productivity)
+- [Screensaver](#screensaver)
+- [Security](#security)
+- [Sharing Files](#sharing-files)
+- [Social Networking](#social-networking)
+- [Streaming](#streaming)
+- [System](#system)
+- [Terminal](#terminal)
+- [Utilities](#utilities)
+- [VPN & Proxy](#vpn--proxy)
+- [Video](#video)
+- [Wallpaper](#wallpaper)
+- [Window Management](#window-management)
 
 ## Applications
 
@@ -140,6 +187,7 @@ You can see in which language an app is written. Currently there are following l
 #### Other Development
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) - Node and Attribute viewer for Chef  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/Yasumoto/ChefInspector/master/screenshot.png' width="400"/>  </p></details> 
 - [macho-browser](https://github.com/dcsch/macho-browser) - Browser for macOS Mach-O binaries.   ![objective_c_icon] 
+- [vegvisir](https://github.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  </p></details> 
 
 #### Web Development
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx) - CoreOS VM is macOS status bar app which allows in an easy way to control CoreOS VM on your Mac.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/TheNewNormal/coreos-osx/master/coreos-osx.png' width="400"/>  </p></details> 
@@ -557,24 +605,6 @@ Thanks to all the people who contribute:
 [go_icon]: ./icons/golang-16.png 'Go language.'
 [elm_icon]: ./icons/elm-16.png 'Elm Language'
 [haskell_icon]: ./icons/haskell-16.png 'Haskell language.'
-[java_icon]: ./icons/java-16.png 'Java language.'
-[javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
-[lua_icon]: ./icons/Lua-16.png 'Lua language.'
-[objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
-[python_icon]: ./icons/python-16.png 'Python language.'
-[ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
-[rust_icon]: ./icons/rust-16.png 'Rust language.'
-[swift_icon]: ./icons/swift-16.png 'Swift language.'
-[type_script_icon]: ./icons/typescript-16.png 'TypeScript language.': ./icons/haskell-16.png 'Haskell language.'
-[java_icon]: ./icons/java-16.png 'Java language.'
-[javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
-[lua_icon]: ./icons/Lua-16.png 'Lua language.'
-[objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
-[python_icon]: ./icons/python-16.png 'Python language.'
-[ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
-[rust_icon]: ./icons/rust-16.png 'Rust language.'
-[swift_icon]: ./icons/swift-16.png 'Swift language.'
-[type_script_icon]: ./icons/typescript-16.png 'TypeScript language.': ./icons/haskell-16.png 'Haskell language.'
 [java_icon]: ./icons/java-16.png 'Java language.'
 [javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
 [lua_icon]: ./icons/Lua-16.png 'Lua language.'

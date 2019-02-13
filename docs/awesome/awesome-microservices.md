@@ -2,7 +2,67 @@
 
 A curated list of Microservice Architecture related principles and technologies.
 
+**Table of Contents**
 
+- [Platforms](#platforms)
+- [Frameworks / Runtimes](#frameworks--runtimes)
+- [Service Toolkits](#service-toolkits)
+  - [Polyglot](#polyglot)
+  - [C](#c)
+  - [C++](#c-1)
+  - [C#](#csharp)
+  - [D](#d)
+  - [Erlang VM](#erlang-vm)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Java VM](#java-vm)
+  - [Node.js](#nodejs)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+- [Capabilities](#capabilities)
+  - [API Gateways / Edge Services](#api-gateways--edge-services)
+  - [Configuration and Discovery](#configuration-and-discovery)
+  - [Coordination and Governance](#coordination-and-governance)
+  - [Elasticity](#elasticity)
+  - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Logging](#logging)
+  - [Messaging](#messaging)
+  - [Monitoring and Debugging](#monitoring-and-debugging)
+  - [Reactivity](#reactivity)
+  - [Resilience](#resilience)
+  - [Security](#security)
+  - [Serialization](#serialization)
+  - [Storage](#storage)
+  - [Testing](#testing)
+- [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
+- [Documentation & Modeling](#documentation--modeling)
+  - [REST APIs](#rest-apis)
+- [Standards / Recommendations](#standards--recommendations)
+  - [World Wide Web](#world-wide-web)
+  - [HTTP/1.1](#http11)
+  - [HTTP/2](#http2)
+  - [CoAP](#coap)
+  - [RPC](#rpc)
+  - [Messaging](#messaging-1)
+  - [Security](#security-1)
+  - [Service Discovery](#service-discovery)
+  - [Data Formats](#data-formats)
+  - [Vocabularies](#vocabularies)
+  - [Unicode](#unicode)
+- [Real Life Stories](#real-life-stories)
+- [Enterprise & Verticals](#enterprise--verticals)
+- [Theory](#theory)
+  - [Articles & Papers](#articles--papers)
+  - [Talks](#talks)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Sites](#sites)
+- [Emerging Technologies](#emerging-technologies)
+- [License](#license)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Platforms
@@ -637,32 +697,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Pony](http://www.ponylang.org/) - Open source, object-oriented, actor-model, capabilities-secure, high performance programming language.
 
 ## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## Contributing
-
-Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) before submitting your suggestion.
-
-Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
-
-:star2: Thank you!
-
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## Contributing
-
-Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) before submitting your suggestion.
-
-Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
-
-:star2: Thank you!
-
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

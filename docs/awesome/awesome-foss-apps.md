@@ -10,6 +10,9 @@ This list is for developers who are looking for non-trivial quality applications
 
 - [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/frontend only)](https://github.com/johnfaucett/awesome-foss-apps/blob/master/#web-apps-frontend-only)
 - [Webapps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/fullstack)](https://github.com/johnfaucett/awesome-foss-apps/blob/master/#web-apps-fullstack)
+- [Desktop Apps](#desktop-apps)
+- [Mobile Apps](#mobile-apps)
+- [Games](#games)
 
 
 ## Web Apps (https://github.com/johnfaucett/awesome-foss-apps/blob/master/frontend only)
@@ -133,9 +136,5 @@ This list is for developers who are looking for non-trivial quality applications
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work./i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.omain/zero/1.0/)
 
 To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.

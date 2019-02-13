@@ -4,8 +4,32 @@ A curated list of awesome MySQL free and opensource software, libraries and reso
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
+### Contents
 
+- [Awesome MySQL](#awesome-mysql)
+    - [Analysis](#analysis)
+    - [Backup](#backup)
+    - [Benchmarking](#benchmarking)
+    - [ChatOps](#chatops)
+    - [Configuration](#configuration)
+    - [Connectors](#connectors)
+    - [Deployment](#deployment)
+    - [Development](#development)
+    - [GUI](#gui)
+    - [HA](#ha)
+    - [Proxy](#proxy)
+    - [Replication](#replication)
+    - [Schema](#schema)
+    - [Security](#security)
+    - [Server](#server)
+    - [Sharding](#sharding)
+    - [Toolkits](#toolkits)
 
+- [Resources](#resources)
+    - [Conferences](#conferences)
+    - [E-Books](#e-books)
+    - [Media](#media)
+    - [Newsletters](#newsletters)
 
 
 ## Analysis
@@ -197,16 +221,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## Media
 
 *Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
-
-## Newsletters
-
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address* excludes conference presentations in fear of list size*
-
-
-## Newsletters
-
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address* excludes conference presentations in fear of list size*
 
 
 ## Newsletters

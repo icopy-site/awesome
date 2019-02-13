@@ -7,7 +7,16 @@ So it allows to automate tasks and collaborate, encourages teams to be transpare
 
 If you want to contribute, please read [CONTRIBUTING.md](https://github.com/exAspArk/awesome-chatops/blob/master/./CONTRIBUTING.md).
 
+## Contents
 
+* [Articles](#articles)
+* [Videos](#videos)
+* [Books](#books)
+* [Events](#events)
+* [Podcasts](#podcasts)
+* [Resources](#resources)
+* [Services](#services)
+* [Frameworks and libraries](#frameworks-and-libraries)
 
 ## Articles
 
@@ -58,6 +67,44 @@ If you want to contribute, please read [CONTRIBUTING.md](https://github.com/exAs
 
 These open source projects will help you to build a bot to automate your company chat depending on the platform.
 
+* [AIM](#aim)
+* [Campfire](#campfire)
+* [ChatWork](#chatwork)
+* [Dasher](#dasher)
+* [Discord](#discord)
+* [Facebook Messenger](#facebook-messenger)
+* [Fleep](#fleep)
+* [Flowdock](#flowdock)
+* [Gitter](#gitter)
+* [HipChat](#hipchat)
+* [Idobata](#idobata)
+* [iMessage](#imessage)
+* [IRC](#irc)
+* [Jabbr](#jabbr)
+* [Let's chat](#lets-chat)
+* [Lingr](#lingr)
+* [Matrix](#matrix)
+* [Mattermost](#mattermost)
+* [Partychat](#partychat)
+* [QQ](#qq)
+* [Rocket.Chat](#rocketchat)
+* [Skype](#skype)
+* [Skyweb](#skyweb)
+* [Slack](#slack)
+* [Spark](#spark)
+* [Talker](#talker)
+* [Telegram](#telegram)
+* [Tox](#tox)
+* [Twilio](#twilio)
+* [Twitter](#twitter)
+* [Typetalk](#typetalk)
+* [VictorOps](#victorops)
+* [Visual Studio Online](#visual-studio-online)
+* [Vkontakte](#vkontakte)
+* [WeChat](#wechat)
+* [XMPP / Jabber](#xmpp--jabber)
+* [Yammer](#yammer)
+* [Zulip](#zulip)
 
 ### AIM
 
@@ -273,27 +320,6 @@ These open source projects will help you to build a bot to automate your company
 
 * [Errbot](https://github.com/exAspArk/awesome-chatops/blob/master/http://errbot.io/) + [adapter](https://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/zulip/errbot-backend-zulip) (https://github.com/exAspArk/awesome-chatops/blob/master/Python)
 * [Hubot](https://github.com/exAspArk/awesome-chatops/blob/master/https://hubot.github.com/) + [adapter](https://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/zulip/hubot-zulip) (https://github.com/exAspArk/awesome-chatops/blob/master/CoffeeScript, Node.js)
-
----
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)s://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/vbauer/jabberjay) (https://github.com/exAspArk/awesome-chatops/blob/master/Clojure)
-
-### Yammer
-
-* [Hubot](https://github.com/exAspArk/awesome-chatops/blob/master/https://hubot.github.com/) + [adapter](https://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/athieriot/hubot-yammer) (https://github.com/exAspArk/awesome-chatops/blob/master/CoffeeScript, Node.js)
-
-### Zulip
-
-* [Errbot](https://github.com/exAspArk/awesome-chatops/blob/master/http://errbot.io/) + [adapter](https://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/zulip/errbot-backend-zulip) (https://github.com/exAspArk/awesome-chatops/blob/master/Python)
-* [Hubot](https://github.com/exAspArk/awesome-chatops/blob/master/https://hubot.github.com/) + [adapter](https://github.com/exAspArk/awesome-chatops/blob/master/https://github.com/zulip/hubot-zulip) (https://github.com/exAspArk/awesome-chatops/blob/master/CoffeeScript, Node.js)
-
----
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)com/exAspArk/awesome-chatops/blob/master/https://github.com/zulip/hubot-zulip) (https://github.com/exAspArk/awesome-chatops/blob/master/CoffeeScript, Node.js)
 
 ---
 

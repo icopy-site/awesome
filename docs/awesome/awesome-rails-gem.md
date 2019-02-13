@@ -3,6 +3,25 @@ A collection of awesome Ruby Gems for Rails development.
 
 The goal is to help every Rails developer to build an awesome Rails product/service.
 
+* [Rails Gem List](#rails-gem-list)
+  * [User](#user)
+  * [Active Record](#active-record)
+  * [Plugins](#plugins)
+  * [API](#api)
+  * [Email](#email)
+  * [File Uploading](#file-uploading)
+  * [Searching](#searching)
+  * [Scheduled/Recurrence Jobs](#scheduledrecurrence-jobs)
+  * [View Helper](#view-helper)
+  * [Environment Variables](#environment-variables)
+  * [Admin Panel](#admin-panel)
+  * [Logging](#logging)
+  * [Debug](#debug)
+  * [Coding Style](#coding-style)
+  * [Testing](#testing)
+  * [Production](#production)
+  * [Error Logging](#error-logging)
+  * [Database](#database)
 
 ## User
 
@@ -62,6 +81,8 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Spreadsheet](https://github.com/zdavatz/spreadsheet) - Library is designed to read and write Spreadsheet Documents.
 * [Chartkick](https://github.com/ankane/chartkick) - Chartkick helps your to create beautiful Javascript charts with one line of Ruby.
 * [kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4.
+* [CKEditor](https://github.com/galetahub/ckeditor) - CKEditor is a WYSIWYG text editor designed to simplify web content creation. It brings common word processing features directly to your web pages. Enhance your website experience with our community maintained editor. [ckeditor.com](http://ckeditor.com)
+* [HTML::Pipeline](https://github.com/jch/html-pipeline) - GitHub HTML processing filters and utilities. This module includes a small framework for defining DOM based content filters and applying them to user provided content.
 * [Slack Notifier](https://github.com/stevenosloan/slack-notifier) is a simple wrapper to send notifications to [Slack](https://slack.com/) webhooks.
 * [Rails ERD](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 * [Parity](https://github.com/thoughtbot/parity) - Shell commands for development, staging, and production parity for Heroku apps.
@@ -135,6 +156,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is a administration framework for Ruby on Rails applications.
   - [active_skin](https://github.com/rstgroup/active_skin): Flat skin for active admin.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
+* [Typus](https://github.com/typus/typus) - Typus is a control panel for Ruby on Rails applications to allow trusted users edit structured content.
 * [administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails
 
@@ -204,25 +226,6 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Asset Pipeline
 * [Alaska](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/hothero/awesome-rails-gem/blob/master/contributing.md) first.
-
-## Error Logging
-* [Rollbar](https://github.com/rollbar/rollbar-gem) - Exception tracking and logging from Ruby to Rollbar.
-* [Airbrake](https://github.com/airbrake/airbrake) - Notifier gem for integrating apps with Airbrake
-* [Errbit](https://github.com/errbit/errbit) - Open source notifier gem compliant with Airbrake.
-
-## Database
-* [rails_db](https://github.com/igorkasyanchuk/rails_db) - Rails Database Viewer and SQL Query Runner
-
-## Asset Pipeline
-* [Alaska](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/hothero/awesome-rails-gem/blob/master/contributing.md) first.r coffeescript compilation process during development and deployment.
 
 ## Contribute
 

@@ -9,6 +9,7 @@ In summer 2017 [Lauri Apple](https://github.com/LappleApple/awesome-leading-and-
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 — "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
 
+## Contents
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
@@ -41,6 +42,11 @@ In summer 2017 [Lauri Apple](https://github.com/LappleApple/awesome-leading-and-
 Please share/promote your favorite managing and leading resources/go-to's (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) and make a pull request (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/one per item/entry). 
 
 ## FAQ
+- [Who is this for?](#who-is-this-for)
+- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
+- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
+- [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
+- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
 - Individual contributors (https://github.com/LappleApple/awesome-leading-and-managing/blob/master/ICs) looking to move into a management role but not sure if it’s right for them
@@ -63,8 +69,4 @@ Almost none of the content shared in this list is by the authors. Where there’
 
 ### License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ere’s a link, the content below it is generally a summary of the linked webpage. When there’s no link, it’s either original content or gives credit/attribution. Some book summaries are from [Personal MBA](https://personalmba.com/), which Joe piloted and consulted on, but not to the extent where he is willing to take credit for its content.
-
-### License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -10,6 +10,20 @@
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
+### Table of Contents
+- [Frameworks](#frameworks)
+- [Cheatsheets](#cheatsheets)
+- [Templates](#templates)
+- [Tools](#tools)
+- [Services](#services)
+- [Self-Hosted Services](#self-hosted-services)
+- [Workflows](#workflows)
+- [Articles](#articles)
+- [Inspirations](#inspirations)
+- [Statistics](#statistics)
+- [Design](#design)
+- [Testing](#testing)
+- [Learning](#learning)
 
 ## Frameworks
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
@@ -146,14 +160,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### More Awesome
 - 📚 [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
-
-
-### License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)best Javascript books.
-
-
-### License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)best Javascript books.
 
 
 ### License

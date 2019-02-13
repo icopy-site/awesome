@@ -1,6 +1,28 @@
 # Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome open source resources for broadcasters.
 
+* [Awesome Broadcasting](#awesome-broadcasting)
+  * [Codecs](#codecs)
+  * [Companion Screens](#companion-screens)
+  * [Connected TVs](#connected-tvs)
+  * [Distributed Media Processing](#distributed-media-processing)
+  * [DVB & WiFi](#dvb--wifi)
+  * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
+  * [Hybrid Radio](#hybrid-radio)
+  * [LiveIP](#liveip)
+  * [Media Players](#media-players)
+  * [Metadata](#metadata)
+  * [Monitoring & Quality Control](#monitoring--quality-control)
+  * [Multimedia content processing](#multimedia-content-processing)
+  * [Network & Storage Testing](#network--storage-testing)
+  * [Radio Production](#radio-production)
+  * [Software-defined radio](#software-defined-radio)
+  * [Subtitling](#subtitling)
+  * [Video Production](#video-production)
+* [Resources](#resources)
+  * [Blogs](#blogs)
+  * [Websites](#websites)
+* [Contributing](#contributing)
 
 <!-- This page is available on http://ebu.io/opensource -->
 ## Codecs
@@ -112,9 +134,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+* [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
+## Multimedia content processing
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
@@ -209,24 +233,6 @@ Various resources, such as books, websites and articles, for improving your skil
 *Useful broadcasting related websites.*
 
 * [EBU.io](http://www.ebu.io) - A platform for agile collaboration.
-
-<!-- This page is available on http://ebu.io/opensource -->
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details. CANAL+ Open Source Community.
-* [IRT Lab](https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
-* [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
-* [Youtube Engineering and Developers Blog](http://youtube-eng.blogspot.com) - What's happening with engineering and developers at YouTube.
-
-## Websites
-*Useful broadcasting related websites.*
-
-* [EBU.io](http://www.ebu.io) - A platform for agile collaboration.
-
-<!-- This page is available on http://ebu.io/opensource -->
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.platform for agile collaboration.
 
 <!-- This page is available on http://ebu.io/opensource -->
 

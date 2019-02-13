@@ -6,6 +6,18 @@ Contributions and suggestions are always welcome! Please take a look at the [con
 
 Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and wouldn't be possible without you!
 
+* [Awesome Music](#awesome-music)
+  * [Audio Editing](#audio-editing)
+  * [Audio Libraries](#audio-libraries)
+  * [Audio Tools](#audio-tools)
+  * [Free Music Scores](#free-music-scores)
+  * [MIDI Tools & Libraries](#midi-tools-libraries)
+  * [Music Notation](#music-notation)
+  * [Music Programming](#music-programming)
+  * [Music Theory](#music-theory)
+  * [Standards](#standards)
+* [Other Awesomeness](#other-awesomeness)
+  * [Related lists](#related-lists)
 
 ## Audio Editing
 
@@ -140,15 +152,5 @@ Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.WebAudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
-
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work./)
 
 To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.

@@ -6,9 +6,33 @@ A curated list of awesome falsehoods programmers believe in.
 > - Ludwig Wittgenstein
 
 
+## Contents
 
+- [Foreword](#foreword)
 ---
+- [Meta](#meta)
+- [Arts](#arts)
+- [Business](#business)
+- [Dates and Time](#dates-and-time)
+- [Emails](#emails)
+- [Geography](#geography)
+- [Human Identity](#human-identity)
+- [Internationalization](#internationalization)
+- [Multimedia](#multimedia)
+- [Networks](#networks)
+- [Phone Numbers](#phone-numbers)
+- [Postal Addresses](#postal-addresses)
+- [Science](#science)
+- [Society](#society)
+- [Software Engineering](#software-engineering)
+- [Typography](#typography)
 ---
+- [Contributing](#contributing)
+- [Good Candidates](#good-candidates)
+    - [*Falsehood* Articles](#falsehood-articles)
+    - [Libraries](#libraries)
+    - [Data Structures](#data-structures)
+- [License](#license)
 
 
 ## Foreword
@@ -340,18 +364,6 @@ falsehoods are also welcome in this page.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Content of this repository is licensed under the [Creative Commons CC0
-license](https://creativecommons.org/publicdomain/zero/1.0/).
-
-To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
-has waived all copyright and related or neighboring rights to this work.)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Content of this repository is licensed under the [Creative Commons CC0
-license](https://creativecommons.org/publicdomain/zero/1.0/).
-
-To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
-has waived all copyright and related or neighboring rights to this work.)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Content of this repository is licensed under the [Creative Commons CC0
 license](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -4,7 +4,29 @@
 
 Digital Forensics and Incident Response (https://github.com/meirwah/awesome-incident-response/blob/master/DFIR) teams are groups of people in an organization responsible for managing the response to a security incident, including gathering evidence of the incident, remediating its effects, and implementing controls to prevent the incident from recurring in the future.
 
+## Contents
 
+- [Adversary Emulation](#adversary-emulation)
+- [All in one tools](#all-in-one-tools)
+- [Books](#books)
+- [Communities](#communities)
+- [Disk Image Creation Tools](#disk-image-creation-tools)
+- [Evidence Collection](#evidence-collection)
+- [Incident Management](#incident-management)
+- [Linux Distributions](#linux-distributions)
+- [Linux Evidence Collection](#linux-evidence-collection)
+- [Log Analysis Tools](#log-analysis-tools)
+- [Memory Analysis Tools](#memory-analysis-tools)
+- [Memory Imaging Tools](#memory-imaging-tools)
+- [OSX Evidence Collection](#osx-evidence-collection)
+- [Other lists](#other-lists)
+- [Other tools](#other-tools)
+- [Playbooks](#playbooks)
+- [Process Dump Tools](#process-dump-tools)
+- [Sandboxing/reversing tools](#sandboxingreversing-tools)
+- [Timeline tools](#timeline-tools)
+- [Videos](#videos)
+- [Windows Evidence Collection](#windows-evidence-collection)
 
 ## IR tools Collection
 
@@ -121,6 +143,7 @@ Digital Forensics and Incident Response (https://github.com/meirwah/awesome-inci
 
 ### Memory Imaging Tools
 
+* [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
 * [Linux Memory Grabber](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
 * [OSForensics](http://www.osforensics.com/) - Tool to acquire live memory on 32bit and 64bit systems. A dump of an individual process’s memory space or physical memory dump can be done.
@@ -171,6 +194,7 @@ Digital Forensics and Incident Response (https://github.com/meirwah/awesome-inci
 ### Process Dump Tools
 
 * [Microsoft User Mode Process Dumper](http://www.microsoft.com/en-us/download/details.aspx?id=4060) - Dumps any running Win32 processes memory image on the fly.
+* [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - Tool that lets you dump the memory contents of a process to a file without stopping the process.
 
 ### Sandboxing/reversing tools
 
@@ -182,6 +206,7 @@ Digital Forensics and Incident Response (https://github.com/meirwah/awesome-inci
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 * [Metadefender Cloud](https://www.metadefender.com) - Free threat intelligence platform providing multiscanning, data sanitization and vulnerability assesment of files.
 * [Viper](https://github.com/viper-framework/viper) - Python based binary analysis and management framework, that works well with Cuckoo and YARA.
+* [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
 * [Visualize_Logs](https://github.com/meirwah/awesome-incident-response/blob/master/https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (https://github.com/meirwah/awesome-incident-response/blob/master/Cuckoo, Procmon, more to come).
 
 ### Timeline tools
@@ -213,6 +238,4 @@ Digital Forensics and Incident Response (https://github.com/meirwah/awesome-inci
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/meirwah/awesome-incident-response/blob/master/https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (https://github.com/meirwah/awesome-incident-response/blob/master/v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
 * [RegRipper](https://github.com/meirwah/awesome-incident-response/blob/master/https://code.google.com/p/regripper/wiki/RegRipper) - Open source tool, written in Perl, for extracting/parsing information (https://github.com/meirwah/awesome-incident-response/blob/master/keys, values, data) from the Registry and presenting it for analysis.
-* [TRIAGE-IR](https://code.google.com/p/triage-ir/) - IR collector for Windows.https://github.com/meirwah/awesome-incident-response/blob/master/keys, values, data) from the Registry and presenting it for analysis.
-* [TRIAGE-IR](https://code.google.com/p/triage-ir/) - IR collector for Windows.https://github.com/meirwah/awesome-incident-response/blob/master/keys, values, data) from the Registry and presenting it for analysis.
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - IR collector for Windows.

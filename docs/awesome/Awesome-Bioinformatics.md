@@ -5,10 +5,44 @@ Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 
 A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
 
+**Table of Contents**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Package suites](#package-suites)
+  - [R: Bioconductor](#bioconductor)
+  - [Python: Biopython](#biopython)
+  - [Bioconda](#bioconda)
+- [Data Processing](#data-processing)
+  - [Command Line Utilities](#command-line-utilities)
+- [Next Generation Sequencing](#next-generation-sequencing)
+  - [Pipelines/Pipeline frameworks](#pipelinespipeline-frameworks)
+  - [Sequence Processing](#sequence-processing)
+  - [Sequence Alignment](#sequence-alignment)
+  - [Variant Calling](#variant-calling)
+  - [BAM File Utilities](#bam-file-utilities)
+  - [VCF File Utilities](#vcf-file-utilities)
+  - [GFF BED File Utilities](#gff-bed-file-utilities)
+  - [Variant Simulation](#variant-simulation)
+  - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
+  - [Variant Prediction/Annotation](#variant-predictionannotation)
+  - [Python Modules](#python-modules)
+    - [Data](#data)
+    - [Tools](#tools)
+- [Visualization](#visualization)
+  - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
+  - [Circos Related](#circos-related)
+- [Database Access](#database-access)
+- [Resources](#resources)
+  - [Becoming a Bionformatician](#becoming-a-bioinformatician)
+  - [Sequencing](#sequencing)
+  - [RNA-Seq](#rna-seq)
+  - [ChIP-Seq](#chip-seq)
+  - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
+  - [Blogs](#blogs)
+  - [Miscellaneous](#miscellaneous)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -98,6 +132,7 @@ __DNA Resequencing__
 ### BAM File Utilities
 
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
+* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
 * __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
@@ -194,6 +229,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 * [Next-Generation Sequencing Technologies - Elaine Mardis (https://github.com/danielecook/Awesome-Bioinformatics/blob/master/2014)](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/https://youtu.be/6Is3W7JkFp8) [1:34:35] - Excellent (https://github.com/danielecook/Awesome-Bioinformatics/blob/master/technical) overview of next-generation and third-generation sequencing technologies, along with some applications in cancer research.
 * [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - List of ~100 papers on various sequencing technologies and assays ranging from transcription to transposable element discovery.
+* [For all you seq... (https://github.com/danielecook/Awesome-Bioinformatics/blob/master/PDF)](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf) (https://github.com/danielecook/Awesome-Bioinformatics/blob/master/3456x5471) - Massive infographic by Illumina on illustrating how many sequencing techniques work. Techniques cover protein-protein interactions, RNA transcription, RNA-protein interactions, RNA low-level detection, RNA modifications, RNA structure, DNA rearrangements and markers, DNA low-level detection, epigenetics, and DNA-protein interactions. References included.
 
 ### RNA-Seq
 
@@ -232,14 +268,6 @@ The following tools can be used to visualize genomic data or for constructing cu
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - An anecdote by Lincoln D. Stein on the importance of the Perl programming language in the Human Genome Project.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - Page of links to primers and short educational articles on various methods used in computational biology and bioinformatics.
 * [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - Collection of tools curated by Keith Crandall and Claus White, aimed at collating the most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)e most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)e most interesting, innovative, and relevant bioinformatics tools articles in PeerJ.
 
 ## License
 

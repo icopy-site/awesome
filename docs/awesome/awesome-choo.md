@@ -3,7 +3,17 @@
 > [choo](https://choo.io/) is a `4kb` framework for creating
 > sturdy frontend applications
 
+## Contents
 
+- [Official resources](#official-resources)
+- [Dependencies](#dependencies)
+- [Demos](#demos)
+- [Community](#community)
+- [Plugins and addons](#plugins-and-addons)
+- [Elements](#elements)
+- [CLI Templates](#cli-templates)
+- [Resources](#resources)
+- [Projects using choo](#projects-using-choo)
 
 ### Official resources
 
@@ -117,4 +127,4 @@ Other CLI templates
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work., [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work., [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work.

@@ -5,6 +5,109 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ## Index
 
+- [Awesome Hacking Spots](#awesome-hacking-spots-)
+  - [Index](#index)
+  - [Contribute 🌟](#contribute-)
+  - [Template](#template)
+  - [Hackerspaces](#hackerspaces)
+  - [CoWorking](#coworking)
+- [Austria 🇦🇹](#austria-)
+  - [Vienna](#vienna)
+- [Belgium 🇧🇪](#belgium-)
+  - [Brussels](#brussels)
+- [Brazil 🇧🇷](#brazil-)
+  - [Rio de Janeiro](#rio-de-janeiro)
+- [Bulgaria 🇧🇬](#bulgaria-)
+  - [Sofia](#sofia)
+- [Cameroon 🇨🇲](#cameroon-)
+  - [Buea](#buea)
+- [Canada 🇨🇦](#canada-)
+  - [Hamilton](#hamilton)
+  - [Montréal](#montreal)
+- [Denmark 🇩🇰](#denmark-)
+  - [Copenhagen](#copenhagen)
+- [France 🇫🇷](#france-)
+  - [Paris](#paris)
+- [Germany 🇩🇪](#germany-)
+  - [Berlin](#berlin)
+  - [Dresden](#dresden)
+  - [Hamburg](#hamburg)
+  - [Jena](#jena)
+  - [Munich](#munich)
+- [Hong Kong 🇭🇰](#hong-kong-)
+- [India 🇮🇳](#india-)
+  - [Hyderabad](#hyderabad)
+- [Italy 🇮🇹](#italy-)
+  - [Rome](#rome)
+- [Japan 🇯🇵](#japan-)
+  - [Nagoya](#nagoya)
+  - [Tokyo](#tokyo)
+- [Lithuania 🇱🇹](#lithuania-)
+  - [Vilnius](#vilnius)
+- [Netherlands 🇳🇱](#netherlands-)
+  - [Amsterdam](#amsterdam)
+  - [Delft](#delft)
+- [Norway 🇳🇴](#norway-)
+  - [Stavanger](#stavanger)
+  - [Tromsø](#tromsø)
+  - [Ålesund](#ålesund)
+- [Poland 🇵🇱](#poland-)
+  - [Krakow](#krakow)
+  - [Gliwice](#gliwice)
+- [Portugal 🇵🇹](#portugal-)
+  - [Aveiro](#aveiro)
+  - [Braga](#braga)
+  - [Lisbon](#lisbon)
+  - [Porto](#porto)
+  - [Viana do Castelo](#viana-do-castelo)
+- [Singapore 🇸🇬](#singapore-)
+  - [Outram Park](#outram-park)
+- [Slovenia 🇸🇮](#slovenia-)
+- [South Korea 🇰🇷](#south-korea-)
+  - [Seoul](#seoul)
+- [Spain 🇪🇸](#spain-)
+  - [Barcelona](#barcelona)
+  - [Oviedo](#oviedo)
+- [Sweden 🇸🇪](#sweden-)
+  - [Stockholm](#stockholm)
+  - [Uppsala](#uppsala)
+- [Switzerland 🇨🇭](#switzerland-)
+  - [Zurich](#zurich)
+- [Turkey 🇹🇷](#turkey-)
+  - [Istanbul](#istanbul)
+- [United Kingdom 🇬🇧](#united-kingdom-)
+  - [Scotland](#scotland)
+    - [Edinburgh](#edinburgh)
+- [United States 🇺🇸](#united-states-)
+  - [Arizona <a id="arizona"></a>](#arizona)
+  - [California <a id="california"></a>](#california-)
+    - [Los Angeles, CA <a id="los-angeles-ca"></a>](#los-angeles-ca-)
+    - [San Diego, CA <a id="san-diego-ca"></a>](#san-diego-ca-)
+    - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
+    - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
+    - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
+    - [San Francisco, CA](#san-francisco-ca)
+    - [San Jose, CA](#san-jose-ca)
+    - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
+  - [Illinois](#illinois)
+    - [Chicago, IL <a id="chicago-il"></a>](#chicago-il-)
+  - [Maryland](#maryland)
+    - [Baltimore, MD <a id="baltimore-md"></a>](#baltimore-md-)
+  - [Massachusetts <a id="massachusetts"></a>](#massachusetts-)
+    - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
+    - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
+    - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
+    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
+  - [Texas](#Texas)
+    - [Austin, TX](#austin-tx)
+  - [New York <a id="new-york"></a>](#new-york-)
+    - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
+  - [Virginia <a id="virginia"></a>](#virginia-)
+    - [Richmond, VA <a id="richmond-va"></a>](#richmond-va-)
+  - [Washington <a id="washington"></a>](#washington-)
+    - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
+    - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
 
 ## Contribute 🌟
 
@@ -1694,188 +1797,6 @@ Webpage: https://ironcladcoffee.com/
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
 open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
-
-## Washington <a id="washington"></a>
-
-### Bellevue, WA <a id="bellevue-wa"></a>
-
-#### Bellevue Public Library
-
-> Free to all, a lot of space, 3 floors, free parking lot
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00
-
-## Seattle, WA <a id="seattle-wa"></a>
-
-#### Seattle Public Library
-
-> Free to all, lots of space, must be quiet though.
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-1gbit | ✔ | ✔ | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00
-
-#### Zeitgeist
-
-> Nice coffee shop, great espresso, moderately busy.
-
-Webpage: http://zeitgeistcoffee.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
-
-#### Ada's Technical Books
-
-> Tasty coffee and great food, free wifi and places, but also has paid day passes for private space
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00
-
-#### Fix Coffeehouse
-
-> Cafe, with beer and nice location on greenlake
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 (https://github.com/daviddias/awesome-hacking-locations/blob/master/but $14/mo for wifi is worth it if you hack there often)
-* Using IPFS will get you kicked off their network in ~2hr (https://github.com/daviddias/awesome-hacking-locations/blob/master/FYI).
-
-#### Forge Baking Company
-
-> Same good food as Bloc 11 and Diesel, busy, bright, not many plugs. Acidic coffee, no vietnamese coffee option.
-
-Webpage: http://www.forgebakingco.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
-
-## South Carolina <a id="south-carolina-"></a>
-
-### Columbia, South Carolina <a id="columbia-sc-"></a>
-
-#### Yoghut
-
-> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
-
-Webpage: https://yoghut.com/
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM
-
-## Texas
-
-### Austin, TX
-
-#### Houndstooth Coffee
-
-> Unassuming place with pretty outstanding coffee and the space to get things done.  Plus it's in the Frost Bank Building, the most [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
-
-Webpage: https://www.houndstoothcoffee.com/
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM
-
-## New York <a id="new-york"></a>
-
-### New York, NY <a id="new-york-ny"></a>
-
-#### Amazon AWS Loft
-
-> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer.
-
-Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm
-
-#### Ground Support Cafe
-> Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
-
-Webpage: http://www.groundsupportcafe.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
-
-#### Pushcart Coffee Chelsea
-
-> Great community workspace with coffee, pastries and beer.
-
-Webpage: http://www.pushcartcoffee.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
-
-## Virginia <a id="virginia"></a>
-
-### Richmond, VA <a id="richmond-va"></a>
-
-#### Ironclad Coffee
-
-> Lots of small and large tables, free fast wifi, plenty of power, and some of the best coffee in Richmond.
-
-Webpage: https://ironcladcoffee.com/
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
-
-## Washington <a id="washington"></a>
-
-### Bellevue, WA <a id="bellevue-wa"></a>
-
-#### Bellevue Public Library
-
-> Free to all, a lot of space, 3 floors, free parking lot
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00
-
-## Seattle, WA <a id="seattle-wa"></a>
-
-#### Seattle Public Library
-
-> Free to all, lots of space, must be quiet though.
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-1gbit | ✔ | ✔ | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00
-
-#### Zeitgeist
-
-> Nice coffee shop, great espresso, moderately busy.
-
-Webpage: http://zeitgeistcoffee.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
-
-#### Ada's Technical Books
-
-> Tasty coffee and great food, free wifi and places, but also has paid day passes for private space
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00
-
-#### Fix Coffeehouse
-
-> Cafe, with beer and nice location on greenlake
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 

@@ -7,7 +7,16 @@
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
 
 
+## Contents
 
+- [Reporters](#reporters)
+- [Producers](#producers)
+- [Consumers](#consumers)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Documentation](#documentation)
+- [Community](#community)
 
 
 ## Reporters
@@ -115,4 +124,4 @@ Things that consume TAP output.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.aw, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.aw, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

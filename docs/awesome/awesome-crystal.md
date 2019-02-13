@@ -11,6 +11,66 @@ Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crys
 
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) first.
 
+* [Awesome Crystal](#awesome-crystal)
+  * [Algorithms and Data structures](#algorithms-and-data-structures)
+  * [Api Builders](#api-builders)
+  * [Blockchain](#blockchain)
+  * [C Bindings](#c-bindings)
+  * [Caching](#caching)
+  * [CLI Builders](#cli-builders)
+  * [CLI Utils](#cli-utils)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Configuration](#configuration)
+  * [Converters](#converters)
+  * [Data Formats](#data-formats)
+  * [Data Generators](#data-generators)
+  * [Database Drivers/Clients](#database-driversclients)
+  * [Database Tools](#database-tools)
+  * [Development Tools](#development-tools)
+  * [Email](#email)
+  * [Environment Management](#environment-management)
+  * [Examples and funny stuff](#examples-and-funny-stuff)
+  * [Feature Flipping](#feature-flipping)
+  * [Framework Components](#framework-components)
+  * [Game Development](#game-development)
+  * [GUI library](#gui-library)
+  * [HTML/XML parsing](#htmlxml-parsing)
+  * [HTTP](#http)
+  * [Image Processing](#image-processing)
+  * [Implementations/Compilers](#implementationscompilers)
+  * [Logging and monitoring](#logging-and-monitoring)
+  * [Machine Learning](#machine-learning)
+  * [Markdown/Text Processors](#markdowntext-processors)
+  * [Misc](#misc)
+  * [Network Protocols](#network-protocols)
+  * [Networking](#networking)
+  * [ORM/ODM Extensions](#ormodm-extensions)
+  * [Package Management](#package-management)
+  * [Processes and Threads](#processes-and-threads)
+  * [Project Generators](#project-generators)
+  * [Queues and Messaging](#queues-and-messaging)
+  * [Routing](#routing)
+  * [Scheduling](#scheduling)
+  * [Science and Data analysis](#science-and-data-analysis)
+  * [Search](#search)
+  * [Serverless Computing](#serverless-computing)
+  * [System](#system)
+  * [Task management](#task-management)
+  * [Template Engine](#template-engine)
+  * [Testing](#testing)
+  * [Third-party APIs](#third-party-apis)
+  * [Validation](#validation)
+  * [Web Frameworks](#web-frameworks)
+  * [Web Servers](#web-servers)
+* [Community](#community)
+  * [Unofficial](#unofficial)
+* [Resources](#resources)
+  * [Official Documentation Translations](#official-documentation-translations)
+* [Services and Apps](#services-and-apps)
+* [Tools](#tools)
+  * [DevOps](#devops)
+  * [Editor Plugins](#editor-plugins)
+  * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
@@ -109,6 +169,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
  * [CSV](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
+ * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
  * [Gzip](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
  * [INI](https://github.com/veelenga/awesome-crystal/blob/master/https://crystal-lang.org/api/INI.html) - INI file parser (https://github.com/veelenga/awesome-crystal/blob/master/Crystal stdlib)
@@ -551,47 +612,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [vim-slang](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
-   * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
-   * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
-
-## Shell plugins
- * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
- * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugins) - Ctags generator for Crystal
- * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
- * [helptransl8](https://github.com/papilip/helptransl8) - Tool for document translators
-
-## DevOps
- * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
- * [capistrano-kemal](https://github.com/bitfex/capistrano-kemal) - Capistrano Plugin for Kemal
- * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
- * [DPPM](https://github.com/veelenga/awesome-crystal/blob/master/https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (https://github.com/veelenga/awesome-crystal/blob/master/mostly Linux)
-
-## Editor Plugins
- * Atom
-   * [crystal-tools](https://atom.io/packages/crystal-tools) - Enables built in tools in Crystal compiler
-   * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
- * Emacs
-   * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
-   * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
- * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
- * Spacemacs
-   * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
- * Sublime
-   * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
- * TextMate
-   * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
- * Vim
-   * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) - Vim plugin to provide utility functions for carc.in
-   * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
-   * [vim-slang](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
- * Visual Studio Code
-   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
-   * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
-   * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
-
-## Shell plugins
- * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
- * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugins://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
    * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 

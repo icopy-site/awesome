@@ -2,7 +2,19 @@
 
 A curated list of awesome niche job boards.
 
+## Table of Contents
 
+- [Big Data](#big-data)
+- [Blockchain](#blockchain)
+- [Customer Support](#customer-support)
+- [Design](#design)
+- [DevOps](#devops)
+- [Gaming](#gaming)
+- [Growth Hacking](#growth-hacking)
+- [InfoSec](#infosec)
+- [Programming](#programming)
+- [Remote](#remote)
+- [Tech](#tech)
 
 ## Big Data
 
@@ -124,19 +136,12 @@ A curated list of awesome niche job boards.
 
 ### Europe
 
+* [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
-
-### Free & Open Source
-
-* [Free & Open Source Jobs](https://www.fossjobs.net/)s.io/) - The best tech jobs in Dallas / Fort Worth
-
-### Free & Open Source
-
-* [Free & Open Source Jobs](https://www.fossjobs.net/)s.io/) - The best tech jobs in Dallas / Fort Worth
 
 ### Free & Open Source
 

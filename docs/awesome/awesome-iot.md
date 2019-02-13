@@ -8,7 +8,23 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
 
+- [Hardware](#hardware)
+- [Software](#software)
+  - [Operating systems](#operating-systems)
+  - [Programming Languages](#programming-languages)
+  - [Frameworks](#frameworks)
+  - [Middlewares](#middlewares)
+  - [Libraries and Tools](#libraries-and-tools)
+  - [Miscellaneous](#miscellaneous)
+- [Protocols and Networks](#protocols-and-networks)
+- [Technologies](#technologies)
+- [Standards and Alliances](#standards-and-alliances)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Papers](#papers)
 
 ### Hardware
 
@@ -16,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [BeagleBoard](http://beagleboard.org/) - The BeagleBoard is a low-power open-source hardware single-board computer produced by Texas Instruments in association with Digi-Key and Newark element14.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - The DragonBoard 410c, a product of Arrow Electronics, is the development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor. It features advanced processing power, Wi-Fi, Bluetooth connectivity, and GPS, all packed into a board the size of a credit card.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
+- [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
 - [Microduino](https://www.microduino.cc/) - Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.
 - [Node MCU (https://github.com/HQarroum/awesome-iot/blob/master/ESP 8266)](https://github.com/HQarroum/awesome-iot/blob/master/http://nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
 - [OLinuXino](https://github.com/HQarroum/awesome-iot/blob/master/https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLinuXino is an Open Source Software and Open Source Hardware low cost (https://github.com/HQarroum/awesome-iot/blob/master/EUR 30) Linux Industrial grade single board computer with GPIOs capable of operating from -25°C to +85°C.
@@ -137,6 +154,7 @@ Extended coverage GSM IoT (https://github.com/HQarroum/awesome-iot/blob/master/E
 
 > The EC-GSM-IOT network trials have begun, with the first commercial launches planned for 2017. Supported by all major mobile equipment, chip set and module manufacturers, EC-GSM-IoT networks will co-exist with 2G, 3G, and 4G mobile networks. It will also benefit from all the security and privacy mobile network features, such as support for user identity confidentiality, entity authentication, confidentiality, data integrity, and mobile equipment identification.
 
+#### <img width="50" src="https://intelilight.eu/wp-content/uploads/2017/02/technology_lorawan.png" /> - [LoRaWAN](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/LoRaWAN) (https://github.com/HQarroum/awesome-iot/blob/master/LoRa Alliance)
 
 A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
 
@@ -148,6 +166,7 @@ NarrowBand IoT (https://github.com/HQarroum/awesome-iot/blob/master/NB-IoT) is a
 
 > NB-IoT is a narrowband radio technology designed for the Internet of Things (https://github.com/HQarroum/awesome-iot/blob/master/IoT), and is one of a range of Mobile IoT (https://github.com/HQarroum/awesome-iot/blob/master/MIoT) technologies standardized by the 3rd Generation Partnership Project (https://github.com/HQarroum/awesome-iot/blob/master/3GPP).
 
+#### <img width="50" src="http://www.silvereco.fr/wp-content/uploads/2015/02/logo510f703a4647f1.jpg" /> - [Sigfox](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/Sigfox) (https://github.com/HQarroum/awesome-iot/blob/master/Sigfox)
 
 Sigfox is a French firm that builds wireless networks to connect low-energy objects such as electricity meters, smart watches, and washing machines, which need to be continuously on and emitting small amounts of data. Its infrastructure is intended to be a contribution to what is known as the Internet of Things (https://github.com/HQarroum/awesome-iot/blob/master/IoT). - [Wikipedia](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/Sigfox)
 
@@ -161,6 +180,7 @@ Wi-Fi (https://github.com/HQarroum/awesome-iot/blob/master/or WiFi) is a local a
 
 ### Network / Transport layer
 
+#### <img width="50" src="http://www.tonex.com/wp-content/uploads/6lowpan.jpg" /> - [6LowPan](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/6LoWPAN) (https://github.com/HQarroum/awesome-iot/blob/master/IETF)
 
 6LoWPAN is an acronym of IPv6 over Low power Wireless Personal Area Networks. 6LoWPAN is the name of a concluded working group in the Internet area of the IETF. - [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
@@ -174,6 +194,7 @@ Thread is an IPv6 based protocol for "smart" household devices to communicate on
 > In July 2014 Google Inc's Nest Labs announced a working group with the companies Samsung, ARM Holdings, Freescale, Silicon Labs, Big Ass Fans and the lock company Yale in an attempt to have Thread become the industry standard by providing Thread certification for products. Other protocols currently in use include ZigBee and Bluetooth Smart.
 Thread uses 6LoWPAN, which in turn uses the IEEE 802.15.4 wireless protocol with mesh communication, as does ZigBee and other systems. Thread however is IP-addressable, with cloud access and AES encryption. It supports over 250 devices on a network.
 
+#### <img width="50" src="http://www.zigbee.org/wp-content/uploads/2017/12/zb_logo-a_color_rgb.png" /> - [ZigBee](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/ZigBee) (https://github.com/HQarroum/awesome-iot/blob/master/ZigBee Alliance)
 
 ZigBee is a IEEE 802.15.4-based specification for a suite of high-level communication protocols used to create personal area networks with small, low-power digital radios. - [Wikipedia](https://en.wikipedia.org/wiki/ZigBee)
 
@@ -199,6 +220,7 @@ The Datagram Transport Layer Security (https://github.com/HQarroum/awesome-iot/b
 
 > DTLS allows datagram-based applications to communicate in a way that is designed[by whom?] to prevent eavesdropping, tampering, or message forgery. The DTLS protocol is based on the stream-oriented Transport Layer Security (https://github.com/HQarroum/awesome-iot/blob/master/TLS) protocol and is intended to provide similar security guarantees.
 
+#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/Eddystone_(https://github.com/HQarroum/awesome-iot/blob/master/Google)) (https://github.com/HQarroum/awesome-iot/blob/master/Google)
 
 Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - [Wikipedia](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/Eddystone_(https://github.com/HQarroum/awesome-iot/blob/master/Google))
 
@@ -216,6 +238,7 @@ iBeacon is a protocol standardized by Apple and introduced at the Apple Worldwid
 
 > iBeacon uses Bluetooth low energy proximity sensing to transmit a universally unique identifier picked up by a compatible app or operating system. The identifier can be used to determine the device's physical location, track customers, or trigger a location-based action on the device such as a check-in on social media or a push notification.
 
+#### <img width="50" src="http://blog.thingstud.io/wp-content/uploads/mqttorg.png" /> - [MQTT](https://github.com/HQarroum/awesome-iot/blob/master/http://mqtt.org/) (https://github.com/HQarroum/awesome-iot/blob/master/IBM)
 
 MQTT (https://github.com/HQarroum/awesome-iot/blob/master/formerly MQ Telemetry Transport) is a publish-subscribe based "light weight" messaging protocol for use on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. - [Wikipedia](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/MQTT)
 
@@ -249,9 +272,11 @@ Extensible Messaging and Presence Protocol (https://github.com/HQarroum/awesome-
 
 > This sections regroups a curated list of awesome technologies that are closely related to the IoT world.
 
+### <img width="50" src="http://vectorlogofree.com/wp-content/uploads/2012/12/nfc-logo-vector-400x400.png" /> - [NFC](https://en.wikipedia.org/wiki/Near_field_communication)
 
 Near field communication (https://github.com/HQarroum/awesome-iot/blob/master/NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://github.com/HQarroum/awesome-iot/blob/master/https://en.wikipedia.org/wiki/Near_field_communication)
 
+### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 OPC-UA is a not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 
@@ -330,20 +355,6 @@ and Vlad Trifa
 - [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 - [Realizing the Potential of the Internet of Things](https://github.com/HQarroum/awesome-iot/blob/master/https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (https://github.com/HQarroum/awesome-iot/blob/master/TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 - [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Halim Qarroum](https://github.com/HQarroum/) has waived all copyright and related or neighboring rights to this work.duces, as well as its consequences on our daily lives.
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Halim Qarroum](https://github.com/HQarroum/) has waived all copyright and related or neighboring rights to this work.duces, as well as its consequences on our daily lives.
 
 
 ## License

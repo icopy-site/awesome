@@ -7,6 +7,11 @@ Parasites are unique organisms studied in a variety of disciplines due to their 
 
 Awesome parasite was created by [Anna Willoughby](https://github.com/ecohealthalliance/awesome-parasite/blob/master/https://arw36.github.io/) and is maintained in partnership with [EcoHealth Alliance](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.ecohealthalliance.org). Contributions welcome, please read the [contributing guidelines](https://github.com/ecohealthalliance/awesome-parasite/blob/master/contributing.md). 
 
+## Contents
+   - [Databases](#databases)
+   - [Reporting Systems](#reporting-systems)
+   - [Taxonomy](#taxonomy)
+   - [Scientific Journals](#scientific-journals)
 - - -
 ## Databases
 
@@ -41,4 +46,4 @@ Awesome parasite was created by [Anna Willoughby](https://github.com/ecohealthal
  
 
 # License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.onCommercial 4.0 International License</a>.onCommercial 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

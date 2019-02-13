@@ -4,6 +4,7 @@
   </a>
 </p>
 
+# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
 
 A curated list of amazingly awesome Aurelia libraries, resources and shiny things.
 
@@ -11,6 +12,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 [![npm Version](https://img.shields.io/npm/v/aurelia-framework.svg)](https://www.npmjs.com/package/aurelia-framework)
 
+## Table of Contents
 
 * [Aurelia](#aurelia)
   * [Official Resources](#official-resources)
@@ -181,6 +183,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) * Load React components directly from Aurelia views
 * [aurelia-validatejs](https://github.com/aurelia/validatejs) {official} * Enables expressive validation using decorators and/or a fluent API.
 * [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) * A plugin for loading any Markdown into custom element
+* [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) * An Aurelia plugin which adds the ability to control footer content via the router
 * [aurelia-api](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} * A wrapper around aurelia-fetch-client for multiple endpoints
 * [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) {ES6/TS/Webpack} * Authentication plugin for aurelia with aurelia-api support.
 * [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} * Makes working with entities and calling your Rest API simple.
@@ -227,6 +230,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) * Implementation of the Aurelia base animator using TinyAnimate
 * [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) * Sample app with Aurelia and TinyMCE
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) * Next Generation Stamp Web Editor written in Aurelio with Bootstrap
+* [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
 * [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) * A 100% aurelia based data table component [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 

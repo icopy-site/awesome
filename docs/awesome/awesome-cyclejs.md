@@ -2,6 +2,21 @@
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
+- [Learn](#learn)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+  - [Example Applications](#example-applications)
+- [Tools](#tools)
+  - [CLI](#cli)
+- [Libraries](#libraries)
+  - [Drivers](#drivers)
+  - [Boilerplates](#boilerplates)
+  - [Testing](#testing)
+  - [Debugging](#debugging)
+  - [Components](#components)
+- [Community](#community)
 
 ---
 ## Learn
@@ -179,21 +194,6 @@ http://oleg.fi/graafi/
 ## Community
 
 * [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)aquelxmoss/cycle-color-picker ★44](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
-* [cyclejs-community/cycle-svg-pan-and-zoom ★4](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
-
-## Community
-
-* [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)tter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
 
 
 ## License

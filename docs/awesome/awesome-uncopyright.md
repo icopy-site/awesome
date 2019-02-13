@@ -6,7 +6,21 @@ A curated list of works in the public domain.
 
 Works in the public domain have no copyright restrictions. This can be the result of intellectual property rights expiring or being forfeited. In the case of the latter, authors have used the term *uncopyright* to describe their act of relinquishing copyright.
 
+## Contents
 
+- [Art](#art)
+- [Articles](#articles)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Essays](#essays)
+- [Images](#images)
+- [Licenses](#licenses)
+- [Organizations](#organizations)
+- [Related](#related)
+- [Resources](#resources)
+- [Software](#software)
+- [Talks](#talks)
+- [License](#license)
 
 ## Art
 
@@ -109,14 +123,6 @@ Works in the public domain have no copyright restrictions. This can be the resul
 ## Talks
 
 - [Laws That Choke Creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs) - Lawrence Lessig presents an argument for reviving our creative culture.
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) for reviving our creative culture.
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) for reviving our creative culture.
 
 ## License
 

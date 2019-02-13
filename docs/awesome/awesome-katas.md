@@ -3,7 +3,15 @@
 # Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of code katas
 
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Dave Thomas's CodeKata](#codekata)
+- [Wonderland Clojure Katas](#wonderland-clojure-katas)
+- [SensioLabs PoleDev Katas](#sensiolabs-poledev-katas)
+- [Gaurav Arora's TDD Katas Collection](#gaurav-aroras-tdd-katas-collection)
+- [Others](#others)
+- [Contribution](#contribution)
 
 ## Introduction
 A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition. Dave Thomas [@pragdave](https://twitter.com/pragdave), started this movement for programming. This project aims to provide you with a list of some kata exercises that I've found in the Internet and the Github community. These exercises vary from general to more complex algorithms and real life situations for you to try using your preferred programming language. Remember that code katas are not quizzes or puzzles. You should not only try to 'solve' it, but find a very good solution, following best practices of the programming language you are using.
@@ -93,4 +101,4 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/).creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/).creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

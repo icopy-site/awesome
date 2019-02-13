@@ -31,7 +31,70 @@
 </div>
 
 
+## Contents
 
+- [Packages](#packages)
+	- [Mad science](#mad-science)
+	- [Command-line apps](#command-line-apps)
+	- [Functional programming](#functional-programming)
+	- [HTTP](#http)
+	- [Debugging / Profiling](#debugging--profiling)
+	- [Logging](#logging)
+	- [Command-line utilities](#command-line-utilities)
+	- [Build tools](#build-tools)
+	- [Hardware](#hardware)
+	- [Templating](#templating)
+	- [Web frameworks](#web-frameworks)
+	- [Documentation](#documentation)
+	- [Filesystem](#filesystem)
+	- [Control flow](#control-flow)
+	- [Streams](#streams)
+	- [Real-time](#real-time)
+	- [Image](#image)
+	- [Text](#text)
+	- [Number](#number)
+	- [Math](#math)
+	- [Date](#date)
+	- [URL](#url)
+	- [Data validation](#data-validation)
+	- [Parsing](#parsing)
+	- [Humanize](#humanize)
+	- [Compression](#compression)
+	- [Network](#network)
+	- [Database](#database)
+	- [Testing](#testing)
+	- [Security](#security)
+	- [Benchmarking](#benchmarking)
+	- [Minifiers](#minifiers)
+	- [Authentication](#authentication)
+	- [Authorization](#authorization)
+	- [Email](#email)
+	- [Job queues](#job-queues)
+	- [Node.js management](#nodejs-management)
+	- [Natural language processing](#natural-language-processing)
+	- [Process management](#process-management)
+	- [Automation](#automation)
+	- [AST](#ast)
+	- [Static site generators](#static-site-generators)
+	- [Content management systems](#content-management-systems)
+	- [Forum](#forum)
+	- [Blogging](#blogging)
+	- [Weird](#weird)
+	- [Serialization](#serialization)
+	- [Miscellaneous](#miscellaneous)
+- [Resources](#resources)
+	- [Tutorials](#tutorials)
+	- [Discovery](#discovery)
+	- [Articles](#articles)
+	- [Newsletters](#newsletters)
+	- [Videos](#videos)
+	- [Books](#books)
+	- [Blogs](#blogs)
+	- [Courses](#courses)
+	- [Cheatsheets](#cheatsheets)
+	- [Tools](#tools)
+	- [Community](#community)
+	- [Miscellaneous](#miscellaneous)
 
 
 ## Packages
@@ -667,6 +730,7 @@
 - [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files.
 
 
+### Content management systems
 
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
@@ -839,34 +903,6 @@
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-- [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules.
-
-
-## Related lists
-
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.(https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-- [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules.
-
-
-## Related lists
-
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.b.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules.
 
 

@@ -18,11 +18,59 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 All the links are monitored and tested with [awesome_bot](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
 
+# Contents
 
 <!-- TOC -->
 
+- [What is Docker](#what-is-docker)
+- [Where to start](#where-to-start)
 - [Where to start (https://github.com/veggiemonk/awesome-docker/blob/master/Windows)](https://github.com/veggiemonk/awesome-docker/blob/master/#where-to-start-windows)
+- [Projects](#projects)
+  - [Container Operations](#container-operations)
+    - [Container Composition](#container-composition)
+    - [Deployment and Infrastructure](#deployment-and-infrastructure)
+    - [Monitoring](#monitoring)
+    - [Networking](#networking)
+    - [Orchestration](#orchestration)
+    - [PaaS](#paas)
+    - [Reverse Proxy](#reverse-proxy)
+    - [Security](#security)
+    - [Service Discovery](#service-discovery)
+    - [Volume Management / Data](#volume-management--data)
+    - [User Interface](#user-interface)
+      - [Desktop](#desktop)
+      - [Terminal](#terminal)
+      - [Web](#web)
+  - [Docker Images](#docker-images)
+    - [Base Tools](#base-tools)
+    - [Builder](#builder)
+    - [Dockerfile](#dockerfile)
+    - [Linter](#linter)
+    - [Metadata](#metadata)
+    - [Registry](#registry)
+  - [Development with Docker](#development-with-docker)
+    - [API Client](#api-client)
+    - [CI/CD](#cicd)
+    - [Development Environment](#development-environment)
+    - [Garbage Collection](#garbage-collection)
+    - [Serverless](#serverless)
+    - [Testing](#testing)
+    - [Wrappers](#wrappers)
   - [Services based on Docker (https://github.com/veggiemonk/awesome-docker/blob/master/:heavy_dollar_sign:)](https://github.com/veggiemonk/awesome-docker/blob/master/#services-based-on-docker-heavy_dollar_sign)
+    - [CI Services :heavy_dollar_sign:](#ci-services)
+    - [CaaS :heavy_dollar_sign:](#caas)
+    - [Monitoring Services :heavy_dollar_sign:](#monitoring-services)
+- [Useful Resources](#useful-resources)
+  - [Awesome Lists](#awesome-lists)
+  - [Good Tips](#good-tips)
+  - [Raspberry Pi & ARM](#raspberry-pi--arm)
+  - [Security](#security-1)
+  - [Videos](#videos)
+- [Communities and Meetups](#communities-and-meetups)
+  - [Brazilian](#brazilian)
+  - [Chinese](#chinese)
+  - [English](#english)
+  - [Russian](#russian)
 
 <!-- /TOC -->
 
@@ -679,79 +727,6 @@ Services to securely store your Docker images.
 [gliderlabs]: https://github.com/gliderlabs
 [google]: https://github.com/google
 [googlecontainertools]: https://github.com/GoogleContainerTools
-[inspec]: https://github.com/inspec/inspec
-[jessfraz]: https://github.com/jessfraz
-[jpetazzo]: https://github.com/jpetazzo
-[jwilder]: https://github.com/jwilder
-[kubernetes]: https://kubernetes.io
-[nginxproxy]: https://github.com/jwilder/nginx-proxy
-[openshift]: https://www.okd.io
-[oracle]: https://github.com/oracle
-[progrium]: https://github.com/progrium
-[ramitsurana]: https://github.com/ramitsurana
-[rancher]: https://github.com/rancher
-[sindresorhus]: https://github.com/sindresorhus/awesome
-[spotify]: https://github.com/spotify
-[vegasbrianc]: https://github.com/vegasbrianc
-[vfarcic]: https://github.com/vfarcic
-[weave]: https://github.com/weaveworks/weavezilian
-
-- [Docker BR on Slack](http://docker-br.herokuapp.com) - Auto invite url
-- [Docker BR on Telegram](https://telegram.me/dockerbr)
-
-## Chinese
-
-- [DockerOne](https://github.com/veggiemonk/awesome-docker/blob/master/http://dockone.io/) Docker Community (https://github.com/veggiemonk/awesome-docker/blob/master/in Chinese) by [@LiYingJie](https://github.com/veggiemonk/awesome-docker/blob/master/http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
-
-## English
-
-- [Docker Community](https://www.docker.com/docker-community)
-- [Docker Events](https://events.docker.com)
-- [Docker On Line Meetup](https://www.meetup.com/Docker-Online-Meetup/)
-- [Docker Reddit Community](https://www.reddit.com/r/docker/)
-
-## Russian
-
-- [Docker Russian-speaking Community](https://t.me/docker_ru)
-
-## Spanish
-
-- [Docker Tips](https://dockertips.com/)
-
-[anchore]: https://github.com/anchore
-[CONTRIBUTING]: https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md
-[calico]: https://github.com/projectcalico/calicoctl
-[CenturyLinkLabs]: https://github.com/CenturyLinkLabs
-[ContainX]: https://github.com/ContainX
-[coreos]: https://github.com/coreos
-[CNCF]: https://www.cncf.io
-[distribution]: https://github.com/docker/distribution
-[docker-for-windows]: https://docs.docker.com/docker-for-windows/
-[docker]: https://github.com/docker
-[editREADME]: https://github.com/veggiemonk/awesome-docker/edit/master/README.md
-[fgrehm]: https://github.com/fgrehm
-[gesellix]: https://github.com/gesellix
-[genuinetools]:  https://github.com/genuinetools
-[gliderlabs]: https://github.com/gliderlabs
-[google]: https://github.com/google
-[GoogleContainerTools]: https://github.com/GoogleContainerTools
-[inspec]: https://github.com/inspec/inspec
-[jessfraz]: https://github.com/jessfraz
-[jpetazzo]: https://github.com/jpetazzo
-[jwilder]: https://github.com/jwilder
-[kubernetes]: https://kubernetes.io
-[nginxproxy]: https://github.com/jwilder/nginx-proxy
-[openshift]: https://www.okd.io
-[oracle]: https://github.com/oracle
-[progrium]: https://github.com/progrium
-[ramitsurana]: https://github.com/ramitsurana
-[rancher]: https://github.com/rancher
-[sindresorhus]: https://github.com/sindresorhus/awesome
-[spotify]: https://github.com/spotify
-[vegasbrianc]: https://github.com/vegasbrianc
-[vfarcic]: https://github.com/vfarcic
-[weave]: https://github.com/weaveworks/weaveom/google
-[GoogleContainerTools]: https://github.com/GoogleContainerTools
 [inspec]: https://github.com/inspec/inspec
 [jessfraz]: https://github.com/jessfraz
 [jpetazzo]: https://github.com/jpetazzo

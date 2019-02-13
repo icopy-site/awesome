@@ -14,7 +14,50 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
 
+## Table of Contents
 
+- [Git Extras](#git-extras)
+- [Git Flow](#gitflow-avh-edition)
+- [Git Up](#git-up)
+- [Hub](#hub)
+- [Git Deploy](#git-deploy)
+- [Git Cal](#git-cal)
+- [Git Hooks](#git-hooks)
+- [Git Imerge](#git-imerge)
+- [Git Issue](#git-issue)
+- [Git Large File Storage](#git-lfs)
+- [Git Now](#git-now)
+- [Git Plus](#git-plus)
+- [Git Test](#git-test)
+- [Legit](#legit)
+- [Git When Merged](#git-when-merged)
+- [Git Playback](#git-playback)
+- [Git Branch Status](#git-branch-status)
+- [Git Open](#git-open)
+- [Git My](#git-my)
+- [Git Ink](#git-ink)
+- [Recursive Blame](#recursive-blame)
+- [Git Fire](#git-fire)
+- [Git Town](#git-town)
+- [Git blame-someone-else](#git-blame-someone-else)
+- [Diff So Fancy](#diff-so-fancy)
+- [Git Stats](#git-stats)
+- [Git Secret](#git-secret)
+- [Git Secrets](#git-secrets)
+- [git-fixup](#git-fixup)
+- [git-recent](#git-recent)
+- [git-interactive-rebase-tool](#git-interactive-rebase-tool)
+- [git-fiddle](#git-fiddle)
+- [git-user](#git-user)
+- [gitsome](#gitsome)
+- [Git Hound](#git-hound)
+- [git-recall](#git-recall)
+- [git-standup](#git-standup)
+- [Commitizen](#commitizen)
+- [git-fresh](#git-fresh)
+- [git-fs](#git-fs)
+- [Git Url](#git-url)
+- [Git Signatures](#git-signatures)
 
 
 ## [git-extras](https://github.com/tj/git-extras)
@@ -1767,100 +1810,6 @@ $ git signatures add --push v1.0.0
 Updated tag 'v1.0.0' (https://github.com/stevemao/awesome-git-addons/blob/master/was 4de5afd)
 Enumerating objects: 4, done.
 Counting objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/4/4), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), 906 bytes | 906.00 KiB/s, done.
-Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 1), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
-To git@github.com:jsmith/test-signatures
-   4b5300d..5b1f2cd  refs/notes/signatures -> refs/notes/signatures
- + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (https://github.com/stevemao/awesome-git-addons/blob/master/forced update)
-```
-
-
-### signatures verify
-
-```
-$ git signatures verify v1.0.0
-```
-
-
-### signatures verify --min-count 2
-
-```
-$ git signatures verify --min-count 2 v1.0.0
-Failed to find enough verified signatures to satisfy: min_count=2
-
-Signature verification could fail simply because your local gnupg
-keychain and trustdb does not contain the required keys.
-
-For detailed signature status run:
-
-> git signatures show
-```
-
-
-### signatures show
-
-```
-$ git signatures show v1.0.0
- Public Key ID    | Status     | Trust     | Date                         | Signer Name
-=======================================================================================================================
-01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
- ```
-
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.ttps://github.com/stevemao/awesome-git-addons/blob/master/4/4), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), done.
-Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), 906 bytes | 906.00 KiB/s, done.
-Total 3 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 1), reused 0 (https://github.com/stevemao/awesome-git-addons/blob/master/delta 0)
-To git@github.com:jsmith/test-signatures
-   4b5300d..5b1f2cd  refs/notes/signatures -> refs/notes/signatures
- + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (https://github.com/stevemao/awesome-git-addons/blob/master/forced update)
-```
-
-
-### signatures verify
-
-```
-$ git signatures verify v1.0.0
-```
-
-
-### signatures verify --min-count 2
-
-```
-$ git signatures verify --min-count 2 v1.0.0
-Failed to find enough verified signatures to satisfy: min_count=2
-
-Signature verification could fail simply because your local gnupg
-keychain and trustdb does not contain the required keys.
-
-For detailed signature status run:
-
-> git signatures show
-```
-
-
-### signatures show
-
-```
-$ git signatures show v1.0.0
- Public Key ID    | Status     | Trust     | Date                         | Signer Name
-=======================================================================================================================
-01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
- ```
-
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.ttps://github.com/stevemao/awesome-git-addons/blob/master/4/4), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), done.
 Writing objects: 100% (https://github.com/stevemao/awesome-git-addons/blob/master/3/3), 906 bytes | 906.00 KiB/s, done.

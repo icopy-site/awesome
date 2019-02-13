@@ -6,6 +6,26 @@
 
 > Curated list of mind expanding books.
 
+## Table of Contents
+* [Startups and Business](#startups-and-business)
+* [Philosophy and Psychology](#philosophy-and-psychology)
+* [Autobiographies and Biographies](#autobiographies-and-biographies)
+* [History](#history)
+* [Evolution, Science and Medicine](#science-and-medicine)
+* [Logic and Problem Solving](#logic-and-problem-solving)
+* [Politics](#politics)
+* [Economics](#economics)
+* [Gender](#gender)
+* [Sexuality](#sexuality)
+* [Education](#education)
+* [Writing](#writing)
+* [Theater and Film](#theater-and-film)
+* [Fiction](#fiction)
+* [Health](#health)
+* [Design](#design)
+* [Travel](#travel)
+* [Language](#language)
+* [Nature](#nature)
 
 # Books
 
@@ -473,18 +493,6 @@
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
 * [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
-* All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
-
-## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has waived all copyright and related or neighboring rights to this work.l) for building the framework for maintaining the list.
-* All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
-
-## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vishnu Ks](https://github.com/hackerkid) has waived all copyright and related or neighboring rights to this work.l) for building the framework for maintaining the list.
 * All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License

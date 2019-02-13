@@ -6,7 +6,19 @@
 
 [Framer](http://framer.com) is a tool to create animated and interactive prototypes. It uses modern web technologies such as JavaScript, HTML and CSS to extend the capabilities for advanced users and auto-correct, intuitive error messaging or in-app documentation to lower the learning curve for beginners.
 
+## Contents
 
+* [General](#general)
+* [Articles](#articles)
+* [Videos](#videos)
+* [Tutorials](#tutorials)
+* [Video Course](#video-courses)
+* [Books](#books)
+* [Examples](#examples)
+* [Modules](#modules)
+* [UI Libraries](#ui-libraries)
+* [Sites](#sites)
+* [Other](#other)
 
 ---
 
@@ -74,6 +86,7 @@
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
+* [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.
@@ -180,16 +193,6 @@
 * [Android Kit](https://framer.com/assets/static/downloads/kits/android-kit.zip) - Material Design elements for your next Android app. Direct link.
 * [Web Kit](https://framer.com/assets/static/downloads/kits/web-kit.zip) - All the elements you’ll need to start your next web project. Direct link.
 * [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
-
----
-
-## License
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)t.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
-
----
-
-## License
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)t.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
 
 ---
 

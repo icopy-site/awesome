@@ -4,6 +4,22 @@
 I think this is one of the best ways for us to learn from people who
 really know what they are doing :)
 
+## Table of Contents
+* [Programming Languages](#programming-languages)
+* [User Experience](#user-experience)
+* [Front-End Development](#front-end-development)
+* [Functional Programming](#functional-programming)
+* [Talks on Papers](#talks-on-papers)
+* [Math](#math)
+* [Compilers](#compilers)
+* [Databases](#databases)
+* [Methodologies](#methodologies)
+* [Architecture](#architecture)
+* [Linux and Free Software](#linux-and-free-software)
+* [Motivation](#motivation)
+* [Diversity](#diversity)
+* [Company Culture](#company-culture)
+* [DevOps](#devops)
 
 ### Programming Languages
 
@@ -155,9 +171,5 @@ really know what they are doing :)
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.1.0/)
-
-To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.1.0/)
 
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.

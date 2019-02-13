@@ -8,7 +8,12 @@ Most applications of blockchain lie in a financial realm. That makes non-financi
 
 Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/https://21.co) (https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/now [Earn.com](https://github.com/machinomy/awesome-non-financial-blockchain/blob/master/https://earn.com)) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
 
+## Contents
 
+- [Identity Applications](#identity-applications)
+- [Internet of Things Applications](#internet-of-things-applications)
+- [Energy Applications](#energy-applications)
+- [Talks and books](#talks-and-books)
 
 ## Identity Applications
 
@@ -83,4 +88,4 @@ Industry of a blockchain application is defined by the one that is changed the m
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sergey Ukustov](https://github.com/ukstv) and [Machinomy](https://github.com/machinomy) have waived all copyright and related or neighboring rights to this work./machinomy) have waived all copyright and related or neighboring rights to this work./machinomy) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sergey Ukustov](https://github.com/ukstv) and [Machinomy](https://github.com/machinomy) have waived all copyright and related or neighboring rights to this work.

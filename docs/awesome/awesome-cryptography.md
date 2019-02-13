@@ -10,9 +10,54 @@
 
 A curated list of cryptography resources and links.
 
+## Contents
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
+- [Theory](#theory)
+  - [Algorithms](#algorithms)
+    - [Symmetric encryption](#symmetric-encryption)
+    - [Asymmetric encryption](#asymmetric-encryption)
+    - [Hash functions](#hash-functions)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Courses](#courses)
+  - [Other lists](#other-lists)
+- [Tools](#tools)
+  - [Standalone](#standalone)
+  - [Plugins](#plugins)
+    - [Git](#git)
+- [Frameworks and Libs](#frameworks-and-libs)
+  - [C](#c)
+  - [C#](#c-sharp)
+  - [C++](#cpp)
+  - [Clojure](#clojure)
+  - [Common Lisp](#common-lisp)
+  - [Delphi](#delphi)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [Golang](#go)
+  - [Haskell](#haskell)
+  - [Haxe](#haxe)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Lua](#lua)
+  - [Objective-C](#objective-c)
+  - [PHP](#php)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+- [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Mailing lists](#mailing-lists)
+  - [Web-tools](#web-tools)
+  - [Web-sites](#web-sites)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
@@ -371,18 +416,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 `awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
 
-To the extent possible under law, the person who associated CC0 with
-`awesome-cryptography` has waived all copyright and related or neighboring
-rights to `awesome-cryptography`.
-
-You should have received a copy of the CC0 legalcode along with this
-work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
-To the extent possible under law, the person who associated CC0 with
-`awesome-cryptography` has waived all copyright and related or neighboring
-rights to `awesome-cryptography`.
-
-You should have received a copy of the CC0 legalcode along with this
-work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
 To the extent possible under law, the person who associated CC0 with
 `awesome-cryptography` has waived all copyright and related or neighboring
 rights to `awesome-cryptography`.

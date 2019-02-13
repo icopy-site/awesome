@@ -5,7 +5,14 @@
 Recursion schemes are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
 
 
+## Contents
 
+- [Introductions](#introductions)
+- [Articles](#articles)
+- [Papers](#papers)
+- [Presentations](#presentations)
+- [Podcasts](#podcasts)
+- [Implementations](#implementations)
 
 
 ## Introductions
@@ -109,16 +116,6 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
   Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 - [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) for [cubicaltt](https://github.com/mortberg/cubicaltt) - a cubical version of recursion schemes.
-
-## License
-
-This content is licensed
-under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).chemes.
-
-## License
-
-This content is licensed
-under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).chemes.
 
 ## License
 

@@ -24,7 +24,31 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ⏳ = Pre-Swift 3 Playground
 
+### Contents
 
+- [PlaygroundBooks](#playgroundbooks)
+- [Learning Swift](#learning-swift)
+- [Learning Swift: Advanced Topics](#learning-swift-advanced-topics)
+  - [Design Patterns](#design-patterns)
+  - [Protocol Oriented Programming](#protocol-oriented-programming)
+  - [Functional Reactive Programming](#functional-reactive-programming)
+- [Apple's Playgrounds](#apples-playgrounds)
+- [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
+- [Playgrounds from Playgroundbooks](#playgrounds-from-playgroundbooks)
+- [Theoretical Computer Science](#theoretical-computer-science)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [Languages](#languages)
+    - [Machine Learning](#machine-learning)
+- [UIKit And Graphics](#uikit-and-graphics)
+  - [Core Image](#core-image)
+  - [Metal](#metal)
+  - [Animations](#animations)
+  - [SpriteKit](#spritekit)
+- [Audio](#audio)
+- [Mathematics](#mathematics)
+- [Libraries and APIs](#libraries-and-apis)
+- [Playground sets](#playground-sets)
+- [Miscellaneous](#miscellaneous)
 
 
 ## PlaygroundBooks
@@ -264,9 +288,5 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Game Boards](https://github.com/joalbright/Gameboard) - Chess, checkers, tic-tac-toe, sudoku and many others in playground. 🌟 ⏳
 * [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals) - Emblems from Star Wars in Swift playgrounds via CoreGraphics and UIViews. ⏳
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳
-* [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
-* [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.sily from within a Swift playground. ⏳
-* [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
-* [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.sily from within a Swift playground. ⏳
 * [Earth photos](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 * [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.

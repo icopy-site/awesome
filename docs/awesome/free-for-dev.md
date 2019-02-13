@@ -12,6 +12,44 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 Table of Contents
 =================
 
+   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
+   * [APIs, Data and ML](#apis-data-and-ml)
+   * [Artifact Repos](#artifact-repos)
+   * [Automated Browser Testing](#automated-browser-testing)
+   * [BaaS](#baas)
+   * [CDN and Protection](#cdn-and-protection)
+   * [CI / CD](#ci--cd)
+   * [Code Quality](#code-quality)
+   * [Code Search and Browsing](#code-search-and-browsing)
+   * [Crash and Exception Handling](#crash-and-exception-handling)
+   * [Data Visualization on Maps](#data-visualization-on-maps)
+   * [DBaaS](#dbaas)
+   * [Design and UI](#design-and-ui)
+   * [DNS](#dns)
+   * [Docker Related](#docker-related)
+   * [Email](#email)
+   * [IaaS](#iaas)
+   * [IDE and Code Editing](#ide-and-code-editing)
+   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
+   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
+   * [Log Management](#log-management)
+   * [Management Systems](#management-system)
+   * [Miscellaneous](#miscellaneous)
+   * [Monitoring](#monitoring)
+   * [Other Free Resources](#other-free-resources)
+   * [PaaS](#paas)
+   * [Package Build System](#package-build-system)
+   * [Payment / Billing Integration](#payment--billing-integration)
+   * [Search](#search)
+   * [Security and PKI](#security-and-pki)
+   * [Source Code Repos](#source-code-repos)
+   * [Storage and Media Processing](#storage-and-media-processing)
+   * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
+   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
+   * [Translation Management](#translation-management)
+   * [Vagrant Related](#vagrant-related)
+   * [Visitor Session Recording](#visitor-session-recording)
+   * [Web Hosting](#web-hosting)
 
 ## Source Code Repos
 
@@ -84,6 +122,7 @@ Table of Contents
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
   * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
+  * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
 
 ## Code Quality
 
@@ -288,6 +327,7 @@ Table of Contents
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
   * [jsdelivr.com](https://github.com/ripienaar/free-for-dev/blob/master/https://www.jsdelivr.com/) — CDN of OSS (https://github.com/ripienaar/free-for-dev/blob/master/JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
+  * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [asp.net](https://www.asp.net/ajax/cdn/) — The Microsoft Ajax CDN hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [incapsula.com](https://www.incapsula.com/) — Free CDN and DDoS protection
@@ -349,10 +389,12 @@ Table of Contents
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
+  * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizeable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [acquia.com](https://github.com/ripienaar/free-for-dev/blob/master/https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (https://github.com/ripienaar/free-for-dev/blob/master/such as Acquia Dev Desktop) also available
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
+  * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 repositories and 100,000 API requests/month for free
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
@@ -587,30 +629,6 @@ Table of Contents
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
   * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call.
   * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
-  * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
-## Other Free Resources
-  * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
-  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration requirediscellaneous
-  * [apichangelog.com](https://github.com/ripienaar/free-for-dev/blob/master/https://www.apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (https://github.com/ripienaar/free-for-dev/blob/master/Facebook, Twitter, Google,...)
-  * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
-  * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
-  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
-  * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
-  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
-  * [screenshotmachine.com](https://screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
-  * [readme.io](https://readme.io/) — Beautiful documentation made easy, free for Open Source: see [here](https://readme.readme.io/docs/open-source).
-  * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
-  * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
-  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call.
-  * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
-  * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
-## Other Free Resources
-  * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
-  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration requiredform and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
 
 ## Other Free Resources

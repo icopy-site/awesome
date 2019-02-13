@@ -7,6 +7,24 @@
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](https://github.com/Famolus/awesome-sass/blob/master/contributing.md).
 
+## Contents
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Sass vs SCSS](#sass-vs-scss)
+- [Frameworks](#frameworks)
+- [Libraries and Mixins](#libraries-and-mixins)
+  - [Grid](#grid)
+  - [Media Queries](#media-queries)
+  - [Color](#color)
+  - [Typography](#typography)
+  - [Animation](#animation)
+  - [Miscellaneous](#miscellaneous)
+- [Style Guides](#style-guides)
+- [Articles](#articles)
+- [Tools](#tools)
+- [Books](#books)
+- [Videos](#videos)
+- [Community](#community)
 
 ## About
 [Sass](http://sass-lang.com/) is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.
@@ -156,12 +174,6 @@ The second, older syntax is known as the indented syntax (https://github.com/Fam
 - [Reddit](https://www.reddit.com/r/Sass/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/sass)
 - [@SassCSS on Twitter](https://twitter.com/SassCSS)
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)/SassCSS)
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)/SassCSS)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

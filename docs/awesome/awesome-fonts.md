@@ -2,7 +2,16 @@
 
 A curated list of fonts and typography resources.
 
+## Contents
 
+1. [General](#general)
+1. [Free fonts](#free-fonts)
+1. [Emojis](#emojis)
+1. [Iconic fonts](#iconic-fonts)
+1. [Programming fonts](#programming-fonts)
+1. [JavaScript libs](#javascript-libs)
+1. [GitHub Showcases](#github-showcases)
+1. [Other](#other)
 
 ## General
 * [27 fonts (https://github.com/brabadu/awesome-fonts/blob/master/give or take) that explain your world](https://github.com/brabadu/awesome-fonts/blob/master/https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
@@ -169,14 +178,6 @@ A curated list of fonts and typography resources.
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-## Contribution
-
-Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).o/1.0/)
-
-## Contribution
-
-Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).o/1.0/)
 
 ## Contribution
 

@@ -3,6 +3,16 @@
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
+- [Programming](#programming)
+    - [Platforms and toolkits](#platforms-and-toolkits)
+    - [Algorithms](#algorithms)
+    - [Data sets](#data-sets)
+- [Resources](#resources)
+    - [On Wikipedia](#on-wikipedia)
+    - [Books](#books)
+        - [Free](#free)
+        - [Non free](#non-free)
+        - [Lists](#lists)
 
 ### Programming
 *Libraries, frameworks and applications useful for developing applications.*
@@ -54,8 +64,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
 
 ### Lists
-* [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)rocessing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
-* [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
-
-### Lists
-* [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)](http://www.goodreads.com/shelf/show/natural-language-processing)
+* [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)

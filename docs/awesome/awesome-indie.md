@@ -7,6 +7,7 @@ Projects don't need to be big, actually, it's better if they are not, they just 
 
 Going indie does have lots of lifestyle perks :)
 
+All these resources might help inspire you and put you on the right track but in the end what matters is to **MAKE and TRY stuff**. So devour this content responsibly :)
 
 Contributions are more than welcome.
 
@@ -19,7 +20,20 @@ by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
+## Contents
 
+- [Communities](#communities)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Talks](#talks)
+- [Posts](#posts)
+- [Blogs](#blogs)
+- [Case Studies](#case-studies)
+- [Events](#events)
+- [Books](#books)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Specific Topics](#specific-topics)
 
 ### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
@@ -55,12 +69,14 @@ by **[@mezod](https://github.com/mezod/awesome-indie/blob/master/https://twitter
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
 
 ##### Other
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://github.com/mezod/awesome-indie/blob/master/https://bootstrapped.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](https://github.com/mezod/awesome-indie/blob/master/http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
 - **[Sideprojectxyz](https://github.com/mezod/awesome-indie/blob/master/https://sideprojectxyz.slack.com)** (https://github.com/mezod/awesome-indie/blob/master/[invite here](https://github.com/mezod/awesome-indie/blob/master/http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
+- **[r/Startups](https://www.reddit.com/r/startups/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 
 <!-- - lobsters -->
 
@@ -250,6 +266,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
 - **[Price Intelligently](http://www.priceintelligently.com/blog)** - Blog focused on the economics of the SaaS business model and SaaS pricing.
 - **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
+- **[Paul Graham](http://www.paulgraham.com/articles.html)** - A lot of content for big funded startups, but still relevant to bootstrappers.
 - **[John O'Nolan](https://john.onolan.org/)** - Especially the older posts on how he started ghost.
 
 ### Case Studies
@@ -323,6 +340,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
 - **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - A collection of very well structured posts that cover the most initial struggles of an indie dev on the way to build a MicroSaaS. I can personally endorse it and I'm eager to read the yet to be written chapters :)
 - **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - More focused on building web applications, I really recommend it. Short, straight to the point, very easy to read and full of valuable content.
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
@@ -390,28 +408,6 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- awesome places to post your startup -->
  - 'how to validate my idea'
  <!-- https://training.kalzumeus.com/newsletters/archive/validating_product_ideas -->
- - 'where to advertise my project'
- - 'what paid ads work better'
- - 'i've got 100 users, how to grow'
- - 'how do i deal with support'
- - 'types of digital products'
- - 'legal aspects'
- <!-- https://termsfeed.com -->
- - 'typical mistakes'
- <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
- 
-Help me make a proper list of specific topics!ting_product_ideas -->
- - 'where to advertise my project'
- - 'what paid ads work better'
- - 'i've got 100 users, how to grow'
- - 'how do i deal with support'
- - 'types of digital products'
- - 'legal aspects'
- <!-- https://termsfeed.com -->
- - 'typical mistakes'
- <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
- 
-Help me make a proper list of specific topics!ting_product_ideas -->
  - 'where to advertise my project'
  - 'what paid ads work better'
  - 'i've got 100 users, how to grow'

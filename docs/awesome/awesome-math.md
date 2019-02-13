@@ -2,9 +2,63 @@
 
 A curated list of awesome mathematics resources.
 
+# Contents
 
 <!-- START_TOC -->
 
+* [Contents](#contents)
+* [General Resources](#general-resources)
+    * [Learning Platforms](#learning-platforms)
+    * [Learn to Learn](#learn-to-learn)
+    * [Tools](#tools)
+    * [Questions and Answers](#questions-and-answers)
+    * [Encyclopedia](#encyclopedia)
+    * [Books](#books)
+    * [Blogs](#blogs)
+    * [Misc](#misc)
+* [Lecture Notes](#lecture-notes)
+    * [Foundations of Mathematics](#foundations-of-mathematics)
+        * [Set Theory](#set-theory)
+        * [Logic](#logic)
+        * [Category Theory](#category-theory)
+        * [Homotopy Type Theory](#homotopy-type-theory)
+        * [Surreal Numbers](#surreal-numbers)
+    * [Number Theory](#number-theory)
+        * [Algebraic Number Theory](#algebraic-number-theory)
+        * [Analytic Number Theory](#analytic-number-theory)
+    * [Algebra](#algebra)
+        * [Abstract Algebra](#abstract-algebra)
+        * [Group Theory](#group-theory)
+        * [Linear Algebra](#linear-algebra)
+        * [Ring Theory](#ring-theory)
+        * [Galois Theory](#galois-theory)
+        * [Lie Algebras](#lie-algebras)
+    * [Combinatorics](#combinatorics)
+        * [Graph Theory](#graph-theory)
+    * [Geometry and Topology](#geometry-and-topology)
+        * [Differential Geometry](#differential-geometry)
+        * [Algebraic Geometry](#algebraic-geometry)
+        * [Topology](#topology)
+        * [Algebraic Topology](#algebraic-topology)
+    * [Analysis](#analysis)
+        * [Real Analysis](#real-analysis)
+        * [Harmonic Analysis](#harmonic-analysis)
+        * [Complex Analysis](#complex-analysis)
+        * [Functional Analysis](#functional-analysis)
+        * [Measure Theory](#measure-theory)
+        * [Ordinary Differential Equations](#ordinary-differential-equations)
+        * [Partial Differential Equations](#partial-differential-equations)
+    * [Probability and Statistics](#probability-and-statistics)
+        * [Probability Theory](#probability-theory)
+        * [Statistics](#statistics)
+        * [Statistical Learning](#statistical-learning)
+        * [Stochastic processes](#stochastic-processes)
+    * [Numerical Analysis](#numerical-analysis)
+    * [Signal processing](#signal-processing)
+    * [Mathematics for Computer Science](#mathematics-for-computer-science)
+    * [Mathematical Biology](#mathematical-biology)
+    * [Mathematical Physics](#mathematical-physics)
+* [License](#license)
 
 <!-- END_TOC -->
 
@@ -426,18 +480,6 @@ Shlomo Sternberg
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501) - Ray. M. Bowen
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
 * [Mechanism of the Heavens (https://github.com/rossant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
-
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.sant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
-
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.sant/awesome-math/blob/master/1831)](https://github.com/rossant/awesome-math/blob/master/http://www.malaspina.com/etext/heavens.htm) - Mary Somerville
 
 # License
 

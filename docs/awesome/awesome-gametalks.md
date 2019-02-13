@@ -10,6 +10,13 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 
 ## If you want just a list of free GDC talks: [GDC](https://github.com/hzoo/awesome-gametalks/blob/master/GDC.md)
 
+### Table of Contents
+- [GDC Talks](#gdc-talks)
+- [TED Talks](#ted-talks)
+- [Other Talks](#other-talks)
+- [Podcasts](#podcasts)
+- [Playlist of Conferences / Lectures](#conferences)
+- [Lists](#lists)
 
 ## GDC Talks
 - [2016] [Overwatch - The Elusive Goal: Play by Sound](https://github.com/hzoo/awesome-gametalks/blob/master/https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (https://github.com/hzoo/awesome-gametalks/blob/master/Blizzard)
@@ -159,4 +166,4 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 
 ## Talks
 
-- [Episode 93, Collective Podcast] [Discussing Monument Valley](https://github.com/hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)
+- [Episode 93, Collective Podcast] [Discussing Monument Valley](https://github.com/hzoo/awesome-gametalks/blob/master/http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (https://github.com/hzoo/awesome-gametalks/blob/master/UsTwo Games)

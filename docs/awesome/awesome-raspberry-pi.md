@@ -9,8 +9,15 @@
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
+Contributions *very welcome* but first see [Contributing](#contributing)
 
+## Contents
 
+- [Models](#models)
+- [OS Images](#os-images)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
 
 ## Models
 
@@ -171,6 +178,7 @@ The complete collection of (https://github.com/thibmaek/awesome-raspberry-pi/blo
 - **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (https://github.com/thibmaek/awesome-raspberry-pi/blob/master/free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
 - **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
+- **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (https://github.com/thibmaek/awesome-raspberry-pi/blob/master/m3u, pls) on your Raspberry Pi. [Android](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 - **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
@@ -233,18 +241,6 @@ The complete collection of (https://github.com/thibmaek/awesome-raspberry-pi/blo
 ### Contributing
 
 Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//CONTRIBUTING.md)
-
-### License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)_NDywgKXVmw)
-
-### Contributing
-
-Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//CONTRIBUTING.md)
-
-### License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)[here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//CONTRIBUTING.md)
 
 ### License
 

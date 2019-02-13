@@ -2,6 +2,32 @@
 
 A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
 
+* [Design](#design)
+* [Standards](#standards)
+* [Clients](#clients)
+  * [PHP](#php-clients)
+  * [Client-side JavaScript](#javascript-clients)
+  * [Node.js](#nodejs-clients)
+  * [Ruby](#ruby-clients)
+  * [Go](#go-clients)
+* [Servers](#servers)
+  * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
+  * [Node.js](#nodejs)
+  * [PHP](#php)
+  * [Symfony2](#symfony2)
+  * [Python](#python)
+  * [Ruby](#ruby)
+  * [Go](#go)
+  * [Java](#java)
+  * [Haskell](#haskell)
+* [Testing](#testing)
+  * [Querying](#querying)
+  * [Mocking](#mocking)
+  * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
+* [Documentation](#documentation)
+* [API Gateway](#api-gateway)
+* [SaaS Tools](#saas-tools)
+* [Miscellaneous](#miscellaneous)
 
 
 
@@ -89,6 +115,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### PHP
 
 * [Microrest](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
+* [Negotiation](https://github.com/willdurand/Negotiation) - Content negotiation library.
 * [Drest](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
 * [Restler](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 * [HAL](https://github.com/marmelab/awesome-rest/blob/master/https://github.com/blongden/hal) - Hypertext Application Language (https://github.com/marmelab/awesome-rest/blob/master/HAL) builder library.
@@ -225,21 +252,5 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
-
-
-## Miscellaneous
-
-* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
-* [admin-on-rest](https://github.com/marmelab/admin-on-rest) - Add a ReactJS admin GUI to any RESTful API.
-* [swagger-codegen](https://github.com/marmelab/awesome-rest/blob/master/https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (https://github.com/marmelab/awesome-rest/blob/master/formerly known as the Swagger Specification).
-* [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).eative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

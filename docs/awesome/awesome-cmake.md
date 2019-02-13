@@ -6,7 +6,16 @@
 
 Your contributions are highly welcome (https://github.com/onqtam/awesome-cmake/blob/master/first see [CONTRIBUTING.md](https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md)).
 
+## Contents
 
+- [Community](#community)
+- [Resources](#resources)
+- [Package Management / Build Systems](#package-management--build-systems)
+- [Modules](#modules)
+- [Utility Scripts](#utility-scripts)
+- [Toolchains](#toolchains)
+- [Examples / Templates](#examples--templates)
+- [Other](#other)
 
 ## Community
 
@@ -200,12 +209,6 @@ This is released under the [**```Creative Commons Attribution 4.0 International`
 [BOOST]: http://www.boost.org/LICENSE_1_0.txt
 [BSD-2-Clause]: https://opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]: https://opensource.org/licenses/BSD-3-Clause
-[APACHE2]: http://www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
-[MPL]: https://www.mozilla.org/en-US/MPL/2.0/://opensource.org/licenses/BSD-3-Clause
-[APACHE2]: http://www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
-[MPL]: https://www.mozilla.org/en-US/MPL/2.0/://opensource.org/licenses/BSD-3-Clause
 [APACHE2]: http://www.apache.org/licenses/LICENSE-2.0
 [CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/

@@ -4,6 +4,18 @@
 
 A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
 
+* **[Hardware Support](#hardware-support)**
+* **[SDK](#sdk)**
+* **[IHV Document](#document)**
+* **[Tutorial](#tutorial)**
+* **[Apps](#apps)**
+* **[Samples](#samples)**
+* **[Libraries](#libraries)**
+* **[Bindings](#bindings)**
+* **[Tools](#tools)**
+* **[Books](#books)**
+* **[Khronos](#khronos)**
+* **[Community](#community)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -28,10 +40,14 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Document
 *  [AMD](http://gpuopen.com/tag/vulkan/)
     *  [Vulkan barriers explained](http://gpuopen.com/vulkan-barriers-explained/)
+    *  [Vulkan Fast Paths](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
+    *  [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
+    *  [D3D12 & Vulkan: Lessons Learned	 ](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf)
     *  [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
     *  [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
     *  [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
     *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
+    *  [Most common mistakes in Vulkan apps](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf)
 	*  [Vulkan Device Memory](http://gpuopen.com/vulkan-device-memory/)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
     * [Vulkan Device-Generated Commands](https://developer.nvidia.com/device-generated-commands-vulkan)
@@ -247,21 +263,6 @@ drm/kms.
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) for details.aphics-resources) - List of graphic programming resources.
-*  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
-
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) for details.)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 

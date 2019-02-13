@@ -1,6 +1,37 @@
 # awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
+## Table of Contents
+- [Unofficial clients](#unofficial-clients)
+- [Lists](#lists)
+- [Third-party services](#third-party-services)
+- [Themes](#themes)
+- [Integrations](#integrations)
+  - [C](#c)
+  - [C++](#c-1)
+  - [C&#35;](#c-2)
+  - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
+  - [Erlang](#erlang)
+  - [Go](#go)
+  - [Groovy](#groovy)
+  - [Haskell](#haskell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Lua](#lua)
+  - [Matlab](#matlab)
+  - [OCaml](#ocaml)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Shell](#shell)
+  - [Tcl](#tcl)
+  - [Zephir](#zephir)
 
 ## Unofficial clients
 - Linux - [PlaidChat](https://github.com/plaidchat/plaidchat)
@@ -470,32 +501,6 @@
 ### Zephir
 
 - [zephlack](https://github.com/linxlad/zephlack) - Slack Messaging extension written in Zephir
-
-
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](https://github.com/matiassingers/awesome-slack/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.ging extension written in Zephir
-
-
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](https://github.com/matiassingers/awesome-slack/blob/master/contributing.md) first.
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.ging extension written in Zephir
 
 
 ## Contribute

@@ -1,7 +1,31 @@
+# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
 [![The Center for Humane Technology](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)](https://humanetech.com)
 
+## Contents
 
+- [About this list](#about-this-list)
+- [Community](#community)
+- [Ethics](#ethics)
+- [Security](#security)
+- [Privacy](#privacy)
+- [Tracking](#tracking)
+- [Consent](#consent)
+- [Analytics](#analytics)
+- [Blacklists](#blacklists)
+- [Social networks](#social-networks)
+- [Freedom](#freedom)
+- [Geolocation](#geolocation)
+- [Gamification](#gamification)
+- [Health](#health)
+- [Mindfulness](#mindfulness)
+- [Inclusiveness](#inclusiveness)
+- [Awareness](#awareness)
+- [Censorship](#censorship)
+- [Unmaintained](#unmaintained)
+- [Related awesomeness](#related-awesomeness)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About this list
 
@@ -11,6 +35,7 @@ Tech and social media is having a big impact on our society. While many innovati
 
 This list focuses on (https://github.com/humanetech-community/awesome-humane-tech/blob/master/mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) before sending PR's.
 
+**Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
 ## Community
 
@@ -189,6 +214,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 This section is for inactive projects that are nonetheless still of interest regarding their topics or code.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - Prevents your smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
+- [Data Selfie](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (https://github.com/humanetech-community/awesome-humane-tech/blob/master/server [discontinued](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://dataselfie.it/#/shutdown), code still usable).
 
 ## Related awesomeness
 
@@ -209,14 +235,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hum
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [aschrijver](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.njago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
-
-## Contributing
-
-Contributions welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) first.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [aschrijver](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.s://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [aschrijver](https://github.com/humanetech-community/awesome-humane-tech/blob/master/https://github.com/aschrijver) (https://github.com/humanetech-community/awesome-humane-tech/blob/master/the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.

@@ -9,6 +9,17 @@
  
  <br/>
 
+#### Contents
+- [Code Architecture](#code-architecture)
+- [Utilities](#utilities)
+- [Code Style](#code-style)
+- [Dev tools / Inspection tools](#dev-tools--inspection-tools)
+- [React Integration](#react-integration)
+- [Other Integrations](#other-integrations)
+- [Boilerplate](#boilerplate)
+- [Miscellaneous](#miscellaneous)
+- [Learning Material](#learning-material)
+- [Community](#community)
 
 <br/>
 
@@ -211,14 +222,6 @@ If you are curious for more, check out following resources.
 
 - [Reddit](https://www.reddit.com/r/reduxjs/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/redux)
-- [Discord](https://discord.gg/0ZcbPKXt5bZ6au5t)
-- [Slack](http://slack.redux.io/)
-- [Gitter](https://gitter.im/reactjs/redux)
-- [`#rackt` on freenode](https://webchat.freenode.net/)w.com/questions/tagged/redux)
-- [Discord](https://discord.gg/0ZcbPKXt5bZ6au5t)
-- [Slack](http://slack.redux.io/)
-- [Gitter](https://gitter.im/reactjs/redux)
-- [`#rackt` on freenode](https://webchat.freenode.net/)w.com/questions/tagged/redux)
 - [Discord](https://discord.gg/0ZcbPKXt5bZ6au5t)
 - [Slack](http://slack.redux.io/)
 - [Gitter](https://gitter.im/reactjs/redux)

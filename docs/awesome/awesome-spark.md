@@ -8,8 +8,36 @@ _Apache Spark is an open-source cluster-computing framework. Originally develope
 
 Users of Apache Spark may choose between different the Python, R, Scala and Java programming languages to interface with the Apache Spark APIs.
 
+## Contents
 
+- [Packages](#packages)
+  - [Language Bindings](#language-bindings)
+  - [Notebooks and IDEs](#notebooks-and-ides)
+  - [General Purpose Libraries](#general-purpose-libraries)
+  - [SQL Data Sources](#sql-data-sources)
+  - [Bioinformatics](#bioinformatics)
+  - [GIS](#gis)
+  - [Time Series Analytics](#time-series-analytics)
+  - [Graph Processing](#graph-processing)
+  - [Machine Learning Extension](#machine-learning-extension)
+  - [Middleware](#middleware)
+  - [Utilities](#utilities)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Streaming](#streaming)
+  - [Interfaces](#interfaces)
+  - [Testing](#testing)
+  - [Web Archives](#web-archives)
+  - [Workflow Management](#workflow-management)
 
+- [Resources](#resources)
+  - [Books](#books)
+  - [Papers](#papers)
+  - [MOOCS](#moocs)
+  - [Workshops](#workshops)
+  - [Projects Using Spark](#projects-using-spark)
+  - [Blogs](#blogs)
+  - [Docker Images](#docker-images)
+  - [Miscellaneous](#miscellaneous)
 
 
 ## Packages
@@ -127,10 +155,12 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas](https://github.com/sryza/aas).
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
 * [Spark Gotchas](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
+* [Spark in Action](https://www.manning.com/books/spark-in-action) - New book in the Manning's "in action" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to [setup Eclipse for Spark application development](http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/) and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo [here](https://github.com/spark-in-action/first-edition).
 
 ### Papers
 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - Paper introducing a core distributed memory abstraction.
+* [Spark SQL: Relational Data Processing in Spark](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf) - Paper introducing relational underpinnings, code generation and Catalyst optimizer.
 
 ### MOOCS
 
@@ -179,12 +209,6 @@ This work (https://github.com/awesome-spark/awesome-spark/blob/master/<span prop
 
 Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.org/foundation/marks/">trademarks</a> of
   <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
-
-
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).e Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
-
-
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).e Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
 
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).

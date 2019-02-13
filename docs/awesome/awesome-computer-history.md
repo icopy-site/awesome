@@ -4,7 +4,23 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
+## Table of Contents
 
+- [Videos](#videos)
+  - [Old recordings](#old-recordings)
+  - [Documentaries](#documentaries)
+  - [Reflective interviews](#reflective-interviews)
+  - [Talks & Lectures](#talks--lectures)
+  - [Movies](#movies)
+  - [Commercials](#commercials)
+- [Audio](#audio)
+  - [Podcasts](#podcasts)
+- [Texts](#texts)
+  - [Folklore](#folklore)
+  - [Announcements and Memos](#announcements-and-memos)
+- [Source Code](#source-code)
+- [Websites](#websites)
+- [License](#license)
 
 ## Videos
 
@@ -142,4 +158,4 @@ _Dramatized versions of real events_
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.e extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.e extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Thomas Watson](https://github.com/watson) has waived all copyright and related or neighboring rights to this work.

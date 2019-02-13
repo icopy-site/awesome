@@ -5,6 +5,20 @@ A curated list of bitcoin services and tools for software developers
 
 List of content
 
+- [Utilities](#utilities)
+- [Blockchain API and Web service](#blockchain-api-and-web-services)
+- [Wallets API](#wallets-api)
+- [Opensource wallets](#open-source-wallets)
+- [Blockchain Explorers](#blockchain-explorers)
+- [C++ Libraries](#c-libraries)
+- [JavaScript Libraries](#javascript-libraries)
+- [PHP Libraries](#php-libraries)
+- [Ruby Libraries](#ruby-libraries)
+- [Python Libraries](#python-libraries)
+- [Java Libraries](#java-libraries)
+- [Playgrounds](#playgrounds)
+- [Read](#read)
+- [Course](#course)
 
 
 # Utilities
@@ -128,17 +142,4 @@ Created by [BlockchainU](http://blockchainu.co/) fellows.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.e-introduction/)
-* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
-
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-Created by [BlockchainU](http://blockchainu.co/) fellows.
-
-# Course
-* [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.ent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.

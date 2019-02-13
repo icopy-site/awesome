@@ -10,9 +10,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ## Summary
 
+- [Canvas](#canvas)
+    - [Definition](#definition)
+    - [Examples](#examples)
 
+- [Libraries](#libraries)
 
+- [Resources](#resources)
+    - [Talks](#talks)
+    - [Books](#books)
+    - [Twitter](#twitter)
+    - [Websites](#websites)
+    - [Tutorials](#tutorials)
 
+- [License](#license)
 
 ## Canvas
 
@@ -144,9 +155,4 @@ Where to discover more about Canvas.
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).w.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code)
-- [Making a Lunar Lander in JavaScript](http://students.cs.ucl.ac.uk/schoolslab/projects/HT5) - A 5 lesson tutorial that explain how to make a Lunar Lander game in JavaScript.
-
-## License
-
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).he content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).

@@ -10,7 +10,20 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 </h1>
 <br>
 
+## Contents
 
+- [Runtimes/Frontends](#runtimesfrontends)
+- [Collaboration/Education](#collaborationeducation)
+- [Visualization](#visualization)
+- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
+- [JupyterLab Extensions](#jupyterlab-extensions)
+- [Testing](#testing)
+- [Domain-Specific Projects](#domain-specific-projects)
+- [Hosted Notebook Solutions](#hosted-notebook-solutions)
+- [Official Resources and Documentation](#official-resources-and-documentation)
+- [Community Resources](#community-resources)
+- [Articles/Guides/Tutorials](#articlesguidestutorials)
+- [Contributing](#contributing)
 
 ---
 
@@ -154,4 +167,4 @@ is the PyPI trove classifier for Jupyter projects.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.utions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.utions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.

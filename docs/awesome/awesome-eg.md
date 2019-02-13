@@ -8,7 +8,16 @@
 
 > [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
 
+#### Contents
 
+- [Art & Design](#art--design)
+- [Articles](#articles)
+- [CSS](#css)
+- [Editors](#editors)
+- [Languages](#languages)
+- [Math & Computer Science](#math--computer-science)
+- [Music](#music)
+- [Programming](#programming)
 
 ## Art & Design
 
@@ -86,4 +95,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Yrgo](https://yrgo.se) has waived all copyright and related or neighboring rights to this work.ttps://yrgo.se) has waived all copyright and related or neighboring rights to this work.ttps://yrgo.se) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Yrgo](https://yrgo.se) has waived all copyright and related or neighboring rights to this work.

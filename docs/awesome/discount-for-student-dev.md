@@ -10,6 +10,29 @@ If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://tw
 Table of Contents
 =================
 
+  * [Source Code Repos](#source-code-repos)
+  * [IDE and Code Editing](#ide-and-code-editing)
+  * [Version Control](#version-control)
+  * [Web Hosting](#web-hosting)
+  * [Design and Photo Editing](#design-and-photo-editing)
+  * [SaaS](#saas)
+  * [PaaS](#paas)
+  * [Email](#email)
+  * [CI / CD](#ci--cd)
+  * [Payments](#payments)
+  * [Management Systems](#management-systems)
+  * [Mapping](#maps)
+  * [Localization](#localization)
+  * [Programming Help](#programming-help)
+  * [Domain Name Registers](#domain-name-registers)
+  * [Security](#security)
+  * [Software Modeling Tools](#software-modeling-tools)
+  * [Visual Analytics](#visual-analytics)
+  * [Game Development Tools](#game-development-tools)
+  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
+  * [Password Managers](#password-managers)
+  * [Infrastructure Monitoring](#infrastructure-monitoring)
+  * [Software Packs](#software-packs)
 
 
 
@@ -52,6 +75,7 @@ Table of Contents
 
 ## PaaS
 
+  * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
   * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
 ## Email
@@ -81,6 +105,7 @@ Table of Contents
 
 ## Localization
 
+  * [Transifex](https://www.transifex.com) [FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Programming Help
 
@@ -115,6 +140,7 @@ Table of Contents
 
 ## Game Development Tools
 
+ * [Unity3D](https://unity3d.com/education) [FREE] - Unity is one of the world's most widely used game engines. It has created industry standards in 3D interactive content design for game development, architectural visualizations, military simulations, advertising and more. Students are offered a yearly license of $100 USD.
  * [Unreal Game Engine](https://www.unrealengine.com/education) [FREE] - Unreal Engine 4 is a complete suite of game development tools. From 2D mobile games to console blockbusters and VR, Unreal Engine 4 gives you everything you need to start, ship, grow and stand out from the crowd. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
 ## 3D Animation and Modeling Software
@@ -139,15 +165,5 @@ Table of Contents
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.ion and Intel® Parallel Studio XE Cluster Edition (https://github.com/AchoArnold/discount-for-student-dev/blob/master/includes Fortran and C/C++).
-  * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
-  * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
-  * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.omain/zero/1.0/)
 
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.

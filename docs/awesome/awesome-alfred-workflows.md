@@ -9,6 +9,19 @@ A curated list of Awesome Alfred Workflows.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Contents
+- [Communication](#communication)
+- [Developer](#developer)
+- [Helpers](#helpers)
+- [Miscellaneous](#miscellaneous)
+- [Multimedia](#multimedia)
+- [Productivity](#productivity)
+- [Scientific](#scientific)
+- [Security](#security)
+- [System](#system)
+- [Text Manipulation](#text-manipulation)
+- [Web](#web)
+- [Other Lists](#other-lists)
 
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
@@ -119,4 +132,4 @@ Here are a list of other collections of alfred collections which are useful.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
-To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.aw, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.aw, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.

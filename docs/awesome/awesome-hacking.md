@@ -7,9 +7,39 @@ If you want to contribute to this list (https://github.com/carpedm20/awesome-hac
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
+## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
+- [System](#system)
+    - [Tutorials](#tutorials)
+    - [Tools](#tools)
+    - [Docker](#docker-images-for-penetration-testing--security)
+    - [General](#general)
+- [Reverse Engineering](#reverse-engineering)
+    - [Tutorials](#tutorials-1)
+    - [Tools](#tools-1)
+    - [General](#general-1)
+- [Web](#web)
+    - [Tools](#tools-2)
+- [Network](#network)
+    - [Tools](#tools-3)
+- [Forensic](#forensic)
+    - [Tools](#tools-4)
+- [Cryptography](#cryptography)
+    - [Tools](#tools-5)
+- [Wargame](#wargame)
+    - [System](#system-1)
+    - [Reverse Engineering](#reverse-engineering-1)
+    - [Web](#web-1)
+    - [Cryptography](#cryptography-1)
+    - [Bug bounty](#bug-bounty)
+- [CTF](#ctf)
+    - [Competition](#competition)
+    - [General](#general-2)
+- [OS](#os)
+    - [Online resources](#online-resources)
+- [ETC](#etc)
 
 <!-- /MarkdownTOC -->
 
@@ -118,6 +148,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+ * [PEview](https://github.com/carpedm20/awesome-hacking/blob/master/http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (https://github.com/carpedm20/awesome-hacking/blob/master/PE) and Component Object File Format (https://github.com/carpedm20/awesome-hacking/blob/master/COFF) files
  * [HxD](https://github.com/carpedm20/awesome-hacking/blob/master/http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (https://github.com/carpedm20/awesome-hacking/blob/master/RAM), handles files of any size
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
@@ -180,6 +211,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
+ * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://github.com/carpedm20/awesome-hacking/blob/master/https://ctftime.org/) - All about CTF (https://github.com/carpedm20/awesome-hacking/blob/master/Capture The Flag)
  * [WeChall](http://www.wechall.net/)
  * [CTF archives (https://github.com/carpedm20/awesome-hacking/blob/master/shell-storm)](https://github.com/carpedm20/awesome-hacking/blob/master/http://shell-storm.org/repo/CTF/)
@@ -193,12 +225,6 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
-
-# ETC
- * [SecTools](http://sectools.org/) - Top 125 Network Security Toolsry=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
-
-# ETC
- * [SecTools](http://sectools.org/) - Top 125 Network Security Toolsry=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools

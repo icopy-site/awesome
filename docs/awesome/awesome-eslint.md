@@ -6,7 +6,19 @@
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
 
+## Contents
 
+- [Configs](#configs)
+- [Parsers](#parsers)
+- [Plugins](#plugins)
+  - [Frameworks and Libraries](#frameworks-and-libraries)
+  - [Misc](#misc)
+  - [Practices](#practices)
+  - [Style](#style)
+- [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
+- [Tools](#tools)
+- [Developing for ESLint](#developing-for-eslint)
+- [Tutorials](#tutorials)
 
 ## Configs
 
@@ -135,9 +147,5 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
 
 ## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

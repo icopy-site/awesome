@@ -7,7 +7,14 @@ If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/bl
 Looking for more information on Markov Chains? Try [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 
+## Table of Contents
 
+- [Web and Tech](#web-and-tech)
+- [Twitter](#twitter)
+- [Media](#media)
+- [Tools](#tools)
+- [A history of funny Markov chains](#a-history-of-funny-markov-chains)
+- [Sober applications](#sober-applications)
 
 
 ## Web and Tech
@@ -79,4 +86,4 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

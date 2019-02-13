@@ -1,6 +1,66 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (https://github.com/fffaraz/awesome-cpp/blob/master/or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
+- [Awesome C++](#awesome-cpp)
+	- [Standard Libraries](#standard-libraries)
+	- [Frameworks](#frameworks)
+	- [Artificial Intelligence](#artificial-intelligence)
+	- [Asynchronous Event Loop](#asynchronous-event-loop)
+	- [Audio](#audio)
+	- [Biology](#biology)
+	- [BitTorrent](#bittorrent)
+	- [CLI](#cli)
+	- [Compression](#compression)
+	- [Concurrency](#concurrency)
+	- [Containers](#containers)
+	- [Cryptography](#cryptography)
+	- [Database](#database)
+	- [Debug](#debug)
+	- [Game Engine](#game-engine)
+	- [GUI](#gui)
+	- [Graphics](#graphics)
+	- [Image Processing](#image-processing)
+	- [Internationalization](#internationalization)
+	- [Inter-process communication](#inter-process-communication)
+	- [JSON](#json)
+	- [Logging](#logging)
+	- [Machine Learning](#machine-learning)
+	- [Math](#math)
+	- [Memory Allocation](#memory-allocation)
+	- [Multimedia](#multimedia)
+	- [Networking](#networking)
+	- [PDF](#pdf)
+	- [Physics](#physics)
+	- [Regular Expression](#regular-expression)
+	- [Robotics](#robotics)
+	- [Scientific Computing](#scientific-computing)
+	- [Scripting](#scripting)
+	- [Serialization](#serialization)
+	- [Sorting](#sorting)
+	- [Video](#video)
+	- [Virtual Machines](#virtual-machines)
+	- [Web Application Framework](#web-application-framework)
+	- [XML](#xml)
+	- [Miscellaneous](#miscellaneous)
+- [Software](#software)
+	- [Compiler](#compiler)
+	- [Online Compiler](#online-compiler)
+	- [Debugger](#debugger)
+	- [Integrated Development Environment](#integrated-development-environment)
+	- [Build Systems](#build-systems)
+	- [Static Code Analysis](#static-code-analysis)
+	- [Coding Style Tools](#coding-style-tools)
+- [Resources](#resources)
+	- [API Design](#api-design)
+	- [Articles](#articles)
+	- [Books](#books)
+	- [Coding Style](#coding-style)
+	- [Podcasts](#podcasts)
+	- [Talks](#talks)
+	- [Videos](#videos)
+	- [Websites](#websites)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
@@ -76,6 +136,7 @@ A curated list of awesome C++ (https://github.com/fffaraz/awesome-cpp/blob/maste
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [mini_al](https://github.com/dr-soft/mini_al) - Single file audio playback and capture library. [Unlicense]
@@ -500,6 +561,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
+* [libav](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. [LGPL v2.1+ and others] [website](https://www.libav.org/)
 * [LIVE555 Streaming Media](https://github.com/fffaraz/awesome-cpp/blob/master/http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (https://github.com/fffaraz/awesome-cpp/blob/master/RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://github.com/fffaraz/awesome-cpp/blob/master/https://wiki.videolan.org/LibVLC) - libVLC (https://github.com/fffaraz/awesome-cpp/blob/master/VLC SDK) media framework. [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. [BSD]
@@ -960,56 +1022,6 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [Inqlude](http://inqlude.org/) - The Qt library archive.
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
-* [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
-* [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
-* [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.om.
-
-## Weblogs
-*Useful C or C++ related weblogs.*
-
-* [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
-* [Eric Niebler](http://ericniebler.com/)
-* [Sticky Bits](https://blog.feabhas.com/)
-* [Paul Fultz II's Blog](http://pfultz2.com/blog/)
-* [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
-* [Embedded in Academia](http://blog.regehr.org/)
-
-## Other Awesome Projects
-*Collection of useful codes, snippets, ...*
-
-* [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-* [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
-* [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
-
-# Other Awesome Lists
-*Other amazingly awesome lists*
-
-* [lists](https://github.com/fffaraz/awesome-cpp/blob/master/https://github.com/jnv/lists) - List of (https://github.com/fffaraz/awesome-cpp/blob/master/awesome) lists curated on GitHub.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-* [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-* [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
-* [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
-* [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-* [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-* [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
-* [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
-* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
-* [Inqlude](http://inqlude.org/) - The Qt library archive.
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
-* [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
-* [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
-* [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.nqlude.org/) - The Qt library archive.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.

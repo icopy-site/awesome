@@ -2,7 +2,37 @@
 
 > A curated list of awesome Flask resources and plugins
 
+- [Awesome Flask](#awesome-flask)
+  - [Framework](#framework)
+  - [Admin interface](#admin-interface)
+  - [Analytics](#analytics)
+  - [Authentication](#authentication)
+  - [Authorization](#authorization)
+  - [Database](#database)
+  - [Database Migrations](#database-migrations)
+  - [Session](#session)
+  - [Cache](#cache)
+  - [Data Validation](#data-validation)
+  - [Email](#email)
+  - [i18n](#i18n)
+  - [Full-text searching](#full-text-searching)
+  - [Rate Limiting](#rate-limiting)
+  - [Task Queue](#task-queue)
+  - [Exception tracking](#exception-tracking)
+  - [Tracing](#tracing)
+  - [APM](#apm)
+  - [Other SDK](#other-sdk)
+  - [Frontend](#frontend)
   - [Development (https://github.com/humiaozuzu/awesome-flask/blob/master/Debugging/Testing/Documentation)](https://github.com/humiaozuzu/awesome-flask/blob/master/#development-debuggingtestingdocumentation)
+  - [Utils](#utils)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Slides](#slides)
+  - [Videos](#videos)
+  - [Built with Flask](#built-with-flask)
+  - [Boilerplate](#boilerplate)
 
 ## Framework
 
@@ -218,17 +248,4 @@
 - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
 - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
 - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
-- [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much morenteer & Campaign Management System
-- [indico](https://github.com/indico/indico) - a general-purpose event management web-based solution. It includes a full-blown conference organization workflow as well as tools for meeting management and room booking. It provides as well integration with video-conferencing solutions.
-- [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
-- [PythonBuddy] (https://github.com/ethanchewy/PythonBuddy) - Online Python Editor With Live Syntax Checking and Execution
-
-## Boilerplate
-
-- [fbone](https://github.com/imwilsonxu/fbone)
-- [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
-- [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation)
-- [flask-rest-template](https://github.com/alexandre/flask-rest-template)
-- [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
-- [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much morete running on Google App Engine
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more

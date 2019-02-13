@@ -10,7 +10,13 @@ The [Quantified Self](https://github.com/woop/awesome-quantified-self/blob/maste
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
+## Contents
 
+- [Websites and Resources](#websites-and-resources)
+- [Applications and Platforms](#applications-and-platforms)
+- [Devices and Wearables](#devices-and-wearables)
+- [Research and Data Analysis](#research-and-analysis)
+- [Open Source Projects](#open-source-projects)
 
 ## Websites and Resources
 
@@ -202,9 +208,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work./creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work./creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work.

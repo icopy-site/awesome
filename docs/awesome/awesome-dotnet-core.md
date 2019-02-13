@@ -6,7 +6,67 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+## Contents
 
+* [General](#general)
+* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+  * [API](#api)
+  * [Application Frameworks](#application-frameworks)
+  * [Application Templates](#application-templates)
+  * [Authentication and Authorization](#authentication-and-authorization)
+  * [Blockchain](#blockchain)
+  * [Bot](#bot)
+  * [Build Automation](#build-automation)
+  * [Bundling and Minification](#bundling-and-minification)
+  * [Caching](#caching)
+  * [CMS](#cms)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)  
+  * [Compression](#compression)
+  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
+  * [Cryptography](#cryptography)
+  * [Database](#database)
+  * [Database Drivers](#database-drivers)
+  * [Database Tools and Utilities](#database-tools-and-utilities)
+  * [Date and Time](#date-and-time)
+  * [Distributed Computing](#distributed-computing)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Exceptions](#exceptions)
+  * [Functional Programming](#functional-programming)
+  * [Graphics](#graphics)
+  * [GUI](#gui)
+  * [IDE](#ide)
+  * [Internationalization](#internationalization)
+  * [IOC](#ioc)
+  * [Logging](#logging)
+  * [Machine Learning and Data Science](#machine-learning-and-data-science)
+  * [Mail](#mail)
+  * [Mathematics](#mathematics)
+  * [Networking](#networking)
+  * [Misc](#misc)
+  * [ORM](#orm)
+  * [Profiling](#profiling)
+  * [Queue and Messaging](#queue-and-messaging)
+  * [Query Builders](#query-builders)
+  * [Scheduler and Job](#scheduler-and-job)
+  * [SDKs](#sdks)
+  * [Security](#security)
+  * [Searching](#searching)
+  * [Serialization](#serialization)
+  * [Template Engine](#template-engine)
+  * [Testing](#testing)
+  * [Tools](#tools)
+  * [Web Framework](#web-framework)
+  * [Web Socket](#web-socket)
+  * [Windows Service](#windows-service)
+  * [Workflow](#workflow)
+* [Starter Kits](#starter-kits)
+* [Sample Projects](#sample-projects)
+* [Articles](#articles)
+* [Books](#books)
+* [Cheat Sheets](#cheat-sheets)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
+* [Community](#community)
 
 ## General
 
@@ -179,13 +239,17 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
+* [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
 * [NetCoreCMS](https://github.com/thangchung/awesome-dotnet-core/blob/master/https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (https://github.com/thangchung/awesome-dotnet-core/blob/master/En, BN).
+* [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
+* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 * [Squidex](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
 * [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+* [Wyam](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
 ### Code Analysis and Metrics
@@ -618,6 +682,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)
 * [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
 * [dotnet-tools](https://github.com/thangchung/awesome-dotnet-core/blob/master/https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (https://github.com/thangchung/awesome-dotnet-core/blob/master/dotnet CLI).
+  * [LibMan CLI](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 * [EntryPoint](https://github.com/thangchung/awesome-dotnet-core/blob/master/https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (https://github.com/thangchung/awesome-dotnet-core/blob/master/Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project [https://www.gitignore.io](https://www.gitignore.io).
@@ -729,6 +794,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * Configuration and deployment
   * [.NET project structure](https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
   * [Adding Travis CI builds to a .NET Core app](http://andrewlock.net/adding-travis-ci-to-a-net-core-app/)
+  * [ASP.NET Core 1.0 - Configure ApplicationInsights](http://social.technet.microsoft.com/wiki/contents/articles/35918.asp-net-core-1-0-configure-applicationinsights.aspx)
   * [haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/)
   * [Project.json to MSBuild conversion guide](http://www.natemcmaster.com/blog/2017/01/19/project-json-to-csproj/)
   * [Publishing a .NET project with Appveyor and NuGet](https://few-lines-of-code.blogspot.com/2016/03/publishing-net-project-with-appveyor.html)
@@ -787,28 +853,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * Stack Overflow
   *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
   *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
-  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
-  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
-  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
-  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
-* [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.CLR](https://stackoverflow.com/questions/tagged/coreclr)
-  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
-  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
-  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
-  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
-* [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.CLR](https://stackoverflow.com/questions/tagged/coreclr)
   *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
   *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
   *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)

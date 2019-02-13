@@ -8,6 +8,24 @@
 
 Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
 
+### Table of Contents
+ - [Resources](#resources)
+  - [Documentation](#documentation)
+  - [Community](#community)
+ - [JavaScript](#javascript-libraries)
+ - [Python](#python-libraries)
+ - [Ruby](#ruby-libraries)
+ - [Java](#java-libraries)
+ - [Additional Languages](#additional-languages)
+  - [Community Supported](#community-supported-drivers)
+ - [Research and Training](#research-and-training)
+  - [Articles](#articles)
+  - [Talks](#talks)
+  - [RethinkDB Examples](#rethinkdb-examples)
+  - [Community Examples](#community-examples)
+ - [Tools](#tools)
+  - [Administration](#administrative-tools)
+  - [Deployment](#deployment)
 
 <br>
 > <h3>RethinkDB Ecosystem</h3>
@@ -61,6 +79,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3>Python Libraries</h3>
@@ -84,6 +103,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3>Ruby Libraries</h3>
@@ -107,6 +127,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/ruby/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3>Java Libraries</h3>
@@ -131,6 +152,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/java/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://twitter.com/rethinkdb) 
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3>Additional Languages</h3>
@@ -151,6 +173,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [PHP](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ReQL).
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3> Research And Training</h3>
@@ -201,6 +224,7 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
 - [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) - A Meteor and RethinkDB Example Using GraphQL.
 
+**[Back to top](#table-of-contents)**
 
 <br>
 > <h3>Tools</h3>
@@ -218,16 +242,6 @@ Inspired by the [awesome](https://github.com/d3viant0ne/awesome-rethinkdb/blob/m
 - [Chef](https://github.com/AVVSDevelopment/chef-rethinkdb) - Chef RethinkDB cookbook.
 - [Wrecker](https://github.com/mies/box-rethinkdb) - Wercker box for RethinkDB.
 - [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) - Single node Dockerfile.
-
-<br>
-> <h3>License</h3>
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ob/master/rethinkdb/Dockerfile) - Single node Dockerfile.
-
-<br>
-> <h3>License</h3>
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ob/master/rethinkdb/Dockerfile) - Single node Dockerfile.
 
 <br>
 > <h3>License</h3>

@@ -18,7 +18,18 @@ The term was coined by Eric Evans in his book of the same title.
 
 **[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)** is a workshop format for quickly exploring complex business domains.
 
+## Contents
 
+- [Books](#books)
+- [Training Courses](#training-courses)
+- [Video Collections](#video-collections)
+- [Community Resources](#community-resources)
+- [Blogs](#blogs)
+- [Sample Projects](#sample-projects)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Podcasts and Interviews](#podcasts-and-interviews)
+- [Conferences](#conferences)
+- [User Groups](#user-groups)
 
 ## Books
 
@@ -113,6 +124,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Aaron Stannard](http://www.aaronstannard.com/) - From the CTO and co-founder of Petabridge, developers of the Akka.NET Actor Model framework.
 - [Roger Johansson](https://rogeralsing.com/) - Mostly C#, DDD, and Akka.NET.
 - [Konrad Garus](http://squirrel.pl/blog/) - Ranting and Programming in Java, Clojure, and JavaScript.  Articles tagged under *cqrs*.
+- [Oasis Digital](http://blog.oasisdigital.com/category/cqrs/) - Content by Oasis Digital tagged under *cqrs*.
 - [Adaptech](http://adaptechsolutions.net/blog/) - Adaptech Solutions blog.  Our founder, Adam Dymitruk, debated the merits of CQRS with Greg Young before Greg coined the term. Adam and business partner Robert Reppel are among the leading practitioners of event-sourced microservices.
 - [Lev Gorodinski](http://gorodinski.com/) - Several articles about DDD from 2013, which are still relevant.
 - [Dino Esposito](https://github.com/heynickc/awesome-ddd/blob/master/https://software2cents.wordpress.com/) - Software architect, trainer, book author.  Author of [Microsoft .NET - Architecting Applications for the Enterprise (https://github.com/heynickc/awesome-ddd/blob/master/2nd Edition)](https://github.com/heynickc/awesome-ddd/blob/master/https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/).
@@ -222,9 +234,5 @@ The term was coined by Eric Evans in his book of the same title.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.1/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.1/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.

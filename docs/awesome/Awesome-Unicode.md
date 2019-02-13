@@ -18,7 +18,42 @@ Unicode is Awesome! Prior to Unicode, international communication was grueling- 
 
 <br>
 
+# Contents
 
+- [Quick Unicode Background](#quick-unicode-background)
+	- [What Characters Does the Unicode Standard Include?](#what-characters-does-the-unicode-standard-include)
+	- [Unicode Character Encodings](#unicode-character-encodings)
+	- [Lets talk Numbers](#lets-talk-numbers)
+	- [UTF-16 Surrogate Pairs](#utf-16-surrogate-pairs)
+	- [Calculating Surrogate Pairs](#calculating-surrogate-pairs)
+	- [Composing & Decomposing](#composing--decomposing)
+	- [Myths of Unicode](#myths-of-unicode)
+	- [Applied Unicode Encodings](#applied-unicode-encodings)
+	- [Source Code](#source-code)
+- [Awesome Characters List](#awesome-characters-list)
+	- [Special Characters](#special-characters)
+	- [Variable identifiers can effectively include whitespace!](#variable-identifiers-can-effectively-include-whitespace)
+	- [Modifiers](#modifiers)
+	- [Uppercase Transformation Collisions](#collision-uppercase-transformation-collisions)
+	- [Lowercase Transformation Collisions](#collision-lowercase-transformation-collisions)
+- [Quirks and Troubleshooting](#quirks-and-troubleshooting)
+	- [One-To-Many Case Mappings](#one-to-many-case-mappings)
+- [Awesome Packages & Libraries](#awesome-packages--libraries)
+- [Emojis](#emojis)
+	- [Diversity](#diversity)
+- [Creatively Naming Variables and Methods](#creatively-naming-variables-and-methods)
+	- [Recursive HTML Tag Renaming Script](#recursive-html-tag-renaming-script)
+- [Unicode Fonts](#unicode-fonts)
+- [More Reading](#more-reading)
+- [Exploring Deeper into Unicode Yourself](#exploring-deeper-into-unicode-yourself)
+- [Overview Map](#overview-map)
+	- [A map of the Basic Multilingual Plane](#a-map-of-the-basic-multilingual-plane)
+	- [Unicode Blocks](#unicode-blocks)
+- [Principles of the Unicode Standard](#principles-of-the-unicode-standard)
+- [Unicode Versions](#unicode-versions)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 
 # Quick Unicode Background
@@ -1031,44 +1066,6 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 # Contributing
 
 See the *Awesome Unicode* [contribution guide](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) for details on how to contribute.
-
-
-# Code of Conduct
-
-See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
->In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-
-# License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [the
-contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
-have waived all copyright and related or neighboring rights to this work. See the
-[license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) for details.tails on how to contribute.
-
-
-# Code of Conduct
-
-See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
->In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-
-# License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [the
-contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
-have waived all copyright and related or neighboring rights to this work. See the
-[license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) for details.tails on how to contribute.
 
 
 # Code of Conduct

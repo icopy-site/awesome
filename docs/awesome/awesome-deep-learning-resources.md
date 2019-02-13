@@ -4,7 +4,26 @@ This is a rough list of my favorite deep learning resources. It has been useful 
 I (https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/[Guillaume Chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
 
 
+## Contents
 
+- [Trends](#trends)
+- [Online classes](#online-classes)
+- [Books](#books)
+- [Posts and Articles](#posts-and-articles)
+- [Practical resources](#practical-resources)
+  - [Librairies and Implementations](#librairies-and-implementations)
+  - [Some Datasets](#some-datasets)
+- [Other Math Theory](#other-math-theory)
+  - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
+  - [Complex Numbers & Digital Signal Processing](#complex-numbers-and-digital-signal-processing)
+- [Papers](#papers)
+  - [Recurrent Neural Networks](#recurrent-neural-networks)
+  - [Convolutional Neural Networks](#convolutional-neural-networks)
+  - [Attention Mechanisms](#attention-mechanisms)
+  - [Other](#other)
+- [YouTube and Videos](#youtube)
+- [Misc. Hubs and Links](#misc-hubs-and-links)
+- [License](#license)
 
 <a name="trends" />
 
@@ -238,9 +257,5 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.

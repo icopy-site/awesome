@@ -14,9 +14,48 @@ Please take a quick gander at the [contribution guidelines](https://github.com/p
 Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
+### Contents
 
+- [Awesome Phalcon](#awesome-phalcon)
+    - [ACL](#acl)
+    - [Application Skeleton](#application-skeleton)
+    - [Authentication & OAuth](#authentication--oauth)
+    - [CMS & Blogs](#cms--blogs)
+    - [Command Line](#command-line)
+    - [Dashboard](#dashboard)
+    - [Debug](#debug)
+    - [DI](#di)
+    - [Docs](#docs)
+    - [Events](#events)
+    - [Forms](#forms)
+    - [i18n](#i18n)
+    - [Integration](#integration)
+    - [Mail](#mail)
+    - [Media](#media)
+    - [Miscellaneous](#miscellaneous)
+    - [Networking](#networking)
+    - [ORM](#orm)
+    - [ODM](#odm)
+    - [Provisioning](#provisioning)
+    - [RESTful](#restful)
+    - [Routing](#routing)
+    - [Scaffolding](#scaffolding)
+    - [Searching](#searching)
+    - [Shopping](#shopping)
+    - [SMS](#sms)
+    - [Talks](#talks)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Validators](#validators)
+    - [Web Tools](#web-tools)
 
+- [Server Applications](#server-applications)
 
+- [Resources](#resources)
+    - [Conferences](#conferences)
+    - [E-Books](#e-books)
+    - [Websites](#websites)
+        - [Tutorials](#tutorials)
 
 ## ACL
 
@@ -61,6 +100,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## CMS & Blogs
 
+*Content management systems & blogs.*
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
@@ -358,20 +398,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
 * [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
-
-
-### Tutorials
-
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
-* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Coursesom/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
-
-
-### Tutorials
-
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
-* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Coursesom/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 
 ### Tutorials

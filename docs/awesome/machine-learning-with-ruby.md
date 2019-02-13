@@ -6,6 +6,7 @@
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
+# Awesome Machine Learning with Ruby [<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Curated List of Ruby Machine Learning Links and Resources
 
@@ -24,6 +25,7 @@ utilizing the [Ruby][ruby] programming language.
 A lot of useful resources on this list come from the development by
 [The Ruby Science Foundation][sciruby], our [contributors][contributors] and
 our own day to day work on various ML applications.
+Read [why](#wait-but-why) this list is awesome.
 
 :sparkles: Every [contribution](https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md) is welcome! Add links through pull
 requests or create an issue to start a discussion.
@@ -32,9 +34,33 @@ Follow us on [Twitter](https://twitter.com/NonWebRuby) and please spread
 the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
+## Contents
 
 <!-- toc -->
 
+- [:sparkles: Tutorials](#sparkles-tutorials)
+- [Machine Learning Libraries](#machine-learning-libraries)
+  * [Frameworks](#frameworks)
+  * [Neural networks](#neural-networks)
+  * [Kernel methods](#kernel-methods)
+  * [Evolutionary algorithms](#evolutionary-algorithms)
+  * [Bayesian methods](#bayesian-methods)
+  * [Decision trees](#decision-trees)
+  * [Clustering](#clustering)
+  * [Linear classifiers](#linear-classifiers)
+  * [Statistical models](#statistical-models)
+- [Applications of machine learning](#applications-of-machine-learning)
+- [Data structures](#data-structures)
+- [Data visualization](#data-visualization)
+- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
+- [Projects and Code Examples](#projects-and-code-examples)
+- [Heroku buildpacks](#heroku-buildpacks)
+- [Books, Blogs, Channels](#books-blogs-channels)
+- [Community](#community)
+- [Needs your Help!](#needs-your-help)
+- [Related Resources](#related-resources)
+- [Wait but why?](#wait-but-why)
+- [License](#license)
 
 <!-- tocstop -->
 
@@ -74,6 +100,7 @@ programming languages with appropriate bindings for Ruby.
   Artificial Intelligence for Ruby.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
+  <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](https://github.com/arbox/machine-learning-with-ruby/blob/master/http://dmg.org/pmml/v4-3/GeneralStructure.html) (https://github.com/arbox/machine-learning-with-ruby/blob/master/Predictive Model Markup Language).
 - [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
@@ -127,6 +154,7 @@ programming languages with appropriate bindings for Ruby.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
+  <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
 
@@ -151,12 +179,14 @@ programming languages with appropriate bindings for Ruby.
 
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
+  <sup>[[dep: GraphViz](#graphviz) |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 
 ### Clustering
 
 - [flann](https://github.com/mariusmuja/flann) -
   Fast Library for Approximate Nearest Neighbors.
+  <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
@@ -184,11 +214,13 @@ programming languages with appropriate bindings for Ruby.
   Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
+  <sup>[[dep: bundled](#bundled)]</sup>
 
 ## Applications of machine learning
 
 - [phashion](https://github.com/westonplatter/phashion) -
   Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+  <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
 
 ## Data structures
 
@@ -410,23 +442,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 [ml]: https://en.wikipedia.org/wiki/Machine_learning
-[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
-[contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
-[sciruby]: https://github.com/sciruby
-[ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
-[cs]: https://en.wikipedia.org/wiki/Computational_science
-[fe]: https://en.wikipedia.org/wiki/Feature_engineering
-[ts]: https://en.wikipedia.org/wiki/Test_set//www.ruby-lang.org/en/
-[awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
-[ml]: https://en.wikipedia.org/wiki/Machine_learning
-[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
-[contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
-[sciruby]: https://github.com/sciruby
-[ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
-[cs]: https://en.wikipedia.org/wiki/Computational_science
-[fe]: https://en.wikipedia.org/wiki/Feature_engineering
-[ts]: https://en.wikipedia.org/wiki/Test_setlearning
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
 [contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
 [sciruby]: https://github.com/sciruby

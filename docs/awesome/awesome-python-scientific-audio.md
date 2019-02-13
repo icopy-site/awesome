@@ -3,7 +3,29 @@
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
 
+## Contents
 
+* [Audio Related Packages](#audio-related-packages)
+    - [Read/Write](#read-write)
+    - [Transformations - General DSP](#transformations---general-dsp)
+    - [Feature extraction](#feature-extraction)
+    - [Speech Processing](#speech-processing)
+    - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
+    - [Source Separation](#source-separation)
+    - [Music Information Retrieval](#music-information-retrieval)
+    - [Deep Learning](#deep-learning)
+    - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
+    - [Realtime applications](#realtime-applications)
+    - [Web - Audio](#web-audio)
+    - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
+    - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
+* [Tutorials](#tutorials)
+* [Books](#books)
+* [Scientific Paper](#scientific-papers)
+* [Other Resources](#other-resources)
+* [Related lists](#related-lists)
+* [Contributing](#contributing)
+* [License](#license)
 
 
 ## Audio Related Packages
@@ -156,14 +178,6 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/faroit/awesome-python-scientific-audio/blob/master/CONTRIBUTING.md) first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
-
-## License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)to them.
-
-## License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)to them.
 
 ## License
 

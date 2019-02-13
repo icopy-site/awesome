@@ -10,8 +10,18 @@ More info [here](http://tensorflow.org).
 
 
 
+## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
+- [Tutorials](#github-tutorials)
+- [Models/Projects](#github-projects)
+- [Powered by TensorFlow](#github-powered-by)
+- [Libraries](#libraries)
+- [Videos](#video)
+- [Papers](#papers)
+- [Blog posts](#blogs)
+- [Community](#community)
+- [Books](#books)
 
 <!-- /MarkdownTOC -->
 
@@ -236,12 +246,6 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 <a name="credits" />
 
 ## Credits
-
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
-* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)dits
-
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
-* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)dits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)

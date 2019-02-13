@@ -4,7 +4,14 @@
 
 WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the [extension API](https://developer.chrome.com/extensions) supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) with just [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
+## Contents
 
+- [Getting Started](#getting-started)
+- [Community](#community)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Tools](#tools)
+- [Boilerplates](#boilerplates)
+- [Sample Extensions](#sample-extensions)
 
 ## Getting started
 
@@ -75,4 +82,4 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Federico Brigante](http://bfred.it) has waived all copyright and related or neighboring rights to this work..it) has waived all copyright and related or neighboring rights to this work..it) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Federico Brigante](http://bfred.it) has waived all copyright and related or neighboring rights to this work.

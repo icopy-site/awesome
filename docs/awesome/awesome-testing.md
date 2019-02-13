@@ -7,7 +7,17 @@ This is intended to be a curation of resources for the new among the software te
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
 
+## Contents
 
+- [Software](#software)
+- [Books](#books)
+- [Training](#training)
+- [Blogs](#blogs)
+- [Suggested Awesome Lists](#suggested-awesome-lists)
+- [Others](#Others)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 
 ## Software
@@ -97,6 +107,4 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 To the extent possible under law, [the
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
-[license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.e the
-[license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.e the
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) for details.

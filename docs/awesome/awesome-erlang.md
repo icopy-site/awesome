@@ -1,6 +1,45 @@
 # Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
+- [Awesome Erlang](#awesome-Erlang)
+    - [Package Management](#package-management)
+    - [Release Management](#release-management)
+    - [Configuration Management](#configuration-management)
+    - [Codebase Maintenance](#codebase-maintenance)
+    - [Web Frameworks](#web-frameworks)
+    - [Web Framework Components](#web-framework-components)
+    - [HTTP](#http)
+    - [Testing](#testing)
+    - [Logging](#logging)
+    - [Monitoring](#monitoring)
+    - [Deployment](#deployment)
+    - [Distributed Systems](#distributed-systems)
+    - [Code Analysis](#code-analysis)
+    - [Build Tools](#build-tools)
+    - [Geolocation](#geolocation)
+    - [Debugging](#debugging)
+    - [Actors](#actors)
+    - [Date and Time](#date-and-time)
+    - [ORM and Datamapping](#orm-and-datamapping)
+    - [Queue](#queue)
+    - [Authentication](#authentication)
+    - [Text and Numbers](#text-and-numbers)
+    - [REST and API](#rest-and-api)
+    - [Caching](#caching)
+    - [Third Party APIs](#third-party-apis)
+    - [Networking](#networking)
+    - [Internet of Things](#internet-of-things)
+    - [Algorithms and Datastructures](#algorithms-and-datastructures)
+    - [Translations and Internationalizations](#translations-and-internationalizations)
+    - [Miscellaneous](#miscellaneous)
+- [Resources](#resources)
+    - [Websites](#websites)
+    - [Books](#books)
+    - [Web Reading](#web-reading)
+    - [Erlang Reading](#Erlang-reading)
+    - [Screencasts](#screencasts)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 ## Package Management
 *Libraries and tools for package and dependency management.*
@@ -32,6 +71,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [MochiWeb](https://github.com/mochi/mochiweb) - An Erlang library for building lightweight HTTP servers.
 * [N2O](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nitrogen](https://github.com/drobakowski/awesome-erlang/blob/master/https://github.com/nitrogen/nitrogen) - Framework to build web applications (https://github.com/drobakowski/awesome-erlang/blob/master/including front-end) in pure Erlang.
+* [Zotonic](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
 
 ## Web Framework Components
 *Standalone component from web development frameworks.*
@@ -232,36 +272,6 @@ Various resources, such as books, websites and articles, for improving your Erla
 *Erlang-releated reading materials.*
 
 * [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
-
-## Screencasts
-*Cool video tutorials.*
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.out erlang programming language [powerd by community].
-* [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
-* [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
-* [Spawned Shelter](http://spawnedshelter.com/) - Erlang Spawned Shelter. A collection of the best articles, videos and presentations related to Erlang.
-
-## Books
-*Fantastic books and e-books.*
-
-* [Erlang and Elixir for Imperative Programmers](https://github.com/drobakowski/awesome-erlang/blob/master/https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (https://github.com/drobakowski/awesome-erlang/blob/master/2016)
-* [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
-* [Stuff Goes Bad - ERLANG IN ANGER](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
-
-## Web Reading
-*General web-development-related reading materials.*
-
-## Erlang Reading
-*Erlang-releated reading materials.*
-
-* [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
-
-## Screencasts
-*Cool video tutorials.*
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.fast track introduction to Erlang that teaches the language by walking through a few example projects.
 
 ## Screencasts
 *Cool video tutorials.*

@@ -6,7 +6,19 @@
 
 [Preact](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
+## Contents
+- [Community](#community)
+- [Toolkits](#toolkits)
+- [Boilerplates](#boilerplates)
+- [Routing](#routing)
+- [Components](#components)
+- [Libraries](#libraries)
+- [Testing Utils](#testing-utils)
+- [Articles](#articles)
+- [Example Apps](#example-apps)
 - [Real Apps](https://preactjs.com/about/we-are-using)
+- [Related Libraries](#related-libraries)
+- [Tips](#tips)
 
 ### Community
 - [Slack](https://github.com/ooade/awesome-preact/blob/master/https://preact-slack.now.sh) (https://github.com/ooade/awesome-preact/blob/master/Discussion Forum)
@@ -118,4 +130,4 @@ Make sure you follow the [guidelines](https://github.com/ooade/awesome-preact/bl
 
 ---
 ### License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)/mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)/mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

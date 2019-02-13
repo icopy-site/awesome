@@ -93,12 +93,4 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 
 # Contributing
 
-Your contributions are always welcome!bayandin/awesome-awesomeness) list.
-
-# Contributing
-
-Your contributions are always welcome!bayandin/awesome-awesomeness) list.
-
-# Contributing
-
 Your contributions are always welcome!

@@ -6,7 +6,18 @@
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 
+## Contents
 
+- [Novels](#novels)
+  - [Epic Fantasy](#epic-fantasy)
+  - [Standard Fantasy](#standard-fantasy)
+  - [Allegory](#allegory)
+  - [Satire](#satire)
+  - [Horror](#horror)
+  - [Children's Books](#childrens-books)
+- [Comic books](#comic-books)
+- [Movies](#movies)
+- [TV Series](#tv-series)
 
 ## Novels
 
@@ -580,28 +591,6 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
-
----
-
-## You got through the list and didn't find anything?
-Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.milies fight for control of the mythical land of Westeros.
-
----
-
-## You got through the list and didn't find anything?
-Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.milies fight for control of the mythical land of Westeros.
 
 ---
 

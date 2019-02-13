@@ -13,8 +13,34 @@ Please take a quick look at the [contribution guidelines](https://github.com/aps
 It takes time to build up collection of tools used in ctf and remember them all. This repo helps to keep all these scattered tools at one place.
 
 
+### Contents
 
+- [Awesome CTF](#awesome-ctf)
+  - [Create](#create)
+    - [Forensics](#forensics)
+    - [Platforms](#platforms)
+    - [Steganography](#steganography)
+    - [Web](#web)
+  - [Solve](#solve)
+    - [Attacks](#attacks)
+    - [Bruteforcers](#bruteforcers)
+    - [Cryptography](#crypto)
+    - [Exploits](#exploits)
+    - [Forensics](#forensics-1)
+    - [Networking](#networking)
+    - [Reversing](#reversing)
+    - [Services](#services)
+    - [Steganography](#steganography-1)
+    - [Web](#web-1)
 
+- [Resources](#resources)
+  - [Operating Systems](#operating-systems)
+  - [Starter Packs](#starter-packs)
+  - [Tutorials](#tutorials)
+  - [Wargames](#wargames)
+  - [Websites](#websites)
+  - [Wikis](#wikis)
+  - [Writeups Collections](#writeups-collections)
 
 # Create
 
@@ -340,20 +366,6 @@ Check solve section for steganography.
 - [CTF write-ups (https://github.com/apsdehal/awesome-ctf/blob/master/community)](https://github.com/apsdehal/awesome-ctf/blob/master/https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
-- [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
-- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
-
-
-### LICENSE
-
-CC0 :)Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
-- [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
-- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
-
-
-### LICENSE
-
-CC0 :)Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 

@@ -5,12 +5,30 @@ Version with travis-ci support and auto deployment: https://github.com/ayr-ton/a
 
 A curated list of podcasts we like to listen to.
 
+# Table of Contents
 
 ## Podcasts by language
 
+- [English](#in-english)
+- [Portuguese](#in-portuguese)
+- [Spanish](#in-spanish)
+- [Russian](#in-russian)
+- [Persian](#in-persian)
+- [Swedish](#in-swedish)
+- [French](#in-french)
+- [German](#in-german)
+- [Chinese](#in-chinese)
+- [Polish](#in-polish)
+- [Turkish](#in-turkish)
+- [Finnish](#in-finnish)
+- [Japanese](#in-japanese)
+- [Bahasa Indonesia](#in-bahasa-indonesia)
+- [Dutch](#in-dutch)
 
 ## Other information
 
+- [Tooling](#tooling)
+- [More](#more)
 
 ## In English
 
@@ -27,6 +45,7 @@ A curated list of podcasts we like to listen to.
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks.
 * [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 * [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
+* [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
 * [Blockchain Insider](https://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
 * [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - A book club podcast for developers.
@@ -43,8 +62,10 @@ A curated list of podcasts we like to listen to.
 * [Coding Blocks](https://www.codingblocks.net/) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - A new podcast about the people who transform technology from the command line up.
 * [Complete Developer Podcast](https://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
+* [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
+* [CTRL+Click Cast](https://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 * [Curious Minds](https://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
 * [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
 * [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
@@ -327,18 +348,6 @@ A curated list of podcasts we like to listen to.
 * [Soundwaves](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://github.com/bottiger/SoundWaves) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.github.io) / [gPodder Director](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
-* [RadioPublic](https://radiopublic.com/)
-
-### More
-
-See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CONTRIBUTING.md) for info on how to contribute to this list.hub.com/guipdutra/awesome-geek-podcasts/blob/master/https://github.com/bottiger/SoundWaves) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Android and Open Source)
-* [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
-* [gPodder](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.github.io) / [gPodder Director](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
-* [RadioPublic](https://radiopublic.com/)
-
-### More
-
-See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CONTRIBUTING.md) for info on how to contribute to this list.lob/master/https://gpodder.net/) - (https://github.com/guipdutra/awesome-geek-podcasts/blob/master/Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](https://radiopublic.com/)
 
 ### More

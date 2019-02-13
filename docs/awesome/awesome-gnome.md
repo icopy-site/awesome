@@ -8,7 +8,45 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
 
+## Contents  
 
+- [Applications](#applications)
+  - [Productivity](#productivity)
+  - [Internet](#internet)
+  - [Editor](#editor)
+  - [Documents](#documents)
+  - [Multimedia](#multimedia)
+  - [Graphics](#graphics)
+  - [Games](#games)
+  - [Customization](#customization)
+  - [Tools](#tools)
+  - [System](#system)
+  - [Others](#others)
+- [GTK Modules and Systems](#gtk-modules-and-systems)
+- [Extensions](#extensions)
+  - [Menus](#menus)
+  - [Applets](#applets)
+  - [Status Area](#status-area)
+  - [Windows](#windows)
+  - [Docks and Panels](#docks-and-panels)
+  - [Services Integration](#services-integration)
+- [Themes](#themes)
+  - [Adwaita-based](#adwaita-based)
+  - [Material](#material)
+  - [Flat](#flat)
+  - [Metallic](#metallic)
+- [Icons](#icons)
+  - [Material Icons](#material-icons)
+  - [Flat Icons](#flat-icons)
+  - [Homogeneous Icons](#homogeneous-icons)
+  - [Skeumorphic](#skeumorphic)
+  - [Cursors](#cursors)
+- [Community](#community)
+- [Developer Tools](#developer-tools)
+  - [IDE](#ide)
+  - [Libraries and Utility](#libraries-and-utility)
+  - [Examples](#examples)
+  - [Documentation](#documentations)
 
 ---
 
@@ -242,12 +280,6 @@
 - [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
 - [Valadoc](https://valadoc.org/) - Documentation about Vala.
 - [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
-- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
-
-[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
-- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
-
-[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg

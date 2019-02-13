@@ -36,6 +36,104 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ## Index
 
+* [SDKs and Samples](#sdks-and-samples)
+    * [Android](#android-sdk)
+    * [C++](#c-sdk)
+    * [Clojure](#clojure-sdk)
+    * [Go](#go-sdk)
+    * [iOS](#ios-sdk)
+    * [IoT](#iot-sdk)
+    * [Java](#java-sdk)
+    * [JavaScript](#javascript-sdk)
+    * [Haskell](#haskell-sdk)
+    * [Perl](#perl-sdk)
+    * [PHP](#php-sdk)
+    * [Python](#python-sdk)
+    * [Ruby](#ruby-sdk)
+    * [Rust](#rust-sdk)
+    * [Scala](#scala-sdk)
+    * [Xamarin](#xamarin-sdk)
+    * [Unity](#unity-sdk)
+    * [.NET](#net-sdk)
+* [Command Line Tools](#command-line-tools)
+    * [Universal Command Line Interface](#universal-command-line-interface)
+    * [Windows PowerShell](#windows-powershell)
+* [IDE Toolkits](#ide-toolkits)
+    * [Eclipse Toolkit](#eclipse-toolkit)
+    * [Visual Studio Toolkit](#visual-studio-toolkit)
+* [Open Source Repos](#open-source-repos)
+    * [API Gateway](#api-gateway)
+    * [CLI](#cli)
+    * [CloudFormation](#cloudformation)
+    * [CloudSearch](#cloudsearch)
+    * [CloudTrail](#cloudtrail)
+    * [CloudWatch](#cloudwatch)
+    * [Code Deploy](#code-deploy)
+    * [Code Pipeline](#code-pipeline)
+    * [Cognito](#cognito)
+    * [Data Pipeline](#data-pipeline)
+    * [Device Farm](#device-farm)
+    * [DynamoDB](#dynamodb)
+    * [Elastic Beanstalk](#elastic-beanstalk)
+    * [Elastic Container Service](#elastic-container-service)
+    * [Elastic File System](#elastic-file-system)
+    * [Elastic MapReduce](#elastic-mapreduce)
+    * [Elastic Search](#elastic-search)
+    * [Elasticache](#elasticache)
+    * [Glacier](#glacier)
+    * [Kinesis](#kinesis)
+    * [Lambda](#lambda)
+    * [Machine Learning](#machine-learning)
+    * [Mobile Analytics](#mobile-analytics)
+    * [OpsWorks](#opsworks)
+    * [Redshift](#redshift)
+    * [Route 53](#route-53)
+    * [S3](#s3)
+    * [SNS](#sns)
+    * [SQS](#sqs)
+    * [Data](#data)
+    * [DevOps](#devops)
+    * [Security](#security)
+    * [Accompanying](#accompanying-repos)
+    * [Miscellaneous](#miscellaneous-repos)
+* [Guides, Books, Documentation, and Training](#guides-books-documentation-and-training)
+    * [Getting Started Guides](#getting-started-guides)
+    * [General Guides](#general-guides)
+    * [Books](#books)
+    * [Whitepapers](#whitepapers)
+    * [Documentation](#documentation)
+    * [Training](#training)
+    * [Case Studies: Powered by AWS](#case-studies-powered-by-aws)
+* [Social](#social)
+    * [Blogs](#blogs)
+    * [Twitter Influencers](#twitter-influencers)
+    * [Facebook Pages](#facebook-pages)
+    * [YouTube Channels](#youtube-channels)
+    * [LinkedIn Groups](#linkedin-groups)
+    * [Subreddits](#subreddits)
+    * [Conferences](#conferences)
+* [Latest KPIs and Stats](#latest-kpis-and-stats)
+* [Appendix of Core Services](#appendix-of-core-services)
+    * [Services in Plain English](#services-in-plain-english)
+    * [Compute](#compute-services)
+    * [Networking](#networking-services)
+    * [Enterprise Applications](#enterprise-applications)
+    * [Analytics](#analytics-services)
+    * [Artificial Intelligence](#artificial-intelligence)
+    * [Management Tools](#management-tools)
+    * [Security and Identity](#security-and-identity-services)
+    * [Internet of Things](#internet-of-things-service)
+    * [Mobile Services](#mobile-services)
+    * [Storage and Content Delivery](#storage-and-content-delivery-services)
+    * [Databases](#databases)
+    * [Application Services](#application-services)
+    * [Developer Tools](#developer-tools)
+    * [Miscellaneous Services](#miscellaneous-services)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [Other Awesome Lists](#other-awesome-lists)
+* [Contact Info](#contact-info)
+* [License](#license)
 
 ## SDKs and Samples
 
@@ -1153,6 +1251,7 @@ Community Groups:
 AWS Conferences:
 
 * [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
+* [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
 * [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
 
 Community Conferences:
@@ -1278,7 +1377,9 @@ Community Conferences:
 * [Pinpoint](https://aws.amazon.com/pinpoint/) - Targeted push notifications for mobile apps.
 * [Simple Notification Service (https://github.com/donnemartin/awesome-aws/blob/master/SNS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
+### Storage and Content Delivery Services
 
+* [CloudFront](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/cloudfront/) - A content delivery network (https://github.com/donnemartin/awesome-aws/blob/master/CDN) for distributing objects to locations near the requester.
 * [Elastic Block Store (https://github.com/donnemartin/awesome-aws/blob/master/EBS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
 * [Elastic File System (https://github.com/donnemartin/awesome-aws/blob/master/EFS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
 * [Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
@@ -1300,6 +1401,7 @@ Community Conferences:
 
 * [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
+* [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
 * [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
 * [Elastic Transcoder (https://github.com/donnemartin/awesome-aws/blob/master/ETS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
 * [Flexible Payments Service (https://github.com/donnemartin/awesome-aws/blob/master/FPS)](https://github.com/donnemartin/awesome-aws/blob/master/https://payments.amazon.com/developer) - Provides an interface for micropayments.
@@ -1323,85 +1425,6 @@ Community Conferences:
 * [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
 * [Partner Network (https://github.com/donnemartin/awesome-aws/blob/master/APN)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
-* [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
-
-## Credits
-
-Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md).
-
-## Other Awesome Lists
-
-Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-
-## Contact Info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-My contact info can be found on my [GitHub page](https://github.com/donnemartin).
-
-## License
-
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/donnemartin/awesome-aws/blob/master/Facebook).*
-
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (https://github.com/donnemartin/awesome-aws/blob/master/CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/ App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
-* [SimpleDB](https://aws.amazon.com/simpledb/) - Allows developers to run queries on structured data.
-
-### Application Services
-
-* [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
-* [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
-* [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
-* [Elastic Transcoder (https://github.com/donnemartin/awesome-aws/blob/master/ETS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
-* [Flexible Payments Service (https://github.com/donnemartin/awesome-aws/blob/master/FPS)](https://github.com/donnemartin/awesome-aws/blob/master/https://payments.amazon.com/developer) - Provides an interface for micropayments.
-* [Simple Email Service (https://github.com/donnemartin/awesome-aws/blob/master/SES)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
-* [Simple Notification Service (https://github.com/donnemartin/awesome-aws/blob/master/SNS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
-* [Simple Queue Service (https://github.com/donnemartin/awesome-aws/blob/master/SQS)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
-* [Simple Workflow (https://github.com/donnemartin/awesome-aws/blob/master/SWF)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
-* [Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
-
-### Developer Tools
-
-* [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
-* [CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
-* [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
-* [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
-* [Command Line Interface (https://github.com/donnemartin/awesome-aws/blob/master/CLI)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
-* [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
-
-### Miscellaneous Services
-
-* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
-* [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
-* [Partner Network (https://github.com/donnemartin/awesome-aws/blob/master/APN)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
-* [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
-
-## Credits
-
-Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md).
-
-## Other Awesome Lists
-
-Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-
-## Contact Info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-My contact info can be found on my [GitHub page](https://github.com/donnemartin).
-
-## License
-
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (https://github.com/donnemartin/awesome-aws/blob/master/Facebook).*
-
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (https://github.com/donnemartin/awesome-aws/blob/master/CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/ttps://github.com/donnemartin/awesome-aws/blob/master/APN)](https://github.com/donnemartin/awesome-aws/blob/master/https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 * [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
 ## Credits

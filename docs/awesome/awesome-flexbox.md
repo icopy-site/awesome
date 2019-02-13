@@ -6,6 +6,27 @@
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
 Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg](https://github.com/willianjusten/awesome-svg).
 
+## Table of Contents
+* [W3C Specification](#w3c-specification)
+* [Newsletter](#newsletter)
+* [Books](#books)
+* [Guides](#guides)
+* [Cross Browser](#cross-browser)
+ * [Articles](#articles)
+ * [Support](#support)
+ * [Preprocessors in Action](#preprocessors-in-action)
+ * [Polyfills](#polyfills)
+* [Other Interesting Articles](#other-interesting-articles)
+* [Presentations](#presentations)
+ * [Videos](#videos)
+ * [Slides and Notes](#slides-and-notes)
+* [Tools](#tools)
+* [Libraries and Frameworks](#libraries-and-frameworks)
+* [Featured Projects](#featured-projects)
+* [Courses](#courses)
+* [Who to Follow](#who-to-follow)
+* [Contributing](#contributing)
+* [Licence](#licence)
 
 ## W3C Specification
 *The specification describes a CSS box model optimized for user interface design.*
@@ -188,12 +209,6 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
-
-## License
-[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)lexbox/blob/master/contributing.md).
-
-## License
-[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)lexbox/blob/master/contributing.md).
 
 ## License
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)

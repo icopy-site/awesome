@@ -25,6 +25,24 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
 
 
+## Table of Contents  
+* [Awesome Salesforce](#awesome-salesforce--)
+  * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
+  * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
+  * [IDE](#ide)
+  * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
+  * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
+  * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
+  * [Salesforce Lightning Resources](#salesforce-lightning)
+  * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
+    * [Mobile SDK](#mobile-sdk)
+    * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
+  * [TroubleShooting and Developers Support](#troubleshooting-and-queries)
+  * [Salesforce Certification Program](#salesforce-certification-program)
+  * [Salesforce University](#salesforce-university)
+  * [Salesforce Technical Blogs](#technical-blogs)
+  * [Contribute to Project Awesome-Salesforce](#contribute)
+  * [How to create pull request and report bug](#bugreport-pullrequest)
 
 
 ### Salesforce Developer Free Edition Signup
@@ -220,6 +238,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lightning
+* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
@@ -309,16 +328,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 1. Add your link as per the top-level Category page within the topic sub-section(https://github.com/mailtoharshit/awesome-salesforce/blob/master/s), in _alphabetical order_, with notes (https://github.com/mailtoharshit/awesome-salesforce/blob/master/if any) in the markdown files.
 2. For broken links or outdated information, submit a bug report (https://github.com/mailtoharshit/awesome-salesforce/blob/master/BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 3. For those unable to use git, create a github account, then fork this` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)iles-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
-
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)iles-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 
 ## License

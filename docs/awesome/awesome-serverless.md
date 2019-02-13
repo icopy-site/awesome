@@ -6,7 +6,18 @@
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
+## Table of contents
 
+- [General](#general)
+- [Blogs](#blogs)
+- [Blog posts](#blog-posts)
+- [Screencasts](#screencasts)
+- [Talks](#talks)
+- [Projects](#projects)
+- [Related projects](#related-projects)
+- [Serverless Framework Plugins](#serverless-framework-plugins)
+- [Literature / Education](#literature--education)
+- [Professional services](#professional-services)
 
 ---
 
@@ -142,12 +153,6 @@
 - [Red Badger](https://red-badger.com) - Agency.
 - [Langa](http://langa.io) - Agency.
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
-- [OneSpeed](https://onespeed.io) - Agency.
-- [Seraro](http://www.seraro.com) - Agency.
-- [Superluminar](https://superluminar.io) - Agency.cy.
-- [OneSpeed](https://onespeed.io) - Agency.
-- [Seraro](http://www.seraro.com) - Agency.
-- [Superluminar](https://superluminar.io) - Agency.cy.
 - [OneSpeed](https://onespeed.io) - Agency.
 - [Seraro](http://www.seraro.com) - Agency.
 - [Superluminar](https://superluminar.io) - Agency.

@@ -1,7 +1,30 @@
+# Awesome Amazon Alexa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://user-images.githubusercontent.com/168240/39513123-178f98f4-4da8-11e8-8831-3a90ec5768c6.png" width="100" align="right" alt="Amazon Alexa">](https://developer.amazon.com/alexa)
 
 > Curated list of awesome resources for the [Amazon Alexa](https://developer.amazon.com/alexa) platform.
 
+# Contents
 
+- [SDKs/Tools](#sdkstools)
+- [NPM Modules](#npm-modules)
+- [Skills](#skills)
+- [Boilerplates](#boilerplates)
+- [Prototyping](#prototyping)
+- [Analytics](#analytics)
+- [Utilities](#utilities)
+- [Monitoring](#monitoring)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Courses](#videos)
+- [Communities](#communities)
+- [Influencers](#influencers)
+- [Easter Eggs](#easter-eggs)
+- [Fundraising](#fundraising)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## SDKs/Tools
 
@@ -232,14 +255,6 @@
 Fork and submit Pull Request!
 
 Please read the [contribution guidelines](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/CONTRIBUTING.md). Thanks!
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ps://github.com/miguelmota/awesome-amazon-alexa/blob/master/CONTRIBUTING.md). Thanks!
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)ps://github.com/miguelmota/awesome-amazon-alexa/blob/master/CONTRIBUTING.md). Thanks!
 
 # License
 

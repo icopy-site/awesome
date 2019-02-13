@@ -7,6 +7,7 @@
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
+# Awesome NLP with Ruby [<img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Useful resources for text processing in Ruby
 
@@ -29,15 +30,57 @@ This list comes from our day to day work on Language Models and NLP Tools.
 Read [why](https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md) this list is awesome. Our [FAQ](https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md) describes the
 important decisions and useful answers you may be interested in.
 
+:sparkles: Every [contribution](#contributing) is welcome! Add links through pull
 requests or create an issue to start a discussion.
 
 Follow us on [Twitter](https://twitter.com/NonWebRuby)
 and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
+## Contents
 
 <!-- toc -->
 
+- [:sparkles: Tutorials](#sparkles-tutorials)
+- [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
+  * [Pipeline Generation](#pipeline-generation)
+  * [Multipurpose Engines](#multipurpose-engines)
+    + [On-line APIs](#on-line-apis)
+  * [Language Identification](#language-identification)
+  * [Segmentation](#segmentation)
+  * [Lexical Processing](#lexical-processing)
+    + [Stemming](#stemming)
+    + [Lemmatization](#lemmatization)
+    + [Lexical Statistics: Counting Types and Tokens](#lexical-statistics-counting-types-and-tokens)
+    + [Filtering Stop Words](#filtering-stop-words)
+  * [Phrasal Level Processing](#phrasal-level-processing)
+  * [Syntactic Processing](#syntactic-processing)
+    + [Constituency Parsing](#constituency-parsing)
+  * [Semantic Analysis](#semantic-analysis)
+  * [Pragmatical Analysis](#pragmatical-analysis)
+- [High Level Tasks](#high-level-tasks)
+  * [Spelling and Error Correction](#spelling-and-error-correction)
+  * [Text Alignment](#text-alignment)
+  * [Machine Translation](#machine-translation)
+  * [Sentiment Analysis](#sentiment-analysis)
+  * [Numbers, Dates, and Time Parsing](#numbers-dates-and-time-parsing)
+  * [Named Entity Recognition](#named-entity-recognition)
+  * [Text-to-Speech-to-Text](#text-to-speech-to-text)
+- [Dialog Agents, Assistants, and Chatbots](#dialog-agents-assistants-and-chatbots)
+- [Linguistic Resources](#linguistic-resources)
+- [Machine Learning Libraries](#machine-learning-libraries)
+- [Data Visualization](#data-visualization)
+- [Optical Character Recognition](#optical-character-recognition)
+- [Text Extraction](#text-extraction)
+- [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
+- [Language Aware String Manipulation](#language-aware-string-manipulation)
+- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
+- [Projects and Code Examples](#projects-and-code-examples)
+- [Books](#books)
+- [Community](#community)
+- [Needs your Help!](#needs-your-help)
+- [Related Resources](#related-resources)
+- [License](#license)
 
 <!-- tocstop -->
 
@@ -127,6 +170,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
 Stemming is the term used in information retrieval to describe the process for
 reducing wordforms to some base representation. Stemming should be distinguished
+from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 linguistic motivation.
 
 - [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -
@@ -176,6 +220,7 @@ are often collected in dictionaries.
   Parsing Algorithm for Context-Free Constituency Grammars.
 - [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) -
   Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick).
+  <sup>[dep: [ImageMagick](#imagemagick)]</sup>
 
 ### Semantic Analysis
 
@@ -553,27 +598,6 @@ To the extent possible under law, the person who associated CC0 with
 to `Awesome NLP with Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this
-work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
-
-<!--- Links --->
-[ruby]: https://www.ruby-lang.org/en/
-[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
-[faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
-[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
-[ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.mde NLP with Ruby` has waived all copyright and related or neighboring rights
-to `Awesome NLP with Ruby`.
-
-You should have received a copy of the CC0 legalcode along with this
-work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
-
-<!--- Links --->
-[ruby]: https://www.ruby-lang.org/en/
-[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
-[faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
-[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
-[ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.mdreceived a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->

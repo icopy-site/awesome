@@ -10,7 +10,21 @@ SaltStack software manages system infrastructure and the application stacks that
 
 A :gem: means **really _awesome / useful_**.
 
+## Contents
 
+- [Official resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Code](#code)
+- [Books](#books)
+- [Videos](#videos)
+- [Tools](#tools)
+- [Presentations](#presentations)
+- [Blogposts and opinions](#blogposts-and-opinions)
+- [Discussions](#discussions)
+- [Community](#community)
+- [Formulas](#formulas)
+- [Cheat sheets](#cheat-sheets)
+- [Uncategorized](#uncategorized)
 
 ## Official resources
 
@@ -152,9 +166,5 @@ A :gem: means **really _awesome / useful_**.
 ## License
 
 [![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.n/zero/1.0/)
-
-To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.n/zero/1.0/)
 
 To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.

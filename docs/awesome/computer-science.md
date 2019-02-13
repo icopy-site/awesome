@@ -16,7 +16,21 @@
   </a>
 </p>
 
+# Contents
 
+- [Summary](#summary)
+- [Curriculum](#curriculum)
+  - [Prerequisites](#prerequisites)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Core CS](#core-cs)
+  - [Advanced CS](#advanced-cs)
+  - [Final project](#final-project)
+  - [Pro CS](#pro-cs)
+- [Code of conduct](#code-of-conduct)
+- [Community](#community)
+  - [How to show your progress](#how-to-show-your-progress)
+  - [Team](#team)
+- [References](#references)
 
 # Summary
 
@@ -60,6 +74,7 @@ Note that Coursera offers [financial aid](https://learner.coursera.help/hc/en-us
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
+**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
 
 **How to contribute**. Please see [CONTRIBUTING](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
@@ -70,12 +85,30 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (https://github.com/ossu/computer-science/blob/master/see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
+- [Prerequisites](#prerequisites)
+- [Introduction to Computer Science](#introduction-to-computer-science)
+- [Core CS](#core-cs)
+  - [Core programming](#core-programming)
+  - [Core math](#core-math)
+  - [Core systems](#core-systems)
+  - [Core theory](#core-theory)
+  - [Core applications](#core-applications)
+- [Advanced CS](#advanced-cs)
+  - [Advanced programming](#advanced-programming)
+  - [Advanced math](#advanced-math)
+  - [Advanced systems](#advanced-systems)
+  - [Advanced theory](#advanced-theory)
+  - [Advanced applications](#advanced-applications)
+- [Final project](#final-project)
+- [Pro CS](#pro-cs)
 
 ---
 
 ## Prerequisites
 
+- [Core CS](#core-cs) assumes the student has already taken high school math and physics, including algebra, geometry, and pre-calculus.
 Some high school graduates will have already taken AP Calculus, but this is usually only about 3/4 of a college calculus class, so the calculus courses in the curriculum are still recommended.
+- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](https://github.com/ossu/computer-science/blob/master/#advanced-systems) assumes the student has taken a basic physics course (https://github.com/ossu/computer-science/blob/master/e.g. AP Physics in high school).
 
@@ -252,6 +285,8 @@ After completing **every required course** in Core CS, students should choose a 
 Not every course from a subcategory needs to be taken.
 But students should take *every* course that is relevant to the field they intend to go into.
 
+The Advanced CS study should then end with one of the Specializations under [Advanced applications](#advanced-applications).
+A Specialization's Capstone, if taken, may act as the [Final project](#final-project), if permitted by the Honor Code of the course.
 If not, or if a student chooses not to take the Capstone, then a separate Final project will need to be done to complete this curriculum.
 
 ### Advanced programming
@@ -383,6 +418,7 @@ You can create something entirely new, or you can find an existing project that 
 or
 [First Timers Only](http://www.firsttimersonly.com/).
 
+Another option is using the Capstone project from taking one of the Specializations in [Advanced applications](#advanced-applications);
 whether or not this makes sense depends on the course, the project, and whether or not the course's Honor Code permits you to display your work publicly.
 In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
@@ -396,6 +432,7 @@ Put the OSSU-CS badge in the README of your repository!
 ### Evaluation
 
 Upon completing your final project, submit your project's information to [PROJECTS](https://github.com/ossu/computer-science/blob/master/PROJECTS.md)
+via a pull request and use our [community](#community) channels to announce it to your fellow students.
 
 Your peers and mentors from OSSU will then informally evaluate your project.
 You will not be "graded" in the traditional sense — everyone has their own measurements for what they consider a success.
@@ -409,6 +446,7 @@ through its community and curriculum, is successful in its mission to guide inde
 
 You can create this project alone or with other students!
 **We love cooperative work**!
+Use our [channels](#community) to communicate with other fellows to combine and create new projects!
 
 ### Which programming languages should I use?
 
@@ -495,40 +533,6 @@ You can change the status of your board to be *public* or *private*.
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org)
-- [Udacity](https://www.udacity.com/)
-- [Stanford University](https://lagunita.stanford.edu/)
-- [Carnegie Mellon University: Computer Science Major Requirements](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)
-- [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)ted in our curriculum.
-- `Extra Resources`: cards with that label represent courses that was added by the student.
-- `Doing`: cards with that label represent courses the student is current doing.
-- `Done`: cards with that label represent courses finished by the student.
-Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
-- `Section`: cards with that label represent the section that we have in our curriculum.
-Those cards with the `Section` label are only to help the organization of the Done column.
-You should put the *Course's cards* below its respective *Section's card*.
-
-The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-You can change the status of your board to be *public* or *private*.
-
-## Team
-
-* **Curriculum Founders**: [Eric Douglas](https://github.com/ericdouglas)
-* **Curriculum Maintainers**: [Eric Douglas](https://github.com/ericdouglas) and [hanjiexi](https://github.com/hanjiexi)
-* **Contributors**: [contributors](https://github.com/ossu/computer-science/graphs/contributors)
-
-# References
-
-- [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org)
-- [Udacity](https://www.udacity.com/)
-- [Stanford University](https://lagunita.stanford.edu/)
-- [Carnegie Mellon University: Computer Science Major Requirements](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)
-- [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/))
 - [Udacity](https://www.udacity.com/)
 - [Stanford University](https://lagunita.stanford.edu/)
 - [Carnegie Mellon University: Computer Science Major Requirements](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)

@@ -14,7 +14,59 @@ Additional lists you might find useful:
 > plugin subparts (https://github.com/friendsofcake/awesome-cakephp/blob/master/instead of only the whole plugin/repo), more granular
 > grouping and the primary focus on task specific functionality.
 
+## Table of Contents
 
+- [Plugins](#plugins)
+	- [APM](#apm)
+	- [Asset Management](#asset-management)
+	- [Auditing / Logging](#auditing--logging)
+	- [Authentication and Authorization](#authentication-and-authorization)
+	- [Caching](#caching)
+	- [Code Analysis](#code-analysis)
+	- [Debugging](#debugging)
+	- [Dependency Injection](#dependency-injection)
+	- [E-commerce](#e-commerce)
+	- [Email](#email)
+	- [Environment](#environment)
+	- [Files](#files)
+	- [Filtering and Validation](#filtering-and-validation)
+	- [Geolocation](#geolocation)
+	- [I18n](#i18n)
+	- [Imagery](#imagery)
+	- [Libs](#libs)
+	- [Markup](#markup)
+	- [Migration](#migration)
+	- [Miscellaneous](#miscellaneous)
+	- [Navigation](#navigation)
+	- [NoSQL](#nosql)
+	- [Notifications](#notifications)
+	- [ORM and Datamapping](#orm-and-datamapping)
+	- [PDF](#pdf)
+	- [Queue](#queue)
+	- [REST and API](#rest-and-api)
+	- [Search](#search)
+	- [Security](#security)
+	- [SEO](#seo)
+	- [Skeleton](#skeleton)
+	- [Social](#social)
+	- [Templating](#templating)
+	- [Testing](#testing)
+	- [Third Party APIs](#third-party-apis)
+- [Software](#software)
+	- [Development Environment](#development-environment)
+- [Web Applications](#web-applications)
+	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
+	- [Demo](#demo)
+- [Resources](#resources)
+	- [Help](#help)
+	- [CakePHP Websites](#cakephp-websites)
+	- [CakePHP Books and Articles](#cakephp-books-and-articles)
+	- [CakePHP Videos](#cakephp-videos)
+	- [CakePHP Tutorials](#cakephp-tutorials)
+	- [CakePHP Reading and Listening](#cakephp-reading-and-listening)
+	- [CakePHP Internals Reading](#cakephp-internals-reading)
+- [Conferences](#conferences)
+- [Contributing](#contributing)
 
 # Plugins
 
@@ -460,18 +512,6 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [CakePHP-DE](http://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 - [CakePHP-France](http://www.meetup.com/CakePHP-France) - MeetUps in France.
 - [CakePHP-NL](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) for details.
-
-## Credits
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.L](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) for details.
-
-## Credits
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.L](http://www.meetup.com/CakePHP-NL) - MeetUps in Netherlands.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) for details.

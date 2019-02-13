@@ -8,7 +8,51 @@ Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagge
 
 Projects with over 500 stargazers are in bold.
 
+## Table of Contents
 
+- [Learning Scala](#learning-scala)
+- [Projects](#projects)
+    - [Android](#android)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Authentication](#authentication)
+    - [Authorization](#authorization)
+    - [Big Data](#big-data)
+    - [Cryptography](#cryptography)
+    - [CSV](#csv)
+    - [Data Binding and Validation](#data-binding-and-validation)
+    - [Database](#database)
+    - [DevOps](#devops)
+    - [Distributed Systems](#distributed-systems)
+    - [Extensions](#extensions)
+    - [Functional Reactive Programming](#functional-reactive-programming)
+    - [Geospatial](#geospatial)
+    - [Graphical User Interfaces](#graphical-user-interfaces)
+    - [HTTP](#http)
+    - [i18n](#i18n)
+    - [Image processing and image analysis](#image-processing-and-image-analysis)
+    - [JavaScript](#javascript)
+    - [JSON](#json)
+    - [Markdown](#markdown)
+    - [Metrics and Monitoring](#metrics-and-monitoring)
+    - [Misc](#misc)
+    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
+    - [Parsing](#parsing)
+    - [Reactive Web Frameworks](#reactive-web-frameworks)
+    - [Sbt plugins](#sbt-plugins)
+    - [Science and Data Analysis](#science-and-data-analysis)
+    - [Scheduling](#scheduling)
+    - [Semantic Web](#semantic-web)
+    - [Serialization](#serialization)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Tools](#tools)
+    - [Web Frameworks](#web-frameworks)
+    - [XML / HTML](#xml--html)
+    - [YAML](#yaml)
+- [Resources](#resources)
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)
+- [Contributing](#contributing)
 
 ## Artificial Intelligence
 
@@ -482,6 +526,7 @@ Projects with over 500 stargazers are in bold.
 
 *XML and HTML generation and processing*
 
+* [scala-scraper ★ 316 ⧗ 1](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [xs4s ★ 29 ⧗ 47](https://github.com/lauris/awesome-scala/blob/master/https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (https://github.com/lauris/awesome-scala/blob/master/gigabytes and over) XML files.
 
 ## Markdown
@@ -607,34 +652,6 @@ Projects with over 500 stargazers are in bold.
 ## Devops
 
 *DevOps related tools and libraries.*
-
-* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
-
-# Resources
-
-Where to discover new Scala libraries.
-
-## Podcasts
-
-* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
-
-# Contributing
-
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.related tools and libraries.*
-
-* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
-
-# Resources
-
-Where to discover new Scala libraries.
-
-## Podcasts
-
-* [CoRecursive Interviews](https://corecursive.com/) - In-depth Interviews with software developers, often on the subject of scala libraries and functional programming.
-
-# Contributing
-
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.related tools and libraries.*
 
 * [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 

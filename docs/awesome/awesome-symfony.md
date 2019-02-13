@@ -3,6 +3,28 @@ A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources
 
 Table of contents:
 
+* [Administration](#administration)
+* [Assets Management](#assets-management)
+* [Certification](#certification)
+* [Community](#community)
+* [Development](#development)
+* [Distributions](#distributions)
+* [Ecommerce](#ecommerce)
+* [Forms](#forms)
+* [Internationalization](#internationalization)
+* [Miscellaneous](#miscellaneous)
+* [Monitoring](#monitoring)
+* [Payments Management](#payments-management)
+* [Queues](#queues)
+* [Reading](#reading)
+* [Resources](#resources)
+* [Service Container](#service-container)
+* [Storage](#storage)
+* [Template Engine](#template-engine)
+* [Third Party APIs](#third-party-apis)
+* [User Management](#user-management)
+* [Validation](#validation)
+* [Web Services](#web-services)
 
 ## Administration
 
@@ -120,6 +142,7 @@ Table of contents:
 * [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
 * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
 * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
+* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
 * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
 * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
 * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
@@ -337,13 +360,4 @@ Table of contents:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Emanuele Minotto](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://emanueleminotto.github.io) (https://github.com/sitepoint-editors/awesome-symfony/blob/master/the repo's original creator) and [SitePoint](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.le you can easy limit requests to your application.
-* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
-* [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
-* [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Emanuele Minotto](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://emanueleminotto.github.io) (https://github.com/sitepoint-editors/awesome-symfony/blob/master/the repo's original creator) and [SitePoint](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work..com/sitepoint-editors/awesome-symfony/blob/master/http://emanueleminotto.github.io) (https://github.com/sitepoint-editors/awesome-symfony/blob/master/the repo's original creator) and [SitePoint](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Emanuele Minotto](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://emanueleminotto.github.io) (https://github.com/sitepoint-editors/awesome-symfony/blob/master/the repo's original creator) and [SitePoint](https://github.com/sitepoint-editors/awesome-symfony/blob/master/http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.

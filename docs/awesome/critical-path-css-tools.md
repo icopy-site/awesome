@@ -3,6 +3,7 @@ Critical-path (https://github.com/addyosmani/critical-path-css-tools/blob/master
 
 > Tools to help prioritize above-the-fold CSS
 
+### Prioritize above-the-fold content first.
 
 For best performance, PageSpeed Insights [recommends](https://github.com/addyosmani/critical-path-css-tools/blob/master/https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) inlining the critical (https://github.com/addyosmani/critical-path-css-tools/blob/master/above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user's screen sooner. The main idea is:
 
@@ -41,6 +42,7 @@ The following is a list of tools to help generate, inline and report on critical
 ## Inline sources (https://github.com/addyosmani/critical-path-css-tools/blob/master/styles, scripts)
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
+* [gulp-inline-source](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="https://raw.githubusercontent.com/addyosmani/critical-path-css-tools/master/">` tags with their inline content
 * [inline-critical](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 * [isomorphic-style-loader](https://github.com/addyosmani/critical-path-css-tools/blob/master/https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (https://github.com/addyosmani/critical-path-css-tools/blob/master/SSR). See [React Starter Kit](https://github.com/addyosmani/critical-path-css-tools/blob/master/https://github.com/kriasoft/react-starter-kit) as an example.
 
@@ -74,4 +76,4 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.

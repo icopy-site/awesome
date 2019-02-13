@@ -2,6 +2,15 @@ R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 ===
 A curated list of books about different aspects and applications of [R](https://github.com/RomanTsegelskyi/rbooks/blob/master/https://www.r-project.org/) programming language and an attempt to modernize [R Books](https://github.com/RomanTsegelskyi/rbooks/blob/master/) in a more user friendly way. Inspired by [GoBooks](https://github.com/RomanTsegelskyi/rbooks/blob/master/).
 
+* [R Books](#r-books)
+	* [Beginner Books](#beginner-books)
+	* [Advanced Books](#advanced-books)
+	* [Data Science](#data-science)
+	* [Finance](#finance)
+	* [Machine Learning](#machine-learning)
+	* [R Development](#r-development)
+	* [Reports](#reports)
+	* [Visualization](#visualization)
 
 Beginner Books
 ---
@@ -205,8 +214,4 @@ Your contributions are always welcome and greately appreciated, just follow [the
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.ys welcome and greately appreciated, just follow [the rules](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
-
-License
-====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.ps://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

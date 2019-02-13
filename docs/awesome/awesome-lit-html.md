@@ -4,7 +4,24 @@
 
 [lit-html](https://lit-html.polymer-project.org) — an efficient, expressive, extensible HTML templating library for JavaScript.
 
+## Contents
 
+- [General resources](#general-resources)
+- [Community](#community)
+- [Overview](#overview)
+- [Implementations](#implementations)
+  - [Renderers](#renderers)
+  - [LitElement Extensions](#litelement-extensions)
+- [Components](#components)
+- [Starter Templates](#starter-templates)
+- [IDE Plugins](#ide-plugins)
+- [Tools](#tools)
+- [Examples](#examples)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Blogs](#blogs)
+- [Inspired Solutions](#inspired-solutions)
+- [Other awesome resources](#other-awesome-resources)
 
 ## General resources
 
@@ -33,6 +50,7 @@ Sorted by creation date (https://github.com/web-padawan/awesome-lit-html/blob/ma
 - [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) - A take on using lit-html and Polymer's property mixin.
 - [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) - Render lit-html templates on the server as Node.js streams.
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
+- [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
 
 ### Renderers
@@ -64,6 +82,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) - Starter template by the Polymer team.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
+- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - Generator for developing your next custom element with latest LitElement.
 
 ## IDE Plugins
 
@@ -113,6 +132,7 @@ An episode with the lit-html creator Justin Fagnani.
 ## Inspired Solutions
 
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` and `css` tagged
+template literals, and leverage the benefits of the same or similar [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
@@ -128,10 +148,4 @@ These libraries do not depend on lit-html, but are inspired by some of its conce
 
 ## License
 
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)ou want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
-
----
-
-## License
-
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)ain/zero/1.0/)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

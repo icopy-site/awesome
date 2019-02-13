@@ -1,5 +1,6 @@
 # Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [resources](#resources).
 
 >Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby](https://github.com/markets/awesome-ruby).
 
@@ -17,6 +18,21 @@ Lists all the modules available with the following `badges` :
 
 
 The modules are divided in the following categories : 
+ * [Database](#database) 
+ * [Deployment](#deployment) 
+ * [Injection/dependencies](#injectiondependencies) 
+ * [Language](#language) 
+ * [Messaging/events](#messagingevents) 
+ * [Monitoring](#monitoring) 
+ * [Persistence](#persistence) 
+ * [Presentation](#presentation) 
+ * [Rest](#rest) 
+ * [Scaffolding](#scaffolding) 
+ * [Search](#search)
+ * [Security](#security) 
+ * [Template](#template) 
+ * [Translation](#translation) 
+ * [Misc](#misc) 
 
 If you want to contribute information about a module, please refer to the [guide](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md#module).
 
@@ -115,6 +131,7 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[jqvalidate] ](http://www.playframework.com/modules/jqvalidate) [JQuery Validation](https://github.com/murz/play-jqvalidate)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/jqvalidate) Client-side form validation via jQuery, based on your model annotation 
 * **[[jqvalidation] ](https://github.com/PerfectCarl/awesome-play1/blob/master/http://www.playframework.com/modules/jqvalidation) [Jqvalidation](https://github.com/PerfectCarl/awesome-play1/blob/master/http://code.google.com/p/jqvalidate-play-framework/)** [![registered on playframework.com/modules](https://github.com/PerfectCarl/awesome-play1/blob/master/http://img.shields.io/badge/registered-yes-green.svg?style=flat)](https://github.com/PerfectCarl/awesome-play1/blob/master/http://www.playframework.com/modules/jqvalidation) A jquery library API for validation, supports Ajax validation (https://github.com/PerfectCarl/awesome-play1/blob/master/per field or per form) 
 * **[[less] ](http://www.playframework.com/modules/less) [Less module](https://github.com/lunatech-labs/play-module-less)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/less)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.less/play-less) Converts [less](http://lesscss.org/) to CSS, and handles error reporting in your Play application 
+* **[[markdown] ](http://www.playframework.com/modules/markdown) [Markdown](https://github.com/orefalo/play-markdown)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/markdown)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.markdown/play-markdown) Easily bring markdown contents into your application. 
 * **[[menu] ](http://www.playframework.com/modules/menu) [Menu](http://github.com/greenlaw110/play-menu)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/menu) Eases the implementation of navigation menu. 
 * **[[navigation] ](http://www.playframework.com/modules/navigation) [Navigation](https://bitbucket.org/hlassiege/play-nemrod)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/navigation) Define and display navigation menus in your Play application.  
 * **[[paginate] ](http://www.playframework.com/modules/paginate) [Paginate](http://github.com/lmcalpin/Play--Paginate)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/paginate)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.paginate/play-paginate) A replacement for #{list} tags that allows for easy pagination. 
@@ -193,6 +210,7 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[bhave] ](https://github.com/PerfectCarl/awesome-play1/blob/master/http://www.playframework.com/modules/bhave) [Bhave](https://github.com/PerfectCarl/awesome-play1/blob/master/http://bhave.org/)** [![registered on playframework.com/modules](https://github.com/PerfectCarl/awesome-play1/blob/master/http://img.shields.io/badge/registered-yes-green.svg?style=flat)](https://github.com/PerfectCarl/awesome-play1/blob/master/http://www.playframework.com/modules/bhave) Integrates with [bhave](https://github.com/PerfectCarl/awesome-play1/blob/master/http://bhave.org/), a web-based behavior driven development (https://github.com/PerfectCarl/awesome-play1/blob/master/BDD) framework, for web apps, done in a funky way! 
 * **[[cheese] ](http://www.playframework.com/modules/cheese) [Cheese](https://github.com/lmcalpin/Play--Cheese)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/cheese) Simplified API for integration your application with the CheddarGetter subscription management service. 
 * **[[cms] ](http://www.playframework.com/modules/cms) [Cms](http://code.google.com/p/play-cms/)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/cms) A very simple embedded CMS 
+* **[[cnm] ](http://www.playframework.com/modules/cnm) [Content Negotiation](http://github.com/oasits/play-content-negotiation)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/cnm) Helps using content types which are not directly supported by default such as VCard and Atom/RSS feeds using annotations. 
 * **[[externalconfig] ](http://www.playframework.com/modules/externalconfig) [External Config](https://github.com/rugbyhead/externalconfig)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/externalconfig) Allows easy loading of external config / properties files. This allows for easy configuration of an app deployed in a war. 
 * **[[featureflags] ](http://www.playframework.com/modules/featureflags) [Feature Flags](http://code.google.com/p/play-featureflags)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/featureflags) Enables you to easily use flags in your application that you can switch ON and OFF at runtime, using an admin screen. 
 * **[[googlecheckout] ](http://www.playframework.com/modules/googlecheckout) [Google Checkout](https://github.com/jagregory/play-google-checkout)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/googlecheckout) Enable your Play application to integrate with Google Checkout as a merchant. 
@@ -214,19 +232,5 @@ If you want to contribute information about a module, please refer to the [guide
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) has waived all copyright and related or neighboring rights to this work.r/README.md)*
-
-# Resources
-
-- [Mavenized modules](https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules) and [how to use them](https://code.google.com/p/maven-play-plugin/wiki/Usage)
-- [Using Play's controller](http://www.javabeat.net/using-controllers-in-play-framework/) with a nice roundup about caching, expiration and eTags
-- Using [Luo](https://github.com/greenlaw110)'s `cache4` [annotation](http://www.playframework.com/modules/rythm-1.0.0-20121210/integration#cache4)
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) has waived all copyright and related or neighboring rights to this work.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) has waived all copyright and related or neighboring rights to this work.

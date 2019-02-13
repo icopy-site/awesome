@@ -8,6 +8,16 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 --
 
+* [Videos](#videos) :movie_camera:
+* [Guides](#guides) :blue_book:
+* [Articles](#articles) :newspaper:
+  * [Tips and Tricks](#tips-and-tricks)
+  * [Tutorials](#tutorials)
+* [Community](#community) :sunglasses:
+* [Plugins](#plugins) :electric_plug:
+* [Templates & UI Kits](#templates--ui-kits) :scissors:
+* [Services](#services)
+* [Other](#other)
 
 ## Videos
 ###### Tutorial-only
@@ -79,6 +89,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (https://github.com/diessica/awesome-sketch/blob/master/see [Other](https://github.com/diessica/awesome-sketch/blob/master/#other) section).
+- In the [Sketch community](#community)
 
 ## Templates & UI Kits
 - [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
@@ -115,12 +126,4 @@ Sketch has got a **fast-growing community**. Joining them (https://github.com/di
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work./http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://github.com/diessica/awesome-sketch/blob/master/https://bohemian.curated.co/) are the best ways to keep up to date so far.
-
----
-
-###### LICENSE
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.ssible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.

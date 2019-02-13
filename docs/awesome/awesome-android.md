@@ -8,6 +8,7 @@
 </p>
 
 # About
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
 # Supported with ❤️ by [Instabug](https://goo.gl/ykpN6D)
 [![android](https://user-images.githubusercontent.com/9888943/35685005-23aa115a-0771-11e8-9ca7-82f41daeeafd.gif)](https://goo.gl/9UVi6P)
@@ -19,6 +20,59 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
  - Simply press command + F to search for a keyword
  - Go through our Content Menu
 
+# Content
+- [Emulators](#emulators)
+- [Libraries](#libraries)
+    - [Charts](#charts)
+    - [Cloud Services](#cloud-services)
+    - [Dependency Injection](#dependency-injection)
+    - [Android Services](#android-services)
+    - [Game Development](#game-development)
+	- [Security](#security)
+    - [GUI](#gui)
+        - [ActionBar](#actionbar)
+        - [Navigation](#navigation)
+        - [Animations](#animations)
+        - [Images](#images)
+        - [Inputs](#inputs)
+        - [Loading images](#loading-images)
+        - [Video](#video)
+        - [Camera](#camera)
+        - [Field Validation](#field-validation)
+    - [JSON](#json)
+    - [Crash monitoring](#crash-monitoring)
+    - [Networking](#networking)
+    - [Logger](#logger)
+    - [Notifications](#notifications)
+    - [Database](#database)
+        - [ORM](#orm)
+    - [REST](#rest)
+    - [Testing](#testing)
+    - [Tracking](#tracking)
+    - [Maps](#maps)
+    - [Utility](#utility)
+    - [Debugging tools](#debugging-tools)
+    - [Wireless](#wireless)
+    - [Chat and Messaging](#chat--messaging)
+    - [Custom Dialog](#custom-dialog)
+    - [Version Checking](#version-checking)
+    - [Date & Time](#date--time)
+    - [Runtime Permissions](#runtime-permissions)
+    - [Other](#other)
+- [Resources](#resources)
+    - [Code examples](#code-examples)
+    - [Podcasts](#podcasts)
+    - [More lists of libraries](#more-lists-of-libraries)
+- [Development Alternatives](#development-alternatives)
+    - [C#](#c)
+    - [HTML, CSS and Javascript](#html-css-and-javascript)
+    - [Lua](#lua)
+    - [Scala](#scala)
+    - [Groovy](#groovy)
+    - [Kotlin](#kotlin)
+- [Performance](#performance)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 ## Emulators
 - [AMIDuOS](https://www.amiduos.com)
@@ -458,23 +512,6 @@ My personal recommendation is (https://github.com/JStumpp/awesome-android/blob/m
 
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
-## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first.utter](https://flutter.io/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
-
-# Performance
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
-## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first./github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

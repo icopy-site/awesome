@@ -8,15 +8,23 @@ This project does not contain any source code or files. I just want to make a li
 **License**: Apache License v2.
 
 
+> * [Linux commands](#linuxcmds)
+> * [Traffic Capture](#capture)
+> * [Traffic Analysis/Inspection](#analysis)
+> * [DNS Utilities](#dnstools)
+> * [File Extraction](#fileextraction)
+> * [Related Projects](#others)
 
 
 
 Linux commands<a name="linuxcmds"></a>
 --------------------------------------
 
+* **Bmon**: (https://github.com/caesar0301/awesome-pcaptools/blob/master/Bandwidth Monitor) is a tool similar to nload that shows the traffic load over all the network interfaces on the system. The output also consists of a graph and a section with packet level details. [Screenshot](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.binarytides.com/blog/wp-content/uploads/2014/03 /bmon- 640x480.png)
 
 * **Bwm-ng**: (https://github.com/caesar0301/awesome-pcaptools/blob/master/Bandwidth Monitor Next Generation) is another very simple real time network load monitor that reports a summary of the speed at which data is being transferred in and out of all available network interfaces on the system. [Screenshot](https://github.com/caesar0301/awesome-pcaptools/blob/master/)
 
+* **CBM**: (https://github.com/caesar0301/awesome-pcaptools/blob/master/Color Bandwidth Meter) A tiny little simple bandwidth monitor that displays the traffic volume through network interfaces. No further options, just the traffic stats are display and updated in realtime. [Screenshot](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.binarytides.com/blog /wp-content/uploads/2014/03/cbm.png)
 
 * **Collectl**: reports system statistics in a style that is similar to dstat, and like dstat it is gathers statistics about various different system resources like cpu, memory, network etc. Over here is a simple example of how to use it to report network usage/bandwidth. [Screenshot]()
 
@@ -24,18 +32,29 @@ Linux commands<a name="linuxcmds"></a>
 
 * **Ifstat**: reports the network bandwidth in a batch style mode. The output is in a format that is easy to log and parse using other programs or utilities. [Screenshot]()
 
+* **Iftop**: measures the data flowing through individual socket connections, and it works in a manner that is different from Nload. Iftop uses the pcap library to capture the packets moving in and out of the network adapter, and then sums up the size and count to find the total bandwidth under use. Although iftop reports the bandwidth used by individual connections, it cannot report the process name/id involved in the particular socket connection. But being based on the pcap library, iftop is able to filter the traffic and report bandwidth usage over selected host connections as specified by the filter. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/iftop.png)
 
+* **Iptraf**: is an interactive and colorful IP Lan monitor. It shows individual connections and the amount of data flowing between the hosts. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/iptraf.png)
 
 * **Jnettop**: [Jnettop](http://jnettop.kubs.info/wiki/) is a traffic visualiser, which captures traffic going through the host it is running from and displays streams sorted by bandwidth they use. [Screenshot](http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
 
+* **Nethogs**: is a small 'net top' tool that shows the bandwidth used by individual processes and sorts the list putting the most intensive processes on top. In the event of a sudden bandwidth spike, quickly open nethogs and find the process responsible. Nethogs reports the PID, user and the path of the program. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/nethogs.png)
 
+* **Netload**: displays a small report on the current traffic load, and the total number of bytes transferred since the program start. No more features are there. Its part of the netdiag. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/netload.png)
 
+* **Netwatch**: is part of the netdiag collection of tools, and it too displays the connections between local host and other remote hosts, and the speed at which data is transferring on each connection. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/netwatch.png)
 
+* **Nload**: is a commandline tool that allows users to monitor the incoming and outgoing traffic separately. It also draws outa graph to indicate the same, the scale of which can be adjusted. Easy and simple to use, and does not support many options. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/nload.png)
 
+* **Pktstat**: displays all the active connections in real time, and the speed at which data is being transferred through them. It also displays the type of the connection, i.e. tcp or udp and also details about http requests if involved. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/pktstat.png)
 
+* **Slurm**: is 'yet' another network load monitor that shows device statistics along with an ascii graph. It supports 3 different styles of graphs each of which can be activated using the c, s and l keys. Simple in features, slurm does not display any further details about the network load. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/slurm.png)
 
+* **Speedometer**: Another small and simple tool that just draws out good looking graphs of incoming and outgoing traffic through a given interface. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/speedometer.png)
 
+* **Tcptrack**: is similar to iftop, and uses the pcap library to capture packets and calculate various statistics like the bandwidth used in each connection. It also supports the standard pcap filters that can be used to monitor specific connections. [Screenshot](http://www.binarytides.com/blog /wp-content/uploads/2014/03/tcptrack.png)
 
+* **Trafshow**: reports the current active connections, their protocol and the data transfer speed on each connection. It can filter out connections using pcap type filters. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/trafshow.png)
 
 * **Vnstat**: is bit different from most of the other tools. It actually runs a background service/daemon and keeps recording the size of data transfer all the time. Next it can be used to generate a report of the history of network usage. [Screenshot]()
 
@@ -88,6 +107,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [HttpSniffer](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 
+* [Ipsumdump](http://www.read.seas.harvard.edu/~kohler/ipsumdump/): summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs. Ipsumdump can read packets from network interfaces, from tcpdump files, and from existing ipsumdump files. It will transparently uncompress tcpdump or ipsumdump files when necessary. It can randomly sample traffic, filter traffic based on its contents, anonymize IP addresses, and sort packets from multiple dumps by timestamp. Also, it can optionally create a tcpdump file containing actual packet data. It's also convenient to work with CLICK as a inserted module.
 
 * [ITA](http://ita.ee.lbl.gov/): The Internet Traffic Archive is a moderated repository to support widespread access to traces of Internet network traffic, sponsored by ACM SIGCOMM. The traces can be used to study network dynamics, usage characteristics, and growth patterns, as well as providing the grist for trace- driven simulations. The archive is also open to programs for reducing raw trace data to more manageable forms, for generating synthetic traces, and for analyzing traces.
 
@@ -117,6 +137,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [pyshark](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://kiminewt.github.io/pyshark/): A Python wrapper for tshark, allowing python packet parsing using wireshark dissectors. There are quite a few python packet parsing modules, this one is different because it doesn't actually parse any packets, it simply uses tshark's (https://github.com/caesar0301/awesome-pcaptools/blob/master/wireshark command-line utility) ability to export XMLs to use its parsing.
 
+* [Sanitize](http://ita.ee.lbl.gov/html/contrib/sanitize.html): Sanitize is a collection of five Bourne shell scripts for reducing tcpdump traces in order to address security and privacy concerns, by renumbering hosts and stripping out packet contents. Each script takes as input a tcpdump trace file and generates to stdout a reduced, ASCII file in fixed-column format.
 
 * [Scapy](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.secdev.org/projects/scapy/): Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (https://github.com/caesar0301/awesome-pcaptools/blob/master/it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (https://github.com/caesar0301/awesome-pcaptools/blob/master/VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.
 
@@ -126,11 +147,13 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Socket Sentry](http://code.google.com/p/socket-sentry): Socket Sentry is a real-time network traffic monitor for KDE Plasma in the same spirit as tools like iftop and netstat.
 
+* [TCP-Reduce](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://ita.ee.lbl.gov/html/contrib/tcp-reduce.html): TCP-Reduce is a collection of Bourne shell scripts for reducing tcpdump traces to one-line summaries of each TCP connection present in the trace. The scripts look only at TCP SYN/FIN/RST packets. Connections without SYN packets in the trace (https://github.com/caesar0301/awesome-pcaptools/blob/master/such as those on- going at the beginning of the trace) will not appear in the summary. Garbaged packets (https://github.com/caesar0301/awesome-pcaptools/blob/master/those missing some of their contents) are reported to stderr as bogon's and are discarded. Occasionally the script gets fooled by retransmissions with altered sequence numbers, and reports erroneous huge connection sizes - always check large connections (https://github.com/caesar0301/awesome-pcaptools/blob/master/say 100 MB or more) for plausibility.
 
 * [Tcpdpriv](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://ita.ee.lbl.gov/html/contrib/tcpdpriv.html): Tcpdpriv is program for eliminating confidential information (https://github.com/caesar0301/awesome-pcaptools/blob/master/user data and addresses) from packets collected on a network interface (https://github.com/caesar0301/awesome-pcaptools/blob/master/or, from trace files created using the -w argument to tcpdump). Tcpdpriv removes the payload of TCP and UDP, and the entire IP payload for other protocols. It implements several address scrambling methods; the sequential numbering method and its variants, and a hash method with preserving address prefix.
 
 * [Tcpflow](https://github.com/caesar0301/awesome-pcaptools/blob/master/https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (https://github.com/caesar0301/awesome-pcaptools/blob/master/flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. [Original link](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.circlemud.org/jelson/software/tcpflow/).
 
+* [Tcplook](http://ita.ee.lbl.gov/html/contrib/tracelook.html): Tracelook is an Tcl/TK program for graphically viewing the contents of trace files created using the -w argument to tcpdump. Tracelook should look at all protocols, but presently only looks at TCP connections. The program is slow and uses system resources prodigiously.
 
 * [Tcpreplay](http://tcpreplay.synfin.net/): Replays a pcap file on an interface using libnet.
 
@@ -176,6 +199,7 @@ DNS Utilities <a name="dnstools"></a>
 File Extraction<a name="fileextraction"></a>
 --------------------------------------------
 
+* [Chaosreader](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://chaosreader.sourceforge.net/): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (https://github.com/caesar0301/awesome-pcaptools/blob/master/HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
 
 * [Dsniff](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.monkey.org/~dugsong/dsniff/): Dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (https://github.com/caesar0301/awesome-pcaptools/blob/master/passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (https://github.com/caesar0301/awesome-pcaptools/blob/master/e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
 
@@ -195,6 +219,7 @@ File Extraction<a name="fileextraction"></a>
 
 * [Tcpxtract](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://tcpxtract.sourceforge.net/): is a tool for extracting files from network traffic based on file signatures. Extracting files based on file type headers and footers (https://github.com/caesar0301/awesome-pcaptools/blob/master/sometimes called "carving") is an age old data recovery technique.
 
+* [Xplico](https://github.com/caesar0301/awesome-pcaptools/blob/master/http://www.xplico.org/about): The goal of Xplico is extract from an internet traffic capture the applications data contained. For example, from a pcap file Xplico extracts each email (https://github.com/caesar0301/awesome-pcaptools/blob/master/POP, IMAP, and SMTP protocols), all HTTP contents, each VoIP call (https://github.com/caesar0301/awesome-pcaptools/blob/master/SIP), FTP, TFTP, and so on. Xplico isn't a network protocol analyzer. Xplico is an open source Network Forensic An alysis Tool (https://github.com/caesar0301/awesome-pcaptools/blob/master/NFAT). Xplico is released under the GNU General Public License and with some scripts under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (https://github.com/caesar0301/awesome-pcaptools/blob/master/CC BY-NC-SA 3.0) License.
 
 
 
@@ -213,6 +238,4 @@ Related Projects<a name="others"></a>
 
 * [Traffic Data Repository at the WIDE Project](http://www.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 
-* [Usenix93 Paper on BPF](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".rent status and findings in the early stage of our IPv6 deployment.
-
-* [Usenix93 Paper on BPF](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".pcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
+* [Usenix93 Paper on BPF](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".

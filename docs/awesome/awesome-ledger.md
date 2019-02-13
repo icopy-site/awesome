@@ -6,11 +6,20 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-ledger/blob/master/contributing.md) before contributing.*
 
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Introduction](#introduction)
+- [Background](#background)
+- [Documentation](#documentation)
+- [Editors](#editors)
+- [Tools](#tools)
+- [Social](#social)
+- [Media](#media)
+- [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -66,4 +75,4 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.waived all copyright and related or neighboring rights to this work.waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.

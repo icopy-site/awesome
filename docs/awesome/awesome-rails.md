@@ -4,8 +4,30 @@
 
 > A curated list of awesome things related to Ruby on Rails (https://github.com/ekremkaraca/awesome-rails/blob/master/recent changes were inspired by [awesome-vue](https://github.com/ekremkaraca/awesome-rails/blob/master/https://github.com/vuejs/awesome-vue))
 
+## Table of Contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Table of Contents](#table-of-contents)
+- [Resources](#resources)
+	- [Official Resources](#official-resources)
+	- [External Resources](#external-resources)
+	- [Jobs](#jobs)
+	- [Community](#community)
+	- [Apps Made with Rails](#apps-made-with-rails)
+	- [Tutorials](#tutorials)
+		- [July 2017](#july-2017)
+		- [June 2017](#june-2017)
+		- [May 2017](#may-2017)
+		- [March 2017](#march-2017)
+		- [February 2017](#february-2017)
+		- [January 2017](#january-2017)
+		- [October 2016](#october-2016)
+		- [August 2016](#august-2016)
+	- [Other Rails Tools](#other-rails-tools)
+		- [Platforms](#platforms)
+		- [Generators](#generators)
+		- [DevTools](#devtools)
+	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 <!-- /TOC -->
 ## Resources
@@ -201,9 +223,5 @@
 ### Notable Awesome Stuffs
 
 - [jnv/lists](https://github.com/ekremkaraca/awesome-rails/blob/master/https://github.com/jnv/lists) - List of (https://github.com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
-- [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
-- [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)com/ekremkaraca/awesome-rails/blob/master/awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)

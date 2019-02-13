@@ -6,7 +6,23 @@ Curated list of inspiring and thoughtful answers given on stackoverflow, quora, 
 TOC
 ---
 
+ - [Algorithms](#algorithms)
+ - [Compilers](#compilers)
+ - [Data Structures](#data-structures)
+ - [Functional Programming](#functional-programming)
+ - [Learning to program](#learning-how-to-program)
+ - [Math](#math)
  - Programming Languages
+ 	- [Clojure](#clojure)
+ 	- [C/C++](#cc)
+	- [Haskell](#haskell)
+ 	- [JavaScript](#javascript)
+ 	- [PHP](#php)
+ 	- [Python](#python)
+ 	- [Ruby](#ruby)
+ - [Programming Languages Theory](#programming-languages-theory)
+ - [Version Control Systems](#version-control-systems)
+ - [Miscellaneous](#miscellaneous)
 
 Algorithms
 ---
@@ -155,17 +171,5 @@ Miscellaneous
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Ju Gonçalves](http://jugoncalv.es) has waived all copyright and related or neighboring rights to this work.at the other 99% do not?](http://qr.ae/0ILWY)
-- [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
-- [What are the current fads in computer science, IT and software engineering?](http://qr.ae/7PyLkC)
-- [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
-- [How to become a Hacker?](http://www.catb.org/~esr/faqs/hacker-howto.html)
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Ju Gonçalves](http://jugoncalv.es) has waived all copyright and related or neighboring rights to this work.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ju Gonçalves](http://jugoncalv.es) has waived all copyright and related or neighboring rights to this work.

@@ -8,7 +8,17 @@ Asyncio is not really a brand-new technology however it appears to be very trend
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
 Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) with your suggestion.
 
+## Contents
 
+* [Alternative Loops](#alternative-loops)
+* [Database Drivers](#database-drivers)
+* [Message Queues](#message-queues)
+* [Misc](#misc)
+* [Networking](#networking)
+* [Testing](#testing)
+* [Web Frameworks](#web-frameworks)
+* [Talks](#talks)
+* [Writings](#writings)
 
 
 ***
@@ -108,4 +118,4 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Recordings of awesome talks about asyncio.*
 
 * [Topics of Interest (https://github.com/timofurrer/awesome-asyncio/blob/master/Python Asyncio)](https://github.com/timofurrer/awesome-asyncio/blob/master/https://youtu.be/ZzfHjytDceU) | [screencast](https://github.com/timofurrer/awesome-asyncio/blob/master/https://youtu.be/lYe8W04ERnY) | [slides](https://github.com/timofurrer/awesome-asyncio/blob/master/https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (https://github.com/timofurrer/awesome-asyncio/blob/master/David Beazley).
-* [Python Asynchronous I/O Walkthrough](https://github.com/timofurrer/awesome-asyncio/blob/master/https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](https://github.com/timofurrer/awesome-asyncio/blob/master/http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).through.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).through.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).
+* [Python Asynchronous I/O Walkthrough](https://github.com/timofurrer/awesome-asyncio/blob/master/https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](https://github.com/timofurrer/awesome-asyncio/blob/master/http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (https://github.com/timofurrer/awesome-asyncio/blob/master/Philip Guo).

@@ -3,8 +3,102 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 If you think a package should be added, please add a :+1: (https://github.com/h4cc/awesome-elixir/blob/master/`:+1:`) at the according issue or create a new one.
 
+There are [other sites with curated lists of elixir packages](#other-awesome-lists) which you can have a look at.
 
+- [Awesome Elixir](#awesome-elixir)
+    - [Actors](#actors)
+    - [Algorithms and Data structures](#algorithms-and-data-structures)
+    - [Applications](#applications)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Audio and Sounds](#audio-and-sounds)
+    - [Authentication](#authentication)
+    - [Authorization](#authorization)
+    - [Behaviours and Interfaces](#behaviours-and-interfaces)
+    - [Benchmarking](#benchmarking)
+    - [Bittorrent](#bittorrent)
+    - [BSON](#bson)
+    - [Build Tools](#build-tools)
+    - [Caching](#caching)
+    - [Chatting](#chatting)
+    - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
+    - [Code Analysis](#code-analysis)
+    - [Command Line Applications](#command-line-applications)
+    - [Configuration](#configuration)
+    - [Cryptography](#cryptography)
+    - [CSV](#csv)
+    - [Date and Time](#date-and-time)
+    - [Debugging](#debugging)
+    - [Deployment](#deployment)
+    - [Documentation](#documentation)
+    - [Domain-specific language](#domain-specific-language)
+    - [ECMAScript](#ecmascript)
+    - [Email](#email)
+    - [Embedded Systems](#embedded-systems)
+    - [Encoding and Compression](#encoding-and-compression)
+    - [Errors and Exception Handling](#errors-and-exception-handling)
+    - [Eventhandling](#eventhandling)
+    - [Examples and funny stuff](#examples-and-funny-stuff)
+    - [Feature Flags and Toggles](#feature-flags-and-toggles)
+    - [Feeds](#feeds)
+    - [Files and Directories](#files-and-directories)
+    - [Formulars](#formulars)
+    - [Framework Components](#framework-components)
+    - [Frameworks](#frameworks)
+    - [Games](#games)
+    - [Geolocation](#geolocation)
+    - [GUI](#gui)
+    - [Hardware](#hardware)
+    - [HTML](#html)
+    - [HTTP](#http)
+    - [Images](#images)
+    - [Instrumenting / Monitoring](#instrumenting--monitoring)
+    - [JSON](#json)
+    - [Languages](#languages)
+    - [Lexical analysis](#lexical-analysis)
+    - [Logging](#logging)
+    - [Macros](#macros)
+    - [Markdown](#markdown)
+    - [Miscellaneous](#miscellaneous)
+    - [Native Implemented Functions](#native-implemented-functions)
     - [Natural Language Processing (https://github.com/h4cc/awesome-elixir/blob/master/NLP)](https://github.com/h4cc/awesome-elixir/blob/master/#natural-language-processing-nlp)
+    - [Networking](#networking)
+    - [Office](#office)
+    - [ORM and Datamapping](#orm-and-datamapping)
+    - [OTP](#otp)
+    - [Package Management](#package-management)
+    - [PDF](#pdf)
+    - [Protocols](#protocols)
+    - [Queue](#queue)
+    - [Release Management](#release-management)
+    - [REST and API](#rest-and-api)
+    - [Search](#search)
+    - [Security](#security)
+    - [SMS](#sms)
+    - [Static Page Generation](#static-page-generation)
+    - [Statistics](#statistics)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Text and Numbers](#text-and-numbers)
+    - [Third Party APIs](#third-party-apis)
+    - [Translations and Internationalizations](#translations-and-internationalizations)
+    - [Utilities](#utilities)
+    - [Validations](#validations)
+    - [Version Control](#version-control)
+    - [Video](#video)
+    - [XML](#xml)
+    - [YAML](#yaml)
+- [Resources](#resources)
+    - [Books](#books)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Community](#community)
+    - [Editors](#editors)
+    - [Newsletters](#newsletters)
+    - [Other Awesome Lists](#other-awesome-lists)
+    - [Reading](#reading)
+    - [Screencasts](#screencasts)
+    - [Styleguides](#styleguides)
+    - [Websites](#websites)
+- [Contributing](#contributing)
 
 ## Actors
 *Libraries and tools for working with actors and such.*
@@ -1198,8 +1292,10 @@ If you think a package should be added, please add a :+1: (https://github.com/h4
 * [exsms](https://hex.pm/packages/exsms) - A Elixir library for sending transactional SMS - supoprts Sendinblue, mailjet ,msg91 and textlocal.
 
 ## Static Page Generation
+*Tools and libraries for generating static websites and content.*
 
 * [blogit](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+* [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
@@ -1689,77 +1785,6 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 * [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 * [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
-* [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
-* [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://elixir-cn.com/).
-* [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
-* [Elixir Flashcards](https://elixircards.co.uk/) - Flashcards are a powerful way to improve your knowledge. Elixircards are hand crafted, professionally printed flashcards for levelling up your Elixir.
-* [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
-* [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
-* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
-* [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
-* [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
-* [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
-* [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
-* [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.ibility Segregation (https://github.com/h4cc/awesome-elixir/blob/master/CQRS) and event sourcing resources.
-* [Awesome Elixir by LibHunt](https://elixir.libhunt.com) - A curated list of awesome Elixir and Erlang packages and resources.
-* [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
-* [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) - A collection of top recommended Elixir resources.
-* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks) - A collection of links for Erlang developers.
-
-## Reading
-*Elixir-releated reading materials.*
-
-* [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) - An online course that teaches both the Elixir language and the Phoenix framework.
-* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
-* [Elixir Functional Programming](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
-* [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
-* [Elixir Tab](https://github.com/efexen/elixir-tab) - Chrome Extension which helps you learn the Elixir core lib.
-* [The Little Schemer in Elixir](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
-* [xElixir](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
-
-## Screencasts
-*Cool video tutorials.*
-
-* [Confreaks (https://github.com/h4cc/awesome-elixir/blob/master/Elixir)](https://github.com/h4cc/awesome-elixir/blob/master/http://confreaks.tv/tags/40) - Elixir related conference talks.
-* [Elixir for Programmers](https://github.com/h4cc/awesome-elixir/blob/master/https://codestool.coding-gnome.com/courses/elixir-for-programmers) - Functional, Parallel, Reliable (https://github.com/h4cc/awesome-elixir/blob/master/and fun!), taught by Dave Thomas.
-* [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
-* [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
-* [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
-* [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
-* [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
-* [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
-
-## Styleguides
-*Styleguides for ensuring consistency while coding.*
-
-* [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-* [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
-* [rrrene/elixir-style-guide](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo](https://github.com/rrrene/credo).
-
-## Websites
-*Useful Elixir-related websites.*
-
-* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
-* [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
-* [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
-* [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
-* [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://elixir-cn.com/).
-* [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
-* [Elixir Flashcards](https://elixircards.co.uk/) - Flashcards are a powerful way to improve your knowledge. Elixircards are hand crafted, professionally printed flashcards for levelling up your Elixir.
-* [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
-* [Elixir Github Repository](https://github.com/elixir-lang/elixir) - The project repository.
-* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
-* [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
-* [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.
-* [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
-* [How I start - Elixir](http://howistart.org/posts/elixir/1) - Explanation and intro to Elixir by José Valim.
-* [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.- Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
 * [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
 * [Elixir China](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://elixir-cn.com/).
 * [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.

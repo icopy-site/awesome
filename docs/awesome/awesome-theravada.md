@@ -4,7 +4,20 @@
 
 [Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pāli Canon, one of the oldest surviving records of the Buddha's teachings.
 
+## Contents
 
+- [Academic](#academic)
+- [Articles](#articles)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Dhamma Talks](#dhamma-talks)
+- [Forums](#forums)
+- [Organizations](#organizations)
+- [Pali](#pali)
+- [Places](#places)
+- [Suttas](#suttas)
+- [Videos](#videos)
+- [License](#license)
 
 ## Academic
 
@@ -153,14 +166,6 @@
 - [Wat Marp Jan (https://github.com/johnjago/awesome-theravada/blob/master/วัดมาบจันทร์)](https://github.com/johnjago/awesome-theravada/blob/master/https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 - [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 - [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) almost every day on the topics of meditation, Buddhism, and the monastic life.
-
-## License
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) almost every day on the topics of meditation, Buddhism, and the monastic life.
 
 ## License
 

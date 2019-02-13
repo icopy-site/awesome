@@ -20,7 +20,29 @@ Share the list with your classmates, your friends and everyone :)
 > I really hope that more people can benefit from this list :)
 
 
+## Table of Contents
 
+* [List of Lists](#list-of-lists)
+* [Syllabuses](#syllabuses)
+* [Tutorial Websites](#tutorial-websites)
+* [Open Courses](#open-courses)
+    * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
+* [Books](#books)
+    * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+* [Sites for Practice](#sites-for-practice)
+    * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+* [Camps and Trainings](#camps-and-trainings)
+* [Sites for Questions](#sites-for-questions)
+* [Implementations](#implementations)
+* [Language Specifics](#language-specifics)
+    * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+* [Tools](#tools)
+    * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
+* [Community](#community)
+    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
+* [Other Awesome Resources](#other-awesome-resources) 
+    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
+* [License](#license)
 
 
 ## List of Lists
@@ -391,20 +413,6 @@ Learn helpful tips, tutorials and insights from these people :)
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
 | [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
-
-
-## License
-
-[![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).me-interview-questions) | A curated list of awesome interview questions |
-
-
-## License
-
-[![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).me-interview-questions) | A curated list of awesome interview questions |
 
 
 ## License

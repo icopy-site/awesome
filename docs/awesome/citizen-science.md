@@ -4,7 +4,21 @@ Below is a curated list of awesome software and other resources to enable those 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Contents
 
+  - [Software](#software)
+  - [Educational](#educational)
+  - [Tools and Equipment](#tools-and-equipment)
+  - [Publishing and Doing Research](#publishing-and-doing-research)
+  - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
+  - [Art and Science Spaces](#art-and-science-spaces)
+  - [Literature](#literature)
+  - [Funding and Support](#funding-and-support)
+  - [Conferences and Events](#conferences-and-events)
+  - [Other Resources](#other-resources)
+  - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
+  - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  - [License](#license)
 
 ## Software
 
@@ -63,6 +77,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
  * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
  * [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
+ * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) - A DIY chemostat.
  * [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
  * [SpikerBox](https://backyardbrains.com/products/spikerbox) - A bioamplifier for DIY neuroscience.
@@ -213,9 +228,5 @@ Have an idea of a tool that should be on this list? Here's how you can add it:
 No copyright intended.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work..creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work..creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work.

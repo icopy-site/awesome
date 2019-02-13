@@ -6,7 +6,14 @@ A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based pr
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
 
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Projects](#projects)
+- [Extensions](#extensions)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Community
 
@@ -82,4 +89,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/vor
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [David Caccavella](https://github.com/dthree) has waived all copyright and related or neighboring rights to this work.com/dthree) has waived all copyright and related or neighboring rights to this work.com/dthree) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [David Caccavella](https://github.com/dthree) has waived all copyright and related or neighboring rights to this work.

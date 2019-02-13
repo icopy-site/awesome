@@ -2,8 +2,45 @@
 
 This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 
+## Contents
 
 
+- [Alan Kay](#alan-kay)
+- [Alan Turing](#alan-turing)
+- [Albert Einstein](#albert-einstein)
+- [Arthur C. Clarke](#arthur-c-clarke)
+- [Bill Gates](#bill-gates)
+- [Bjarne Stroustrup](#bjarne-stroustrup)
+- [Bruce Schneier](#bruce-schneier)
+- [Don DeLillo](#don-delillo)
+- [Don Norman](#don-norman)
+- [Douglas Adams](#douglas-adams)
+- [Edsger Dijkstra](#edsger-dijkstra)
+- [Edward V. Berard](#edward-v-berard)
+- [Elbert Hubbard](#elbert-hubbard)
+- [Elon Musk](#elon-musk)
+- [Grace Hopper](#grace_hopper)
+- [Harold Abelson](#harold-abelson)
+- [Jeff Pesis](#jeff-pesis)
+- [John Cleese](#john-cleese)
+- [Kathy Sierra](#kathy-sierra)
+- [Keith Bostic](#keith-bostic)
+- [Ken Thompson](#ken-thompson)
+- [Larry Wall](#larry-wall)
+- [Linus Torvalds](#linus-torvalds)
+- [Mark Minasi](#mark-minasi)
+- [Martin Fowler](#martin-fowler)
+- [Omar Bradley](#omar-bradley)
+- [Pablo Picasso](#pablo-picasso)
+- [Peter Deutsch](#peter-deutsch)
+- [Peter Wegner](#peter-wegner)
+- [Richard Stallman](#richard-stallman)
+- [Rick Cook](#rick-cook)
+- [Steve Jobs](#steve-jobs)
+- [Steve McConnell](#steve-mcconnell)
+- [Sydney Harris](#sydney-harris)
+- [Tony Hoare](#tony-hoare)
+- [Vidiu Platon](#vidiu-platon)
 
 ## Contribution Guidelines
 
@@ -63,9 +100,5 @@ Contribution guidelines can be found [here](https://github.com/victorlaerte/awes
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/victorlaerte/awesome-it-quotes">
-  United States</span>.
-</p>om/victorlaerte/awesome-it-quotes">
-  United States</span>.
-</p>om/victorlaerte/awesome-it-quotes">
   United States</span>.
 </p>

@@ -6,10 +6,21 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 
 *Please read the [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) before contributing.*
 
+## Contents
 
 <!-- Run `npm run toc` to generate the TOC -->
 <!-- toc -->
 
+- [JavaScript References](#javascript-references)
+- [Articles & Tutorials](#articles--tutorials)
+- [Free eBooks](#free-ebooks)
+- [Books](#books)
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [Interactive learning](#interactive-learning)
+- [ES6 and above](#es6-and-above)
+- [DOM related](#dom-related)
+- [Node.js](#nodejs)
 
 <!-- tocstop -->
 
@@ -115,4 +126,4 @@ Thin books which you can get through in a few days.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work. law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work. law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.

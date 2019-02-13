@@ -166,8 +166,4 @@ alias minor='pre-version && npm version minor && post-version'
 alias major='pre-version && npm version major && post-version'
 alias pre-version='git diff --exit-code && npm prune && npm install -q && npm test'
 alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
-``` && npm prune && npm install -q && npm test'
-alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
-``` && npm prune && npm install -q && npm test'
-alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ```

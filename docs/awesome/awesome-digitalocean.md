@@ -9,7 +9,16 @@ DigitalOcean's tagline is it is a simple and robust cloud computing platform, de
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 
+## Contents
 
+- [Community](#community)
+- [Configuration management](#configuration-management)
+- [Developer documentation](#developer-documentation)
+- [Open source projects](#open-source-projects)
+- [Community OSS projects](#community-oss-projects)
+- [Clients](#clients)
+- [Video tutorials](#video-tutorials)
+- [Other](#other)
 
 
 ## Community
@@ -80,4 +89,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jon Leibowitz](https://github.com/jonleibowitz) has waived all copyright and related or neighboring rights to this work.eibowitz) has waived all copyright and related or neighboring rights to this work.eibowitz) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jon Leibowitz](https://github.com/jonleibowitz) has waived all copyright and related or neighboring rights to this work.

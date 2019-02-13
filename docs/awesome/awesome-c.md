@@ -9,7 +9,65 @@ This list was previously maintained by [@kozross](https://github.com/kozross). H
 Contents
 ========
 
+## Contents ##
 
+- [Build Systems](#build-systems)
+- [Compilers](#compilers)
+- [Compiler libraries](#compiler-libraries)
+- [Compression](#compression)
+- [Crypto](#crypto)
+- [Database](#database)
+- [Deep Learning](#deep-learning)
+- [Documentation Generation](#documentation-generation)
+- [Editors](#editors)
+- [Embedded Systems](#embedded-systems)
+  - [RTOS](#rtos)
+- [Environments](#environments)
+- [Frameworks](#frameworks)
+- [Game Programming](#game-programming)
+  - [Engines](#engines)
+  - [Resources](#resources)
+- [Generic Programming](#generic-programming)
+- [Graphics](#graphics)
+  - [Graphic APIs](#graphic-apis)
+- [Graphical User Interface](#graphical-user-interface)
+- [Hashing](#hashing)
+- [Image Processing](#image-processing)
+- [JSON](#json)
+- [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
+  - [Online](#online)
+      - [Reference](#reference)
+        - [Language Standards](#language-standards)
+      - [Beginner](#beginner)
+      - [Intermediate](#intermediate)
+      - [Advanced](#advanced)
+      - [Self-study courses](#self-study-courses)
+  - [Physical](#physical)
+      - [Reference](#reference-1)
+      - [Beginner](#beginner-1)
+      - [Intermediate](#intermediate-1)
+      - [Advanced](#advanced-1)
+- [Macros](#macros)
+- [Memory Allocators](#memory-allocators)
+- [Multimedia](#multimedia)
+- [Networking and Internet](#networking-and-internet)
+  - [Web Frameworks](#web-frameworks)
+- [Numerical](#numerical)
+- [Parallel Programming](#parallel-programming)
+- [Parsers](#parsers)
+- [Regex](#regex)
+- [Serialization](#serialization)
+- [Source Code Collections](#source-code-collections)
+- [Standard Libraries](#standard-libraries)
+- [String Manipulation](#string-manipulation)
+- [Testing](#testing)
+- [Text Editor Extensions](#text-editor-extensions)
+  - [Atom](#atom)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
+- [Tools](#tools)
+- [Utilities](#utilities)
+- [XML](#xml)
 
 ## Build Systems ##
 
@@ -23,6 +81,7 @@ These are tools to automate the building and testing of projects in C.
 * [Libtool](https://www.gnu.org/software/libtool/) - Generic library support script. Part of the Autotools. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [Meson](http://mesonbuild.com/) - Extremely fast, user-friendly build system. Based on Ninja. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Premake](https://github.com/premake/premake-core) - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [SCons](https://www.scons.org/) - An easier, more reliable and faster way to build software. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Ninja](https://github.com/ninja-build/ninja) - Small, simple build system with a focus on speed. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Bazel](https://bazel.build/) - Build system for various operating systems and targets. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Buck](https://buckbuild.com/) - Build system created and used by Facebook. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
@@ -55,6 +114,7 @@ Libraries for use in compilers, interpreters, and low-level based projects.
 * [lz4](https://lz4.github.io/lz4/) - Fast Compression algorithm.
 * [snappy](https://github.com/aleksandar-todorovic/awesome-c/blob/master/https://github.com/google/snappy) - Fast compression library (https://github.com/aleksandar-todorovic/awesome-c/blob/master/implementation in C++, native bindings to C).
 * [zstd](http://facebook.github.io/zstd/) - Fast real-time compression algorithm [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [brotli](https://github.com/google/brotli) - Generic lossless compression algorithm based on LZ77, Huffman coding and 2nd order context modelling [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/index.php) - Fast compression library. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [pixz](https://github.com/aleksandar-todorovic/awesome-c/blob/master/https://github.com/vasi/pixz) - Pixz (https://github.com/aleksandar-todorovic/awesome-c/blob/master/pronounced pixie) is a parallel, indexing version of `xz`. [`2-clause BSD`](https://github.com/aleksandar-todorovic/awesome-c/blob/master/https://directory.fsf.org/wiki/License:BSD-2-Clause)
 
@@ -99,6 +159,7 @@ This lists databases and data stores with C APIs.
 These are specifically fancier, IDE-type editors. If you want a programmer's text editor, look elsewhere. Besides, whatever choice you make most likely supports C anyway.
 
 * [Anjuta DevStudio](http://anjuta.org/) - The GNOME IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+* [Atom](https://atom.io/) - Hackable text editor for the 21st century. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Code::Blocks](http://www.codeblocks.org/) - Extensible, configurable IDE supporting C. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [CodeLite](https://codelite.org/) - Cross-platform IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Eclipse](http://www.eclipse.org/ide/) - IDE written in Java. [`EPL`](https://directory.fsf.org/wiki/License:EPL-1.0)
@@ -218,6 +279,7 @@ All hashing related libraries, cryptographic or not.
 
 * [jwHash](https://github.com/watmough/jwHash) - Fast hashtable implementation. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [xxHash](http://cyan4973.github.io/xxHash/) - Extremely fast non-cryptographic hash algorithm. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
+* [libcrc](https://github.com/PeterScott/murmur3) - Multi platform CRC library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [murmur](https://github.com/ispc/ispc) - C implementation of MurMur Hashing. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 ## Image Processing ##
@@ -229,6 +291,7 @@ All hashing related libraries, cryptographic or not.
 * [Jansson](http://www.digip.org/jansson/) - C library for encoding, decoding and manipulating JSON. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [jsmn](https://zserge.com/jsmn.html) - Minimalistic JSON parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [json-c](https://github.com/json-c/json-c/wiki) - Library for working with JSON. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [WJElement](https://github.com/netmail-open/wjelement/wiki) - Advanced JSON manipulation library, with support for JSON Schema. [`LGPL, any version`](https://github.com/netmail-open/wjelement/)
 * [YAJL](https://lloyd.github.io/yajl/) - Fast C JSON streaming parser library. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
 
@@ -367,6 +430,7 @@ Implementations of memory allocators for various systems and platforms.
 * [libvldmail](https://github.com/dertuxmalwieder/libvldmail) - Your friendly e-mail address validation library. [`WTFPLv2`](http://www.wtfpl.net/txt/copying/)
 * [lwan](https://lwan.ws/) - Experimental, scalable, high-performance HTTP server. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [mongoose](https://cesanta.com/) - Embedded web server for C. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - Portable MQTT C client for embedded systems and PCs alike. [`MIT`](https://raw.githubusercontent.com/LiamBindle/MQTT-C/master/LICENSE)
 * [nanomsg](https://github.com/nanomsg/nanomsg) - C-based implementation of ZeroMQ. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [OpenSSL](https://www.openssl.org/) - Implementation of the SSL and TLS protocols, and also includes a cryptography library. [`Dual Licensed under the OpenSSL License and the SSLeay License`](https://www.openssl.org/source/license.html)
 * [oSip](https://www.gnu.org/software/osip/) - SIP implementation in C without additional dependencies. [`GNU LGPLv2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
@@ -376,6 +440,8 @@ Implementations of memory allocators for various systems and platforms.
 * [Tox](https://tox.chat/) - Communication platform, designed to be a Skype-killer. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [twitc](https://github.com/sinemetu1/twitc) - Mini C library for interacting with the Twitter OAuth API. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [librg](https://github.com/librg/librg) - Library for building simple and elegant cross-platform mmo client-server solutions. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [dyad](https://github.com/rxi/dyad) - Asynchronous networking library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
+* [h2o](https://github.com/h2o/h2o/) - Optimized HTTP/1, HTTP/2 high performance server/library. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ### Web Frameworks ###
 
@@ -453,6 +519,7 @@ Implementations of memory allocators for various systems and platforms.
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Implementation of Google Protocol Buffer in C. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization.
 
+Check also: [JSON](#json), [XML](#xml)
 
 ## Source Code Collections ##
 
@@ -494,6 +561,7 @@ This contains standard C libraries.
 * [CUnit](http://cunit.sourceforge.net/) - Another unit testing framework for C. [`GNU LGPL2.0`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Cutest](https://github.com/aleksandar-todorovic/awesome-c/blob/master/https://github.com/rafael-santiago/cutest) - Library for unit testing with memory leak detection (https://github.com/aleksandar-todorovic/awesome-c/blob/master/Linux, freeBSD and Windows). [`GPL2`](https://github.com/aleksandar-todorovic/awesome-c/blob/master/http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [minunit](https://github.com/siu/minunit) - Minimal unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [munit](https://nemequ.github.io/munit/) - Small but full-featured unit testing framework for C with no dependencies. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Unity](http://www.throwtheswitch.org/) - Simple unit testing framework for C. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 
 ## Text Editor Extensions ##
@@ -501,6 +569,8 @@ This contains standard C libraries.
 While practically any decent programmer's text editor supports C, there are some extensions that make it more pleasant. This is categorized by editor.
 
 ### Atom ###
+* [linter-clang](https://github.com/AtomLinter/linter-clang) - Lint C code in Atom, using Clang. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
+* [linter-gcc](https://github.com/hebaishi/linter-gcc) - Lint C code in Atom, using GCC. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ### Emacs ###
 
@@ -589,14 +659,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 ## XML ##
 
 > "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
-
-* [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [mini-xml](https://github.com/michaelrsweet/mxml) - Small XML reading and writing library. No dependencies aside from C standard library. [`GNU LGPL2.1 with static linking exception`](https://github.com/michaelrsweet/mxml/blob/master/COPYING)umans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
-
-* [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [mini-xml](https://github.com/michaelrsweet/mxml) - Small XML reading and writing library. No dependencies aside from C standard library. [`GNU LGPL2.1 with static linking exception`](https://github.com/michaelrsweet/mxml/blob/master/COPYING)n for computers. There's just no reason for that horrible crap to exist." - Linus Torvalds
 
 * [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)

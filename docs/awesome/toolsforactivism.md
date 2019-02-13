@@ -6,7 +6,13 @@
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
+## Table of Contents
 
+  1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
+  2. [Software as a service tools](#software-as-a-service)
+  3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
+  4. [How do I contribute to this list?](#how-do-i-contribute-to-this-list)
+  5. [License](#license)
 
 
 # The List
@@ -20,6 +26,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Crowdring](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
+ * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
  * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
 
@@ -63,4 +70,4 @@ No copyright intended.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has waived all copyright and related or neighboring rights to this work.ved all copyright and related or neighboring rights to this work.ved all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has waived all copyright and related or neighboring rights to this work.

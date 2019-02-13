@@ -24,11 +24,38 @@ If you're struggling with something CSS-related, look for answers within the fol
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
+## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [CSS Working Group](#css-working-group)
+  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
+- [Parser :mag:](#parser-mag)
+- [Preprocessors :pill:](#preprocessors-pill)
+- [Frameworks :art:](#frameworks-art)
+- [Toolkits :wrench:](#toolkits-wrench)
+- [CSS Structure](#css-structure)
+- [Reset and Normalize](#reset-and-normalize)
+- [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
+- [Code Style Guidelines :book:](#code-style-guidelines-book)
+- [Style Guide](#style-guide)
+- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
+- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
+- [CSS in JS](#css-in-js)
+- [CSS Polyfills](#css-polyfills)
+- [Miscellaneous](#miscellaneous)
+- [Podcasts :radio:](#podcasts-radio)
+- [Twitter :satellite:](#twitter-satellite)
+- [Videos :tv:](#videos-tv)
+  - [2016](#2016)
+  - [2015](#2015)
+- [Books :books:](#books-books)
+- [Tutorials :clapper:](#tutorials-clapper)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -55,6 +82,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Preprocessors :pill:
 
@@ -66,6 +94,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Frameworks :art:
 
@@ -91,6 +120,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Toolkits :wrench:
 
@@ -98,12 +128,14 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## CSS Structure
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Reset and Normalize
 
@@ -113,6 +145,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## CSS Development at Large-Scale Websites
 
@@ -127,6 +160,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Code Style Guidelines :book:
 
@@ -139,6 +173,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Style Guide
 
@@ -158,6 +193,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 View more style guides at [Website Style Guide Resources](http://styleguides.io/)
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## Style Guide Generators :slot_machine:
@@ -170,6 +206,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 - [styledown](https://github.com/styledown/styledown)
 - [sc5-styleguide](https://github.com/SC5/sc5-styleguide)
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## Naming conventions & Methodologies :bulb:
@@ -188,6 +225,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [MaintainableCSS](http://maintainablecss.com)
 * [NCSS](https://ncss.io)
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## CSS in JS
@@ -205,6 +243,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## CSS Polyfills
@@ -215,6 +254,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [selectivizr](https://github.com/keithclark/selectivizr) - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [PIE](https://github.com/lojjic/PIE) - Allows Internet Explorer to recognize and render various CSS3 box decoration properties.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## Miscellaneous
@@ -226,6 +266,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML 
 
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Podcasts :radio:
 
@@ -233,11 +274,13 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front-end web design, development, and UX.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on style guides, hosted by Anna Debenham and Brad Frost.
+* [The Big Web Show](http://5by5.tv/bigwebshow/) - Topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
 * [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## Twitter :satellite:
@@ -284,6 +327,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
 * [Rachel Andrew](https://twitter.com/rachelandrew) - Web Developer, half of @grabaperch CMS, CSS Working Group Invited Expert.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 
 ## Videos :tv:
@@ -304,6 +348,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 1. [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) :watch: `30:15` - Caleb Meredith @ DevTips channel.
 1. [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Books :books:
 
@@ -311,6 +356,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
 * [CSS: The Definitive Guide, 4th Edition](http://shop.oreilly.com/product/0636920012726.do)  - Visual Presentation for the Web
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Tutorials :clapper:
 
@@ -321,6 +367,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -  A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Maintainers
 
@@ -329,28 +376,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 [troxler]:       https://github.com/troxler
 
 [@sotayamashita][sotayamashita], [@troxler][troxler], [@Rishabh04-02][Rishabh04-02] and You!
-
-
-## Contribute
-
-[contributor-covenant]: https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
-
-Feel free to dive in! Open an issue or submit PRs.
-
-Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
-
-**}**sotayamashita], [@troxler][troxler], [@Rishabh04-02][Rishabh04-02] and You!
-
-
-## Contribute
-
-[contributor-covenant]: https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
-
-Feel free to dive in! Open an issue or submit PRs.
-
-Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
-
-**}**sotayamashita], [@troxler][troxler], [@Rishabh04-02][Rishabh04-02] and You!
 
 
 ## Contribute

@@ -21,6 +21,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 ## Open Source
 
+* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
@@ -139,4 +140,4 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.t possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.t possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.

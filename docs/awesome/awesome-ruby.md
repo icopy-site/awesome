@@ -15,6 +15,109 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
+* [Awesome Ruby](#awesome-ruby)
+  * [Abstraction](#abstraction)
+  * [Admin Interface](#admin-interface)
+  * [Analytics](#analytics)
+  * [API Builder and Discovery](#api-builder-and-discovery)
+  * [Assets](#assets)
+  * [Authentication and OAuth](#authentication-and-oauth)
+  * [Authorization](#authorization)
+  * [Automation](#automation)
+  * [Caching](#caching)
+  * [Captchas and anti-spam](#captchas-and-anti-spam)
+  * [CLI Builder](#cli-builder)
+  * [CLI Utilities](#cli-utilities)
+  * [Cloud](#cloud)
+  * [CMS](#cms)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Code Highlighting](#code-highlighting)
+  * [Coding Style Guides](#coding-style-guides)
+  * [Concurrency and Parallelism](#concurrency-and-parallelism)
+  * [Configuration](#configuration)
+  * [Core Extensions](#core-extensions)
+  * [Country Data](#country-data)
+  * [CRM](#crm)
+  * [Cryptocurrencies and Blockchains](#cryptocurrencies-and-blockchains)
+  * [Dashboards](#dashboards)
+  * [Data Processing and ETL](#data-processing-and-etl)
+  * [Data Visualization](#data-visualization)
+  * [Database Drivers](#database-drivers)
+  * [Database Tools](#database-tools)
+  * [Date and Time Processing](#date-and-time-processing)
+  * [Debugging Tools](#debugging-tools)
+  * [Decorators](#decorators)
+  * [DevOps Tools](#devops-tools)
+  * [Diff](#diff)
+  * [Documentation](#documentation)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Ebook](#ebook)
+  * [Email](#email)
+  * [Encryption](#encryption)
+  * [Environment Management](#environment-management)
+  * [Error Handling](#error-handling)
+  * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
+  * [File Upload](#file-upload)
+  * [File System](#file-system)
+  * [Form Builder](#form-builder)
+  * [Game Development](#game-development)
+  * [Gem Generators](#gem-generators)
+  * [Geolocation](#geolocation)
+  * [Git Tools](#git-tools)
+  * [GraphQL](#graphql)
+  * [GUI](#gui)
+  * [HTML/XML Parsing](#htmlxml-parsing)
+  * [HTTP Clients and tools](#http-clients-and-tools)
+  * [Image Processing](#image-processing)
+  * [Implementations/Compilers](#implementationscompilers)
+  * [Internationalization](#internationalization)
+  * [IRB](#irb)
+  * [Logging](#logging)
+  * [Machine Learning](#machine-learning)
+  * [Markdown Processors](#markdown-processors)
+  * [Measurements](#measurements)
+  * [Mobile Development](#mobile-development)
+  * [Money](#money)
+  * [Music and Sound](#music-and-sound)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Navigation](#navigation)
+  * [Networking](#networking)
+  * [Optimizations](#optimizations)
+  * [ORM/ODM](#ormodm)
+  * [ORM/ODM Extensions](#ormodm-extensions)
+  * [Package Management](#package-management)
+  * [Pagination](#pagination)
+  * [PDF](#pdf)
+  * [Performance Monitoring](#performance-monitoring)
+  * [Presentation Programs](#presentation-programs)
+  * [Process Monitoring](#process-monitoring)
+  * [Processes](#processes)
+  * [Profiler and Optimization](#profiler-and-optimization)
+  * [QR](#qr)
+  * [Queues and Messaging](#queues-and-messaging)
+  * [Rails Application Generators](#rails-application-generators)
+  * [Robotics](#robotics)
+  * [RSS](#rss)
+  * [Scheduling](#scheduling)
+  * [Scientific](#scientific)
+  * [Search](#search)
+  * [Security](#security)
+  * [SEO](#seo)
+  * [Social Networking](#social-networking)
+  * [Spreadsheets and Documents](#spreadsheets-and-documents)
+  * [State Machines](#state-machines)
+  * [Static Site Generation](#static-site-generation)
+  * [Template Engine](#template-engine)
+  * [Testing](#testing)
+  * [Third-party APIs](#third-party-apis)
+  * [Video](#video)
+  * [View helpers](#view-helpers)
+  * [Web Crawling](#web-crawling)
+  * [Web Frameworks](#web-frameworks)
+  * [Web Servers](#web-servers)
+  * [WebSocket](#websocket)
+* [Services and Apps](#services-and-apps)
+* [Resources](#resources)
 
 ## Abstraction
 
@@ -43,6 +146,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+* [Typus](https://github.com/typus/typus) - Ruby on Rails control panel to allow trusted users edit structured content.
 
 ## Analytics
 
@@ -114,6 +218,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
+* [Petergate](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Automation
@@ -178,11 +283,16 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
+* [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 * [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 * [Fae](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 * [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
+* [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
+* [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
+* [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
 * [Spina CMS](http://www.spinacms.com) - A beautiful CMS for Rails developers.
+* [Storytime](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and bloging engine, with a core focus on content.
 
 ## Code Analysis and Metrics
 
@@ -950,6 +1060,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/rack-protection) - Rack middleware for protecting against typical Web attacks.
+* [SecureHeaders](https://github.com/markets/awesome-ruby/blob/master/https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (https://github.com/markets/awesome-ruby/blob/master/CSP), HTTP Strict Transport Security (https://github.com/markets/awesome-ruby/blob/master/HSTS), X-Frame-Options (https://github.com/markets/awesome-ruby/blob/master/XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ## SEO
 
@@ -1179,71 +1290,6 @@ Online tools, services and APIs to simplify development.
 Where to discover new Ruby libraries, projects and trends.
 
 * [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
-* [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
-* [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
-* [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
-* [RubyDaily](http://rubydaily.org) - Community driven news.
-* [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
-* [Ruby Land](http://rubyland.news/) - A well maintained Ruby/Rails aggregator that contains news, opinions, tutorials, and more.
-* [Ruby Rogues](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
-* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
-* [The Ruby Bibliography](https://rubybib.org) - Research papers about Ruby.- A modern, concurrent web server for Ruby.
-* [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface.
-* [Reel](https://github.com/celluloid/reel) - Celluloid::IO-powered web server.
-* [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server.
-* [TorqueBox](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
-* [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix.
-
-## WebSocket
-
-* [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
-* [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
-* [Firehose](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
-* [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
-* [RenderSync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
-* [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
-
-# Services and Apps
-
-Online tools, services and APIs to simplify development.
-
-* [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
-* [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
-* [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
-* [Dependabot](https://dependabot.com) - Automated dependency update pull requests.
-* [deppbot](https://www.deppbot.com) - Automated Security and Dependency Updates.
-* [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
-* [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
-* [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
-* [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
-* [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
-* [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
-* [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
-* [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
-* [Nanobox](https://github.com/markets/awesome-ruby/blob/master/https://github.com/nanobox-io/nanobox) - A micro-PaaS (https://github.com/markets/awesome-ruby/blob/master/μPaaS) for creating consistent, isolated, Ruby environments deployable anywhere https://nanobox.io.
-* [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
-* [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
-* [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
-* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
-* [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
-* [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
-
-# Resources
-
-Where to discover new Ruby libraries, projects and trends.
-
-* [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
-* [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
-* [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
-* [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
-* [RubyDaily](http://rubydaily.org) - Community driven news.
-* [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
-* [Ruby Land](http://rubyland.news/) - A well maintained Ruby/Rails aggregator that contains news, opinions, tutorials, and more.
-* [Ruby Rogues](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
-* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
-* [The Ruby Bibliography](https://rubybib.org) - Research papers about Ruby.unt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.

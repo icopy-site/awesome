@@ -4,11 +4,22 @@ A curated list of awesome analytics platforms, resources and other awesomeness. 
 
 Your feedback and contributions are always welcome!
 
+- [Awesome Analytics](#awesome-analytics)
+    - [General analytics](#general-analytics)
+    - [Privacy focused analytics](#privacy-focused-analytics)
+    - [Heatmap analytics](#heatmap-analytics)
+    - [Analytics layers](#analytics-layers)
+    - [Mobile analytics](#mobile-analytics)
+    - [App store analytics](#app-store-analytics)
+    - [Attribution tracking](#attribution-tracking)
+    - [Social media analytics](#social-media-analytics)
+    - [Analytics dashboards](#analytics-dashboards)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
-* [Piwik](https://piwik.org/) - real-time open source app analytics tool.
+* [Matomo](https://matomo.org/) - real-time open source app analytics tool.
 * [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
@@ -28,12 +39,18 @@ Your feedback and contributions are always welcome!
 * [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use.
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
+* [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+
+## Privacy focused analytics
+
+* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users
+* [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers
 
 ## Heatmap analytics
 
@@ -118,13 +135,4 @@ Often there is no clear differentiation between social media management and anal
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).y metrics in one place.
-* [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
-
-# Other Awesome Lists
-- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome](https://github.com/sindresorhus/awesome).
-- Another list? [list](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).s://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).

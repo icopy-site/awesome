@@ -59,6 +59,7 @@ Important developers, companies, organizations and news sources.
 Programming/mark-up languages and web related standards.
 
 + **[Cascading Style Sheets (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/CSS)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/cascading-style-sheets-css.md)**: CSS are a stylesheet language used to describe the presentation of a document written in HTML or XML. It describes how elements should be rendered on screen, on paper, in speech, or on other media.
++ **[Document Object Model (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/DOM)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/document-object-model-dom.md)**: The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.
 + **[HyperText Markup Language (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/HTML)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-markup-language-html.md)**: HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
 + **[Hypertext Transfer Protocol (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/HTTP)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-transfer-protocol-http.md)**: The Hypertext Transfer Protocol (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 + **[JavaScript (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/EcmaScript)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-ecmascript.md)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
@@ -68,6 +69,7 @@ Programming/mark-up languages and web related standards.
 + **[Templating Languages and Engines](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/templating-languages-and-engines.md)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
 + **[Transpiled Languages](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/transpiled-languages.md)**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
 + **[Uniform Resource Identifier (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/URI)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/uniform-resource-identifier-uri.md)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/URL).
++ **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
 + **[WebAssembly](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
 
 ## User Interface Components
@@ -80,6 +82,7 @@ Drop-in UI components for web sites and applications.
 + **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
 + **[Grid](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/grid.md)**: CSS Grid Layout Systems.
 + **[Rich Text Editors](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/rich-text-editors.md)**: A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
++ **[Table Of Contents](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/table-of-contents.md)**: Components for automatic table of contents generation.
 + **[UI Kits](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/ui-kits.md)**: Collections of ready to use components.
 + **[Video & Audio](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/video-and-audio.md)**: Components for playing audio and video files on a website.
 
@@ -107,9 +110,5 @@ Task automation and asset delivery.
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-Please provide a link back to this repository. This is not necessary for GitHub forks.ational License</a>.
-
-Please provide a link back to this repository. This is not necessary for GitHub forks.ational License</a>.
 
 Please provide a link back to this repository. This is not necessary for GitHub forks.

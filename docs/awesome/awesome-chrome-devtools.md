@@ -2,7 +2,17 @@
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
+## Contents
 
+- [Learning](#learning)
+- [DevTools as an IDE](#devtools-as-an-ide)
+- [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
+- [Chrome DevTools Protocol](#chrome-devtools-protocol)
+- [Protocol Driver Libraries](#protocol-driver-libraries)
+- [Developing with the protocol](#developing-with-the-protocol)
+- [Browser Adapters](#browser-adapters)
+- [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
+- [DevTools Extensions](#devtools-extensions)
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
@@ -147,4 +157,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This awesome list is licensed into the Public Domain under Creative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.reative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.reative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.
+This awesome list is licensed into the Public Domain under Creative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.

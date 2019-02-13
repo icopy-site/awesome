@@ -5,7 +5,15 @@ All that you need to create a great mobile web experience.
 <a href="https://github.com/myshov/awesome-mobile-web-development/blob/master/CONTRIBUTING.md">Contribution Guidelines</a>
 
 
+## Contents
 
+- [Articles and Documentation](#articles-and-documentation)
+- [Books](#books)
+- [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
+- [Talks](#talks)
+- [Performance Auditing Tools](#performance-auditing-tools)
+- [Platform Monitoring](#platform-monitoring)
+- [Other Useful Tools and Libraries](#other-useful-tools-and-libraries)
 
 
 ## Articles and Documentation
@@ -111,4 +119,4 @@ All that you need to create a great mobile web experience.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.aw, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.aw, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [@myshov](https://github.com/myshov) has waived all copyright and related or neighboring rights to this work.

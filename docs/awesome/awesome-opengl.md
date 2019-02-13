@@ -3,7 +3,18 @@
 
 A curated list of awesome OpenGL libraries, debuggers and resources.
 
+## Contents
 
+* [Articles](#articles)
+* [Books](#books)
+* [Debug](#debug)
+* [GLSL Editors](#glsl-editors)
+* [Libraries](#libraries)
+* [Profile Loaders](#profile-loaders)
+* [References](#references)
+* [Talks](#talks)
+* [Videos](#videos)
+* [Websites](#websites)
 
 
 ## Articles
@@ -150,12 +161,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.mmons.org/licenses/by/4.0/).
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.mmons.org/licenses/by/4.0/).
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.

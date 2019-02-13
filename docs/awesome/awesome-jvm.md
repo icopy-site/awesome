@@ -2,6 +2,26 @@
 
 A curated list of awesome JVM low level, performance and non-framework related stuff.
 
+- [Awesome JVM](#awesome-jvm)
+    - [Bytecode](#bytecode)
+    - [Garbage collectors](#garbage-collectors)
+    - [Load tools](#load-tools)
+    - [Languages](#languages)
+    - [Machine Learning](#machine-learning)
+    - [Memory and Concurrency](#memory-and-concurrency)
+    - [Metaprogramming](#metaprogramming)
+    - [Native](#native)
+    - [Network](#network)
+    - [Nix tools](#nix-tools)
+    - [Profilers](#profilers)
+    - [Runtimes](#runtimes)
+    - [Virtual Machines](#virtual-machines)
+- [Resources](#resources)
+    - [Communities](#communities)    
+    - [Documentation](#documentation)
+    - [Media](#media)
+    - [People](#people)
+- [Contributing](#contributing)
 
 
 ## Bytecode
@@ -218,6 +238,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
 * [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - Disassembles class files into code that reflects the java bytecode.
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
+* [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.
 * [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.
@@ -431,32 +452,6 @@ Machine Specification Java SE 8 Edition.
 * [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 * [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
-* [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
-* [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
-* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
-
-
-# Contributing
-
-Contributions are very welcome!
-
-Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.Author of ByteBuddy.
-* [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
-* [Richard Startin](http://richardstartin.uk/) - Performance Analyst, developer, blogger.
-* [Ron Pressler](https://twitter.com/pressron) - Parallel Universe. Leading Fibers and Continuations for the JVM.
-* [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
-* [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
-* [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
-* [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
-* [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
-* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
-
-
-# Contributing
-
-Contributions are very welcome!
-
-Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.Lead @Pivotal.
 * [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
 * [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 * [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.

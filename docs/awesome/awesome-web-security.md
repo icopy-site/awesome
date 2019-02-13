@@ -16,7 +16,90 @@ Needless to say, most websites suffer from various types of bugs which may event
 
 If you enjoy this awesome list and would like to support it, check out my [Patreon](https://www.patreon.com/boik) page :)<br>Also, don't forget to check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitter](https://twitter.com/qazbnm456)!
 
+## Contents
 
+- [Forums](#forums)
+- [Resources](#resources)
+  - [Tips](#tips)
+  - [XSS](#xss---cross-site-scripting)
+  - [CSV Injection](#csv-injection)
+  - [SQL Injection](#sql-injection)
+  - [Command Injection](#command-injection)
+  - [ORM Injection](#orm-injection)
+  - [FTP Injection](#ftp-injection)
+  - [XXE](#xxe---xml-external-entity)
+  - [CSRF](#csrf---cross-site-request-forgery)
+  - [SSRF](#ssrf---server-side-request-forgery)
+  - [Web Cache Poisoning](#web-cache-poisoning)
+  - [Open Redirect](#open-redirect)
+  - [Upload](#upload)
+  - [Rails](#rails)
+  - [AngularJS](#angularjs)
+  - [ReactJS](#reactjs)
+  - [SSL/TLS](#ssltls)
+  - [Webmail](#webmail)
+  - [NFS](#nfs)
+  - [AWS](#aws)
+  - [Fingerprint](#fingerprint)
+  - [Sub Domain Enumeration](#sub-domain-enumeration)
+  - [Crypto](#crypto)
+  - [Web Shell](#web-shell)
+  - [OSINT](#osint)
+  - [Books](#books)
+- [Evasions](#evasions)
+  - [CSP](#evasions-csp)
+  - [WAF](#evasions-waf)
+  - [JSMVC](#evasions-jsmvc)
+  - [Authentication](#evasions-authentication)
+- [Tricks](#tricks)
+  - [CSRF](#tricks-csrf)
+  - [Remote Code Execution](#tricks-rce)
+  - [XSS](#tricks-xss)
+  - [SQL Injection](#tricks-sql-injection)
+  - [NoSQL Injection](#tricks-nosql-injection)
+  - [FTP Injection](#tricks-ftp-injection)
+  - [XXE](#tricks-xxe)
+  - [SSRF](#tricks-ssrf)
+  - [Web Cache Poisoning](#tricks-web-cache-poisoning)
+  - [Header Injection](#tricks-header-injection)
+  - [URL](#tricks-url)
+  - [Others](#tricks-others)
+- [Browser Exploitation](#browser-exploitation)
+- [PoCs](#pocs)
+  - [Database](#pocs-database)
+- [Tools](#tools)
+  - [Auditing](#tools-auditing)
+  - [Command Injection](#tools-command-injection)
+  - [Reconnaissance](#tools-reconnaissance)
+    - [OSINT](#tools-osint)
+    - [Sub Domain Enumeration](#tools-sub-domain-enumeration)
+  - [Code Generating](#tools-code-generating)
+  - [Fuzzing](#tools-fuzzing)
+  - [Scanning](#tools-scanning)
+  - [Penetration Testing](#tools-penetration-testing)
+  - [Leaking](#tools-leaking)
+  - [Offensive](#tools-offensive)
+    - [XSS](#tools-xss)
+    - [SQL Injection](#tools-sql-injection)
+    - [Template Injection](#tools-template-injection)
+    - [Cross Site Request Forgery](#tools-csrf)
+  - [Detecting](#tools-detecting)
+  - [Preventing](#tools-preventing)
+  - [Proxy](#tools-proxy)
+  - [Webshell](#tools-webshell)
+  - [Disassembler](#tools-disassembler)
+  - [Decompiler](#tools-decompiler)
+  - [Others](#tools-others)
+- [Social Engineering Database](#social-engineering-database)
+- [Blogs](#blogs)
+- [Twitter Users](#twitter-users)
+- [Practices](#practices)
+  - [Application](#practices-application)
+  - [AWS](#practices-aws)
+  - [XSS](#practices-xss)
+  - [ModSecurity / OWASP ModSecurity Core Rule Set](#practices-modsecurity)
+- [Community](#community)
+- [Miscellaneous](#miscellaneous)
 
 ## Forums
 
@@ -624,26 +707,6 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 - [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) - Written by [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
 - [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob?fbclid=IwAR0BQ7RmYGzQzsL33IJ2LM7lmlH0OSuIuxKLebUUBi1D51R-9UOnHrW0DQg) - Written by [@AntoGarand](https://twitter.com/AntoGarand).
 - [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) - Written by [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
-
-## Code of Conduct
-
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [@qazbnm456](https://qazbnm456.github.io/) has waived all copyright and related or neighboring rights to this work.Google/) - Written by [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
-
-## Code of Conduct
-
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [@qazbnm456](https://qazbnm456.github.io/) has waived all copyright and related or neighboring rights to this work.Google/) - Written by [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
 
 ## Code of Conduct
 

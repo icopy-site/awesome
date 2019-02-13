@@ -14,7 +14,34 @@ webpack takes modules with dependencies and generates static assets representing
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
 <!--lint disable list-item-indent-->
 
+### Contents
 
+- [Resources](#webpack-ecosystem)
+  - [Documentation](#documentation)
+  - [Community](#community)
+  - [Twitter Follows](#twitter)
+- [Libraries](#libraries)
+  - [Loaders](#loaders)
+    - [File Type](#file-type)
+    - [Component & Template](#component--template)
+    - [Styles](#styles)
+    - [Language & Framework](#language--framework)
+    - [Utility](#utility)
+    - [Testing](#testing)
+  - [Integrations](#integration-libraries)
+  - [Plugins](#webpack-plugins)
+  - [Tools](#webpack-tools)
+- [Research & Training](#research--training)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Webpack Examples](#webpack-examples)
+  - [Community Examples](#community-examples)
+    - [Angular](#angular)
+    - [Framework Agnostic](#framework-agnostic)
+    - [React](#react)
+  - [Other](#other)
 
 <!--lint disable list-item-indent-->
 
@@ -51,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and [Telerik](https://github.com/telerik) Developer Expert.
 - [Kees Kluskens - @keeskluskens](https://twitter.com/keeskluskens): - Software Engineer at [Code Yellow](https://codeyellow.nl),  Webpack core team member.
 
+[Back to top](#table-of-contents)
 
 
 ## Libraries
@@ -136,6 +164,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Istanbul Webpack plugin](https://github.com/DxCx/webpack-istanbul-plugin): Use Istanbul instrumenter for the whole pack. -- *Maintainer*: `Hagai Cohen` [![Github][githubicon]](https://github.com/DxCx)
 
+[Back to top](#table-of-contents)
 
 ### Integration Libraries
 
@@ -148,11 +177,13 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [WebpackAspnetMiddleware](https://github.com/frankwallis/WebpackAspnetMiddleware) - Development middleware for ASP.NET 5.  -- *Maintainer*: `Frank Wallis` [![Github][githubicon]](https://github.com/frankwallis)
 - [Consul Key/Value Webpack](https://github.com/marlonmleite/consul-env-webpack-plugin): Compiles environment variables into your bundle via [Consul KV-store](https://www.consul.io/api/kv.html). -- *Maintainer*: `Marlon Maxwel` [![Github][githubicon]](https://github.com/marlonmleite)
 
+[Back to top](#table-of-contents)
 
 ### Webpack Plugins
 
 - [Extract Text Plugin](https://github.com/webpack/extract-text-webpack-plugin): Extract text from bundle into a file. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [DefinePlugin](https://webpack.js.org/plugins/define-plugin/): Create global constants which can be configured at compile time. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Compression Plugin](https://github.com/webpack/compression-webpack-plugin): Prepare assets to serve with Content-Encoding. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Offline Plugin](https://github.com/webpack-contrib/awesome-webpack/blob/master/https://github.com/NekR/offline-plugin): Offline plugin (https://github.com/webpack-contrib/awesome-webpack/blob/master/ServiceWorker, AppCache) for Webpack. -- *Maintainer*: `Arthur Stolyar` [![Github][githubicon]](https://github.com/webpack-contrib/awesome-webpack/blob/master/https://github.com/NekR) [![Twitter][twittericon]](https://github.com/webpack-contrib/awesome-webpack/blob/master/https://twitter.com/nekrtemplar)
 - [Rewire Plugin](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- *Maintainer*: `Johannes Ewald` [![Github][githubicon]](https://github.com/jhnns) [![Twitter][twittericon]](https://twitter.com/Jhnnns)
 - [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- *Maintainer*: `Jan Nicklas` [![Github][githubicon]](https://github.com/jantimon) [![Twitter][twittericon]](https://twitter.com/jantimon)
@@ -180,6 +211,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier) - Display OS-level notifications for build errors and warnings. -- *Maintainer*: `Rocco Cataldo` [![Github][githubicon]](https://github.com/roccoc)
 - [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - Hot reloading while developing Chrome extensions -- *Maintainer*: `Rubens P. G. Cavalcante` [![Github][githubicon]](https://github.com/rubenspgcavalcante) [![Twitter][twittericon]](https://twitter.com/rubenspgc)
 
+[Back to top](#table-of-contents)
 
 ### Webpack Tools
 
@@ -199,6 +231,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - Webpack bundle analysis on every commit, report webpack stats to every pull request.
 
 
+[Back to top](#table-of-contents)
 
 ## Research & Training
 
@@ -293,14 +326,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
 - [Visual config tool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
 
-
-[twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
-[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svgool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
-
-
-[twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
-[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svgool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
-
+[Back to top](#table-of-contents)
 
 [twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
 [githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg

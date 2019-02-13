@@ -585,22 +585,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.d meetup speakers in the programming and design community.
-- [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
-- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.ers in the programming and design community.
-- [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
-- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

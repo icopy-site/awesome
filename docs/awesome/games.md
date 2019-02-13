@@ -12,7 +12,40 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
+# Table of Contents.
 
+- [Major Companies](#major-companies)
+- [Browser-Based](#user-content-browser-based)
+  - [Boardgame](#user-content-boardgame)
+  - [Arcade](#user-content-arcade)
+  - [FPS](#user-content-fps)
+  - [RPG](#user-content-rpg)
+  - [MMORPG](#user-content-mmorpg)
+  - [Strategy](#user-content-strategy)
+  - [Racing](#user-content-racing)
+  - [Sandbox](#user-content-sandbox)
+  - [Puzzle](#user-content-puzzle)
+  - [Clicker](#user-content-clicker)
+  - [Point and Click](#user-content-point-and-click)
+  - [Others](#user-content-others)
+- [Native](#user-content-native)
+  - [Action](#user-content-action-1)
+  - [Arcade](#user-content-arcade-1)
+  - [FPS](#user-content-fps-1)
+  - [MMORPG](#user-content-mmorpg-1)
+  - [RPG](#user-content-rpg-1)
+  - [Platform](#user-content-platform)
+  - [Puzzle/card/board](#user-content-puzzlecardboard)
+  - [Programming](#user-content-programming)
+  - [Sandbox](#user-content-sandbox-1)
+  - [Strategy](#user-content-strategy-1)
+- [Mobile Games](#user-content-mobile-games)
+  - [Android](#user-content-android)
+  - [IOS](#user-content-ios)
+- [Chat bots](#chat-bots)
+- [Just The Source](#user-content-just-the-source)
+- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
+- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
 -------
 
@@ -543,9 +576,5 @@ A selection of major game studios, publishers, etc. using GitHub:
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

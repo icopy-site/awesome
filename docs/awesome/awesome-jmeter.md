@@ -5,7 +5,37 @@ The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java applica
 
 This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
+## Contents
 
+- [Getting Started](#getting-started)
+- [Tutorials](#tutorials)
+- [Books](#books)    
+- [Trainings & Courses](#trainings--courses)
+- [Best Practices](#best-practices)
+- [Scripting](#scripting)
+- [DSL](#dsl)
+- [Distributions](#distributions)
+- [Plugins](#plugins)
+- [CI](#ci)
+- [Distributed Testing](#distributed-testing)
+- [Cloud Services / SaaS](#cloud-services--saas)
+- [Monitoring](#monitoring)
+- [Results Analysis](#results-analysis)
+- [Results Visualisation](#results-visualisation)
+- [JMeter Performance](#jmeter-performance)
+- [Tips & Tricks](#tips--tricks)
+- [IDE Integration](#ide-integration)
+- [Performance Testing](#performance-testing)
+    - [Streaming Protocols](#streaming-protocols)
+    - [Mobile Apps](#mobile-apps)
+- [Community](#community)
+    - [Blogs](#blogs)
+    - [Forums](#forums)
+    - [News & Updates](#news--updates)
+    - [Twitter](#twitter)
+    - [Q&A](#qa)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Getting Started
@@ -251,14 +281,6 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 Contributions are welcome!
 Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/CONTRIBUTING.md) first.
-
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>resources/blob/master/CONTRIBUTING.md) first.
-
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>resources/blob/master/CONTRIBUTING.md) first.
 
 # License
 

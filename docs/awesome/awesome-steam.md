@@ -1,12 +1,31 @@
 # Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
 
 *Please read the [contribution guidelines](https://github.com/scholtzm/awesome-steam/blob/master/CONTRIBUTING.md) before contributing.*
 
 The purpose of this document is to provide a quick overview over existing packages (https://github.com/scholtzm/awesome-steam/blob/master/libraries, modules etc.) and resources available regarding Steam client automation and WebAPI usage. Whenever you need to start a new project, have a look at the list of packages and see if there is anything useful for your use case. If you need technical details or tutorials, check out the resources section.
 
+## Table of Contents
 
+- [Packages](#packages)
+  - [Node.js](#nodejs)
+  - [C#](#c)
+  - [PHP](#php)
+  - [Go](#go)
+  - [Python](#python)
+  - [C++](#c-1)
+  - [Java](#java)
+  - [Objective-C](#objective-c)
+  - [Ruby](#ruby)
 
+- [Resources](#resources)
+  - [General](#general-1)
+  - [Tutorials](#tutorials)
+  - [Posts](#posts)
+  - [Standalone Tools](#standalone-tools)
+  - [Discussion Boards](#discussion-boards)
+  - [Third-Party Services](#third-party-services)
 
 ## Packages
 
@@ -186,13 +205,5 @@ Websites listed below may provide free and/or paid services and are listed alpha
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work. related services.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.ivecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.

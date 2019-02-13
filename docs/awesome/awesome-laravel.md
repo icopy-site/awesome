@@ -4,7 +4,27 @@
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+## Table of Contents
 
+- [Essentials](#essentials)
+- [Packages](#packages)
+- [Popular Packages](#popular-packages)
+- [Development Setup](#development-setup)
+- [Application Hosting](#application-hosting)
+- [Application Deployment](#application-deployment)
+- [Code Snippets](#code-snippets)
+- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
+- [Videos](#videos)
+- [Conferences](#conferences)
+- [Books](#books)
+- [Starter Projects](#starter-projects)
+- [Codebases for Reference](#codebases-for-reference)
+- [Content Management Systems](#content-management-systems)
+- [Podcasts](#podcasts)
+- [Community](#community)
+- [Jobs](#jobs)
+- [Hosted Development Tools](#hosted-development-tools)
+- [Miscellaneous](#miscellaneous)
 
 ## Essentials
 
@@ -120,6 +140,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
+* [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 
 ##### Media & Document Management
 
@@ -418,6 +439,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
+## Content Management Systems
 
 * [OctoberCMS](https://github.com/octobercms/october)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
@@ -524,22 +546,6 @@ Found an awesome package, blog, course or video? Send me a pull request!
 * Please make an individual pull request for each suggestion
 * Make sure the Travis tests pass on your pull request
 * Use the following format for links: \[Resource\]\(https://github.com/chiraggude/awesome-laravel/blob/master/URL\)
-* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
-* New categories or improvements to the existing categorization are welcome
-
-## License
-
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).hub.com/chiraggude/awesome-laravel/blob/master/URL\)
-* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
-* New categories or improvements to the existing categorization are welcome
-
-## License
-
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).hub.com/chiraggude/awesome-laravel/blob/master/URL\)
 * Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
 * New categories or improvements to the existing categorization are welcome
 

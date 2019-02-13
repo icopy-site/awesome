@@ -10,6 +10,50 @@ A collection of useful .htaccess snippets, all in one place.
 ## Credits
 What we are doing here is mostly collecting useful snippets from all over the interwebs (https://github.com/phanan/htaccess/blob/master/for example, a good chunk is from [Apache Server Configs](https://github.com/phanan/htaccess/blob/master/https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
+## Table of Contents
+- [Rewrite and Redirection](#rewrite-and-redirection)
+    - [Force www](#force-www)
+    - [Force www in a Generic Way](#force-www-in-a-generic-way)
+    - [Force non-www](#force-non-www)
+    - [Force non-www in a Generic Way](#force-non-www-in-a-generic-way)
+    - [Force HTTPS](#force-https)
+    - [Force HTTPS Behind a Proxy](#force-https-behind-a-proxy)
+    - [Force Trailing Slash](#force-trailing-slash)
+    - [Remove Trailing Slash](#remove-trailing-slash)
+    - [Redirect a Single Page](#redirect-a-single-page)
+    - [Redirect Using RedirectMatch](#redirect-using-redirectmatch)
+    - [Alias a Single Directory](#alias-a-single-directory)
+    - [Alias Paths to Script](#alias-paths-to-script)
+    - [Redirect an Entire Site](#redirect-an-entire-site)
+    - [Alias "Clean" URLs](#alias-clean-urls)
+    - [Exclude a URL from Redirection](#exclude-url-from-redirection)
+- [Security](#security)
+    - [Deny All Access](#deny-all-access)
+    - [Deny All Access Except Yours](#deny-all-access-except-yours)
+    - [Allow All Access Except Spammers'](#allow-all-access-except-spammers)
+    - [Deny Access to Hidden Files and Directories](#deny-access-to-hidden-files-and-directories)
+    - [Deny Access to Backup and Source Files](#deny-access-to-backup-and-source-files)
+    - [Disable Directory Browsing](#disable-directory-browsing)
+    - [Disable Image Hotlinking](#disable-image-hotlinking)
+    - [Disable Image Hotlinking for Specific Domains](#disable-image-hotlinking-for-specific-domains)
+    - [Password Protect a Directory](#password-protect-a-directory)
+    - [Password Protect a File or Several Files](#password-protect-a-file-or-several-files)
+    - [Block Visitors by Referrer](#block-visitors-by-referrer)
+    - [Prevent Framing the Site](#prevent-framing-the-site)
+- [Performance](#performance)
+    - [Compress Text Files](#compress-text-files)
+    - [Set Expires Headers](#set-expires-headers)
+    - [Turn eTags Off](#turn-etags-off)
+- [Miscellaneous](#miscellaneous)
+    - [Set PHP Variables](#set-php-variables)
+    - [Custom Error Pages](#custom-error-pages)
+    - [Force Downloading](#force-downloading)
+    - [Prevent Downloading](#prevent-downloading)
+    - [Allow Cross-Domain Fonts](#allow-cross-domain-fonts)
+    - [Auto UTF-8 Encode](#auto-utf-8-encode)
+    - [Switch to Another PHP Version](#switch-to-another-php-version)
+    - [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
+    - [Serve WebP Images](#serve-webp-images)
 
 ## Rewrite and Redirection
 Note: It is assumed that you have `mod_rewrite` installed and enabled.
@@ -484,22 +528,6 @@ Compatibility View in IE may affect how some websites are displayed. The followi
 
 ### Serve WebP Images
 If [WebP images](https://developers.google.com/speed/webp/?csw=1) are supported and an image with a .webp extension and the same name is found at the same place as the jpg/png image that is going to be served, then the WebP image is served instead.
-
-``` apacheconf
-RewriteEngine On
-RewriteCond %{HTTP_ACCEPT} image/webp
-RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
-RewriteRule (https://github.com/phanan/htaccess/blob/master/.+)\.(https://github.com/phanan/htaccess/blob/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
-```
-[Source](https://github.com/vincentorback/WebP-images-with-htaccess)extension and the same name is found at the same place as the jpg/png image that is going to be served, then the WebP image is served instead.
-
-``` apacheconf
-RewriteEngine On
-RewriteCond %{HTTP_ACCEPT} image/webp
-RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
-RewriteRule (https://github.com/phanan/htaccess/blob/master/.+)\.(https://github.com/phanan/htaccess/blob/master/jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
-```
-[Source](https://github.com/vincentorback/WebP-images-with-htaccess)extension and the same name is found at the same place as the jpg/png image that is going to be served, then the WebP image is served instead.
 
 ``` apacheconf
 RewriteEngine On

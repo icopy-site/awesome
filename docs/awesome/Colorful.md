@@ -6,6 +6,12 @@
 __A curated list of awesome resources to choose your next color scheme.__
 Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
+## Table of Contents
+- [Tools](#tools)
+  - [Libraries](#libraries)
+  - [Web App](#web-app)
+- [Color Palettes](#color-palettes)
+- [Articles](#articles)
 
 ## Tools
 
@@ -116,4 +122,4 @@ Inspired by the __[awesome](https://github.com/Siddharth11/Colorful/blob/master/
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).redits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).redits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

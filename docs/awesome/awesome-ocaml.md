@@ -13,7 +13,45 @@ For a quick intorduction to the modern OCaml development workflow consult the [*
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
+## Contents
 
+- [Community](#community)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Application Libraries](#application-libraries)
+- [Benchmarking](#benchmarking)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Code Analysis and Linters](#code-analysis-and-linters)
+- [Compilers and Compiler Tools](#compilers-and-compiler-tools)
+- [Concurrency](#concurrency)
+- [Databases](#databases)
+- [Datetime](#datetime)
+- [Developer Tools](#developer-tools)
+- [Exercises](#exercises)
+- [Formal Software Verification](#formal-software-verification)
+- [General](#general)
+- [Graphics](#graphics)
+- [User Interface](#user-interface)
+- [Language-related](#language-related)
+- [Logging](#logging)
+- [Messaging](#messaging)
+- [Metaprogramming](#metaprogramming)
+- [Metrics](#metrics)
+- [Mobile Applications](#mobile-applications)
+- [Networking](#networking)
+- [Online Courses](#online-courses)
+- [Package Management](#package-management)
+- [Parallelism](#parallelism)
+- [Questions](#questions)
+- [Regular Expressions](#regular-expressions)
+- [Science and Technical Computing](#science-and-technical-computing)
+- [Security and Cryptography](#security-and-cryptography)
+- [Semantic Technology](#semantic-technology)
+- [Serialization](#serialization)
+- [System Programming](#system-programming)
+- [Testing](#testing)
+- [Utilities](#utilities)
+- [Web Development](#web-development)
 
 * * *
 
@@ -496,22 +534,6 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
   - [Markup.ml](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-
-- **Open Source Projects**:
-  - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
-
-* * *
-
-_Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._n/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
-
-- **Open Source Projects**:
-  - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
-
-* * *
-
-_Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._n/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
   - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
 
 - **Open Source Projects**:

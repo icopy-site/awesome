@@ -6,7 +6,23 @@
 
 [FRC](https://www.firstinspires.org/robotics/frc) is a global High School robotics competition in which students compete to build the best robot possible in just six weeks. These tools, resources, communities, and learning materials will help make your FRC season a blast.
 
+## Contents
 
+- [General](#general)
+- [Programming](#programming)
+- [Vision](#vision)
+- [Scouting](#scouting)
+- [Driving](#driving)
+- [Community](#community)
+- [Repositories](#repositories)
+  - [Java](#java)
+  - [C++](#c)
+  - [C#](#c-1)
+  - [Python](#python)
+  - [CSS](#css)
+  - [Ruby](#ruby)
+- [Videos](#videos)
+- [Miscellaneous](#miscellaneous)
 
 ## General
 
@@ -86,4 +102,4 @@
 
 - [FIRST Map](https://firstmap.github.io) - Beautiful map of the world's FRC teams.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or show the team with a number corresponding to the current time.
-- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.atBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.ook Messenger bot to get information about FRC teams, events, and matches.
+- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.

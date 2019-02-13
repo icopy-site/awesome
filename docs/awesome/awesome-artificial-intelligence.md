@@ -6,7 +6,20 @@ Contributions most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
+## Contents
 
+1. [Courses](#courses)
+2. [Books](#books)
+3. [Programming](#programming)
+4. [Philosophy](#philosophy)
+5. [Free Content](#free-content)
+6. [Code](#code)
+7. [Videos](#videos)
+8. [Learning](#learning)
+9. [Organizations](#organizations)
+10. [Journals](#journals)
+11. [Competitions](#competitions)
+12. [Misc](#misc)
 
 
 ## Courses
@@ -59,12 +72,14 @@ Contributions most welcome.
 * [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
+## Free Content
 
 * [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest For Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence/blob/master/http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (https://github.com/owainlewis/awesome-artificial-intelligence/blob/master/and earlier) pioneers to the more successful work of today's AI engineers.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
+* [Artificial Intelligence and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
@@ -134,6 +149,7 @@ Contributions most welcome.
 * [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
 * [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
 * [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
 * [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
@@ -161,9 +177,5 @@ Contributions most welcome.
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighboring rights to this work.domain/zero/1.0/)
-
-To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighboring rights to this work.domain/zero/1.0/)
 
 To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighboring rights to this work.

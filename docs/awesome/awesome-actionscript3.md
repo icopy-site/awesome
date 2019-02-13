@@ -8,7 +8,18 @@
 
 Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
+## Contents
 
+* [Development Tools](#development-tools)
+* [Frameworks](#frameworks)
+* [User Interface](#user-interface)
+* [Multimedia](#multimedia)
+* [Database](#database)
+* [File Formats](#file-formats)
+* [Networking](#networking)
+* [Utilities](#utilities)
+* [Runtimes](#runtimes)
+* [AIR Native Extensions](#air-native-extensions)
 	
 
 ## Development Tools
@@ -16,6 +27,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Code Editors
 * [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more.
+* [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content.
 * [Adobe Flash Builder](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (https://github.com/robinrodricks/awesome-actionscript3/blob/master/with advanced debugging tools).
 * [Moonshine IDE](http://moonshine-ide.com/) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache FlexJS® and Feathers development with Cloud and Desktop support.
 * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - Commercial IDE that supports many different languages including AS3
@@ -401,6 +413,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### XML
 
 * [XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript.
+* [DynamicXMLParser](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (https://github.com/robinrodricks/awesome-actionscript3/blob/master/actionscript 3).
 * [Nudge](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML.
 * [AStream](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/kokorin/AStream) - XML to Object (https://github.com/robinrodricks/awesome-actionscript3/blob/master/and vice versa) mapping library written in AS3. Compatible with XStream.
 
@@ -591,6 +604,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### File System ANE
 * [FileChooser](https://github.com/myflashlab/fileChooser-ANE) - Enable users to select a file from the device filesystem.
 * [ZipManager](https://github.com/myflashlab/zipManager-ANE) - Zip or unzip large zip archives super fast using native process on Android and iOS.
+* [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - Integrate with iOS 9 Spotlight Search, to index search items and user generated content.
 
 #### Networking ANE
 * [Firebase](https://github.com/myflashlab/Firebase-ANE) - API for Google Firebase on Android and iOS with 100% identical ActionScript API.
@@ -630,12 +644,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - Google Game Services for Android+iOS.
 * [MoPub](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
 * [UMAnalytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
-* [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
-* [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
-* [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.e-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
-* [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
-* [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
-* [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.e-actionscript3/blob/master/https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS and Android).
 * [Localytics](https://github.com/robinrodricks/awesome-actionscript3/blob/master/https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (https://github.com/robinrodricks/awesome-actionscript3/blob/master/iOS & Android).
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.

@@ -5,6 +5,84 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Contributing and Collaborating
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
+## Table of Contents
+- [Awesome PHP](#awesome-php)
+    - [Composer Repositories](#composer-repositories)
+    - [Dependency Management](#dependency-management)
+    - [Dependency Management Extras](#dependency-management-extras)
+    - [Frameworks](#frameworks)
+    - [Framework Extras](#framework-extras)
+    - [Components](#components)
+    - [Micro Frameworks](#micro-frameworks)
+    - [Micro Framework Extras](#micro-framework-extras)
+    - [Routers](#routers)
+    - [Templating](#templating)
+    - [Static Site Generators](#static-site-generators)
+    - [HTTP](#http)
+    - [Middlewares](#middlewares)
+    - [URL](#url)
+    - [Email](#email)
+    - [Files](#files)
+    - [Streams](#streams)
+    - [Dependency Injection](#dependency-injection)
+    - [Imagery](#imagery)
+    - [Testing](#testing)
+    - [Continuous Integration](#continuous-integration)
+    - [Documentation](#documentation)
+    - [Security](#security)
+    - [Passwords](#passwords)
+    - [Code Analysis](#code-analysis)
+    - [Code Quality](#code-quality)
+    - [Static Analysis](#static-analysis)
+    - [Architectural](#architectural)
+    - [Debugging and Profiling](#debugging-and-profiling)
+    - [Build Tools](#build-tools)
+    - [Task Runners](#task-runners)
+    - [Navigation](#navigation)
+    - [Asset Management](#asset-management)
+    - [Geolocation](#geolocation)
+    - [Date and Time](#date-and-time)
+    - [Event](#event)
+    - [Logging](#logging)
+    - [E-commerce](#e-commerce)
+    - [PDF](#pdf)
+    - [Office](#office)
+    - [Database](#database)
+    - [Migrations](#migrations)
+    - [NoSQL](#nosql)
+    - [Queue](#queue)
+    - [Search](#search)
+    - [Command Line](#command-line)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Markup](#markup)
+    - [Strings](#strings)
+    - [Numbers](#numbers)
+    - [Filtering and Validation](#filtering-and-validation)
+    - [API](#api)
+    - [Caching](#caching)
+    - [Data Structure and Storage](#data-structure-and-storage)
+    - [Notifications](#notifications)
+    - [Deployment](#deployment)
+    - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [Third Party APIs](#third-party-apis)
+    - [Extensions](#extensions)
+    - [Miscellaneous](#miscellaneous)
+- [Software](#software)
+    - [PHP Installation](#php-installation)
+    - [Development Environment](#development-environment)
+    - [Virtual Machines](#virtual-machines)
+    - [Text Editors and IDEs](#text-editors-and-ides)
+    - [Web Applications](#web-applications)
+    - [Infrastructure](#infrastructure)
+- [Resources](#resources)
+    - [PHP Websites](#php-websites)
+    - [Other Websites](#other-websites)
+    - [PHP Books](#php-books)
+    - [PHP Videos](#php-videos)
+    - [PHP Podcasts](#php-podcasts)
+    - [PHP Reading](#php-reading)
+    - [PHP Internals Reading](#php-internals-reading)
+- [Contributing](#contributing)
 
 ### Composer Repositories
 *Composer Repositories.*
@@ -52,6 +130,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CakePHP CRUD](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/friendsofcake/crud) - A Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) plugin for CakePHP.
 * [Knp RAD Components](https://github.com/ziadoz/awesome-php/blob/master/http://rad.knplabs.com/) - A set of Rapid Application Development (https://github.com/ziadoz/awesome-php/blob/master/RAD) components for Symfony.
+* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -103,6 +182,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ### Static Site Generators
+*Tools for pre-processing content to generate web pages.*
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
@@ -568,6 +648,7 @@ Libraries to help manage database schemas and migrations.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [HAL](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/blongden/hal) - A Hypertext Application Language (https://github.com/ziadoz/awesome-php/blob/master/HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
+* [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
@@ -658,6 +739,7 @@ Libraries to help manage database schemas and migrations.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP-ML](https://github.com/php-ai/php-ml) - A library for Machine Learning in PHP.
+* [PHPCR](https://github.com/ziadoz/awesome-php/blob/master/https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (https://github.com/ziadoz/awesome-php/blob/master/JCR).
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
@@ -841,18 +923,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Why Objects (https://github.com/ziadoz/awesome-php/blob/master/Usually) Use Less Memory Than Arrays](https://github.com/ziadoz/awesome-php/blob/master/https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
-* PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-
-### PHP Magazines
-*Fantastic PHP-related magazines.*
-
-* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.cting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
-* PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-
-### PHP Magazines
-*Fantastic PHP-related magazines.*
-
-* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.cting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 
 ### PHP Magazines

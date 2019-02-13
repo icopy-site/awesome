@@ -6,7 +6,30 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 <h1 align="center"><a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">Looking for new maintainers</a></h1>
 
+## Table of Contents
 
+- [Audio](#audio)
+- [Books](#books)
+- [Calendar and Scheduling](#calendar-and-scheduling)
+- [Images](#images)
+- [Maps](#maps)
+- [Presentations](#presentations)
+- [Video](#video)
+- [Code](#code)
+- [Functions as a Service FaaS](#functions-as-a-service)
+- [Community](#community)
+  - [Comments](#comments)
+  - [Forms](#forms)
+  - [Live Chat](#live-chat)
+  - [Newsletters](#newsletters)
+  - [Social Media](#social-media)
+  - [Surveys](#surveys)
+- [E-Commerce](#e-commerce)
+- [Payments](#payments)
+- [Search](#search)
+- [Analytics](#analytics)
+- [Other](#other)
+- [Related Lists](#related-lists)
 
 ---
 
@@ -188,9 +211,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work..org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work..org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.

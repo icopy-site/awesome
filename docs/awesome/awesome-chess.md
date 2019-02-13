@@ -9,6 +9,15 @@ Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-ch
 
 Content
 ---
+ - [Books](#books)
+ - [FEN Parsers](#fen-parsers)
+ - [Move Validators](#move-validators)
+ - [Bots](#bots)
+ - [Websites](#websites)
+ - [Boards](#boards)
+ - [Board Notations](#board-notations)
+ - [Pieces](#pieces)
+ - [Talks](#talks)
 
 Books
 ---
@@ -95,8 +104,4 @@ Talks
  - [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
  - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
  - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
- - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)utube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
- - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
- - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
- - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)alk on why chess is boring by Bobby Fischer
  - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)

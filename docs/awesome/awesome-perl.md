@@ -13,7 +13,55 @@ We also recommend these lists.
 * [Slaven's CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
 * Many Task::** Modules. (https://github.com/hachiojipm/awesome-perl/blob/master/ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
+### Contents
 
+- [Awesome Perl](#awesome-perl)
+    - [Args](#args)
+    - [Audio](#audio)
+    - [Benchmarks](#benchmarks)
+    - [Caches](#caches)
+    - [Class Builder](#class-builder)
+    - [CLI](#cli)
+    - [Cloud](#cloud)
+    - [Commercial WebServices](#commercial-webservices)
+    - [Container](#container)
+    - [Data Format](#data-format)
+    - [Database](#database)
+    - [Database Drivers](#database-drivers)
+        - [Relational Databases](#relational-databases)
+        - [NoSQL Databases](#nosql-databases)
+    - [Date & Time](#date--time)
+    - [Devices](#devices)
+    - [DevOps](#devops-tools)
+    - [Email](#email)
+    - [Event Loops](#event-loops)
+    - [Exception Handling](#exception-handling)
+    - [File Manipulation](#file-manipulation)
+    - [Form Frameworks](#form-frameworks)
+    - [Images](#images)
+    - [List Manipulation](#list-manipulation)
+    - [Logging](#logging)
+    - [Module Development](#module-development)
+    - [Network](#network)
+    - [ORM](#orm)
+    - [Package Management](#package-management)
+    - [Processes and Threads](#processes-and-threads)
+    - [Profiling](#profiling)
+    - [Protocol](#protocol)
+    - [Queueing](#queueing)
+    - [REST Frameworks](#rest-frameworks)
+    - [Science/Numerics](#sciencenumerics)
+    - [Template Engines](#template-engines)
+    - [Testing](#testing)
+        - [Testing Frameworks](#testing-frameworks)
+        - [Test Double](#test-double)
+        - [Coverage](#coverage)
+    - [Tools](#tools)
+    - [Video](#video)
+    - [Web Frameworks](#web-frameworks)
+        - [Middlewares](#middlewares)
+    - [Web Frameworks-Like](#web-frameworks-like)
+    - [Web Scraping](#web-scraping)
 
 ## Args
 
@@ -463,22 +511,6 @@ We also recommend these lists.
 Other amazingly awesome lists can be found in:
 
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-
-# How to contribute?
-
-Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)b.com/bayandin/awesome-awesomeness)
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-
-# How to contribute?
-
-Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)b.com/bayandin/awesome-awesomeness)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)

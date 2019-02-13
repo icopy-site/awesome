@@ -44,10 +44,27 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 + Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
 
+## Contents
 
+* [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
+* [Optimization / Training Techniques](#optimization--training-techniques)
+* [Unsupervised / Generative Models](#unsupervised--generative-models)
+* [Convolutional Network Models](#convolutional-neural-network-models)
+* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
+* [Image / Video / Etc](#image--video--etc)
+* [Natural Language Processing / RNNs](#natural-language-processing--rnns)
+* [Speech / Other Domain](#speech--other-domain)
+* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
+* [More Papers from 2016](#more-papers-from-2016)
 
 *(https://github.com/terryum/awesome-deep-learning-papers/blob/master/More than Top 100)*
 
+* [New Papers](#new-papers) : Less than 6 months
+* [Old Papers](#old-papers) : Before 2012
+* [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
+* [Book / Survey / Review](#book--survey--review)
+* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
+* [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list
 
 * * *
 
@@ -55,6 +72,8 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 - **Distilling the knowledge in a neural network** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), G. Hinton et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), A. Nguyen et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1412.1897)
 - **How transferable are features in deep neural networks?** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), J. Yosinski et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+- **CNN features off-the-Shelf: An astounding baseline for recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), A. Razavian et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
+- **Learning and transferring mid-Level image representations using convolutional neural networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), M. Oquab et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 - **Visualizing and understanding convolutional networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), M. Zeiler and R. Fergus [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1311.2901)
 - **Decaf: A deep convolutional activation feature for generic visual recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), J. Donahue et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1310.1531)
 
@@ -63,6 +82,7 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 ### Optimization / Training Techniques
 - **Training very deep networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), R. Srivastava et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), S. Loffe and C. Szegedy [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1502.03167)
+- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), K. He et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), N. Srivastava et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - **Adam: A method for stochastic optimization** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), D. Kingma and J. Ba [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1412.6980)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2012), G. Hinton et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1207.0580.pdf)
@@ -81,10 +101,12 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 
 <!---[Key researchers] [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 ### Convolutional Neural Network Models
+- **Rethinking the inception architecture for computer vision** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), C. Szegedy et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
 - **Inception-v4, inception-resnet and the impact of residual connections on learning** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), C. Szegedy et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1602.07261)
 - **Identity Mappings in Deep Residual Networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), K. He et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1603.05027v2.pdf)
 - **Deep residual learning for image recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), K. He et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1512.03385)
 - **Spatial transformer network** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), M. Jaderberg et al., [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
+- **Going deeper with convolutions** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), C. Szegedy et al.  [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 - **Very deep convolutional networks for large-scale image recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), K. Simonyan and A. Zisserman [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1409.1556)
 - **Return of the devil in the details: delving deep into convolutional nets** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), K. Chatfield et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1405.3531)
 - **OverFeat: Integrated recognition, localization and detection using convolutional networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2013), P. Sermanet et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1312.6229)
@@ -95,7 +117,11 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 <!---[Key researchers]  [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Shaoqing Ren](https://scholar.google.ca/citations?hl=en&user=AUhj438AAAAJ), [Jian Sun](https://scholar.google.ca/citations?hl=en&user=ALVSZAYAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Yann LeCun](https://scholar.google.ca/citations?hl=en&user=WLN3QrAAAAAJ)-->
 
 ### Image: Segmentation / Object Detection
+- **You only look once: Unified, real-time object detection** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), J. Redmon et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+- **Fully convolutional networks for semantic segmentation** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), J. Long et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), S. Ren et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
+- **Fast R-CNN** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), R. Girshick [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+- **Rich feature hierarchies for accurate object detection and semantic segmentation** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), R. Girshick et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 - **Spatial pyramid pooling in deep convolutional networks for visual recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), K. He et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1406.4729)
 - **Semantic image segmentation with deep convolutional nets and fully connected CRFs**, L. Chen et al. [[pdf]](https://arxiv.org/pdf/1412.7062)
 - **Learning hierarchical features for scene labeling** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2013), C. Farabet et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
@@ -105,7 +131,12 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 ### Image / Video / Etc
 - **Image Super-Resolution Using Deep Convolutional Networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), C. Dong et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1501.00092v3.pdf)
 - **A neural algorithm of artistic style** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), L. Gatys et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1508.06576)
+- **Deep visual-semantic alignments for generating image descriptions** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), A. Karpathy and L. Fei-Fei [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
 - **Show, attend and tell: Neural image caption generation with visual attention** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), K. Xu et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1502.03044)
+- **Show and tell: A neural image caption generator** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), O. Vinyals et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
+- **Long-term recurrent convolutional networks for visual recognition and description** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), J. Donahue et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf)
+- **VQA: Visual question answering** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), S. Antol et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
+- **DeepFace: Closing the gap to human-level performance in face verification** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), Y. Taigman et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf):
 - **Large-scale video classification with convolutional neural networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), A. Karpathy et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://vision.stanford.edu/pdf/karpathy14.pdf)
 - **Two-stream convolutional networks for action recognition in videos** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), K. Simonyan et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 - **3D convolutional neural networks for human action recognition** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2013), S. Ji et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
@@ -119,6 +150,7 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 - **Exploring the limits of language modeling** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), R. Jozefowicz et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), K. Hermann et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 - **Effective approaches to attention-based neural machine translation** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), M. Luong et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1508.04025)
+- **Conditional random fields as recurrent neural networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2015), S. Zheng and S. Jayasumana. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf)
 - **Memory networks** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), J. Weston et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1410.3916)
 - **Neural turing machines** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), A. Graves et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1410.5401)
 - **Neural machine translation by jointly learning to align and translate** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2014), D. Bahdanau et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1409.0473)
@@ -171,6 +203,7 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 - **Eie: Efficient inference engine on compressed deep neural network** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), S. Han et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://arxiv.org/pdf/1602.01528)
 - **Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), M. Courbariaux et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1602.02830)
 - **Dynamic memory networks for visual and textual question answering** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), C. Xiong et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf)
+- **Stacked attention networks for image question answering** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), Z. Yang et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf)
 - **Hybrid computing using a neural network with dynamic external memory** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), A. Graves et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://www.gwern.net/docs/2016-graves.pdf)
 - **Google's neural machine translation system: Bridging the gap between human and machine translation** (https://github.com/terryum/awesome-deep-learning-papers/blob/master/2016), Y. Wu et al. [[pdf]](https://github.com/terryum/awesome-deep-learning-papers/blob/master/https://arxiv.org/pdf/1609.08144)
 
@@ -349,16 +382,6 @@ If you have any suggestions (https://github.com/terryum/awesome-deep-learning-pa
 ## Acknowledgement
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.buting.md) before you make a pull request.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.buting.md) before you make a pull request.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

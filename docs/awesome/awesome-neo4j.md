@@ -16,6 +16,35 @@ Maintained by [Neueda R&D](http://labs.neueda.com/).
 Table of Contents
 =================
 
+  * [Basics](#basics)
+  * [Connectors](#connectors)
+    * [Bolt](#bolt)
+    * [REST API](#rest-api)
+      * [Java](#java)
+      * [Ruby](#ruby)
+      * [Python](#python)
+      * [PHP](#php)
+      * [Other](#other)
+  * [Cloud](#cloud)
+  * [Packages](#packages)
+  * [Docker](#docker)
+  * [Full\-text search](#full-text-search)
+  * [Import](#import)
+  * [Benchmarking](#benchmarking)
+  * [Extensions](#extensions)
+  * [Stored Procedures](#stored-procedures)
+  * [Development](#development)
+  * [Editors](#editors)
+  * [Shell](#shell)
+  * [Visualization](#visualization)
+  * [Tools](#tools)
+  * [Resources](#resources)
+    * [Learn](#learn)
+    * [Certification](#certification)
+    * [Bolt](#bolt-1)
+    * [Books](#books)
+    * [Miscellaneous](#miscellaneous)
+  * [License](#license)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -187,28 +216,5 @@ Neo4j graph database.
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.simple, free online tool to visualize your graph data and database schema.
-
-## Learn
-
-- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
-- [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
-- [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
-
-## Certification
-
-- [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
-
-## Miscellaneous
-
-- [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
-- [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
-
-# License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.o/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.

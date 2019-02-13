@@ -1,5 +1,6 @@
 # Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A curated list of *SSH* [apps](#apps), [libraries](#libraries) and [resources](#resources).
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
@@ -9,7 +10,27 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 **Check out my [blog](http://manfredtouron.tumblr.com) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
 
+## Table of Contents
 
+- [Apps](#apps)
+  - [`.ssh/config`](#sshconfig)
+  - [Tools using the *SSH* protocol](#tools-using-the-ssh-protocol)
+  - [Servers](#servers)
+  - [Network](#network)
+  - [Multiplexers](#multiplexers)
+  - [SSH Keys / Authentication](#ssh-keys--authentication)
+  - [SSH agent](#ssh-agent)
+  - [Tools](#tools)
+  - [Automation](#automation)
+  - [Web](#web)
+  - [Testing / Honeypots](#testing--honeypots)
+  - [Alternatives to SSH](#alternatives-to-ssh)
+- [Libraries](#libraries)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Security](#security)
+  - [Documentation](#documentation)
+  - [Community](#community)
 
 ## Apps
 
@@ -166,9 +187,5 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.cdomain/zero/1.0/)
 
 To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.

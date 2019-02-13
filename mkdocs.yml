@@ -227,7 +227,6 @@ nav:
       - ML with Ruby: awesome/machine-learning-with-ruby.md
       - Core ML Models: awesome/Awesome-CoreML-Models.md
       - H2O: awesome/awesome-h2o.md
-    - Speech and Natural Language Processing: awesome/speech-language-processing.md
     - Speech and Natural Language Processing_sub: 
       - Spanish: awesome/awesome-spanish-nlp.md
       - NLP with Ruby: awesome/nlp-with-ruby.md
@@ -248,7 +247,6 @@ nav:
     - Information Retrieval: awesome/awesome-information-retrieval.md
   - Big Data:
     - Big Data: awesome/awesome-bigdata.md
-    - Public Datasets: awesome/awesome-public-datasets.md
     - Hadoop: awesome/awesome-hadoop.md
     - Data Engineering: awesome/awesome-data-engineering.md
     - Streaming: awesome/awesome-streaming.md
@@ -274,7 +272,6 @@ nav:
   - Editors:
     - Sublime Text: awesome/sublime-bookmarks.md
     - Vim: awesome/vim-galore.md
-    - Emacs: awesome/awesome-emacs.md
     - Atom: awesome/awesome-atom.md
     - Visual Studio Code: awesome/awesome-vscode.md
   - Gaming:
@@ -319,7 +316,6 @@ nav:
   - Databases:
     - Database: awesome/awesome-db.md
     - MySQL: awesome/awesome-mysql.md
-    - SQLAlchemy: awesome/awesome-sqlalchemy.md
     - InfluxDB: awesome/awesome-influxdb.md
     - Neo4j: awesome/awesome-neo4j.md
     - MongoDB: awesome/awesome-mongodb.md
@@ -365,7 +361,6 @@ nav:
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
-    - Textpattern: awesome/awesome-textpattern.md
     - Drupal: awesome/awesome-drupal.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
@@ -450,7 +445,6 @@ nav:
     - Vorpal: awesome/awesome-vorpal.md
     - Vulkan: awesome/awesome-vulkan.md
     - LaTeX: awesome/awesome-LaTeX.md
-    - Economics: awesome/awesome-economics.md
     - Funny Markov Chains: awesome/awesome-funny-markov.md
     - Bioinformatics: awesome/Awesome-Bioinformatics.md
     - Colorful: awesome/Colorful.md
@@ -525,7 +519,6 @@ theme:
 extra:
   search:
     language: 'en'
-  disqus: 'asm-en'
   copyright: 'CC BY-NC-SA 4.0'
 
 extra_javascript:
@@ -540,27 +533,6 @@ extra_css:
 markdown_extensions:
   - admonition
   - codehilite:
-      guess_lang: false
-  - def_list
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
       guess_lang: false
   - def_list
   - footnotes

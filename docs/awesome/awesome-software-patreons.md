@@ -4,7 +4,20 @@
 
 Help individual programmers or open source projects funding the development of your favorite software subscribing to their Patreon accounts. A tangible way to give back to the open source community.
 
+### Contents
 
+- [Open Source Projects](#open-source-projects)
+  - [Libraries](#libraries) 
+  - [Operating Systems](#operating-systems)
+  - [Games](#games)
+- [People Doing Open Source Work](#people-doing-open-source-work)
+- [Other Kinds of Content](#other-kinds-of-content)
+  - [Articles and Tutorials](#articles-and-tutorials)
+  - [Videos](#videos)
+  - [Podcasts](#podcasts)
+  - [Newsletters](#newsletters)
+- [Open Source Art](#open-source-art)
+- [Hardware related](#hardware-related)
 
 
 
@@ -169,6 +182,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Øyvind Kolås](https://www.patreon.com/pippin) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
 
 
+## Other kinds of content
 _Articles, videos, podcasts, etc..._
 
 ### Articles and Tutorials
@@ -232,16 +246,6 @@ _Hardware-related projects and makers._
 ## Contributing
 
 Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
-
-
-## License
-
-This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).ontributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
-
-
-## License
-
-This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).ontributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 
 ## License

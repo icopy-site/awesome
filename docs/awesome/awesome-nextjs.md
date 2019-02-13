@@ -8,6 +8,15 @@
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
+## Contents
+- [Community](#community)
+- [Essentials](#essentials)
+- [Articles](#articles)
+- [Boilerplates](#boilerplates)
+- [Extensions](#extensions)
+- [Apps](#apps)
+- [Books](#books)
+- [Videos](#videos)
 
 ## Community
 * [Slack](https://zeit.chat)
@@ -134,6 +143,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 **Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

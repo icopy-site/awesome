@@ -6,6 +6,15 @@ This list contains a variety of resources on diversity, more specifically divers
 
 **Always work in progress.**
 
+## Contents
+- [Organizations](#organizations)
+- [Events](#events)
+- [Ally Resources](#ally-resources)
+- [Actionable Resources](#actionable-resources)
+- [Posts](#posts)
+- [Talks](#talks)
+- [Advocates](#advocates)
+- [Books](#books)
 - [Diverse Figures in Tech History](https://github.com/folkswhocode/awesome-diversity/blob/master//FIGURES.md)
 
 ## Organizations
@@ -213,9 +222,5 @@ Please see [CONTRIBUTING](https://github.com/folkswhocode/awesome-diversity/blob
 This project is part of the [folkswhocode](https://github.com/folkswhocode) organization.
 This means that it adheres to its [core values](https://github.com/folkswhocode/base/blob/master/en/VALUES.md), [code of conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md) and
 [contributing guidelines](https://github.com/folkswhocode/awesome-diversity/blob/master/.github/CONTRIBUTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/LICENSE).
-
-Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).UTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/LICENSE).
-
-Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).UTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/LICENSE).
 
 Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).

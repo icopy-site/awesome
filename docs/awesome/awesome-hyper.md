@@ -2,6 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
+> A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
@@ -19,7 +20,15 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 
 -- /AWESOME ITEM TEMPLATE -->
 
+# Contents
 
+- [Packages](#packages)
+  - [Productivity](#productivity)
+  - [Customization](#customization)
+  - [Development](#development)
+  - [Fun](#fun)
+- [Themes](#themes)
+- [Resources](#resources)
 
 # Packages
 Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
@@ -60,6 +69,7 @@ Name and description | Downloads
 [hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line) - Status line showing the locally configured GCP project, GCE zone, and Kubernetes context, as well as current Google Cloud availability. | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 
+[⬆ Back to top](#contents)
 
 ## Customization
 
@@ -111,6 +121,7 @@ Name and description | Downloads
 [hyper-tab-touchbar](https://www.npmjs.com/package/hyper-tab-touchbar) - See and access your terminal tabs from the MacBook Pro Touchbar. Supports icons with `hyper-folder-icon`. | [![npm](https://img.shields.io/npm/dm/hyper-tab-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-tab-touchbar)
 [hyper-opacity](https://www.npmjs.com/package/hyper-opacity) - Set the opacity of your Hyper window. | [![npm](https://img.shields.io/npm/dm/hyper-opacity.svg?label=DL)](https://www.npmjs.com/package/hyper-opacity)
 
+[⬆ Back to top](#contents)
 
 ## Development
 
@@ -120,6 +131,7 @@ Name and description | Downloads
 [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on Hyper. | [![npm](https://img.shields.io/npm/dm/hyperterm-install-devtools.svg?label=DL)](https://www.npmjs.com/package/hyperterm-install-devtools)
 [is-hyper](https://www.npmjs.com/package/is-hyper) - Check if your Node.js script is running in Hyper. | [![npm](https://img.shields.io/npm/dm/is-hyper.svg?label=DL)](https://www.npmjs.com/package/is-hyper)
 
+[⬆ Back to top](#contents)
 
 ## Fun
 Name and description | Downloads
@@ -137,6 +149,7 @@ Name and description | Downloads
 [hyper-postprocessing](https://www.npmjs.com/package/hyper-postprocessing) - Add fragment shaders to the Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-postprocessing.svg?label=DL)](https://www.npmjs.com/package/hyper-postprocessing)
 [git-falcon9](https://www.npmjs.com/package/git-falcon9) - Launch and land SpaceX's Falcon rockets when pushing and pulling code with git! | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
 
+[⬆ Back to top](#contents)
 
 # Themes
 
@@ -249,6 +262,7 @@ Name and description | Downloads
 
 Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
+[⬆ Back to top](#contents)
 
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
@@ -257,9 +271,5 @@ Know of another really awesome theme? [Get it on awesome-hyper!](https://github.
 * [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
 * [Carbon](https://carbon.now.sh/) is a tool to easily create Hyper-based screenshots.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
-emes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
-* [Carbon](https://carbon.now.sh/) is a tool to easily create Hyper-based screenshots.
-* Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
-/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
-* [Carbon](https://carbon.now.sh/) is a tool to easily create Hyper-based screenshots.
-* Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
+
+[⬆ Back to top](#contents)

@@ -10,6 +10,15 @@ We are just getting started with this list, so pull requests are very much appre
 
 If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
+## Contents
+- [Blog Posts & Tutorials](#blog-posts--tutorials)
+- [Books](#books)
+- [Research Papers](#research-papers)
+- [Benchmarks](#benchmarks)
+- [Presentations](#presentations)
+- [Courses](#courses)
+- [Utilities](#utilities)
+- [License](#license)
 
 ## Blog Posts & Tutorials
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) Dec 03, 2018
@@ -89,4 +98,4 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyright and related or neighboring rights to this work.

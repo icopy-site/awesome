@@ -11,6 +11,16 @@ Feel free to send a PR :)
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
+# Contents
+   * [Source Code Repos](#source-code-repos)
+   * [IDE](#ide)
+   * [Collaboration Tools](#collaboration-tools)
+   * [Code Quality](#code-quality)
+   * [CI / CD](#ci--cd)
+   * [Security and PKI](#security-and-pki)
+   * [Bug trackers](#bug-trackers)
+   * [Project management](#project-management)
+   * [PaaS](#paas)
    * [ADN(https://github.com/tvvocold/FOSS-for-Dev/blob/master/Application Delivery Networking)](https://github.com/tvvocold/FOSS-for-Dev/blob/master/#adn)
 
 
@@ -68,14 +78,6 @@ Feel free to send a PR :)
 ## PaaS
 
  * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
-
-## ADN 
-  
- and manage your applications with Docker and Kubernetes
-
-## ADN 
-  
- and manage your applications with Docker and Kubernetes
 
 ## ADN 
   

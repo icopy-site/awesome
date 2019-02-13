@@ -7,7 +7,30 @@ A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShe
 PowerShell is a cross-platform (https://github.com/janikvonrotz/awesome-powershell/blob/master/Windows, Linux, and macOS) automation and configuration tool that is optimized for dealing with structured data (https://github.com/janikvonrotz/awesome-powershell/blob/master/e.g. JSON, CSV, XML, etc.), REST APIs, and object models.
 It includes a command-line shell and an associated scripting language.
 
+## Contents
 
+* [API Wrapper](#api-wrapper)
+* [Blogs](#blogs)
+* [Books](#books)
+* [Build Tools](#build-tools)
+* [Code and Package Repositories](#code-and-package-repositories)
+* [Commandline Productivity](#commandline-productivity)
+* [Communities](#communities)
+* [Documentation Helper](#documentation-helper)
+* [Frameworks](#frameworks)
+* [Editors and IDEs](#editors-and-ides)
+* [Module Development Templates](#module-development-templates)
+* [Package Managers](#package-managers)
+* [Parallel Processing](#parallel-processing)
+* [Podcasts](#podcasts)
+* [Security](#security)
+* [Testing](#testing)
+* [Themes](#themes)
+* [Videos](#videos)
+* [Webserver](#webserver)
+* [SharePoint](#sharepoint)
+* [SQL Server](#sql-server)
+* [Misc](#misc)
 
 ## API Wrapper
 
@@ -72,6 +95,7 @@ It includes a command-line shell and an associated scripting language.
 - [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 - [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
+- [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
 
 ## Documentation Helper
 
@@ -173,9 +197,5 @@ It includes a command-line shell and an associated scripting language.
 - [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 - [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
-  Useful for security research, testing and quick hacks.
-- [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. g.
-  Useful for security research, testing and quick hacks.
-- [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. g.
   Useful for security research, testing and quick hacks.
 - [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 

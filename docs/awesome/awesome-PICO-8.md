@@ -9,7 +9,20 @@
 
  PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
+## Contents
 
+- [Community](#community)
+- [Resources](#resources)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
+- [Text Editors Language Support](#text-editors-language-support)
+- [Hacks](#hacks---undocumented-pico-8-features)
+- [Articles & Posts](#articles--posts)
+- [Podcasts](#podcasts)
+- [Talks](#talks)
+- [Clones](#clones)
+- [Contributing](#i-want-to-contribute)
+- [License](#license)
 
 ## Community
 
@@ -131,9 +144,5 @@ Please, read the [contribution guidelines](https://github.com/felipebueno/awesom
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Felipe Bueno](https://twitter.com/felipebueno) has waived all copyright and related or neighboring rights to this work.
-
-See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.hboring rights to this work.
-
-See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.hboring rights to this work.
 
 See [LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.

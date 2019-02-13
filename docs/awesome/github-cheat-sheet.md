@@ -5,6 +5,77 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 *Read this in other languages: [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
+## Table of Contents
+  - [GitHub](#github)
+    - [Ignore Whitespace](#ignore-whitespace)
+    - [Adjust Tab Space](#adjust-tab-space)
+    - [Commit History by Author](#commit-history-by-author)
+    - [Cloning a Repository](#cloning-a-repository)
+    - [Branch](#branch)
+      - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
+      - [Comparing Branches](#comparing-branches)
+      - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
+    - [Gists](#gists)
+    - [Git.io](#gitio)
+    - [Keyboard Shortcuts](#keyboard-shortcuts)
+    - [Line Highlighting in Repositories](#line-highlighting-in-repositories)
+    - [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
+    - [Cross-Link Issues](#cross-link-issues)
+    - [Locking Conversations](#locking-conversations)
+    - [CI Status on Pull Requests](#ci-status-on-pull-requests)
+    - [Filters](#filters)
+    - [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
+    - [Emojis](#emojis)
+    - [Images/GIFs](#imagesgifs)
+      - [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
+    - [Quick Quoting](#quick-quoting)
+    - [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
+    - [Quick Licensing](#quick-licensing)
+    - [Task Lists](#task-lists)
+      - [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
+    - [Relative Links](#relative-links)
+    - [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
+    - [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
+    - [Rendering Tabular Data](#rendering-tabular-data)
+    - [Rendering PDF](#rendering-pdf)
+    - [Revert a Pull Request](#revert-a-pull-request)
+    - [Diffs](#diffs)
+      - [Rendered Prose Diffs](#rendered-prose-diffs)
+      - [Diffable Maps](#diffable-maps)
+      - [Expanding Context in Diffs](#expanding-context-in-diffs)
+      - [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
+      - [Rendering and diffing images](#rendering-and-diffing-images)
+    - [Hub](#hub)
+    - [Contribution Guidelines](#contribution-guidelines)
+      - [CONTRIBUTING file](#contributing-file)
+      - [ISSUE_TEMPLATE file](#issue_template-file)
+      - [PULL_REQUEST_TEMPLATE file](#pull_request_template-file)
+    - [Octicons](#octicons)
+    - [GitHub Student Developer Pack](#github-student-developer-pack)
+    - [GitHub Resources](#github-resources)
+      - [GitHub Talks](#github-talks)
+    - [SSH keys](#ssh-keys)
+  - [Git](#git)
+    - [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
+    - [Previous Branch](#previous-branch)
+    - [Stripspace](#stripspace)
+    - [Checking out Pull Requests](#checking-out-pull-requests)
+    - [Empty Commits](#empty-commits)
+    - [Styled Git Status](#styled-git-status)
+    - [Styled Git Log](#styled-git-log)
+    - [Git Query](#git-query)
+    - [Git Grep](#git-grep)
+    - [Merged Branches](#merged-branches)
+    - [Fixup and Autosquash](#fixup-and-autosquash)
+    - [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
+    - [Git Configurations](#git-configurations)
+      - [Aliases](#aliases)
+      - [Auto-Correct](#auto-correct)
+      - [Color](#color)
+    - [Git Resources](#git-resources)
+      - [Git Books](#git-books)
+      - [Git Videos](#git-videos)
+      - [Git Articles](#git-articles)
 
 ## GitHub
 ### Ignore Whitespace
@@ -403,6 +474,7 @@ In full Markdown documents **read-only** checklists can now be added using the f
 Relative links are recommended in your Markdown files when linking to internal content.
 
 ```markdown
+[Link to a header](#awesome-section)
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
 ```
 
@@ -413,6 +485,7 @@ Absolute links have to be updated whenever the URL changes (https://github.com/t
 ### Metadata and Plugin Support for GitHub Pages
 Within Jekyll pages and posts, repository information is available within the `site.github` namespace, and can be displayed, for example, using `{{ site.github.project_title }}`.
 
+The Jemoji and jekyll-mentions plugins enable [emoji](#emojis) and [@mentions](https://github.com/blog/821) in your Jekyll posts and pages to work just like you'd expect when interacting with a repository on GitHub.com.
 
 [*Read more about repository metadata and plugin support for GitHub Pages.*](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
@@ -491,6 +564,13 @@ index 88fcf69..8614873 100644
 --- a/README.md
 +++ b/README.md
 @@ -28,6 +28,7 @@ All the hidden and not hidden features of Git and GitHub. This cheat sheet was i
+ - [Merged Branches](#merged-branches)
+ - [Quick Licensing](#quick-licensing)
+ - [TODO Lists](#todo-lists)
++- [Relative Links](#relative-links)
+ - [.gitconfig Recommendations](#gitconfig-recommendations)
+     - [Aliases](#aliases)
+     - [Auto-correct](#auto-correct)
 @@ -381,6 +382,19 @@ When they are clicked, they will be updated in the pure Markdown:
  - [ ] Sleep
 
@@ -958,50 +1038,6 @@ $ git config --global color.ui 1
 | Pro Git | http://git-scm.com/book |
 | Git Internals PluralSight | https://github.com/pluralsight/git-internals-pdf |
 | Git in the Trenches | http://cbx33.github.io/gitt/ |
-| Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
-| Pragmatic Guide to Git | https://pragprog.com/titles/pg_git/pragmatic-guide-to-git |
-| Git: Version Control for Everyone | https://www.packtpub.com/application-development/git-version-control-everyone |
-
-#### Git Videos
-| Title | Link |
-| ----- | ---- |
-| Linus Torvalds on Git | https://www.youtube.com/watch?v=4XpnKHJAok8 |
-| Introduction to Git with Scott Chacon | https://www.youtube.com/watch?v=ZDR433b0HJY |
-| Git From the Bits Up | https://www.youtube.com/watch?v=MYP56QJpDr4 |
-| Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g |
-| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
-
-#### Git Articles
-| Title | Link |
-| ----- | ---- |
-| GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |ub.io/learnGitBranching/ |
-| A collection of useful .gitignore templates | https://github.com/github/gitignore |
-| Unixorn's git-extra-commands collection of git scripts | https://github.com/unixorn/git-extra-commands |
-
-#### Git Books
-| Title | Link |
-| ----- | ---- |
-| Pragmatic Version Control Using Git | https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
-| Pro Git | http://git-scm.com/book |
-| Git Internals PluralSight | https://github.com/pluralsight/git-internals-pdf |
-| Git in the Trenches | http://cbx33.github.io/gitt/ |
-| Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
-| Pragmatic Guide to Git | https://pragprog.com/titles/pg_git/pragmatic-guide-to-git |
-| Git: Version Control for Everyone | https://www.packtpub.com/application-development/git-version-control-everyone |
-
-#### Git Videos
-| Title | Link |
-| ----- | ---- |
-| Linus Torvalds on Git | https://www.youtube.com/watch?v=4XpnKHJAok8 |
-| Introduction to Git with Scott Chacon | https://www.youtube.com/watch?v=ZDR433b0HJY |
-| Git From the Bits Up | https://www.youtube.com/watch?v=MYP56QJpDr4 |
-| Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g |
-| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
-
-#### Git Articles
-| Title | Link |
-| ----- | ---- |
-| GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |renches | http://cbx33.github.io/gitt/ |
 | Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
 | Pragmatic Guide to Git | https://pragprog.com/titles/pg_git/pragmatic-guide-to-git |
 | Git: Version Control for Everyone | https://www.packtpub.com/application-development/git-version-control-everyone |

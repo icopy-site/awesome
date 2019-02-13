@@ -8,7 +8,22 @@
 
 [CircuitPython](https://github.com/adafruit/awesome-circuitpython/blob/master/https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (https://github.com/adafruit/awesome-circuitpython/blob/master/what Arduino uses for programming). It's great for beginners!
 
+## Contents
 
+- [Guides](#guides)
+- [Community](#community)
+- [Books](#books)
+- [Code](#code)
+- [Frameworks](#frameworks)
+- [Hardware](#hardware)
+- [Newsletter](#newsletter)
+- [In the news](#news)
+- [Art, logos, graphics](#art)
+- [Social media](#social)
+- [Podcasts](#podcasts)
+- [Events](#events)
+- [Swag](#swag)
+- [Contributing](#contributing)
 
 ## Guides
 
@@ -128,9 +143,5 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 ## License & Trademarks
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.o/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.o/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.

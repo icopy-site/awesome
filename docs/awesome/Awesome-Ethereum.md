@@ -16,7 +16,21 @@ Ethereum is an open-source, blockchain and smart contract computing platform.
 Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
 
 
+## Contents
 
+1. [Documentation](#documentation)
+2. [Programming](#programming)
+3. [Tutorials](#tutorials)
+4. [Code](#code)
+5. [Learning and MOOCs](#learning-and-moocs)
+6. [Philosophy](#philosophy)
+7. [Videos](#videos)
+8. [Wallets](#wallets)
+9. [Blockchain Utilities](#blockchain-utilities)
+10. [Protocols](#protocols)
+11. [Books](#books)
+12. [Misc](#misc)
+13. [Official](#official)
 
 
 ## Documentation
@@ -164,12 +178,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, @Tom2718 has waived all copyright and
-related or neighboring rights to this work.ttp://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, @Tom2718 has waived all copyright and
-related or neighboring rights to this work.ttp://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, @Tom2718 has waived all copyright and
 related or neighboring rights to this work.

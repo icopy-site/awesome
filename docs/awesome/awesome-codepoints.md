@@ -3,7 +3,16 @@
 This is a curated list of characters in Unicode, that have interesting (and
 maybe not widely known) features or are awesome in some other way.
 
+## Table of Contents
 
+1. [Standalone code points](#standalone-code-points)
+2. [Code points that affect others](#code-points-that-affect-others)
+    1. [Breaking and Gluing other characters](#breaking-and-gluing-other-characters)
+3. [Record holders and extremes](#record-holders-and-extremes)
+4. [For funsies](#for-funsies)
+    1. [Games](#games)
+5. [Contributing](#contributing-your-code-points)
+6. [License](#license)
 
 ## Standalone Code Points
 
@@ -209,9 +218,5 @@ See [the contribution guide](https://github.com/Codepoints/awesome-codepoints/bl
 
 To the extent possible under law, [the
 contributors](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
-have waived all copyright and related or neighboring rights to this work. See
-[the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.odepoints/graphs/contributors)
-have waived all copyright and related or neighboring rights to this work. See
-[the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.odepoints/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See
 [the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/LICENSE) for details.

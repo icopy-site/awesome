@@ -8,6 +8,15 @@ Curated list of information retrieval and web search resources from all around t
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/blob/master/https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (https://github.com/harpribot/awesome-information-retrieval/blob/master/mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
+## Contents
+ - [Books](#books)
+ - [Courses](#courses)
+ - [Software](#software)
+ - [Datasets](#datasets)
+ - [Talks](#talks)
+ - [Conferences](#conferences)
+ - [Blogs](#blogs)
+    - [Interesting Reads](#interesting-reads)
 
 ## Books
 - [Introduction to Information Retrieval](https://github.com/harpribot/awesome-information-retrieval/blob/master/http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (https://github.com/harpribot/awesome-information-retrieval/blob/master/First book for getting started with Information Retrieval).
@@ -153,4 +162,4 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.[Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.[Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.

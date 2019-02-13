@@ -6,7 +6,21 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
+## Contents
 
+* [Official Resources](#official-resources)
+* [Community](#community)
+* [Books](#books)
+* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+* [Community Modules](#community-modules)
+* [Private Module Registries](#private-module-registries)
+* [Providers](#providers)
+* [Testing](#testing)
+* [Tools](#tools)
+* [Libraries](#libraries)
+* [Terraform Enterprise](#terraform-enterprise)
+* [Talks](#talks)
+* [Editor Plugins](#editor-plugins)
 
 ## Official Resources
 
@@ -166,9 +180,5 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.

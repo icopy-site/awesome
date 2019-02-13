@@ -5,7 +5,18 @@
 [Homematic](https://www.homematic.com/) is a series of Smart Home devices from the manufacturer [eQ-3](https://www.eq-3.de), popular especially in Germany.
 
 
+## Contents
 
+- [Community](#community)
+- [Documentation](#documentation)
+- [Mobile Apps](#mobile-apps)
+- [CCU Alternatives](#ccu-alternatives)
+- [Alternative Sensors and Actuators](#alternative-sensors-and-actuators)
+- [CCU Addons](#ccu-addons)
+- [Interfacing Software](#interfacing-software)
+- [Misc Software](#misc-software)
+- [Software Modules](#software-modules)
+- [Smart Home Software](#smart-home-software-supporting-homematic)
 - [License](https://github.com/hobbyquaker/awesome-homematic/blob/master/License)
 
 
@@ -120,16 +131,6 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/hobbyquaker/awesome-homematic/blob/master/contributing.md) first.
-
-
-## License
-
-[Public Domain CC0](http://creativecommons.org/publicdomain/zero/1.0/)/blob/master/contributing.md) first.
-
-
-## License
-
-[Public Domain CC0](http://creativecommons.org/publicdomain/zero/1.0/)/blob/master/contributing.md) first.
 
 
 ## License

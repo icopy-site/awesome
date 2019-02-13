@@ -2,6 +2,28 @@
 
 An awesome list about Software Defined Networks (https://github.com/sdnds-tw/awesome-sdn/blob/master/SDN)
 
+- [Awesome SDN](#awesome-sdn)
+  - [Introduction](#introduction)
+  - [Network Operating System](#network-operating-system)
+  - [Install Environment](#install-environment)
+  - [Software Switch](#software-switch)
+  - [Network Virtualization](#network-virtualization)
+  - [Protocol](#protocol)
+  - [Controller](#controller)
+  - [Simulator/Emulator](#simulatoremulator)
+  - [Language](#language)
+  - [Library](#library)
+  - [Test](#test)
+  - [NFV](#nfv)
+  - [Overlay Network](#overlay-network)
+  - [Router](#router)
+  - [Misc](#misc)
+  - [High Performacne Network](#high-performance-network)
+  - [Userspace Network Stack](#userspace-network-stack)
+  - [Analytics](#analytics)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Paper](#paper)
 
 # Introduction
   Software-defined networking (https://github.com/sdnds-tw/awesome-sdn/blob/master/SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
@@ -184,21 +206,6 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
-- [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
-
-## Awesome Posts
-- [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)d-servers/devops-networking)
-- [Software Defined Networking with OpenFlow](https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow)
-
-## Paper
-- [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
-- [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
-- [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
-- [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
-- [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
-
-## Awesome Posts
-- [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
 - [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
 
 ## Awesome Posts

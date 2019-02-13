@@ -4,7 +4,18 @@ A curated list of awesome companies that offer their tools and services for free
 
 **Note: While there are many companies that have great free tiers (https://github.com/zachflower/awesome-open-source-supporters/blob/master/Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
 
+## Contents
 
+- [Code Coverage](#code-coverage)
+- [Code Quality](#code-quality)
+- [Continuous Integration](#continuous-integration)
+- [Dependency Management](#dependency-management)
+- [Package Management](#package-management)
+- [Project Management](#project-management)
+- [Monitoring](#monitoring)
+- [Localization](#localization)
+- [Version Control](#version-control)
+- [Miscellaneous](#miscellaneous)
 
 ## Code Coverage
 
@@ -130,4 +141,4 @@ While many companies use the public repositories feature of GitHub, Bitbucket, a
 
 ### `non-commercial`
 
-Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.ducts available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.ducts available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
+Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
