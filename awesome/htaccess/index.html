@@ -2768,8 +2768,6 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
-      
-    
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Useful `.htaccess` Snippets
@@ -2783,11 +2781,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#htaccess-snippets" title=".htaccess Snippets" class="md-nav__link">
+    .htaccess Snippets
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#credits" title="Credits" class="md-nav__link">
@@ -6962,11 +6965,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#htaccess-snippets" title=".htaccess Snippets" class="md-nav__link">
+    .htaccess Snippets
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#credits" title="Credits" class="md-nav__link">
@@ -7326,7 +7334,9 @@
                   <a href="https://github.com/icopy-site/asm-en/blob/master/docs/awesome/htaccess.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="htaccess-snippets">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#htaccess-snippets" title="Permanent link">&para;</a></h1>
+                  <h1>Useful `.htaccess` Snippets</h1>
+                
+                <h2 id="htaccess-snippets">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#htaccess-snippets" title="Permanent link">&para;</a></h2>
 <p>A collection of useful .htaccess snippets, all in one place.</p>
 <p><strong>NOTE</strong>: <code>.htaccess</code> files are for people that do not have rights to edit the main server configuration file. They are intrinsically slower and more complicated than using the main config. Please see the <a href="https://httpd.apache.org/docs/current/howto/htaccess.html">howto in the httpd documentation</a> for further details.</p>
 <p><strong>Disclaimer</strong>: While dropping the snippet into an <code>.htaccess</code> file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.</p>
@@ -7421,9 +7431,9 @@ This works for <em>any</em> domain. <a href="https://stackoverflow.com/questions
 <span class="nb">RewriteCond</span> %{HTTPS} !on
 <span class="nb">RewriteRule</span> (https://github.com/phanan/htaccess/blob/master/.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-<span class="c"># Note: It’s also recommended to enable HTTP Strict Transport Security (https://github.com/phanan/htaccess/blob/master/HSTS)</span>
-<span class="c"># on your HTTPS website to help prevent man-in-the-middle attacks.</span>
-<span class="c"># See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security</span>
+<span class="c">## Note: It’s also recommended to enable HTTP Strict Transport Security (https://github.com/phanan/htaccess/blob/master/HSTS)</span>
+<span class="c">## on your HTTPS website to help prevent man-in-the-middle attacks.</span>
+<span class="c">## See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security</span>
 <span class="nt">&lt;IfModule</span> <span class="s">mod_headers.c</span><span class="nt">&gt;</span>
     <span class="c"># Remove &quot;includeSubDomains&quot; if you don&#39;t want to enforce HSTS on all subdomains</span>
     <span class="nb">Header</span> always set Strict-Transport-Security <span class="s2">&quot;max-age=31536000;includeSubDomains&quot;</span>
@@ -7502,7 +7512,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">Deny</span> from <span class="k">all</span>
 
 <span class="c">## Apache 2.4</span>
-<span class="c"># Require all denied</span>
+<span class="c">## Require all denied</span>
 </pre></div>
 
 <p>But wait, this will lock you out from your content as well! Thus introducing...</p>
@@ -7513,8 +7523,8 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">Allow</span> from xxx.xxx.xxx.xxx
 
 <span class="c">## Apache 2.4</span>
-<span class="c"># Require all denied</span>
-<span class="c"># Require ip xxx.xxx.xxx.xxx</span>
+<span class="c">## Require all denied</span>
+<span class="c">## Require ip xxx.xxx.xxx.xxx</span>
 </pre></div>
 <code>xxx.xxx.xxx.xxx</code> is your IP. If you replace the last three digits with <code>0/12</code> for example, this will specify a range of IPs within the same network, thus saving you the trouble to list all allowed IPs separately. <a href="http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/">Source</a></p>
 <p>Now of course there's a reversed version:</p>
@@ -7525,9 +7535,9 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">Deny</span> from xxx.xxx.xxx.xxy
 
 <span class="c">## Apache 2.4</span>
-<span class="c"># Require all granted</span>
-<span class="c"># Require not ip xxx.xxx.xxx.xxx</span>
-<span class="c"># Require not ip xxx.xxx.xxx.xxy</span>
+<span class="c">## Require all granted</span>
+<span class="c">## Require not ip xxx.xxx.xxx.xxx</span>
+<span class="c">## Require not ip xxx.xxx.xxx.xxy</span>
 </pre></div>
 
 <h3 id="deny-access-to-hidden-files-and-directories">Deny Access to Hidden Files and Directories<a class="headerlink" href="#deny-access-to-hidden-files-and-directories" title="Permanent link">&para;</a></h3>
@@ -7558,15 +7568,15 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 
 <h3 id="disable-image-hotlinking">Disable Image Hotlinking<a class="headerlink" href="#disable-image-hotlinking" title="Permanent link">&para;</a></h3>
 <div class="codehilite"><pre><span></span><span class="nb">RewriteEngine</span> <span class="k">on</span>
-<span class="c"># Remove the following line if you want to block blank referrer too</span>
+<span class="c">## Remove the following line if you want to block blank referrer too</span>
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} !^$
 
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} !^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?example.com [NC]
 <span class="nb">RewriteRule</span> \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
-<span class="c"># If you want to display a “blocked” banner in place of the hotlinked image,</span>
-<span class="c"># replace the above rule with:</span>
-<span class="c"># RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
+<span class="c">## If you want to display a “blocked” banner in place of the hotlinked image,</span>
+<span class="c">## replace the above rule with:</span>
+<span class="c">## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
 </pre></div>
 
 <h3 id="disable-image-hotlinking-for-specific-domains">Disable Image Hotlinking for Specific Domains<a class="headerlink" href="#disable-image-hotlinking-for-specific-domains" title="Permanent link">&para;</a></h3>
@@ -7576,9 +7586,9 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} ^https?://(https://github.com/phanan/htaccess/blob/master/.+\.)?badsite2\.com [NC,OR]
 <span class="nb">RewriteRule</span> \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp)$ - [NC,F,L]
 
-<span class="c"># If you want to display a “blocked” banner in place of the hotlinked image,</span>
-<span class="c"># replace the above rule with:</span>
-<span class="c"># RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
+<span class="c">## If you want to display a “blocked” banner in place of the hotlinked image,</span>
+<span class="c">## replace the above rule with:</span>
+<span class="c">## RewriteRule \.(https://github.com/phanan/htaccess/blob/master/jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]</span>
 </pre></div></p>
 <h3 id="password-protect-a-directory">Password Protect a Directory<a class="headerlink" href="#password-protect-a-directory" title="Permanent link">&para;</a></h3>
 <p>First you need to create a <code>.htpasswd</code> file somewhere in the system:
@@ -7608,7 +7618,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <p>This denies access for all users who are coming from (<a href="https://github.com/phanan/htaccess/blob/master/referred">https://github.com/phanan/htaccess/blob/master/referred</a> by) a specific domain.
 <a href="http://www.htaccess-guide.com/deny-visitors-by-referrer/">Source</a>
 <div class="codehilite"><pre><span></span><span class="nb">RewriteEngine</span> <span class="k">on</span>
-<span class="c"># Options +FollowSymlinks</span>
+<span class="c">## Options +FollowSymlinks</span>
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} somedomain\.com [NC,OR]
 <span class="nb">RewriteCond</span> %{HTTP_REFERER} anotherdomain\.com
 <span class="nb">RewriteRule</span> .* - [F]
@@ -7722,7 +7732,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <h3 id="set-php-variables">Set PHP Variables<a class="headerlink" href="#set-php-variables" title="Permanent link">&para;</a></h3>
 <div class="codehilite"><pre><span></span><span class="nb">php_value</span> &lt;key&gt; &lt;val&gt;
 
-<span class="c"># For example:</span>
+<span class="c">## For example:</span>
 <span class="nb">php_value</span> upload_max_filesize <span class="m">50</span>M
 <span class="nb">php_value</span> max_execution_time <span class="m">240</span>
 </pre></div>
@@ -7758,10 +7768,10 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <a href="https://github.com/h5bp/server-configs-apache/issues/32">Source</a></p>
 <h3 id="auto-utf-8-encode">Auto UTF-8 Encode<a class="headerlink" href="#auto-utf-8-encode" title="Permanent link">&para;</a></h3>
 <p>Your text content should always be UTF-8 encoded, no?
-<div class="codehilite"><pre><span></span><span class="c"># Use UTF-8 encoding for anything served text/plain or text/html</span>
+<div class="codehilite"><pre><span></span><span class="c">## Use UTF-8 encoding for anything served text/plain or text/html</span>
 <span class="nb">AddDefaultCharset</span> utf-8
 
-<span class="c"># Force UTF-8 for a number of file formats</span>
+<span class="c">## Force UTF-8 for a number of file formats</span>
 <span class="nb">AddCharset</span> utf-8 .atom .css .js .json .rss .vtt .xml
 </pre></div>
 <a href="https://github.com/h5bp/server-configs-apache">Source</a></p>
@@ -7769,7 +7779,7 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
 <p>If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.</p>
 <div class="codehilite"><pre><span></span><span class="nb">AddHandler</span> application/x-httpd-php56 .php
 
-<span class="c"># Alternatively, you can use AddType</span>
+<span class="c">## Alternatively, you can use AddType</span>
 <span class="nb">AddType</span> application/x-httpd-php56 .php
 </pre></div>
 

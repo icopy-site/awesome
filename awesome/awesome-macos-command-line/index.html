@@ -12289,38 +12289,38 @@
 <h2 id="appearance">Appearance<a class="headerlink" href="#appearance" title="Permanent link">&para;</a></h2>
 <h3 id="transparency">Transparency<a class="headerlink" href="#transparency" title="Permanent link">&para;</a></h3>
 <h4 id="transparency-in-menu-and-windows">Transparency in Menu and Windows<a class="headerlink" href="#transparency-in-menu-and-windows" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Reduce Transparency</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Reduce Transparency</span>
 defaults write com.apple.universalaccess reduceTransparency -bool <span class="nb">true</span>
 
-<span class="c1"># Restore Default Transparency</span>
+<span class="c1">## Restore Default Transparency</span>
 defaults write com.apple.universalaccess reduceTransparency -bool <span class="nb">false</span>
 </pre></div>
 
 <h3 id="wallpaper">Wallpaper<a class="headerlink" href="#wallpaper" title="Permanent link">&para;</a></h3>
 <h4 id="set-wallpaper">Set Wallpaper<a class="headerlink" href="#set-wallpaper" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Up to Mountain Lion</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Up to Mountain Lion</span>
 osascript -e <span class="s1">&#39;tell application &quot;Finder&quot; to set desktop picture to POSIX file &quot;/path/to/picture.jpg&quot;&#39;</span>
 
-<span class="c1"># Since Mavericks</span>
+<span class="c1">## Since Mavericks</span>
 sqlite3 ~/Library/Application<span class="se">\ </span>Support/Dock/desktoppicture.db <span class="s2">&quot;update data set value = &#39;/path/to/picture.jpg&#39;&quot;</span> <span class="o">&amp;&amp;</span> killall Dock
 </pre></div>
 
 <h2 id="applications">Applications<a class="headerlink" href="#applications" title="Permanent link">&para;</a></h2>
 <h3 id="app-store">App Store<a class="headerlink" href="#app-store" title="Permanent link">&para;</a></h3>
 <h4 id="list-all-apps-downloaded-from-app-store">List All Apps Downloaded from App Store<a class="headerlink" href="#list-all-apps-downloaded-from-app-store" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Via find</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Via find</span>
 find /Applications -path <span class="s1">&#39;*Contents/_MASReceipt/receipt&#39;</span> -maxdepth <span class="m">4</span> -print <span class="p">|</span><span class="se">\s</span>ed <span class="s1">&#39;s#.app/Contents/_MASReceipt/receipt#.app#g; s#/Applications/##&#39;</span>
 
-<span class="c1"># Via Spotlight</span>
+<span class="c1">## Via Spotlight</span>
 mdfind <span class="nv">kMDItemAppStoreHasReceipt</span><span class="o">=</span><span class="m">1</span>
 </pre></div>
 
 <h4 id="show-debug-menu">Show Debug Menu<a class="headerlink" href="#show-debug-menu" title="Permanent link">&para;</a></h4>
 <p>Works up to Yosemite.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.appstore ShowDebugMenu -bool <span class="nb">true</span>
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.appstore ShowDebugMenu -bool <span class="nb">false</span>
 </pre></div></p>
 <h3 id="apple-remote-desktop">Apple Remote Desktop<a class="headerlink" href="#apple-remote-desktop" title="Permanent link">&para;</a></h3>
@@ -12329,18 +12329,18 @@ defaults write com.apple.appstore ShowDebugMenu -bool <span class="nb">false</sp
 </pre></div>
 
 <h4 id="activate-and-deactivate-the-ard-agent-and-helper">Activate And Deactivate the ARD Agent and Helper<a class="headerlink" href="#activate-and-deactivate-the-ard-agent-and-helper" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Activate And Restart the ARD Agent and Helper</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Activate And Restart the ARD Agent and Helper</span>
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -restart -agent -console
 
-<span class="c1"># Deactivate and Stop the Remote Management Service</span>
+<span class="c1">## Deactivate and Stop the Remote Management Service</span>
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -stop
 </pre></div>
 
 <h4 id="enable-and-disable-remote-desktop-sharing">Enable and Disable Remote Desktop Sharing<a class="headerlink" href="#enable-and-disable-remote-desktop-sharing" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Allow Access for All Users and Give All Users Full Access</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Allow Access for All Users and Give All Users Full Access</span>
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
 
-<span class="c1"># Disable ARD Agent and Remove Access Privileges for All Users</span>
+<span class="c1">## Disable ARD Agent and Remove Access Privileges for All Users</span>
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
 </pre></div>
 
@@ -12355,10 +12355,10 @@ rm -r ~/Library/Containers/com.apple.RemoteDesktop
 
 <h3 id="contacts">Contacts<a class="headerlink" href="#contacts" title="Permanent link">&para;</a></h3>
 <h4 id="debug-mode">Debug Mode<a class="headerlink" href="#debug-mode" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">true</span>
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12370,10 +12370,10 @@ defaults write com.apple.addressbook ABShowDebugMenu -bool <span class="nb">fals
 <h3 id="itunes">iTunes<a class="headerlink" href="#itunes" title="Permanent link">&para;</a></h3>
 <h4 id="keyboard-media-keys">Keyboard Media Keys<a class="headerlink" href="#keyboard-media-keys" title="Permanent link">&para;</a></h4>
 <p>This works up to Yosemite. System Integrity Protection was introduced in El Capitan which prevents system Launch Agents from being unloaded.
-<div class="codehilite"><pre><span></span><span class="c1"># Stop Responding to Key Presses</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Stop Responding to Key Presses</span>
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
-<span class="c1"># Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Respond to Key Presses (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 </pre></div></p>
 <p>From El Capitan onwards, you can either disable SIP or resort to a kind of hack, which will make iTunes inaccessible to any user, effectively preventing it from starting itself or its helpers. Be aware that for all intents and purposes this will trash your iTunes installation and may conflict with OS updates down the road.
@@ -12435,10 +12435,10 @@ defaults write -g WebKitDeveloperExtras -bool <span class="nb">true</span>
 <div class="codehilite"><pre><span></span>osascript -e <span class="s1">&#39;tell application &quot;Safari&quot; to get URL of current tab of front window&#39;</span>
 </pre></div></p>
 <h4 id="use-backspacedelete-to-go-back-a-page">Use Backspace/Delete to Go Back a Page<a class="headerlink" href="#use-backspacedelete-to-go-back-a-page" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool YES
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool NO
 </pre></div>
 
@@ -12454,10 +12454,10 @@ defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebK
 </pre></div></p>
 <h3 id="terminal">Terminal<a class="headerlink" href="#terminal" title="Permanent link">&para;</a></h3>
 <h4 id="focus-follows-mouse">Focus Follows Mouse<a class="headerlink" href="#focus-follows-mouse" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.Terminal FocusFollowsMouse -string YES
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write com.apple.Terminal FocusFollowsMouse -string NO
 </pre></div>
 
@@ -12479,13 +12479,13 @@ defaults write com.apple.Terminal FocusFollowsMouse -string NO
 </pre></div></p>
 <h4 id="local-backups">Local Backups<a class="headerlink" href="#local-backups" title="Permanent link">&para;</a></h4>
 <p>Whether Time Machine performs local backups while the Time Machine backup volume is not available.
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.TimeMachine MobileBackups
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo tmutil enablelocal
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo tmutil disablelocal
 </pre></div></p>
 <p>Since High Sierra, you cannot disable local snapshots. Time Machine now always creates a local APFS snapshot and uses that snapshot as the data source to create a regular backup, rather than using the live disk as the source, as is the case with HFS formatted disks.</p>
@@ -12499,7 +12499,7 @@ sudo tmutil disablelocal
 
 <span class="nv">filter</span><span class="o">=</span><span class="s1">&#39;processImagePath contains &quot;backupd&quot; and subsystem beginswith &quot;com.apple.TimeMachine&quot;&#39;</span>
 
-<span class="c1"># show the last 12 hours</span>
+<span class="c1">## show the last 12 hours</span>
 <span class="nv">start</span><span class="o">=</span><span class="s2">&quot;</span><span class="k">$(</span>https://github.com/herrbischoff/awesome-macos-command-line/blob/master/date -j -v-12H +<span class="s1">&#39;%Y-%m-%d %H:%M:%S&#39;</span><span class="k">)</span><span class="s2">&quot;</span>
 
 <span class="nb">echo</span> <span class="s2">&quot;&quot;</span>
@@ -12515,13 +12515,13 @@ log show --style syslog --info --start <span class="s2">&quot;</span><span class
 log stream --style syslog --info --predicate <span class="s2">&quot;</span><span class="nv">$filter</span><span class="s2">&quot;</span>
 </pre></div></p>
 <h4 id="toggle-backup-while-on-battery">Toggle Backup While on Battery<a class="headerlink" href="#toggle-backup-while-on-battery" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo defaults <span class="nb">read</span> /Library/Preferences/com.apple.TimeMachine RequiresACPower
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool <span class="nb">true</span>
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo defaults write /Library/Preferences/com.apple.TimeMachine RequiresACPower -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12570,31 +12570,31 @@ killall Dock
 </pre></div>
 
 <h4 id="auto-rearrange-spaces-based-on-most-recent-use">Auto Rearrange Spaces Based on Most Recent Use<a class="headerlink" href="#auto-rearrange-spaces-based-on-most-recent-use" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.dock mru-spaces -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write com.apple.dock mru-spaces -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
 
 <h4 id="icon-bounce">Icon Bounce<a class="headerlink" href="#icon-bounce" title="Permanent link">&para;</a></h4>
 <p>Global setting whether Dock icons should bounce when the respective application demands your attention.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.dock no-bouncing -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write com.apple.dock no-bouncing -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div></p>
 <h4 id="lock-the-dock-size">Lock the Dock Size<a class="headerlink" href="#lock-the-dock-size" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.Dock size-immutable -bool yes <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.Dock size-immutable -bool no <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
@@ -12611,11 +12611,11 @@ killall Dock
 </pre></div></p>
 <h4 id="scroll-gestures">Scroll Gestures<a class="headerlink" href="#scroll-gestures" title="Permanent link">&para;</a></h4>
 <p>Use your touchpad or mouse scroll wheel to interact with Dock items. Allows you to use an upward scrolling gesture to open stacks. Using the same gesture on applications that are running invokes Exposé/Mission Control.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.dock scroll-to-open -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.dock scroll-to-open -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div></p>
@@ -12631,21 +12631,21 @@ defaults write com.apple.dock autohide-delay -float <span class="m">0</span> <sp
 killall Dock
 </pre></div></p>
 <h4 id="show-hidden-app-icons">Show Hidden App Icons<a class="headerlink" href="#show-hidden-app-icons" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.dock showhidden -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.dock showhidden -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
 
 <h4 id="show-only-active-applications">Show Only Active Applications<a class="headerlink" href="#show-only-active-applications" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.dock static-only -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.dock static-only -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div>
@@ -12676,10 +12676,10 @@ killall Dock
 <p>Beginning with OS X El Capitan, system file permissions are automatically protected. It's no longer necessary to verify or repair permissions with Disk Utility. (<a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/">https://github.com/herrbischoff/awesome-macos-command-line/blob/master/</a><a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/https://support.apple.com/en-us/HT201560">Source</a>)</p>
 </blockquote>
 <h4 id="set-boot-volume">Set Boot Volume<a class="headerlink" href="#set-boot-volume" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Up to Yosemite</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Up to Yosemite</span>
 bless --mount <span class="s2">&quot;/path/to/mounted/volume&quot;</span> --setBoot
 
-<span class="c1"># From El Capitan</span>
+<span class="c1">## From El Capitan</span>
 sudo systemsetup -setstartupdisk /System/Library/CoreServices
 </pre></div>
 
@@ -12760,41 +12760,41 @@ defaults write com.apple.frameworks.diskimages skip-verify-remote -bool <span cl
 <h3 id="desktop">Desktop<a class="headerlink" href="#desktop" title="Permanent link">&para;</a></h3>
 <h4 id="show-external-media">Show External Media<a class="headerlink" href="#show-external-media" title="Permanent link">&para;</a></h4>
 <p>External HDs, thumb drives, etc.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
 <h4 id="show-internal-media">Show Internal Media<a class="headerlink" href="#show-internal-media" title="Permanent link">&para;</a></h4>
 <p>Built-in HDs or SSDs.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowHardDrivesOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
 <h4 id="show-removable-media">Show Removable Media<a class="headerlink" href="#show-removable-media" title="Permanent link">&para;</a></h4>
 <p>CDs, DVDs, iPods, etc.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
 <h4 id="show-network-volumes">Show Network Volumes<a class="headerlink" href="#show-network-volumes" title="Permanent link">&para;</a></h4>
 <p>AFP, SMB, NFS, WebDAV, etc.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowMountedServersOnDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
@@ -12812,10 +12812,10 @@ killall Finder
 </pre></div>
 
 <h4 id="show-hidden-files">Show Hidden Files<a class="headerlink" href="#show-hidden-files" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Show All</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Show All</span>
 defaults write com.apple.finder AppleShowAllFiles <span class="nb">true</span>
 
-<span class="c1"># Restore Default File Visibility</span>
+<span class="c1">## Restore Default File Visibility</span>
 defaults write com.apple.finder AppleShowAllFiles <span class="nb">false</span>
 </pre></div>
 
@@ -12839,27 +12839,27 @@ killall Finder
 <h3 id="layout">Layout<a class="headerlink" href="#layout" title="Permanent link">&para;</a></h3>
 <h4 id="show-quit-finder-menu-item">Show "Quit Finder" Menu Item<a class="headerlink" href="#show-quit-finder-menu-item" title="Permanent link">&para;</a></h4>
 <p>Makes possible to see Finder menu item "Quit Finder" with default shortcut <kbd>Cmd</kbd> + <kbd>Q</kbd>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.finder QuitMenuItem -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder QuitMenuItem -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div></p>
 <h4 id="smooth-scrolling">Smooth Scrolling<a class="headerlink" href="#smooth-scrolling" title="Permanent link">&para;</a></h4>
 <p>Useful if you’re on an older Mac that messes up the animation.
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSScrollAnimationEnabled -bool <span class="nb">false</span>
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write -g NSScrollAnimationEnabled -bool <span class="nb">true</span>
 </pre></div></p>
 <h4 id="rubberband-scrolling">Rubberband Scrolling<a class="headerlink" href="#rubberband-scrolling" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSScrollViewRubberbanding -bool <span class="nb">false</span>
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write -g NSScrollViewRubberbanding -bool <span class="nb">true</span>
 </pre></div>
 
@@ -12869,20 +12869,20 @@ defaults write -g NSNavPanelExpandedStateForSaveMode2 -bool <span class="nb">tru
 </pre></div>
 
 <h4 id="desktop-icon-visibility">Desktop Icon Visibility<a class="headerlink" href="#desktop-icon-visibility" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Hide Icons</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Hide Icons</span>
 defaults write com.apple.finder CreateDesktop -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 
-<span class="c1"># Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Show Icons (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder CreateDesktop -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Finder
 </pre></div>
 
 <h4 id="path-bar">Path Bar<a class="headerlink" href="#path-bar" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Show</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Show</span>
 defaults write com.apple.finder ShowPathbar -bool <span class="nb">true</span>
 
-<span class="c1"># Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowPathbar -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12891,10 +12891,10 @@ defaults write com.apple.finder ShowPathbar -bool <span class="nb">false</span>
 <div class="codehilite"><pre><span></span>defaults write -g AppleShowScrollBars -string <span class="s2">&quot;Always&quot;</span>
 </pre></div></p>
 <h4 id="status-bar">Status Bar<a class="headerlink" href="#status-bar" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Show</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Show</span>
 defaults write com.apple.finder ShowStatusBar -bool <span class="nb">true</span>
 
-<span class="c1"># Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Hide (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.finder ShowStatusBar -bool <span class="nb">false</span>
 </pre></div>
 
@@ -12967,13 +12967,13 @@ atsutil server -ping
 <p>Please see <a href="https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md">this file</a>.</p>
 <h2 id="hardware">Hardware<a class="headerlink" href="#hardware" title="Permanent link">&para;</a></h2>
 <h3 id="bluetooth">Bluetooth<a class="headerlink" href="#bluetooth" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.Bluetooth ControllerPowerState
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int <span class="m">1</span>
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int <span class="m">0</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 sudo killall -HUP blued
 </pre></div>
@@ -13009,13 +13009,13 @@ sudo killall -HUP blued
 </pre></div>
 
 <h3 id="infrared-receiver">Infrared Receiver<a class="headerlink" href="#infrared-receiver" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int <span class="m">1</span>
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEnabled -int <span class="m">0</span>
 </pre></div>
 
@@ -13054,41 +13054,41 @@ defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEna
 
 <h4 id="chime-when-charging">Chime When Charging<a class="headerlink" href="#chime-when-charging" title="Permanent link">&para;</a></h4>
 <p>Play iOS charging sound when MagSafe is connected.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 open /System/Library/CoreServices/PowerChime.app
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall PowerChime
 </pre></div></p>
 <h2 id="input-devices">Input Devices<a class="headerlink" href="#input-devices" title="Permanent link">&para;</a></h2>
 <h3 id="keyboard">Keyboard<a class="headerlink" href="#keyboard" title="Permanent link">&para;</a></h3>
 <h4 id="auto-correct">Auto-Correct<a class="headerlink" href="#auto-correct" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool <span class="nb">false</span>
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write -g NSAutomaticSpellingCorrectionEnabled -bool <span class="nb">true</span>
 
-<span class="c1"># Show Status</span>
+<span class="c1">## Show Status</span>
 defaults <span class="nb">read</span> -g NSAutomaticSpellingCorrectionEnabled
 </pre></div>
 
 <h4 id="full-keyboard-access">Full Keyboard Access<a class="headerlink" href="#full-keyboard-access" title="Permanent link">&para;</a></h4>
 <p>Enable Tab in modal dialogs.
-<div class="codehilite"><pre><span></span><span class="c1"># Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Text boxes and lists only (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write NSGlobalDomain AppleKeyboardUIMode -int <span class="m">0</span>
 
-<span class="c1"># All controls</span>
+<span class="c1">## All controls</span>
 defaults write NSGlobalDomain AppleKeyboardUIMode -int <span class="m">3</span>
 </pre></div></p>
 <h4 id="key-repeat">Key Repeat<a class="headerlink" href="#key-repeat" title="Permanent link">&para;</a></h4>
 <p>Disable the default "press and hold" behavior.
-<div class="codehilite"><pre><span></span><span class="c1"># Enable Key Repeat</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable Key Repeat</span>
 defaults write -g ApplePressAndHoldEnabled -bool <span class="nb">false</span>
 
-<span class="c1"># Disable Key Repeat</span>
+<span class="c1">## Disable Key Repeat</span>
 defaults write -g ApplePressAndHoldEnabled -bool <span class="nb">true</span>
 </pre></div></p>
 <h4 id="key-repeat-rate">Key Repeat Rate<a class="headerlink" href="#key-repeat-rate" title="Permanent link">&para;</a></h4>
@@ -13098,11 +13098,11 @@ defaults write -g ApplePressAndHoldEnabled -bool <span class="nb">true</span>
 <h2 id="launchpad">Launchpad<a class="headerlink" href="#launchpad" title="Permanent link">&para;</a></h2>
 <h4 id="reset-launchpad-layout">Reset Launchpad Layout<a class="headerlink" href="#reset-launchpad-layout" title="Permanent link">&para;</a></h4>
 <p>You need to restart <code>Dock</code> because Launchpad is tied to it.
-<div class="codehilite"><pre><span></span><span class="c1"># Up to Yosemite</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Up to Yosemite</span>
 rm ~/Library/Application<span class="se">\ </span>Support/Dock/*.db <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 
-<span class="c1"># From El Capitan</span>
+<span class="c1">## From El Capitan</span>
 defaults write com.apple.dock ResetLaunchPad -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall Dock
 </pre></div></p>
@@ -13144,10 +13144,10 @@ killall Dock
 <h2 id="networking">Networking<a class="headerlink" href="#networking" title="Permanent link">&para;</a></h2>
 <h3 id="bonjour">Bonjour<a class="headerlink" href="#bonjour" title="Permanent link">&para;</a></h3>
 <h4 id="bonjour-service">Bonjour Service<a class="headerlink" href="#bonjour-service" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array-add <span class="s2">&quot;-NoMulticastAdvertisements&quot;</span>
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo defaults write /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist ProgramArguments -array <span class="s2">&quot;/usr/sbin/mDNSResponder&quot;</span> <span class="s2">&quot;-launchd&quot;</span>
 </pre></div>
 
@@ -13177,10 +13177,10 @@ sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.serve
 <h3 id="network-preferences">Network Preferences<a class="headerlink" href="#network-preferences" title="Permanent link">&para;</a></h3>
 <h4 id="network-locations">Network Locations<a class="headerlink" href="#network-locations" title="Permanent link">&para;</a></h4>
 <p>Switch between network locations created in the Network preference pane.
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 scselect
 
-<span class="c1"># Switch Network Location</span>
+<span class="c1">## Switch Network Location</span>
 scselect LocationNameFromStatus
 </pre></div></p>
 <h4 id="set-static-ip-address">Set Static IP Address<a class="headerlink" href="#set-static-ip-address" title="Permanent link">&para;</a></h4>
@@ -13211,10 +13211,10 @@ Then add to <code>~/.ssh/config</code>:
 </pre></div></p>
 </blockquote>
 <h4 id="remote-login">Remote Login<a class="headerlink" href="#remote-login" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable remote login</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable remote login</span>
 sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist
 
-<span class="c1"># Disable remote login</span>
+<span class="c1">## Disable remote login</span>
 sudo launchctl unload -w /System/Library/LaunchDaemons/ssh.plist
 </pre></div>
 
@@ -13294,13 +13294,13 @@ defaults write -g PMPrintingExpandedStateForPrint2 -bool <span class="nb">true</
 <h2 id="security">Security<a class="headerlink" href="#security" title="Permanent link">&para;</a></h2>
 <h3 id="application-firewall">Application Firewall<a class="headerlink" href="#application-firewall" title="Permanent link">&para;</a></h3>
 <h4 id="firewall-service">Firewall Service<a class="headerlink" href="#firewall-service" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Show Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Show Status</span>
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate
 
-<span class="c1"># Enable</span>
+<span class="c1">## Enable</span>
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 </pre></div>
 
@@ -13318,13 +13318,13 @@ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 </pre></div>
 
 <h4 id="manage-gatekeeper">Manage Gatekeeper<a class="headerlink" href="#manage-gatekeeper" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 spctl --status
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo spctl --master-enable
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo spctl --master-disable
 </pre></div>
 
@@ -13335,10 +13335,10 @@ sudo spctl --master-disable
 
 <h3 id="physical-access">Physical Access<a class="headerlink" href="#physical-access" title="Permanent link">&para;</a></h3>
 <h4 id="launch-screen-saver">Launch Screen Saver<a class="headerlink" href="#launch-screen-saver" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Up to Sierra</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Up to Sierra</span>
 open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/ScreenSaverEngine.app
 
-<span class="c1"># From High Sierra</span>
+<span class="c1">## From High Sierra</span>
 /System/Library/CoreServices/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine
 </pre></div>
 
@@ -13347,24 +13347,24 @@ open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/Scree
 </pre></div>
 
 <h4 id="screensaver-immediate-lock">Screensaver Immediate Lock<a class="headerlink" href="#screensaver-immediate-lock" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> com.apple.screensaver askForPasswordDelay
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.screensaver askForPasswordDelay -int <span class="m">0</span>
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Integer = lock delay in seconds)</span>
 defaults write com.apple.screensaver askForPasswordDelay -int <span class="m">10</span>
 </pre></div>
 
 <h4 id="screensaver-password">Screensaver Password<a class="headerlink" href="#screensaver-password" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 defaults <span class="nb">read</span> com.apple.screensaver askForPassword
 
-<span class="c1"># Enable</span>
+<span class="c1">## Enable</span>
 defaults write com.apple.screensaver askForPassword -int <span class="m">1</span>
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults write com.apple.screensaver askForPassword -int <span class="m">0</span>
 </pre></div>
 
@@ -13402,13 +13402,13 @@ defaults write com.apple.screensaver askForPassword -int <span class="m">0</span
 </pre></div></p>
 <h2 id="system">System<a class="headerlink" href="#system" title="Permanent link">&para;</a></h2>
 <h3 id="airdrop">AirDrop<a class="headerlink" href="#airdrop" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable AirDrop over Ethernet and on Unsupported Macs</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable AirDrop over Ethernet and on Unsupported Macs</span>
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool <span class="nb">true</span>
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 defaults remove com.apple.NetworkBrowser DisableAirDrop
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 defaults write com.apple.NetworkBrowser DisableAirDrop -bool YES
 </pre></div>
 
@@ -13473,13 +13473,13 @@ defaults write com.apple.NetworkBrowser DisableAirDrop -bool YES
 <div class="codehilite"><pre><span></span>sudo fdesetup authrestart
 </pre></div></p>
 <h4 id="filevault-service">FileVault Service<a class="headerlink" href="#filevault-service" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo fdesetup status
 
-<span class="c1"># Enable</span>
+<span class="c1">## Enable</span>
 sudo fdesetup <span class="nb">enable</span>
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo fdesetup disable
 </pre></div>
 
@@ -13490,19 +13490,19 @@ sudo fdesetup disable
 
 <h3 id="install-os">Install OS<a class="headerlink" href="#install-os" title="Permanent link">&para;</a></h3>
 <h4 id="create-bootable-installer">Create Bootable Installer<a class="headerlink" href="#create-bootable-installer" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Mojave</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Mojave</span>
 sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
-<span class="c1"># High Sierra</span>
+<span class="c1">## High Sierra</span>
 sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>High<span class="se">\ </span>Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>High<span class="se">\ </span>Sierra.app
 
-<span class="c1"># Sierra</span>
+<span class="c1">## Sierra</span>
 sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Sierra.app
 
-<span class="c1"># El Capitan</span>
+<span class="c1">## El Capitan</span>
 sudo /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>X<span class="se">\ </span>El<span class="se">\ </span>Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>X<span class="se">\ </span>El<span class="se">\ </span>Capitan.app
 
-<span class="c1"># Yosemite</span>
+<span class="c1">## Yosemite</span>
 sudo /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>X<span class="se">\ </span>Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --applicationpath /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>X<span class="se">\ </span>Yosemite.app
 </pre></div>
 
@@ -13542,20 +13542,20 @@ sudo /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>
 </pre></div>
 
 <h4 id="show-memory-statistics">Show Memory Statistics<a class="headerlink" href="#show-memory-statistics" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># One time</span>
+<div class="codehilite"><pre><span></span><span class="c1">## One time</span>
 vm_stat
 
-<span class="c1"># Table of data, repeat 10 times total, 1 second wait between each poll</span>
+<span class="c1">## Table of data, repeat 10 times total, 1 second wait between each poll</span>
 vm_stat -c <span class="m">10</span> <span class="m">1</span>
 </pre></div>
 
 <h3 id="notification-center">Notification Center<a class="headerlink" href="#notification-center" title="Permanent link">&para;</a></h3>
 <h4 id="notification-center-service">Notification Center Service<a class="headerlink" href="#notification-center-service" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall -9 NotificationCenter
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
 </pre></div>
 
@@ -13565,32 +13565,32 @@ launchctl load -w /System/Library/LaunchAgents/com.apple.notificationcenterui.pl
 </pre></div>
 
 <h3 id="remote-apple-events">Remote Apple Events<a class="headerlink" href="#remote-apple-events" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo systemsetup -getremoteappleevents
 
-<span class="c1"># Enable</span>
+<span class="c1">## Enable</span>
 sudo systemsetup -setremoteappleevents on
 
-<span class="c1"># Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Disable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo systemsetup -setremoteappleevents off
 </pre></div>
 
 <h3 id="root-user">Root User<a class="headerlink" href="#root-user" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
 dsenableroot
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 dsenableroot -d
 </pre></div>
 
 <h3 id="safe-mode-boot">Safe Mode Boot<a class="headerlink" href="#safe-mode-boot" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 nvram boot-args
 
-<span class="c1"># Enable</span>
+<span class="c1">## Enable</span>
 sudo nvram boot-args<span class="o">=</span><span class="s2">&quot;-x&quot;</span>
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo nvram boot-args<span class="o">=</span><span class="s2">&quot;&quot;</span>
 </pre></div>
 
@@ -13638,10 +13638,10 @@ killall SystemUIServer
 
 <h4 id="set-software-update-server">Set Software Update Server<a class="headerlink" href="#set-software-update-server" title="Permanent link">&para;</a></h4>
 <p>This should only be done for testing purposes or unmanaged clients. To use network-wide, either correctly set up DNS along with <a href="http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/">Apple SUS service</a> and bind your clients via OpenDirectory. Alternatively, use <a href="https://github.com/wdas/reposado">Reposado</a> together with correct network DNS settings to make resolution transparent. <a href="https://github.com/jessepeterson/margarita">Margarita</a> looks nice to have as well.
-<div class="codehilite"><pre><span></span><span class="c1"># Use own SUS</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Use own SUS</span>
 sudo defaults write /Library/Preferences/com.apple.SoftwareUpdate CatalogURL http://su.example.com:8088/index.sucatalog
 
-<span class="c1"># Reset to Apple SUS</span>
+<span class="c1">## Reset to Apple SUS</span>
 sudo defaults delete /Library/Preferences/com.apple.SoftwareUpdate CatalogURL
 </pre></div></p>
 <h3 id="software-version">Software Version<a class="headerlink" href="#software-version" title="Permanent link">&para;</a></h3>
@@ -13651,10 +13651,10 @@ sudo defaults delete /Library/Preferences/com.apple.SoftwareUpdate CatalogURL
 
 <h3 id="spotlight">Spotlight<a class="headerlink" href="#spotlight" title="Permanent link">&para;</a></h3>
 <h4 id="spotlight-indexing">Spotlight Indexing<a class="headerlink" href="#spotlight-indexing" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Disable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Disable</span>
 mdutil -i off -d /path/to/volume
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 mdutil -i on /path/to/volume
 </pre></div>
 
@@ -13689,13 +13689,13 @@ mdutil -i on /path/to/volume
 </pre></div>
 
 <h4 id="set-clock-using-network-time">Set Clock Using Network Time<a class="headerlink" href="#set-clock-using-network-time" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1"># Status</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 sudo systemsetup getusingnetworktime
 
-<span class="c1"># Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
+<span class="c1">## Enable (https://github.com/herrbischoff/awesome-macos-command-line/blob/master/Default)</span>
 sudo systemsetup setusingnetworktime on
 
-<span class="c1"># Disable</span>
+<span class="c1">## Disable</span>
 sudo systemsetup setusingnetworktime off
 </pre></div>
 

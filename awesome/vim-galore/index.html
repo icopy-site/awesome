@@ -3668,12 +3668,878 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
-      
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Vim
+      </label>
     
     <a href="./" title="Vim" class="md-nav__link md-nav__link--active">
       Vim
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#intro" title="Intro" class="md-nav__link">
+    Intro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basics" title="Basics" class="md-nav__link">
+    Basics
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" title="Usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands" title="Commands" class="md-nav__link">
+    Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging" title="Debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous" title="Miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#common-problems" title="Common problems" class="md-nav__link">
+    Common problems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-quirks" title="Technical quirks" class="md-nav__link">
+    Technical quirks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminology" title="Terminology" class="md-nav__link">
+    Terminology
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-of-colorschemes" title="List of colorschemes" class="md-nav__link">
+    List of colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-of-plugins" title="List of plugins" class="md-nav__link">
+    List of plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intro_1" title="Intro" class="md-nav__link">
+    Intro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-vim" title="What is Vim?" class="md-nav__link">
+    What is Vim?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-vim-philosophy" title="The Vim Philosophy" class="md-nav__link">
+    The Vim Philosophy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-steps" title="First steps" class="md-nav__link">
+    First steps
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#minimal-vimrc" title="Minimal vimrc" class="md-nav__link">
+    Minimal vimrc
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-kind-of-vim-am-i-running" title="What kind of Vim am I running?" class="md-nav__link">
+    What kind of Vim am I running?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cheatsheets" title="Cheatsheets" class="md-nav__link">
+    Cheatsheets
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basics_1" title="Basics" class="md-nav__link">
+    Basics
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#buffers-windows-tabs" title="Buffers, windows, tabs" class="md-nav__link">
+    Buffers, windows, tabs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#active-loaded-listed-named-buffers" title="Active, loaded, listed, named buffers" class="md-nav__link">
+    Active, loaded, listed, named buffers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#argument-list" title="Argument list" class="md-nav__link">
+    Argument list
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mappings" title="Mappings" class="md-nav__link">
+    Mappings
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mapleader" title="Mapleader" class="md-nav__link">
+    Mapleader
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#registers" title="Registers" class="md-nav__link">
+    Registers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ranges" title="Ranges" class="md-nav__link">
+    Ranges
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#marks" title="Marks" class="md-nav__link">
+    Marks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#completion" title="Completion" class="md-nav__link">
+    Completion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motions-operators-text-objects" title="Motions, operators, text objects" class="md-nav__link">
+    Motions, operators, text objects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autocmds" title="Autocmds" class="md-nav__link">
+    Autocmds
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#changelist-jumplist" title="Changelist, jumplist" class="md-nav__link">
+    Changelist, jumplist
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#undo-tree" title="Undo tree" class="md-nav__link">
+    Undo tree
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickfix-and-location-lists" title="Quickfix and location lists" class="md-nav__link">
+    Quickfix and location lists
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#macros" title="Macros" class="md-nav__link">
+    Macros
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#colorschemes" title="Colorschemes" class="md-nav__link">
+    Colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#folding" title="Folding" class="md-nav__link">
+    Folding
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sessions" title="Sessions" class="md-nav__link">
+    Sessions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#locality" title="Locality" class="md-nav__link">
+    Locality
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage_1" title="Usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-offline" title="Getting help offline" class="md-nav__link">
+    Getting help offline
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-offline-httpsgithubcommhinzvim-galoreblobmasteralternative" title="Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)" class="md-nav__link">
+    Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-online" title="Getting help online" class="md-nav__link">
+    Getting help online
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autocmds-in-practice" title="Autocmds in practice" class="md-nav__link">
+    Autocmds in practice
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#user-events" title="User events" class="md-nav__link">
+    User events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nested-autocmds" title="Nested autocmds" class="md-nav__link">
+    Nested autocmds
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clipboard" title="Clipboard" class="md-nav__link">
+    Clipboard
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterwindows-macos" title="Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)" class="md-nav__link">
+    Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterlinux-bsd" title="Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)" class="md-nav__link">
+    Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#restore-cursor-position-when-opening-file" title="Restore cursor position when opening file" class="md-nav__link">
+    Restore cursor position when opening file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#temporary-files" title="Temporary files" class="md-nav__link">
+    Temporary files
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#backup-files" title="Backup files" class="md-nav__link">
+    Backup files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#swap-files" title="Swap files" class="md-nav__link">
+    Swap files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#undo-files" title="Undo files" class="md-nav__link">
+    Undo files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#viminfo-files" title="Viminfo files" class="md-nav__link">
+    Viminfo files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#example-configuration-for-temporary-files" title="Example configuration for temporary files" class="md-nav__link">
+    Example configuration for temporary files
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-remote-files" title="Editing remote files" class="md-nav__link">
+    Editing remote files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#managing-plugins" title="Managing plugins" class="md-nav__link">
+    Managing plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#block-insert" title="Block insert" class="md-nav__link">
+    Block insert
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#running-external-programs-and-using-filters" title="Running external programs and using filters" class="md-nav__link">
+    Running external programs and using filters
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cscope" title="Cscope" class="md-nav__link">
+    Cscope
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-build-the-database" title="1. Build the database" class="md-nav__link">
+    1. Build the database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-add-the-database" title="2. Add the database" class="md-nav__link">
+    2. Add the database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-query-the-database" title="3. Query the database" class="md-nav__link">
+    3. Query the database
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matchit" title="MatchIt" class="md-nav__link">
+    MatchIt
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installation-for-vim-8" title="Installation for Vim 8" class="md-nav__link">
+    Installation for Vim 8
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#installation-for-vim-7-and-older" title="Installation for Vim 7 and older" class="md-nav__link">
+    Installation for Vim 7 and older
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#small-intro" title="Small intro" class="md-nav__link">
+    Small intro
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#true-colors" title="True colors" class="md-nav__link">
+    True colors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips_1" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#go-to-other-end-of-selected-text" title="Go to other end of selected text" class="md-nav__link">
+    Go to other end of selected text
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-behavior-of-n-and-n" title="Saner behavior of n and N" class="md-nav__link">
+    Saner behavior of n and N
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-command-line-history" title="Saner command-line history" class="md-nav__link">
+    Saner command-line history
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-ctrl-l" title="Saner CTRL-L" class="md-nav__link">
+    Saner CTRL-L
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disable-audible-and-visual-bells" title="Disable audible and visual bells" class="md-nav__link">
+    Disable audible and visual bells
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-move-current-line" title="Quickly move current line" class="md-nav__link">
+    Quickly move current line
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-add-empty-lines" title="Quickly add empty lines" class="md-nav__link">
+    Quickly add empty lines
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-edit-your-macros" title="Quickly edit your macros" class="md-nav__link">
+    Quickly edit your macros
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-jump-to-header-or-source-file" title="Quickly jump to header or source file" class="md-nav__link">
+    Quickly jump to header or source file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-change-font-size-in-gui" title="Quickly change font size in GUI" class="md-nav__link">
+    Quickly change font size in GUI
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#change-cursor-style-dependent-on-mode" title="Change cursor style dependent on mode" class="md-nav__link">
+    Change cursor style dependent on mode
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dont-lose-selection-when-shifting-sidewards" title="Don't lose selection when shifting sidewards" class="md-nav__link">
+    Don't lose selection when shifting sidewards
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reload-a-file-on-saving" title="Reload a file on saving" class="md-nav__link">
+    Reload a file on saving
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#smarter-cursorline" title="Smarter cursorline" class="md-nav__link">
+    Smarter cursorline
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faster-keyword-completion" title="Faster keyword completion" class="md-nav__link">
+    Faster keyword completion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cosmetic-changes-to-colorschemes" title="Cosmetic changes to colorschemes" class="md-nav__link">
+    Cosmetic changes to colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands_1" title="Commands" class="md-nav__link">
+    Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#global-and-vglobal" title=":global and :vglobal" class="md-nav__link">
+    :global and :vglobal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#normal-and-execute" title=":normal and :execute" class="md-nav__link">
+    :normal and :execute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#redir-and-execute" title=":redir and execute()" class="md-nav__link">
+    :redir and execute()
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging_1" title="Debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#general-tips" title="General tips" class="md-nav__link">
+    General tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verbosity" title="Verbosity" class="md-nav__link">
+    Verbosity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#profiling-startup-time" title="Profiling startup time" class="md-nav__link">
+    Profiling startup time
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#profiling-at-runtime" title="Profiling at runtime" class="md-nav__link">
+    Profiling at runtime
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging-vim-scripts" title="Debugging Vim scripts" class="md-nav__link">
+    Debugging Vim scripts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging-syntax-files" title="Debugging syntax files" class="md-nav__link">
+    Debugging syntax files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous_1" title="Miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-resources" title="Additional resources" class="md-nav__link">
+    Additional resources
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#screencasts" title="Screencasts" class="md-nav__link">
+    Screencasts
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vim-distributions" title="Vim distributions" class="md-nav__link">
+    Vim distributions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#standard-plugins" title="Standard plugins" class="md-nav__link">
+    Standard plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#map-capslock-to-control" title="Map CapsLock to Control" class="md-nav__link">
+    Map CapsLock to Control
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#generating-html-from-buffer" title="Generating HTML from buffer" class="md-nav__link">
+    Generating HTML from buffer
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#easter-eggs" title="Easter eggs" class="md-nav__link">
+    Easter eggs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-hjkl-for-navigation" title="Why hjkl for navigation?" class="md-nav__link">
+    Why hjkl for navigation?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#common-problems_1" title="Common problems" class="md-nav__link">
+    Common problems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-small-files-is-slow" title="Editing small files is slow" class="md-nav__link">
+    Editing small files is slow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-huge-files-is-slow" title="Editing huge files is slow" class="md-nav__link">
+    Editing huge files is slow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bracketed-paste-httpsgithubcommhinzvim-galoreblobmasteror-why-do-i-have-to-set-paste-all-the-time" title="Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)" class="md-nav__link">
+    Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#delays-when-using-escape-key-in-terminal" title="Delays when using escape key in terminal" class="md-nav__link">
+    Delays when using escape key in terminal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#function-search-undo" title="Function search undo" class="md-nav__link">
+    Function search undo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-quirks_1" title="Technical quirks" class="md-nav__link">
+    Technical quirks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#newline-used-for-nul" title="Newline used for NUL" class="md-nav__link">
+    Newline used for NUL
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminology_1" title="Terminology" class="md-nav__link">
+    Terminology
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vim-script-vimscript-viml" title="Vim script? Vimscript? VimL?" class="md-nav__link">
+    Vim script? Vimscript? VimL?
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -6601,8 +7467,863 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#intro" title="Intro" class="md-nav__link">
+    Intro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basics" title="Basics" class="md-nav__link">
+    Basics
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" title="Usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands" title="Commands" class="md-nav__link">
+    Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging" title="Debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous" title="Miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#common-problems" title="Common problems" class="md-nav__link">
+    Common problems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-quirks" title="Technical quirks" class="md-nav__link">
+    Technical quirks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminology" title="Terminology" class="md-nav__link">
+    Terminology
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-of-colorschemes" title="List of colorschemes" class="md-nav__link">
+    List of colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-of-plugins" title="List of plugins" class="md-nav__link">
+    List of plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intro_1" title="Intro" class="md-nav__link">
+    Intro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-vim" title="What is Vim?" class="md-nav__link">
+    What is Vim?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-vim-philosophy" title="The Vim Philosophy" class="md-nav__link">
+    The Vim Philosophy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#first-steps" title="First steps" class="md-nav__link">
+    First steps
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#minimal-vimrc" title="Minimal vimrc" class="md-nav__link">
+    Minimal vimrc
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-kind-of-vim-am-i-running" title="What kind of Vim am I running?" class="md-nav__link">
+    What kind of Vim am I running?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cheatsheets" title="Cheatsheets" class="md-nav__link">
+    Cheatsheets
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basics_1" title="Basics" class="md-nav__link">
+    Basics
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#buffers-windows-tabs" title="Buffers, windows, tabs" class="md-nav__link">
+    Buffers, windows, tabs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#active-loaded-listed-named-buffers" title="Active, loaded, listed, named buffers" class="md-nav__link">
+    Active, loaded, listed, named buffers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#argument-list" title="Argument list" class="md-nav__link">
+    Argument list
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mappings" title="Mappings" class="md-nav__link">
+    Mappings
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mapleader" title="Mapleader" class="md-nav__link">
+    Mapleader
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#registers" title="Registers" class="md-nav__link">
+    Registers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ranges" title="Ranges" class="md-nav__link">
+    Ranges
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#marks" title="Marks" class="md-nav__link">
+    Marks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#completion" title="Completion" class="md-nav__link">
+    Completion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motions-operators-text-objects" title="Motions, operators, text objects" class="md-nav__link">
+    Motions, operators, text objects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autocmds" title="Autocmds" class="md-nav__link">
+    Autocmds
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#changelist-jumplist" title="Changelist, jumplist" class="md-nav__link">
+    Changelist, jumplist
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#undo-tree" title="Undo tree" class="md-nav__link">
+    Undo tree
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickfix-and-location-lists" title="Quickfix and location lists" class="md-nav__link">
+    Quickfix and location lists
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#macros" title="Macros" class="md-nav__link">
+    Macros
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#colorschemes" title="Colorschemes" class="md-nav__link">
+    Colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#folding" title="Folding" class="md-nav__link">
+    Folding
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sessions" title="Sessions" class="md-nav__link">
+    Sessions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#locality" title="Locality" class="md-nav__link">
+    Locality
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage_1" title="Usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-offline" title="Getting help offline" class="md-nav__link">
+    Getting help offline
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-offline-httpsgithubcommhinzvim-galoreblobmasteralternative" title="Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)" class="md-nav__link">
+    Getting help offline (https://github.com/mhinz/vim-galore/blob/master/alternative)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-help-online" title="Getting help online" class="md-nav__link">
+    Getting help online
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autocmds-in-practice" title="Autocmds in practice" class="md-nav__link">
+    Autocmds in practice
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#user-events" title="User events" class="md-nav__link">
+    User events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nested-autocmds" title="Nested autocmds" class="md-nav__link">
+    Nested autocmds
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clipboard" title="Clipboard" class="md-nav__link">
+    Clipboard
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterwindows-macos" title="Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)" class="md-nav__link">
+    Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Windows, macOS)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clipboard-usage-httpsgithubcommhinzvim-galoreblobmasterlinux-bsd" title="Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)" class="md-nav__link">
+    Clipboard usage (https://github.com/mhinz/vim-galore/blob/master/Linux, BSD, ...)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#restore-cursor-position-when-opening-file" title="Restore cursor position when opening file" class="md-nav__link">
+    Restore cursor position when opening file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#temporary-files" title="Temporary files" class="md-nav__link">
+    Temporary files
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#backup-files" title="Backup files" class="md-nav__link">
+    Backup files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#swap-files" title="Swap files" class="md-nav__link">
+    Swap files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#undo-files" title="Undo files" class="md-nav__link">
+    Undo files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#viminfo-files" title="Viminfo files" class="md-nav__link">
+    Viminfo files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#example-configuration-for-temporary-files" title="Example configuration for temporary files" class="md-nav__link">
+    Example configuration for temporary files
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-remote-files" title="Editing remote files" class="md-nav__link">
+    Editing remote files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#managing-plugins" title="Managing plugins" class="md-nav__link">
+    Managing plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#block-insert" title="Block insert" class="md-nav__link">
+    Block insert
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#running-external-programs-and-using-filters" title="Running external programs and using filters" class="md-nav__link">
+    Running external programs and using filters
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cscope" title="Cscope" class="md-nav__link">
+    Cscope
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-build-the-database" title="1. Build the database" class="md-nav__link">
+    1. Build the database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-add-the-database" title="2. Add the database" class="md-nav__link">
+    2. Add the database
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-query-the-database" title="3. Query the database" class="md-nav__link">
+    3. Query the database
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matchit" title="MatchIt" class="md-nav__link">
+    MatchIt
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installation-for-vim-8" title="Installation for Vim 8" class="md-nav__link">
+    Installation for Vim 8
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#installation-for-vim-7-and-older" title="Installation for Vim 7 and older" class="md-nav__link">
+    Installation for Vim 7 and older
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#small-intro" title="Small intro" class="md-nav__link">
+    Small intro
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#true-colors" title="True colors" class="md-nav__link">
+    True colors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips_1" title="Tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#go-to-other-end-of-selected-text" title="Go to other end of selected text" class="md-nav__link">
+    Go to other end of selected text
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-behavior-of-n-and-n" title="Saner behavior of n and N" class="md-nav__link">
+    Saner behavior of n and N
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-command-line-history" title="Saner command-line history" class="md-nav__link">
+    Saner command-line history
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#saner-ctrl-l" title="Saner CTRL-L" class="md-nav__link">
+    Saner CTRL-L
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disable-audible-and-visual-bells" title="Disable audible and visual bells" class="md-nav__link">
+    Disable audible and visual bells
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-move-current-line" title="Quickly move current line" class="md-nav__link">
+    Quickly move current line
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-add-empty-lines" title="Quickly add empty lines" class="md-nav__link">
+    Quickly add empty lines
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-edit-your-macros" title="Quickly edit your macros" class="md-nav__link">
+    Quickly edit your macros
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-jump-to-header-or-source-file" title="Quickly jump to header or source file" class="md-nav__link">
+    Quickly jump to header or source file
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quickly-change-font-size-in-gui" title="Quickly change font size in GUI" class="md-nav__link">
+    Quickly change font size in GUI
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#change-cursor-style-dependent-on-mode" title="Change cursor style dependent on mode" class="md-nav__link">
+    Change cursor style dependent on mode
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dont-lose-selection-when-shifting-sidewards" title="Don't lose selection when shifting sidewards" class="md-nav__link">
+    Don't lose selection when shifting sidewards
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reload-a-file-on-saving" title="Reload a file on saving" class="md-nav__link">
+    Reload a file on saving
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#smarter-cursorline" title="Smarter cursorline" class="md-nav__link">
+    Smarter cursorline
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faster-keyword-completion" title="Faster keyword completion" class="md-nav__link">
+    Faster keyword completion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cosmetic-changes-to-colorschemes" title="Cosmetic changes to colorschemes" class="md-nav__link">
+    Cosmetic changes to colorschemes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands_1" title="Commands" class="md-nav__link">
+    Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#global-and-vglobal" title=":global and :vglobal" class="md-nav__link">
+    :global and :vglobal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#normal-and-execute" title=":normal and :execute" class="md-nav__link">
+    :normal and :execute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#redir-and-execute" title=":redir and execute()" class="md-nav__link">
+    :redir and execute()
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging_1" title="Debugging" class="md-nav__link">
+    Debugging
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#general-tips" title="General tips" class="md-nav__link">
+    General tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verbosity" title="Verbosity" class="md-nav__link">
+    Verbosity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#profiling-startup-time" title="Profiling startup time" class="md-nav__link">
+    Profiling startup time
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#profiling-at-runtime" title="Profiling at runtime" class="md-nav__link">
+    Profiling at runtime
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging-vim-scripts" title="Debugging Vim scripts" class="md-nav__link">
+    Debugging Vim scripts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debugging-syntax-files" title="Debugging syntax files" class="md-nav__link">
+    Debugging syntax files
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#miscellaneous_1" title="Miscellaneous" class="md-nav__link">
+    Miscellaneous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-resources" title="Additional resources" class="md-nav__link">
+    Additional resources
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#screencasts" title="Screencasts" class="md-nav__link">
+    Screencasts
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vim-distributions" title="Vim distributions" class="md-nav__link">
+    Vim distributions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#standard-plugins" title="Standard plugins" class="md-nav__link">
+    Standard plugins
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#map-capslock-to-control" title="Map CapsLock to Control" class="md-nav__link">
+    Map CapsLock to Control
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#generating-html-from-buffer" title="Generating HTML from buffer" class="md-nav__link">
+    Generating HTML from buffer
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#easter-eggs" title="Easter eggs" class="md-nav__link">
+    Easter eggs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-hjkl-for-navigation" title="Why hjkl for navigation?" class="md-nav__link">
+    Why hjkl for navigation?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#common-problems_1" title="Common problems" class="md-nav__link">
+    Common problems
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-small-files-is-slow" title="Editing small files is slow" class="md-nav__link">
+    Editing small files is slow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-huge-files-is-slow" title="Editing huge files is slow" class="md-nav__link">
+    Editing huge files is slow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bracketed-paste-httpsgithubcommhinzvim-galoreblobmasteror-why-do-i-have-to-set-paste-all-the-time" title="Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)" class="md-nav__link">
+    Bracketed paste (https://github.com/mhinz/vim-galore/blob/master/or why do I have to set 'paste' all the time?)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#delays-when-using-escape-key-in-terminal" title="Delays when using escape key in terminal" class="md-nav__link">
+    Delays when using escape key in terminal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#function-search-undo" title="Function search undo" class="md-nav__link">
+    Function search undo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-quirks_1" title="Technical quirks" class="md-nav__link">
+    Technical quirks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#newline-used-for-nul" title="Newline used for NUL" class="md-nav__link">
+    Newline used for NUL
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#terminology_1" title="Terminology" class="md-nav__link">
+    Terminology
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vim-script-vimscript-viml" title="Vim script? Vimscript? VimL?" class="md-nav__link">
+    Vim script? Vimscript? VimL?
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
   
 </nav>
                   </div>
@@ -6616,6 +8337,8 @@
                 
                   <a href="https://github.com/icopy-site/asm-en/blob/master/docs/awesome/vim-galore.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
+                
+                  <h1>Vim</h1>
                 
                 <div align='center'>
   <br /><br /><br />
@@ -6754,7 +8477,7 @@
 <h3 id="list-of-colorschemes"><a href="https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md#colorschemes-1">List of colorschemes</a><a class="headerlink" href="#list-of-colorschemes" title="Permanent link">&para;</a></h3>
 <h3 id="list-of-plugins"><a href="https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md">List of plugins</a><a class="headerlink" href="#list-of-plugins" title="Permanent link">&para;</a></h3>
 <p><br></p>
-<h1 id="intro_1">Intro<a class="headerlink" href="#intro_1" title="Permanent link">&para;</a></h1>
+<h2 id="intro_1">Intro<a class="headerlink" href="#intro_1" title="Permanent link">&para;</a></h2>
 <h2 id="what-is-vim">What is Vim?<a class="headerlink" href="#what-is-vim" title="Permanent link">&para;</a></h2>
 <p><a href="http://www.vim.org">Vim</a> is a text editor with a long line of ancestors that
 goes back to <a href="https://github.com/mhinz/vim-galore/blob/master/https://en.wikipedia.org/wiki/QED_(https://github.com/mhinz/vim-galore/blob/master/text_editor)">qed</a>. <a href="https://en.wikipedia.org/wiki/Bram_Moolenaar">Bram
@@ -6882,7 +8605,7 @@ similar, since these packages usually come with the huge feature set.</p>
 <li><a href="http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png">http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png</a></li>
 </ul>
 <p>Or quickly open a cheatsheet from within Vim: <a href="https://github.com/lifepillar/vim-cheat40">vim-cheat40</a>.</p>
-<h1 id="basics_1">Basics<a class="headerlink" href="#basics_1" title="Permanent link">&para;</a></h1>
+<h2 id="basics_1">Basics<a class="headerlink" href="#basics_1" title="Permanent link">&para;</a></h2>
 <h2 id="buffers-windows-tabs">Buffers, windows, tabs<a class="headerlink" href="#buffers-windows-tabs" title="Permanent link">&para;</a></h2>
 <p>Vim is a text editor. Every time text is shown, the text is part of a
 <strong>buffer</strong>. Each file will be opened in its own buffer. Plugins show stuff in
@@ -7945,7 +9668,7 @@ in the internal variable <code>v:this_session</code>.</p>
 </tbody>
 </table>
 <p><a href="https://vimhelp.appspot.com/usr_41.txt.html#41.2">Variables also have different scopes</a>.</p>
-<h1 id="usage_1">Usage<a class="headerlink" href="#usage_1" title="Permanent link">&para;</a></h1>
+<h2 id="usage_1">Usage<a class="headerlink" href="#usage_1" title="Permanent link">&para;</a></h2>
 <h2 id="getting-help-offline">Getting help offline<a class="headerlink" href="#getting-help-offline" title="Permanent link">&para;</a></h2>
 <p>Vim comes with great documentation in the form of single text files with a
 special layout. Vim uses a system based on tags for accessing certain parts of
@@ -8692,7 +10415,7 @@ set-option -ga terminal-overrides &#39;,xterm-256color:Tc&#39;
 </ul>
 <p>A popular reference for colors in the terminal:
 <a href="https://gist.github.com/XVilka/8346728">https://gist.github.com/XVilka/8346728</a></p>
-<h1 id="tips_1">Tips<a class="headerlink" href="#tips_1" title="Permanent link">&para;</a></h1>
+<h2 id="tips_1">Tips<a class="headerlink" href="#tips_1" title="Permanent link">&para;</a></h2>
 <h2 id="go-to-other-end-of-selected-text">Go to other end of selected text<a class="headerlink" href="#go-to-other-end-of-selected-text" title="Permanent link">&para;</a></h2>
 <p><code>o</code> and <code>O</code> in a visual selection make the cursor go to the other end. Try with
 blockwise selection to see the difference. This is useful for quickly changing
@@ -8853,7 +10576,7 @@ only for a certain colorscheme:</p>
 </pre></div>
 
 <p>This triggers only for <code>:colorscheme desert</code>.</p>
-<h1 id="commands_1">Commands<a class="headerlink" href="#commands_1" title="Permanent link">&para;</a></h1>
+<h2 id="commands_1">Commands<a class="headerlink" href="#commands_1" title="Permanent link">&para;</a></h2>
 <p>Useful commands that are good to know. Use <code>:h :&lt;command name&gt;</code> to learn more
 about them, e.g. <code>:h :global</code>.</p>
 <h2 id="global-and-vglobal">:global and :vglobal<a class="headerlink" href="#global-and-vglobal" title="Permanent link">&para;</a></h2>
@@ -8909,7 +10632,7 @@ can redirect to files, <a href="#registers">registers</a> or variables.</p>
 :h execute()
 </pre></div>
 
-<h1 id="debugging_1">Debugging<a class="headerlink" href="#debugging_1" title="Permanent link">&para;</a></h1>
+<h2 id="debugging_1">Debugging<a class="headerlink" href="#debugging_1" title="Permanent link">&para;</a></h2>
 <h2 id="general-tips">General tips<a class="headerlink" href="#general-tips" title="Permanent link">&para;</a></h2>
 <p>If you encounter a strange behaviour, try reproducing it like this:</p>
 <div class="codehilite"><pre><span></span>vim -u NONE -N
@@ -9056,7 +10779,7 @@ is compiled in, Vim provides the super useful <code>:syntime</code> command.</p>
 long and should be optimized or which regexps are used all the time but never
 even match.</p>
 <p>See <code>:h :syntime</code>.</p>
-<h1 id="miscellaneous_1">Miscellaneous<a class="headerlink" href="#miscellaneous_1" title="Permanent link">&para;</a></h1>
+<h2 id="miscellaneous_1">Miscellaneous<a class="headerlink" href="#miscellaneous_1" title="Permanent link">&para;</a></h2>
 <h2 id="additional-resources">Additional resources<a class="headerlink" href="#additional-resources" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -9284,7 +11007,7 @@ encoding and font.</p>
 but used, you might already guessed it, hjkl instead.</p>
 <p>Keyboard layout: <a href="https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/content-adm-3a-layout.jpg">click</a></p>
 <p>This also shows why <code>~</code> is used to denote the home directory on Unix systems.</p>
-<h1 id="common-problems_1">Common problems<a class="headerlink" href="#common-problems_1" title="Permanent link">&para;</a></h1>
+<h2 id="common-problems_1">Common problems<a class="headerlink" href="#common-problems_1" title="Permanent link">&para;</a></h2>
 <h2 id="editing-small-files-is-slow">Editing small files is slow<a class="headerlink" href="#editing-small-files-is-slow" title="Permanent link">&para;</a></h2>
 <p>There are two things which can have a huge impact on performance:</p>
 <ol>
@@ -9433,12 +11156,12 @@ your <code>~/.tmux.conf</code>:</p>
 can't easily highlight words from a function or redo the text changes made by
 it.</p>
 <p>Help: <code>:h function-search-undo</code></p>
-<h1 id="technical-quirks_1">Technical quirks<a class="headerlink" href="#technical-quirks_1" title="Permanent link">&para;</a></h1>
+<h2 id="technical-quirks_1">Technical quirks<a class="headerlink" href="#technical-quirks_1" title="Permanent link">&para;</a></h2>
 <h2 id="newline-used-for-nul">Newline used for NUL<a class="headerlink" href="#newline-used-for-nul" title="Permanent link">&para;</a></h2>
 <p>NUL characters (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>\0</code>) in a file, are stored as newline (<a href="https://github.com/mhinz/vim-galore/blob/master/">https://github.com/mhinz/vim-galore/blob/master/</a><code>\n</code>) in memory and
 displayed in a buffer as <code>^@</code>.</p>
 <p>See <code>man 7 ascii</code> and <code>:h NL-used-for-Nul</code> for more information.</p>
-<h1 id="terminology_1">Terminology<a class="headerlink" href="#terminology_1" title="Permanent link">&para;</a></h1>
+<h2 id="terminology_1">Terminology<a class="headerlink" href="#terminology_1" title="Permanent link">&para;</a></h2>
 <h2 id="vim-script-vimscript-viml">Vim script? Vimscript? VimL?<a class="headerlink" href="#vim-script-vimscript-viml" title="Permanent link">&para;</a></h2>
 <p><code>Vim script</code>, <code>Vimscript</code>, and <code>VimL</code> all refer to the same thing: The
 programming language used for scripting Vim. Even though

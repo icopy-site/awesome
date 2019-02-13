@@ -4052,8 +4052,6 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
-      
-    
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Git Add-ons
@@ -4067,11 +4065,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#awesome-git-addons" title="Awesome git addons" class="md-nav__link">
+    Awesome git addons
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
@@ -7859,11 +7862,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#awesome-git-addons" title="Awesome git addons" class="md-nav__link">
+    Awesome git addons
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
@@ -9120,7 +9128,9 @@
                   <a href="https://github.com/icopy-site/asm-en/blob/master/docs/awesome/awesome-git-addons.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="awesome-git-addons">Awesome git addons <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#awesome-git-addons" title="Permanent link">&para;</a></h1>
+                  <h1>Git Add-ons</h1>
+                
+                <h2 id="awesome-git-addons">Awesome git addons <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#awesome-git-addons" title="Permanent link">&para;</a></h2>
 <p>A curated list of add-ons that extend/enhance the git CLI.</p>
 <div class="codehilite"><pre><span></span>$ git bla
 Something awesome happens!
@@ -10420,15 +10430,15 @@ Options:
 </pre></div>
 
 <h2 id="git-user"><a href="https://github.com/gesquive/git-user">git-user</a><a class="headerlink" href="#git-user" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span># add a work profile for Henry
+<div class="codehilite"><pre><span></span>## add a work profile for Henry
 $ git user add work &quot;Dr. Henry Jekyll&quot; henry@jekyll.com
 Added profile &#39;work&#39;
 
-# add a personal profile for Edward
+## add a personal profile for Edward
 $ git user add home &quot;Edward Hyde&quot; hyde@night.com
 Added profile &#39;home&#39;
 
-# list out our saved profiles
+## list out our saved profiles
 $ git user list
 Global Profile:
   User: Henry &lt;hjekyll@gmail.com&gt;
@@ -10437,11 +10447,11 @@ Saved Profiles:
   home: Edward Hyde &lt;hyde@night.com&gt;
   work: Dr. Henry Jekyll &lt;henry@jekyll.com&gt;
 
-# set the current git repository user to the home profile
+## set the current git repository user to the home profile
 $ git user set home
 The user for the &#39;project&#39; repository has been set too &#39;Edward Hyde &lt;hyde@night.com&gt;&#39;
 
-# list profiles again, notice how the current repository profile is now set
+## list profiles again, notice how the current repository profile is now set
 $ git user
 Project Profile:
   Path: /path/to/git/project
@@ -10459,17 +10469,17 @@ Saved Profiles:
 <h2 id="git-recall"><a href="https://github.com/Fakerr/git-recall">git-recall</a><a class="headerlink" href="#git-recall" title="Permanent link">&para;</a></h2>
 <p><img alt="" src="https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966" /></p>
 <div class="codehilite"><pre><span></span>$ git recall
-# By default (https://github.com/stevemao/awesome-git-addons/blob/master/without options), the command will display commits from yesterday and
-# for the current user.
+## By default (https://github.com/stevemao/awesome-git-addons/blob/master/without options), the command will display commits from yesterday and
+## for the current user.
 
 $ git recall -d 5 -a &quot;Doge&quot;
-# Show all Doge&#39;s commits from 5 days ago.
+## Show all Doge&#39;s commits from 5 days ago.
 
 $ git recall -d 5 -a &quot;all&quot;
-# Show commits of all contributors from 5 days ago.
+## Show commits of all contributors from 5 days ago.
 
 $ git recall -f
-# Fetch commits beforehand.
+## Fetch commits beforehand.
 </pre></div>
 
 <h2 id="git-standup"><a href="https://github.com/kamranahmedse/git-standup">git-standup</a><a class="headerlink" href="#git-standup" title="Permanent link">&para;</a></h2>

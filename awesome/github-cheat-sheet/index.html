@@ -4013,8 +4013,6 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
-      
-    
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Cheat Sheet
@@ -4028,11 +4026,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#github-cheat-sheet" title="GitHub Cheat Sheet" class="md-nav__link">
+    GitHub Cheat Sheet
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
@@ -7182,11 +7185,16 @@
 <nav class="md-nav md-nav--secondary">
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#github-cheat-sheet" title="GitHub Cheat Sheet" class="md-nav__link">
+    GitHub Cheat Sheet
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
@@ -7764,7 +7772,9 @@
                   <a href="https://github.com/icopy-site/asm-en/blob/master/docs/awesome/github-cheat-sheet.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="github-cheat-sheet">GitHub Cheat Sheet <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#github-cheat-sheet" title="Permanent link">&para;</a></h1>
+                  <h1>Cheat Sheet</h1>
+                
+                <h2 id="github-cheat-sheet">GitHub Cheat Sheet <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#github-cheat-sheet" title="Permanent link">&para;</a></h2>
 <p>A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://github.com/holman">Zach Holman</a>'s <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets">Git and GitHub Secrets</a> talk at Aloha Ruby Conference 2012 (<a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/">https://github.com/tiimgreen/github-cheat-sheet/blob/master/</a><a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/git-and-github-secrets">slides</a>) and his <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://vimeo.com/72955426">More Git and GitHub Secrets</a> talk at WDCNZ 2013 (<a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/">https://github.com/tiimgreen/github-cheat-sheet/blob/master/</a><a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/https://speakerdeck.com/holman/more-git-and-github-secrets">slides</a>).</p>
 <p><em>Shortlink: <a href="http://git.io/sheet"><code>http://git.io/sheet</code></a></em></p>
 <p><em>Read this in other languages: <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md">English</a>, <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md">한국어</a>, <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md">日本語</a>, <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md">简体中文</a>, <a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md">正體中文</a>.</em></p>
@@ -8315,13 +8325,13 @@ Changes to be committed:
 <h3 id="previous-branch">Previous Branch<a class="headerlink" href="#previous-branch" title="Permanent link">&para;</a></h3>
 <p>To move to the previous branch in Git:</p>
 <div class="codehilite"><pre><span></span>$ git checkout -
-<span class="c1"># Switched to branch &#39;master&#39;</span>
+<span class="c1">## Switched to branch &#39;master&#39;</span>
 
 $ git checkout -
-<span class="c1"># Switched to branch &#39;next&#39;</span>
+<span class="c1">## Switched to branch &#39;next&#39;</span>
 
 $ git checkout -
-<span class="c1"># Switched to branch &#39;master&#39;</span>
+<span class="c1">## Switched to branch &#39;master&#39;</span>
 </pre></div>
 
 <p><a href="http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging"><em>Read more about Git branching.</em></a></p>
@@ -8553,10 +8563,10 @@ $ git rebase abcde^ --autosquash -i
 <p>Git gives suggestions for misspelled commands and if auto-correct is enabled the command can be fixed and executed automatically. Auto-correct is enabled by specifying an integer which is the delay in tenths of a second before git will run the corrected command. Zero is the default value where no correcting will take place, and a negative value will run the corrected command with no delay.</p>
 <p>For example, if you type <code>git comit</code> you will get this:</p>
 <div class="codehilite"><pre><span></span>$ git comit -m <span class="s2">&quot;Message&quot;</span>
-<span class="c1"># git: &#39;comit&#39; is not a git command. See &#39;git --help&#39;.</span>
+<span class="c1">## git: &#39;comit&#39; is not a git command. See &#39;git --help&#39;.</span>
 
-<span class="c1"># Did you mean this?</span>
-<span class="c1">#   commit</span>
+<span class="c1">## Did you mean this?</span>
+<span class="c1">##   commit</span>
 </pre></div>
 
 <p>Auto-correct can be enabled like this (<a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/with">https://github.com/tiimgreen/github-cheat-sheet/blob/master/with</a> a 1.5 second delay):</p>
@@ -8565,9 +8575,9 @@ $ git rebase abcde^ --autosquash -i
 
 <p>So now the command <code>git comit</code> will be auto-corrected to <code>git commit</code> like this:</p>
 <div class="codehilite"><pre><span></span>$ git comit -m <span class="s2">&quot;Message&quot;</span>
-<span class="c1"># WARNING: You called a Git command named &#39;comit&#39;, which does not exist.</span>
-<span class="c1"># Continuing under the assumption that you meant &#39;commit&#39;</span>
-<span class="c1"># in 1.5 seconds automatically...</span>
+<span class="c1">## WARNING: You called a Git command named &#39;comit&#39;, which does not exist.</span>
+<span class="c1">## Continuing under the assumption that you meant &#39;commit&#39;</span>
+<span class="c1">## in 1.5 seconds automatically...</span>
 </pre></div>
 
 <p>The delay before git will rerun the command is so the user has time to abort.</p>
