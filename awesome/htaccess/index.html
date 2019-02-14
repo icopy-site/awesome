@@ -39,7 +39,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../..">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.1">
     
     
       
@@ -47,7 +47,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/application.18bd1ba2.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.982221ab.css">
       
         <link rel="stylesheet" href="../../assets/stylesheets/application-palette.224b79ff.css">
       
@@ -58,7 +58,7 @@
       
     
     
-      <script src="../../assets/javascripts/modernizr.962652e9.js"></script>
+      <script src="../../assets/javascripts/modernizr.1f0bcf2b.js"></script>
     
     
       
@@ -2800,13 +2800,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
-    Table of Contents
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#rewrite-and-redirection" title="Rewrite and Redirection" class="md-nav__link">
     Rewrite and Redirection
   </a>
@@ -5218,6 +5211,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../awesome.md" title="Craft CMS" class="md-nav__link">
+      Craft CMS
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -6984,13 +6989,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-contents" title="Table of Contents" class="md-nav__link">
-    Table of Contents
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#rewrite-and-redirection" title="Rewrite and Redirection" class="md-nav__link">
     Rewrite and Redirection
   </a>
@@ -7336,67 +7334,15 @@
                 
                   <h1>Useful `.htaccess` Snippets</h1>
                 
-                <h2 id="htaccess-snippets">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#htaccess-snippets" title="Permanent link">&para;</a></h2>
+                <div class="github-widget" data-repo="phanan/htaccess"></div>
+
+<h2 id="htaccess-snippets">.htaccess Snippets <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a><a class="headerlink" href="#htaccess-snippets" title="Permanent link">&para;</a></h2>
 <p>A collection of useful .htaccess snippets, all in one place.</p>
 <p><strong>NOTE</strong>: <code>.htaccess</code> files are for people that do not have rights to edit the main server configuration file. They are intrinsically slower and more complicated than using the main config. Please see the <a href="https://httpd.apache.org/docs/current/howto/htaccess.html">howto in the httpd documentation</a> for further details.</p>
 <p><strong>Disclaimer</strong>: While dropping the snippet into an <code>.htaccess</code> file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.</p>
 <p><strong>IMPORTANT</strong>: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the <a href="https://httpd.apache.org/docs/2.4/upgrading.html">upgrading document</a> as well as <a href="https://github.com/phanan/htaccess/issues/2">this issue</a>.</p>
 <h2 id="credits">Credits<a class="headerlink" href="#credits" title="Permanent link">&para;</a></h2>
 <p>What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from <a href="https://github.com/h5bp/server-configs-apache">Apache Server Configs</a>) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.</p>
-<h2 id="table-of-contents">Table of Contents<a class="headerlink" href="#table-of-contents" title="Permanent link">&para;</a></h2>
-<ul>
-<li><a href="#rewrite-and-redirection">Rewrite and Redirection</a><ul>
-<li><a href="#force-www">Force www</a></li>
-<li><a href="#force-www-in-a-generic-way">Force www in a Generic Way</a></li>
-<li><a href="#force-non-www">Force non-www</a></li>
-<li><a href="#force-non-www-in-a-generic-way">Force non-www in a Generic Way</a></li>
-<li><a href="#force-https">Force HTTPS</a></li>
-<li><a href="#force-https-behind-a-proxy">Force HTTPS Behind a Proxy</a></li>
-<li><a href="#force-trailing-slash">Force Trailing Slash</a></li>
-<li><a href="#remove-trailing-slash">Remove Trailing Slash</a></li>
-<li><a href="#redirect-a-single-page">Redirect a Single Page</a></li>
-<li><a href="#redirect-using-redirectmatch">Redirect Using RedirectMatch</a></li>
-<li><a href="#alias-a-single-directory">Alias a Single Directory</a></li>
-<li><a href="#alias-paths-to-script">Alias Paths to Script</a></li>
-<li><a href="#redirect-an-entire-site">Redirect an Entire Site</a></li>
-<li><a href="#alias-clean-urls">Alias "Clean" URLs</a></li>
-<li><a href="#exclude-url-from-redirection">Exclude a URL from Redirection</a></li>
-</ul>
-</li>
-<li><a href="#security">Security</a><ul>
-<li><a href="#deny-all-access">Deny All Access</a></li>
-<li><a href="#deny-all-access-except-yours">Deny All Access Except Yours</a></li>
-<li><a href="#allow-all-access-except-spammers">Allow All Access Except Spammers'</a></li>
-<li><a href="#deny-access-to-hidden-files-and-directories">Deny Access to Hidden Files and Directories</a></li>
-<li><a href="#deny-access-to-backup-and-source-files">Deny Access to Backup and Source Files</a></li>
-<li><a href="#disable-directory-browsing">Disable Directory Browsing</a></li>
-<li><a href="#disable-image-hotlinking">Disable Image Hotlinking</a></li>
-<li><a href="#disable-image-hotlinking-for-specific-domains">Disable Image Hotlinking for Specific Domains</a></li>
-<li><a href="#password-protect-a-directory">Password Protect a Directory</a></li>
-<li><a href="#password-protect-a-file-or-several-files">Password Protect a File or Several Files</a></li>
-<li><a href="#block-visitors-by-referrer">Block Visitors by Referrer</a></li>
-<li><a href="#prevent-framing-the-site">Prevent Framing the Site</a></li>
-</ul>
-</li>
-<li><a href="#performance">Performance</a><ul>
-<li><a href="#compress-text-files">Compress Text Files</a></li>
-<li><a href="#set-expires-headers">Set Expires Headers</a></li>
-<li><a href="#turn-etags-off">Turn eTags Off</a></li>
-</ul>
-</li>
-<li><a href="#miscellaneous">Miscellaneous</a><ul>
-<li><a href="#set-php-variables">Set PHP Variables</a></li>
-<li><a href="#custom-error-pages">Custom Error Pages</a></li>
-<li><a href="#force-downloading">Force Downloading</a></li>
-<li><a href="#prevent-downloading">Prevent Downloading</a></li>
-<li><a href="#allow-cross-domain-fonts">Allow Cross-Domain Fonts</a></li>
-<li><a href="#auto-utf-8-encode">Auto UTF-8 Encode</a></li>
-<li><a href="#switch-to-another-php-version">Switch to Another PHP Version</a></li>
-<li><a href="#disable-internet-explorer-compatibility-view">Disable Internet Explorer Compatibility View</a></li>
-<li><a href="#serve-webp-images">Serve WebP Images</a></li>
-</ul>
-</li>
-</ul>
 <h2 id="rewrite-and-redirection">Rewrite and Redirection<a class="headerlink" href="#rewrite-and-redirection" title="Permanent link">&para;</a></h2>
 <p>Note: It is assumed that you have <code>mod_rewrite</code> installed and enabled.</p>
 <h3 id="force-www">Force www<a class="headerlink" href="#force-www" title="Permanent link">&para;</a></h3>
@@ -7878,13 +7824,17 @@ This way does it with links intact. That is <code>www.oldsite.com/some/crazy/lin
       
     </div>
     
-      <script src="../../assets/javascripts/application.c5c8ade4.js"></script>
+      <script src="../../assets/javascripts/application.43ad2ac2.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
       
         <script src="https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js"></script>
       
         <script src="../../_static/js/extra.js"></script>
+      
+        <script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+      
+        <script src="https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js"></script>
       
         <script src="https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
       

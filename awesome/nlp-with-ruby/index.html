@@ -39,7 +39,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../..">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.1">
     
     
       
@@ -47,7 +47,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/application.18bd1ba2.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.982221ab.css">
       
         <link rel="stylesheet" href="../../assets/stylesheets/application-palette.224b79ff.css">
       
@@ -58,7 +58,7 @@
       
     
     
-      <script src="../../assets/javascripts/modernizr.962652e9.js"></script>
+      <script src="../../assets/javascripts/modernizr.1f0bcf2b.js"></script>
     
     
       
@@ -111,7 +111,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#awesome-nlp-with-ruby" tabindex="1" class="md-skip">
+      <a href="#tutorials" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -3107,20 +3107,6 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#awesome-nlp-with-ruby" title="Awesome NLP with Ruby " class="md-nav__link">
-    Awesome NLP with Ruby 
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#contents" title="Contents" class="md-nav__link">
-    Contents
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#tutorials" title="Tutorials" class="md-nav__link">
     Tutorials
   </a>
@@ -5198,6 +5184,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../awesome.md" title="Craft CMS" class="md-nav__link">
+      Craft CMS
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -6950,20 +6948,6 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#awesome-nlp-with-ruby" title="Awesome NLP with Ruby " class="md-nav__link">
-    Awesome NLP with Ruby 
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#contents" title="Contents" class="md-nav__link">
-    Contents
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#tutorials" title="Tutorials" class="md-nav__link">
     Tutorials
   </a>
@@ -7294,12 +7278,13 @@
                 
                   <h1>NLP with Ruby</h1>
                 
-                <p><img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/header.png" align="center"></p>
+                <div class="github-widget" data-repo="arbox/nlp-with-ruby"></div>
+
+<p><img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/header.png" align="center"></p>
 <p><a href="https://github.com/sindresorhus/awesome#readme"><img alt="Awesome" src="https://awesome.re/badge-flat.svg" /></a> <a href="https://www.patreon.com/arbox"><img alt="Support Me" src="https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square" /></a></p>
 <p>[<a href="https://github.com/arbox/machine-learning-with-ruby">RubyML</a> |
  <a href="https://github.com/arbox/data-science-with-ruby">RubyDataScience</a> |
  <a href="https://github.com/arbox/ruby-interoperability">RubyInterop</a>]</p>
-<h2 id="awesome-nlp-with-ruby">Awesome NLP with Ruby <a href="https://www.ruby-lang.org/en/"><img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" /></a><a class="headerlink" href="#awesome-nlp-with-ruby" title="Permanent link">&para;</a></h2>
 <blockquote>
 <p>Useful resources for text processing in Ruby</p>
 </blockquote>
@@ -7326,57 +7311,8 @@ requests or create an issue to start a discussion.</p>
 and please spread the word using the <code>#RubyNLP</code> hash tag!</p>
 <!-- nodoc -->
 
-<h2 id="contents">Contents<a class="headerlink" href="#contents" title="Permanent link">&para;</a></h2>
 <!-- toc -->
 
-<ul>
-<li><a href="#sparkles-tutorials"><img alt="✨" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2728.svg" title=":sparkles:" /> Tutorials</a></li>
-<li><a href="#nlp-pipeline-subtasks">NLP Pipeline Subtasks</a></li>
-<li><a href="#pipeline-generation">Pipeline Generation</a></li>
-<li><a href="#multipurpose-engines">Multipurpose Engines</a><ul>
-<li><a href="#on-line-apis">On-line APIs</a></li>
-</ul>
-</li>
-<li><a href="#language-identification">Language Identification</a></li>
-<li><a href="#segmentation">Segmentation</a></li>
-<li><a href="#lexical-processing">Lexical Processing</a><ul>
-<li><a href="#stemming">Stemming</a></li>
-<li><a href="#lemmatization">Lemmatization</a></li>
-<li><a href="#lexical-statistics-counting-types-and-tokens">Lexical Statistics: Counting Types and Tokens</a></li>
-<li><a href="#filtering-stop-words">Filtering Stop Words</a></li>
-</ul>
-</li>
-<li><a href="#phrasal-level-processing">Phrasal Level Processing</a></li>
-<li><a href="#syntactic-processing">Syntactic Processing</a><ul>
-<li><a href="#constituency-parsing">Constituency Parsing</a></li>
-</ul>
-</li>
-<li><a href="#semantic-analysis">Semantic Analysis</a></li>
-<li><a href="#pragmatical-analysis">Pragmatical Analysis</a></li>
-<li><a href="#high-level-tasks">High Level Tasks</a></li>
-<li><a href="#spelling-and-error-correction">Spelling and Error Correction</a></li>
-<li><a href="#text-alignment">Text Alignment</a></li>
-<li><a href="#machine-translation">Machine Translation</a></li>
-<li><a href="#sentiment-analysis">Sentiment Analysis</a></li>
-<li><a href="#numbers-dates-and-time-parsing">Numbers, Dates, and Time Parsing</a></li>
-<li><a href="#named-entity-recognition">Named Entity Recognition</a></li>
-<li><a href="#text-to-speech-to-text">Text-to-Speech-to-Text</a></li>
-<li><a href="#dialog-agents-assistants-and-chatbots">Dialog Agents, Assistants, and Chatbots</a></li>
-<li><a href="#linguistic-resources">Linguistic Resources</a></li>
-<li><a href="#machine-learning-libraries">Machine Learning Libraries</a></li>
-<li><a href="#data-visualization">Data Visualization</a></li>
-<li><a href="#optical-character-recognition">Optical Character Recognition</a></li>
-<li><a href="#text-extraction">Text Extraction</a></li>
-<li><a href="#full-text-search-information-retrieval-indexing">Full Text Search, Information Retrieval, Indexing</a></li>
-<li><a href="#language-aware-string-manipulation">Language Aware String Manipulation</a></li>
-<li><a href="#articles-posts-talks-and-presentations">Articles, Posts, Talks, and Presentations</a></li>
-<li><a href="#projects-and-code-examples">Projects and Code Examples</a></li>
-<li><a href="#books">Books</a></li>
-<li><a href="#community">Community</a></li>
-<li><a href="#needs-your-help">Needs your Help!</a></li>
-<li><a href="#related-resources">Related Resources</a></li>
-<li><a href="#license">License</a></li>
-</ul>
 <!-- tocstop -->
 
 <!-- doc -->
@@ -7955,13 +7891,17 @@ work. If not, see <a href="https://creativecommons.org/publicdomain/zero/1.0/">h
       
     </div>
     
-      <script src="../../assets/javascripts/application.c5c8ade4.js"></script>
+      <script src="../../assets/javascripts/application.43ad2ac2.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
       
         <script src="https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js"></script>
       
         <script src="../../_static/js/extra.js"></script>
+      
+        <script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+      
+        <script src="https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js"></script>
       
         <script src="https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
       
