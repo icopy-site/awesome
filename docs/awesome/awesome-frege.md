@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sfischer13/awesome-frege"></div>
 ## Awesome Frege [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Frege](https://github.com/Frege/frege) programming language
@@ -6,44 +7,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Introduction](#introduction)
-  - [Overview](#overview)
-  - [First Steps](#first-steps)
-  - [Comparisons](#comparisons)
-  - [Official Resources](#official-resources)
-- [Community](#community)
-  - [Chat](#chat)
-  - [Questions](#questions)
-  - [Social Media](#social-media)
-- [Information](#information)
-  - [Articles & Blogs](#articles--blogs)
-  - [Books](#books)
-  - [Conferences](#conferences)
-  - [Courses](#courses)
-  - [Talks](#talks)
-- [Libraries](#libraries)
-  - [Android](#android)
-  - [Big Data](#big-data)
-  - [Databases](#databases)
-  - [Email](#email)
-  - [Graphics](#graphics)
-  - [GUI](#gui)
-  - [Web Frameworks](#web-frameworks)
-- [Sample Applications](#sample-applications)
-  - [Games](#games)
-  - [Media](#media)
-  - [Web](#web)
-- [Tools](#tools)
-  - [Build Tools](#build-tools)
-  - [IDEs](#ides)
-  - [REPLs](#repls)
-  - [Unit Testing](#unit-testing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

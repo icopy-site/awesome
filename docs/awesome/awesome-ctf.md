@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="apsdehal/awesome-ctf"></div>
 ## Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
@@ -13,34 +14,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/aps
 It takes time to build up collection of tools used in ctf and remember them all. This repo helps to keep all these scattered tools at one place.
 
 
-### Contents
 
-- [Awesome CTF](#awesome-ctf)
-  - [Create](#create)
-    - [Forensics](#forensics)
-    - [Platforms](#platforms)
-    - [Steganography](#steganography)
-    - [Web](#web)
-  - [Solve](#solve)
-    - [Attacks](#attacks)
-    - [Bruteforcers](#bruteforcers)
-    - [Cryptography](#crypto)
-    - [Exploits](#exploits)
-    - [Forensics](#forensics-1)
-    - [Networking](#networking)
-    - [Reversing](#reversing)
-    - [Services](#services)
-    - [Steganography](#steganography-1)
-    - [Web](#web-1)
 
-- [Resources](#resources)
-  - [Operating Systems](#operating-systems)
-  - [Starter Packs](#starter-packs)
-  - [Tutorials](#tutorials)
-  - [Wargames](#wargames)
-  - [Websites](#websites)
-  - [Wikis](#wikis)
-  - [Writeups Collections](#writeups-collections)
 
 ## Create
 

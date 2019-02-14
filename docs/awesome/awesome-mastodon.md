@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tleb/awesome-mastodon"></div>
 ## Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
@@ -7,20 +8,7 @@
 
 **Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
 
-## Contents
 
-* [Official](#official)
-* [Documentation](#documentation)
-* [Clients](#clients)
-* [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
-* [Blogs](#blogs)
-* [Libraries](#libraries)
-* [Hosting](#hosting)
 
 ## Official
 
@@ -48,7 +36,6 @@
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 
 ## Tools

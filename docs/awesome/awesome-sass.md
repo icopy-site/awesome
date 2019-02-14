@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Famolus/awesome-sass"></div>
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
 
 ## Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -7,24 +8,6 @@
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](https://github.com/Famolus/awesome-sass/blob/master/contributing.md).
 
-## Contents
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Sass vs SCSS](#sass-vs-scss)
-- [Frameworks](#frameworks)
-- [Libraries and Mixins](#libraries-and-mixins)
-  - [Grid](#grid)
-  - [Media Queries](#media-queries)
-  - [Color](#color)
-  - [Typography](#typography)
-  - [Animation](#animation)
-  - [Miscellaneous](#miscellaneous)
-- [Style Guides](#style-guides)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Books](#books)
-- [Videos](#videos)
-- [Community](#community)
 
 ## About
 [Sass](http://sass-lang.com/) is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.

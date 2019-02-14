@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="scholtzm/awesome-steam"></div>
 ## Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
@@ -6,26 +7,8 @@
 
 The purpose of this document is to provide a quick overview over existing packages (libraries, modules etc.) and resources available regarding Steam client automation and WebAPI usage. Whenever you need to start a new project, have a look at the list of packages and see if there is anything useful for your use case. If you need technical details or tutorials, check out the resources section.
 
-## Table of Contents
 
-- [Packages](#packages)
-  - [Node.js](#nodejs)
-  - [C#](#c)
-  - [PHP](#php)
-  - [Go](#go)
-  - [Python](#python)
-  - [C++](#c-1)
-  - [Java](#java)
-  - [Objective-C](#objective-c)
-  - [Ruby](#ruby)
 
-- [Resources](#resources)
-  - [General](#general-1)
-  - [Tutorials](#tutorials)
-  - [Posts](#posts)
-  - [Standalone Tools](#standalone-tools)
-  - [Discussion Boards](#discussion-boards)
-  - [Third-Party Services](#third-party-services)
 
 ## Packages
 

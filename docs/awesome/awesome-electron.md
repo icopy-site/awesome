@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-electron"></div>
 ## Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
@@ -11,19 +12,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 </a>
 
 
-## Contents
 
-- [Apps](#apps)
-- [Boilerplates](#boilerplates)
-- [Tools](#tools)
-- [Components](#components)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Tips](#tips)
 
 
 ## Apps

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brillout/awesome-redux"></div>
 ## Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
@@ -9,17 +10,6 @@
  
  <br/>
 
-#### Contents
-- [Code Architecture](#code-architecture)
-- [Utilities](#utilities)
-- [Code Style](#code-style)
-- [Dev tools / Inspection tools](#dev-tools--inspection-tools)
-- [React Integration](#react-integration)
-- [Other Integrations](#other-integrations)
-- [Boilerplate](#boilerplate)
-- [Miscellaneous](#miscellaneous)
-- [Learning Material](#learning-material)
-- [Community](#community)
 
 <br/>
 

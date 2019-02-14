@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="phalcon/awesome-phalcon"></div>
 ## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -14,48 +15,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/p
 Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
-### Contents
 
-- [Awesome Phalcon](#awesome-phalcon)
-    - [ACL](#acl)
-    - [Application Skeleton](#application-skeleton)
-    - [Authentication & OAuth](#authentication--oauth)
-    - [CMS & Blogs](#cms--blogs)
-    - [Command Line](#command-line)
-    - [Dashboard](#dashboard)
-    - [Debug](#debug)
-    - [DI](#di)
-    - [Docs](#docs)
-    - [Events](#events)
-    - [Forms](#forms)
-    - [i18n](#i18n)
-    - [Integration](#integration)
-    - [Mail](#mail)
-    - [Media](#media)
-    - [Miscellaneous](#miscellaneous)
-    - [Networking](#networking)
-    - [ORM](#orm)
-    - [ODM](#odm)
-    - [Provisioning](#provisioning)
-    - [RESTful](#restful)
-    - [Routing](#routing)
-    - [Scaffolding](#scaffolding)
-    - [Searching](#searching)
-    - [Shopping](#shopping)
-    - [SMS](#sms)
-    - [Talks](#talks)
-    - [Templating](#templating)
-    - [Testing](#testing)
-    - [Validators](#validators)
-    - [Web Tools](#web-tools)
 
-- [Server Applications](#server-applications)
 
-- [Resources](#resources)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Websites](#websites)
-        - [Tutorials](#tutorials)
 
 ## ACL
 
@@ -100,7 +62,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## CMS & Blogs
 
-*Content management systems & blogs.*
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)

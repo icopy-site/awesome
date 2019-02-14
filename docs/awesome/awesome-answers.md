@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="cyberglot/awesome-answers"></div>
 Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
@@ -6,23 +7,7 @@ Curated list of inspiring and thoughtful answers given on stackoverflow, quora, 
 TOC
 ---
 
- - [Algorithms](#algorithms)
- - [Compilers](#compilers)
- - [Data Structures](#data-structures)
- - [Functional Programming](#functional-programming)
- - [Learning to program](#learning-how-to-program)
- - [Math](#math)
  - Programming Languages
- 	- [Clojure](#clojure)
- 	- [C/C++](#cc)
-	- [Haskell](#haskell)
- 	- [JavaScript](#javascript)
- 	- [PHP](#php)
- 	- [Python](#python)
- 	- [Ruby](#ruby)
- - [Programming Languages Theory](#programming-languages-theory)
- - [Version Control Systems](#version-control-systems)
- - [Miscellaneous](#miscellaneous)
 
 Algorithms
 ---

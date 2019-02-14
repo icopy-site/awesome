@@ -1,17 +1,11 @@
+<div class="github-widget" data-repo="bfred-it/Awesome-WebExtensions"></div>
 ## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
 WebExtensions are a cross-browser system for developing browser add-ons. To a large extent the system is compatible with the [extension API](https://developer.chrome.com/extensions) supported by Google Chrome and Opera. Extensions written for these browsers will in most cases run in Firefox or [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) with just [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
-## Contents
 
-- [Getting Started](#getting-started)
-- [Community](#community)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [Tools](#tools)
-- [Boilerplates](#boilerplates)
-- [Sample Extensions](#sample-extensions)
 
 ## Getting started
 

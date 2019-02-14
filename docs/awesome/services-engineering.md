@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mmcgrana/services-engineering"></div>
 ## Services Engineering Reading List
 
 A reading list for services engineering, with a focus on cloud
@@ -11,7 +12,6 @@ We welcome [suggestions](https://github.com/mmcgrana/services-engineering/blob/m
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
-* [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
 * [Bigtable: a Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) (Chang et al.)
 * [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
 * [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (DeCandia et al.)
@@ -24,11 +24,9 @@ We welcome [suggestions](https://github.com/mmcgrana/services-engineering/blob/m
 * [Automatic Management of Partitioned, Replicated Search Services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.1862&rep=rep1&type=pdf) (Leibert et al.)
 * [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) (Limoncelli et al.)
 * [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf) (Lin and Rayboy)
-* [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) (Melnik et al.)
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
 * [The Log-Structured Merge-Tree](http://www.cs.umb.edu/~poneil/lsmtree.pdf) (O'Neil et al.)
 * [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf) (Ongaro and Ousterhout)
-* [Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/disk_failures.pdf) (Pinheiro et al.)
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)

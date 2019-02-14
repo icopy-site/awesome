@@ -1,75 +1,10 @@
+<div class="github-widget" data-repo="sorrycc/awesome-javascript"></div>
 ## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-* [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Loaders](#loaders)
-  * [Bundlers](#bundlers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  * [Templating Engines](#templating-engines)
-  * [Articles/Posts](#articles-and-posts)
-  * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
-  * [Editors](#editors)
-  * [Documentation](#documentation)
   * Utilities
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#media)
-    * [Voice Command](#voice-command)
-    * [API](#api)
-    * [Streaming](#streaming)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
-    * [Benchmark](#benchmark)
-    * [Machine Learning](#machine-learning)
   * UI
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-    * [Boilerplates](#boilerplates)
-  * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Typography](#typography)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
-  * [ES6](#es6)
-  * [SDK](#sdk)
-  * [Misc](#misc)
-  * [Podcasts](#podcasts)
-* [Worth Reading](#worth-reading)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing](#contributing)
 
 ----
 
@@ -208,7 +143,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [KeystoneJS](https://github.com/keystonejs/keystone) - powerful CMS and web app framework
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design
 * [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform
-* [Apostrophe](https://github.com/punkave/apostrophe) - CMS with content editing and essential services
 * [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs
 * [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
@@ -315,7 +249,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
 * [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-* [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
 
 
@@ -560,7 +493,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 * [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
-* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
@@ -716,7 +648,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 * [colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
-* [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 

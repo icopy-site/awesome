@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="markets/awesome-ruby"></div>
 <div>
   <p align="center">
     <a href="http://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
@@ -15,109 +16,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
-* [Awesome Ruby](#awesome-ruby)
-  * [Abstraction](#abstraction)
-  * [Admin Interface](#admin-interface)
-  * [Analytics](#analytics)
-  * [API Builder and Discovery](#api-builder-and-discovery)
-  * [Assets](#assets)
-  * [Authentication and OAuth](#authentication-and-oauth)
-  * [Authorization](#authorization)
-  * [Automation](#automation)
-  * [Caching](#caching)
-  * [Captchas and anti-spam](#captchas-and-anti-spam)
-  * [CLI Builder](#cli-builder)
-  * [CLI Utilities](#cli-utilities)
-  * [Cloud](#cloud)
-  * [CMS](#cms)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-  * [Code Highlighting](#code-highlighting)
-  * [Coding Style Guides](#coding-style-guides)
-  * [Concurrency and Parallelism](#concurrency-and-parallelism)
-  * [Configuration](#configuration)
-  * [Core Extensions](#core-extensions)
-  * [Country Data](#country-data)
-  * [CRM](#crm)
-  * [Cryptocurrencies and Blockchains](#cryptocurrencies-and-blockchains)
-  * [Dashboards](#dashboards)
-  * [Data Processing and ETL](#data-processing-and-etl)
-  * [Data Visualization](#data-visualization)
-  * [Database Drivers](#database-drivers)
-  * [Database Tools](#database-tools)
-  * [Date and Time Processing](#date-and-time-processing)
-  * [Debugging Tools](#debugging-tools)
-  * [Decorators](#decorators)
-  * [DevOps Tools](#devops-tools)
-  * [Diff](#diff)
-  * [Documentation](#documentation)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Ebook](#ebook)
-  * [Email](#email)
-  * [Encryption](#encryption)
-  * [Environment Management](#environment-management)
-  * [Error Handling](#error-handling)
-  * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
-  * [File Upload](#file-upload)
-  * [File System](#file-system)
-  * [Form Builder](#form-builder)
-  * [Game Development](#game-development)
-  * [Gem Generators](#gem-generators)
-  * [Geolocation](#geolocation)
-  * [Git Tools](#git-tools)
-  * [GraphQL](#graphql)
-  * [GUI](#gui)
-  * [HTML/XML Parsing](#htmlxml-parsing)
-  * [HTTP Clients and tools](#http-clients-and-tools)
-  * [Image Processing](#image-processing)
-  * [Implementations/Compilers](#implementationscompilers)
-  * [Internationalization](#internationalization)
-  * [IRB](#irb)
-  * [Logging](#logging)
-  * [Machine Learning](#machine-learning)
-  * [Markdown Processors](#markdown-processors)
-  * [Measurements](#measurements)
-  * [Mobile Development](#mobile-development)
-  * [Money](#money)
-  * [Music and Sound](#music-and-sound)
-  * [Natural Language Processing](#natural-language-processing)
-  * [Navigation](#navigation)
-  * [Networking](#networking)
-  * [Optimizations](#optimizations)
-  * [ORM/ODM](#ormodm)
-  * [ORM/ODM Extensions](#ormodm-extensions)
-  * [Package Management](#package-management)
-  * [Pagination](#pagination)
-  * [PDF](#pdf)
-  * [Performance Monitoring](#performance-monitoring)
-  * [Presentation Programs](#presentation-programs)
-  * [Process Monitoring](#process-monitoring)
-  * [Processes](#processes)
-  * [Profiler and Optimization](#profiler-and-optimization)
-  * [QR](#qr)
-  * [Queues and Messaging](#queues-and-messaging)
-  * [Rails Application Generators](#rails-application-generators)
-  * [Robotics](#robotics)
-  * [RSS](#rss)
-  * [Scheduling](#scheduling)
-  * [Scientific](#scientific)
-  * [Search](#search)
-  * [Security](#security)
-  * [SEO](#seo)
-  * [Social Networking](#social-networking)
-  * [Spreadsheets and Documents](#spreadsheets-and-documents)
-  * [State Machines](#state-machines)
-  * [Static Site Generation](#static-site-generation)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Third-party APIs](#third-party-apis)
-  * [Video](#video)
-  * [View helpers](#view-helpers)
-  * [Web Crawling](#web-crawling)
-  * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
-  * [WebSocket](#websocket)
-* [Services and Apps](#services-and-apps)
-* [Resources](#resources)
 
 ## Abstraction
 
@@ -146,7 +44,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
-* [Typus](https://github.com/typus/typus) - Ruby on Rails control panel to allow trusted users edit structured content.
 
 ## Analytics
 
@@ -218,7 +115,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
-* [Petergate](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Automation
@@ -283,16 +179,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
-* [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 * [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 * [Fae](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 * [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
-* [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
-* [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
-* [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
 * [Spina CMS](http://www.spinacms.com) - A beautiful CMS for Rails developers.
-* [Storytime](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and bloging engine, with a core focus on content.
 
 ## Code Analysis and Metrics
 
@@ -1060,7 +951,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/rack-protection) - Rack middleware for protecting against typical Web attacks.
-* [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ## SEO
 

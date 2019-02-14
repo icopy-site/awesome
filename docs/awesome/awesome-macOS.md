@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="iCHAIT/awesome-macOS"></div>
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,46 +7,7 @@
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
-## Table of Contents
 
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Backup](#backup)
-    - [Bookmark Utilities](#bookmark-utilities)
-    - [Chat Clients](#chat-clients)
-    - [Data Recovery](#data-recovery)
-    - [Developers](#developers)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Email Utilities](#email-utilities)
-    - [Finder](#finder)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Productivity](#productivity)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Window Management](#window-management)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#macos-utilities)
-- [Setup](#setup)
-    - [DevMyMac](#devmymac)
-    - [laptop](#laptop)
-    - [mac-dev-setup](#mac-dev-setup)
-    - [macbook-playbook](#macbook-playbook)
-    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Apple](#apple)
-    - [IRC channels](#irc-channels)
-    - [MacRumors](#macrumors)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
 
 
 ## Applications
@@ -437,7 +399,6 @@ Contributions are most welcome, please adhere to the [Contribution Guidelines](h
 
 Please consider checking out the [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) to be included.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## License

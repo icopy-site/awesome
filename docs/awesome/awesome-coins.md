@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="kennethreitz/awesome-coins"></div>
 ## ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)

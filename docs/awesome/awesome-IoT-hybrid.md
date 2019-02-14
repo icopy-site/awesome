@@ -1,16 +1,9 @@
+<div class="github-widget" data-repo="weblancaster/awesome-IoT-hybrid"></div>
 ## Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
 
-- [IoT](#iot)
-	- [OS](#os)
-	- [Frameworks/Tools](#frameworks-tools)
-	- [Resources/websites/projects](#resources-websites-projects)
-- [Hybrid Desktop](#hybrid-desktop)
-- [Hybrid mobile](#hybrid-mobile)
-	- [Tools/Plugins](#tools-plugins)
-- [Miscellaneous](#miscellaneous)
 
 ## IoT
 - [Tessel](https://tessel.io/)

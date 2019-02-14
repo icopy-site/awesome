@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="rayokota/awesome-hbase"></div>
 ## Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/c197f415/hbase_logo_with_orca-2.png" align="right" width="150">](http://hbase.apache.org/)
@@ -6,30 +7,8 @@ A curated list of awesome HBase projects and resources.
 
 [HBase](http://hbase.apache.org) is a distributed, scalable, big data store.
 
-## Contents
 
-- [Projects](#projects)
-    - [Clients](#clients)
-    - [Cloud](#cloud)
-    - [Frameworks](#frameworks)
-        - [Datasets](#datasets)
-        - [Document](#document)
-        - [Entity/JPA](#entityjpa)
-        - [Geospatial](#geospatial)
-        - [Graph](#graph)
-        - [SQL/OLAP](#sqlolap)
-        - [Time Series](#time-series)
-    - [Infrastructure](#infrastructure)
-        - [Secondary Indices](#secondary-indices)
-        - [Transactions](#transactions)
-    - [Integrations](#integrations)
-    - [Tools](#tools)
-    - [Miscellaneous](#miscellaneous)
 
-- [Resources](#resources)
-    - [Books](#books)
-    - [Papers](#papers)
-    - [Community](#community)
 
     
 ## Projects
@@ -97,7 +76,6 @@ A curated list of awesome HBase projects and resources.
 #### Secondary Indices
 
 * [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
-* [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions
 
@@ -161,7 +139,6 @@ A curated list of awesome HBase projects and resources.
 
 ### Papers
 
-* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - The inspiration for HBase.
 * [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) - How Facebook deployed HBase to production.
 
 ### Community

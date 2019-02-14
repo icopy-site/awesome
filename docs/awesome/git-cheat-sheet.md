@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="arslanbilal/git-cheat-sheet"></div>
 Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
 ===============
 <hr>
@@ -24,17 +25,6 @@ Be free to contribute, update the grammar mistakes. You are also free to add you
 Git Cheat Sheet English
 ===============
 ### Index
-* [Set Up](#setup)
-* [Configuration Files](#configuration-files)
-* [Create](#create)
-* [Local Changes](#local-changes)
-* [Search](#search)
-* [Commit History](#commit-history)
-* [Branches & Tags](#branches--tags)
-* [Update & Publish](#update--publish)
-* [Merge & Rebase](#merge--rebase)
-* [Undo](#undo)
-* [Git Flow](#git-flow)
 
 
 <hr>
@@ -561,12 +551,6 @@ $ git commit -m "remove xyz file"
 Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
-* [Setup](#setup)
-* [Getting Started](#getting-started)
-* [Features](#features)
-* [Make a Release](#make-a-release)
-* [Hotfixes](#hotfixes)
-* [Commands](#commands)
 
 <hr>
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="yissachar/awesome-dart"></div>
 Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
@@ -7,29 +8,8 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 Please take a quick look at the [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
 
-### Contents
 
 * Libraries
-  * [Client Web App Frameworks](#client-web-app-frameworks)
-  * [Server Frameworks](#server-frameworks)
-  * [Game Development](#game-development)
-  * [Animation](#animation)
-  * [Template](#template)
-  * [Database](#database)
-  * [Package Managers](#package-managers)
-  * [Utilities](#utilities)
-  * [Dependency Injection](#dependency-injection)
-  * [Parsers](#parsers)
-  * [Validation](#validation)
-  * [ORM](#orm)
-  * [Image](#image)
-  * [Algorithms](#algorithms)
-  * [Testing](#testing)
-* [Tools](#tools)
-* [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
-* [Tutorials](#tutorials)
-* [Community](#community)
-* [Everything Else](#everything-else)
 
 ----
 
@@ -57,7 +37,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## Game Development
 
 * [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine
-* [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.

@@ -1,36 +1,9 @@
+<div class="github-widget" data-repo="XamSome/awesome-xamarin"></div>
 ## Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A hand-picked bookmark collection of subjectively modern/interesting and ideally open-source libraries/tools for Xamarin Android/iOS/Windows/OSX
 
 
-## Contents
-- [General](#general)
-- [Architecture](#architecture)
-- [Async](#async)
-- [Charts](#charts)
-- [Cloud](#cloud)
-- [Database](#database)
-- [Fody](#fody)
-- [Framework](#framework)
-- [Game Engine](#game-engine)
-- [IO/Storage](#iostorage)
-- [IOC/DI](#iocdi)
-- [Internationalization](#internationalization)
-- [Layout](#layout)
-- [Media](#media)
-- [MVVM](#mvvm)
-- [Network](#network)
-- [Reactive](#reactive)
-- [Security](#security)
-- [Serialization](#serialization)
-- [TDD/BDD](#tddbdd)
-- [Tools](#tools)
-- [UI](#ui)
-- [Wearable](#wearable)
-- [Xamarin.Forms](#xamarinforms)
-- [XPlat APIs](#xplat-apis)
-- [Other lists](#other-lists)
-- [Websites](#websites)
 
 
 ## General
@@ -174,7 +147,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin.
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
-- [Fusillade ★216](https://github.com/paulcbetts/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
+- [Fusillade ★216](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
 - [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
@@ -238,6 +211,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 - [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) -  Telerik UI for Xamarin offers more the 70 controls to build professional-looking modern mobile applications for iOS, Android and UWP from a single code base.
+- [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
+- [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
+
+
 
 ## Wearable
 

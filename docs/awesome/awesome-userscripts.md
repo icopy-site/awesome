@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brunocvcunha/awesome-userscripts"></div>
 ## Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
@@ -5,19 +6,7 @@ A curated list of Awesome Userscripts.
 User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
 
 
-## Contents
 
-- [How to use](#How_to_use)
-- [Scripts](#scripts)
-  - [General](#general)
-  - [GitHub](#github)
-  - [Privacy](#privacy)
-  - [YouTube](#youtube)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Additional Catalogues](#additional-catalogues)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 
@@ -82,9 +71,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs.
 * [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments.
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub.
-* [GitHub sort content](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
-* [GitHub table of contents](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
 * [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.

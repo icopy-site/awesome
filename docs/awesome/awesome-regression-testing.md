@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mojoaxel/awesome-regression-testing"></div>
 ## Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of awesome visual regression testing resources.
@@ -10,19 +11,7 @@ This is intended to be an *incomplete* list of resources about visual regression
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
-## Contents
 
-- [General information](#general-information)
-- [Browser automation](#browser-automation)
-- [Tools and frameworks](#tools-and-frameworks)
-- [Online services](#online-services)
-- [Blog posts](#blog-posts)
-- [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Deprecated](#deprecated)
-- [Miscellaneous](#Miscellaneous)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
 
 ## General information
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="passy/awesome-recursion-schemes"></div>
 ## Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curation of useful resources for learning about and using recursion schemes.
@@ -5,14 +6,7 @@
 Recursion schemes are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
 
 
-## Contents
 
-- [Introductions](#introductions)
-- [Articles](#articles)
-- [Papers](#papers)
-- [Presentations](#presentations)
-- [Podcasts](#podcasts)
-- [Implementations](#implementations)
 
 
 ## Introductions

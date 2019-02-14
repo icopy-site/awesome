@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mislavcimpersak/awesome-dev-fun"></div>
 ## Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
@@ -5,25 +6,7 @@
 For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
-## Contents
 
-- [Android](#android)
-- [CSS](#css)
-- [Elixir](#elixir)
-- [Golang](#golang)
-- [Haskell](#haskell)
-- [HTML](#html)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Esoteric languages](#esoteric-languages)
-- [SaaS](#saas)
-- [Browser extensions](#browser-extensions)
-- [CLI](#cli)
-- [DevOps](#devops)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Android

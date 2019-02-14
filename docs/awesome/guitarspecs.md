@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="gitfrage/guitarspecs"></div>
 
 ## Electric Guitar Specifications
 
@@ -10,44 +11,14 @@ It can help you to build a guitar with specific sound and playability characteri
 
 Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
-## Table of Contents
 
-- [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
-- [Guitar Necks](#guitar-necks)
-  - [Neck Profile](#neck-profile)
-  - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing)
-  - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
-  - [Fretboard’s Radius](#fretboards-radius)
-  - [Fret Sizes](#fret-sizes)
-  - [Common Neck Head Shapes](#common-neck-head-shapes)
-  - [Tuner Holes](#tuner-holes)
 
-- [Guitar Bodies](#guitar-bodies)
-    - [Bridge Routing](#bridge-routing)
-        - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
-        - [Tremolo Routing](#tremolo-routing)
-        - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
-    - [Pickup Routing](#pickup-routing)
 
-- [Hardware](#hardware)
-  - [Tuning Machines](#tuning-machines)
-  - [Bridges](#bridges)
-  - [Knob Styles](#knob-styles)
-  - [More Parts To Complete](#more-parts-to-complete)
 
-- [Electronics](#electronics)
-  - [Pickup Properties](#pickup-properties)
-  - [Electronics Wiring Options](#electronics-wiring-options)
-  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
-  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
-  - [Active Pickups Electronic](#active-pickups-electronics)
 
-- [Strings](#strings)
 
-- [Scale Length](#scale-length)
 
-- [Woods](#woods)
 
 ---------------
 
@@ -285,7 +256,6 @@ Jazzmaster              | mm (")
 
 Tuning Machines Options:
 
- - Diameters of bore holes for axis (see chapter [Tuner Holes](#tuner-holes))
  - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
    Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
@@ -355,7 +325,6 @@ Following topics change resonant frequency and resonant peak:
 ### Pickup Properties
 ![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
-- Dimension and product group - see chapter  [Puckup Routing](#pickup-routing)
 - Output: low(vintage), medium, high (vintage used often for jazz and blues)
 - Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le

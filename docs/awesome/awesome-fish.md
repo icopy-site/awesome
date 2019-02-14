@@ -1,21 +1,11 @@
+<div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 ## Awesome Fish
 
 A curated list of packages, prompts, and resources for the amazing <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
-## Table of Contents
 
-- [Package Management](#package-management)
-- [Prompts](#prompts)
-- [Utilities](#utilities)
-  - [Environment](#environment)
-  - [Key Bindings](#key-bindings)
-  - [Node.js](#nodejs)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Community](#community)
-  - [Learning](#learning)
 
 ## Package Management
 
@@ -39,9 +29,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
-- [jorgebucaran/**fish-tape**](https://github.com/jorgebucaran/fish-tape) - TAP producing test runner
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
-- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ### Environment
 
@@ -59,6 +47,11 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
+
+### Testing
+
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ## Resources
 

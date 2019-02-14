@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sbilly/awesome-security"></div>
 ## Awesome Security
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,45 +9,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 
 Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-- [Awesome Security](#awesome-security)
-  - [Network](#network)
-    - [Scanning / Pentesting](#scanning--pentesting)
-    - [Monitoring / Logging](#monitoring--logging)
-    - [IDS / IPS / Host IDS / Host IPS](#ids--ips--host-ids--host-ips)
-    - [Honey Pot / Honey Net](#honey-pot--honey-net)
-    - [Full Packet Capture / Forensic](#full-packet-capture--forensic)
-    - [Sniffer](#sniffer)
-    - [Security Information & Event Management](#security-information--event-management)
-    - [VPN](#vpn)
-    - [Fast Packet Processing](#fast-packet-processing)
-    - [Firewall](#firewall)
-    - [Anti-Spam](#anti-spam)
-    - [Docker](#docker-images-for-penetration-testing--security)
-  - [Endpoint](#endpoint)
-    - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
-    - [Content Disarm & Reconstruct](#content-disarm--reconstruct)
-    - [Configuration Management](#configuration-management)
-    - [Authentication](#authentication)
-    - [Mobile / Android / iOS](#mobile--android--ios)
-    - [Forensics](#forensics)
-  - [Threat Intelligence](#threat-intelligence)
-  - [Web](#web)
-    - [Organization](#organization)
-    - [Web Application Firewall](#web-application-firewall)
-    - [Scanning / Pentesting](#scanning--pentesting-1)
-    - [Runtime Application Self-Protection](#runtime-application-self-protection)
-    - [Development](#development)
-  - [Usability](#usability)
-  - [Big Data](#big-data)
-  - [DevOps](#devops)
-  - [Operating Systems](#operating-systems)
-    - [Online resources](#online-resources)
-  - [Datastores](#datastores)
-  - [EBooks](#ebooks)
-  - [Other Awesome Lists](#other-awesome-lists)
-    - [Other Security Awesome Lists](#other-security-awesome-lists)
-    - [Other Common Awesome Lists](#other-common-awesome-lists)
-  - [Contributing](#contributing)
 
 ------
 
@@ -172,7 +134,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
-### Content Disarm & Reconstruct
 
 - [DocBleach](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 

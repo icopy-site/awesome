@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jonleibowitz/awesome-digitalocean"></div>
 ## Awesome DigitalOcean [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/jonleibowitz/awesome-digitalocean/master/media/DO_Logo.png" align="right" width="100">](https://www.digitalocean.com/)
@@ -9,16 +10,7 @@ DigitalOcean's tagline is it is a simple and robust cloud computing platform, de
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 
-## Contents
 
-- [Community](#community)
-- [Configuration management](#configuration-management)
-- [Developer documentation](#developer-documentation)
-- [Open source projects](#open-source-projects)
-- [Community OSS projects](#community-oss-projects)
-- [Clients](#clients)
-- [Video tutorials](#video-tutorials)
-- [Other](#other)
 
 
 ## Community

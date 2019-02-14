@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brunopulis/awesome-a11y"></div>
 ## Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
@@ -11,9 +12,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 > A curated list of awesome Accessibility tools, articles and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
-**Table of Contents**
 
-- [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
   - [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
   - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles.md)

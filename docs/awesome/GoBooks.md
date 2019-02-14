@@ -1,10 +1,6 @@
+<div class="github-widget" data-repo="dariubs/GoBooks"></div>
 Go Books [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
-* [Books](#books)
- * [Starter Books](#starter-books)
- * [Advanced Books](#advanced-books)
- * [Web Development](#web-development)
-* [Resources](#resources)
 
 
 **Books**
@@ -111,7 +107,6 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 <a href="https://www.packtpub.com/application-development/learning-go-programming"><img src="https://vladimirvivien.github.io/learning-go/front-cover-small-243x300.jpg" width="120px"/></a>
 
-*Learning Go Programming* is a book intended to help new, and seasoned programmers alike, to get into the Go programming language. The book distills the language specs, the documentations, the blogs, the videos, slides, and the author's experiences of writing Go into content that carefully provides the right amount of depth and insights to help you understand the language and its design.
 
 ### [API Foundations in Go](https://leanpub.com/api-foundations)
 

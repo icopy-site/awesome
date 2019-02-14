@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="agarrharr/awesome-static-website-services"></div>
 ## Awesome Static Website Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of services for static websites.
@@ -6,30 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 <h1 align="center"><a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">Looking for new maintainers</a></h1>
 
-## Table of Contents
 
-- [Audio](#audio)
-- [Books](#books)
-- [Calendar and Scheduling](#calendar-and-scheduling)
-- [Images](#images)
-- [Maps](#maps)
-- [Presentations](#presentations)
-- [Video](#video)
-- [Code](#code)
-- [Functions as a Service FaaS](#functions-as-a-service)
-- [Community](#community)
-  - [Comments](#comments)
-  - [Forms](#forms)
-  - [Live Chat](#live-chat)
-  - [Newsletters](#newsletters)
-  - [Social Media](#social-media)
-  - [Surveys](#surveys)
-- [E-Commerce](#e-commerce)
-- [Payments](#payments)
-- [Search](#search)
-- [Analytics](#analytics)
-- [Other](#other)
-- [Related Lists](#related-lists)
 
 ---
 

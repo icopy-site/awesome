@@ -1,39 +1,9 @@
+<div class="github-widget" data-repo="burningtree/awesome-json"></div>
 ## Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome JSON libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-* [Awesome JSON](#awesome-json)
-  * [Applications](#applications)
-  * [Binary Serialization](#binary-serialization)
-  * [Browser Extensions](#browser-extensions)
-  * [Command-line tools](#command-line-tools)
-  * [Databases](#databases)
-  * [Datasets](#datasets)
-  * [Data modeling](#data-modeling)
-  * [Data generation](#data-generation)
-  * [Differencing](#differencing)
-  * [Format Extensions](#format-extensions)
-  * [Frontend components](#frontend-components)
-  * [Libraries](#libraries)
-  * [Linters](#linters)
-  * [Online tools](#online-tools)
-  * [Schema Specifications](#schema-specifications)
-  * [Services](#services)
-  * [Supersets](#supersets)
-  * [Related formats](#related-formats)
-  * [Resources](#resources)
-  * [Templates](#templates)
-  * [Testing](#testing)
-  * [Text Editor Plugins](#text-editor-plugins)
-  * [Transformations](#transformations)
-  * [Tutorials](#tutorials)
-  * [Queries](#queries)
-  * [JSON Schema Frontend components](#json-schema-frontend-components)
-  * [JSON Schema Tools](#json-schema-tools)
-  * [JSON Schema Resources](#json-schema-resources)
-  * [JSON Schema Validators](#json-schema-validators)
-  * [Contribute](#contribute)
 
 ## Applications
 **OS X**

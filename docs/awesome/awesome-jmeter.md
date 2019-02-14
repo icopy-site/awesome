@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 ## Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
@@ -5,37 +6,8 @@ The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java applica
 
 This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
-## Contents
 
-- [Getting Started](#getting-started)
-- [Tutorials](#tutorials)
 - [Books](#books)    
-- [Trainings & Courses](#trainings--courses)
-- [Best Practices](#best-practices)
-- [Scripting](#scripting)
-- [DSL](#dsl)
-- [Distributions](#distributions)
-- [Plugins](#plugins)
-- [CI](#ci)
-- [Distributed Testing](#distributed-testing)
-- [Cloud Services / SaaS](#cloud-services--saas)
-- [Monitoring](#monitoring)
-- [Results Analysis](#results-analysis)
-- [Results Visualisation](#results-visualisation)
-- [JMeter Performance](#jmeter-performance)
-- [Tips & Tricks](#tips--tricks)
-- [IDE Integration](#ide-integration)
-- [Performance Testing](#performance-testing)
-    - [Streaming Protocols](#streaming-protocols)
-    - [Mobile Apps](#mobile-apps)
-- [Community](#community)
-    - [Blogs](#blogs)
-    - [Forums](#forums)
-    - [News & Updates](#news--updates)
-    - [Twitter](#twitter)
-    - [Q&A](#qa)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Getting Started

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="seancoyne/awesome-coldfusion"></div>
 ## Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript).
@@ -5,19 +6,6 @@ A curated list of awesome ColdFusion frameworks, libraries and software. Inspire
 Pull requests very welcome.
 
 * [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	* [Engines](#engines)
-	* [Application Frameworks](#application-frameworks)
-	* [Testing](#testing)
-	* [Dependency Injection](#dependency-injection)
-	* [Content Management Systems](#cms)
-	* [NoSQL](#nosql)
-	* [REST](#rest)
-	* [Other Libraries](#other-libraries)
-	* [Editors](#editors)
-	* [Tools](#tools)
-	* [References](#references)
-	* [Resources](#resources)
-	* [Documentation](#documentation)
 	
 ----
 
@@ -30,7 +18,6 @@ Pull requests very welcome.
 
 * [CFWheels](https://cfwheels.org) - An open source CFML framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
-* [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
@@ -50,8 +37,6 @@ Pull requests very welcome.
 
 ## CMS
 
-* [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura](https://github.com/blueriver/MuraCMS)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language

@@ -1,29 +1,11 @@
+<div class="github-widget" data-repo="guillaume-chevalier/awesome-deep-learning-resources"></div>
 ## [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
 
 
-## Contents
 
-- [Trends](#trends)
-- [Online classes](#online-classes)
-- [Books](#books)
-- [Posts and Articles](#posts-and-articles)
-- [Practical resources](#practical-resources)
-  - [Librairies and Implementations](#librairies-and-implementations)
-  - [Some Datasets](#some-datasets)
-- [Other Math Theory](#other-math-theory)
-  - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
-  - [Complex Numbers & Digital Signal Processing](#complex-numbers-and-digital-signal-processing)
-- [Papers](#papers)
-  - [Recurrent Neural Networks](#recurrent-neural-networks)
-  - [Convolutional Neural Networks](#convolutional-neural-networks)
-  - [Attention Mechanisms](#attention-mechanisms)
-  - [Other](#other)
-- [YouTube and Videos](#youtube)
-- [Misc. Hubs and Links](#misc-hubs-and-links)
-- [License](#license)
 
 <a name="trends" />
 
@@ -62,7 +44,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - The audio version is nice to listen to while commuting. This book is motivating about reverse-engineering the mind and thinking on how to code AI.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
-- [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
+- [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=100&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
 
 <a name="posts-and-articles" />
 

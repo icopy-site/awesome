@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Kikobeats/awesome-network-js"></div>
 ## Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > A 🎩 list of network layer resources written pure JS.
@@ -17,7 +18,6 @@
 * [ipp-printer](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix](https://github.com/mafintosh/peerflix) – Streaming torrent client.
-* [peervisionary](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
 * [peerwiki](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
 * [screencat](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [signalhub](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.

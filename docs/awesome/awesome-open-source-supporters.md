@@ -1,21 +1,11 @@
+<div class="github-widget" data-repo="zachflower/awesome-open-source-supporters"></div>
 ## Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
 **Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
 
-## Contents
 
-- [Code Coverage](#code-coverage)
-- [Code Quality](#code-quality)
-- [Continuous Integration](#continuous-integration)
-- [Dependency Management](#dependency-management)
-- [Package Management](#package-management)
-- [Project Management](#project-management)
-- [Monitoring](#monitoring)
-- [Localization](#localization)
-- [Version Control](#version-control)
-- [Miscellaneous](#miscellaneous)
 
 ## Code Coverage
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-nodejs"></div>
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
@@ -31,70 +32,7 @@
 </div>
 
 
-## Contents
 
-- [Packages](#packages)
-	- [Mad science](#mad-science)
-	- [Command-line apps](#command-line-apps)
-	- [Functional programming](#functional-programming)
-	- [HTTP](#http)
-	- [Debugging / Profiling](#debugging--profiling)
-	- [Logging](#logging)
-	- [Command-line utilities](#command-line-utilities)
-	- [Build tools](#build-tools)
-	- [Hardware](#hardware)
-	- [Templating](#templating)
-	- [Web frameworks](#web-frameworks)
-	- [Documentation](#documentation)
-	- [Filesystem](#filesystem)
-	- [Control flow](#control-flow)
-	- [Streams](#streams)
-	- [Real-time](#real-time)
-	- [Image](#image)
-	- [Text](#text)
-	- [Number](#number)
-	- [Math](#math)
-	- [Date](#date)
-	- [URL](#url)
-	- [Data validation](#data-validation)
-	- [Parsing](#parsing)
-	- [Humanize](#humanize)
-	- [Compression](#compression)
-	- [Network](#network)
-	- [Database](#database)
-	- [Testing](#testing)
-	- [Security](#security)
-	- [Benchmarking](#benchmarking)
-	- [Minifiers](#minifiers)
-	- [Authentication](#authentication)
-	- [Authorization](#authorization)
-	- [Email](#email)
-	- [Job queues](#job-queues)
-	- [Node.js management](#nodejs-management)
-	- [Natural language processing](#natural-language-processing)
-	- [Process management](#process-management)
-	- [Automation](#automation)
-	- [AST](#ast)
-	- [Static site generators](#static-site-generators)
-	- [Content management systems](#content-management-systems)
-	- [Forum](#forum)
-	- [Blogging](#blogging)
-	- [Weird](#weird)
-	- [Serialization](#serialization)
-	- [Miscellaneous](#miscellaneous)
-- [Resources](#resources)
-	- [Tutorials](#tutorials)
-	- [Discovery](#discovery)
-	- [Articles](#articles)
-	- [Newsletters](#newsletters)
-	- [Videos](#videos)
-	- [Books](#books)
-	- [Blogs](#blogs)
-	- [Courses](#courses)
-	- [Cheatsheets](#cheatsheets)
-	- [Tools](#tools)
-	- [Community](#community)
-	- [Miscellaneous](#miscellaneous)
 
 
 ## Packages
@@ -730,7 +668,6 @@
 - [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files.
 
 
-### Content management systems
 
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.

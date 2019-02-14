@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hkirat/awesome-chess"></div>
 ## Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of assets availible on the Internet related to chess.
@@ -9,15 +10,6 @@ Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-ch
 
 Content
 ---
- - [Books](#books)
- - [FEN Parsers](#fen-parsers)
- - [Move Validators](#move-validators)
- - [Bots](#bots)
- - [Websites](#websites)
- - [Boards](#boards)
- - [Board Notations](#board-notations)
- - [Pieces](#pieces)
- - [Talks](#talks)
 
 Books
 ---

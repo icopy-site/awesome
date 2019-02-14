@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
 Awesome OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/rizo/awesome-ocaml)
 =============
 
@@ -13,45 +14,7 @@ For a quick intorduction to the modern OCaml development workflow consult the [*
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
-## Contents
 
-- [Community](#community)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Application Libraries](#application-libraries)
-- [Benchmarking](#benchmarking)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Code Analysis and Linters](#code-analysis-and-linters)
-- [Compilers and Compiler Tools](#compilers-and-compiler-tools)
-- [Concurrency](#concurrency)
-- [Databases](#databases)
-- [Datetime](#datetime)
-- [Developer Tools](#developer-tools)
-- [Exercises](#exercises)
-- [Formal Software Verification](#formal-software-verification)
-- [General](#general)
-- [Graphics](#graphics)
-- [User Interface](#user-interface)
-- [Language-related](#language-related)
-- [Logging](#logging)
-- [Messaging](#messaging)
-- [Metaprogramming](#metaprogramming)
-- [Metrics](#metrics)
-- [Mobile Applications](#mobile-applications)
-- [Networking](#networking)
-- [Online Courses](#online-courses)
-- [Package Management](#package-management)
-- [Parallelism](#parallelism)
-- [Questions](#questions)
-- [Regular Expressions](#regular-expressions)
-- [Science and Technical Computing](#science-and-technical-computing)
-- [Security and Cryptography](#security-and-cryptography)
-- [Semantic Technology](#semantic-technology)
-- [Serialization](#serialization)
-- [System Programming](#system-programming)
-- [Testing](#testing)
-- [Utilities](#utilities)
-- [Web Development](#web-development)
 
 * * *
 

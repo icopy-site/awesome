@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="lauris/awesome-scala"></div>
 
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
@@ -8,51 +9,7 @@ Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagge
 
 Projects with over 500 stargazers are in bold.
 
-## Table of Contents
 
-- [Learning Scala](#learning-scala)
-- [Projects](#projects)
-    - [Android](#android)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [Big Data](#big-data)
-    - [Cryptography](#cryptography)
-    - [CSV](#csv)
-    - [Data Binding and Validation](#data-binding-and-validation)
-    - [Database](#database)
-    - [DevOps](#devops)
-    - [Distributed Systems](#distributed-systems)
-    - [Extensions](#extensions)
-    - [Functional Reactive Programming](#functional-reactive-programming)
-    - [Geospatial](#geospatial)
-    - [Graphical User Interfaces](#graphical-user-interfaces)
-    - [HTTP](#http)
-    - [i18n](#i18n)
-    - [Image processing and image analysis](#image-processing-and-image-analysis)
-    - [JavaScript](#javascript)
-    - [JSON](#json)
-    - [Markdown](#markdown)
-    - [Metrics and Monitoring](#metrics-and-monitoring)
-    - [Misc](#misc)
-    - [Modularization and Dependency Injection](#modularization-and-dependency-injection)
-    - [Parsing](#parsing)
-    - [Reactive Web Frameworks](#reactive-web-frameworks)
-    - [Sbt plugins](#sbt-plugins)
-    - [Science and Data Analysis](#science-and-data-analysis)
-    - [Scheduling](#scheduling)
-    - [Semantic Web](#semantic-web)
-    - [Serialization](#serialization)
-    - [Templating](#templating)
-    - [Testing](#testing)
-    - [Tools](#tools)
-    - [Web Frameworks](#web-frameworks)
-    - [XML / HTML](#xml--html)
-    - [YAML](#yaml)
-- [Resources](#resources)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-- [Contributing](#contributing)
 
 ## Artificial Intelligence
 
@@ -526,7 +483,6 @@ Projects with over 500 stargazers are in bold.
 
 *XML and HTML generation and processing*
 
-* [scala-scraper ★ 316 ⧗ 1](https://github.com/ruippeixotog/scala-scraper) - A library for scraping content from HTML pages.
 * [xs4s ★ 29 ⧗ 47](https://github.com/ScalaWilliam/xs4s) - XML Streaming for Scala for processing large (gigabytes and over) XML files.
 
 ## Markdown

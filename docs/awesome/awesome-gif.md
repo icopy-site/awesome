@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="davisonio/awesome-gif"></div>
 ## [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
@@ -16,37 +17,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ![](https://davison.io/assets/img/awesome-gif-logo.gif)
 
-## Contents
 
-- [General Tools](#general-tools)
-- [Utilities](#utilities)
-- [Libraries](#libraries)
-	- [ActionScript](#actionscript)
-	- [C++](#c)
-	- [C#](#c-sharp)
-	- [Haxe](#haxe)
-	- [Java](#java)
-	- [JavaScript](#javascript)
-	- [PHP](#php)
-	- [Objective-C](#objective-c)
-	- [Swift](#swift)
-- [GUI](#gui)
-- [Hosting](#hosting)
-- [Online Tools](#online-tools)
-- [Community](#community)
-- [Niche](#niche)
-- [Scripts](#scripts)
-	- [Frames to GIF](#frames-to-gif)
-	- [GIF to frames](#gif-to-frames)
-	- [High quality GIF](#high-quality-gif)
-	- [Optimize GIF](#optimize-gif)
-	- [Lossy GIF compressor](#lossy-gif-compressor)
-	- [Making GIF from video](#making-gif-from-video)
-	- [Cinemagraphs](#cinemagraphs)
-	- [Perfect loop](#perfect-loop)
-	- [Youtube video to GIF](#youtube-video-to-gif)
-	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
-- [Miscellaneous](#miscellaneous)
 
 ### General Tools
 
@@ -403,7 +374,6 @@ or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 The best ways to use this list are:
 
-- by browing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 ## Authors

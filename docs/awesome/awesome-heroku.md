@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ianstormtaylor/awesome-heroku"></div>
 
 ![](https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/banner.png)
 
@@ -9,28 +10,14 @@
 
 A curated list of helpful Heroku resources.
 
-- [Analytics](#-analytics)
-- [Architecture](#-architecture)
-- [Blogs](#-blogs)
-- [Deployment](#-deployment)
-- [Development](#-development)
-- [Domains](#-domains)
-- [Meta](#-meta)
-- [Postgres](#-postgres)
-- [Scaling](#-scaling)
-- [Security](#-security)
-- [Toolbelt](#-toolbelt)
-- [Goodbye...](#-goodbye)
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/analytics.png" /> Analytics
 
 Analytics for Heroku...
 
 - `tool` [Metabase](http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html) — a beta of Metadata as an app that can be deployed directly to Heroku.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/architecture.png" /> Architecture
 
 How to architect your Heroku projects...
 
@@ -38,14 +25,12 @@ How to architect your Heroku projects...
 - `article` [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) — discusses why Heroku is perfectly suited to building a service-oriented architecture for your projects.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/blogs.png" /> Blogs
 
 Blogs around the internet that often (or exclusively) write about Heroku...
 
 - `blog` [Heroku Blog](https://blog.heroku.com) — the official Heroku blog.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/deployment.png" /> Deployment
 
 Resources that help with deploying on Heroku...
 
@@ -55,12 +40,10 @@ Resources that help with deploying on Heroku...
 - `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/development.png" /> Development
 
 - `official` [Managing Multiple Environments for an App](https://devcenter.heroku.com/articles/multiple-environments) — a good primer on how to think about managing the different pieces of each environment.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/domains.png" /> Domains
 
 Tips for using custom domain names on Heroku...
 
@@ -69,7 +52,6 @@ Tips for using custom domain names on Heroku...
 - `question` [How do you host multiple Heroku apps on a single domain?](http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain) — a StackOverflow question with a few responses to a the common question of how to serve multiple Heroku apps from different paths instead of subdomains.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/general.png" /> General
 
 General resources that cover lots of different things about Heroku...
 
@@ -77,7 +59,6 @@ General resources that cover lots of different things about Heroku...
 - `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/meta.png" /> Meta
 
 Information about the company itself...
 
@@ -87,7 +68,6 @@ Information about the company itself...
 - `talk` [Buildpack Adventure](http://buildpack-adventure.herokuapp.com/) — a cool slideshow about Heroku's buildpacks, and what the open-source community is hacking together with them.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/postgres.png" /> Postgres
 
 Anything dealing with [Heroku Postgres](https://www.heroku.com/postgres)...
 
@@ -95,26 +75,22 @@ Anything dealing with [Heroku Postgres](https://www.heroku.com/postgres)...
 - `plugin` [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/redis.png" /> Redis
 
 Anything dealing with [Heroku Redis](https://elements.heroku.com/addons/heroku-redis)...
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/scaling.png" /> Scaling
 
 Resources that help you scale your Heroku projects...
 
 - `tool` [HireFire](https://www.hirefire.io/) — a SaaS tool that automatically scales your Heroku dynos up and down as load requires.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/security.png" /> Security
 
 How to secure your Heroku applications...
 
 - `article` [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku) — walks you through the exact steps to setting up free SSL via Cloudflare.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/toolbelt.png" /> Toolbelt
 
 Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
@@ -123,14 +99,12 @@ Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 - `plugin` [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/goodbye.png" /> Goodbye...
 
 Things to check out if you decide to migrate off of Heroku for some reason...
 
 - `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/license.png" /> License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

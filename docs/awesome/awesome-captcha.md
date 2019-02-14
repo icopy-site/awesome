@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ZYSzys/awesome-captcha"></div>
 ## Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome captcha libraries and captcha crack tools.
@@ -7,16 +8,7 @@
 
 [English](https://github.com/ZYSzys/awesome-captcha/blob/master/README.md) | [中文](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md)
 
-## Contents
 
-- [Libraries](#libraries)
-- [Generation](#generation)
-- [Crack](#crack)
-  - [General](#general)
-  - [Chinese](#chinese)
-- [Tools](#tools)
-- [Other](#other)
-- [Maintainers](#maintainers)
 
 
 ## Libraries

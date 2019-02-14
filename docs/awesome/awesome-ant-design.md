@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="websemantics/awesome-ant-design"></div>
 ```
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
@@ -24,22 +25,7 @@
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
 
-## Contents
 
-- [Resources](#resources)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Related Projects](#related-projects)
-- [Angular](#angular)
-- [Vue.js](#vuejs)
-- [Components](#components)
-- [Applications](#applications)
-- [Frameworks](#frameworks)
-- [Boilerplates](#boilerplates)
-- [Non-JavaScript Libraries](#non-javascript-libraries)
-- [Electron](#electron)
-- [Icons](#icons)
-- [Contributing](#contributing)
 
 ## Resources
 

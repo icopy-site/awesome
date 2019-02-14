@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="karlhorky/awesome-speakers"></div>
 ## Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome speakers in the programming and design communities
@@ -6,14 +7,7 @@ Let's make it more transparent and easy to find awesome speakers for meetups and
 
 Please add to the list and help make the community better connected and richer.
 
-## Contents
 
-- [Africa](#africa)
-- [Asia](#asia)
-- [Australia](#australia)
-- [Europe](#europe)
-- [North America](#north-america)
-- [South America](#south-america)
 
 ## Africa
 
@@ -907,6 +901,16 @@ https://twitter.com/rowdyrabouw
 **Norbert de Langen**\
 Topics: Component Libraries, React, Storybook, Open Source, Communities\
 https://twitter.com/NorbertdeLangen
+
+## Norway 🇳🇴
+
+### Oslo
+
+<img src="https://twitter.com/antonbabenko/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Anton Babenko**\
+Topics: Terraform, AWS, Devops\
+https://twitter.com/antonbabenko
 
 ## Poland 🇵🇱
 

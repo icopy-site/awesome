@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="timofurrer/awesome-asyncio"></div>
 ## Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A carefully curated list of awesome Python asyncio frameworks, libraries, software and resources.
@@ -8,17 +9,7 @@ Asyncio is not really a brand-new technology however it appears to be very trend
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
 Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) with your suggestion.
 
-## Contents
 
-* [Alternative Loops](#alternative-loops)
-* [Database Drivers](#database-drivers)
-* [Message Queues](#message-queues)
-* [Misc](#misc)
-* [Networking](#networking)
-* [Testing](#testing)
-* [Web Frameworks](#web-frameworks)
-* [Talks](#talks)
-* [Writings](#writings)
 
 
 ***

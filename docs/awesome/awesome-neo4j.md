@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="neueda/awesome-neo4j"></div>
 Awesome Neo4j
 ==============
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -16,35 +17,6 @@ Maintained by [Neueda R&D](http://labs.neueda.com/).
 Table of Contents
 =================
 
-  * [Basics](#basics)
-  * [Connectors](#connectors)
-    * [Bolt](#bolt)
-    * [REST API](#rest-api)
-      * [Java](#java)
-      * [Ruby](#ruby)
-      * [Python](#python)
-      * [PHP](#php)
-      * [Other](#other)
-  * [Cloud](#cloud)
-  * [Packages](#packages)
-  * [Docker](#docker)
-  * [Full\-text search](#full-text-search)
-  * [Import](#import)
-  * [Benchmarking](#benchmarking)
-  * [Extensions](#extensions)
-  * [Stored Procedures](#stored-procedures)
-  * [Development](#development)
-  * [Editors](#editors)
-  * [Shell](#shell)
-  * [Visualization](#visualization)
-  * [Tools](#tools)
-  * [Resources](#resources)
-    * [Learn](#learn)
-    * [Certification](#certification)
-    * [Bolt](#bolt-1)
-    * [Books](#books)
-    * [Miscellaneous](#miscellaneous)
-  * [License](#license)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 

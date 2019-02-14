@@ -1,20 +1,9 @@
+<div class="github-widget" data-repo="manuzhang/awesome-streaming"></div>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
 A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome). 
 
-## Table of Contents
 
-- [Streaming Engine](#streaming-engine)
-- [Streaming Library](#streaming-library)
-- [Streaming Application](#streaming-application)
-- [IoT](#iot)
-- [DSL](#dsl)
-- [Data Pipeline](#data-pipeline)
-- [Online Machine Learning](#online-machine-learning)
-- [Streaming SQL](#streaming-sql)
-- [Toolkit](#toolkit)
-- [Benchmark](#benchmark)
-- [Readings](#readings)
 
 ### Streaming Engine
 

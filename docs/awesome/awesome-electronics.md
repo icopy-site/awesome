@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="kitspace/awesome-electronics"></div>
 ## Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
@@ -8,34 +9,8 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [https://github.com/kitspace/awesome-electronics/blob/master/contributing.md](https://github.com/kitspace/awesome-electronics/blob/master/contributing.md).
 
-## Contents
 
 <!-- toc -->
-- [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
-- [Simulators](#simulators)
-- [Gerber Viewers](#gerber-viewers)
-  * [Online](#online)
-  * [Installable](#installable)
-- [Free EDA Packages](#free-eda-packages)
-- [CAD Specific](#cad-specific)
-  * [KiCAD](#kicad)
-  * [Eagle](#eagle)
-- [PCB Batching Services](#pcb-batching-services)
-- [Part Search Engines](#part-search-engines)
-- [Project Sharing Platforms](#project-sharing-platforms)
-- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
-- [Development Board Retailers](#development-board-retailers)
-- [Blogs](#blogs)
-- [Forums](#forums)
-  * [Discussion](#discussion)
-  * [Help](#help)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
-- [Subscription Kit Services](#subscription-kit-services)
-- [Other Lists](#other-lists)
 
 <!-- tocstop -->
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="transitive-bullshit/awesome-ffmpeg"></div>
 ## Awesome FFmpeg [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [FFmpeg](http://ffmpeg.org) is a cross-platform solution to record, convert and stream audio and video.
@@ -7,14 +8,7 @@
 </p>
 
 
-## Contents
 
-- [Docs](#docs)
-- [JavaScript](#javascript)
-- [Native](#native)
-- [Mobile](#mobile)
-- [Tutorials](#tutorials)
-- [Community](#community)
 
 
 ## Docs

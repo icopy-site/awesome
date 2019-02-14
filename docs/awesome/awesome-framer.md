@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="podo/awesome-framer"></div>
 ## Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/podo/awesome-framer/master/logo.png" align="right" width="75">](https://framer.com/)
@@ -6,19 +7,7 @@
 
 [Framer](http://framer.com) is a tool to create animated and interactive prototypes. It uses modern web technologies such as JavaScript, HTML and CSS to extend the capabilities for advanced users and auto-correct, intuitive error messaging or in-app documentation to lower the learning curve for beginners.
 
-## Contents
 
-* [General](#general)
-* [Articles](#articles)
-* [Videos](#videos)
-* [Tutorials](#tutorials)
-* [Video Course](#video-courses)
-* [Books](#books)
-* [Examples](#examples)
-* [Modules](#modules)
-* [UI Libraries](#ui-libraries)
-* [Sites](#sites)
-* [Other](#other)
 
 ---
 
@@ -86,7 +75,6 @@
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
-* [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.

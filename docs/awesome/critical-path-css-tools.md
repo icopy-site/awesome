@@ -1,9 +1,9 @@
+<div class="github-widget" data-repo="addyosmani/critical-path-css-tools"></div>
 Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==========================================
 
 > Tools to help prioritize above-the-fold CSS
 
-### Prioritize above-the-fold content first.
 
 For best performance, PageSpeed Insights [recommends](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) inlining the critical (above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user's screen sooner. The main idea is:
 
@@ -42,7 +42,6 @@ The following is a list of tools to help generate, inline and report on critical
 ## Inline sources (styles, scripts)
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
-* [gulp-inline-source](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="https://raw.githubusercontent.com/addyosmani/critical-path-css-tools/master/">` tags with their inline content
 * [inline-critical](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 * [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) as an example.
 

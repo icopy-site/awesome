@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="alebcay/awesome-shell"></div>
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
@@ -16,21 +17,8 @@
 ## Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [Shells](#shells)
-- [Command-Line Productivity](#command-line-productivity)
-- [Customization](#customization)
-- [For Developers](#for-developers)
-- [System Utilities](#system-utilities)
-- [Downloading and Serving](#downloading-and-serving)
-- [Multimedia and File Formats](#multimedia-and-file-formats)
-- [Applications](#applications)
-- [Games](#games)
-- [Shell Package Management](#shell-package-management)
-- [Shell Script Development](#shell-script-development)
-- [Guides](#guides)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## Shells
 
@@ -184,7 +172,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-* [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
@@ -225,7 +212,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.

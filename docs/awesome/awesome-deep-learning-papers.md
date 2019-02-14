@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="terryum/awesome-deep-learning-papers"></div>
 ## Awesome - Most Cited Deep Learning Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -44,26 +45,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
 
-## Contents
 
-* [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
-* [Optimization / Training Techniques](#optimization--training-techniques)
-* [Unsupervised / Generative Models](#unsupervised--generative-models)
-* [Convolutional Network Models](#convolutional-neural-network-models)
-* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image / Video / Etc](#image--video--etc)
-* [Natural Language Processing / RNNs](#natural-language-processing--rnns)
-* [Speech / Other Domain](#speech--other-domain)
-* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-* [More Papers from 2016](#more-papers-from-2016)
 
 *(More than Top 100)*
 
 * [New Papers](#new-papers) : Less than 6 months
 * [Old Papers](#old-papers) : Before 2012
 * [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
-* [Book / Survey / Review](#book--survey--review)
-* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
 * [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list
 
 * * *

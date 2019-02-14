@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="phillipadsmith/awesome-github"></div>
 ## Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
 
 
@@ -7,10 +8,6 @@ Think GitHub is awesome? Contribute something to this list! It's easy, just have
 
 The awesomeness is currently organized into just a few different buckets: 
 
-* [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
-* [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
-* [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
-* [Novel uses of GitHub](#novel-uses-of-github)
 
 What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) list? It's a collection of things that make **GitHub** one of the most amazing co-creation platforms in the world.
 

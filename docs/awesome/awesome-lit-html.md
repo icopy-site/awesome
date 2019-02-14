@@ -1,27 +1,11 @@
+<div class="github-widget" data-repo="web-padawan/awesome-lit-html"></div>
 ## Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome lit-html resources.
 
 [lit-html](https://lit-html.polymer-project.org) — an efficient, expressive, extensible HTML templating library for JavaScript.
 
-## Contents
 
-- [General resources](#general-resources)
-- [Community](#community)
-- [Overview](#overview)
-- [Implementations](#implementations)
-  - [Renderers](#renderers)
-  - [LitElement Extensions](#litelement-extensions)
-- [Components](#components)
-- [Starter Templates](#starter-templates)
-- [IDE Plugins](#ide-plugins)
-- [Tools](#tools)
-- [Examples](#examples)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Blogs](#blogs)
-- [Inspired Solutions](#inspired-solutions)
-- [Other awesome resources](#other-awesome-resources)
 
 ## General resources
 

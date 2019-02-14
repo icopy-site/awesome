@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hbokh/awesome-saltstack"></div>
 ## Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=hbokh%2Fawesome-saltstack)](https://listlist.net/user/hbokh/awesome-saltstack?subscribe)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
@@ -10,21 +11,7 @@ SaltStack software manages system infrastructure and the application stacks that
 
 A :gem: means **really _awesome / useful_**.
 
-## Contents
 
-- [Official resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Code](#code)
-- [Books](#books)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Presentations](#presentations)
-- [Blogposts and opinions](#blogposts-and-opinions)
-- [Discussions](#discussions)
-- [Community](#community)
-- [Formulas](#formulas)
-- [Cheat sheets](#cheat-sheets)
-- [Uncategorized](#uncategorized)
 
 ## Official resources
 

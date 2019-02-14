@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="HQarroum/awesome-iot"></div>
 ## Awesome IoT
 
 <img src="https://raw.githubusercontent.com/HQarroum/awesome-iot/master/iot-logo.png" align="right" width="100">
@@ -8,23 +9,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Contents
 
-- [Hardware](#hardware)
-- [Software](#software)
-  - [Operating systems](#operating-systems)
-  - [Programming Languages](#programming-languages)
-  - [Frameworks](#frameworks)
-  - [Middlewares](#middlewares)
-  - [Libraries and Tools](#libraries-and-tools)
-  - [Miscellaneous](#miscellaneous)
-- [Protocols and Networks](#protocols-and-networks)
-- [Technologies](#technologies)
-- [Standards and Alliances](#standards-and-alliances)
-- [Resources](#resources)
-  - [Books](#books)
-  - [Articles](#articles)
-  - [Papers](#papers)
 
 ### Hardware
 
@@ -154,7 +139,6 @@ Extended coverage GSM IoT (EC-GSM-IoT) is a standard-based Low Power Wide Area t
 
 > The EC-GSM-IOT network trials have begun, with the first commercial launches planned for 2017. Supported by all major mobile equipment, chip set and module manufacturers, EC-GSM-IoT networks will co-exist with 2G, 3G, and 4G mobile networks. It will also benefit from all the security and privacy mobile network features, such as support for user identity confidentiality, entity authentication, confidentiality, data integrity, and mobile equipment identification.
 
-#### <img width="50" src="https://intelilight.eu/wp-content/uploads/2017/02/technology_lorawan.png" /> - [LoRaWAN](https://en.wikipedia.org/wiki/LoRaWAN) (LoRa Alliance)
 
 A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
 
@@ -166,7 +150,6 @@ NarrowBand IoT (NB-IoT) is a Low Power Wide Area Network (LPWAN) radio technolog
 
 > NB-IoT is a narrowband radio technology designed for the Internet of Things (IoT), and is one of a range of Mobile IoT (MIoT) technologies standardized by the 3rd Generation Partnership Project (3GPP).
 
-#### <img width="50" src="http://www.silvereco.fr/wp-content/uploads/2015/02/logo510f703a4647f1.jpg" /> - [Sigfox](https://en.wikipedia.org/wiki/Sigfox) (Sigfox)
 
 Sigfox is a French firm that builds wireless networks to connect low-energy objects such as electricity meters, smart watches, and washing machines, which need to be continuously on and emitting small amounts of data. Its infrastructure is intended to be a contribution to what is known as the Internet of Things (IoT). - [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
 
@@ -180,7 +163,6 @@ Wi-Fi (or WiFi) is a local area wireless computer networking technology that all
 
 ### Network / Transport layer
 
-#### <img width="50" src="http://www.tonex.com/wp-content/uploads/6lowpan.jpg" /> - [6LowPan](https://en.wikipedia.org/wiki/6LoWPAN) (IETF)
 
 6LoWPAN is an acronym of IPv6 over Low power Wireless Personal Area Networks. 6LoWPAN is the name of a concluded working group in the Internet area of the IETF. - [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
@@ -194,7 +176,6 @@ Thread is an IPv6 based protocol for "smart" household devices to communicate on
 > In July 2014 Google Inc's Nest Labs announced a working group with the companies Samsung, ARM Holdings, Freescale, Silicon Labs, Big Ass Fans and the lock company Yale in an attempt to have Thread become the industry standard by providing Thread certification for products. Other protocols currently in use include ZigBee and Bluetooth Smart.
 Thread uses 6LoWPAN, which in turn uses the IEEE 802.15.4 wireless protocol with mesh communication, as does ZigBee and other systems. Thread however is IP-addressable, with cloud access and AES encryption. It supports over 250 devices on a network.
 
-#### <img width="50" src="http://www.zigbee.org/wp-content/uploads/2017/12/zb_logo-a_color_rgb.png" /> - [ZigBee](https://en.wikipedia.org/wiki/ZigBee) (ZigBee Alliance)
 
 ZigBee is a IEEE 802.15.4-based specification for a suite of high-level communication protocols used to create personal area networks with small, low-power digital radios. - [Wikipedia](https://en.wikipedia.org/wiki/ZigBee)
 
@@ -220,7 +201,6 @@ The Datagram Transport Layer Security (DTLS) communications protocol provides co
 
 > DTLS allows datagram-based applications to communicate in a way that is designed[by whom?] to prevent eavesdropping, tampering, or message forgery. The DTLS protocol is based on the stream-oriented Transport Layer Security (TLS) protocol and is intended to provide similar security guarantees.
 
-#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](https://en.wikipedia.org/wiki/Eddystone_(Google)) (Google)
 
 Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
 
@@ -238,13 +218,11 @@ iBeacon is a protocol standardized by Apple and introduced at the Apple Worldwid
 
 > iBeacon uses Bluetooth low energy proximity sensing to transmit a universally unique identifier picked up by a compatible app or operating system. The identifier can be used to determine the device's physical location, track customers, or trigger a location-based action on the device such as a check-in on social media or a push notification.
 
-#### <img width="50" src="http://blog.thingstud.io/wp-content/uploads/mqttorg.png" /> - [MQTT](http://mqtt.org/) (IBM)
 
 MQTT (formerly MQ Telemetry Transport) is a publish-subscribe based "light weight" messaging protocol for use on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
 
 > The publish-subscribe messaging pattern requires a message broker. The broker is responsible for distributing messages to interested clients based on the topic of a message. Andy Stanford-Clark and Arlen Nipper of Cirrus Link Solutions authored the first version of the protocol in 1999.
 
-#### <img width="50" src="https://www.pjon.org/assets/images/PJON-logo-devices.jpg" /> - [PJON](https://raw.githubusercontent.com/gioblu/PJON/)
 
 PJON® (Padded Jittering Operative Network) is an Arduino compatible, multi-master, multi-media network protocol. It proposes a Standard, it is designed as a framework and implements a totally software emulated network protocol stack that can be easily cross-compiled on many architectures like ATtiny, ATmega, ESP8266, ESP32, STM32, Teensy, Raspberry Pi, Linux, Windows x86 and Apple machines. It is a valid tool to quickly and comprehensibly build a network of devices. Visit wiki and documentation to know more about the PJON Standard.
 
@@ -272,11 +250,9 @@ Extensible Messaging and Presence Protocol (XMPP) is a communications protocol f
 
 > This sections regroups a curated list of awesome technologies that are closely related to the IoT world.
 
-### <img width="50" src="http://vectorlogofree.com/wp-content/uploads/2012/12/nfc-logo-vector-400x400.png" /> - [NFC](https://en.wikipedia.org/wiki/Near_field_communication)
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
-### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 OPC-UA is a not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 

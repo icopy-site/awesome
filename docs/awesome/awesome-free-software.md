@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="johnjago/awesome-free-software"></div>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
@@ -10,43 +11,7 @@
 
 —[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
-## Contents
 
-- [Software](#software)
-  - [Audio](#audio)
-  - [Command Line Tools](#command-line-tools)
-  - [Communication](#communication)
-  - [File Management](#file-management)
-  - [File Sharing](#file-sharing)
-  - [Graphics](#graphics)
-  - [IDEs](#ides)
-  - [Office](#office)
-  - [Operating Systems](#operating-systems)
-  - [Other](#other)
-  - [Payments](#payments)
-  - [Scientific Work](#scientific-work)
-  - [Screencasting](#screencasting)
-  - [Text Editors](#text-editors)
-  - [Utilities](#utilities)
-  - [Video](#video)
-  - [Virtualization](#virtualization)
-  - [Web Applications](#web-applications)
-  - [Web Servers](#web-servers)
-- [Hardware](#hardware)
-  - [Companies](#companies)
-  - [Hardware Resources](#hardware-resources)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Blogs](#blogs)
-  - [Businesses](#businesses)
-  - [Discovery](#discovery)
-  - [Events](#events)
-  - [Licensing](#licensing)
-  - [Organizations](#organizations)
-  - [Other Lists](#other-lists)
-  - [People](#people)
-  - [Talks](#talks)
-- [License](#license)
 
 ## Software
 

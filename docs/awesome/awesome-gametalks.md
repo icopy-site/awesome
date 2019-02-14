@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hzoo/awesome-gametalks"></div>
 ## Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (Nintendo)
@@ -10,13 +11,6 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 
 ## If you want just a list of free GDC talks: [GDC](https://github.com/hzoo/awesome-gametalks/blob/master/GDC.md)
 
-### Table of Contents
-- [GDC Talks](#gdc-talks)
-- [TED Talks](#ted-talks)
-- [Other Talks](#other-talks)
-- [Podcasts](#podcasts)
-- [Playlist of Conferences / Lectures](#conferences)
-- [Lists](#lists)
 
 ## GDC Talks
 - [2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (Blizzard)

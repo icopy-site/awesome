@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="RichardLitt/awesome-fantasy"></div>
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
@@ -6,18 +7,7 @@
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 
-## Contents
 
-- [Novels](#novels)
-  - [Epic Fantasy](#epic-fantasy)
-  - [Standard Fantasy](#standard-fantasy)
-  - [Allegory](#allegory)
-  - [Satire](#satire)
-  - [Horror](#horror)
-  - [Children's Books](#childrens-books)
-- [Comic books](#comic-books)
-- [Movies](#movies)
-- [TV Series](#tv-series)
 
 ## Novels
 

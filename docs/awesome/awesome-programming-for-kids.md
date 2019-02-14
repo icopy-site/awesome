@@ -1,10 +1,7 @@
+<div class="github-widget" data-repo="HollyAdele/awesome-programming-for-kids"></div>
 ## Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome resources for teaching kids programming. 
 
-## Contents
-* [Pre-Literate](#pre-literate)
-* [Lower Elementary](#lower-elementary)
-* [Upper Elementary](#upper-elementary)
 
 ## Pre-Literate
 * [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate iPad game that teaches concepts for commands, parameters, loops, and conditionals. 

@@ -1,28 +1,9 @@
+<div class="github-widget" data-repo="fliptheweb/motion-ui-design"></div>
 ## Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 What is motion design? It's a magic that's alive your interfaces, makes a user feel comfortable with UI changes.
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
 
-## Contents
-- [Resources for inspiration](#resources-for-inspiration)
-	* [Sites](#sites)
-	* [Pinterest boards](#pinterest-boards)
-	* [Processing](#processing-and-other-weird-but-funny-stuff)
-- [Articles](#articles)
-- [Software](#software)
-	* [Video, gif, presentation](#video-gif-presentation)
-	* [Visual programming](#visual-programming)
-	* [HTML, CSS and JavaScript](#html-css-and-javascript)
-- [Helpers](#helpers)
-- [Libraries](#libraries)
-	* [CSS](#css)
-	* [JavaScript](#javascript)
-	* [SVG](#svg)
-- [Web animation performance](#web-animation-performance)
-- [Speeches, presentations, videos](#speeches-presentations-videos)
-- [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
-- [Guidelines](#guidelines)
-- [Books](#books)
 
 ## Resources for inspiration
 ### Sites

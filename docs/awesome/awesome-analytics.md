@@ -1,20 +1,10 @@
+<div class="github-widget" data-repo="onurakpolat/awesome-analytics"></div>
 ## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
 
 Your feedback and contributions are always welcome!
 
-- [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#general-analytics)
-    - [Privacy focused analytics](#privacy-focused-analytics)
-    - [Heatmap analytics](#heatmap-analytics)
-    - [Analytics layers](#analytics-layers)
-    - [Mobile analytics](#mobile-analytics)
-    - [App store analytics](#app-store-analytics)
-    - [Attribution tracking](#attribution-tracking)
-    - [Social media analytics](#social-media-analytics)
-    - [Analytics dashboards](#analytics-dashboards)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
 
@@ -39,7 +29,6 @@ Your feedback and contributions are always welcome!
 * [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use.
 * [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation.
-* [parse.ly](https://www.parse.ly) - real-time web analytics tool with a focus on tracking content.
 * [Loggr](http://loggr.net/) -  track your user events and monitor your web app.
 * [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool.
 * [Sitemeter](http://sitemeter.com/) - old analytics tool.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="papers-we-love/papers-we-love"></div>
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.

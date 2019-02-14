@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="heynickc/awesome-ddd"></div>
 ## Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
@@ -18,18 +19,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 **[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)** is a workshop format for quickly exploring complex business domains.
 
-## Contents
 
-- [Books](#books)
-- [Training Courses](#training-courses)
-- [Video Collections](#video-collections)
-- [Community Resources](#community-resources)
-- [Blogs](#blogs)
-- [Sample Projects](#sample-projects)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [Podcasts and Interviews](#podcasts-and-interviews)
-- [Conferences](#conferences)
-- [User Groups](#user-groups)
 
 ## Books
 

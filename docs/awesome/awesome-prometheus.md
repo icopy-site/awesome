@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="roaldnefs/awesome-prometheus"></div>
 ## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
@@ -6,18 +7,7 @@
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
 
-## Contents
 
-- [Official resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts and interviews](#podcasts-and-interviews)
-- [Presentations](#presentations)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Dashboards](#dashboards)
-- [Exporters](#exporters)
-- [Uncategorized](#uncategorized)
 
 ## Official resources
 
@@ -100,6 +90,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats.
+
+## Alertmanager
+
+- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
 ## Proxies
 

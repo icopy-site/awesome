@@ -1,30 +1,9 @@
+<div class="github-widget" data-repo="sitepoint-editors/awesome-symfony"></div>
 ## Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources.
 
 Table of contents:
 
-* [Administration](#administration)
-* [Assets Management](#assets-management)
-* [Certification](#certification)
-* [Community](#community)
-* [Development](#development)
-* [Distributions](#distributions)
-* [Ecommerce](#ecommerce)
-* [Forms](#forms)
-* [Internationalization](#internationalization)
-* [Miscellaneous](#miscellaneous)
-* [Monitoring](#monitoring)
-* [Payments Management](#payments-management)
-* [Queues](#queues)
-* [Reading](#reading)
-* [Resources](#resources)
-* [Service Container](#service-container)
-* [Storage](#storage)
-* [Template Engine](#template-engine)
-* [Third Party APIs](#third-party-apis)
-* [User Management](#user-management)
-* [Validation](#validation)
-* [Web Services](#web-services)
 
 ## Administration
 
@@ -142,7 +121,6 @@ Table of contents:
 * [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
 * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
 * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
-* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
 * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
 * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
 * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.

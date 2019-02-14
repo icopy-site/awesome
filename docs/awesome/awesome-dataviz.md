@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="fasouto/awesome-dataviz"></div>
 ## Awesome dataviz 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
@@ -5,32 +6,6 @@
 A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
-## Contents
-- [Awesome dataviz](#awesome-dataviz)
-	- [JavaScript tools](#javascript-tools)
-		- [Charting libraries](#charting-libraries)
-		- [Charting libraries for graphs](#charting-libraries-for-graphs)
-		- [Maps](#maps)
-		- [d3](#d3)
-		- [React](#react)
-		- [Misc](#misc)
-	- [Android tools](#android-tools)
-	- [C++ tools](#c-tools)
-	- [Excel tools](#excel-tools)
-	- [Golang tools](#golang-tools)
-	- [iOS tools](#ios-tools)
-	- [Python tools](#python-tools)
-	- [R tools](#r-tools)
-	- [Ruby tools](#ruby-tools)
-	- [Markup-based tools](#markup-based-tools)
-	- [Other tools](#other-tools)
-- [Resources](#resources)
-	- [Books](#books)
-	- [Podcasts](#podcasts)
-	- [Twitter accounts](#twitter-accounts)
- 	- [Websites](#websites)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## JavaScript tools
 

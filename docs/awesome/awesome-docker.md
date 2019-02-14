@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="veggiemonk/awesome-docker"></div>
 ## Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) [![Say Thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/veggiemonk)
 
 > A curated list of Docker resources and projects
@@ -18,59 +19,9 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 All the links are monitored and tested with [awesome_bot](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
 
-## Contents
 
 <!-- TOC -->
 
-- [What is Docker](#what-is-docker)
-- [Where to start](#where-to-start)
-- [Where to start (Windows)](#where-to-start-windows)
-- [Projects](#projects)
-  - [Container Operations](#container-operations)
-    - [Container Composition](#container-composition)
-    - [Deployment and Infrastructure](#deployment-and-infrastructure)
-    - [Monitoring](#monitoring)
-    - [Networking](#networking)
-    - [Orchestration](#orchestration)
-    - [PaaS](#paas)
-    - [Reverse Proxy](#reverse-proxy)
-    - [Security](#security)
-    - [Service Discovery](#service-discovery)
-    - [Volume Management / Data](#volume-management--data)
-    - [User Interface](#user-interface)
-      - [Desktop](#desktop)
-      - [Terminal](#terminal)
-      - [Web](#web)
-  - [Docker Images](#docker-images)
-    - [Base Tools](#base-tools)
-    - [Builder](#builder)
-    - [Dockerfile](#dockerfile)
-    - [Linter](#linter)
-    - [Metadata](#metadata)
-    - [Registry](#registry)
-  - [Development with Docker](#development-with-docker)
-    - [API Client](#api-client)
-    - [CI/CD](#cicd)
-    - [Development Environment](#development-environment)
-    - [Garbage Collection](#garbage-collection)
-    - [Serverless](#serverless)
-    - [Testing](#testing)
-    - [Wrappers](#wrappers)
-  - [Services based on Docker (:heavy_dollar_sign:)](#services-based-on-docker-heavy_dollar_sign)
-    - [CI Services :heavy_dollar_sign:](#ci-services)
-    - [CaaS :heavy_dollar_sign:](#caas)
-    - [Monitoring Services :heavy_dollar_sign:](#monitoring-services)
-- [Useful Resources](#useful-resources)
-  - [Awesome Lists](#awesome-lists)
-  - [Good Tips](#good-tips)
-  - [Raspberry Pi & ARM](#raspberry-pi--arm)
-  - [Security](#security-1)
-  - [Videos](#videos)
-- [Communities and Meetups](#communities-and-meetups)
-  - [Brazilian](#brazilian)
-  - [Chinese](#chinese)
-  - [English](#english)
-  - [Russian](#russian)
 
 <!-- /TOC -->
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="RyanZim/awesome-npm-scripts"></div>
 ## Awesome npm scripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/RyanZim/awesome-npm-scripts/master/npm-logo.png" align="right" width="150">](https://www.npmjs.com)
@@ -8,25 +9,11 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.org). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Articles](#articles)
-- [Videos/Talks](#videostalks)
-- [Task Runners](#task-runners)
-- [File Watchers](#file-watchers)
-- [Dev Servers](#dev-servers)
-- [Cross-platform Utilities](#cross-platform-utilities)
-  - [Utility Packs](#utility-packs)
-- [Other Utilities](#other-utilities)
-- [Miscellaneous](#miscellaneous)
-- [Cross-platform Shell Reference](#cross-platform-shell-reference)
-- [`npm run` Reference](#npm-run-reference)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="joho/awesome-code-review"></div>
 <img src="https://raw.githubusercontent.com/joho/awesome-code-review/master/Awesome Code Review.png" alt="Awesome Code Review" />
 
 ## Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,13 +7,7 @@
 
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
-## Contents
 
-- [Academic Papers](#academic-papers)
-- [Articles](#articles)
-- [Books](#books)
-- [Talks and Podcasts](#talks-and-podcasts)
-- [Tools](#tools)
 
 ## Academic Papers
 

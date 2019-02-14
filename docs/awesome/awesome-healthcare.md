@@ -1,29 +1,9 @@
+<div class="github-widget" data-repo="kakoni/awesome-healthcare"></div>
 ## Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
 
-## Contents
 
-- [EHR](#ehr)
-- [Specifications](#specifications)
-- [Prescribing](#prescribing)
-- [Nursing](#nursing)
-- [Imaging](#imaging)
-- [Dental](#dental)
-- [Laboratory](#laboratory)
-- [Libraries](#libraries)
-- [Frameworks](#frameworks)
-- [Applications](#applications)
-- [Personal Health Record](#phr)
-- [Integration](#integration)
-- [Research](#research)
-- [Hardware](#hardware)
-- [Bioinformatics](#bioinformatics)
-- [Data](#data)
-- [Datasets](#datasets)
-- [Enterprise Master Patient Index](#empi)
-- [Machine Learning](#machine-learning)
-- [Compliance](#compliance)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.

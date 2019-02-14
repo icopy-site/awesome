@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="xxczaki/awesome-calculators"></div>
 ## Awesome Calculators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://i.imgur.com/9q98DcX.png" align="right" width="120">](https://raw.githubusercontent.com/xxczaki/awesome-calculators)
@@ -6,18 +7,6 @@
 
 Is your project mentioned in this list? See [mentioned.md](https://github.com/xxczaki/awesome-calculators/blob/master/mentioned.md)!
 
-## Contents
-- [Calculator apps](#calculator-apps)
-  - [Android](#android)
-  - [Windows](#windows)
-  - [Mac](#mac)
-  - [Linux](#linux)
-  - [Cross-Platform](#cross-platform)
-  - [Web](#web)
-- [Resources](#resources)
-  - [Communities](#communities)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
   
   ---
   

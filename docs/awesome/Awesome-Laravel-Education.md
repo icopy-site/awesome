@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="fukuball/Awesome-Laravel-Education"></div>
 ## [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about the Laravel PHP Framework, to help you beginner, intermediate or advanced developer.
@@ -7,7 +8,6 @@ A curated list of resources for learning about the Laravel PHP Framework, to hel
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
 - [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
-- [English](#user-content-english-version)
 - [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
 ## How to contribute?
@@ -28,35 +28,6 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Index
 
-- [New to Laravel](#user-content-new-to-laravel)
-- [Quick References](#user-content-quick-references)
-- [Learn From Video / Posts](#user-content-learn-from-video--posts)
-  - [Composer / Homestead / Docker](#user-content-composer--homestead--docker)
-  - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
-  - [Database](#user-content-database)
-  - [Models / Eloquent](#user-content-models--eloquent)
-  - [Views / Blade / Language](#user-content-views--blade--language)
-  - [Forms / Validation](#user-content-forms--validation)
-  - [Architecture Foundations / IoC](#user-content-architecture-foundations--ioc)
-  - [Auth / Security](#user-content-auth--security)
-  - [Middleware](#user-content-middleware)
-  - [Front End](#user-content-front-end)
-  - [Session](#user-content-session)
-  - [Filesystem / Cloud Storage](#user-content-filesystem--cloud-storage)
-  - [Cache](#user-content-cache)
-  - [Mail](#user-content-mail)
-  - [Testing and Coding Standard](#user-content-testing-and-coding-standard)
-  - [Case Study](#user-content-case-study)
-- [Tutorial](#user-content-tutorial)
-- [Blogs](#user-content-blogs)
-- [Newsletters](#user-content-newsletters)
-- [Open Source Laravel](#user-content-open-source-laravel)
-- [Coding Standard](#user-content-coding-standard)
-- [Dependency Management](#user-content-dependency-management)
-- [Develop Tools](#user-content-develop-tools)
-- [PHP Book List for Developer](#user-content-php-book-list-for-developer)
-- [Interview](#user-content-interview)
-- [Misc](#user-content-misc)
 
 ## New to Laravel
 

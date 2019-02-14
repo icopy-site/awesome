@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="AchoArnold/discount-for-student-dev"></div>
 ## discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev).
@@ -10,29 +11,6 @@ If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://tw
 Table of Contents
 =================
 
-  * [Source Code Repos](#source-code-repos)
-  * [IDE and Code Editing](#ide-and-code-editing)
-  * [Version Control](#version-control)
-  * [Web Hosting](#web-hosting)
-  * [Design and Photo Editing](#design-and-photo-editing)
-  * [SaaS](#saas)
-  * [PaaS](#paas)
-  * [Email](#email)
-  * [CI / CD](#ci--cd)
-  * [Payments](#payments)
-  * [Management Systems](#management-systems)
-  * [Mapping](#maps)
-  * [Localization](#localization)
-  * [Programming Help](#programming-help)
-  * [Domain Name Registers](#domain-name-registers)
-  * [Security](#security)
-  * [Software Modeling Tools](#software-modeling-tools)
-  * [Visual Analytics](#visual-analytics)
-  * [Game Development Tools](#game-development-tools)
-  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
-  * [Password Managers](#password-managers)
-  * [Infrastructure Monitoring](#infrastructure-monitoring)
-  * [Software Packs](#software-packs)
 
 
 

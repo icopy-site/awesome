@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="christian-bromann/awesome-selenium"></div>
 ## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
@@ -6,17 +7,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-- [Tools](#tools)
-- [CSS Regression Testing](#css-regression-testing)
-- [Containers](#containers)
-- [Driver](#driver)
-- [Desktop Tools](#desktop-tools)
-- [Selenium Grid](#selenium-grid)
-- [Cloud Services](#cloud-services)
-- [Device Farms](#device-farms)
-- [Web Scraping / Mining](#web-scraping--mining)
-- [Specifications](#specifications)
-- [Blogs](#blogs)
 
 ### Tools
 

@@ -1,54 +1,13 @@
+<div class="github-widget" data-repo="chentsulin/awesome-graphql"></div>
 ## awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Awesome list of GraphQL & Relay
 
 If you want to contribute to this list (please do), send me a pull request.
 
-## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Specification](#spec)
-- [Foundation](#foundation)
-- [Community](#community)
-- [Libraries](#lib)
-	- [Javascript](#lib-js)
-	- [Ruby](#lib-rb)
-	- [PHP](#lib-php)
-	- [Python](#lib-py)
-	- [Java](#lib-java)
-	- [C/C++](#lib-c)
-	- [Go](#lib-go)
-	- [Scala](#lib-scala)
-	- [.NET](#lib-dotnet)
-	- [Elixir](#lib-elixir)
-	- [Haskell](#lib-haskell)
-	- [SQL](#lib-sql)
-	- [Lua](#lib-lua)
-	- [Elm](#lib-elm)
-	- [Clojure](#lib-clojure)
-	- [Swift](#lib-swift)
-	- [OCaml](#lib-ocaml)
-	- [Android](#lib-android)
-	- [iOS](#lib-ios)
-- [Tools](#tools)
-- [Services](#services)
-- [Databases](#databases)
-- [Examples](#example)
-	- [Javascript](#example-js)
-	- [Typescript](#example-ts)
-	- [Ruby](#example-rb)
-	- [Go](#example-go)
-	- [Scala](#example-scala)
-	- [Python](#example-python)
-	- [Elixir](#example-elixir)
-	- [Java](#example-java)
-	- [Android](#example-android)
-	- [iOS](#example-ios)
-- [Videos](#video)
-- [Blogs](#blogs)
-- [Posts](#post)
-- [Workshoppers](#workshopper)
 
 <!-- /MarkdownTOC -->
 
@@ -385,7 +344,6 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Services
 
-* [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="neutraltone/awesome-stock-resources"></div>
 ## Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](https://raw.githubusercontent.com/neutraltone/awesome-stock-resources/master//img/splash.jpg)
@@ -6,31 +7,7 @@
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
-## Table of Contents
 
-* [Photography](#photography)
-  * [CC0-license](#cc0-license)
-  * [Custom License / Usage](#custom-license--usage)
-  * [Public Domain](#public-domain)
-  * [Attribution required licenses](#attribution-required-licenses)
-  * [Unspecified License](#unspecified-license)
-* [Illustration](#illustration)
-* [Vector Graphics](#vector-graphics)
-* [Videos](#videos)
-* [Patterns](#patterns)
-* [Fonts](#fonts)
-* [Icons](#icons)
-  * [Icon Fonts](#icon-fonts)
-  * [Icons Packages and Collections](#icons-packages-and-collections)
-* [Colors](#colors)
-* [Aggregated Content](#aggregated-content)
-* [HTML Templates](#html-templates)
-* [Sounds & Music](#sounds--music)
-* [Paid Resources](#paid-resources)
-* [How to Contribute](#how-to-contribute)
-* [How to Share](#how-to-share)
-* [Donate](#donate-heart)
-* [License](#license)
 
 ## Photography
 
@@ -258,7 +235,6 @@ A selection of websites offering color schemes.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
-## Aggregated Content
 
 A liberal mixture of content aggregated from other free resources and made available at one central point.
 
@@ -272,7 +248,6 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 Various different websites offering free HTML templates and themes.
 
-* [Bootswatch](https://bootswatch.com/) - [:copyright:](https://raw.githubusercontent.com/thomaspark/bootswatch/master/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.

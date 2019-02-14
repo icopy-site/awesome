@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="CodyReichert/awesome-cl"></div>
 <div align="center">
   <a href="https://awesome-cl.com" target="_blank">
     <img src="https://i.imgur.com/jLVXhpc.png">
@@ -30,108 +31,7 @@ alternative to Github.  Preference is given to [free software][13] and
 sellers who aren't evil for physical resources.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
-**Table of Contents**
 
-- [Audio](#audio)
-- [Build Systems](#build-systems)
-- [Compilers, code generators](#compilers-code-generators)
-    - [C, C++](#c-c)
-- [Crypto](#crypto)
-- [Cryptocurrencies](#cryptocurrencies)
-- [Database](#database)
-    - [ORMs](#orms)
-    - [Persistent object databases](#persistent-object-databases)
-    - [Wrappers](#wrappers)
-    - [To third parties](#to-third-parties)
-    - [Tools](#tools)
-- [Data Structures](#data-structures)
-- [Foreign Function Interface](#foreign-function-interface)
-    - [C](#c)
-    - [Java](#java)
-    - [Miscellaneous](#miscellaneous)
-    - [Objective-C](#objective-c)
-    - [Python](#python)
-- [Game Development](#game-development)
-- [Graphics](#graphics)
-- [GUI](#gui)
-- [Implementations](#implementations)
-- [JSON](#json)
-- [YAML](#yaml)
-- [Language extensions](#language-extensions)
-    - [CLOS extensions](#clos-extensions)
-    - [Iteration](#iteration)
-    - [Lambda shorthands](#lambda-shorthands)
-    - [Non-deterministic, logic programming](#non-deterministic-logic-programming)
-    - [Reactive programming](#reactive-programming)
-    - [Contract programming](#contract-programming)
-- [Learning and Tutorials](#learning-and-tutorials)
-    - [Online](#online)
-    - [Beginner](#beginner)
-    - [Intermediate](#intermediate)
-    - [Advanced](#advanced)
-    - [Reference](#reference)
-    - [Offline](#offline)
-    - [Beginner](#beginner)
-    - [Intermediate](#intermediate)
-    - [Advanced](#advanced)
-    - [Community](#community)
-- [Library Manager](#library-manager)
-    - [Interfaces to other package managers](#interfaces-to-other-package-managers)
-- [Machine Learning](#machine-learning)
-- [Natural Language Processing](#natural-language-processing)
-- [Network and Internet](#network-and-internet)
-    - [HTTP clients](#http-clients)
-    - [HTTP Servers](#http-servers)
-        - [Clack plugins](#clack-plugins)
-    - [Web frameworks](#web-frameworks)
-    - [Assets management](#assets-management)
-    - [Parsing html](#parsing-html)
-    - [Querying HTML/DOM](#querying-htmldom)
-    - [HTML generators and templates](#html-generators-and-templates)
-    - [URI handling](#uri-handling)
-    - [Javascript](#javascript)
-    - [Email](#email)
-    - [Websockets](#websockets)
-    - [Static site generators](#static-site-generators)
-    - [Deployment](#deployment)
-    - [Monitoring](#monitoring)
-    - [Third-party APIs](#third-party-apis)
-    - [Others](#others)
-- [Numerical and Scientific](#numerical-and-scientific)
-- [Parallelism and Concurrency](#parallelism-and-concurrency)
-    - [Event processing](#event-processing)
-    - [Job processing](#job-processing)
-- [Regex](#regex)
-- [Scripting](#scripting)
-- [Text Editor Resources](#text-editor-resources)
-    - [Emacs](#emacs)
-    - [Vim & Neovim](#vim--neovim)
-    - [Eclipse](#eclipse)
-    - [Lem](#lem)
-    - [Atom](#atom)
-    - [Sublime Text](#sublime-text)
-    - [Notebooks](#notebooks)
-    - [REPLs](#repls)
-- [Text Processing](#text-processing)
-- [Tools](#tools)
-- [Unit Testing](#unit-testing)
-- [Utilities](#utilities)
-    - [Caching](#caching)
-    - [Configuration](#configuration)
-    - [CSV](#csv)
-    - [Date and time](#date-and-time)
-    - [Data validation](#data-validation)
-    - [Documentation builders](#documentation-builders)
-    - [Files and directories](#files-and-directories)
-    - [Git](#git)
-    - [i18n](#i18n)
-    - [Linting](#linting)
-    - [Logging](#logging)
-    - [Markdown](#markdown)
-    - [Plotting](#plotting)
-    - [Other](#other)
-- [XML](#xml)
-- [Contributing](#contributing)
 
 <!-- markdown-toc end -->
 
@@ -401,6 +301,7 @@ Language extensions
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
   A portable library to retrieve the arguments list of a function. [Artistic License 2.0][51].
 * [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
+* [generic-cl](https://github.com/alex-gutev/generic-cl/) - generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200].
 
 
 CLOS extensions
@@ -530,7 +431,6 @@ Community
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/T5D2EAJ)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) on Freenode - main Common Lisp IRC channel.
-* [Planet List](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 
 Library Manager
 ===============

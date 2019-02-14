@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="k4m4/terminals-are-sexy"></div>
 [![Terminals_Are_Sexy_Logo](https://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](https://terminalsare.sexy/)
 
 ## Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,29 +11,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
 [![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
 
-## Table of Contents
 
-1. [Shells](#shells)
-    - [Base Shells](#base-shells)
-    - [ZSH](#zsh)
-    - [Bash](#bash)
-    - [Git](#git)
-    - [Fish](#fish)
-1. [Terminal Emulation Applications](#terminal-emulation-applications)
-1. [Package Managers](#package-managers)
-    - [Universal](#universal)
-    - [macOS](#macos)
-    - [Linux](#linux)
-    - [Windows](#windows)
-1. [Text Editors](#text-editors)
-1. [Tools and Plugins](#tools-and-plugins)
-1. [Communication](#communication)
-1. [Other](#other)
-    - [Community](#community)
-    - [Other Sexy Lists](#other-sexy-lists)
-    	- [Awesome](#awesome)
-    	- [Misc](#misc)
-    - [Contributing](#contributing)
 
 - - -
 
@@ -105,7 +84,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Terminal Emulation Applications
 
@@ -134,7 +112,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Package Managers
 
@@ -175,7 +152,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [scoop](https://scoop.sh/) - Package manager for Windows.
 * [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Text Editors
 
@@ -193,7 +169,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis](https://github.com/martanne/vis) - Highly efficient text editor.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Tools and Plugins
 
@@ -254,7 +229,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Communication
 
@@ -269,7 +243,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
 * [weechat](https://weechat.org/) - Fast, light and extensible chat client.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## Other
@@ -301,7 +274,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## Contributing

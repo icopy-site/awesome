@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sfischer13/awesome-ledger"></div>
 ## Awesome Ledger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
@@ -6,20 +7,11 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-ledger/blob/master/contributing.md) before contributing.*
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Introduction](#introduction)
-- [Background](#background)
-- [Documentation](#documentation)
-- [Editors](#editors)
-- [Tools](#tools)
-- [Social](#social)
-- [Media](#media)
-- [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

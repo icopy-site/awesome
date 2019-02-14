@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="thangchung/awesome-dotnet-core"></div>
 ## Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
@@ -6,67 +7,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-## Contents
 
-* [General](#general)
-* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
-  * [API](#api)
-  * [Application Frameworks](#application-frameworks)
-  * [Application Templates](#application-templates)
-  * [Authentication and Authorization](#authentication-and-authorization)
-  * [Blockchain](#blockchain)
-  * [Bot](#bot)
-  * [Build Automation](#build-automation)
-  * [Bundling and Minification](#bundling-and-minification)
-  * [Caching](#caching)
-  * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
-  * [Compression](#compression)
-  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-  * [Cryptography](#cryptography)
-  * [Database](#database)
-  * [Database Drivers](#database-drivers)
-  * [Database Tools and Utilities](#database-tools-and-utilities)
-  * [Date and Time](#date-and-time)
-  * [Distributed Computing](#distributed-computing)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Exceptions](#exceptions)
-  * [Functional Programming](#functional-programming)
-  * [Graphics](#graphics)
-  * [GUI](#gui)
-  * [IDE](#ide)
-  * [Internationalization](#internationalization)
-  * [IOC](#ioc)
-  * [Logging](#logging)
-  * [Machine Learning and Data Science](#machine-learning-and-data-science)
-  * [Mail](#mail)
-  * [Mathematics](#mathematics)
-  * [Networking](#networking)
-  * [Misc](#misc)
-  * [ORM](#orm)
-  * [Profiling](#profiling)
-  * [Queue and Messaging](#queue-and-messaging)
-  * [Query Builders](#query-builders)
-  * [Scheduler and Job](#scheduler-and-job)
-  * [SDKs](#sdks)
-  * [Security](#security)
-  * [Searching](#searching)
-  * [Serialization](#serialization)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Tools](#tools)
-  * [Web Framework](#web-framework)
-  * [Web Socket](#web-socket)
-  * [Windows Service](#windows-service)
-  * [Workflow](#workflow)
-* [Starter Kits](#starter-kits)
-* [Sample Projects](#sample-projects)
-* [Articles](#articles)
-* [Books](#books)
-* [Cheat Sheets](#cheat-sheets)
-* [Videos](#videos)
-* [Podcasts](#podcasts)
-* [Community](#community)
 
 ## General
 
@@ -239,17 +181,13 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
-* [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
-* [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
-* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 * [Squidex](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
 * [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
-* [Wyam](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
 ### Code Analysis and Metrics
@@ -763,6 +701,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) - An Open Source Website for running small, local development events.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) - Tiny club written in ASP.NET Core.
+  * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - A layered application architecture with monolithic deployment model.
   * [Entropy](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
   * [GenVue](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack

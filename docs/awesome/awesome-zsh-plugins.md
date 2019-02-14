@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="unixorn/awesome-zsh-plugins"></div>
 ## awesome-zsh-plugins
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -16,61 +17,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [Frameworks](#frameworks)
-  - [alf](#alf)
-  - [ansible-role-zsh](#ansible-role-zsh)
-  - [ant-zsh](#ant-zsh)
-  - [antibody](#antibody)
-  - [antigen-hs](#antigen-hs)
-  - [antigen](#antigen)
-  - [ax-zsh](#ax-zsh)
-  - [dotzsh](#dotzsh)
-  - [fresh](#fresh)
-  - [oh-my-zsh](#oh-my-zsh)
-  - [prezto](#prezto)
-  - [pumice](#pumice)
-  - [Toasty](#toasty)
-  - [zapack](#zapack)
-  - [zeesh](#zeesh)
-  - [zgem](#zgem)
-  - [zgen](#zgen)
-  - [zilsh](#zilsh)
-  - [zim](#zim)
-  - [zit](#zit)
-  - [zoppo](#zoppo)
-  - [zpacker](#zpacker)
-  - [zplug](#zplug)
-  - [zplugin](#zplugin)
-  - [ZPM](#zpm)
-  - [ZR](#zr)
-  - [zshing](#zshing)
-  - [ztanesh](#ztanesh)
-  - [zulu](#zulu)
-- [Tutorials](#tutorials)
-  - [Generic ZSH](#generic-zsh)
-  - [Antigen](#antigen)
-  - [Oh-My-Zsh](#oh-my-zsh)
-  - [Prezto](#prezto)
-  - [Zgen](#zgen)
-- [Plugins](#plugins)
-- [Even more completions](#even-more-completions)
-- [Themes](#themes)
-  - [Fonts](#fonts)
-- [Installation](#installation)
-  - [Antibody](#antibody)
-  - [Antigen](#antigen-1)
-  - [dotzsh](#dotzsh-1)
-  - [Oh-My-Zsh](#oh-my-zsh-1)
-  - [Prezto](#prezto-1)
-  - [Zgen](#zgen-1)
-  - [zplug](#zplug-1)
-- [Writing New Plugins](#writing-new-plugins)
-- [Other Resources](#other-resources)
-  - [ZSH Tools](#zsh-tools)
-  - [Other Useful Lists](#other-useful-lists)
-  - [Other References](#other-references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -646,7 +593,6 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [zero](https://github.com/arlimus/zero.zsh) - Zero is both a plugin and a theme. See the github page for installation details.
 * [zgdbm](https://github.com/zdharma/zgdbm) - Adds GDBM as a plugin.
 * [zgen-compinit-tweak](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make compinit run only once after all loading is done by [zgen](https://github.com/tarjoilija/zgen).
-* [zhooks](https://github.com/agkozak/zhooks) - Displays the contents of any ZSH hook arrays and the code of any hook functions that have been defined. Useful for debugging.
 * [zimfw-extras](https://github.com/PatTheMav/zimfw-extras) - Custom extras for zimfw, packaged into a zimfw plugin.
 * [zinfo_line](https://github.com/kmhjs/zinfo_line) - Makes more information available to ZSH themes.
 * [zjump](https://github.com/qoomon/zjump) - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.
@@ -656,7 +602,6 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [zshrc](https://github.com/freak2geek/zshrc) - Load local `.zshrc` files from your project scopes.
 * [zsnapac](https://github.com/johnramsden/zsh-zsnapac) - Plugin for taking ZFS pre/post upgrade snapshots on Arch Linux.
 * [zsnapshot](https://github.com/psprint/zsnapshot) - Adds command to dump the current ZSH state into a file, for later restoration by sourcing the snapshot file.
-* [Ztrace](https://github.com/psprint/ztrace) - Catches output of commands, allows to reuse that output, glue it with history content.
 * [ZUI](https://github.com/zdharma/zui/) - ZSH User Interface library – CGI+DHTML-like rapid TUI application development with ZSH.
 
 ## Completions
@@ -749,7 +694,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [abbr](https://github.com/PhilsLab/abbr-zsh-theme) - Displays an abbreviated version of the current directory path, shows the Python virtualenv, Rust version, `git` status, and the exit code of last command. Works well on dark backgrounds by default but colors can be easily customized.
 * [absolute](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with git status, node version and the exit code from the last command.
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires a Powerline-compatible font.
-* [af-magic-mod](https://raw.githubusercontent.com/desyncr/zshrc/master/themes/af-magic-mod.zsh-theme) - af-magic-mod theme.
 * [aflah-bhari](https://github.com/AflahB/aflah-bhari-zsh-theme) - Modified version of the [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) theme in oh-my-zsh.
 * [aftermath](https://github.com/schanur/aftermath) - Get a nice summary line after each command you run on your shell.
 * [agitnoster](https://github.com/dbestevez/agitnoster-theme) - Based on [agnoster theme](https://gist.github.com/3712874) included in [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) and [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt). Shows detailed information about `git` status.

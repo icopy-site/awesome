@@ -1,32 +1,8 @@
+<div class="github-widget" data-repo="youngwookim/awesome-hadoop"></div>
 ## Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
-- [Awesome Hadoop](#awesome-hadoop)
-	- [Hadoop](#hadoop)
-	- [YARN](#yarn)
-	- [NoSQL](#nosql)
-	- [SQL on Hadoop](#sql-on-hadoop)
-	- [Data Management](#data-management)
-	- [Workflow, Lifecycle and Governance](#workflow-lifecycle-and-governance)
-	- [Data Ingestion and Integration](#data-ingestion-and-integration)
-	- [DSL](#dsl)
-	- [Libraries and Tools](#libraries-and-tools)
-	- [Realtime Data Processing](#realtime-data-processing)
-	- [Distributed Computing and Programming](#distributed-computing-and-programming)
-	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
-	- [Monitoring](#monitoring)
-	- [Search](#search)
-	- [Security](#security)
-	- [Benchmark](#benchmark)
-	- [Machine learning and Big Data analytics](#machine-learning-and-big-data-analytics)
-	- [Misc.](#misc)
-- [Resources](#resources)
-	- [Websites](#websites)
-	- [Presentations](#presentations)
-	- [Books](#books)
-	- [Hadoop and Big Data Events](#hadoop-and-big-data-events)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
 
@@ -125,7 +101,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Elephant Bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
-* [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 * [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application

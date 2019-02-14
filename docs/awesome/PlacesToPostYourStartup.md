@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mmccaff/PlacesToPostYourStartup"></div>
 [![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Places To Post Your Startup
@@ -7,7 +8,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 
 Click a link to jump to the appropriate section. Both sections are organized alphabetically.
 
-[Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
 
 ## Reddit
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
@@ -23,7 +23,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
 
-[Back to Top](#places-to-post-your-startup)
 
 ## Websites
 * 10words - https://10words.io
@@ -161,12 +160,9 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/
 
-[Back to Top](#places-to-post-your-startup)
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matt McCaffrey](http://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
-
-[Back to Top](#places-to-post-your-startup)

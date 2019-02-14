@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Fr0sT-Brutal/awesome-delphi"></div>
 This is an archived snapshot of [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) just before it turned from "Delphi" to "Pascal".
 =================================================================================================================================================
 It was left only to keep links alive. All development will happen in [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) list.
@@ -12,47 +13,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.zeef.com/anton.frost)
 
-## Contents ##
 
-- [Awesome Delphi](#awesome-delphi)
-	- [General Libraries](#general-libraries)
-	- [Multimedia](#multimedia)
-		- [Audio](#audio)
-		- [Video](#video)
-		- [Graphic](#graphic)
-	- [Game dev](#game-dev)
-	- [Communications](#communications)
-		- [Network](#network)
-		- [Serial port](#serial-port)
-	- [GUI](#gui)
-		- [Control packs](#control-packs)
-		- [Single controls](#single-controls)
-		- [Editors](#editors)
-		- [Viewers](#viewers)
-		- [Other GUI](#other-gui)
-	- [Database](#database)
-	- [Scripting](#scripting)
-	- [Non-visual Classes/Utils](#non-visual-classesutils)
-		- [Compression](#compression)
-		- [Encryption](#encryption)
-		- [XML/JSON/YAML](#xmljsonyaml)
-		- [Language](#language)
-		- [Memory managers](#memory-managers)
-		- [System](#system)
-		- [Template](#template)
-		- [Logging](#logging)
-		- [Math](#math)
-		- [Other non-visual](#other-non-visual)
-	- [OS](#os)
-	- [Report generating](#report-generating)
-	- [Unit Testing](#unit-testing)
-	- [Debugging / error handling](#debugging--error-handling)
-	- [Utilities](#utilities)
-		- [IDE plugins/wizards](#ide-pluginswizards)
-		- [Documentation](#documentation)
-		- [Code check/review, debug](#code-checkreview-debug)
-		- [Setup](#setup)
-		- [Other](#other)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -144,7 +105,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GLScene](https://sourceforge.net/projects/glscene). OpenGL based 3D library for Delphi. It provides visual components and objects allowing description and rendering of 3D scenes in an easy, no-hassle, yet powerful manner. GLScene is not just an OpenGL wrapper or utility library, it has grown to become a set of founding classes for a generic 3D engine with Rapid Application Development in mind. GLScene allows you to quickly design and render 3D scenes without having to learn the intricacies of OpenGL, if you know how to design a TForm, you'll easily master the basic operations of GLScene. The library comes with a large collections of demos showcasing the ease of use, and demonstrating RAD wasn't done at the expense of CPU/GPU horsepower.
 
-* [SynGdiPlus](https://github.com/synopse/mORMot/blob/master/SynGdiPlus.pas). Enables an application to load and save GIF, TIF, PNG and JPG pictures. It also allows anti-aliased drawing from any TMetaFile. That is, you can play a .emf content using GDI+ instead of GDI, for much better rendering result.
 
 * [mORMotReport](https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas) ([docs](http://synopse.info/files/html/api-1.18/mORMotReport.html)). Fast and efficient code-based reporting component, with preview form and PDF export.
 
@@ -865,7 +825,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other ##
 
-* [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
 
 * [Delphi Preview Handler](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
 
@@ -877,7 +836,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
 
-* [madDisAsm](http://help.madshi.net/madDisAsm.htm). The package features a full x86 disassembler including MMX, 3dNow enhanced, SSE and SSE2 support. The disassembler can examine a single x86 instruction (see ParseCode) or a full function (see ParseFunction) and either return a short analysis or a full text disassembly. Register contents are watched/followed if possible, this improves the analyses for jump/call targets. Case/switch jump tables are automatically detected and handled correctly.
 // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
 * [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.

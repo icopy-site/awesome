@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="wbinnssmith/awesome-promises"></div>
 <a href="https://promisesaplus.com/">
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
@@ -8,14 +9,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
-**Table of Contents**
 
-- [Resources, Blogs, and Books](#resources-blogs-and-books)
-- [Promises/A+ Implementations (ES6/ES2015 compatible)](#promisesa-implementations-es6es2015-compatible)
-  - [Strict Implementations](#strict-implementations)
-  - [Implementations with extras](#implementations-with-extras)
-  - [Fallbacks](#fallbacks)
-- [Convenience Utilities](#convenience-utilities)
 
 ## Resources, Blogs, and Books
 

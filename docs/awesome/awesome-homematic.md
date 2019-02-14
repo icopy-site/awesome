@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hobbyquaker/awesome-homematic"></div>
 ## Awesome Homematic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Homematic related links
@@ -5,18 +6,7 @@
 [Homematic](https://www.homematic.com/) is a series of Smart Home devices from the manufacturer [eQ-3](https://www.eq-3.de), popular especially in Germany.
 
 
-## Contents
 
-- [Community](#community)
-- [Documentation](#documentation)
-- [Mobile Apps](#mobile-apps)
-- [CCU Alternatives](#ccu-alternatives)
-- [Alternative Sensors and Actuators](#alternative-sensors-and-actuators)
-- [CCU Addons](#ccu-addons)
-- [Interfacing Software](#interfacing-software)
-- [Misc Software](#misc-software)
-- [Software Modules](#software-modules)
-- [Smart Home Software](#smart-home-software-supporting-homematic)
 - [https://github.com/hobbyquaker/awesome-homematic/blob/master/License](https://github.com/hobbyquaker/awesome-homematic/blob/master/License)
 
 

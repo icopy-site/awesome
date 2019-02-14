@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
@@ -432,6 +433,7 @@
 - [Wagtail](awesome/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
 - [Textpattern](awesome/awesome-textpattern.md) - Lightweight PHP-based CMS.
 - [Drupal](awesome/awesome-drupal.md) - Extensible PHP-based CMS.
+- [Craft CMS](awesome/awesome.md) - Content-first CMS.
 
 
 ## Hardware

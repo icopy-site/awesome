@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="dhamaniasad/awesome-postgres"></div>
 ## Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
@@ -8,26 +9,7 @@
 
  :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/issues) to start a discussion. Please take a look at the [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-- [High-Availability](#high-availability)
-- [Backups](#backups)
-- [GUI](#gui)
-- [Distributions](#distributions)
-- [CLI](#cli)
-- [Server](#server)
-- [Monitoring](#monitoring)
-- [Extensions](#extensions)
-- [Optimization](#optimization)
-- [Utilities](#utilities)
-- [Language bindings](#language-bindings)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
-- [Docker images](#docker-images)
-- [Videos](#videos)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL

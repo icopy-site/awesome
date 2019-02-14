@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mezod/awesome-indie"></div>
 ## Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Resources to help independent developers make money.
 
@@ -20,20 +21,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
-## Contents
 
-- [Communities](#communities)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Talks](#talks)
-- [Posts](#posts)
-- [Blogs](#blogs)
-- [Case Studies](#case-studies)
-- [Events](#events)
-- [Books](#books)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Specific Topics](#specific-topics)
 
 ### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**

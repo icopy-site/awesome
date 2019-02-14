@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Kickball/awesome-selfhosted"></div>
 ## Awesome-Selfhosted
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -11,90 +12,6 @@ See [Contributing](https://github.com/Kickball/awesome-selfhosted/blob/master/.g
 --------------------
 
 - List of Software
-  - [Analytics](#analytics)
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendaring and Contacts Management](#calendaring-and-contacts-management)
-  - [Communication systems](#communication-systems)
-    - [Custom communication systems](#custom-communication-systems)
-    - [Email](#email)
-      - [Complete solutions](#complete-solutions)
-      - [Mail Transfer Agents](#mail-transfer-agents)
-      - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
-      - [Webmail clients](#webmail-clients)
-    - [IRC](#irc)
-    - [SIP](#sip)
-    - [IPBX](#ipbx)
-    - [Social Networks and Forums](#social-networks-and-forums)
-    - [XMPP](#xmpp)
-      - [XMPP Servers](#xmpp-servers)
-      - [XMPP Web Clients](#xmpp-web-clients)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-    - [E-commerce](#e-commerce)
-  - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [E-books and Integrated Library Systems (ILS)](#e-books-and-integrated-library-systems-ils)
-  - [Federated Identity/Authentication](#federated-identityauthentication)
-  - [Feed Readers](#feed-readers)
-  - [File Sharing and Synchronization](#file-sharing-and-synchronization)
-    - [Distributed filesystems](#distributed-filesystems)
-    - [File transfer/synchronization](#file-transfersynchronization)
-    - [Peer-to-peer filesharing](#peer-to-peer-filesharing)
-    - [Object storage/file servers](#object-storagefile-servers)
-    - [Single-click/drag-n-drop upload](#single-clickdrag-n-drop-upload)
-    - [Web based file managers](#web-based-file-managers)
-  - [Games](#games)
-  - [Gateways](#gateways)
-  - [Groupware](#groupware)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Learning and Courses](#learning-and-courses)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Streaming](#media-streaming)
-    - [Multimedia Streaming](#multimedia-streaming)
-    - [Audio Streaming](#audio-streaming)
-    - [Video Streaming](#video-streaming)
-  - [Misc/Other](#miscother)
-  - [Money, Budgeting and Management](#money-budgeting-and-management)
-  - [Monitoring](#monitoring)
-  - [Note-taking and Editors](#note-taking-and-editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
-  - [Polls and Events](#polls-and-events)
-    - [Booking and Scheduling](#booking-and-scheduling)
-  - [Proxy](#proxy)
-  - [Read it Later Lists](#read-it-later-lists)
-  - [Resource Planning](#resource-planning)
-    - [Enterprise Resource Planning](#enterprise-resource-planning)
-  - [Search Engines](#search-engines)
-  - [Software Development](#software-development)
-    - [Project Management](#project-management)
-    - [Bug Trackers](#bug-trackers)
-    - [IDE/Tools](#idetools)
-    - [Continuous Integration](#continuous-integration)
-    - [FaaS/Serverless](#faasserverless)
-    - [API Management](#api-management)
-    - [Documentation Generators](#documentation-generators)
-    - [Localization](#localization)
-  - [Static site generators](#static-site-generators)
-  - [Task management/To-do lists](#task-managementto-do-lists)
-  - [Ticketing](#ticketing)
-  - [URL Shorteners](#url-shorteners)
-  - [VPN](#vpn)
-  - [Web servers](#web-servers)
-  - [Wikis](#wikis)
-- [Self-hosting Solutions](#self-hosting-solutions)
-- [List of Licenses](#list-of-licenses)
-- [External links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
 
 --------------------
 
@@ -494,11 +411,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [osem](http://osem.io/) - Event management tailored to free Software conferences. ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem)) `MIT` `Ruby`
 - [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
-## Content Management Systems (CMS)
 
 **[`^        back to top        ^`](#)**
 
-CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)
 
 - [APIQ CMS](https://www.apiq.io/) - Simple and powerful Ruby on Rails CMS for developers. ([Demo](http://demo.apiq.io/), [Source Code](https://github.com/apiqcms/kms)) `MIT` `Ruby`
 - [Apostrophe](http://apostrophecms.org/) - Node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
@@ -1257,7 +1172,6 @@ See **[Ticketing](#ticketing)**
 
 ### Documentation Generators
 
-See also [Static site generators](#static-site-generators)
 
 - [Docstore](http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`
 - [Flatdoc](http://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`

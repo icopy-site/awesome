@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="pFarb/awesome-crypto-papers"></div>
 ## Awesome Crypto Papers  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [cryptography](https://en.wikipedia.org/wiki/Cryptography) papers, articles, tutorials and howtos for non-cryptographers.
@@ -14,7 +15,6 @@ It is aimed at people who are using cryptography in higher-level security system
 
 It will be extended gradually as I find something of "must-have" value. Pull requests are very welcome.
 
-## Contents
 
 * [Introducing people to data security and cryptography](#introducing-people-to-data-security-and-cryptography).
   * [Simple: cryptography for non-engineers](#simple-cryptography-for-non-engineers).

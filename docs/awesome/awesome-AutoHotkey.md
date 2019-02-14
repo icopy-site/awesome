@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ahkscript/awesome-AutoHotkey"></div>
 ## Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
@@ -8,57 +9,6 @@ Development state:
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
-* [Awesome AutoHotkey](#awesome-autohotkey)
- * [Libraries](#libraries)
-    * [Clipboard](#clipboard)
-    * [Console](#console)
-    * [Data format](#libraries-data-format)
-    * [Data Structures and Algorithms](#libraries-data-structs-algorithms)
-    * [Database](#database)
-    * [Filesystem](#filesystem)
-    * [Graphics](#libraries-graphics)
-    * [GUI](#libraries-gui)
-    * [Hotkeys](#hotkeys)
-    * [Joystick](#joystick)
-    * [Maths](#maths)
-    * [Memory](#memory)
-    * [Networking](#networking)
-    * [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
-    * [System](#libraries-system)
-    * [Text manipulation](#text-manipulation)
-  * [Library Distributions](#library-distributions)
-  * [Scripts](#scripts)
-    * [Clipboard](#scripts-clipboard)
-    * [Filesystem](#scripts-filesystem)
-    * [Graphics](#scripts-graphics)
-    * [GUI](#scripts-gui)
-    * [Maths](#scripts-maths)
-    * [Mouse](#mouse)
-    * [Typing](#typing)
-    * [Window management](#window-management)
-    * [Games](#games)
-  * [Tools](#tools)
-    * [Interpreter](#interpreter)
-    * [Decompilers](#decompilers)
-    * [Debugging](#debugging)
-    * [Integrated Development Environment](#integrated-development-environment)
-    * [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
-    * [Script Recorders and Writers](#script-recorders-and-writers)
-    * [Web Syntax Highlighters](#web-syntax-highlighters)
-    * [Others](#tools-others)
-    * [(Use in) other programming languages](#use-in-other-programming-languages)
-  * [Tutorials](#tutorials)
-    * [Classes](#tutorials-classes)
-    * [COM](#tutorials-com)
-    * [GUI](#tutorials-gui)
-    * [MCode (machine code)](#tutorials-mcode)
-  * [Resources](#resources)
-    * [Documentation](#documentation)
-    * [Books](#books)
-    * [Quick-start guides](#quick-start-guides)
-    * [Websites](#websites)
-  * [Forks](#forks)
-    * [AutoHotkey_H](#autohotkey_h)
 
 <hr/>
 
@@ -163,7 +113,6 @@ Development state:
 * [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-* [BarChart](https://autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts. Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - by SKAN - Function library for graphically plotting real time data.
 * [SVGraph](https://github.com/CapnOdin/SVGraph) - by CapnOdin - SVGraph bringing graphing and charting to AutoHotkey. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
@@ -250,7 +199,6 @@ Development state:
 
 ### Debugging
 * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
-* [Print Array](https://autohotkey.com/board/topic/70490-print-array/) - Function that prints array content in GUI.
 * [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
 
 ### Decompilers

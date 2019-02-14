@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="drewrwilson/toolsforactivism"></div>
 ## Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
@@ -6,13 +7,7 @@
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
-## Table of Contents
 
-  1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
-  2. [Software as a service tools](#software-as-a-service)
-  3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
-  4. [How do I contribute to this list?](#how-do-i-contribute-to-this-list)
-  5. [License](#license)
 
 
 ## The List

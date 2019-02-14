@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="fuse-compound/awesome-fuse"></div>
 ## Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
@@ -10,14 +11,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 This list is currently unmaintained, and we are looking for a new maintainer. See [here](https://github.com/fuse-compound/awesome-fuse/issues/57) for details if you're interested.
 
-#### Contents
 
-- [Applications](#applications)
-- [Articles](#articles)
-- [Community](#community)
-- [Development](#development)
-- [Open Source](#open-source)
-- [Plugins](#plugins)
 
 ## Applications
 

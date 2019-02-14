@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jondot/awesome-devenv"></div>
 ## Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -17,32 +18,11 @@ But in short:
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
-## Content
 
 _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/LIN`_
 
 
 
-- [Admins](#admins)
-- [Benchmarking](#benchmarking)
-- [Data](#data)
-- [Diagnostics](#diagnostics)
-- [Desktop](#desktop)
-- [Dotfiles](#dotfiles)
-- [Editors](#editors)
-  - [Atom](#atom)
-  - [Sublime Text](#sublime-text-3)
-  - [Vim](#vim)
-  - [IntelliJ](#intellij)
-- [Git](#git)
-- [Misc](#misc)
-- [Notifications](#notifications)
-- [Orchestration](#orchestration)
-- [Presentation](#presentation)
-- [Shell](#shell)
-- [Text](#text)
-- [Terminal](#terminal)
-- [Workflow](#workflow)
 
 
 ## Admins

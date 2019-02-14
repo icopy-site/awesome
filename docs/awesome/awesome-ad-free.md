@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="johnjago/awesome-ad-free"></div>
 ## Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of ad-free alternatives to popular services on the web.
@@ -6,28 +7,7 @@ A curated list of ad-free alternatives to popular services on the web.
 
 —Matthew Butterick
 
-## Contents
 
-- [Alternatives](#alternatives)
-  - [Blogs](#blogs)
-  - [Communication](#communication)
-  - [File Sharing](#file-sharing)
-  - [Mobile Apps](#mobile-apps)
-  - [Music](#music)
-  - [Other](#other)
-  - [Publications](#publications)
-  - [Reference](#reference)
-  - [Social](#social)
-  - [Utilities](#utilities)
-  - [Video](#video)
-- [Resources](#resources)
-  - [Ad Blockers](#ad-blockers)
-  - [Articles](#articles)
-  - [Businesses](#businesses)
-  - [Groups](#groups)
-  - [Make Money Without Ads](#make-money-without-ads)
-  - [Talks](#talks)
- - [License](#license)
 
 ## Alternatives
 

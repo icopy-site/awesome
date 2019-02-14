@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="diessica/awesome-sketch"></div>
 ## awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
@@ -11,13 +12,9 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 * [Videos](#videos) :movie_camera:
 * [Guides](#guides) :blue_book:
 * [Articles](#articles) :newspaper:
-  * [Tips and Tricks](#tips-and-tricks)
-  * [Tutorials](#tutorials)
 * [Community](#community) :sunglasses:
 * [Plugins](#plugins) :electric_plug:
 * [Templates & UI Kits](#templates--ui-kits) :scissors:
-* [Services](#services)
-* [Other](#other)
 
 ## Videos
 ###### Tutorial-only
@@ -89,7 +86,6 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).
-- In the [Sketch community](#community)
 
 ## Templates & UI Kits
 - [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.

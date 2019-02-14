@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="PhantomYdn/awesome-wicket"></div>
 ## Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
@@ -7,14 +8,7 @@ Your contributions are always welcome!
 
 > Wicket is an open source, component oriented, serverside, Java web application framework. With a history of over a decade, it is still going strong and has a solid future ahead. 
 
-## Table of Contents
 
-- [Generic Info](#generic-info)
-- [Libraries](#libraries)
-  - [WicketStuff](#wicketstuff)
-- [Web Frameworks](#web-frameworks)
-- [Solutions](#solutions)
-- [IDE Plugins and Tools](#ide-plugins-and-tools)
 
 ## Generic Info
 
@@ -121,7 +115,6 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
 ## Solutions
-End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.

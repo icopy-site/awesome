@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="awkward/awesome-netherlands-events"></div>
 ## Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Awesome Events in 🇳🇱
@@ -12,12 +13,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawkward).
 
-## Contents
-- [Rotterdam](#rotterdam)
-- [Amsterdam](#amsterdam)
-- [Utrecht](#utrecht)
-- [Everywhere](#everywhere)
-- [Other](#other)
 
 ---
 

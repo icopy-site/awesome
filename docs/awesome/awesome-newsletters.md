@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
 ## Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.
@@ -11,59 +12,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 
-- [Frontend](#frontend)
-  - [General Web Development](#general-web-development)
-  - [JavaScript](#javascript)
-    - [React](#react)
-    - [AngularJS](#angularjs)
-    - [EmberJS](#emberjs)
-    - [VueJS](#vuejs)
-  - [Data Visualization](#data-visualization)
-  - [CSS](#css)
-  - [Design](#design)
-  - [HTML5](#html5)
-  - [SVG](#svg)
-- [Programming](#programming)
-  - [Common Section](#common-section)
-  - [ObjectiveC](#objectivec)
-  - [C#](#c)
-  - [Node.js](#nodejs)
-  - [Swift](#swift)
-  - [Go](#go)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Groovy](#groovy)
-  - [Perl](#perl)
-  - [Elixir](#elixir)
-  - [Clojure](#clojure)
-  - [Haskell](#haskell)
-  - [Elm](#elm)
-  - [Rust](#rust)
-  - [C++](#c)
-  - [Scala](#scala)
-  - [Java](#java)
-  - [Kotlin](#kotlin)
-- [Editors](#editors)
-  - [Vim](#vim)
-- [Databases](#databases)
-  - [PostgreSQL](#postgresql)
-  - [MySQL](#mysql)
-  - [Redis](#redis)
-  - [NoSQL](#nosql)
-- [Backend Development](#backend-development)
-  - [Docker](#docker)
-  - [Devops](#devops)
-  - [Cloud Development](#cloud-development)
-  - [Kubernetes](#kubernetes)
-- [Mobile](#mobile)
-- [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
-- [Technology in General](#technology-in-general)
-- [Business/Finance](#businessfinance)
-- [Awesome news](#awesome-news)
-- [Etc.](#etc)
-- [License](#license)
 
 ## Frontend
 * [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
@@ -97,11 +45,9 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 * [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
-* [ActReact](https://www.actreact.io). Learn React from the best content in the community, weekly in your inbox.
 * [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 
 #### AngularJS
-* [AngularJS Weekly Newsletter](https://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
 
 #### EmberJS
 * [EmberJS Weekly](http://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
@@ -144,7 +90,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### HTML5
 * [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
-* [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
@@ -279,7 +224,6 @@ every Sunday in the form of the DevOps newsletter.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
-* [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 * [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 * [Last Week in AWS](https://lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
@@ -336,7 +280,6 @@ every Sunday in the form of the DevOps newsletter.
 
 ## Etc.
 * [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
-* [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 * [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.

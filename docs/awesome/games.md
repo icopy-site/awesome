@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="leereilly/games"></div>
 ## Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
@@ -12,40 +13,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-## Table of Contents.
 
-- [Major Companies](#major-companies)
-- [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
-  - [Arcade](#user-content-arcade)
-  - [FPS](#user-content-fps)
-  - [RPG](#user-content-rpg)
-  - [MMORPG](#user-content-mmorpg)
-  - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
-  - [Clicker](#user-content-clicker)
-  - [Point and Click](#user-content-point-and-click)
-  - [Others](#user-content-others)
-- [Native](#user-content-native)
-  - [Action](#user-content-action-1)
-  - [Arcade](#user-content-arcade-1)
-  - [FPS](#user-content-fps-1)
-  - [MMORPG](#user-content-mmorpg-1)
-  - [RPG](#user-content-rpg-1)
-  - [Platform](#user-content-platform)
-  - [Puzzle/card/board](#user-content-puzzlecardboard)
-  - [Programming](#user-content-programming)
-  - [Sandbox](#user-content-sandbox-1)
-  - [Strategy](#user-content-strategy-1)
-- [Mobile Games](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [IOS](#user-content-ios)
-- [Chat bots](#chat-bots)
-- [Just The Source](#user-content-just-the-source)
-- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
 -------
 

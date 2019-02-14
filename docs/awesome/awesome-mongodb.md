@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ramnes/awesome-mongodb"></div>
 ![Awesome MongoDB](https://raw.githubusercontent.com/ramnes/awesome-mongodb/master/logo.png)
 
 ## Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,45 +9,6 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
-## Table of Contents
- - [Resources](#resources)
-   - [Documentation](#documentation)
-   - [Articles](#articles)
-   - [Books](#books)
-   - [Talks](#talks)
-   - [Tutorials](#tutorials)
-   - [More](#more)
- - [Libraries](#libraries)
-   - [C](#c)
-   - [C++](#c-1)
-   - [C#/.NET](#cnet)
-   - [Delphi](#delphi)
-   - [Elixir](#elixir)
-   - [Erlang](#erlang)
-   - [Go](#go)
-   - [Haskell](#haskell)
-   - [Java](#java)
-   - [JavaScript](#javascript)
-   - [Julia](#julia)
-   - [Lisp](#lisp)
-   - [Mathematica](#mathematica)
-   - [Perl](#perl)
-   - [PHP](#php)
-   - [Python](#python)
-   - [R](#r)
-   - [Ruby](#ruby)
-   - [Rust](#rust)
-   - [Scala](#scala)
- - [Tools](#tools)
-   - [Administration](#administration)
-   - [Data](#data)
-   - [Deployment](#deployment)
-   - [Desktop](#desktop)
-   - [Development](#development)
-   - [Monitoring](#monitoring)
-   - [Shell](#shell)
-   - [Web](#web)
- - [Applications](#applications)
 
 ## Resources
 ### Documentation

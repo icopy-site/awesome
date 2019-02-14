@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="quozd/awesome-dotnet"></div>
 ## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -18,105 +19,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 
-## Table of Contents
 
-* [Awesome DotNet](#awesome-dotnet)
-  * [Algorithms and Data Structures](#algorithms-and-data-structures)
-  * [API](#api)
-  * [Application Frameworks](#application-frameworks)
-  * [Application Templates](#application-templates)
-  * [Artificial Intelligence](#artificial-intelligence)
-  * [Assembly Manipulation](#assembly-manipulation)
-  * [Assets](#assets)
-  * [Authentication and Authorization](#authentication-and-authorization)
-  * [Books](#books)
-  * [Build Automation](#build-automation)
-  * [Business Intelligence and Reporting](#business-intelligence)
-  * [Caching](#caching)
-  * [CLI](#cli)
-  * [CLR](#clr)
-  * [CMS](#cms)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-  * [Code Snippets](#code-snippets)
-  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-  * [Compression](#compression)
-  * [Continuous Integration](#continuous-integration)
-  * [Cryptography](#cryptography)
-  * [Database](#database)
-  * [Database Drivers](#database-drivers)
-  * [DateTime](#datetime)
-  * [Decompilation](#decompilation)
-  * [Deployment](#deployment)
-  * [DirectX](#directx)
-  * [Distributed Computing](#distributed-computing)
-  * [DLR](#dlr)
-  * [Documentation](#documentation)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Environment Management](#environment-management)
-  * [ETL](#etl)
-  * [Event aggregator and messenger](#event-aggregator-and-messenger)
-  * [Exceptions](#exceptions)
-  * [Extensions librairies](#extensions)
-  * [Functional programming](#functional-programming)
-  * [Game](#game)
-  * [GIS](#gis)
-  * [Git Tools](#git-tools)
-  * [Graphics](#graphics)
-  * [GUI](#gui)
-  * [HTML and CSS](#html-and-css)
-  * [HTTP](#http)
-  * [IDE](#ide)
-  * [Image Processing](#image-processing)
-  * [Install Tools](#install-tools)
-  * [Internationalization](#internationalization)
-  * [Interoperability](#interoperability)
-  * [IoC](#ioc)
-  * [JavaScript Engines](#javascript-engines)
-  * [Logging](#logging)
-  * [Mail](#mail)
-  * [Machine Learning and Data Science](#machine-learning-and-data-science)
-  * [Markdown Processors](#markdown-processors)
-  * [Mathematics](#mathematics)
-  * [Media](#media)
-  * [Metrics](#metrics)
-  * [Micro Framework](#micro-framework)
-  * [Minification](#minification)
-  * [Misc](#misc)
-  * [MVVM](#mvvm)
-  * [Object to object mapping](#object-to-object-mapping)
-  * [Office](#office)
-  * [ORM](#orm)
-  * [Package Management](#package-management)
-  * [PDF](#pdf)
-  * [Profiler](#profiler)
-  * [Protocols](#protocols)
-  * [Push Notifications](#push-notifications)
-  * [Query Builders](#query-builders)
-  * [Queue](#queue)
-  * [Reactive Programming](#reactive-programming)
-  * [Scheduling](#scheduling)
-  * [SDK and API Clients](#sdk-and-api-clients)
-  * [Search](#search)
-  * [Serialization](#serialization)
-  * [SMS and Phone Calls](#sms-and-phone-calls)
-  * [State machines](#state-machines)
-  * [Static Site Generators](#static-site-generators)
-  * [Style Guide](#style-guide)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Tools](#tools)
-  * [Trading](#trading)
-  * [UI Automation](#ui-automation)
-  * [Visual Studio Plugins](#visual-studio-plugins)
-  * [Web Browsers](#web-browsers)
-  * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
-  * [WebSocket](#websocket)
-  * [Windows Services](#windows-services)
-  * [WPF](#wpf)
-  * [Parser Library](#parser-library)
-* [Other Lists](#other-lists)
-* [Resources](#resources)
 
 ## Algorithms and Data structures
 
@@ -253,11 +156,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## CMS
 
 * [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
-* [mojoPortal ](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 * [N2CMS](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 * [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. http://piranhacms.org
-* [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
@@ -399,7 +300,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Seamlessly adds a Swagger to Web API projects.
 * [F# Formatting](http://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
 * [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
-* [DocNet](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ## E-Commerce and Payments
 
@@ -893,7 +793,6 @@ metadata in media files, including video, audio, and photo formats
 * [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
-* [Wyam](https://wyam.io/) - A simple to use, highly modular, and extremely configurable static content generator
 
 ## Style Guide
 

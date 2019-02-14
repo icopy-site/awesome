@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="zhaopuming/awesome-d"></div>
 ## Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
@@ -8,62 +9,22 @@
   If you know an interesting lib/app in D, please tell me by issue or a pull request :-).
   
  
-- [Awesome D](#awesome-d)
 	- Basic Information
-		- [Official Website](#official-website)
-		- [Getting Help](#getting-help)
-		- [People](#people)
-		- [Events](#events)
-		- [Organizations](#organizations)
 	- Documents
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [Articles](#articles)
-		- [API Doc](#api-docs)
 	- Language Related 
-		- [Package Management](#package-management)
-		- [Compilers](#compilers)
-		- [Build Tools](#build-tools)
-		- [IDE](#ide)
-		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-		- [Preprocessors](#preprocessors)
 	- Compiler for other languages
-		- [Javascript](#javascript)
 	- Common/Utilities
-		- [Containers](#containers)
 	- Networking/Web Related
-		- [Networking](#networking-library)
-		- [Web Frameworks](#web-frameworks)
-		- [Data&Serialization](#data-serialization)
 	- Database
-		- [Database clients](#database-clients)
 	- GUI
-		- [GUI Libs](#gui-libs)
 	- OS
-		- [Operating Systems](#os)
 	- Gaming
-		- [Bindings](#game-bindings)
-		- [Frameworks](#game-frameworks)
-		- [Games](#games)
 	- Video
-		- [Applications](#video-appilcations)
 	- Image Processing
-		- [Applications](#image-processing)
 	- Scientific
-		- [Scientific](#scientific)
 	- Machine Learning
-		- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
 	- Others
-		- [Text Processing](#text-processing)
-		- [Command Line](#command-line)
-		- [Logging](#logging)
-		- [Configuration](#configuration)
-		- [BlogEngine](#blog-engine)
-		- [Testing](#testing)
 		
-- [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Official Website

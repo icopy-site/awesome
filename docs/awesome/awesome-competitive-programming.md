@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="lnishan/awesome-competitive-programming"></div>
 ## Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
@@ -20,29 +21,8 @@ Share the list with your classmates, your friends and everyone :)
 > I really hope that more people can benefit from this list :)
 
 
-## Table of Contents
 
-* [List of Lists](#list-of-lists)
-* [Syllabuses](#syllabuses)
-* [Tutorial Websites](#tutorial-websites)
-* [Open Courses](#open-courses)
-    * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
-* [Books](#books)
-    * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
-* [Sites for Practice](#sites-for-practice)
-    * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
-* [Camps and Trainings](#camps-and-trainings)
-* [Sites for Questions](#sites-for-questions)
-* [Implementations](#implementations)
-* [Language Specifics](#language-specifics)
-    * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
-* [Tools](#tools)
-    * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
-* [Community](#community)
-    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
 * [Other Awesome Resources](#other-awesome-resources) 
-    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
-* [License](#license)
 
 
 ## List of Lists

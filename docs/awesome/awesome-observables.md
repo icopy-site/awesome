@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-observables"></div>
 ## Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
@@ -7,14 +8,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) before contributing.*
 
 
-## Contents
 
-- [Documentation](#documentation)
-- [Implementations](#implementations)
-- [Packages](#packages)
-- [Libraries](#libraries)
-- [Articles](#articles)
-- [Videos](#videos)
 
 
 ## Documentation

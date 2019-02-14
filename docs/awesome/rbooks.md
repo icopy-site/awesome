@@ -1,16 +1,8 @@
+<div class="github-widget" data-repo="RomanTsegelskyi/rbooks"></div>
 R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
 
-* [R Books](#r-books)
-	* [Beginner Books](#beginner-books)
-	* [Advanced Books](#advanced-books)
-	* [Data Science](#data-science)
-	* [Finance](#finance)
-	* [Machine Learning](#machine-learning)
-	* [R Development](#r-development)
-	* [Reports](#reports)
-	* [Visualization](#visualization)
 
 Beginner Books
 ---

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="harpribot/awesome-information-retrieval"></div>
 ## Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -8,15 +9,6 @@ Curated list of information retrieval and web search resources from all around t
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
-## Contents
- - [Books](#books)
- - [Courses](#courses)
- - [Software](#software)
- - [Datasets](#datasets)
- - [Talks](#talks)
- - [Conferences](#conferences)
- - [Blogs](#blogs)
-    - [Interesting Reads](#interesting-reads)
 
 ## Books
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="unicodeveloper/awesome-lumen"></div>
 ## Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
@@ -8,15 +9,7 @@
 
 **Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
-## Table of Contents
 
-- [Essentials](#essentials)
-- [Tutorials](#tutorials)
-- [Packages and Middleware](#packages-and-middleware)
-- [Made With Lumen](#made-with-lumen)
-- [Contributing](#contributing)
-- [Books](#books)
-- [Community](#community)
 
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)

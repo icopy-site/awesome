@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="marcobiedermann/search-engine-optimization"></div>
 ## [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -5,32 +6,6 @@
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 
-## Table of Contents
-* [URL](#url)
-* [Accessibility](#accessibility)
-* [Meta Information](#meta-information)
-* [Keywords](#keywords)
-* [Content](#content)
-* [Images](#images)
-* [Videos](#videos)
-* [Links](#links)
-* [Mobile](#mobile)
-* [Sitemap](#sitemap)
-* [Social Media](#social-media)
-* [Tools & Services](#tools--services)
-  * [Webmasters](#webmasters)
-  * [Analytics](#analytics)
-  * [Optimization](#optimization)
-  * [Keywords](#keywords-1)
-  * [Links](#links)
-  * [Structured Data](#structured-data)
-  * [Bookmarklets](#bookmarklets)
-  * [Browser Extensions](#browser-extensions)
-  * [Jekyll Plugins](#jekyll-plugins)
-  * [TYPO3 Extensions](#typo3-extensions)
-  * [WordPress Plugins](#wordpress-plugins)
-* [Books](#books)
-* [Courses](#courses)
 
 ## URL
 * **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
@@ -45,7 +20,6 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 ## Accessibility
 * **403:** provide a 403 - Access denied page
 * **404:** provide a 404 - Page not found page
-* **[Custom Search](https://developers.google.com/structured-data/slsb-overview):** with Google Sitelink search box, people can reach your content more quickly
 * **File not found:** avoid `404 FILE_NOT_FOUND` errors
 * **Layout:** use `divs` instead of `tables` for layout. Using `tables` is not semantically correct.
 * **Moving a website:** redirect all your links to the new location via `.htaccess`
@@ -65,23 +39,16 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 `<title>Website Title</title>`
 
 ## Keywords
-* **Content:** keyword should appear in ~3% of article length
 * **Heading:** keyword should appear in headings
-* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU):** you can ommit the `<meta name="keywords" content="">`,
 search engines do not use this meta tag
 * **Research:** rank for keywords with high traffic and less competition
 * **Single:** every page should have a single unique targeted keyword
 * **Title:** keyword should appear in page title
 * **[URL](https://www.youtube.com/watch?v=rAWFv43qubI):** keyword should appear in URL name
 
-## Content
-* **Content:** content matters the most in SEO
-* **Flash:** avoid Flash content and Flash pages. They are not accessible on mobile phones and will be ranked lower
-* **Freshness:** new content is important. Updating pages or posting regularly is recommended
 * **Headings:** clear structure `H1` -` H6` max. 70 characters long
 * **Length:** article should be at least 300 words
 * **Strong:** use `strong` tag to highlight your targeted keyword
-* **[Uniqueness](https://www.youtube.com/watch?v=mQZY7EmjbMA):** do not provide duplicated content, use unique content types
 
 ## Images
 * **[Alt tag](https://support.google.com/webmasters/answer/114016):** add an alt-tag this a description of the image (60 - 70 characters)
@@ -94,12 +61,9 @@ search engines do not use this meta tag
 ## Videos
 * **Controls:** add controls to playback and control your video
 * **Embed:** allow others to embed your videos
-* **Transcriptions:** use transcriptions for indexing, usability & content
-* **[Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content):** avoid unplayable video content. Use HTML5 `<video>` tag instead of Flash
 
 ## Links
 * **Backlinks:** only add external links if you got a backlink to your site
-* **Internal links:** add ~3 internal links to your content
 * **[Languages](https://moz.com/learn/seo/hreflang-tag):** the hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language
 `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
 * **Naming:** use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
@@ -107,9 +71,7 @@ search engines do not use this meta tag
 * **Title:** add the title attribute to links
 
 ## Mobile
-* **[AppLinks](http://applinks.org/documentation/):** apps that link to your content can then use this metadata to deep-link into your app
 * **[mobile friendly](https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
-* **[Smart App Banner](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html):** Safari has a Smart App Banner feature that provides a standardized method of promoting apps on the App Store from a website
 * **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately):** clickable links should not be too small
 * **Viewport:** tell browsers how to adjust the page's dimensions and scaling to suit the device
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
@@ -118,7 +80,6 @@ search engines do not use this meta tag
 * **[HTML sitemap](https://www.youtube.com/watch?v=hi5DGOu1uA0):** an HTML sitemap allows site visitors to easily navigate a website
 * **[Image sitemap](https://support.google.com/webmasters/answer/178636):** increase that your images can be found in Image Search results
 * **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207):** for feature phones, you can create a mobile sitemap
-* **[Video sitemap](https://support.google.com/webmasters/answer/80471):** make sure, search engines know about all the video content on your site
 * **[XML sitemap](https://support.google.com/webmasters/answer/183668):** help search engines to index your pages
 
 ## Social Media
@@ -142,8 +103,6 @@ search engines do not use this meta tag
 * **[Google Tag Manager](https://www.google.com/analytics/tag-manager/):** learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
-* **[Ahrefs](https://ahrefs.com/):** analyze websites, track social media, build backlinks - Ahrefs has you covered. Try our marketing and SEO tools Site Explorer and Content Explorer today!
-* **[BuzzSumo](https://app.buzzsumo.com/research/most-shared):** find the most shared content for any topic or domain.
 * **[Followerwonk](https://moz.com/followerwonk):** tools for Twitter Analytics, Bio Search and More
 * **[Google Analytics](https://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 * **[Open Site Explorer](https://moz.com/researchtools/ose/):** use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
@@ -168,7 +127,6 @@ search engines do not use this meta tag
 
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
-* **[Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator):** this tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 * **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
 
 ### Structured Data
@@ -186,7 +144,6 @@ search engines do not use this meta tag
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
 
 ### Jekyll Plugins
-* **[Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### TYPO3 Extensions
 * **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
@@ -194,7 +151,6 @@ search engines do not use this meta tag
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
-* **[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/):** improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 
 ## Books
 * **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/Search-Optimization-Internet-Marketing-Strategies/dp/151534567X):** learn SEO strategies to rank at the top of Google with SEO 2016
@@ -210,11 +166,9 @@ search engines do not use this meta tag
 * **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do):** if you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
 
 ## Courses
-* **[Analyzing Your Website to Improve SEO](https://www.lynda.com/Marketing-Small-Business-Marketing-tutorials/Analyzing-Your-Website-Improve-SEO/82409-2.html):** walks step-by-step through the process of reviewing the content and markup of a web site to improve its ranking in search engine results. With Peter Kent by Lynda.com
 * **[ClickMinded](https://www.clickminded.com/):** ClickMinded is an SEO training course for startups that want to grow their organic traffic and sales as quickly as possible.
 * **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101):** Ecommerce SEO 101 Video Series with Helen Overland by shopify
 * **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html):** make web sites more accessible and search engine friendly through proper markup and web standards compliance. With Morten Rand-Hendriksen by Lynda.com
-* **[International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html):** attract international visitors to your websites with these SEO tips. Learn how to determine target markets and optimize your website's technical aspects and content for countries and languages around the world. With David Booth by Lynda.com
 * **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction):** Learning Search Engine Optimization (SEO): A Video Introduction with Matt Bailey by video2brain
 * **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics):** Learning Web Analytics with Matt Bailey by video2brain
 * **[SEO for Beginners](http://seoforbeginners.com/):** SEO for Beginners: A Video Guide Introduction
@@ -223,7 +177,6 @@ search engines do not use this meta tag
 * **[SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
 * **[SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
 * **[SEO Fundamentals](https://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
-* **[SEO Tools Fundamentals](https://www.lynda.com/Buzzstream-tutorials/SEO-Tools-Fundamentals/368917-2.html):** learn about today's top SEO tools for technical optimization, content optimization, offsite optimization, and competitive research. With Brad Batesole by Lynda.com
 * **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/):** SEO Training Course with Moz by udemy
 * **[SEO: Keyword Strategy in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-6.html):** learn how to research keywords, apply them to your website, and create ad campaigns around keywords. Increase your site traffic and better understand your user's intent with keywords. With Matt Bailey by Lynda.com
 * **[SEO: Link Building in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html):** investigates the anatomy of a link, how links affect page ranking, and the properties that make an excellent inbound link. With Peter Kent by Lynda.com

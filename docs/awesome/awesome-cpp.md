@@ -1,66 +1,7 @@
+<div class="github-widget" data-repo="fffaraz/awesome-cpp"></div>
 ## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C++](#awesome-cpp)
-	- [Standard Libraries](#standard-libraries)
-	- [Frameworks](#frameworks)
-	- [Artificial Intelligence](#artificial-intelligence)
-	- [Asynchronous Event Loop](#asynchronous-event-loop)
-	- [Audio](#audio)
-	- [Biology](#biology)
-	- [BitTorrent](#bittorrent)
-	- [CLI](#cli)
-	- [Compression](#compression)
-	- [Concurrency](#concurrency)
-	- [Containers](#containers)
-	- [Cryptography](#cryptography)
-	- [Database](#database)
-	- [Debug](#debug)
-	- [Game Engine](#game-engine)
-	- [GUI](#gui)
-	- [Graphics](#graphics)
-	- [Image Processing](#image-processing)
-	- [Internationalization](#internationalization)
-	- [Inter-process communication](#inter-process-communication)
-	- [JSON](#json)
-	- [Logging](#logging)
-	- [Machine Learning](#machine-learning)
-	- [Math](#math)
-	- [Memory Allocation](#memory-allocation)
-	- [Multimedia](#multimedia)
-	- [Networking](#networking)
-	- [PDF](#pdf)
-	- [Physics](#physics)
-	- [Regular Expression](#regular-expression)
-	- [Robotics](#robotics)
-	- [Scientific Computing](#scientific-computing)
-	- [Scripting](#scripting)
-	- [Serialization](#serialization)
-	- [Sorting](#sorting)
-	- [Video](#video)
-	- [Virtual Machines](#virtual-machines)
-	- [Web Application Framework](#web-application-framework)
-	- [XML](#xml)
-	- [Miscellaneous](#miscellaneous)
-- [Software](#software)
-	- [Compiler](#compiler)
-	- [Online Compiler](#online-compiler)
-	- [Debugger](#debugger)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Build Systems](#build-systems)
-	- [Static Code Analysis](#static-code-analysis)
-	- [Coding Style Tools](#coding-style-tools)
-- [Resources](#resources)
-	- [API Design](#api-design)
-	- [Articles](#articles)
-	- [Books](#books)
-	- [Coding Style](#coding-style)
-	- [Podcasts](#podcasts)
-	- [Talks](#talks)
-	- [Videos](#videos)
-	- [Websites](#websites)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
@@ -136,7 +77,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-* [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [mini_al](https://github.com/dr-soft/mini_al) - Single file audio playback and capture library. [Unlicense]
@@ -561,7 +501,6 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
-* [libav](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. [LGPL v2.1+ and others] [website](https://www.libav.org/)
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. [BSD]

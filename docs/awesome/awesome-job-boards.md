@@ -1,20 +1,9 @@
+<div class="github-widget" data-repo="tramcar/awesome-job-boards"></div>
 ## Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
 
-## Table of Contents
 
-- [Big Data](#big-data)
-- [Blockchain](#blockchain)
-- [Customer Support](#customer-support)
-- [Design](#design)
-- [DevOps](#devops)
-- [Gaming](#gaming)
-- [Growth Hacking](#growth-hacking)
-- [InfoSec](#infosec)
-- [Programming](#programming)
-- [Remote](#remote)
-- [Tech](#tech)
 
 ## Big Data
 
@@ -136,7 +125,6 @@ A curated list of awesome niche job boards.
 
 ### Europe
 
-* [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 
 ### United States

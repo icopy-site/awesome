@@ -1,38 +1,8 @@
+<div class="github-widget" data-repo="humiaozuzu/awesome-flask"></div>
 ## Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Flask resources and plugins
 
-- [Awesome Flask](#awesome-flask)
-  - [Framework](#framework)
-  - [Admin interface](#admin-interface)
-  - [Analytics](#analytics)
-  - [Authentication](#authentication)
-  - [Authorization](#authorization)
-  - [Database](#database)
-  - [Database Migrations](#database-migrations)
-  - [Session](#session)
-  - [Cache](#cache)
-  - [Data Validation](#data-validation)
-  - [Email](#email)
-  - [i18n](#i18n)
-  - [Full-text searching](#full-text-searching)
-  - [Rate Limiting](#rate-limiting)
-  - [Task Queue](#task-queue)
-  - [Exception tracking](#exception-tracking)
-  - [Tracing](#tracing)
-  - [APM](#apm)
-  - [Other SDK](#other-sdk)
-  - [Frontend](#frontend)
-  - [Development (Debugging/Testing/Documentation)](#development-debuggingtestingdocumentation)
-  - [Utils](#utils)
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Courses](#courses)
-  - [Books](#books)
-  - [Slides](#slides)
-  - [Videos](#videos)
-  - [Built with Flask](#built-with-flask)
-  - [Boilerplate](#boilerplate)
 
 ## Framework
 

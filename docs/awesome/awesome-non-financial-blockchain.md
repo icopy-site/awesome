@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="machinomy/awesome-non-financial-blockchain"></div>
 ## Awesome Non-Financial Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of projects that build non-financial applications of blockchain.
@@ -8,12 +9,7 @@ Most applications of blockchain lie in a financial realm. That makes non-financi
 
 Industry of a blockchain application is defined by the one that is changed the most. For example, discontinued IoT bitcoin micropayments startup [21](https://21.co) (now [Earn.com](https://earn.com)) could significantly change both IoT and Financial sectors. Financial industry would expand its _current_ practice to a new domain. For IoT, however, _business model_ would change significantly. That intuition commands current classification.
 
-## Contents
 
-- [Identity Applications](#identity-applications)
-- [Internet of Things Applications](#internet-of-things-applications)
-- [Energy Applications](#energy-applications)
-- [Talks and books](#talks-and-books)
 
 ## Identity Applications
 

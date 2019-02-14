@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mohataher/awesome-tinkerpop"></div>
 ## Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![alt tag](https://raw.githubusercontent.com/mohataher/awesome-tinkerpop/master/tinkerpop-splash.png)
@@ -7,17 +8,6 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 >Apache TinkerPop™ is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 
-### Table of Contents
-* [TinkerPop3](#tinkerpop3)
-	- [Implementations](#tinkerpop3-implementations)
-	- [Wrappers/Clients](#wrappers)
-	- [Query Languages](#qlang)
-* [TinkerPop2](#tinkerpop2)
-* [Communites](#communites)
-* [People to Follow](#people-to-follow)
-* [Tutorials and Resources](#tutorials-and-resources)
-* [How to Contribute](#contributing)
-* [License](#license)
 
 ### <A NAME="tinkerpop3"></A>TinkerPop3 Libraries
 #### <A NAME="tinkerpop3-implementations"></A>Implementations

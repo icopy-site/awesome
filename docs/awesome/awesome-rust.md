@@ -1,143 +1,42 @@
+<div class="github-widget" data-repo="rust-unofficial/awesome-rust"></div>
 ## Awesome Rust [<img src="https://api.travis-ci.org/rust-unofficial/awesome-rust.svg?branch=master">](https://travis-ci.org/rust-unofficial/awesome-rust)
 
 A curated list of Rust code and resources.
 
 If you want to contribute, please read [this](https://github.com/rust-unofficial/awesome-rust/blob/master/CONTRIBUTING.md).
 
-## Table of contents
 
-- [Applications](#applications)
-  - [Audio](#audio)
-  - [Cryptocurrencies](#cryptocurrencies)
-  - [Database](#database)
-  - [Emulators](#emulators)
-  - [Games](#games)
-  - [Graphics](#graphics)
-  - [Industrial automation](#industrial-automation)
-  - [Operating systems](#operating-systems)
-  - [Productivity](#productivity)
-  - [Security tools](#security-tools)
-  - [System tools](#system-tools)
-  - [Text editors](#text-editors)
-  - [Text processing](#text-processing)
-  - [Utilities](#utilities)
-  - [Video](#video)
-  - [Virtualization](#virtualization)
-  - [Window managers](#window-managers)
-  - [Web](#web)
-  - [Web Servers](#web-servers)
-- [Development tools](#development-tools)
-  - [Build system](#build-system)
-  - [Debugging](#debugging)
-  - [Deployment](#deployment)
-  - [Embedded](#embedded)
-  - [FFI](#ffi)
-  - [IDEs](#ides)
-  - [Pattern recognition](#pattern-recognition)
-  - [Profiling](#profiling)
-  - [Static analysis](#static-analysis)
-  - [Testing](#testing)
-  - [Transpiling](#transpiling)
-- [Services](#services)
-- [Libraries](#libraries)
-  - [Artificial Intelligence](#artificial-intelligence)
-      - [Genetic algorithms](#genetic-algorithms)
-      - [Machine learning](#machine-learning)
-  - [Astronomy](#astronomy)
-  - [Asynchronous](#asynchronous)
-  - [Audio](#audio-1)
-  - [Authentication](#authentication)
-  - [Automotive](#automotive)
-  - [Bioinformatics](#bioinformatics)
-  - [Caching](#caching)
-  - [Cloud](#cloud)
-  - [Command-line](#command-line)
-  - [Compression](#compression)
-  - [Computation](#computation)
-  - [Concurrency](#concurrency)
-  - [Configuration](#configuration)
-  - [Cryptography](#cryptography)
-  - [Database](#database-1)
-  - [Data processing](#data-processing)
-  - [Data structures](#data-structures)
-  - [Data visualization](#data-visualization)
-  - [Date and time](#date-and-time)
-  - [Distributed systems](#distributed-systems)
-  - [Email](#email)
-  - [Encoding](#encoding)
-  - [Filesystem](#filesystem)
-  - [Game development](#game-development)
-  - [Geospatial](#geospatial)
-  - [Graphics](#graphics-1)
-  - [Graph processing](#graph-processing)
-  - [GUI](#gui)
-  - [Image processing](#image-processing)
-  - [Industrial automation](#industrial-automation)
-  - [Language specification](#language-specification)
-  - [Logging](#logging)
-  - [Macro](#macro)
-  - [Markup language](#markup-language)
-  - [Mobile](#mobile)
-  - [Network programming](#network-programming)
-  - [Parser](#parser)
-  - [Platform specific](#platform-specific)
-  - [Scripting](#scripting)
-  - [Template engine](#template-engine)
-  - [Text processing](#text-processing-1)
-  - [Text search](#text-search)
-  - [Virtualization](#virtualization-1)
-  - [Web programming](#web-programming)
-  - [Peripherals](#peripherals)
-- [Resources](#resources)
-- [License](#license)
 
 ## Applications
 
 See also [Rust — Production](https://www.rust-lang.org/production)(organizations running Rust in production).
 
-* [andschwa/rust-genetic-algorithm](https://raw.githubusercontent.com/andschwa/rust-genetic-algorithm) — a genetic algorithm for academic benchmark problems [<img src="https://api.travis-ci.org/andschwa/rust-genetic-algorithm.svg?branch=master">](https://travis-ci.org/andschwa/rust-genetic-algorithm)
-* [azerupi/mdBook](https://raw.githubusercontent.com/rust-lang-nursery/mdBook) — a command line utility to create books from markdown files [<img src="https://api.travis-ci.org/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
-* [bluejekyll/trust-dns](https://raw.githubusercontent.com/bluejekyll/trust-dns) — a DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
-* [ivanceras/diwata](https://raw.githubusercontent.com/ivanceras/diwata) — a database administration tool for postgresql [<img src="https://api.travis-ci.org/ivanceras/diwata.svg">](https://travis-ci.org/ivanceras/diwata)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 * [danielrangel/rsign](https://bitbucket.org/danielrangel/rsign) [[rsign](https://crates.io/crates/rsign)] — A simple command-line tool used to generate/sign/verify digital signatures designed to be compatible with Minisign  [![Codeship Status for danielrangel/rsign](https://app.codeship.com/projects/60b28d80-7645-0135-4402-1639b58199d0/status?branch=master)](https://app.codeship.com/projects/244452)
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
-* [dlecan/generic-dns-update](https://raw.githubusercontent.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
-* [Factotum](https://raw.githubusercontent.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://api.travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
-* [fcsonline/drill](https://raw.githubusercontent.com/fcsonline/drill) — a HTTP load testing application inspired by Ansible syntax [<img src="https://api.travis-ci.org/fcsonline/drill.svg?branch=master">](https://travis-ci.org/fcsonline/drill)
 * [Fractalide](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 * [habitat](https://www.habitat.sh) — An tool created by [Chef](https://www.chef.io/) to build, deploy, and manage applications.
 * [imjacobclark/Herd](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
-* [intecture/api](https://raw.githubusercontent.com/intecture/api) — an API-driven server management and configuration tool [<img src="https://api.travis-ci.org/intecture/api.svg?branch=master">](https://travis-ci.org/intecture/api)
 * [jedisct1/flowgger](https://github.com/jedisct1/flowgger) — a fast, simple and lightweight data collector
 * [jwilm/alacritty](https://github.com/jwilm/alacritty) — a cross-platform, GPU enhanced terminal emulator
-* [kbknapp/docli](https://raw.githubusercontent.com/kbknapp/docli-rs) — a command line utility for managing DigitalOcean infrastructure [<img src="https://api.travis-ci.org/kbknapp/docli-rs.svg?branch=master">](https://travis-ci.org/kbknapp/docli-rs)
 * [MaidSafe](https://maidsafe.net) — a decentralized platform.
-* [nicohman/eidolon](https://raw.githubusercontent.com/nicohman/eidolon) — a steam and drm-free game registry and launcher for linux and macosx [<img src="https://api.travis-ci.org/nicohman/eidolon.svg?branch=master">](https://travis-ci.org/nicohman/eidolon)
 * [notty](https://github.com/withoutboats/notty) — A new kind of terminal
 * [Pijul](https://pijul.org) — a patch-based distributed version control system
-* [qmx/limonite](https://raw.githubusercontent.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
 * [Servo](https://github.com/servo/servo) — a prototype web browser engine
-* [Weld](https://raw.githubusercontent.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
 
 ### Audio
 
-* [indiscipline/zrtstr](https://raw.githubusercontent.com/indiscipline/zrtstr) — a command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
 
 ### Cryptocurrencies
 
 * [nearprotocol/nearcore](https://github.com/nearprotocol/nearcore) — decentralized smart-contract platform for low-end mobile devices.
-* [ethaddrgen](https://raw.githubusercontent.com/Limeth/ethaddrgen) — Custom Ethereum vanity address generator made in Rust [<img src="https://api.travis-ci.org/Limeth/ethaddrgen.svg?branch=master">](https://travis-ci.org/Limeth/ethaddrgen)
-* [coinbase-pro-rs](https://raw.githubusercontent.com/inv2004/coinbase-pro-rs) — Coinbase pro client in Rust, supports sync/async/websocket [<img src="https://api.travis-ci.org/inv2004/coinbase-pro-rs.svg?branch=master">](https://travis-ci.org/inv2004/coinbase-pro-rs)
 * [Grin](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 * [Substrate](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 * [Polkadot](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
 * [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) — Fast, light, and robust Ethereum client
 * [Parity-Bridge](https://github.com/paritytech/parity-bridge) — Bridge between any two ethereum-based networks
-* [Parity-Bitcoin](https://raw.githubusercontent.com/paritytech/parity-bitcoin) — The Parity Bitcoin client [<img src="https://api.travis-ci.org/paritytech/parity-bitcoin.svg?branch=master">](https://travis-ci.com/paritytech/parity-bitcoin)
 * [Parity-Zcash](https://github.com/paritytech/parity-zcash) — Rust implementation of the Zcash protocol
-* [ArgusObserver/wagu](https://raw.githubusercontent.com/ArgusObserver/wagu) [[wagu](https://crates.io/crates/wagu)] — Generate a wallet for any cryptocurrency [<img src="https://api.travis-ci.com/ArgusObserver/wagu.svg?branch=master">](https://api.travis-ci.com/ArgusObserver/wagu.svg?branch=master)
 * [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Rust implementation of Cardano primitives, helpers, and related applications
 * [cardano-cli](https://github.com/input-output-hk/cardano-cli) — Cardano Command Line Interface (CLI)
 * [Nervos CKB](https://github.com/nervosnetwork/ckb) - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
@@ -146,12 +45,8 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 
 ### Database
 
-* [indradb/indradb](https://raw.githubusercontent.com/indradb/indradb) — Rust based graph database [<img src="https://api.travis-ci.org/indradb/indradb.svg?branch=master">](https://travis-ci.org/indradb/indradb)
 * [Mentat](https://mozilla.github.io/mentat/) — Project Mentat is a persistent, embedded knowledge base. It draws heavily on DataScript and Datomic. Mentat is intended to be a flexible relational (not key-value, not document-oriented) store that makes it easy to describe, grow, and reuse your domain schema.
-* [PumpkinDB](https://raw.githubusercontent.com/PumpkinDB/PumpkinDB) — an event sourcing database engine [<img src="https://api.travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master">](https://travis-ci.org/PumpkinDB/PumpkinDB)
-* [seppo0010/rsedis](https://raw.githubusercontent.com/seppo0010/rsedis) — a Redis reimplementation in Rust [<img src="https://api.travis-ci.org/seppo0010/rsedis.svg?branch=master">](https://travis-ci.org/seppo0010/rsedis)
 * [ParityDB](https://github.com/paritytech/paritydb) — Fast and reliable database, optimised for read operation
-* [tikv](https://raw.githubusercontent.com/tikv/tikv) — a distributed KV database in Rust [<img src="https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708">](https://circleci.com/gh/tikv/tikv)
 
 ### Emulators
 
@@ -181,24 +76,15 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
 
-* [lifthrasiir/angolmois-rust](https://raw.githubusercontent.com/lifthrasiir/angolmois-rust) — a minimalistic music video game which supports the BMS format [<img src="https://api.travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master">](https://travis-ci.org/lifthrasiir/angolmois-rust)
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) — a Sokoban implementation
-* [Zone of Control](https://raw.githubusercontent.com/ozkriff/zoc) — a turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zoc.svg?branch=master">](https://travis-ci.org/ozkriff/zoc)
 * [rhex](https://github.com/dpc/rhex) — hexagonal ascii roguelike
 * [citybound](https://github.com/citybound/citybound) — The city sim you deserve
-* [ozkriff/zemeroth](https://raw.githubusercontent.com/ozkriff/zemeroth) — a small 2D turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zemeroth.svg?branch=master">](https://travis-ci.org/ozkriff/zemeroth)
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-* [cristicbz/rust-doom](https://raw.githubusercontent.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game [<img src="https://api.travis-ci.org/cristicbz/rust-doom.svg?branch=master">](https://travis-ci.org/cristicbz/rust-doom)
 * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
-* [aleshaleksey/TGWM](https://raw.githubusercontent.com/aleshaleksey/TGWM) — An RPG with turned-based mechanics (work in progress) [<img src="https://api.travis-ci.org/aleshaleksey/TGWM.svg?branch=master">](https://travis-ci.org/aleshaleksey/TGWM)
-* [garkimasera/rusted-ruins](https://raw.githubusercontent.com/garkimasera/rusted-ruins) — Extensible open world rogue like game with pixel art [<img src="https://api.travis-ci.org/garkimasera/rusted-ruins.svg?branch=master">](https://travis-ci.org/garkimasera/rusted-ruins)
 
 ### Graphics
 
-* [Limeth/euclider](https://raw.githubusercontent.com/Limeth/euclider) — a real-time 4D CPU ray tracer [<img src="https://api.travis-ci.org/Limeth/euclider.svg?branch=master">](https://travis-ci.org/Limeth/euclider)
-* [ivanceras/svgbob](https://raw.githubusercontent.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics [<img src="https://api.travis-ci.org/ivanceras/svgbob.svg">](https://travis-ci.org/ivanceras/svgbob)
 * [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
-* [Twinklebear/tray_rust](https://raw.githubusercontent.com/Twinklebear/tray_rust) — a ray tracer [<img src="https://api.travis-ci.org/Twinklebear/tray_rust.svg">](https://travis-ci.org/Twinklebear/tray_rust)
 * Image processing
   * [spejss/Image-Processing-CLI-in-Rust](https://github.com/spejss/Image-Processing-CLI-in-Rust) — CLI for processing images, generating histograms. [![Build Status](https://api.travis-ci.org/spejss/Image-Processing-CLI-in-Rust.svg?branch=master)](https://travis-ci.org/spejss/Image-Processing-CLI-in-Rust)
 
@@ -213,7 +99,6 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 See also [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison).
 
 * [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) — [<img   src="https://api.travis-ci.org/redox-os/redox.svg?branch=master">](https://travis-ci.org/redox-os/redox)
-* [thepowersgang/rust_os](https://raw.githubusercontent.com/thepowersgang/rust_os) — [<img src="https://api.travis-ci.org/thepowersgang/rust_os.svg?branch=master">](https://travis-ci.org/thepowersgang/rust_os)
 * [tock/tock](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 * [nebulet/nebulet](https://github.com/nebulet/nebulet) — A microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 
@@ -223,117 +108,61 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Security tools
 
-* [arvancloud/libinjection-rs](https://raw.githubusercontent.com/arvancloud/libinjection-rs) — Rust bindings for [libinjection](https://raw.githubusercontent.com/client9/libinjection) [<img src="https://api.travis-ci.org/arvancloud/libinjection-rs.svg?branch=master">](https://travis-ci.org/arvancloud/libinjection-rs)
-* [kpcyrd/badtouch](https://raw.githubusercontent.com/kpcyrd/badtouch) — Scriptable network authentication cracker [<img src="https://api.travis-ci.org/kpcyrd/badtouch.svg?branch=master">](https://travis-ci.org/kpcyrd/badtouch)
-* [kpcyrd/rshijack](https://raw.githubusercontent.com/kpcyrd/rshijack) — tcp connection hijacker, rust rewrite of shijack [<img src="https://api.travis-ci.org/kpcyrd/rshijack.svg?branch=master">](https://travis-ci.org/kpcyrd/rshijack)
-* [kpcyrd/sniffglue](https://raw.githubusercontent.com/kpcyrd/sniffglue) — Secure multithreaded packet sniffer [<img src="https://api.travis-ci.org/kpcyrd/sniffglue.svg?branch=master">](https://travis-ci.org/kpcyrd/sniffglue)
-* [kpcyrd/sn0int](https://raw.githubusercontent.com/kpcyrd/sn0int) — Semi-automatic OSINT framework and package manager [<img src="https://api.travis-ci.org/kpcyrd/sn0int.svg?branch=master">](https://travis-ci.org/kpcyrd/sn0int)
 
 ### System tools
 
-* [Aaronepower/tokei](https://raw.githubusercontent.com/Aaronepower/tokei) — counts the lines of code [<img src="https://img.shields.io/travis/Aaronepower/tokei.svg">](https://travis-ci.org/Aaronepower/tokei)
-* [brocode/fblog](https://raw.githubusercontent.com/brocode/fblog) — Small command-line JSON Log viewer [<img src="https://api.travis-ci.org/brocode/fblog.svg?branch=master">](https://travis-ci.org/brocode/fblog)
-* [buster/rrun](https://raw.githubusercontent.com/buster/rrun) — a command launcher for Linux, similar to gmrun  [<img src="https://api.travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
-* [cristianoliveira/funzzy](https://raw.githubusercontent.com/cristianoliveira/funzzy) — a configurable filesystem watcher inspired by [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
-* [ddh](https://raw.githubusercontent.com/darakian/ddh) — Fast duplicate file finder [<img src="https://api.travis-ci.org/darakian/ddh.svg?branch=master">](https://travis-ci.org/darakian/ddh)
-* [jhspetersson/fselect](https://raw.githubusercontent.com/jhspetersson/fselect) [[fselect](https://crates.io/crates/fselect)] — Find files with SQL-like queries [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
-* [k0pernicus/zou](https://raw.githubusercontent.com/k0pernicus/zou) — a download accelerator [<img src="https://api.travis-ci.org/k0pernicus/zou.svg?branch=master">](https://travis-ci.org/k0pernicus/zou)
-* [lotabout/rargs](https://raw.githubusercontent.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — xargs + awk with pattern matching support [<img src="https://api.travis-ci.org/lotabout/rargs.svg?branch=master">](https://travis-ci.org/lotabout/rargs)
-* [lotabout/skim](https://raw.githubusercontent.com/lotabout/skim) — A fuzzy finder in pure rust [<img src="https://api.travis-ci.org/lotabout/skim.svg?branch=master">](https://travis-ci.org/lotabout/skim)
-* [mitnk/cicada](https://raw.githubusercontent.com/mitnk/cicada) — A bash-like Unix shell [<img src="https://api.travis-ci.org/mitnk/cicada.svg?branch=master">](https://travis-ci.org/mitnk/cicada)
 * [mmstick/concurr](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 * [mmstick/parallel](https://github.com/mmstick/parallel) — Reimplementation of GNU Parallel
 * [mmstick/systemd-manager](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
-* [mmstick/tv-renamer](https://raw.githubusercontent.com/mmstick/tv-renamer) — a tv series renaming application with an optional GTK3 frontend. [<img src="https://api.travis-ci.org/mmstick/tv-renamer.svg?branch=master">](https://travis-ci.org/mmstick/tv-renamer)
-* [Peltoche/lsd](https://raw.githubusercontent.com/Peltoche/lsd) - An ls with a lot of pretty colors and awesome icons [<img src="https://api.travis-ci.org/Peltoche/lsd.svg?branch=master">](https://travis-ci.org/Peltoche/lsd)
-* [ogham/exa](https://raw.githubusercontent.com/ogham/exa) — a replacement for 'ls' [<img src="https://api.travis-ci.org/ogham/exa.svg?branch=master">](https://travis-ci.org/ogham/exa)
 * [pop-os/debrep](https://github.com/pop-os/debrepbuild) — APT repository tool for building and managing an APT repo
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 * [pop-os/pop-recovery](https://github.com/pop-os/pop-recovery) — Utility for updating the recovery partition on a Pop!\_OS install.
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
-* [Ralvke/logram](https://raw.githubusercontent.com/Ralvke/logram) — Push log files' updates to Telegram [<img src="https://api.travis-ci.org/Ralvke/logram.svg?branch=master">](https://travis-ci.org/Ralvke/logram)
-* [redox-os/ion](https://raw.githubusercontent.com/redox-os/ion) — Next-generation system shell [<img src="https://api.travis-ci.org/redox-os/ion.svg?branch=master">](https://travis-ci.org/redox-os/ion)
-* [sharkdp/bat](https://raw.githubusercontent.com/sharkdp/bat) — A cat(1) clone with wings. [<img src="https://api.travis-ci.org/sharkdp/bat.svg?branch=master">](https://travis-ci.org/sharkdp/bat)
 * [sharkdp/fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
-* [sitkevij/hex](https://raw.githubusercontent.com/sitkevij/hex) — A colorized hexdump terminal utility. [<img src="https://api.travis-ci.org/sitkevij/hex.svg?branch=master">](https://travis-ci.org/sitkevij/hex)
-* [m4b/bingrep](https://raw.githubusercontent.com/m4b/bingrep) — Greps through binaries from various OSs and architectures, and colors them. [<img src="https://api.travis-ci.org/m4b/bingrep.svg?branch=master">](https://travis-ci.org/m4b/bingrep)
-* [uutils/coreutils](https://raw.githubusercontent.com/uutils/coreutils) — a cross-platform Rust rewrite of the GNU coreutils [<img src="https://api.travis-ci.org/uutils/coreutils.svg?branch=master">](https://travis-ci.org/uutils/coreutils)
-* [watchexec](https://raw.githubusercontent.com/watchexec/watchexec) — Executes commands in response to file modifications [<img src="https://api.travis-ci.org/mattgreen/watchexec.svg?branch=master">](https://travis-ci.org/mattgreen/watchexec)
 
 ### Text editors
 
-* [gchp/iota](https://raw.githubusercontent.com/gchp/iota) — a simple text editor [<img src="https://api.travis-ci.org/gchp/iota.svg?branch=master">](https://travis-ci.org/gchp/iota)
-* [mathall/rim](https://raw.githubusercontent.com/mathall/rim) — Vim-like text editor written in Rust [<img src="https://api.travis-ci.org/mathall/rim.svg?branch=master">](https://travis-ci.org/mathall/rim)
-* [Remacs](https://raw.githubusercontent.com/Wilfred/remacs) — A community-driven port of Emacs to Rust. [<img src="https://api.travis-ci.org/Wilfred/remacs.svg?branch=master">](https://travis-ci.org/Wilfred/remacs)
 * [xi-editor](https://github.com/xi-editor/xi-editor) — a modern editor with a backend written in Rust.
-* [xray](https://raw.githubusercontent.com/atom/xray) — An experimental next-generation Electron-based text editor. [<img src="https://api.travis-ci.org/atom/xray.svg?branch=master">](https://travis-ci.org/atom/xray)
 
 ### Text processing
-* [BurntSushi/ripgrep](https://raw.githubusercontent.com/BurntSushi/ripgrep) — combines the usability of The Silver Searcher with the raw speed of grep [<img src="https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master">](https://travis-ci.org/BurntSushi/ripgrep)
-* [chmln/sd](https://raw.githubusercontent.com/chmln/sd) [[sd](https://crates.io/crates/sd)] -Intuitive find & replace CLI [<img src="https://api.travis-ci.org/chmln/sd.svg?branch=master">](https://travis-ci.org/chmln/sd)
-* [BurntSushi/xsv](https://raw.githubusercontent.com/BurntSushi/xsv) — a fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.) [<img src="https://api.travis-ci.org/BurntSushi/xsv.svg?branch=master">](https://travis-ci.org/BurntSushi/xsv)
-* [TankerHQ/ruplacer](https://raw.githubusercontent.com/TankerHQ/ruplacer) — Find and replace text in source files [<img img src="https://api.travis-ci.org/TankerHQ/ruplacer.svg?branch=master">](https://travis-ci.org/TankerHQ/ruplacer)
-* [lavifb/todo_r](https://raw.githubusercontent.com/lavifb/todo_r) — Find all your TODO notes with one command! [<img src="https://api.travis-ci.org/lavifb/todo_r.svg?branch=master">](https://travis-ci.org/lavifb/todo_r)
 * [whitfin/runiq](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 * [whitfin/bytelines](https://github.com/whitfin/bytelines) - Read input lines as byte slices for high efficiency.
 
 ### Utilities
 
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
-* [evansmurithi/cloak](https://raw.githubusercontent.com/evansmurithi/cloak) — A Command Line OTP (One Time Password) Authenticator application. [<img src="https://api.travis-ci.com/evansmurithi/cloak.svg?branch=master">](https://travis-ci.com/evansmurithi/cloak) [<img src="https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true">](https://ci.appveyor.com/project/evansmurithi/cloak)
-* [myfreeweb/freepass](https://raw.githubusercontent.com/myfreeweb/freepass) — The free password manager for power users. [<img src="https://api.travis-ci.org/myfreeweb/freepass.svg?branch=master">](https://travis-ci.org/myfreeweb/freepass)
-* [arthrp/quick-skeleton](https://raw.githubusercontent.com/arthrp/quick-skeleton) — Project scaffolding tool, similar to Yeoman and Slush. [<img src="https://api.travis-ci.org/arthrp/quick-skeleton.svg?branch=master">](https://travis-ci.org/arthrp/quick-skeleton)
-* [yaa110/rubigo](https://raw.githubusercontent.com/yaa110/rubigo) — Golang dependency tool and package manager, written in Rust [<img src="https://api.travis-ci.org/yaa110/rubigo.svg?branch=master">](https://travis-ci.org/yaa110/rubigo)
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) — A command line tool to concatenate Amazon S3 files remotely using flexible patterns.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) — A command line tool to gather metadata about your Amazon S3 buckets.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) — A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV!
-* [aleshaleksey/AZDice](https://raw.githubusercontent.com/aleshaleksey/AZDice) — A dice roll success distribution generator for tabletop homebrewers. [<img src="https://api.travis-ci.org/aleshaleksey/AZDice.svg?branch=master">](https://travis-ci.org/aleshaleksey/AZDice)
 
 ### Video
 
-* [yuvadm/slingr](https://raw.githubusercontent.com/yuvadm/slingr) — A simple CLI for streaming media files over a local network to UPnP media renderers [<img src="https://api.travis-ci.org/yuvadm/slingr.svg?branch=master">](https://travis-ci.org/yuvadm/slingr)
 
 ### Virtualization
 
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — a lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
 * [oracle/railcar](https://github.com/oracle/railcar) — Docker-like container OCI runtime implementation in Rust [![wercker status](https://app.wercker.com/status/730e874772dc02c6005f4ae4e42b0ca4/s/master "wercker status")](https://app.wercker.com/applications/59696a02ee70670100155ae2 )
-* [tailhook/vagga](https://raw.githubusercontent.com/tailhook/vagga) — a containerization tool without daemons [<img src="https://api.travis-ci.org/tailhook/vagga.svg?branch=master">](https://travis-ci.org/tailhook/vagga)
 
 ### Window managers
 
-* [way-cooler/way-cooler](https://raw.githubusercontent.com/way-cooler/way-cooler) — a customizable Wayland compositor (window manager) [<img src="https://api.travis-ci.org/way-cooler/way-cooler.svg?branch=master">](https://travis-ci.org/way-cooler/way-cooler)
 
 ### Web
 
-* [Plume-org/Plume](https://raw.githubusercontent.com/Plume-org/Plume) — ActivityPub federating blogging application [<img src="https://api.travis-ci.org/Plume-org/Plume.svg?branch=master">](https://travis-ci.org/Plume-org/Plume)
-* [rustlang-cn/ruster](https://raw.githubusercontent.com/rustlang-cn/ruster) — online community in rust for rust community [<img src="https://api.travis-ci.org/rustlang-cn/ruster.svg?branch=master">](https://travis-ci.org/rustlang-cn/ruster)
 
 
 ### Web Servers
 
-* [thecoshman/http](https://raw.githubusercontent.com/thecoshman/http) — Host These Things Please — a basic http server for hosting a folder fast and simply [<img src="https://api.travis-ci.org/thecoshman/http.svg?branch=master">](https://travis-ci.org/thecoshman/http)
 - [svenstaro/miniserve](https://raw.githubusercontent.com/svenstaro/miniserve) — a small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [<img src="https://api.travis-ci.org/svenstaro/miniserve.svg?branch=master">](https://travis-ci.org/svenstaro/miniserve)
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ## Development tools
 
-* [Clippy](https://raw.githubusercontent.com/rust-lang/rust-clippy) [[clippy](https://crates.io/crates/clippy)] — Rust lints [<img src="https://api.travis-ci.org/rust-lang/rust-clippy.svg?branch=master">](https://travis-ci.org/rust-lang/rust-clippy)
-* [clog-tool/clog-cli](https://raw.githubusercontent.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html)) [<img src="https://api.travis-ci.org/clog-tool/clog-cli.svg?branch=master">](https://travis-ci.org/clog-tool/clog-cli)
-* [dan-t/rusty-tags](https://raw.githubusercontent.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [<img src="https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master">](https://travis-ci.org/dan-t/rusty-tags)
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) — generates images of dependency graphs for crates hosted on crates.io
-* [git-journal](https://raw.githubusercontent.com/saschagrunert/git-journal/) — The Git Commit Message and Changelog Generation Framework [<img src="https://api.travis-ci.org/saschagrunert/git-journal.svg?branch=master">](https://travis-ci.org/saschagrunert/git-journal)
-* [rust-lang-nursery/rustfix](https://raw.githubusercontent.com/rust-lang-nursery/rustfix)  — automatically applies the suggestions made by rustc [<img src="https://api.travis-ci.org/killercup/rustfix.svg?branch=master">](https://travis-ci.org/killercup/rustfix)
-* [just](https://raw.githubusercontent.com/casey/just) — A handy command runner for project-specific tasks [<img src="https://api.travis-ci.org/casey/just.svg?branch=master">](https://travis-ci.org/casey/just)
 * [Module Linker](https://fiatjaf.alhur.es/module-linker/) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 * [ptags](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
-* [Racer](https://raw.githubusercontent.com/racer-rust/racer) — code completion for Rust [<img src="https://api.travis-ci.org/phildawes/racer.svg?branch=master">](https://travis-ci.org/phildawes/racer)
-* [rustfmt](https://raw.githubusercontent.com/rust-lang/rustfmt) — a Rust code formatter [<img src="https://api.travis-ci.org/rust-lang/rustfmt.svg?branch=master">](https://travis-ci.org/rust-lang/rustfmt)
-* [Rustup](https://raw.githubusercontent.com/rust-lang/rustup.rs) — the Rust toolchain installer [<img src="https://api.travis-ci.org/rust-lang/rustup.rs.svg?branch=master">](https://travis-ci.org/rust-lang/rustup.rs)
 * [Rust Language Server](https://github.com/rust-lang/rls) — a server that runs in the background, providing IDEs, editors, and other tools with information about Rust programs
 * [artifact](https://github.com/vitiral/artifact) — the design doc tool made for developers [![Build Status](https://api.travis-ci.org/vitiral/artifact.svg?branch=master)](https://travis-ci.org/vitiral/artifact)
-* [semantic-rs](https://raw.githubusercontent.com/semantic-rs/semantic-rs) — automatic crate publishing [<img src="https://api.travis-ci.org/semantic-rs/semantic-rs.svg?branch=master">](https://travis-ci.org/semantic-rs/semantic-rs)
-* [fw](https://raw.githubusercontent.com/brocode/fw) — workspace productivity booster [<img src="https://api.travis-ci.org/brocode/fw.svg?branch=master">](https://travis-ci.org/brocode/fw)
 * [tinyrick](https://github.com/mcandre/tinyrick) a basic task dependency tool emphasizing Rust functions over raw shell commands.
 
 ### Build system
@@ -501,8 +330,6 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Profiling
 
-* [performancecopilot/hornet](https://raw.githubusercontent.com/performancecopilot/hornet) — a Performance Co-Pilot memory-mapped values instrumentation library [![crates.io badge](https://img.shields.io/crates/v/hornet.svg)](https://crates.io/crates/hornet) [<img src="https://api.travis-ci.org/performancecopilot/hornet.svg?branch=master">](https://travis-ci.org/performancecopilot/hornet)
-* [ellisonch/rust-stopwatch](https://raw.githubusercontent.com/ellisonch/rust-stopwatch) — a stopwatch library [<img src="https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master">](https://travis-ci.org/ellisonch/rust-stopwatch)
 * FlameGraphs
   * [mrhooray/torch](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
   * [TyOverby/flame](https://raw.githubusercontent.com/TyOverby/flame) — [<img src="https://api.travis-ci.org/TyOverby/flame.svg?branch=master">](https://travis-ci.org/TyOverby/flame)
@@ -517,15 +344,9 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 [[testing](https://crates.io/keywords/testing)]
 
-* [llogiq/mutagen](https://raw.githubusercontent.com/llogiq/mutagen) [[mutagen](https://crates.io/crates/mutagen)] — A source-level mutation testing framework (nightly only) [<img src="https://api.travis-ci.org/llogiq/mutagen.svg?branch=master">](https://travis-ci.org/llogiq/mutagen)
 * [AlKass/polish](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
-* [altsysrq/proptest](https://raw.githubusercontent.com/altsysrq/proptest) [[proptest](https://crates.io/crates/proptest)] — property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python [<img src="https://api.travis-ci.org/altsysrq/proptest.svg?branch=master">](https://travis-ci.org/altsysrq/proptest)
-* [BurntSushi/quickcheck](https://raw.githubusercontent.com/BurntSushi/quickcheck) [[quickcheck](https://crates.io/crates/quickcheck)] — a Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) [<img src="https://api.travis-ci.org/BurntSushi/quickcheck.svg?branch=master">](https://travis-ci.org/BurntSushi/quickcheck)
-* [Mockito](https://raw.githubusercontent.com/lipanski/mockito) [[mockito](https://crates.io/crates/mockito)] — HTTP mocking [<img src="https://api.travis-ci.org/lipanski/mockito.svg?branch=master">](https://travis-ci.org/lipanski/mockito)
 * [utkarshkukreti/speculate.rs](https://github.com/utkarshkukreti/speculate.rs) [[speculate](https://crates.io/crates/speculate)] — An RSpec inspired minimal testing framework for Rust
-* [rust-fuzz/afl.rs](https://raw.githubusercontent.com/rust-fuzz/afl.rs) — a Rust fuzzer, using [AFL](http://lcamtuf.coredump.cx/afl/) [<img src="https://api.travis-ci.org/rust-fuzz/afl.rs.svg?branch=master">](https://travis-ci.org/rust-fuzz/afl.rs)
 * [trust](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
-* [xd009642/tarpaulin](https://raw.githubusercontent.com/xd009642/tarpaulin) [[tarpaulin](https://crates.io/crates/cargo-tarpaulin)] — A code coverage tool designed for Rust [<img src="https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master">](https://travis-ci.org/xd009642/tarpaulin)
 
 ### Transpiling
 
@@ -567,27 +388,15 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[astronomy](https://crates.io/keywords/astronomy)]
 
-* [saurvs/astro-rust](https://raw.githubusercontent.com/saurvs/astro-rust) — astronomy for Rust [<img src="https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master">](https://travis-ci.org/saurvs/astro-rust)
-* [mindriot101/rust-fitsio](https://raw.githubusercontent.com/mindriot101/rust-fitsio) [[fitsio](https://crates.io/crates/fitsio)] — fits interface library wrapping cfitsio [<img src="https://api.travis-ci.org/mindriot101/rust-fitsio.svg?branch=master">](https://travis-ci.org/mindriot101/rust-fitsio)
-* [flosse/rust-sun](https://raw.githubusercontent.com/flosse/rust-sun) — A rust port of the JS library suncalc [<img src="https://api.travis-ci.org/flosse/rust-sun.svg?branch=master">](https://travis-ci.org/flosse/rust-sun)
 
 ### Asynchronous
 
-* [zonyitoo/coio-rs](https://raw.githubusercontent.com/zonyitoo/coio-rs) — a coroutine I/O library with a working-stealing scheduler [<img src="https://api.travis-ci.org/zonyitoo/coio-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/coio-rs)
-* [dpc/mioco](https://raw.githubusercontent.com/dpc/mioco) — Scalable, coroutine-based, asynchronous IO handling library [<img src="https://img.shields.io/travis/dpc/mioco/master.svg?style=flat-square" alt="Travis CI Build Status">](https://travis-ci.org/dpc/mioco)
-* [TeaEntityLab/fpRust](https://raw.githubusercontent.com/TeaEntityLab/fpRust) — Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust [<img src="https://api.travis-ci.org/TeaEntityLab/fpRust.svg?branch=master" alt="Travis CI Build Status">](https://travis-ci.org/TeaEntityLab/fpRust)
-* [rust-lang-nursery/futures-rs](https://raw.githubusercontent.com/rust-lang-nursery/futures-rs) — Zero-cost futures in Rust [<img src="https://api.travis-ci.org/rust-lang-nursery/futures-rs.svg?branch=master" alt="Travis CI Build Status">](https://travis-ci.org/rust-lang-nursery/futures-rs)
-* [carllerche/mio](https://raw.githubusercontent.com/carllerche/mio) — MIO is a lightweight IO library for Rust with a focus on adding as little overhead as possible over the OS abstractions [<img src="https://api.travis-ci.org/carllerche/mio.svg?branch=master">](https://travis-ci.org/carllerche/mio)
 
 ### Audio
 
 [[audio](https://crates.io/keywords/audio)]
 
 * [GuillaumeGomez/rust-fmod](https://github.com/GuillaumeGomez/rust-fmod) — [FMOD](https://www.fmod.com) bindings [![Build Status](https://api.travis-ci.org/GuillaumeGomez/rust-fmod.svg?branch=master)](https://travis-ci.org/GuillaumeGomez/rust-fmod)
-* [jhasse/ears](https://raw.githubusercontent.com/jhasse/ears) — a simple library to play Sounds and Musics, on top of OpenAL and libsndfile [<img src="https://api.travis-ci.org/jhasse/ears.svg?branch=master">](https://travis-ci.org/jhasse/ears)
-* [jpernst/alto](https://raw.githubusercontent.com/jpernst/alto) — OpenAL 1.1 bindings [<img src="https://api.travis-ci.org/jpernst/alto.svg?branch=master">](https://travis-ci.org/jpernst/alto)
-* [musitdev/portmidi-rs](https://raw.githubusercontent.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) bindings [<img src="https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master">](https://travis-ci.org/musitdev/portmidi-rs)
-* [ruuda/hound](https://raw.githubusercontent.com/ruuda/hound) [[Hound](https://crates.io/crates/hound)] — A WAV encoding and decoding library [<img src="https://api.travis-ci.org/ruuda/hound.svg?branch=master">](https://travis-ci.org/ruuda/hound)
 * [tomaka/rodio](https://github.com/tomaka/rodio) — A Rust audio playback library [![Build Status](https://api.travis-ci.org/tomaka/rodio.svg?branch=master)](https://travis-ci.org/tomaka/rodio)
 * [RustAudio](https://github.com/RustAudio)
   * [RustAudio/rust-portaudio](https://raw.githubusercontent.com/RustAudio/rust-portaudio) — [PortAudio](http://www.portaudio.com/) bindings [<img src="https://api.travis-ci.org/RustAudio/rust-portaudio.svg?branch=master">](https://travis-ci.org/RustAudio/rust-portaudio)
@@ -599,13 +408,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Automotive
 
 * [Altenius/j2534](https://github.com/Altenius/j2534-rs) [[j2534](https://crates.io/crates/j2534)] - J2534 PassThru bindings
-* [jmagnuson/canparse](https://raw.githubusercontent.com/jmagnuson/canparse) [[canparse](https://crates.io/crates/canparse)] - A CAN signal and definition parser [<img src="https://api.travis-ci.org/jmagnuson/canparse.svg?branch=master">](https://travis-ci.org/jmagnuson/canparse)
-* [JulianSchmid/dlt_parse](https://raw.githubusercontent.com/JulianSchmid/dlt-parse-rs) - Rust DLT (Diagnostic Log and Trace) packet parser [<img src="https://api.travis-ci.org/JulianSchmid/dlt-parse-rs.svg?branch=master">](https://travis-ci.org/JulianSchmid/dlt-parse-rs)
-* [JulianSchmid/someip_parse](https://raw.githubusercontent.com/JulianSchmid/someip-parse-rs) [[someip_parse](https://crates.io/crates/someip_parse)] - A library for parsing the SOME/IP network protocol (without payload interpretation) [<img src="https://api.travis-ci.org/JulianSchmid/someip-parse-rs.svg?branch=master">](https://travis-ci.org/JulianSchmid/someip-parse-rs)
 * [LibreTuner/tuneutils](https://github.com/LibreTuner/tuneutils) [[tuneutils](https://crates.io/crates/tuneutils)] - Utilities for interfacing with, diagnosing, and tuning car
-* [marcelbuesing/can-dbc](https://raw.githubusercontent.com/marcelbuesing/can-dbc) [[can-dbc](https://crates.io/crates/can-dbc)] - A parser for the DBC format [<img src="https://api.travis-ci.org/marcelbuesing/can-dbc.svg?branch=dev">](https://travis-ci.org/marcelbuesing/can-dbc)
-* [mbr/socketcan](https://raw.githubusercontent.com/mbr/socketcan-rs) [[socketcan](https://crates.io/crates/socketcan)] - Linux SocketCAN library [<img src="https://api.travis-ci.org/mbr/socketcan-rs.svg?branch=master">](https://travis-ci.org/mbr/socketcan-rs)
-* [Sensirion/lin-bus](https://raw.githubusercontent.com/Sensirion/lin-bus-rs) [[lin-bus](https://crates.io/crates/lin-bus)] - LIN bus driver traits and protocol implementation [<img src="https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg">](https://circleci.com/gh/Sensirion/lin-bus-rs)
 
 ### Bioinformatics
 
@@ -613,18 +416,11 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Caching
 
-* [jaysonsantos/bmemcached-rs](https://raw.githubusercontent.com/jaysonsantos/bmemcached-rs) — Memcached library written in pure rust [<img src="https://api.travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master">](https://travis-ci.org/jaysonsantos/bmemcached-rs)
 * [jaemk/cached](https://github.com/jaemk/cached) — Simple function caching/memoization
-* [aisk/rust-memcache](https://raw.githubusercontent.com/aisk/rust-memcache) — Memcached client library [<img src="https://api.travis-ci.org/aisk/rust-memcache.svg?branch=master">](https://travis-ci.org/aisk/rust-memcache)
 
 ### Concurrency
 
-* [aymanmadkour/glock](https://raw.githubusercontent.com/aymanmadkour/glock) – Granular locking crate for Rust. [<img src="https://api.travis-ci.org/aymanmadkour/glock.svg?branch=master">](https://travis-ci.org/aymanmadkour/glock)
-* [crossbeam-rs/crossbeam](https://raw.githubusercontent.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency in Rust [<img src="https://api.travis-ci.org/crossbeam-rs/crossbeam.svg?branch=master">](https://travis-ci.org/crossbeam-rs/crossbeam)
 * [pop-os/bus-writer](https://github.com/pop-os/bus-writer) — Generic single-reader, multi-writer
-* [Rayon](https://raw.githubusercontent.com/rayon-rs/rayon) – A data parallelism library for Rust [<img src="https://api.travis-ci.org/rayon-rs/rayon.svg?branch=master">](https://travis-ci.org/rayon-rs/rayon)
-* [rustcc/coroutine-rs](https://raw.githubusercontent.com/rustcc/coroutine-rs) – Coroutine Library in Rust [<img src="https://img.shields.io/travis/rustcc/coroutine-rs.svg">](https://travis-ci.org/rustcc/coroutine-rs)
-* [zonyitoo/coio-rs](https://raw.githubusercontent.com/zonyitoo/coio-rs) – Coroutine I/O for Rust [<img src="https://api.travis-ci.org/zonyitoo/coio-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/coio-rs)
 
 ### Cloud
 
@@ -697,7 +493,6 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Computation
 
-* [argmin-rs/argmin](https://raw.githubusercontent.com/argmin-rs/argmin) [[argmin](https://crates.io/crates/argmin)] — A pure Rust optimization library [<img src="https://api.travis-ci.org/argmin-rs/argmin.svg?branch=master">](https://travis-ci.org/argmin-rs/argmin)
 * [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) [[blas](https://crates.io/keywords/blas)]
   * [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) — BLAS bindings
   * [stainless-steel/blas](https://raw.githubusercontent.com/blas-lapack-rs/blas) — BLAS bindings [<img src="https://api.travis-ci.org/blas-lapack-rs/blas.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/blas)
@@ -711,7 +506,6 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [stainless-steel/lapack](https://raw.githubusercontent.com/blas-lapack-rs/lapack) — LAPACK bindings [<img src="https://api.travis-ci.org/blas-lapack-rs/lapack.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/lapack)
 * [L-BFGS-B](https://en.wikipedia.org/wiki/Limited-memory_BFGS)
   * [noshu/lbfgsb-sys](https://github.com/noshu/lbfgsb-sys) — Rust binding of fortran L-BFGS-B subroutine
-* [rustsim/nalgebra](https://raw.githubusercontent.com/rustsim/nalgebra) — low-dimensional linear algebra library [<img src="https://api.travis-ci.org/rustsim/nalgebra.svg?branch=master">](https://travis-ci.org/rustsim/nalgebra)
 * Parallel
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://arrayfire.com/) bindings
   * [autumnai/collenchyma](https://raw.githubusercontent.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [<img src="https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master">](https://travis-ci.org/autumnai/collenchyma)
@@ -725,30 +519,17 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Configuration
 
-* [mehcode/config-rs](https://raw.githubusercontent.com/mehcode/config-rs) [[config](https://crates.io/crates/config)] — Layered configuration system for Rust applications (with strong support for 12-factor applications). [<img src="https://api.travis-ci.org/mehcode/config-rs.svg?branch=master">](https://travis-ci.org/mehcode/config-rs)
 * [Kixunil/configure_me](https://github.com/Kixunil/configure_me) [[configure_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Cryptography
 
 [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
-* [briansmith/ring](https://raw.githubusercontent.com/briansmith/ring) — Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives. [<img src="https://api.travis-ci.org/briansmith/ring.svg?branch=master">](https://travis-ci.org/briansmith/ring)
-* [briansmith/webpki](https://raw.githubusercontent.com/briansmith/webpki) — Web PKI TLS X.509 certificate validation in Rust. [<img src="https://api.travis-ci.org/briansmith/webpki.svg?branch=master">](https://travis-ci.org/briansmith/webpki)
-* [brycx/orion](https://raw.githubusercontent.com/brycx/orion) — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [<img src="https://api.travis-ci.org/brycx/orion.svg?branch=master">](https://travis-ci.org/brycx/orion)
 * [ctz/rustls](https://github.com/ctz/rustls) — a Rust implementation of TLS
-* [DaGenix/rust-crypto](https://raw.githubusercontent.com/DaGenix/rust-crypto) — cryptographic algorithms in Rust [<img src="https://api.travis-ci.org/DaGenix/rust-crypto.svg?branch=master">](https://travis-ci.org/DaGenix/rust-crypto)
-* [dnaq/sodiumoxide](https://raw.githubusercontent.com/sodiumoxide/sodiumoxide) — [libsodium](https://raw.githubusercontent.com/jedisct1/libsodium) bindings [<img src="https://api.travis-ci.org/dnaq/sodiumoxide.svg?branch=master">](https://travis-ci.org/dnaq/sodiumoxide)
-* [doublify/libblockchain](https://raw.githubusercontent.com/doublify/libblockchain) — A Blockchain implementation [<img src="https://api.travis-ci.org/doublify/libblockchain.svg?branch=master">](https://travis-ci.org/doublify/libblockchain)
-* [exonum/exonum](https://raw.githubusercontent.com/exonum/exonum) [[exonum](https://crates.io/crates/exonum)] — extensible framework for blockchain projects [<img src="https://api.travis-ci.org/exonum/exonum.svg?branch=master">](https://travis-ci.org/exonum/exonum)
 * [klutzy/suruga](https://github.com/klutzy/suruga) — a Rust implementation of [TLS 1.2](https://tools.ietf.org/html/rfc5246)
-* [libOctavo/octavo](https://raw.githubusercontent.com/libOctavo/octavo) — Modular hash and crypto library in Rust [<img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master">](https://travis-ci.org/libOctavo/octavo)
-* [RustCrypto/hashes](https://raw.githubusercontent.com/RustCrypto/hashes) — Collection of cryptographic hash functions written in pure Rust [<img src="https://api.travis-ci.org/RustCrypto/hashes.svg?branch=master">](https://travis-ci.org/RustCrypto/hashes)
-* [rustindia/mpw-rs](https://raw.githubusercontent.com/rustindia/mpw-rs) — Pure Rust implementation of the Master Password password manager [<img src="https://api.travis-ci.org/rustindia/mpw-rs.svg?branch=master">](https://travis-ci.org/rustindia/mpw-rs)
-* [racum/rust-djangohashers](https://raw.githubusercontent.com/racum/rust-djangohashers) — A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style. [<img src="https://api.travis-ci.org/Racum/rust-djangohashers.svg?branch=master">](https://travis-ci.org/Racum/rust-djangohashers)
 * [RNCryptor/rncryptor-rs](https://github.com/RNCryptor/rncryptor-rs) — Pure Rust implementation of the RNCryptor AES file format
 * [conradkdotcom/rooster](https://github.com/conradkdotcom/rooster) [[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
 * [sfackler/rust-native-tls](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
-* [sfackler/rust-openssl](https://raw.githubusercontent.com/sfackler/rust-openssl) — [OpenSSL](https://www.openssl.org/) bindings [<img src="https://api.travis-ci.org/sfackler/rust-openssl.svg?branch=master">](https://travis-ci.org/sfackler/rust-openssl)
 * [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native crypto)
 * [steffengy/schannel-rs](https://github.com/steffengy/schannel-rs) — Bindings for Schannel (Windows native TLS)
 * [zebradil/rustotpony](https://github.com/zebradil/rustotpony) — CLI manager of one-time password generators aka Google Authenticator (TOTP)
@@ -757,7 +538,6 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[database](https://crates.io/keywords/database)]
 
-* [sfackler/r2d2](https://raw.githubusercontent.com/sfackler/r2d2) — generic connection pool [<img src="https://api.travis-ci.org/sfackler/r2d2.svg?branch=master">](https://travis-ci.org/sfackler/r2d2)
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
   * [Cassandra](http://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://raw.githubusercontent.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [<img src="https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master">](https://travis-ci.org/AlexPikalov/cdrs)
@@ -812,27 +592,16 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data structures
 
-* [bluss/rust-itertools](https://raw.githubusercontent.com/bluss/rust-itertools) — [<img src="https://api.travis-ci.org/bluss/rust-itertools.svg?branch=master">](https://travis-ci.org/bluss/rust-itertools)
 * [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
-* [danielpclark/array_tool](https://raw.githubusercontent.com/danielpclark/array_tool) — Array helpers for Rust. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases. [<img src="https://api.travis-ci.org/danielpclark/array_tool.svg?branch=master">](https://travis-ci.org/danielpclark/array_tool)
-* [fizyk20/generic-array](https://raw.githubusercontent.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums [<img src="https://api.travis-ci.org/fizyk20/generic-array.svg?branch=master">](https://travis-ci.org/fizyk20/generic-array)
-* [garro95/priority-queue](https://raw.githubusercontent.com/garro95/priority-queue)[[priority-queue](https://crates.io/crates/priority-queue)] — A priority queue that implements priority changes. [<img src="https://api.travis-ci.org/garro95/priority-queue.svg?branch=master">](https://travis-ci.org/garro95/priority-queue)
-* [Nemo157/roaring-rs](https://raw.githubusercontent.com/Nemo157/roaring-rs) – Roaring Bitmaps in Rust [<img src="https://api.travis-ci.org/Nemo157/roaring-rs.svg?branch=master">](https://travis-ci.org/Nemo157/roaring-rs)
-* [orium/rpds](https://raw.githubusercontent.com/orium/rpds) [[rpds](https://crates.io/crates/rpds)] — Persistent data structures in Rust. [<img src="https://api.travis-ci.org/orium/rpds.svg?branch=master">](https://travis-ci.org/orium/rpds)
 * [pop-os/progress-streams](https://github.com/pop-os/progress-streams) — Progress callbacks for types which implement `dyn io::Read` or `dyn io::Write`.
-* [reem/rust-typemap](https://raw.githubusercontent.com/reem/rust-typemap) — [<img src="https://api.travis-ci.org/reem/rust-typemap.svg?branch=master">](https://travis-ci.org/reem/rust-typemap)
-* [xfix/enum-map](https://raw.githubusercontent.com/xfix/enum-map) [[enum-map](https://crates.io/crates/enum-map)] — An optimized map implementation for enums using an array to store values. [<img src="https://api.travis-ci.org/xfix/enum-map.svg?branch=master">](https://travis-ci.org/xfix/enum-map)
 
 ### Data visualization
 
-* [saresend/gust](https://raw.githubusercontent.com/saresend/Gust) — [<img src="https://api.travis-ci.org/saresend/Gust.svg?branch=master">](https://travis-ci.org/saresend/Gust)
 
 ### Date and time
 
 [[date](https://crates.io/keywords/date), [time](https://crates.io/keywords/time)]
 
-* [chronotope/chrono](https://raw.githubusercontent.com/chronotope/chrono) — [<img src="https://api.travis-ci.org/chronotope/chrono.svg?branch=master">](https://travis-ci.org/chronotope/chrono)
-* [yaa110/rust-persian-calendar](https://raw.githubusercontent.com/yaa110/rust-persian-calendar) — [<img src="https://api.travis-ci.org/yaa110/rust-persian-calendar.svg?branch=master">](https://travis-ci.org/yaa110/rust-persian-calendar)
 
 ### Distributed systems
 
@@ -852,10 +621,6 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[email](https://crates.io/keywords/email), [imap](https://crates.io/keywords/imap), [smtp](https://crates.io/keywords/smtp)]
 
-* [GildedHonour/atarashii_imap](https://raw.githubusercontent.com/GildedHonour/atarashii_imap) — 新しい (atarashii/new) IMAP client in Rust. It supports plain and secure connections [<img src="https://api.travis-ci.org/GildedHonour/atarashii_imap.svg?branch=master">](https://travis-ci.org/GildedHonour/atarashii_imap)
-* [gsquire/sendgrid-rs](https://raw.githubusercontent.com/gsquire/sendgrid-rs) — unofficial Rust library for SendGrid API [<img src="https://api.travis-ci.org/gsquire/sendgrid-rs.svg?branch=master">](https://travis-ci.org/gsquire/sendgrid-rs)
-* [lettre/lettre](https://raw.githubusercontent.com/lettre/lettre) — an SMTP-library for Rust [<img src="https://api.travis-ci.org/lettre/lettre.svg?branch=master">](https://travis-ci.org/lettre/lettre)
-* [staktrace/mailparse](https://raw.githubusercontent.com/staktrace/mailparse) [[mailparse](https://crates.io/crates/mailparse)] — a library for parsing real-world email files [<img src="https://api.travis-ci.org/staktrace/mailparse.svg?branch=master">](https://travis-ci.org/staktrace/mailparse)
 
 ### Encoding
 
@@ -972,8 +737,6 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 [[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
 
-* [DaveKram/coord_transforms](https://raw.githubusercontent.com/DaveKram/coord_transforms) [[coord_transforms](https://crates.io/crates/coord_transforms)] — coordinate transformations (2-d, 3-d, and geospatial) [<img src="https://api.travis-ci.org/DaveKram/coord_transforms.svg?branch=master">](https://travis-ci.org/DaveKram/coord_transforms)
-* [vlopes11/geomorph](https://raw.githubusercontent.com/vlopes11/geomorph) [[geomorph](https://crates.io/crates/geomorph)] — conversion between UTM, LatLon and MGRS coordinates [<img src="https://api.travis-ci.org/vlopes11/geomorph.svg?branch=master">](https://travis-ci.org/vlopes11/geomorph)
 * [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
 * [rust-reverse-geocoder](https://github.com/llambda/rrgeo) — a fast, offline reverse geocoder in Rust, inspired by https://github.com/thampiman/reverse-geocoder
 
@@ -981,7 +744,6 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 [[graphics](https://crates.io/keywords/graphics)]
 
-* [gfx-rs/gfx](https://raw.githubusercontent.com/gfx-rs/gfx) — A high-performance, bindless graphics API for Rust. [<img src="https://img.shields.io/travis/gfx-rs/gfx/master.svg">](https://travis-ci.org/gfx-rs/gfx)
 * Font
   * [redox-os/rusttype](https://raw.githubusercontent.com/redox-os/rusttype) — a pure Rust alternative to libraries like FreeType [<img src="https://img.shields.io/travis/dredox-os/rusttype/master.svg">](https://travis-ci.org/redox-os/rusttype)
 * OpenGL [[opengl](https://crates.io/keywords/opengl)]
@@ -999,15 +761,12 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Graph processing
 
-* [kud1ing/tinkerpop-rs](https://raw.githubusercontent.com/kud1ing/tinkerpop-rs) — an example how to use Apache TinkerPop from Rust [<img src="https://api.travis-ci.org/kud1ing/tinkerpop-rs.svg?branch=master">](https://travis-ci.org/kud1ing/tinkerpop-rs)
 
 ### GUI
 
 [[gui](https://crates.io/keywords/gui)]
 
 * [autopilot-rs/autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
-* [maps4print/azul](https://raw.githubusercontent.com/maps4print/azul) — A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine. [<img src="https://api.travis-ci.org/maps4print/azul.svg?branch=master">](https://travis-ci.org/maps4print/azul)
-* [PistonDevelopers/conrod](https://raw.githubusercontent.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust [<img src="https://api.travis-ci.org/PistonDevelopers/conrod.svg?branch=master">](https://travis-ci.org/PistonDevelopers/conrod)
 * [rise-ui](https://github.com/rise-ui/rise) - Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
 
 
@@ -1042,13 +801,9 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 * [abonander/img_hash](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 * [PistonDevelopers/imageproc](https://github.com/PistonDevelopers/imageproc) — An image processing library, based on the `image` library. [![Build Status](https://api.travis-ci.org/PistonDevelopers/imageproc.svg?branch=master)](https://travis-ci.org/PistonDevelopers/imageproc)
-* [PistonDevelopers/image](https://raw.githubusercontent.com/PistonDevelopers/image) — Basic imaging processing functions and methods for converting to and from image formats [<img src="https://api.travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
-* [kali/opencv-rust](https://raw.githubusercontent.com/kali/opencv-rust) — Rust bindings for OpenCV [<img src="https://api.travis-ci.org/kali/opencv-rust.svg?branch=cv2">](https://travis-ci.org/kali/opencv-rust)
-* [teovoinea/steganography](https://raw.githubusercontent.com/teovoinea/steganography) [[steganography](https://crates.io/crates/steganography)] — A simple steganography library [<img src="https://api.travis-ci.org/teovoinea/steganography.svg?branch=master">](https://travis-ci.org/teovoinea/steganography)
 
 ### Language specification
 
-* [shnewto/bnf](https://raw.githubusercontent.com/shnewto/bnf) — A library for parsing Backus–Naur form context-free grammars. [<img src="https://api.travis-ci.org/shnewto/bnf.svg?branch=master">](https://travis-ci.org/shnewto/bnf)
 
 ### Logging
 
@@ -1174,26 +929,12 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Text processing
 
-* [BurntSushi/suffix](https://raw.githubusercontent.com/BurntSushi/suffix) — Linear time suffix array construction (with Unicode support) [<img src="https://api.travis-ci.org/BurntSushi/suffix.svg?branch=master">](https://travis-ci.org/BurntSushi/suffix)
-* [BurntSushi/tabwriter](https://raw.githubusercontent.com/BurntSushi/tabwriter) — Elastic tab stops (i.e., text column alignment) [<img src="https://api.travis-ci.org/BurntSushi/tabwriter.svg?branch=master">](https://travis-ci.org/BurntSushi/tabwriter)
-* [dguo/strsim-rs](https://raw.githubusercontent.com/dguo/strsim-rs) [[strsim-rs](https://crates.io/crates/strsim)] — String similarity metrics [<img src="https://api.travis-ci.org/dguo/strsim-rs.svg?branch=master">](https://travis-ci.org/dguo/strsim-rs)
-* [mgeisler/textwrap](https://raw.githubusercontent.com/mgeisler/textwrap) [[textwrap](https://crates.io/crates/textwrap)] — Word wrap text (with support for hyphenation) [<img src="https://api.travis-ci.org/mgeisler/textwrap.svg?branch=master">](https://travis-ci.org/mgeisler/textwrap)
-* [pwoolcoc/ngrams](https://raw.githubusercontent.com/pwoolcoc/ngrams) — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [<img src="https://api.travis-ci.org/pwoolcoc/ngrams.svg?branch=master">](https://travis-ci.org/pwoolcoc/ngrams)
-* [ps1dr3x/easy_reader](https://raw.githubusercontent.com/ps1dr3x/easy_reader) — A reader that allows forwards, backwards and random navigations through the lines of huge files without consuming iterators [<img src="https://api.travis-ci.org/ps1dr3x/easy_reader.svg?branch=master">](https://travis-ci.org/ps1dr3x/easy_reader)
-* [rust-lang/regex](https://raw.githubusercontent.com/rust-lang/regex) — Regular expressions (RE2 style) [<img src="https://api.travis-ci.org/rust-lang/regex.svg?branch=master">](https://travis-ci.org/rust-lang/regex)
-* [greyblake/whatlang-rs](https://raw.githubusercontent.com/greyblake/whatlang-rs) — Natural language detection library based on trigrams [<img src="https://api.travis-ci.org/greyblake/whatlang-rs.svg?branch=master">](https://travis-ci.org/greyblake/whatlang-rs)
-* [yaa110/rake-rs](https://raw.githubusercontent.com/yaa110/rake-rs) — Multilingual implementation of RAKE algorithm for Rust [<img src="https://api.travis-ci.org/yaa110/rake-rs.svg?branch=master">](https://travis-ci.org/yaa110/rake-rs)
-* [Lucretiel/joinery](https://raw.githubusercontent.com/Lucretiel/joinery) [[joinery](https://crates.io/crates/joinery)] – Generic string + iterable joining [<img src="https://api.travis-ci.org/Lucretiel/joinery.svg?branch=master">](https://travis-ci.org/Lucretiel/joinery)
 
 ### Text search
 
-* [BurntSushi/fst](https://raw.githubusercontent.com/BurntSushi/fst) [[fst](https://crates.io/crates/fst)] — [<img src="https://api.travis-ci.org/BurntSushi/fst.svg?branch=master">](https://travis-ci.org/BurntSushi/fst)
-* [CurrySoftware/perlin](https://raw.githubusercontent.com/CurrySoftware/perlin) [[perlin](https://crates.io/crates/perlin)] — [<img src="https://api.travis-ci.org/CurrySoftware/perlin.svg?branch=master">](https://travis-ci.org/CurrySoftware/perlin)
-* [tantivy-search/tantivy](https://raw.githubusercontent.com/tantivy-search/tantivy) [[tantivy](https://crates.io/crates/tantivy)] — [<img src="https://api.travis-ci.org/tantivy-search/tantivy.svg?branch=master">](https://travis-ci.org/tantivy-search/tantivy)
 
 ### Virtualization
 
-* [beneills/quantum](https://raw.githubusercontent.com/beneills/quantum) — Advanced Rust quantum computer simulator [<img src="https://api.travis-ci.org/beneills/quantum.svg?branch=master">](https://travis-ci.org/beneills/quantum)
 * [ekse/unicorn-rs](https://github.com/ekse/unicorn-rs) — Rust bindings for the unicorn CPU emulator
 * [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 

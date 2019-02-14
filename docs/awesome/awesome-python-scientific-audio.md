@@ -1,31 +1,10 @@
+<div class="github-widget" data-repo="faroit/awesome-python-scientific-audio"></div>
 ## Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/faroit/awesome-python-scientific-audio.svg?branch=master)](https://travis-ci.org/faroit/awesome-python-scientific-audio)
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
 
-## Contents
 
-* [Audio Related Packages](#audio-related-packages)
-    - [Read/Write](#read-write)
-    - [Transformations - General DSP](#transformations---general-dsp)
-    - [Feature extraction](#feature-extraction)
-    - [Speech Processing](#speech-processing)
-    - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
-    - [Source Separation](#source-separation)
-    - [Music Information Retrieval](#music-information-retrieval)
-    - [Deep Learning](#deep-learning)
-    - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
-    - [Realtime applications](#realtime-applications)
-    - [Web - Audio](#web-audio)
-    - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
-    - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
-* [Tutorials](#tutorials)
-* [Books](#books)
-* [Scientific Paper](#scientific-papers)
-* [Other Resources](#other-resources)
-* [Related lists](#related-lists)
-* [Contributing](#contributing)
-* [License](#license)
 
 
 ## Audio Related Packages

@@ -1,7 +1,7 @@
+<div class="github-widget" data-repo="dok/awesome-text-editing"></div>
 ## Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated collection of text editing libraries, services, and resources for the web.
 
-## Rich-text editors using contenteditable
 * [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 * [Trix](https://github.com/basecamp/trix) - Basecamp's rich text editor
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
@@ -18,12 +18,10 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing
 * [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience
 * [Ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
-* [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
 * [KindEditor](https://github.com/kindsoft/kindeditor) - Open Source HTML editor
-* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
@@ -46,7 +44,6 @@ A curated collection of text editing libraries, services, and resources for the 
 * [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
-## Heuristic for contenteditable rich-text editors
 
 Editor should:
 * Be stable

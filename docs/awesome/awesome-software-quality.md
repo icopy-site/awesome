@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ligurio/awesome-software-quality"></div>
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
@@ -18,13 +19,6 @@ If you would like add something, just send the text as you would like it to appe
 
 ## Index
 
-* [Books](#books)
-* [Courses](#courses)
-* [Podcasts](#podcasts)
-* [Conferences](#conferences)
-* [Workshops and interactive learning tools](#workshops-and-interactive-learning-tools)
-* [Learned lessons](#learned-lessons)
-* [Awesome lists](#awesome-lists)
 
 
 ## Books
@@ -36,7 +30,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
-* [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
 * [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
@@ -66,7 +59,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) - Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) - Jason Polites
-* [Observing and Reasoning About Errors](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2017/09/Jerry-Weinberg-eBook-final-compressed-contents-page.pdf)
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -- Rikard Endgren
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -- by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young ([slides](http://ix.cs.uoregon.edu/~michal/book/))
@@ -108,8 +100,6 @@ If you would like add something, just send the text as you would like it to appe
 * [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 * [PropEr Testing](http://propertesting.com/) - Fred Hebert
-* [Better Unit Testing with Microsoft Fakes](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Better_Unit_Testing_with_Microsoft_Fakes)
-* [Testing for Continuous Delivery with Visual Studio 2012](https://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#Testing_for_Continuous_Delivery)
 
 #### Formal methods
 
@@ -315,7 +305,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf) - И.Б. Бурдонов, А.С. Косачев, В.В. Кулямин
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf) -- В.В. Кулямин
-* [Формальная спецификация и верификация программ](https://www.youtube.com/playlist?list=PLk5aZ4JAk_ZO32dammZRXxnSGhUSjOJzZ) ([практикум](http://mfsp.cmc.msu.ru/w/wp-content/uploads/2015/07/Deductive-Verification-Practicum.pdf))
 
 
 ## Workshops and interactive learning tools
@@ -379,7 +368,6 @@ If you would like add something, just send the text as you would like it to appe
 ## Bugs and Learned Lessons
 
 * [NASA Public Lessons Learned System](https://llis.nasa.gov/)
-* [Flight Software Engineering Lessons](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1671&context=amcis2009)
 * [Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks/)
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)

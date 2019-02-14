@@ -1,42 +1,13 @@
+<div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
 ## Awesome LaTeX [![Awesome][awesome]](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png" align="right" width="100">](https://www.latex-project.org/)
 
 > This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).
 
-## Contents
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Contents](#contents)
-- [Distributions](#distributions)
-- [Engines](#engines)
-	- [LaTeX formulas on the web](#latex-formulas-on-the-web)
-- [Editors](#editors)
-	- [LaTeX-focused](#latex-focused)
-	- [General purpose text editors](#general-purpose-text-editors)
-	- [Online editors](#online-editors)
-- [Bibliography tools](#bibliography-tools)
-- [Build Tools](#build-tools)
-- [Misc. Tools](#misc-tools)
-- [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
-- [Packages](#packages)
-	- [Tables](#tables)
-	- [Graphics](#graphics)
-		- [PSTricks](#pstricks)
-		- [TikZ](#tikz)
-	- [Source Code](#source-code)
-	- [Typography](#typography)
-- [Templates](#templates)
-- [Symbols](#symbols)
-- [Resources](#resources)
-- [Showcases](#showcases)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Blogs](#blogs)
-- [Social media](#social-media)
-- [Meta Awesome-LaTeX](#meta-awesome-latex)
-- [Legend](#legend)
 
 <!-- /TOC -->
 

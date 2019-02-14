@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="stevemao/awesome-git-addons"></div>
 ## Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of add-ons that extend/enhance the git CLI.
@@ -14,50 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
 
-## Table of Contents
 
-- [Git Extras](#git-extras)
-- [Git Flow](#gitflow-avh-edition)
-- [Git Up](#git-up)
-- [Hub](#hub)
-- [Git Deploy](#git-deploy)
-- [Git Cal](#git-cal)
-- [Git Hooks](#git-hooks)
-- [Git Imerge](#git-imerge)
-- [Git Issue](#git-issue)
-- [Git Large File Storage](#git-lfs)
-- [Git Now](#git-now)
-- [Git Plus](#git-plus)
-- [Git Test](#git-test)
-- [Legit](#legit)
-- [Git When Merged](#git-when-merged)
-- [Git Playback](#git-playback)
-- [Git Branch Status](#git-branch-status)
-- [Git Open](#git-open)
-- [Git My](#git-my)
-- [Git Ink](#git-ink)
-- [Recursive Blame](#recursive-blame)
-- [Git Fire](#git-fire)
-- [Git Town](#git-town)
-- [Git blame-someone-else](#git-blame-someone-else)
-- [Diff So Fancy](#diff-so-fancy)
-- [Git Stats](#git-stats)
-- [Git Secret](#git-secret)
-- [Git Secrets](#git-secrets)
-- [git-fixup](#git-fixup)
-- [git-recent](#git-recent)
-- [git-interactive-rebase-tool](#git-interactive-rebase-tool)
-- [git-fiddle](#git-fiddle)
-- [git-user](#git-user)
-- [gitsome](#gitsome)
-- [Git Hound](#git-hound)
-- [git-recall](#git-recall)
-- [git-standup](#git-standup)
-- [Commitizen](#commitizen)
-- [git-fresh](#git-fresh)
-- [git-fs](#git-fs)
-- [Git Url](#git-url)
-- [Git Signatures](#git-signatures)
 
 
 ## [git-extras](https://github.com/tj/git-extras)

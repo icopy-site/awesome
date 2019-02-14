@@ -1,18 +1,11 @@
+<div class="github-widget" data-repo="meitar/awesome-lockpicking"></div>
 ## Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
 [Lock picking](https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-* [Books](#books)
-* [Contests, conferences, and events](#contests-conferences-and-events)
-* [Hobby projects](#hobby-projects)
-* [How-to lockpicking guides](#how-to-lockpicking-guides)
-* [Locksport associations and organizations](#locksport-associations-and-organizations)
-* [Online communities](#online-communities)
-* [Vendors](#vendors)
 
 ## Books
 

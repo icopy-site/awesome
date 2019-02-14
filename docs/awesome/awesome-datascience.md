@@ -1,29 +1,10 @@
+<div class="github-widget" data-repo="bulutyazilim/awesome-datascience"></div>
 ## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
 
-### Table of contents
 
-* [Motivation](#motivation)
-* [Infographic](#infographic)
-* [What is Data Science?](#what-is-data-science)
-* [Colleges](#colleges)
-* [MOOC's](#moocs)
-* [Data Sets ](#data-sets)
-* [Bloggers](#bloggers)
-* [Podcasts](#podcasts)
-* [Books](#books)
-* [Facebook Accounts](#facebook-accounts)
-* [Twitter Accounts ](#twitter-accounts )
-* [YouTube Videos & Channels](#youtube-videos--channels)
-* [Toolboxes - Environment](#toolboxes---environment)
-* [Journals, Publications and Magazines](#journals-publications-and-magazines)
-* [Presentations](#presentations)
-* [Data Science Competitions](#competitions)
-* [Comics](#comics)
-* [Tutorials](#tutorials)
-* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation

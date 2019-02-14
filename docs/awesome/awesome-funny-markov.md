@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sublimino/awesome-funny-markov"></div>
 ## Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
@@ -7,14 +8,7 @@ If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/bl
 Looking for more information on Markov Chains? Try [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 
-## Table of Contents
 
-- [Web and Tech](#web-and-tech)
-- [Twitter](#twitter)
-- [Media](#media)
-- [Tools](#tools)
-- [A history of funny Markov chains](#a-history-of-funny-markov-chains)
-- [Sober applications](#sober-applications)
 
 
 ## Web and Tech

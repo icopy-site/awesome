@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="analyticalmonk/awesome-neuroscience"></div>
 <!-- ![Awesome Neuroscience](https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png) -->
 <img src="https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png" width="50%">
 
@@ -8,20 +9,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## Contents
 
-- [Programming](#programming)
-  - [Python](#python)
-  - [Matlab](#matlab)
-  - [C++](#c)
-  - [JavaScript](#javascript)
-- [Resources](#resources)
-  - [Ebooks](#ebooks)
-  - [Blogs](#blogs)
-  - [MOOCs](#moocs)
-  - [Communities](#communities)
-  - [Newsletters](#newsletters)
-  - [Miscellaneous](#miscellaneous)
 
 
 ## Programming
@@ -92,6 +80,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Miscellaneous
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+- [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.

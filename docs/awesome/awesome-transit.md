@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="CUTR-at-USF/awesome-transit"></div>
 ## awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/awesome-transit/commits/master.atom)
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
@@ -6,35 +7,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 
 ------------------------------
 
-### Table of Contents
 
-- [Getting started](#getting-started)
-- [Community](#community)
-- [Data](#data)
-- [Software for Creating APIs](#software-for-creating-apis)
-- [Agency Tools](#agency-tools)
-- [Hardware](#hardware)
-- [Apps](#apps)
-  - [Web Apps](#web-apps)
-  - [Native Apps (open source)](#native-apps-open-source)
-  - [Native Apps (closed source)](#native-apps-closed-source)
-- [Visualizations](#visualizations)
-- [GTFS](#gtfs)
-  - [GTFS Libraries](#gtfs-libraries)
-  - [GTFS Converters](#gtfs-converters)
-  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
-  - [GTFS Analysis Tools](#gtfs-analysis-tools)
-  - [GTFS Timetable Publishing Tools](#gtfs-timetable-publishing-tools)
-  - [GTFS Validators](#gtfs-validators)
-- [GTFS Realtime](#gtfs-realtime)
-  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
-  - [GTFS Realtime Validators](#gtfs-realtime-validators)
-  - [GTFS Realtime (and Other Real-time API) Archival Tools](#gtfs-realtime-and-other-real-time-api-archival-tools)
-  - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
-  - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
-- [SIRI](#siri)
-- [Other multimodal data formats](#other-multimodal-data-formats)
-- [Resources](#resources)
 
 ### Getting started
 

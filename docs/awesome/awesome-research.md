@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="emptymalei/awesome-research"></div>
 ## Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,68 +9,6 @@ A list of tools for research.
 
 ## TOC
 
-* [Be Organized](#be-organized)
-  * [Version Control System](#version-control-system)
-  * [Pomodoro](#pomodoro)
-  * [GTD-Task Manager](#gtd-task-manager)
-* [Cloud Services](#cloud-services)
-  * [Math and Programming](#math-and-programming)
-  * [Plots](#plots)
-  * [Data](#data)
-  * [Colors](#colors)
-* [Publishing and Sharing](#publishing-and-sharing)
-  * [Writing](#writing)
-  * [Hosting](#hosting)
-  * [Blog and CMS](#blog-and-cms)
-  * [Static Site Generator](#static-site-generator)
-* [Note Taking](#note-taking)
-  * [Editors](#editors)
-  * [Markdown](#markdown)
-  * [LaTeX](#latex)
-  * [iPython Notebook](#ipython-notebook)
-  * [Mindmap](#mindmap)
-  * [Concept Map and Diagrams](#concept-map-and-diagrams)
-  * [Keep The Notes](#keep-the-notes)
-* [Presentation Tools](#presentation-tools)
-  * [Online Load and Edit](#online-load-and-edit)
-  * [Use The Source](#use-the-source)
-  * [IPython Notebook](#ipython-notebook)
-  * [LaTeX Beamer](#latex-beamer)
-  * [Mathematica](#mathematica)
-  * [The Power of SVG](#the-power-of-svg)
-  * [Sharing Slides](#sharing-slides)
-* [Programming](#programming)
-  * [Softwares](#softwares)
-  * [Code Editors](#code-editors)
-  * [Scientific Computing](#scientific-computing)
-  * [Coding is Fun](#coding-is-fun)
-* [Academic](#academic)
-  * [Self-plagiarism](#self-plagiarism)
-  * [Investigate Papers](#investigate-papers)
-  * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
-  * [Open Science](#open-science)
-  * [Tips for Researchers](#tips-for-researchers)
-* [Pacifier](#pacifier)
-* [Online Discussions](#online-discussions)
-* [Open Source](#open-source)
-  * [Open Licenses](#open-licenses)
-  * [Use Licenses](#use-licenses)
-  * [Bibliography](#bibliography)
-* [Data Visualization and Graph Making](#data-visualization-and-graph-making)
-  * [Data Visualization](#data-visualization)
-  * [Graph Making](#graph-making)
-* [LaTeX](#latex-1)
-  * [Tips](#tips)
-  * [Symbols](#symbols)
-  * [Graphing](#graphing)
-  * [Fonts](#fonts)
-  * [Templates](#templates)
-  * [References](#references)
-* [MISC](#misc)
-  * [Terminal](#terminal)
-  * [Free Multimedia](#free-multimedia)
-  * [Interesting Journals](#interesting-journals)
-  * [More](#more)
 
 
 ## Be-Organized
@@ -720,7 +659,6 @@ Professional graphs should be made using professional tools.
 ### Tips
 
 * [wikibooks - LaTeX](https://en.wikibooks.org/wiki/LaTeX): A good manual.
-* [Notetaking programs listed above](#latex)
 
 
 ### Symbols

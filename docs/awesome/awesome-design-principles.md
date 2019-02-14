@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="robinstickel/awesome-design-principles"></div>
 ## Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of good design and experience principles.
@@ -6,7 +7,6 @@ A curated list of good design and experience principles.
 
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/CONTRIBUTING.md) before contributing.
 
-### Contents
 - [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
 - [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
 - [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)

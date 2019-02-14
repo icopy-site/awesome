@@ -1,28 +1,19 @@
+<div class="github-widget" data-repo="jbmoelker/progressive-enhancement-resources"></div>
 ## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A comprehensive collection of resources on Progressive Enhancement. From concept and strategies to feature detection and testing methods. Complete with a list of (code) examples.
 
 
-## Contents
 
-* [The Concept](#the-concept)
-* [Strategies](#strategies)
-* [Feature Detection](#feature-detection)
-* [Support Tables](#support-tables)
-* [Testing Methods](#testing-methods)
-* [Examples](#examples)
-* [Related Articles](#related-articles)
 
 
 ## The Concept
 
 [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement) means gradually improving the user experience after verifying the target environment (e.g. browser) is capable of it. Start with content and ensure you maintain functionality & accessibility.
 
-* [Progressive Enhancement: It's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content) - Sharing content is the core of the web. Progressive Enhancement ensures access to content.
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - From the concept of enhancement to the criteria and rules for enriching the user interface.
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - Apply technologies in an intelligent way, layer-upon-layer, to craft an amazing experience.
 * [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) - *The book* (400+ pages) on Progressive Enhancement.
-* [Adaptive Web Design](http://adaptivewebdesign.info/2nd-edition/) - Book on Progressive Enhancement from content to design and interaction.
 * [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - Intro to different feature detection techniques with examples and demos. 
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - Enhancing web sites into native-like apps (progressive, not hybrid).
 
@@ -31,7 +22,6 @@ A comprehensive collection of resources on Progressive Enhancement. From concept
 
 You can apply Progressive Enhancement in different ways:
 
-* [The Content-out Approach](https://articles.uie.com/progressive_enhancement/) - Provide wide access to content without technological restrictions.
 * [Make the page usable with only HTML](https://www.gov.uk/service-manual/technology/using-progressive-enhancement#make-the-page-usable-with-only-html) - This sets the baseline for every device and browser.
 * [Test Driven Progressive Enhancement](http://alistapart.com/article/testdriven) - Core functional experience enhanced after testing capabilities.
 * [Cut the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Set a threshold for collection of enhancements.
@@ -93,7 +83,6 @@ Different environments (platforms, browsers, versions) have different capabiliti
 With progressive enhancement you support different experiences in different environments. These are some ways to test all these variations:
 
 * [Open Device Lab](https://opendevicelab.com/) - Lets you *test manually on actual devices* (for free).
-* [Text browsers](https://en.wikipedia.org/wiki/Text-based_web_browser) - Good way to test if your content is accessible at the baseline. Try [Lynx](http://lynx.browser.org/) for example.
 * [Testing in Opera Mini](https://dev.opera.com/articles/making-sites-work-opera-mini/#testing-in-opera-mini) - Download the app, emulate on desktop, setup to test local websites. (Opera Mini accounts for over 5% browser usage world wide)
 * [cURL](https://curl.haxx.se/docs/manual.html) - Web page to see the pre-rendered source code of a page.
 * [Browserling](https://www.browserling.com/) - Lets you manually test web pages in different versions of browsers on Windows and Android platforms.
@@ -138,7 +127,6 @@ Asynchronously fetch and transition between static pages using ajax and `history
 
 * [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
 * [SmoothState.js](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
-* [jquery-pjax](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
 * [MoOx/pjax](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
 * [Turbolinks](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
 

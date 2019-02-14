@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ripienaar/free-for-dev"></div>
 ## free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
@@ -12,44 +13,6 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 Table of Contents
 =================
 
-   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
-   * [APIs, Data and ML](#apis-data-and-ml)
-   * [Artifact Repos](#artifact-repos)
-   * [Automated Browser Testing](#automated-browser-testing)
-   * [BaaS](#baas)
-   * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
-   * [Code Quality](#code-quality)
-   * [Code Search and Browsing](#code-search-and-browsing)
-   * [Crash and Exception Handling](#crash-and-exception-handling)
-   * [Data Visualization on Maps](#data-visualization-on-maps)
-   * [DBaaS](#dbaas)
-   * [Design and UI](#design-and-ui)
-   * [DNS](#dns)
-   * [Docker Related](#docker-related)
-   * [Email](#email)
-   * [IaaS](#iaas)
-   * [IDE and Code Editing](#ide-and-code-editing)
-   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
-   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
-   * [Log Management](#log-management)
-   * [Management Systems](#management-system)
-   * [Miscellaneous](#miscellaneous)
-   * [Monitoring](#monitoring)
-   * [Other Free Resources](#other-free-resources)
-   * [PaaS](#paas)
-   * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment--billing-integration)
-   * [Search](#search)
-   * [Security and PKI](#security-and-pki)
-   * [Source Code Repos](#source-code-repos)
-   * [Storage and Media Processing](#storage-and-media-processing)
-   * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
-   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
-   * [Vagrant Related](#vagrant-related)
-   * [Visitor Session Recording](#visitor-session-recording)
-   * [Web Hosting](#web-hosting)
 
 ## Source Code Repos
 
@@ -400,6 +363,7 @@ Table of Contents
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
   * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
+  * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
 
 ## DNS
 

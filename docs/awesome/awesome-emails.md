@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jonathandion/awesome-emails"></div>
 <h1 align="center">
 	<br>
 	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
@@ -10,20 +11,6 @@
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
-### Table of Contents
-- [Frameworks](#frameworks)
-- [Cheatsheets](#cheatsheets)
-- [Templates](#templates)
-- [Tools](#tools)
-- [Services](#services)
-- [Self-Hosted Services](#self-hosted-services)
-- [Workflows](#workflows)
-- [Articles](#articles)
-- [Inspirations](#inspirations)
-- [Statistics](#statistics)
-- [Design](#design)
-- [Testing](#testing)
-- [Learning](#learning)
 
 ## Frameworks
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:

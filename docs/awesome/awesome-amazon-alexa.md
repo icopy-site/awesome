@@ -1,30 +1,8 @@
-## Awesome Amazon Alexa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://user-images.githubusercontent.com/168240/39513123-178f98f4-4da8-11e8-8831-3a90ec5768c6.png" width="100" align="right" alt="Amazon Alexa">](https://developer.amazon.com/alexa)
+<div class="github-widget" data-repo="miguelmota/awesome-amazon-alexa"></div>
 
 > Curated list of awesome resources for the [Amazon Alexa](https://developer.amazon.com/alexa) platform.
 
-## Contents
 
-- [SDKs/Tools](#sdkstools)
-- [NPM Modules](#npm-modules)
-- [Skills](#skills)
-- [Boilerplates](#boilerplates)
-- [Prototyping](#prototyping)
-- [Analytics](#analytics)
-- [Utilities](#utilities)
-- [Monitoring](#monitoring)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
-- [Courses](#videos)
-- [Communities](#communities)
-- [Influencers](#influencers)
-- [Easter Eggs](#easter-eggs)
-- [Fundraising](#fundraising)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## SDKs/Tools
 

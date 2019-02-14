@@ -1,23 +1,11 @@
+<div class="github-widget" data-repo="johnjago/awesome-theravada"></div>
 ## Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
 
 [Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pāli Canon, one of the oldest surviving records of the Buddha's teachings.
 
-## Contents
 
-- [Academic](#academic)
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Dhamma Talks](#dhamma-talks)
-- [Forums](#forums)
-- [Organizations](#organizations)
-- [Pali](#pali)
-- [Places](#places)
-- [Suttas](#suttas)
-- [Videos](#videos)
-- [License](#license)
 
 ## Academic
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ossu/computer-science"></div>
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">Open Source Society University</h3>
@@ -16,21 +17,7 @@
   </a>
 </p>
 
-## Contents
 
-- [Summary](#summary)
-- [Curriculum](#curriculum)
-  - [Prerequisites](#prerequisites)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Core CS](#core-cs)
-  - [Advanced CS](#advanced-cs)
-  - [Final project](#final-project)
-  - [Pro CS](#pro-cs)
-- [Code of conduct](#code-of-conduct)
-- [Community](#community)
-  - [How to show your progress](#how-to-show-your-progress)
-  - [Team](#team)
-- [References](#references)
 
 ## Summary
 
@@ -74,7 +61,6 @@ Note that Coursera offers [financial aid](https://learner.coursera.help/hc/en-us
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
 
 **How to contribute**. Please see [CONTRIBUTING](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
@@ -85,22 +71,6 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced math](#advanced-math)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced applications](#advanced-applications)
-- [Final project](#final-project)
-- [Pro CS](#pro-cs)
 
 ---
 

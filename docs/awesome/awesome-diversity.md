@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="folkswhocode/awesome-diversity"></div>
 ## Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 :sparkles: A curated list of amazingly awesome articles, websites and resources about diversity in technology. :sparkles:
@@ -6,15 +7,6 @@ This list contains a variety of resources on diversity, more specifically divers
 
 **Always work in progress.**
 
-## Contents
-- [Organizations](#organizations)
-- [Events](#events)
-- [Ally Resources](#ally-resources)
-- [Actionable Resources](#actionable-resources)
-- [Posts](#posts)
-- [Talks](#talks)
-- [Advocates](#advocates)
-- [Books](#books)
 - [Diverse Figures in Tech History](https://github.com/folkswhocode/awesome-diversity/blob/master//FIGURES.md)
 
 ## Organizations

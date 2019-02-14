@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="markusschanta/awesome-jupyter"></div>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
@@ -10,20 +11,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 </h1>
 <br>
 
-## Contents
 
-- [Runtimes/Frontends](#runtimesfrontends)
-- [Collaboration/Education](#collaborationeducation)
-- [Visualization](#visualization)
-- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-- [JupyterLab Extensions](#jupyterlab-extensions)
-- [Testing](#testing)
-- [Domain-Specific Projects](#domain-specific-projects)
-- [Hosted Notebook Solutions](#hosted-notebook-solutions)
-- [Official Resources and Documentation](#official-resources-and-documentation)
-- [Community Resources](#community-resources)
-- [Articles/Guides/Tutorials](#articlesguidestutorials)
-- [Contributing](#contributing)
 
 ---
 

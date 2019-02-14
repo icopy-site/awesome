@@ -1,7 +1,7 @@
+<div class="github-widget" data-repo="woop/awesome-quantified-self"></div>
 ## Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://raw.githubusercontent.com/willempienaar/awesome-quantified-self)
 
 
 > Carefully curated list of awesome Quantified Self resources.
@@ -10,13 +10,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) is a moveme
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-## Contents
 
-- [Websites and Resources](#websites-and-resources)
-- [Applications and Platforms](#applications-and-platforms)
-- [Devices and Wearables](#devices-and-wearables)
-- [Research and Data Analysis](#research-and-analysis)
-- [Open Source Projects](#open-source-projects)
 
 ## Websites and Resources
 

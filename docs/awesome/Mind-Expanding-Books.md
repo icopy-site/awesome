@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
 ## Mind Expanding Books
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -6,26 +7,6 @@
 
 > Curated list of mind expanding books.
 
-## Table of Contents
-* [Startups and Business](#startups-and-business)
-* [Philosophy and Psychology](#philosophy-and-psychology)
-* [Autobiographies and Biographies](#autobiographies-and-biographies)
-* [History](#history)
-* [Evolution, Science and Medicine](#science-and-medicine)
-* [Logic and Problem Solving](#logic-and-problem-solving)
-* [Politics](#politics)
-* [Economics](#economics)
-* [Gender](#gender)
-* [Sexuality](#sexuality)
-* [Education](#education)
-* [Writing](#writing)
-* [Theater and Film](#theater-and-film)
-* [Fiction](#fiction)
-* [Health](#health)
-* [Design](#design)
-* [Travel](#travel)
-* [Language](#language)
-* [Nature](#nature)
 
 ## Books
 

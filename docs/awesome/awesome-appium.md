@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="SrinivasanTarget/awesome-appium"></div>
 ## Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
@@ -8,20 +9,7 @@ Feel free to add links via PRs and file issues to start discussions.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Contents
 
-- [Server](#server)
-- [Clients](#clients)
-- [Inspectors](#inspectors)
-- [Tutorials](#tutorials)
-- [Appium Pro](#become-an-appium-pro)
-- [Blogs](#blogs)
-- [Workshops](#workshops)
-- [Cloud and Docker Solutions](#cloud-and-docker-solutions)
-- [Git Books](#git-books)
-- [Test Frameworks](#test-frameworks)
-- [Community](#community)
-- [Tips](#tips)
 
 ## Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).

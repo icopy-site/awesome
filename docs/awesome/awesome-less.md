@@ -1,44 +1,15 @@
+<div class="github-widget" data-repo="LucasBassetti/awesome-less"></div>
 ## Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
 > Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Less and keep up-to-date.
 
-## Contents
-- [About](#about)
-- [Getting Started](#getting-started)
-- [UI/Theme Frameworks and Components](#uitheme-frameworks-and-components)
-- [Libraries and Mixins](#libraries-and-mixins)
-  - [Grid](#grid)
-  - [Media Queries](#media-queries)
-  - [Color](#color)
-  - [Animation](#animation)
-  - [Miscellaneous](#miscellaneous)
-- [Style Guides](#style-guides)
-- [Ports of Less](#ports-of-less)
-  - [Java](#java)
-  - [.Net](#net)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Go](#go)
-- [GUIs, Editors and Plugins](#guis-editors-and-plugins)
-- [Online Less Compilers](#online-less-compilers)
-- [Online Web IDEs/Playgrounds with Less support](#online-web-idesplaygrounds-with-less-support)
-- [Translations](#translations)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Experiments](#experiments)
-- [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
 Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
 
-**[Back to top](#contents)**
 
 ## Getting Started
 
@@ -48,7 +19,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Official Guide](http://lesscss.org/)
 - [Official Repository](https://github.com/less/less.js)
 
-**[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
@@ -69,7 +39,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [UIkit](https://getuikit.com/) - Lightweight and modular front-end framework for developing web interfaces.
 - [Wee](https://www.weepower.com/) - Lightweight front-end framework for logically building complex, responsive web projects.
 
-**[Back to top](#contents)**
 
 ## Libraries and Mixins
 
@@ -83,7 +52,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - Implementation of [Zen Grids](https://github.com/JohnAlbin/zen-grids) in Less.
 - [Order.Less](https://github.com/chromice/order.less) - Baseline alignment, column grids and modular scales.
 
-**[Back to top](#contents)**
 
 ### Media Queries
 
@@ -91,7 +59,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Media Queries Library](https://github.com/mrmlnc/less-mq) - Really simple media queries in Less.
 - [Media Query to Type](https://github.com/himedlooff/media-query-to-type) - A method for creating an IE specific stylesheet that allows the content of media queries to become accessible to Internet Explorer 8 and below.
 
-**[Back to top](#contents)**
 
 ### Color
 
@@ -99,7 +66,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - Variables for easier color manipulation while you design in the browser.
 - [Open Color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, Less, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
-**[Back to top](#contents)**
 
 ### Animation
 
@@ -109,7 +75,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on.
 - [Less Burguer](https://github.com/MarkRabey/less-burger) - Port of [Sass Burger](http://joren.co/sass-burger/) to Less.
 
-**[Back to top](#contents)**
 
 ### Miscellaneous
 
@@ -134,14 +99,12 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions.
 
-**[Back to top](#contents)**
 
 ## Style Guides
 
 - [Handshake Style Guide](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
 - [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services.
 
-**[Back to top](#contents)**
 
 ## Ports of Less
 
@@ -154,14 +117,12 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lesscss](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.
 - [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less.
 
-**[Back to top](#contents)**
 
 ### .Net
 
 - [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) - Compiler written in .Net.
 - [Less CSS for .Net](http://www.dotlesscss.org/) - Compiler written in .Net.
 
-**[Back to top](#contents)**
 
 ### PHP
 
@@ -169,25 +130,21 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lessphp](http://leafo.net/lessphp/) - Compiler written in PHP.
 - [Less.php](http://lessphp.gpeasy.com/) - PHP port.
 
-**[Back to top](#contents)**
 
 ### Python
 
 - [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
 
-**[Back to top](#contents)**
 
 ### Ruby
 
 - [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine.
 
-**[Back to top](#contents)**
 
 ### Go
 
 - [Go Compiler](https://github.com/kib357/less-go) - Runs Less inside embedded Javascript engine.
 
-**[Back to top](#contents)**
 
 ## GUIs, Editors and Plugins
 
@@ -216,7 +173,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Visual Studio Web Essentials](http://vswebessentials.com/) - If you ever write CSS, HTML, JavaScript, TypeScript, CoffeeScript or Less, then you will find many useful features that make your life as a developer easier.
 - [Winless](http://lesscss.org/usage/#editors-and-plugins) - WinLess started out as a clone of Less.app, it takes a more feature-complete approach and has several settings. It also supports starting with command line arguments.
 
-**[Back to top](#contents)**
 
 ## Online Less Compilers
 
@@ -230,7 +186,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Precess](http://precess.co/) - A real time preprocesser compiler.
 - [Winless](http://winless.org/online-less-compiler) - This Online Less Compiler can help you to learn Less. You can go through the examples below or try your own Less code.
 
-**[Back to top](#contents)**
 
 ## Online Web IDEs/Playgrounds with Less support
 
@@ -240,7 +195,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [JS Bin](http://jsbin.com/) - JS Bin is a webapp specifically designed to help JavaScript and CSS folk test snippets of code.
 - [JsFiddle](http://jsfiddle.net/hb2rsm2x/) - Online Web Editor.
 
-**[Back to top](#contents)**
 
 ## Translations
 
@@ -255,7 +209,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Spanish](http://amatellanes.github.io/lesscss.org/)
 - [Vietnamese](http://less.eten.vn/)
 
-**[Back to top](#contents)**
 
 ## Articles
 
@@ -266,7 +219,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lets use Less to Create Less CSS not just CSS](https://medium.com/@zamamohammed/lets-use-lessjs-to-create-less-css-not-just-css-2d45d92a62e8#.jsocohrne)
 - [Revisiting Less](https://medium.com/@ddprrt/revisiting-less-50b741bd884#.oyion811m)
 
-**[Back to top](#contents)**
 
 ### Books
 
@@ -274,7 +226,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Less Web Development Essentials](http://pdf.th7.cn/down/files/1508/Less%20Web%20Development%20Essentials,%202nd%20Edition.pdf)
 - [Learning Less](https://www.packtpub.com/web-development/learning-lessjs)
 
-**[Back to top](#contents)**
 
 ## Videos
 
@@ -283,7 +234,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Less CSS Tutorials for Beginners](https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 - [Less CSS - Tutorials for Beginners](https://www.youtube.com/watch?v=-D5mWO9_vLI&list=PLLa1ZAmCB2zjEZ4QNLDi4173_xIGeV6nC)
 
-**[Back to top](#contents)**
 
 ## Experiments
 
@@ -299,7 +249,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Triangle / Arrow Mixin](https://codepen.io/eky/pen/AaCwF)
 - [More...](https://codepen.io/tag/less/)
 
-**[Back to top](#contents)**
 
 ## Community
 
@@ -310,18 +259,14 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/less)
 - [Twitter](https://twitter.com/hashtag/lesscss)
 
-**[Back to top](#contents)**
 
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/LucasBassetti/awesome-less/blob/master/CONTRIBUTING.md).
 
-**[Back to top](#contents)**
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lucas Bassetti](http://lucasbassetti.com.br) has waived all copyright and related or neighboring rights to this work.
-
-**[Back to top](#contents)**

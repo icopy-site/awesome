@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="WebCreationClub/awesome-construct"></div>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.construct.net/)
@@ -16,17 +17,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 </p>
 
 
-## Contents
 
-- [Community](#community)
-- [Games Showcase](#games-showcase)
-- [Hosting](#hosting)
-- [Tools](#tools)
-- [Export](#export)
-- [Plugins/Behaviors/Effects](#pluginsbehaviorseffects)
-- [Tutorials](#tutorials)
-- [E-Books](#e-books)
-- [Useful Links](#useful-links)
 
 ## Community
 - [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).

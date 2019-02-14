@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="springload/awesome-wagtail"></div>
 Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
@@ -6,38 +7,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 *You might also like [Awesome Django](https://gitlab.com/rosarior/awesome-django) and [Awesome Python](https://github.com/vinta/awesome-python). :snake:*
 
-## Contents
 
-- [General resources](#general-resources)
-- [Apps](#apps)
-  - [Blogging/news](#bloggingnews)
-  - [Rich text editor extensions](#rich-text-editor-extensions)
-  - [Widgets](#widgets)
-  - [StreamField](#streamfield)
-  - [Static site generation](#static-site-generation)
-  - [Settings management](#settings-management)
-  - [E-commerce](#e-commerce)
-  - [SEO and SMO](#seo-and-smo)
-  - [Analytics](#analytics)
-  - [Customer experience](#customer-experience)
-  - [Security](#security)
-  - [Media](#media)
-  - [Translations](#translations)
-  - [Forms](#forms)
-  - [Testing](#testing)
-  - [Misc](#misc)
-- [Tools](#tools)
-- [Resources](#resources)
-  - [Getting started](#getting-started)
-  - [Articles](#articles)
-  - [Recipes](#recipes)
-  - [Presentations](#presentations)
-  - [Podcasts](#podcasts)
-  - [Videos](#videos)
-  - [Showcases](#showcases)
-  - [Lists](#lists)
-- [Community](#community)
-- [Open-source sites](#open-source-sites)
 
 ## General resources
 
@@ -46,7 +16,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
-- [Other resources](#resources)
 
 ## Apps
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="exAspArk/awesome-chatops"></div>
 ## Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things about [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).
@@ -7,16 +8,7 @@ So it allows to automate tasks and collaborate, encourages teams to be transpare
 
 If you want to contribute, please read [CONTRIBUTING.md](https://github.com/exAspArk/awesome-chatops/blob/master/./CONTRIBUTING.md).
 
-## Contents
 
-* [Articles](#articles)
-* [Videos](#videos)
-* [Books](#books)
-* [Events](#events)
-* [Podcasts](#podcasts)
-* [Resources](#resources)
-* [Services](#services)
-* [Frameworks and libraries](#frameworks-and-libraries)
 
 ## Articles
 
@@ -67,44 +59,6 @@ If you want to contribute, please read [CONTRIBUTING.md](https://github.com/exAs
 
 These open source projects will help you to build a bot to automate your company chat depending on the platform.
 
-* [AIM](#aim)
-* [Campfire](#campfire)
-* [ChatWork](#chatwork)
-* [Dasher](#dasher)
-* [Discord](#discord)
-* [Facebook Messenger](#facebook-messenger)
-* [Fleep](#fleep)
-* [Flowdock](#flowdock)
-* [Gitter](#gitter)
-* [HipChat](#hipchat)
-* [Idobata](#idobata)
-* [iMessage](#imessage)
-* [IRC](#irc)
-* [Jabbr](#jabbr)
-* [Let's chat](#lets-chat)
-* [Lingr](#lingr)
-* [Matrix](#matrix)
-* [Mattermost](#mattermost)
-* [Partychat](#partychat)
-* [QQ](#qq)
-* [Rocket.Chat](#rocketchat)
-* [Skype](#skype)
-* [Skyweb](#skyweb)
-* [Slack](#slack)
-* [Spark](#spark)
-* [Talker](#talker)
-* [Telegram](#telegram)
-* [Tox](#tox)
-* [Twilio](#twilio)
-* [Twitter](#twitter)
-* [Typetalk](#typetalk)
-* [VictorOps](#victorops)
-* [Visual Studio Online](#visual-studio-online)
-* [Vkontakte](#vkontakte)
-* [WeChat](#wechat)
-* [XMPP / Jabber](#xmpp--jabber)
-* [Yammer](#yammer)
-* [Zulip](#zulip)
 
 ### AIM
 

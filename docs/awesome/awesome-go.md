@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="avelino/awesome-go"></div>
 ## Awesome Go
 
 [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome)
@@ -10,95 +11,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-### Contents
 
-- [Awesome Go](#awesome-go)
-    - [Audio and Music](#audio-and-music)
-    - [Authentication and OAuth](#authentication-and-oauth)
-    - [Bot Building](#bot-building)
-    - [Command Line](#command-line)
-    - [Configuration](#configuration)
-    - [Continuous Integration](#continuous-integration)
-    - [CSS Preprocessors](#css-preprocessors)
-    - [Data Structures](#data-structures)
-    - [Database](#database)
-    - [Database Drivers](#database-drivers)
-    - [Date and Time](#date-and-time)
-    - [Distributed Systems](#distributed-systems)
-    - [Email](#email)
-    - [Embeddable Scripting Languages](#embeddable-scripting-languages)
-    - [Error Handling](#error-handling)
-    - [Files](#files)
-    - [Financial](#financial)
-    - [Forms](#forms)
-    - [Functional](#functional)
-    - [Game Development](#game-development)
-    - [Generation and Generics](#generation-and-generics)
-    - [Geographic](#geographic)
-    - [Go Compilers](#go-compilers)
-    - [Goroutines](#goroutines)
-    - [GUI](#gui)
-    - [Hardware](#hardware)
-    - [Images](#images)
-    - [IoT](#iot-internet-of-things)
-    - [Job Scheduler](#job-scheduler)
-    - [JSON](#json)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Messaging](#messaging)
-    - [Microsoft Office](#microsoft-office)
-        - [Microsoft Excel](#microsoft-excel)
-    - [Miscellaneous](#miscellaneous)
-        - [Dependency Injection](#dependency-injection)
-        - [Strings](#strings)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Networking](#networking)
-        - [HTTP Clients](#http-clients)
-    - [OpenGL](#opengl)
-    - [ORM](#orm)
-    - [Package Management](#package-management)
-    - [Query Language](#query-language)
-    - [Resource Embedding](#resource-embedding)
-    - [Science and Data Analysis](#science-and-data-analysis)
-    - [Security](#security)
-    - [Serialization](#serialization)
-    - [Template Engines](#template-engines)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [Utilities](#utilities)
-    - [UUID](#uuid)
-    - [Validation](#validation)
-    - [Version Control](#version-control)
-    - [Video](#video)
-    - [Web Frameworks](#web-frameworks)
-        - [Middlewares](#middlewares)
-            - [Actual middlewares](#actual-middlewares)
-            - [Libraries for creating HTTP middlewares](#libraries-for-creating-http-middlewares)
-        - [Routers](#routers)
-    - [Windows](#windows)
-    - [XML](#xml)
 
-- [Tools](#tools)
-    - [Code Analysis](#code-analysis)
-    - [Editor Plugins](#editor-plugins)
-    - [Go Generate Tools](#go-generate-tools)
-    - [Go Tools](#go-tools)
-    - [Software Packages](#software-packages)
-        - [DevOps Tools](#devops-tools)
-        - [Other Software](#other-software)
 
-- [Server Applications](#server-applications)
 
-- [Resources](#resources)
-    - [Benchmarks](#benchmarks)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Gophers](#gophers)
-    - [Meetups](#meetups)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
-        - [Tutorials](#tutorials)
 
 ## Audio and Music
 
@@ -323,7 +239,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 * [levenshtein](https://github.com/agnivade/levenshtein) - Implementation to calculate levenshtein distance in Go.
 * [mafsa](https://github.com/smartystreets/mafsa) - MA-FSA implementation with Minimal Perfect Hashing.
-* [merkletree](https://github.com/cbergoon/merkletree) - Implementation of a merkle tree providing an efficient and secure verification of the contents of data structures.
 * [mspm](https://github.com/BlackRabbitt/mspm) - Multi-String Pattern Matching Algorithm for information retrieval.
 * [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 * [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.

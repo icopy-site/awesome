@@ -1,18 +1,9 @@
+<div class="github-widget" data-repo="theimpossibleastronaut/awesome-linguistics"></div>
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
-- [Programming](#programming)
-    - [Platforms and toolkits](#platforms-and-toolkits)
-    - [Algorithms](#algorithms)
-    - [Data sets](#data-sets)
-- [Resources](#resources)
-    - [On Wikipedia](#on-wikipedia)
-    - [Books](#books)
-        - [Free](#free)
-        - [Non free](#non-free)
-        - [Lists](#lists)
 
 ### Programming
 *Libraries, frameworks and applications useful for developing applications.*

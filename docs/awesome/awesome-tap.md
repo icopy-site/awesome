@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-tap"></div>
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
@@ -7,16 +8,7 @@
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
 
 
-## Contents
 
-- [Reporters](#reporters)
-- [Producers](#producers)
-- [Consumers](#consumers)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Tutorials](#tutorials)
-- [Documentation](#documentation)
-- [Community](#community)
 
 
 ## Reporters

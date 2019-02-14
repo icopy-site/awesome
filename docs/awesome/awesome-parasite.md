@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ecohealthalliance/awesome-parasite"></div>
 Awesome Parasite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 =========
 
@@ -7,11 +8,6 @@ Parasites are unique organisms studied in a variety of disciplines due to their 
 
 Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and is maintained in partnership with [EcoHealth Alliance](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.ecohealthalliance.org). Contributions welcome, please read the [contributing guidelines](https://github.com/ecohealthalliance/awesome-parasite/blob/master/contributing.md). 
 
-## Contents
-   - [Databases](#databases)
-   - [Reporting Systems](#reporting-systems)
-   - [Taxonomy](#taxonomy)
-   - [Scientific Journals](#scientific-journals)
 - - -
 ## Databases
 

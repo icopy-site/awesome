@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="arbox/machine-learning-with-ruby"></div>
 <img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
@@ -6,7 +7,6 @@
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
-## Awesome Machine Learning with Ruby [<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Curated List of Ruby Machine Learning Links and Resources
 
@@ -34,33 +34,9 @@ Follow us on [Twitter](https://twitter.com/NonWebRuby) and please spread
 the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
-## Contents
 
 <!-- toc -->
 
-- [:sparkles: Tutorials](#sparkles-tutorials)
-- [Machine Learning Libraries](#machine-learning-libraries)
-  * [Frameworks](#frameworks)
-  * [Neural networks](#neural-networks)
-  * [Kernel methods](#kernel-methods)
-  * [Evolutionary algorithms](#evolutionary-algorithms)
-  * [Bayesian methods](#bayesian-methods)
-  * [Decision trees](#decision-trees)
-  * [Clustering](#clustering)
-  * [Linear classifiers](#linear-classifiers)
-  * [Statistical models](#statistical-models)
-- [Applications of machine learning](#applications-of-machine-learning)
-- [Data structures](#data-structures)
-- [Data visualization](#data-visualization)
-- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
-- [Projects and Code Examples](#projects-and-code-examples)
-- [Heroku buildpacks](#heroku-buildpacks)
-- [Books, Blogs, Channels](#books-blogs-channels)
-- [Community](#community)
-- [Needs your Help!](#needs-your-help)
-- [Related Resources](#related-resources)
-- [Wait but why?](#wait-but-why)
-- [License](#license)
 
 <!-- tocstop -->
 

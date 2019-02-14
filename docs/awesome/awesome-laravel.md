@@ -1,30 +1,11 @@
+<div class="github-widget" data-repo="chiraggude/awesome-laravel"></div>
 ## Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
-## Table of Contents
 
-- [Essentials](#essentials)
-- [Packages](#packages)
-- [Popular Packages](#popular-packages)
-- [Development Setup](#development-setup)
-- [Application Hosting](#application-hosting)
-- [Application Deployment](#application-deployment)
-- [Code Snippets](#code-snippets)
-- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [Videos](#videos)
-- [Conferences](#conferences)
-- [Books](#books)
-- [Starter Projects](#starter-projects)
-- [Codebases for Reference](#codebases-for-reference)
-- [Content Management Systems](#content-management-systems)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Jobs](#jobs)
-- [Hosted Development Tools](#hosted-development-tools)
-- [Miscellaneous](#miscellaneous)
 
 ## Essentials
 
@@ -140,7 +121,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
-* [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 
 ##### Media & Document Management
 
@@ -439,7 +419,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
-## Content Management Systems
 
 * [OctoberCMS](https://github.com/octobercms/october)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)

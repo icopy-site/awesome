@@ -1,27 +1,9 @@
+<div class="github-widget" data-repo="deephacks/awesome-jvm"></div>
 ## Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome JVM low level, performance and non-framework related stuff.
 
-- [Awesome JVM](#awesome-jvm)
-    - [Bytecode](#bytecode)
-    - [Garbage collectors](#garbage-collectors)
-    - [Load tools](#load-tools)
-    - [Languages](#languages)
-    - [Machine Learning](#machine-learning)
-    - [Memory and Concurrency](#memory-and-concurrency)
-    - [Metaprogramming](#metaprogramming)
-    - [Native](#native)
-    - [Network](#network)
-    - [Nix tools](#nix-tools)
-    - [Profilers](#profilers)
-    - [Runtimes](#runtimes)
-    - [Virtual Machines](#virtual-machines)
-- [Resources](#resources)
     - [Communities](#communities)    
-    - [Documentation](#documentation)
-    - [Media](#media)
-    - [People](#people)
-- [Contributing](#contributing)
 
 
 ## Bytecode
@@ -238,7 +220,6 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
 * [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - Disassembles class files into code that reflects the java bytecode.
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
-* [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.
 * [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.

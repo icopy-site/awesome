@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="MunGell/awesome-for-beginners"></div>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
@@ -10,25 +11,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
-## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C++](#c-1)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [TypeScript](#typescript)
 
 ## .NET
 

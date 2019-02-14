@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ciconia/awesome-music"></div>
 ## Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A categorized collection of awesome music libraries, tools, frameworks and software.
@@ -6,18 +7,6 @@ Contributions and suggestions are always welcome! Please take a look at the [con
 
 Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-* [Awesome Music](#awesome-music)
-  * [Audio Editing](#audio-editing)
-  * [Audio Libraries](#audio-libraries)
-  * [Audio Tools](#audio-tools)
-  * [Free Music Scores](#free-music-scores)
-  * [MIDI Tools & Libraries](#midi-tools-libraries)
-  * [Music Notation](#music-notation)
-  * [Music Programming](#music-programming)
-  * [Music Theory](#music-theory)
-  * [Standards](#standards)
-* [Other Awesomeness](#other-awesomeness)
-  * [Related lists](#related-lists)
 
 ## Audio Editing
 

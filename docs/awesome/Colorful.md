@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Siddharth11/Colorful"></div>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Siddharth11/Colorful/master/color-palette.gif" alt="header image">
 </p>
@@ -6,12 +7,6 @@
 __A curated list of awesome resources to choose your next color scheme.__
 Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
-## Table of Contents
-- [Tools](#tools)
-  - [Libraries](#libraries)
-  - [Web App](#web-app)
-- [Color Palettes](#color-palettes)
-- [Articles](#articles)
 
 ## Tools
 

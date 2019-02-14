@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="opencompany/awesome-open-company"></div>
 ## Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
@@ -6,15 +7,7 @@ inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) 
 
 *Contributions to this list are welcome! Just [edit the README.md](https://github.com/opencompany/awesome-open-company/blob/master/../../edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](https://github.com/opencompany/awesome-open-company/blob/master/../../wiki/Inclusion+guidelines) are available.*
 
-## Table of contents
-1. [What is an open company?](#what-is-an-open-company)
 2. **[Companies](#companies)**
-3. [Resources](#resources)
-  1. [Books](#books)
-  2. [Articles](#articles)
-  3. [Videos](#videos)
-4. [Similar lists](#similar-lists)
-5. [License](#license)
 
 ## What is an open company?
 

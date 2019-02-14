@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="moul/awesome-ssh"></div>
 ## Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of *SSH* [apps](#apps), [libraries](#libraries) and [resources](#resources).
@@ -10,27 +11,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 **Check out my [blog](http://manfredtouron.tumblr.com) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
 
-## Table of Contents
 
-- [Apps](#apps)
-  - [`.ssh/config`](#sshconfig)
-  - [Tools using the *SSH* protocol](#tools-using-the-ssh-protocol)
-  - [Servers](#servers)
-  - [Network](#network)
-  - [Multiplexers](#multiplexers)
-  - [SSH Keys / Authentication](#ssh-keys--authentication)
-  - [SSH agent](#ssh-agent)
-  - [Tools](#tools)
-  - [Automation](#automation)
-  - [Web](#web)
-  - [Testing / Honeypots](#testing--honeypots)
-  - [Alternatives to SSH](#alternatives-to-ssh)
-- [Libraries](#libraries)
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Security](#security)
-  - [Documentation](#documentation)
-  - [Community](#community)
 
 ## Apps
 

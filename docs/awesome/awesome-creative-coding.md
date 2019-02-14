@@ -1,6 +1,6 @@
+<div class="github-widget" data-repo="terkelg/awesome-creative-coding"></div>
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png">](https://raw.githubusercontent.com/terkelg/awesome-creative-coding)
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
 
@@ -14,41 +14,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ---
 
-## Contents
 
-- [Books](#books)
-- [Online Books](#online-books)
-- [Courses](#courses)
-- [Tools](#tools)
-  - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
-  - [Visual Programming Languages](#visual-programming-languages)
-  - [Sound Programming Languages](#sound-programming-languages)
-  - [Web Programming • Libraries](#web-programming--libraries)
-  - [Projection Mapping • VJing](#projection-mapping--vjing)
-  - [Online](#online)
-  - [Hardware](#hardware)
-  - [Other](#other)
-- [Learning Resources](#learning-resources)
-  - [Videos](#videos)
-  - [Talks](#talks)
-  - [Articles](#articles)
-    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
-    - [Canvas](#canvas)
-    - [Hardware](#hardware-1)
-    - [Other](#other-1)
-  - [Interactive](#interactive)
-  - [Quick References • Cheat-Sheets](#quick-references--cheatsheets)
-- [Communities](#communities)
-  - [Subreddits](#subreddits)
-  - [Slack](#slack)
-  - [Other](#other-2)
-- [Math](#math)
-- [Machine learning • Computer Vision • Ai](#machine-learning--computer-vision--ai)
-- [Inspiration](#inspiration)
-- [Events](#events)
-- [Schools • Workshops](#schools--workshops)
-- [Blogs • Websites](#blogs--websites)
-- [Related](#related)
 
 ## Books
 

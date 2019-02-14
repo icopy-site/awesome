@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="frenck/awesome-home-assistant"></div>
 ## Awesome Home Assistant
 
 <div align="center">
@@ -29,35 +30,7 @@ The list is divided into categories. The links in those categories do not have
 pre-established order; the order is for contribution. If you want to contribute,
 please read the [guide](https://github.com/frenck/awesome-home-assistant/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-- [How to Use](#how-to-use)
-- [Installing](#installing)
-- [Need Help?](#need-help)
-- [Public Configurations](#public-configurations)
-- [Hass.io](#hassio)
-    - [Official Add-ons](#official-add-ons)
-    - [Third Party Add-ons](#third-party-add-ons)
-- [User Interface](#user-interface)
-    - [Themes](#themes)
-    - [Alternative Dashboard](#alternative-dashboards)
-    - [Lovelace UI](#lovelace-ui)
-    - [Custom Lovelace UI Cards](#custom-lovelace-ui-cards)
-- [Custom Components](#custom-components)
-- [DIY](#diy)
-    - [DIY Gateways](#diy-gateways)
-    - [DIY Projects](#diy-projects)
-- [Online Resources](#online-resources)
-    - [Blogs](#blogs)
-    - [YouTube Channels](#youtube-channels)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-- [Uncategorized](#uncategorized)
-- [Alternative Home Automation Software](#alternative-home-automation-software)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
-- [Trademark Legal Notice](#trademark-legal-notice)
-- [License](#license)
 
 ## How to Use
 
@@ -68,7 +41,6 @@ task that usually involves a lot of tinkering.
 You can navigate through the list by:
 
 - Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
-- Go through our [_Contents list_](#contents)
 - Alternatively, use the search on our website: <https://www.awesome-ha.com>
 
 ## Installing

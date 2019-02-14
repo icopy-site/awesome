@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="alferov/awesome-gulp"></div>
 ## Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [gulp](https://github.com/gulpjs/gulp) resources, plugins, and boilerplates for a better development workflow automation.
@@ -8,42 +9,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 
 :octocat: All contributions welcome. Feel free to contribute ([guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
 
-## Contents
 
-- [Legend](#legend)
-- [Resources](#resources)
-  - [General Resources](#general-resources)
-  - [Official Documentation](#official-documentation)
-  - [Community](#community)
-  - [Tutorials](#tutorials)
-    - [Gulp Tutorials](#gulp-tutorials)
-    - [Gulp 4 Tutorials](#gulp-4-tutorials)
-    - [Gulp with Browserify](#gulp-with-browserify)
-    - [Gulp with Angular](#gulp-with-browserify)
-    - [Gulp with Angular and Browserify](#gulp-with-angular-and-browserify)
-    - [Gulp with Angular and Webpack](#gulp-with-angular-and-webpack)
-    - [Gulp with React and Browserify](#gulp-with-react-and-browserify)
-    - [Gulp with Ember](#gulp-with-ember)
-  - [Miscellaneous Resources](#miscellaneous-resources)
-- [Plugins](#plugins)
-  - [Compilation](#compilation)
-  - [Transpilation](#transpilation)
-  - [Concatenation](#concatenation)
-  - [Minification](#minification)
-  - [Optimization](#optimization)
-  - [Injecting Assets](#injecting-assets)
-  - [Templating](#templating)
-  - [Linting](#linting)
-  - [Live Reload](#live-reload)
-  - [Caching](#caching)
-  - [Flow Control](#flow-control)
-  - [Logging](#logging)
-  - [Testing](#testing)
-  - [Miscellaneous Plugins](#miscellaneous-plugins)
-- [Scaffolding](#scaffolding)
-  - [Boilerplates](#boilerplates)
-  - [Yeoman Generators](#yeoman-generators)
-- [Miscellaneous](#miscellaneous)
 
 ## Legend
 

@@ -1,29 +1,8 @@
+<div class="github-widget" data-repo="sdnds-tw/awesome-sdn"></div>
 ## Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
 An awesome list about Software Defined Networks (SDN)
 
-- [Awesome SDN](#awesome-sdn)
-  - [Introduction](#introduction)
-  - [Network Operating System](#network-operating-system)
-  - [Install Environment](#install-environment)
-  - [Software Switch](#software-switch)
-  - [Network Virtualization](#network-virtualization)
-  - [Protocol](#protocol)
-  - [Controller](#controller)
-  - [Simulator/Emulator](#simulatoremulator)
-  - [Language](#language)
-  - [Library](#library)
-  - [Test](#test)
-  - [NFV](#nfv)
-  - [Overlay Network](#overlay-network)
-  - [Router](#router)
-  - [Misc](#misc)
-  - [High Performacne Network](#high-performance-network)
-  - [Userspace Network Stack](#userspace-network-stack)
-  - [Analytics](#analytics)
-- [Resources](#resources)
-  - [Books](#books)
-  - [Paper](#paper)
 
 ## Introduction
   Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hubtee/awesome-opensource-documents"></div>
 ## Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, and books which can be read, used, modified, translated, redistributed and even rewritten under their same license.
@@ -8,53 +9,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRIPTION
 ```
 
-## Table of Contents
 
-* [Subjects](#subjects)
-  * [Computer Science](#computer_science)
-  * [Data Science](#data_science)
-  * [DevOps](#devops)
-  * [Mathematics & Physics](#mathematics)
-  * [Open Source](#open_source)
-  * [Programming](#programming)
-  * [Database](#database)
-  * [World Wide Web](#world_wide_web)
-  * [Writing and Documentation](#writing_and_documentation)
-  * [Journalism and Visualization](#journalism_and_visualization)
-  * [Android Development](#android_development)
-  * [IOS Development](#ios_development)
-  * [etc.](#subject-etc)
-* [Programming Languages](#programming_languages)
-  * [C](#language-c)
-  * [Coffeescript](#coffeescript)
-  * [CSS](#css)
-  * [Fortran](#fortran)
-  * [Ruby](#ruby)
-  * [Clojure](#clojure)
-  * [Erlang](#erlang)
-  * [Elixir](#elixir)
-  * [Forth](#forth)
-  * [Go](#go)
-  * [Haskell](#haskell)
-  * [Javascript](#javascript)
-  * [Lisp](#lisp)
-  * [Objective-c](#objective-c)
-  * [PHP](#php)
-  * [Python](#python)
-  * [Rust](#rust)
-  * [R](#r)
-  * [Scala](#scala)
-* [Tools](#tools)
-  * [Editor](#editor)
-  * [Git](#git)
-  * [Server](#server)
-  * [etc.](#tool-etc)
-* [Library Documentation](#library-docs)
-* [Other Languages](#other_languages)
-  * [Korean](#korean)
-  * [Chinese](#chinese)
-  * [Japanese](#japanese)
-* [License](#license)
 
 <a name='subjects'></a>
 ## Subjects
@@ -67,7 +22,6 @@ This is not a list of free programming books. This is a curated list of open sou
 * Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
 * Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
 * Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
-* [Open Data Structures][repo-ods] ([Site][site-ods], cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
 * Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa) - This page contains lecture notes and other course materials for various algorithms classes Jeff Erickson have taught at the University of Illinois, Urbana-Champaign.
 * Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa) - This is a free textbook for an undergraduate course on the Theory of Computation, which we have been teaching at Carleton University since 2002
 * Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) - This is a free textbook for an undergraduate course on Discrete Structures for Computer Science, which I have been teaching at Carleton University since 2013
@@ -115,7 +69,6 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='data_science'></a>
 ### Data Science and Statistics
 
-* [LearnDataScience][repo-leads] (BSD) - Open Content for self-directed learning in data science
 * [Think Stats][repo-thinkstats] ([Site][site-thinkstats], cc-sa) - Probability and Statistics for Programmers
 * A Brief Introduction to Neural Networks ([Site][site-abinn], cc-nc-nd)
 * Data Mining for the Masses ([PDF][site-dmftm], cc)

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tiimgreen/github-cheat-sheet"></div>
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
@@ -5,77 +6,6 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 *Read this in other languages: [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
-## Table of Contents
-  - [GitHub](#github)
-    - [Ignore Whitespace](#ignore-whitespace)
-    - [Adjust Tab Space](#adjust-tab-space)
-    - [Commit History by Author](#commit-history-by-author)
-    - [Cloning a Repository](#cloning-a-repository)
-    - [Branch](#branch)
-      - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
-      - [Comparing Branches](#comparing-branches)
-      - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
-    - [Gists](#gists)
-    - [Git.io](#gitio)
-    - [Keyboard Shortcuts](#keyboard-shortcuts)
-    - [Line Highlighting in Repositories](#line-highlighting-in-repositories)
-    - [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
-    - [Cross-Link Issues](#cross-link-issues)
-    - [Locking Conversations](#locking-conversations)
-    - [CI Status on Pull Requests](#ci-status-on-pull-requests)
-    - [Filters](#filters)
-    - [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
-    - [Emojis](#emojis)
-    - [Images/GIFs](#imagesgifs)
-      - [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
-    - [Quick Quoting](#quick-quoting)
-    - [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
-    - [Quick Licensing](#quick-licensing)
-    - [Task Lists](#task-lists)
-      - [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
-    - [Relative Links](#relative-links)
-    - [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
-    - [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
-    - [Rendering Tabular Data](#rendering-tabular-data)
-    - [Rendering PDF](#rendering-pdf)
-    - [Revert a Pull Request](#revert-a-pull-request)
-    - [Diffs](#diffs)
-      - [Rendered Prose Diffs](#rendered-prose-diffs)
-      - [Diffable Maps](#diffable-maps)
-      - [Expanding Context in Diffs](#expanding-context-in-diffs)
-      - [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
-      - [Rendering and diffing images](#rendering-and-diffing-images)
-    - [Hub](#hub)
-    - [Contribution Guidelines](#contribution-guidelines)
-      - [CONTRIBUTING file](#contributing-file)
-      - [ISSUE_TEMPLATE file](#issue_template-file)
-      - [PULL_REQUEST_TEMPLATE file](#pull_request_template-file)
-    - [Octicons](#octicons)
-    - [GitHub Student Developer Pack](#github-student-developer-pack)
-    - [GitHub Resources](#github-resources)
-      - [GitHub Talks](#github-talks)
-    - [SSH keys](#ssh-keys)
-  - [Git](#git)
-    - [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
-    - [Previous Branch](#previous-branch)
-    - [Stripspace](#stripspace)
-    - [Checking out Pull Requests](#checking-out-pull-requests)
-    - [Empty Commits](#empty-commits)
-    - [Styled Git Status](#styled-git-status)
-    - [Styled Git Log](#styled-git-log)
-    - [Git Query](#git-query)
-    - [Git Grep](#git-grep)
-    - [Merged Branches](#merged-branches)
-    - [Fixup and Autosquash](#fixup-and-autosquash)
-    - [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
-    - [Git Configurations](#git-configurations)
-      - [Aliases](#aliases)
-      - [Auto-Correct](#auto-correct)
-      - [Color](#color)
-    - [Git Resources](#git-resources)
-      - [Git Books](#git-books)
-      - [Git Videos](#git-videos)
-      - [Git Articles](#git-articles)
 
 ## GitHub
 ### Ignore Whitespace
@@ -474,7 +404,6 @@ In full Markdown documents **read-only** checklists can now be added using the f
 Relative links are recommended in your Markdown files when linking to internal content.
 
 ```markdown
-[Link to a header](#awesome-section)
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
 ```
 
@@ -564,13 +493,6 @@ index 88fcf69..8614873 100644
 --- a/README.md
 +++ b/README.md
 @@ -28,6 +28,7 @@ All the hidden and not hidden features of Git and GitHub. This cheat sheet was i
- - [Merged Branches](#merged-branches)
- - [Quick Licensing](#quick-licensing)
- - [TODO Lists](#todo-lists)
-+- [Relative Links](#relative-links)
- - [.gitconfig Recommendations](#gitconfig-recommendations)
-     - [Aliases](#aliases)
-     - [Auto-correct](#auto-correct)
 @@ -381,6 +382,19 @@ When they are clicked, they will be updated in the pure Markdown:
  - [ ] Sleep
 

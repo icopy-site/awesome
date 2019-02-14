@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="davidsonfellipe/awesome-wpo"></div>
 ## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
@@ -5,49 +6,14 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-:memo:   [Awesome WPO / Articles](#articles)
 
-:newspaper:   [Awesome WPO / Blogs](#blogs)
 
-:books:   [Awesome WPO / Books](#books)
 
-:book:   [Awesome WPO / Docs](#documentation)
 
-:calendar:   [Awesome WPO / Events](#events)
 
-:busts_in_silhouette:  [Awesome WPO / People](#people)
 
-:movie_camera:   [Awesome WPO / Talks](#talks)
 
-## Table of Contents
 
-- [Analyzers](#analyzers)
-- [Analyzers API](#analyzers---api)
-- [Bundle Analyzer](#bundle-analyzer)
-- [Benchmark - CSS](#benchmark---css)
-- [Benchmark - JS](#benchmark---javascript)
-- [Benchmark - PHP](#benchmark---php)
-- [Bookmarklets](#bookmarklets)
-- [CDN](#cdn)
-- [CDN - Monitor](#cdn---monitor)
-- [CDN - Utilities](#cdn---utilities)
-- [Extensions](#extensions)
-- [Image Optimizers](#image-optimizers)
-- [Lazyloaders](#lazyloaders)
-- [Loaders](#loaders)
-- [Metrics Monitor](#metrics-monitor)
-- [Minifiers HTML](#minifiers---html)
-- [Minifiers JS & CSS](#minifiers---js--css)
-- [Miscellaneous](#miscellaneous)
-- [Sprite Generators](#sprite-generators)
-- [SVG](#svg)
-- [Web Components](#web-components)
-- [Web server Benchmarks](#web-server-benchmarks)
-- [Web server Modules](#web-server-modules)
-- [Specs](#specs)
-- [Stats](#stats)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 
 ## Articles
@@ -153,7 +119,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
 * [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 * [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.  
 
@@ -195,13 +160,11 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 > A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
 * [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their websites.
-* [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 * [CDNjs](https://cdnjs.com/) - An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
-* :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
 > To find useful more information for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
@@ -279,7 +242,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [GTmetrix](https://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks.
 * [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
-* [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 * [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test)).
@@ -295,7 +257,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## Minifiers - HTML
 
-* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 * [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
@@ -399,7 +360,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 ## Web server Modules
 
-* [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 * [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 
 

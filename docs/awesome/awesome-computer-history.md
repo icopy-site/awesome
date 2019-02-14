@@ -1,26 +1,11 @@
+<div class="github-widget" data-repo="watson/awesome-computer-history"></div>
 ## Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
 A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
-## Table of Contents
 
-- [Videos](#videos)
-  - [Old recordings](#old-recordings)
-  - [Documentaries](#documentaries)
-  - [Reflective interviews](#reflective-interviews)
-  - [Talks & Lectures](#talks--lectures)
-  - [Movies](#movies)
-  - [Commercials](#commercials)
-- [Audio](#audio)
-  - [Podcasts](#podcasts)
-- [Texts](#texts)
-  - [Folklore](#folklore)
-  - [Announcements and Memos](#announcements-and-memos)
-- [Source Code](#source-code)
-- [Websites](#websites)
-- [License](#license)
 
 ## Videos
 

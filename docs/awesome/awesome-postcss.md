@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jdrgomes/awesome-postcss"></div>
 <p align="center">
   <img src="https://rawgit.com/jdrgomes/awesome-postcss/master/media/awesome_postcss.svg" alt="Awesome PostCSS">
 </p>
@@ -9,9 +10,7 @@
 
 **PostCSS** does is provide a css parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed css. PostCSS parses css into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), passes it through a series of plugins, and then concatenates back into a string.
 
-### Table of Contents
 
-- [Awesome PostCSS](#awesome-postcss)
     - [Articles](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/articles.md)
     - [Community](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/community.md)
     - [Guides](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/guides.md)

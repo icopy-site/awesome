@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="arbox/nlp-with-ruby"></div>
 <img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
@@ -7,7 +8,6 @@
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
-## Awesome NLP with Ruby [<img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Useful resources for text processing in Ruby
 
@@ -37,50 +37,9 @@ Follow us on [Twitter](https://twitter.com/NonWebRuby)
 and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
-## Contents
 
 <!-- toc -->
 
-- [:sparkles: Tutorials](#sparkles-tutorials)
-- [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
-  * [Pipeline Generation](#pipeline-generation)
-  * [Multipurpose Engines](#multipurpose-engines)
-    + [On-line APIs](#on-line-apis)
-  * [Language Identification](#language-identification)
-  * [Segmentation](#segmentation)
-  * [Lexical Processing](#lexical-processing)
-    + [Stemming](#stemming)
-    + [Lemmatization](#lemmatization)
-    + [Lexical Statistics: Counting Types and Tokens](#lexical-statistics-counting-types-and-tokens)
-    + [Filtering Stop Words](#filtering-stop-words)
-  * [Phrasal Level Processing](#phrasal-level-processing)
-  * [Syntactic Processing](#syntactic-processing)
-    + [Constituency Parsing](#constituency-parsing)
-  * [Semantic Analysis](#semantic-analysis)
-  * [Pragmatical Analysis](#pragmatical-analysis)
-- [High Level Tasks](#high-level-tasks)
-  * [Spelling and Error Correction](#spelling-and-error-correction)
-  * [Text Alignment](#text-alignment)
-  * [Machine Translation](#machine-translation)
-  * [Sentiment Analysis](#sentiment-analysis)
-  * [Numbers, Dates, and Time Parsing](#numbers-dates-and-time-parsing)
-  * [Named Entity Recognition](#named-entity-recognition)
-  * [Text-to-Speech-to-Text](#text-to-speech-to-text)
-- [Dialog Agents, Assistants, and Chatbots](#dialog-agents-assistants-and-chatbots)
-- [Linguistic Resources](#linguistic-resources)
-- [Machine Learning Libraries](#machine-learning-libraries)
-- [Data Visualization](#data-visualization)
-- [Optical Character Recognition](#optical-character-recognition)
-- [Text Extraction](#text-extraction)
-- [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
-- [Language Aware String Manipulation](#language-aware-string-manipulation)
-- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
-- [Projects and Code Examples](#projects-and-code-examples)
-- [Books](#books)
-- [Community](#community)
-- [Needs your Help!](#needs-your-help)
-- [Related Resources](#related-resources)
-- [License](#license)
 
 <!-- tocstop -->
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="matteocrippa/awesome-swift"></div>
 ## Awesome Swift
  
 <!-- 
@@ -10,143 +11,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 938 | February 12, 2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 939 | February 13, 2019
 
-### Contents
 
-- [Guides](#guides)
-  - [Newsletter](#newsletter)
-  - [Official Guides](#official-guides)
-  - [Style Guides](#style-guides)
-  - [Third party Guides](#third-party-guides)
-- [Boilerplates](#boilerplates)
-- [REPL](#repl)
-- [Editor Support](#editor-support)
-  - [Emacs](#emacs)
-  - [Vim](#vim)
-- [Benchmark](#benchmark)
-- [Converters](#converters)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Dependency Managers](#dependency-managers)
-- [Patterns](#patterns)
-- [Misc](#misc)
-- [Libs](#libs)
-  - [Accessibility](#accessibility)
-  - [AI](#ai)
-  - [Algorithm](#algorithm)
-  - [Analytics](#analytics)
-  - [Animation](#animation)
-  - [API](#api)
-  - [App Routing](#app-routing)
-  - [App Store](#app-store)
-  - [Audio](#audio)
-  - [Augmented Reality](#augmented-reality)
-  - [Authentication](#authentication)
-  - [Bots](#bots)
-  - [Cache](#cache)
-  - [Chart](#chart)
-  - [Chat](#chat)
-  - [Colors](#colors)
-  - [Command Line](#command-line)
-  - [Concurrency](#concurrency)
-  - [Currency](#currency)
-  - [Data Management](#data-management)
-    - [Core Data](#core-data)
-    - [JSON](#json)
-    - [Key Value Store](#key-value-store)
-    - [MongoDB](#mongodb)
-    - [Multi Database](#multi-database)
-    - [ORM](#orm)
-    - [Other Data](#other-data)
-    - [Realm](#realm)
-    - [SQL drivers](#sql-drivers)
-    - [SQLite](#sqlite)
-    - [XML](#xml)
-    - [YAML](#yaml)
-    - [ZIP](#zip)
-  - [Date](#date)
-  - [Dependency Injection](#dependency-injection)
-  - [Device](#device)
-  - [Documentation](#documentation)
-  - [Email](#email)
-  - [Embedded Systems](#embedded-systems)
-    - [Peripherals](#peripherals)
-  - [Events](#events)
-  - [Files](#files)
-  - [Fonts](#fonts)
-  - [Game Engine](#game-engine)
-    - [2D](#game-engine-2d)
-  - [Games](#games)
-  - [Gesture](#gesture)
-  - [Hardware](#hardware)
-    - [3D Touch](#3d-touch)
-    - [Bluetooth](#bluetooth)
-    - [Camera](#camera)
-      - [Barcode](#barcode)
-    - [Haptic Feedback](#haptic-feedback)
-    - [iBeacon](#ibeacon)
-    - [Sensors](#sensors)
-  - [Images](#images)
-  - [Key Value Coding](#key-value-coding)
-  - [Keyboard](#keyboard)
-  - [Kit](#kit)
-  - [Layout](#layout)
-    - [Auto Layout](#auto-layout)
-  - [Localization](#localization)
-  - [Location](#location)
-  - [Logging](#logging)
-  - [Maps](#maps)
-  - [Math](#math)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Network](#network)
-    - [HTML](#html)
-    - [Messaging Protocol](#messaging-protocol)
-    - [Socket](#socket)
-    - [Webserver](#webserver)
-  - [OCR](#ocr)
-  - [Optimization](#optimization)
-  - [PDF](#pdf)
-  - [Quality](#quality)
-  - [Scripting](#scripting)
-  - [SDK](#sdk)
-  - [Security](#security)
-    - [Cryptography](#cryptography)
-    - [Keychain](#keychain)
-  - [Streaming](#streaming)
-  - [Styling](#styling)
-  - [System](#system)
-  - [Testing](#testing)
-    - [Mock](#mock)
-  - [Text](#text)
-  - [Thread](#thread)
-  - [UI](#ui)
-    - [Alert](#alert)
-    - [ApplicationDelegate](#applicationdelegate)
-    - [Blur](#blur)
-    - [Button](#button)
-    - [Calendar](#calendar)
-    - [Cards](#cards)
-    - [Form](#form)
-    - [HUD](#hud)
-    - [Label](#label)
-    - [Menu](#menu)
-    - [Pagination](#pagination)
-    - [Payment](#payment)
-    - [Permissions](#permissions)
-    - [StackView](#stackview)
-    - [Switch](#switch)
-    - [Tab](#tab)
-    - [Template](#template)
-    - [TextField](#textfield)
-    - [Transition](#transition)
-    - [UICollectionView](#uicollectionview)
-    - [UITableView](#uitableview)
-    - [Walkthrough](#walkthrough)
-  - [Utility](#utility)
-  - [Validation](#validation)
-    - [Phone Numbers](#phone-numbers)
-  - [Version Manager](#version-manager)
-  - [Video](#video)
 
 ## Guides
 *An awesome list of Swift related guides.* 
@@ -573,6 +440,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CheatyXML](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
+* [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library
 
 #### YAML
 [back to top](#readme) 
@@ -952,7 +820,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
 #### HTML
-*Need to manipulate contents from html easily?* [back to top](#readme) 
 
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser.
@@ -1149,7 +1016,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI.
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
-* [Arale](https://github.com/ZulwiyozaPutra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
@@ -1175,7 +1041,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.
-* [Hexacon](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram.
@@ -1217,12 +1082,10 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 * [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
-* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
-* [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [StepProgressView](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 * [SwiftyUI](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
@@ -1445,7 +1308,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
-* [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 
@@ -1459,7 +1321,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
-* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout to show slanted content.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="onqtam/awesome-cmake"></div>
 ## Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
@@ -6,16 +7,7 @@
 
 Your contributions are highly welcome (first see [https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md](https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md)).
 
-## Contents
 
-- [Community](#community)
-- [Resources](#resources)
-- [Package Management / Build Systems](#package-management--build-systems)
-- [Modules](#modules)
-- [Utility Scripts](#utility-scripts)
-- [Toolchains](#toolchains)
-- [Examples / Templates](#examples--templates)
-- [Other](#other)
 
 ## Community
 

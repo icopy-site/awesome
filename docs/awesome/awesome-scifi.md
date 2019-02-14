@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-scifi"></div>
 ## Awesome Sci-Fi [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Sci-Fi worth consuming
@@ -9,31 +10,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
 
-## Contents
 
-- [Novels](#novels)
-	- [Science Fiction](#science-fiction)
-	- [Hard Science Fiction](#hard-science-fiction)
-	- [Cyberpunk](#cyberpunk)
-	- [Dystopia](#dystopia)
-	- [Space Opera](#space-opera)
-	- [Post Apocalyptic](#post-apocalyptic)
-	- [Military Science Fiction](#military-science-fiction)
-	- [Police Procedural Science Fiction](#police-procedural-science-fiction)
-	- [Techno Thriller](#techno-thriller)
-	- [Fantasy](#fantasy)
-	- [Drama](#drama)
-	- [Biopunk](#biopunk)
-	- [Speculative Fiction](#speculative-fiction)
-	- [Time Travel](#time-travel)
-	- [Comedy](#comedy)
-	- [Horror](#horror)
-- [Short Story Collections](#short-story-collections)
-- [Movies](#movies)
-- [Movie Series](#movie-series)
-- [TV Series](#tv-series)
-- [Comic Books](#comic-books)
-- [Links](#links)
 
 
 ## Novels

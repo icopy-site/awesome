@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="pmuens/awesome-serverless"></div>
 ## Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources about all things serverless.
@@ -6,18 +7,7 @@
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
-## Table of contents
 
-- [General](#general)
-- [Blogs](#blogs)
-- [Blog posts](#blog-posts)
-- [Screencasts](#screencasts)
-- [Talks](#talks)
-- [Projects](#projects)
-- [Related projects](#related-projects)
-- [Serverless Framework Plugins](#serverless-framework-plugins)
-- [Literature / Education](#literature--education)
-- [Professional services](#professional-services)
 
 ---
 

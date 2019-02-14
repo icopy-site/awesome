@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="friendsofcake/awesome-cakephp"></div>
 ## Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
@@ -14,59 +15,7 @@ Additional lists you might find useful:
 > plugin subparts (instead of only the whole plugin/repo), more granular
 > grouping and the primary focus on task specific functionality.
 
-## Table of Contents
 
-- [Plugins](#plugins)
-	- [APM](#apm)
-	- [Asset Management](#asset-management)
-	- [Auditing / Logging](#auditing--logging)
-	- [Authentication and Authorization](#authentication-and-authorization)
-	- [Caching](#caching)
-	- [Code Analysis](#code-analysis)
-	- [Debugging](#debugging)
-	- [Dependency Injection](#dependency-injection)
-	- [E-commerce](#e-commerce)
-	- [Email](#email)
-	- [Environment](#environment)
-	- [Files](#files)
-	- [Filtering and Validation](#filtering-and-validation)
-	- [Geolocation](#geolocation)
-	- [I18n](#i18n)
-	- [Imagery](#imagery)
-	- [Libs](#libs)
-	- [Markup](#markup)
-	- [Migration](#migration)
-	- [Miscellaneous](#miscellaneous)
-	- [Navigation](#navigation)
-	- [NoSQL](#nosql)
-	- [Notifications](#notifications)
-	- [ORM and Datamapping](#orm-and-datamapping)
-	- [PDF](#pdf)
-	- [Queue](#queue)
-	- [REST and API](#rest-and-api)
-	- [Search](#search)
-	- [Security](#security)
-	- [SEO](#seo)
-	- [Skeleton](#skeleton)
-	- [Social](#social)
-	- [Templating](#templating)
-	- [Testing](#testing)
-	- [Third Party APIs](#third-party-apis)
-- [Software](#software)
-	- [Development Environment](#development-environment)
-- [Web Applications](#web-applications)
-	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
-	- [Demo](#demo)
-- [Resources](#resources)
-	- [Help](#help)
-	- [CakePHP Websites](#cakephp-websites)
-	- [CakePHP Books and Articles](#cakephp-books-and-articles)
-	- [CakePHP Videos](#cakephp-videos)
-	- [CakePHP Tutorials](#cakephp-tutorials)
-	- [CakePHP Reading and Listening](#cakephp-reading-and-listening)
-	- [CakePHP Internals Reading](#cakephp-internals-reading)
-- [Conferences](#conferences)
-- [Contributing](#contributing)
 
 ## Plugins
 

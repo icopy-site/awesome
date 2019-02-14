@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="thibmaek/awesome-raspberry-pi"></div>
 ## Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,15 +10,8 @@
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-Contributions *very welcome* but first see [Contributing](#contributing)
 
-## Contents
 
-- [Models](#models)
-- [OS Images](#os-images)
-- [Tools](#tools)
-- [Projects](#projects)
-- [Resources](#resources)
 
 ## Models
 

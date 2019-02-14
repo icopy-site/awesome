@@ -1,24 +1,11 @@
+<div class="github-widget" data-repo="dylanrees/citizen-science"></div>
 ## Digital Tools for Citizen Science
 
 Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
 
-  - [Software](#software)
-  - [Educational](#educational)
-  - [Tools and Equipment](#tools-and-equipment)
-  - [Publishing and Doing Research](#publishing-and-doing-research)
-  - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
-  - [Art and Science Spaces](#art-and-science-spaces)
-  - [Literature](#literature)
-  - [Funding and Support](#funding-and-support)
-  - [Conferences and Events](#conferences-and-events)
-  - [Other Resources](#other-resources)
-  - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
-  - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  - [License](#license)
 
 ## Software
 

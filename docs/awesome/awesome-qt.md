@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="JesseTG/awesome-qt"></div>
 ## Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/JesseTG/awesome-qt/ef9f71a9/qt.svg" align="right" width="100">](https://www.qt.io)
@@ -13,25 +14,7 @@ Contributions are welcome!
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization; click on it to see the source code!
 - List items with this :package: icon have source code hosted elsewhere.
 
-## Contents
 
-- [Official Resources](#official-resources)
-- [Communities](#communities)
-  - [Official](#official)
-  - [Unofficial](#unofficial)
-- [Tools](#tools)
-  - [Official Tools](#official-tools)
-  - [Third-Party Tools](#third-party-tools)
-- [Bindings in Other Languages](#bindings-in-other-languages)
-- [Libraries](#libraries)
-  - [Integrations](#integrations)
-  - [New Functionality](#new-functionality)
-- [Software Repositories](#software-repositories)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Software that Uses Qt](#software-that-uses-qt)
-- [Other Relevant Awesome Lists](#other-relevant-awesome-lists)
-- [License](#license)
 
 ## Official Resources
 

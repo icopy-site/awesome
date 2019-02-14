@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="TheJambo/awesome-testing"></div>
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
 ## Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of testing software, extensions and resources
@@ -7,17 +8,7 @@ This is intended to be a curation of resources for the new among the software te
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
 
-## Contents
 
-- [Software](#software)
-- [Books](#books)
-- [Training](#training)
-- [Blogs](#blogs)
-- [Suggested Awesome Lists](#suggested-awesome-lists)
-- [Others](#Others)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
 
 
 ## Software

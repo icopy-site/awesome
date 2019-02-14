@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mailtoharshit/awesome-salesforce"></div>
  
 <img src="https://cdn-images-1.medium.com/max/400/0*btue0hbdFixR5ccW." align="right" width="320" height="400">
 
@@ -25,24 +26,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
 
 
-## Table of Contents  
-* [Awesome Salesforce](#awesome-salesforce--)
-  * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
-  * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
-  * [IDE](#ide)
-  * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
-  * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
-  * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lightning Resources](#salesforce-lightning)
-  * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
-    * [Mobile SDK](#mobile-sdk)
-    * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
-  * [TroubleShooting and Developers Support](#troubleshooting-and-queries)
-  * [Salesforce Certification Program](#salesforce-certification-program)
-  * [Salesforce University](#salesforce-university)
-  * [Salesforce Technical Blogs](#technical-blogs)
-  * [Contribute to Project Awesome-Salesforce](#contribute)
-  * [How to create pull request and report bug](#bugreport-pullrequest)
 
 
 ### Salesforce Developer Free Edition Signup
@@ -238,7 +221,6 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lightning
-* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce

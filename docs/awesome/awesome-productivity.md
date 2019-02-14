@@ -1,19 +1,10 @@
+<div class="github-widget" data-repo="jyguyomarch/awesome-productivity"></div>
 ## Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of delightful productivity resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Content
 
-- [Websites](#websites)
-- [Online Courses](#online-courses)
-- [Books](#books)
-- [Tools and Apps](#tools-and-apps)
-  - [File Management](#file-management)
-  - [Note Management](#note-management)
-  - [Task Management](#task-management)
-  - [Habit Trackers](#habit-trackers)
-  - [Task Automation](#task-automation)
 
 ## Websites
 

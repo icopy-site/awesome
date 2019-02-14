@@ -1,15 +1,8 @@
+<div class="github-widget" data-repo="svaksha/Julia.jl"></div>
 ## Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
-+ [INDEX](#index)
-+ [LICENSE](#license)
-   + [ODbL and AGPLv3](#odbl-and-agplv3)
-   + [Mirrors](#mirrors)
-+ [CONTRIBUTE](#contribute)
-   + [Guidelines](#guidelines)
-   + [BugReport-PullRequest](#bugreport-pullrequest)
-   + [Package Status](#package-status)
    
 ----
 

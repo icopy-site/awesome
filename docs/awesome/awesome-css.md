@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/awesome-css-group/awesome-css
@@ -24,38 +25,11 @@ If you're struggling with something CSS-related, look for answers within the fol
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
-## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [CSS Working Group](#css-working-group)
-  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
-- [Parser :mag:](#parser-mag)
-- [Preprocessors :pill:](#preprocessors-pill)
-- [Frameworks :art:](#frameworks-art)
-- [Toolkits :wrench:](#toolkits-wrench)
-- [CSS Structure](#css-structure)
-- [Reset and Normalize](#reset-and-normalize)
-- [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guidelines :book:](#code-style-guidelines-book)
-- [Style Guide](#style-guide)
-- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
-- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
-- [CSS in JS](#css-in-js)
-- [CSS Polyfills](#css-polyfills)
-- [Miscellaneous](#miscellaneous)
-- [Podcasts :radio:](#podcasts-radio)
-- [Twitter :satellite:](#twitter-satellite)
-- [Videos :tv:](#videos-tv)
-  - [2016](#2016)
-  - [2015](#2015)
-- [Books :books:](#books-books)
-- [Tutorials :clapper:](#tutorials-clapper)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -274,7 +248,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front-end web design, development, and UX.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on style guides, hosted by Anna Debenham and Brad Frost.
-* [The Big Web Show](http://5by5.tv/bigwebshow/) - Topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.

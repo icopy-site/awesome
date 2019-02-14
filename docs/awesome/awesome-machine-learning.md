@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="josephmisiti/awesome-machine-learning"></div>
 ## Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
@@ -18,127 +19,15 @@ Further resources:
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
-## Table of Contents
 
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [APL](#apl)
-    - [General-Purpose Machine Learning](#apl-general-purpose)
-- [C](#c)
-    - [General-Purpose Machine Learning](#c-general-purpose)
-    - [Computer Vision](#c-cv)
-- [C++](#cpp)
-    - [Computer Vision](#cpp-cv)
-    - [General-Purpose Machine Learning](#cpp-general-purpose)
-    - [Natural Language Processing](#cpp-nlp)
-    - [Speech Recognition](#speech-recognition-1)
-    - [Sequence Analysis](#cpp-sequence)
-    - [Gesture Recognition](#cpp-gestures)
-- [Common Lisp](#common-lisp)
-    - [General-Purpose Machine Learning](#common-lisp-general-purpose)
-- [Clojure](#clojure)
-    - [Natural Language Processing](#clojure-nlp)
-    - [General-Purpose Machine Learning](#clojure-general-purpose)
-    - [Data Analysis / Data Visualization](#clojure-data-analysis)
-- [Crystal](#crystal)
-    - [General-Purpose Machine Learning](#crystal-general-purpose)
-- [Elixir](#elixir)
-    - [General-Purpose Machine Learning](#elixir-general-purpose)
-    - [Natural Language Processing](#elixir-nlp)
-- [Erlang](#erlang)
-    - [General-Purpose Machine Learning](#erlang-general-purpose)
-- [Go](#go)
-    - [Natural Language Processing](#go-nlp)
-    - [General-Purpose Machine Learning](#go-general-purpose)
-    - [Data Analysis / Data Visualization](#go-data-analysis)
-    - [Facial Detection and Recognition](#go-facial-recognition)
-    - [Image Classification](#go-image-classification)
-- [Haskell](#haskell)
-    - [General-Purpose Machine Learning](#haskell-general-purpose)
-- [Java](#java)
-    - [Natural Language Processing](#java-nlp)
-    - [General-Purpose Machine Learning](#java-general-purpose)
-    - [Speech Recognition](#java-speech-recognition)
-    - [Data Analysis / Data Visualization](#java-data-analysis)
-    - [Deep Learning](#java-deep-learning)
-- [Javascript](#javascript)
-    - [Natural Language Processing](#javascript-nlp)
-    - [Data Analysis / Data Visualization](#javascript-data-analysis)
-    - [General-Purpose Machine Learning](#javascript-general-purpose)
-    - [Misc](#javascript-misc)
-    - [Demos and Scripts](#javascript-demos)
-- [Julia](#julia)
-    - [General-Purpose Machine Learning](#julia-general-purpose)
-    - [Natural Language Processing](#julia-nlp)
-    - [Data Analysis / Data Visualization](#julia-data-analysis)
-    - [Misc Stuff / Presentations](#julia-misc)
-- [Lua](#lua)
-    - [General-Purpose Machine Learning](#lua-general-purpose)
-    - [Demos and Scripts](#lua-demos)
-- [Matlab](#matlab)
-    - [Computer Vision](#matlab-cv)
-    - [Natural Language Processing](#matlab-nlp)
-    - [General-Purpose Machine Learning](#matlab-general-purpose)
-    - [Data Analysis / Data Visualization](#matlab-data-analysis)
-- [.NET](#net)
-    - [Computer Vision](#net-cv)
-    - [Natural Language Processing](#net-nlp)
-    - [General-Purpose Machine Learning](#net-general-purpose)
-    - [Data Analysis / Data Visualization](#net-data-analysis)
-- [Objective C](#objectivec)
-    - [General-Purpose Machine Learning](#objectivec-general-purpose)
-- [OCaml](#ocaml)
-    - [General-Purpose Machine Learning](#ocaml-general-purpose)
-- [Perl](#perl)
-    - [Data Analysis / Data Visualization](#perl-data)
-	- [General-Purpose Machine Learning](#perl-ml)
-- [Perl 6](#perl6)
-- [PHP](#php)
-    - [Natural Language Processing](#php-nlp)
-    - [General-Purpose Machine Learning](#php-general-purpose)
-- [Python](#python)
-    - [Computer Vision](#python-cv)
-    - [Natural Language Processing](#python-nlp)
-    - [General-Purpose Machine Learning](#python-general-purpose)
-    - [Data Analysis / Data Visualization](#python-data-analysis)
-    - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
-    - [Kaggle Competition Source Code](#python-kaggle)
-    - [Neural Networks](#python-neural-networks)
-    - [Reinforcement Learning](#python-reinforcement-learning)
-- [Ruby](#ruby)
-    - [Natural Language Processing](#ruby-nlp)
-    - [General-Purpose Machine Learning](#ruby-general-purpose)
-    - [Data Analysis / Data Visualization](#ruby-data-analysis)
-    - [Misc](#ruby-misc)
-- [Rust](#rust)
-    - [General-Purpose Machine Learning](#rust-general-purpose)
-- [R](#r)
-    - [General-Purpose Machine Learning](#r-general-purpose)
-    - [Data Analysis / Data Visualization](#r-data-analysis)
-- [SAS](#sas)
-    - [General-Purpose Machine Learning](#sas-general-purpose)
-    - [Data Analysis / Data Visualization](#sas-data-analysis)
-    - [Natural Language Processing](#sas-nlp)
-写个脚本把它们爬下来 - [Demos and Scripts](#sas-demos)
-- [Scala](#scala)
-    - [Natural Language Processing](#scala-nlp)
-    - [Data Analysis / Data Visualization](#scala-data-analysis)
-    - [General-Purpose Machine Learning](#scala-general-purpose)
-- [Scheme](#scheme)
-    - [Neural Networks](#scheme-neural-networks)
-- [Swift](#swift)
-    - [General-Purpose Machine Learning](#swift-general-purpose)
-- [TensorFlow](#tensor)
-    - [General-Purpose Machine Learning](#tensor-general-purpose)
 
 ### Tools
 
-- [Neural Networks](#tools-neural-networks)
-- [Misc](#tools-misc)
 
 
-[Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -1178,7 +1067,6 @@ be
 #### Data Analysis / Data Visualization
 
 * [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
-* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby. **[Deprecated]**
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for Ruby, especially for plotting ROC curves into SVG files. **[Deprecated]**
 * [plot-rb](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3. **[Deprecated]**
 * [scruffy](https://github.com/delano/scruffy) - A beautiful graphing toolkit for Ruby.
@@ -1416,7 +1304,6 @@ be
 <a name="tensor-general-purpose"></a>
 #### General-Purpose Machine Learning
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
-* [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
 
 <a name="tools"></a>
 ## Tools

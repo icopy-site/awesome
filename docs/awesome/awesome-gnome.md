@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Kazhnuz/awesome-gnome"></div>
 ## Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
@@ -8,45 +9,7 @@
 
 > Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
 
-## Contents  
 
-- [Applications](#applications)
-  - [Productivity](#productivity)
-  - [Internet](#internet)
-  - [Editor](#editor)
-  - [Documents](#documents)
-  - [Multimedia](#multimedia)
-  - [Graphics](#graphics)
-  - [Games](#games)
-  - [Customization](#customization)
-  - [Tools](#tools)
-  - [System](#system)
-  - [Others](#others)
-- [GTK Modules and Systems](#gtk-modules-and-systems)
-- [Extensions](#extensions)
-  - [Menus](#menus)
-  - [Applets](#applets)
-  - [Status Area](#status-area)
-  - [Windows](#windows)
-  - [Docks and Panels](#docks-and-panels)
-  - [Services Integration](#services-integration)
-- [Themes](#themes)
-  - [Adwaita-based](#adwaita-based)
-  - [Material](#material)
-  - [Flat](#flat)
-  - [Metallic](#metallic)
-- [Icons](#icons)
-  - [Material Icons](#material-icons)
-  - [Flat Icons](#flat-icons)
-  - [Homogeneous Icons](#homogeneous-icons)
-  - [Skeumorphic](#skeumorphic)
-  - [Cursors](#cursors)
-- [Community](#community)
-- [Developer Tools](#developer-tools)
-  - [IDE](#ide)
-  - [Libraries and Utility](#libraries-and-utility)
-  - [Examples](#examples)
-  - [Documentation](#documentations)
 
 ---
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="LappleApple/awesome-leading-and-managing"></div>
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
@@ -9,7 +10,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 — "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
 
-## Contents
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
@@ -42,11 +42,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## FAQ
-- [Who is this for?](#who-is-this-for)
-- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
-- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
-- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jagracey/Awesome-Unicode"></div>
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
@@ -18,42 +19,7 @@ Unicode is Awesome! Prior to Unicode, international communication was grueling- 
 
 <br>
 
-## Contents
 
-- [Quick Unicode Background](#quick-unicode-background)
-	- [What Characters Does the Unicode Standard Include?](#what-characters-does-the-unicode-standard-include)
-	- [Unicode Character Encodings](#unicode-character-encodings)
-	- [Lets talk Numbers](#lets-talk-numbers)
-	- [UTF-16 Surrogate Pairs](#utf-16-surrogate-pairs)
-	- [Calculating Surrogate Pairs](#calculating-surrogate-pairs)
-	- [Composing & Decomposing](#composing--decomposing)
-	- [Myths of Unicode](#myths-of-unicode)
-	- [Applied Unicode Encodings](#applied-unicode-encodings)
-	- [Source Code](#source-code)
-- [Awesome Characters List](#awesome-characters-list)
-	- [Special Characters](#special-characters)
-	- [Variable identifiers can effectively include whitespace!](#variable-identifiers-can-effectively-include-whitespace)
-	- [Modifiers](#modifiers)
-	- [Uppercase Transformation Collisions](#collision-uppercase-transformation-collisions)
-	- [Lowercase Transformation Collisions](#collision-lowercase-transformation-collisions)
-- [Quirks and Troubleshooting](#quirks-and-troubleshooting)
-	- [One-To-Many Case Mappings](#one-to-many-case-mappings)
-- [Awesome Packages & Libraries](#awesome-packages--libraries)
-- [Emojis](#emojis)
-	- [Diversity](#diversity)
-- [Creatively Naming Variables and Methods](#creatively-naming-variables-and-methods)
-	- [Recursive HTML Tag Renaming Script](#recursive-html-tag-renaming-script)
-- [Unicode Fonts](#unicode-fonts)
-- [More Reading](#more-reading)
-- [Exploring Deeper into Unicode Yourself](#exploring-deeper-into-unicode-yourself)
-- [Overview Map](#overview-map)
-	- [A map of the Basic Multilingual Plane](#a-map-of-the-basic-multilingual-plane)
-	- [Unicode Blocks](#unicode-blocks)
-- [Principles of the Unicode Standard](#principles-of-the-unicode-standard)
-- [Unicode Versions](#unicode-versions)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
 
 
 ## Quick Unicode Background

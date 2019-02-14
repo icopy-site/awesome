@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="stetso/awesome-gideros"></div>
 ## Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
@@ -8,28 +9,7 @@
 
 A curated list of awesome resources for the [Gideros Game Development Framework](http://giderosmobile.com/) that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request.
 
-## Contents
 
-- [Getting Started](#getting-started)
-- [Resources](#resources)
-	- [Tutorials and Tips](#tutorials-and-tips)
-	- [Full game examples](#full-game-examples)
-	- [Publications](#publications)
-	- [IDEs and Editors](#ides-and-editors)
-	- [Graphics and Shaders](#graphics-and-shaders)
-	- [Scene Managment](#scene-management)
-	- [Input](#input)
-	- [Animation and Tweens](#animation-and-tweens)
-	- [Tilemaps](#tilemaps)
-	- [Camera](#camera)
-	- [Audio](#audio)
-	- [Saving and Loading](#saving-and-loading)
-	- [Monetization](#monetization)
-	- [GUI](#gui)
-	- [3D](#3d)
-	- [Plugins](#plugins)
-- [Useful Lua-Libraries](#useful-lua-libraries)
-- [License and Contriuting](#license-and-contributing)
 
 ## Getting Started
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="serhii-londar/open-source-mac-os-apps"></div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/serhii-londar/open-source-mac-os-apps/master/./icons/icon.png">
 </p>
@@ -36,53 +37,6 @@ You can see in which language an app is written. Currently there are following l
 - ![type_script_icon] - TypeScript language.
 
 
-## Contents
-- [Audio](#audio)
-- [Backup](#backup)
-- [Browser](#browser)
-- [Chat](#chat)
-- [Cryptocurrency](#cryptocurrency)
-- [Database](#database)
-- [Development](#development)
-    - [Git](#git)
-    - [iOS / macOS](#ios--macos)
-    - [JSON Parsing](#json-parsing)
-    - [Web development](#web-development)
-    - [Other](#other)
-- [Downloader](#downloader)
-- [Editors](#editors)
-    - [CSV](#csv)
-    - [JSON](#json)
-    - [Markdown](#markdown)
-    - [TeX](#tex)
-    - [Text](#text)
-- [Extensions](#extensions)
-- [Finder](#finder)
-- [Games](#games)
-- [Graphics](#graphics)
-- [IDE](#ide)
-- [Images](#images)
-- [Keyboard](#keyboard)
-- [Mail](#mail)
-- [Menubar](#menubar)
-- [Music](#music)
-- [News](#news)
-- [Notes](#notes)
-- [Other](#other-1)
-- [Podcast](#podcast)
-- [Productivity](#productivity)
-- [Screensaver](#screensaver)
-- [Security](#security)
-- [Sharing Files](#sharing-files)
-- [Social Networking](#social-networking)
-- [Streaming](#streaming)
-- [System](#system)
-- [Terminal](#terminal)
-- [Utilities](#utilities)
-- [VPN & Proxy](#vpn--proxy)
-- [Video](#video)
-- [Wallpaper](#wallpaper)
-- [Window Management](#window-management)
 
 ## Applications
 

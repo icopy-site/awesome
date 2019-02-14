@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="TalAter/awesome-service-workers"></div>
 ## Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated collection of service worker resources.
@@ -9,16 +10,7 @@ A curated collection of service worker resources.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/TalAter/awesome-service-workers/blob/master/contributing.md).
 
-## Contents
 
-- [Must Reads](#must-reads)
-- [Learning Resources](#learning-resources)
-- [Reference](#reference)
-- [Browser Support](#browser-support)
-- [Libraries and Tools](#libraries-and-tools)
-- [Videos](#videos)
-- [Case Studies](#case-studies)
-- [Related Technologies](#related-technologies)
 
 ## Must Reads
 

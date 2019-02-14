@@ -1,22 +1,10 @@
+<div class="github-widget" data-repo="Siilwyn/awesome-pixel-art"></div>
 ## Awesome Pixel Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
 Awesome Pixel Art is a repository specifically dedicated to creating and learning pixel art, as well as providing links that help you get engaged in the community! In pixel art, every placed pixel has importance in creating the envisioned graphic. Below you'll find help links ranging from basic introductory elements to color and animation tutorials. There are plenty of points of inspiration in games, animations and among other artists!
 
-## Contents
-- [Tutorials](#tutorials)
-  - [Basics](#basics)
-  - [Color](#color)
-  - [Animation](#animation)
-- [Inspiration](#inspiration)
-  - [Games](#games)
-  - [Videos](#videos)
-  - [Other](#other)
-- [Community](#community)
-  - [Artists](#artists)
-  - [Hubs](#hubs)
-- [Editors](#editors)
 
 ## Tutorials
 

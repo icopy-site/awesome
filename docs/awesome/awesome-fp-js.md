@@ -1,24 +1,11 @@
+<div class="github-widget" data-repo="stoeffel/awesome-fp-js"></div>
 ## Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated list of awesome [functional programming](https://en.wikipedia.org/wiki/Functional_programming) code and learning resources for JavaScript. As a multi-paradigm programming language, JavaScript can be written in many styles. With these resources we want to help you to make better use of JavaScript’s support for writing programs in a _functional_ way.
 
 Functional programming is a [style of programming](https://wiki.haskell.org/Functional_programming) which models computations as the evaluation of expressions. Contrast this  with imperative programming where programs are composed of statements which change global state when executed. Functional programming typically avoids using mutable state and favors _side-effect free_ functions and _immutable_ data instead. This encourages writing composable and declarative programs that are easy to reason about.
 
-##### Table of Contents
 
-* [Libraries](#libraries)
-  * [Data Structures](#data-structures)
-  * [Algebraic Data Types](#algebraic-data-types)
-  * [Lenses](#lenses)
-* [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
-* [Programming Tools](#programming-tools)
-* [Resources](#resources)
-  * [Books](#books)
-  * [Articles](#articles)
-  * [Videos](#videos)
-  * [Examples and Exercises](#examples-and-exercises)
-* [Community](#community)
-* [Contribution](#contribution)
 
 ## Libraries
 

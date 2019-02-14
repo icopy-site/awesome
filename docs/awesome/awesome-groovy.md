@@ -1,29 +1,10 @@
+<div class="github-widget" data-repo="kdabir/awesome-groovy"></div>
 Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
 Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
 
 
-- [Awesome Groovy](#awesome-groovy)
-    - [Build Tools, Setup and CI](#build-tools-setup-and-ci)
-    - [Concurrency](#concurrency)
-    - [Database](#database)
-    - [Desktop App Frameworks](#rich-applications)
-    - [HTTP](#http)
-    - [IDE and Editor Support](#ide-and-editor-support)
-    - [Testing](#testing)
-    - [Code analysis](#code-analysis)
-    - [Web Frameworks](#web-frameworks)
-    - [Transpilers](#transpilers)
-    - [Static Web](#static-web)
-    - [Language Utilities](#language-utilities)
-    - [File System Utilities](#file-system-utilities)
-    - [File Format DSL](#file-format-dsl)
-    - [Scripting Tools](#scripting-tools)
-    - [Rule Engines](#rule-engines)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
@@ -35,7 +16,6 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
-* [Groovy Grails Tool Suite](https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse) -  Eclipse-based IDE optimized for developing, debugging and executing Groovy and Grails applications
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
 * [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text

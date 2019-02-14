@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="felipebueno/awesome-PICO-8"></div>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -9,20 +10,7 @@
 
  PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in a subset of [Lua](https://www.lua.org/) commands and provides simple built-in tools for creating your own cartridges.
 
-## Contents
 
-- [Community](#community)
-- [Resources](#resources)
-- [Tutorials](#tutorials)
-- [Tools](#tools)
-- [Text Editors Language Support](#text-editors-language-support)
-- [Hacks](#hacks---undocumented-pico-8-features)
-- [Articles & Posts](#articles--posts)
-- [Podcasts](#podcasts)
-- [Talks](#talks)
-- [Clones](#clones)
-- [Contributing](#i-want-to-contribute)
-- [License](#license)
 
 ## Community
 

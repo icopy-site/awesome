@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mre/awesome-static-analysis"></div>
  ![Logo](https://raw.githubusercontent.com/mre/awesome-static-analysis/master/awesome.png)
 
 > Static program analysis is the analysis of computer software that is performed without actually executing programs — [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
@@ -10,9 +11,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 Also check out the sister project, [awesome-dynamic-analysis](https://github.com/mre/awesome-dynamic-analysis).  
 
-## Table of Contents
 
-#### [Programming Languages](#programming-languages-1)
 
 <details>
  <summary>Show languages</summary>
@@ -55,31 +54,9 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
   </ul>
 </details>
 
-#### [Multiple languages](#multiple-languages-1)
 
-#### [Other](#other-1)
 
-  - [Build tools](#build-tools)
-  - [Binaries](#binaries)
-  - [Containers](#containers)
-  - [Config Files](#config-files)
-  - [Configuration Management](#configuration-management)
-  - [CSS](#css)
-  - [Gherkin](#gherkin)
-  - [HTML](#html)
-  - [IDE Plugins](#ide-plugins)
-  - [LaTeX](#latex)
-  - [Makefiles](#makefiles)
-  - [Markdown](#markdown)
-  - [Mobile](#mobile)
-  - [Packages](#packages)
-  - [Supporting Tools](#supporting-tools)
-  - [Template Languages](#template-languages)
-  - [Translation](#translation)
-  - [Web services](#web-services)
-  - [Writing](#writing)
   
-#### [More Collections](#more-collections-1)
 
 ---
 
@@ -497,7 +474,6 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 * [BinSkim](https://github.com/Microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows portable executables.
 * [Jakstab](https://github.com/jkinder/jakstab) - Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
-* [Manalyze](https://github.com/JusticeRage/Manalyze) - A static analyzer, which checks portable executables for malicious content.
 * [Twiggy](https://github.com/rustwasm/twiggy) - Analyzes a binary's call graph to profile code size. The goal is to slim down binaries.
 
 
@@ -637,7 +613,6 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 * [linters](https://github.com/mcandre/linters) - An introduction to static code analysis
 * [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -  A reviewed list of useful PHP static analysis tools
-* [Tools for C/C++](https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-c-c-peerlyst?utm_source=twitter&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) - A list of static analysis tools for C/C++
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) -  A list of tools for static code analysis.
 
 ## License

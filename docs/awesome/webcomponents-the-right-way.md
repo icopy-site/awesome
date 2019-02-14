@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mateusortiz/webcomponents-the-right-way"></div>
 ## Web Components the Right Way
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,38 +7,7 @@
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
-## Contents
 
-- [Specifications](#specifications)
-- [Introduction](#introduction)
-- [Custom Elements](#custom-elements)
-- [Shadow DOM](#shadow-dom)
-- [HTML Templates](#html-templates)
-- [Polyfills](#polyfills)
-- [Best Practices](#best-practices)
-- [Use Cases](#use-cases)
-- [Accessibility](#accessibility)
-- [Discover](#discover)
-- [Libraries](#libraries)
-  - [Class Based](#class-based)
-  - [Functional](#functional)
-  - [Other](#other)
-- [Component Libraries](#component-libraries)
-- [Frameworks](#frameworks)
-  - [Overview](#overview)
-  - [Angular](#angular)
-  - [Vue](#vue)
-- [Compilers](#compilers)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [History](#history)
-- [Future](#future)
-  - [CSS Shadow Parts](#css-shadow-parts)
-  - [Form-associated Custom Elements](#form-associated-custom-elements)
-  - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
-- [Who to follow](#who-to-follow)
-- [License](#license)
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 

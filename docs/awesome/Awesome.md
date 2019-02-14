@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
@@ -47,31 +48,7 @@
 <br>
 
 
-## Contents
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Platforms
@@ -450,7 +427,6 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 
 
-## Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.

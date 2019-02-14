@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jaywcjlove/awesome-mac"></div>
 ## Awesome Mac
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
@@ -22,64 +23,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
 
-## Contents
 
-+ [Reading and Writing Tools](#reading-and-writing-tools)
-    - [Text Editors](#text-editors)
-    - [Office](#office)
-    - [Markdown Tools](#markdown-tools-)
-    - [Note-taking](#note-taking)
-    - [Ebooks](#ebooks)
-    - [RSS](#rss)
-    - [Others](#others)
-+ [Developer Tools](#developer-tools)
-    - [IDEs](#ides)
-    - [Developer Utilities](#developer-utilities)
-    - [Regular Expression Editors](#regular-expression-editors)
-    - [API Development and Analysis](#api-development-and-analysis)
-    - [Network Analysis](#network-analysis)
-    - [Command Line Tools](#command-line-tools-)
-    - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
-    - [Version Control](#version-control)
-    - [Virtualization](#virtualization)
-    - [Databases](#databases)
-+ [Design and Product](#design-and-product)
-    - [Design Tools](#design-tools)
-    - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
-    - [Screencapturing Software](#screencapturing-software)
-    - [Other Tools](#other-tools)
-+ [Communication](#communication)
-    - [Collaboration and Team Tools](#collaboration-and-team-tools)
-    - [Email Clients](#email-clients)
-    - [File Sharing](#file-sharing)
-+ [Data Recovery Tools](#data-recovery-tools)
-+ [Audio and Video Tools](#audio-and-video-tools)
-+ [Download Management Tools](#download-management-tools)
-+ [Cloud Storage](#cloud-storage)
-+ [Input Methods](#input-methods)
-+ [Browsers](#browsers)
-+ [Translation Tools](#translation-tools)
-+ [Security Tools](#security-tools)
-+ [Proxy and VPN Tools](#proxy-and-vpn-tools)
-+ [Utilities](#utilities)
-    - [Clipboard Tools](#clipboard-tools)
-    - [Menu Bar Tools](#menu-bar-tools)
-    - [File Organization Tools](#file-organization-tools)
-    - [General Tools](#general-tools)
-    - [To-Do Lists](#to-do-lists)
-    - [Productivity](#productivity)
-    - [Window Management](#window-management)
-    - [Password Management](#password-management)
-    - [Finder Tools](#finder-tools)
-    - [Quality of Life Improvements](#quality-of-life-improvements)
-    - [System Related Tools](#system-related-tools)
-+ [Gaming Software](#gaming-software)
-+ [Remote Login Software](#remote-login-software)
-+ [QuickLook Plugins](#quickLook-plugins-)
-+ [Third Party App Markets](#third-party-app-markets)
-    - [Package Managers](#package-managers)
-+ [Mac App Download Sites](#mac-app-download-sites)
-+ [Podcasts](#podcasts)
 
 ## Reading and Writing Tools
 
@@ -259,7 +203,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
-* [ccat](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
@@ -571,7 +514,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [qBittorrent](https://www.qbittorrent.org/) - A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
-* [You-Get](https://you-get.org/) - Tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
 
 ## Cloud Storage
@@ -774,7 +716,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [FruitJuice](http://fruitjuiceapp.com) - Will let you know how long to stay unplugged each day to keep your battery healthy. [![App Store][app-store Icon]](https://itunes.apple.com/app/fruitjuice-battery-health/id671736912)
 * [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon]
 * [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
-* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - HTML 5 video player. Keep your Mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
@@ -793,7 +734,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
-* [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
 
 ## Gaming Software
 
@@ -849,7 +789,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 * [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 
-**[⬆ back to top](#contents)**
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"

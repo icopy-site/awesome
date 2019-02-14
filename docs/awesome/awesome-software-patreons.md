@@ -1,23 +1,12 @@
+<div class="github-widget" data-repo="uraimo/awesome-software-patreons"></div>
 ## Awesome Software Patreons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
 > A curated list of awesome programmers and software-related Patreon accounts.
 
 Help individual programmers or open source projects funding the development of your favorite software subscribing to their Patreon accounts. A tangible way to give back to the open source community.
 
-### Contents
 
-- [Open Source Projects](#open-source-projects)
   - [Libraries](#libraries) 
-  - [Operating Systems](#operating-systems)
-  - [Games](#games)
-- [People Doing Open Source Work](#people-doing-open-source-work)
-- [Other Kinds of Content](#other-kinds-of-content)
-  - [Articles and Tutorials](#articles-and-tutorials)
-  - [Videos](#videos)
-  - [Podcasts](#podcasts)
-  - [Newsletters](#newsletters)
-- [Open Source Art](#open-source-art)
-- [Hardware related](#hardware-related)
 
 
 
@@ -182,7 +171,6 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Øyvind Kolås](https://www.patreon.com/pippin) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
 
 
-## Other kinds of content
 _Articles, videos, podcasts, etc..._
 
 ### Articles and Tutorials

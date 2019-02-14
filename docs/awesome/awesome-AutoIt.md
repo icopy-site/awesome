@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="J2TeaM/awesome-AutoIt"></div>
 ## Awesome AutoIt
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,46 +10,11 @@
 
 Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table Of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Awesome AutoIt](#awesome-autoit-)
-  - [UDF/Libraries](#udflibraries)
-    - [Automation](#automation)
-      - [Browsers](#browsers)
-      - [Microsoft Office](#microsoft-office)
-      - [OpenOffice](#openoffice)
-    - [Databases and web connections](#databases-and-web-connections)
-    - [Data compression](#data-compression)
-    - [Encryption and hash](#encryption-and-hash)
-    - [GUI Additions](#gui-additions)
-    - [Controls](#controls)
-    - [Hardware](#hardware)
-    - [Information gathering](#information-gathering)
-    - [Internet protocol suite](#internet-protocol-suite)
-    - [Maths](#maths)
-    - [Media](#media)
-    - [Graphics and image](#graphics-and-image)
-    - [Players](#players)
-    - [Sound](#sound)
-    - [PDF](#pdf)
-    - [Security](#security)
-    - [Social Media and other Website API](#social-media-and-other-website-api)
-    - [Windows](#windows)
-    - [Misc](#misc)
-  - [Tools](#tools)
-  - [Useful Resources](#useful-resources)
-    - [Documents](#documents)
-    - [Websites](#websites)
-    - [Guides/Tutorials](#guidestutorials)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Syntax Highlighter](#syntax-highlighter)
-  - [License](#license)
-  - [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

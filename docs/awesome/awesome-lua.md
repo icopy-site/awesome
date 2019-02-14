@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="LewisJEllis/awesome-lua"></div>
 ## Awesome Lua [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of quality Lua [packages](#packages) and [resources](#resources).
@@ -6,52 +7,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 
 ## Packages
-- [Implementations, Interpreters, and Bindings](#implementations-interpreters-and-bindings)
-- [Package Managers](#package-managers)
-- [Build Tools and Standalone Makers](#build-tools-and-standalone-makers)
-- [Debugging and Profiling](#debugging-and-profiling)
-- [IDEs and Plugins](#ides-and-plugins)
-- [Utility Belts](#utility-belts)
-- [Game Engines](#game-engines)
-- [Game Development](#game-development)
-- [Logging](#logging)
-- [Web/Networking Platforms](#webnetworking-platforms)
-- [OpenResty](#openresty)
-- [Command-line Utilities](#command-line-utilities)
-- [Concurrency and Multithreading](#concurrency-and-multithreading)
-- [Templating](#templating)
-- [Documentation](#documentation)
-- [Object-oriented Programming](#object-oriented-programming)
-- [File system and OS](#file-system-and-os)
-- [Time and Date](#time-and-date)
-- [Image Manipulation](#image-manipulation)
-- [Digital Signal Processing](#digital-signal-processing)
-- [Hardware and Embedded Systems](###hardware-and-embedded-systems)
-- [Math and Scientific Computing](#math-and-scientific-computing)
-- [Parsing and Serialization](#parsing-and-serialization)
-- [Humanize](#humanize)
-- [Compression](#compression)
-- [Cryptography](#cryptography)
-- [Network](#network)
-- [Data Stores](#data-stores)
-- [Message Brokers](#message-brokers)
-- [Testing](#testing)
-- [Foreign Function Interfaces](#foreign-function-interfaces)
-- [Analysis Tools and ASTs](#analysis-tools-and-asts)
-- [Experimental, etc](#experimental-etc)
-- [Scriptable by Lua](#scriptable-by-lua)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Resources
-- [Community](#community)
-- [References](#references)
-- [Style Guides](#style-guides)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Talks & Slides](#talks--slides)
-- [Books](#books)
-- [Other Lists](#other-lists)
 
 
 ### Implementations, Interpreters, and Bindings

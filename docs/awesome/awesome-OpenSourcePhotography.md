@@ -1,34 +1,10 @@
+<div class="github-widget" data-repo="ibaaj/awesome-OpenSourcePhotography"></div>
 ## Awesome-OpenSourcePhotography
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 
-- [General](#general)
-- [Camera Firmware Mods](#camera-firmware-mods)
-- [Libraries](#libraries)
-	- [Canon](#canon)
-	- [GoPro](#gopro)
-	- [Sony](#sony)
-- [Utilities](#utilities)
-- [RAW image developers](#raw-image-developers)
-- [HDR Specific Software](#hdr-specific-software)
-- [Panorama Stitching](#panorama-stitching)
-- [Photo Organizers](#photo-organizers)
-- [EXIF Editors](#exif-editors)
-- [Photo Downloaders](#photo-downloaders)
-- [Camera Tetherers](#camera-tetherers)
-- [Monitor Color Correction](#monitor-color-correction)
-- [Alternative Image Viewers](#alternative-image-viewers)
-- [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#communities)
-- [Resources](#resources)
-- [Video](#video)
-	- [General tools](#general-tools)
-	- [Compositing software](#compositing-software)
-	- [Video Libraries](#video-libraries)
-- [Scripts](#scripts)
-	- [Video to Panorama](#video-to-panorama)
 
 ## General
 

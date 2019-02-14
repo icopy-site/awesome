@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ciandcd/awesome-ciandcd"></div>
 ## ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
@@ -10,33 +11,6 @@ continuous delivery
 software integration  
 devops  
 
-- [ciandcd](#ciandcd)
-- [Theory](#theory)
-- [Build And Release System](#build-and-release-system)
-- [Online Build System](#online-build-system)
-- [Infrastructure](#infrastructure)
-- [dev env](#dev-env)
-- [Source Code Management](#source-code-management)
-- [Code Review](#code-review)
-- [Build](#build)
-- [Static Check](#static-check)
-- [Dynamic Check](#dynamic-check)
-- [Performance Analysis](#performance-analysis)
-- [Coverage](#coverage)
-- [Testing](#testing)
-- [Package](#package)
-- [Deploy](#deploy)
-- [Delivery](#delivery)
-- [Provisioning Tools](#provisioning-tools)
-- [Web Server](#web-server)
-- [Applications And Container](#applications-and-container)
-- [OS And Shell](#os-and-shell)
-- [Database Version Control](#database-version-control)
-- [Useful Sites](#useful-sites)
-- [Conference And Submit](#conference-and-submit)
-- [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contact](#contact)
 
 ## Theory
 The theory for continuous integration and continuous deliver  
@@ -219,7 +193,6 @@ The tools for software delivery
 * [archiva](http://archiva.apache.org/index.cgi)  Apache Archiva™ is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT  
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
-* [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
 * [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
 * [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 

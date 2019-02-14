@@ -1,4 +1,4 @@
-## awesome npm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+<div class="github-widget" data-repo="sindresorhus/awesome-npm"></div>
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
@@ -7,17 +7,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
 
-## Contents
 
-- [Articles](#articles)
-- [Tools](#tools)
-- [Packages](#packages)
-- [Clients](#clients)
-- [Tips](#tips)
-- [FAQ](#faq)
-- [Community](#community)
-- [Documentation](#documentation)
-- [Support](#support)
 
 
 ## Articles

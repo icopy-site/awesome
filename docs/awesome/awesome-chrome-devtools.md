@@ -1,18 +1,9 @@
+<div class="github-widget" data-repo="ChromeDevTools/awesome-chrome-devtools"></div>
 ## Awesome chrome-devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
-## Contents
 
-- [Learning](#learning)
-- [DevTools as an IDE](#devtools-as-an-ide)
-- [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
-- [Chrome DevTools Protocol](#chrome-devtools-protocol)
-- [Protocol Driver Libraries](#protocol-driver-libraries)
-- [Developing with the protocol](#developing-with-the-protocol)
-- [Browser Adapters](#browser-adapters)
-- [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
-- [DevTools Extensions](#devtools-extensions)
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.

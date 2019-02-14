@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Tom2718/Awesome-Ethereum"></div>
 <br/>
 <div align="center">
   <img width="250px" src="https://raw.githubusercontent.com/Tom2718/Awesome-Ethereum/master/./project_logo.jpg">
@@ -16,21 +17,7 @@ Ethereum is an open-source, blockchain and smart contract computing platform.
 Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
 
 
-## Contents
 
-1. [Documentation](#documentation)
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-8. [Wallets](#wallets)
-9. [Blockchain Utilities](#blockchain-utilities)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
 
 
 ## Documentation

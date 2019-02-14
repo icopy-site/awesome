@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Solido/awesome-flutter"></div>
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](http://flutter.io)
 
 <p align="center">
@@ -42,20 +43,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
 </tr></table></div>
 
-## Contents
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Components](#components)
-- [Navigation](#navigation)
-- [Template](#templates)
-- [Plugins](#plugins)
-- [Frameworks](#frameworks)
-- [Open Source Apps](#open-source-apps)
-- [Utilities](#utilities)
-- [Community](#community)
-- [Books](#books)
-- [Bonus](#bonus)
 
 ## Articles
 
@@ -222,7 +210,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [SimpleAuth](https://github.com/Clancey/simple_auth) [82⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey).
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth-> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
 
-### Text & Rich Content
 
 - [Markdown](https://github.com/flutter/flutter_markdown) [184⭐] - Markdown renderer for Flutter. It supports the original format, but no inline html.
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) [69⭐] - Text editor with style by [Lung Razvan](https://github.com/long1eu).

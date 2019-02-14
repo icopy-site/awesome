@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="donnemartin/awesome-aws"></div>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
@@ -36,104 +37,6 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ## Index
 
-* [SDKs and Samples](#sdks-and-samples)
-    * [Android](#android-sdk)
-    * [C++](#c-sdk)
-    * [Clojure](#clojure-sdk)
-    * [Go](#go-sdk)
-    * [iOS](#ios-sdk)
-    * [IoT](#iot-sdk)
-    * [Java](#java-sdk)
-    * [JavaScript](#javascript-sdk)
-    * [Haskell](#haskell-sdk)
-    * [Perl](#perl-sdk)
-    * [PHP](#php-sdk)
-    * [Python](#python-sdk)
-    * [Ruby](#ruby-sdk)
-    * [Rust](#rust-sdk)
-    * [Scala](#scala-sdk)
-    * [Xamarin](#xamarin-sdk)
-    * [Unity](#unity-sdk)
-    * [.NET](#net-sdk)
-* [Command Line Tools](#command-line-tools)
-    * [Universal Command Line Interface](#universal-command-line-interface)
-    * [Windows PowerShell](#windows-powershell)
-* [IDE Toolkits](#ide-toolkits)
-    * [Eclipse Toolkit](#eclipse-toolkit)
-    * [Visual Studio Toolkit](#visual-studio-toolkit)
-* [Open Source Repos](#open-source-repos)
-    * [API Gateway](#api-gateway)
-    * [CLI](#cli)
-    * [CloudFormation](#cloudformation)
-    * [CloudSearch](#cloudsearch)
-    * [CloudTrail](#cloudtrail)
-    * [CloudWatch](#cloudwatch)
-    * [Code Deploy](#code-deploy)
-    * [Code Pipeline](#code-pipeline)
-    * [Cognito](#cognito)
-    * [Data Pipeline](#data-pipeline)
-    * [Device Farm](#device-farm)
-    * [DynamoDB](#dynamodb)
-    * [Elastic Beanstalk](#elastic-beanstalk)
-    * [Elastic Container Service](#elastic-container-service)
-    * [Elastic File System](#elastic-file-system)
-    * [Elastic MapReduce](#elastic-mapreduce)
-    * [Elastic Search](#elastic-search)
-    * [Elasticache](#elasticache)
-    * [Glacier](#glacier)
-    * [Kinesis](#kinesis)
-    * [Lambda](#lambda)
-    * [Machine Learning](#machine-learning)
-    * [Mobile Analytics](#mobile-analytics)
-    * [OpsWorks](#opsworks)
-    * [Redshift](#redshift)
-    * [Route 53](#route-53)
-    * [S3](#s3)
-    * [SNS](#sns)
-    * [SQS](#sqs)
-    * [Data](#data)
-    * [DevOps](#devops)
-    * [Security](#security)
-    * [Accompanying](#accompanying-repos)
-    * [Miscellaneous](#miscellaneous-repos)
-* [Guides, Books, Documentation, and Training](#guides-books-documentation-and-training)
-    * [Getting Started Guides](#getting-started-guides)
-    * [General Guides](#general-guides)
-    * [Books](#books)
-    * [Whitepapers](#whitepapers)
-    * [Documentation](#documentation)
-    * [Training](#training)
-    * [Case Studies: Powered by AWS](#case-studies-powered-by-aws)
-* [Social](#social)
-    * [Blogs](#blogs)
-    * [Twitter Influencers](#twitter-influencers)
-    * [Facebook Pages](#facebook-pages)
-    * [YouTube Channels](#youtube-channels)
-    * [LinkedIn Groups](#linkedin-groups)
-    * [Subreddits](#subreddits)
-    * [Conferences](#conferences)
-* [Latest KPIs and Stats](#latest-kpis-and-stats)
-* [Appendix of Core Services](#appendix-of-core-services)
-    * [Services in Plain English](#services-in-plain-english)
-    * [Compute](#compute-services)
-    * [Networking](#networking-services)
-    * [Enterprise Applications](#enterprise-applications)
-    * [Analytics](#analytics-services)
-    * [Artificial Intelligence](#artificial-intelligence)
-    * [Management Tools](#management-tools)
-    * [Security and Identity](#security-and-identity-services)
-    * [Internet of Things](#internet-of-things-service)
-    * [Mobile Services](#mobile-services)
-    * [Storage and Content Delivery](#storage-and-content-delivery-services)
-    * [Databases](#databases)
-    * [Application Services](#application-services)
-    * [Developer Tools](#developer-tools)
-    * [Miscellaneous Services](#miscellaneous-services)
-* [Contributing](#contributing)
-* [Credits](#credits)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contact Info](#contact-info)
-* [License](#license)
 
 ## SDKs and Samples
 
@@ -736,7 +639,7 @@ Community Repos:
 * [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 * [goadapp/goad :fire::fire:fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
-* [jeremydaly/lambda-api :fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
+* [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
@@ -1251,7 +1154,6 @@ Community Groups:
 AWS Conferences:
 
 * [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
-* [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
 * [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
 
 Community Conferences:
@@ -1377,9 +1279,7 @@ Community Conferences:
 * [Pinpoint](https://aws.amazon.com/pinpoint/) - Targeted push notifications for mobile apps.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
-### Storage and Content Delivery Services
 
-* [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
 * [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
 * [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
 * [Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
@@ -1401,7 +1301,6 @@ Community Conferences:
 
 * [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
-* [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
 * [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
 * [Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
 * [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - Provides an interface for micropayments.

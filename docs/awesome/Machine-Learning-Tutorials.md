@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ujjwalkarn/Machine-Learning-Tutorials"></div>
 ## Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
@@ -9,7 +10,6 @@
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
 
 
-## Contents
 - [Introduction](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)

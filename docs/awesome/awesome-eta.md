@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sfischer13/awesome-eta"></div>
 ## Awesome Eta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
@@ -6,31 +7,11 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-eta/blob/master/contributing.md) before contributing.*
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Introduction](#introduction)
-  - [Overview](#overview)
-  - [First Steps](#first-steps)
-  - [Comparisons](#comparisons)
-  - [Compatibility](#compatibility)
-  - [Official Resources](#official-resources)
-- [Community](#community)
-- [Twitter](#twitter)
-- [Information](#information)
-  - [Articles](#articles)
-  - [Blogs](#blogs)
-  - [Conferences](#conferences)
-  - [Courses](#courses)
-  - [Talks](#talks)
-- [Tools](#tools)
-- [Sample Applications](#sample-applications)
-  - [Android](#android)
-  - [Web](#web)
-  - [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

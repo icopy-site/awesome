@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="wbkd/awesome-d3"></div>
 ## Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.

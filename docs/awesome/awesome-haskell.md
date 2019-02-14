@@ -1,48 +1,9 @@
+<div class="github-widget" data-repo="krispo/awesome-haskell"></div>
 Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
 An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) projects line.
 
-- [Awesome Haskell](#awesome-haskell)
-    - [_Basics_](#basics)
-    - [Algorithmics](#algorithmics)
-    - [Audio, Music & Sound](#audio-music--sound)
-    - [Category Theory](#category-theory)
-    - [Compilers](#compilers)
-    - [Concurrency & Parallelism](#concurrency--parallelism)
-    - [Configuration](#configuration)
-    - [Cryptography & Hashing](#cryptography--hashing)
-    - [Data Access](#data-access)
-    - [Data Formats](#data-formats)
-    - [Data Science](#data-science)
-    - [Database](#database)
-    - [Development Tools](#development-tools)
-    - [Documentation](#documentation)
-    - [Distributed Computing](#distributed-computing)
-    - [Editors](#editors)
-    - [Extensions](#extensions)
-    - [Games](#games)
-    - [GUI](#gui)
-    - [Graphics](#graphics)
-    - [Network](#network)
-    - [Number Theory](#number-theory)
-    - [Web / Frameworks](#web--frameworks)
-    - [Text Processing](#text-processing)
-    - [Messaging](#messaging)
-    - [Languages](#languages)
-    - [Operating Systems](#operating-systems)
-    - [Platforms](#platforms)
-    - [Programming](#programming)
-    - [Science](#science)
-    - [Streaming Processing](#streaming-processing)
-- [Resources](#resources)
-    - [Websites](#websites)
-    - [Community](#community)
-    - [Tutorials](#tutorials)
-    - [Courses](#courses)
-    - [Conferences](#conferences)
-    - [Packages](#packages)
-- [License](#license)
 
 
 ## _Basics_
@@ -59,7 +20,6 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 * [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
-* [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ## Algorithmics
 
@@ -279,7 +239,6 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Interfaces to Frameworks]() - Official Website Resources.
 * [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - Official Website Resources.
 * [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) - Official Website Resources.
-* [CMS](https://wiki.haskell.org/Web/Content_Management) - Official Website Resources for Content Management Systems (CMS).
 
     ---
 * [Web](http://hackage.haskell.org/packages/#cat:Web) - a collaborative Hackage list of frameworks, libraries, ...

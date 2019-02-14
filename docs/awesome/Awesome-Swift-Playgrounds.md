@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
 ## Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![147 playgrounds](https://img.shields.io/badge/Playgrounds:-147-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
 
 > A curated list of awesome Swift playgrounds.
@@ -24,31 +25,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ⏳ = Pre-Swift 3 Playground
 
-### Contents
 
-- [PlaygroundBooks](#playgroundbooks)
-- [Learning Swift](#learning-swift)
-- [Learning Swift: Advanced Topics](#learning-swift-advanced-topics)
-  - [Design Patterns](#design-patterns)
-  - [Protocol Oriented Programming](#protocol-oriented-programming)
-  - [Functional Reactive Programming](#functional-reactive-programming)
-- [Apple's Playgrounds](#apples-playgrounds)
-- [Playgrounds about Playgrounds](#playgrounds-about-playgrounds)
-- [Playgrounds from Playgroundbooks](#playgrounds-from-playgroundbooks)
-- [Theoretical Computer Science](#theoretical-computer-science)
-    - [Algorithms and Data Structures](#algorithms-and-data-structures)
-    - [Languages](#languages)
-    - [Machine Learning](#machine-learning)
-- [UIKit And Graphics](#uikit-and-graphics)
-  - [Core Image](#core-image)
-  - [Metal](#metal)
-  - [Animations](#animations)
-  - [SpriteKit](#spritekit)
-- [Audio](#audio)
-- [Mathematics](#mathematics)
-- [Libraries and APIs](#libraries-and-apis)
-- [Playground sets](#playground-sets)
-- [Miscellaneous](#miscellaneous)
 
 
 ## PlaygroundBooks
