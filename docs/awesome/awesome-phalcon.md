@@ -5,14 +5,14 @@
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
- 精选的Phalcon库和资源的精选列表.  灵感来自 [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
 
-请快速了解一下 [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/CONTRIBUTING.md)  第一.  谢谢大家 [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors) ;  你摇滚！
+Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
-加入我们吧 [Discord](https://discordapp.com/invite/kRc2N2M) 与其他awesome-phalcon维护者聊天！
+Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
 
@@ -21,348 +21,348 @@
 
 ## ACL
 
-*访问控制列表.*
+*Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - 基于VökuróACR理念的插件
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 
 ## Application Skeleton
 
-*各种应用程序骨架.*
+*Various application skeletons.*
 
-* [Album O'Rama](https://github.com/phalcon/album-o-rama) -  Phalcon框架的示例模块化应用程序
-* [Base App](https://github.com/mruz/base-app) -  Phalcon Framework中的基础应用程序
-* [INVO Application](https://github.com/phalcon/invo) -  Phalcon框架的示例应用程序
-* [Lightning](https://github.com/zxz054321/lightning/) -  Lightning是一个高性能的框架，具有优雅的语法，位于Phalcon之上.
-* [MVC](https://github.com/phalcon/mvc) -  Phalcon MVC文件结构的示例
-* [nest](https://github.com/nexik/nest) - 用于快速应用程序开发的Phalcon SOLID Bootstrap
-* [phalanx](https://github.com/Swader/phalanx) -  Phalcon Framework和Angular的入门应用程序
-* [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - 用于构建大型Phalcon应用程序的模板
-* [Phalcon Composer](https://github.com/xxtime/phalcon) -  Phalcon与Composer支持MySql MongoDb Redis，干净+美观
-* [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - 目前正在使用Phalcon Framework和Gumby 2 for RAD的项目
-* [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - 带胡子的Phalcon HMVC骨架
-* [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - 使用CRUD代码生成器快速开发Web应用程序
-* [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) -  Phalcon Framework上构建美容应用程序的应用程序模板
-* [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - 用于Angular，Phalcon和Bootstrap的非单页实现的Boilerplate
-* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) -  Phalcon Framework + Grunt + Composer + Bower
-* [Solid Layer](https://github.com/solid-layer/solid-layer) - 在Phalcon Framework下构建的框架/大型包装器
-* [Vökuró](https://github.com/phalcon/vokuro) -  Phalcon Framework的示例应用程序（Acl，Auth，安全性）
-* [Webird](https://github.com/perchlayer/webird) - 创建Webird是为了将最新的PHP和Node.js创新合并到一个应用程序堆栈中
-* [phalconMvc](https://github.com/kcloze/phalconMvc) - 一个简单的Phalcon骨架，带有子控制器，cli，mvc +服务
+* [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
+* [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
+* [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+* [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
+* [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon Framework and Angular
+* [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
+* [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
+* [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon Framework and Gumby 2 for RAD
+* [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
+* [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
+* [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon Framework
+* [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
+* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower
+* [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon Framework
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
+* [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
+* [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
 
 
 ## Authentication & OAuth
 
-*用于实施认证计划的图书馆.*
+*Libraries for implementing authentications schemes.*
 
-* [Padlock](https://github.com/tegaphilip/padlock) - 基于docker的phalcon认证服务器，构建于PHP OAuth 2.0服务器之上
-* [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware)   - 将中间件事件添加到调度程序.  与ACL或自定义身份验证库兼容的通用设计.
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - 用于oAuth2的Phalcon包装 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
+* [Padlock](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+* [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 ## CMS & Blogs
 
 
-* [blog](https://github.com/duythien/blog) - 具有多语言支持的博客项目
-* [giada-www](https://github.com/monocasual/giada-www) - 官方网站 [Giada Loop Machine](https://www.giadamusic.com/)
-* [phalconBlog](https://github.com/eristoddle/phalconBlog) - 使用Phalcon框架的博客
-* [PhalconEye](https://github.com/PhalconEye/phalconeye) -  PhalconEye CMS
-* [Skopy Blog Engine](https://github.com/yuriygr/skopy) - 一个简单的博客引擎，适合那些想要开始学习Phalcon的人
-* [Talon](https://github.com/adamdama/Talon) - 基于Phalcon Framework构建的CMS
-* [Vegas CMF](https://github.com/vegas-cmf) -  Phalcon Framework的Vegas CMF
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - 基于Phalcon Framework的CMS，采用模块化结构
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - 基于Phalcon Framework构建的博客
+* [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
+* [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
+* [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework
+* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS
+* [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
+* [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon Framework
+* [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon Framework
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 
 ## Command Line
 
-*命令行应用程序和工具.*
+*Command line applications & tools.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - 使用杰出的Phalcon Framework为命令行应用程序提供示例bootstraping应用程序
-* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) -  Phalcon的Cron组件
-* [phalcon_cron](https://github.com/temafey/phalcon_cron) - 基于Phalcon Framework的Cron管理器库
-* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - 使用Phalcon Framework构建的命令行应用程序
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon Framework
+* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+* [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon Framework
+* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon Framework
 
 
 ## Dashboard
 
-*管理面板和仪表板.*
+*Admin Panels & Dashboards.*
 
-* [dasshy](https://github.com/phalcon/dasshy) -  Mongo / Phalcon的统计信息显示板
-* [PhalconTime](https://github.com/Videles/PhalconTime) -  TimeKeeping工具/仪表板骨架
+* [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
+* [PhalconTime](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
 ## Debug
 
-*调试和分析工具.*
+*Debug & profiling tools.*
 
-* [dd](https://github.com/phalcon/dd) - 这个包将把`dd`和`dump`助手添加到你的Phalcon应用程序中
-* [PDW](https://github.com/jymboche/phalcon-debug-widget) -  Phalcon应用程序的前端调试器
-* [Phalcon Console](https://github.com/vanchelo/phalcon-console) -  AJAX控制台用于在浏览器中执行PHP代码，具有保存最后一次代码执行的能力
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - 整合 [PHP Debug Bar](http://phpdebugbar.com) 与Phalcon框架
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - 整合 [Whoops](https://filp.github.io/whoops/) 与Phalcon
-* [Prophiler](https://github.com/fabfuel/prophiler) -  PHP Profiler和开发人员工具栏（为Phalcon构建）
+* [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
+* [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
+* [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
+* [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
 ## DI
 
-*依赖注入.*
+*Dependency Injection.*
 
-* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - 依赖注入中自动注册服务的组件
-* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) -  Phalcon Framework的服务加载程序
-* [pidic](https://github.com/phalette/pidic) - 用于Phalcon的Nette依赖注入/容器
+* [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
+* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon Framework
+* [pidic](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
 
 
 ## Docs
 
-*用于doc生成和管理的库.*
+*Libraries for doc generate & management.*
 
-* [kolibri](https://github.com/philippgerard/kolibri) - 基于Phalcon的wiki软件，简单易用
-* [phaldoc](https://github.com/Riu/phaldoc) - 为Phalcon及其他项目的文档创建，翻译和控制更改
+* [kolibri](https://github.com/philippgerard/kolibri) - A Phalcon based wiki software with simplicity in mind
+* [phaldoc](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
 
 
 ## Events
 
-*事件管理.*
+*Event management.*
 
-* [Phact](https://github.com/wandersonwhcr/phact) - 使用Phalcon Framework进行简单的事件传播
+* [Phact](https://github.com/wandersonwhcr/phact) -  A Simple Event Propagation with Phalcon Framework
 
 
 ## Forms
 
-*用于处理表格的图书馆.*
+*Libraries for working with forms.*
 
-* [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - 在“POST”和重定向后保留表单数据
-* [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) -  Phalcon Framework的表单装饰器
-* [phalconCssForm](https://github.com/Zheness/phalconCssForm) - 使用CSS框架生成表单（Bootstrap，Foundation，Pure等）
-* [Superform](https://github.com/encodez/superform) - 灵感来自Laravel请求的简单方法来创建和验证Phalcon 2表单
+* [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - Preserve Form Data after a `POST` and redirect
+* [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon Framework
+* [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
+* [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
 
 
 ## i18n
 
-* i18n和l10n图书馆和服务清单.*
+*List of i18n and l10n libraries and services.*
 
-* [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate)   -  Phalcon翻译服务.  翻译自定义模板部分的简单方法
-* [xgettext-template](https://github.com/gmarty/xgettext) - 使用与命令行程序相同的命令行程序从Volt模板中提取gettext消息 [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
-* [Phalcon Translation Module](https://github.com/uLow/phalcon-translate)   -  Phalcon翻译模块.  轻松地为您的项目翻译.  包括伏特集成.
+* [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+* [Phalcon Translation Module](https://github.com/uLow/phalcon-translate) - Phalcon Translation Module. Easy way to have translations for your projects. Includes volt integration.
 
 
 ## Integration
 
-*与第三方服务整合*
+*Integration with third party services*
 
-* [phalcon-logentries](https://github.com/phalcon/phalcon-logentries) - 发送日志消息到 [Logentries](https://logentries.com/) 日志管理服务
+* [phalcon-logentries](https://github.com/phalcon/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
 ## Mail
 
-*邮件服务.*
+*Mail services.*
 
-* [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) -  Phalcon邮件服务
+* [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
 * [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
-* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) -  Phalcon Framework的Mandrill包装器
-* [sendmail](https://github.com/duythien/sendmail) - 使用Phalcon Framework和Swift发送确认电子邮件
+* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
+* [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon Framework and Swift
 
 
 ## Media
 
-*用于处理图像和其他媒体的库.*
+*Libraries for manipulating images & other media.*
 
-* [nova](https://github.com/nohatssir/nova) -  PHP和Phalcon Framework中的媒体管理器项目
-* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader)   - 处理和下载Phalcon项目的文件.  允许多个文件，过滤器等
+* [nova](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon Framework
+* [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
 
 
 ## Miscellaneous
 
-*这些图书馆放在这里，因为其他类别似乎都不合适*
+*These libraries were placed here because none of the other categories seemed to fit*
 
-* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - 用于在Phalcon 2+中构建站点面包屑的强大而灵活的组件.
-* [Feedback](https://quasipickle.github.io/feedback/) - 旨在用作Phalcon内置Flash和消息功能的替代品
-* [Incubator](https://github.com/phalcon/incubator) - 用于发布/共享/试验新的适配器，原型或功能的存储库，可以将其整合到Phalcon Framework中
-* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - 为Phalcon框架提供扩展的企业功能
-* [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - 极简主义的包装，您可以轻松地集成reCAPTCHA
-* [phalcon-widget](https://github.com/serebro/phalcon-widget) -  Phalcon应用程序的小部件
-* [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - 使用Phalcon + MySQL构建的PHP IP / CIDR黑名单库
-* [Phalcony](https://github.com/ovr/phalcony) - 用于扩展Phalcon Framework基础功能的库
-* [yarak](https://github.com/zachleigh/yarak) -  Laravel启发了Phalcon devtools
+* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+* [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon framework
+* [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
+* [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
+* [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
+* [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework
+* [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
 
 
 ## Networking
 
-*用于处理网络各层的图书馆*
+*Libraries for working with various layers of the network*
 
-* [phalcon-expressive](https://github.com/theDisco/phalcon-expressive) -  Zend Expressive的Phalcon 2集成
+* [phalcon-expressive](https://github.com/theDisco/phalcon-expressive) - Phalcon 2 integration for Zend Expressive
 
 
 ## ORM
 
-*实现对象关系映射或数据映射技术的库.*
+*Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
-* [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - 根据Phalcon框架内的调度程序参数自动获取模型
-* [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) -  Phalcon Framework MSSQL PDO数据库适配器
-* [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) -  Phalcon的Easy Repository模式
-* [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) -  Phalcon的数据库播种器组件
+* [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
+* [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter
+* [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
+* [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
 ## ODM
 
-*实现Object-Document Mapper技术的库.*
+*Libraries that implement Object-Document Mapper techniques.*
 
-* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - 一个 [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) 对于扩展`Phalcon \ Mvc \ Collection`的类
+* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## Provisioning
-*为Phalcon应用程序配置系统的工具.*
+*Tools for provisioning a system for a Phalcon application.*
 
-* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - 在Debian / Ubuntu中安装Phalcon Framework的可靠角色
-* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - 在Debian中安装Phalcon Framework的可靠角色（提供PHP 5.6和PHP 7.0包）
-* [setupify](https://github.com/perch-foundation/setupify) - 用于配置Zephir和Phalcon系统以进行部署或开发的bash脚本集合
+* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
+* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
+* [setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
 
 ## RESTful
 
-*代表性的国家转移.*
+*Representational state transfer.*
 
-* [Phalcon API](https://github.com/phalcon/phalcon-api) - 使用Phalcon实现API应用程序
-* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) -  Phalcon Framework的REST应用程序示例开发
-* [Phalcon REST](https://github.com/redound/phalcon-rest) -  Phalcon REST库
-* [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - 该项目使用Phalcon Micro Framework for REST API和JWT和ACL
-* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - 基于Phalcon Framework创建强大Web服务的基础项目
-* [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - 具有自己的OAuth2服务器的完整Phalcon REST API示例
-* [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) -  Phalcon REST Boilerplate
-* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - 结合Phalcon + JSON的参考应用程序：API + Composer
-* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - 一个作曲家包，旨在帮助您在Phalcon中创建JSON：API
-* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - 使用Phalcon Framework的API的基础项目
-* [phest](https://github.com/ovide/phest) -  Phalcon的REST API库
-* [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - 使用Phalcon Micro Application的PHP HMAC Restful API
-* [PhREST API](https://github.com/phrest/api) -  Phalcon Framework REST API包
-* [rest-seed](https://github.com/michaelkrone/rest-seed) - 支持REST API应用程序Phalcon（多模块），Angular和Bootstrap（使用Yeoman，Bower和Grunt）
+* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon
+* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon Framework
+* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library
+* [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL
+* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon Framework
+* [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
+* [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate
+* [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer
+* [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon
+* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon Framework
+* [phest](https://github.com/ovide/phest) - REST API library for Phalcon
+* [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
+* [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package
+* [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
 ## Routing
 
-*各种路由库和扩展.*
+*Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - 自动加载模块的简单方法，无需复杂的路由定义
+* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 
 ## Scaffolding
 
-*各种脚手架工具.*
+*Various scaffolding tools.*
 
-* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - 用于Phalcon多模块应用的Yeoman发生器
-* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) -  Bootstrap组件，用于快速开始在Phalcon Framework上开发应用程序
+* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
+* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon Framework
 
 
 ## Searching
 
-*搜索工具和库.*
+*Searching tools & libraries.*
 
-* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) -  Phalcon的Elasticsearch索引器组件
-* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - 用于DataTables的Phalcon适配器
-* [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) -  Phalcon + Elastic
-* [Searcher](https://github.com/stanislav-web/Searcher) -  Phalcon Framework的数据库搜索者
+* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
+* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
+* [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
+* [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon Framework
 
 
 ## Shopping
 
-*购物车和网上商店服务.*
+*Shopping carts and online store services.*
 
-* [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) -  Phalcon Framework的完整购物车系统
-* [phasty](https://github.com/chaban/phasty) -  Phalcon框架上的购物车
-* [Cashier](https://github.com/duythien/cashier) -  Phalcon收银员
-* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - 基于Phalcon Framework的电子商务CMF
+* [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon Framework
+* [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon Framework
+* [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
+* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon Framework
 
 
 ## SMS
 
-*短信服务和图书馆.*
+*SMS services & libraries.*
 
-* [Multiple SMS Sender factory](https://github.com/stanislav-web/phalcon-sms-factory) -  Phalcon SMS Factory
+* [Multiple SMS Sender factory](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
 
 
 ## Talks
 
-*会议，聊天，论坛等.*
+*Conferences, Chats, Forums, etc..*
 
-* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - 使用Phalcon Framework进行经典聊天开发示例
-* [phalcon-tip](https://github.com/duythien/phalcon-tip) -  Phalcon Tip网站代码的来源
-* [Phanbook](https://github.com/phanbook/phanbook/) - 代码phanbook.com网站的来源
-* [Phosphorum](https://github.com/phalcon/forum) - 官方Phalcon论坛的来源
+* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon Framework
+* [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
+* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 
 ## Templating
 
-*用于模板化的库和工具.*
+*Libraries and tools for templating.*
 
-* [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) -  Phalcon框架的Jade模板引擎
-* [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - 使用XSLT作为Phalcon Framework的模板引擎的适配器
-* [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) -  Phalcon框架的Twig模板引擎
+* [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon Framework
+* [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon Framework
+* [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon Framework
 
 
 ## Testing
 
-*测试工具和解决方案.*
+*Testing tools and solutions.*
 
-* [phalcon-demo](https://github.com/Codeception/phalcon-demo) - 修改后的Phalcon INVO应用程序，用于演示代码测试的基础知识.
+* [phalcon-demo](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 
 
 ## Validators
 
-* ORM和表格验证人.*
+*ORM and Forms validators.*
 
-* [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) -  Phalcon Framework的额外验证器
-* [phalswag](https://github.com/tomi20v/phalswag) - 在Phalcon Framework中验证针对swagger配置的请求输入
-* [PHP Request Validator](https://github.com/progsmile/request-validator) - 使用Phalcon支持轻松进行PHP验证
-* [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - 扩展内置Phalcon验证界面的其他表单和数据验证器
+* [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon Framework
+* [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon Framework
+* [PHP Request Validator](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support
+* [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
 
 ## Web Tools
 
-*网络工具和图书馆.*
+*Web tools & libraries.*
 
-* [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - 密码管理器自助使用
-* [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - 简单快速的Url-Shortener应用程序
+* [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - Password manager for selfuse
+* [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
 
 
 ## Server Applications
 
-* [packagecloud](https://github.com/phalcongelist/packagecloud) - 在PackageCloud上托管的Phalcon分发
-* [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - 使用PHP + Phalcon / Lynx / Zephir，Nginx，Node + Bower / Gulp / Grunt的Web开发流浪机
-* [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - 用于PHP应用程序的Composer集成，以将Phalcon框架安装为PHP运行时中用于各种托管CI服务的扩展
-* [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) -  Phalcon 3，PHP7，Docker样本启动器应用程序
-* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - 您选择的Phalcon 3.x和PHP7.0开发+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch的Vagrant配置
-* [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) -  Docker Phalcon 3开发环境
-* [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - 为Phalcon / Zephir的所有项目贡献环境
+* [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
+* [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
+* [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
+* [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
+* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
+* [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
+* [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 
 ## Resources
 
-*在哪里发现新的Phalcon图书馆.*
+*Where to discover new Phalcon libraries.*
 
 
 ## Conferences
 
-*会议，IRC，论坛等.*
+*Conferences, IRC, Forums, etc..*
 
-* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) -  Facebook上的Phalcon
-* [Gab.ai](https://gab.ai/phalcon) -  Gab.ai上的Phalcon
-* [Google+](https://plus.google.com/+PhalconPHP) -  Phalcon在Google+上
-* [Phalcon Forums](https://forum.phalconphp.com/) -  Phalcon论坛
-* [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) -  Gitter.im中的俄语社区聊天
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) -  StackOverflow标记的问题
-* [Twitter](https://twitter.com/phalconphp) - 推特上的Phalcon
+* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
+* [Gab.ai](https://gab.ai/phalcon) - Phalcon on Gab.ai
+* [Google+](https://plus.google.com/+PhalconPHP) - Phalcon on Google+
+* [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
+* [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
 
 ## E-Books
 
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) -  Phalcon框架文档
+* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
 
 ## Websites
 
-* [Built With](https://builtwith.phalconphp.com/) - 使用Phalcon Framework构建的应用程序，演示和项目库
-* [Phalcon Blog](https://blog.phalconphp.com/) -  Phalcon博客
-* [Phalconist](https://github.com/phalcon/phalconist) -  Phalconist上Phalcon Framework的资源目录
+* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
+* [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
+* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) -  Phalcon文档
-* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - 文章，教程等等
-* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) -  Tutsplus代码课程
+* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
+* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
+* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses

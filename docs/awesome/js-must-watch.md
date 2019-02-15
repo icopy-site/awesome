@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="bolshchikov/js-must-watch"></div>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;这是专门针对JavaScript的必备视频列表 
+> This is a list of must-watch videos devoted to JavaScript 
 
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
@@ -22,7 +22,7 @@
 1. [Cheng Lou: **On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) [35:31]
 
 ## 2015 
-1. Axel Rauschmayer博士：**今天使用ECMAScript 6 ** 
+1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
 1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] 
@@ -74,7 +74,7 @@
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani：**扩展您的JavaScript应用程序**
+1. Addy Osmani: **Scaling Your JavaScript Applications**
 	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
 	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
 	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]

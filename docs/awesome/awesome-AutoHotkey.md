@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="ahkscript/awesome-AutoHotkey"></div>
 ## Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精彩的精选列表 [AutoHotkey](https://autohotkey.com/)  库，库分发，脚本，工具和资源.  受到另一个人的启发 [awesome lists](https://github.com/bayandin/awesome-awesomeness) .  请阅读 [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) 在贡献之前.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
-已过时或已停产，但历史上相关的项目可以找到 [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
+Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
-发展状况： 
+Development state: 
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
@@ -13,286 +13,286 @@
 <hr/>
 
 ## Libraries
- *有用的AutoHotkey库列表.  库是具有一些可重用功能的代码，可以与您自己的代码结合使用以创建新功能.*
+*List of useful AutoHotkey libraries. Library is code that has some reusable functionality that can be combined with your own code in order to create new functionality.*
 
 ### Clipboard
-* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip)   - 通过Deo-WinClip是一个剪贴板操作类，扩展了AutoHotkey的剪贴板功能，包括对RTF，HTML和图像的支持.  论坛帖子： [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
+* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip) - by Deo - WinClip is a clipboard manipulation class extending AutoHotkey's clipboard capabilities including support for RTF, HTML and images. Forum thread: [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
-* [AHKonsole](https://github.com/G33kDude/Console)   - 通过G33kdude  - 基于类的AutoHotkey库，用于控制台支持.  此库使您可以创建表示要与之交互的控制台的对象，以及多个控制台缓冲区对象，以便于双缓冲.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955).
-* [LibCon](https://github.com/joedf/LibCon.ahk)   -  by joedf  -  AutoHotkey Library For Console Support.  此库使您可以编写控制台应用程序并与其他控制台实例交互.  基本上，这个库可以促进与编写和与控制台交互有关的任何事情.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?t=17).
+* [AHKonsole](https://github.com/G33kDude/Console) - by G33kdude - Class based AutoHotkey library for console support. This library enables you to create an object representing a console to interact with, as well as multiple console buffer objects to facilitate in double buffering. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955).
+* [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=17).
 
 ### <a name="libraries-data-format"></a>Data format
-* [AHK_ctable](https://github.com/hoppfrosch/AHK_cTable) - 通过hoppfrosch  - 以表格格式处理字符串的库 - 论坛帖子： [link](https://autohotkey.com/board/topic/61256-object-table/://autohotkey.com/board/topic/61256-object-table/page-2?&#entry467816).
-* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON)   - 通过cocobelgica  -  AutoHotkey的JSON lib.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627).
-* [CSV](https://github.com/hi5/CSV)   - 通过trueski / kdoske  - 使用CSV文件和Listview函数的库.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34853).
-* [List manipulation functions](http://www.hars.us/SW/List.ahk)   - 由Laszlo  - 函数库来操作逗号分隔的列表.  论坛帖子： [link](https://autohotkey.com/board/topic/3020-list-manipulation-functions/).
-* [ObjCSV](https://github.com/JnLlnd/ObjCSV/)   - 由JnLlnd  - 库将CSV文件加载/保存到Objects和Listview函数.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=41).
-* [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6&t=3573) - 通过HotKeyIt  - 将对象序列化/反序列化到变量/内存.
-* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes)   -  by cocobelgica  - 序列化/反序列化AutoHotkey对象结构.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212).
-* [Table](https://github.com/Jim-VxE/AHK-Lib-Table)   - 通过VxE  -  Library以表格（TSV）格式和Listview函数操作字符串.  论坛帖子： [link](https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/).
-* [XA](https://github.com/hi5/XA)   - 通过trueski / hi5  - 将数组序列化/反序列化为XML.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849).
+* [AHK_ctable](https://github.com/hoppfrosch/AHK_cTable) - by hoppfrosch - Library to handle strings in tabular format - Forum thread: [link](https://autohotkey.com/board/topic/61256-object-table/://autohotkey.com/board/topic/61256-object-table/page-2?&#entry467816).
+* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627).
+* [CSV](https://github.com/hi5/CSV) - by trueski/kdoske - Library to work with CSV files and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34853).
+* [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](https://autohotkey.com/board/topic/3020-list-manipulation-functions/).
+* [ObjCSV](https://github.com/JnLlnd/ObjCSV/) - by JnLlnd - Library to load/save CSV files to Objects and  and Listview functions. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=41).
+* [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
+* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes) - by cocobelgica - Serialize / de-serialize an AutoHotkey object structure. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212).
+* [Table](https://github.com/Jim-VxE/AHK-Lib-Table) - by VxE - Library to manipulate strings in tabular (TSV) format  and Listview functions. Forum thread: [link](https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/).
+* [XA](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from XML. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849).
 
 ### <a name="libraries-data-structs-algorithms"></a>Data Structures and Algorithms
-* [Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade)   -  Shambles  - 一套功能编程库.   - 论坛帖子： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253)
-* [HashTable](https://github.com/Shambles-Dev/AutoHotkey-HashTable) - 通过Shambles  -  AutoHotkey的哈希表实现.
-* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - 由不同的作者 - 加密和编码功能的集合.
-* [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - 由Shambles  -  AutoHotkey的类型检查 - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
+* [Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade) - by Shambles - A Set of Functional Programming Libraries. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253)
+* [HashTable](https://github.com/Shambles-Dev/AutoHotkey-HashTable) - by Shambles - A Hash Table Implementation for AutoHotkey.
+* [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
+* [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - by Shambles - Type Checking for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
 
 ### Database
-* [ahkDBA](https://github.com/IsNull/ahkDBA)   -  by IsNull  - 一个OOP-SQL数据库访问框架.  论坛帖子： [link](https://autohotkey.com/board/topic/71179).
-* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB)   - 通过我 -  AHK SQLite API包装类.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
+* [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179).
+* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
 
 ### Filesystem
-* [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) -  by kon  - 用于检索扩展文件属性的函数.
+* [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
 
 ### <a name="libraries-graphics"></a>Graphics
-* [GDIp](https://github.com/tariqporter/Gdip/) -  by tic  - 全功能库，有助于与微软的gdiplus.dll交互 - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
-* [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) - 更新上述GDI +库，兼容AHK v1.1和AHK v2  - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
-* [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-)   -  by tic  - 使用gdiplus.dll在库中搜索图像实例的库.  有关MasterFocus的改进版本，请参阅该线程的结尾，或者查看他 [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
-* [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - 作者GeekDude  - 一个旨在简化使用低级GDI函数的类.
-* [Particle System](https://github.com/acorns/Particle-System)   - 通过tidbit  - 一个简单的类，使用GDI +将粒子添加到GUI或屏幕上.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
+* [GDIp](https://github.com/tariqporter/Gdip/) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
+* [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
+* [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
+* [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
+* [Particle System](https://github.com/acorns/Particle-System) - by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
 
 ### <a name="libraries-gui"></a>GUI
 
 #### Combobox
-* [CbAutoComplete](https://github.com/pulover/cbautocomplete)   - 通过Pulover  - 在AHK ComboBox中自动完成键入的值.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=15002)
+* [CbAutoComplete](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=15002)
 
 #### Custom Controls
-* [Rebar](https://github.com/Pulover/Class_Rebar)   - 由Pulover  - 用于AutoHotkey Rebar自定义控件的AHK类.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
-* [Toolbar](https://github.com/Pulover/Class_Toolbar)   - 由Pulover  - 用于AutoHotkey工具栏自定义控件的AHK类.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
+* [Rebar](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
+* [Toolbar](https://github.com/Pulover/Class_Toolbar) - by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
 
 #### Edit
-* [Edit v2.0](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)   - 通过jballi  - 用于轻量级和令人惊讶的强大默认编辑控件的库，用于显示和编辑文本.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)
+* [Edit v2.0](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063) - by jballi - Library for the lightweight and surprisingly powerful default Edit control for displaying and editing text. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)
 
 #### General
-* [AutoXYWH](https://autohotkey.com/boards/viewtopic.php?f=6&t=1079) - 通过tmplinshi  - 在调整GUI大小时自动移动和调整控件大小.
-* [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - 仅限我 - 为Win Vista +增强了MsgBox  -  [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
-* [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk)   -  by cocobelgica  - 窗口事件的调用函数（WinWaitXXX async）.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
-* [CGUI](https://github.com/lipkau/CGUI/)   - 作者：ChrisS85  - 面向对象的AutoHotkey GUI库.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
-* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI)   - 只有我 - 创建一个可滚动的GUI作为AHK GUI窗口的父级.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
+* [AutoXYWH](https://autohotkey.com/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
+* [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
+* [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk) - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
+* [CGUI](https://github.com/lipkau/CGUI/) - by ChrisS85 - An object-oriented GUI library for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
+* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI) - by just me - Creates a scrollable GUI as a parent for AHK GUI windows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
 
 #### ListBox
-* [LBEX](https://github.com/AHK-just-me/LBEX) - 通过 [just me](https://github.com/AHK-just-me) -  ListBoxes的实用函数集合.论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
-* [TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - 仅限我 - 为AHK GUI提供透明的列表框控件.论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
+* [LBEX](https://github.com/AHK-just-me/LBEX) - by [just me](https://github.com/AHK-just-me) - a collection of utility functions for ListBoxes.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
+* [TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
 
 #### ListView
-* [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/)   - 仅由我 -  GUI ListView的单元格或行的单独背景和/或文本颜色.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
-* [LV_EX](https://github.com/AHK-just-me/LV_EX)   - 只有我 -  AHK GUI ListView控件的一些附加功能.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
-* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)   - 仅限Me  -  ListView控件的单元格编辑.  论坛帖子： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
-* [LV_Rows](https://github.com/Pulover/Class_LV_Rows)   - 通过Pulover  -  AHK ListView控件的附加功能.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
+* [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
+* [LV_EX](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
+* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/) - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
+* [LV_Rows](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
- * [[Lib]菜单]（https://autohotkey.com/boards/viewtopic.php?t=3068） - 仅限我 - 一些与AHK菜单相关的功能.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
+* [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - by just me - Some functions related to AHK menus. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
 
 ### Hotkeys
-* [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - 由evilC  - 替换支持鼠标按钮等的AHK热键GuiControl（部分成熟）.
-* [HParse](https://autohotkey.com/board/topic/92805-) - 通过Avi  - 将有意义的快捷方式（Ctrl + X）转换为AutoHotkey语法（^ x）的函数.
+* [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - by evilC - Replacement for AHK hotkey GuiControl that supports mouse buttons etc (Partially mature).
+* [HParse](https://autohotkey.com/board/topic/92805-) - by Avi -  Function to convert meaningful shortcuts (Ctrl+X) to AutoHotkey syntax (^x).
 
 ### Joystick
-* [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) -  by evilC  - 使用AHK控制vJoy虚拟操纵杆.
+* [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) - by evilC - Control a vJoy virtual joystick using AHK.
 * [JoystickWrapper](https://autohotkey.com/boards/viewtopic.php?f=19&t=28889) - by evilC - Full event-based, 8 axis, 128 button, 4 POV joystick reading (C# DLL, Uses Lexikos' CLR).
-* [XInput](https://autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/) -  Lexikos  - 使用XInput读取XBOX游戏手柄（只能独立读取L / R触发器），控制隆隆马达.
+* [XInput](https://autohotkey.com/board/topic/35848-xinput-xbox-360-controller-api/) - by Lexikos - Read XBOX gamepads using XInput (Only way to independently read L/R triggers), control rumble motors.
 
 ### Maths
-* [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - 数学表达式评估包含括号.
-* [Eval](https://github.com/pulover/eval)   - 通过Pulover  - 评估字符串中的表达式.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
-* [Scientific Maths](https://autohotkey.com/board/topic/93516-) - 由Avi  - 图书馆促进高精度数学.
-* [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)   -  by HotkeyIt  - 计算日期之间的天数，小时数，分钟数，秒数.  论坛帖子： [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
+* [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
+* [Eval](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
+* [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
+* [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
 ### Memory
 
-* [classMemory](https://github.com/Kalamity/classMemory)   - 由RHCP（Kalamity） - 具有模式扫描的AHK内存读/写类.  论坛帖子： [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
+* [classMemory](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
 
 ### Networking
-* [AHKhttp](https://github.com/Skiouros/AHKhttp)   - 基本HTTP服务器.  论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4890)
-* [AHKsock](https://github.com/jleb/AHKsock)   -  TheGood  - 基于函数的套接字库.  支持TCP.  论坛 [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
-* [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-)   -  Bentschi  - 基于类的套接字库.  支持TCP和UDP.
-* [Socket.ahk](https://github.com/G33kDude/Socket.ahk) -  GeekDude  - 基于Bentschi的论坛库 - 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
-* [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) - 由GeekDude  - 基于类的WebSocket库 - 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
-* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - 通过Lipkau  -  Lib允许在AHK中使用WinSCP
+* [AHKhttp](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4890)
+* [AHKsock](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
+* [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
+* [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
+* [WebSocket.ahk](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
+* [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-* [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - 通过Xx7  - 用于在Excel中创建图形的库，将图形保存为图像并将其显示在GUI中.
-* [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - 通过SKAN  - 用于以图形方式绘制实时数据的函数库.
-* [SVGraph](https://github.com/CapnOdin/SVGraph)   - 由CapnOdin  -  SVGraph为AutoHotkey带来图形和图表.  论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
-* [gdiChartLib](https://github.com/nnnik/gdiChartLib)   - 通过nnnik  - 用于autohotkey的gdip图表库.  论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=31533)
+* [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
+* [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - by SKAN - Function library for graphically plotting real time data.
+* [SVGraph](https://github.com/CapnOdin/SVGraph) - by CapnOdin - SVGraph bringing graphing and charting to AutoHotkey. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
+* [gdiChartLib](https://github.com/nnnik/gdiChartLib) - by nnnik - a gdip chart lib for autohotkey. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=31533)
 
 ### <a name="libraries-system"></a>System
-* [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - 通过SKAN  - 在没有UAC提示的情况下自动提升脚本.
-* [Vista Audio Control Functions](https://github.com/ahkscript/VistaAudio)   -  Lexikos  - 提供一些SoundSet / SoundGet子命令的替代方案，以及SoundSet / SoundGet不支持的一些其他功能.  论坛帖子： [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
+* [RunAsTask](https://autohotkey.com/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
+* [Vista Audio Control Functions](https://github.com/ahkscript/VistaAudio) - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
 
 ### Text manipulation
-* [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - 通过tidbit  - 独立的字符串操作函数.
-* [TF](https://github.com/hi5/TF)   -  by hi5  - 用于处理文本文件的函数，如* .txt，* .ahk，* .html，* .css等和字符串（或变量）.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576).
+* [String Things](https://autohotkey.com/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
+* [TF](https://github.com/hi5/TF) - by hi5 - Functions for manipulation of text files such as *.txt, *.ahk, *.html, *.css etc and Strings (or variables). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=576).
 
 ## Library Distributions
- *有用的AutoHotkey库分发列表.  Library Distribution是一个用于分发库的系统.*
+*List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [ahk-libs](https://github.com/rshipp/ahk-libs) -  Ryan Shipp的图书馆藏书.
-* [ASPDM](https://github.com/ahkscript/ASPDM) - 来自的包/ stdlib分发和管理 [ahkscript](https://github.com/ahkscript)  乡亲.  Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
-* [pAHKlight](https://github.com/hi5/pAHKlight) - 您的AutoHotkey库，类，函数和工具的轻量级指南.
+* [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
+* [ASPDM](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
+* [pAHKlight](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
 ## Scripts
- *有用的AutoHotkey脚本列表.  脚本是旨在用作独立程序的代码，并不打算与其他代码集成.*
+*List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
 ### <a name="scripts-clipboard"></a>Clipboard
-* [CL3](https://github.com/hi5/CL3)   - 带有插件的剪贴板管理器（仅文本）（搜索，预定义插槽，ClipChain，FIFO，编辑器等）.  论坛帖子 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=814).
-* [Clipjump](http://clipjump.sourceforge.net/)   - 是Windows的多剪贴板管理实用程序.  源代码： [GitHub](https://github.com/aviaryan/Clipjump) .  论坛主题： [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
+* [CL3](https://github.com/hi5/CL3) - A clipboard manager (text only) with plugins (Search, predefined Slots, ClipChain, FIFO, Editor and more). Forum thread [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=814).
+* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 ### <a name="scripts-filesystem"></a>Filesystem
-* [Belvedere](https://github.com/adampash/belvedere)   - 根据文件名称，扩展名，大小，年龄等设置对文件执行操作（移动，复制，删除等）的规则.  更多信息 [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
+* [Belvedere](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 
 ### <a name="scripts-graphics"></a>Graphics
-* [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - 有趣的GDI +示例.
+* [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
 
 ### <a name="scripts-gui"></a>GUI
-* [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](https://autohotkey.com/boards/viewtopic.php?f=6&t=3851) - 使用非标准方法生成漂亮用户界面的GUI示例.
+* [Examples of Non-Standard GUIs (ActiveX, GDI, etc.)](https://autohotkey.com/boards/viewtopic.php?f=6&t=3851) - Examples of GUIs using non-standard methods to produce beautiful user interfaces.
 
 
 ### <a name="scripts-maths"></a>Maths
-* [Monster](https://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/) - 评估字符串中的数学表达式（计算器）.
-* [Unit Converter](https://autohotkey.com/board/topic/39359-unit-converter/)   - 单位转换器，具有最常见的英语和科学单位，最常见的数量从长度到密度到导热系数.  还包括物理和数学常数部分.
+* [Monster](https://autohotkey.com/board/topic/15675-monster-evaluate-math-expressions-in-strings/) - evaluate math expressions in strings (calculator).
+* [Unit Converter](https://autohotkey.com/board/topic/39359-unit-converter/) - unit converter that has most common English and scientific units and most common quantities from length to density to thermal conductivity. Also includes a section for physical and mathematic constants.
 
 ### Mouse
-* [EitherMouse](http://www.EitherMouse.com)   - 多个鼠标，单独设置，第二个鼠标上的自动交换鼠标按钮.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
-* [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html)   - 通过鼠标手势控制应用程序.  可以通过可定制的界面定义手势和动作.  英文和日文文件 - 日文主页 [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
-* [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) - 强大的热键，启动器，鼠标手势系统等等（肤色） - 论坛主题： [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
+* [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
+* [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html) - Control applications by mouse gestures. Gestures and actions can be defined via customizable interface. Documentation in English and Japanese - Japanese Homepage [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
+* [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) - Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread: [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
 ### Typing
-* [AutoComplete](https://github.com/Uberi/Autocomplete)   - 在您键入时建议并完成单词.  论坛帖子： [link](https://autohotkey.com/board/topic/60998-autocomplete/).
-* [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183)   - 单手打字.  使用空格键作为修饰符，用户只需单手即可生成全尺寸键盘任一侧的字符.  更多信息通过论坛帖子： [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
-* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD)   - 屏幕显示，以明显可见的文本大小显示每个按键或鼠标按钮.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=225)
-* [Lintalist](http://lintalist.github.io/)   - 可搜索的交互式列表，用插件复制和粘贴文本.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3378).
-* [Portable Keyboard Layout](http://pkl.sourceforge.net/)   - 帮助人们学习更好，更有效的键盘布局，如Dvorak，Colemak或Asset.  论坛帖子： [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
-* [Thumbscript](https://autohotkey.com/board/topic/27198-beta-thumbscript-ahk/)   - 允许您使用数字键盘键入，每个字母只按2个数字键.  文档： [link](http://thumbscript.com/howitworks.html)
-* [TypingAid](https://github.com/ManiacDC/TypingAid/releases)   - 在您键入时建议并完成单词.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5644) GitHub上 [link](https://github.com/ManiacDC/TypingAid).
+* [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
+* [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
+* [KeyPress OSD](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=225)
+* [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3378).
+* [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
+* [Thumbscript](https://autohotkey.com/board/topic/27198-beta-thumbscript-ahk/) - Allows you to type using the number pad, with only 2 number presses for every letter. Documentation: [link](http://thumbscript.com/howitworks.html)
+* [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5644) GitHub [link](https://github.com/ManiacDC/TypingAid).
 
 ### Window Management
-* [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)   - 保存并恢复每个进程的最后一个窗口位置.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)
-* [bug.n](https://github.com/fuhsjr00/bug.n)   - 平铺窗口管理器.  论坛帖子： [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
-* [Min2Tray](http://junyx.breadfan.de/Min2Tray/)   - 最小化窗口到托盘等.  论坛帖子： [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
-* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - 控制所有基本窗口交互，例如拖动，调整大小，最大化，最小化，关闭，对齐网格，“保持窗口纵横比”，将窗口向上滚动到其标题栏，透明度控制.
-* [SnapX](https://github.com/benallred/SnapX/releases)   - 通过接管其热键（Win +左/右等）并对快照位置和大小提供更细粒度的控制来增强Windows / Aero Snap.  适用于多个显示器，分辨率和DPI级别.
-* [WindowPadX](https://github.com/hoppfrosch/WindowPadX)   - 在多监视器环境中提供一些有用功能的工具.  _WindowPadX是WindowPad的增强版，最初由Lexikos发布，​​请参阅原创论坛帖子： [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
-* [WindowSaver](https://github.com/KroniK907/WindowSaver)   - 在Windows10中保存和恢复窗口布局，支持虚拟桌面和更改显示器设置.  _WindowSaver是一个增强功能 [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) 作者：Paul Troiano_
+* [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907) - Save and restore last window position for each process. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)
+* [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
+* [Min2Tray](http://junyx.breadfan.de/Min2Tray/) - Minimize window to tray & more. Forum thread: [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
+* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
+* [SnapX](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
+* [WindowPadX](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
+* [WindowSaver](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
 
 ### Games
-* [Achromatic - ProgressPlatformer](https://github.com/Uberi/ProgressPlatformer/releases)   - 平台游戏.  论坛帖子： [link](https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/)，GitHub： [link](https://github.com/Uberi/ProgressPlatformer)
-* [AHK Mahjong Solitaire](https://autohotkey.com/boards/codeboxplus/download/183219-1)   - 麻将游戏.  论坛帖子： [link](https://autohotkey.com//boards/viewtopic.php?f=19&t=40133)
-* [F1 Racer](https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia)   -  2或4名球员赛车游戏.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=19&t=4307&p=24024&hilit=racing#p24024)
-* [Infection](https://autohotkey.com/boards/download/file.php?id=3349&sid=b3444f44c767f7698ede586c81d40fe2)   - 棋盘游戏.  也称为Ataxx.  论坛帖子： [link](https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/)
-* [Ishido](https://github.com/flibioahk/ishido/archive/master.zip)   - 复古益智游戏.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?t=31825https://github.com/flibioahk/ishido)，GitHub： [link](https://github.com/flibioahk/ishido)
-* [ManyTetris](http://sector-seven.net/assets/stuff/ManyTetris.zip)   - 多个俄罗斯方块变体.  论坛帖子： [link](https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/)
-* [Out of the Sea](http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126)   - 尽量避免通过进化来捕捞.  GitHub的： [link](https://github.com/Uberi/Ludum-Dare-24)
-* [PABI Logical](https://github.com/bichlepa/PABI-Logical/releases)   - 重拍amiga游戏逻辑.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=33267)，GitHub： [link](https://github.com/bichlepa/PABI-Logical)
-* [Sudoku](https://autohotkey.com/boards/codeboxplus/download/77645-1)   - 数独游戏和解算器.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?t=15291)
+* [Achromatic - ProgressPlatformer](https://github.com/Uberi/ProgressPlatformer/releases) - Platform game. Forum thread: [link](https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/), GitHub: [link](https://github.com/Uberi/ProgressPlatformer)
+* [AHK Mahjong Solitaire](https://autohotkey.com/boards/codeboxplus/download/183219-1) - Mahjong game. Forum thread: [link](https://autohotkey.com//boards/viewtopic.php?f=19&t=40133)
+* [F1 Racer](https://www.dropbox.com/sh/01ucst7jeybn9ed/AABCItk8VKlfVp67T0P_DJFia) - 2 or 4 player racing game. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=19&t=4307&p=24024&hilit=racing#p24024)
+* [Infection](https://autohotkey.com/boards/download/file.php?id=3349&sid=b3444f44c767f7698ede586c81d40fe2) - Board game. Also known as Ataxx. Forum thread: [link](https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/)
+* [Ishido](https://github.com/flibioahk/ishido/archive/master.zip) - Retro puzzle game. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=31825https://github.com/flibioahk/ishido), GitHub: [link](https://github.com/flibioahk/ishido)
+* [ManyTetris](http://sector-seven.net/assets/stuff/ManyTetris.zip) - Multiple Tetris variants. Forum thread: [link](https://autohotkey.com/board/topic/35504-game-manytetris-customizable-pocket-tetris/)
+* [Out of the Sea](http://ludumdare.com/compo/ludum-dare-24/?action=preview&uid=14126) - Try to avoid being fished by evolving. GitHub: [link](https://github.com/Uberi/Ludum-Dare-24)
+* [PABI Logical](https://github.com/bichlepa/PABI-Logical/releases) - Remake of the amiga game Logical. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=33267), GitHub: [link](https://github.com/bichlepa/PABI-Logical)
+* [Sudoku](https://autohotkey.com/boards/codeboxplus/download/77645-1) - Sudoku game and solver. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=15291)
 
 ## <a name="tools"></a>Tools
- *有用的AutoHotkey工具列表.  为AutoHotkey制作的工具*
+*List of useful AutoHotkey tools. Tools made for AutoHotkey*
 
 ### Interpreter
-* [AutoHotkey](https://autohotkey.com/download/) -  AutoHotkey解释器安装程序和二进制文件.
-* [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/)   -  AutoHotkey.dll打开AutoHotkey世界到其他编程和脚本语言.  论坛帖子： [link](https://autohotkey.com/board/topic/39588-autohotkeydll/) .  文档 [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
-* [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB)   -  Pocket PC / WinCE /智能手机的AutoHotkey.  论坛帖子： [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/) .  文档 [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
+* [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey interpreter installer and binaries.
+* [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/) - AutoHotkey.dll opens the world of AutoHotkey to other programming and scripting languages. Forum thread: [link](https://autohotkey.com/board/topic/39588-autohotkeydll/). Documentation [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
+* [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB) - AutoHotkey for Pocket PCs / WinCE / Smartphones. Forum thread: [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/). Documentation [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
 * [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
 ### Debugging
- * [[Class] Console]（https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116） - 此类旨在简化脚本的调试，从简单的文本处理，到输出和记录数据和数组.  GitHub上 [link](https://github.com/AfterLemon/Class_Console).
-* [Yunit](https://github.com/Uberi/Yunit) - 由Uberi和infogulch  -  AutoHotkey的简单单元测试框架.
+* [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&t=2116) - This class is meant to simplify debugging for scripts from simple text handling, to outputting and logging data & arrays. GitHub [link](https://github.com/AfterLemon/Class_Console).
+* [Yunit](https://github.com/Uberi/Yunit) - by Uberi and infogulch - Simple unit testing framework for AutoHotkey.
 
 ### Decompilers
-* [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - 对于AHK 1.1+论坛主题： [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
-* [AutoHotkey decompiler - classic](https://autohotkey.com/docs/Scripts.htm#exe2ahk) - 对于AHK 1.0，无法使用密码或/ nodecompile受保护的文件.
+* [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
+* [AutoHotkey decompiler - classic](https://autohotkey.com/docs/Scripts.htm#exe2ahk) - for AHK 1.0 does not work with password or /nodecompile protected files.
 
 ### Integrated Development Environment
-* [AHK Studio](https://autohotkey.com/boards/viewtopic.php?f=6&t=300) - 基于SciLexer.dll的AutoHotkey IDE.
-* [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=64&t=10157) -  AHK IDE，内置有用的插件和GUI设计器.
-* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1)   - 绘制您的应用程序.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6399) .  GitHub上 [link](https://github.com/bichlepa/AutoHotFlow).
-* [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6&t=3108) -  AutoHotkey的可视化编程（使用DRAKON图表）.
-* [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7&t=50) - 为AutoHotkey设置流行的代码编辑器Notepad ++.
+* [AHK Studio](https://autohotkey.com/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
+* [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=64&t=10157) - AHK IDE with useful built-in plugins and GUI designer.
+* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow).
+* [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
+* [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
-* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) -  SublimeText的AutoHotkey AHK语言包，包括语法高亮，注释切换，自动完成，构建系统定义，ahkrun，ahkcompile，ahkrunpiped的命令.
-* [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/)   -  Sublime 4 AutoHotkey是Sublime Text文本编辑器的补丁，它增加了对AutoHotkey的支持.   - （停产）
-* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete)   -  Vim插件添加自动完成功能.  （全完成）
-* [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) -  Vim插件，为AutoHotkey添加语法高亮显示.
-* [VSCode extension](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey) -  Visual Studio Code（VSCode）插件，用于为AutoHotkey添加语法高亮显示.
+* [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
+* [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
+* [vim-AHKcomplete](https://github.com/huleiak47/vim-AHKcomplete) - Vim plugin to add auto-completion. (omni-completion)
+* [Vim autohotkey-ahk](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey.
+* [VSCode extension](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey) - Visual Studio Code (VSCode) plugin to add syntax highlighting for AutoHotkey.
 
 ### GUI WYSIWYG Builders
-* [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=6&t=10157) - 由alguimist  -  WYSIWIG GUI Designer和脚本编辑器
-* [GUI Creator (formerly Basic GUI Creator)](https://autohotkey.com/boards/viewtopic.php?f=6&t=303) - 用于AutoHotkey的WYSIWYG GUI Creator.
-* [MagicBox](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953) - 通过 [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723)   -  MagicBox是一个开发工具，可以帮助创建消息框.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953).
+* [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=6&t=10157) - by alguimist - WYSIWIG GUI Designer and Script Editor
+* [GUI Creator (formerly Basic GUI Creator)](https://autohotkey.com/boards/viewtopic.php?f=6&t=303) - WYSIWYG GUI Creator for AutoHotkey.
+* [MagicBox](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723) - MagicBox is a development tool to assist in the creation of message boxes. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953).
 
 ### Script Recorders and Writers
-* [Pulover’s Macro Creator](http://www.macrocreator.com/)   - 免费自动化工具和脚本生成器.  推荐给初学者.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143) .  GitHub上 [link](https://github.com/Pulover/PuloversMacroCreator).
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link](https://github.com/Pulover/PuloversMacroCreator).
 
 ### Web Syntax Highlighters
-* [highlight.js](https://highlightjs.org/) - 用JavaScript编写的语法高亮显示器，支持130多种语言（包括AutoHotkey）.
-* [PrismJs](https://autohotkey.com/boards/viewtopic.php?f=22&t=3942) - 轻量级最小AutoHotkey语法高亮显示.
-* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) -  AutoHotkey的传统语法高亮显示，默认支持行号.
+* [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
+* [PrismJs](https://autohotkey.com/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
+* [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
 ### <a name="tools-others"></a>Others
-* [GoTo](https://autohotkey.com/board/topic/95009-) - 用于任何文本编辑器的插件，可帮助您跳转到活动文件中的标签，热键，热字符串和功能.
-* [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - 允许在AHK源代码中跳转到令牌的插件.
-* [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - 任何文本编辑器的插件，通过按F1提供上下文相关帮助.
-* [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) -  GeekDude  - 一款轻量级动态代码测试仪.
-* [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/)   - 通过jethrow  -  iWB2 Learner是一个收集Internet Explorer网页信息的工具.  论坛帖子： [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
-* [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310)   - 通过evilC  - 快速交换AHK版本！  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310).
-* [AEI](https://github.com/joedf/AEI.ahk)   - 通过joedf  - 显示AutoHotkey环境信息和AHK支持相关的系统信息与一个花哨的更新检查器，使用进度条自动下载.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5825).
-* [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6&t=28220) - 由Alguimist  - 用AHK编写的有用的窗口间谍/信息工具.
+* [GoTo](https://autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.
+* [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - Addon which allows jumping to tokens within AHK source code.
+* [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - Addon for any text editor that provides context sensitive help by pressing F1.
+* [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) - by GeekDude - A lightweight dynamic code tester.
+* [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/) - by jethrow -  iWB2 Learner is a tool for gathering information about Internet Explorer webpages. Forum thread: [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
+* [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310) - by evilC - Swap AHK version quickly! Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6310).
+* [AEI](https://github.com/joedf/AEI.ahk) - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5825).
+* [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
 ### (Use in) other programming languages
-* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - 的一部分 [AutoHotkey_H](#autohotkey_h)  分配.  从您的其他语言加载autohotkey.dll，并将正常的AHK代码传递给dll文件以供执行.  请看这里的清单 [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm) .  一些较旧的链接： [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
-* [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - 论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
-* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - 提供活动脚本语言（如VBScript和JScript）的接口，而不依赖于Microsoft的ScriptControl，而64位程序无法使用它.
-* [Exo-Javascript](https://github.com/Aurelain/Exo) - 用JavaScript写AHK  - 论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714)，Exo-CLI（交互式命令行） [link](https://github.com/joedf/Exo-CLI.ahk).
-* [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) -  *注意：可以找到lua.ahk和lua_ahkfunctions.ahk [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
-* [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - 教程 [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32)，C / C ++到MCode Generator论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
-* [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - 论坛帖子： [link](https://autohotkey.com/board/topic/11249-embedding-perl/).
-* [PAHK](https://code.google.com/archive/p/pahk) - 论坛帖子： [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
-* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - 文件 [link](https://pyahk.readthedocs.io/en/latest/).
+* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - Part of the [AutoHotkey_H](#autohotkey_h) distribution. Load the autohotkey.dll from your other language, and pass normal AHK code to the dll file for execution. See here for a list of the [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm). Some older links: [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
+* [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
+* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - Provides an interface to Active Scripting languages like VBScript and JScript, without relying on Microsoft's ScriptControl, which is not available to 64-bit programs.
+* [Exo-Javascript](https://github.com/Aurelain/Exo) - Write AHK with JavaScript - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI (Interactive Command-line) [link](https://github.com/joedf/Exo-CLI.ahk).
+* [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
+* [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - Tutorial [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
+* [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - Forum thread: [link](https://autohotkey.com/board/topic/11249-embedding-perl/).
+* [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
+* [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
 ## Tutorials
-*有用的AutoHotkey教程列表.*
+*List of useful AutoHotkey tutorials.*
 
 ### <a name="tutorials-classes"></a>Classes
-* [Classes in AHK, Basic tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=6033) -  AutoHotkey类基础教程.
-* [Classes in AHK, a Dissection (Advanced)](https://autohotkey.com/boards/viewtopic.php?f=7&t=6177) -  AutoHotkey类高级教程.
+* [Classes in AHK, Basic tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=6033) - AutoHotkey classes basic tutorial.
+* [Classes in AHK, a Dissection (Advanced)](https://autohotkey.com/boards/viewtopic.php?f=7&t=6177) - AutoHotkey classes advanced tutorial.
 
 ### <a name="tutorials-com"></a>COM
-* [MS Office COM Basics](https://autohotkey.com/boards/viewtopic.php?f=7&t=8978) - 将AutoHotkey与MS Office一起使用.
+* [MS Office COM Basics](https://autohotkey.com/boards/viewtopic.php?f=7&t=8978) - Using AutoHotkey with MS Office.
 
 ### <a name="tutorials-gui"></a>GUI
-* [Use HTML and CSS for your GUIs!](https://autohotkey.com/boards/viewtopic.php?f=7&t=4588) - 使用HTML和CSS创建GUI.
+* [Use HTML and CSS for your GUIs!](https://autohotkey.com/boards/viewtopic.php?f=7&t=4588) - Using HTML and CSS for creating GUIs.
 
 ### <a name="tutorials-mcode"></a>MCode (machine code)
-* [MCode Tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=32) -  MCode（机器代码）教程.
+* [MCode Tutorial](https://autohotkey.com/boards/viewtopic.php?f=7&t=32) - MCode (machine code) tutorial.
 
 ## Resources
- *有用的AutoHotkey资源列表.  与AutoHotkey相关的各种网站，文档，指南，视频和文章.*
+*List of useful AutoHotkey resources. Various websites, documentation, guides, videos and articles related to AutoHotkey.*
 
 ### Documentation
-* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm)   - 官方更新的AutoHotkey文档.  GitHub上 [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
+* [Official documentation](https://autohotkey.com/docs/AutoHotkey.htm) - Official uptodate AutoHotkey documentation. GitHub [link](https://github.com/Lexikos/AutoHotkey_L-Docs).
  
 ### Books
-* [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html)   - 一本关于AutoHotkey的书（尚未完成）.  论坛帖子： [link](https://autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
+* [ahkbook](http://ahkscript.github.io/ahkbook/projectinfo.html) - a book on AutoHotkey (not completed yet). Forum thread: [link](https://autohotkey.com/board/topic/73014-ahkbook-a-free-online-book-for-autohotkey/).
 
 ### Quick-start guides
-* [Official quick start tutorial](https://autohotkey.com/docs/Tutorial.htm)   - 官方快速入门教程 - 最初由tidbit编写.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=27).
+* [Official quick start tutorial](https://autohotkey.com/docs/Tutorial.htm) - Official quick start tutorial - originally written by tidbit. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=27).
 
 ### Websites
-* [ahkscript.org](http://ahkscript.org/) - 官方网站 [AutoHotkey Foundation LLC](http://ahkscript.org/foundation/) ，为该软件成立的非营利性LLC（有限责任公司）.  组织证书（pdf） [link](http://ahkscript.org/certificate_of_organization.pdf).
-* [autohotkey.com](https://autohotkey.com/) -  AutoHotkey脚本语言的官方网站（下载，论坛，文档）.
-* [ahkscript GitHub organization](https://github.com/ahkscript) - 官方ahkscript GitHub组织.
+* [ahkscript.org](http://ahkscript.org/) - Official website of [AutoHotkey Foundation LLC](http://ahkscript.org/foundation/), a non-profit LLC (Limited Liability Company) founded for this software. Certificate of Organization (pdf) [link](http://ahkscript.org/certificate_of_organization.pdf).
+* [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
+* [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
 
 ## Forks
-* AHK的分叉，为核心语言添加新功能*
+*Forks of AHK which add new features to the core language*
 
 ### AutoHotkey_H
-* [AutoHotkey_H](https://hotkeyit.github.io/v2/) -  AHK_H为原始AutoHotkey添加功能，并使用NewThread（）函数或AutoHotkey.dll提供真正的多线程. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
+* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
 
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

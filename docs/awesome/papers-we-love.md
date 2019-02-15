@@ -1,15 +1,15 @@
 <div class="github-widget" data-repo="papers-we-love/papers-we-love"></div>
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
- **我们喜欢的论文**（* PWL *）是一个围绕阅读，讨论和学习更多关于学术计算机科学论文的社区.  该存储库充当社区可以找到的一些最佳论文的目录，将分散在Web上的文档汇集在一起​​.  你也可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.
+**Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
-由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（当我们这样做时，你会看到：在目录README中它的标题旁边有一个：scroll：emoji）但我们可以提供指向它们位置的链接.
+Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
- 如果您喜欢这些论文，可能会在本地分会聚会上停下来，加入围绕他们的充满活力的讨论.  您还可以在我们的讨论中讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Slack](https://paperswelove.slack.com/messages/general/), after [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
 ### Chapters
 
- 这是我们的官方章节.  如果您对此感兴趣，请告诉我们 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
+Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
@@ -66,15 +66,15 @@
 * [Winnipeg](http://pwlwpg.ca/)
 * [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
 
-我们所有的聚会都跟着我们 [Code of Conduct](https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md).
+All of our meetups follow our [Code of Conduct](https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-看看我们 [YouTube](https://www.youtube.com/user/PapersWeLove) 和 [MixCloud](https://www.mixcloud.com/paperswelove/) （纯音频格式）频道.
+Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Info
 
-我们正在寻找与我们应该添加的论文相关的拉取请求，更好地组织我们所拥有的论文，和/或我们应该指向的其他纸质回购链接.
+We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 
 ### Other Good Places to Find Papers
 
@@ -82,7 +82,7 @@
 * [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://research.fb.com/publications/)
-* [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) （选择一个子类别）
+* [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
 * [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)
@@ -100,11 +100,11 @@
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 
-请查看我们 [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) 链接到博客，书籍，交流，值得一读.
+Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
 ### How To Read a Paper
 
- 阅读论文与阅读博客或小说不同.  这里有一些方便的资源可以帮助您入门.
+Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -114,12 +114,12 @@
  
 ### Applications/Ideas built around Papers We Love
 
-*喜欢纸 -  [@loveapaper](https://twitter.com/loveapaper)
+* Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
 
 ## Contributing Guidelines
 
-请看看我们 [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) 文件.
+Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
 
 ## Copyright
 
- “Papers We Love”这个名称以及该组织的徽标受版权保护，并且归Papers We Love Ltd所有，保留所有权利.  在开始章节时，请查看 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们使用该徽标.
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.

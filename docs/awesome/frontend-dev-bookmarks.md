@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="dypsilon/frontend-dev-bookmarks"></div>
 ## Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**为前端Web开发人员手动策划的资源集合.**
+**Manually curated collection of resources for frontend web developers.**
 
- 您正在查看可浏览版本，在许多小文件中按类别拆分.  在一个页面上还有一个包含每个资源的巨大文件.  继续前进 [totally gigantic file](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/TOTALLY-GIGANTIC-FILE.md) 如果你是这样的事情.
+You are viewing a browseable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
 
- 这是当前版本，它接收持续更新.  如果您想要好的旧书签，请使用标签v.1.0.  请记住，旧版本有许多过时的链接.
+This is the current version, which receives ongoing updates. If you want the good old bookmarks, please use the tag v.1.0. Keep in mind, that the old version has many outdated links.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
@@ -16,100 +16,100 @@
 
 ## Appearance
 
-网站的外观或可见方面.
+The outward or visible aspect of a website.
 
-+ **[Animation](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/animation.md)**：创建运动和形状变化的过程.
-+ **[Typography](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/typography.md)**：排版物的样式，排列或外观.
-+ **[Visualization](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/visualization.md)**：将数据放置在可视上下文中.
++ **[Animation](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/animation.md)**: The process of creating motion and shape change.
++ **[Typography](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/typography.md)**: The style, arrangement, or appearance of typeset matter.
++ **[Visualization](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/visualization.md)**: Placing data in a visual context.
 
 ## Architecture
 
-前端代码的高级结构和创建此类结构的规则.
+High level structure of the frontend code and the discipline of creating such structures.
 
-+ **[Algorithms](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/algorithms.md) **：要执行的自包含的逐步操作集.  算法执行计算，数据处理和/或自动推理任务.
-+ **[Design Patterns](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/design-patterns.md)**：程序员在设计应用程序或系统时可用于解决常见问题的最佳实践.
-+ **[Designs](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/designs.md)**：准备好使用并且有良好记录的结构和框架用于前端开发.
-+ **[Event-Driven Programming](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/event-driven-programming.md)**：事件驱动编程是一种编程范例，其中程序流程由诸如用户操作，传感器输出或来自其他程序/线程的消息之类的事件确定.
-+ **[Functional Programming](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-programming.md)**：函数式编程是一种编程范式，它将计算视为数学函数的评估，并避免改变状态和可变数据.
-+ **[Functional Reactive Programming (FRP)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-reactive-programming-frp.md)**：FRP是使用函数式编程的构建块进行异步数据流编程的编程范例.
++ **[Algorithms](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/algorithms.md)**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
++ **[Design Patterns](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/design-patterns.md)**: Best practices that the programmer can use to solve common problems when designing an application or system.
++ **[Designs](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/designs.md)**: Ready to use and well documented structures and frameworks for frontend development.
++ **[Event-Driven Programming](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/event-driven-programming.md)**: Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
++ **[Functional Programming](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-programming.md)**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
++ **[Functional Reactive Programming (FRP)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-reactive-programming-frp.md)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
 
 ## Compatibility
 
- 产品能够使用不同的输入/输出设备和渲染软件.  包括打印机，电子邮件，移动设备和不同的浏览器.
+Ability of a product to work with different input/output devices and rendering software. Including printers, email, mobile devices and different browsers.
 
-+ **[Cross Browser](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/cross-browser.md)**：跨浏览器是指网站，Web应用程序，HTML构造或客户端脚本在提供其所需功能的环境中运行的能力，以及在功能不存在或缺少时优雅地退出或降级的能力.
-+ **[E-Mail](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/e-mail.md)**：准备基于HTML的电子邮件.
-+ **[Keyboard](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/keyboard.md)**：在Web浏览器中使用键盘输入.
-+ **[Mobile](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/mobile.md)**：开发针对在智能手机和平板电脑设备上观看而优化的网站.
-+ **[Printers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/printers.md)**：通过CSS操作打印机输出.
-+ **[Responsive Web Design (RWD)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/responsive-web-design-rwd.md) **：RWD响应用户及其使用的设备的需求.  布局根据设备的大小和功能而变化.
-+ **[Web Accessibility](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/web-accessibility.md)**：Web可访问性意味着残疾人可以感知，理解，导航和与Web交互，并且他们可以为Web做出贡献.
++ **[Cross Browser](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/cross-browser.md)**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
++ **[E-Mail](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/e-mail.md)**: Preparing HTML based electronic mail.
++ **[Keyboard](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/keyboard.md)**: Working with keyboard input in a web browser.
++ **[Mobile](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/mobile.md)**: Development of websites optimized for viewing on smartphone and tablet devices.
++ **[Printers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/printers.md)**: Manipulation of printer output through CSS.
++ **[Responsive Web Design (RWD)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/responsive-web-design-rwd.md)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
++ **[Web Accessibility](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/web-accessibility.md)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
 
 ## Ecosystem
 
 Important developers, companies, organizations and news sources.
 
-+ **[Communities Around Projects](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/communities-around-projects.md) **：成功的开源项目吸引了许多制作插件，库，教程和其他资源的开发人员.  本节收集此类资源.
-+ **[News](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/news.md)**：提供与前端Web开发相关的每日和每周新闻的网站和新闻简报.
-+ **[Notable Community Members](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/notable-community-members.md)**：重要的工程师，福音传道者，建筑师和其他名人.
-+ **[Organizations](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/organizations.md)**：围绕Web开发的商业公司和非营利组织.
-+ **[Podcasts](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/podcasts.md)**：播客是一种数字媒体形式，由一系列音频，视频，数字广播，PDF或ePub文件组成，这些文件通过网络联合自动订阅或下载，或在线流式传输到计算机或移动设备.
++ **[Communities Around Projects](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/communities-around-projects.md)**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
++ **[News](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/news.md)**: Websites & newsletters which provide daily and weekly news related to frontend web development.
++ **[Notable Community Members](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/notable-community-members.md)**: Important engineers, evangelists, architects and other celebrities.
++ **[Organizations](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/organizations.md)**: Commercial companies and nonprofit organizations around web development.
++ **[Podcasts](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/podcasts.md)**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
 
 ## Languages, Protocols, Browser APIs
 
-编程/标记语言和Web相关标准.
+Programming/mark-up languages and web related standards.
 
-+ **[Cascading Style Sheets (CSS)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/cascading-style-sheets-css.md) **：CSS是一种样式表语言，用于描述用HTML或XML编写的文档的表示.  它描述了元素应如何在屏幕上，纸上，语音或其他媒体上呈现.
-+ **[Document Object Model (DOM)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/document-object-model-dom.md) **：DOM是HTML，XML和SVG文档的编程接口.  它定义了允许访问树的方法，以便它们可以更改文档结构，样式和内容.
-+ **[HyperText Markup Language (HTML)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-markup-language-html.md)**：HTML是用于创建网页的标准标记语言，其元素构成所有网站的构建块.
-+ **[Hypertext Transfer Protocol (HTTP)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-transfer-protocol-http.md) **：超文本传输​​协议（HTTP）是用于分布式协作超媒体信息系统的应用程序协议.  HTTP是万维网数据通信的基础.
-+ **[JavaScript (EcmaScript)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-ecmascript.md) **：JavaScript是一种成熟的动态编程语言，当应用于HTML文档时，可以在网站上提供动态交互.  它由ECMAScript标准定义.
-+ **[JavaScript Object Notation (JSON)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-object-notation-json.md) **：JSON（JavaScript Object Notation）是一种轻量级的数据交换格式.  人类很容易读写.  机器很容易解析和生成.  它基于JavaScript编程语言的一个子集.
-+ **[Scalable Vector Graphics (SVG)](https://raw.githubusercontent.com/dypsilon/frontend-dev-bookmarks/master/languages-protocols-browser-apis/scalable-vector-graphics-svg?sanitize=true.md)**：用于二维图形的基于XML的矢量图像格式，支持交互性和动画.
-+ **[Service Workers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/service-workers.md)**：一种使应用程序能够利用持久后台处理的方法，包括在脱机时启用Web应用程序引导的钩子.
-+ **[Templating Languages and Engines](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/templating-languages-and-engines.md) **：模板引擎是将程序逻辑和表示分成两个独立部分的工具.  这使得逻辑和表示的开发更容易，提高了灵活性并简化了修改和维护.
-+ **[Transpiled Languages](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/transpiled-languages.md)**：抽象语言转换为原生的，浏览器支持的标准，如JavaScript或CSS.
-+ **[Uniform Resource Identifier (URI)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/uniform-resource-identifier-uri.md) **：URI是用于标识资源的字符串.  最常见的URI形式是统一资源定位器（URL）.
-+ **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md) **：Web Animations是一种新的JavaScript API，用于在Web上驱动动画内容.  通过统一SVG和CSS的动画功能，Web Animations解锁以前只能以声明方式使用的功能，并向开发人员展示强大的高性能动画功能.
-+ **[WebAssembly](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/webassembly.md)**：WebAssembly旨在填补JavaScript迄今为止被占用的地方：一个可用作编译器目标的低级代码表示.
++ **[Cascading Style Sheets (CSS)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/cascading-style-sheets-css.md)**: CSS are a stylesheet language used to describe the presentation of a document written in HTML or XML. It describes how elements should be rendered on screen, on paper, in speech, or on other media.
++ **[Document Object Model (DOM)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/document-object-model-dom.md)**: The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.
++ **[HyperText Markup Language (HTML)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-markup-language-html.md)**: HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
++ **[Hypertext Transfer Protocol (HTTP)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-transfer-protocol-http.md)**: The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
++ **[JavaScript (EcmaScript)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-ecmascript.md)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
++ **[JavaScript Object Notation (JSON)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-object-notation-json.md)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
++ **[Scalable Vector Graphics (SVG)](https://raw.githubusercontent.com/dypsilon/frontend-dev-bookmarks/master/languages-protocols-browser-apis/scalable-vector-graphics-svg?sanitize=true.md)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
++ **[Service Workers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/service-workers.md)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
++ **[Templating Languages and Engines](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/templating-languages-and-engines.md)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
++ **[Transpiled Languages](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/transpiled-languages.md)**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
++ **[Uniform Resource Identifier (URI)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/uniform-resource-identifier-uri.md)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
++ **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
++ **[WebAssembly](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
 
 ## User Interface Components
 
-用于网站和应用程序的Drop-in UI组件.
+Drop-in UI components for web sites and applications.
 
-+ **[Buttons](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/buttons.md)**：术语按钮是指为用户提供触发事件的简单方法的任何图形控件元素，例如在搜索引擎中搜索查询，或与对话框交互，如确认操作.
-+ **[Code](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/code.md)**：设计用于嵌入网站内的代码查看器和编辑器.
-+ **[Forms](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/forms.md) **：网页上的HTML表单允许用户输入发送到服务器进行处理的数据.  Web用户使用复选框，单选按钮或文本字段填写表单.
-+ **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/galeries-and-image-sliders.md)**：在您的网站上展示图像集的复杂方式.
-+ **[Grid](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/grid.md)**：CSS网格布局系统.
-+ **[Rich Text Editors](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/rich-text-editors.md) **：富文本编辑器是用于在Web浏览器中编辑富文本的界面.  目的是减少尝试将其格式直接表示为有效HTML标记的用户的工作量.
-+ **[Table Of Contents](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/table-of-contents.md)**：用于自动生成目录的组件.
-+ **[UI Kits](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/ui-kits.md)**：即用型组件的集合.
-+ **[Video & Audio](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/video-and-audio.md)**：用于在网站上播放音频和视频文件的组件.
++ **[Buttons](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
++ **[Code](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/code.md)**: Code viewers and editors designed for embedding inside a website.
++ **[Forms](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/forms.md)**: A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
++ **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
++ **[Grid](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/grid.md)**: CSS Grid Layout Systems.
++ **[Rich Text Editors](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/rich-text-editors.md)**: A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
++ **[Table Of Contents](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/table-of-contents.md)**: Components for automatic table of contents generation.
++ **[UI Kits](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/ui-kits.md)**: Collections of ready to use components.
++ **[Video & Audio](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/video-and-audio.md)**: Components for playing audio and video files on a website.
 
 ## Workflow
 
-任务自动化和资产交付.
+Task automation and asset delivery.
 
-+ **[Automated Testing](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/automated-testing.md)**：自动软件测试是软件工具在软件应用程序投入生产之前对其执行预编写测试的过程.
-+ **[Build Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/build-tools.md)**：工具包及其生态系统，可帮助您自动完成痛苦和重复的任务.
-+ **[CSS Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/css-tools.md)**：用于分析，处理CSS文件的工具.
-+ **[Code Editors](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/code-editors.md)**：专为编辑网站源代码而设计的文本编辑器程序.
-+ **[Documentation](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/documentation.md)**：编写，生成，发布和使用Web可交付成果的文档.
-+ **[Fonts for Programmers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/fonts-for-programmers.md)**：程序员需要特殊字体，这有助于对齐代码并区分看起来相似的字符.
-+ **[Getting Started](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/getting-started.md)**：用于设置前端开发工作流程的分步指南.
-+ **[HTML Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/html-tools.md)**：用于HTML源代码的预处理和后处理的工具.
-+ **[Image Post Processing](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/image-post-processing.md)**：用于图像转换和优化的工具.
-+ **[JavaScript Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/javascript-tools.md)**：用于静态分析，JavaScript文件的前后处理的工具.
-+ **[Package Management](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/package-management.md)**：包管理器或包管理系统是一组软件工具，可以以一致的方式自动执行安装，升级，配置和删除可重用库和组件的过程.
-+ **[Sourcemaps](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/sourcemaps.md)**：Sourcemap是一种将组合/缩小文件映射回未构建状态的方法.
-+ **[Version Control](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/version-control.md)**：版本控制或源代码控制是一个记录文件或文件集随时间变化的系统，以便您以后可以调用特定版本.
++ **[Automated Testing](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/automated-testing.md)**: Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
++ **[Build Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/build-tools.md)**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.
++ **[CSS Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/css-tools.md)**: Tools for analysis, pre and post processing of CSS files.
++ **[Code Editors](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/code-editors.md)**: Text editor programs designed specifically for editing source code of a website.
++ **[Documentation](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/documentation.md)**: Writing, generating, publishing and consuming documentation for web deliverables.
++ **[Fonts for Programmers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/fonts-for-programmers.md)**: Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
++ **[Getting Started](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/getting-started.md)**: Step by step guides for setting up a frontend development workflow.
++ **[HTML Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/html-tools.md)**: Tools for pre and post processing of the HTML source code.
++ **[Image Post Processing](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/image-post-processing.md)**: Tools for image conversion and optimization.
++ **[JavaScript Tools](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/javascript-tools.md)**: Tools for static analysis, pre and post processing of JavaScript files.
++ **[Package Management](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
++ **[Sourcemaps](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
++ **[Version Control](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 
 ------------------
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可协议授权</a> .
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
- 请提供一个返回此存储库的链接.  这对于GitHub分叉不是必需的.
+Please provide a link back to this repository. This is not necessary for GitHub forks.

@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-observables"></div>
 ## Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;安 [Observable](https://github.com/zenparsing/es-observable)  是一个随着时间推移到来的集合.  Observable可用于模拟基于推送的数据源，例如事件，计时器间隔，异步请求和动画.  可以使用类似数组的方法转换，组合和使用Observable.
+> An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
 
-你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
-*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) 在贡献之前.*
+*Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) before contributing.*
 
 
 
@@ -25,36 +25,36 @@
 
 ## Packages
 
-- [any-observable](https://github.com/sindresorhus/any-observable) - 支持任何Observable库和polyfill.
-- [is-observable](https://github.com/sindresorhus/is-observable) - 检查值是否为Observable.
-- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - 将Observable转换为Promise.
-- [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - 将Node.js流转换为Observable.
+- [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
+- [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
+- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
+- [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
-- [obsify](https://github.com/samverschueren/obsify) -  Observableify回调式函数.
-- [localForage-observable](https://github.com/thgreasi/localForage-observable) -  localForage的可观察量.
+- [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function.
+- [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
 
 
 ## Libraries
 
-*这些是利用Observables功能的库，不一定是兼容特性的Observable实现.*
+*These are libraries that harness the power of Observables, not necessarily spec compatible Observable implementations.*
 
-- [Cycle.js](http://cycle.js.org) - 用于清洁代码的功能性和反应性JavaScript框架.
+- [Cycle.js](http://cycle.js.org) - A functional and reactive JavaScript framework for cleaner code.
 
 
 ## Articles
 
-- [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - 使用Observables进行反应式编程.
-- [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - 到处使用Observable的好处.
+- [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
+- [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - Benefits of using Observables everywhere.
 - [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
 
 
 ## Videos
 
-- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) -  Egghead.io课程.
+- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - Egghead.io lesson.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

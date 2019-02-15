@@ -1,13 +1,13 @@
 <div class="github-widget" data-repo="MaximAbramchuck/awesome-interview-questions"></div>
 ## Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;技术面试问题清单的精选清单.
+> A curated list of lists of technical interview questions.
 
 [What makes for an awesome list?](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/awesome.md)
 
-请阅读 [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
+Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) or the [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) if you want to contribute.
 
-**看看我 [channel](https://t.me/botcube) 要么 [blog](https://medium.com/@MaximAbramchuk).**
+**Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
 
 
 

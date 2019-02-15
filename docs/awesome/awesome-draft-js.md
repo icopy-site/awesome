@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="nikgraf/awesome-draft-js"></div>
 ## Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Draft.js](https://draftjs.org/) 是一个在React中构建富文本编辑器的框架.
+[Draft.js](https://draftjs.org/) is a framework for building rich text editors in React.
 
 
 - [Community](https://github.com/nikgraf/awesome-draft-js#community)
@@ -27,73 +27,73 @@
 
 ## Standalone Editors Built on Draft.js
 
-* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) -  WYSIWYG编辑器，具有拖放功能，调整大小和工具提示.
-* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - 受Medium＆Facebook Notes启发的富文本编辑器.
-* [React-RTE](https://github.com/sstur/react-rte/) - 类似于CKEditor或TinyMCE的全功能textarea替代品.
-* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - 富文本编辑器类似于Facebook笔记.
-* [Megadraft](https://github.com/globocom/megadraft) - 富文本编辑器，具有良好的插件和可扩展性默认基础.
-* [Medium Draft](https://github.com/brijeshb42/medium-draft) - 类似中型的富文本编辑器，侧重于键盘快捷键.
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) -  WYISWYG编辑器，具有各种文本编辑选项和相应的HTML生成.
-* [Dante 2](https://github.com/michelson/dante2) - 构建在DraftJs之上的另一个中等克隆.
-* [Last Draft](https://github.com/vacenz/last-draft) - 使用Draft.js插件构建的草稿编辑器.
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - 在线Z-notations编辑器.
-* [Draftail](https://github.com/springload/draftail/) - 基于Draft.js的可配置富文本编辑器，专为Wagtail构建.
-* [Braft](https://github.com/margox/braft-editor) - 可扩展的JS JS编辑器
+* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
+* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - A Rich text editor inspired by Medium & Facebook Notes.
+* [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
+* [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
+* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
+* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notations editor.
+* [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
+* [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) -  Draft.js之上的插件架构
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - 自动无序/有序列表创建.
-  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - 键入时中断块类型.
+  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
+  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
   - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
-  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - 字符，单词和行计数.
+  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
   - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin)
   - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
   - [Embed](https://github.com/vacenz/last-draft-js-plugins)
-  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - 类似Slack的表情符号支持
+  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
   - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins)
   - [Focus](https://www.draft-js-plugins.com/plugin/focus)
   - [GifPicker](https://github.com/vacenz/last-draft-js-plugins)
-  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - 类似Twitter的标签支持
+  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
   - [Image](https://www.draft-js-plugins.com/plugin/image)
   - [Inline Toolbar](https://www.draft-js-plugins.com/plugin/inline-toolbar)
-  - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - 使用Katex插入和渲染LaTeX.
+  - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
   - [Link](https://github.com/vacenz/last-draft-js-plugins)
-  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - 自动将链接转换为锚标记.
-  - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) -  Markdown语法快捷方式.
-  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - 使用Mathjax渲染的（La）TeX编辑数学.
-  - [Mention](https://www.draft-js-plugins.com/plugin/mention) - 类似Twitter的提及支持
+  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
+  - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
+  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Modal](https://github.com/vacenz/last-draft-js-plugins)
-  - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - 使用Prism语法突出显示代码块.
+  - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism.
   - [Resizeable](https://www.draft-js-plugins.com/plugin/resizeable)
-  - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - 添加和自定义丰富的格式按钮.
+  - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
   - [Side Toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
   - [Sidebar](https://github.com/vacenz/last-draft-js-plugins)
-  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - 限制为单行输入.
-  - [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - 类似Facebook的贴纸支持
+  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
+  - [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   - [Toolbar](https://github.com/vacenz/last-draft-js-plugins)
-  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - 撤消和重做按钮.
+  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
-* [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) - 赞美行号排水沟.
-* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - 接受html作为其输入格式，并将html返回到onChange.
-* [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism)- 使用Prism突出显示代码块.
-* [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - 支持预先输入功能.
-* [Draft Extend](https://github.com/HubSpot/draft-extend) - 使用可配置的插件和集成的序列化构建可扩展的Draft.js编辑器.
-* [Draft.js Code](https://github.com/SamyPesse/draft-js-code) - 用于更好代码编辑的低级实用程序的集合
-* [Draft.js Annotatable](https://github.com/cltk/annotations) -  Draft.js的开箱即用注释系统，支持用户创建的注释.
-* [Draft.js Regex](https://github.com/YozhikM/draft-regex) - 一组灵活的帮助程序，如正则表达式，空行防止和粘贴HTML清除.
+* [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) - Compliments line number gutter.
+* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
+* [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism)- Highlight code blocks using Prism.
+* [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
+* [Draft Extend](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
+* [Draft.js Code](https://github.com/SamyPesse/draft-js-code) - A collection of low-level utilities for nicer code editing
+* [Draft.js Annotatable](https://github.com/cltk/annotations) - Out of the box annotation system for Draft.js with support for user-created annotations.
+* [Draft.js Regex](https://github.com/YozhikM/draft-regex) - The set of flexible helpers, like regex, blank lines preventing and pasted HTML clearing.
 
 ## Common Utilities
 
-* [Redraft](https://github.com/lokiuz/redraft) - 使用提供的回调渲染Draft.js convertToRaw的结果，与React配合良好
-* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- 从伴侣draft-js-ast-exporter导入抽象语法树（AST）输出.
-* [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - 组合多个装饰器.
-* [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - 轻松创建灵活的装饰.
-* [DraftJS Utils](https://github.com/jpuri/draftjs-utils) -  DraftJS的一组实用功能.
-* [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) -  Draft.js模型的React Native渲染.
-* [Sticky](https://github.com/nadunindunil/sticky) - 简单的笔记和剪贴板管理桌面应用程序
+* [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
+* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
+* [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators.
+* [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
+* [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS.
+* [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
+* [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
 ## Blog Posts & Articles
 
@@ -103,7 +103,7 @@
 * [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
 * [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 * [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
-* [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - 关于如何使用draft.js开发的系列博客文章
+* [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - Series of blog posts on how to develop with draft.js
 * [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
 * [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
@@ -112,7 +112,7 @@
 * [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 * [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
-* [Draftail Playground](https://draftail-playground.herokuapp.com/) -  Wagtail的Draft.js依赖项作为独立演示.
+* [Draftail Playground](https://draftail-playground.herokuapp.com/) – Wagtail’s Draft.js dependencies as a standalone demo.
 * [Draft drag and drop demo for mobile browser](https://github.com/jan4984/draft-dnd-example)
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
@@ -137,4 +137,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Nikolaus Graf](https://github.com/nikgraf/) 已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.

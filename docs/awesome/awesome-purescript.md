@@ -1,85 +1,85 @@
 <div class="github-widget" data-repo="passy/awesome-purescript"></div>
 ## awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; PureScript的精美库，工具和其他闪亮的东西的精选列表.
+> A curated list of delightful libraries, tools and other shiny things for PureScript.
 
 ## Build Tooling
 
 - [pulp](https://github.com/bodil/pulp)
-- [psvm-js](https://github.com/ThomasCrvsr/psvm-js) -  PureScript版本管理器
-- [purescript-psa](https://github.com/natefaubion/purescript-psa) - 一个非常灵活的错误/警告报告前端`psc`
+- [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager
+- [purescript-psa](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 - [grunt-purescript](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript](https://github.com/purescript-contrib/gulp-purescript)
-- [purs-loader](https://github.com/ethul/purs-loader) 对于webpack
-- [psc-package](https://github.com/purescript/psc-package) - 基于包集的PureScript包管理器
+- [purs-loader](https://github.com/ethul/purs-loader) for webpack
+- [psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
 
 ## Preludes
 
-- [purescript-prelude](https://github.com/purescript/purescript-prelude) - 标准前奏曲.
-- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - 具有更多功能的PureScript前奏曲.
+- [purescript-prelude](https://github.com/purescript/purescript-prelude) - The standard Prelude.
+- [purescript-batteries](https://github.com/tfausak/purescript-batteries) - A PureScript prelude with more features.
 
 ## UI Libraries
 
 CSS:
 
-- [purescript-css](https://github.com/slamdata/purescript-css) - 一个干净的，类型安全的库，用于描述，操作和渲染CSS.
+- [purescript-css](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
 
 React-based:
 
-- [purescript-thermite](https://github.com/paf31/purescript-thermite) - 一个简单的ReactJS包装器，灵感来自`react-blaze`.
-- [purescript-react](https://github.com/purescript-contrib/purescript-react) - 针对PureScript的React绑定
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - 简化包装反应.
-- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - 针对React库的一组固定的绑定，针对最基本的用例进行优化.
-- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - 使用PureScript构建类型安全的Web应用程序.
-- [purescript-spork](https://github.com/natefaubion/purescript-spork) - 对于PureScript来说就像榆木一样.
-- [purescript-concur](https://github.com/ajnsit/purescript-concur)   -  Concur UI框架.  反应后端，但可以使用其他人.
-- [purescript-presto](https://github.com/juspay/purescript-presto) - 像数学方程式一样编写应用程序！
-- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - 借助镜头和遍历，以声明和简洁的方式编写单页Web用户界面.
-- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - 使用comonads进行React UI建模的实验.
+- [purescript-thermite](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
+- [purescript-react](https://github.com/purescript-contrib/purescript-react) - React bindings for PureScript
+- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases.
+- [purescript-pux](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
+- [purescript-spork](https://github.com/natefaubion/purescript-spork) - Elm-like for PureScript.
+- [purescript-concur](https://github.com/ajnsit/purescript-concur) - Concur UI framework. React backend, but can use others.
+- [purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations!
+- [purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+- [purescript-react-explor](https://github.com/paf31/purescript-react-explore) - Experiments with comonads for modelling React UIs.
 
-基于Virtual-DOM：
+Virtual-DOM based:
 
-- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - 声明性的，类型安全的UI库.
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
 
 Signals/Behaviors/FRP:
 
-- [purescript-flare](https://github.com/sharkdp/purescript-flare) - 在purescript-signal之上构建的应用式反应用户界面.
-- [purescript-turbine](https://github.com/funkia/purescript-turbine) - 由FRP提供支持的纯功能前端框架.
-- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - 基于Rx和VirtualDom的功能和反应式UI框架.
-- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - 如果我们没有VDOM，TEA会是什么样子？
-- [purescript-specular](https://github.com/restaumatic/purescript-specular) - 用于PureScript的Reflex-Dom灵感UI库.
-- [purescript-sdom](https://github.com/paf31/purescript-sdom) - 替换虚拟DOM并避免差异的实验.
-- [purescript-purview](https://github.com/paf31/purescript-purview) - 基于增量lambda演算的UI库.
+- [purescript-flare](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
+- [purescript-turbine](https://github.com/funkia/purescript-turbine) - Purely functional frontend framework powered by FRP.
+- [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch) - A functional and reactive UI framework based on Rx and VirtualDom.
+- [purescript-panda](https://github.com/i-am-tom/purescript-panda) - What would TEA look like if we had no VDOM?
+- [purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript.
+- [purescript-sdom](https://github.com/paf31/purescript-sdom) - An experiment in replacing the virtual DOM and avoiding diffing.
+- [purescript-purview](https://github.com/paf31/purescript-purview) - A UI library based on the incremental lambda calculus.
 
 ## URL Routers
 
-- [purescript-routing](https://github.com/slamdata/purescript-routing) - 用于PureScript的干净，类型安全的路由库.
-- [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - 在PureScript中实现的React-Router作为Array仿函数的Cofree Comonad.
-- [purescript-trout](https://github.com/owickstrom/purescript-trout) -  PureScript的类型级路由.
-- [purescript-boomboom](https://github.com/paluh/purescript-boomboom)   - 永远不要再次硬编码你的网址.  Boomboom他们所有！
+- [purescript-routing](https://github.com/slamdata/purescript-routing) - A clean, type-safe routing library for PureScript.
+- [purescript-cofree-react-router](https://github.com/coot/purescript-cofree-react-router) - React-Router implemented in PureScript as Cofree Comonad for the Array functor.
+- [purescript-trout](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript.
+- [purescript-boomboom](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all!
 
 ## Components
 
-- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - 用于常见选择用户界面的构建块，如下拉列表，预先输入，图像选择器和日历.
-- [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - 流行的ECharts图表库的卤素集成
-- [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - 卤素的日间选择器
-- [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - 卤素灯的互动菜单
+- [purescript-halogen-select](https://github.com/citizennet/purescript-halogen-select) - Building blocks for common selection user interfaces like dropdowns, typeaheads, image pickers, and calendars.
+- [purescript-halogen-echarts](https://github.com/slamdata/purescript-halogen-echarts) - A Halogen integration for the popular ECharts charting library
+- [purescript-halogen-day-picker](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen
+- [purescript-halogen-menu](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff](https://github.com/slamdata/purescript-aff) -  PureScript的异步效果monad.
-- [purescript-affjax](https://github.com/slamdata/purescript-aff) - 使用Aff构建的异步AJAX库.
+- [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
+- [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
 ## Effect Management
 
-- [purescript-eff](https://github.com/purescript/purescript-eff) -  Eff monad，用于处理原生副作用.
+- [purescript-eff](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
 
 ## Testing
 
-- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) -  PureScript的异步单元测试运行器.
-- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) -  PureScript中QuickCheck的实现.
-- [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - 核心课程的法律测试.
-- [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - 针对PureScript / JavaScript的简单基准测试.
+- [purescript-test-unit](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
+- [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript.
+- [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes.
+- [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript.
 
 ## Learning Resources
 
@@ -93,7 +93,7 @@ Signals/Behaviors/FRP:
 
 ## Discovery
 
-- [Module Linker](https://fiatjaf.alhur.es/module-linker/#/purescript) - 扩展，只需单击GitHub上的`import`声明即可浏览文档.
+- [Module Linker](https://fiatjaf.alhur.es/module-linker/#/purescript) - Extension that lets you browse docs by just clicking on `import` declarations on GitHub.
 - [Pursuit](https://pursuit.purescript.org/)
 
 ## Editor and IDE Plugins
@@ -109,15 +109,15 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 
 ## More Resources
 
-- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - 受欢迎的图书馆排名列表.
+- [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/passy/awesome-purescript/blob/master/contributing.md) 第一.
+Contributions welcome! Read the [contribution guidelines](https://github.com/passy/awesome-purescript/blob/master/contributing.md) first.
 
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Pascal Hartig](https://passy.me/) 已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived all copyright and related or neighboring rights to this work.

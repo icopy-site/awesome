@@ -1,13 +1,13 @@
 <div class="github-widget" data-repo="aleksandar-todorovic/awesome-linux"></div>
-<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">Linux的</h1>
+<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
 
-<p align="center">我们都知道Linux很棒，但这里列出了与Linux生态系统相关的特别棒的东西. </p>
+<p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
 
 ![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
 
 ---
 
-<p align="center">您可能还想检查<a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a> ， <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a> ， <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>和<a href="https://github.com/sbilly/awesome-security">awesome-security</a> . </p>
+<p align="center"> You might also want to check <a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a>, <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a>, <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>, and <a href="https://github.com/sbilly/awesome-security">awesome-security</a>.</p>
 
 ---
 
@@ -15,47 +15,47 @@
 
 ## Distributions
 
- 分发分为三个不同的类别：**初学者**，**中级**用户和**高级**用户.  在这些类别中，分布按字母顺序组织.
+Distributions are organized into three different categories: for **beginners**, for **intermediate** users and for **advanced** users. In those categories, the distributions are organized in the alphabetical order.
 
 ### Beginners
 
 #### [elementary OS](http://elementary.io/)
 
- &gt;基本操作系统是基于Ubuntu的桌面分发版.  它的一些更有趣的功能包括一个名为Pantheon的自定义桌面环境和许多自定义应用程序，包括照片，音乐，视频，日历，终端，文件等.  它还附带了一些熟悉的应用程序，如Epiphany Web浏览器和Geary邮件分支. 
+> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
 
-**最新版本：**基本操作系统Juno（5.0）
+**Latest version:** elementary OS Juno (5.0)
 
-**默认桌面环境：**万神殿
+**Default Desktop Environment:** Pantheon
 
 ![default look](https://elementary.io/images/screenshots/desktop.jpg)
 
 #### [Fedora](https://getfedora.org/)
 
- &gt; Fedora（以前称为Fedora Core）是由社区支持的Fedora项目开发并由Red Hat拥有的Linux发行版.  Fedora包含在免费和开源许可下分发的软件，旨在处于这些技术的前沿.  Fedora以创新为重点，早期集成新技术并与上游Linux社区密切合作.  Fedora中的默认桌面是GNOME桌面环境，默认界面是GNOME Shell.  其他桌面环境，包括KDE，Xfce，LXDE，MATE和Cinnamon，都可以使用.  Fedora项目还分发Fedora的自定义变体Fedora spins.  它们使用特定的软件包构建，提供替代桌面环境或针对特定兴趣，如游戏，安全，设计，科学计算和机器人.
+> Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**最新版本：** Fedora Twenty Nine（29）
+**Latest version:** Fedora Twenty Nine (29)
 
-**默认桌面环境：** GNOME
+**Default Desktop Environment:** GNOME
 
 ![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
 
 #### [Linux Mint](http://linuxmint.com/)
 
- &gt; Linux Mint是一个基于Ubuntu的发行版，其目标是通过包含浏览器插件，支持DVD播放，Java和其他组件来提供更完整的开箱即用体验.  它还添加了自定义桌面和菜单，几个独特的配置工具和基于Web的包安装界面.  Linux Mint与Ubuntu软件存储库兼容.
+> Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**最新版本：** Linux Mint Tessa（19.1）
+**Latest version:** Linux Mint Tessa (19.1)
 
-**默认桌面环境：**肉桂和MATE
+**Default Desktop Environment:** Cinnamon and MATE
 
 ![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
- &gt; Ubuntu是一个完整的桌面Linux操作系统，可以免费获得社区和专业支持.  Ubuntu社区建立在Ubuntu宣言中所体现的理念之上：软件应该是免费提供的，软件工具应该由当地语言的人使用，尽管有任何残疾，人们应该可以自由定制和以他们认为合适的方式改变他们的软件.  “Ubuntu”是一个古老的非洲词，意思是“对他人的人性”.  Ubuntu发行版将Ubuntu的精神带入了软件世界. 
+> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
-**最新版本：** Ubuntu 18.10
+**Latest version:** Ubuntu 18.10
 
-**默认桌面环境：** GNOME
+**Default Desktop Environment:** GNOME
 
 ![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
 
@@ -63,41 +63,41 @@
 
 #### [CentOS](https://www.centos.org/)
 
- &gt; CentOS作为一个群体，是一个由开源贡献者和用户组成的社区.  典型的CentOS用户是不需要强大的商业支持以实现成功运营的组织和个人.  CentOS完全符合Red Hat的再分发要求，可以100％兼容Red Hat Enterprise Linux的重建.  CentOS适用于需要企业级操作系统稳定性且无需认证和支持成本的人员.
+> CentOS as a group is a community of open source contributors and users. Typical CentOS users are organisations and individuals that do not need strong commercial support in order to achieve successful operation. CentOS is 100% compatible rebuild of the Red Hat Enterprise Linux, in full compliance with Red Hat's redistribution requirements. CentOS is for people who need an enterprise class operating system stability without the cost of certification and support.
 
-**最新版本：** CentOS 7.1810
+**Latest version:** CentOS 7.1810
 
-**默认桌面环境：** GNOME
+**Default Desktop Environment:** GNOME
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/centos.png)
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
- &gt; Debian项目是一个由共同创造自由操作系统的个人组成的协会.  这个操作系统叫做Debian.  Debian系统目前使用Linux内核.  Linux是由Linus Torvalds创建的完全免费的软件，并得到全球数千名程序员的支持.  当然，人们想要的是应用软件：帮助他们获得他们想要做的事情的程序，从编辑文档到运营企业，再到玩游戏，再到编写更多软件.  Debian附带了超过50,000个软件包（预编译软件捆绑在一个很好的格式中，便于在您的机器上安装） - 所有这些软件都是免费的.  它有点像塔.  在基础是内核.  最重要的是所有基本工具.  接下来是您在计算机上运行的所有软件.  在塔的顶部是Debian  - 仔细组织和装配所有东西，以便它们一起工作. 
+> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
-**最新版本：** Debian Stretch（9.6）
+**Latest version:** Debian Stretch (9.6)
 
-**默认桌面环境：** GNOME
+**Default Desktop Environment:** GNOME
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/debian.png)
 
 #### [Mageia](http://www.mageia.org/)
 
- &gt; Mageia是Mandriva Linux的一个分支，由2010年9月由前法律Linux发行版的前员工和贡献者组成.  与作为商业实体的Mandriva不同，Mageia项目是一个社区项目和一个非营利组织，其目标是开发一个免费的基于Linux的操作系统.
+> Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
-**最新版本：** Mageia 6.1
+**Latest version:** Mageia 6.1
 
-**默认桌面环境：** KDE
+**Default Desktop Environment:** KDE
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
 
 #### [Manjaro](https://manjaro.org/)
 
- &gt; Manjaro Linux是一个基于Arch Linux的快速，用户友好，面向桌面的操作系统.  主要功能包括直观的安装过程，自动硬件检测，稳定的滚动发布模型，安装多个内核的能力，用于管理图形驱动程序的特殊Bash脚本以及广泛的桌面可配置性.  Manjaro Linux提供Xfce作为核心桌面选项，以及为更高级用户提供的简约网络版.  提供社区支持的GNOME 3 / Cinnamon和KDE口味.  用户还可以从支持性和充满活力的Manjaro社区论坛中受益.
+> Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as a minimalist Net edition for more advanced users. Community-supported GNOME 3/Cinnamon and KDE flavours are available. Users also benefit from the supportive and vibrant Manjaro community forum.
 
-**最新版本：** Manjaro 18.0.2
+**Latest version:** Manjaro 18.0.2
 
-**默认桌面环境：** XFCE，KDE
+**Default Desktop Environment:** XFCE, KDE
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
 
@@ -105,9 +105,9 @@
 
 > The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
 
-**最新版本：** openSUSE Leap 15.0和openSUSE Tumbleweed（滚动发布系统）
+**Latest version:** openSUSE Leap 15.0 and openSUSE Tumbleweed (Rolling Release system)
 
-**默认桌面环境：** KDE，GNOME，XFCE，LXDE（安装时选择）
+**Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
 
 ![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
 
@@ -115,43 +115,43 @@
 
 #### [Arch Linux](https://www.archlinux.org/)
 
- &gt; Arch Linux是一个独立开发的，经过x86_64优化的Linux发行版，面向有能力的Linux用户.  它使用其本土包管理器“pacman”，通过完全依赖性跟踪为最新的软件应用程序提供更新.  在滚动发布系统上运行，可以从CD映像或通过FTP服务器安装Arch.  默认安装提供了一个坚实的基础，使用户可以创建自定义安装.  此外，Arch Build System（ABS）提供了一种轻松构建新软件包，修改库存软件包配置以及通过Arch Linux用户存储库与其他用户共享这些软件包的方法.
+> Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
-**最新版本：**不适用（滚动释放系统）
+**Latest version:** Not applicable (Rolling Release system)
 
-**默认桌面环境：**不适用（没有默认的桌面环境）
+**Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 
 ### Special Purpose
 
 #### [CoreOS](https://coreos.com/)
 
-**专长：**集群
+**Specialty:** Clusters
 
- &gt; CoreOS是一个基于Linux的服务器操作系统.  CoreOS从头开始构建，主要面向现代数据中心，提供专业工具，使系统安全，可靠和最新.  该发行版的一些更有趣的功能包括通过FastPatch进行可靠的更新和补丁，通过CoreUpdate管理滚动更新的仪表板，用于打包应用程序的docker，以及对裸机和许多云提供商的支持.
+> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers.
 
 #### [Kali Linux](http://www.kali.org/)
 
-**专业：**渗透测试
+**Specialty:** Penetration testing
 
- &gt; Kali Linux（以前称为BackTrack）是一个基于Debian的发行版，包含一系列安全和取证工具.  它具有及时的安全更新，支持ARM架构，可选择四种流行的桌面环境，以及无缝升级到新版本.
+> Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
 #### [Puppy Linux](http://puppylinux.org/)
 
-**专业：**系统要求低
+**Specialty:** Low system requirements
 
- &gt; Puppy Linux是另一个Linux发行版.  这里的不同之处在于Puppy非常小巧，但却功能齐全.  小狗启动到一个ramdisk，不像现场CD发行版，必须继续拉CD，它加载到RAM.  这意味着所有应用程序都会在眨眼之间启动并立即响应用户输入.  Puppy Linux能够启动闪存卡或任何USB存储设备，CDROM，Zip磁盘或LS / 120/240 Superdisk，软盘，内置硬盘.  它甚至可以使用多区段格式化的CD-RW / DVD-RW将所有内容保存回CD / DVD，而根本不需要硬盘驱动器.
+> Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.
 
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
-**专业：**多媒体创作
+**Specialty:** Multimedia creation
 
- &gt; Ubuntu Studio是Ubuntu的变种，针对GNU / Linux音频，视频和图形爱好者以及专业人士.  该发行版提供了一系列可用于创建多媒体的开源应用程序.
+> Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
 
 #### [Tails](https://tails.boum.org/index.en.html)
 
-**专长：**隐身实时系统
+**Specialty:** Incognito live system
 
- &gt; Tails是一个旨在保护您的隐私和匿名的实时系统.  它可以帮助您匿名使用互联网，几乎可以在任何地方和任何计算机上绕过审查，但除非您明确要求，否则不会留下任何痕迹.  它是一个完整的操作系统，设计用于独立于计算机原始操作系统的USB记忆棒或DVD.  它是免费软件，基于Debian GNU / Linux.  Tails附带了几个内置应用程序，预先配置了安全性：Web浏览器，即时消息客户端，电子邮件客户端，办公套件，图像和声音编辑器等.
+> Tails is a live system that aims to preserve your privacy and anonymity. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. It is a complete operating system designed to be used from a USB stick or a DVD independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux. Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
 
 ## Learning Resources
 
@@ -159,29 +159,29 @@
 
 #### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.36] [[FREE](http://linuxcommand.org/tlcl.php)]
 
- 这是Linux命令行的一个很好的介绍.   -  [@4iar](https://github.com/4iar/)
+This is a great introduction to the Linux command line. - [@4iar](https://github.com/4iar/)
 
-&gt;您已经体验过Linux计算机闪亮的点击式表面 - 现在可以在下面潜入并利用命令行的强大功能探索其深度.
+> You've experienced the shiny, point-and-click surface of your Linux computer—now dive below and explore its depths with the power of the command line.
 
 #### [The Debian Administrator's Handbook, Debian Wheezy from Discovery to Mastery](https://www.goodreads.com/book/show/20839133-the-debian-administrator-s-handbook-debian-wheezy-from-discovery-to-mas) [4.83] [[FREE](https://debian-handbook.info/get/now/)]
 
- 好的书，教你Debian GNU / Linux管理的基础知识.   -  [@elninosi](https://github.com/elninosi)
+Good book that teaches you the basics of Debian GNU/Linux administration. - [@elninosi](https://github.com/elninosi)
 
- &gt;它涵盖了一个有能力的Linux管理员应该掌握的所有主题，从安装，系统更新，到包的创建和内核的编译，还有监视，备份和迁移.  此外，还有用于保护服务，自动安装或虚拟化的高级主题.
+> It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
 
 #### Bash Shell Scripting [[FREE](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)]
 
-&gt;目前本书提供了Bash的入门级知识.
+> Currently this book provides an introduction level knowledge of Bash.
 
 ### Courses
 
 #### [Introduction to Linux (LFS101x-1)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1) [Free]
 
- 由Linux基金会组织，这是一门学习Linux基础知识的免费课程.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+Organized by the Linux Foundation, it's a great free course to learn basics about Linux. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS) [Free]
 
- 如果您使用Windows并决定切换到Linux，本课程应该可以帮助您找到他们的替代方案.  这很短，你可以在一天内完成它.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 ### Bash Learning Resources
 
@@ -195,197 +195,197 @@
 
 ## X Desktop Environments
 
-&gt;你不能谈论统一的Linux外观，因为没有这样的东西.
+> You cannot talk about a unified Linux look because there is no such thing.
 
 ![relevant XKCD](http://imgs.xkcd.com/comics/standards.png)
 
 #### [GNOME](https://www.gnome.org)
 
- &gt; GNOME 3是一种简单而优雅的计算机使用方式.  它旨在让您掌控并为每个人带来自由.  GNOME 3由GNOME社区开发，GNOME社区是一个多元化的国际贡献者组织，由一个独立的非营利性基金会提供支持.
+> GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.
 
 ![screenshot](https://www.gnome.org/wp-content/uploads/2015/03/activities-overview-3.16-940x529.png)
 
 #### [KDE](https://www.kde.org)
 
- &gt;KDE®社区是一个国际技术团队，致力于创建免费且用户友好的计算体验，提供高级图形桌面，各种通信，工作，教育和娱乐应用程序以及轻松构建新应用程序的平台.  我们非常注重为新旧问题寻找创新解决方案，营造一个充满活力的实验氛围.
+> The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
 
 ![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
 
 #### [Xfce](http://www.xfce.org/)
 
- &gt; Xfce是一个适用于类UNIX操作系统的轻量级桌面环境.  它的目标是快速而低廉的系统资源，同时仍然具有视觉吸引力和用户友好性.
+> Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/7/71/Xfce-4.4.png)
 
 #### [LXDE](http://lxde.org/)
 
- &gt;“轻量级X11桌面环境”是一个性能极快且节能的桌面环境.  由国际开发人员社区维护，它具有漂亮的界面，多语言支持，标准键盘快捷方式和标签文件浏览等附加功能.  与其他环境相比，LXDE使用更少的CPU和更少的RAM.  它专为具有低硬件规格的云计算机而设计，例如上网本，移动设备（例如MID）或旧计算机.  LXDE可以安装在许多Linux发行版上，包括Debian，Fedora，OpenSUSE和Ubuntu.  它是Knoppix和lubuntu的标准.  LXDE也可以在OpenSolaris和BSD上运行.  LXDE提供快速的桌面体验;  轻松连接云中的应用程序.  LXDE支持大量可以在Linux系统本地安装的程序.  LXDE的源代码部分根据GNU通用公共许可证条款获得许可，部分根据LGPL条款获得许可.
+>  The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the GNU General Public License and partly under the LGPL.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/commons/4/4c/LXDE_desktop_full.png)
 
 #### Other Desktop Environments
 
-* [Cinnamon](http://developer.linuxmint.com/projects/cinnamon-projects.html) - 努力提供传统的用户体验.
-* [EDE](https://edeproject.org/) - 小型桌面环境，具有响应性，资源使用率低，并具有熟悉的外观和感觉.
-* [LXQt](http://lxqt.org/)   -  Qt端口和即将推出的LXDE版本，轻量级桌面环境.  它是LXDE-Qt和Razor-qt项目合并的产物：轻量级，模块化，超快速且用户友好的桌面环境.
-* [MATE](http://www.mate-desktop.org/)   - 使用传统隐喻为Linux用户提供直观且有吸引力的桌面.  GNOME 2的叉子.
-* [Pantheon](https://elementary.io)   -  Pantheon是最初为基本OS分发创建的默认桌面环境.  桌面与GNOME Shell和macOS有一些相似之处.
+* [Cinnamon](http://developer.linuxmint.com/projects/cinnamon-projects.html) - Strives to provide a traditional user experience.
+* [EDE](https://edeproject.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
+* [LXQt](http://lxqt.org/) - Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
+* [MATE](http://www.mate-desktop.org/) - Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.
+* [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. The desktop has some similarities with GNOME Shell and macOS.
 
 ## X Windows Managers
 
-* [9wm](http://unauthorised.org/dhog/9wm.html) - 窗口管理器，试图在X施加的约束内尽可能地模拟Plan 9窗口管理器8-1 / 2.
-* [awesome](https://awesomewm.org/) - 高度可配置的X窗口管理器.快速且可扩展.
-* [Blackbox](https://github.com/bradleythughes/blackbox)   -  X窗口系统的轻量级窗口管理器，没有库依赖性.  使用C ++构建.
-* [bspwm](https://github.com/baskerville/bspwm) - 平铺窗口管理器，将窗口表示为完整二叉树的叶子.
-* [Compiz](https://launchpad.net/compiz)   -  OpenGL合成窗口管理器.  它有一个可在运行时更改的插件系统.
-* [dwm](http://dwm.suckless.org/)   -  X的动态窗口管理器.它以平铺，单片和浮动布局管理窗口.  可以动态应用所有布局，优化应用程序和执行任务的环境.
-* [Enlightenment](http://www.enlightenment.org/) - 窗口管理器与一整套库捆绑在一起，可帮助您创建漂亮的用户界面.
-* [Fluxbox](http://www.fluxbox.org/)   - 适用于X的窗口管理器，轻巧且易于操作，但功能齐全，可实现轻松快速的桌面体验.  使用C ++构建.
-* [FVWM](http://fvwm.org/) - 符合ICCCM标准的X多个虚拟桌面窗口管理器.功能非常强大.
-* [i3](http://i3wm.org/)   - 平铺窗口管理器.  BSD许可.  主要针对高级用户和开发人员.
-* [IceWM](https://ice-wm.org/) - 窗口管理器，目标是快速，简单，而不是以用户的方式.
-* [JWM](http://www.joewing.net/projects/jwm/)   -  X11的轻量级窗口管理器.  对于较旧和/或功能较弱的系统而言，它们是不错的选择，尽管它能够在现代系统上运行.  使用C.建造
-* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - 在非桌面嵌入式平台上运行的X环境，例如手持设备，机顶盒，自助服务终端以及屏幕空间，输入机制或系统资源有限的任何其他内容.
-* [Mutter](https://download.gnome.org/sources/mutter/) -  X的窗口管理器.GNOME 3中的默认窗口管理器.
-* [Openbox](http://openbox.org/wiki/Main_Page) - 高度可配置的窗口管理器，具有广泛的标准支持.
-* [ratpoison](http://www.nongnu.org/ratpoison/)   - 一个简单的窗口管理器，没有库依赖，没有图形，没有装饰.  以GNU Screen为模型.
-* [Sawfish](http://sawfish.tuxfamily.org/)   - 可扩展的窗口管理器.  其目的是以最灵活和最有吸引力的方式管理窗户.  使用基于Lisp的脚本语言构建.
-* [wmii](https://code.google.com/p/wmii/) - 小型，可编写脚本的窗口管理器，具有9P文件系统接口和类似极致的布局.
-* [xmonad](http://xmonad.org/)   - 动态平铺X11窗口管理器.  通过自动对齐和搜索窗口，使工作更轻松.  使用Haskell构建.
+* [9wm](http://unauthorised.org/dhog/9wm.html) - Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
+* [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
+* [Blackbox](https://github.com/bradleythughes/blackbox) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
+* [bspwm](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
+* [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.
+* [Enlightenment](http://www.enlightenment.org/) - Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.
+* [Fluxbox](http://www.fluxbox.org/) - Window manager for X, lightweight and easy to handle but full of features to make an easy and fast desktop experience. Built using C++.
+* [FVWM](http://fvwm.org/) - ICCCM-compliant multiple virtual desktop window manager for X. Extremely powerful.
+* [i3](http://i3wm.org/) - Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.
+* [IceWM](https://ice-wm.org/) - Window manager with the goal of being fast, simple, and not getting in the user's way.
+* [JWM](http://www.joewing.net/projects/jwm/) - Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.
+* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
+* [Mutter](https://download.gnome.org/sources/mutter/) - Window manager for X. Default window manager in GNOME 3.
+* [Openbox](http://openbox.org/wiki/Main_Page) - Highly configurable window manager with extensive standards support.
+* [ratpoison](http://www.nongnu.org/ratpoison/) - A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.
+* [Sawfish](http://sawfish.tuxfamily.org/) - Extensible window manager. Its aim is to manage windows in the most flexible and attractive manner possible. Built using Lisp-based scripting language.
+* [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
+* [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
 
 
 ## Applications
 
-您应该使用的令人敬畏的Linux应用程序列表.
+The list of awesome Linux applications that you should be using.
 
-如果您正在寻找您喜欢的文本编辑器的一些专业技巧，您可能会感兴趣 [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)， 要么 [awesome-vscode](https://github.com/viatsko/awesome-vscode).
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode](https://github.com/viatsko/awesome-vscode).
 
 ### GUI-based Applications
 
 #### GNOME-based
 
-* [Builder](https://wiki.gnome.org/Apps/Builder) -  GNOME IDE，专注于为更多开发人员带来GNOME平台的强大功能.
-* [Evince](https://wiki.gnome.org/Apps/Evince) -  GNOME平台上最受欢迎的文档查看器.
-* [Gedit](https://wiki.gnome.org/Apps/Gedit) - 强大的通用文本编辑器.
-* [Polari](https://wiki.gnome.org/Apps/Polari) -  IRC客户端易于使用.
-* [To Do](https://wiki.gnome.org/Apps/Todo) - 简约的个人任务管理器，旨在适合您的GNOME桌面.
+* [Builder](https://wiki.gnome.org/Apps/Builder) - IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers.
+* [Evince](https://wiki.gnome.org/Apps/Evince) - The most popular document viewer on the GNOME platform.
+* [Gedit](https://wiki.gnome.org/Apps/Gedit) - Powerful general purpose text editor.
+* [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client built to be easy to use.
+* [To Do](https://wiki.gnome.org/Apps/Todo) - Minimalistic personal task manager designed to fit right into your GNOME desktop.
 
-有关更多基于GNOME的应用程序，请访问：https：//wiki.gnome.org/Apps
+For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 
 #### Pantheon-based
 
-* [FeedReader](https://jangernert.github.io/FeedReader/) -  RSS桌面客户端能够与多个在线服务集成.
-* [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - 内置生产力计时器的待办事项列表.
-* [NaSC](http://parnold-x.github.io/nasc/) - 智能计算器应用程序
-* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - 桌面演示应用程序.
-* [Vocal](http://vocalproject.net/) - 现代桌面的Podcast客户端.
+* [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
+* [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
+* [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
+* [Spice-Up](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
+* [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
 
 #### KDE-based
 
-* [Dolphin](https://userbase.kde.org/Dolphin) -  KDE的文件管理器专注于可用性.
-* [Krita](https://krita.org/en/) - 绘画程序.
+* [Dolphin](https://userbase.kde.org/Dolphin) - File manager for KDE focusing on usability.
+* [Krita](https://krita.org/en/) - Painting program.
 
-有关更多基于KDE的应用程序，请访问：https：//www.kde.org/applications/
+For more KDE-based apps, visit: https://www.kde.org/applications/
 
 #### Not based on any desktop environment
 
-* [Atom](https://atom.io) -  21世纪的黑客文本编辑器.
-* [ghostwriter](http://wereturtle.github.io/ghostwriter/) - 无分心的Markdown编辑器.
-* [GParted](https://gparted.sourceforge.io/) - 那里最流行的磁盘分区软件.
-* [Kodi](https://kodi.tv/) - 最受欢迎的娱乐中心.
-* [Zathura](https://pwmt.org/projects/zathura/)   - 高度可定制的文档查看器.  它提供简约且节省空间的界面以及主要侧重于键盘交互的简单使用.
-* [Etcher](https://www.balena.io/etcher/) -  Flash OS映像到SD卡和USB驱动器，安全，轻松. 
+* [Atom](https://atom.io) - Hackable text editor for the 21st century.
+* [ghostwriter](http://wereturtle.github.io/ghostwriter/) - Distraction-free Markdown editor.
+* [GParted](https://gparted.sourceforge.io/) - The most popular disk partitioning software out there.
+* [Kodi](https://kodi.tv/) - Most popular entertainment center.
+* [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
+* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives, safely and easily. 
 
 #### Third-party clients for online services
 
- &gt; **问：**为什么选择第三方应用？  为什么不是官方客户？
+> **Q:** Why third-party apps? Why not the official clients?
 >
-&gt; **答：**因为，在99％的情况下，官方客户是专有的.
+> **A:** Because, in 99% of the cases, official clients are proprietary.
 
-* [Corebird](http://corebird.baedert.org/) -  Twitter客户端.
-* [GNOME Twitch](http://gnome-twitch.vinszent.com/) - 抽搐球员.
-* [Caprine](https://github.com/sindresorhus/caprine/) -  Facebook的Messenger客户端具有一些额外的隐私功能.
-* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) -  Pushbullet客户端.
-* [ramme](https://github.com/terkelg/ramme) -  Instagram客户端.
-* [ScudCloud](https://github.com/raelgc/scudcloud/) - 具有附加功能的Slack客户端（与原始Slack客户端相比）.
-* [Whatever](https://github.com/CellarD0-0r/whatever) - 基于网络版的Evernote客户端.
+* [Corebird](http://corebird.baedert.org/) - Twitter client.
+* [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
+* [Caprine](https://github.com/sindresorhus/caprine/) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud](https://github.com/raelgc/scudcloud/) - Slack client with additional features (compared to the original Slack client).
+* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
 Distro-oriented:
 
-* [Y PPA Manager](https://launchpad.net/y-ppa-manager) （Ubuntu） - 管理PPA并搜索包.
-* [pirut](http://fedoraproject.org/wiki/Tools/pirut) （Fedora） - 提供一组用于管理软件的图形工具.
-* [Synaptics](http://www.nongnu.org/synaptic/) （Debian和`.deb`用户） - `apt`的图形包管理程序.
-* [YaST](https://en.opensuse.org/YaST_Software_Management) （openSUSE） -  openSUSE上的主程序包管理工具.
-* [dnfdragora](https://github.com/manatools/dnfdragora) （Fedora） - `dnf`包管理器的GUI.
-* [Yay](https://github.com/Jguer/yay) （Arch） -  Yay是`pacman`的众多包装器之一，它自动从AUR下载和安装包，可以找到完整的列表 [here](https://wiki.archlinux.org/index.php/AUR_helpers).
-* [Aura](https://github.com/aurapm/aura) （Arch） - 安全，多语言的包管理器.
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Manage PPAs and search for packages.
+* [pirut](http://fedoraproject.org/wiki/Tools/pirut) (Fedora) - Provides a set of graphical tools for managing software.
+* [Synaptics](http://www.nongnu.org/synaptic/) (Debian and `.deb` users) - Graphical package management program for `apt`.
+* [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
+* [dnfdragora](https://github.com/manatools/dnfdragora) (Fedora) - A GUI for the `dnf` package manager.
+* [Yay](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
+* [Aura](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
-* [AppImageKit](https://github.com/probonopd/AppImageKit) - 使用AppImageKit，您可以打包应用程序 [AppImage](http://appimage.org/)  在基于Linux的常见操作系统上运行的格式，例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品;  一个app =一个文件.
+* [AppImageKit](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package applications in the [AppImage](http://appimage.org/) format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.
 
 ### Console-based Applications and Tools
 
-You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unix要么n/awesome-zsh-plugins) 要么 [awesome-fish](https://github.com/jbucaran/awesome-fish).
+You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
-* [cmus](https://cmus.github.io/) - 小巧，快速和强大的控制台音乐播放器.
-* [fuck](https://github.com/nvbn/thefuck) - 命令行工具，用于纠正先前输入错误的命令.
-* [git](https://git-scm.com/) - 分布式版本控制系统，旨在快速，高效地处理从小型到大型项目的所有事务.
-* [glances](https://nicolargo.github.io/glances/) - 跨平台系统监控工具.
-* [htop](http://hisham.hm/htop/) - 外观漂亮，可定制的任务管理器.
-* [nano](http://www.nano-editor.org) - 简单易用的文本编辑器.
-* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - 用于恢复已删除文件的有用工具.
-* [ranger](https://github.com/ranger/ranger) - 控制台的Vim文件管理器.
-* [screenFetch](https://github.com/KittyKatt/screenFetch) - 在终端获取系统/主题信息.
-* [shellcheck](https://github.com/koalaman/shellcheck) - 用于shell脚本的静态分析工具.
-* [speed-test](https://github.com/sindresorhus/speed-test) - 测试您的Internet连接速度并使用ping [speedtest.net](http://www.speedtest.net/).
-* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - 磁盘分区恢复工具.
-* [tig](https://github.com/jonas/tig)   -  git的文本模式界面.  它主要用作Git存储库浏览器.
-* [vim](http://vim.org) - 高级文本编辑器，旨在提供事实上的Unix编辑器&#39;Vi&#39;的强大功能，具有更完整的功能集.
-* [vtop](https://github.com/MrRio/vtop) - 易于扩展的活动监视器.
-* [wavemon](https://github.com/uoaerg/wavemon) - 监控无线网络设备的应用.
-* [youtube-dl](https://github.com/rg3/youtube-dl) - 从YouTube和其他视频网站下载视频的工具.
+* [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
+* [fuck](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
+* [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
+* [nano](http://www.nano-editor.org) - Simple to use text editor.
+* [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
+* [ranger](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [speed-test](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser.
+* [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+* [vtop](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
+* [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 
 #### [Compute Freely](http://computefreely.org/)
 
- &gt;一个友好的开始免费和开源软件和Linux好奇的地方.
+ > A friendly place to start for the Free & Open Source Software and Linux curious.
 
 #### [AlternativeTo](http://alternativeto.net)
 
- &gt;找到您已经使用的软件的更好替代品，或替换您不能或不想使用的软件.
+ > Find better alternatives to the software you already use or a replacement for software you cannot or do not want to use.
 
 #### [Linux Foundation](https://www.linuxfoundation.org/)
 
- &gt; Linux基金会是一个致力于促进Linux发展的非营利性联盟.  Linux基金会成立于2000年，负责Linux创建者Linus Torvalds的工作，并得到了来自世界各地的领先Linux和开源公司及开发人员的支持.
+> The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2000, The Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.
 
 #### [Linux.com](http://www.linux.com/)
 
-&gt;对于社区，社区，Linux.com致力于成为服务器，桌面/上网本，移动和嵌入式领域的知情，合理和智能Linux信息，软件，文档和答案的核心来源.
+> For the community, by the community, Linux.com strives to be the central source for informed, reasonable, and intelligent Linux information, software, documentation and answers across the server, desktop/netbook, mobile, and embedded areas.
 
 #### [Linux.org](http://www.linux.org/)
 
- 虽然它的设计已经过时，但Linux.org（可能）是最受欢迎的论坛，它充满了按其难度分类的精彩Linux教程.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+Although its design is outdated, Linux.org is (probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Kernel.org](https://www.kernel.org/)
 
-&gt; Linux内核组织是一家成立于2002年的加州公益组织，旨在免费向公众分发Linux内核和其他开源软件.
+> The Linux Kernel Organization is a California Public Benefit Corporation established in 2002 to distribute the Linux kernel and other Open Source software to the public without charge.
 
 #### [Opensource.com](http://opensource.com)
 
-&gt; Opensource.com是一个在线出版物，专注于如何将开源应用于不同领域，包括商业，教育，政府，健康，法律和其他生活学科.
+> Opensource.com is an online publication focused on how open source is applied to different areas including business, education, government, health, law and other disciplines of life.
 
- &gt;我们的目标是通过共享开源运动来推进开源方式.  我们的读者群体由那些认为开放参与和分享可以解决当今我们面临的商业，社会，环境和技术挑战的人组成.
+> Our goal is to further the open source way by sharing the open source movement. Our community of readers is made up of those who believe that open participation and sharing can tackle the business, social, environmental, and technological challenges facing us today.
 
 #### [Linux.die](https://linux.die.net/)
 
-&gt; Linux.die是一个包含Linux文档，教程，书籍等的资源.
+> Linux.die is a resource with documentation, tutorials, books, etc in Linux.
 
 ## License
 
-此存储库是根据许可证获得许可 [Do What the Fuck You Want to Public License](http://www.wtfpl.net/) .  其完整内容位于`LICENSE`文件中.
+This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.

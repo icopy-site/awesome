@@ -15,12 +15,12 @@
 
 ## New!
 
- 存储库中的每个字体目录现在都包含一个垂直度量表（`vertical_metrics.txt`）.  将这些参考表中的数据与新数据结合起来 [`font-line` tool](https://github.com/source-foundry/font-line)  将任何字体修改为适合您需要的行间距.  收紧或保持松动.
+Each typeface directory in the repository now includes a vertical metrics table (`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
 
 ## Fun Little Rant About Font Customization
 
-<blockquote> “不要把你的大脑时间浪费在像这样无意义的东西上，然后再回到编码状态.如果你用一些化妆品取代&#39;font&#39;，你的声音就像一群山谷女孩.”
-<p>   -  <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>  Reddit上的一些人 </p></blockquote>
+<blockquote>"Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
+<p>-- <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>Some Guy on Reddit</a></p></blockquote>
 
 [Link](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
 
@@ -29,14 +29,14 @@
 
 <a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="https://raw.githubusercontent.com/chrissimpkins/codeface/master/images/non-gallery/download-button.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
 
-单击下面的链接以下载Codeface主要和位图库集合中的所有字体二进制文件：
+Click a link below to download all font binaries in the Codeface main and bitmap gallery collections:
 
- |  档案|  SHA1 |  尺寸|
+| Archive  | SHA1  | Size |
 | :------------: |:---------------:| :-----:|
-| [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip)  |  `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` |  31.4 MB |
-| [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz)  |  `e4416c72e331d71e55fd56f2fba38cfda7672f85` |  16.5 MB |
+| [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip) | `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` | 31.4 MB |
+| [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `e4416c72e331d71e55fd56f2fba38cfda7672f85` | 16.5 MB |
 
-或使用以下命令之一来使用`curl`来提取字体存档：
+or use one of the following commands to pull a font archive with `curl`:
 
 ```
 $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip
@@ -743,4 +743,4 @@ https://github.com/chrissimpkins/codeface/blob/master/#https://github.com/chriss
 
 ---
 
-§ 结束
+§ The End

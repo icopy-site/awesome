@@ -1,118 +1,118 @@
 <div class="github-widget" data-repo="rabbiabram/awesome-fortran"></div>
 ## Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
- 精选的Fortran框架，库和软件的精选列表.  灵感来自 [awesome-swift](https://github.com/Wolg/awesome-swift) 由@Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 
 ## Functional Libraries
-* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - 现代Fortran的功能编程.
+* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
 
 ## Graphics Libraries
-*用于图形，图形和GUI的库*
+*Libraries for graphing, graphics, and GUIs*
 
-* [DISLIN](http://www.mps.mpg.de/dislin/) - 高级图形和用户界面库.
-* [f90gl](http://math.nist.gov/f90gl/) - 用于OpenGL的官方NIST Fortran 90绑定的公共域实现.
-* [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) -  OpenGL库的Fortran 2003接口，以及GLU和GLUT工具包.
-* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - 使用的用于构建图形用户界面（GUI）的跨平台库 [GTK+](https://www.gtk.org/) .  与...结合使用非常有用 [Glade](https://glade.gnome.org/) RAD工具.
-* [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - 跨平台科学图形库.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) -  Pure Fortran（2003+）库，用于编写和读取符合VTK标准的数据.
+* [DISLIN](http://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
+* [f90gl](http://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
+* [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
+* [gtk-fortran](https://github.com/jerryd/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+* [PGPLOT](http://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
+* [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ## Math Libs
-*用于计算和其他数学运算的库.*
+*Libraries for calculating and other mathematical operations.*
 
-* [BLAS](http://www.netlib.org/blas/) - 应用程序编程接口标准，用于发布库以执行基本线性代数运算，例如向量和矩阵乘法.
-* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) -  CERN计划库是CERN中央计算机上以源代码和目标代码形式维护和提供的大量通用库和模块的集合
-* [EISPACK](http://www.netlib.org/eispack/) - 用FORTRAN编写的用于矩阵的特征值和特征向量的数值计算的软件库
-* [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - 便携式，基于对象的Fortran接口 [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
-* [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) -  IMSL Fortran数值库是高性能计算商业数学和统计库的标准
-* [Lis](http://www.ssisc.org/lis/index.en.html#download) - 线性系统的迭代求解器库
-* [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - 由专家制作，用于各种应用，NAG Fortran图书馆以其卓越的全球声誉而闻名，拥有数百个完整记录和测试的例程，是最大的数学和统计算法集合
-* [netCDF](https://github.com/Unidata/netcdf-fortran) - 一组软件库和自描述的，与机器无关的数据格式，支持创建，访问和共享面向阵列的科学数据.
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS)   - 可用的最快的开源BLAS库之一.  几乎和英特尔MKL一样快.
-* [PAW](http://paw.web.cern.ch/paw/) - 被设想为协助物理学家分析和展示其数据的工具
+* [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
+* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
+* [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
+* [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - portable, object-based Fortran interface to the [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
+* [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
+* [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
+* [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
+* [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
-*使用Fortran语言操作JSON数据的库.*
+*Libraries for JSON data manipulating with Fortran language.*
 
-* [FSON](https://github.com/josephalevin/fson) -  Fortran 95 JSON Parser.
-* [json-fortran](https://github.com/jacobwilliams/json-fortran) -  Fortran 2008 JSON API.
+* [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
+* [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
 ## XML Manipulation
-*使用Fortran语言进行XML数据操作的库.*
+*Libraries for XML data manipulating with Fortran language.*
 
-* [fox](https://github.com/andreww/fox) -  Fortran XML库
-* [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - 用于读取和写入XML文件的全Fortran解决方案.
+* [fox](https://github.com/andreww/fox) - Fortran XML library
+* [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files.
 
 ## Date and time manipulation
-*使用Fortran语言进行日期和时间操作的库.*
+*Libraries for date and time manipulation with Fortran language.*
 
-* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) -  Fortran 2003日期和时间操作库，以Python的日期时间库为模型.
+* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
 
 ## Testing
-*用于测试代码库和生成测试数据的库.*
+*Libraries for testing codebases and generating test data.*
 
-* [FRUIT](https://sourceforge.net/projects/fortranxunit/) -  FORTRAN单元测试框架，用FORTRAN 95编写
-* [Ftunit](http://flibs.sourceforge.net/ftnunit.html) -  Arjen Markus的Fortran单元测试框架
-* [pFUnit](https://sourceforge.net/projects/pfunit/)   - 来自NASA和NGC TASC的开发人员对Fortran进行MPI扩展的单元测试框架.  使用并行代码和面向对象的设计.
+* [FRUIT](https://sourceforge.net/projects/fortranxunit/) - FORTRAN Unit Test Framework, written in FORTRAN 95
+* [Ftunit](http://flibs.sourceforge.net/ftnunit.html) - Fortran unit testing framework by Arjen Markus
+* [pFUnit](https://sourceforge.net/projects/pfunit/) - Unit testing framework for Fortran with MPI extensions by developers from NASA and NGC TASC.  Uses parallel codes and object-oriented design.
 
 ## Encoding-Decoding
-*使用Fortran语言编码和解码数据的库.*
+*Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64)   - 用于FoRtran穷人的Base64编码/解码库.  用于现代（2003+）Fortran项目的base64编码/解码的KISS库.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
-*用于实现代码可移植性的库.*
+*Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) -  Pure Fortran（2003+）库，用于确保代码的可移植性.
+* [PENF](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
-*用于解析命令行和构建用户界面的库.*
+*Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP)   -  Fortran命令Line Arguments Parser for poor men.  一个KISS库，用于为现代（2003+）Fortran项目构建简单易用的命令行界面（CLI）.
-* [options.f90](https://github.com/cngilbreth/optionsf90) - 现代Fortran的选项和输入处理.
+* [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+* [options.f90](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
 
 ## Compiling and building
-*用于编译和构建Fortran项目的库.*
+*Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS)   - 为穷人提供Fortran建筑系统.  用于自动构建现代Fortran项目的KISS工具.
+* [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
-*用于条件编译的库，用于代码简化的宏，以及包含其他源文件，模板系统.*
+*Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
 
-* [Blockit/PyF95++](http://blockit.sourceforge.net/)   - 一个相当简单的Python框架，用于阻止将代码（或任何文本文件）解析为嵌套块.  BlockIt框架已经用于为Fortran 95/2003语言创建模板功能以及一些语言扩展.
-* [PreForM](https://github.com/szaghi/PreForM) -  Fortran穷人的预处理器.
+* [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
+* [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
 
 ## Automatic documentation
-*用于构建文档的库.*
+*Libraries for building documentation.*
 
-* [FORD](https://github.com/cmacmackin/ford) - 用于现代Fortran程序的自动文档生成器.
+* [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
 
 ## Computational Fluid Dynamics
-*用于CFD计算的库*
+*Libraries for CFD computations*
 
-* [OFF](https://github.com/szaghi/OFF/tree/testing) - 开源有限体积流体动力学代码.
+* [OFF](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
 
 ## Docker
 
-* [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - 由@baekjoon提供的码头图片
+* [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - docker image provided by @baekjoon
 
 ## Resources
-各种资源，如书籍，网站和文章，用于提高您的Fortran开发技能和知识.
+Various resources, such as books, websites and articles, for improving your Fortran development skills and knowledge.
 
 ## Fortran Websites
 
-* [The Fortran Company](http://www.fortran.com/) -  FORTRAN编程语言的主页.
-* [Fortran Dev](https://fortrandev.wordpress.com/) -  Fortran开发博客.
-* [Fortran WIKI](http://fortranwiki.org/fortran/show/HomePage) - 一个讨论Fortran编程语言和科学计算各个方面的开放场所.
+* [The Fortran Company](http://www.fortran.com/) - A home page of FORTRAN programming language.
+* [Fortran Dev](https://fortrandev.wordpress.com/) - Fortran development blog.
+* [Fortran WIKI](http://fortranwiki.org/fortran/show/HomePage) - An open venue for discussing all aspects of the Fortran programming language and scientific computing.
 
 ## Fortran Videos
 
-* [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - 有关Fortran编程语言的视频.
+* [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
 
 ## Other Awesome Lists
 
-其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
 
- 欢迎您的贡献！  请提交拉取请求或创建问题以将新框架，库或软件添加到列表中.  不提交项目，该项目在过去6个月内未更新或不太棒.
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.

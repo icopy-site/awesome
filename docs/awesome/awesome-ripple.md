@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="vhpoet/awesome-ripple"></div>
 ## Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; Ripple资源的精选列表.
+> A curated list of Ripple resources.
 
-拉请求非常受欢迎.
+Pull requests are more than welcome.
 
 #### Official
 - [Ripple Website](https://ripple.com/)
@@ -47,58 +47,58 @@
 - [PaxMoneta](https://paxmoneta.com)
 - [Ripple Market Korea](http://ripple-market.co.kr/)
 - [RippleFox](https://ripplefox.com/)
-- [ShapeShift](https://shapeshift.io)：立即购买硬币，无需帐户
+- [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
 - [saldo.mx](http://saldo.mx/)
 
 #### Code
 ###### Rippled - The Guy!
-- [rippled](https://github.com/ripple/rippled/)：Ripple点对点网络守护进程
+- [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 ###### Libs - Libraries for talking to the Ripple API
-- [ripple-libpp](https://github.com/ripple/ripple-libpp)：C ++独立RCL兼容的事务签名和序列化库
-- [ripple-rest](https://github.com/ripple/ripple-rest)：RESTful API，用于在Ripple网络上提交付款和监控帐户
-- [ripple-lib](https://github.com/ripple/ripple-lib/)：Java脚本
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)：轻量级Javascript / nodejs客户端，具有健康检测和自动重新连接功能
-- [ripple-lib-java](https://github.com/ripple/ripple-lib-java/)：Java
-- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/)：Ruby
-- [ripple-python](https://github.com/miracle2k/ripple-python/)：Python Lib
-- [ripple-python-lib](https://github.com/arsenlosenko/python-ripple-lib)：JSON-RPC和Data API调用的Python实现
-- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/)：哈斯克尔
-- [rubblelabs/ripple](https://github.com/rubblelabs/ripple)：转包以与Ripple协议交互
-- [RippleKit](https://github.com/xasos/RippleKit)：斯威夫特
+- [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
+- [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
+- [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
+- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
+- [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
+- [ripple-python-lib](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
+- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
+- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+- [RippleKit](https://github.com/xasos/RippleKit): Swift
 
 ###### Clients / Apps
-- [ripple-client](https://github.com/ripple/ripple-client/)：客户网站
-- [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop)：桌面客户端
-- [ripple-client-ios](https://github.com/ripple-unmaintained/ripple-client-ios)：iOS客户端
-- [ripplecharts](https://github.com/ripple/ripplecharts/)：RippleCharts.com图表网站
-- [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph)：波纹图
-- [Ripple Go](https://bitbucket.org/dchapes/ripple/)：Ripple Go是一组Go包和一个ripple客户端.
-- [Snow](https://github.com/justcoin/snow)：用node.js编写的数字货币交换引擎.
-- [Ripplectron](https://github.com/devjin0617/ripplectron)：Electron的桌面客户端
+- [ripple-client](https://github.com/ripple/ripple-client/): Web client
+- [ripple-client-desktop](https://github.com/ripple/ripple-client-desktop): Desktop client
+- [ripple-client-ios](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
+- [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
+- [ripple-graph](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
+- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+- [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
 ###### Other
-- [gatewayd](https://github.com/ripple/gatewayd)：Ripple网关软件自动化框架
-- [ripple-blobvault](https://github.com/ripple/ripple-blobvault)：用于存储Ripple客户端的持久数据的服务器
-- [ripple-authd](https://github.com/ripple/ripple-authd)：Ripple对等辅助密钥派生服务器
-- [rippled-historical-database](https://github.com/ripple/rippled-historical-database)：SQL数据库作为Ripple中历史数据的规范来源
+- [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
+- [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+- [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
+- [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
 - [ripple-data-api](https://github.com/ripple/ripple-data-api)
 - [https://github.com/vhpoet/awesome-ripple/blob/master/ripple-vault-client](https://github.com/vhpoet/awesome-ripple/blob/master/ripple-vault-client)
-- [federation-php](https://github.com/ripple-unmaintained/federation-php)：具有静态JSON数据集的简单PHP联合端点
-- [federation-python](https://github.com/miracle2k/ripple-federation-python)：用于简单联合端点的Python模块.
+- [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
+- [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
-- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget)：使用Ripple付费的可嵌入小部件.
+- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
-- [rubblelabs/tx](https://github.com/rubblelabs/tx)：用于在Ripple网络上执行事务的工具
-- [xrpayments.co](https://xrpayments.co)：生成付款请求QR的工具（带货币转换）
-- [XRP Text](https://xrptext.com)：使用短信发送XRP（即使是在哑铃上）
+- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+- [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (even on dumbphones)
 
 #### Hosted Tools
 ###### Clients
-- [Ripple Trade](https://rippletrade.com/)：Ripple Labs开发的官方Ripple客户端
+- [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
 - [GateHub](https://gatehub.net/)
 
 ###### Developer tools
@@ -120,9 +120,9 @@
 ###### Other tools
 - [Ripple Helpers](https://github.com/vhpoet/ripple-helpers/)
 - [XRPTools](http://xrptools.com/)
-- [XRPValue](http://xrpvalue.com/)：实时XRP价格.
-- [RippleGen](https://github.com/CodeShark/RippleGen)：用于纹波p2p网络的简单多线程虚荣发生器.
-- [Dollero](http://dollero.com/)：全球汇款支付软件
+- [XRPValue](http://xrpvalue.com/): Real time XRP price.
+- [RippleGen](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
+- [Dollero](http://dollero.com/): Global remittance payments software
 
 #### Other
 - [International Ripple Business Association](http://www.ripplebusiness.org/)

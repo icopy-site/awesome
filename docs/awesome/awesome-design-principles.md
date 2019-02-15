@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="robinstickel/awesome-design-principles"></div>
 ## Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精心设计和体验原则的精选清单.
+A curated list of good design and experience principles.
 
- &gt;设计原则是创建更好，更一致的设计和体验的工具.  它们是指导详细设计决策的高级规则.  它们通常写在更大的样式指南，模式库或设计系统中.
+> Design Principles are a tool for creating better and more consistent designs and experiences. They are high level rules that guide detailed design decisions. They are often written down within bigger style guides, pattern libraries or design systems.
 
- 知道下面没有列出的资源吗？  随意创建一个新 [pull request](https://github.com/robinstickel/awesome-design-principles/pulls)，或打开一个 [issue](https://github.com/robinstickel/awesome-design-principles/issues/new) .  请阅读 [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/CONTRIBUTING.md) 在贡献之前.
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/CONTRIBUTING.md) before contributing.
 
 - [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
 - [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
@@ -31,19 +31,19 @@
 
 ## Articles about Design Principles
 
-- [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) - 良好的介绍和最佳实践.
-- [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) - 关于Asana如何制定其原则的内幕文章.
-- [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) - 摘自基本用户界面设计，这是简·波特曼的InVision电子课程.
-- [Design Principles Guide to less shitty Feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1) - 关于如何设定设计原则的简短介绍和实用指南（附例）
+- [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) - Good introduction and best practices.
+- [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) - Inside article on how Asana developed their principles.
+- [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) - Short excerpt from Fundamental UI Design, an InVision e-course by Jane Portman.
+- [Design Principles Guide to less shitty Feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1) - Short introduction and practical guide on how to set design principles (with examples)
 
 ## Other Resources
 
-- [Built Environment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - 列出与建筑环境企业相关的专业设计学科并描述其角色（基于开源项目的学习挑战课程的一部分）.
-- [Learn Design Principles](http://learndesignprinciples.com/) - 了解如何将设计原则应用于从架构到产品设计.
-- [Design Principles FTW](http://www.designprinciplesftw.com/) - “互联网上最大的设计原则集合”.
-- [principles.adactio.com](https://principles.adactio.com/) - 包含各种更传统设计原则的巨大清单.
-- [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) -  Joshua Porter阐述的原则很长的清单
-- [Principles of Product Design](http://bokardo.com/principles-of-product-design/) -  Joshua Porter阐述的原则很长的清单
+- [Built Environment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - Lists professional design disciplines associated with built environment ventures and describes their roles (part of an open source project based learning challenge curricula).
+- [Learn Design Principles](http://learndesignprinciples.com/) - Learn how design principles can be applied from architecture to product design.
+- [Design Principles FTW](http://www.designprinciplesftw.com/) - "The biggest collection of Design Principles on the Internet."
+- [principles.adactio.com](https://principles.adactio.com/) - Huge list with various types of more traditional design principles.
+- [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - Long list with well explained principles by Joshua Porter
+- [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
 
 ### Credits and Notes
-这份清单深受启发 [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)  作者Alex Pate.  作为一名用户体验设计师，我发现自己经常编写设计和/或体验原则.  我创建了这个列表以供参考，并获得更好的设计原则的灵感.
+This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.

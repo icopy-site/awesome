@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="git-tips/tips"></div>
 ## git-tips
- &gt;收集`git-tips`，想添加你的提示？  查看 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
+> Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
 
 [English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips)
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip)   - 一个方便的CLI，以充分利用这些技巧.  （[Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
-PS：所有这些命令都在`git version 2.7.4（Apple Git-66）`上测试.
+P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
 <!-- @doxie.inject start toc -->
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
@@ -22,7 +22,7 @@ PS：所有这些命令都在`git version 2.7.4（Apple Git-66）`上测试.
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
 ## Everyday Git in twenty commands or so
 ```sh
-git每天帮助
+git help everyday
 ```
 
 ## Show helpful guides that come with Git
@@ -31,17 +31,17 @@ git help -g
 ```
 
 ```sh
-git log -S&#39; <a term in the source>&#39;</a>
+git log -S'<a term in the source>'
 ```
 
 ## Remove sensitive data from history, after a push
 ```sh
- git filter-branch --force --index-filter&#39;git rm --cached --ignore-unmatch <path-to-your-file>  &#39;--proune-empty --tag-name-filter cat  -  --all &amp;&amp; git push origin --force --all
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path-to-your-file>' --prune-empty --tag-name-filter cat -- --all && git push origin --force --all
 ```
 
 ## Sync with remote, overwrite local changes
 ```sh
-git fetch origin &amp;&amp; git reset --hard origin / master &amp;&amp; git clean -f -d
+git fetch origin && git reset --hard origin/master && git clean -f -d
 ```
 
 ## List of all files till a commit
@@ -92,18 +92,18 @@ git branch --merged master
 
 ## Quickly switch to the previous branch
 ```sh
-git checkout  - 
+git checkout -
 ```
 
 
 __Alternatives:__
 ```sh
-git checkout @ { -  1}
+git checkout @{-1}
 ```
 
 ## Remove branches that have already been merged with master
 ```sh
- git branch --merged master |  grep -v&#39;^ \ *&#39;|  xargs -n 1 git branch -d
+git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
 ```
 
 
@@ -119,7 +119,7 @@ git branch -vv
 
 ## Track upstream branch
 ```sh
-git branch -u origin / mybranch
+git branch -u origin/mybranch
 ```
 
 ## Delete local branch
@@ -135,7 +135,7 @@ git push origin --delete <remote_branchname>
 
 __Alternatives:__
 ```sh
-git push origin： <remote_branchname>
+git push origin :<remote_branchname>
 ```
 
 ## Delete local tag
@@ -145,11 +145,11 @@ git tag -d <tag-name>
 
 ## Delete remote tag
 ```sh
-git push origin：refs / tags / <tag-name>
+git push origin :refs/tags/<tag-name>
 ```
 
 ```sh
-git checkout  - <file_name>
+git checkout -- <file_name>
 ```
 
 ## Revert: Undo a commit by creating a new commit
@@ -159,7 +159,7 @@ git revert <commit-ish>
 
 ## Reset: Discard commits, advised for private branch
 ```sh
-git重置<commit-ish>
+git reset <commit-ish>
 ```
 
 ## Reword the previous commit message
@@ -174,7 +174,7 @@ git cherry -v master
 
 ## Amend author.
 ```sh
- git commit --amend --author =&#39;作者姓名 <email@address.com>  “
+git commit --amend --author='Author Name <email@address.com>'
 ```
 
 ## Reset author, after author has been changed in the global config.
@@ -195,7 +195,7 @@ git remote
 
 __Alternatives:__
 ```sh
-git远程秀
+git remote show
 ```
 
 ## Get list of all local and remote branches
@@ -215,28 +215,28 @@ git add -p
 
 ## Get git bash completion
 ```sh
- curl -L http://git.io/vfhol&gt;〜/ .git-completion.bash &amp;&amp; echo&#39;[ -  f~ / .git-completion.bash] &amp;&amp;.  〜/ .git-completion.bash&#39;&gt;&gt;〜/ .bashrc
+curl -L http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-completion.bash ] && . ~/.git-completion.bash' >> ~/.bashrc
 ```
 
 ## What changed since two weeks?
 ```sh
-git log --no-merges --raw --since =&#39;2周前&#39;
+git log --no-merges --raw --since='2 weeks ago'
 ```
 
 
 __Alternatives:__
 ```sh
-git whatchanged --since =&#39;2周前&#39;
+git whatchanged --since='2 weeks ago'
 ```
 
 ## See all commits made since forking from master
 ```sh
-git log --no-merges --stat --reverse master ..
+git log --no-merges --stat --reverse master..
 ```
 
 ## Pick commits across branches using cherry-pick
 ```sh
- git checkout <branch-name>  &amp;&amp; git cherry-pick <commit-ish>
+git checkout <branch-name> && git cherry-pick <commit-ish>
 ```
 
 ## Find out branches containing commit-hash
@@ -252,7 +252,7 @@ git branch --contains <commit-ish>
 
 ## Git Aliases
 ```sh
-git config  - 全局别名. <handle><command> 
+git config --global alias.<handle> <command> 
 git config --global alias.st status
 ```
 
@@ -327,7 +327,7 @@ git stash list
 
 ## Apply any stash without deleting from the stashed list
 ```sh
-git stash适用<stash@{n}>
+git stash apply <stash@{n}>
 ```
 
 ## Apply last stashed state and delete it from stashed list
@@ -338,7 +338,7 @@ git stash pop
 
 __Alternatives:__
 ```sh
-git stash apply stash @ {0} &amp;&amp; git stash drop stash @ {0}
+git stash apply stash@{0} && git stash drop stash@{0}
 ```
 
 ## Delete all stored stashes
@@ -354,13 +354,13 @@ git stash drop <stash@{n}>
 
 ## Grab a single file from a stash
 ```sh
- git checkout <stash@{n}>   -  <file_path>
+git checkout <stash@{n}> -- <file_path>
 ```
 
 
 __Alternatives:__
 ```sh
-git checkout stash @ {0}  - <file_path>
+git checkout stash@{0} -- <file_path>
 ```
 
 ## Show all tracked files
@@ -370,7 +370,7 @@ git ls-files -t
 
 ## Show all untracked files
 ```sh
-git ls-files  - 其他
+git ls-files --others
 ```
 
 ## Show all ignored files
@@ -380,12 +380,12 @@ git ls-files --others -i --exclude-standard
 
 ## Create new working tree from a repository (git 2.5)
 ```sh
-git worktree add -b <branch-name><path><start-point>
+git worktree add -b <branch-name> <path> <start-point>
 ```
 
 ## Create new working tree from HEAD state
 ```sh
- git worktree add --detach <path>  头
+git worktree add --detach <path> HEAD
 ```
 
 ## Untrack files without deleting
@@ -449,22 +449,22 @@ git branch -m <new-branch-name>
 
 __Alternatives:__
 ```sh
- git branch -m [ <old-branch-name>  ] <new-branch-name>
+git branch -m [<old-branch-name>] <new-branch-name>
 ```
 
 ## Rebases 'feature' to 'master' and merges it in to master 
 ```sh
-git rebase master feature &amp;&amp; git checkout master &amp;&amp; git merge  - 
+git rebase master feature && git checkout master && git merge -
 ```
 
 ## Archive the `master` branch
 ```sh
-git archive master --format = zip --output = master.zip
+git archive master --format=zip --output=master.zip
 ```
 
 ## Modify previous commit without modifying the commit message
 ```sh
-git add --all &amp;&amp; git commit --amend --no-edit
+git add --all && git commit --amend --no-edit
 ```
 
 ## Prunes references to remote branches that have been deleted in the remote.
@@ -475,74 +475,74 @@ git fetch -p
 
 __Alternatives:__
 ```sh
-git远程修剪原产地
+git remote prune origin
 ```
 
 ## Retrieve the commit hash of the initial revision.
 ```sh
-  git rev-list  - 反向HEAD |  头-1
+ git rev-list --reverse HEAD | head -1
 ```
 
 
 __Alternatives:__
 ```sh
-git rev-list --max-parents = 0 HEAD
+git rev-list --max-parents=0 HEAD
 ```
 
 
 ```sh
- git log --pretty = oneline |  尾巴-1 |  切-c 1-40
+git log --pretty=oneline | tail -1 | cut -c 1-40
 ```
 
 
 ```sh
- git log --pretty = oneline --reverse |  头-1 |  切-c 1-40
+git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 ```
 
 ## Visualize the version tree.
 ```sh
-git log --pretty = oneline --graph --decorate --all
+git log --pretty=oneline --graph --decorate --all
 ```
 
 
 __Alternatives:__
 ```sh
-gitk  -  all
+gitk --all
 ```
 
 
 ```sh
- git log --graph --pretty = format：&#39;％C（auto）％h |  ％s |  ％an  ％的Ar％d”
+git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ```
 
 ## Visualize the tree including commits that are only referenced from reflogs
 ```sh
-git log --graph --decorate --oneline $（git rev-list --walk-reflogs --all）
+git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ```
 
 ## Deploying git tracked subfolder to gh-pages
 ```sh
-git subree push --prefix subfolder_name origin gh-pages
+git subtree push --prefix subfolder_name origin gh-pages
 ```
 
 ## Adding a project to repo using subtree
 ```sh
- git subtree add --prefix = <directory_name>  / <project_name>  --squash git@github.com： <username>  / <project_name>  .git大师
+git subtree add --prefix=<directory_name>/<project_name> --squash git@github.com:<username>/<project_name>.git master
 ```
 
 ## Get latest changes in your repo for a linked project using subtree
 ```sh
- git subtree pull --prefix = <directory_name>  / <project_name>  --squash git@github.com： <username>  / <project_name>  .git大师
+git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.com:<username>/<project_name>.git master
 ```
 
 ## Export a branch with history to a file.
 ```sh
-git bundle创建<file><branch-name>
+git bundle create <file> <branch-name>
 ```
 
 ## Import from a bundle
 ```sh
- git clone repo.bundle <repo-dir>  -b <branch-name>
+git clone repo.bundle <repo-dir> -b <branch-name>
 ```
 
 ## Get the name of current branch.
@@ -552,7 +552,7 @@ git rev-parse --abbrev-ref HEAD
 
 ## Ignore one file on commit (e.g. Changelog).
 ```sh
- git update-index --assume-unchanged Changelog;  git commit -a;  git update-index --no-assume-unchanged Changelog
+git update-index --assume-unchanged Changelog; git commit -a; git update-index --no-assume-unchanged Changelog
 ```
 
 ## Stash changes before rebasing
@@ -562,18 +562,18 @@ git rebase --autostash
 
 ## Fetch pull request by ID to a local branch
 ```sh
- git fetch origin pull / <id>  /头： <branch-name>
+git fetch origin pull/<id>/head:<branch-name>
 ```
 
 
 __Alternatives:__
 ```sh
- git pull origin pull / <id>  /头： <branch-name>
+git pull origin pull/<id>/head:<branch-name>
 ```
 
 ## Show the most recent tag on the current branch.
 ```sh
-git describe --tags --abbrev = 0
+git describe --tags --abbrev=0
 ```
 
 ## Show inline word diff.
@@ -583,7 +583,7 @@ git diff --word-diff
 
 ## Show changes using common diff tools.
 ```sh
- git difftool [-t <tool>  ] <commit1><commit2><path>
+git difftool [-t <tool>] <commit1> <commit2> <path>
 ```
 
 ## Don’t consider changes for tracked file.
@@ -603,12 +603,12 @@ git clean -X -f
 
 ## Restore deleted file.
 ```sh
- git checkout <deleting_commit>  ^  -  <file_path>
+git checkout <deleting_commit>^ -- <file_path>
 ```
 
 ## Restore file to a specific commit-hash
 ```sh
- git checkout <commit-ish>   -  <file_path>
+git checkout <commit-ish> -- <file_path>
 ```
 
 ## Always rebase instead of merge on pull.
@@ -635,7 +635,7 @@ git config --global core.ignorecase false
 
 ## Add custom editors.
 ```sh
-git config --global core.editor&#39;$ EDITOR&#39;
+git config --global core.editor '$EDITOR'
 ```
 
 ## Auto correct typos.
@@ -680,17 +680,17 @@ git check-ignore *
 
 ## Status of ignored files.
 ```sh
-git status  - 签名
+git status --ignored
 ```
 
 ## Commits in Branch1 that are not in Branch2
 ```sh
-git log Branch1 ^ Branch2
+git log Branch1 ^Branch2
 ```
 
 ## List n last commits
 ```sh
-git log  - <n>
+git log -<n>
 ```
 
 
@@ -706,22 +706,22 @@ git config --global rerere.enabled 1
 
 ## Open all conflicted files in an editor.
 ```sh
- git diff --name-only |  uniq |  xargs $ EDITOR
+git diff --name-only | uniq | xargs $EDITOR
 ```
 
 ## Count unpacked number of objects and their disk consumption.
 ```sh
-git count-objects  - 人类可读
+git count-objects --human-readable
 ```
 
 ## Prune all unreachable objects from the object database.
 ```sh
-git gc --prune = now --aggressive
+git gc --prune=now --aggressive
 ```
 
 ## Instantly browse your working repository in gitweb.
 ```sh
- git instaweb [--local] [--httpd = <httpd>  ] [--port = <port>  ] [ - 浏览者= <browser>  ]
+git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 ```
 
 ## View the GPG signatures in the commit log
@@ -741,12 +741,12 @@ git checkout --orphan <branch_name>
 
 ## Extract file from another branch.
 ```sh
- git show <branch_name>  ： <file_name>
+git show <branch_name>:<file_name>
 ```
 
 ## List only the root and merge commits.
 ```sh
-git log  - 第一父母
+git log --first-parent
 ```
 
 ## Change previous two commits with an interactive rebase.
@@ -756,7 +756,7 @@ git rebase --interactive HEAD~2
 
 ## List all branch is WIP
 ```sh
-git checkout master &amp;&amp; git branch --no-merged
+git checkout master && git branch --no-merged
 ```
 
 ## Find guilty with binary search
@@ -777,12 +777,12 @@ git commit --no-verify
 
 ## List commits and changes to a specific file (even through renaming)
 ```sh
-git log --follow -p  - <file_path>
+git log --follow -p -- <file_path>
 ```
 
 ## Clone a single branch
 ```sh
- git clone -b <branch-name>  --single-branch https://github.com/user/repo.git
+git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 ```
 
 ## Create and switch new branch
@@ -793,7 +793,7 @@ git checkout -b <branch-name>
 
 __Alternatives:__
 ```sh
- git branch <branch-name>  &amp;&amp; git checkout <branch-name>
+git branch <branch-name> && git checkout <branch-name>
 ```
 
 ## Ignore file mode changes on commits
@@ -808,17 +808,17 @@ git config --global color.ui false
 
 ## Specific color settings
 ```sh
-git config --global <specific command e.g branch, diff><true, false or always>
+git config --global <specific command e.g branch, diff> <true, false or always>
 ```
 
 ## Show all local branches ordered by recent commits
 ```sh
-git for-each-ref --sort = -committerdate --format =&#39;％（refname：short）&#39;refs / heads /
+git for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads/
 ```
 
 ## Find lines matching the pattern (regex or string) in tracked files
 ```sh
-git grep --heading --line-number&#39;foo bar&#39;
+git grep --heading --line-number 'foo bar'
 ```
 
 ## Clone a shallow copy of a repository
@@ -828,18 +828,18 @@ git clone https://github.com/user/repo.git --depth 1
 
 ## Search Commit log across all branches for given text
 ```sh
- git log --all --grep =&#39; <given-text>  “
+git log --all --grep='<given-text>'
 ```
 
 ## Get first commit in a branch (from master)
 ```sh
- git log --onon master .. <branch-name>  |  尾巴-1
+git log --oneline master..<branch-name> | tail -1
 ```
 
 
 __Alternatives:__
 ```sh
- git log  - 反向高手.. <branch-name>  |  头-6
+git log --reverse master..<branch-name> | head -6
 ```
 
 ## Unstaging Staged file
@@ -849,39 +849,39 @@ git reset HEAD <file-name>
 
 ## Force push to Remote Repository
 ```sh
-git push -f <remote-name><branch-name>
+git push -f <remote-name> <branch-name>
 ```
 
 ## Adding Remote name
 ```sh
-git远程添加<remote-nickname><remote-url>
+git remote add <remote-nickname> <remote-url>
 ```
 
 ## Show the author, time and last revision made to each line of a given file
 ```sh
-git责备<file-name>
+git blame <file-name>
 ```
 
 ## Group commits by authors and title
 ```sh
-git短信
+git shortlog
 ```
 
 ## Forced push but still ensure you don't overwrite other's work
 ```sh
-git push --force-with-lease <remote-name><branch-name>
+git push --force-with-lease <remote-name> <branch-name>
 ```
 
 ## Show how many lines does an author contribute
 ```sh
- git log --author =&#39;_ Your_Name_Here_&#39; -  pretty = tformat： -  numstat |  gawk&#39;{add + = <!-- @doxie.inject start -->  ;  subs + = <!-- @doxie.inject end -->  ;  loc + = <!-- @doxie.inject start -->   -  <!-- @doxie.inject end -->  } END {printf“添加行：％s删除行：％s总行数：％s
-“，add，subs，loc}&#39; - 
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | gawk '{ add += <!-- @doxie.inject start -->; subs += <!-- @doxie.inject end -->; loc += <!-- @doxie.inject start --> - <!-- @doxie.inject end --> } END { printf "added lines: %s removed lines: %s total lines: %s
+", add, subs, loc }' -
 ```
 
 
 __Alternatives:__
 ```sh
- git log --author =&#39;_ Your_Name_Here_&#39; -  pretty = tformat： -  numstat |  awk&#39;{add + = <!-- @doxie.inject start -->  ;  subs + = <!-- @doxie.inject end -->  ;  loc + = <!-- @doxie.inject start -->   -  <!-- @doxie.inject end -->  } END {printf“添加行：％s，删除行：％s，总行：％s
+git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += <!-- @doxie.inject start -->; subs += <!-- @doxie.inject end -->; loc += <!-- @doxie.inject start --> - <!-- @doxie.inject end --> } END { printf "added lines: %s, removed lines: %s, total lines: %s
 ", add, subs, loc }' - # on Mac OSX
 ```
 
@@ -897,32 +897,32 @@ git rev-list --count <branch-name>
 
 ## Alias: git undo
 ```sh
- git config --global alias.undo&#39;！f（）{git reset --hard $（git rev-parse --abbrev-ref HEAD）@ {$ {1-1}};  };  F&#39;
+git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
 ```
 
 ## Add object notes
 ```sh
-git notes add -m&#39;关于前一次提交的注意事项......&#39;
+git notes add -m 'Note on the previous commit....'
 ```
 
 ## Show all the git-notes
 ```sh
-git log --show-notes =&#39;*&#39;
+git log --show-notes='*'
 ```
 
 ## Apply commit from another repository
 ```sh
- 去--git-dir = <source-dir>  /.git format-patch -k -1 --stout <SHA1>  |  去-3 -k
+git --git-dir=<source-dir>/.git format-patch -k -1 --stdout <SHA1> | git am -3 -k
 ```
 
 ## Specific fetch reference
 ```sh
-git fetch origin master：refs / remotes / origin / mymaster
+git fetch origin master:refs/remotes/origin/mymaster
 ```
 
 ## Find common ancestor of two branches
 ```sh
-git merge-base <branch-name><other-branch-name>
+git merge-base <branch-name> <other-branch-name>
 ```
 
 ## List unpushed git commits
@@ -933,7 +933,7 @@ git log --branches --not --remotes
 
 __Alternatives:__
 ```sh
-git log @ {u} ..
+git log @{u}..
 ```
 
 
@@ -943,7 +943,7 @@ git cherry -v
 
 ## Add everything, but whitespace changes
 ```sh
- git diff --ignore-all-space |  git apply --cached
+git diff --ignore-all-space | git apply --cached
 ```
 
 ## Edit [local/global] git config
@@ -953,7 +953,7 @@ git config [--global] --edit
 
 ## blame on certain range
 ```sh
- git blame -L <start>  ， <end>
+git blame -L <start>,<end>
 ```
 
 ## Show a Git logical variable.
@@ -968,44 +968,44 @@ git format-patch -M upstream..topic
 
 ## Get the repo name.
 ```sh
-git rev-parse  -  show-toplevel
+git rev-parse --show-toplevel
 ```
 
 ## logs between date range
 ```sh
-git log --since =&#39;FEB 1 2017&#39; -  until =&#39;2017年2月14日&#39;
+git log --since='FEB 1 2017' --until='FEB 14 2017'
 ```
 
 ## Exclude author from logs
 ```sh
-git log --perl-regexp --author =&#39;^（（？！excluded-author-regex）.*）
+git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ```
 
 ## Generates a summary of pending changes
 ```sh
-git request-pull v1.0 https：//git.ko.xz/project master：for-linus
+git request-pull v1.0 https://git.ko.xz/project master:for-linus
 ```
 
 ## List references in a remote repository
 ```sh
-git ls-remote git：//git.kernel.org/pub/scm/git/git.git
+git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ```
 
 ## Backup untracked files.
 ```sh
- git ls-files --others -i --exclude-standard |  xargs zip untracked.zip
+git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 ```
 
 ## List all git aliases
 ```sh
- 混帐配置-l |  用grep其他|  SED的/ ^其他\ .// G&#39;
+git config -l | grep alias | sed 's/^alias\.//g'
 ```
 
 
 __Alternatives:__
 ```sh
- git config -l |  grep别名|  切-d&#39;.&#39;  -f 2
+git config -l | grep alias | cut -d '.' -f 2
 ```
 
 ## Show git status short
@@ -1015,7 +1015,7 @@ git status --short --branch
 
 ## Checkout a commit prior to a day ago
 ```sh
-git checkout master @ {昨天}
+git checkout master@{yesterday}
 ```
 
 ## Push a new local branch to remote repository and track
@@ -1025,12 +1025,12 @@ git push -u origin <branch_name>
 
 ## Change a branch base
 ```sh
-git rebase --onto <new_base><old_base>
+git rebase --onto <new_base> <old_base>
 ```
 
 ## Use SSH instead of HTTPs for remotes
 ```sh
-git config --global url.&#39;git@github.com:&#39;.allyOf&#39;https://github.com/&#39;
+git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->

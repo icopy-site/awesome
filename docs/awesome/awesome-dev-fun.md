@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="mislavcimpersak/awesome-dev-fun"></div>
 ## Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;有趣的库/包/语言的精选列表，没有真正的目的，但让开发人员轻笑.
+> A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
- 现在这是一个非常简短的列表，所以请贡献.  读 [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) 并提出拉取请求或只是在Twitter上ping我 [@mislavcimpersak](https://twitter.com/mislavcimpersak) 有一些有趣的东西.
+For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
 
@@ -11,141 +11,141 @@
 
 ## Android
 
-- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - 感觉好极了Stevie Wonder这款适用于Android的模拟器.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - 糟糕可怕的软键盘，可以在每次按下时随机键盘.
-- [holdr](https://github.com/starakaj/holdr) - 解决了解何时拿着手机的问题.
+- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
+- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
+- [holdr](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone.
 
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - 直接注入CSS
+- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS
 
 
 ## Elixir
-- [OOP](https://github.com/wojtekmach/oop) - 在Elixir中开放！
+- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 
 ## Golang
-- [gomatrix](https://github.com/GeertJohan/gomatrix) - 连接到矩阵并在终端中显示它的数据流.
+- [gomatrix](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
 
 
 ## Haskell
-- [hackertyper](https://github.com/fgaz/hackertyper) - “哈克”就像电影和游戏中的程序员一样！
+- [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
 
 
 ## HTML
-- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - 用于视网膜显示的间隔gif
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays
 
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - 严肃的商人为严肃的商业目的而制作的FizzBu​​zz的严肃实施.
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 
 ## JavaScript
 
-- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - 有时图像加载得太快了.
-- [Elevator.js](https://github.com/tholman/elevator.js) - 最后，一个“回到顶部”按钮，其行为类似于真正的电梯.
-- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - 在没有评论的情况下进行评论 - 提供仅存储在本地存储中的单侧用户评论.
-- [Fapfap.js](http://fapfapjs.io) - 为DIY爱好者手工制作的JavaScript框架.
-- [FuckitJS](https://github.com/mattdiamond/fuckitjs) -  JavaScript错误Steamroller.
-- [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - 从Stack Overflow自动完成您的JS.
-- [Object.toSting()](https://github.com/teropa/to-sting) - 将Sting的图像记录到开发控制台.
-- [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级音速，笨拙，类似激素的JavaScript库.
-- [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - 通用，跨文化和用户友好的方式显示数字.
-- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -  H9RBS.js（v0.0001）是一个灵活的，无依赖，轻量级，设备无关，模块化，烘焙，组件框架MVC库鞋带，可以帮助您启动响应式基于CSS的应用程序架构骨干kitcheninkink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - 世界上最小，最快的JavaScript库.
-- [fattest-cat](https://github.com/lexiross/fattest-cat) - 在SF SPCA上找到目前正在采用的最肥猫的脚本.
-- [fartscroll.js](https://github.com/theonion/fartscroll.js)   - 每个人都放屁.  现在你的网页也可以.
-- [Groot Ipsum](http://grootipsum.com/) - 生成包含“我是Groot”的随机文本.
-- [cannot-even](https://github.com/blakek/cannot-even) - 一个拒绝均衡的模块.
-- [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function)   - “undefined不是函数”？  - 就是现在！
-- [is-thirteen](https://github.com/jezen/is-thirteen) - 检查数字是否等于13.
-- [Pettier](https://github.com/coleturner/pettier) - 更漂亮的配置随机化选项，并在空格和制表符之间任意切换 
+- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
+- [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
+- [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
+- [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
+- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
+- [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
+- [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
+- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
+- [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
+- [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even.
+- [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
+- [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
+- [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
 - [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
 
 
 ## Python
 
-- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
-- [left-pad](https://pypi.python.org/pypi/left-pad/) -  Python对臭名昭着的npm问题的解决方案.
-- [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - 这是一个喜欢你女朋友在Instagram上的帖子的自动机器人.
+- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
+- [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 
 
 ## Ruby
 
-- [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) -  Nyan Cat启发了RSpec格式化器！
-- [Base](https://github.com/garybernhardt/base) - 您一直想要的通用基类.
-- [Table Flipper](https://github.com/iridakos/table_flipper) - 将表翻转添加到Ruby异常.
-- [Cat Facts](https://github.com/fabrik42/cat_facts) - 将随机cat事实添加到HTTP响应头. 
+- [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+- [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
+- [Table Flipper](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions.
+- [Cat Facts](https://github.com/fabrik42/cat_facts) - Adds random cat facts to HTTP response headers. 🐈
 
 
 ## Esoteric languages
 
-- [ArnoldC](https://github.com/lhartikk/ArnoldC) - 阿诺德施瓦辛格的编程语言.
-- [TrumpScript](https://github.com/samshadwell/TrumpScript) - 让Python再次成为伟大的.
-- [Vigil](https://github.com/munificent/vigil) -  Vigil，永恒的道德警惕性编程语言.
-- [Spooky](https://github.com/ftripier/spookyc) - 恐惧的编程语言.
-- [OnlyToday](https://github.com/molnarmark/onlytoday) - 基于日期和时间的编程语言.
-- [Rockstar](https://github.com/dylanbeattie/rockstar) - 动态类型的计算机编程语言，用于创建也是歌词的程序.
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language.
+- [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
+- [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
+- [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
 
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - 提供现代，REST，可扩展的解决方案，解决告诉人们他妈的常见问题.
-- ~~[Booleans as a Service](https://booleans.io/) - 创建，读取，更新和删除布尔值.~~
-- [/dev/null as a Service](https://devnull-as-a-service.com) - 第一个DaaS提供商.
-- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - 企业废话生成器随机选择短语，这可以帮助您的应用程序在旋转，流行语和模糊性至高无上的行业中领先.
-- [shoutcloud.io](http://shoutcloud.io/)   - 所有大写作为服务.  ⬆️
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
+- ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
+- [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
+- [shoutcloud.io](http://shoutcloud.io/) - ALL CAPS AS A SERVICE. ⬆️
 
 
 ## Browser extensions
 
-- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) -  Chrome扩展程序用“我的屁股”替换“云”的出现.
-- [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - 外向的隐身模式.
-- [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - 阻止任何非广告内容.
-- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)   -  Youtube Notch Mode是一个镀铬扩展，可以将iPhone X顶部看到的丑陋的黑色切口添加到每个Youtube视频中.  为什么？  因为它更漂亮.
-- [Github XP](https://github.com/martenbjork/github-xp)   -  Microsoft + GitHub =❤️.  通过为您的GitHub体验一些Windows XP风格使其正式化.
+- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
+- [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts.
+- [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
+- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
+- [Github XP](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
 
 
 ## CLI
-- [Pong-command](https://github.com/kurehajime/pong-command) - 乒乓球不平.
-- [Alice](https://github.com/susisu/alice) - 当你错误地打字时，爱丽丝唱歌.
-- [cmprss](https://github.com/kurehajime/cmprss) -  IrrvrsbleCmprssionForTxt.
-- [lolcat](https://github.com/busyloop/lolcat) - 彩虹和独角兽！
-- [evil.sh](https://github.com/mathiasbynens/evil.sh) - 细微而不那么微妙的外壳调整会慢慢让人疯狂.
-- [lolcommits](https://github.com/mroth/lolcommits) - 面向软件开发人员的基于Git的自拍.
-- [sl](https://github.com/mtoyoda/sl) - 当您输入“sl”时，SL（蒸汽机车）会穿过您的终端，因为您打算键入“ls”.
-- [genact](https://github.com/svenstaro/genact) -  shell的无意义活动生成器.
-- [fat](https://github.com/drummyfish/fat) - 扩展您的文件.
-- [No More Secrets](https://github.com/bartobri/no-more-secrets) - 一个命令行工具，可重现1992年电影“运动鞋”中的着名数据解密效果.
-- [sudont](https://github.com/cbondurant/sudont) - 授予超级用户权限，然后不执行任何操作.
-- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity)   - 最大限度地提高您的“生产力”！  由懒虫为懒虫制作的生产力套件.
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 动画管道终端屏幕保护程序.
-- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) -  ZSH的Chuck Norris财富插件.
-- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 责备别人的坏代码.
-- [cmatrix](https://github.com/abishekvashok/cmatrix) - 像黑客帝国那样在终端上制造数字雨.
-- [Gosleap](https://github.com/koriroys/gosleap) - 让Ryan Gosling跳过你的屏幕.
+- [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
+- [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
+- [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
+- [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers.
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
+- [fat](https://github.com/drummyfish/fat) - Expand your files.
+- [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+- [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
+- [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+- [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
+- [Gosleap](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
 
 
 ## DevOps
-- [No Code](https://github.com/kelseyhightower/nocode)   - 编写安全可靠应用程序的最佳方式.  什么都不写;  无处部署.
-- [Volkswagen](https://github.com/auchenberg/volkswagen) - 大众汽车检测您的测试何时在CI服务器中运行，并使它们通过.
+- [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 
 
 
 ## Miscellaneous
-- [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/cobyism/https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile) - 用于跟踪您的仓库中以“文件​​”结尾的所有文件的文件，例如. [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
-- [Xkcd Excuse](https://xkcd-excuse.com) - 以hip xkcd格式获得懈怠借口的最简单方法！
-- [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - 用于生成耸肩的图书馆.
-- [quinedb](https://github.com/gfredericks/quinedb)   - 一个也是一个键值商店的quine.  打破代码和数据之间的隔阂.
-- [πfs](https://github.com/philipl/pifs)   - π包含现有的每个可能的数字序列.  我确定你的数据在*某处*.
-- [parrot.live](https://github.com/hugomd/parrot.live) - 将动画鹦鹉带到各处的终端.
-- [Slack Typing](https://github.com/will/slacktyping) - 一个非常好的程序，它使得它说当我打字时我正在打字.
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - 彼此之间的关系（以人为中心）.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - 令人敬畏的列表的令人敬畏的列表 
+- [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/cobyism/https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
+- [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
+- [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
+- [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
+- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
+- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷

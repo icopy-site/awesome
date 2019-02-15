@@ -3,13 +3,13 @@
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
 
-这个模块中没有代码，唯一的就是这个README文件.
+There is no code in this module, the only thing is this README file.
 
-这是一个用于维护或开发模块的模块列表（没有特定的顺序）.
+This is a list of modules that are useful for maintaining or developing modules (in no particular order).
 
 ### [fixpack](https://github.com/henrikjoreteg/fixpack) by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
 
- 一个真正疯狂的package.json文件擦除器.  以确定的方式清理package.json，以确保高品质，手工制作的艺术JSON.
+A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisinal JSON.
 
 ```
 npm i fixpack --save-dev
@@ -17,7 +17,7 @@ npm i fixpack --save-dev
 
 ### [standard](https://github.com/feross/standard) by [feross](https://www.npmjs.com/~feross)
 
- JavaScript标准样式检查器/ linter.  没有选项！  使用不可配置的自定义设置来最小化自行车.  永远不要再提出拉动请求的样式反馈！
+JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!
 
 ```
 npm i standard --save-dev
@@ -25,7 +25,7 @@ npm i standard --save-dev
 
 ### [dependency-check](https://github.com/maxogden/dependency-check) by [maxogden](https://www.npmjs.com/~maxogden)
 
-检查您在代码中使用的模块，然后确保它们在package.json中列为依赖项（反之亦然）.
+Checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json (or vice versa).
 
 ```
 npm i dependency-check --save-dev
@@ -33,7 +33,7 @@ npm i dependency-check --save-dev
 
 ### [create-module](https://github.com/finnp/create-module) by [finnp](https://www.npmjs.com/~finnpauls)
 
- 辅助工具，用于创建模块的常规步骤.  创建空的github仓库，生成模块样板，运行npm init，首先提交+推送等.
+Helper tool for the usual steps to create a module. Creates empty github repo, generates module boilerplate, runs npm init, does first commit + push, etc.
 
 ```
 npm i create-module --save-dev
@@ -41,15 +41,15 @@ npm i create-module --save-dev
 
 ### [travisjs](https://github.com/finnp/node-travisjs) by [finnp](https://www.npmjs.com/~finnpauls)
 
- 用于travis的命令行模块，尤其适用于管理节点模块的测试.  帮助您快速添加travis hook +为您的自述文件生成travis徽章.
+A command line module for travis, especially targeted for managing tests for node modules. Helps you quickly add a travis hook + generate a travis badge for your readme.
 
 ```
-npm和travisjs --save-dev
+npm i travisjs --save-dev
 ```
 
 ### [gh-pages-deploy](https://github.com/meandavejustice/gh-pages-deploy) by [meandave](https://www.npmjs.com/~meandave)
 
- 使用一个命令部署到gh页面.  允许您将静态构建设置添加到package.json中，然后使用此模块自动构建，部署和推送到master中的gh页面.
+Deploy to gh-pages with one command. Lets you add static build settings into your package.json and then automatically build, deploy and push to gh-pages from master using this module.
 
 ```
 npm i gh-pages-deploy --save-dev
@@ -57,7 +57,7 @@ npm i gh-pages-deploy --save-dev
 
 ### [npm-release](https://github.com/phuu/npm-release) by [phuu](https://www.npmjs.com/~phuu)
 
- 用于发布npm模块的小工具.  颠簸，提交，标签，推送和发布.
+Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 
 ```
 npm i npm-release --save-dev
@@ -65,7 +65,7 @@ npm i npm-release --save-dev
 
 ### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) by [tjunnone](https://www.npmjs.com/~tjunnone)
 
-查找比package.json允许的更新版本的依赖项.
+Find newer versions of dependencies than what your package.json allows.
 
 ```
 npm i npm-check-updates --save-dev
@@ -73,15 +73,15 @@ npm i npm-check-updates --save-dev
 
 ### [npe](https://github.com/zeke/npe) by [zeke](https://www.npmjs.com/~zeke)
 
- 节点包编辑器：用于一次性检查和编辑package.json文件中属性的CLI.  让您避免手动编辑JSON.
+Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files. Lets you avoid having to hand-edit JSON.
 
 ```
-我的名字是-g
+npm i npe -g
 ```
 
 ### [package-json-to-readme](https://github.com/zeke/package-json-to-readme) by [zeke](https://npmjs.org/~zeke)
 
- 从package.json内容生成README.md.  使用npm模块，可以从package.json文件中的属性中收集大量信息：name，description，scripts.test，preferGlobal等.这就是package-json-to-readme存在的原因.  用它来生成一个像样的样板自述文件，然后从那里迭代. 
+Generate a README.md from package.json contents. With npm modules, lots of info can be gleaned from properties in the package.json file: name, description, scripts.test, preferGlobal, etc. That's why package-json-to-readme exists. Use it to generate a decent boilerplate README, then iterate from there. 
 
 ```
 npm i package-json-to-readme -g
@@ -89,15 +89,15 @@ npm i package-json-to-readme -g
 
 ### [npmwd](https://github.com/zeke/npmwd) by [zeke](https://npmjs.org/~zeke)
 
-在浏览器中打开与shell的当前工作目录匹配的npm包URL.
+Open the npm package URL in your browser that matches your shell's current working directory.
 
 ```
-npm和npmwd -g
+npm i npmwd -g
 ```
 
 ### [foundry](https://github.com/twolfson/foundry) by [twolfson](https://www.npmjs.com/~twolfson)
 
- npm，bower，component，PyPI，git标签以及您可以编写的任何插件的发布经理.  一次发布到多个包存储库.
+Release manager for npm, bower, component, PyPI, git tags, and any plugin you can write. Publish to multiple package repositories at once.
 
 ```
 npm i foundry --save-dev
@@ -105,7 +105,7 @@ npm i foundry --save-dev
 
 ### [semantic-release](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
 
- 完全自动化软件包的版本.  这不仅将决定发布哪个版本，还将确定何时 - 所有这些都不需要再次关注它.  此程序包的目标是从版本号和版本中删除人类.  查看自述文件了解更多信息！
+Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
 ```
 npm i semantic-release --save-dev
@@ -113,23 +113,23 @@ npm i semantic-release --save-dev
 
 ### [collaborator](https://github.com/maxogden/collaborator) by [maxogden](https://www.npmjs.com/~maxogden)
 
- 从CLI轻松地将新协作者添加到您的github repos + npm包中，然后使用新更新的协作者列表生成`collaborators.md`文件.  使用它可以为项目添加新的维护者.
+Easily add new collaborators to your github repos + npm packages from the CLI, and then generate a `collaborators.md` file with the newly updated list of collaborators. Use this to add new maintainers to your projects.
 
 ```
-npm和合作者-g
+npm i collaborator -g
 ```
 
 ### [gasket](https://www.npmjs.com/package/gasket) by [mafintosh](https://www.npmjs.com/~mafintosh)
 
- node.js的预配置管道.  一个更强大的npm脚本版本，但比gulp或grunt更少框架.  当您可能使用Makefile或bash脚本但希望您的管道跨平台时很有用.
+Preconfigured pipelines for node.js. A more powerful version of npm scripts, but less frameworky than gulp or grunt. Useful for when you might use Makefiles or bash scripts but want your pipelines to be cross platform.
 
 ```
-npm和垫圈--save-dev
+npm i gasket --save-dev
 ```
 
 ### [module-init](https://github.com/ngoldman/module-init) by [ngoldman](https://www.npmjs.com/~ngoldman)
 
-命令行工具，可快速创建具有自述文件，许可证，贡献指南和其他好东西的新节点模块.
+Command-line tool to quickly create a new node module with readme, license, contributing guidelines, and other goodies.
 
 ```
 npm i module-init -g
@@ -137,7 +137,7 @@ npm i module-init -g
 
 ### [gh-release](https://github.com/ngoldman/gh-release) by [ngoldman](https://www.npmjs.com/~ngoldman)
 
- 在GitHub上为节点包创建一个版本.  使用Github Releases API创建新版本.  默认使用package.json和CHANGELOG.md中的信息.
+Create a release for a node package on GitHub. Uses the Github Releases API to create a new release. Defaults to using information from package.json and CHANGELOG.md.
 
 ```
 npm i gh-release -g
@@ -145,26 +145,26 @@ npm i gh-release -g
 
 ### [XO](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
- JavaScript幸福风格的linter.  实施严格的代码风格.  没有决策权.  没有配置.  它只是工作！
+JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 
 ```
-npm和xo -g
+npm i xo -g
 ```
 
 ### [np](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
- 一个更好的`npm发布&#39;.  在发布之前运行测试，碰撞版本，推送git提交/标记等等.
+A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 
 ```
-npm和np -g
+npm i np -g
 ```
 
 ## maintenance bash scripts
 
 ```
-aka patch =&#39;pre-version &amp;&amp; npm version patch &amp;&amp; post-version&#39;
-alias minor =&#39;pre-version &amp;&amp; npm version minor &amp;&amp; post-version&#39;
-alias major =&#39;pre-version &amp;&amp; npm version major &amp;&amp; post-version&#39;
-alias pre-version =&#39;git diff --exit-code &amp;&amp; npm prune &amp;&amp; npm install -q &amp;&amp; npm test&#39;
-alias post-version =&#39;npm run --if-present build &amp;&amp; git diff --exit-code &amp;&amp; git push &amp;&amp; git push --tags &amp;&amp; npm publish&#39;
+alias patch='pre-version && npm version patch && post-version'
+alias minor='pre-version && npm version minor && post-version'
+alias major='pre-version && npm version major && post-version'
+alias pre-version='git diff --exit-code && npm prune && npm install -q && npm test'
+alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ```

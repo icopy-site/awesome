@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="jbmoelker/progressive-enhancement-resources"></div>
 ## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 关于渐进增强的全面资源集合.  从概念和策略到特征检测和测试方法.  完成（代码）示例列表.
+A comprehensive collection of resources on Progressive Enhancement. From concept and strategies to feature detection and testing methods. Complete with a list of (code) examples.
 
 
 
@@ -9,132 +9,132 @@
 
 ## The Concept
 
-[Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)  意味着在验证目标环境（例如浏览器）能够实现之后逐渐改善用户体验.  从内容开始，确保您保持功能和可访问性.
+[Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement) means gradually improving the user experience after verifying the target environment (e.g. browser) is capable of it. Start with content and ensure you maintain functionality & accessibility.
 
-* [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - 从增强的概念到丰富用户界面的标准和规则.
-* [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - 以层层叠叠的智能方式应用技术，创造出令人惊叹的体验.
-* [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) -  *关于渐进增强的书*（400多页）.
-* [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - 通过示例和演示介绍不同的特征检测技术. 
-* [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - 将网站增强为类似本机的应用程序（渐进式，非混合型）.
+* [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - From the concept of enhancement to the criteria and rules for enriching the user interface.
+* [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - Apply technologies in an intelligent way, layer-upon-layer, to craft an amazing experience.
+* [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) - *The book* (400+ pages) on Progressive Enhancement.
+* [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - Intro to different feature detection techniques with examples and demos. 
+* [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - Enhancing web sites into native-like apps (progressive, not hybrid).
 
 
 ## Strategies
 
-您可以通过不同方式应用渐进增强：
+You can apply Progressive Enhancement in different ways:
 
-* [Make the page usable with only HTML](https://www.gov.uk/service-manual/technology/using-progressive-enhancement#make-the-page-usable-with-only-html) - 这为每个设备和浏览器设置基线.
-* [Test Driven Progressive Enhancement](http://alistapart.com/article/testdriven) - 测试功能后，核心功能体验得到增强.
-* [Cut the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - 设置增强功能集合的阈值.
-* [等级组件，而不是浏览器]（https://www.filamentgroup.com/lab/grade-the-components.html
-） - 组件级功能测试和增强功能.
-* [Feature vs Browser vs Form factor detection](http://www.html5rocks.com/en/tutorials/detection/) - 作为将应用程序调整到其环境的不同策略.
-* [Server-side device detection](https://www.smashingmagazine.com/2014/07/server-side-device-detection-with-javascript/) - 使用用户代理和其他HTTP标头信息与设备数据库结合有条件地提供文件.
-* [Writing polyfills](https://addyosmani.com/blog/writing-polyfills/) - 如果某些浏览器的基线仍然太高，请考虑 [polyfills](https://remysharp.com/2010/10/08/what-is-a-polyfill) （又名 [Regressive Enhancement](https://twitter.com/SlexAxton/status/25600963629)).
-* [Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - 即时加载Web应用程序的设置.
+* [Make the page usable with only HTML](https://www.gov.uk/service-manual/technology/using-progressive-enhancement#make-the-page-usable-with-only-html) - This sets the baseline for every device and browser.
+* [Test Driven Progressive Enhancement](http://alistapart.com/article/testdriven) - Core functional experience enhanced after testing capabilities.
+* [Cut the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Set a threshold for collection of enhancements.
+* [Grade components, not browsers](https://www.filamentgroup.com/lab/grade-the-components.html
+) - Component level feature tests and enhancements.
+* [Feature vs Browser vs Form factor detection](http://www.html5rocks.com/en/tutorials/detection/) - As different strategies to tune your app to its environment.
+* [Server-side device detection](https://www.smashingmagazine.com/2014/07/server-side-device-detection-with-javascript/) - Use user-agent and other HTTP header info combined with a device database to conditionally serve files.
+* [Writing polyfills](https://addyosmani.com/blog/writing-polyfills/) - If your baseline is still too high for some browsers, consider [polyfills](https://remysharp.com/2010/10/08/what-is-a-polyfill) (aka [Regressive Enhancement](https://twitter.com/SlexAxton/status/25600963629)).
+* [Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - Setup for instant loading web apps.
 
 
 ## Feature Detection
 
- 在尝试增强体验之前，您需要确保环境能够增强.  您可以通过执行功能检测来测试它：
+Before you try to enhance the experience, you need to ensure the environment is capable of the enhancement. You test this by performing feature detections:
 
-* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)） - 使用JS方法或CSS声明本地测试是否支持特定的CSS功能.
-* [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) - 检测哪些ES2015功能可用.
-* [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) - 只有当`[requiredFeatures]`求值为true时才渲染SVG元素.
-* [Modernizr](https://modernizr.com/) - 广泛的功能检测套件（支持自定义构建）.
-* [Feature.js](http://featurejs.com/) - 轻量级功能检测套件.
-* [Conditioner.js](http://conditionerjs.com/) - 根据HTML属性中的指令有条件地加载JS模块.
-* [EnhanceJS](https://www.filamentgroup.com/lab/introducing-enhancejs-smarter-safer-apply-progressive-enhancement.html) - 允许您在设置预定义功能测试后异步加载CSS和JS.
+* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)) - Natively test if specific CSS feature is supported using JS method or CSS declaration.
+* [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) - Detect which ES2015 features are available.
+* [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) - Render SVG elements only if their `[requiredFeatures]` evaluate to true.
+* [Modernizr](https://modernizr.com/) - Extensive feature detection suite (supports custom builds).
+* [Feature.js](http://featurejs.com/) - Lightweight feature detection suite.
+* [Conditioner.js](http://conditionerjs.com/) - Conditionally load JS modules based on directives in HTML attributes.
+* [EnhanceJS](https://www.filamentgroup.com/lab/introducing-enhancejs-smarter-safer-apply-progressive-enhancement.html) - Lets you asynchronously load CSS & JS after a set pre-defined feature tests.
 
 
 ## Support Tables
 
- 不同的环境（平台，浏览器，版本）具有不同的功能.  支持表告诉您每个环境具有哪些功能.  了解支持级别可以帮助您权衡增强与其实施的努力和影响.
+Different environments (platforms, browsers, versions) have different capabilities. Support tables tell you what capabilities each environment has. Knowing the level of support can help you weigh an enhancement against the effort and impact of its implementation.
 
-* [The Web Platform](https://platform.html5.org/) - 浏览器技术概述，包含指向文档和测试套件的链接.
-* [Can I use ...?](http://caniuse.com/) - 比较桌面和移动浏览器的功能实现和限制.
-* [I want to use ...](http://www.iwanttouse.com/) - 找出浏览器对功能组合的支持.
-* [HTML5 Test](http://html5test.com/) - 测试和比较跨浏览器的HTML5功能支持.
-* [CSS3 Test](http://css3test.com/) -  CSS3的细粒度测试功能支持您当前的浏览器.
-* [State of Web Type](http://stateofwebtype.com/) - 支持Web上的类型和印刷功能表.
-* [Font Family Reunion](http://fontfamily.io/) - 默认本地（系统）字体的兼容性表.
-* [HTML5 Accessibility](http://html5accessibility.com/) - 比较HTML5标签的功能支持，主要浏览器的输入类型和属性. 
-* [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) -  ARIA角色和属性支持不同的屏幕阅读器和浏览器组合.
-* [What web can do today](https://whatwebcando.today/) - 列出并检查现代Web API，例如访问设备系统，传感器和执行器.
-* [HTML5 Worker test](https://nolanlawson.github.io/html5workertest/) - 比较浏览器中Web Workers和Service Workers支持的API.
-* [HTML5 Please](http://html5please.com/) - 探索功能，包括建议和填充物的链接.
-* [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/) - 允许您比较主要桌面浏览器中API规范的实现.
-* [Kangax's ECMAScript compatibility table](http://kangax.github.io/compat-table/) - 跨浏览器和其他运行时的JavaScript功能支持概述.
-* [Node compatibility table](http://node.green/) - 跨NodeJS版本的JavaScript功能支持概述.
-* [Is service worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - 支持Progressive Web Apps背后的核心技术所涉及的所有功能的概述.
-* [Is PWA ready?](https://ispwaready.toxicjohann.com/) - 针对流行的全球和许多中国浏览器支持Progressive Web Apps背后的核心和相关技术的概述.
-* [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - 支持实时通信背后的不同浏览器功能的概述.
-* [Is WebVR ready?](https://iswebvrready.org/) - 支持WebVR背后不同浏览器功能的概述，包括显示，游戏手柄，音频和语音API.
+* [The Web Platform](https://platform.html5.org/) - Overview of browser technologies with links to docs and test suites.
+* [Can I use ...?](http://caniuse.com/) - Compare feature implementations and limitations across desktop & mobile browsers.
+* [I want to use ...](http://www.iwanttouse.com/) - Figure out the browser support of combinations of features.
+* [HTML5 Test](http://html5test.com/) - Test and compare HTML5 feature support across browsers.
+* [CSS3 Test](http://css3test.com/) - Fine-grained tests for CSS3 feature support of your current browser.
+* [State of Web Type](http://stateofwebtype.com/) - Support tables for type and typographic features on the web.
+* [Font Family Reunion](http://fontfamily.io/) - Compatibility tables for default local (system) fonts.
+* [HTML5 Accessibility](http://html5accessibility.com/) - Compare feature support of HTML5 tags, input types and properties across major browsers. 
+* [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) - ARIA roles and attributes support for different screen reader and browser combinations.
+* [What web can do today](https://whatwebcando.today/) - Lists and checks modern web APIs like access to device system, sensors and actuators.
+* [HTML5 Worker test](https://nolanlawson.github.io/html5workertest/) - Compare which APIs are supported in Web Workers and Service Workers across browsers.
+* [HTML5 Please](http://html5please.com/) - Explore features with recommendations and links to polyfills.
+* [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/) - Lets you compare implementation of API specifications in major desktop browsers.
+* [Kangax's ECMAScript compatibility table](http://kangax.github.io/compat-table/) - Overview of JavaScript feature support across browsers and other runtimes.
+* [Node compatibility table](http://node.green/) - Overview of JavaScript feature support across NodeJS versions.
+* [Is service worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Overview of support for all features involved in the core technology behind Progressive Web Apps.
+* [Is PWA ready?](https://ispwaready.toxicjohann.com/) - Overview of support for the core and related technologies behind Progressive Web Apps for both popular global and many Chinese browsers.
+* [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Overview of support for the different browser features behind real time communication.
+* [Is WebVR ready?](https://iswebvrready.org/) - Overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
 * [Chrome Platform Status](https://www.chromestatus.com/features)
 * [Edge Platform Status](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
-* [Webkit Platform Status](https://webkit.org/status/) （苹果浏览器）
-* [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) -  MDN的Web技术文档在每篇文章末尾都有一个浏览器兼容性表.
-* [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) -  npm模块为MDN兼容性表提供支持.
-* [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) -  Crowd收集了移动设备中奇怪的HTML，CSS和JS怪癖的集合，这些在其他支持表中找不到.
+* [Webkit Platform Status](https://webkit.org/status/) (Safari)
+* [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
+* [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
+* [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 
 
 ## Testing Methods
 
- 通过渐进增强，您可以支持不同环境中的不同体验  这些是测试所有这些变化的一些方法：
+With progressive enhancement you support different experiences in different environments. These are some ways to test all these variations:
 
-* [Open Device Lab](https://opendevicelab.com/) - 让您*在实际设备上手动测试*（免费）.
-* [Testing in Opera Mini](https://dev.opera.com/articles/making-sites-work-opera-mini/#testing-in-opera-mini)   - 下载应用程序，在桌面上模拟，设置以测试本地网站.  （Opera Mini占全球浏览器使用率的5％以上）
-* [cURL](https://curl.haxx.se/docs/manual.html) - 用于查看页面的预呈现源代码的网页.
-* [Browserling](https://www.browserling.com/) - 允许您在Windows和Android平台上手动测试不同版本浏览器中的网页.
-* [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) - 在其他平台上测试IE浏览器.
+* [Open Device Lab](https://opendevicelab.com/) - Lets you *test manually on actual devices* (for free).
+* [Testing in Opera Mini](https://dev.opera.com/articles/making-sites-work-opera-mini/#testing-in-opera-mini) - Download the app, emulate on desktop, setup to test local websites. (Opera Mini accounts for over 5% browser usage world wide)
+* [cURL](https://curl.haxx.se/docs/manual.html) - Web page to see the pre-rendered source code of a page.
+* [Browserling](https://www.browserling.com/) - Lets you manually test web pages in different versions of browsers on Windows and Android platforms.
+* [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) - To test IE browsers on other platforms.
 * [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
-* [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - 在不同的场景中运行自动浏览器测试.
-*使用不同浏览器连续运行自动化测试 [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) 或其他替代方案.
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) - 审计和测试Progressive Web Apps的性能（通过cli或 [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
-* [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf)   - 可操作的列表，用于检查您是否已应用渐进增强最佳实践.  部分 [Adaptive Web Design book](http://adaptivewebdesign.info/).
-* [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) -  Chrome DevTools扩展，用于切换对所选CSS功能的支持，以测试渐进增强回退.
+* [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - Run automated browser tests in different scenarios.
+* Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) or other alternatives.
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
+* [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf) - Actionable list to check you've applied Progressive Enhancement best practices. Part of [Adaptive Web Design book](http://adaptivewebdesign.info/).
+* [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) - Chrome DevTools extension to toggle support of selected CSS features for testing progressive enhancement fallbacks.
 
 
 ## Examples
 
 ### Custom Form Elements
 
-* [Fancy radio buttons](https://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/) - 基于HTML单选按钮，使用CSS伪类和元素进行可视化增强.
-* [Checkboxes & radio buttons](https://www.filamentgroup.com/dwpe/checkbox-radiobutton/)   - 具有自定义焦点，悬停和检查状态.  异步增强.
-* [Toggle switch](https://ghinda.net/css-toggle-switch/) - 复选框或无线电，仅使用CSS可视化增强到滑动切换开关.
-* [5-star rating](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/) - 基于HTML单选按钮，使用CSS伪类和元素进行可视化增强.
-* [jQuery slider](https://github.com/filamentgroup/jQuery-Slider) - 基于标准HTML选择的可访问的自定义滑块小部件.
-* [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) - 文章和图书馆.
-* [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/)   - 一组React表单组件，可以在服务器端预呈现和处理.  它们在客户端增强而不会丢失状态.
+* [Fancy radio buttons](https://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/) - Based on HTML radio buttons, visually enhanced using CSS pseudo classes and elements.
+* [Checkboxes & radio buttons](https://www.filamentgroup.com/dwpe/checkbox-radiobutton/) - With custom focus, hover and checked state. Enhanced asynchronously.
+* [Toggle switch](https://ghinda.net/css-toggle-switch/) - Checkbox or radios, visually enhanced to sliding toggle switches using CSS only.
+* [5-star rating](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/) - Based on HTML radio buttons, visually enhanced using CSS pseudo classes and elements.
+* [jQuery slider](https://github.com/filamentgroup/jQuery-Slider) - Accessible, custom slider widget based on a standard HTML select.
+* [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) - Article and library.
+* [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/) - Set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
 
 ### Data Visualisations
 
-* [Timeline](https://css-tricks.com/progressive-enhancement-data-visualizations/) - 从定义列表到SVG插图（带演示的文章）.
-* [Charts](https://www.filamentgroup.com/lab/update-to-jquery-visualize-accessible-charts-with-html5-from-designing-with.html) - 使用HTML5画布（文章和库）从数据表到主题图表.
+* [Timeline](https://css-tricks.com/progressive-enhancement-data-visualizations/) - From definition list to SVG illustration (article with demos).
+* [Charts](https://www.filamentgroup.com/lab/update-to-jquery-visualize-accessible-charts-with-html5-from-designing-with.html) - From data table to themed charts using HTML5 canvas (article and library).
 
 ### Images
 
-* [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) - 增强到具有各种行为选项的响应轮播的图像列表.
-* [Lazy Progressive Enhancement](https://github.com/tvler/lazy-progressive-enhancement)   - 懒惰加载`里面的图像 <noscript>  `标签.  （注意：仅限常绿浏览器）
+* [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) - List of images enhanced into responsive carousel with various behaviour options.
+* [Lazy Progressive Enhancement](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
 
 ### Menus
 
-* [Progressive hamburger menu](http://heydonworks.com/practical_aria_examples/#hamburger) - 页脚链接列表增强到画布外菜单.
+* [Progressive hamburger menu](http://heydonworks.com/practical_aria_examples/#hamburger) - List of links in footer enhanced to off-canvas menu.
 
 ### Page Navigation
 
-使用ajax和`history.pushState`在静态页面之间异步获取和转换：
+Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
-* [Barba.js](http://barbajs.org/) - 使用事件挂钩，缓存和预取支持添加页面转换.
-* [SmoothState.js](https://github.com/miguel-perez/smoothState.js)   - 使用事件挂钩，缓存和预取支持添加页面转换.  （需要jQuery）.
-* [MoOx/pjax](https://github.com/MoOx/pjax) - 类似于jquery-pjax，但没有jQuery依赖.
-* [Turbolinks](https://github.com/turbolinks/turbolinks)   - 使用事件挂钩和缓存支持添加页面转换.  具有适配器以绑定到iOS和Android上的本机导航控件.
+* [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
+* [SmoothState.js](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+* [MoOx/pjax](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
+* [Turbolinks](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
 
 
 ## Related Articles
 
-* [Make the web work for everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) - 请开发人员考虑浏览器差异并构建弹性网络.
-* [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/) - 研究为什么1.1％的页面访问JavaScript未加载. 
+* [Make the web work for everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) - Plea to developers to consider browser differences and build a resilient web.
+* [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/) - Research on why in 1.1% of page visits JavaScript isn't loaded. 
 
 ---
 
@@ -144,4 +144,4 @@
 
 [Jasper Moelker](https://twitter.com/jbmoelker) waives all rights to this work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-您可以复制，修改，分发和执行工作，即使是出于商业目的，也可以不经许可.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.

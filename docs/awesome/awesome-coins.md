@@ -5,63 +5,63 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
-来自维基百科 - 
-&gt; A. [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在作为交换媒介使​​用密码术来保护交易并控制其他货币单位的创建.
+From Wikipedia—
+> A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
 
- 在许多不同的加密货币中使用了许多算法.  本文档用于提供一个简单的地图，以供参考，以及提供一个很好的管理硬币的有用服务和实用程序列表.
+There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utilities for managing coins.
 
 ## So, Before We Begin…
 
- 如果你是新手，这些“硬币”的东西可能会令人困惑.  所以，让我解释一下我目前所知道的事情 - 
+Some of this "coin" stuff may be confusing, if you're new. So, let me explain what I know so far — 
 
-有很多很多 [coins](http://coinbin.org/coins) .  人们喜欢 [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz)  他们，与股票或神奇宝贝卡不同.  人们也喜欢 [mine](https://www.nicehash.com/?refby=386829) 他们使用家用电脑或专用硬件.
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
- 硬币存放在钱包中.  这些可以在线，在您的本地计算机上，甚至在一张纸上托管.
+Coins are stored in wallets. These can be hosted online, on your local computer, or even on a sheet of paper.
 
- 自己很难挖出一枚硬币，有点像赌博，所以人们通常选择加入一个游泳池（通常使用“stratum”协议进行协调） - 这会奖励你的工作，即使你没有找不到任何东西，因为你帮助了成千上万的人，其中一些确实找到了阻挡.  然后根据池的规则拆分块.
+It's hard to mine a coin on your own, and is a bit like gambling, so people usually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules.
 
-有些人 [rent hashing power](https://www.nicehash.com/?refby=386829) 从农场开始，或者玩“区块链彩票”，试图自己找到硬币块，或者他们将农场指向一个游泳池，就像一个典型的家庭矿工 - 除了他们拥有极高的计算能力，如果他们愿意为此付钱.
+Some people [rent hashing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it.
 
-希望有助于澄清事情.
+Hope that helps clear things up.
 
 ## ☤ Support Causes You Care About
 
-- [Wikileaks](https://wikileaks.org) ** BTC **：`1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
-- [Internet Archive](https://archive.org) ** BTC **：`1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
-- [The Pirate Bay](https://thepiratebay.org) ** BTC **：`129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
-- [xkcd](https://xkcd.com) ** BTC **：`14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
+- [Wikileaks](https://wikileaks.org) **BTC**: `1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
+- [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
+- [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
+- [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
 - [this repo](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 
 ## ☤ Coin Market Tools & Utilities
 
-- **[Coinbin.org](http://coinbin.org)**  - 用于快速获取硬币数据的人性化API（汇率，预测等）
-    * [List of All Known Coins](http://coinbin.org/coins) `/ coins`
-    * [BTC Current Value](http://coinbin.org/btc) `/ btc`
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/ BTC / history`
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/ BTC /到/ eth`
+- **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
+    * [List of All Known Coins](http://coinbin.org/coins) `/coins`
+    * [BTC Current Value](http://coinbin.org/btc) `/btc`
+    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
+    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
     * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/ ETH / 42 /到/ btc`
-    *支持所有加密货币.
-- [CoinMarketCap](https://coinmarketcap.com) - 显示实时仪表板上的所有货币.
-- [CoinScanner.co](https://coinscanner.co/) - 为您提供从1个加密到另一个加密的多条贸易路线.
+    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
+    * Supports all crypto–currencies.
+- [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
+- [CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.
 
 ## ☤ Reading Material
 
-- [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) -  GitHub回购.
-- [Map of Coins](http://mapofcoins.com) - 探索加密货币的可视化历史，从白皮书到现在.
+- [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
+- [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) （电子书）
-- [Binance Academy](https://www.binance.vision) -  Binance提供的开放教育.
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+- [Binance Academy](https://www.binance.vision) — Open access education provided by Binance.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
-- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) - 超简化的区块链解释（在施工中）.
-- [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - 关于加密货币和加密资产的官方subreddit.
-- [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - 关于加密货币和区块链的主题页面集群.
-- 出版物
-    * [Cryptoeconomics](https://medium.com/@cryptoeconomics) / cryptoeconomics.com.au的团队
-    * [Minessence](https://vinnylingham.com/) / Vinny Lingham，Civic.com的联合创始人兼首席执行官
+- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
+- [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
+- [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
+- Publications
+    * [Cryptoeconomics](https://medium.com/@cryptoeconomics) / The team at cryptoeconomics.com.au
+    * [Minessence](https://vinnylingham.com/) / Vinny Lingham, Co-founder & CEO of Civic.com
     * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
     * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
-    * Hackernoon
+    * Hackernoon's
       * [Blockchain](https://hackernoon.com/blockchain/home)
       * [Bitcoin](https://hackernoon.com/bitcoin/home)
       * [Coin & Crypto](https://medium.com/@coinandcrypto) 
@@ -69,37 +69,37 @@
 
 ## ☤ Coin Mining Pools
 
-这是一个列表 [WhatToMine](https://whattomine.com).
+Here's a list of [WhatToMine](https://whattomine.com).
 
-- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) - 挖掘任何算法（针对您的GPU优化）并获得** BTC **.
--  ** BTC **：https：//pool.bitcoin.com/
--  ** ETH **：https：//eth.nanopool.org/
--  ** SC **：https：//sia.nanopool.org/
--  ** PASC **：https：//pasc.nanopool.org/
--  ** XMR **：https：//xmr.nanopool.org/
--  ** ZEC **：https：//zec.nanopool.org/
--  ** ETC **：https：//etc.nanopool.org/
--  ** ZCL **：https：//2miners.com/zcl-mining-pool
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — Mine any algo (optimized for your GPU) & get paid in **BTC**.
+- **BTC**: https://pool.bitcoin.com/
+- **ETH**: https://eth.nanopool.org/
+- **SC**: https://sia.nanopool.org/
+- **PASC**: https://pasc.nanopool.org/
+- **XMR**: https://xmr.nanopool.org/
+- **ZEC**: https://zec.nanopool.org/
+- **ETC**: https://etc.nanopool.org/
+- **ZCL**: https://2miners.com/zcl-mining-pool
 - **ZEN**: https://2miners.com/zen-mining-pool
--  ** ZEC **：https：//2miners.com/zec-mining-pool
+- **ZEC**: https://2miners.com/zec-mining-pool
 
 ## ☤ Hashing Power for Rent
 
-- [NiceHash](https://www.nicehash.com/?refby=386829) - 支持所有流行的算法，支付** BTC **的原始吞吐量.
-- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) - 我听说过好话.
-- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) - 看起来复杂而粗略，但它们提供托管的ASIC解决方案.
+- [NiceHash](https://www.nicehash.com/?refby=386829) — Supports all popular algos, pay in **BTC** for raw throughput.
+- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
+- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — Looks complicated and sketchy, but they offer hosted ASIC solutions.
 
 ## ☤ Coin Wallets
 
 ### Hosted Coin Wallets
 
-**注意：**硬币社区在使用这些服务时不满意，因为您无法直接控制您的硬币 - 事实上，您根本不拥有它们 - 服务确实如此 - 就像标准银行的方式一样运行.
+**Notice:** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates.
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **LTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 
-实际托管硬币钱包：
+Actual Hosted Coin Wallets:
 
 - [MyEtherWallet **ETH**](https://www.myetherwallet.com/)
 - [Tokenary **ETH&ERC20 Tokens**](https://www.tokenary.io/)
@@ -114,97 +114,97 @@
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
 - [WalletGenerator.net](https://walletgenerator.net)
-- [Cryptosteel](https://cryptosteel.com) - 钢制！
+- [Cryptosteel](https://cryptosteel.com) — Made of steel!
 
 ## ☤ Coin Exchanges
 
-- [Binance](https://www.binance.com) - 交换世界. 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) - 所有货币的钱包，与所有货币进行交易.
-- [Shapeshift](https://shapeshift.io/#/coins) - 地球上最快的交流.
-- [Bittrex](https://bittrex.com) - 所有货币的钱包，与所有货币进行交易.
-- [Qvolta](https://qvolta.com) - 在全球范围内销售和购买加密资产，以获取本地支付方式.
-- [Coinwale](https://coinwale.com) - 匿名加密货币交换.
+- [Binance](https://www.binance.com) — Exchange the world. 
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — Wallets for all currencies, trading to/from all currencies.
+- [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
+- [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
+- [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
+- [Coinwale](https://coinwale.com) - Anonymous cryptocurrency exchange.
 
 
 ## ☤ Universal GUI Apps
 
-- [**Sia** UI](http://sia.tech/apps/) -  SC钱包，文件托管，存储.
-- [**LBRY**](https://lbry.io) -  LBRY钱包，媒体消费和发布平台.
+- [**Sia** UI](http://sia.tech/apps/) — SC wallet, file hosting, storage.
+- [**LBRY**](https://lbry.io) — LBRY wallet, media consumption & publishing platform.
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829)   - 将您的GPU / CPU转售给矿工以获取利润！  对所有硬件进行基准测试，并自动选择最有利可图的配置（可调）.
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
-- [MinerGate](https://minergate.com) - 挖掘最有利可图的加密货币.
+- [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
 ## ☤ MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/) - 在GUI中包装bfgminer，cgminer和sgminer.
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — Wraps bfgminer, cgminer, and sgminer in a GUI.
 
 ## ☤ MacOS CLI Apps
 
-- [bfgminer](http://macminer.fabulouspanda.com/commandline/) - 采用C语言编写的模块化ASIC / FPGA挖掘器，具有超频，监控，风扇速度控制和远程接口功能.
-- [cgminer](http://macminer.fabulouspanda.com/commandline/) - 用于比特币的C和ASIC和FPGA矿工.
-- [sgminer](http://macminer.fabulouspanda.com/commandline/) -  Scrypt GPU矿工.
-- [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) -  Equihash CPU和GPU矿工.
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
+- [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
+- [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
+- [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
 
 ## ☤ Recommended Hardware
 
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) - 世界上最强大的消费者显卡.
-- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) - 显然可以容纳12x PCI-E GPU.
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — The most powerful consumer graphics card in the world.
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — Can apparently host 12x PCI-E GPUs.
 
 ## ☤ Cool Coin/Blockchain Stuff
 
-- [Bit](https://github.com/ofek/bit) -  Python最快的比特币库，带有允许交易的API
-  仅用3行代码制作.
-- [bcoin](http://bcoin.io) - 完全用Node.js编写的比特币全节点实现，您甚至可以在浏览器中运行，包括钱包，mempool，链和挖掘. 
+- [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
+  to be made in only 3 lines of code.
+- [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
-- [Tezos](https://www.tezos.com) - 自我修复区块链.
-- [Tendermint](https://tendermint.com) - 任何编程语言的拜占庭容错复制状态机.
-- [Cosmos](https://cosmos.network) - 网络和区块链之间互操作性的框架.
+- [Tezos](https://www.tezos.com) — Self-healing blockchain.
+- [Tendermint](https://tendermint.com) — Byzantine fault-tolerant replicated state machines in any programming language.
+- [Cosmos](https://cosmos.network) — Network and a framework for interoperability between blockchains.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
-- [Blockply](https://blockply.com/) - 收集最有趣和最优秀的区块链项目
-- [Blockchain demo](https://github.com/anders94/blockchain-demo) - 基于网络的区块链概念演示.
+- [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
+- [Blockchain demo](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
-- `Scrypt`（Litecoin / **[LTC](http://coinbin.org/ltc)**)
-- `SHA256`（比特币/ **[BTC](http://coinbin.org/btc)**)
-- `ScryptNF`（Scrypt-Adaptive-Nfactor）（GPU硬币，** GPUC **）
-- `X11`（Dash / Darkcoin，Dashcoin，ASIC-Resistant）
-- `X13`（MaruCoin / ** MARU **）（CPU / GPU）
-- `Keccak`（MaxCoin / ** MAX **）
-- `X15`（HTML5硬币，** HTML5 **）
-- `Nist5`（Talkcoin，** TAC **）
-- “NeoScrypt”（Phoenixcoin（** PXC **），Imperialcoin（** IPC **），Feathercoin（** FTC **），UFOcoin（** UFO **），Guncoin（** GUN **），宝莱坞币（** BDC **），Orbitcoin（** ORB **），Halcyon（** HAL **））
-- `Lyra2RE`（VertCoin / ** VTC **，CryptoCoin）
-- `WhirlpoolX`（Vanillacoin / ** VNL **）
-- `Qubit`（QuibitCoin / ** Q2C **）
-- `Quark`（** QRK **）
-- `Axiom`（Axiom Coin / ** AXIOM **）
-- `Lyra2REv2`（VertCoin / ** VTC **）
-- `ScryptJaneNf16`（钻石/ ** DMD **）
-- `Blake256r8`（Blake Coin / ** BLC **）
-- `Blake256r14`（Blake Coin / ** BLC **）
-- `Blake256r8vnl`（Blake Coin / ** BLC **）
-- `Hodl`（HodlCoin / ** HODL **）
-- `DaggerHashimoto`（以太坊/ ** ETH **）
-- `Decred`（** DCR **）
-- `CryptoNight`（** XCN **，仅限CPU）
-- `Lbry`（** LBC **）
-- `Equihash`（Zcash / ** XEC **，ZClassic，** HUSH **，Komodo）
-- &#39;Pascal&#39;（** PASC **）
-- `X11Gost`（SIBCOin / ** SIB **）
-- `Sia`（** SC **）
-- `Blake2`s（NevaCoin，Some Coin，Verge，TajCoin）
-- “臭鼬”（Signatum Coin / ** SIGT **）
+- `Scrypt` (Litecoin / **[LTC](http://coinbin.org/ltc)**)
+- `SHA256` (Bitcoin / **[BTC](http://coinbin.org/btc)**)
+- `ScryptNF` (Scrypt-Adaptive-Nfactor) (GPU Coin, **GPUC**)
+- `X11` (Dash / Darkcoin, Dashcoin, ASIC-Resistant)
+- `X13` (MaruCoin / **MARU**) (CPU/GPU)
+- `Keccak` (MaxCoin / **MAX**)
+- `X15` (HTML5 Coin, **HTML5**)
+- `Nist5` (Talkcoin, **TAC**)
+- `NeoScrypt` (Phoenixcoin (**PXC**), Imperialcoin (**IPC**), Feathercoin (**FTC**), UFOcoin (**UFO**), Guncoin (**GUN**), Bollywoodcoin (**BDC**), Orbitcoin (**ORB**), Halcyon (**HAL**))
+- `Lyra2RE` (VertCoin / **VTC**, CryptoCoin)
+- `WhirlpoolX` (Vanillacoin / **VNL**)
+- `Qubit` (QuibitCoin / **Q2C**)
+- `Quark` (**QRK**)
+- `Axiom` (Axiom Coin / **AXIOM**)
+- `Lyra2REv2` (VertCoin / **VTC**)
+- `ScryptJaneNf16` (Diamond / **DMD**)
+- `Blake256r8` (Blake Coin / **BLC**)
+- `Blake256r14` (Blake Coin / **BLC**)
+- `Blake256r8vnl` (Blake Coin / **BLC**)
+- `Hodl` (HodlCoin / **HODL**)
+- `DaggerHashimoto` (Ethereum / **ETH**)
+- `Decred` (**DCR**)
+- `CryptoNight` (**XCN**, CPU-only)
+- `Lbry` (**LBC**)
+- `Equihash` (Zcash / **XEC**, ZClassic, **HUSH**, Komodo)
+- `Pascal` (**PASC**)
+- `X11Gost` (SIBCoin / **SIB**)
+- `Sia` (**SC**)
+- `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
+- `Skunk` (Signatum Coin / **SIGT**)
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
 ## ☤ Every Active Coin, Ranked
 
-截至2017-08-23：
+As of 2017-08-23:
 
 [btc](https://coinbin.org/btc)
 [eth](https://coinbin.org/eth)
@@ -401,13 +401,13 @@
 
 ## Find this useful?
 
-如果您愿意为我在开源世界的努力捐款，您可以使用以下钱包地址，任何贡献（无论多小）都将深受赞赏.
+If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated.
 
-- **[BTC](http://coinbin.org/btc)**：`1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
-- **[ETH](http://coinbin.org/eth)**：`0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
-- **[LTC](http://coinbin.org/ltc)**：`Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
-- **[LBC](http://coinbin.org/lbc)**：`bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **[SC](http://coinbin.org/sc)**：`f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
+- **[BTC](http://coinbin.org/btc)**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- **[ETH](http://coinbin.org/eth)**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
+- **[LTC](http://coinbin.org/ltc)**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
+- **[LBC](http://coinbin.org/lbc)**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
+- **[SC](http://coinbin.org/sc)**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
 
 Or, [Say Thanks!](http://saythanks.io/to/kennethreitz)
 

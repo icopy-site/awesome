@@ -3,140 +3,140 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
- 精选的**开源**数据可视化框架，库和软件的精选列表.  灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome **open-source** data visualizations frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 
 
 ## JavaScript tools
 
 ### Charting libraries
-- [ApexCharts](https://apexcharts.com/) - 现代和互动SVG图表.
-- [Chart.js](http://www.chartjs.org/) - 带有canvas标签的图表.
-- [Chartist.js](http://gionkunz.github.io/chartist-js/) - 具有出色浏览器兼容性的响应式图表.
-- [dc.js](https://github.com/dc-js/dc.js) 是一个多维图表，可以与crossfilter本地工作.
-- [Dimple](http://dimplejs.org/) - 面向对象的业务分析API.
-- [Dygraphs](http://dygraphs.com/) - 适用于大型数据集的交互式折线图库.
-- [Echarts](https://github.com/ecomfe/echarts) - 高度可定制的交互式图表，可用于大型数据集. [React wrapper](https://github.com/hustcc/echarts-for-react)
-- [Epoch](https://github.com/epochjs/epoch) - 完美的创建实时图表.
-- [MetricsGraphics.js](https://metricsgraphicsjs.org/) - 针对时间序列数据进行了优化.
-- [NVD3](https://github.com/novus/nvd3) - 用d3.js编写的可重用图表库.
-- [Plotly.js](https://github.com/plotly/plotly.js/) - 强大的声明性库，支持20种图表类型.
-- [TechanJS](http://techanjs.org/) - 股票和金融图表.
-- [TOAST UI Chart](https://github.com/nhnent/tui.chart) - 支持旧版浏览器的完整库.
+- [ApexCharts](https://apexcharts.com/) - Modern & Interactive SVG Charts.
+- [Chart.js](http://www.chartjs.org/) - Charts with the canvas tag.
+- [Chartist.js](http://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
+- [dc.js](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
+- [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
+- [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
+- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper](https://github.com/hustcc/echarts-for-react)
+- [Epoch](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+- [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
+- [NVD3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
+- [Plotly.js](https://github.com/plotly/plotly.js/) - Powerful declarative library with support for 20 chart types.
+- [TechanJS](http://techanjs.org/) - Stock and financial charts.
+- [TOAST UI Chart](https://github.com/nhnent/tui.chart) - Complete library with support for legacy browsers.
 
 ### Charting libraries for graphs
-- [Cola.js](http://marvl.infotech.monash.edu/webcola/)   - 使用基于约束的优化技术创建图表的工具.  适用于d3和svg.js.
-- [Cytoscape.js](http://js.cytoscape.org/) - 用于图形绘制的JavaScript库 [Cytoscape](http://www.cytoscape.org) 核心开发者.
-- [Sigma.js](http://sigmajs.org/) - 专用于图形绘制的JavaScript库.
-- [VivaGraph](https://github.com/anvaka/VivaGraphJS) -  JavaScript的图形绘制库.
+- [Cola.js](http://marvl.infotech.monash.edu/webcola/) - A tool to create diagrams using constraint-based optimization techniques. Works with d3 and svg.js.
+- [Cytoscape.js](http://js.cytoscape.org/) - JavaScript library for graph drawing maintained by [Cytoscape](http://www.cytoscape.org) core developers.
+- [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
+- [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
 ### Maps
-- [CARTO](https://github.com/CartoDB/cartodb) -  CARTO是一个开源工具，允许在Web上存储和可视化地理空间数据.
-- [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) -  WebGL 3D地球仪和地图.
-- [Deck.gl](http://deck.gl/) - 用于大型数据集的可视化探索性数据分析的WebGL框架.
-- [DataMaps](https://github.com/markmarkoh/datamaps) - 使用D3.js的交互式SVG地图.
-- [Leaflet](http://leafletjs.com) - 适用于移动设备的交互式地图的JavaScript库.
-- [Mapael](https://github.com/neveldo/jQuery-Mapael) - 基于raphael.js的jQuery插件，用于显示矢量地图.
+- [CARTO](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
+- [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+- [Deck.gl](http://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
+- [DataMaps](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
+- [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
+- [Mapael](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
 
 
 ### d3
-- 见 [Awesome D3](https://github.com/wbkd/awesome-d3)
+- See [Awesome D3](https://github.com/wbkd/awesome-d3)
 
 ### React
-- [BizCharts](https://github.com/alibaba/BizCharts) - 基于G2和React的阿里巴巴数据可视化库. [English docs](https://github.com/alibaba/BizCharts/tree/master/doc_en)
-- [React-vis](https://github.com/uber/react-vis) - 反应组件以构建数据可视化.
-- [Recharts](https://github.com/recharts/recharts) - 用于呈现D3图表的声明性反应组件.
-- [Victory](https://formidable.com/open-source/victory/) - 用于构建交互式数据可视化的可组合组件
-- [nivo](https://github.com/plouc/nivo) - 具有同构能力的React的增压dataviz组件， [demo](http://nivo.rocks).
-- [React Svg Textures](https://github.com/finnfiddle/react-svg-textures)   -  Textures.js移植到React.  完全同构.
-- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - 用于Bootstrap和Material Design的基于插件的高性能React图表.
+- [BizCharts](https://github.com/alibaba/BizCharts) - Alibaba data visualization library based on G2 and React. [English docs](https://github.com/alibaba/BizCharts/tree/master/doc_en)
+- [React-vis](https://github.com/uber/react-vis) - React components to build data visualizations.
+- [Recharts](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
+- [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
+- [nivo](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks).
+- [React Svg Textures](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
+- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
 ### Misc
-- [Piecon](https://github.com/lipka/piecon) - 您的favicon中的饼图.
-- [Textures.js](http://riccardoscalco.github.io/textures/) - 用于创建SVG模式的库.
-- [Timeline.js](http://timeline.knightlab.com/) - 创建交互式时间表.
-- [Vega](https://vega.github.io/vega/) -  Vega是一种可视化语法，一种用于创建，保存和共享交互式可视化设计的声明性格式.
-- [Vis.js](http://visjs.org/) - 动态可视化库，包括时间轴，网络和图形（2D和3D）.
+- [Piecon](https://github.com/lipka/piecon) - Pie charts in your favicon.
+- [Textures.js](http://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
+- [Timeline.js](http://timeline.knightlab.com/) -  Create interactive timelines.
+- [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
+- [Vis.js](http://visjs.org/) - A dynamic visualization library including timeline, networks and graphs (2D and 3D).
 
 ## Android tools
-- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - 动画圆形轮图库.
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 功能强大且易于使用的图表库.
-- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 简单的图表库.
+- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## Excel tools
-- [Best Excel Maps](http://bestexcelmaps.com/) -  Microsoft Excel的Choropleth地图.
+- [Best Excel Maps](http://bestexcelmaps.com/) - Choropleth maps for Microsoft Excel.
 
 ## C++ tools
-- [LargeVis](https://github.com/lferry007/LargeVis) - 实施 [LargeVis paper](https://arxiv.org/abs/1602.00370)，用于可视化大规模和高维数据.
-- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - 用于绘制图表的开源Qt5应用程序（基于Qwt）.
-- [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - 用于3d图形，图像处理和可视化的开源库.
+- [LargeVis](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
+- [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ## Golang tools
-- [svgo](https://github.com/ajstarks/svgo) - 转到SVG生成的语言库.
+- [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
 
 ## iOS tools
-- [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - 高度可定制和交互式的线图.
-- [Charts](https://github.com/danielgindi/Charts)   -  MPAndroidChart的iOS端口.  您可以使用非常相似的代码为两个平台创建图表.
-- [JBChartView](https://github.com/Jawbone/JBChartView) - 线图和条形图的图表库.
-- [PNChart](https://github.com/kevinzhow/PNChart) -  Piner和CoinsMan中使用的简单而美观的图表库.
+- [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
+- [Charts](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
+- [JBChartView](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
+- [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
 ## Python tools
-- [altair](https://altair-viz.github.io/) - 基于Vega-Lite的声明性统计可视化.
-- [bokeh](http://bokeh.pydata.org/en/latest/) - 用于Python的交互式Web绘图.
-- [diagram](https://github.com/tehmaze/diagram) - 使用UTF-8字符的文本模式图
-- [ggplot](https://github.com/yhat/ggpy) - 基于的绘图系统 [R's](#r-tools) GGPLOT2.
-- [glumpy](https://github.com/glumpy/glumpy) -  OpenGL科学可视化库.
+- [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
+- [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
+- [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
+- [ggplot](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
+- [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
-- [mayai](http://docs.enthought.com/mayavi/mayavi/) -  Python中的交互式科学数据可视化和3D绘图.
-- [matplotlib](http://matplotlib.org/) -  2D绘图库.
-- [missingno](https://github.com/ResidentMario/missingno) - 提供灵活的数据可视化工具集，可以基于matplotlib快速直观地总结数据集的完整性.
-- [plotly](https://plot.ly/python/) - 基于互动网络的可视化 [plotly.js](https://github.com/plotly/plotly.js)
-- [PyQtGraph](http://www.pyqtgraph.org/) - 交互式实时2D / 3D /图像绘图和科学/工程小部件.
-- [seaborn](https://seaborn.pydata.org/) - 一个用于制作有吸引力且信息丰富的统计图形的库.
-- [toyplot](http://toyplot.readthedocs.io/en/stable/) - 用于Python的儿童大小的绘图工具包，具有成人大小的目标.
-- [veusz](https://veusz.github.io/) -  Python多平台GUI绘图工具和图形库
-- [VisPy](http://vispy.org/) - 基于OpenGL的高性能科学可视化.
-- [vtk](https://www.vtk.org/) - 包含Python界面的3D计算机图形，图像处理和可视化.
+- [mayai](http://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
+- [matplotlib](http://matplotlib.org/) - 2D plotting library.
+- [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
+- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
+- [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+- [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
+- [toyplot](http://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
+- [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
+- [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
+- [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
 ## R tools
-- [ggplot2](http://ggplot2.org/) - 基于图形语法的绘图系统.
-- [ggvis](http://ggvis.rstudio.com/) - 数据可视化包，其语法类似于ggplot2，允许您创建丰富的交互式图形.
-- [lattice](http://lattice.r-forge.r-project.org) -  R的格子图形
-- [plotly](https://github.com/ropensci/plotly) - 交互式图表（包括向ggplot2输出添加交互性），制图和简单的网络图
-- [rbokeh](http://hafen.github.io/rbokeh/) - 与Bokeh的R接口.
-- [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 使用OpenGL进行3D可视化
-- [shiny](http://shiny.rstudio.com) - 用于创建交互式应用程序/可视化的框架
-- [visNetwork](https://datastorm-open.github.io/visNetwork/) - 互动网络可视化
+- [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
+- [ggvis](http://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
+- [lattice](http://lattice.r-forge.r-project.org) - trellis graphics for R
+- [plotly](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+- [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to Bokeh.
+- [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
+- [shiny](http://shiny.rstudio.com) - Framework for creating interactive applications/visualisations
+- [visNetwork](https://datastorm-open.github.io/visNetwork/) - Interactive network visualisations
 
 ## Ruby tools
-- [Chartkick](https://github.com/ankane/chartkick) - 使用一行Ruby创建图表.
+- [Chartkick](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
 ## Markup-based tools
-- [mermaidjs](https://mermaidjs.github.io/mermaid-live-editor) - 一种简单的降价式脚本语言，用于通过javascript从文本生成图表
-- [viz-js.com](http://viz-js.com/) - 放弃一个黑客 [Graphviz](http://www.graphviz.org/) 在网上
-- [wavedrom.com](http://wavedrom.com/) - 从简单的文本描述中绘制您的时序图或波形
+- [mermaidjs](https://mermaidjs.github.io/mermaid-live-editor) - A simple markdown-like script language for generating charts from text via javascript
+- [viz-js.com](http://viz-js.com/) - A hack to put [Graphviz](http://www.graphviz.org/) on the web
+- [wavedrom.com](http://wavedrom.com/) - Draws your Timing Diagram or Waveform from simple textual description
 
 ## Other tools
-与特定平台或语言无关的工具.
-- [Charted](https://github.com/mikesall/charted) - 图表工具，可从任何数据文件生成自动，可共享的图表.
-- [Circos](http://circos.ca) - 以圆形布局显示数据，非常适合探索对象或位置之间的关系. [Mirror on github](https://github.com/node/circos).
-- [Gephi](https://github.com/gephi/gephi) - 用于可视化和操作大型图形的开源平台
-- [Kepler.gl](http://kepler.gl/) - 用于大规模数据集的地理空间分析工具.
-- [Lightning](http://lightning-viz.org/) - 数据可视化服务器，提供基于API的可访问，基于Web的交互式可视化.
-- [RAW](http://rawgraphs.io) - 从CSV或Excel文件创建Web可视化.
-- [Spark](https://github.com/holman/spark)   - 外壳的迷你图.  它有几个 [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
+Tools that are not tied to a particular platform or language.
+- [Charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
+- [Circos](http://circos.ca) - Visualizes data in a circular layout, ideal for exploring relationships between objects or positions. [Mirror on github](https://github.com/node/circos).
+- [Gephi](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+- [Kepler.gl](http://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
+- [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
+- [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
+- [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 
 ## Resources
 
 ## Books
-- [Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) 作者：Isabel Meirelles.
-- [The Best American Infographics 2014](https://www.amazon.com/Best-American-Infographics-2014/dp/0547974515) 加里斯库克.
-- [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142) 作者：Edward Tufte.
-- [The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281) 作者：Dona M. Wong
-- [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914) 作者：Tamara Munzner.
-- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345)  作者：Scott Murray.  可在线阅读.  专注于D3.
-- [Data Visualization Toolkit](http://datavisualizationtoolkit.com)  由巴雷特奥斯汀克拉克.  使用D3，Ruby on Rails，Postgres，PostGIS和Leaflet.
+- [Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) by Isabel Meirelles.
+- [The Best American Infographics 2014](https://www.amazon.com/Best-American-Infographics-2014/dp/0547974515) by Gareth Cook.
+- [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142) by Edward Tufte.
+- [The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281) by Dona M. Wong
+- [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914) by Tamara Munzner.
+- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345) by Scott Murray. Available to read online. Focused on D3.
+- [Data Visualization Toolkit](http://datavisualizationtoolkit.com) by Barrett Austin Clark. Uses D3, Ruby on Rails, Postgres, PostGIS, & Leaflet.
 
 ## Podcasts
 - [Data Stories](http://datastori.es/)
@@ -153,37 +153,37 @@
 - [Visualizing](https://twitter.com/VisualizingOrg)
 
 ## Websites
-- [Ann K. Emery](http://annkemery.com/)的博客
+- [Ann K. Emery](http://annkemery.com/)'s blog
 - [eagereyes](https://eagereyes.org/)
 - [EvergreenData](http://stephanieevergreen.com/)
 - [FlowingData](http://flowingdata.com/)
-- [Gnuplotting](http://www.gnuplotting.org/) - [Gnuplot](http://www.gnuplot.info/) 教程
+- [Gnuplotting](http://www.gnuplotting.org/) - [Gnuplot](http://www.gnuplot.info/) tutorials
 - [Information is Beautiful](http://www.informationisbeautiful.net/)
-- [Junk Charts](http://junkcharts.typepad.com/) -  Kaiser Fung解释了为什么某些数据库工作/不工作
+- [Junk Charts](http://junkcharts.typepad.com/) - Kaiser Fung takes apart why certain datavizes work/don't work
 - [Lisa Rost thinks and discusses about why we dataviz](https://lisacharlotterost.github.io/)
-- [Makeover Monday](http://www.makeovermonday.co.uk/) 博客 - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) 在推特上
-- [The Data Visualization Catalogue](http://www.datavizcatalogue.com/) - 数据可视化方法的集合，有利有弊.
+- [Makeover Monday](http://www.makeovermonday.co.uk/) blog - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) on twitter
+- [The Data Visualization Catalogue](http://www.datavizcatalogue.com/) - A collection of data visualization methods, with pros and cons.
 - [the functional art](http://www.thefunctionalart.com/)
-- [The Open News](https://source.opennews.org/articles/) 博客 - 开放新闻不时有一些很好的dataviz相关文章
+- [The Open News](https://source.opennews.org/articles/) blog -  Open news has some good dataviz related articles from time to time
 - [The Pudding](https://pudding.cool/)
 - [Truth & Beauty Operations](https://truth-and-beauty.net/) 
 - [University of Washington Interactive Data Lab Papers](http://idl.cs.washington.edu/papers)
-- [vis4.net](https://www.vis4.net/blog/) -  Gregor Aisch对可视化和数据新闻的随意思考  
-- [Visual Complexity](http://www.visualcomplexity.com/vc/) - 关于复杂网络可视化的网站.  
+- [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch  
+- [Visual Complexity](http://www.visualcomplexity.com/vc/) - A site about the visualization of complex networks.  
 
 
 ## Contributing
 
-- 请先检查重复项.
-- 使描述简短，简单，无偏见.
-- 请为每个建议单独提交
-- 如果需要，添加新类别.
+- Please check for duplicates first.
+- Keep descriptions short, simple and unbiased.
+- Please make an individual commit for each suggestion
+- Add a new category if needed.
 
-谢谢你的建议！
+Thanks for your suggestions!
 
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Fabio Souto](http://fabiosouto.me/) 已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, [Fabio Souto](http://fabiosouto.me/) has waived all copyright and related or neighboring rights to this work.

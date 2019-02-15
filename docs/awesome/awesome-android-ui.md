@@ -1,17 +1,17 @@
 <div class="github-widget" data-repo="wasabeef/awesome-android-ui"></div>
-Android UI / UX库列表
+List of Android UI/UX Libraries
 ==================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
 
-精选Android UI / UX库的精选列表.
+A curated list of awesome Android UI/UX libraries.
 
 ## Other lists
-  -  _寻找核心库？  查看_ [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries).
-  -  _寻找iOS？  查看_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+- _Looking for Core Library? Check out_ [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries).
+- _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) didabeef]（https://github.com/wasabeef）  
-[![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan]（https://github.com/ogaclejapan）
+[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
+[![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan](https://github.com/ogaclejapan)
 
 ## Index `(light-weight pages)`
 * [Material](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Material.md)
@@ -35,7 +35,7 @@ Android UI / UX库列表
 
 Material
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary.png" width="100%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary2.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary3.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary4.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary5.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary6.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary7.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary8.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary9.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary10.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary11.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary12.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary13.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialDesignLibrary14.png" width="49%">
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/DrawerArrowDrawable.gif)
@@ -59,7 +59,7 @@ Material
 [CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/CircularReveal.gif" width="49%">
 [material-range-bar](https://github.com/oli107/material-range-bar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-range-bar.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-range-bar2.png" width="49%">
 [Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
-[Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  |  没有
+[Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-calendarview.gif" width="49%">
 [Material](https://github.com/rey5137/material) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material2.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material3.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material4.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material5.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material6.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material7.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material8.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material9.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material10.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Material11.png" width="49%">
 [Material Icon Library](https://github.com/code-mc/material-icon-lib) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-icon-lib.gif" width="100%">
@@ -73,7 +73,7 @@ Material
 
 Layout
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [WaveView](https://github.com/john990/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/waveview.gif" width="49%">
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ResideLayout.gif" width="49%">
@@ -85,7 +85,7 @@ Layout
 [TileView](https://github.com/moagrius/TileView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/TileView.jpeg" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/TileView2.jpeg" width="49%">
 [ShowcaseView](https://github.com/amlcurran/ShowcaseView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ShowcaseView.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ShowcaseView2.png" width="49%">
 [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-Ultra-Pull-To-Refresh.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-Ultra-Pull-To-Refresh2.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-Ultra-Pull-To-Refresh3.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-Ultra-Pull-To-Refresh4.gif" width="49%">
-[AndroidViewHover](https://github.com/daimajia/AndroidViewHover)  |  未知| <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/AndroidViewHover.gif" width="49%">
+[AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/DraggablePanel.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/DraggablePanel2.gif" width="49%">
 [Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Slidr.gif" width="49%">
 [Phoenix Pull-to-Refresh](https://github.com/Yalantis/Phoenix) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Phoenix.gif" width="65%">
@@ -117,7 +117,7 @@ Layout
 
 Button
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/circular-progress-button.gif" width="49%">
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-process-button.gif" width="75%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-process-button2.gif" width="75%">
@@ -126,15 +126,15 @@ Button
 [MovingButton](https://github.com/TheFinestArtist/MovingButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MovingButton.gif" width="49%">
 [LabelView](https://raw.githubusercontent.com/linger1216/labelview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/linger1216/labelview/master/img/img1.png" width="49%">
 
-列表/网格
+List / Grid
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
-[SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  |  没有
+[SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | [BSD 2 License](https://opensource.org/licenses/BSD-2-Clause) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/RecyclerViewSwipeDismiss.gif" width="49%">
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FlabbyListView.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FlabbyListView2.gif" width="49%">
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/recyclerview-stickyheaders.gif" width="49%">
-[ParallaxListView](https://github.com/Gnod/ParallaxListView)  |  未知| <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ParallaxListView.gif" width="49%">
+[ParallaxListView](https://github.com/Gnod/ParallaxListView) | UnKnown | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ParallaxListView.gif" width="49%">
 [PullZoomView](https://github.com/Frank-Zhu/PullZoomView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/PullZoomView.gif" width="49%">
 [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/SwipeMenuListView.gif" width="49%">
 [discrollview](https://github.com/flavienlaurent/discrollview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/discrollview.gif" width="49%">
@@ -162,7 +162,7 @@ Button
 
 ViewPager
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ViewPagerTransforms.gif" width="49%">
@@ -182,9 +182,9 @@ ViewPager
 [NavigationTabBar](https://github.com/Devlight/NavigationTabBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/NavigationTabBar.gif" width="49%" /> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/NavigationTabBar2.gif" width="49%" />
 [UltraViewPager](https://github.com/alibaba/UltraViewPager) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/UltraViewPager.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/UltraViewPager2.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/UltraViewPager3.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/UltraViewPager4.gif" width="49%">
 
-标签/表格
+Label / Form
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/Shimmer-android.gif)
 [Shimmer for Android](https://github.com/facebook/shimmer-android) | [BSD 2 License](https://opensource.org/licenses/BSD-2-Clause) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/shimmer-android-fb.gif" width="100%">
@@ -198,7 +198,7 @@ ViewPager
 [BabushkaText](https://github.com/quiqueqs/BabushkaText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/BabushkaText.png" width="49%">
 [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText](https://github.com/wrapp-archive/floatlabelededittext) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/floatlabelededittext.gif" width="49%">
-[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html)  |  没有
+[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
 [ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ParkedTextView.gif" width="60%">
 [Material Code input](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-code-input.gif" width="60%"> <br><br> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/material-code-input2.gif" width="60%">
 [TextSurface](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/TextSurface.gif" width="100%">
@@ -208,9 +208,9 @@ ViewPager
 
 Image
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
-[TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE)  |  没有
+[TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE) | NONE
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/CircleImageView.png" width="49%">
 [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-shape-imageview.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-shape-imageview2.png" width="49%">
 [GifImageView](https://github.com/felipecsl/GifImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/GifImageView.gif" width="49%">
@@ -228,7 +228,7 @@ Image
 
 SeekBar
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/discreteseekbar.gif) ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/discreteseekbar2.gif)
 [SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/seekbarcompat.gif)
@@ -236,12 +236,12 @@ SeekBar
 
 Progress
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/SmoothProgressBar.gif)
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | [MIT](https://opensource.org/licenses/MIT) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/NumberProgressBar.gif)
-[CircleProgress](https://github.com/lzyzsd/CircleProgress)  |  未知| <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/CircleProgress.gif" width="49%">
-[android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar)  |  未知| <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar2.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar3.png" width="49%">
+[CircleProgress](https://github.com/lzyzsd/CircleProgress) | UnKnown | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/CircleProgress.gif" width="49%">
+[android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) | UnKnown | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar2.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-square-progressbar3.png" width="49%">
 [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/GoogleProgressBar.gif" width="32%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/GoogleProgressBar2.gif" width="32%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/GoogleProgressBar3.gif" width="32%">
 [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Android-RoundCornerProgressBar.png" width="100%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Android-RoundCornerProgressBar2.png" width="100%">
 [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ElasticDownload.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ElasticDownload2.gif" width="49%">
@@ -260,7 +260,7 @@ Progress
 
 Menu
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | [MIT](https://opensource.org/licenses/MIT) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/CircularFloatingActionMenu.gif)
 [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/AndroidResideMenu.gif" width="49%">
@@ -273,7 +273,7 @@ Menu
 
 ActionBar
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FadingActionBar.png" width="100%">
 [GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/GlassActionBar.png" width="100%">
@@ -281,7 +281,7 @@ ActionBar
 
 Dialog
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [DialogPlus](https://github.com/orhanobut/dialogplus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/DialogPlus.png" width="30%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/DialogPlus2.gif" width="49%">
 [Sweet Alert](https://github.com/pedant/sweet-alert-dialog) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/swalert_change_type.gif" width="49%">
@@ -289,7 +289,7 @@ Dialog
 
 Calendar
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [Caldroid](https://github.com/roomorama/Caldroid) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Caldroid.png" width="49%">
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-times-square.png" width="49%">
@@ -303,7 +303,7 @@ Calendar
 
 Graph
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/EazeGraph.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/EazeGraph2.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/EazeGraph3.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/EazeGraph4.png" width="49%">
 [GraphView](https://github.com/appsthatmatter/GraphView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/graphview-zooming.gif" width="65%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/graphview-anim.gif" width="65%">
@@ -313,7 +313,7 @@ Graph
 
 Animation
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/androidviewanimations.gif" width="49%">
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ListViewAnimations.gif" width="49%">
@@ -330,7 +330,7 @@ Animation
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/android-pathview.gif" width="49%">
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ViewRevealAnimator.gif" width="49%">
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ArcAnimator.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/ArcAnimator2.gif" width="49%">
-[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)  |  未知| <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/SearchMenuAnim.gif" width="100%">
+[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/SearchMenuAnim.gif" width="100%">
 [Cross View](https://github.com/cdflynn/crossview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/crossview.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/crossview2.gif" width="49%">
 [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/WoWoAppIntroExample.gif" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/WoWoCVExample.gif" width="49%">
 [Lottie for Android](https://github.com/airbnb/lottie-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/lottie-android.gif" width="100%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/lottie-android2.gif" width="100%">
@@ -338,13 +338,13 @@ Animation
 
 Parallax
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](https://opensource.org/licenses/MIT) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/parallax-everywhere.gif)
 
 Effect
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/EtsyBlur.gif" width="49%">
 [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/BlurDialogFragment.png" width="49%"> <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/BlurDialogFragment2.png" width="49%">
@@ -358,7 +358,7 @@ Effect
 
 Other
 ======================
- 名称|  许可证|  演示
+Name | License | Demo
 --- | --- | ---
 [Swipecards](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Swipecards.gif" width="49%">
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/Android-Bootstrap.png" width="49%">

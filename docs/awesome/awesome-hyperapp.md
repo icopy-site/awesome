@@ -1,16 +1,16 @@
 <div class="github-widget" data-repo="hyperapp/awesome-hyperapp"></div>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
-&gt; 1 kB用于构建Web应用程序的JavaScript库.
+> 1 kB JavaScript library for building web applications.
 
-精选的清单 [Hyperapp](https://github.com/hyperapp/hyperapp) 资源.
+A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- TOC -->
 
 
 <!-- /TOC -->
 
- 要贡献，分叉此存储库，添加您的惊人条目并向我们发送PR.  看到 [CONTRIBUTING](https://github.com/hyperapp/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
+To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](https://github.com/hyperapp/awesome-hyperapp/blob/master//CONTRIBUTING.md) for more information.
 
 ## Official Resources
 
@@ -25,62 +25,62 @@
 
 * [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 * [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
-* [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) （日本）
-* [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) （Japānas）
-* [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) （日本）
+* [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) (Japanese)
+* [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) (Japanase)
+* [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (Japanese)
 * [Pure programming with Hyperapp - Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app)
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
-* [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（简体中文， [Source](https://github.com/willin/hyperapp.js.cool)）
+* [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
 * [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
 ## Boilerplates
 
-* [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) -  Boilerplate显示如何创建生产就绪的Hyperapp应用程序.
-* [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - 使用Hyperapp，LiveReload和Redux DevTools的最小电子应用启动器.
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - 使用Airbnb ESlint和JSX的简单Hyperapp webpack样板计数器应用程序.
-* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) -  Hyperapp项目的最小，渐进式Web应用程序兼容模板.
-* [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - 使用RxJS和服务工作者进行Hyperapp.
-* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - 使用Hyperapp的简单CRUD todo-app buit.
-* [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - 具有简单登录和GraphQL的响应式应用程序.
-* [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) -  Minimal Hyperapp，TypeScript和Parcel启动器.
-* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - 使用LESS和hyperapp形式的最小webpack Hyperapp设置. 
+* [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
+* [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
+* [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
+* [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
+* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
+* [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
+* [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
+* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
 
 ## Examples
 
-* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - 精选的常见面试问题集.
-* [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - 搜索表情符号的简单应用程序.
-* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - 使用`localStorage`的简单降价编辑器（使用`dangerouslySetInnerHTML`）.
-* [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - 一个打字练习应用程序，其中包含道德经的段落.
-* [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial)   - 一个相当大的应用程序，可用作实际教程;  使用Django / DRF API.
+* [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
+* [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
+* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
+* [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching.
+* [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API.
 
 
 ## Utilities
 
-* [@hyperapp/html](https://github.com/hyperapp/html) -  Hyperapp的HTML助手.
-* [@hyperapp/logger](https://github.com/hyperapp/logger) - 将状态更新和操作信息记录到控制台.
-* [@hyperapp/router](https://github.com/hyperapp/router) -  Hyperapp的官方路由器.
-* [@hyperapp/render](https://github.com/hyperapp/render) - 使用SSR和Node.js流支持将Hyperapp渲染为HTML字符串.
-* [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - 允许对Hyperapp使用redux-devtools-extension.
-* [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) -  Hyperapp的时间调度器和其他devtools.
-* [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - 过度传递深层组件树的补救措施
-* [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - 在有状态组件等应用中使用应用.
-* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - 帮助您为Hyperapp应用程序中的过渡设置动画.
-* [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - 用于动态升级Hyperapp应用程序的HOA.
-* [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - 使用Firebase删除Hyperapp的身份验证.
-* [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - 榆树风格的副作用作为数据.
-* [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - 深度冻结了发展中的国家.
-* [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - 用于hyperapp的W3C Web组件自定义元素.
-* [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - 产生`h`输出的模板语言.
-* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 用于Hyperapp和Picodom的0.3 KB CSS-in-JS库.
-* [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - 在单一spa应用程序中使用Hyperapp的包装器
-* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - 表单状态管理库（类似于redux-form）
+* [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
+* [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
+* [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
+* [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
+* [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
+* [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp.
+* [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components
+* [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components.
+* [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
+* [selfup/hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapp applications.
+* [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
+* [okwolf/hyperapp-effects](https://github.com/okwolf/hyperapp-effects) - Elm-style side effects as data.
+* [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
+* [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp.
+* [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
+* [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
+* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
 
 ## Testing
 
-* [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - 用于单元测试Hyperapp组件的小型实用程序 [Cypress](https://github.com/cypress-io/cypress) 端到端测试运行器.
+* [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress](https://github.com/cypress-io/cypress) end-to-end test runner.
 
 ## Other
 
-* [Deployable](https://github.com/lukejacksonn/deployable) - 使用Hyperapp构建的可随时部署的静态Web应用程序模板.
-* [Linkcast](https://github.com/ajaxtown/linkcast) - 使用Hyperapp构建的Chrome扩展程序，可以在组中共享链接并与脱机功能进行社交.
+* [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
+* [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.

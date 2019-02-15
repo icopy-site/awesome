@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
-&gt;与Ruby on Rails相关的精彩内容的精选列表（最近的变化受到了启发 [awesome-vue](https://github.com/vuejs/awesome-vue))
+> A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue](https://github.com/vuejs/awesome-vue))
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -43,98 +43,98 @@
 
 ### Apps Made with Rails
 
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) -  Ruby on Rails应用程序，允许公民“采用”公民基础设施，如消防栓
-- [AirCasting](https://github.com/HabitatMap/AirCasting) - 使用智能手机记录，映射和共享健康和环境数据的平台 [Live](http://aircasting.org)
-- [alaveteli](https://github.com/mysociety/alaveteli) - 为您所在的司法辖区提供信息自由请求系统  [Live](http://alaveteli.org)
-- [alonetone](https://github.com/sudara/alonetone) - 一个独立的音乐平台，允许音乐家在非商业，易于使用的环境中托管和分发他们的音乐. [Live](https://alonetone.com)
-- [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - 面向开发人员的实时聊天应用程序 [Live](https://www.codefirst.org/AsakusaSatellite)
-- [askaway](https://github.com/askaway/askaway) - 向新西兰政党询问此次选举的问题
-- [Beatstream](https://github.com/Darep/Beatstream) - 用于将任何运行Ruby on Rails的计算机上的音乐流式传输到任何地方  
-- [bike_index](https://github.com/bikeindex/bike_index) - 在线自行车登记 [Live](https://bikeindex.org)
-- [brimir](https://github.com/ivaldi/brimir) - 使用Ruby on Rails和Zurb Foundation构建的电子邮件帮助台
-- [calagator](https://github.com/calagator/calagator) - 位于俄勒冈州波特兰市的事件聚合器
-- [calcentral](https://github.com/ets-berkeley-edu/calcentral) - 一个在线门户网站，提供统一和个性化的一站式方式来访问电子邮件，日历，共享文档和类协作空间 [Live](https://calcentral.berkeley.edu)
-- [campo](https://github.com/chloerei/campo) - 基于Ruby on Rails的轻量级论坛应用程序  [Live](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -  Instructure公司的一个新的开源学习管理系统  
-- [catarse](https://github.com/catarse/catarse) - 世界上第一个用于创意项目的开源众筹平台  [Live](https://catarse.me/)
-- [coderwall](https://github.com/assemblymade/coderwall) - 专业的软件工程师网络  [Live](https://coderwall.com)
-- [codetriage.com](https://github.com/codetriage/codetriage) - 帮助您最喜欢的开源项目，并在这样做时成为更好的开发人员.  [Live](https://www.codetriage.com/)
-- [CoRM](https://github.com/SIGIRE/CoRM) - 比CRM更容易 [Live](http://www.corm.fr)
-- [coursemology2](https://github.com/Coursemology/coursemology2) -  Rails 4重写了Coursemology  
-- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) -  Rails 5中的拼车开源平台
-- [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - 专为活动家团体设计的网络应用程序，可以更好地在线协作
-- [crowdAI](https://github.com/crowdAI/crowdai) - 利用开放数据为开放式科学而战，这是一个机器学习挑战平台. [Live](https://www.crowdai.org/)
-- [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 开源众筹平台
-- [cyberdojo](https://github.com/JonJagger/cyber-dojo) - 免费的浏览器内编码 - 道场 [Live](http://cyber-dojo.org)
-- [danbooru](https://github.com/r888888888/danbooru) - 用Rails 3编写的可标记图像板 [Live](http://testbooru.donmai.us)
-- [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails前端到Genome Institute的药物基因互作数据库
-- [diaspora](https://github.com/diaspora/diaspora) - 分布式和上下文社交网络 [Live](https://diasporafoundation.org)
-- [discourse](https://github.com/discourse/discourse) - 社区讨论的平台  [Live](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - 简单的农业ERP [Live](http://ekylibre.org)
-- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 只需点击一下即可发送加密邮件  [Live](https://encrypt.to)
-- [eol](https://github.com/EOL/eol) - 生命百科全书  [Live](http://eol.org)
-- [expertiza](https://github.com/expertiza/expertiza) - 网络应用程序，学生可以提交和同行评审学习对象（文章，代码，网站等）. 
-- [fairnopoly](https://github.com/fairmondo/fairmondo) - 用户手中的自由市场  [Live](https://www.fairmondo.de)
-- [feedbin](https://github.com/feedbin/feedbin) - 一个简单，快速和漂亮的RSS阅读器 [Live](https://feedbin.com)
-- [follow-all](https://github.com/codeforamerica/follow-all) - 只需单击一下，即可关注Twitter列表中的所有成员
-- [fromthepage](https://github.com/benwbrum/fromthepage) - 类似wiki的应用程序，用于手写文档的众包转录  [Live](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - 开源软件，以协作代码  [Live](https://gitlab.com/gitlab-org/gitlab-ce) -
-- [graff_mags](https://github.com/dankleiman/graff_mags) - 上传和显示2000多种涂鸦杂志的集合  [Live](http://graffmags.herokuapp.com)
-- [growstuff](https://github.com/Growstuff/growstuff) - 一个开源/开放数据项目，为食品园丁创建一个网站  [Live](http://www.growstuff.org/)
-- [Hashrobot](https://github.com/rysmith/hashrobot) - 社交媒体助理  [Live](http://www.hashrobot.com)
-- [Helpy](https://github.com/scott/helpy)   -  Rails 4服务台.  包括多语言知识库，电子邮件票证，社区 [Live](https://helpy.io/)
-- [hitobito](https://github.com/hitobito/hitobito) - 一个Web应用程序，用于管理具有成员，事件和更多内容的复杂组层次结构 -  [Live](http://hitobito.com/en)
-- [hours](https://github.com/defactosoftware/hours) - 团队的完整时间注册应用程序 [Live](https://happyhours.io)
-- [houston](https://github.com/houston/houston-core) - 为您的项目和队友控制任务  
-- [hummingbird](https://github.com/hummingbird-me/hummingbird) - 一个现代动漫发现平台，可以帮助您跟踪您正在观看的动漫，发现新的动漫和与其他粉丝社交
-- [inaturalist](https://github.com/inaturalist/inaturalist) -  iNaturalist.org背后的开源Rails应用程序 [Live](http://www.inaturalist.org)
-- [intercityup.com](https://github.com/intercity/intercity-next) - 用于托管Ruby on Rails的控制面板
-- [kanban](https://github.com/somlor/kanban) -  Rails和Backbone.js中的Trello克隆  [Live](http://kanban.seanomlor.com)
-- [lavish](https://github.com/mquan/lavish) - 一个rails应用程序，从图像生成Bootstrap颜色方案 
-- [leihs](https://github.com/leihs/leihs) - 简单的库存处理系统  
-- [listenup](https://github.com/ooofinooo/listenup) - 允许用户搜索歌曲并将其添加到朋友播放列表的应用程序  [Live](http://listenup-songshare.herokuapp.com)
-- [lobsters](https://github.com/jcs/lobsters) - 运行lobste.rs链接聚合站点的Rails代码  
-- [loomio](https://github.com/loomio/loomio) - 一个协作决策工具，使任何人都可以轻松完成 [Live](https://www.loomio.org)
-- [Mastodon](https://github.com/tootsuite/mastodon) -  GNU社交兼容的微博服务器 [Live](https://mastodon.social)
-- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - 学生练习并接收自动和人工反馈的地方 [Live](http://mumuki.io)
-- [obtvse2](https://github.com/natew/obtvse2) -  Rails上一个干净简洁的降价博客平台
-- [onebody](https://github.com/churchio/onebody) - 使用Ruby on Rails构建的教堂的私有成员门户 [Live](https://church.io)
-- [opencongress](https://github.com/sunlightlabs/opencongress) - 开放国会的开放网站
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - 免费开放的农业和园艺知识数据库  
-- [openproject](https://github.com/opf/openproject) - 基于Ruby on Rails构建的基于Web的项目管理系统  [Live](https://www.openproject.org)
-- [opensit](https://github.com/danbartlett/opensit) - 开源冥想社区 [Live](http://opensit.com)
-- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) -  Rails应用程序供电的镜像  [Live](http://www.openstreetmap.org)
-- [ossfriday](https://github.com/ossfriday/ossfriday) - 鼓励公司，人员和维护人员每周五为开源做贡献的运动
-- [otwarchive](https://github.com/otwcode/otwarchive) - 用于托管fanworks档案的开源Web应用程序，包括fanfic，fanart和fan vids  [Live](http://archiveofourown.org)
-- [PasswordPusher](https://github.com/pglombardo/PasswordPusher) -  Ruby on Rails应用程序，用于通过Web传递密码  [Live](https://pwpush.com)
-- [peatio](https://github.com/peatio/peatio) - 开源加密货币兑换  [Live](http://www.peatio.com)
-- [people](https://github.com/netguru/people) - 管理项目内的人员
-- [planningalerts-app](https://github.com/openaustralia/planningalerts) - 了解并了解您所在地区正在建造和拆除的物品
-- [popHealth](https://github.com/pophealth/popHealth) - 开源人口健康报告原型  
-- [publify](https://github.com/publify/publify) -  Rails上的自托管Web发布平台
-- [quant](https://github.com/jdjkelly/quant) --Quant是个人健康追踪器的原型/实验
-- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 管理自行车赛车协会：车手，车队，日历，比赛和结果 [Live](http://racingonrails.rocketsurgeryllc.com)
-- [RapidFTR](https://github.com/rapidftr/RapidFTR) - 基于Android的移动应用程序，可让援助人员在紧急情况下收集，分类和共享有关儿童的信息
-- [redmine](https://github.com/edavis10/redmine) - 使用Ruby on Rails编写的灵活的项目管理Web应用程序  [Live](http://demo.redmine.org)
-- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - 使用Balanced API for Rails实现功能齐全，可部署的市场实现
-- [reservations](https://github.com/YaleSTC/reservations) - 管理设备预订（允许学生预订） [Live](http://yalestc.github.io/reservations)
-- [rletters](https://github.com/rletters/rletters) - 旨在在期刊文章数据库上执行数字人文研究任务的Web应用程序 [Live](http://www.rletters.net)
-- [RoRdit](https://github.com/mertbulan/RoRdit) - 链接聚合Web应用程序与Ruby on Rails中的Reddit类似 [Live](https://rordit.herokuapp.com)
-- [rubygems.org](https://github.com/rubygems/rubygems.org) -  Ruby社区的gem托管服务  [Live](https://rubygems.org)
-- [sanataro](https://github.com/kaznum/sanataro)   - 简单的Web家庭账簿.  用Ruby on Rails构建 [Live](http://sanataro.herokuapp.com)
-- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - 用于摄取，管理，搜索和显示数字资产的Web应用程序  
-- [selfstarter](https://github.com/lockitron/selfstarter) - 滚动自己的众筹
-- [sharetribe](https://github.com/sharetribe/sharetribe) - 在线建立自己的点对点市场的平台 [Live](https://www.sharetribe.com)
-- [socify](https://github.com/scaffeinate/socify) - 一个用Ruby on Rails编写的开源社交网络平台
-- [spokenvote](https://github.com/Spokenvote/spokenvote) - 一个社交投票应用程序，用于在任何规模的组中达成共识  [Live](http://www.spokenvote.org)
-- [Spree](https://github.com/spree/spree) -  Spree是Ruby on Rails的完整开源电子商务解决方案.
-- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - 使用降价支持的简单问答平台.
-- [teambox](https://github.com/teambox/teambox) - 屡获殊荣的协作解决方案，受Basecamp，Yammer和Twitter的启发  [Live](https://redbooth.com)
-- [theodinproject](https://github.com/TheOdinProject/theodinproject) - 旨在免费教授Web开发的项目  [Live](https://www.theodinproject.com/)
-- [tracks](https://github.com/TracksApp/tracks) - “完成任务”应用程序  [Live](http://www.getontracks.org)
-- [trado](https://github.com/Jellyfishboy/trado) - 轻便，易用的电子商务平台，专为独立交易者和中小企业设计  
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants
+- [AirCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone [Live](http://aircasting.org)
+- [alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction  [Live](http://alaveteli.org)
+- [alonetone](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [Live](https://alonetone.com)
+- [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [Live](https://www.codefirst.org/AsakusaSatellite)
+- [askaway](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election
+- [Beatstream](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
+- [bike_index](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
+- [brimir](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
+- [calagator](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
+- [calcentral](https://github.com/ets-berkeley-edu/calcentral) - An online portal that provides a unified and personalized one-stop way to access email, calendars, shared documents and class collaboration spaces [Live](https://calcentral.berkeley.edu)
+- [campo](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com)
+- [canvas-lms](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc  
+- [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [Live](https://catarse.me/)
+- [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [Live](https://coderwall.com)
+- [codetriage.com](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
+- [CoRM](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
+- [coursemology2](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology  
+- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
+- [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
+- [crowdAI](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
+- [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform
+- [cyberdojo](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
+- [danbooru](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
+- [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
+- [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
+- [discourse](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
+- [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
+- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
+- [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
+- [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
+- [fairnopoly](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [Live](https://www.fairmondo.de)
+- [feedbin](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
+- [follow-all](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
+- [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) -
+- [graff_mags](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
+- [growstuff](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
+- [Hashrobot](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
+- [Helpy](https://github.com/scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](https://helpy.io/)
+- [hitobito](https://github.com/hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en)
+- [hours](https://github.com/defactosoftware/hours) - A complete time registration app for teams [Live](https://happyhours.io)
+- [houston](https://github.com/houston/houston-core) - Mission control for your projects and teammates  
+- [hummingbird](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans
+- [inaturalist](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
+- [intercityup.com](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails
+- [kanban](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
+- [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image 
+- [leihs](https://github.com/leihs/leihs) - An easy inventory handling system  
+- [listenup](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com)
+- [lobsters](https://github.com/jcs/lobsters) -  Rails code running the lobste.rs link aggregation site  
+- [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making tool that makes it easy for anyone [Live](https://www.loomio.org)
+- [Mastodon](https://github.com/tootsuite/mastodon) - GNU Social-compatible microblogging server [Live](https://mastodon.social)
+- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [Live](http://mumuki.io)
+- [obtvse2](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails
+- [onebody](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails [Live](https://church.io)
+- [opencongress](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge  
+- [openproject](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org)
+- [opensit](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
+- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [Live](http://www.openstreetmap.org)
+- [ossfriday](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday
+- [otwarchive](https://github.com/otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [Live](http://archiveofourown.org)
+- [PasswordPusher](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [Live](https://pwpush.com)
+- [peatio](https://github.com/peatio/peatio) -  An open-source crypto currency exchange  [Live](http://www.peatio.com)
+- [people](https://github.com/netguru/people) - Manage people within the projects
+- [planningalerts-app](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
+- [popHealth](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
+- [publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
+- [quant](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
+- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [Live](http://racingonrails.rocketsurgeryllc.com)
+- [RapidFTR](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
+- [redmine](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [Live](http://demo.redmine.org)
+- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
+- [reservations](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (allows student reservations) [Live](http://yalestc.github.io/reservations)
+- [rletters](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles [Live](http://www.rletters.net)
+- [RoRdit](https://github.com/mertbulan/RoRdit) - Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
+- [rubygems.org](https://github.com/rubygems/rubygems.org) -  The Ruby community's gem hosting service  [Live](https://rubygems.org)
+- [sanataro](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails [Live](http://sanataro.herokuapp.com)
+- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets  
+- [selfstarter](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding
+- [sharetribe](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
+- [socify](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails
+- [spokenvote](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
+- [Spree](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.
+- [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support.
+- [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
+- [theodinproject](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
+- [tracks](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
+- [trado](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses  
 - [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [Live](https://www.agileventures.org/)
-- [whitehall](https://github.com/alphagov/whitehall) - 政府内部：英国政府如何运作，它在做什么，以及如何参与其中  
+- [whitehall](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved  
 
 ### Tutorials
 
@@ -185,22 +185,22 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - 用于创建可在任何地方部署的一致，隔离的开发环境的微型PaaS（μPaaS） [Live](https://nanobox.io).
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
 
 #### Generators
 
- |  发电机|  准备好运行  复杂应用程序|  设置git |  Heroku |
+| Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
-| [Rails Composer](https://github.com/RailsApps/rails-composer) |  是的，但需要配置Stripe  使用Stripe到达SaaS的示例应用程序.  |  是的|  是的|
-| [Hobo](http://www.hobocentral.net)  |  Rails版本问题，如果使用最新版本|  似乎根据截屏视频，对MVC样板有很大帮助.  |  没有|  没有|
+| [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
+| [Hobo](http://www.hobocentral.net) | Rails version problems, if using a late version | It seems according screencast, helps a lot with MVC boilerplate. | no | no |
 
 #### DevTools
 
-- [rails-dashboard](https://github.com/y-takey/rails-dashboard) - 用于改进rails日志的开发工具.
+- [rails-dashboard](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists](https://github.com/jnv/lists) - 在GitHub上策划的（真棒）列表列表
+- [jnv/lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)

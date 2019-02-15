@@ -8,29 +8,29 @@
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
-&gt; Ruby机器学习链接和资源的策划列表
+> Curated List of Ruby Machine Learning Links and Resources
 
-[机器学习] [ml]是[计算科学] [cs]的领域 - 
-经常嵌套在[AI] [ai]研究之下 - 有许多实用
-应用程序由于生成算法的能力
-系统地实施一个没有明确的具体解决方案
- 程序员的指示.  显然，许多算法需要定义
-[特征] [fe]查看数据的大型[训练集] [ts]以得出数据
-解决方案.
+[Machine Learning][ml] is a field of [Computational Science][cs] -
+often nested under [AI][ai] research - with many practical
+applications due to the ability of resulting algorithms to
+systematically implement a specific solution without explicit
+programmer's instructions. Obviously many algorithms need a definition
+of [features][fe] to look at or a biggish [training set][ts] of data to derive the
+solution from.
 
-这个策划列表包含[_awesome _] [awesome]库，
-关于[机器学习]的数据源，教程和演示文稿[ml]
-利用[Ruby] [ruby]编程语言.
+This curated list comprises [_awesome_][awesome] libraries,
+data sources, tutorials and presentations about [Machine Learning][ml]
+utilizing the [Ruby][ruby] programming language.
 
-此列表中的许多有用资源来自于开发
-[红宝石科学基金会] [sciruby]，我们的[贡献者] [贡献者]和
-我们自己的日常工作在各种ML应用程序.
-Read [why](#wait-but-why) 这个清单太棒了.
+A lot of useful resources on this list come from the development by
+[The Ruby Science Foundation][sciruby], our [contributors][contributors] and
+our own day to day work on various ML applications.
+Read [why](#wait-but-why) this list is awesome.
 
-：闪耀：每一个 [contribution](https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md)  不客气！  通过pull添加链接
-请求或创建问题以开始讨论.
+:sparkles: Every [contribution](https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md) is welcome! Add links through pull
+requests or create an issue to start a discussion.
 
-跟着我们 [Twitter](https://twitter.com/NonWebRuby) 请传播
+Follow us on [Twitter](https://twitter.com/NonWebRuby) and please spread
 the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
@@ -44,7 +44,7 @@ the word using the `#RubyML` hash tag!
 
 ## :sparkles: Tutorials
 
- 请帮助我们填写此部分！  ：笑脸：
+Please help us to fill out this section! :smiley:
 
 - [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/)
   <sup>[[code](https://github.com/daugaard/example-linear-regression)]</sup>
@@ -65,251 +65,251 @@ the word using the `#RubyML` hash tag!
 
 ## Machine Learning Libraries
 
-[机器学习] [纯] Ruby中的[ml]算法或其他编写
-编程语言与Ruby的适当绑定.
+[Machine Learning][ml] algorithms in pure Ruby or written in other
+programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
 - [weka](https://github.com/paulgoetze/weka-jruby) -
-  针对Weka的JRuby绑定，通过Weka实现的不同ML算法.
+  JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
-  Ruby的人工智能.
+  Artificial Intelligence for Ruby.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
-  通用分类器模块允许贝叶斯和其他类型的分类.
+  General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby评分API [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) （预测模型标记语言）.
-- [rblearn](https://github.com/himkt/rblearn) - 特征提取和交叉验证库.
+  Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
+- [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler](https://github.com/giuse/data_modeler) -
-   使用机器学习建模数据.  充足的测试覆盖率，快速启动示例，完整的文档.  生产准备就绪1.0.0.
-- [shogun](https://github.com/shogun-toolbox/shogun) - 多功能和成熟
-  机器学习工具箱 [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
+  Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
+- [shogun](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
+  machine learning toolbox with [Ruby bindings](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 - [aws-sdk-machinelearning](https://github.com/aws/aws-sdk-ruby) -
-  亚马逊网络服务的机器学习API.
+  Machine Learning API of the Amazon Web Services.
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
-  Microsoft Azure的机器学习API.
+  Machine Learning API of the Microsoft Azure.
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench) -
-  越来越多的机器学习框架用纯Ruby编写，高性能计算使用
-  [Numo](https://github.com/ruby-numo/)，CUDA绑定通过 [Cumo](https://github.com/sonots/cumo).
-  目前正在实施神经网络，进化策略，矢量量化和大量
-  示例和实用程序.
+  Growing machine learning framework written in pure Ruby, high performance computing using
+  [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo](https://github.com/sonots/cumo).
+  Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
+  examples and utilities.
 - [Deep NeuroEvolution](https://github.com/giuse/DNE) -
-  实验装置基于 [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
-   使用进化算法搜索深度神经网络（而不是训练）.  应用程序
-  [OpenAI Gym](https://github.com/openai/gym) 运用 [PyCall](https://github.com/mrkn/pycall.rb).
+  Experimental setup based on the [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
+  towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
+  [OpenAI Gym](https://github.com/openai/gym) using [PyCall](https://github.com/mrkn/pycall.rb).
 - [svmkit](https://github.com/yoshoku/SVMKit) -
-  Ruby中的Machine Learninig工具包，具有广泛的实现算法
-  （SVM，Logistic回归，线性回归，随机森林等）和
-  类似于Python中的Scikit-Learn的接口.
+  Machine Learninig toolkit in Ruby with wide range of implemented algorithms
+  (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
+  interfaces similar to Scikit-Learn in Python.
 
 ### Neural networks
 
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  用Ruby编写的神经网络.
+  Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
-  Ruby绑定到 [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum](https://github.com/irfansharif/cerebrum) -
-  Ruby中人工神经网络的实验实现.
+  Experimental implementation for Artificial Neural Networks in Ruby.
 - [tlearn-rb](https://github.com/josephwilk/tlearn-rb) -
-  Ruby的循环神经网络库.
+  Recurrent Neural Network library for Ruby.
 - [brains](https://github.com/jedld/brains-jruby) -
-  基于MATLAB的JRuby前馈神经网络
+  Feed-forward neural networks for JRuby based on
   [brains](https://github.com/jedld/brains).
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
-  框架包括前向和递归神经网络的纯Ruby实现
-   （完全连接）.  使用神经进化训练（自然进化策略算法）进行训练.
+  Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
+  (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 - [rann](https://github.com/mikecmpbll/rann) -
-  使用backprop实现灵活的Ruby ANN（通过时间，用于循环使用）
-  网），梯度检查，adagrad和并行批处理执行.
+  Flexible Ruby ANN implementation with backprop (through-time, for recurrent
+  nets), gradient checking, adagrad, and parallel batch execution.
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
-  为TensorFlow for Ruby进行的基础和独立重新实现.
+  Ground-up and standalone reimplementation of TensorFlow for Ruby.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
-  Ruby的深度学习框架.
+  Deep learning framework for Ruby.
 
 ### Kernel methods
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
-  支持Ruby和Ruby的矢量机 [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) 图书馆.
+  Support Vector Machines with Ruby and the [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ### Evolutionary algorithms
 
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
-  框架包括自然进化策略算法的纯Ruby实现
-  （黑盒优化），特别是指数NES（XNES），
-  可分离的NES（sNES），块对角线NES（BDNES）等.
-  应用包括神经网络搜索/训练（神经进化）.
+  Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
+  (black-box optimization), specifically Exponential NES (XNES),
+  Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
+  Applications include neural network search/training (neuroevolution).
 - [simple_ga](https://github.com/giuse/simple_ga) -
-  Ruby中最简单的遗传算法实现.
+  Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
 
 - [linnaeus](https://github.com/djcp/linnaeus) -
-  Redis支持的贝叶斯分类器.
+  Redis-backed Bayesian classifier.
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
-  简单的朴素贝叶斯分类器.
+  Simple Naive Bayes classifier.
 - [nbayes](https://github.com/oasic/nbayes) -
-  功能齐全的Ruby实现朴素贝叶斯.
+  Full-featured, Ruby implementation of Naive Bayes.
 
 ### Decision trees
 
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
-  纯Ruby中的决策树ID3算法.
+  Decision Tree ID3 Algorithm in pure Ruby.
   <sup>[[dep: GraphViz](#graphviz) |
         [post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 
 ### Clustering
 
 - [flann](https://github.com/mariusmuja/flann) -
-  近似最近邻居的快速库.
+  Fast Library for Approximate Nearest Neighbors.
   <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
-  k-means在Ruby中进行聚类.
+  k-means clustering in Ruby.
 - [k_means](https://github.com/reddavis/K-Means) -
-  试图建立一个快速，内存效率高的K-Means程序.
+  Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
-  简单K最近邻算法.
+  Simple K Nearest Neighbour Algorithm.
 
 ### Linear classifiers
 
 - [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
-  与LIBLINEAR的Ruby接口（比LIBSVM更有效地进行文本分类）.
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [liblinear-ruby](https://github.com/kei500/liblinear-ruby) -
-  使用SWIG的Ruby接口到LIBLINEAR.
+  Ruby interface to LIBLINEAR using SWIG.
 
 ### Statistical models
 
 - [rtimbl](https://github.com/maspwr/rtimbl) -
-  来自Timbl框架的基于记忆的学习者.
+  Memory based learners from the Timbl framework.
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
-  Ruby的实现 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
-  （潜在Dirichlet分配）用于自动主题建模和文档聚类.
+  Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
-  JRuby字符串数据的最大熵分类器，基于OpenNLP Maxent框架.
+  JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
 - [omnicat](https://github.com/mustafaturan/omnicat) -
-  用于文本分类的通用机架框架.
+  Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
-  Naive Bayes文本分类实现为OmniCat分类器策略.
+  Naive Bayes text classification implementation as an OmniCat classifier strategy.
   <sup>[[dep: bundled](#bundled)]</sup>
 
 ## Applications of machine learning
 
 - [phashion](https://github.com/westonplatter/phashion) -
-  围绕pHash的Ruby包装器，用于检测重复多媒体文件的感知哈希库.
+  Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
   <sup>[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
 
 ## Data structures
 
-如果你要实现自己的ML算法，你可能会感兴趣
- 有效地存储您的功能集.  寻找合适
+If you're going to implement your own ML algorithms you're probably interested
+in storing your feature sets efficiently. Look for appropriate
 [data structures](https://github.com/arbox/data-science-with-ruby#data-structures)
-在我们的[Ruby with Data Science] [ds-with-ruby]列表中.
+in our [Data Science with Ruby][ds-with-ruby] list.
 
 ## Data visualization
 
-请参考 [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
-关于[带有Ruby的数据科学] [ds-with-ruby]列表的部分.
+Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
+section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
 
 - 2019
-  -  _TensorStream：将机器学习引入Ruby_ [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
+  - _TensorStream: Bringing Machine Learning to Ruby_ by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
     <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
-  - 使用SVMKit_的Ruby轻松学习机器 [@kojix](https://twitter.com/kojix2dayo)
+  - _Easy machine learning with Ruby using SVMKit_ by [@kojix](https://twitter.com/kojix2dayo)
     <sup>[[post](https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86)]</sup>
 - 2018
-  - 在Ruby_上的_Deep学习编程 [Kenta Murata](https://twitter.com/mrkn)
-    ＆ [Yusaku Hatanaka ](https://twitter.com/hatappi)
+  - _Deep Learning Programming on Ruby_ by [Kenta Murata](https://twitter.com/mrkn)
+    &amp; [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
           [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
-  - 如何在Ruby on Rails_中使用经过训练的Keras和TensorFlow机器学习模型 [Denis Sellu](https://twitter.com/denis_sellu)
+  - _How to use trained Keras and TensorFlow machine learning models within Ruby on Rails_ by [Denis Sellu](https://twitter.com/denis_sellu)
     <sup>[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 - 2017
-  - 关于JRuby_的科学计算 [Prasun Anand](https://twitter.com/prasun_anand)
+  - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
     <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
     [video](https://ftp.fau.de/fosdem/2017/K.4.201/ruby_scientific_computing_on_jruby.mp4) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
-    - 这是食物吗？  机器学习简介_由 [Matthew Mongeau](https://twitter.com/halogenandtoast)
+  - _Is it Food? An Introduction to Machine Learning_ by [Matthew Mongeau](https://twitter.com/halogenandtoast)
     <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY) |
           [slides](https://www.slideshare.net/halogenandtoast/is-it-food)]</sup>
-  -  _Bayes是BAE_ [Richard Schneeman](https://twitter.com/schneems)
+  - _Bayes is BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
-  -  _Ruby圆桌会议：Ruby_中的机器学习 [RubyThursday](https://rubythursday.com/)
+  - _Ruby Roundtable: Machine Learning in Ruby_ by [RubyThursday](https://rubythursday.com/)
     <sup>[[video](https://www.youtube.com/watch?v=ScIFARN0jCo)]</sup>
 - 2016
-  - 使用Ruby_的_Practical Machine Learning [Jordan Hudgens](https://twitter.com/jordanhudgens)
+  - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
-  -  _Deep Learning：Ruby Developers的简介_ [Geoffrey Litt](https://twitter.com/geoffreylitt)
+  - _Deep Learning: An Introduction for Ruby Developers_ by [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
-  - 我如何使用一个纯Ruby的word2vec程序，速度提高3倍以上 [Kei Sawada](https://twitter.com/remore)
+  - _How I made a pure-Ruby word2vec program more than 3x faster_ by [Kei Sawada](https://twitter.com/remore)
     <sup>[[slides](https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster)]</sup>
-  - _Dōmoarigatō，Roboto先生：Ruby_的机器学习 [Eric Weinstein](https://twitter.com/ericqweinstein)
+  - _Dōmo arigatō, Mr. Roboto: Machine Learning with Ruby_ by [Eric Weinstein](https://twitter.com/ericqweinstein)
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) |
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
-  -  _建立机器学习技术的推荐引擎_ [Brian Sam-Bodden](https://twitter.com/bsbodden)
+  - _Building a Recommendation Engine with Machine Learning Techniques_ by [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
-  - ：sparkles：_SciRuby机器学习：当前状态和未来_ by [Kenta Murata](https://twitter.com/mrkn)
+  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
-  -  _Ruby圆桌会议：Tensorflow_简介 [RubyThursday](https://rubythursday.com/)
+  - _Ruby Roundtable: Intro to Tensorflow_ by [RubyThursday](https://rubythursday.com/)
     <sup>[[video](https://www.youtube.com/watch?v=pYC5mXHUWkc)]</sup>
 - 2015
-  - 使用Ruby_ by，_Machine Learning变得简单 [Lorenzo Masini](https://twitter.com/rugginoso)
+  - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
-  - 使用Ruby机器学习查找Paris Hilton Quotes_ [Rick Carlino](https://github.com/RickCarlino)
+  - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
-  -  _Test Driven Neural Networks_ by [Matthew Kirk](https://twitter.com/mjkirk)
+  - _Test Driven Neural Networks_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s)]</sup>
-  -  _Five机器学习技术，您可以在今天的Ruby应用程序中使用 [Benjamin Curtis](https://twitter.com/stympy)
+  - _Five machine learning techniques that you can use in your Ruby apps today_ by [Benjamin Curtis](https://twitter.com/stympy)
     <sup>[[video](https://www.youtube.com/watch?v=crziu7dk6Vw) |
           [slides](https://speakerdeck.com/stympy/machine-learning-techniques)]</sup>
-  -  _Machine学习乐趣和利润 [John Paul Ashenfelter](https://twitter.com/johnashenfelter)
+  - _Machine Learning for Fun and Profit_ by [John Paul Ashenfelter](https://twitter.com/johnashenfelter)
     <sup>[[video](https://www.youtube.com/watch?v=KC5MtKHm1O4)]</sup>
 - 2013
-  - 使用Ruby_by中的支持向量机进行_Sentiment分析 [Matthew Kirk](https://twitter.com/mjkirk)
+  - _Sentiment Analysis using Support Vector Machines in Ruby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc) |
           [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
-  - 使用Ruby_ by的_Recommender系统 [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
+  - _Recommender Systems with Ruby_ by [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
 - 2012
-  - 使用Ruby学习_Machine，第一部分由 [Vasily Vasinov](https://twitter.com/vasinov)
+  - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
-  -  Ruby_by中的_Recurrent神经网络 [Joseph Wilk](https://twitter.com/josephwilk)
+  - _Recurrent Neural Networks in Ruby_ by [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
-  -  _Recommendation Engines使用机器学习，和JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
+  - _Recommendation Engines using Machine Learning, and JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
-  -  _Practical Machine Learning和Rails_ by [Andrew Cantino](https://twitter.com/tectonic)
-    和 [Ryan Stout](https://twitter.com/ryanstout)
+  - _Practical Machine Learning and Rails_ by [Andrew Cantino](https://twitter.com/tectonic)
+    and [Ryan Stout](https://twitter.com/ryanstout)
     <sup>[[video](https://www.youtube.com/watch?v=vy_zQ1-F0JI)]</sup>
 
 - 2011
-  - 在Ruby_中的_Clustering by [Colin Drake](https://twitter.com/colinfdrake)
+  - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
-  - 使用Ruby_by中的支持向量机进行_Text分类 [Rimas Silkaitis](https://twitter.com/neovintage)
+  - _Text Classification using Support Vector Machines in Ruby_ by [Rimas Silkaitis](https://twitter.com/neovintage)
     <sup>[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
 - 2010
-  -  _bayes_motel  -  Ruby_的贝叶斯分类 [Mike Perham](https://twitter.com/mperham)
+  - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
-  -  _Intelligent Ruby：机器学习入门_ [Ilya Grigorik](https://twitter.com/igrigorik)
+  - _Intelligent Ruby: Getting Started with Machine Learning_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[video](https://vimeo.com/22513786)]</sup>
 - 2009
 
 - 2008
-  - 在Ruby_中使用_Support Vector Machines（SVM） [Ilya Grigorik](https://twitter.com/igrigorik)
+  - _Support Vector Machines (SVM) in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
 - 2007
-  - 在Ruby_中的_Decision树学习 [Ilya Grigorik](https://twitter.com/igrigorik)
+  - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
 ## Projects and Code Examples
 
 - [Wine Clustering](https://github.com/hexgnu/wine_clustering) -
-  葡萄酒质量评估采用不同的算法进行聚类.
+  Wine quality estimations clustered with different algorithms.
 - [simple_ga](https://github.com/giuse/simple_ga) -
-  Ruby中遗传算法的基本（工作）演示.
+  Basic (working) demo of Genetic Algorithms in Ruby.
 
 ## Heroku buildpacks
 
@@ -320,11 +320,11 @@ the word using the `#RubyML` hash tag!
 ## Books, Blogs, Channels
 
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
-    _Thoughtful机器学习：一种测试驱动的方法_.  O&#39;Reilly，2014.
+   _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
          [code](https://github.com/thoughtfulml/examples)]</sup>
 - [Practical Artificial Intelligence](https://www.practicalai.io/) -
-  关于人工智能和机器学习的博客，包含Ruby中的教程和代码示例.
+  Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
 
 ## Community
 
@@ -338,9 +338,9 @@ the word using the `#RubyML` hash tag!
 
 ## Needs your Help!
 
-本节中的所有项目对社区而言非常重要，但需要
- 更多的关注.  如果你有空闲时间和奉献精神，请花几个小时
-在这里的代码.
+All projects in this section are really important for the community but need
+more attention. Please if you have spare time and dedication spend some hours
+on the code here.
 
 ## Related Resources
 
@@ -349,7 +349,7 @@ the word using the `#RubyML` hash tag!
 ```brew install gsl```
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
-```brew tap homebrew / science &amp;&amp; brew install opencv```
+```brew tap homebrew/science && brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)
 ```brew install graphviz```
@@ -359,69 +359,69 @@ the word using the `#RubyML` hash tag!
 - <a name="xquartz"></a>
   [X11/XQuartz](https://www.xquartz.org/)
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php) &amp;&amp; libjpeg
-```brew install imagemagick &amp;&amp; brew install libjpeg```
+  [ImageMagick](https://www.imagemagick.org/script/index.php) && libjpeg
+```brew install imagemagick && brew install libjpeg```
 - <a name="r"></a>
   [R](http://www.r-project.org/)
-```brew tap homebrew / science &amp;&amp; brew install r```
+```brew tap homebrew/science && brew install r```
 - <a name="octave"></a>
   [Octave](https://www.gnu.org/software/octave/)
-```brew tap homebrew / science &amp;&amp; brew install octave --without-docs```
+```brew tap homebrew/science && brew install octave --without-docs```
 - [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
-  在其他令人敬畏的项目中，NLP相关项目的简短列表.
+  Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
-  用于NLP的Ruby库的最新收集.
+  State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  NLP相关资源的一般列表（主要不适用于Ruby程序员）.
+  General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
-  Ruby的线性代数，可视化和科学计算.
-- [iRuby](https://github.com/SciRuby/iruby) - 用于Jupyter的IRuby内核（formelly IPython）.
+  Linear Algebra, Visualization and Scientific Computing for Ruby.
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
-  轻量级 [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) （Extract，Transform，Load）管道.
+  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
-  多种OCR（光学字符识别）资源.
+  Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
-  使用TensorFlow库进行机器学习.
+  Machine Learning with TensorFlow libraries.
 - [rb-gsl](https://github.com/SciRuby/rb-gsl) -
-  Ruby接口 [GNU Scientific Library](https://www.gnu.org/software/gsl/).
+  Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
-  使用C编程语言嵌入和扩展Ruby的现代参考和教程.
+  Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 
 ## Wait but why?
 
- 有许多与ML相关工具的软件列表.  有几个列表
- 与Ruby相关的项目.  没有只有工作和测试的列表
- 具有文档范围的软件.  我们会尝试制作一个！
+There are a lot of software lists with ML related tools. There are a couple of lists
+with Ruby related projects. There are no lists of only working and tested
+software with documented scope. We'll try to make one!
 
- 什么是真棒？  令人敬畏的是记录，维护和专注的工具.
+What is awesome? Awesome are documented, maintained and focused tools.
 
- 有什么东西在某一点变得不那么棒吗？  是!  被遗弃的项目与破碎
- 依赖性不再令人敬畏！  他们离开这个名单.
+Can something turn not awesome at a point? Yes! Abandoned projects with broken
+dependencies aren't awesome any more! They leave this list.
 
 
 ## License
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-“令人敬畏的ML与Ruby`由 [Andrei Beliankou](https://github.com/arbox) 和
+`Awesome ML with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
 [Contributors][contributors].
 
-在法律允许的范围内，与CC0相关联的人
-“令人敬畏的ML with Ruby”已放弃所有版权及相关或相邻权利
-用Ruby来“令人敬畏的ML”.
+To the extent possible under law, the person who associated CC0 with
+`Awesome ML with Ruby` has waived all copyright and related or neighboring rights
+to `Awesome ML with Ruby`.
 
-您应该已经收到了CC0 legalcode的副本
- 工作.  如果没有，请参阅 <https://creativecommons.org/publicdomain/zero/1.0/>  .
+You should have received a copy of the CC0 legalcode along with this
+work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
-[ruby]：https：//www.ruby-lang.org/en/
-[awesome]：https：//github.com/sindresorhus/awesome/blob/master/awesome.md
-[change-pr]：https：//github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
-[ml]：https：//en.wikipedia.org/wiki/Machine_learning
-[ds-with-ruby]：https：//github.com/arbox/data-science-with-ruby
-[贡献者]：https：//github.com/arbox/machine-learning-with-ruby/graphs/contributors
-[sciruby]：https：//github.com/sciruby
+[ruby]: https://www.ruby-lang.org/en/
+[awesome]: https://github.com/sindresorhus/awesome/blob/master/awesome.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
+[ml]: https://en.wikipedia.org/wiki/Machine_learning
+[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
+[contributors]: https://github.com/arbox/machine-learning-with-ruby/graphs/contributors
+[sciruby]: https://github.com/sciruby
 [ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
-[cs]：https：//en.wikipedia.org/wiki/Computational_science
-[fe]：https：//en.wikipedia.org/wiki/Feature_engineering
-[ts]：https：//en.wikipedia.org/wiki/Test_set
+[cs]: https://en.wikipedia.org/wiki/Computational_science
+[fe]: https://en.wikipedia.org/wiki/Feature_engineering
+[ts]: https://en.wikipedia.org/wiki/Test_set

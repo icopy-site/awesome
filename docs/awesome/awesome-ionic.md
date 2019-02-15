@@ -1,10 +1,10 @@
 <div class="github-widget" data-repo="candelibas/awesome-ionic"></div>
 ## Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-一个“令人敬畏”的Ionic资源列表 
+An "awesome" list of the Ionic resources 
 
 ### Ionic
-&gt;“Ionic是一款美观的开源前端SDK，用于开发具有Web技术的混合移动应用程序.”
+> "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
 ##### Current Ionic version: 
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
@@ -132,7 +132,7 @@
 * [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
 
 #### Contribute
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) 第一.
+Contributions welcome! Read the [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) first.
 
 
 #### License

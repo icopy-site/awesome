@@ -7,10 +7,10 @@
 
 ![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
-图像是一个插图 [Heydon Pickering](http://www.heydonworks.com/) 你可以 [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
+Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-&gt;精选的辅助功能工具，文章和资源的精选列表.
-&gt;灵感来自 [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
+> A curated list of awesome Accessibility tools, articles and resources.
+> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 
   - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
@@ -37,4 +37,4 @@
 
 ## LICENSE
 
-该项目根据MIT许可证授权 - 请参阅 [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) 详情.
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) for details.

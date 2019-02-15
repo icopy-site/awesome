@@ -4,185 +4,185 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
 
-搜索引擎优化（SEO）技巧和技巧的有用清单/集合.
+A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 
 
 ## URL
-* **描述性网址：**使用描述性网页网址，该网址应反映您的定位关键字
-* **[File extension](https://www.youtube.com/watch?v=dSG6C33GwsE)**：不要删除URL上的文件扩展名
-* **[HTTPS](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)：**安全是Google的首要任务
-* **[Hyphens](https://www.youtube.com/watch?v=AQcSFsQyct8)：**使用连字符分裂单词
-* **[Localisation](https://support.google.com/webmasters/answer/62399)：**选择特定国家/地区的域名，以获得更好的本地搜索结果
-* **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk)：**子域名被视为单独的域名
-* **[URL builder](https://support.google.com/analytics/answer/1033867)：**使用此工具向您的网址添加自定义广告系列参数
-* **[www or no-www](https://support.google.com/webmasters/answer/44231)：**提供两个域，但在Google网站站长工具中设置首选版本
+* **Descriptive URLs:** use a descriptive page url, which should reflect your targeted keyword
+* **[File extension](https://www.youtube.com/watch?v=dSG6C33GwsE)**: do not strip out the file extension on URLs
+* **[HTTPS](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html):** Security is a top priority for Google
+* **[Hyphens](https://www.youtube.com/watch?v=AQcSFsQyct8):** split words using hyphens
+* **[Localisation](https://support.google.com/webmasters/answer/62399):** choose a country-specific domain, for better local search results
+* **[Subdomain or subfolder](https://www.youtube.com/watch?v=_MswMYk05tk):** subdomains are seen as separate domains
+* **[URL builder](https://support.google.com/analytics/answer/1033867):** Use this tool to add custom campaign parameters to your URLs
+* **[www or no-www](https://support.google.com/webmasters/answer/44231):** provide both domains, but set a prefered version in Google Webmaster Tools
 
 ## Accessibility
-* ** 403：**提供403  - 拒绝访问页面
-* ** 404：**提供404  - 页面未找到页面
+* **403:** provide a 403 - Access denied page
+* **404:** provide a 404 - Page not found page
 * **File not found:** avoid `404 FILE_NOT_FOUND` errors
- * **布局：**使用`divs`代替`tables`进行布局.  使用`tables`在语义上不正确.
-* **移动网站：**通过`.htaccess`将所有链接重定向到新位置
-* **[Pagination](https://support.google.com/webmasters/answer/1663744)：**为链接实现`rel =“next”`和`rel =“prev”`属性
-* **[Performance](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/slow-mobile-pages)：**性能和加载时间很重要
- * **重定向：**尽可能避免重定向.  使用301重定向而不是302
-* **[RichSnippets](https://schema.org/)：**使用丰富的代码段标记您的代码，它们会显示在搜索结果页面上
-* **机器人：**阻止页面，不应通过`robots.txt`文件索引或
+* **Layout:** use `divs` instead of `tables` for layout. Using `tables` is not semantically correct.
+* **Moving a website:** redirect all your links to the new location via `.htaccess`
+* **[Pagination](https://support.google.com/webmasters/answer/1663744):** implement the `rel="next"` and `rel="prev"` attributes to links
+* **[Performance](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/slow-mobile-pages):** performance and loading time is important
+* **Redirects:** avoid redirects if possible. Use 301 redirect instead of 302
+* **[RichSnippets](https://schema.org/):** markup your code with rich snippets, they show up on the search results page
+* **Robots:** block pages which should not be indexed via the `robots.txt` file or
 `<meta name="robots" content="">`
-* **验证：**写有效代码（[HTML Validator](https://validator.w3.org/) [CSS Validator](https://jigsaw.w3.org/css-validator/))
-* **[WAI-Aria](https://www.w3.org/TR/wai-aria/)：**使用WAI-Aria标签来帮助机器理解您的代码
+* **Validation:** write valid code ([HTML Validator](https://validator.w3.org/) [CSS Validator](https://jigsaw.w3.org/css-validator/))
+* **[WAI-Aria](https://www.w3.org/TR/wai-aria/):** use WAI-Aria tags to help machines understand your code
 
 ## Meta Information
-* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k)：**每个页面都应该有唯一的描述（最多160个字符）
+* **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k):** each page should have a unique description (max. 160 characters)
 `<meta name="description" content="">`
-* **标题：**每页应具有唯一的发言名称（60  -  100个字符）
- ` <title>网站标题</title>  `
+* **Title:** each page should have a unique speaking title (60 - 100 characters)
+`<title>Website Title</title>`
 
 ## Keywords
-* **标题：**关键字应出现在标题中
-搜索引擎不使用此元标记
-* **研究：**流量高，竞争较少的关键词排名
-* **单身：**每个页面都应该有一个唯一的目标关键字
-* **标题：**关键字应出现在页面标题中
-* **[URL](https://www.youtube.com/watch?v=rAWFv43qubI)：**关键字应出现在URL名称中
+* **Heading:** keyword should appear in headings
+search engines do not use this meta tag
+* **Research:** rank for keywords with high traffic and less competition
+* **Single:** every page should have a single unique targeted keyword
+* **Title:** keyword should appear in page title
+* **[URL](https://www.youtube.com/watch?v=rAWFv43qubI):** keyword should appear in URL name
 
- * **标题：**结构清晰`H1` -`H6`最大.  70个字符长
-* **长度：**文章应至少300字
-* **强：**使用`strong`标签突出显示您的目标关键字
+* **Headings:** clear structure `H1` -` H6` max. 70 characters long
+* **Length:** article should be at least 300 words
+* **Strong:** use `strong` tag to highlight your targeted keyword
 
 ## Images
-* **[Alt tag](https://support.google.com/webmasters/answer/114016)：**添加一个alt-tag这个图像的描述（60  -  70个字符）
-* **尺寸：**为图像添加`width =“”`和`height =“”`属性
-* **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0)：**使用简短的描述性名称
-* **[Optimization](https://imageoptim.com/)：**通过删除一些元信息来优化图像
-* **[Responsive Images](https://www.w3.org/TR/html-picture-element/)：**提供与窗口大小相对应的最优化图像
-* **大小：**保持文件大小尽可能低
+* **[Alt tag](https://support.google.com/webmasters/answer/114016):** add an alt-tag this a description of the image (60 - 70 characters)
+* **Dimensions:** add the `width=""` and `height=""` attributes to the image
+* **[File name](https://www.youtube.com/watch?v=h2SWuUobbr0):** use a short descriptive name
+* **[Optimization](https://imageoptim.com/):** Optimize images by removing some meta information
+* **[Responsive Images](https://www.w3.org/TR/html-picture-element/):** serve the most optimized image corresponding to the window size
+* **Size:** keep the filesize as low as possible
 
 ## Videos
-* **控件：**添加控件以播放和控制您的视频
-* **嵌入：**允许其他人嵌入您的视频
+* **Controls:** add controls to playback and control your video
+* **Embed:** allow others to embed your videos
 
 ## Links
-* **反向链接：**只有在您的网站有反向链接时才添加外部链接
-* **[Languages](https://moz.com/learn/seo/hreflang-tag)：** hreflang标签告诉Google您在特定页面上使用的语言，因此搜索引擎可以将该结果提供给使用该语言搜索的用户
+* **Backlinks:** only add external links if you got a backlink to your site
+* **[Languages](https://moz.com/learn/seo/hreflang-tag):** the hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language
 `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
- * **命名：**使用描述性链接名称：“单击此处”或“阅读更多”是错误的链接文本.  更好“阅读更多关于SEO和Web可访问性”
-* **[nofollow](https://support.google.com/webmasters/answer/96569)：**只为外部链接添加`rel =“nofollow”属性，以防止垃圾邮件和错误的链接
-* **标题：**将title属性添加到链接
+* **Naming:** use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”
+* **[nofollow](https://support.google.com/webmasters/answer/96569):** add `rel="nofollow"` attribute to external links only to prevent spam and bad links
+* **Title:** add the title attribute to links
 
 ## Mobile
-* **[mobile friendly](https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html) ：**移动优化网站在搜索结果中标记.  测试 [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
-* **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately)：**可点击链接不应太小
-* **视口：**告诉浏览器如何调整页面的尺寸和缩放以适应设备
+* **[mobile friendly](https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html):** mobile optimized sites are marked in search results. Test for [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
+* **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately):** clickable links should not be too small
+* **Viewport:** tell browsers how to adjust the page's dimensions and scaling to suit the device
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
 ## Sitemap
-* **[HTML sitemap](https://www.youtube.com/watch?v=hi5DGOu1uA0)：** HTML站点地图允许网站访问者轻松浏览网站
-* **[Image sitemap](https://support.google.com/webmasters/answer/178636)：**增加您的图像可以在图像搜索结果中找到
-* **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207)：**对于功能手机，您可以创建移动站点地图
-* **[XML sitemap](https://support.google.com/webmasters/answer/183668)：**帮助搜索引擎索引您的网页
+* **[HTML sitemap](https://www.youtube.com/watch?v=hi5DGOu1uA0):** an HTML sitemap allows site visitors to easily navigate a website
+* **[Image sitemap](https://support.google.com/webmasters/answer/178636):** increase that your images can be found in Image Search results
+* **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207):** for feature phones, you can create a mobile sitemap
+* **[XML sitemap](https://support.google.com/webmasters/answer/183668):** help search engines to index your pages
 
 ## Social Media
-*作者信息
-* **[Facebook](https://developers.facebook.com/docs/sharing/best-practices)：**分享网站和移动应用程序的最佳实践
-* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI)：**将Google+作者身份信息添加到您的信息页
- ` <link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">  `或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+个人资料</a> &#39;或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+个人资料</a> &#39;或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+个人资料</a> &#39;
-* **[OpenGraph](http://ogp.me/)：** Open Graph协议使任何网页都成为社交图中的丰富对象.
-* **[Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles)：**将社交个人资料添加到您的Google搜索结果中
-* **社交分享：**为您的网站提供分享选项
-* **[Twitter](https://dev.twitter.com/cards/getting-started)：**使用Twitter卡，您可以附加照片，视频和媒体经验给您推文
+* Authorship information
+* **[Facebook](https://developers.facebook.com/docs/sharing/best-practices):** sharing Best Practices for Websites & Mobile Apps
+* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI):** add Google+ authorship information to your page
+`<link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">` or
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+ Profile</a>` or
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+ Profile</a>` or
+`<a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+ Profile</a>`
+* **[OpenGraph](http://ogp.me/):** the Open Graph protocol enables any web page to become a rich object in a social graph.
+* **[Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles):** add social profiles to your Google search results
+* **Social Shares:** provide sharing options for your site
+* **[Twitter](https://dev.twitter.com/cards/getting-started):** with Twitter cards, you can attach photos, videos and media experience to you Tweets
 
 ## Tools & Services
 
 ### Webmasters
-* **[Bing Webmasters](http://www.bing.com/toolbox/webmaster)：**允许网站管理员将他们的网站添加到Bing索引抓取工具.
-* **[Google Search Console (GWT)](https://www.google.com/webmasters/)：**允许网站管理员检查索引状态并优化其网站的可见性
-* **[Google Tag Manager](https://www.google.com/analytics/tag-manager/) ：**了解Google Analytics跟踪代码管理器以及它如何帮助简化您的生活和IT请求的需求.  只需点击几下即可启动新标签.
+* **[Bing Webmasters](http://www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
+* **[Google Search Console (GWT)](https://www.google.com/webmasters/):** allows webmasters to check indexing status and optimize visibility of their websites
+* **[Google Tag Manager](https://www.google.com/analytics/tag-manager/):** learn about Google Analytics Tag Manager and how it can help simplify your life and need for IT requests. Launch new tags with a few clicks.
 
 ### Analytics
-* **[Followerwonk](https://moz.com/followerwonk)：**分析，生物搜索等工具
-* **[Google Analytics](https://www.google.com/analytics/)：**生成有关网站流量的详细统计信息
-* **[Open Site Explorer](https://moz.com/researchtools/ose/) ：**使用Open Site Explorer识别链接构建机会.  研究反向链接，识别首页，查看社交活动以及分析锚文本.
-* **[Matomo](https://matomo.org/)：**一个开放的分析平台
-* **[SEMrush](https://www.semrush.com/)：** SEMrush是一个功能强大的多功能竞争情报套件，适用于在线营销，从SEO和PPC到社交媒体和视频广告研究.
-* **[Seomator](https://seomator.com/)：** SEO审计工具和网站爬虫，通过如何修复提示改善SEO性能.
-* **[SEOstats](https://github.com/eyecatchup/SEOstats)：** SEOstats是一个功能强大的开源PHP库，可以请求一堆SEO相关指标.
-* **[SimilarWeb](https://www.similarweb.com/) ：**将网站流量与SimilarWeb.com的高级流量估算工具进行比较.  查看任何网站的流量来源并发现他们的在线营销策略.
-* **[Twitter Analytics](https://analytics.twitter.com/)：**衡量并提升你对Twitter的影响力.
+* **[Followerwonk](https://moz.com/followerwonk):** tools for Twitter Analytics, Bio Search and More
+* **[Google Analytics](https://www.google.com/analytics/):** generate detailed statistics about a website's traffic
+* **[Open Site Explorer](https://moz.com/researchtools/ose/):** use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
+* **[Matomo](https://matomo.org/):** an open analytics platform
+* **[SEMrush](https://www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
+* **[Seomator](https://seomator.com/):**  SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
+* **[SEOstats](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
+* **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
+* **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
 
 ### Optimization
-* **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)：** Page Speed Insights衡量移动设备和桌面设备页面的性能.
-* **[Varvy Seo tool](https://varvy.com/)：**显示：域名强度，链接，图像搜索引擎优化，社交计数和提及，页面/技术搜索引擎优化，页面速度等.
-* **[Webpagetest.org](https://www.webpagetest.org/) ：**网页测试为您提供整体性能瀑布以及网站的渲染时间表.  它还提供了对第一个字节的时间以及可能阻碍网页性能的关键洞察力
-* **[WooRank](https://www.woorank.com/)：** WooRank将帮助您解决您网站上的问题，并确定在竞争中领先的机会.
+* **[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/):** Page Speed Insights measures the performance of a page for mobile devices and desktop devices.
+* **[Varvy Seo tool](https://varvy.com/):** displays: domain strength, links, image seo, social counts & mentions, page/technical seo, pagespeed and more.
+* **[Webpagetest.org](https://www.webpagetest.org/):** Web Page Test gives you an overall performance waterfall as well as rendering timeline for sites. It also provides critical insight into time to first byte and what could be holding back web page performance
+* **[WooRank](https://www.woorank.com/):** WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 
 ### Keywords
-* **[Google Trends](https://www.google.com/trends/)：**使用Google趋势探索Google热门搜索主题.
-* **[Keyword Planner](https://adwords.google.com/KeywordPlanner)：**计划您的搜索网络广告系列并了解客户的需求
-* **[Keyword Tool](http://keywordtool.io/) ：**最佳免费替代谷歌关键字工具的SEO和PPC关键字研究！  在几秒钟内从Google Suggest获得750多个相关的长尾关键词！
-* **[Moz Keyword Explorer](https://moz.com/explorer)：**付费关键字工具，提供精确的搜索量，关键字难度，SERP功能和有机点击率数据.
+* **[Google Trends](https://www.google.com/trends/):** explore Google trending search topics with Google Trends.
+* **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
+* **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
+* **[Moz Keyword Explorer](https://moz.com/explorer):** Paid Keyword Tool that provides precise search volume, keyword difficulty, SERP Features and organic click through rate data.
 
 ### Links
-* **[OpenLinkProfiler](http://www.openlinkprofiler.org/)：**深入分析最新鲜的反向链接.
-* **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/)：** Screaming Frog SEO Spider是一个小型桌面程序（PC或Mac），它从SEO角度抓取网站的链接，图像，CSS，脚本和应用程序.
+* **[OpenLinkProfiler](http://www.openlinkprofiler.org/):** get an in-depth analysis of the freshest live backlinks.
+* **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/):** the Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.
 
 ### Structured Data
-* **[Facebook Debugger](https://developers.facebook.com/tools/debug)：**输入您要抓取的网址，以查看该网页的标记如何显示在Facebook上
-* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/)：**自定义在共享页面时将在社交媒体上看到的片段
-* **[Pinterest](https://developers.pinterest.com/rich_pins/validator/)：**验证您的Rich Pins并申请将它们放到Pinterest上
-* **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)：**粘贴在您的丰富网页摘要或网址中进行测试
-* **[Twitter card validator](https://cards-dev.twitter.com/validator)：**输入带有要验证的元标记的页面的URL
+* **[Facebook Debugger](https://developers.facebook.com/tools/debug):** enter the URL you want to scrape to see how the page's markup appears to Facebook
+* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/):** customize the snippet that will be seen on social media when your page is shared
+* **[Pinterest](https://developers.pinterest.com/rich_pins/validator/):** validate your Rich Pins and apply to get them on Pinterest
+* **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** paste in your rich snippets or url to test it
+* **[Twitter card validator](https://cards-dev.twitter.com/validator):** enter the URL of the page with the meta tags to validate
 
 ### Bookmarklets
-* **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet)：**一个开源书签，向您显示页面上的SEO和社交元数据信息.
-* **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet)：**一站式SEO书签快速审查现场搜索引擎优化
+* **[OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
+* **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ### Browser Extensions
-* **[MozBar](https://moz.com/tools/seo-toolbar) ：**来自Moz的SEO工具栏可让您快速访问许多页面上的搜索引擎优化因素，域和页面权限以及快速nofollow切换.  立即下载免费工具栏！
+* **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
 
 ### Jekyll Plugins
 
 ### TYPO3 Extensions
-* **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics)：**为每页标题标记添加单独的字段，在新模块中添加易于搜索引擎优化的关键字和描述以及灵活的Google Sitemap.
-* **[Google sitemap](https://typo3.org/extensions/repository/view/dd_googlesitemap)：**高性能的Google站点地图实施，可避免其他类似扩展程序出现的典型错误.
+* **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
+* **[Google sitemap](https://typo3.org/extensions/repository/view/dd_googlesitemap):** High performance Google sitemap implementation that avoids typical errors by other similar extensions.
 
 ### WordPress Plugins
-* **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) ：**下载量最多的WordPress插件（下载量近3000万）.  使用All in One SEO Pack自动优化您的搜索引擎网站
+* **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines
 
 ## Books
-* **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/Search-Optimization-Internet-Marketing-Strategies/dp/151534567X)：**学习搜索引擎优化策略，以SEO 2016排名在谷歌的顶部
-* **[Search Engine Optimization All-in-One For Dummies](https://www.amazon.com/Search-Engine-Optimization-All-Dummies/dp/1118921755) ：** Bruce Clay是SEO社区中最受尊敬的人物之一，在所有主要会议上教授课程和研讨会.  就像“搜索引擎优化的艺术”一样，这本书实际上非常技术性，可能不是你最好的第一指南，尽管它是“傻瓜”系列的一部分.
-* **[SEO 2016: Learn Search Engine Optimization](https://www.amazon.com/SEO-2016-Search-Engine-Optimization/dp/1512275069)：**今日竞争搜索环境中SEO的全面必备指南
-* **[SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880)：**关于搜索引擎优化的一步一步的书，从目标开始，浏览页面搜索引擎优化，如页面标签，最后是关闭页面搜索引擎优化，如链接建设和社会提及.
-* **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do)：**您完全更新的搜索引擎优化指南
-* **[SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020) ：**也从关键字开始，涵盖ON PAGE和OFF PAGE SEO.  强调速度的重要性，并有一个很好的附录与SEO资源，词汇表和链接.
+* **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/Search-Optimization-Internet-Marketing-Strategies/dp/151534567X):** learn SEO strategies to rank at the top of Google with SEO 2016
+* **[Search Engine Optimization All-in-One For Dummies](https://www.amazon.com/Search-Engine-Optimization-All-Dummies/dp/1118921755):** Bruce Clay is one of the most respected figures in the SEO community, teaching classes and workshops at all the major conferences. Like the ‘Art of SEO,’ this book is actually pretty technical and probably not your best easy, first guide, despite being part of the ‘Dummies’ series.
+* **[SEO 2016: Learn Search Engine Optimization](https://www.amazon.com/SEO-2016-Search-Engine-Optimization/dp/1512275069):** a Comprehensive Must-Have Guide to SEO in Today's Competitive Search Environment
+* **[SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880):** step-by-step book on SEO, starting with goals, going through on page SEO such as page tags, and ending up with off page SEO such as link-building and social mentions.
+* **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do):** your fully updated guide to search engine optimization
+* **[SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020):** also starts with keywords and covers ON PAGE and OFF PAGE SEO. Emphasizes the importance of speed, and has a nice appendix with SEO resources, glossary, and links.
 * **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** essential Techniques for Increasing Web Visibility
-* **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM)：** Google Analytics，网站站长，网站流量，Adwords，每次点击付费，网站推广和搜索引擎优化简介.
-* **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do)：**掌握搜索引擎优化
-* **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) ：**新来的SEO？  需要提高你的知识吗？  搜索引擎优化的初学者指南已被阅读超过300万次，并提供了您获得专业质量搜索引擎优化所需的信息.
-* **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do)：**如果您想建立一个持续的SEO计划，目标是增加流量和搜索突出，这个实用的分步指南将帮助您了解SEO方法，然后向您展示如何将这些理论付诸实践.
+* **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM):** introduction to Google Analytics, Webmaster, Website traffic, Adwords, Pay per click, Website promotion and Search engine optimization.
+* **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do):** mastering search engine optimization
+* **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo):** new to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 3 million times and provides the information you need to get on the road to professional quality SEO.
+* **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do):** if you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
 
 ## Courses
-* **[ClickMinded](https://www.clickminded.com/)：** ClickMinded是一个SEO培训课程，面向希望尽快增加有机流量和销售额的创业公司.
-* **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101)：**电子商务SEO 101视频系列与海伦Overland shopify
-* **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html) ：**通过适当的标记和Web标准合规性，使网站更易于访问和搜索引擎友好.  与Lynda.com的Morten Rand-Hendriksen合作
-* **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction)：**学习搜索引擎优化（SEO）：视频介绍Matt Bailey by video2brain
-* **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics)：**通过video2brain与Matt Bailey一起学习网络分析
-* **[SEO for Beginners](http://seoforbeginners.com/)：**初学者搜索引擎优化：视频指南简介
-* **[SEO for Ecommerce](https://www.lynda.com/Google-Analytics-tutorials/SEO-Ecommerce/386884-2.html) ：**电子商务的SEO是不同的.  获取针对优化在线商店的策略，以改善页面排名和构建流量.  与Lynda.com的Steven Harris合作
-* **[SEO for Local Visibility](https://www.lynda.com/Google-Maps-tutorials/SEO-Local-Visibility/178132-2.html) ：**使用这些本地SEO策略在搜索排名中实现最大可见性.  与Lynda.com的Brad Batesole合作
-* **[SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers)：**网站设计师的SEO与TutsPlus的Craig Campbell合作
-* **[SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html)：Lynda.com与David Booth的SEO基础知识
-* **[SEO Fundamentals](https://www.pluralsight.com/courses/seo-fundamentals)：Pluralsight与保罗威尔逊的SEO基础
-* **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/)：** udemy与Moz的SEO培训课程
-* **[SEO: Keyword Strategy in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-6.html) ：**了解如何研究关键字，将其应用到您的网站，以及围绕关键字制作广告系列.  通过关键字增加网站流量并更好地了解用户的意图.  与Lynda.com的Matt Bailey合作
-* **[SEO: Link Building in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html) ：**调查链接的解剖结构，链接如何影响页面排名，以及创建出色链接的属性.  与Lynda.com的Peter Kent合作
-* **[Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) ：**学习如何使用SEO工具和技术在线研究竞争.  找出竞争对手正在优化的关键字，然后在搜索引擎结果页面上超越它们.  随着Anson Alexander by Lynda.com
-* **[Video SEO Basics](https://www.lynda.com/Business-Web-Video-tutorials/Video-SEO-Basics/118217-6.html) ：**为搜索引擎优化您的视频并转换流量以实现您的业务目标.  与Lynda.com的Ian Lurie合作
-* **[WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) ：**借助两个强大的插件，通过执行搜索引擎优化或搜索引擎优化，为您的WordPress网站吸引更多访问者.  与Lynda.com的Morten Rand-Hendriksen合作
+* **[ClickMinded](https://www.clickminded.com/):** ClickMinded is an SEO training course for startups that want to grow their organic traffic and sales as quickly as possible.
+* **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101):** Ecommerce SEO 101 Video Series with Helen Overland by shopify
+* **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html):** make web sites more accessible and search engine friendly through proper markup and web standards compliance. With Morten Rand-Hendriksen by Lynda.com
+* **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction):** Learning Search Engine Optimization (SEO): A Video Introduction with Matt Bailey by video2brain
+* **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics):** Learning Web Analytics with Matt Bailey by video2brain
+* **[SEO for Beginners](http://seoforbeginners.com/):** SEO for Beginners: A Video Guide Introduction
+* **[SEO for Ecommerce](https://www.lynda.com/Google-Analytics-tutorials/SEO-Ecommerce/386884-2.html):** SEO for ecommerce is different. Get strategies tailored for optimizing an online store to improve page rankings and build traffic. With Steven Harris by Lynda.com
+* **[SEO for Local Visibility](https://www.lynda.com/Google-Maps-tutorials/SEO-Local-Visibility/178132-2.html):** achieve maximum visibility in search rankings with these local SEO strategies. With Brad Batesole by Lynda.com
+* **[SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers):** SEO for Web Designers with Craig Campbell by TutsPlus
+* **[SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html):** SEO Fundamentals with David Booth by Lynda.com
+* **[SEO Fundamentals](https://www.pluralsight.com/courses/seo-fundamentals):** SEO Fundamentals with Paul Wilson by Pluralsight
+* **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/):** SEO Training Course with Moz by udemy
+* **[SEO: Keyword Strategy in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-6.html):** learn how to research keywords, apply them to your website, and create ad campaigns around keywords. Increase your site traffic and better understand your user's intent with keywords. With Matt Bailey by Lynda.com
+* **[SEO: Link Building in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html):** investigates the anatomy of a link, how links affect page ranking, and the properties that make an excellent inbound link. With Peter Kent by Lynda.com
+* **[Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html):** learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com
+* **[Video SEO Basics](https://www.lynda.com/Business-Web-Video-tutorials/Video-SEO-Basics/118217-6.html):** optimize your videos for search engines and convert the traffic to achieve your business goals. With Ian Lurie by Lynda.com
+* **[WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html):** drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

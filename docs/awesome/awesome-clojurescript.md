@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="hantuzun/awesome-clojurescript"></div>
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
-     ALIGN = “右”/&gt;
+     align="right"/>
 
 ## Awesome ClojureScript
 
@@ -14,185 +14,185 @@
 * * *
 
 ### Books
-- [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - 全面介绍ClojureScript语言及其惯用法.
-- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) -  ClojureScript的初学者指南，包含交互式示例和练习.
+- [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) – A comprehensive introduction to the ClojureScript language and its idiomatic usage.
+- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises.
 
 ### Canvas
-- [Monet](https://github.com/rm-hull/monet) - 一个小型ClojureScript库，可以更轻松地使用画布和视觉效果.
-- [Quamolit](https://github.com/Quamolit/quamolit) - 一个微小的声明性动画库，灵感来自React.
+- [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
+- [Quamolit](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
 
 
 ### Client/Server Communication
-- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) -  ClojureScript和Clojure的简单Ajax客户端.
-- 累积 [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) - 基于WebSocets和diff / patch在客户端之间同步数据的一对库.
-- [Fetch](https://github.com/LightTable/fetch) -  ClojureScript库，使客户端/服务器交互无痛.
+- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
+- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
+- [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
 ### Code Analysis
-- [kibit](https://github.com/jonase/kibit) - 静态代码分析器，用于查找可以使用更惯用的函数或宏重写的代码模式.
+- [kibit](https://github.com/jonase/kibit) — Static code analyzer to find patterns of code that could be rewritten with a more idiomatic function or macro.
 
 
 ### Data Serialization
-- [Cljson](https://github.com/tailrecursion/cljson) - 用于加速浏览器数据反序列化的Clojure / ClojureScript库.
-- [Transit](https://github.com/cognitect/transit-cljs) - 用于在以不同编程语言编写的应用程序之间传递值的数据交换格式和库集.
+- [Cljson](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
+- [Transit](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
 ### Data Visualization
-- [C2](https://keminglabs.com/c2) - 它允许您以声明方式创建基于数据的HTML和SVG标记.
+- [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 
 
 ### Database
-- [Datascript](https://github.com/tonsky/datascript) -  ClojureScript中的不可变内存数据库和Datalog查询引擎.
-- [Jaki](https://github.com/pandeiro/jaki) - 一个简单的ClojureScript CouchDB客户端.
-- [Konserve](https://github.com/replikativ/konserve) - 具有core.async的clojuresque键值/文档存储协议.
-- [specql](https://github.com/tatut/specql) - 用于使用命名空间键的简单PostgreSQL查询的库.
+- [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
+- [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
+- [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
+- [specql](https://github.com/tatut/specql) – Library for simple PostgreSQL queries with namespaced keys.
 
 ### Development
-- [Ambly](https://github.com/omcljs/ambly) -  ClojureScript REPL到iOS JavaScriptCore.
-- [cljs-devtools](https://github.com/binaryage/cljs-devtools) - 在Chrome Devtools中更好地呈现ClojureScript值.
-- [Devcards](https://github.com/bhauman/devcards) -  Devcards旨在为ClojureScript提供可视化的REPL体验.
-- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) -  Leiningen插件，使ClojureScript开发变得简单.
-- [lein-figwheel](https://github.com/bhauman/lein-figwheel) - 将ClojureScript代码更改推送到客户端的Leiningen插件.
-- [Lumo](https://github.com/anmonteiro/lumo) - 快速，跨平台，独立的ClojureScript环境.
-- [Planck](https://github.com/mfikes/planck) - 基于JavaScriptCore的macOS和Linux的独立ClojureScript REPL.
-- [Ribol](http://docs.caudate.me/ribol/) -  clojure / clojurescript的条件重启.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) -  ClojureScript编译变得简单
+- [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
+- [cljs-devtools](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
+- [Devcards](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
+- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
+- [lein-figwheel](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
+- [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
+- [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
+- [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 
 
 ### Document Object Model
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-- [Crate](https://github.com/ibdknox/crate) -  Hiccup的ClojureScript实现.
-- [Dominator](https://github.com/dubiousdavid/dominator) -  ClojureScript中的Virtual-Dom.
-- [Dommy](https://github.com/plumatic/dommy) - 一个严肃的ClojureScript模板和DOM操作库.
-- [Enfocus](http://ckirkendall.github.io/enfocus-site/) - 受Enlive启发的ClojureScript的DOM操作和模板库.
-- [Freactive](https://github.com/aaronc/freactive) - 一个高性能，纯粹的Clojurescript，声明性DOM库，灵感来自试剂，om，反射和打嗝.
-- [Hiccups](https://github.com/teropa/hiccups) - 打嗝的ClojureScript端口.
-- [Hickory](https://github.com/davidsantiago/hickory) - 它将HTML解析为Clojure数据结构，因此您可以分析，转换和输出回HTML.
-- [json-html](https://github.com/yogthos/json-html) - 提供JSON并获取具有该JSON的人类表示的DOM节点.
-- [Kioo](https://github.com/ckirkendall/kioo) - 用于Facebook的React和Om在ClojureScript中的DOM操作和模板库.
-- [Sablono](https://github.com/r0man/sablono) - 用于ClojureScript中Facebook反应的Lisp / Hiccup风格模板.
+- [Crate](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
+- [Dominator](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
+- [Dommy](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
+- [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
+- [Freactive](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+- [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
+- [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+- [json-html](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
+- [Kioo](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+- [Sablono](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
 ### Documentation
-- [codox](https://github.com/weavejester/codox) - 用于从Clojure或ClojureScript源代码生成API文档的工具.
+- [codox](https://github.com/weavejester/codox) – A tool for generating API documentation from Clojure or ClojureScript source code.
 
 
 ### Graphics
-- [geom](https://github.com/thi-ng/geom) - 用于Clojure / Clojurescript的2D / 3D几何工具包.
+- [geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 
 ### HTTP Handler
-- [Castra](https://github.com/hoplon/castra) -  Clojure的HTTP远程过程调用处理程序.
+- [Castra](https://github.com/hoplon/castra) – An HTTP remote procedure call handler for Clojure.
 
 
 ### Internationalization
-- [Tower](https://github.com/ptaoussanis/tower) -  Clojure（脚本）i18n和L10n库.
-- [Tempura](https://github.com/ptaoussanis/tempura) - 一个Clojure（脚本）i18n库，接替Tower
+- [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
+- [Tempura](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower
 
 
 ### JavaScript Interoperability
-- [CLJSJS](http://cljsjs.github.io/) -  Clojurescript开发人员依赖Javascript库的简便方法.
-- [Jayq](https://github.com/ibdknox/jayq) - 用于jQuery的ClojureScript包装器.
-- [Purnam](https://github.com/zcaudate/purnam) - 一个ClojureScript库，旨在提供更好的clojurescript / javascript互操作，测试和文档工具.
-- [Pylon](https://github.com/bodil/pylon) -  100％Clojurescript中的Javascript类系统.
+- [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
+- [Jayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
+- [Purnam](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
+- [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 
 ### Miscellaneous
-- [Automat](https://github.com/ztellman/automat) - 一个用于定义和使用有限状态自动机的Clojure（脚本）库，受Ragel的启发.
-- [Bardo](https://github.com/pleasetrythisathome/bardo) - 用于功能插值和转换的Clojure（脚本）库.
-- [core.async](https://github.com/clojure/core.async/) -  Clojure（脚本）库，旨在为异步编程和通信提供便利.
-- [Entanglement](https://github.com/Frozenlock/entanglement) - 它从其他原子创建原子并将数据链接在一起.
-- [Garden](https://github.com/noprompt/garden) - 用于在Clojure和ClojureScript中渲染CSS的库.
-- [inflections-clj](https://github.com/r0man/inflections-clj) - 用于Clojure和ClojureScript的类似Rails的变形库.
-- [Instaparse](https://github.com/lbradstreet/instaparse-cljs) - 它旨在成为在ClojureScript中构建解析器的最简单方法.
-- [Keybind](https://github.com/piranha/keybind) - 用于在浏览器中处理键绑定（快捷方式）的库.
-- [markdown-clj](https://github.com/yogthos/markdown-clj) -  Clojure / ClojureScript中的Markdown解析器.
-- [om-tools](https://github.com/plumatic/om-tools) - 它旨在提供使用Om的API构建组件时经常有用的高阶抽象和实用程序.
-- [Quil](https://github.com/quil/quil) - 处理和图形编程库.
-- [reforms](https://github.com/bilus/reforms) -  Om和Reagent的美丽Bootstrap 3表格.
-- [reagent-forms](https://github.com/reagent-project/reagent-forms/) - 试剂的Bootstrap表单组件.
-- [Respo](https://github.com/mvc-works/respo) - 受React启发的A ** Respo ** nsive DOM库.
-- [Sepal.clj](https://github.com/Cirru/sepal.clj) - 使用宏系统从字符串和向量的向量生成Clojure代码的库.
-- [Truss](https://github.com/ptaoussanis/truss) -  Clojure / ClojureScript的自称断言API.
+- [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+- [Bardo](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
+- [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
+- [Entanglement](https://github.com/Frozenlock/entanglement) – It creates atoms from other atoms and links the data together.
+- [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
+- [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
+- [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
+- [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
+- [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
+- [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
+- [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
+- [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
+- [Respo](https://github.com/mvc-works/respo) – A **Respo**nsive DOM library, inspired by React.
+- [Sepal.clj](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
+- [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### [React.js](https://facebook.github.io/react/) Interface
-- [Brutha](https://github.com/weavejester/brutha) -  React的简单而实用的ClojureScript接口.
-- [Om](https://github.com/omcljs/om) -  React的强大接口，利用其面向对象的结构.
-- [Quiescent](https://github.com/levand/quiescent) - 它有利于功能性风格，完全无国籍.
-- [re-com](https://github.com/Day8/re-com) -  Reagent可重用组件的ClojureScript库.
-- [Reagent](http://reagent-project.github.io/) - 简约，功能齐全.
-- [Rum](https://github.com/tonsky/rum) -  Decomplected，可扩展，简单.
+- [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
+- [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
+- [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
+- [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
+- [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
+- [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 
 
 ### Reactive Programming
-- [Javelin](https://github.com/hoplon/javelin) -  ClojureScript的功能反应式编程库.
-- [Manifold-cljs](https://github.com/dm3/manifold-cljs) - 港口 [Manifold](https://github.com/ztellman/manifold) 到ClojureScript.
-- [Reagi](https://github.com/weavejester/reagi) - 用于Clojure和ClojureScript的FRP库，构建于core.async之上.
-- [rx-cljs](https://github.com/leonardoborges/rx-cljs) - 用于Javascript的Reactive Extensions（Rx）的ClojureScript包装器.
-- [Yolk](https://github.com/Cicayda/yolk) - 一个围绕bacon.js的瘦ClojureScript包装器.
+- [Javelin](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
+- [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold](https://github.com/ztellman/manifold) to ClojureScript.
+- [Reagi](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
+- [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
+- [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### Routing
-- [Bidi](https://github.com/juxt/bidi) -  Clojure（脚本）数据驱动的路由库.
-- [Router](https://github.com/darkleaf/router)   - 用于Clojure / Script的双向环路由器.  REST面向.
-- [Secretary](https://github.com/gf3/secretary) -  ClojureScript的客户端路由器.
-- [Silk](https://github.com/DomKM/silk) - 用于Clojure和ClojureScript的同构路由库.
+- [Bidi](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
+- [Router](https://github.com/darkleaf/router) – Bidirectional Ring router for Clojure/Script. REST oriented.
+- [Secretary](https://github.com/gf3/secretary) – A client-side router for ClojureScript.
+- [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 
 ### State Management
-- [component](https://github.com/stuartsierra/component) - 在Clojure（脚本）中管理有状态对象的生命周期.
-- [hodgepodge](http://funcool.github.io/hodgepodge/) -  HTML5存储的惯用ClojureScript接口.
-- [mount](https://github.com/tolitius/mount) - 一个美丽的惯用状态管理库.
-- [plato](https://github.com/eneroth/plato) - 在ClojureScript中将原子状态持续保存到本地存储.
-- [storage-atom](https://github.com/alandipert/storage-atom) - 由HTML5 Web存储支持的ClojureScript原子.
-- [Waltz](https://github.com/ibdknox/waltz) -  ClojureScript库，可帮助使用非确定性有限状态机管理客户端应用程序中的状态.
+- [component](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
+- [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
+- [mount](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
+- [plato](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
+- [storage-atom](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
+- [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
 ### Testing
-- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) -  ClojureScript的集成测试框架（合并自 [clojurescript.test](https://github.com/cemerick/clojurescript.test)) 
-- [Expectations](http://jayfields.com/expectations/) - 极简主义的单元测试框架.
-- [Speclj](https://github.com/slagyr/speclj) -  Clojure和ClojureScript的TDD / BDD框架.
-- [test.check](https://github.com/clojure/test.check) - 受QuickCheck启发的基于属性的生成测试工具.
+- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test)) 
+- [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
+- [Speclj](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
+- [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
 
 
 ### Validation
-- [Bouncer](https://github.com/leonardoborges/bouncer) - 用于Clojure和Clojurescript应用程序的验证DSL.
-- [Validateur](http://clojurevalidations.info/) - 受Ruby的ActiveModel启发的Clojure验证库.
+- [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
+- [Validateur](http://clojurevalidations.info/) – A Clojure validation library inspired by Ruby's ActiveModel.
 
 
 ### Web Framework & Template
-- [atw-om](https://github.com/zaiste/atw-om) - 使用Clojure / Compojure，ClojureScript / Om和core.async的Web应用程序模板.
-- [Chestnut](https://github.com/plexus/chestnut) - 带有实时重新加载的ClojureScript / Om的应用程序模板.
-- [Clops](https://github.com/sveri/closp) - 一个固定的，完整的堆栈和易于使用的Web框架.
-- [descjop](https://github.com/karad/lein_template_descjop) - 使用Electron的基于Web的桌面应用程序的模板.
-- [electron-template](https://github.com/ducky427/electron-template) - 使用Electron，ClojureScript和Reagent创建基于Web的桌面应用程序的模板.
-- [Fulcro](http://fulcrologic.github.io/fulcro) - 用于在clj / cljs中开发单页全栈Web应用程序的库.
-- [Hoplon](http://hoplon.io) - 在Clojure和ClojureScript，客户端和服务器端编写所有内容.
-- [Keechma](http://keechma.com) -  ClojureScript和Reagent的微前端框架.
-- [Luminus](http://www.luminusweb.net/) - 旨在提供强大，可扩展且易于使用的平台.
-- [Macchiato](https://github.com/macchiato-framework/macchiato-core) - 它旨在为Node.js提供一个易于使用的平台.
-- [Mies](https://github.com/swannodette/mies) - 最小的ClojureScript项目模板.
-- [Precept](https://github.com/CoNarrative/precept) - 声明性编程框架.
-- [re-frame](https://github.com/Day8/re-frame) -  Clojurescript中用于编写SPA的试剂框架.
-- [Tenzing](http://martinklepsch.github.io/tenzing/) - 没有使用Boot的后端的ClojureScript模板.
-- [WebFUI](https://github.com/drcode/webfui) -  ClojureScript的客户端Web框架.
+- [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
+- [Chestnut](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
+- [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
+- [descjop](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [electron-template](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+- [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
+- [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
+- [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
+- [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
+- [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
+- [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
+- [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
+- [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
+- [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 
 ### WebSockets
-- [Chord](https://github.com/jarohen/chord) - 旨在弥合CLJ / CLJS，web-socket和core.async三元组之间的差距.
-- [Sente](https://github.com/ptaoussanis/sente) -  Clojure（脚本）+ core.async + WebSockets / Ajax.
+- [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+- [Sente](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
 
 * * *
 
 
 ## Contributing
- 欢迎所有的贡献.  请阅读 [Contributing](https://github.com/hantuzun/awesome-clojurescript/blob/master/CONTRIBUTING.md) 在打开拉取请求之前.
+All contributions are welcome. Please read [Contributing](https://github.com/hantuzun/awesome-clojurescript/blob/master/CONTRIBUTING.md) before opening a pull request.
 
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-[Han Tuzun](http://hantuzun.com) 在法律允许的范围内，根据版权法，包括所有相关和相邻权利，放弃他在全球范围内工作的所有权利，将工作投入到公有领域.
+[Han Tuzun](http://hantuzun.com) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-您可以复制，修改，分发和执行工作，即使是出于商业目的，也可以不经许可.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.

@@ -3,173 +3,173 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/Calinou/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选的清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游戏，插件，附加组件和脚本 [Godot](https://godotengine.org).
+A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
 
 
 ## Games
 
-*使用戈多的游戏.*
+*Games that use Godot.*
 
 ### 2D
 
-- [Blipshift](https://github.com/wardsky/blipshift) - 简单的自上而下移动平台游戏.
-- [BlockPop](https://github.com/vnen/blockpop) - 一个简单的突破克隆.
-- [Bombs](https://github.com/randyyaj/Bombs)   - 简单的手机游戏.  你需要触摸炸弹来化解它们.
-- [Breakable](https://github.com/didier-v/breakable)   - 类似突破的游戏.  与Godot 3.0兼容.
-- [Drone Commander](https://github.com/securas/Drone_Commander)   - 命令成群的无人机对抗外星人.  专为CGA JAM而制造.
-- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)   - 详细世界中的探索性平台游戏.  面向年轻球员.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - 平台游戏为A Game By It Cover 2015 Game Jam制作.
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - 炸弹人克隆在幻想世界.
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -  Ludum Dare 33小时入场.
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - 弹球游戏.
-- [Memory Game](https://github.com/Tzoop/MemoryGame) - 简单记忆游戏.
-- [Minehunter](https://github.com/genete/Minehunter) - 扫雷克隆.
-- [Minilens](http://kobuge-games.github.io/minilens/) - 免费益智平台游戏.
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - 剧场游戏果酱游戏（PGA 2015）
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - 小型跑步游戏，1小时挑战.
-- [No hope](https://github.com/sergicollado/no_hope_LD33) -  Ludum Dare 33小时入场.
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 在外星环境中的2D物理跑酷游戏.
-- [Platshoot](https://github.com/Calinou/platshoot) -  2D射击游戏.
-- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - 自上而下的射击游戏，具有广泛的灯光效果.
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - 免费回合制等距战略游戏.
-- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - 为2016年3月的Godot Engine Jam制作的老鼠突围游戏.
+- [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
+- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
+- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0.
+- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
+- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
+- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
+- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
+- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
+- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone.
+- [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
+- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
+- [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
+- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
+- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
+- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
+- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### 3D
 
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) -  2016年3月Godot Engine Jam游戏.
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - 由Metroid Prime启发的低端都市电视FPS，为LOWREZJAM 2018制作.
-- [MouseBoat](https://github.com/CowThing/MouseBoat)   - 作为鼠标玩耍并在池塘中航行.  扔你的杆，并尝试捕捉一些鱼.
-- [Super Tux Party](https://anti.itch.io/super-tux-party) - 免费/自由和开源派对游戏，旨在复制马里奥派对等游戏的感觉.
-- [Veraball](https://github.com/Veraball/veraball)   - 免费“滚球”游戏.  收集硬币并到达终点，不会掉出水平.
+- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
+- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
+- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
+- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
 ## Demos
 
-*演示学习GDScript，其概念和各种游戏功能.*
+*Demos to learn GDScript, its concepts, and various game features.*
 
-- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - 利用细胞自动机方法的简单洞穴发生器.
-- [FPS Test](https://github.com/Calinou/fps-test)   - 单人FPS测试.  物理工作，但没有敌人，没有适当的射击.
-- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) -  HTTP 1.0文件服务器.
-- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -  RPG演示（Godot 3.0）.
-- [OpenRPG](https://github.com/GDquest/godot-open-rpg) -  JRPG风格的游戏演示和模板（Godot 3.1）.
-- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 使用tilemap演示寻路的演示项目.
-- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 允许您连接到服务器并查看联网物理.
-- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
-- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - 类似Minecraft的体素地形演示.
-- [voxelgame](https://github.com/Zylann/voxelgame) - 使用godot_voxel模块的类似Minecraft的体素地形演示.
+- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method.
+- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
+- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
+- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0).
+- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
+- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
+- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
+- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
+- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
 
 ## Tutorials
 
-*可以找到更完整的列表
+*A more complete list can be found in
 [this Reddit thread](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/).*
 
 ### Text tutorials
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - 对Godot的逐步介绍.
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
 
 ### Video tutorials
 
-- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - 关于3D，着色器，VR和GDNative的教程.
+- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
-- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - 关于2D和3D游戏开发的教程.
+- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
-- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - 关于3D效果和复制知名游戏概念的教程.
+- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
 
 ## Themes
 
-* Godot游戏或用户界面的主题.*
+*Themes for your Godot games or user interface.*
 
 - [Arc/Arc Dark](https://github.com/Geequlim/godot-themes)
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - 干净，现代的黑暗主题.
+- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
 
-* Stuff集成到Godot核心（C ++）.*
+*Stuff integrated into Godot core (C++).*
 
-- [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-- [godot-python](https://github.com/touilleMan/godot-python) - 对Godot 3的Python支持.
-- [godot-enet-better](https://github.com/Faless/godot-enet-better) - 使用Godot进行高性能多人游戏的更好的ENet模块.
-- [godot-voxel](https://github.com/Zylann/godot_voxel) - 用于在Godot Engine中创建体积世界的模块.
-- [Gdnet](https://github.com/empyreanx/gdnet) - 戈多的ENet包装.
-- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - 戈多3的ENet包装.
+- [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine.
+- [Gdnet](https://github.com/empyreanx/gdnet) - An ENet wrapper for Godot.
+- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - 在Godot中使用原生对话框.
-- [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) 包裹戈多.
-- [RawPacker](https://github.com/empyreanx/rawpacker) -  RawArray的简单二进制打包/解包.
-- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
+- [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
+- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 - [WaterSplash 2D node](https://github.com/laverneth/water)
 
 ## Plugins and scripts
 
-*脚本，让你做新的东西，或增强戈多功能.*
+*Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives](https://github.com/TheHX/add_primitives) - 轻松添加圆柱体，球体，立方体.
-- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - 从中​​导入打包的地图集的插件 [TexturePacker](https://www.code和web.com/texturepacker), [Attila](https://github.com/r-lyeh-archived/attila) 和 [Kenney Assets](https://kenney.nl/assets).
-- [Auto Tile Layer](https://github.com/leezh/autotile) - 允许使用RPG Maker的Autotile格式自动进行2D平铺.
-- [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -  Camera2D的屏幕抖动效果.
-- [Create Tileset](https://github.com/vinod8990/godot_plugins) - 基于图集图像生成戈多图块集的插件.
-- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
-- [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳（Robert Penner）缓和方程式的一个端口.
-- [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架.
-- [Example Model Importer](https://github.com/TheHX/godot_examples) - 导入具有反向法线的模型的脚本（概念证明）.
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
-- [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
-- [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.
-- [Godot NExt](https://github.com/willnationsdev/godot-next) -  Godot的一组基本节点扩展.
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 戈多的通知中心.
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在RPG对话框中）.
-- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - 处理大量草，叶和其他植被的插件.
-- [gterm](https://github.com/TeddyDD/gterm) -  GUI控件，绘制类似于\ * nix终端仿真器的东西.
-- [GUT](https://github.com/bitwes/Gut) - 在GDScript中编写单元测试的实用程序.
-- [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - 将高度图制作成地形.
-- [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - 允许您使用浏览器轻松集成OpenClipArt资源.
-- [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
-- [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - 轻松切换分辨率，进行测试.
-- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 戈多的滚动背景节点.
-- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 一个可以定制的对话系统和编辑器，非常适合故事驱动的游戏.
-- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - 简单的游戏手柄支持GNU / Linux和Windows.
-- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).
-- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - 从中​​导入切片贴图的插件 [Tiled](https://www.mapeditor.org/) 为戈多2.1.
-- [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - 构建tilesets.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建风格的瓷砖组.
-- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - 使用简单的API创建冒险/ VN / IF游戏（前驱 [this](https://github.com/Biarity/Godot-Adventure-Framework)).
+- [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh-archived/attila) and [Kenney Assets](https://kenney.nl/assets).
+- [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
+- [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
+- [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images.
+- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays.
+- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
+- [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
+- [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions.
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue).
+- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
+- [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
+- [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
+- [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+- [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
+- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
+- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
+- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
+- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](https://www.mapeditor.org/).
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](https://www.mapeditor.org/) for Godot 2.1.
+- [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
+- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (precursor to [this](https://github.com/Biarity/Godot-Adventure-Framework)).
 
 ## GDScript editor support
 
-*实现GDscript支持的文本编辑器的附加组件.*
+*Add-ons for text editors that implement GDscript support.*
 
-- [Atom](https://atom.io/packages/lang-gdscript) - 语法高亮显示.
-- [Geany](https://github.com/haimat/GDScript-Geany) - 语法高亮显示.
-- [Gedit](https://github.com/haimat/GDScript-gedit) - 语法高亮显示.
-- [Sublime Text](https://github.com/beefsack/GDScript-sublime) - 语法高亮显示.
-- [Vim](https://github.com/calviken/vim-gdscript3)   - 语法高亮，自动完成和linting.  还支持Godot着色器语言.
-- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - 具有丰富的功能，使您的编程体验尽可能舒适.
+- [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
+- [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
+- [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
+- [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
+- [Vim](https://github.com/calviken/vim-gdscript3) - Syntax highlighting, autocompletion and linting. Also supports the Godot shader language.
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes
 
-*内置脚本编辑器的替代主题.*
+*Alternative themes for the built-in script editor.*
 
-- [base16-godot](https://github.com/Calinou/base16-godot) - 全部 [base16](https://github.com/chriskempson/base16) 主题.
-- [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) -  Chester，Google Code Light和Monokai.
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) -  Atom Dark，Darcula，Gruvbox Dark，Metro，Monokai，One Dark，Solarized Dark.
+- [base16-godot](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) themes.
+- [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark.
 
 ## Unofficial Godot builds
 
-*这些版本将允许您使用最新版本的Godot Git，但它们可能不如官方版本稳定 - 使用风险自负.*
+*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/)
 
 ## Other
 
-*其他的东西.*
+*Other stuff.*
 
-- [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用Node.js与Godot客户端通信.
-- [godot-ci](https://github.com/aBARICHELLO/godot-ci)   -  Docker图像通过CI导出Godot游戏.  包括GitLab CI脚本示例.
-- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - 自动下载并启动Godot最新版本的脚本，或者编译并启动Git`master`分支.
-- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - 帮助Debian和Ubuntu用户安装和使用Godot的脚本.
-- [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - 为所有支持的平台生成游戏手柄映射的工具.
-- [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - 使用一个主文件更新文件副本的脚本.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -  Perl脚本将网格spritesheet图像拆分为编号的单个帧文件.
+- [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
+- [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
+- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
+- [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
+- [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.

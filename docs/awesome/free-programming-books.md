@@ -1,20 +1,20 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
-此页面以易于阅读的网站提供 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [View the English list](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
 
 ## Intro
-这个列表最初是克隆 [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) Karan Bhangui和George Stocker的贡献.
+This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
- 该列表由Victor Felder移至GitHub进行协作更新和维护.  它已经发展成为其中之一 [most popular repositories on Github](https://octoverse.github.com/)拥有超过100,000颗星，超过4500个提交，超过950个贡献者和超过25,000个分支.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 100,000 stars, over 4500 commits, over 950 contributors, and over 25,000 forks.
 
-回购现在由管理 [Free Ebook Foundation](https://ebookfoundation.org)，一个致力于促进免费电子书的创建，分发，存档和可持续性的非营利组织. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
+The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 ### How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md) .  如果你是Github的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
+Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md). If you're new to Github, [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
 
 ### How to Share
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
@@ -77,7 +77,7 @@
 
 
 ### Podcast - Screencast
-免费播客和截屏视频：
+Free Podcasts and Screencasts:
 
 + [Czech](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-cs.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-en.md)
@@ -90,4 +90,4 @@
 + [Free Programming Playgrounds](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-playgrounds.md)
 
 ## License
-此存储库中包含的每个文件都是根据 [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).
+Each file included in this repository is licensed under the [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master//LICENSE).

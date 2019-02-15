@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="tramcar/awesome-job-boards"></div>
 ## Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的利基职位委员会的精选列表.
+A curated list of awesome niche job boards.
 
 
 
@@ -11,7 +11,7 @@
 
 ## Blockchain
 
-* [Blocktribe](https://blocktribe.com/) - 为“区块链，DLT，以太坊，Hyperledger，R3，加密货币和相关分布式技术”工作的人员提供的工作委员会.
+* [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 
 ## Customer Support
@@ -21,7 +21,7 @@
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://www.authenticjobs.com/) - “设计师，黑客和创意专业人士的主要工作板.”
+* [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](http://ixda.org/jobs/)
@@ -40,7 +40,7 @@
 
 ## InfoSec
 
-* [NinjaJobs](https://ninjajobs.org/) - 由InfoSec专业人员开发的社区运营工作平台
+* [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 
 ## Programming
 
@@ -54,7 +54,7 @@
 
 ### Functional
 
-* [Functional Jobs](https://functionaljobs.com/) - 功能程序员的工作板
+* [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -80,7 +80,7 @@
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [WPhired](https://www.wphired.com/) -  WordPress工作
+* [WPhired](https://www.wphired.com/) - WordPress Jobs
 
 ### Python
 
@@ -117,19 +117,19 @@
 
 ### Australia
 
-* [austechjobs.com.au](https://austechjobs.com.au/) - 高级澳大利亚技术职位委员会
+* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
 
 ### Canada
 
-* [Work in Tech](https://www.workintech.ca/) - 多伦多 - 滑铁卢地区走廊工作
+* [Work in Tech](https://www.workintech.ca/) - Toronto-Waterloo Region Corridor Jobs
 
 ### Europe
 
-* [careerin.tech](https://careerin.tech) - 柏林科技与IT世界的工作板和公司列表
+* [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 
 ### United States
 
-* [DallasJobs](https://www.dallasjobs.io/) - 达拉斯/沃斯堡最好的科技工作
+* [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
 
 ### Free & Open Source
 

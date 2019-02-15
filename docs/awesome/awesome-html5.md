@@ -1,13 +1,13 @@
 <div class="github-widget" data-repo="diegocard/awesome-html5"></div>
-非常棒的HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
+Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
- 精选HTML5资源的精选列表.  灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php) 和 [awesome-python](https://github.com/vinta/awesome-python)
+A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
 
 
 ## Articles and standards
 
-* [HTML 5.3](https://w3c.github.io/html/) - 当前的HTML5规范
+* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
 * [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
@@ -70,16 +70,16 @@
 
 ### Media Elements
 
-*音频和视频
+* Audio and Video
   - [audio tag from W3Schools](https://www.w3schools.com/tags/tag_audio.asp)
   - [video tag from W3 Schools](https://www.w3schools.com/tags/tag_video.asp)
   - [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
   - [Capturing audio and video in HTML5](https://www.html5rocks.com/en/tutorials/getusermedia/intro/)
-*嵌入标签
+* embed tag
   - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_embed.asp)
-*源标签
+* source tag
   - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_source.asp)
-*跟踪标签
+* track tag
   - [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_track.asp)
 
 ### Forms
@@ -244,7 +244,7 @@
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](https://www.html5rocks.com/en/tutorials/speed/quick/)
-* [使用Kendo UI构建移动应用程序] https://docs.telerik.com/kendo-ui/controls/hybrid/introduction）
+* [Build mobile apps with Kendo UI]https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](https://eprint.iacr.org/2015/616.pdf)
@@ -296,7 +296,7 @@
 * [HTML 5 game development video series by Mozilla](https://hacks.mozilla.org/2016/02/html-5-game-development-video-series/)
 * [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
-*开源JavaScript游戏引擎
+* Opensource JavaScript game engines
   - [Pixi.js](https://github.com/pixijs/pixi.js)
   - [phaser](https://github.com/photonstorm/phaser)
   - [MelonJS](https://github.com/melonjs/melonJS)
@@ -317,12 +317,12 @@
 
 ### Websites
 
-* [HTML5 Rocks](https://www.html5rocks.com/en/) （新闻，教程和更新）
-* [HTML5 Gallery](http://html5gallery.com/) （展示使用HTML5标记和API的网站）
+* [HTML5 Rocks](https://www.html5rocks.com/en/) (news, tutorials and updates)
+* [HTML5 Gallery](http://html5gallery.com/) (a showcase of sites using HTML5 markup and API's)
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
-* [HTML5 Please](https://html5please.com/) （知道HTML5功能何时可以使用）
-* [Keen HTML](https://keenhtml.com) （学习HTML的免费互动课程）
+* [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
+* [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
 
 ### Weekly news
 
@@ -348,4 +348,4 @@
 
 ## Contributing
 
-欢迎您的贡献！
+Your contributions are always welcome!

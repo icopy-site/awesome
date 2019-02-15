@@ -5,120 +5,120 @@
 
 ## Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; JavaScript Promises的有用资源的精选列表
+> A curated list of useful resources for JavaScript Promises
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  不要与其他令人敬畏的承诺相混淆，例如“我向你保证一百万美元”或“我保证你会保持健康，永远不必再去健身房”.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 
 
 ## Resources, Blogs, and Books
 
 ### For beginners
-* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook)   - 原因，内容和方式.  “简介[...]主要针对前端开发人员”.
-* [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - 章节来自 [Exploring ES6](http://exploringjs.com/)
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - 章节来自 [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
-* [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) -  JavaScript本机承诺实现的基础知识.
-* [JavaScript with Promises](http://shop.oreilly.com/product/0636920032151.do)   - 来自O&#39;Reilly.  精炼到位.  使用原生和蓝鸟.
-* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) - 互动 [nodeschool](https://nodeschool.io/) 作坊
-* [ES6 Kata Promises](http://es6katas.org/) -  Promises Katas： [Basics](http://tddbin.com/#?kata=es6/language/promise/basics)
+* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
+* [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
+* [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
+* [JavaScript with Promises](http://shop.oreilly.com/product/0636920032151.do) - from O'Reilly. Short and to-the-point. Uses native and bluebird.
+* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) - An interactive [nodeschool](https://nodeschool.io/) workshop
+* [ES6 Kata Promises](http://es6katas.org/) - Promises Katas : [Basics](http://tddbin.com/#?kata=es6/language/promise/basics)
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
-* [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - 面向初学者的常见问题解答风格教程.
+* [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - An FAQ styled tutorial for beginners.
 
 ### Deep Dive
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) -  @ sindresorhus的常见Promise问题的注释，模式和解决方案
-* [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) -  Promise不仅仅是回调聚合，而jQuery的实现（3.0之前）是不够的.
-* [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - “我们中的许多人在没有真正理解他们的情况下使用承诺.”
-* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - 常见的误用以及如何避免它们.
-* [Promise anti-patterns (2)](http://taoofcode.net/promise-anti-patterns/) - 另一套承诺反模式
-* [Promise Ponderings, (Anti-)Patterns, and Apologies](https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/) - 承诺行为通过常见问题及其答案得到证明和解释.
-* [Javascript Promises...In Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/) - 重新创建promise实现
-* [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide) - “本文档提供了有关如何编写创建，接受或操纵承诺的规范的指导”
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) - @sindresorhus's notes, patterns, and solutions to common Promise problems
+* [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
+* [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
+* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) - Common misuses and how to avoid them.
+* [Promise anti-patterns (2)](http://taoofcode.net/promise-anti-patterns/) - Another set of promises anti-patterns
+* [Promise Ponderings, (Anti-)Patterns, and Apologies](https://sdgluck.github.io/2015/08/24/promise-ponderings-patterns-apologies/) - Promise behaviour demonstrated and explained by common questions and their answers.
+* [Javascript Promises...In Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/) - Recreate the promise implementation
+* [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide) - "This document gives guidance on how to write specifications that create, accept, or manipulate promises"
 * [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
 
 ### References
 * [Promises/A+ specification](https://promisesaplus.com/)
 * [caniuse promises](http://caniuse.com/#feat=promises)
-* [Fates and States](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md) - 快速定义可能的状态.
-* [Promisees](https://bevacqua.github.io/promisees/) - 为冒险者提供可视化的游乐场.
+* [Fates and States](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md) - Quick definitions of possible states.
+* [Promisees](https://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous.
 
 ## Promises/A+ Implementations (ES6/ES2015 compatible)
 
 ### Strict Implementations
- 这些实现不超过或少于es6规范.  它们可以制成出色的填充剂，并且与原生承诺非常相容.
+These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
-* [pinkie](https://github.com/floatdrop/pinkie)   -  Ponyfill.  面向节点，但是 [browserifyable](https://github.com/substack/node-browserify) .  *极其小*的实施.
-* [native-promise-only](https://github.com/getify/native-promise-only)   -  Polyfill.  浏览器和节点兼容.
-* [es6-promise](https://github.com/stefanpenner/es6-promise)   - 选择性填充.  rsvp.js的严格规范子集
-* [lie](https://github.com/calvinmetcalf/lie) - 小巧，可浏览，并具有选择性填充.
+* [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation.
+* [native-promise-only](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible.
+* [es6-promise](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js.
+* [lie](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill.
 
 ### Implementations with extras
- 所有这些都提供了比语言更多的功能，但仍保持兼容.  节点+浏览器适合所有人.
+All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird)   - 功能齐全，性能极佳.  长堆栈跟踪和发电机/协程支持.
-* [creed](https://github.com/briancavalier/creed)   - 像Bluebird一样的高性能和全功能，但面向FP.  协同程序，生成器，承诺，ES2015迭代，幻想土地规范.
-* [rsvp.js](https://github.com/tildeio/rsvp.js/)   - 轻量级，额外的一些.  兼容IE6！
-* [Q](https://github.com/kriskowal/q)   - 原始实现之一.  长堆栈痕迹和其他好东西.
-* [then/promise](https://github.com/then/promise) - 使用`nodeify`，`denodify`和`done（）`添加小.
-* [when.js](https://github.com/cujojs/when) - 包含控制流程，功能和实用方法.
+* [bluebird](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [creed](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
+* [rsvp.js](https://github.com/tildeio/rsvp.js/) - Lightweight with a few extras. Compatible down to IE6!
+* [Q](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies.
+* [then/promise](https://github.com/then/promise) - Small with `nodeify`, `denodify` and `done()` additions.
+* [when.js](https://github.com/cujojs/when) - Packed with control flow, functional, and utility methods.
 
 
 ### Fallbacks
-* [native-or-bluebird](https://www.npmjs.com/package/native-or-bluebird) - 帮助过渡到完全原生.
-* [pinkie-promise](https://github.com/floatdrop/pinkie-promise)   - 使用原生，或回到&#39;小指&#39;.  非常适合节点库作者.
-* [any-promise](https://github.com/kevinbeaty/any-promise)   - 加载第一个可用的实现.  浏览器安全.
+* [native-or-bluebird](https://www.npmjs.com/package/native-or-bluebird) - Helps transition to completely native.
+* [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Use native, or fall back to `pinkie`. Great for node library authors.
+* [any-promise](https://github.com/kevinbeaty/any-promise) - Loads the first available implementation. Safe for browserify.
 
 ## Convenience Utilities
- 本机和严格符合规范的承诺对于兼容性，面向未来，库作者和浏览器而言非常棒.  但是，像bluebird这样的库会将好东西打包到`Promise`构造函数和原型上.  解？  当然很小的模块！
+Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun))
-* [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
-* [pify](https://github.com/sindresorhus/pify) -  Promisify（“denodify”）一个回调式函数.
-* [loud-rejection](https://github.com/sindresorhus/loud-rejection) - 使未处理的承诺拒绝大声失败而不是默认的无声失败.
-* [hard-rejection](https://github.com/sindresorhus/hard-rejection) - 使未处理的承诺拒绝立即失败，而不是默认的无声失败
-* [p-queue](https://github.com/sindresorhus/p-queue) - 使用并发控制的Promise队列
-* [p-break](https://github.com/sindresorhus/p-break) - 打破承诺链
-* [p-lazy](https://github.com/sindresorhus/p-lazy) - 创建一个延迟执行的延迟，直到调用`.then（）`或`.catch（）`
-* [p-defer](https://github.com/sindresorhus/p-defer) - 创建延期承诺
-* [p-if](https://github.com/sindresorhus/p-if) - 有条件的承诺链
-* [p-tap](https://github.com/sindresorhus/p-tap) - 点击承诺链而不影响其价值或状态
-* [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺
-* [p-all](https://github.com/sindresorhus/p-all) - 使用可选的有限并发运行promise-returns和async函数
-* [p-limit](https://github.com/sindresorhus/p-limit) - 运行具有有限并发性的多个promise-returns和async函数
-* [p-times](https://github.com/sindresorhus/p-times) - 同时运行promise-returns和async函数特定次数
-* [p-catch-if](https://github.com/sindresorhus/p-catch-if) - 条件承诺捕获处理程序
-* [p-time](https://github.com/sindresorhus/p-time) - 衡量承诺解决的时间
-* [p-log](https://github.com/sindresorhus/p-log) - 记录承诺的值/错误
-* [p-filter](https://github.com/sindresorhus/p-filter) - 同时过滤承诺
-* [p-settle](https://github.com/sindresorhus/p-settle) - 同时解决承诺并获得履行价值或拒绝原因
-* [p-memoize](https://github.com/sindresorhus/p-memoize) -  Memoize promise-returns和async函数
-* [p-whilst](https://github.com/sindresorhus/p-whilst) - 当条件返回true时重复调用函数，然后解析promise
-* [p-throttle](https://github.com/sindresorhus/p-throttle) - 节流承诺 - 返回和异步功能
-* [p-debounce](https://github.com/sindresorhus/p-debounce) - 去抖承诺 - 返回和异步功能
-* [p-retry](https://github.com/sindresorhus/p-retry) - 重试promise-returns或async函数
-* [p-wait-for](https://github.com/sindresorhus/p-wait-for) - 等待条件成立
-* [p-timeout](https://github.com/sindresorhus/p-timeout) - 在指定的时间后超时承诺
-* [p-race](https://github.com/sindresorhus/p-race) - 更好的`Promise.race（）`
+* [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+* [pify](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
+* [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+* [hard-rejection](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
+* [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
+* [p-break](https://github.com/sindresorhus/p-break) - Break out of a promise chain
+* [p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
+* [p-defer](https://github.com/sindresorhus/p-defer) - Create a deferred promise
+* [p-if](https://github.com/sindresorhus/p-if) - Conditional promise chains
+* [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
+* [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
+* [p-all](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
+* [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
+* [p-times](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently
+* [p-catch-if](https://github.com/sindresorhus/p-catch-if) - Conditional promise catch handler
+* [p-time](https://github.com/sindresorhus/p-time) - Measure the time a promise takes to resolve
+* [p-log](https://github.com/sindresorhus/p-log) - Log the value/error of a promise
+* [p-filter](https://github.com/sindresorhus/p-filter) - Filter promises concurrently
+* [p-settle](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason
+* [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
+* [p-whilst](https://github.com/sindresorhus/p-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise
+* [p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
+* [p-debounce](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions
+* [p-retry](https://github.com/sindresorhus/p-retry) - Retry a promise-returning or async function
+* [p-wait-for](https://github.com/sindresorhus/p-wait-for) - Wait for a condition to be true
+* [p-timeout](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time
+* [p-race](https://github.com/sindresorhus/p-race) - A better `Promise.race()`
 * [p-try](https://github.com/sindresorhus/p-try) - `Promise#try()` ponyfill - Starts a promise chain
 * [p-finally](https://github.com/sindresorhus/p-finally) - `Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome
-* [p-any](https://github.com/sindresorhus/p-any) - 等待任何承诺得到履行
-* [p-some](https://github.com/sindresorhus/p-some) - 等待达到指定数量的承诺
-* [p-pipe](https://github.com/sindresorhus/p-pipe) - 将promise-returns和async函数编写到可重用的管道中
-* [p-each-series](https://github.com/sindresorhus/p-each-series) - 连续迭代承诺
-* [p-map-series](https://github.com/sindresorhus/p-map-series) - 按顺序映射承诺
-* [p-reduce](https://github.com/sindresorhus/p-reduce) - 使用promises将值列表减少为值的承诺
-* [p-props](https://github.com/sindresorhus/p-props) - 像`Promise.all（）`，但是对于`Map`和`Object`
+* [p-any](https://github.com/sindresorhus/p-any) - Wait for any promise to be fulfilled
+* [p-some](https://github.com/sindresorhus/p-some) - Wait for a specified number of promises to be fulfilled
+* [p-pipe](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline
+* [p-each-series](https://github.com/sindresorhus/p-each-series) - Iterate over promises serially
+* [p-map-series](https://github.com/sindresorhus/p-map-series) - Map over promises serially
+* [p-reduce](https://github.com/sindresorhus/p-reduce) - Reduce a list of values using promises into a promise for a value
+* [p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 
 ### Others
-* [promise-method](https://github.com/wbinnssmith/promise-method)   - 独立`bluebird.method`.  将同步返回方法转换为promise返回方法.
-* [is-promise](https://github.com/then/is-promise) - 确定某些东西是否像Promise.
-* [sprom](https://github.com/then/sprom)   - 流结束时解析.  可选缓冲（小心这个！）
-* [task.js](https://github.com/mozilla/task.js)   - 使用promises和generator以阻塞样式编写异步函数.  喜欢`bluebird.coroutine`.
-* [co](https://github.com/tj/co) - 像`task.js`和`bluebird.coroutine`，但也支持thunks.
-* [lie-fs](https://www.npmjs.com/package/lie-fs) - 承诺Node的FS API的包装器.
-* [promise-do-until](https://github.com/busterc/promise-do-until) - 重复调用函数，直到条件返回true，然后解析promise.
-* [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - 当条件返回true时重复调用函数，然后解析promise.
-* [promise-semaphore](https://github.com/samccone/promise-semaphore) - 以可配置的串行方式完成一系列工作
-* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) - 独立的`nodeify`方法，在解析或拒绝时调用节点式回调.
+* [promise-method](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
+* [is-promise](https://github.com/then/is-promise) - Determine if something looks like a Promise.
+* [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
+* [task.js](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
+* [co](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
+* [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
+* [promise-do-until](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
+* [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
+* [promise-semaphore](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
+* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
 ## License
-许可证下 [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).

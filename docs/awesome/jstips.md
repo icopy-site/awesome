@@ -2,23 +2,23 @@
 ![header](https://github.com/loverajoel/jstips/blob/gh-pages/assets/images/jstips-animation.gif)
 
 ## JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;有用的JavaScript提示
+> Useful JavaScript tips
 
- 这是一个很棒的项目，关于简短而有用的JavaScript技巧，可以帮助您改进代码编写.  只需不到2分钟，您就可以阅读有关性能，惯例，黑客，面试问题以及这种令人敬畏的语言未来为我们所有的所有项目.
+This is an awesome project about short and useful JavaScript tips that will allow you to improve your code writing. With less than 2 minutes, you will be able to read about performance, conventions, hacks, interview questions and all the items that the future of this awesome language holds for us.
 
-经常添加提示（如果您想保持联系，请进一步阅读）.
+Tips are added frequently (read further if you want to stay in touch).
 
 ## Support the community
-如果您发现JS提示有用或者您喜欢社区的作者，那么您可以通过提示表达一些尊重和支持！
+If you found a JS Tip useful or you like a writer of the community now you are able to show some respect and support with a tip!
 
 ### Can you help us enrich it?
-当然，您可以通过两种方式帮助项目，发送提示或查看未来的提示.
-任何改进或建议都非常受欢迎！
+Sure, you can help the project in two ways, sending your tip or reviewing future tips.
+Any improvements or suggestions are more than welcome!
 [Instructions are here](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
 
 ### Let’s keep in touch
 
-有很多方法可以获得更新，选择自己
+There are a lot of ways to get updates, choose your own
 
 - [Official Blog](http://www.jstips.co)
 - [Official Twitter Account](https://twitter.com/tips_js)
@@ -30,7 +30,7 @@
 - [iOS App](https://goo.gl/Y9WiBc)
 - [Android App](https://goo.gl/lYorrU)
 
-&gt;不要忘记Star★the repo，因为这有助于推广项目！
+> Don't forget to Star★ the repo, as this helps promoting the project!
 
 ## Tips list
 

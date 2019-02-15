@@ -1,19 +1,19 @@
 <div class="github-widget" data-repo="cyberglot/awesome-answers"></div>
-真棒的答案 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-在stackoverflow，quora等上给出的鼓舞人心和深思熟虑的答案的精选列表
+Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 
 TOC
 ---
 
- - 编程语言
+ - Programming Languages
 
 Algorithms
 ---
 
  - [Algorithm: Is there a good way of solving a comparison?](http://stackoverflow.com/a/2296538/1766338)
-   - 如何识别算法的边缘情况？  [[1]]（http://qr.ae/Loah1)[ [2]]（http://programmers.stackexchange.com/a/72779）
+ - How do you identify edge cases on algorithms? [[1]](http://qr.ae/Loah1) [[2]](http://programmers.stackexchange.com/a/72779)
  - [What all basic data structures and algorithms should one learn before starting competitive programming?](http://qr.ae/LefWv)
  - [How can I be a guru in algorithms?](http://qr.ae/07Px4)
  - [Sorting 1 million 8 digit numbers in 1MB of RAM](http://stackoverflow.com/a/13067807)
@@ -24,7 +24,7 @@ Compilers
 
 - [Compilers: What is a supercompiler?](http://qr.ae/dVwDk)
 
-数据结构
+Data Structures
 ---
 
  - [Are new data structures still being invented in computer science?](http://qr.ae/QHYgb)
@@ -32,7 +32,7 @@ Compilers
  - [What are some lesser known but useful data structures?](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
  - [What are the underlying data structures used for Redis?](http://stackoverflow.com/a/9626334)
 
-功能编程
+Functional Programming
 ---
 
 - [What is a good beginning text on functional programming?](http://stackoverflow.com/a/23193)
@@ -55,7 +55,7 @@ Compilers
 - [Specification for a Functional Reactive Programming language](http://stackoverflow.com/a/5878525/1766338)
 - [What are some myths about functional programming and functional programming languages?](https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages/answer/Tikhon-Jelvis)
 
-学习编程
+Learning to program
 ---
 
  - [How can I become a world-class coder in under three years?](http://qr.ae/E8UPT)
@@ -71,7 +71,7 @@ Math
  - [Visually stunning math concepts which are easy to explain](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
  - [If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?](http://qr.ae/7PKwoT)
 
-编程语言
+Programming Languages
 ---
 
 ### Clojure
@@ -109,7 +109,7 @@ Math
 - [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)
 - [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
 - [Will WebAssembly make Javascript skills more or less valuable in the future?](http://qr.ae/7PKALb)
--  [为什么++ [[]] [+ []] + [+ []]返回字符串“10”？]（http://stackoverflow.com/a/7202287/1766338）
+- [Why does ++[[]][+[]]+[+[]] return the string “10”?](http://stackoverflow.com/a/7202287/1766338)
 - [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 - [What are the actual uses of ES6 WeakMap?](http://stackoverflow.com/a/29416340)
 
@@ -126,7 +126,7 @@ Math
 ### Ruby
  - [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
-程序设计语言理论
+Programming Languages Theory
 ---
  - [What makes a good programming language?](http://qr.ae/QHArY)
  - [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
@@ -138,7 +138,7 @@ Math
  - [If you would create a new programming language, what would it look like?](http://qr.ae/fgPsq)
  - [What is fascinating about dynamically-typed programming languages?](http://qr.ae/7PKzmF)
 
-版本控制系统
+Version Control Systems
 ---
 - [How to update GitHub forked repository?](http://stackoverflow.com/a/7244456)
 
@@ -157,4 +157,4 @@ Miscellaneous
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Ju Gonçalves](http://jugoncalv.es) 已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, [Ju Gonçalves](http://jugoncalv.es) has waived all copyright and related or neighboring rights to this work.

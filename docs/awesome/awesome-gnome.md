@@ -3,11 +3,11 @@
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
-&gt; GNOME桌面环境的_awesome_应用程序，扩展，模块，主题和工具的精选列表.
+> A curated list of _awesome_ apps, extensions, modules, themes and tools for the GNOME Desktop Environment.
 
-[GNOME](https://www.gnome.org/)  是Linux和Unix的桌面环境，旨在让用户掌控并完成工作.  它将GTK用于其应用程序，将Clutter和JavaScript用于其官方桌面shell.
+[GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unixes, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是由GNOME项目正式维护和分发的应用程序，作为核心应用程序和工具集的一部分.
+> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools.
 
 
 
@@ -17,207 +17,207 @@
 
 ### Productivity
 
-- [GNOME Todo](https://wiki.gnome.org/Apps/Todo)   - 最小的任务管理器.  ！[GNOME核心] [GNOME核心]
-- [GTimeLog](https://github.com/gtimelog/gtimelog) - 用于跟踪时间的简单应用程序.
-- [Gnome Pomodoro](http://gnomepomodoro.org/) - 简单的番茄计时器.
+- [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
+- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+- [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 
 ### Internet
 
-- [GNOME Web](https://wiki.gnome.org/Apps/Web)   -  GNOME的官方Web浏览器项目.  ！[GNOME核心] [GNOME核心]
-- [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直选项卡的Web浏览器.
-- [Geary](https://wiki.gnome.org/Apps/Geary) -  GNOME的现代邮件客户端，最初由Yorba创建.
-- [FeedReader](https://jangernert.github.io/FeedReader/) -  RSS提要阅读器.
-- [Corebird](http://corebird.baedert.org/) -  Twitter客户端.
-- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) -  GNOME的Reddit客户端.
-- [Ring-GTK](https://ring.cx/) - 用于Ring的GTK / GNOME客户端，一种安全的通信工具.
-- [GNOME Twitch](http://gnome-twitch.vinszent.com/) - 用于观看Twitch的GTK / GNOME客户端.
-- [Haguichi](https://www.haguichi.net/) -  Linux上Hamachi的图形前端.
-- [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) -  Transmission torrent守护程序的远程客户端.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) -  GTK3 BitTorrent客户端
+- [GNOME Web](https://wiki.gnome.org/Apps/Web) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
+- [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
+- [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
+- [Corebird](http://corebird.baedert.org/) - Twitter client.
+- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
+- [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
+- [GNOME Twitch](http://gnome-twitch.vinszent.com/) - GTK/GNOME client for watching Twitch.
+- [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi on Linux.
+- [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
+- [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
 
 ### Editor
 
-- [UberWriter](https://github.com/UberWriter/uberwriter) - 使用GTK +制作的GNU / Linux的无分心Markdown编辑器
+- [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+
 
 ### Documents
 
-- [NFO Viewer](https://github.com/otsaloma/nfoview) -  NFO文件的简单查看器，具有预设字体和编码设置的文本编辑器以及可点击的超链接支持.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 扫描文档和PDF的个人文档管理器.
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
-- [Bookworm](https://github.com/babluboy/bookworm) - 简单，专注的电子书阅读器，在GNOME中看起来很棒.
-- [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
-- [Pdftag](https://github.com/arrufat/pdftag) -  PDF的简单元数据编辑器
+- [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files.
+- [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
+- [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
+- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
 
 ### Multimedia
 
-- [Webmusic](https://github.com/badcel/webmusic) - 基于Web的音乐播放器，可将您喜爱的音乐服务集成到桌面中.
-- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于Web的音乐流媒体服务的运行时，提供更加原生的用户体验并与Linux桌面环境集成.
-- [Vocal](https://github.com/needle-and-thread/vocal) - 功能强大，美观，简单的播客客户端，适用于现代免费桌面.
-- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - 用于GNOME的MPV媒体播放器的GUI.
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美妙的音乐应用.
-- [GRadio](https://github.com/haecker-felix/gradio/) - 基于网络的无线电客户端.
-- [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - 为PulseAudio应用提供限制器，压缩器，混响，均衡器和自动音量效果.
-- [Curlew](https://curlew.sourceforge.io/) - 用于Linux的多媒体转换器
-- [Cozy](https://github.com/geigi/cozy) - 适用于Linux的有声读物播放器
+- [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop.
+- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
+- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - GUI for the MPV media player for GNOME.
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
+- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
+- [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
+- [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
+- [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux
 
 ### Graphics
 
-- [Coulr](https://github.com/Huluti/Coulr) - 在RGB和十六进制代码之间转换颜色.
-- [GColor 3](https://hjdskes.github.io/projects/gcolor3/) -  GNOME的GTK3颜色选择器.
-- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - 功能强大的高级应用程序，用于管理GNOME中的照片和图像.
+- [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+- [GColor 3](https://hjdskes.github.io/projects/gcolor3/) - GTK3 color picker for GNOME.
+- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images in GNOME.
 
 ### Games
 
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - 游戏启动器和libretro的仿真前端.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### Customization
 
-- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks)   - 以前称为Tweak工具.  高级GNOME 3设置的图形界面.
-- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - 管理GNOME应用程序覆盖中的应用程序文件夹的工具.
-- [Menulibre](https://smdavis.us/projects/menulibre/) - 如果使用Arc或应用程序菜单等传统应用程序菜单，请管理应用程序类别.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - 为GNOME上的每个监视器设置不同的背景
-- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑GNOME的XML壁纸的实用程序
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Previously known as Tweak Tool. Graphical interface for advanced GNOME 3 settings.
+- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the application overlay of GNOME.
+- [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor on GNOME
+- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ### Tools
 
-- [Catfish](https://launchpad.net/catfish-search) - 为XFCE创建的搜索应用程序，但遵循GNOME HIG.
-- [Tilix](https://github.com/gnunn1/terminix/) - 用于GNOME的平铺终端仿真器.
-- [GPaste](https://github.com/Keruspe/GPaste) -  GNOME的剪贴板管理器（由应用程序和扩展组成）.
-- [Peek](https://github.com/phw/peek) - 简单的屏幕录像机，可将您的录像保存为GIF.
-- [Sequeler](https://github.com/Alecaddd/sequeler) - 在Vala中构建的SQL客户端
-- [GNOMIT](https://source.ind.ie/gnome/gnomit) - 简单的Git提交消息编辑器 
+- [Catfish](https://launchpad.net/catfish-search) - Search application, created for XFCE but follows the GNOME HIG.
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator for GNOME.
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager for GNOME (composed of an applicaiton and an extension).
+- [Peek](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
+- [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
+- [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
 
 ### System
 
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - 控制和管理systemd的工具.
+- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd.
 
 ### Others
 
-- [Luminance](http://craigcabrey.com/luminance/) - 飞利浦Hue客户端.
-- [razerCommander](https://github.com/GabMus/razerCommander) - 用于管理Razer外围设备的控制中心.
+- [Luminance](http://craigcabrey.com/luminance/) - Philips Hue client.
+- [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
 
 ## GTK Modules and Systems
 
-- [Plotinus](https://github.com/p-e-w/plotinus) -  GTK3应用程序的命令调色板.
+- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications.
 
 ## Extensions
 
 ### Desktop
 
-- [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - 直接在桌面上访问您的地点和文件.
-- [Notes](https://github.com/maoschanz/notes-extension-gnome) -  GNOME Shell扩展，提供可自定义的便签
+- [Places and Files Direct Access](https://github.com/maoschanz/Places-and-files-direct-access) - Access your places and files directly on your desktop.
+- [Notes](https://github.com/maoschanz/notes-extension-gnome) - GNOME Shell extension providing customizable sticky notes
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - 应用程序的基于类别的菜单.
-- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - 提供快速访问文件夹的菜单.
-- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - 类似Windows7的应用程序菜单，灵感来自Zorin OS中的菜单.
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications.
+- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders.
+- [Arc Menu](https://github.com/LinxGem33/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
 
 ### Applets
 
-- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - 允许您停用GNOME锁定屏幕的Applet.
-- [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - 状态菜单显示可移动驱动器.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - 天气小程序.
-- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - 环境噪音小程序.
-- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - 简单的剪贴板小程序.
-- [Desk Changer](https://github.com/BigE/desk-changer/) - 壁纸幻灯片小程序.
-- [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - 表情符号选择器小程序.
-- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) -  GNOME的高级MPRIS小程序.
-- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - 用于todo.txt的GNOME Shell接口.
-- [Time ++](https://extensions.gnome.org/extension/1238/time/) -  todo.txt管理器，时间跟踪器，计时器，秒表，番茄钟和闹钟.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) -  Gnome Shell 3.24+的KDE Con​​nect实现
-- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - 管理docker容器的扩展
+- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
+- [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
+- [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
+- [Desk Changer](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
+- [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
+- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - Advanced MPRIS applet for GNOME.
+- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - GNOME Shell interface for todo.txt.
+- [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
+- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for Gnome Shell 3.24+
+- [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
 ### Status Area
-- [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) -  GNOME状态栏的传统系统.
-- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -  GNOME的Appindicator系统.
-- [Argos](https://extensions.gnome.org/extension/1176/argos/)   - 将可执行文件的标准输出转换为面板下拉菜单;  完全兼容macOS的BitBar应用程序. 
-- [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - 将状态菜单分成几个小程序.
+- [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Traditional systray for the status bar of GNOME.
+- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray for GNOME.
+- [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus; fully compatible with BitBar app for macOS. 
+- [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - Divides the status menu into several applets.
 
 ### Windows
-- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - 创建窗口预览并将其预览到屏幕的核心.
-- [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - 快速安排级联窗户.
-- [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - 合并活动栏和最大化窗口的标题栏.
-- [gTile](https://github.com/vibou/vibou.gTile) - 为GNOME Shell带来更高级的平铺.
-- [Shellshape](http://gfxmonk.net/shellshape/) -  GNOME Shell的平铺窗口扩展.
+- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) - Create and anchor preview of a window to a corener of the screen.
+- [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) - Quickly arrange windows in a cascade.
+- [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
+- [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell.
+- [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
 
 ### Docks and Panels
-- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - 将GNOME Dash转换为功能齐全的Dock.
-- [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - 现代化的码头融合了工作空间和码头的功能.
-- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - 现代任务栏/面板与Windows 7+和KDE上的任务栏/面板不同.
+- [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - Transforms the GNOME Dash into a fully-featured dock.
+- [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Modern dock that fuses the functionalities of workspaces and docks.
+- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Modern taskbar/panel not unlike the ones on Windows 7+ and KDE.
 
 ### Services integration
-- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - 将GMail与您的GNOME桌面集成.
+- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your GNOME Desktop.
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配它们的终端颜色方案.
+- [Oomox](https://github.com/themix-project/oomox) - Generates different color variations of Numix and Materia themes (GTK2, GTK3), Gnome-Colors and Archdroid icons, and matching terminal colorschemes for them.
 
 ### Adwaita-based
 
-- [Minwaita](https://github.com/godlyranchdressing/Minwaita)   -  Adwaita紧凑型叉子.  （GTK，壳牌）
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)   - 紧凑型Adwaita，比minwaita更忠实，但不太紧凑.  （GTK，壳牌）
+- [Minwaita](https://github.com/godlyranchdressing/Minwaita) - Compact fork of Adwaita. (GTK, Shell)
+- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks) - Compact version of Adwaita, more faithful than minwaita but less compact. (GTK, Shell)
 
 ### Material
 
-- [Materia](https://github.com/nana-4/materia-theme)   - 基于GNOME / GTK +的桌面环境的类似Material Design的主题.  （GTK，壳牌）
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme)   - 基于材料设计指南的自适应GTK +主题.  （GTK，壳牌）
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) -  GTK 3，GTK 2和Gnome-Shell的平面材料设计主题.
+- [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
+- [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
+- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell.
 
 ### Flat
 
-- [Arc](https://github.com/NicoHood/arc-theme)   - 平面主题与透明元素.  （GTK，壳牌）
-- [Pop](https://github.com/system76/pop-gtk-theme/)   -  System76的官方主题Pop！_OS，使用双色蓝色和橙色方案.  （GTK，壳牌）
-- [United](https://github.com/godlyranchdressing/United-GNOME/)   - 针对GNOME的Unity8灵感主题.  （GTK，壳牌）
-- [Numix](https://github.com/numixproject/numix-gtk-theme)   - 流行的平面半暗主题，橙色触感.  （GTK）
-- [Zukitre](https://github.com/lassekongo83/zuki-themes)   - 平灰色主题，zuki主题套房的一部分.  （GTK，与Zuki-Shell合作开发shell主题）
-- [Yaru](https://github.com/ubuntu/yaru) -  Ubuntu社区主题（GTK，Shell）
+- [Arc](https://github.com/NicoHood/arc-theme) - Flat theme with transparent elements. (GTK, Shell)
+- [Pop](https://github.com/system76/pop-gtk-theme/) - Official theme of Pop!_OS by System76, using a two-color blue and orange scheme. (GTK, Shell)
+- [United](https://github.com/godlyranchdressing/United-GNOME/) - Unity8-inspired theme for GNOME. (GTK, Shell)
+- [Numix](https://github.com/numixproject/numix-gtk-theme) - Popular flat semi-dark theme with an orange touch. (GTK)
+- [Zukitre](https://github.com/lassekongo83/zuki-themes) - Flat grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme)
+- [Yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme (GTK, Shell)
 
 ### Metallic
 
-- [Greybird](https://github.com/shimmerproject/Greybird/)   - 官方Xubuntu主题.  （GTK）
-- [Vertex](https://github.com/horst3180/Vertex-theme)   - 由Arc的创造者horst3180创建的金属主题.  （GTK，壳牌）
-- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes)   - 模仿macOS外观和感觉的主题.  （GTK，壳牌）
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes)   -  Skeumorphic灰色主题，zuki主题套件的一部分.  （GTK，与Zuki-Shell合作开发shell主题）.
+- [Greybird](https://github.com/shimmerproject/Greybird/) - Official Xubuntu theme. (GTK)
+- [Vertex](https://github.com/horst3180/Vertex-theme) - Metallic theme created by horst3180, the creator of Arc. (GTK, Shell)
+- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes) - Theme that mimics the look and feel of macOS. (GTK, Shell)
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
 ## Icons
 
 ### Material Icons
 
-- [Paper](https://snwh.org/paper) - 材料图标主题.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - 材质图标主题，最初基于纸张.
-- [Pop!](https://github.com/system76/pop-icon-theme) - 基于Papirus的System76官方图标主题Pop！_OS.
+- [Paper](https://snwh.org/paper) - Material icon theme.
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+- [Pop!](https://github.com/system76/pop-icon-theme) - Official icon theme of Pop!_OS by System76, based on Papirus.
 
 ### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - 图标灵感来自macOS和Material Design指南.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
 ### Homogeneous Icons
 
-- [Moka](https://snwh.org/moka) - 简单的方形图标主题，松散地基于Tango规范.
-- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - 延续着名的法恩莎主题.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - 扁圆形图标主题.
-- [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - 扁方形图标主题.
+- [Moka](https://snwh.org/moka) - Simple squared icon theme, loosely based on the Tango specification.
+- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+- [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ### Skeumorphic
 
-- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - 基本操作系统图标的桌面无关版本.
+- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
- - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - 基于Silm材质的光标主题.
- - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)   - 受macOS启发并基于KDE Breeze的x光标主题.  旨在与La Capitaine图标配对.
+ - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+ - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## Community
 
-- [GNOME News Feed](https://www.gnome.org/news/) - 来自GNOME的官方新闻帖子.
-- [Planet GNOME](http://planet.gnome.org/) -  GNOME开发者联盟的博客
+- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts from GNOME.
+- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs
 - [Reddit](https://www.reddit.com/r/gnome)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
 - [`@gnome` on Twitter](https://twitter.com/gnome)
 - [`@gnome` on GNU Social](https://quitter.no/gnome)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用GNOME IRC频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [`GNOME` on Google+](https://plus.google.com/+gnome)
@@ -227,22 +227,22 @@
 
 ### IDE
 
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - 用于创建GNOME应用程序的官方IDE.
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
 
 ### Libraries and Utility
 
-- [libdazzle](https://git.gnome.org/browse/libdazzle) -  GObject和Gtk +的伴随库，提供创建者希望在底层库中的各种功能，但由于各种原因无法添加.
+- [libdazzle](https://git.gnome.org/browse/libdazzle) - Companion library to GObject and Gtk+, providing various features that the creators wish were in the underlying library but cannot add for various reasons.
 
 ### Examples
 
-- [Hello](https://github.com/chergert/hello) - 用于不同语言的GNOME的Hello World示例集.
+- [Hello](https://github.com/chergert/hello) - Set of Hello World examples for GNOME in different languages.
 
 ### Documentations
 
-- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - 开始为GNOME做贡献的完美场所.
-- [GNOME Developer Center](https://developer.gnome.org/) - 包含所有官方GNOME文档.
-- [Valadoc](https://valadoc.org/) - 有关Vala的文档.
-- [GJS Documentation](http://devdocs.baznga.org/) -  JavaScript GTK绑定的文档.
-- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - 在Python中编写GTK + 3应用程序的简介.
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
+- [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
+- [Valadoc](https://valadoc.org/) - Documentation about Vala.
+- [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
+- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-[GNOME核心]：https：//cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg

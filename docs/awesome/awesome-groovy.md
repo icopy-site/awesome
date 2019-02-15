@@ -1,135 +1,135 @@
 <div class="github-widget" data-repo="kdabir/awesome-groovy"></div>
-令人敬畏的Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
- 精选groovy库，框架和资源的精选列表.  受到许多其他令人敬畏的*存储库的启发.  这个很棒的收藏品也可用 [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
+Curated list of awesome groovy libraries, frameworks and resources. Inspired by many other awesome-* repositories. This awesome collection is also available on [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
 
 
 
 ## Build tools, setup and CI
-* [Gradle](https://www.gradle.org/) -  JVM的强大构建系统
-* [GMavenPlus](https://github.com/groovy/GMavenPlus) - 重写GMaven，一个Groovy的Maven插件
-* [SDKMAN](https://sdkman.io) - 软件开发套件管理器（以前称为GVM）
-* [Lazybones](https://github.com/pledbrook/lazybones) - 一个使用打包项目模板的简单项目创建工具.
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) -  Jenkins Jobs的Groovy DSL
-* [travis-groovy](https://github.com/kdabir/travis-groovy) - 在travis-ci上执行groovy脚本
+* [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
+* [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+* [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
+* [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
+* [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ## IDE and Editor Support
-* [IntelliJ IDEA](http://www.jetbrains.com/idea/) -  Java平台最智能的IDE
-* [Groovy Web Console](http://groovyconsole.appspot.com) - 在线Groovy控制台
-* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) -  LightTable支持
-* [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - 从Sublime Text运行groovy脚本
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
+* [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
+* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
+* [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
 
 ## Web Frameworks
 
-* [Grails](https://github.com/grails/grails) - 基于Groovy语言的强大Web应用程序框架
-* [Gaelyk](https://github.com/gaelyk/gaelyk) - 适用于Google App Engine Java的轻量级Groovy工具包
-* [Glide](https://github.com/kdabir/glide) - 快速在Google App Engine上创建精彩的应用程序
-* [Ratpack](https://github.com/ratpack/ratpack) -  JVM Web应用程序的工具包
-* [gServ](https://github.com/javaConductor/gserv) - 用于创建基于SPA和REST的微服务的Groovy工具包，无需容器（Tomcat，JBoss等）.
-* [Spring-Boot](https://projects.spring.io/spring-boot) -  Spring Boot可以轻松创建独立的，生产级的基于Spring的应用程序，您可以“只运行”
-* [Micronaut](http://micronaut.io/) - 由Grails团队创建的全新微服务框架
+* [Grails](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+* [Gaelyk](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+* [Glide](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
+* [gServ](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+* [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+* [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
 
 ## Database
-* [Gmongo](https://github.com/poiati/gmongo) -  mongodb Java驱动程序的Groovy包装器
-* [Gstorm](https://github.com/kdabir/gstorm) - 简单的ORM，用于简单数据库和CSV文件，用于groovy脚本
-* [Tayra](https://github.com/EqualExperts/Tayra) -  MongoDB的增量备份工具
-* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - 还有另一种针对Liquibase的Groovy DSL
-* [Effigy](https://github.com/cjstehno/effigy) -  Groovy注释驱动的JDBC行映射框架（废弃）
-* [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) -  Elasticsearch Groovy客户端
+* [Gmongo](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
+* [Gstorm](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+* [Tayra](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+* [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
+* [Effigy](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework (abandoned)
+* [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 
 ## Rich Application
 
-* [Griffon](http://griffon-framework.org/) -  Griffon是一个用于在JVM中开发桌面应用程序的应用程序框架
-* [GroovyFx](http://groovyfx.org/) -  GroovyFX为JavaFX 2.0提供了Groovy绑定.
+* [Griffon](http://griffon-framework.org/) - Griffon is an application framework for developing desktop applications in the JVM
+* [GroovyFx](http://groovyfx.org/) - GroovyFX provides a Groovy binding for JavaFX 2.0.
 
 ## HTTP
-* [Http-Builder](https://github.com/jgritman/httpbuilder) -  HTTPBuilder是从JVM操作基于HTTP的资源的最简单方法
-* [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) -  HTTP Builder NG是一个用于发出http请求的现代Groovy DSL.
-* [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) -  Gradle插件，在Gradle构建配置中提供HTTP Builder NG支持.
-* [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - 将RESTClient的强大功能与RxGroovy相结合，实现异步http调用
-* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) -  Groovy的轻量级SOAP和REST Web服务客户端
+* [Http-Builder](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+* [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
+* [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
+* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ## Testing
-* [Spock](https://github.com/spockframework/spock) - 企业级测试和规范框架.
-* [Geb](https://github.com/geb/geb) - 非常Groovy浏览器自动化
-* [Betamax](https://github.com/betamaxteam/betamax) -  Betamax是一种用于在测试中模拟外部HTTP资源（如Web服务和REST API）的工具.
-* [HTTP Mock Server](https://github.com/TouK/http-mock-server) -  HTTP Mock Server允许使用groovy闭包来模拟HTTP请求.
-* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - 一个简单而富有表现力的模拟HTTP服务器，用于测试具有可配置响应的客户端代码
-* [Dru](https://agorapulse.github.io/dru/) -  Data Reconstruction Utility从外部源JSON，YML加载数据，以便于测试GORM，DynamoDB或普通的POJO.
-* [Gru](https://agorapulse.github.io/gru/) -  Groovy HTTP测试框架，用于为任何HTTP后端运行集成和半嵌入测试，并为Grails和Spring MVC提供本机单元测试支持.
+* [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+* [Geb](https://github.com/geb/geb) - Very Groovy Browser Automation
+* [Betamax](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [HTTP Mock Server](https://github.com/TouK/http-mock-server) - HTTP Mock Server allows to mock HTTP request using groovy closures.
+* [Ersatz Mock Server](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
+* [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
+* [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
 ## Concurrency
-* [GPars](https://github.com/GPars/GPars) -  JVM的GPars并发和并行框架
-* [RxGroovy](https://github.com/ReactiveX/RxGroovy) -  Groovy的RxJava绑定
-* [Vertx](https://vertx.io/) -  Vert.x是JVM的轻量级高性能应用程序平台
+* [GPars](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+* [RxGroovy](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
+* [Vertx](https://vertx.io/) - Vert.x is a lightweight, high performance application platform for the JVM
 
 ## Code Analysis
-* [CodeNarc](http://codenarc.sourceforge.net/) -  Groovy的静态分析工具
+* [CodeNarc](http://codenarc.sourceforge.net/) - Static analysis tool for Groovy
 * [Sonar-Groovy](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ## Transpilers
-* [Grooscript](https://github.com/chiquitinxx/grooscript) - 将您的Groovy代码转换为Javascript
+* [Grooscript](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ## Static Web
-* [Grain](https://github.com/sysgears/grain) -  Groovy的静态网站构建框架
-* [Gaiden](https://github.com/kobo/gaiden) -  Gaiden是一个使用Markdown轻松创建文档的工具.
+* [Grain](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+* [Gaiden](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ## Language Utilities
-* [Functionalgroovy](https://github.com/mperry/functionalgroovy) -  Groovy中的函数编程
-* [Groovy-stream](https://github.com/timyates/groovy-stream) - 为Streams提供流畅构建器的类集合（Lazy Groovy Generators）
-* [Flipside](https://github.com/johnnywey/flipside) - 简单的Groovy选项库
-* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - 允许您通过扩展系统添加对Groovy语言通常有用的内容
-* [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - 通过扩展系统向列表添加额外的方法
-* [GPerfUtils](https://github.com/gperfutils) - 基于Groovy的工具，用于验证代码的性能
-  * [gprof](https://github.com/gperfutils/gprof) -  Groovy的分析模块
-  * [gbench](https://github.com/gperfutils/gbench) -  Groovy的基准测试模块
-* [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - 简单的轻量级数据处理库，可用于在表格数据被其他服务或库使用之前对其进行整形/处理.
+* [Functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
+* [Groovy-stream](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+* [Flipside](https://github.com/johnnywey/flipside) - Simple Groovy options library
+* [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
+* [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
+* [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
+  * [gprof](https://github.com/gperfutils/gprof) - The profiling module for Groovy
+  * [gbench](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
+* [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
 ## File System Utilities
-* [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) -  Apache VFS2上的Groovy DSL
-* [Directree](https://github.com/kdabir/directree) - 使用文本文件创建目录树的简单DSL
+* [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+* [Directree](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## File Format DSL
-* [document-builder](https://github.com/craigburke/document-builder) - 用于PDF或Word文档的Groovy文档构建器.
-* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - 电子表格构建器提供了如何创建MS Excel OfficeOpenXML文档（XSLX）的便捷方法
-* [GroovyCSV](http://xlson.com/groovycsv/) - 一个简单的CSV解析库，用于groovy
+* [document-builder](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
+* [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
+* [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
 ## Scripting Tools
-* [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) -  Gradle脚本插件，用于为Java和Kotlin生成Dokka文档引擎的文档
-* [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle脚本插件，用于将Gradle工件上载到Maven存储库
-* [sshoogr](https://github.com/aestasit/sshoogr) - 用于通过SSH处理远程服务器的DSL库.
+* [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
+* [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
+* [sshoogr](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 
 ## Rule Engines
-* [grules](https://github.com/zhaber/grules) - 用于数据预处理的规则引擎
-* [n-cube](https://github.com/jdereg/n-cube) - 规则引擎，决策表，决策树，模板引擎和企业电子表格，构建为超空间.
+* [grules](https://github.com/zhaber/grules) - rule engine for data preprocessing
+* [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 ## Resources
 
 ## Official Resources
-* [The official groovy home](http://www.groovy-lang.org/) -  Groovy的新家
-* [Groovy's source](https://github.com/apache/groovy) -  Groovy的源代码镜像在Github上
-* [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - 注意新的邮件列表
-* [Official Documentation](http://www.groovy-lang.org/documentation.html) -  groovy文档的权威来源
+* [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
+* [Groovy's source](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
+* [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
+* [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
 ## Try Groovy in Browser
 * [Groovy Web Console](http://groovyconsole.appspot.com/)
 * [Groovy Playground](https://groovy-playground.appspot.com/)
 
 ## Groovy Code Examples
-* [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - 留意题为“Groovy Goodness”，“Grails Goodness”，Gradle Goodness的条目
-* [Groovy Almanac](http://groovy-almanac.org/) - 有用的代码片段
-* [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) -  Groovy是32种语言中的3种语言之一，完成了100％的PLEAC示例.
+* [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - Look out for entries titled "Groovy Goodness" , "Grails Goodness", Gradle Goodness"
+* [Groovy Almanac](http://groovy-almanac.org/) - useful code snippets
+* [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy is one of the 3 languages out of 32, having completed 100% of PLEAC examples.
 
 ## Staying up to date
-* [Groovy Calamari](http://groovycalamari.com/) - 关于Groovy生态系统的每周策划出版物
-* [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) -  Groovy每周时事通讯
-* [Grails Diary](http://grydeske.net/news) - 特别适用于Grails开发人员
-* [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) -  Ken Kousen和Baruch Sadogursky讨论了Groovy生态系统的新闻和见解.
+* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem
+* [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
+* [Grails Diary](http://grydeske.net/news) - Particulary useful for Grails developers
+* [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
 
 ## Interactive Learning
-* [Groovy-Koans](http://nadavc.github.io/groovykoans/) - 以单元测试的形式收集小练习
+* [Groovy-Koans](http://nadavc.github.io/groovykoans/) - Collection of small exercises in the form of unit tests
 
 ## Blogs of core committer
 * [Guillaume Laforge's blog](http://glaforge.appspot.com/)
@@ -144,30 +144,30 @@
 
 ## Contributing
 
-分叉此存储库，编辑此文件并发送拉取请求.
+Fork this repository, edit this file and send a pull request.
 
 ## Using awesome.groovy script
 
- 您可以使用`awesome.groovy`脚本在github上搜索真棒项目，并使用markdown格式生成预先包含项目名称，repo url和描述的条目.  您需要做的就是将它放在`README.md`的markdown列表中的右侧组下.
+You can use the `awesome.groovy` script to search awesome projects on github and generate the entry prepoulated with project name, repo url and description in markdown format. All you need to do is place it under right group in the markdown list in `README.md`.
 
 ### Examples
 
-找出语言是时髦的，其名称包含gpars和
+to find out repos where language is groovy and whose name contain gpars and
 
     ./awesome.groovy -l groovy gpars
 
-用户&#39;kdabir&#39;查找回购，名称包含滑行
+to find out repos by user 'kdabir' and name contains glide
 
     ./awesome.groovy -u kdabir glide
 
-找出名字中包含滑行的回购
+to find out repos whose name contains glide
 
-    ./awesome.groovy滑翔
+    ./awesome.groovy glide
 
-如果你懒得下载回购，一个简单的方法是：
+If you are lazy to download the repo, an easy way is:
 
-    groovy“https://git.io/awesome”-l groovy glide
+    groovy "https://git.io/awesome" -l groovy glide
 
 ## Credits
 
-对所有令人敬畏的人来说，他们和他们的传播者一样 [this](https://github.com/erichs/awesome-awesome) 和 [this](https://github.com/bay和in/awesome-awesomeness).
+To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this](https://github.com/bayandin/awesome-awesomeness).

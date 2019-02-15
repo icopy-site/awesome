@@ -1,22 +1,22 @@
 <div class="github-widget" data-repo="fukuball/Awesome-Laravel-Education"></div>
 ## [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-用于学习Laravel PHP Framework的精选资源列表，可帮助您初学者，中级或高级开发人员.
+A curated list of resources for learning about the Laravel PHP Framework, to help you beginner, intermediate or advanced developer.
 
 ## Translations
 
-请选择下面的策划列表，开始学习Laravel PHP Framework！
+Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
 - [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
 - [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
 ## How to contribute?
 
-- 请针对每个建议提出单独的拉取请求
-- 欢迎对现有分类进行新的类别或改进
+- Please make an individual pull request for each suggestion
+- New categories or improvements to the existing categorization are welcome
 
 ## Make a difference
- 以下这些人贡献了内容，翻译等.  你在等什么？  快来加入我们，把自己放在下面;）
+These guys below contributed with content, translations and more. What are you waiting for? Come join us and put yourself down below ;)
 
 - [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
 - [@fukeball](https://github.com/fukuball)
@@ -33,12 +33,12 @@
 
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 - [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
--  Laravel 5.1 Homestead安装指南
+- Laravel 5.1 Homestead Install Guide
   - [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
   - [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.4/homestead) \#5.4
   - [Laracasts: Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
 - [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer)
-- 从教程中学习
+- Learn from tutorial
   - [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart) \#5.1
   - [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate) \#5.1
 - [Laravel Documentation](http://laravel.com/docs/5.4) \#5.4
@@ -49,13 +49,13 @@
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.4/) \#5.4
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
-- [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - 如何使用Laravel 5.3构建Web应用程序的一个很好的例子.
+- [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
 
 ## Learn From Awesome Video / Posts
 
 ### Composer / Homestead / Docker
 
-- 入门
+- Getting Started
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer Intro](https://getcomposer.org/doc/00-intro.md) \#Composer
@@ -64,33 +64,33 @@
 
 ### Routing / Controllers / Requests / Responses
 
-- 入门
+- Getting Started
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
   - [Laravel Documentation: The Basics Routing](http://laravel.com/docs/5.4/routing) \#5.4 \#Routing
   - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.4/controllers) \#5.4 \#Controller
   - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.4/requests) \#5.4 \#Request
   - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.4/responses) \#5.4 \#Response
-- 高级
+- Advanced
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
   - [Simple Way To HTTPS All Laravel Routes](http://seanoneill.me/eaest-way-to-https-on-all-laravel-routes/) \#5.4 \#Routing
 
 ### Database
 
-- 入门
+- Getting Started
   - [Laracasts: Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7) \#Migration
   - [Laravel Documentation: Database Getting Started](http://laravel.com/docs/5.4/database) \#5.4 \#Database
   - [Laravel Documentation: Database Migrations](http://laravel.com/docs/5.4/migrations) \#5.4 \#Migration
-- 高级
+- Advanced
   - [Laravel Documentation: Database Query Builder](http://laravel.com/docs/5.4/queries) \#5.4 \#Database
   - [Laravel Documentation: Database Seeding](http://laravel.com/docs/5.4/seeding) \#5.4 \#Migration
 
 ### Models / Eloquent
 
-- 入门
+- Getting Started
   - [Laracasts: Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8) \#Eloquent
   - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Model \#Eloquent
   - [Laravel Documentation: Eloquent ORM Getting Started](http://laravel.com/docs/5.4/eloquent) \#5.4 \#Eloquent
-- 高级
+- Advanced
   - [Laravel Documentation: Eloquent ORM Relationships](http://laravel.com/docs/5.4/eloquent-relationships) \#5.4 \#Eloquent
   - [Laravel Documentation: Eloquent ORM Collections](http://laravel.com/docs/5.4/eloquent-collections) \#5.4 \#Eloquent
   - [Laravel Documentation: Eloquent ORM Mutators](http://laravel.com/docs/5.4/eloquent-mutators) \#5.4 \#Eloquent
@@ -100,28 +100,28 @@
 
 ### Views / Blade / Language
 
-- 入门
+- Getting Started
   - [Laracasts: Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4) \#View
   - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.4/views) \#5.4 \#View
   - [Laracasts: Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5) \#View \#Blade
   - [Laravel Documentation: The Basics Blade Templates](http://laravel.com/docs/5.4/blade) \#5.4 \#View \#Blade
-- 高级
+- Advanced
   - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#View
   - [Php vars @ JS with the help of a Laravel SP & View Composer](https://medium.com/@lollypopgr/php-vars-js-with-the-help-of-a-laravel-sp-view-composer-9e017b66c036) \#5.4 \#View \#Language
 
 ### Forms / Validation
 
-- 入门
+- Getting Started
   - [Laracasts: Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10) \#Form \#View
   - [Laracasts: Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12) \#Form \#Validation
   - [Laravel Documentation: Services Validation](http://laravel.com/docs/5.4/validation) \#5.4 \#Validation
 
 ### Architecture Foundations / IoC
 
-- 入门
+- Getting Started
   - [Laracasts: Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6) \#Architecture
   - [Laravel Documentation: Architecture Foundations Application Structure](http://laravel.com/docs/5.4/structure) \#5.4 \#Architecture
-- 高级
+- Advanced
   - [Laravel Documentation: Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.4/lifecycle) \#5.4 \#Architecture
   - [Laravel Documentation: Architecture Foundations Service Providers](http://laravel.com/docs/5.4/providers) \#5.4 \#Architecture
   - [Laravel Documentation: Architecture Foundations Service Container](http://laravel.com/docs/5.4/container) \#5.4 \#Architecture
@@ -131,57 +131,57 @@
 
 ### Auth / Security
 
-- 入门
+- Getting Started
   - [Laracasts: Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15) \#Authentication \#Eloquent
   - [Laravel Documentation: Services Authentication](http://laravel.com/docs/5.4/authentication) \#5.4 \#Authentication
   - [Laravel Documentation: Services Authorization](http://laravel.com/docs/5.4/authorization) \#5.4 \#Authentication
 
 ### Middleware
 
-- 入门
+- Getting Started
   - [Laracasts: Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16) \#Middleware \#Security
   - [Laravel Documentation: The Basics Middleware](http://laravel.com/docs/5.4/middleware) \#5.4 \#Middleware
 
 ### Front End
 
-- 入门
+- Getting Started
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
   - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#5.1 \#Elixir
-- 高级
+- Advanced
   - [Setup Bootstrap Sass with Laravel Elixir](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) - [Eric L. Barnes](https://twitter.com/ericlbarnes) \#Elixir
 
 ### Session
 
-- 入门
+- Getting Started
   - [Laracasts: Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20) \#Session
   - [Laravel Documentation: Services Session](http://laravel.com/docs/5.4/session) \#5.4 \#Session
 
 ### Filesystem / Cloud Storage
 
-- 入门
+- Getting Started
   - [Laravel Documentation: Services Filesystem / Cloud Storage](http://laravel.com/docs/5.4/filesystem) \#5.4 \#Filesystem
 
 ### Cache
 
-- 入门
+- Getting Started
   - [Laravel Documentation: Services Cache](http://laravel.com/docs/5.4/cache) \#5.4 \#Cache
 
 ### Mail
 
-- 入门
+- Getting Started
   - [Laravel Documentation: Services Mail](http://laravel.com/docs/5.4/mail) \#5.4 \#Mail
 
 ### Testing and Coding Standard
 
-- 入门
+- Getting Started
   - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.4/testing) \#5.4 \#Testing
-- 高级
+- Advanced
   - [BDD in Laravel: Getting Started with Behat and PhpSpec](http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/) - [Bruno Skvorc](https://twitter.com/bitfalls) \#Testing
 
 ### Case Study
 
-- 高级
-  - 文章和标签
+- Advanced
+  - Article and Tags
     - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
     - [Laracasts: Selecting Tags From the UI](https://laracasts.com/series/laravel-5-fundamentals/episodes/22)
     - [Laracasts: Syncing Tags](https://laracasts.com/series/laravel-5-fundamentals/episodes/23)
@@ -245,68 +245,68 @@
 
 ## Dependency Management
 
-- [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - 包和依赖管理器
+- [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager
 
 ## Develop Tools
 
 - [Sublime Text](http://www.sublimetext.com/)
-  - [Alignment](https://github.com/wbond/sublime_alignment) - 轻松对齐多个选项和多行选择
-  - [Blade Snippets](https://github.com/dev4dev/blade-snippets) - 提供刀片模板引擎的代码段
-  - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - 支架和标签荧光笔
-  - [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - 简化编写DocBlock注释
-  - [Emmet](https://github.com/sergeche/emmet-sublime) - 改进HTML和CSS工作流程
-  - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) - 添加Laravel 5 Blade引擎的语法定义
-  - [phpfmt](https://github.com/phpfmt/sublime-phpfmt) - 格式化PHP代码的插件 - 也支持PSR1 / 2
-  - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) -  Sublime Text侧栏的增强功能
-  - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 全功能的代码智能和智能自动完成引擎
-  - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - 交互式代码linting框架，你必须安装SublimeLinter-php以便在PHP中进行编码
-  - [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - 用于PHP的SublimeLinter插件
-  - [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) -  SCSS和Sass的语法高亮显示
-  - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - 突出显示尾随空格并删除它们
+  - [Alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple selections and multi-line selections
+  - [Blade Snippets](https://github.com/dev4dev/blade-snippets) - Provide snippets for blade template engine
+  - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter
+  - [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
+  - [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow
+  - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) - Adds syntax definitions for the Laravel 5 Blade engine
+  - [phpfmt](https://github.com/phpfmt/sublime-phpfmt) - Plugin to format PHP code - supports also PSR1/2
+  - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar
+  - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+  - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
+  - [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter plugin for PHP
+  - [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - Syntax highlighting for both SCSS and Sass
+  - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them
 - [PhpStorm IDE ](https://www.jetbrains.com/phpstorm/)
   - [Laravel Plugin for PhpStorm](https://github.com/Haehnchen/idea-php-laravel-plugin)
 
 ## PHP Book List for Developer
 
-- 入门
-  - 学习PHP，MySQL和JavaScript使用jQuery，CSS和HTML5，第4版ISBN：9781491918661
-  - 编程PHP，第三版ISBN：9781449361068
-  - 学习PHP，MySQL，JavaScript和CSS，第2版ISBN：9781449319267
-  -  Head First PHP＆MYSQL ISBN：9781449363581
-  -  Head First HTML和CSS，第2版ISBN：9780596159900
-- 高级
-  -  Laravel：从Apprentice到Artisan
-  -  Laravel测试解码
-  -  Laravel 5.1 Beauty
+- Getting Started
+  - Learning PHP, MySQL & JavaScript With jQuery, CSS & HTML5, 4th edition ISBN:9781491918661
+  - Programming PHP, Third Edition ISBN:9781449361068
+  - Learning PHP, MySQL, JavaScript, and CSS, 2nd Edition ISBN:9781449319267
+  - Head First PHP & MYSQL ISBN:9781449363581
+  - Head First HTML and CSS, 2nd Edition ISBN:9780596159900
+- Advanced
+  - Laravel: From Apprentice To Artisan
+  - Laravel Testing Decoded
+  - Laravel 5.1 Beauty
   - Modern PHP: New Features and Good Practices ISBN:9781491905012
-  - 学习PHP设计模式ISBN：9781449344917
-  - 美丽的测试：领先的专业人士揭示他们如何改进软件ISBN：9780596159818
-  -  PHP Master：Write Cutting Edge Code ISBN：9780987090874
-  -  Laravel 5必备：探索Laravel的基本原理，最具表现力和最强大的Php框架之一ISBN：9781785283017
-  -  Laravel Design Patterns and Best Practices ISBN：9781783287987
-  - 学习Laravel的Eloquent ISBN：9781784391584
-- 概念
-  -  Head First面向对象的分析和设计ISBN：9780596008673
-  -  Head First Design Patterns ISBN：0000596007124
-  - 重构：改进现有代码ISBN的设计：9780201485677
-  - 设计模式：可重用面向对象软件的元素ISBN：9780201633610
-  -  Scrum：在半个时间里做两次工作的艺术ISBN：9781847941107
-  - 清洁代码：敏捷软件工艺手册ISBN：9780132350884
-  - 清洁编码器：专业程序员行为准则ISBN：0076092046981
-  - 持续交付：通过构建，测试和部署自动化ISBN发布可靠的软件：9780321601919
-  - 美丽的建筑：领先的思想家揭示了软件设计中的隐藏之美ISBN：9780596517984
-  - 可读代码的艺术ISBN：9780596802295
-  - 设计模式解释：面向对象设计的新视角ISBN：9780321247148
-  - 学徒模式：有抱负的软件工匠指南ISBN：9780596518387
-  - 质量代码：软件测试原理，实践和模式ISBN：9780321832986
-  - 实施模式ISBN：0785342413090
+  - Learning PHP Design Patterns ISBN:9781449344917
+  - Beautiful Testing: Leading Professionals Reveal How They Improve Software ISBN:9780596159818
+  - PHP Master: Write Cutting Edge Code ISBN:9780987090874
+  - Laravel 5 Essentials: Explore the Fundamentals of Laravel, One of the Most Expressive and Robust Php Frameworks ISBN:9781785283017
+  - Laravel Design Patterns and Best Practices ISBN:9781783287987
+  - Learning Laravel's Eloquent ISBN:9781784391584
+- Concept
+  - Head First Object-Oriented Analysis and Design ISBN:9780596008673
+  - Head First Design Patterns ISBN:0000596007124
+  - Refactoring: Improving the Design of Existing Code ISBN:9780201485677
+  - Design Patterns: Elements of Reusable Object-Oriented Software ISBN:9780201633610
+  - Scrum: The Art of Doing Twice the Work in Half the Time ISBN:9781847941107
+  - Clean Code: A Handbook of Agile Software Craftsmanship ISBN:9780132350884
+  - The Clean Coder: A Code of Conduct for Professional Programmers ISBN:0076092046981
+  - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ISBN:9780321601919
+  - Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design ISBN:9780596517984
+  - The Art of Readable Code ISBN:9780596802295
+  - Design Patterns Explained: A New Perspective on Object-Oriented Design ISBN:9780321247148
+  - Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman ISBN: 9780596518387
+  - Quality Code: Software Testing Principles, Practices, and Patterns ISBN:9780321832986
+  - Implementation Patterns ISBN:0785342413090
 
 ## Interview
 
 - [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php)
-- 算法导论，第3版ISBN：9780262033848
-- 破解编码访谈：150编程问题和解决方案ISBN：9780984782802
-- 编程访谈要素：The Insiders&#39;Guide ISBN：9781479274833
+- Introduction to Algorithms, 3rd Edition ISBN:9780262033848
+- Cracking the Coding Interview: 150 Programming Questions and Solutions ISBN:9780984782802
+- Elements of Programming Interviews: The Insiders' Guide ISBN:9781479274833
 - [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
@@ -319,24 +319,24 @@
 
 ## License
 
-麻省理工学院许可证（MIT）
+The MIT License (MIT)
 
-版权所有（c）2015 fukuball
+Copyright (c) 2015 fukuball
 
-特此授予任何获得副本的人免费许可
-这个软件和相关的文档文件（“软件”），来处理
-在软件中没有限制，包括但不限于权利
-使用，复制，修改，合并，发布，分发，再许可和/或出售
-本软件的副本，并允许软件所在的人员
-在此条件下提供，但须符合以下条件：
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-上述版权声明和本许可声明均应包含在内
-本软件的副本或重要部分.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-本软件按“原样”提供，不提供任何形式的保证，明示或
-暗示，包括但不限于对适销性的保证，
- 适用于特定用途和不侵权的适用性.  在任何情况下都不应该
-作者或版权所有者对任何索赔，损害或其他内容负责
-无论是合同，侵权行为还是其他行为，由此产生的责任，
-在软件之外或与之相关的软件或使用或其他交易
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.

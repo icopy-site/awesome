@@ -37,7 +37,7 @@ nav:
     - JVM: awesome/awesome-jvm.md
     - Salesforce: awesome/awesome-salesforce.md
     - Amazon Web Services: awesome/awesome-aws.md
-    - Windows: awesome/Awesome.md
+    - Windows: awesome/Awesome-Windows-awesome.md
     - IPFS: awesome/awesome-ipfs.md
     - Fuse: awesome/awesome-fuse.md
     - Heroku: awesome/awesome-heroku.md
@@ -362,7 +362,7 @@ nav:
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
     - Drupal: awesome/awesome-drupal.md
-    - Craft CMS: awesome/awesome.md
+    - Craft CMS: awesome/craftcms-awesome.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
     - Internet of Things: awesome/awesome-iot.md
@@ -402,7 +402,7 @@ nav:
     - Discounts for Student Developers: awesome/discount-for-student-dev.md
     - Sysadmin: awesome/awesome-sysadmin.md
     - Radio: awesome/awesome-radio.md
-    - Awesome: awesome/awesome.md
+    - Awesome: awesome/sindresorhus-awesome.md
     - Analytics: awesome/awesome-analytics.md
     - REST: awesome/awesome-rest.md
     - Selenium: awesome/awesome-selenium.md

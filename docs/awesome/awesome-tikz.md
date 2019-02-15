@@ -1,134 +1,134 @@
 <div class="github-widget" data-repo="xiaohanyu/awesome-tikz"></div>
-很棒的TikZ
+Awesome TikZ
 ============
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
 
-[TikZ](https://en.m.wikipedia.org/wiki/PGF/TikZ)  是TeX / LaTeX / ConTeXt的精彩图形绘图包.  与其他TeX软件包不同，TikZ本身非常庞大，其手册包含大约1100多页，100多个章节.  其他几十个包和几个GUI应用程序都基于TikZ.
+[TikZ](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
 
-该项目包含精选的TikZ文档，库和资源的精选列表.
+This project contains a curated list of awesome TikZ documentations, libraries and resources.
 
 Contents
 --------
 
 
-官方链接
+Official Links
 --------------
 
 ### PGF/TikZ
 
--   [SourceForge](https://sourceforge.net/projects/pgf/) - 代码，发布，支持和错误报告.
--   [CTAN](https://www.ctan.org/pkg/pgf) - 最新版本发布.
+-   [SourceForge](https://sourceforge.net/projects/pgf/) - Code, releases, support and bug reports.
+-   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
 
--   [SourceForge](http://pgfplots.sourceforge.net/) - 代码，发布，支持和错误报告.
--   [CTAN](https://www.ctan.org/pkg/pgfplots) - 最新版本发布.
+-   [SourceForge](http://pgfplots.sourceforge.net/) - Code, releases, support and bug reports.
+-   [CTAN](https://www.ctan.org/pkg/pgfplots) - Latest version release.
 
 Books
 -----
 
--   [PGF Manual](http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf) - 大约1200页，其中300页包含核心概念.
--   [PGFPlots Manual](http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf) - 约560页.
--   [VisualTikZ](https://www.ctan.org/pkg/visualtikz) - 基于最小文本图像的TikZ视觉帮助.
--   [LaTeX/PGF/TikZ](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) - 来自wikibooks的简短教程.
--   [MinimalTikZ](http://cremeronline.com/LaTeX/minimaltikz.pdf) - 对TikZ的极简介绍.
+-   [PGF Manual](http://mirrors.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf) - About 1200 pages, 300 of which contains the core concepts.
+-   [PGFPlots Manual](http://mirrors.ctan.org/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf) - About 560 pages.
+-   [VisualTikZ](https://www.ctan.org/pkg/visualtikz) - Visual help for TikZ based on images with minimum text.
+-   [LaTeX/PGF/TikZ](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) - A short tutorial from wikibooks.
+-   [MinimalTikZ](http://cremeronline.com/LaTeX/minimaltikz.pdf) - A very minimal introduction to TikZ.
 
 Gallery
 -------
 
--   [TeXample](http://www.texample.net/tikz/) -  TikZ制作的精彩例子画廊.
--   [walmes/Tikz](https://github.com/walmes/Tikz) - 来自Walmes M. Zeviani教授的TikZ艺术收藏，包含大约200个TikZ数字，其中大部分用于教授统计数据.
--   [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz)   - 包含来自Martin的约350个TikZ示例.  托马.
--   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - 包含一些非常好的TikZ示例，以及其他TeX朋友绘制的图片.
--   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - 包含可爱的代码，使LaTeX / TikZ成为一颗心.
--   [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - PetarVeličković收集的出版物PGF / TikZ数据.
--   [alemelis/tikz_drawings](https://github.com/alemelis/tikz_drawings) -  Alessandro Melis为各种出版物在TikZ制作的插图的源代码.
+-   [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
+-   [walmes/Tikz](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
+-   [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
+-   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
+-   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
+-   [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+-   [alemelis/tikz_drawings](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 
 Tools
 -----
 
--   [tikzedt](http://www.tikzedt.org/) - 用于编辑Tikz代码的组合WYSIWYG /文本编辑器.
--   [ktikz](https://github.com/fhackenberger/ktikz) - 为使用TikZ制作图片提供了一个很好的用户界面.
--   [gratex](https://sourceforge.net/projects/gratex/) -  LaTeX（PGF和TikZ）的可视化图形创建器.
--   [itikz](https://github.com/jbn/itikz) - 在Jupyter笔记本中渲染PGF / TikZ到SVG的细胞和线条魔力.
--   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - 将MATLAB®/ Octave数字转换为TikZ / pgfplots数字.
--   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - 转换matplotlib图并吐出TikZ / PGFplots数字.
+-   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
+-   [ktikz](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
+-   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
+-   [itikz](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
+-   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+-   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 
 Libraries
 ---------
 
 From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 
--   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - 用于在投影仪中创建叠加图片的TikZ样式.
--   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - 用于排版战舰逻辑谜题的样式文件.
--   [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree) - 使用TikZ绘制二叉树.
--   [blochsphere](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere) - 绘制Bloch球体的伪三维图.
--   [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques) - 生成控制图.
--   [blox](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox) - 使用TikZ绘制框图.
--   [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph) - 使用gnuplot和TikZ绘制Bode，Nyquist和Black图.
--   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - 用PGF / TikZ绘制编织图.
--   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - 用于绘制凯尔特结的TikZ库.
--   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - 用TikZ绘制电网.
--   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - 轻松生成FAST图表.
--   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - 使用TikZ绘制流程图的形状.
--   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - 绘制（语言）树木.
--   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - 使用TikZ绘制Grafcet / SFC.
--   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - 使用TikZ创建Harvey Balls.
--   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - 突出公式和公式部分的简单方法.
--   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) -  Pobby / TikZ的Hobby算法的实现.
--   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - 用于绘制最多6个变量的卡诺图的LATEX包.
--   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - 排版卡诺图.
--   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - 排版（基于网格）逻辑谜题.
--   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - 声明新的PGF形状.
--   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - 神经网络的图形绘制.
--   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) -  PGF / TikZ包装，用于“模糊”阴影.
--   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - 使用PGF绘制饼图.
--   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - 使用TikZ / PGF创建soroban的图像.
--   [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra) - 使用PGF / TikZ绘制连续或离散光谱.
--   [pgf-umlcd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd) -  UML类图的一些LATEX宏.
--   [pgf-umlsd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd) - 绘制UML序列图.
--   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - 用TikZ绘制甘特图.
--   [pgfplots](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots) - 载荷，轮，格式和后处理数值表.
--   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - 基于森林的证明树（符号逻辑）.
--   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - 用于PGF图片间连接的e-pTEX驱动程序.
--   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - 绘制Reo频道和电路.
--   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - 用于直边和罗盘图的TikZ库.
--   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - 用于绘制交换架构的TikZ库.
--   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - 使用TikZ绘制框图.
--   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - 使用TikZ的雪人变种.
--   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) -  Set的排版卡.
--   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - 从列表生成图表.
--   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - 操纵PGF中的“软路径”.
--   [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli) -  TikZ结构分析图书馆.
--   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - 标准科学计算器上按键的图形表示.
--   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - 协调TikZ中3d绘图的变换样式.
--   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - 绘制贝叶斯网络，图形模型和有向因子图.
--   [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd) - 使用TikZ创建交换图.
--   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - 用于绘制依赖图的库.
--   [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline) - 使用PGF / TikZ的技术尺寸线.
--   [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman) - 与TikZ的Feynman图.
--   [tikz-inet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet) - 与TikZ绘制互动网.
--   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - 排版OPM图.
--   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - 用于使用TikZ绘制光学设置的库.
--   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - 小宏来帮助构建漂亮而复杂的布局材料.
--   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - 用TikZ绘制粒子加速器晶格.
--   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - 在TikZ中对树使用现有的qtree语法.
--   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - 轻松生成TikZ图片的时序图.
--   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - 从收藏中导入TikZ图像.
--   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - 使用TikZ记住页面位置的方法.
--   [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital) - 使用TikZ的原子和分子轨道.
--   [tikzpagenodes](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes) - 整个页面的单个TikZ节点.
--   [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople) - 在TikZ中绘制人形节点.
--   [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile) - 使用PGF / TikZ绘制箭头.
--   [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter) - 使用TikZ创建科学海报.
--   [tikzscale](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale) - 在尊重文字大小的同时调整图片大小.
--   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - 使用TikZ创建的一些符号.
--   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - 绘制时序图.
--   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - 在TikZ的帮助下生成计算器的键.
--   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - 用于绘制图论的图形的宏.
--   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - 创建对象 - 角色模型（ORM）图.
--   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - 使用TikZ制作精美的科学波斯/拉丁海报.
+-   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
+-   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
+-   [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree) - Drawing binary trees using TikZ.
+-   [blochsphere](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere) - Draw pseudo-3D diagrams of Bloch spheres.
+-   [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques) - Generate control diagrams.
+-   [blox](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox) - Draw block diagrams, using TikZ.
+-   [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph) - Draw Bode, Nyquist and Black plots with gnuplot and TikZ.
+-   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
+-   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
+-   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
+-   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
+-   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
+-   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
+-   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
+-   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
+-   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
+-   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
+-   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
+-   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
+-   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
+-   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
+-   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
+-   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
+-   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
+-   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
+-   [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra) - Draw continuous or discrete spectra using PGF/TikZ.
+-   [pgf-umlcd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd) - Some LATEX macros for UML Class Diagrams.
+-   [pgf-umlsd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd) - Draw UML Sequence Diagrams.
+-   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - Draw Gantt charts with TikZ.
+-   [pgfplots](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots) - Loads, rounds, formats and postprocesses numerical tables.
+-   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
+-   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
+-   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
+-   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
+-   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - TikZ library to draw switching architectures.
+-   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - Draw block diagrams, using TikZ.
+-   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - Snowman variants using TikZ.
+-   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) - Typeset cards for Set.
+-   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - Generate diagrams from lists.
+-   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
+-   [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli) - TikZ Library for Structural Analysis.
+-   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
+-   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
+-   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
+-   [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd) - Create commutative diagrams with TikZ.
+-   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - A library for drawing dependency graphs.
+-   [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline) - Technical dimension lines using PGF/TikZ.
+-   [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman) - Feynman diagrams with TikZ.
+-   [tikz-inet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet) - Draw interaction nets with TikZ.
+-   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - Typeset OPM diagrams.
+-   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
+-   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - Small macro to help building nice and complex layout materials.
+-   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ.
+-   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - Use existing qtree syntax for trees in TikZ.
+-   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
+-   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
+-   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - Use TikZ's method of remembering a position on a page.
+-   [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital) - Atomic and molecular orbitals using TikZ.
+-   [tikzpagenodes](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes) - A single TikZ node for the whole page.
+-   [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople) - Draw people-shaped nodes in TikZ.
+-   [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile) - Draw arrows using PGF/TikZ.
+-   [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter) - Create scientific posters using TikZ.
+-   [tikzscale](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale) - Resize pictures while respecting text size.
+-   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ.
+-   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
+-   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
+-   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - Macros for drawing graphs of graph theory.
+-   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
+-   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
 Videos
 -----
@@ -143,7 +143,7 @@ Community
 ---------
 
 -   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
--   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - 友好且相对活跃的邮件列表.
+-   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
 License
 -------

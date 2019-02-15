@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="NARKOZ/guides"></div>
 ## Guides
 
-希望成为优秀程序员的指南.  
-此存储库的目的是收集和分发有用的链接
-网络上的编码风格指南和开发实践.
+Guides for programmers who want to be awesome.  
+The intent of this repository is to collect and distribute links to useful
+coding style guides and development practices across the web.
 
 
 
@@ -68,7 +68,7 @@
 ### JavaScript
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-+ [更新] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
++ [UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
@@ -210,9 +210,9 @@
 
 ## Contributing
 
-欢迎任何改进或建议！
+Any improvements or suggestions are welcome!
 See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
 
 ---
 
-这项工作是根据a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).

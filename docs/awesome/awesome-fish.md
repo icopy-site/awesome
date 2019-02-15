@@ -1,65 +1,65 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 ## Awesome Fish
 
- 包，提示，以及惊人的资源的组织列表<a href="https://fishshell.com" title="友好的互动外壳">的鱼贝</a> .  这项工作是捐赠给公共领域 [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+A curated list of packages, prompts, and resources for the amazing <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
- 想贡献？  分叉此存储库，添加您的项目并向我们发送PR.  如果你看到这里的项目没有维护或不合适， [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
+Want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
 
 
 ## Package Management
 
-- [Fisher](https://github.com/jorgebucaran/fisher) - 零配置通用包管理器
-- [Fundle](https://github.com/danhper/fundle) - 基于配置的软件包加载程序 - 适用于Vundle.vim粉丝
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - 哦，我的Zsh遇见鱼〜！
+- [Fisher](https://github.com/jorgebucaran/fisher) - Zero configuration universal package manager
+- [Fundle](https://github.com/danhper/fundle) - Configuration-based package loader—for Vundle.vim fans
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish~!
 
 > ✋ [Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
 
 ## Prompts
 
-- [fishpkg/**fish-prompt-metro**](https://github.com/fishpkg/fish-prompt-metro) -  git-aware，空间敏感，电力线提示
-- [hauleth/**agnoster**](https://github.com/hauleth/agnoster) -  Solarized，git-aware，powerline提示
-- [matchai/**spacefish**](https://github.com/matchai/spacefish) - 宇航员以太空为主题的提示
-- [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - 健壮，强烈意识，电力线提示
-- [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - 纯鱼港 [sindresorhus/pure](https://github.com/sindresorhus/pure) 提示
+- [fishpkg/**fish-prompt-metro**](https://github.com/fishpkg/fish-prompt-metro) - git-aware, space-conscious, powerline prompt
+- [hauleth/**agnoster**](https://github.com/hauleth/agnoster) - Solarized, git-aware, powerline prompt
+- [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
+- [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
+- [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
 
 ## Utilities
 
-- [franciscolourenco/**done**](https://github.com/franciscolourenco/done) - 长时间处理完成后自动接收通知
-- [jethrokuan/**z**](https://github.com/jethrokuan/z) - 纯鱼 [rupa/z](https://github.com/rupa/z)像目录跳跃
-- [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) -  CLI选项解析器替代 [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) 内置
-- [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - 纯鱼火花线发生器
-- [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - 在iTerm2中自定义Touch Bar
+- [franciscolourenco/**done**](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finish
+- [jethrokuan/**z**](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping
+- [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
+- [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
+- [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
 
 ### Environment
 
-- [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - 用于启动ssh代理的实用程序功能
-- [edc/**bass**](https://github.com/edc/bass) - 使bash实用程序可用于鱼类
+- [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent
+- [edc/**bass**](https://github.com/edc/bass) - Make bash utilities usable in fish
 
 ### Key Bindings
 
-- [jethrokuan/**fzf**](https://github.com/jethrokuan/fzf) - 改进了键绑定 [junegunn/fzf](https://github.com/junegunn/fzf)
-- [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - 自动关闭括号，括号，引号和其他配对符号
-- [oh-my-fish/**plugin-bang-bang**](https://github.com/oh-my-fish/plugin-bang-bang) -  bash风格历史替换
+- [jethrokuan/**fzf**](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf)
+- [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
+- [oh-my-fish/**plugin-bang-bang**](https://github.com/oh-my-fish/plugin-bang-bang) - bash style history substitution
 
 ### Node.js
 
-- [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - 增强 [nvm](https://github.com/creationix/nvm) 包装器针对速度进行了优化
-- [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - 完成丰富，真实 [nvm](https://github.com/creationix/nvm) 包装纸
-- [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - 纯鱼，没有废话的Node.js版本管理器
+- [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
+- [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
+- [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
 
 ### Testing
 
-- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - 基于TAP的测试运行器 
-- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - 快速而强大的模拟
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ## Resources
 
 ### Articles
 
-- [The fish shell is awesome](https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/) 作者：Julia Evans
-- [A user introduction to the fish shell](https://flaviocopes.com/fish-shell) 作者：Flavio Copes
-- [Come for the colors and autosuggestions, stay for the sane scripting!](https://mvolkmann.github.io/fish-article) 作者：Mark Volkmann
+- [The fish shell is awesome](https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/) by Julia Evans
+- [A user introduction to the fish shell](https://flaviocopes.com/fish-shell) by Flavio Copes
+- [Come for the colors and autosuggestions, stay for the sane scripting!](https://mvolkmann.github.io/fish-article) by Mark Volkmann
 
 ### Community
 
@@ -76,4 +76,4 @@
 
 ---
 
- 寻找更多？ [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)
+👋 Looking for more? [Explore](https://github.com/topics/fish-shell) [these](https://github.com/topics/fish-packages) [topics](https://github.com/topics/fisher) [on](https://github.com/topics/oh-my-fish) [GitHub](https://github.com/topics/fish-prompt)

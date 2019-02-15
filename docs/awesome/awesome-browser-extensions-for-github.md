@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="stefanbuck/awesome-browser-extensions-for-github"></div>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-GitHub的精彩浏览器扩展的精选列表.
+A curated list of awesome browser extensions for GitHub.
 
 
 
 ## Code
 
 
-在GitHub上查看代码的抽象语法树（AST）.
+View the abstract syntax tree (AST) of code on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -16,7 +16,7 @@ GitHub的精彩浏览器扩展的精选列表.
 </details>
 
 
-在GitHub.com上为代码视图设置自定义选项卡大小
+Set custom tab size for code view on GitHub.com
 
 <details><summary>Screenshots</summary>
 
@@ -24,7 +24,7 @@ GitHub的精彩浏览器扩展的精选列表.
 </details>
 
 
-Octohint为GitHub添加了IntelliSense提示功能.
+Octohint adds IntelliSense hint feature to GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -32,7 +32,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
- Octo-Linker是一个浏览器扩展，它将NPM，bower，Composer和Duo依赖关系链接到他们的GitHub存储库页面.  它还解决了.js，.jsx，.coffee或.md文件中的require（）语句.
+Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statements in a .js, .jsx, .coffee or .md file.
 
 <details><summary>Screenshots</summary>
 
@@ -40,7 +40,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
- 一个扩展，在GitHub上的源代码上创建与外部或内部导入模块的直接链接.  支持多种语言，包括常见的语言，如Rust，Go，Python和Ruby，还有Nim，Haskell，Julia和Elm等奇怪的语言.
+An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
 <details><summary>Screenshots</summary>
 
@@ -48,7 +48,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
- 在GitHub上查看JavaScript代码时跳转到变量的定义.  还突出显示所有变量引用.
+Jump to a variable's definition when viewing JavaScript code on GitHub. Also highlights all variable references.
 
 <details><summary>Screenshots</summary>
 
@@ -56,8 +56,8 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
- 它们是标签吗？  他们是空间吗？  多少？  永远不要再想了！
-在GitHub上的所有代码中将空格渲染为`·`和制表符作为`→`.
+Are they tabs? Are they spaces? How many? Never wonder again!
+Renders spaces as `·` and tabs as `→` in all the code on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -65,7 +65,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
-通过将选项卡大小强制为4而不是8来使标签缩进代码更具可读性.
+Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 <details><summary>Screenshots</summary>
 
@@ -81,7 +81,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 </details>
 
 
- 代码折叠 - 有选择地隐藏和显示代码部分的能力 - 在许多文本编辑器和IDE中都是非常宝贵的功能.  现在，开发人员可以利用相同的样式代码折叠，同时在GitHub中对Web上的源代码进行研究.  适用于任何类型的缩进 - 空格或制表符.
+Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
 <details><summary>Screenshots</summary>
 
@@ -89,7 +89,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 </details>
 
 
-轻松浏览已在GitHub上编辑的文件中的更改.
+Easily navigate through the changes in a file that has been edited on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -100,7 +100,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 ## Comments
 
 
-着色问题和PR链接以查看其状态（打开，关闭，合并）.
+Colorize issue and PR links to see their status (open, closed, merged).
 
 <details><summary>Screenshots</summary>
 
@@ -108,7 +108,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 </details>
 
 
-OctoDraft是一个浏览器扩展，它在GitHub的问题部分添加了一个保存草稿按钮，用于那些没有时间编写整个问题的时间.
+OctoDraft is a Browser Extension which adds a save draft button in the issues section in GitHub, for those times when one doesn't have time to write the whole issue.
 
 <details><summary>Screenshots</summary>
 
@@ -116,7 +116,7 @@ OctoDraft是一个浏览器扩展，它在GitHub的问题部分添加了一个�
 </details>
 
 
-OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了一个新选项卡，提供了Markdown语法高亮和Tab键行为.
+OctoEdit is a Browser Extension which adds a new tab to the comment edit area in GitHub, providing Markdown syntax highlighting and tabbing behavior.
 
 <details><summary>Screenshots</summary>
 
@@ -124,7 +124,7 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 </details>
 
 
- 键入时显示Markdown注释的实时预览.  适用于问题+拉请求.
+Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
 
 <details><summary>Screenshots</summary>
 
@@ -132,12 +132,12 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 </details>
 
 
- 像拉取请求一样在GitHub上查看存储库.  此扩展添加了github.com在文件中做笔记并将其作为编译列表添加到问题中的功能.
+Review repositories on GitHub like a Pull Request. This extension adds the ability to github.com to make notes in files and add them as a compiled list to an issue.
 
 ## Miscellaneous
 
 
-此扩展程序将在浏览器中向GitHub添加“构建”选项卡.
+This extension will add "builds" tab to GitHub in your browser.
 
 <details><summary>Screenshots</summary>
 
@@ -145,13 +145,13 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 </details>
 
 
-为GitHub添加各种有用的功能：
+Adds various useful features to GitHub:
 
-1.单击文件图标下载任何文件.
-2.显示未读通知的工具提示.
-3.显示回购大小.
-4.如果有GitHub页面，则显示“GH页面”链接按钮.
-5.在2/4/8空格之间自定义选项卡大小.
+1. Download any file by clicking the file icon.
+2. Show tooltip of your unread notifications.
+3. Show Repo size.
+4. Show 'GH Page' link button if it has GitHub Pages.
+5. Tab size customising between 2/4/8 whitespace.
 
 <details><summary>Screenshots</summary>
 
@@ -159,7 +159,7 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 </details>
 
 
- 在1400px，1600px和1800px处添加断点，以在大屏幕上获得完整的GitHub体验.  还会删除存储库浏览器中文件和目录名称的截断.
+Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
 <details><summary>Screenshots</summary>
 
@@ -168,7 +168,7 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 
 
 
-Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到您将配置的GitHub存储库，然后在任何网页上单击此扩展按钮，它将添加给定链接以及该存储库中页面的标题.
+Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
 
 <details><summary>Screenshots</summary>
 
@@ -177,11 +177,11 @@ Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到�
 
 
 
-扩展，简化了GitHub接口并添加了有用的功能.
+Extension that simplifies the GitHub interface and adds useful features.
 
 <details><summary>Highlights</summary>
 
--  [Mark issues and pull requests as unread](https://user-images.githubusercontent.com/1402241/27847663-963b7d7c-6171-11e7-9470-6e86d8463771.png) （它们将重新出现在通知中）
+-  [Mark issues and pull requests as unread](https://user-images.githubusercontent.com/1402241/27847663-963b7d7c-6171-11e7-9470-6e86d8463771.png) (They will reappear in Notifications)
 - [Reaction avatars](https://user-images.githubusercontent.com/1402241/34438653-f66535a4-ecda-11e7-9406-2e1258050cfa.png)
 - [Waits for the PR checks before merging a PR](https://user-images.githubusercontent.com/1402241/35192861-3f4a1bf6-fecc-11e7-8b9f-35ee019c6cdf.gif)
 - [Linkifies issue/PR references in code, comments and titles](https://cloud.githubusercontent.com/assets/170270/25370217/61718820-29b3-11e7-89c5-2959eaf8cac8.png)
@@ -192,7 +192,7 @@ Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到�
 
 
 
- 将GitHub repos可视化为d3力导向图.  该扩展程序可让您快速了解任何回购的大小和组成.
+Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
 
 <details><summary>Screenshots</summary>
 
@@ -200,7 +200,7 @@ Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到�
 </details>
 
 
- 过滤不同类别的拉动请求/问题，从而大大提高生产力.  还建议新的趋势存储库.
+Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
 
 <details><summary>Screenshots</summary>
 
@@ -211,19 +211,19 @@ Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到�
 ## Navigation
 
 
-Chrome扩展程序，用于在GitHub的提交页面上进行无限滚动.
+A Chrome extension for infinite scrolling on GitHub's commit pages.
 
 
-OctoPermalinker是一个浏览器扩展，可以在GitHub注释/文件中搜索分支上文件的链接，
-并添加指向评论/文件制作/更新时分支指向的位置的链接.
-这有助于您避免跟踪发布后损坏的链接.
-对于上下文，这里有一些关于破坏的GitHub链接的讨论：
+OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches,
+and adds a link to where the branch pointed when the comment/file was made/updated.
+This helps you avoid following a link that was broken after being posted.
+For context, here's some discussion about broken GitHub links:
 [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
 
-例如，假设您正在查看链接到repo主分支上的文件的要点.
-在制作要点时，链接有效，但如果文件被删除，则链接断开.
-OctoPermalinker使用gist创建日期添加仍然有效的永久链接.
-以下是一些展示差异的截屏视频：
+For example, suppose you're looking at a gist that links to a file on the master branch of a repo.
+At the time the gist was made, the link worked, but if the file gets removed, the link is broken.
+OctoPermalinker uses the gist creation date to add a permalink that still works.
+Here are some screencasts demonstrating the difference:
 
 <details><summary>Screenshots</summary>
 
@@ -235,7 +235,7 @@ OctoPermalinker使用gist创建日期添加仍然有效的永久链接.
 </details>
 
 
-对于经常在GitHub中读取源并且不想下载或签出太多存储库的开发人员非常有用.
+Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
 <details><summary>Screenshots</summary>
 
@@ -243,7 +243,7 @@ OctoPermalinker使用gist创建日期添加仍然有效的永久链接.
 </details>
 
 
-Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
+Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
 
 <details><summary>Screenshots</summary>
 
@@ -251,7 +251,7 @@ Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016
 </details>
 
 
-可以轻松地从GitHub页面网站访问存储库信息.
+Makes it easy to access repository info from a GitHub pages website.
 
 <details><summary>Screenshots</summary>
 
@@ -259,7 +259,7 @@ Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016
 </details>
 
 
-在GitHub上显示markdown文档的所有主题标题的可点击大纲
+Displays a clickable outline of all topic headers for markdown documents on GitHub
 
 <details><summary>Screenshots</summary>
 
@@ -269,7 +269,7 @@ Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016
 ## Newsfeed
 
 
-Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题中的重要更改
+Chrome extension which helps you not to miss important changes in your news thread related to your repo
 
 <details><summary>Screenshots</summary>
 
@@ -278,7 +278,7 @@ Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题�
 </details>
 
 
-在GitHub的仪表板上显示新闻源中所有条目的图片
+Show pictures for all entries in the news feed on GitHub's dashboard
 
 <details><summary>Screenshots</summary>
 
@@ -286,7 +286,7 @@ Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题�
 </details>
 
 
-⚒超小的镀铬扩展使您的GitHub新闻源更有条理
+⚒ A super tiny chrome extension making your GitHub news feed more organized
 
 <details><summary>Screenshots</summary>
 
@@ -294,7 +294,7 @@ Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题�
 </details>
 
 
-帮助您轻松查看自上次访问GitHub以来发生的活动.
+Helps you see easily which activities happened since you last visited GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -305,7 +305,7 @@ Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题�
 ## Notifications
 
 
-当您在GitHub上收到新通知时显示通知，并提供对弹出窗口中所有通知的快速访问.
+Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
 <details><summary>Screenshots</summary>
 
@@ -313,7 +313,7 @@ Chrome扩展程序可帮助您不要错过与您的回购相关的新闻主题�
 </details>
 
 
-Chrome和Firefox扩展程序，可在GitHub新闻Feed中显示某些内容时显示通知.
+A Chrome and Firefox extension that shows notifications when something happens in your GitHub news feed.
 
 <details><summary>Screenshots</summary>
 
@@ -322,7 +322,7 @@ Chrome和Firefox扩展程序，可在GitHub新闻Feed中显示某些内容时显
 
 
 
-Chrome和Firefox扩展程序可在弹出窗口中快速查看通知，而无需离开当前页面.
+A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
 
 <details><summary>Screenshots</summary>
 
@@ -330,7 +330,7 @@ Chrome和Firefox扩展程序可在弹出窗口中快速查看通知，而无需�
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise以及仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看未读通知.
+Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
 <details><summary>Screenshots</summary>
 
@@ -341,7 +341,7 @@ Chrome和Firefox扩展程序可在弹出窗口中快速查看通知，而无需�
 ## Profile
 
 
-GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的用户或组织配置文件页面的CoderStats页面的链接.
+The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -350,7 +350,7 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 </details>
 
 
-Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类似Twitter的用户界面中关注您
+Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
 
 <details><summary>Screenshots</summary>
 
@@ -358,7 +358,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 </details>
 
 
-适合GitHub的整洁的hovercards.
+Neat hovercards for GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -366,7 +366,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 </details>
 
 
-允许您在普通GitHub贡献图表和等距像素艺术版本之间切换.
+Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
 <details><summary>Screenshots</summary>
 
@@ -374,7 +374,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 </details>
 
 
-推断或尝试查找GitHub用户的Twitter句柄，并在GitHub界面中呈现给您.
+Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
 
 <details><summary>Screenshots</summary>
 
@@ -382,7 +382,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 </details>
 
 
-扩展以获得当前和最长的条纹.
+Extension to get back current and longest streak.
 
 <details><summary>Screenshots</summary>
 
@@ -390,7 +390,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 </details>
 
 
-在用户配置文件页面上生成饼图，显示他们在其存储库中使用的语言的明细.
+Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
 
 <details><summary>Screenshots</summary>
  
@@ -401,7 +401,7 @@ Chrome扩展程序用于检查您正在访问的GitHub个人资料是否在类�
 ## PullRequest
 
 
-对混合的GitHub通知进行分类
+Categorize your mixed GitHub notifications
 
 <details><summary>Screenshots</summary>
 
@@ -418,7 +418,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 
 
-在GitHub.com上展开和折叠文件差异
+Expand and collapse file diffs on GitHub.com
 
 <details><summary>Screenshots</summary>
 
@@ -427,7 +427,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 
 
-突出显示GitHub源视图中的选定单词，如Sublime Text.
+Highlight selected word in GitHub source view like Sublime Text.
 
 <details><summary>Screenshots</summary>
 
@@ -435,12 +435,12 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 </details>
 
 
-Chrome扩展程序可优化GitHub以处理大拉请求. 
+Chrome extension to optimize GitHub for handling big pull request. 🚀
 
-在查看代码时，只要大拉请求页面无响应，您就可以启用扩展程序来优化页面.
+You can enable the extension to optimize the page whenever a big pull request page is getting unresponsive while you are reviewing the code.
 
 
-浏览器扩展，显示哪些拉取请求包含与文件相关的更改.
+Browser extension that shows which pull requests contain changes related to a file.
 
 <details><summary>Screenshots</summary>
 
@@ -450,7 +450,7 @@ Chrome扩展程序可优化GitHub以处理大拉请求.
 ## Repository
 
 
-可以轻松查看GitHub项目是否具有 [Gitter](https://gitter.im) 房间.
+Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 
 <details><summary>Screenshots</summary>
 
@@ -458,7 +458,7 @@ Chrome扩展程序可优化GitHub以处理大拉请求.
 </details>
 
 
-从GitHub文件浏览器中隐藏dotfiles.
+Hide dotfiles from the GitHub file browser.
 
 <details><summary>Screenshots</summary>
 
@@ -466,7 +466,7 @@ Chrome扩展程序可优化GitHub以处理大拉请求.
 </details>
 
 
-一个浏览器扩展，它在GitHub上为不同的文件类型提供不同的图标.
+A browser extension which gives different filetypes different icons on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -474,14 +474,14 @@ Chrome扩展程序可优化GitHub以处理大拉请求.
 </details>
 
  
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库浏览器中.
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
 <details><summary>Screenshots</summary>
   <img src="https://raw.githubusercontent.com/dderevjanik/github-vscode-icons/raw/master/docs/screenshots/repo_screens.png"/>
 </details>
 
 
-请参阅存储库名称下最明星的分叉.
+See forks with the most stars under the names of repositories.
 
 <details><summary>Screenshots</summary>
 
@@ -489,7 +489,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
-在GitHub上显示npm包统计信息
+Displays npm package stats on GitHub
 
 <details><summary>Screenshots</summary>
 
@@ -497,7 +497,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
-在github.com上查看具有package.json文件的存储库时，此扩展将自我检测package.json中的依赖项，并显示每个依赖项的链接和描述，就在repo的README下面.
+When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
 <details><summary>Screenshots</summary>
 
@@ -505,7 +505,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
-此软件包列出了在浏览GitHub时遇到的各种软件包的软件包文件中的依赖项.
+This package lists the dependencies in the package files of the various packages you encounter while browsing GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -514,7 +514,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 
 
 
-显示每个文件的大小，下载链接以及将文件内容直接复制到剪贴板的选项
+Displays size of each file, download link and an option of copying file contents directly to clipboard
 
 <details><summary>Screenshots</summary>
 
@@ -523,7 +523,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
-自动将存储库大小添加到GitHub的存储库摘要中.
+Automatically adds repository size to GitHub's repository summary.
 
 <details><summary>Screenshots</summary>
 
@@ -531,7 +531,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
- 此扩展名是在GitHub中显示repos的travis-ci状态.  有一个可视图表，显示最近10次的构建状态和持续时间的变化.
+This extension is to display travis-ci status for repos in GitHub. There is a visual chart which shows build status and duration changes for recent 10 times.
 
 <details><summary>Screenshots</summary>
 
@@ -539,13 +539,13 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
-当您查看代码，拉取请求和差异时，Sourcegraph浏览器扩展提供了类似GitHub IDE的功能：
+The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
 
-1.转到定义
-2.查找参考文献
-3.强大的代码搜索功能，包括正则表达式匹配，差异搜索和其他过滤器
-4.悬停工具提示
-5.文件树导航
+1. Go to definition
+2. Find references
+3. Powerful code search with regexp matching, diff searches, and other filters
+4. Hover tooltips
+5. File tree navigation
 
 
 <details><summary>Screenshots</summary>
@@ -554,7 +554,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
- ZenHub是第一个也是唯一一个在GitHub中本地工作的项目管理套件;  通过专为初创公司，快速发展的工程团队和开源社区构建的功能增强您的工作流程.  该产品是一个浏览器扩展，注入了高级功能，包括实时拖放问题任务板，通过+1按钮的对等反馈，以及支持将任何文件类型直接上传到GitHub界面.  ZenHub可以轻松将所有流程集中到GitHub中，让您的团队保持精简和敏捷.
+ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
 <details><summary>Screenshots</summary>
 
@@ -564,7 +564,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 ## Search
 
 
-简单而谨慎的扩展，增强了GitHub的搜索功能，让您比以往更快地搜索存储库和人员.
+Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.
 
 <details><summary>Screenshots</summary>
 
@@ -572,7 +572,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
- 更好地在GitHub中进行搜索.  使用GitHub，您只能搜索每个非分叉存储库的一个分支.  同 [GitSense](https://gitsense.com)，您可以从任何存储库中搜索任何分支，等等.
+Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
 
 <details><summary>Screenshots</summary>
 
