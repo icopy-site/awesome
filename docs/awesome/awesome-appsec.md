@@ -1,16 +1,16 @@
 <div class="github-widget" data-repo="paragonie/awesome-appsec"></div>
 ## Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources for learning about application security. Contains books,
-websites, blog posts, and self-assessment quizzes.
+ 用于了解应用程序安全性的精选资源列表.  包含书籍，
+网站，博客文章和自我评估测验.
 
-Maintained by [Paragon Initiative Enterprises](https://paragonie.com) with
-contributions from the application security and developer communities. We also
-have [other community projects](https://paragonie.com/projects) which might be
-useful for tomorrow's application security experts.
+由...维护 [Paragon Initiative Enterprises](https://paragonie.com) 同
+ 应用程序安全性和开发人员社区的贡献.  我们也
+have [other community projects](https://paragonie.com/projects) 可能是
+对明天的应用安全专家有用.
 
-If you are an absolute beginner to the topic of software security, you may benefit
-from reading [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
+如果您是软件安全主题的绝对新手，您可能会受益
+从阅读 [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
 
 ## Contributing
 
@@ -79,243 +79,243 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 
 ### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
-**Released**: February 25, 2014
+**发布**：2014年2月25日
 
-Advice on cryptographically secure pseudo-random number generators.
+关于加密安全伪随机数生成器的建议.
 
 ### [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm) (2014)
 
-**Released**: August 6, 2014
+**发布**：2014年8月6日
 
-A post on [Crackstation](https://crackstation.net), a project by [Defuse Security](https://defuse.ca)
+一篇文章 [Crackstation](https://crackstation.net)，一个项目 [Defuse Security](https://defuse.ca)
 
 ### [A good idea with bad usage: /dev/urandom](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
 
-**Released**: May 3, 2014
+**发布**：2014年5月3日
 
-Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
+提到了很多方法可以使Linux / BSD上的`/ dev / urandom`失败.
 
 ### [Why Invest in Application Security?](https://paragonie.com/white-paper/2015-why-invest-application-security) (2015)
 
-**Released**: June 21, 2015
+**发布**：2015年6月21日
 
-Running a business requires being cost-conscious and minimizing unnecessary spending. The benefits of ensuring in the security of your application are invisible to most companies, so often times they neglect to invest in secure software development as a cost-saving measure. What these companies don't realize is the potential cost (both financial and to brand reputation) a preventable data compromise can incur.
+ 经营企业需要注重成本并尽量减少不必要的支出.  确保应用程序安全的好处对于大多数公司来说是不可见的，因此他们经常忽视投资安全软件开发作为节省成本的措施.  这些公司没有意识到的是可预防的数据泄露可能产生的潜在成本（包括财务和品牌声誉）.
 
-**The average data breach costs millions of dollars in damage.**
+**平均数据泄露造成数百万美元的损失.**
 
-Investing more time and personnel to develop secure software is, for most companies, worth it to minimize this unnecessary risk to their bottom line.
+对大多数公司而言，投入更多时间和人员来开发安全软件是值得的，以最大限度地减少这种不必要的风险.
 
 ### [Be wary of one-time pads and other crypto unicorns](https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/) (2015)
 
-**Released**: March 25, 2015
+**发布**：2015年3月25日
 
-A **must-read** for anyone looking to build their own cryptography features.
+对于任何想要构建自己的加密功能的人来说，**必须阅读**.
 
 ## Books
 
 
-**Released**: September 27, 2011
+**发布**：2011年9月27日
 
-Great introduction to Web Application Security; though slightly dated.
-
-
-**Released**: March 15, 2010
-
-Develops a sense of professional paranoia while presenting crypto design techniques.
+ Web应用程序安全性的精彩介绍;  虽然有点过时了.
 
 
-**Released**: March 1, 2018
+**发布**：2010年3月15日
 
-Securing DevOps explores how the techniques of DevOps and Security should be applied together to make cloud services safer. This introductory book reviews state of the art practices used in securing web applications and their infrastructure, and teaches you techniques to integrate security directly into your product.
-
-
-**Released**: May 3, 2009
+在展示加密设计技巧的同时，培养一种专业的偏执感.
 
 
+**发布**：2018年3月1日
+
+ 保护DevOps探索如何应用DevOps和Security技术以使云服务更安全.  这本介绍性书籍回顾了保护Web应用程序及其基础结构所使用的最新实践，并教您如何将安全性直接集成到您的产品中.
 
 
-**Released**: November 30, 2006
+**发布**：2009年5月3日
 
 
 
 
-**Released**: August 30, 1996
+**发布**：2006年11月30日
 
 
 
 
-**Released**: April 15, 2005
+**发布**：1996年8月30日
 
 
 
 
-**Released**: May 1, 2008
+**发布**：2005年4月15日
 
 
 
 
-**Released**: June 17, 2007
+**发布**：2008年5月1日
 
 
 
 
-**Released**: March 3, 2009
+**发布**：2007年6月17日
 
 
 
 
-**Released**: August 22, 2008
+**发布**：2009年3月3日
 
 
 
 
-**Released**: June 25, 1998
+**发布**：2008年8月22日
 
 
 
 
-**Released**: December 29, 2004
+**发布**：1998年6月25日
 
 
 
 
-**Released**: December 13, 1989
+**发布**：2004年12月29日
 
 
 
 
-**Released**: August 3, 2009
+**发布**：1989年12月13日
+
+
+
+
+**发布**：2009年8月3日
 
 
 
 ### [Secure Programming HOWTO](http://www.dwheeler.com/secure-programs/) (2015)
 
-**Released**: March 1, 2015
+**发布**：2015年3月1日
 
 
 
 ### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2008)
 
-**Released**: April 14, 2008
+**发布**：2008年4月14日
 
 
 
 
-**Released**: August 1, 2014
+**发布**：2014年8月1日
 
 
 
 ### [Holistic Info-Sec for Web Developers (Fascicle 0)](https://leanpub.com/holistic-infosec-for-web-developers) (2016)
 
-**Released**: September 17, 2016
+**发布**：2016年9月17日
 
-The first part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises.
+三部分系列丛书的第一部分，广泛而深入地介绍了Web开发人员和架构师需要了解的内容，以便创建稳定，可靠，可维护和安全的软件，网络和其他，按时交付，没有令人讨厌的惊喜.
 
 ### [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
 
-The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
+三部分系列丛书的第二部分，对Web开发人员和架构师需要了解的内容进行广泛而深入的介绍，以便创建可靠，可靠，可维护且安全的软件，VPS，网络，云和Web应用程序.持续，准时，没有令人讨厌的惊喜.
 
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
-A vulnerability research and exploit development class by Owen Redwood of Florida State University. 
+佛罗里达州立大学Owen Redwood的漏洞研究和开发课程. 
 
-**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
+**一定要看看 [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ### [Hack Night](https://github.com/isislab/Hack-Night)
 
-Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
+ Hack New是从纽约大学保利公司旧的渗透测试和漏洞分析课程的材料开发而来，是对进攻性安全的清醒介绍.  随着学生在十三周内被介绍到各种复杂且沉浸式的主题，很快就会涵盖很多复杂的技术内容.
 
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
 
-Learn about application security by attempting to hack this website.
+试图破解这个网站，了解应用程序安全性.
 
 ### [Enigma Group](http://www.enigmagroup.org)
 
-Where hackers and security experts come to train.
+黑客和安全专家前来培训.
 
 ### [Web App Sec Quiz](https://timoh6.github.io/WebAppSecQuiz/)
 
-Self-assessment quiz for web application security
+Web应用程序安全性的自我评估测验
 
 ### [SecurePasswords.info](https://securepasswords.info)
 
-Secure passwords in several languages/frameworks.
+使用多种语言/框架保护密码.
 
 ### [Security News Feeds Cheat-Sheet](http://lzone.de/cheat-sheet/Security-News-Feeds)
 
-A list of security news sources.
+安全新闻来源列表.
 
 ### [Open Security Training](http://opensecuritytraining.info/)
 
-Video courses on low-level x86 programming, hacking, and forensics.
+关于低级x86编程，黑客攻击和取证的视频课程.
 
 ### [MicroCorruption](https://microcorruption.com/login)
 
-Capture The Flag - Learn Assembly and Embedded Device Security
+捕获标志 - 学习组装和嵌入式设备安全
 
 ### [The Matasano Crypto Challenges](http://cryptopals.com)
 
-A series of programming exercises for teaching oneself cryptography by [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.
+一系列用于自学密码学的程序设计练习 [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) 由Maciej Ceglowski解释得很好.
 
 ### [PentesterLab](https://pentesterlab.com)
 
-PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercises/) and a [bootcamp](https://pentesterlab.com/bootcamp/) to get started.
+PentesterLab提供 [free Hands-On exercises](https://pentesterlab.com/exercises/) 和a [bootcamp](https://pentesterlab.com/bootcamp/) 开始.
 
 ### [Juice Shop](https://bkimminich.github.io/juice-shop)
 
-An intentionally insecure Javascript Web Application.
+故意不安全的Javascript Web应用程序.
 
 ### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
 
-How to go on the offence before online attackers do.
+如何在网络攻击者之前继续进攻.
 
 ### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+最容易受到OWASP Top 10 Node.JS Web应用程序的攻击 [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) .  有几个选项可以快速启动和运行.
 
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
 
-Showcasing bad cryptography
+展示糟糕的加密技术
 
 #### [NCC Group - Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
 
-The blog of NCC Group, formerly Matasano, iSEC Partners, and NGS Secure.
+NCC集团的博客，前身为Matasano，iSEC Partners和NGS Secure.
 
 #### [Scott Helme](https://scotthelme.co.uk)
 
-Learn about security and performance.
+了解安全性和性能.
 
 #### [Cossack Labs blog](https://www.cossacklabs.com/blog-archive/) (2018)
 
-**Released**: July 30, 2018
+**发布**：2018年7月30日
 
-Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
+加密公司的博客，它提供开源库和工具，并描述了应用程序和基础架构的实用数据安全方法.
 
 ### Wiki pages
 
 #### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
-The top ten most common and critical security vulnerabilities found in web applications.
+Web应用程序中发现的十大最常见和最重要的安全漏洞.
 
 ### Tools
 
 #### [Qualys SSL Labs](https://www.ssllabs.com/)
 
-The infamous suite of SSL and TLS tools.
+臭名昭着的SSL和TLS工具套件.
 
 #### [securityheaders.io](https://securityheaders.io/)
 
-Quickly and easily assess the security of your HTTP response headers.
+快速轻松地评估HTTP响应标头的安全性.
 
 #### [report-uri.io](https://report-uri.io)
 
-A free CSP and HPKP reporting service.
+免费的CSP和HPKP报告服务.
 
 ## Android
 
@@ -323,9 +323,9 @@ A free CSP and HPKP reporting service.
 
 ### [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard) (2015)
 
-**Released**: February 24, 2015
+**发布**：2015年2月24日
 
-A community-maintained Wiki detailing secure coding standards for Android development.
+由社区维护的Wiki，详细说明了Android开发的安全编码标准.
 
 ## C
 
@@ -333,15 +333,15 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 ### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
 
-**Released**: May 24, 2006
+**发布**：2006年5月24日
 
-A community-maintained Wiki detailing secure coding standards for C programming.
+由社区维护的Wiki，详细说明了C编程的安全编码标准.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
 
-**Released**: July 30, 2018
+**发布**：2018年7月30日
 
-Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
+ 提供通过安全编码提高软件安全性的指南.  涵盖常见的编程语言和库，并侧重于具体的建议.
 
 ## C++
 
@@ -349,18 +349,18 @@ Provides guidelines for improving software security through secure coding. Cover
 
 ### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
 
-**Released**: July 18, 2006
+**发布**：2006年7月18日
 
-A community-maintained Wiki detailing secure coding standards for C++ programming.
+社区维护的Wiki，详细说明了C ++编程的安全编码标准.
 
 ## C Sharp
 
 ## Books and ebooks
 
 
-**Released**: July 14, 2015
+**发布**：2015年7月14日
 
-An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
+介绍开发面向.NET Framework 4.5版的安全应用程序，特别是涵盖加密和安全工程主题.
 
 ## Go
 
@@ -368,9 +368,9 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### [Memory Security in Go - cryptolosophy.io](https://cryptolosophy.io/memory-security-go/) (2017)
 
-**Released**: August 3, 2017
+**发布**：2017年8月3日
 
-A guide to managing sensitive data in memory.
+管理内存中敏感数据的指南.
 
 ## Java
 
@@ -378,15 +378,15 @@ A guide to managing sensitive data in memory.
 
 ### [SEI CERT Java Coding Standard](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) (2007)
 
-**Released**: January 12, 2007
+**发布**：2007年1月12日
 
-A community-maintained Wiki detailing secure coding standards for Java programming.
+由社区维护的Wiki，详细说明了Java编程的安全编码标准.
 
 ### [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
 
-**Released**: April 2, 2014
+**发布**：2014年4月2日
 
-Secure Java programming guidelines straight from Oracle.
+直接来自Oracle的安全Java编程指南.
 
 ## Node.js
 
@@ -394,24 +394,24 @@ Secure Java programming guidelines straight from Oracle.
 
 ### [Node.js Security Checklist - Rising Stack Blog](https://blog.risingstack.com/node-js-security-checklist/) (2015)
 
-**Released**: October 13, 2015
+**发布**：2015年10月13日
 
-Covers a lot of useful information for developing secure Node.js applications.
+涵盖了许多有用的信息，用于开发安全的Node.js应用程序.
 
 ## Books and ebooks
 
 
-**Released**: July 19, 2017
+**发布**：2017年7月19日
 
-Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
+实践和丰富的源代码，以获得Securing Node.js Web应用程序的实用指南.
 
 ## Training
 
 
-Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
+向领导该团队的团队学习 [Node Security Project](https://nodesecurity.io)
 
 
-We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
+ 我们运行多种类型的info-sec安全培训，涵盖物理，人员，VPS，网络，云，Web应用程序.  大多数内容来自于 [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers)  Kim已经工作了几年.  可以找到更多信息 [here](https://binarymist.io/#services)
 
 ## PHP
 
@@ -419,90 +419,90 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 
 ### [It's All About Time](http://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
 
-**Released**: November 28, 2014
+**发布**：2014年11月28日
 
-A gentle introduction to timing attacks in PHP applications
+简要介绍PHP应用程序中的计时攻击
 
 ### [Secure Authentication in PHP with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence) (2015)
 
-**Released**: April 21, 2015
+**发布**：2015年4月21日
 
-Discusses password policies, password storage, "remember me" cookies, and account recovery.
+讨论密码策略，密码存储，“记住我”cookie和帐户恢复.
 
 ### [20 Point List For Preventing Cross-Site Scripting In PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php) (2013)
 
-**Released**: April 22, 2013
+**发布**：2013年4月22日
 
-Padriac Brady's advice on building software that isn't vulnerable to XSS
+Padriac Brady关于构建不易受XSS攻击的软件的建议
 
 ### [25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html) (2011)
 
-**Released**: November 23, 2011
+**发布**：2011年11月23日
 
-Though this article is a few years old, much of its advice is still relevant as we veer around the corner towards PHP 7.
+尽管这篇文章已有几年历史，但随着我们转向PHP 7，它的大部分建议仍然具有相关性.
 
 ### [PHP data encryption primer](https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html) (2014)
 
-**Released**: June 16, 2014
+**发布**：2014年6月16日
 
-@timoh6 explains implementing data encryption in PHP
+@ timoh6解释了在PHP中实现数据加密
 
 ### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide) (2014)
 
-**Released**: May 26, 2014
+**发布**：2014年5月26日
 
-**TL;DR** - don't escape, use prepared statements instead!
+** TL; DR **  - 不要逃避，而是使用准备好的语句！
 
 ### [You Wouldn't Base64 a Password - Cryptography Decoded](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded) (2015)
 
-**Released**: August 7, 2015
+**发布**：2015年8月7日
 
-A human-readable overview of commonly misused cryptography terms and fundamental concepts, with example code in PHP.
+人工可读的常见误用加密术语和基本概念概述，PHP中的示例代码.
 
-If you're confused about cryptography terms, start here.
+如果您对加密术语感到困惑，请从此处开始.
 
 ### [A Guide to Secure Data Encryption in PHP Applications](https://paragonie.com/white-paper/2015-secure-php-data-encryption) (2015)
 
-**Released**: August 2, 2015
+**发布**：2015年8月2日
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), or OpenSSL.
+讨论了端到端网络层加密（HTTPS）的重要性以及静态数据的安全加密，然后介绍了开发人员应该针对特定用例使用的特定加密工具，无论他们是否使用 [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption)或OpenSSL.
 
 ### [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) (2017)
 
-**Released**: December 12, 2017
+**发布**：2017年12月12日
 
-This guide should serve as a complement to the e-book, [PHP: The Right Way](http://www.phptherightway.com), with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
+本指南应作为电子书的补充， [PHP: The Right Way](http://www.phptherightway.com)，强调安全性，而不是一般的PHP程序员主题（例如代码风格）.
 
 ## Books and ebooks
 
 
-*Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
+*保护PHP：核心概念*作为一些最常见安全术语的指南，并在每天PHP中提供它们的一些示例.
 
 ### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
-You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
+ 您不应该需要应用密码学博士来构建安全的Web应用程序.  输入libsodium，它允许开发人员开发快速，安全和可靠的应用程序，而无需知道流密码甚至是什么.
 
 ## Useful libraries
 
 ### [defuse/php-encryption](https://github.com/defuse/php-encryption)
 
-Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
+ 用于PHP应用程序的对称密钥加密库.  （**推荐**滚动自己！）
 
 ### [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
 
-If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
+如果您使用的是PHP 5.3.7+或5.4，请使用此方法来哈希密码
 
 ### [ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)
 
-Useful for generating random strings or numbers
+用于生成随机字符串或数字
 
 ### [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
-A secure OAuth2 server implementation
+安全的OAuth2服务器实现
 
 ### [paragonie/random_compat](https://github.com/paragonie/random_compat)
 
-PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
+ PHP 7提供了一组新的CSPRNG函数：`random_bytes（）`和`random_int（）`.  这是在PHP 5项目（前向兼容层）中公开相同API的社区工作.  允许MIT许可.
 
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
@@ -510,33 +510,33 @@ A secure authentication and authorization library that implements Role-Based Acc
 
 ### [openwall/phpass](http://www.openwall.com/phpass/)
 
-A portable public domain password hashing framework for use in PHP applications.
+用于PHP应用程序的可移植公共域密码哈希框架.
 
 ## Websites
 
 ### [websec.io](http://websec.io)
 
-**websec.io** is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
+** websec.io **致力于通过与一般安全基础，新兴技术和PHP特定信息相关的主题向开发人员提供有关安全性的培训
 
 ### Blogs
 
 #### [Paragon Initiative Enterprises Blog](https://paragonie.com/blog/)
 
-The blog of our technology and security consulting firm based in Orlando, FL
+我们位于佛罗里达州奥兰多的技术和安全咨询公司的博客
 
 #### [ircmaxell's blog](http://blog.ircmaxell.com)
 
-A blog about PHP, Security, Performance and general web application development.
+关于PHP，安全性，性能和一般Web应用程序开发的博客.
 
 #### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
 
-Pádraic Brady is a Zend Framework security expert
+PádraicBrady是Zend Framework安全专家
 
 ### Mailing lists
 
 #### [Securing PHP Weekly](http://securingphp.com)
 
-A weekly newsletter about PHP, security, and the community.
+关于PHP，安全性和社区的每周简报.
 
 ## Perl
 
@@ -544,9 +544,9 @@ A weekly newsletter about PHP, security, and the community.
 
 ### [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard) (2011)
 
-**Released**: January 10, 2011
+**发布**：2011年1月10日
 
-A community-maintained Wiki detailing secure coding standards for Perl programming.
+社区维护的Wiki，详细说明了Perl编程的安全编码标准.
 
 ## Python
 
@@ -554,21 +554,21 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
-Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+列出应避免使用的标准库功能，并引用其他特定于Python的章节.
 
 
-Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
+来自NoStarch出版社的贾斯汀塞茨的黑帽蟒蛇是一本伟大的进攻性安全思想书
 
 
-Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
+Violent Python向您展示了如何从对攻击性计算概念的理论理解转变为实际实现.
 
 ## Websites
 
 ### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
-**Released**: June 21, 2014
+**发布**：2014年6月21日
 
-A wiki maintained by the OWASP Python Security project.
+由OWASP Python Security项目维护的wiki.
 
 ## Ruby
 
@@ -576,6 +576,6 @@ A wiki maintained by the OWASP Python Security project.
 
 ### [Secure Ruby Development Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html) (2014)
 
-**Released**: March 10, 2014
+**发布**：2014年3月10日
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+ Fedora安全团队保护Ruby开发的指南.  也可用 [Github](https://github.com/jrusnack/secure-ruby-development-guide).

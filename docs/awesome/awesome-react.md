@@ -2,12 +2,12 @@
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-A collection of awesome things regarding React ecosystem.
+关于React生态系统的一系列令人敬畏的事情.
 
 
 ---
 ### React
-> JavaScript Library for building User Interfaces
+&gt;用于构建用户界面的JavaScript库
 
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
@@ -214,17 +214,17 @@ A collection of awesome things regarding React ecosystem.
 #### React Tools
 
 ##### Development Toolkits and Frameworks
-* [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-* [Neutrino](https://neutrinojs.org/) - Create and build modern JavaScript applications with zero initial configuration.
-* [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
-* [Next.js](https://nextjs.org/) - A minimalistic framework for server-rendered React applications.
-* [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
-* [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - Create React App using typescript with no build configuration.
-* [rekit](http://rekit.js.org/) - IDE and toolkit for building scalable web applications with React, Redux and React-router.
-* [ARc](https://arc.js.org) - A progressive React starter kit based on Atomic Design.
-* [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
-* [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (batteries included).
-* [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
+* [Create React App](https://github.com/facebookincubator/create-react-app) - 创建没有构建配置的React应用程序.
+* [Neutrino](https://neutrinojs.org/) - 创建和构建现代JavaScript应用程序，初始配置为零.
+* [nwb](https://github.com/insin/nwb) - 用于Web的React，Preact，Inferno和vanilla JS应用程序，React库和其他npm模块的工具包，无需配置（直到您需要它）.
+* [Next.js](https://nextjs.org/) - 服务器呈现的React应用程序的简约框架.
+* [Razzle](https://github.com/jaredpalmer/razzle) - 无需配置即可创建服务器呈现的通用JavaScript应用程序.
+* [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - 使用没有构建配置的typescript创建React App.
+* [rekit](http://rekit.js.org/) - 用于使用React，Redux和React-router构建可伸缩Web应用程序的IDE和工具包.
+* [ARc](https://arc.js.org) - 基于Atomic Design的渐进式React入门套件.
+* [Maka.js](https://makajs.org) - 使用微服务架构的反应框架.
+* [Crana](https://github.com/CranaJS/crana) - 一个CLI工具，只需一个命令即可创建React + Node应用程序（包括电池）.
+* [Crassa](https://github.com/ghondar/crassa) - 使用一个命令创建React + Server Side Rendering的CLI工具.
 
 
 
@@ -258,7 +258,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
-* [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
+* [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) （可与相应工具一起使用：CRA-gen）
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
@@ -516,7 +516,7 @@ A collection of awesome things regarding React ecosystem.
 * [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 * [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
 * [material-ui-layout - A declarative Layout component based on Material-UI and Google's Material Design](https://github.com/OrigenStudio/material-ui-layout)
-* [react-admin](https://github.com/marmelab/react-admin): A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+* [react-admin](https://github.com/marmelab/react-admin)：使用ES6，React和Material Design在REST / GraphQL API之上构建在浏览器中运行的管理应用程序的前端框架
 * [reactjs-popup - popup, Modals, Tooltips and Menus,  All in one](https://github.com/yjose/reactjs-popup)
 * [react-filter-control - A component to build UI for boolean filter creation](https://github.com/komarovalexander/react-filter-control)
 
@@ -763,7 +763,7 @@ A collection of awesome things regarding React ecosystem.
 * [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
 ---
 ### React Native
-> Framework for building native apps using React
+&gt;使用React构建本机应用程序的框架
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
@@ -817,7 +817,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### JSX
-> XML-Like Syntax Extension to JavaScript
+&gt;类似于XML的语法扩展到JavaScript
 
 #### JSX Resources
 * [JSX Spec](https://facebook.github.io/jsx/)
@@ -826,7 +826,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Flux
-> Application Architecture for Building User Interfaces
+&gt;用于构建用户界面的应用程序架构
 
 #### Flux General Resources
 * [Flux Official Site](http://facebook.github.io/flux/)
@@ -877,7 +877,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Redux
-> Predictable State Container for JavaScript Apps
+&gt; JavaScript应用程序的可预测状态容器
 
 #### Redux General Resources
 * [Redux GitHub](https://github.com/reactjs/redux)
@@ -925,7 +925,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### MobX
-> Simple, scalable state management for JavaScript Apps
+&gt; JavaScript应用程序的简单，可扩展状态管理
 
 #### MobX General Resources
 * [MobX GitHub](https://github.com/mobxjs/mobx)
@@ -942,7 +942,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Testing
-> React Testing
+&gt;反应测试
 
 #### Testing Utilities
 * [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
@@ -957,7 +957,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### GraphQL
-> Query Language
+&gt;查询语言
 
 #### GraphQL Spec
 * [GraphQL Official Site](http://graphql.org/)
@@ -1009,7 +1009,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Relay
-> Data-Driven React Applications
+&gt;数据驱动的反应应用程序
 
 #### Relay General Resources
 * [Relay Offical Site](https://facebook.github.io/relay/)
@@ -1029,7 +1029,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Apollo
-> Data stack based on GraphQL
+&gt;基于GraphQL的数据堆栈
 
 #### Apollo General Resources
 * [Apollo Official Site](http://www.apollostack.com/)
@@ -1042,7 +1042,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Flow
-> Static Type Checker for JavaScript
+&gt; JavaScript的静态类型检查器
 
 #### Flow Resources
 * [Flow Official Site](http://flowtype.org/)
@@ -1183,11 +1183,11 @@ A collection of awesome things regarding React ecosystem.
 
 ### Real apps
 
-Remember this is an **awesome** list. To be included here, apps should be:
+ 记住这是一个**真棒**列表.  要包含在此处，应用应该是：
 
-1. Tracking the latest releases of React.
-2. Actively maintained.
-3. Have significant user base.
+1.跟踪最新版本的React.
+2.积极维护.
+3.拥有重要的用户群.
 
 * [debugger.html – Firefox debugger](https://github.com/devtools-html/debugger.html)
 * [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
@@ -1196,7 +1196,7 @@ Remember this is an **awesome** list. To be included here, apps should be:
 
 ---
 ### Contribution
-Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
+ 您的贡献和建议是衷心的♡欢迎.  （✿◠‿◠）
 
 ---
 ### License

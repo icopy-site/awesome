@@ -2,10 +2,10 @@
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
-> Useful resources for the [Test Anything Protocol](https://testanything.org)<br>
-> A simple text-based interface between testing modules in a test harness
+&gt;有用的资源 [Test Anything Protocol](https://testanything.org)<br>
+&gt;测试工具中测试模块之间的简单基于文本的界面
 
-*The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
+ *该列表目前非常注重JavaScript.  那只是因为我只熟悉JS世界中的TAP内容.  欢迎任何语言的贡献.*
 
 
 
@@ -15,62 +15,62 @@
 
 ### JavaScript
 
-- [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output.
-- [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
-- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
-- [tap-min](https://github.com/gummesson/tap-min) - Minimal output.
-- [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
-- [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
-- [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output.
-- [faucet](https://github.com/substack/faucet) - Human-readable summarizer.
-- [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
-- [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output.
-- [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests.
-- [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
-- [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
-- [tap-bail](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
-- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
-- [tap-json](https://github.com/gummesson/tap-json) - JSON output.
-- [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
-- [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
+- [tap-dot](https://github.com/scottcorgan/tap-dot) - 虚线输出.
+- [tap-spec](https://github.com/scottcorgan/tap-spec) - 摩卡式规格记者.
+- [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - 喵喵猫.
+- [tap-min](https://github.com/gummesson/tap-min) - 最小输出.
+- [tap-difflet](https://github.com/namuol/tap-difflet) - 具有差异的最小输出.
+- [tap-diff](https://github.com/axross/tap-diff) - 人性化的输出与差异.
+- [tap-simple](https://github.com/joeybaker/tap-simple) - 简单的输出.
+- [faucet](https://github.com/substack/faucet) - 人类可读的摘要生成器.
+- [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - 使用任何一个 [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
+- [tap-summary](https://github.com/zoubin/tap-summary) - 汇总输出.
+- [tap-pessimist](https://github.com/clux/tap-pessimist) - 仅显示测试失败.
+- [tap-prettify](https://github.com/toolness/tap-prettify) - 良好的可读输出与差异.
+- [tap-colorize](https://github.com/substack/tap-colorize) - 在保持机器可读性的同时着色输出.
+- [tap-bail](https://github.com/juliangruber/tap-bail) - 第一次测试失败时纾困.
+- [tap-notify](https://github.com/axross/tap-notify) -  macOS，Linux和Windows的通知程序.
+- [tap-json](https://github.com/gummesson/tap-json) -  JSON输出.
+- [tap-xunit](https://github.com/aghassemi/tap-xunit) -  xUnit输出.
+- [tap-teamcity](https://github.com/smockle/tap-teamcity) -  TeamCity的输出.
 
 
 ## Producers
 
-Things that produce TAP output.
+产生TAP输出的东西.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
-- [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
-- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
-- [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
-- [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
-- [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
-- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
+- [AVA](https://github.com/sindresorhus/ava) - 未来的测试运行器（`$ ava --tap`）.
+- [tap](https://github.com/isaacs/node-tap) -  Node.js的TAP测试框架.
+- [tape](https://github.com/substack/tape) - 针对Node.js和浏览器生成TAP的测试工具.
+- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - 可插入的JavaScript linter（`$ eslint --format = tap`）.
+- [Mocha](https://mochajs.org) -  Node.js和浏览器的功能丰富的测试框架（`$ mocha reporter = tap`）.
+- [qunit-tap](https://github.com/twada/qunit-tap) -  QUnit的TAP输出.
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) -  Jasmine的TAP输出.
+- [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) -  Karma的TAP输出.
+- [mos](https://github.com/zkochan/mos) -  Markdown文件生成器和测试器（`$ mos test --tap`）.
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
+- [Fishtape](https://github.com/fisherman/fishtape) - 鱼类的TAP生产者和测试工具.
 
 ### Bash
 
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
+- [bats](https://github.com/sstephenson/bats) -  Bash自动化测试系统.
 
 [More...](https://testanything.org/producers.html)
 
 
 ## Consumers
 
-Things that consume TAP output.
+消耗TAP输出的东西.
 
 ### JavaScript
 
-- [tap-parser](https://github.com/substack/tap-parser) - TAP parser.
-- [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser.
-- [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser.
+- [tap-parser](https://github.com/substack/tap-parser) -  TAP解析器.
+- [tap-out](https://github.com/scottcorgan/tap-out) -  TAP解析器.
+- [yamlish](https://github.com/isaacs/yamlish) -  YAML块解析器.
 
 [More...](https://testanything.org/consumers.html)
 
@@ -79,14 +79,14 @@ Things that consume TAP output.
 
 ### JavaScript
 
-- [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
-- [tap-merge](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
-- [smokestack](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
-- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) alternative.
+- [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) - 在浏览器控制台中整理TAP.
+- [tap-merge](https://github.com/anko/tap-merge) - 合并多个TAP流.
+- [smokestack](https://github.com/hughsk/smokestack) - 在浏览器中运行TAP测试并将输出写入`stdout`.
+- [chutney](https://github.com/derhuerst/chutney)   - 在Sauce Labs运行TAP测试.  轻量级 [smokestack](https://github.com/hughsk/smokestack) 替代.
 
 ### Python
 
-- [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP.
+- [tappy](https://github.com/mblayman/tappy) - 使用TAP的工具.
 
 
 ## Articles
@@ -96,7 +96,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
+- [test-anything](https://github.com/finnp/test-anything) - 通过互动研讨会学习使用TAP进行任何测试.
 
 
 ## Documentation
@@ -116,4 +116,4 @@ Things that consume TAP output.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 已放弃对此作品的所有版权及相关或相邻权利.

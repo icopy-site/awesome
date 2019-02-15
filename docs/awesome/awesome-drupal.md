@@ -3,9 +3,9 @@
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
-> [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end for Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
+> [Drupal](https://www.drupal.org) 是一个免费的开源CMS，用PHP编写并在GNU通用公共许可证下发布，为全球网站提供后端 - 从个人博客到公司，政治和政府网站.
 
-You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
+你可能还喜欢 [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 
@@ -13,55 +13,55 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tools
 
-- [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
-- [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
-- [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
-- [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
-- [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/) 
+- [Drupal Console](https://drupalconsole.com/)   -  Drupal CLI.  一种生成样板代码，与Drupal交互并调试Drupal的工具.
+- [DrupalVM](https://www.drupalvm.com/) -  Drupal VM使得构建Drupal开发环境变得快速而简单，并向开发人员介绍了虚拟机或Docker容器上Drupal开发的精彩世界（而不是基于旧的MAMP / WAMP开发）.
+- [Drush](http://www.drush.org/)   -  Drush是Drupal的命令行shell和Unix脚本接口.  Drush核心提供了许多有用的命令，用于与模块/主题/配置文件等代码进行交互.  同样，它运行update.php，执行sql查询和数据库迁移，以及运行cron或clear cache等misc实用程序.
+- [Yo Hedley!](https://github.com/Gizra/generator-hedley) -  Scaffold无头Drupal后端，Angular app客户端和Behat测试.
+- [DDEV-Local](https://github.com/drud/ddev)   - 基于Docker的工具，用于创建和管理本地开发环境.  也可用于其他PHP应用程序.  另见 [Get Started Guide](https://www.drud.com/get-started/) 
 
 
 ## Modules
 
-- [Administration menu](https://www.drupal.org/project/admin_menu) - Provides a theme-independent administration interface (aka. navigation, back-end).
-- [Administration views](https://www.drupal.org/project/admin_views) - Replaces administrative overview/listing pages with actual views for superior usability.
-- [Backup and Migrate](https://www.drupal.org/project/backup_migrate) - Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.
-- [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) - Back up and restore your Drupal MySQL database, code, and files or migrate a site between environments. Backup and Migrate supports gzip, bzip and zip compression as well as automatic scheduled backups.
-- [CKEditor - WYSIWYG HTML editor](https://www.drupal.org/project/ckeditor) - This module will allow Drupal to replace textarea fields with the CKEditor - a visual HTML editor, usually called a WYSIWYG editor.
-- [Colorbox](https://www.drupal.org/project/colorbox) - Colorbox is a light-weight customizable lightbox plugin for jQuery. This module allows for integration of Colorbox into Drupal.
-- [Context](https://www.drupal.org/project/context) - Context allows you to manage contextual conditions and reactions for different portions of your site. You can think of each context as representing a "section" of your site.
-- [Display Suite](https://www.drupal.org/project/ds) - Display Suite allows you to take full control over how your content is displayed using a drag and drop interface.
-- [RESTful module](https://www.drupal.org/project/restful) - Allows Drupal to be operated via RESTful HTTP requests, using best practices for security, performance, and usability.
-- [Organic groups module](https://www.drupal.org/project/og) - Enable users to create and manage their own 'groups'.
-- [Message](https://www.drupal.org/project/message) - Enables logging and displaying system events in a number of different use cases.
-- [Message Notify](https://www.drupal.org/project/message_notify)  – Forward messages when they are generated.
-- [Message Subscribe](https://www.drupal.org/project/message_subscribe) – Register to be notified when messages are generated for specific content.
-- [Module Filter](https://www.drupal.org/project/module_filter) – The modules list page can become quite big when dealing with a fairly large site or even just a dev site meant for testing new and various modules being considered. 
-- [Entities Diagram Graph](https://www.drupal.org/sandbox/bricel/2654176) - Generates a graph of the entities, fields and their relationship of a particular installation of Drupal 7.
-- [Owl Carousel](https://www.drupal.org/project/OwlCarousel) - This module integrates the wonderful Owl Carousel slider built by OwlFonk. 
-- [csv2sql](https://www.drupal.org/project/csv2sql) - Convert CSV to SQL and create a table in your Drupal installation.
-- [Logs HTTP](https://www.drupal.org/project/logs_http) - Provides JSON event pushing to Logs via the tag/http endpoint.
-- [Features](https://www.drupal.org/project/features) - Enables the capture and management of features in Drupal. A feature is a collection of Drupal entities which taken together satisfy a certain use-case.
-- [Commerce](https://www.drupal.org/project/commerce) - Used to build eCommerce websites and applications of all sizes.
-- [Views](https://www.drupal.org/project/views) - Allows administrators and site designers to create, manage, and display lists of content.
-- [Panels](https://www.drupal.org/project/panels) - Allows a site administrator to create customized layouts for multiple uses.
-- [Panelizer](https://www.drupal.org/project/panelizer) - Allows a site administrator to create customized layouts for multiple uses.
-- [Pathauto](https://www.drupal.org/project/pathauto) - The Pathauto module automatically generates URL/path aliases for various kinds of content (nodes, taxonomy terms, users) without requiring the user to manually specify the path alias.
-- [Ctools](https://www.drupal.org/project/ctools) - This suite is primarily a set of APIs and tools to improve the developer experience.
-- [Search API](https://www.drupal.org/project/search_api) - Provides a framework for easily creating searches on any entity known to Drupal, using any kind of search engine.
-- [Slick](https://www.drupal.org/project/slick) - Slick is a powerful and performant slideshow/carousel solution leveraging Ken Wheeler's Slick carousel. See http://kenwheeler.github.io/slick
-- [Token](https://www.drupal.org/project/token) - Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.
-- [Ubercart](https://www.drupal.org/project/ubercart) - Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online. 
-- [Rules](https://www.drupal.org/project/rules) - The Rules module allows site administrators to define conditionally executed actions based on occurring events (known as reactive or ECA rules).
-- [Entity API](https://www.drupal.org/project/entity) - Extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties.
-- [Entity cache](https://www.drupal.org/project/entitycache) - Puts core entities into Drupal's cache API.
-- [elFinder file manager](https://www.drupal.org/project/elfinder) - elFinder is a open source AJAX file manager
-- [IMCE](https://www.drupal.org/project/imce) - IMCE is an image/file uploader and browser that supports personal directories and quota.
-- [Date](https://www.drupal.org/project/date) - Contains both a flexible date/time field type Date field and a Date API that other modules can use.
-- [Devel](https://www.drupal.org/project/devel) - Suite of modules containing fun for module developers and themers.
+- [Administration menu](https://www.drupal.org/project/admin_menu) - 提供独立于主题的管理界​​面（又名导航，后端）.
+- [Administration views](https://www.drupal.org/project/admin_views) - 使用实际视图替换管理概述/列表页面，以实现卓越的可用性.
+- [Backup and Migrate](https://www.drupal.org/project/backup_migrate)   - 备份和恢复Drupal MySQL数据库，代码和文件，或在环境之间迁移站点.  Backup and Migrate支持gzip，bzip和zip压缩以及自动计划备份.
+- [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters)   - 备份和恢复Drupal MySQL数据库，代码和文件，或在环境之间迁移站点.  Backup and Migrate支持gzip，bzip和zip压缩以及自动计划备份.
+- [CKEditor - WYSIWYG HTML editor](https://www.drupal.org/project/ckeditor) - 这个模块将允许Drupal用CKEditor替换textarea字段 - 一个可视化HTML编辑器，通常称为WYSIWYG编辑器.
+- [Colorbox](https://www.drupal.org/project/colorbox)   -  Colorbox是一款轻量级可定制的jQuery灯箱插件.  该模块允许将Colorbox集成到Drupal中.
+- [Context](https://www.drupal.org/project/context)   - 上下文允许您管理网站不同部分的上下文条件和反应.  您可以将每个上下文视为代表您网站的“部分”.
+- [Display Suite](https://www.drupal.org/project/ds) -  Display Suite允许您使用拖放界面完全控制内容的显示方式.
+- [RESTful module](https://www.drupal.org/project/restful) - 允许通过RESTful HTTP请求操作Drupal，使用安全性，性能和可用性的最佳实践.
+- [Organic groups module](https://www.drupal.org/project/og) - 使用户能够创建和管理自己的“组”.
+- [Message](https://www.drupal.org/project/message) - 允许在许多不同的用例中记录和显示系统事件.
+- [Message Notify](https://www.drupal.org/project/message_notify)  - 生成消息时转发消息.
+- [Message Subscribe](https://www.drupal.org/project/message_subscribe) - 注册在为特定内容生成消息时收到通知.
+- [Module Filter](https://www.drupal.org/project/module_filter) - 在处理相当大的网站时，模块列表页面可能变得非常大，甚至只是用于测试正在考虑的新模块和各种模块的开发网站. 
+- [Entities Diagram Graph](https://www.drupal.org/sandbox/bricel/2654176) - 生成Drupal 7特定安装的实体，字段及其关系的图形.
+- [Owl Carousel](https://www.drupal.org/project/OwlCarousel) - 此模块集成了OwlFonk制作的精彩Owl Carousel滑块. 
+- [csv2sql](https://www.drupal.org/project/csv2sql) - 将CSV转换为SQL并在Drupal安装中创建一个表.
+- [Logs HTTP](https://www.drupal.org/project/logs_http) - 通过标记/ http端点提供推送到日志的JSON事件.
+- [Features](https://www.drupal.org/project/features)   - 启用Drupal中功能的捕获和管理.  功能是Drupal实体的集合，它们结合在一起满足特定用例.
+- [Commerce](https://www.drupal.org/project/commerce) - 用于构建各种规模的电子商务网站和应用程序.
+- [Views](https://www.drupal.org/project/views) - 允许管理员和网站设计者创建，管理和显示内容列表.
+- [Panels](https://www.drupal.org/project/panels) - 允许站点管理员为多种用途创建自定义布局.
+- [Panelizer](https://www.drupal.org/project/panelizer) - 允许站点管理员为多种用途创建自定义布局.
+- [Pathauto](https://www.drupal.org/project/pathauto) -  Pathauto模块自动为各种内容（节点，分类术语，用户）生成URL /路径别名，而无需用户手动指定路径别名.
+- [Ctools](https://www.drupal.org/project/ctools) - 该套件主要是一组API和工具，用于改善开发人员体验.
+- [Search API](https://www.drupal.org/project/search_api) - 提供一个框架，使用任何类型的搜索引擎轻松创建Drupal已知的任何实体的搜索.
+- [Slick](https://www.drupal.org/project/slick)   -  Slick是一款功能强大且高性能的幻灯片/旋转木马解决方案，利用Ken Wheeler的Slick旋转木马.  见http://kenwheeler.github.io/slick
+- [Token](https://www.drupal.org/project/token) - 提供核心不支持的其他令牌（最值得注意的是字段），以及用于浏览令牌的UI.
+- [Ubercart](https://www.drupal.org/project/ubercart)   -  Ubercart是您网站上最受欢迎的Drupal电子商务平台.  它实现了开始在线销售产品所需的一切. 
+- [Rules](https://www.drupal.org/project/rules) - 规则模块允许站点管理员根据发生的事件（称为被动或ECA规则）定义有条件执行的操作.
+- [Entity API](https://www.drupal.org/project/entity) - 扩展Drupal核心的实体API，以提供统一的方式来处理实体及其属性.
+- [Entity cache](https://www.drupal.org/project/entitycache) - 将核心实体放入Drupal的缓存API中.
+- [elFinder file manager](https://www.drupal.org/project/elfinder) -  elFinder是一个开源的AJAX文件管理器
+- [IMCE](https://www.drupal.org/project/imce) -  IMCE是一个支持个人目录和配额的图像/文件上传器和浏览器.
+- [Date](https://www.drupal.org/project/date) - 包含灵活的日期/时间字段类型日期字段和其他模块可以使用的日期API.
+- [Devel](https://www.drupal.org/project/devel) - 模块套件，包含模块开发人员和模块的乐趣.
 - [Migrate](https://www.drupal.org/project/migrate) - Provides a flexible framework for migrating content into Drupal from other sources.
-- [Entity validator](https://www.drupal.org/project/entity_validator) - Allows you to define a plugin and set methods to validate the object you'r dealing with.
-- [Webform](https://www.drupal.org/project/webform) - Webform is the module for making forms and surveys in Drupal.
-- [WYSIWYG](https://www.drupal.org/project/wysiwyg) - Allows the use of client-side editors to edit content.
+- [Entity validator](https://www.drupal.org/project/entity_validator) - 允许您定义插件并设置方法以验证您正在处理的对象.
+- [Webform](https://www.drupal.org/project/webform) -  Webform是在Drupal中进行表单和调查的模块.
+- [WYSIWYG](https://www.drupal.org/project/wysiwyg) - 允许使用客户端编辑器编辑内容.
 
 
 ## Documentation
@@ -97,16 +97,16 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
 - [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 - [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
-- [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
+-  [Drupal无头架构与Inferno.js [现场演示]]（https://snipcart.com/blog/drupal-headless-architecture-tutorial）
 
 
 ## Distributions
 
-- [Commerce kickstart](https://www.drupal.org/project/commerce_kickstart) - Commerce Kickstart is the quickest way to get up and running with Drupal Commerce.
-- [OpenScholar](https://www.drupal.org/project/openscholar) - The easiest way to power all of your institution's websites.
-- [Open Atrium](https://www.drupal.org/project/openatrium) - Open Atrium, maintained by Phase2 Technology, is a Drupal distribution that allows you to confidently engage with your colleagues through convenient collaboration.
-- [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector. 
-- [OpenPublish](https://www.drupal.org/project/openpublish) - OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.
+- [Commerce kickstart](https://www.drupal.org/project/commerce_kickstart) -  Commerce Kickstart是启动和运行Drupal Commerce的最快方式.
+- [OpenScholar](https://www.drupal.org/project/openscholar) - 为您所在机构的所有网站提供支持的最简单方法.
+- [Open Atrium](https://www.drupal.org/project/openatrium) - 由Phase2 Technology维护的Open Atrium是一个Drupal发行版，可让您通过方便的协作自信地与同事互动.
+- [OpenPublic](https://www.drupal.org/project/openpublic) - 对于政府和公共政策组织而言，只有在为公共部门的安全性，可访问性和灵活性要求而构建时，开源才有效. 
+- [OpenPublish](https://www.drupal.org/project/openpublish)   -  OpenPublish是专为在线新闻行业设计的Drupal 7打包发行版.  它部署在各种媒体网站，包括杂志，报纸，期刊，贸易出版物，广播，有线服务，多媒体网站和会员出版物.
 
 ## Books
 
@@ -139,24 +139,24 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [`#drupal` on Freenode](http://webchat.freenode.net/?channels=drupal)
 - [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 - [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
-- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) *(Hebrew)*
+- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) *（希伯来语）*
 - [Drupal NYC Meetup Group](https://www.meetup.com/drupalnyc/)
 
 
 ## Tips
 
-- [Solr Script](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
-- [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
-- [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
+- [Solr Script](https://github.com/RoySegall/solr-script) - 安装Apache Solr的简便脚本.
+- [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - 提供配置ubuntu的步骤，以便为PHP和Drupal开发做好准备.
+- [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - 提供用于配置MacOS以进行开发的文件和脚本.
 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/nirgn975/awesome-drupal/blob/master/contributing.md) first.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/nirgn975/awesome-drupal/blob/master/contributing.md) 第一.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Nir Galon](http://nirgn.com) 已放弃对此作品的所有版权及相关或相邻权利.

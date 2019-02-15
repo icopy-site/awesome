@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
-> A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
+ &gt; SVG的精选列表.  主要思想是每个人都可以在这里做出贡献，因此我们可以将所有关于SVG的信息集中在一起并保持最新.
 
 	- [Accessible SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Accessibility.md)
 	- [Animation](https://github.com/willianjusten/awesome-svg/blob/master/topics/Animation.md)
@@ -33,16 +33,16 @@
 
 ## Thanks to...
 
-* [Marcus Vinicius](https://github.com/mvfsillva), my friend =)
-* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
-* [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
-* [Chris Coyier](https://chriscoyier.net/) and his [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/), was a great start point for me.
-* and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
+* [Marcus Vinicius](https://github.com/mvfsillva)，我的朋友=）
+* [Rodrigo Machado](https://github.com/rcmachado) 帮助我获得CC许可证.
+* [Cleyson Leal](https://github.com/Cleysonlb) 用于创建令人敬畏的徽标.
+* [Chris Coyier](https://chriscoyier.net/) 和他 [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/)，对我来说是一个很好的起点.
+*当然，所有 [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
+欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 
 ## Other Awesome Lists
 
@@ -54,4 +54,4 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Willian Justen](https://github.com/willianjusten) 已放弃对此作品的所有版权及相关或相邻权利.

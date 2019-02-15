@@ -4,12 +4,12 @@
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of CSS Flexible Box Layout Module or only Flexbox.
-Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg](https://github.com/willianjusten/awesome-svg).
+&gt; CSS灵活盒布局模块或仅Flexbox的精选列表.
+灵感来自 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-svg](https://github.com/willianjusten/awesome-svg).
 
 
 ## W3C Specification
-*The specification describes a CSS box model optimized for user interface design.*
+*该规范描述了针对用户界面设计优化的CSS盒模型.*
 * [CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
 
 ## Newsletter
@@ -23,7 +23,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
 
 ## Guides
-*Guides for developers or designer start their studies this wonderful technology.*
+*开发人员或设计师指南开始学习这项精彩的技术.*
 * [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
 * [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
@@ -43,7 +43,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Webflow Flexbox](https://flexbox.webflow.com/)
 
 ## Cross Browser
-*Tips and tricks for your projects work anywhere :D*
+*您的项目提示和技巧在任何地方工作：D *
 
 #### Articles
 * [6 Reasons to Start Using Flexbox](http://bitsofco.de/6-reasons-to-start-using-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_31)
@@ -70,7 +70,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Reflexie](https://github.com/doctyper/reflexie)
 
 ## Other Interesting Articles
-*A list of issues related to flexbox.*
+*与flexbox相关的问题列表.*
 * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_36):metal:
 * [Designing CSS layouts with flexbox is as easy as pie](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly&utm_medium=email)
@@ -82,7 +82,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## Presentations
-*Tired of reading? See an interactive presentation and learn flexbox now.*
+ *厌倦了阅读？  查看交互式演示文稿，立即学习flexbox.*
 
 #### Videos
 * [CSS Layout o ontem, o hoje e o depois (pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
@@ -95,7 +95,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [HTML5. Desenvolvimento avançado](https://www.youtube.com/watch?v=b9ZrOdTFkNk)
 * [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_34)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
-* [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
+* [What the flexbox?](http://flexbox.io) - 一个简单的20视频课程，将帮助您掌握
 * [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
 
 
@@ -122,7 +122,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [CSS Layout: from Table to Flexbox](https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox)
 
 ## Tools
-*Have a little help to create their projects :D*
+*有一点帮助来创建他们的项目：D *
 * [Build with Flexbox](http://flexbox.buildwithreact.com/)
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [CSS Flexbox snippets for Atom](https://github.com/brenopolanski/css-flexbox-atom-snippets)
@@ -137,58 +137,58 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Try Flexbox](https://zyxneo.github.io/flexbox/try-flexbox)
 
 ## Libraries and Frameworks
-*A list of incredible libraries based on flexbox.*
+*基于flexbox的令人难以置信的库列表.*
 * [Bem grid](https://github.com/bem-incubator/bem-grid)
 * [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
-* [Fuux](https://github.com/henriquecustodia/fuux) - Fuux is a Flexbox library that uses the same flexbox interface like classes.
-* [Ginger Grid](https://github.com/erwstout/ginger/) - A Flexbox grid framework named after a cute dog.
-* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
-* [Milligram](http://milligram.github.io/) - A minimalist CSS framework
-* [RolleiFLEX](http://kaisermann.github.io/rolleiflex/) - Just a responsive flexbox grid
-* [Waffle Grid](https://lucasgruwez.github.io/waffle-grid) - An easy to use flexbox grid system
+* [Fuux](https://github.com/henriquecustodia/fuux) -  Fuux是一个Flexbox库，它使用与类相同的flexbox接口.
+* [Ginger Grid](https://github.com/erwstout/ginger/) - 以可爱的狗命名的Flexbox网格框架.
+* [Bulma](http://bulma.io/) - 基于Flexbox的现代CSS框架
+* [Milligram](http://milligram.github.io/) - 极简主义的CSS框架
+* [RolleiFLEX](http://kaisermann.github.io/rolleiflex/) - 只是一个响应灵活的网格
+* [Waffle Grid](https://lucasgruwez.github.io/waffle-grid) - 易于使用的flexbox网格系统
 
 ## Featured Projects
-*Awesome projects about flexbox.*
-* [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
-* [flex-box](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
-* [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
-* [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
-* [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
-* [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
-* [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
-* [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
-* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
-* [grid-styled](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
-* [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
+*关于flexbox的令人敬畏的项目.*
+* [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - 一个代码集合.
+* [flex-box](https://github.com/potch/flex-box) - 自定义元素，使Flexbox的基础知识更易于使用.
+* [Flexbugs](https://github.com/philipwalton/flexbugs) - 社区策划的Flexbox问题列表以及针对它们的跨浏览器解决方法.
+* [Flexbox Froggy](http://flexboxfroggy.com/) - 学习CSS flexbox的游戏.
+* [Flexbox Patterns](http://www.flexboxpatterns.com/)   - 示例和源代码将教您如何使用CSS flexbox构建UI组件！  什么是flexbox？
+* [Flexbox Defense](http://www.flexboxdefense.com/) - 塔式防御：所有塔必须使用CSS Flexbox定位.
+* [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - 了解如何计算弹性项目的宽度.
+* [Flexbox layout](https://github.com/google/flexbox-layout) -  FlexboxLayout是一个库项目，它将CSS Flexible Box Layout Module的类似功能引入Android.
+* [FlexLayout for iOS](https://github.com/lucdion/FlexLayout)   -  FlexLayout使用Swift将flexbox引入iOS.  简洁，直观和可链接的语法.
+* [grid-styled](https://github.com/jxnblk/grid-styled) - 基于Flexbox的响应式ReactJS网格系统，使用样式组件构建
+* [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - 用于跨平台柔性盒布局的样式混合
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox)
-* [React-flexbox](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
-* [Reflexbox](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
-* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
-* [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
-* [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
-* [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.
+* [React-flexbox](https://github.com/tcoopman/react-flexbox) - 实现css flexbox与内联样式的反应.
+* [Reflexbox](https://github.com/jxnblk/reflexbox) - 响应式React flexbox网格系统更高阶组件.
+* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - 单独用CSS解决难以或无法解决的问题的展示，现在使用Flexbox很容易解决.：metal：
+* [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - 一个简洁的小CodePen演示，可以使用Flex属性.
+* [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) -  zeef上的精彩flexbox ::metal：
+* [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - 学习CSS flexbox的游戏.
 
 ## Courses
-* [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
+* [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - 树屋
 
 ## Who to Follow
-*People who talk about it.*
+*谈论它的人.*
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
-* Brad Frost [@brad_frost](https://twitter.com/brad_frost)
+*布拉德弗罗斯特 [@brad_frost](https://twitter.com/brad_frost)
 * Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 * Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
-* Nicolas [@necolas](https://twitter.com/necolas)
-* Philip Walton [@philwalton](https://twitter.com/philwalton)
-* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
+*尼古拉斯 [@necolas](https://twitter.com/necolas)
+*菲利普沃尔顿 [@philwalton](https://twitter.com/philwalton)
+*雷切尔安德鲁 [@rachelandrew](https://twitter.com/rachelandrew)
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
 * Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 * Sean Fioritto [@sfioritto](https://twitter.com/sfioritto)
 
 ## Contributing
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
+想贡献？ [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
 
 ## License
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)

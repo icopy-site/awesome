@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="weblancaster/awesome-IoT-hybrid"></div>
 ## Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
+&gt;缺少的精彩列表 - 精彩的物联网和混合应用程序框架，工具，资源，视频和闪亮的东西的集合.
 
 
 
@@ -71,33 +71,33 @@
 
 ## Contributing
 
-1. Fork it!
-2. Create your branch: `git checkout -b my-new-branch`
-3. Commit your changes: `git commit -am 'fix stuff'`
-4. Push to the branch: `git push origin my-new-branch`
-5. Submit a pull request
+叉吧！
+2.创建你的分支：`git checkout -b my-new-branch`
+3.提交你的更改：`git commit -am&#39;修复东西&#39;
+4.推送到分支：`git push origin my-new-branch`
+5.提交拉取请求
 
 
 ## License
 
-The MIT License (MIT)
+麻省理工学院许可证（MIT）
 
-Copyright (c) 2014 Michael Lancaster
+版权所有（c）2014 Michael Lancaster
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+特此授予任何获得副本的人免费许可
+这个软件和相关的文档文件（“软件”），来处理
+在软件中没有限制，包括但不限于权利
+使用，复制，修改，合并，发布，分发，再许可和/或出售
+本软件的副本，并允许软件所在的人员
+在此条件下提供，但须符合以下条件：
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+上述版权声明和本许可声明均应包含在内
+本软件的副本或重要部分.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+本软件按“原样”提供，不提供任何形式的保证，明示或
+暗示，包括但不限于对适销性的保证，
+ 适用于特定用途和不侵权的适用性.  在任何情况下都不应该
+作者或版权所有者对任何索赔，损害或其他内容负责
+无论是合同，侵权行为还是其他行为，由此产生的责任，
+在软件之外或与之相关的软件或使用或其他交易
 SOFTWARE.

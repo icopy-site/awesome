@@ -1,445 +1,445 @@
 <div class="github-widget" data-repo="deephacks/awesome-jvm"></div>
 ## Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome JVM low level, performance and non-framework related stuff.
+精选的JVM低级，性能和非框架相关内容的精选列表.
 
     - [Communities](#communities)    
 
 
 ## Bytecode
 
-*Tools for bytecode manipulation and analysis.*
+*用于字节码操作和分析的工具.*
 
-* [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
-* [Byte Buddy](http://bytebuddy.net) - Code generation library creating Java classes at runtime without the help of a compiler.
-* [Jitescript](https://github.com/qmx/jitescript) - Bytecode generation library similar to BiteScript. 
+* [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - 用于开发用于生成Java .class文件的工具.
+* [Byte Buddy](http://bytebuddy.net) - 代码生成库在运行时无需编译器的帮助即可创建Java类.
+* [Jitescript](https://github.com/qmx/jitescript) - 类似于BiteScript的字节码生成库. 
 
 ## Garbage collectors
 
-*Garbage collectors for the JVM.*
+* JVM的垃圾收集器.*
 
-* [Azul Pauseless Garbage Collection](https://www.azul.com/files/wp_pgc_zing_v52.pdf) - Providing continuous, pauseless operation for Java applications.
-* [Balanced GC](http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html) - GC policy available in the Java Virtual Machine for IBM WebSphere Application Server V8.
-* [Epsilon GC](http://openjdk.java.net/jeps/318) - Completely passive GC implementation with bounded allocation limit, and lowest runtime performance overhead possible.
-* [G1](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) - The Garbage-First Garbage Collector.
-* [Shenandoah](http://openjdk.java.net/jeps/189) - Ultra-Low-Pause-Time Garbage Collector.
-* [The Garbage Collection Handbook](http://gchandbook.org) - Book that addresses new challenges to garbage collection made by recent advances in hardware and software.
-* [ZGC](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html) - Garbage collector optimized for low latency and very large heaps.
+* [Azul Pauseless Garbage Collection](https://www.azul.com/files/wp_pgc_zing_v52.pdf) - 为Java应用程序提供连续，无间歇的操作.
+* [Balanced GC](http://www.ibm.com/developerworks/websphere/techjournal/1108_sciampacone/1108_sciampacone.html) - 用于IBM WebSphere Application Server V8的Java虚拟机中提供的GC策略.
+* [Epsilon GC](http://openjdk.java.net/jeps/318) - 完全被动的GC实现，具有有限的分配限制，并且可能具有最低的运行时性能开销.
+* [G1](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) -  Garbage-First垃圾收集器.
+* [Shenandoah](http://openjdk.java.net/jeps/189) - 超低暂停时间垃圾收集器.
+* [The Garbage Collection Handbook](http://gchandbook.org) - 预定了最近硬件和软件方面的垃圾收集新挑战.
+* [ZGC](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html) - 垃圾收集器针对低延迟和非常大的堆进行了优化.
 
 ## Load tools
 
-*Tools that generate load and measure the system accurately without coordinated omission*
+*生成负载并精确测量系统的工具，无需协调遗漏*
 
-* [Gatling](http://gatling.io) - Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.
-* [wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk.
+* [Gatling](http://gatling.io) - 用于测试HTTP服务器的异步非阻塞方案驱动的负载测试工具.
+* [wrk2](https://github.com/giltene/wrk2) -  wrk的恒定吞吐量，正确延迟记录变体.
 
 ## Languages
 
-*Languages running on the JVM.*
-* [Ceylon](http://ceylon-lang.org/) - Object-oriented, strong and static programming language with an emphasis on immutability, created by Red Hat.
-* [Clojure](http://clojure.org/) - Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.
-* [Erjang](http://www.erjang.org) - A JVM-based Erlang VM.
-* [Eta](http://eta-lang.org/) - Pure, lazy, strongly typed functional programming language on the JVM.
-* [Frege](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
-* [gojava](https://github.com/sridharv/gojava) - Java bindings for Go packages.
-* [Golo](http://golo-lang.org/) - A simple dynamic language that makes extensive usage of `invokedynamic`.
-* [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
-* [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
-* [JRuby](http://jruby.org) - Implementation of the Ruby language on the JVM.
-* [JPHP](https://github.com/jphp-group/jphp) - PHP on the Java VM.
-* [Jython](http://www.jython.org) - Python for the Java Platform.
-* [Kawa](http://www.gnu.org/software/kawa/) - Extension of the Scheme language, which is in the Lisp family of programming languages.
-* [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
-* [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
-* [Nashorn](http://openjdk.java.net/projects/nashorn/) - Lightweight high-performance JavaScript runtime in Java with a native JVM.
-* [OCaml-Java](http://www.ocamljava.org/) - Supports OCaml language v4. Generates plain Java bytecode and have seamless integration with Java.
-* [Rembulan](https://github.com/mjanicek/rembulan) - Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.
-* [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
-* [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
-* [Xtend](http://www.eclipse.org/xtend/) - Flexible and expressive dialect of Java, which compiles into Java 5 source code.
+*在JVM上运行的语言.*
+* [Ceylon](http://ceylon-lang.org/) - 由Red Hat创建的面向对象的强大而静态的编程语言，强调不变性.
+* [Clojure](http://clojure.org/)   -  Rich Hickey创作的Lisp方言.  动态类型，强调函数式编程.
+* [Erjang](http://www.erjang.org) - 基于JVM的Erlang VM.
+* [Eta](http://eta-lang.org/) -  JVM上纯粹，懒惰，强类型的函数式编程语言.
+* [Frege](https://github.com/Frege/frege) -  Haskell精神中的纯函数式编程语言.
+* [gojava](https://github.com/sridharv/gojava) -  Go包的Java绑定.
+* [Golo](http://golo-lang.org/) - 一种简单的动态语言，广泛使用`invokedynamic`.
+* [Groovy](http://www.groovy-lang.org/) - 可选的类型和动态语言，具有静态类型和静态编译功能.
+* [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - 通用，并发，强类型，基于类的面向对象语言.
+* [JRuby](http://jruby.org) - 在JVM上实现Ruby语言.
+* [JPHP](https://github.com/jphp-group/jphp) -  Java VM上的PHP.
+* [Jython](http://www.jython.org) - 用于Java平台的Python.
+* [Kawa](http://www.gnu.org/software/kawa/) -  Scheme语言的扩展，它是Lisp系列编程语言.
+* [Kotlin](http://kotlinlang.org/) - 用于JVM，Android和浏览器的静态类型编程语言.
+* [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - 以Java为中心的lua vm实现，旨在利用标准Java功能.
+* [Nashorn](http://openjdk.java.net/projects/nashorn/) - 使用本机JVM的Java轻量级高性能JavaScript运行时.
+* [OCaml-Java](http://www.ocamljava.org/)   - 支持OCaml语言v4.  生成普通的Java字节码并与Java无缝集成.
+* [Rembulan](https://github.com/mjanicek/rembulan) -  Rembulan是JVM的Lua 5.3实现，用纯Java编写，具有最小的依赖性.
+* [Renjin](http://www.renjin.org/) - 用于R语言的基于JVM的解释器，用于统计分析
+* [Scala](http://www.scala-lang.org/) - 强大而静态的编程语言，结合了面向对象和函数式编程思想.
+* [Xtend](http://www.eclipse.org/xtend/) -  Java的灵活和富有表现力的方言，它编译成Java 5源代码.
 
 ## Machine Learning
-* [Deeplearning4j](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM.
-* [H2O](https://www.h2o.ai/) - Fast statistical, machine learning & math runtime.
-* [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
+* [Deeplearning4j](https://deeplearning4j.org/) - 用于JVM的开源，分布式深度学习库.
+* [H2O](https://www.h2o.ai/) - 快速统计，机器学习和数学运行时.
+* [Smile](https://github.com/haifengl/smile) - 统计机器智能和学习引擎.
 
 ## Memory and concurrency
 
-*Tools and data structures for efficient memory layout and concurrent access.*
+*用于高效内存布局和并发访问的工具和数据结构.*
 
-* [Agera](https://github.com/google/agera) - Reactive Programming for Android by Google.
-* [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
+* [Agera](https://github.com/google/agera) -  Google的Android反应式编程.
+* [Agrona](https://github.com/real-logic/Agrona) - 构建高性能应用程序时常见的数据结构和实用程序方法库.
 * [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
-* [bloofi](https://github.com/lemire/bloofi) - Java implementation of multidimensional Bloom filters
-* [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
-* [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
-* [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
-* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
-* [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
-* [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
-* [colfer](https://github.com/pascaldekloe/colfer) - Binary serialization format and class generator.
-* [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
-* [CuckooFilter4J](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
-* [cyclops](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
-* [Eclipse Collections](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
-* [externalsortinginjava](https://github.com/lemire/externalsortinginjava) - Sort very large files using multiple cores and an external-memory algorithm.
-* [failsafe](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
-* [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
-* [fast-uuid](https://github.com/jchambers/fast-uuid) - Java library for quickly and efficiently parsing and writing UUIDs.
+* [bloofi](https://github.com/lemire/bloofi) - 多维Bloom过滤器的Java实现
+* [Cap’n Proto](https://capnproto.org/) - 疯狂快速的数据交换格式和基于功能的RPC系统.
+* [caffeine](https://github.com/ben-manes/caffeine) -  Java 8的高性能缓存库.
+* [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - 低级内存访问包装器.
+* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - 微秒存储，将所有内容存储到磁盘.
+* [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - 为低延迟和/或多进程应用程序设计的内存中键值存储.
+* [clj-ds](https://github.com/krukow/clj-ds) -  Clojure的数据结构被修改为在Clojure之外使用.
+* [colfer](https://github.com/pascaldekloe/colfer) - 二进制序列化格式和类生成器.
+* [commons-math](http://commons.apache.org/proper/commons-math) - 轻量级，独立的数学和统计组件库.
+* [CuckooFilter4J](https://github.com/MGunlogson/CuckooFilter4J) -  Bloom过滤器替换近似集合成员资格查询.
+* [cyclops](https://github.com/aol/cyclops) - 用于RxJava，Reactor，FunctionalJava，Guava和Javascript的集成模块.
+* [Eclipse Collections](https://github.com/eclipse/eclipse-collections) -  Java的集合框架.
+* [externalsortinginjava](https://github.com/lemire/externalsortinginjava) - 使用多核和外部存储器算法对非常大的文件进行排序.
+* [failsafe](https://github.com/jhalterman/failsafe) - 用于处理故障的轻量级零依赖库.
+* [fasttuple](https://github.com/boundary/fasttuple) - 在堆内和堆外内存中相邻布局的集合.
+* [fast-uuid](https://github.com/jchambers/fast-uuid) - 用于快速有效地解析和编写UUID的Java库.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
-* [geohash](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
-* [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
-* [hollow](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
-* [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
-* [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
-* [injector](https://github.com/belliottsmith/injector) - A new Executor for Java.
-* [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
-* [java-hll](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
-* [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
-* [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
-* [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
-* [DSL-JSON](http://github.com/ngs-doo/dsl-json) - High performance JSON library with advanced compile-time databinding.
-* [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (copy of DSL-JSON).
-* [jOOL](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
-* [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
-* [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
-* [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
-* [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [lmdbjava](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
-* [lwjgl3](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
-* [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
-* [mph-table](https://github.com/indeedeng/mph-table) - Minimal Perfect Hash Tables are an immutable key/value store with efficient space utilization and fast reads.
-* [mug](https://google.github.io/mug/) - A small, zero-dep functional util library originating from Google. 
-* [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
-* [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
-* [ohc](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
-* [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
-* [onyx-java](https://github.com/onyx-platform/onyx-java) - Mirrors the Onyx Platform core API by providing a Java equivalent for each component of an Onyx workflow.
-* [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
-* [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
-* [pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
-* [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
-* [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-* [rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
-* [RTree2D](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces.
-* [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
-* [Reactive Streams Utilities](https://github.com/lightbend/reactive-streams-utils) - Future standard utilities library for Reactive Streams.
-* [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
-* [rollinghashjava](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
-* [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
-* [RxJava](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
-* [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
-* [Simple Binary Encoding](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
-* [splitmap](https://github.com/richardstartin/splitmap/) - A parallel bitmap implementation.
-* [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
-* [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
-* [stream-lib](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
-* [streamvbyte](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
-* [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
-* [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
-* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
-* [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
-* [wire](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
-* [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
+* [geohash](https://github.com/davidmoten/geo) - 用于geohashing的Java实用程序方法.
+* [gs-collections](https://github.com/goldmansachs/gs-collections) - 高盛集合框架.
+* [hollow](https://github.com/Netflix/hollow) - 用于利用小到中等大小的内存数据集的Java库和综合工具集.
+* [high-scale-lib](https://github.com/boundary/high-scale-lib) -  Cliff Click的高级图书馆.
+* [hppc](https://github.com/carrotsearch/hppc) - 高性能原始集合.
+* [injector](https://github.com/belliottsmith/injector) - 一个新的Java Executor.
+* [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - 来自Scala集合的并发trie哈希映射实现的Java端口.
+* [java-hll](https://github.com/aggregateknowledge/java-hll) - 用于HyperLogLog算法的Java库.
+* [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - 库可以非常快速地压缩和解压缩整数数组.
+* [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - 字符串相似度和距离度量，包括Levenshtein编辑距离和sibbling，Jaro-Winkler，最长公共子序列，余弦相似度等.
+* [JCTools](http://jctools.github.io/JCTools/) -  JDK目前​​缺少并发数据结构.
+* [DSL-JSON](http://github.com/ngs-doo/dsl-json) - 具有高级编译时数据绑定的高性能JSON库.
+* [jsoniter](http://jsoniter.com/) - 声称是有史以来最快的JSON解析器（DSL-JSON的副本）.
+* [jOOL](https://github.com/jOOQ/jOOL) -  Java 8 lambdas的有用扩展.
+* [Koloboke](https://github.com/OpenHFT/Koloboke) -  Java Collections直到内存和性能的最后一个痕迹.
+* [LevelDB](https://github.com/dain/leveldb) - 用Java重写LevelDB（端口）.
+* [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - 一种非常节省内存的trie（基数树）实现.
+* [lmdbjni](https://github.com/deephacks/lmdbjni) -  LMDB的Java API（HawtJNI），这是一个用C语言编写的超快速，超紧凑的键值嵌入式数据存储.
+* [lmdbjava](https://github.com/lmdbjava/lmdbjava) - 用于LMDB的Java API（JNR），它是用C编写的超快速，超紧凑的键值嵌入式数据存储.
+* [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - 使用直接ByteBuffers的内存循环缓冲区，以最大限度地减少GC开销.
+* [lwjgl3](https://github.com/LWJGL/lwjgl3) -  Java库，支持跨平台访问流行的本机API，可用于开发图形（OpenGL），音频（OpenAL）和并行计算（OpenCL）应用程序.
+* [MapDB](http://www.mapdb.org) - 由堆外或磁盘存储支持的集合.
+* [mph-table](https://github.com/indeedeng/mph-table) -  Minimal Perfect Hash Tables是一个不可变的键/值存储，具有高效的空间利用率和快速读取.
+* [mug](https://google.github.io/mug/) - 源自Google的小型，零功能的util库. 
+* [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - 内存缓冲池实现类似于jemalloc.
+* [ObjectLayout](http://objectlayout.org) - 布局优化的Java数据结构包.
+* [ohc](https://github.com/snazy/ohc) - 为Apache Cassandra 3.0开发的Java大型堆缓存.
+* [okio](https://github.com/square/okio) - 现代Java IO库，可以做出巧妙的事情来节省CPU和内存.
+* [onyx-java](https://github.com/onyx-platform/onyx-java) - 通过为Onyx工作流的每个组件提供Java等效项来镜像Onyx Platform核心API.
+* [parquet](https://parquet.apache.org/) - 使用Dremel文件中描述的记录粉碎和汇编算法的列式存储格式.
+* [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - 一个java.util.HashMap兼容的映射，在调整大小时不会停止放置或获取.
+* [pcollections](https://github.com/hrldcpr/pcollections) - 持久Java集合库.
+* [protobuf](https://developers.google.com/protocol-buffers) - 谷歌的数据交换格式.
+* [Quasar](http://www.paralleluniverse.co/quasar/) -  JVM的轻量级线程和actor.
+* [rtree](https://github.com/davidmoten/rtree) -  Java中具有反应式api的不可变内存中的R树和R * -tree实现.
+* [RTree2D](https://github.com/Sizmek/rtree2d) -  RTree2D是一个2D不可变R树，具有STR（Sort-Tile-Recursive）打包，用于平面和球面上的超快速最近和交叉查询.
+* [Reactive Streams](http://www.reactive-streams.org/) - 具有无阻塞背压的异步流处理标准.
+* [Reactive Streams Utilities](https://github.com/lightbend/reactive-streams-utils) -  Reactive Streams的未来标准实用程序库.
+* [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) -  Java中更好的压缩位集.
+* [rollinghashjava](https://github.com/lemire/rollinghashjava) - 在Java中滚动哈希函数.
+* [Reactor](http://projectreactor.io/) -  JVM for Java，Groovy，Clojure等上的反应性数据应用程序.
+* [RxJava](https://github.com/ReactiveX/RxJava) - 用于使用可观察序列组合异步和基于事件的程序的库.
+* [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) -  java.util.Map impl，最差put延迟比java.util.HashMap小100多倍.
+* [Simple Binary Encoding](https://github.com/real-logic/simple-binary-encoding) - 高性能消息编解码器.
+* [splitmap](https://github.com/richardstartin/splitmap/) - 并行位图实现.
+* [DataSketches](https://datasketches.github.io/) - 随机流算法的Java软件库.
+* [stormpot](https://github.com/chrisvest/stormpot) -  JVM的快速对象池.
+* [stream-lib](https://github.com/addthis/stream-lib) - 用于汇总流中数据的Java库，用于存储所有事件是不可行的.
+* [streamvbyte](https://github.com/lemire/streamvbyte) - 使用StreamVByte编解码器在C中进行快速整数压缩.
+* [TraneIO](http://trane.io/) -  Future抽象的高性能实现.
+* [transducers-java](https://github.com/cognitect-labs/transducers-java) - 可组合的算法转换，独立于其输入和输出源的上下文.
+* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - 没有deps的No-deps变量int实现（由Bazel提供）.
+* [vavr](http://www.vavr.io/) -  Java 8+功能库.
+* [wire](https://github.com/square/wire) - 适用于Android和Java的简洁轻量级协议缓冲区.
+* [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - 在Java中散列任何字节序列，包括各种原始数组，缓冲区，CharSequences等.
 
 ## Metaprogramming
 
-*Parsers, interpreters, compilers and source generation targeted for the JVM.*
+*针对JVM的解析器，解释器，编译器和源代码生成.*
 
-* [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
-* [auto](https://github.com/google/auto) - A collection of source code generators for Java.
+* [Antlr](http://www.antlr.org/) - 用于读取，处理，执行或翻译结构化文本或二进制文件的分析器生成器.
+* [auto](https://github.com/google/auto) -  Java的源代码生成器集合.
 * [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
-* [Checker Framework](http://types.cs.washington.edu/checker-framework/) - Compiler plug-ins that find bugs or verify their absence.
-* [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
-* [derive4j](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
-* [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
-* [GHCVM](https://github.com/rahulmutt/ghcvm) - A Haskell to JVM compiler that supports GHC Haskell.
-* [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
-* [grappa](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
-* [immutables](http://immutables.github.io/) - Generate simple, safe and consistent value objects.
-* [javacc](https://javacc.java.net/) - Parser generator for use with Java.
-* [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
-* [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
-* [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
-* [JSweet](http://www.jsweet.org/) - A transpiler from Java to TypeScript/JavaScript.
-* [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
-* [lombok](https://projectlombok.org/) - Reduce the amount of boilerplate code that is commonly written for Java classes.
-* [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
-* [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
-* [TeaVM](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
-* [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
-* [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
+* [Checker Framework](http://types.cs.washington.edu/checker-framework/) - 编译器插件，可以发现错误或验证其缺失.
+* [compile-testing](https://github.com/google/compile-testing) -  javac和注释处理器的测试工具.
+* [derive4j](https://github.com/derive4j/derive4j) - 代数数据类型构造函数，模式匹配，态射，光学和类型类.
+* [error-prone](https://github.com/google/error-prone) - 将常见的Java错误作为编译时错误捕获.
+* [GHCVM](https://github.com/rahulmutt/ghcvm) - 支持GHC Haskell的Haskell到JVM编译器.
+* [Graal](http://openjdk.java.net/projects/graal/) - 与HotSpot虚拟机集成的新的Java实时即时编译器.
+* [grappa](https://github.com/fge/grappa)   -  Parboiled的Java分支.  编写没有预处理阶段的语法.
+* [immutables](http://immutables.github.io/) - 生成简单，安全且一致的值对象.
+* [javacc](https://javacc.java.net/) - 用于Java的分析器生成器.
+* [javaparser](https://github.com/javaparser/javaparser) - 用于Java的Java 1.8分析器和抽象语法树.
+* [JavaPoet](https://github.com/square/javapoet) - 用于生成.java源文件的Java API.
+* [jparsec](https://github.com/jparsec/jparsec) - 使用纯Java和Haskell Parsec构建迷你解析器.
+* [JSweet](http://www.jsweet.org/) - 从Java到TypeScript / JavaScript的转换器.
+* [MPS](https://www.jetbrains.com/mps/) - 设计和构建可扩展的DSL和编辑器.
+* [lombok](https://projectlombok.org/) - 减少通常为Java类编写的样板代码量.
+* [parboiled](https://github.com/sirthias/parboiled) - 基于解析表达式语法解析任意输入文本.
+* [Sulong](https://github.com/graalvm/sulong) - 使用Truffle和Graal用Java编写的LLVM IR解释器.
+* [TeaVM](https://github.com/konsoletyper/teavm) - 从Java字节码到JavaScript的提前翻译编译器（转换器）.
+* [Truffle](https://github.com/graalvm/truffle) - 将语言实现为简单解释器的框架.
+* [Xtext](https://eclipse.org/Xtext/) - 编程语言和DSL开发框架.
 
 ## Native
 
-*Interconnecting JVM and native code* 
+*互连JVM和本机代码* 
 
-* [hawtjni](https://github.com/fusesource/hawtjni) - A JNI code generator based on the JNI generator used in Eclipse SWT.
-* [Java Grinder](https://github.com/mikeakohn/java_grinder) - Compile Java bytecode to microcontroller assembly.
-* [j2v8](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
-* [JavaCPP](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
-* [jnr-ffi](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
-* [jssembly](https://github.com/dvx/jssembly) - Execution of native assembly from Java.
-* [NuProcess](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
-* [Project Panama](http://openjdk.java.net/projects/panama/) - Enriching the connections between the JVM and APIs used by C programmers.
+* [hawtjni](https://github.com/fusesource/hawtjni) - 基于Eclipse SWT中使用的JNI生成器的JNI代码生成器.
+* [Java Grinder](https://github.com/mikeakohn/java_grinder) - 将Java字节码编译为微控制器组件.
+* [j2v8](https://github.com/eclipsesource/j2v8) - 用于Google V8 JavaScript引擎的Java API.
+* [JavaCPP](https://github.com/bytedeco/javacpp) -  JavaCPP提供对Java内部本机C ++的高效访问.
+* [jnr-ffi](https://github.com/jnr/jnr-ffi) - 无需手动编写JNI代码即可加载本机库.
+* [jssembly](https://github.com/dvx/jssembly) - 从Java执行本机程序集.
+* [NuProcess](https://github.com/brettwooldridge/NuProcess) - 用于Java的低开销，非阻塞I / O，外部流程执行实现.
+* [Project Panama](http://openjdk.java.net/projects/panama/) - 丰富C程序员使用的JVM和API之间的连接.
 
 ## Network
 
-*Tools for network programming, packet capture, monitoring, testing and resiliency.*
+*用于网络编程，数据包捕获，监控，测试和弹性的工具.*
 
-* [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
-* [armeria](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
-* [Chronicle-Network](https://github.com/OpenHFT/Chronicle-Network) - A High Performance Network library.
-* [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
-* [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
-* [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
-* [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
-* [JXIO](https://github.com/accelio/JXIO) - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
-* [K3PO](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
-* [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
-* [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
-* [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
-* [one-nio](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
-* [proteus-java](https://github.com/netifi-proteus/proteus-java) - Proteus Java Client based on RSocket.
-* [reactive-grpc](https://github.com/salesforce/reactive-grpc) - Reactive gRPC is a suite of libraries for using gRPC with Reactive Streams programming libraries.
-* [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
-* [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
-* [pcap4j](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
-* [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
-* [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
-* [tcpflow](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
-* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
+* [Aeron](https://github.com/real-logic/Aeron) - 高效可靠的UDP单播，UDP多播和IPC消息传输.
+* [armeria](https://github.com/line/armeria) - 基于Java 8，Netty 4.1，HTTP / 2和Thrift构建的异步RPC / API客户端/服务器库.
+* [Chronicle-Network](https://github.com/OpenHFT/Chronicle-Network) - 高性能网络库.
+* [comcast](https://github.com/tylertreat/comcast) - 模拟糟糕的网络连接.
+* [gor](https://github.com/buger/gor) - 实时HTTP流量重放.
+* [gRPC](http://www.grpc.io/) - 高性能，开源，通用的RPC框架，将移动和HTTP / 2放在第一位.
+* [jRT](https://github.com/LatencyUtils/jRT) - 测量java应用程序对基于套接字的请求的响应时间.
+* [JXIO](https://github.com/accelio/JXIO) -  AccelIO上的Java API（C库），一种针对硬件加速优化的高性能异步可靠消息传递和RPC库.
+* [K3PO](https://github.com/k3po/k3po) - 创建任意网络流量和行为，以验证网络端点是否正常运行.
+* [muxy](https://github.com/mefellows/muxy) - 模拟真实的分布式系统故障.
+* [Netty](http://netty.io/) - 用于高性能协议服务器和客户端的异步事件驱动网络库.
+* [okhttp](https://github.com/square/okhttp) - 适用于Android和Java应用程序的HTTP + HTTP / 2客户端.
+* [one-nio](https://github.com/odnoklassniki/one-nio) - 用于构建高性能Java服务器的库.
+* [proteus-java](https://github.com/netifi-proteus/proteus-java) - 基于RSocket的Proteus Java Client.
+* [reactive-grpc](https://github.com/salesforce/reactive-grpc) - 反应性gRPC是一套用于将gRPC与Reactive Streams编程库一起使用的库.
+* [RSocket](http://rsocket.io/) -  RSocket是一种二进制协议，用于字节流传输，如TCP，WebSockets和Aeron.
+* [SimianArmy](https://github.com/Netflix/SimianArmy) - 弹性工具，有助于确保您的应用程序可以容忍随机实例故障.
+* [pcap4j](https://github.com/kaitoy/pcap4j) - 使用libpcap捕获，制作和发送数据包的Java库.
+* [pig](https://github.com/rafael-santiago/pig) -  Linux数据包制作工具.
+* [tcpdump](http://www.tcpdump.org/) - 用于网络流量捕获的数据包分析器
+* [tcpflow](https://github.com/simsong/tcpflow) - 以便于协议分析和调试的方式捕获TCP连接流.
+* [tcpreplay](https://github.com/appneta/tcpreplay) -  Pcap编辑和重播工具.
 
 ## Nix tools
 
-*Useful *nix tools when profiling the JVM and interaction with the host environment*
-* [atoptool](http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
-* [bcc](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
-* [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) - Visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
-* [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
-* [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - Disassembles class files into code that reflects the java bytecode.
-* [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
-* [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
-* [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
-* [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.
-* [hwloc](http://linux.die.net/man/7/hwloc) - Reports the structure of the processor, number of cores, hyperthreads and cache size.
-* [likwid](https://github.com/RRZE-HPC/likwid) - Read hardware performance counters on Intel and AMD processors.
-* [numactl](http://linux.die.net/man/8/numactl) - Control NUMA policy for processes or shared memory.
-* [oprofile](http://oprofile.sourceforge.net/news/) - System-wide hardware performance monitoring with easy-to-use interface at low overhead.
-* [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
-* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
-* [sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
-* [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
-* [taskset/process-affinity](https://www.glennklockwood.com/hpc-howtos/process-affinity.html) - Retrieve or set a processes’s CPU affinity.
-* [tiptop](http://tiptop.gforge.inria.fr/) - Like top but also shows instructions per cycle (IPC).
+*分析JVM和与主机环境交互时有用的* nix工具*
+* [atoptool](http://www.atoptool.nl/) - 记录系统和过程活动以进行长期分析，突出显示过载系统.
+* [bcc](https://github.com/iovisor/bcc) - 基于BPF的Linux IO分析，网络，监控等工具.
+* [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) - 可视化的配置软件，允许快速准确地识别最频繁的代码路径.
+* [ioping](https://github.com/koct9i/ioping) - 简单的磁盘I / 0延迟测量工具.
+* [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - 将类文件反汇编为反映java字节码的代码.
+* [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) -  Java堆分析工具
+* [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - 打印给定进程的配置信息.
+* [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - 为给定的Java进程打印线程的堆栈跟踪.
+* [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - 监视JVM中的GC和编译器统计信息.
+* [hwloc](http://linux.die.net/man/7/hwloc) - 报告处理器的结构，核心数，超线程和高速缓存大小.
+* [likwid](https://github.com/RRZE-HPC/likwid) - 读取Intel和AMD处理器上的硬件性能计数器.
+* [numactl](http://linux.die.net/man/8/numactl) - 控制进程或共享内存的NUMA策略.
+* [oprofile](http://oprofile.sourceforge.net/news/) - 系统范围的硬件性能监控，易于使用的接口，开销低.
+* [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - 使用性能计数器进行Linux分析.
+* [perf-tools](https://github.com/brendangregg/perf-tools) - 基于Linux perf_events（aka perf）和ftrace的性能分析工具.
+* [sysdig](http://www.sysdig.org/) - 从正在运行的Linux实例捕获系统状态和活动，然后保存，过滤和分析.
+* [sysstat](http://sebastien.godard.pagesperso-orange.fr) -  Linux的性能监视工具.
+* [taskset/process-affinity](https://www.glennklockwood.com/hpc-howtos/process-affinity.html) - 检索或设置进程的CPU亲和性.
+* [tiptop](http://tiptop.gforge.inria.fr/) - 像顶部一样，但也显示每个周期的指令（IPC）.
 
 ## Profilers
 
-*Tools that provide profiling and tracing information to aid program optimization*
+*提供分析和跟踪信息以帮助程序优化的工具*
 
-* [allocation-instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
-* [aprof](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
-* [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.
-* [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
-* [Byteman](http://byteman.jboss.org/) - tracing, monitoring and testing tool for Java
-* [bytestacks](https://github.com/cl4es/bytestacks) - Turn JVM bytecode execution into flame graphs. 
-* [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
-* [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
-* [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
-* [grav](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
-* [hawkshaw](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
-* [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
-* [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
-* [HdrLogProcessing](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
-* [heapster](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
-* [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
-* [jamm](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
-* [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
-* [java-sizeof](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
-* [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
-* [jfr-flame-graph](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
-* [jfr-report-tool](https://github.com/lhotari/jfr-report-tool) - Tool for creating reports from Java Flight Recorder dumps.
-* [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
-* [jitwatch-intellij](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
-* [jHiccup](http://www.azul.com/jhiccup/) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
-* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
-* [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
-* [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
-* [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
-* [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
-* [jvmtop](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
-* [jvm-profiler](https://github.com/uber-common/jvm-profiler) - Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.
-* [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
-* [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
-* [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
-* [micrometer](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools.
-* [osquery](https://osquery.io/) - osquery is an instrumentation framework that expose the operating system as a high-performance relational database.
-* [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
-* [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
-* [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
-* [perfj](https://github.com/coderplay/perfj) - Linux perf for java programs.
-* [polarbear](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
-* [Riemann JVM Profiler](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
-* [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
-* [Swiss Java Knife](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
-* [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
-* [Tracer](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
-* [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler.
-* [Zipkin](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
+* [allocation-instrumenter](https://github.com/google/allocation-instrumenter) - 将字节码重写为仪器分配站点的Java代理.
+* [aprof](https://github.com/Devexperts/aprof) -  Java内存分配分析器.
+* [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - 采用AsyncGetCallTrace + perf_events的Java采样CPU探测器.
+* [BTrace](https://github.com/jbachorik/btrace) -  Java平台的安全动态跟踪工具.
+* [Byteman](http://byteman.jboss.org/) - 用于Java的跟踪，监视和测试工具
+* [bytestacks](https://github.com/cl4es/bytestacks) - 将JVM字节码执行转换为火焰图. 
+* [Chronon](http://chrononsystems.com)   - 记录整个java程序.  在任何机器上重播.
+* [GCeasy](http://gceasy.io/)   - 机器学习指导垃圾收集日志分析工具.  自动检测JVM GC日志中的问题并为其推荐解决方案.
+* [GCViewer](https://github.com/chewiebug/GCViewer) -  GCViewer是一个可视化详细GC输出的工具.
+* [grav](https://github.com/epickrram/grav) - 一组帮助可视化流程执行的工具.
+* [hawkshaw](https://github.com/jClarity/hawkshaw) - 用于跟踪内存/ JVM问题并生成可预测的VM行为的工具.
+* [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - 支持记录和分析采样数据值计数的直方图.
+* [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - 由HdrHistogram支持的度量水库实施.
+* [HdrLogProcessing](https://github.com/nitsanw/HdrLogProcessing) - 用于HDR直方图日志操作的实用程序.
+* [heapster](https://github.com/mariusae/heapster) -  JVM的生产堆分析.
+* [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - 在没有安全点样本偏差的情况下采样JVM分析器.
+* [jamm](https://github.com/jbellis/jamm) - 测量实际对象内存使用情况，包括JVM开销.
+* [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - 用于收集有关正在运行的Java应用程序的诊断和分析数据的工具，几乎没有性能开销.
+* [java-sizeof](https://github.com/dweiss/java-sizeof) -  Java的内存消耗估算器.
+* [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - 实验性工具和测试，以帮助研究JVM，类库和硬件中的并发支持的正确性.
+* [jfr-flame-graph](https://github.com/chrishantha/jfr-flame-graph) - 将JFR方法分析样本转换为FlameGraph兼容格式.
+* [jfr-report-tool](https://github.com/lhotari/jfr-report-tool) - 用于从Java Flight Recorder转储创建报告的工具.
+* [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - 日志分析/可视化Java HotSpot JIT编译.
+* [jitwatch-intellij](https://github.com/yole/jitwatch-intellij) -  IntelliJ IDEA的JITWatch插件.
+* [jHiccup](http://www.azul.com/jhiccup/) -  jHiccup是一个开源工具，旨在测量与应用程序底层Java运行时平台相关的暂停和停顿.
+* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - 用Java和其他语言编写的针对JVM的微基准测试.
+* [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - 用于比较JMH结果的GUI.
+* [JOL](http://openjdk.java.net/projects/code-tools/jol/) - 分析JVM中的实际对象布局方案，占用空间和引用.
+* [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - 帮助解决性能瓶颈，确定内存泄漏并了解线程问题.
+* [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - 提供本机API以检查状态并控制在JVM中运行的应用程序的执行.
+* [jvmtop](https://github.com/patric-r/jvmtop) - 轻量级控制台应用程序，以最顶级的方式监视机器上运行的jvms.
+* [jvm-profiler](https://github.com/uber-common/jvm-profiler) -  Java Agent以分布式方式收集Hadoop / Spark JVM进程的各种指标和堆栈跟踪.
+* [MAT](https://eclipse.org/mat/) -  Java堆分析器，帮助查找内存泄漏并减少内存消耗.
+* [leakcanary](https://github.com/square/leakcanary) - 适用于Android和Java的内存泄漏检测库.
+* [metrics](http://metrics.dropwizard.io/) - 测量生产环境中关键组件的行为.
+* [micrometer](https://github.com/micrometer-metrics/micrometer) - 最流行的监控工具的应用程序指标外观.
+* [osquery](https://osquery.io/) -  osquery是一个将操作系统公开为高性能关系数据库的工具框架.
+* [Overseer](http://www.peternier.com/projects/overseer/overseer.php) -  Java的低级硬件监控和管理.
+* [OpenTracing](http://opentracing.io/) - 分布式跟踪的供应商中立开放标准.
+* [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - 生成方法映射以与linux`per`工具一起使用.
+* [perfj](https://github.com/coderplay/perfj) - 针对java程序的Linux perf.
+* [polarbear](https://github.com/Cue/polarbear) - 帮助诊断OutOfMemoryError条件的工具.
+* [Riemann JVM Profiler](https://github.com/riemann/riemann-jvm-profiler) -  JVM代理，它将功能级分析器遥测发送到Riemann服务器进行分析，可视化和存储.
+* [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - 将分析数据发送到StatsD的JVM代理分析器.
+* [Swiss Java Knife](https://github.com/aragozin/jvm-tools) - 用于JVM故障排除，监控和分析的小型工具集.
+* [Takipi](https://www.takipi.com/) - 告诉您代码在生产中何时以及为何中断.
+* [Tracer](https://github.com/zalando/tracer) - 管理自定义跟踪标识符并通过分布式系统进行管理.
+* [YourKit](https://www.yourkit.com/) - 功能齐全，易于使用，低架构探测器.
+* [Zipkin](https://github.com/openzipkin/zipkin) - 分布式跟踪系统收集Twitter开发的不同服务的时间数据.
 
 
 ## Runtimes
 
-*Tools for managing jvm runtime processes*
-* [Capsule](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
-* [CRaSH](http://www.crashub.org/) - The shell for the Java Platform.
-* [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
-* [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.
-* [jvmkill](https://github.com/airlift/jvmkill) - Agent that forcibly terminates the JVM when it is unable to allocate memory or create a thread.
-* [Nailgun](http://martiansoftware.com/nailgun/) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
+*用于管理jvm运行时进程的工具*
+* [Capsule](https://github.com/puniverse/capsule) - 针对JVM应用程序的简单打包和部署.
+* [CRaSH](http://www.crashub.org/) -  Java平台的shell.
+* [Drip](https://github.com/ninjudd/drip) - 快速启动JVM，无需持久JVM的麻烦.
+* [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - 在运行时重新定义类并跳过重新部署过程.
+* [jvmkill](https://github.com/airlift/jvmkill) - 无法分配内存或创建线程时强制终止JVM的代理.
+* [Nailgun](http://martiansoftware.com/nailgun/) -  Nailgun是一个客户端，协议和服务器，用于从命令行运行Java程序，而不会产生JVM启动开销.
 
 ## Virtual Machines
 
-*Virtual machines that implement the JVM specification or parts of it.*
-* [Avian](https://github.com/ReadyTalk/avian) - Lightweight highly portable JVM with an option for AOT compilation.
-* [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
-* [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
-* [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
-* [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
-* [Eclipse OpenJ9](https://github.com/eclipse/openj9) - Eclipse OpenJ9.
-* [J2ObjC](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps. 
-* [jvm.go](https://github.com/zxh0/jvm.go) - A JVM written in Go.
-* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
-* [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.
-* [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
+*实现JVM规范或部分规范的虚拟机.*
+* [Avian](https://github.com/ReadyTalk/avian) - 轻量级，高度可移植的JVM，可选择AOT编译.
+* [Dalvik](https://source.android.com/devices/tech/dalvik/) -  Android运行时（ART）是Android上的应用程序和某些系统服务使用的托管运行时.
+* [DCEVM](http://dcevm.github.io) - 修改Java HotSwap VM，无限制地支持在运行时重新加载类.
+* [HotSpot](http://openjdk.java.net/groups/hotspot/) -  Oracle Corporation维护和分发的HotSpot虚拟机.
+* [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - 由IBM开发的JVM.
+* [Eclipse OpenJ9](https://github.com/eclipse/openj9) -  Eclipse OpenJ9.
+* [J2ObjC](https://github.com/google/j2objc)   - 从Java源代码到Objective-C代码的转换器.  在iOS原生应用和Android原生应用之间保留共享代码. 
+* [jvm.go](https://github.com/zxh0/jvm.go) - 用Go编写的JVM.
+* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)   - 用于iOS本机开发的C源转换器的开源Java字节码.  设计作为一部分 [Codename One](https://www.codenameone.com/) WORA为移动项目.
+* [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - 提前针对iOS，Mac OSX和Linux的JVM字节码编译器.
+* [Zing](https://www.azul.com/products/zing/) - 唯一可以消除大型堆大小的Java垃圾收集暂停的JVM.
 * [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 ## Resources
 
 ## Documentation
 
-*Documentation related to JVM*
-* [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) Linux bcc/BPF using tcplife by Brendan Gregg
-* [Linux tracing workshop](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
-* [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
-* [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
-* [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.
-* [The JVM specification](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) - The Java Virtual
-Machine Specification Java SE 8 Edition.
-* [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/) - Starting point for discussions of and information concerning the Java Memory Model.
-* [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - Unofficial guide to implementing the new Java Memory Model (JMM) specified by JSR-133.
-* [Garbage Collection Tuning Guide](http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/) - HotSpot Virtual Machine Garbage Collection Tuning Guide.
-* [Safepoints](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Where is my safepoint? Nitsan Wakart.
-* [Topics in High-Performance Messaging](https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm) - Design decisions, experience and constraints explained in high performance messaging systems.
-* [Top 10 Performance Mistakes](http://www.infoq.com/articles/top-10-performance-mistakes) - Digest of the top 10 performance related mistakes Martin Thompson has seen in production.
-* [The USE method](http://www.brendangregg.com/usemethod.html) - The Utilization Saturation and Errors (USE) Method is a methodology for analyzing the performance of any system. Brendan Gregg.
-* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
-* [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
-* [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
-* [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
-* [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/) - Emmanuel Goossaert.
-* [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef) - Daniel Spiewak.
+*与JVM *相关的​​文档
+* [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) Linux bcc / BPF使用Brendan Gregg的tcplife
+* [Linux tracing workshop](https://github.com/goldshtn/linux-tracing-workshop) - 使用BPF进行JVM监控，示例和用于Linux跟踪工具研讨会的动手实验.
+* [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - 迷你帖系列，每个帖子都深入到AlekseyShipilёv的一个主题.
+* [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - 关于机械同情的讨论.
+* [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html)   - 在修改共享同一缓存行的独立变量时，线程会影响彼此的性能.  马丁汤普森
+* [The JVM specification](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) -  Java虚拟
+机器规格Java SE 8版.
+* [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/) - 有关Java内存模型的讨论和信息的起点.
+* [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - 实现JSR-133指定的新Java内存模型（JMM）的非官方指南.
+* [Garbage Collection Tuning Guide](http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/) -  HotSpot虚拟机垃圾收集调整指南.
+* [Safepoints](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html)   - 我的安全点在哪里？  Nitsan Wakart.
+* [Topics in High-Performance Messaging](https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm) - 高性能消息传递系统中解释的设计决策，经验和约束.
+* [Top 10 Performance Mistakes](http://www.infoq.com/articles/top-10-performance-mistakes) -  Martin Thompson在制作中看到的十大与业绩相关的错误摘要.
+* [The USE method](http://www.brendangregg.com/usemethod.html)   - 利用率饱和度和误差（USE）方法是一种分析任何系统性能的方法.  布兰登格雷格
+* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - 凯尔金斯伯里（杰普森的作者）.
+* [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - 对于熟悉Java并发的专业程序员，但不熟悉VarHandles提供的JDK 9中可用的内存顺序模式.
+* [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)   - 测量每个周期的指令（IPC）以获得CPU利用率.  布兰登格雷格
+* [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - 布兰登格雷格
+* [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/) -  Emmanuel Goossaert.
+* [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef) -  Daniel Spiewak.
 ## Communities
 
-*Active discussions.*
+*积极讨论.*
 
-* [concurrency-interest](http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest) - Discussion list for JSR-166.
-* [hotspot-compiler-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev) - Technical discussion about the development of the HotSpot bytecode compilers.
-* [hotspot-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev) - HotSpot development mailing list.
-* [hotspot-gc-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev) - Technical discussion about the development of the HotSpot garbage collectors.
-* [mechanical-sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) - Discussing how to code sympathetically to and measure the underlying stack/platform so good performance can be extracted.
-* [Performance Java User's Group](https://plus.google.com/u/0/communities/107178245817384004088/) - For expert Java *developers* who want to push their systems to the next level
-* [Virtual Machine Meetup 2017](http://vmmeetup.github.io/2017/) - Venue for discussing the latest research and developments in the area of managed language execution. 
+* [concurrency-interest](http://altair.cs.oswego.edu/mailman/listinfo/concurrency-interest) -  JSR-166的讨论列表.
+* [hotspot-compiler-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-compiler-dev) - 关于HotSpot字节码编译器开发的技术讨论.
+* [hotspot-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev) -  HotSpot开发邮件列表.
+* [hotspot-gc-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev) - 关于HotSpot垃圾收集器开发的技术讨论.
+* [mechanical-sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) - 讨论如何以同情的方式编码并测量底层堆栈/平台，以便提取出良好的性能.
+* [Performance Java User's Group](https://plus.google.com/u/0/communities/107178245817384004088/) - 对于希望将系统推向新水平的专业Java *开发人员*
+* [Virtual Machine Meetup 2017](http://vmmeetup.github.io/2017/) - 讨论托管语言执行领域的最新研究和发展的场所. 
 
 ## Media
 
-*Videos, podcasts and other media related to JVMs*
-* [FOSDEM 2018](https://fosdem.org/2018/schedule/track/free_java/) - FOSDEM 2018 Free Java devroom.
-* [JFokus 2018](https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr) - The GC edition. Shenandoah, ZGC, Zing, Fibers, Falcon etc.
-* [G1 Garbage Collector in Java 8/9](http://nighthacking.com/g1-gc-with-kirk-pepperdine/) - Kirk Pepperdine.
-* [Extreme Profiling: Digging Into Hotspots](https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD) - Nitsan Wakart.
-* [Java vs. C Performance](http://www.infoq.com/presentations/java-vs-c-performance) - Cliff Click.
-* [Why JNI is slow?](https://www.youtube.com/watch?v=LoyBTqkSkZk) - Cliff Click
-* [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) - Cliff Click
-* [Java Profiling from the Ground Up](https://www.youtube.com/watch?v=_6vJyciXkwo) - Nitsan Wakart.
-* [The Illusion of Execution](https://www.youtube.com/watch?v=3g9R-RVIkOE) - Nitsan Wakart.
-* [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson.
-* [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - Martin Thompson.
-* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) - Gil Tene.
-* [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) - JVM Language Summit 2015.
-* [JVM Language Summit 2016](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_) - JVM Language Summit 2016.
-* [JVM Language Summit 2017](https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n) - JVM Language Summit 2017.
-* [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) - Cliff Click.
-* [Understanding Java garbage collection ...](https://www.youtube.com/watch?v=_e5hujoTkgY) - Gil Tene.
-* [Faster Object Arrays](https://www.youtube.com/watch?v=bZuPTCaciLU) - Gil Tene at GOTO Conferences.
-* [Java Memory Model Pragmatics](https://www.youtube.com/watch?v=TxqsKzxyySo) - Aleksey Shipilev.
-* [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) - John Cuthbertson.
-* [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
-* [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - Brendan Gregg.
-* [Kernel Recipes 2017: Performance Analysis with BPF](https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf) - Brendan Gregg.
-* [Shenandoah deep talk](https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf) - Aleksey Shipilëv slightly-deeper-than-usual Shenandoah talk from Virtual Machine Meetup 2017.
-* [Shenandoah: The Garbage Collector That Could](https://www.youtube.com/watch?v=VCeHkcwfF9Q) - Aleksey Shipilev - Devoxx 2017/11
-* [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
-* [Cliff Click podcast 2017/09/16](http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/) - Programming and Performance Intro.
-* [Cliff Click podcast 2017/09/16](http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/) - Bugs and Coding Styles.
-* [Cliff Click podcast 2017/09/18](http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/) - Java vs C/C++.
-* [Cliff Click podcast 2017/09/21](http://www.cliffc.org/blog/2017/09/21/debugging-data-races/) - Debugging Data Races.
-* [Cliff Click podcast 2017/09/24](http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/) - Fast Bytecodes for Funny Languages.
-* [Cliff Click podcast 2017/09/28](http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/) - Struct of Arrays vs Array of Structs.
-* [Cliff Click podcast 2017/10/04](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - The 3 Hardest Problems in Programming.
-* [Cliff Click podcast 2017/11/05](http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/) - Modern Hardware Performance and Cache Lines.
-* [Cliff Click podcast 2017/11/09](http://cliffc.org/blog/2017/11/09/queuing-in-practice/) - Queuing In Practice.
-* [Which technique do programming language parsers and interpreters use?](https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx) - Cliff Click.
-* [Everything about Stack Traces and Heap Dumps](https://vimeo.com/233820012) - Andrei Pangin.
-* [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
-* [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8) - Matthew Wilcox.
+*与JVM相关的视频，播客和其他媒体*
+* [FOSDEM 2018](https://fosdem.org/2018/schedule/track/free_java/) -  FOSDEM 2018免费Java开发室.
+* [JFokus 2018](https://www.youtube.com/playlist?list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr)   -  GC版.  Shenandoah，ZGC，Zing，Fibers，Falcon等
+* [G1 Garbage Collector in Java 8/9](http://nighthacking.com/g1-gc-with-kirk-pepperdine/) - 柯克佩珀代因.
+* [Extreme Profiling: Digging Into Hotspots](https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD) -  Nitsan Wakart.
+* [Java vs. C Performance](http://www.infoq.com/presentations/java-vs-c-performance) - 悬崖点击.
+* [Why JNI is slow?](https://www.youtube.com/watch?v=LoyBTqkSkZk) - 悬崖点击
+* [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) - 悬崖点击
+* [Java Profiling from the Ground Up](https://www.youtube.com/watch?v=_6vJyciXkwo) -  Nitsan Wakart.
+* [The Illusion of Execution](https://www.youtube.com/watch?v=3g9R-RVIkOE) -  Nitsan Wakart.
+* [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - 马丁汤普森
+* [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - 马丁汤普森
+* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) -  Gil Tene.
+* [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) -  2015年JVM语言峰会.
+* [JVM Language Summit 2016](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_) -  2016年JVM语言峰会.
+* [JVM Language Summit 2017](https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n) -  2017年JVM语言峰会.
+* [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) - 悬崖点击.
+* [Understanding Java garbage collection ...](https://www.youtube.com/watch?v=_e5hujoTkgY) -  Gil Tene.
+* [Faster Object Arrays](https://www.youtube.com/watch?v=bZuPTCaciLU) -  GOTO会议上的Gil Tene.
+* [Java Memory Model Pragmatics](https://www.youtube.com/watch?v=TxqsKzxyySo) -  Aleksey Shipilev.
+* [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) -  John Cuthbertson
+* [JVM Mechanics](https://vimeo.com/120533011) - 道格拉斯霍金斯.
+* [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - 布兰登格雷格
+* [Kernel Recipes 2017: Performance Analysis with BPF](https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf) - 布兰登格雷格
+* [Shenandoah deep talk](https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf) - AlekseyShipilëv在2017年虚拟机大会上略微超过平常的Shenandoah演讲.
+* [Shenandoah: The Garbage Collector That Could](https://www.youtube.com/watch?v=VCeHkcwfF9Q) -  Aleksey Shipilev  -  Devoxx 2017/11
+* [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) -  Volker Simonis.
+* [Cliff Click podcast 2017/09/16](http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/) - 编程和性能介绍.
+* [Cliff Click podcast 2017/09/16](http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/) - 错误和编码样式.
+* [Cliff Click podcast 2017/09/18](http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/) -  Java vs C / C ++.
+* [Cliff Click podcast 2017/09/21](http://www.cliffc.org/blog/2017/09/21/debugging-data-races/) - 调试数据竞争.
+* [Cliff Click podcast 2017/09/24](http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/) - 有趣语言的快速字节码.
+* [Cliff Click podcast 2017/09/28](http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/) - 阵列结构与结构数组.
+* [Cliff Click podcast 2017/10/04](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - 编程中最难的三个问题.
+* [Cliff Click podcast 2017/11/05](http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/) - 现代硬件性能和缓存线.
+* [Cliff Click podcast 2017/11/09](http://cliffc.org/blog/2017/11/09/queuing-in-practice/) - 在实践中排队.
+* [Which technique do programming language parsers and interpreters use?](https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx) - 悬崖点击.
+* [Everything about Stack Traces and Heap Dumps](https://vimeo.com/233820012) -  Andrei Pangin
+* [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) -  Sasha Goldshtein.
+* [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8) - 马修威尔考克斯
 
 ## People
 
-*People that share hard-earned, often undocumented, knowledge and data of the inner workings of the JVM*
-* [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
-* [Andrey Breslav](https://twitter.com/abreslav) - Lead Language Designer of Kotlin @ JetBrains.
-* [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
-* [Ben Christensen](https://twitter.com/benjchristensen) - Facebook, Netflix, Apple engineering.
-* [Brendan Gregg](http://www.brendangregg.com) - Cloud performance, kernel engineer, speaker, author.
-* [Charles Nutter](https://twitter.com/headius) - JRuby guy.
-* [Claes Redestad](https://twitter.com/cl4es) - Working with OpenJDK stuff @ Oracle.
-* [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
-* [Dave Dice](https://blogs.oracle.com/dave/) - Senior research scientist in the Scalable Synchronization Research Group within Oracle.
-* [Dávid Karnok](http://akarnokd.blogspot.se/) - RxJava committer that blogs about advanced RxJava.
-* [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
-* [Gil Tene](https://twitter.com/giltene) - Azul Systems.
+*分享来自JVM内部工作的来之不易的，通常无证的知识和数据的人*
+* [Aleksey Shipilëv](http://shipilev.net/) - 开发Oracle / Open JDK / Hotspot和其他与Java相关的技术.
+* [Andrey Breslav](https://twitter.com/abreslav) -  Kotlin @ JetBrains的首席语言设计师.
+* [Brian Goetz](https://twitter.com/BrianGoetz) -  Oracle的Java语言架构师.
+* [Ben Christensen](https://twitter.com/benjchristensen) -  Facebook，Netflix，Apple工程.
+* [Brendan Gregg](http://www.brendangregg.com) - 云性能，内核工程师，演讲者，作者.
+* [Charles Nutter](https://twitter.com/headius) -  JRuby的家伙.
+* [Claes Redestad](https://twitter.com/cl4es) - 使用OpenJDK的东西@ Oracle.
+* [Cliff Click](http://www.cliffc.org/blog/) -  HotSpot服务器编译器的创建者.
+* [Dave Dice](https://blogs.oracle.com/dave/) -  Oracle内可扩展同步研究小组的高级研究员.
+* [Dávid Karnok](http://akarnokd.blogspot.se/) - 关于高级RxJava博客的RxJava提交者.
+* [Doug Lea](http://g.oswego.edu/) -  Java内存模型的作者.
+* [Gil Tene](https://twitter.com/giltene) -  Azul Systems.
 * [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
-* [Ivan Krylov](https://twitter.com/JohnWings) - JVM expert.
-* [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
-* [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
-* [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
-* [Lukas Eder](https://twitter.com/lukaseder) - Blogger. Author of JOOQ.
-* [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
-* [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
-* [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
-* [Martijn Verburg](https://twitter.com/karianna) - Java Champion.
-* [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
-* [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
-* [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
-* [Paul Phillips](https://twitter.com/contrarivariant) - Forever undisputed SLOC Scala compiler dev.
-* [Per Liden](https://twitter.com/perliden) - Hacking on the HotSpot JVM at Oracle.
-* [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
-* [Rafael Winterhalter](https://twitter.com/rafaelcodes) - Author of ByteBuddy.
-* [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
-* [Richard Startin](http://richardstartin.uk/) - Performance Analyst, developer, blogger.
-* [Ron Pressler](https://twitter.com/pressron) - Parallel Universe. Leading Fibers and Continuations for the JVM.
-* [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
-* [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
-* [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
-* [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
-* [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
-* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
+* [Ivan Krylov](https://twitter.com/JohnWings) -  JVM专家.
+* [Jake Wharton](https://twitter.com/JakeWharton) -  Square，谷歌，开源黑客.
+* [John Rose](https://blogs.oracle.com/jrose/) -  HotSpot开发人员.
+* [Jonas Bonér](https://twitter.com/jboner) -  Lightbend的创始人兼首席技术官.
+* [Lukas Eder](https://twitter.com/lukaseder)   -  Blogger.  JOOQ的作者.
+* [Marcus Lagergren](https://twitter.com/lagergren) -  Java语言团队的校友.
+* [Mark Reinhold](https://twitter.com/mreinhold) -  Java平台组首席架构师，Oracle.
+* [Martin Thompson](http://mechanical-sympathy.blogspot.se/) -  Pasty面对表演黑帮.
+* [Martijn Verburg](https://twitter.com/karianna) -  Java冠军.
+* [Kirk Pepperdine](https://twitter.com/javaperftuning) - 从事高性能和分布式计算近20年.
+* [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) -  Azul Systems.
+* [Norman Maurer](https://twitter.com/normanmaurer) -  Netty开发者.
+* [Paul Phillips](https://twitter.com/contrarivariant) - 永远无可争议的SLOC Scala编译器开发.
+* [Per Liden](https://twitter.com/perliden) - 在Oracle上攻击HotSpot JVM.
+* [Peter Lawrey](https://twitter.com/PeterLawrey) - 高性能Java系统的创新开发人员，以获得竞争优势.
+* [Rafael Winterhalter](https://twitter.com/rafaelcodes) -  ByteBuddy的作者.
+* [Richard Warburton](https://twitter.com/RichardWarburto) - 开发人员，演讲者，作者.
+* [Richard Startin](http://richardstartin.uk/) - 性能分析师，开发人员，博主.
+* [Ron Pressler](https://twitter.com/pressron)  - 平行宇宙.  JVM的主要光纤和延续.
+* [Stephen Colebourne](https://twitter.com/jodastephen)   -  Java冠军.  偶尔的博主和演讲者.  以Joda项目和JSR-310而闻名.
+* [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - 前任首席技术官，前NASA研究员，网络极客，消息中间件设计师.
+* [Stéphane Maldini](https://twitter.com/smaldini) -  Project Reactor Lead @Pivotal.
+* [Stuart Marks](https://twitter.com/stuartmarks)   -  Deprecator医生.  Java / JDK / OpenJDK开发人员 
+* [Vladimir Ivanov](https://twitter.com/iwan0www) - 黑客HotSpot JVM @ Oracle.
+* [Viktor Klang](https://twitter.com/viktorklang) -  Typesafe Inc.的副首席技术官
 
 
 ## Contributing
 
-Contributions are very welcome!
+贡献非常欢迎！
 
-Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
+请看看 [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) 指导方针.

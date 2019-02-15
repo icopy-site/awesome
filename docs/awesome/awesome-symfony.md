@@ -1,29 +1,29 @@
 <div class="github-widget" data-repo="sitepoint-editors/awesome-symfony"></div>
 ## Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources.
+很棒的清单 [Symfony](http://symfony.com) 捆绑包，实用程序和资源.
 
-Table of contents:
+目录：
 
 
 ## Administration
 
-* [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
-* [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
-* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
+* [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle)   -  AdminCrudBundle  - 使用SensioGeneratorBundle.  扩展控制器，添加分页器，过滤器，其他.
+* [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) -  Symfony2的Admingenerator，解析generator.yml文件来构建类
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) -  Symfony应用程序的简单管理生成器
+* [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) -  AdminBundle  - 缺少的Symfony2 Admin Generator
 
 ## Assets Management
 
-* [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
-* [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
-* [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
-* [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
-* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
-* [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
-* [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
-* [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
-* [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
-* [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
+* [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) -  Assetic的资产目录过滤器.
+* [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - 此捆绑包允许您在项目的任何位置自动包含javascripts和样式表.
+* [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - 用于CSS和JS文件的纯PHP中的资产缩减器.
+* [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - 一个小的资产过滤器，用于修复css文档中的所有URL路径以更正URL.
+* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - 捆绑服务受保护的文件.
+* [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - 将AssetsHelper服务从Symfony2的模板组件公开到JavaScript，允许在客户端生成相对或绝对资产URI.
+* [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - 自动更新资产版本的过程.
+* [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - 此捆绑包将jshrink库集成为Assetic过滤器和twig扩展.
+* [SpritesBundle](https://github.com/pminnieur/SpritesBundle) -  Sprites库的捆绑包.
+* [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - 从git存储库生成humans.txt文件.
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -32,52 +32,52 @@ Table of contents:
 
 ## Community
 
-* Facebook - notable, large and active Facebook groups:
+* Facebook  - 值得注意的，庞大而活跃的Facebook群组：
     * [1](https://fb.com/groups/7672226565)
     * [2](https://fb.com/groups/symfony2.framework)
-* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
-* IRC:
-    * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
-    * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
-* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
-* Local:
-    * [Community events](http://symfony.com/events/) - Find Symfony events near you.
-    * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
-* [Telegram](https://telegram.me/symfony_php) - Symfony group on Telegram.
-* [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
-* [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
-* [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
-* [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
-* [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
+* [Google+](https://plus.google.com/communities/109013871316146116610) -  Google+上庞大且活跃的群组.
+* IRC：
+    * [#symfony](http://irc.lc/freenode/symfony) -  Symfony支持的官方IRC频道.
+    * [#symfony-docs](http://irc.lc/freenode/symfony) - 频道讨论Symfony的文档.
+* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) -  Linked.in上的大型活动组.
+*当地：
+    * [Community events](http://symfony.com/events/) - 查找您附近的Symfony事件.
+    * [Meetup](http://www.meetup.com/topics/symfony/) - 在当地参与并从您所在地区找到Symfony用户.
+* [Telegram](https://telegram.me/symfony_php) - 电报上的Symfony小组.
+* [Quora](https://www.quora.com/topic/Symfony) - 关于Quora的Symfony主题.
+* [Reddit](https://www.reddit.com/r/symfony) - 提问和回答问题，讨论.
+* [SensioLabs Connect](https://connect.sensiolabs.com/login) - 开发者社交网络，为您的社区参与和承诺赢得成就.
+* [Slack](https://symfony.com/slack-invite) -  Slack上的Symfony，团队沟通的平台.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) -  Stack Overflow上的Symfony支持.
+* [Twitter](https://twitter.com/symfony) - 以类似Twitter的方式跟上Symfony的新闻.
 
 ## Development
 
-* [AccessibleBundle](https://github.com/antares993/AccessibleBundle) - Define your class' getters, setters and constructor using powerful annotations.
-* [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
-* [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
-* [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
-* [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
-* [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
-* [DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.
-* [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
-* [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
-* [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
-* [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
-* [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
-* [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
-* [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
-* [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
-* [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
-* [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
-* [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
-* [SandboxBundle](https://github.com/danrevah/sandbox-bundle) - Overriding controller logic & response in a Sandbox environment.
-* [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - Easily monitor your symfony2 production env., with ready-to-use stats.
-* [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags.
-* [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
-* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
-* [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
-* [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
+* [AccessibleBundle](https://github.com/antares993/AccessibleBundle) - 使用强大的注释定义您的类&#39;getter，setter和constructor.
+* [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - 异常API包.
+* [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - 此捆绑包提供了一个简单的结构来运行ajax操作.
+* [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - 此捆绑包仅包含Symfony WebTestCase的固定扩展名.
+* [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - 此捆绑包包含一个控制器，其中包含清除各种缓存的操作.
+* [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - 一组有用的控制器注释.
+* [DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - 基于Action-Domain-Responder模式替换Symfony控制器系统.
+* [http-bundle](https://github.com/iltar/http-bundle) - 提供额外的HTTP相关功能.
+* [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - 提供高级调试工具.
+* [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - 简单和可扩展的PHP Dumper.
+* [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - 一组Symfony2控制台命令，可帮助开发人员处理识别类，模板，捆绑包，服务等的各种方法.
+* [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - 用于在Symfony 2中编写功能测试的一些辅助类.
+* [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - 用于调试侦听器的控制台命令.
+* [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - 此捆绑包为Symfony提供了额外的param转换器.
+* [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - 在Symfony2调试工具栏中集成PhpMetrics.
+* [PsyshBundle](https://github.com/theofidry/PsyshBundle) - 提供加载了Symfony上下文的增强型PHP交互式shell.
+* [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - 增强SensioGeneratorBundle.
+* [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - 将编辑器集成到Symfony 2中.
+* [SandboxBundle](https://github.com/danrevah/sandbox-bundle) - 在Sandbox环境中覆盖控制器逻辑和响应.
+* [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - 使用随时可用的统计数据轻松监控您的symfony2生产环境.
+* [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - 集成TagDebug库以检查和调试标签.
+* [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - 显示Twig中的内容.
+* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - 轻松开发自定义，用户友好的错误页面.
+* [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - 在Web Profiler中添加路由，容器，资产和树枝信息.
+* [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) -  XHProf捆绑.
 
 ## Distributions
 
@@ -97,139 +97,139 @@ Table of contents:
 
 ## Ecommerce
 
-* [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
-* [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
-* [WellCommerce](https://github.com/WellCommerce/WellCommerce) - An E-commerce platform for PHP 7.x
-* [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+* [Bamboo](https://github.com/elcodi/bamboo) - 基于Symfony和Elcodi组件的全栈电子商务应用程序
+* [Elcodi](https://github.com/elcodi/elcodi) - 电子商务PHP组件和Symfony捆绑包
+* [WellCommerce](https://github.com/WellCommerce/WellCommerce) -  PHP 7.x的电子商务平台
+* [Sylius](https://github.com/Sylius/Sylius) - 基于Symfony构建的电子商务PHP框架，具有基于组件的体系结构和格式无关的呈现
 
 ## Forms
 
-* [AutoFormFillBundle](https://github.com/AppVentus/AutoFormFillBundle) - This bundle fill automaticly creation forms in your application.
-* [CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) - Bundle implementing a "captcha" form type.
-* [ContactBundle](https://github.com/mremi/ContactBundle) - Provides a contact form for a Symfony2 project.
-* [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
-* [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
-* [FormBundle](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
-* [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
-* [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
-* [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
-* [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
-* [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
+* [AutoFormFillBundle](https://github.com/AppVentus/AutoFormFillBundle) - 此捆绑包在您的应用程序中自动填充表单.
+* [CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) -  Bundle实现“验证码”表单类型.
+* [ContactBundle](https://github.com/mremi/ContactBundle) - 提供Symfony2项目的联系表单.
+* [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - 多步骤表格.
+* [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - 过滤表格包.
+* [FormBundle](https://github.com/Gregwar/FormBundle) - 提供“entity_id”类型.
+* [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - 有用的表单类型和扩展的集合.
+* [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) -  Symfony中的CKEditor集成.
+* [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - 提供表单排序支持.
+* [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) -  Lexik Form Filter捆绑包.
+* [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) -  Symfony 2软件包，允许您记录表单错误和数据.
 
 ## Internationalization
 
-* [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
-* [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
-* [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
-* [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
-* [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
-* [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
+* [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - 将Symfony2转换消息公开给客户端应用程序的一种非常好的方法.
+* [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - 捆绑多语言网站以支持国际路线.
+* [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - 轻松翻译您的网站 - 通过基于Web的UI提取消息并进行翻译.
+* [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - 从不同的参数猜测访问者的语言环境.
+* [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) -  Serverside时区检测.
+* [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - 翻译领域，以便于使用可翻译学说扩展.
 
 ## Miscellaneous
 
-* [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.
-* [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
-* [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
-* [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
-* [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
-* [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
-* [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
-* [BackupManagerBundle](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
-* [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
-* [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) - Integration of the Geocoder library.
-* [BCCMyrrixBundle](https://github.com/michelsalib/BCCMyrrixBundle) - Myrrix is a recommendation engine built on Apache Mahout libraries.
-* [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
-* [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
-* [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
-* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
-* [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
-* [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
-* [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
-* [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
-* [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
-* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
-* [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
-* [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
-* [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
-* [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
-* [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
-* [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
-* [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
-* [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
-* [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
-* [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
-* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
-* [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
-* [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
-* [GoogleBundle](https://github.com/antimattr/GoogleBundle) - Bundle for Google Analytics.
-* [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
-* [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
-* [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
-* [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
-* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
-* [JMDUnoconvBundle](https://github.com/mops1k/JMDUnoconvBundle) - Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.
-* [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
-* [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - This bundle provides a simple datagrid bundle.
-* [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
-* [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images by converting html using webkit.
-* [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
-* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Image manipulation bundle, based on Imagine library.
-* [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.
-* [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - A PHP library that converts from one format to another.
-* [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
-* [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
-* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
-* [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
-* [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
-* [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
-* [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
-* [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
-* [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
-* [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
-* [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
-* [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
-* [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
-* [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
-* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
-* [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
-* [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - Provide to use Sphinx search.
-* [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.
-* [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
-* [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
-* [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
-* [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
-* [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
-* [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
+* [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) -  Bundle提供了doctrine-extensions-taggable的集成，添加了用于编辑标记和标记的表单类型.
+* [AntennaBundle](https://github.com/flint/AntennaBundle) - 使集成Antenna（以及通过它JWT）认证更容易.
+* [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - 此捆绑包提供注释和PHP方法来生成breacrumb路径.
+* [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) -  Datagrid Bundle.
+* [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - 此捆绑包允许您轻松协调警报和其他通知.
+* [AviaryBundle](https://github.com/AppVentus/AviaryBundle)   - 此捆绑包基于BlueImp jQuery文件上传程序包提供多个文件上载.  它还提供Aviary编辑图像功能.
+* [AvListBundle](https://github.com/AppVentus/AvListBundle) - 在Symfony2中轻松制作分页和可订购列表.
+* [BackupManagerBundle](https://github.com/lhpalacio/BackupManagerBundle) -  Symfony2的简单数据库备份管理器，支持S3，Rackspace，Dropbox，FTP，SFTP.
+* [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) - 将令人敬畏的Faker库放入Symfony2 DIC并使用虚假数据填充数据库.
+* [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) - 集成Geocoder库.
+* [BCCMyrrixBundle](https://github.com/michelsalib/BCCMyrrixBundle) -  Myrrix是基于Apache Mahout库的推荐引擎.
+* [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - 使用我们的条形码生成器基础库进行条形码渲染.
+* [BlogBundle](https://github.com/stfalcon/BlogBundle) - 简单的博客模块.
+* [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - 通过提供模板，Twig扩展，服务和命令，将Bootstrap集成到Symfony2中.
+* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - 一个小面包屑捆绑.
+* [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - 捆绑以访问browscap信息.
+* [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - 捆绑以在Symfony2中集成cachetool库（从命令行清除acp / opcache）.
+* [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - 此捆绑包提供将Request数据转换为Carbon对象的机会.
+* [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - 检查已安装但未在AppKernel捆绑包中激活.
+* [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - 能够备份您的数据库并将其上传到云端.
+* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - 浏览器中的命令行界面.
+* [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - 在Symfony中捆绑集成Guzzle&gt; = 4.0.
+* [CsvBundle](https://github.com/EGYG33K/CsvBundle) - 将thephpleague / csv集成到Symfony中.
+* [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - 将Domain Parser集成到Symfony中.
+* [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - 此捆绑包为您的应用程序提供审计日志记录 - 与Doctrine2实体一起使用，并允许记录选择性事件.
+* [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) -  embed.ly库的捆绑包.
+* [ExcelBundle](https://github.com/liuggio/ExcelBundle) - 借助https://github.com/PHPOffice/PHPExcel库，在Symfony2中集成Excel.
+* [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - 通过向twig添加一些简单标签并扩展其配置，在Symfony2中配置功能切换.
+* [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - 此捆绑包为PHP_FFmpeg库提供了一个简单的包装器，将库作为​​Symfony服务公开.
+* [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - 此Bundle集成了Swap库.
+* [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - 为Symfony项目添加BBCode支持.
+* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - 提供Elfinder文件浏览器与流行的WYSIWYG编辑器的集成.
+* [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - 将捆绑安装步骤神奇地缩减为单个命令.
+* [godfather](https://github.com/PUGX/godfather) -  PHP中策略模式的库.
+* [GoogleBundle](https://github.com/antimattr/GoogleBundle) - 捆绑Google Analytics.
+* [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - 集成Guzzle.
+* [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - 集成PHP Highcharts.
+* [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) -  HTML Purifier是一个用PHP编写的符合标准的HTML过滤器库.
+* [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - 给一个Symfony2控制器一个带注释的简单向导/工作流程.
+* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) -  ImageCrop允许您在Symfony应用程序中裁剪图像，此捆绑包添加新的表单字段类型.
+* [JMDUnoconvBundle](https://github.com/mops1k/JMDUnoconvBundle) -  Bundle提供了通过unoconv（LibreOffice）通过php-unoconv库将文件从一种格式转换为另一种格式的门.
+* [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - 此捆绑包将Essence库（一个oEmbed库）集成到Symfony 2中.
+* [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - 此捆绑包提供简单的数据网格包.
+* [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) - 用于PHP降价的包装器.
+* [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - 通过使用webkit转换html轻松创建PDF和图像.
+* [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - 此Symfony2软件包允许您通过在控制台中调用两个命令将网站置于维护模式.
+* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - 基于Imagine库的图像处理包.
+* [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - 为带有新过滤器的模板添加一个Twig Extension，用于自动将字符串中的URL和电子邮件转换为html链接.
+* [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - 从一种格式转换为另一种格式的PHP库.
+* [metrics](https://github.com/beberlei/metrics) - 抽象不同指标收集器的简单库.
+* [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - 将php-mediainfo库集成到Symfony2全栈框架中.
+* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -  Mobile_Detect是一个轻量级PHP类，用于检测移动设备（包括平板电脑）.
+* [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - 用于检测移动设备，管理移动视图和重定向到移动设备和平板电脑版本的捆绑包.
+* [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) -  MultiParam Annotation Bundle.
+* [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) - 旨在简化高图表的使用，以显示丰富的图形和图表.
+* [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - 为多个多文件上传器提供服务器实现.
+* [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - 集成libphonenumber.
+* [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - 在Symfony2中集成prezent / grid库.
+* [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) -  Symfony中的QueryBus集成.
+* [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) -  RSS和Atom Bundle.
+* [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) -  Sphinx搜索捆绑.
+* [SettingsBundle](https://github.com/dmishh/SettingsBundle)   - 以数据库为中心的配置管理.  支持全局和每用户设置.
+* [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - 为您的项目提供简短的URL.
+* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) -  Symfony 2包，用于简单标签管理，基于doctrine 2 simple_array类型.
+* [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - 一个自动将Doctrine实体同步到Sphinx实时索引的包.
+* [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - 提供使用Sphinx搜索.
+* [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - 此捆绑包允许您在实体属性上自动生成唯一的随机字符串，这对创建密钥很有用.
+* [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - 缓存抽象包.
+* [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - 此捆绑包用于将mathiasveres中的Money库集成到symfony2项目中.
+* [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - 暴露hautelook / TemplatedUriRouter.
+* [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - 用于在Symfony中构建实时应用程序的捆绑包.
+* [timeline-bundle](https://github.com/stephpy/timeline-bundle) -  Symfony2捆绑以制定时间表.
+* [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - 捆绑传输API客户端.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
-* [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
-* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
-* [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
-* [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
+* [VisithorBundle](https://github.com/Visithor/VisithorBundle) - 用于PHP包的vismor的Symfony Bundle.
+* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - 捆绑使用Pagerfanta.
+* [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - 为Controller类添加注释配置.
+* [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - 管理许多域的短包.
 
 ## Monitoring
 
-* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
-* [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
+* [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) -  Bundle提供了一种运行一系列与应用程序相关的运行状况检查的方法.
+* [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - 用于生产服务器的监视包
 
 ## Payments Management
 
-* [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
-* [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - This bundle provides the foundation for various payment plugins.
-* [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) - Payment Bundle providing access to the PayPal API.
-* [MangopayBundle](https://github.com/AppVentus/MangopayBundle) - Mangopay API implementation for Symfony2.
-* [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
-* [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
+* [CartBundle](https://github.com/leaphly/CartBundle) - 开发人员的高品质购物车.
+* [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - 此捆绑包为各种付款插件提供了基础.
+* [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) - 支付套餐，提供对PayPal API的访问.
+* [MangopayBundle](https://github.com/AppVentus/MangopayBundle) -  Symfony2的Mangopay API实现.
+* [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle)   - 提供对Adyen API的访问.  基于JMSPaymentCoreBundle.
+* [PayumBundle](https://github.com/Payum/PayumBundle)   - 针对symfony2的丰富支付解决方案.  Paypal，Stripe，Payex，Authorize.NET，Be2bill，Klarna，经常性付费，即时通知等等
 
 ## Queues
 
-* [BernardBundle](https://github.com/bernardphp/BernardBundle) - Bernard is a multi-backend PHP library for creating background jobs for later processing.
-* [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - A bundle intended to provide an easy way to support developers who need to use job queues.
-* [HeriJobQueueBundle](https://github.com/heristop/HeriJobQueueBundle) - This Symfony bundle provides the use of Zend Queue from Zend Framework.
-* [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - Allows to schedule console commands as jobs.
-* [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
-* [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
-* [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
-* [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
+* [BernardBundle](https://github.com/bernardphp/BernardBundle) -  Bernard是一个多后端PHP库，用于创建后台作业以供以后处理.
+* [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - 捆绑包旨在提供一种简单的方法来支持需要使用作业队列的开发人员.
+* [HeriJobQueueBundle](https://github.com/heristop/HeriJobQueueBundle) - 这个Symfony包提供了Zend Framework的Zend Queue的使用.
+* [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - 允许将控制台命令安排为作业.
+* [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - 为Pheanstalk捆绑，用于beanstalkd队列的PHP客户端.
+* [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) -  QPush Bundle依赖于消息队列的推送队列模型来在您的应用程序中提供异步处理.
+* [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) -  RabbitMQ捆绑.
+* [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - 基于Redis的队列基础架构，包括Producer-Consumer和Publisher-Subscriber
 
 ## Reading
 
@@ -239,103 +239,103 @@ Table of contents:
 
 ## Resources
 
-* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
-* [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - 在YAML，XML和INI之间转换服务配置的简单服务.
+* [Twigfiddle](http://twigfiddle.com/) - 在线开发，运行，存储和访问Twig代码的小型开发环境.
 
 ## Service Container
 
 * [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
-* [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - Simple service for store configuration in database an accessible via service and twig in your project.
-* [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
-* [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
-* [PHP-DI](http://php-di.org) - The dependency injection container for humans.
+* [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - 数据库中商店配置的简单服务，可通过服务和项目中的树枝访问.
+* [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - 提供高级依赖注入功能.
+* [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - 为服务参数提供自动装配的捆绑包.
+* [PHP-DI](http://php-di.org) - 人类的依赖注入容器.
 
 ## Storage
 
-* [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice.
-* [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures.
-* [AvSpoolMailerBundle](https://github.com/AppVentus/AvSpoolMailerBundle) - Store your mails as a spool and send transactionnal direct mails or store it in DB.
-* [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - Dynamic database routing.
-* [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.
-* [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) - Provides support of MySQL ENUM type for Doctrine2.
-* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library.
-* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Integrates the Doctrine2 Migrations library.
-* [elastica-query-bundle](https://github.com/mapado/elastica-query-bundle) - Query builder bundle for ElasticSearch.
-* [FeedBundle](https://github.com/eko/FeedBundle) - A bundle to build RSS feeds from your entities.
-* [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) - This bundle adds tagging, with the ability to associate tags with any number of different entities.
-* [GaufretteBrowserBundle](https://github.com/digitalkaoz/GaufretteBrowserBundle) - This Bundle allows you to browse a Gaufrette Filesystem like a Doctrine Connection.
+* [AliceBundle](https://github.com/hautelook/AliceBundle) - 一个Symfony2包，用于帮助加载与Alice的Doctrine Fixtures.
+* [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - 用于将Alice和Faker与数据夹具一起使用的Symfony2软件包.
+* [AvSpoolMailerBundle](https://github.com/AppVentus/AvSpoolMailerBundle) - 将邮件存储为假脱机并发送事务直接邮件或将其存储在数据库中.
+* [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - 动态数据库路由.
+* [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) -  Bundle允许您创建具有受AES等加密算法保护的字段的doctrine实体.
+* [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) - 为Doctrine2提供MySQL ENUM类型的支持.
+* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - 集成Doctrine2数据夹具库.
+* [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - 集成Doctrine2迁移库.
+* [elastica-query-bundle](https://github.com/mapado/elastica-query-bundle) -  ElasticSearch的查询构建器包.
+* [FeedBundle](https://github.com/eko/FeedBundle) - 用于从您的实体构建RSS源的捆绑包.
+* [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) - 此捆绑包添加了标记功能，可以将标记与任意数量的不同实体相关联.
+* [GaufretteBrowserBundle](https://github.com/digitalkaoz/GaufretteBrowserBundle) - 此Bundle允许您浏览Gaufrette文件系统，如Doctrine Connection.
 * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
-* [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE_FORMAT().
-* [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
-* [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
-* [SncRedisBundle](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
-* [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - This bundle provides integration for DoctrineExtensions.
-* [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
-* [WizadDoctrineDocBundle](https://github.com/wpottier/WizadDoctrineDocBundle) - Allows you to generate a decent documentation for your doctrine model schema.
+* [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) -  Doctrine的MySQL函数：RAND（），ROUND（）DATE（），DATE_FORMAT（）.
+* [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - 集成Flysystem.
+* [RelationBundle](https://github.com/Ph3nol/RelationBundle)   - 捆绑管理模型/实体之间的关系.  （不再维护）
+* [SncRedisBundle](https://github.com/snc/SncRedisBundle) - 捆绑将Redis集成到您的应用程序中.
+* [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - 此捆绑包为DoctrineExtensions提供集成.
+* [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - 为ORM和ODM实体提供地理特征以及面向对象的javascript地图渲染的捆绑包.
+* [WizadDoctrineDocBundle](https://github.com/wpottier/WizadDoctrineDocBundle) - 允许您为您的学说模型模式生成一个合适的文档.
 
 ## Template Engine
 
-* [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
-* [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
-* [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
-* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
-* [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
-* [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
-* [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
-* [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
-* [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
-* [TwitalBundle](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
-* [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
+* [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - 此捆绑包允许您在Twig模板中使用Kint库.
+* [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - 简化处理（添加/显示）Symfony flash消息的方法.
+* [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - 简单的gravatar API包装器.
+* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - 为时间操纵提供帮助.
+* [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - 一个提供CSS内联功能的Swiftmailer插件.
+* [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - 捆绑asm89 / twig-cache-extension.
+* [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) -  Twig Extra Tools Extensions.
+* [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - 通过Twig扩展名应用变形.
+* [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) -  Twig的便利附加功能.
+* [TwitalBundle](https://github.com/goetas/twital-bundle) - 构建在Twig之上的属性模板引擎，100％兼容所有twig的功能.
+* [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - 提供一些过滤器.
 
 ## Third Party APIs
 
-* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
-* [CoopTilleulsOvhBundle](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - Send SMS using the OVH API.
-* [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2.
-* [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
-* [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
-* [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
+* [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - 将Algolia Search无缝集成到您的Symfony项目中.
+* [CoopTilleulsOvhBundle](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - 使用OVH API发送短信.
+* [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) -  Symfony2中的Mixpanel集成.
+* [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - 用于swarrot集成的捆绑包.
+* [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - 从不同的邮件服务（Mailjet，Mandrill，自定义）捕获API webhook的捆绑包
+* [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - 使用prerender.io的Symfony2 Bundle.
 
 ## User Management
 
-* [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
-* [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration. Supports both OAuth1.0a and OAuth2.
-* [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.
-* [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - Enhances the Security Component with several new features.
-* [KnpUGuardBundle](https://github.com/knpuniversity/KnpUGuardBundle) - Adds simple and beautiful authentication to your Symfony project.
-* [SamlBundle](https://github.com/pdias/SamlBundle) - The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.
-* [two-factor-bundle](https://github.com/scheb/two-factor-bundle) - This Symfony2 bundle provides two-factor authentication for your website.
+* [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - 添加对数据库支持的用户系统的支持.
+* [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle)   -  OAuth客户端集成.  支持OAuth1.0a和OAuth2.
+* [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - 此捆绑包将AutoLogin库与Symfony2集成在一起，Symfony2实现了一个安全防火墙侦听器，可根据单个查询参数对用户进行身份验证.
+* [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - 使用多个新功能增强安全组件.
+* [KnpUGuardBundle](https://github.com/knpuniversity/KnpUGuardBundle) - 为您的Symfony项目添加简单而美观的身份验证.
+* [SamlBundle](https://github.com/pdias/SamlBundle) -  SamlBundle在Symfony2中添加了对SAML 2.0服务提供商的支持.
+* [two-factor-bundle](https://github.com/scheb/two-factor-bundle) - 此Symfony2软件包为您的网站提供双因素身份验证.
 
 ## Validation
 
-* [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations.
-* [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
-* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
+* [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - 提供FilterService以允许用户使用Annotations在实体中实现输入过滤.
+* [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - 确保强密码的验证器.
+* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) -  VATIN库的Symfony2包（验证增值税识别号）.
 
 ## Web Services
 
-* [api2symfony-bundle](https://github.com/creads/api2symfony-bundle) - Symfony 2 bundle allowing to automatically generate controllers from standard API specifications.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
-* [DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries
-* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
-* [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
-* [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
-* [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - Provide fast and simple way to generate REST api for your project entities without editing configs and creating any controllers.
-* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
-* [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
-* [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
-* [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities.
-* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
-* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations.
-* [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
-* [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - Add rate limits to your controllers/actions easily through annotations.
-* [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
-* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
-* [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
-* [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
+* [api2symfony-bundle](https://github.com/creads/api2symfony-bundle) -  Symfony 2软件包允许从标准API规范自动生成控制器.
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - 整合Hateoas图书馆.
+* [DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - 与AngularJS和其他主要AJAX库一起使用的Symfony API的自动CSRF保护
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - 捆绑以构建超媒体驱动的REST API.
+* [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - 服务器端OAuth2捆绑包.
+* [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - 提供各种工具来快速开发RESTful API和应用程序.
+* [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - 提供快速简单的方法为项目实体生成REST API，无需编辑配置和创建任何控制器.
+* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - 轻松序列化和反序列化任何复杂性的数据.
+* [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi) -  Bundle，它支持格式化REST响应以遵循JSON API规范.
+* [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - 提供允许您基于验证元数据生成json模式的服务.
+* [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - 为Doctrine实体提供REST端点的自以为是的捆绑包.
+* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - 此捆绑包使用namshi / jose库为您的REST API提供JWT（Json Web Token）身份验证.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - 从注释生成REST API的文档.
+* [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - 添加基于简单的ACL样式的每URL配置添加CORS相关头的功能.
+* [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - 通过注释轻松为控制器/操作添加速率限制.
+* [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - 使用此捆绑包，您可以轻松限制对您的应用程序的请求.
+* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - 有助于开发REST API的Bundle.
+* [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - 一个简单的包，提供一种简单的方法来发送带注释的序列化对象的json / xml / yaml响应.
+* [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - 一个symfony包，用于处理REST API上的多种上载方式.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Emanuele Minotto](http://emanueleminotto.github.io) （回购的原始创作者）和 [SitePoint](http://www.sitepoint.com/) 已放弃对此作品的所有版权及相关或邻接权利.

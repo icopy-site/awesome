@@ -2,115 +2,115 @@
 Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
 
-A curated list of awesome Assembler :)
+精选汇编程序的精选列表:)
 
 ----------
 
-Assembler List
+汇编列表
 ----------
 
 * *[Flat Assembler (FASM)](http://flatassembler.net/)*
->is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
+&gt;是x86架构处理器的快速汇编语言编译器，它执行多次传递以优化生成的机器代码的大小
 
 * *[Microsoft Macro Assembler (MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
->is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
+&gt;是一个x86汇编程序，它使用Intel语法用于MS-DOS和Microsoft Windows
 
 * *[Netwide Assembler (NASM)](http://www.nasm.us/)*
->is an assembler and disassembler for the Intel x86 architecture
+&gt;是Intel x86架构的汇编程序和反汇编程序
 
 * *[YASM](http://yasm.tortall.net/)*
->is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
+ &gt;是Intel x86架构的汇编程序和反汇编程序.  Yasm完全改写了Netwide Assembler（NASM）.
 
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
->ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
+&gt; ILAsm（IL Assembler）从通用中间语言（CIL）代码生成可移植可执行（PE）文件
 
 * *[PeachPy](https://github.com/Maratyszcza/PeachPy)*
->is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
+ &gt;是嵌入在Python中的x86-64汇编程序，面向高性能计算受众.  PeachPy可以从同一来源为Windows，Linux，Mac OS X，Native Client和Go生成目标文件或程序集列表
 
 * *[FLASM](http://www.nowrap.de/flasm)*
->Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
+ &gt; Flasm是Flash ActionScript字节码的免费命令行汇编程序/反汇编程序.  它允许您更改任何SWF.  Flasm完全支持Macromedia Flash 8及更早版本生成的SWF.
 
 * *[XEDParse](https://github.com/x64dbg/XEDParse)*
->XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
+ &gt; XEDParse是一个开源（LGPLv3）库，用于将单个x86（-x64）指令从文本组合到字节.  有助于集成到逆向工程框架中以快速组装指令.
 
 * *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
->High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow HLL programmers to learn HLA as fast as possible.
+ &gt;高级程序集（HLA）是由Randall Hyde开发的汇编语言.  它允许使用更高级的语言结构来帮助初学者和高级程序集开发人员.  它完全支持高级数据类型和面向对象的汇编语言编程.  它使用松散地基于几种高级语言（HLL）的语法，例如Pascal，Ada，Modula-2和C ++，以允许创建可读的汇编语言程序，并允许HLL程序员尽可能快地学习HLA.
 
-Disassembler & Debuggers
+反汇编程序和调试程序
 ----------
 * *[IDA PRO](https://www.hex-rays.com/products/ida/index.shtml)*
->32/64-bit proprietary software. [wiki](http://en.wikipedia.org/wiki/Interactive_Disassembler)
+&gt; 32/64位专有软件. [wiki](http://en.wikipedia.org/wiki/Interactive_Disassembler)
 
 * *[IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)* 
->The freeware version of IDA v5.0
+&gt; IDA v5.0的免费版本
 
 * *[OllyDbg](http://en.wikipedia.org/wiki/OllyDbg)*
->is an x86 debugger that emphasizes binary code analysis, which is useful when source code is not available. most popular!
+ &gt;是一个强调二进制代码分析的x86调试器，在源代码不可用时非常有用.  最受欢迎！
 
 * *[x64_dbg](http://x64dbg.com/#start)*
->An open-source x64/x32 debugger for windows.
+&gt;用于Windows的开源x64 / x32调试器.
 
 * *[Visual DuxDebugger](http://www.duxcore.com/)*
->Visual DuxDebugger is a 64-bit debugger disassembler for Windows executables, especially useful when source code is unavailable. The user interface is very intuitive so it makes very simple any task in reverse.
+ &gt; Visual DuxDebugger是一个用于Windows可执行文件的64位调试器反汇编程序，在源代码不可用时尤其有用.  用户界面非常直观，因此反向任务变得非常简单.
 
 * *[Immunity Debugger](http://debugger.immunityinc.com/)*
->Immunity Debugger is a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industrys first heap analysis tool.
+ &gt; Immunity Debugger是一种强大的编写漏洞，分析恶意软件和反向工程二进制文件的新方法.  它建立在具有功能图形的可靠用户界面之上，这是业界第一个堆分析工具.
 
 * *[Hopper](http://www.hopperapp.com/)*
->Hopper is a binary disassembler, decompiler and debugger for 32bits and 64bits executables. Hopper can disassemble Mac (Intel 32/64), iOS (ARM/Intel), PE (PE32/32+/64) and ELF (Intel 32/64 and ARM). 
+ &gt; Hopper是一个二进制反汇编器，反编译器和调试器，用于32位和64位可执行文件.  Hopper可以拆卸Mac（Intel 32/64），iOS（ARM / Intel），PE（PE32 / 32 + / 64）和ELF（Intel 32/64和ARM）. 
 
 * *[WinDbg](http://www.windbg.org/)*
->WinDbg is a multipurposed debugger for Microsoft Windows, distributed on the web by Microsoft as part of the Debugging Tools for Windows.
+&gt; WinDbg是Microsoft Windows的多用途调试器，由Microsoft作为Windows调试工具的一部分在Web上发布.
 
-* *Syser*
->Syser Kernel Debugger is designed for Windows NT Family based on X86 platform. It is a kernel debugger with full-graphical interfaces and supports assembly debugging and source code debugging.
+* * Syser *
+ &gt; Syser内核调试器专为基于X86平台的Windows NT系列而设计.  它是一个内核调试器，具有全图形界面，支持汇编调试和源代码调试.
 
-* *ILDASM*
->.NET Disassembler
+* * ILDASM *
+&gt; .NET反汇编程序
 
 * *[Radare2](http://rada.re)*
->An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
+ &gt;用于逆向工程和分析二进制文件的开源完整框架;  由一组可以与命令行一起使用或独立使用的小实用程序组成.
 
 * *[Plasma](https://github.com/plasma-disassembler/plasma)*
->Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+ &gt; Plasma是x86 / ARM / MIPS的交互式反汇编程序.  它可以生成带有彩色语法的缩进伪代码.
 
 IDE
 ----------
 
 * *[Visual Studio 20XX](https://www.visualstudio.com/)*
->Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
+&gt; Microsoft Visual Studio是Microsoft的集成开发环境（IDE）.
 
 * *[RadASM](http://oby.ro/rad_asm/)*
->RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (KetilO).
+ &gt; RadASM  -  Microsoft Windows的免费集成开发环境，最初设计用于使用汇编语言编写程序.  它具有灵活的配置文件系统，可用于以高级编程语言开发软件和基于标记语言编写文档.  它由程序员Ketil Olsen（KetilO）创建.
 
 * *[EasyCode](http://www.easycode.cat/)*
->Easy Code is the visual assembly programming environment made to build 32-bit Windows applications. The Easy Code interface, looking like Visual Basic, allows you to program Windows assembler applications (executable files, dynamic and static libreries, COFF object files, console applications, drivers and services) done in an easy way as was never possible before
+ &gt; Easy Code是用于构建32位Windows应用程序的可视化汇编编程环境.  Easy Code界面，看起来像Visual Basic，允许您以简单的方式编写Windows汇编程序应用程序（可执行文件，动态和静态libreries，COFF目标文件，控制台应用程序，驱动程序和服务），这是以前从未有过的.
 
 * *[WinAsm Studio](http://www.winasm.net/)*
->WinAsm Studio is a free Integrated Development Environment IDE for developing 32-bit Windows and 16-bit DOS programs using the Assembler.
+&gt; WinAsm Studio是一个免费的集成开发环境IDE，用于使用Assembler开发32位Windows和16位DOS程序.
 
 * *[Visual MASM](http://www.visualmasm.com/)*
->IDE for MASM written in Delphi. What? It is dev brain.
+ &gt;用Delphi编写的MASM IDE.  什么？  这是开发大脑.
 
 * *[MASM Builder](http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html)*
->ASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs.
+ &gt; ASM Builder是一个免费的集成开发环境IDE，用于使用Assembler开发32位Windows程序.  MASM Builder包含许多有用的功能，可以帮助您创建基于Windows API的程序.
 
 * *[SASM](https://dman95.github.io/SASM/)*
->SASM (SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt.
+ &gt; SASM（SimpleASM） - 用于NASM，MASM，GAS，FASM汇编语言的简单开源跨平台IDE.  SASM具有语法突出显示和调试器.  该程序开箱即用，非常适合初学者学习汇编语言.  SASM被翻译成俄语和英语.  根据GNU GPL v3.0获得许可.  基于Qt.
 
 Books
 ----------
 * *[Modern X86 Assembly Language Programming](http://www.apress.com/9781484200650)*
->32-bit, 64-bit, SSE, and AVX by **Daniel Kusswurm**
+&gt; Daniel Kusswurm提供的&gt; 32位，64位，SSE和AVX **
 
 * *[.NET IL Assembler](http://www.apress.com/9781430267614)*
->Common Intermediate Language ([wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
+&gt;普通中级语言（[wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)）** Serge Lidin **
 >
 * *[Assembly Language for x86 Processors, 7th edition](http://kipirvine.com/asm/)*
->by **Kip Irvine** (great book!)
+&gt; by ** Kip Irvine **（好书！）
 
 * *[The Art of Assembly Language, 2nd Edition](http://www.nostarch.com/assembly2.htm)*
->by **Randall Hyde**
+&gt; by ** Randall Hyde **
 
 External links
 ----------

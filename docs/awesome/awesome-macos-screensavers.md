@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="agarrharr/awesome-macos-screensavers"></div>
 ## Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of screensavers for macOS.
+&gt; macOS屏幕保护程序的精选列表.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 
@@ -13,55 +13,55 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### fliqlo
 
-> A flip clock screensaver.
+&gt;翻盖时钟屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fliqlo.png)](http://fliqlo.com/)
 
 ### Padbury Clock
 
-> A very simple clock screensaver.
+&gt;一个非常简单的时钟屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/padburyClock.png)](http://padbury.me/clock/)
 
 ### Today
 
-> Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
+&gt;时间或日期与On Kawara的“今日系列”画作类似.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/today.png)](http://www.gingerbeardman.com/today/)
 
 ### Word Clock
 
-> A clock made of words. It switches between a circular and a paragraph layout.
+ &gt;一个用文字组成的时钟.  它在循环和段落布局之间切换.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
 ### Fractal Clock
 
-> A clock that produces a fractal tree pattern around it as it moves.
+&gt;一个在移动时围绕它产生分形树图案的时钟.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
 ### Epoch Flip Clock
 
-> Unix Time (epoch) flip clock.
+&gt; Unix时间（epoch）翻转时钟.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
 
 ### Grid Clock
 
-> Twelve hour time in words.
+&gt;十二小时的时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
 
 ### Word Clock
 
-> A super simple word clock, like your computer is typing the time for you.
+&gt;一个超级简单的字时钟，就像你的电脑正在为你输入时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
 ### Simple Clock
 
-> A simple clock screensaver with different analogue clock faces as skins.
+&gt;一个简单的时钟屏幕保护程序，具有不同的模拟时钟面作为皮肤.
 
 Free
 
@@ -69,7 +69,7 @@ Free
 
 ### ColorClock
 
-> Displays a solid color corresponding to the current time.
+&gt;显示与当前时间对应的纯色.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
@@ -77,19 +77,19 @@ Free
 
 ### Aerial
 
-> Apple TV Aerial Screensaver for Mac.
+&gt;适用于Mac的Apple TV Sky Screensaver.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
 
 ### Apple Watch
 
-> A screensaver that looks like an Apple Watch.
+&gt;一个看起来像Apple Watch的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
 ### iOS Lockscreen for macOS
 
-> A screensaver that looks like the lockscreen on iPhone and iPad.
+&gt;一个看起来像iPhone和iPad上的锁屏的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
 
@@ -97,13 +97,13 @@ Free
 
 ### PongSaver
 
-> PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+ &gt; PongSaver是一个macOS屏幕保护程序/时钟，通过使用Pong游戏的得分来保持时间.  左侧每小时赢一次，右侧每分钟赢一次.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
 ### Textify Me
 
-> This interactive screen saver turns everything in front of your camera into text.
+&gt;此交互式屏幕保护程序可将相机前面的所有内容转换为文本.
 
 $0.99
 
@@ -113,13 +113,13 @@ $0.99
 
 ### The Github Matrix Screensaver
 
-> The latest commits from GitHub visualized in a Matrix-style animation.
+&gt; GitHub的最新提交在Matrix风格的动画中可视化.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
 
 ### StarWarsScroll
 
-> Recreates the opening titles of the first 6 Star Wars movies.
+&gt;重新制作前6部星球大战电影的开场影片.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
 
@@ -127,7 +127,7 @@ $0.99
 
 ### SpeedS@ver
 
-> Plays videos of people completing speed runs of games.
+&gt;播放完成速度游戏的人的视频.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
 
@@ -135,7 +135,7 @@ $0.99
 
 ### Aquarium live lite
 
-> Video of aquariums.
+&gt;水族馆的视频.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
 
@@ -143,13 +143,13 @@ $0.99
 
 ### Developer Excuses
 
-> A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
+&gt;显示引用的macOS屏幕保护程序 [http://developerexcuses.com](http://developerexcuses.com) （非官方）.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
 ### MacOS Kernel Panic
 
-> Harmless screensaver that faithfully emulates the horrifying experience of a kernel panic.
+&gt;无害的屏幕保护程序，忠实地模仿内核恐慌的可怕体验.
 
 Free
 
@@ -157,7 +157,7 @@ Free
 
 ### Windows Kernel Panic
 
-> Blue Screen of Death (BSOD) screensaver for Mac.
+&gt;适用于Mac的蓝屏死机（BSOD）屏幕保护程序.
 
 Free
 
@@ -167,7 +167,7 @@ Free
 
 ### Electric Sheep Infinite Evolving Artwork
 
-> Animations of evolving fractals.
+&gt;演化分形的动画.
 
 Free
 
@@ -175,7 +175,7 @@ Free
 
 ### Screensson
 
-> Creates unique patterns on your display by randomly stacking vector stencils.
+&gt;通过随机堆叠矢量模板在显示器上创建独特的图案.
 
 Donationware
 
@@ -183,9 +183,9 @@ Donationware
 
 ### Emoji Saver
 
-> Animates Apple, EmojiOne and Twitter Emojis in 7 different effects with many customizable settings.
+&gt;动画Apple，EmojiOne和Twitter Emojis有7种不同的效果，有许多可自定义的设置.
 
-Lite Version (Free) and Full Version ($3)
+精简版（免费）和完整版（3美元）
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
 
@@ -193,7 +193,7 @@ Lite Version (Free) and Full Version ($3)
 
 ### Google Trends
 
-> Shows the latest hot searches for all regions or specific countries.
+&gt;显示所有地区或特定国家/地区的最新热门搜索.
 
 Free
 
@@ -201,7 +201,7 @@ Free
 
 ### Google's Featured Photos Screensaver
 
-> See beautiful new photos while you're not using your Mac.
+&gt;在不使用Mac时查看精美的新照片.
 
 Free
 
@@ -213,4 +213,4 @@ Free
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃对此作品的所有版权及相关或相邻权利.

@@ -1,20 +1,20 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
-Awesome Bitcoin
+令人敬畏的比特币
 ===============
-A curated list of bitcoin services and tools for software developers
+为软件开发人员提供的比特币服务和工具的精选列表
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of content
+内容清单
 
 
 
 ## Utilities
-* [BitKey](https://bitkey.io) Live USB for airgapped transactions and Bitcoin swiss army knife 
-* [Pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
-* [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
-* [bx](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
-* [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+* [BitKey](https://bitkey.io) 实时USB用于空气交易和比特币瑞士军刀 
+* [Pycoin](https://github.com/richardkiss/pycoin) 基于Python的比特币和alt-coin实用程序库.
+* [sx](https://github.com/spesmilo/sx/) sx  - 命令行比特币赋予系统管理员权力
+* [bx](https://github.com/libbitcoin/libbitcoin-explorer) 比特币命令行工具
+* [txwatcher](https://github.com/tsileo/txwatcher)一个小的Python实用程序，允许您通过Blockchain Websocket API监视比特币地址并执行自定义回调.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) 一系列简单的程序，可以生成比特币钱包，创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 
 ## Blockchain API and Web services
@@ -25,8 +25,8 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
-* [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - 自托管支付网关.
+* [Chainradar API](https://github.com/yasaricli/chainradar-api) Chainradar的Blockchain Explorer API
 
 ## Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -47,7 +47,7 @@ List of content
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
-* [Bitkit](https://bitkit.live) - Real time transaction updates
+* [Bitkit](https://bitkit.live) - 实时交易更新
 
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
@@ -60,7 +60,7 @@ List of content
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
-* [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
+* [bcoin](https://github.com/bcoin-org/bcoin) 用于node.js和浏览器的Javascript比特币库 
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
@@ -71,56 +71,56 @@ List of content
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
-* [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
-* [pybitcointools](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
-* [pycoin](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
-* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
+* [btctxstore](https://github.com/F483/btctxstore) 使用OP_RETURN在比特币交易中存储/检索信息的简单库
+* [pybitcointools](https://github.com/vbuterin/pybitcointools)  来自Vitalik Buterin的比特币签名和交易的Python库.  项目已停止.
+* [pycoin](https://github.com/richardkiss/pycoin)  用于比特币密钥，签名，交易的Python库.  包括完整的VM实现和用于操作密钥（ku）和事务（tx）的工具.
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  用于构建和分析事务和脚本（标准和自定义）的Python库.  附带一个UTXO集分析工具.  包括几个示例和详尽的文档. 
 
 ## Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
-* [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange](https://github.com/timmolter/XChange) 提供简单一致的API的库，用于与50多个比特币货币交换进行交互.
 
 ## .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin)用于.NET框架的综合比特币库.
 * [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-* [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
+* [QBitNinja](https://github.com/MetacoSA/QBitNinja) 开源和强大的区块链API
 
 ## Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
-* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) Bitcoin Script for dummies
+* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) 比特币脚本傻瓜
 * [Debug Script Execution](https://webbtc.com/script)
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
-* [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
-* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) Visualize Bitcoin script execution for real transactions
+* [blockchain-demo](https://github.com/anders94/blockchain-demo/) 基于网络的区块链概念演示
+* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) 可视化比特币脚本执行实际交易
 
 ## Blockchain dump
-* [WebBTC](http://dumps.webbtc.com/bitcoin/) These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
-* [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
-* [Blockparser+SQL](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
-* [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
-* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+* [WebBTC](http://dumps.webbtc.com/bitcoin/) 这些是由webbtc.com生成的bitcoin-ruby-blockchain数据库的postgres数据库转储.
+* [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) 一种高性能数据传输工具，可用于将数据从比特币核心区块链文件复制到SQL Server数据库
+* [Blockparser+SQL](https://github.com/mcdee/blockparser) 快速，快速和脏的比特币区块链解析器
+* [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) 安倍：阻止比特币和类似货币的浏览器
+* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Azure云平台的可扩展和容错块链索引器.
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) Graph Database Builder
 
 ## Full nodes
-* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
-* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) bitcoin node based on bitcoin-ruby-blockchain
-* [Toshi by Coinbase](https://toshi.io/) An open source Bitcoin node built to power large scale web applications
-* [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
-* [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
-* [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
-* [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
+* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) 使用Node.js / LevelDB的JavaScript中的比特币网络节点
+* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) 基于比特币 - 红宝石区块链的比特币节点
+* [Toshi by Coinbase](https://toshi.io/) 一个开源比特币节点，用于为大规模Web应用程序提供支持
+* [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript实现的比特币
+* [Insight API](https://github.com/bitpay/insight-api) 用于网络钱包的比特币区块链API
+* [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) BitPind通过BitPay链接到node.js
+* [Bitcore](https://github.com/bitpay/bitcore) 以前只是一个Nodejs库，现在是一个完整的节点
 
 ## Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
-* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
+* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) 一本深入的技术书籍，内容丰富.
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-Created by [BlockchainU](http://blockchainu.co/) fellows.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+由...制作 [BlockchainU](http://blockchainu.co/) 研究员.
 
 ## Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
@@ -129,4 +129,4 @@ Created by [BlockchainU](http://blockchainu.co/) fellows.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Igor Barinov](https://github.com/igorbarinov/) 已放弃对此作品的所有版权及相关或相邻权利.

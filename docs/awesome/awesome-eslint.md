@@ -3,137 +3,137 @@
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
-> A list of awesome ESLint configs, plugins, etc.
+&gt;一系列令人敬畏的ESLint配置，插件等.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
+如果您想贡献，请阅读 [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
 
 
 
 ## Configs
 
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
-- [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
-- [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
-- [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
-- [Google](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml).
-- [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript).
-- [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
-- [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
-- [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO](https://github.com/sindresorhus/xo).
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - 可共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Canonical](https://github.com/gajus/eslint-config-canonical) - 可共享配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - 包含用于ESLint团队维护的项目的ESLint配置.
+- [ES](https://github.com/thenativeweb/eslint-config-es) - 可共享的配置，非常严格的代码.
+- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -  Facebook风格指南的可共享配置.
+- [Google](https://github.com/google/eslint-config-google) - 可共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
+- [Problems](https://github.com/RyanZim/eslint-config-problems) - 可共享配置，仅捕获实际问题，并不强制风格首选项.
+- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - 可共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Standard](https://github.com/feross/eslint-config-standard) -  JavaScript的可共享配置 [Standard Style](https://github.com/feross/standard).
+- [Supermind](https://github.com/supermind/eslint-config-supermind) -  Supermind风格的可共享配置.
+- [XO](https://github.com/sindresorhus/eslint-config-xo) - 可共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Parsers
 
-- [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
-- [TypeScript](https://github.com/eslint/typescript-eslint-parser) - A TypeScript parser that produces output compatible with ESLint.
-- [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+- [Babel](https://github.com/babel/babel-eslint) - 使用Babel的解析器来绘制所有Babel特征.
+- [TypeScript](https://github.com/eslint/typescript-eslint-parser) -  TypeScript解析器，生成与ESLint兼容的输出.
+- [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)   - 用于Roku开发的BrightScript插件.  包括解析器和规则.
 
 ## Plugins
 
 ### Frameworks and Libraries
 
-- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide).
-- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
-- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
-- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
-- [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember.
-- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
-- [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
-- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
-- [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
-- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments.
-- [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
-- [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
-- [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
-- [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
-- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
-- [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
-- [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
-- [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
-- [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
-- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
-- [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
+- [Angular](https://github.com/Gillespie59/eslint-plugin-angular) -  Linting规则坚持 [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide).
+- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -  AVA的Linting规则.
+- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) -  Backbone的Linting规则.
+- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - 柴的Linting规则.
+- [Ember](https://github.com/netguru/eslint-plugin-ember) -  Ember的Linting规则.
+- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - 根据模式检查GraphQL查询字符串.
+- [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -  hapi的Linting规则.
+- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
+- [Jest](https://github.com/jest-community/eslint-plugin-jest) -  Is的Linting规则.
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -  JSDoc评论的Linting规则.
+- [Lodash](https://github.com/wix/eslint-plugin-lodash) -  Lodash特定的linting规则.
+- [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -  Lodash / fp特定的linting规则.
+- [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -  Lodash模板/下划线模板的插件.
+- [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - 流星特定的linting规则.
+- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
+- [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -  Mongodb原生Node.js驱动程序linting规则.
+- [Ramda](https://github.com/ramda/eslint-plugin-ramda) -  Ramda特定的linting规则.
+- [React](https://github.com/yannickcr/eslint-plugin-react) -  React和JSX的Linting规则.
+- [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -  React Native特定的linting规则.
+- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) -  RequireJS的Linting规则.
+- [VueJS](https://github.com/vuejs/eslint-plugin-vue) -  VueJS插件.
 
 ### Misc
 
-- [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features.
-- [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatability of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
-- [Coffee](https://github.com/aminland/eslint-plugin-coffee) - Enables linting CoffeeScript files with, with optional linting rules from the Coffeelint library.
-- [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
-- [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
-- [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
-- [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
-- [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
-- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
-- [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names.
-- [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
-- [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown.
-- [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...).
-- [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
-- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
-- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
-- [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
-- [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
-- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
-- [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc...).
-- [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+- [Babel](https://github.com/babel/eslint-plugin-babel) - 添加内置规则的替换以包括Babel功能.
+- [Compat](https://github.com/amilajack/eslint-plugin-compat) - 使用的API的Lint浏览器兼容性（[caniuse](http://caniuse.com/#search=fetch) 作为ESLint插件）.
+- [Coffee](https://github.com/aminland/eslint-plugin-coffee) - 使用Coffeelint库中的可选linting规则启用CoffeeScript文件的linting.
+- [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - 将函数或模块标记为已弃用，并在使用时获取lint消息.
+- [disable](https://github.com/mradionov/eslint-plugin-disable) - 使用文件路径模式和内联注释禁用指定的插件.
+- [es5](https://github.com/nkt/eslint-plugin-es5) -  ES5用户的ESLint插件（禁止ES2015 +使用）.
+- [Flow](https://github.com/gajus/eslint-plugin-flowtype) - 流动类型的linting规则.
+- [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - 将Flow作为ESLint插件运行.
+- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - 在HTML中使用Linting for JavaScript` <script>` tags.
+- [import](https://github.com/benmosher/eslint-plugin-import) - 使用ES2015 +导入/导出语法，并防止拼写错误的文件路径和导入名称.
+- [JSON](https://github.com/azeemba/eslint-plugin-json) - 提示您的JSON文件.
+- [Markdown](https://github.com/eslint/eslint-plugin-markdown) -  Markdown中的Linting JavaScript.
+- [Node](https://github.com/mysticatea/eslint-plugin-node) -  Node.js的Linting规则（检查导入路径，ES语法，......）.
+- [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 一个用于检查文件顶部并修复它们的eslint规则！
+- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - 检测错误和可疑模式的规则.
+- [SQL](https://github.com/gajus/eslint-plugin-sql) -  ESLint的SQL linting规则.
+- [TypeLint](https://github.com/yarax/typelint) - 介绍基于现有模式（Swagger，Redux）的类型和对对象属性的linting访问，防止出现“未定义”错误.
+- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - 各种令人敬畏的ESLint规则.
+- [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - 关于ESLint指令注释的最佳实践（`/ * eslint-disable * /`等等）.
+- [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - 用于lint ESLint插件的ESLint插件.
 
 ### Practices
 
-- [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions..
-- [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
-- [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
-- [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
-- [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
-- [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals..
-- [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2017 and you still use loops?
-- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-- [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
-- [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
-- [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
-- [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
-- [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+- [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - 使用es2015数组方法和函数时避免冗余.
+- [fp](https://github.com/jfmengels/eslint-plugin-fp) - 函数式编程的ESLint规则.
+- [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - 禁用JavaScript中的所有突变.
+- [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -  JSX元素的可访问性规则.
+- [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用`new`抛出错误.
+- [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -  ESLint的自定义规则，用于检查对象文字中的推断方法名称.
+- [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 这是2017年，你仍然使用循环？
+- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - 防止使用扩展的本机对象.
+- [Promise](https://github.com/xjamundx/eslint-plugin-promise) - 使用承诺时的最佳做法.
+- [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的ESLint规则.
+- [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
+- [this](https://github.com/matijs/eslint-plugin-this) - 写纯函数，不要&#39;this`.
+- [XSS](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在代码库结束生产之前检测XSS问题.
 
 ### Style
 
-- [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+- [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保JavaScript文件的文件名一致.
 
 ## Preconfigured Tools with ESLint Set up
 
-- [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
-- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
-- [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
-- [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-- [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
-- [Healthier](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+- [Node.js Standard Style](https://github.com/geek/node-style) -  Node.js核心配置.
+- [prettier-standard](https://github.com/sheerun/prettier-standard) - 允许使用自定义限制规则的更漂亮的格式化程序.
+- [Standard](https://github.com/feross/standard) -  JavaScript标准风格.
+- [Superlint](https://github.com/supermind/superlint) -  JavaScript Supermind风格.
+- [XO](https://github.com/sindresorhus/xo) -  JavaScript幸福风格linter❤️.
+- [Zoe](https://github.com/jorgegonzalez/zoe) - 通用JavaScript linter和formatter.
+- [Healthier](https://github.com/KidkArolis/healthier) - 代码风格不可知的标准版，是Prettier的完美伴侣.
 
 ## Tools
 
-- [eslint-cli](https://github.com/eslint/eslint-cli) - This is the `eslint` command that executes a local installed ESLint.
-- [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
-- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
-- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
-- [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
-- [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
-- [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
-- [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
-- [esprint](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
-- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
+- [eslint-cli](https://github.com/eslint/eslint-cli) - 这是执行本地安装的ESLint的`eslint`命令.
+- [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置ESLint规则.
+- [eslint-index](https://github.com/wagerfield/eslint-index) - 用于查找和管理ESLint配置文件中的规则的CLI.
+- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) -  Multiplex eslint结果和合并公共文件的结果.
+- [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一条规则，轻松进入ESLint.
+- [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - 找到ESLint规则文档的URL.
+- [eslint-watch](https://github.com/rizowski/eslint-watch) - 使用监视模式运行ESLint.
+- [codacy-eslint](https://github.com/codacy/codacy-eslint) -  Docker用于 [Codacy](https://www.codacy.com) 运行ESLint.
+- [esprint](https://github.com/pinterest/esprint) - 跨多个线程运行ESLint.
+- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 输出ESLint导致GitLab代码质量结果.
 
 ## Developing for ESLint
 
-- [eslint-docs](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
+- [eslint-docs](https://github.com/j-f1/eslint-docs) - 使您的规则描述在整个存储库中保持最新.
 
 ## Tutorials
 
-- [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - Article walking through the creation of an ESLint rule and plugin.
-- [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint.
-- [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics.
-- [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
-- [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
-- [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
+- [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - 文章通过创建ESLint规则和插件.
+- [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - 文章介绍了使用ESLint的好处.
+- [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - 显示ESLint设置和基础知识的视频.
+- [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - 显示如何在ESLint中使用React和JSX的视频.
+- [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - 有关如何将插件编写为包含模块化mixin配置的节点模块的文章.
+- [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - 有关创建需要范围分析的规则的文章.
 
 ## License
 

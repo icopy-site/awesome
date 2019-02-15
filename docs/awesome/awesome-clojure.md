@@ -17,7 +17,7 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
-  - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
+  - [Braid](https://github.com/braidchat/braid)：一个团队聊天应用程序，具有新颖的UI，可以带来更好的对话
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
@@ -27,19 +27,19 @@
 
 ## Advanced datastructures
 
-  * [Persistent AVL trees](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
-  * [Finger Tree](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
-  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
+  * [Persistent AVL trees](https://github.com/clojure/data.avl)：持久排序的映射和具有日志时间排名查询的集合
+  * [Finger Tree](https://github.com/clojure/data.finger-tree)：double-list，count-double-list，count-sorted-set
+  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速，快照，可大规模扩展的数据库
   * [Hierarchical set](https://github.com/llasram/hier-set)
-  * [Ordered](https://github.com/amalloy/ordered): ordered sets and maps
-  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure): atoms persisted on disk
-  * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
-  * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [Ordered](https://github.com/amalloy/ordered)：有序集和地图
+  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：其值仅在访问时计算
+  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子持久存在于磁盘上
+  * [Durable Queue](https://github.com/Factual/durable-queue)：队列持久存储在磁盘上
+  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/设置/列表（在内存中连续存储条目）,; java中的writtern，但是测试套件（读取：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
-*Actually don't search rails/django here, but compose them by yourself*
+*其实不要在这里搜索rails / django，而是自己编写*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Web Non-Framework](https://github.com/webnf/webnf)
@@ -57,7 +57,7 @@
 
 ## Dependency injection
 
-*Managed lifecycle of stateful objects*
+*有状态对象的托管生命周期*
 
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
@@ -66,7 +66,7 @@
 
 ## Build Automation and Package management
 
-*Libraries for project build automation and package/dependency management.*
+*用于项目构建自动化和包/依赖管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
@@ -75,13 +75,13 @@
 
 ## Version Control Management
 
-*Code utilities for interacting with VCS software*
+*用于与VCS软件交互的代码实用程序*
 
   * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
-*Libraries for working with dates and times.*
+*处理日期和时间的图书馆.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
 
@@ -97,7 +97,7 @@
 
 ## HTTP
 
-*Libraries for working with HTTP.*
+*使用HTTP的库.*
 
   * [clj-http](https://github.com/dakrone/clj-http)
   * [http-kit](http://www.http-kit.org/)
@@ -107,7 +107,7 @@
 
 ## Database
 
-*Databases and database client libraries*
+*数据库和数据库客户端库*
 
   * [Datomic](http://www.datomic.com/)
   * [Datahike](https://github.com/replikativ/datahike)
@@ -125,13 +125,13 @@
 
 ## Connection pools
 
-*Database connection pools*
+*数据库连接池*
 
   * [hikari-cp](https://github.com/tomekw/hikari-cp)
 
 ## Structural Migrations
 
-*Keeps database and others in sync*
+*保持数据库和其他人保持同步*
 
   * [Lobos](https://github.com/budu/lobos)
   * [Ragtime](https://github.com/weavejester/ragtime)
@@ -153,7 +153,7 @@
 
 ## ORM and SQL generation
 
-*DSL for SQL generation.*
+*用于SQL生成的DSL.*
   * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](http://sqlkorma.com/)
   * [Specql](https://github.com/tatut/specql/)
@@ -165,7 +165,7 @@
 
 ## Security
 
-*Authentication, authorization and other security related libraries.*
+*身份验证，授权和其他安全相关的库.*
 
   * [Buddy](https://github.com/funcool/buddy)
   * [Friend](https://github.com/cemerick/friend)
@@ -173,7 +173,7 @@
 
 ## RESTful API
 
-*Libraries for developing RESTful APIs.*
+*用于开发RESTful API的库.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
   * [Compojure-api](https://github.com/metosin/compojure-api)
@@ -184,7 +184,7 @@
 
 ## GraphQL API
 
-*Libraries for developing GraphQL APIs.*
+*用于开发GraphQL API的库.*
 
   * [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
@@ -194,7 +194,7 @@
 
 ## HTML Manipulation
 
-*Libraries for working with HTML.*
+*使用HTML的库.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
@@ -203,7 +203,7 @@
 
 ## Data Validation
 
-*Libraries for validating data.*
+*用于验证数据的库.*
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema](https://github.com/plumatic/schema)
@@ -213,7 +213,7 @@
   * [Orchestra](https://github.com/jeaye/orchestra)
 
 ## Type System
-*Optional type system for Clojure*
+* Clojure的可选类型系统*
 
   * [core.typed](https://github.com/clojure/core.typed)
 
@@ -268,8 +268,8 @@
 
 ## Science and Data Analysis
 
-*Libraries, extended REPLs, and other tools for scientific and statistical data
-anylysis and visualization.*
+*图书馆，扩展的REPL以及其他科学和统计数据工具
+分析和可视化.*
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
@@ -325,7 +325,7 @@ anylysis and visualization.*
   * [Dire](https://github.com/MichaelDrogalis/dire)
   
 ## Reflection
-*Libraries for improved code reflection and object introspection
+*用于改进代码反射和对象内省的库
 
   * [hara.reflect](https://github.com/razum2um/awesome-clojure/blob/master/docs.caudate.me/hara/hara-reflect.html)
   * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
@@ -351,7 +351,7 @@ anylysis and visualization.*
 
 ## Documentation
 
-*Utilities and libraries for (non-LP) code and project documentation*
+*（非LP）代码和项目文档的实用程序和库*
 
  * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
 
@@ -409,11 +409,11 @@ anylysis and visualization.*
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos): Understand concepts such as list comprehension, threading macros, generative testing, destructuring, core.match and introductions to Light Table, Datomic and Game development with Clojure
-  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Introductions to Functional programming and TDD with Clojure
-  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：理解列表理解，线程宏，生成测试，解构，核心匹配等概念，以及使用Clojure对Light Table，Datomic和Game开发的介绍
+  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure介绍函数式编程和TDD
+  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一个功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos): More advanced videos on core.async, tranducers, transients, logic programming and a "Function of the day" series.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于core.async，tranducers，瞬态，逻辑编程和“当日功能”系列的更多高级视频.
 
 ## Websites
 

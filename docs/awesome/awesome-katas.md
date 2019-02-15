@@ -2,12 +2,12 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 ## Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of code katas
+&gt;精选的代码katas列表
 
 
 
 ## Introduction
-A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition. Dave Thomas [@pragdave](https://twitter.com/pragdave), started this movement for programming. This project aims to provide you with a list of some kata exercises that I've found in the Internet and the Github community. These exercises vary from general to more complex algorithms and real life situations for you to try using your preferred programming language. Remember that code katas are not quizzes or puzzles. You should not only try to 'solve' it, but find a very good solution, following best practices of the programming language you are using.
+ kata或代码kata被定义为编程练习，有助于通过练习和重复来磨练你的技能.  戴夫托马斯 [@pragdave](https://twitter.com/pragdave) ，开始这个编程运动.  这个项目旨在为您提供我在互联网和Github社区中发现的一些kata练习列表.  这些练习从一般到更复杂的算法和现实生活情况不等，您可以尝试使用首选的编程语言.  请记住，代码katas不是测验或谜题.  您不仅应该尝试“解决”它，而应该按照您正在使用的编程语言的最佳实践找到一个非常好的解决方案.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)

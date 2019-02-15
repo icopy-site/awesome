@@ -1,345 +1,345 @@
 <div class="github-widget" data-repo="krispo/awesome-haskell"></div>
-Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+令人敬畏的Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) projects line.
+ 令人敬畏的Haskell链接，框架，库和软件的辅助列表.  部分内容 [awesome](https://github.com/sindresorhus/awesome) 项目线.
 
 
 
 ## _Basics_
 
-* [Alex](https://www.haskell.org/alex/) - a lexical analyser generator for Haskell.
-* [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
-* [GHC](https://www.haskell.org/ghc/) - the state-of-the-art optimizing native code compiler for Haskell.
-* [GHCi](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html) - a bytecode interpreter and interactive REPL environment for Haskell.
-* [Hackage](http://hackage.haskell.org/) - the Haskell community's central package archive.
-* [Haddock](https://www.haskell.org/haddock/) - a tool for automatically generating documentation from annotated Haskell source code.
-* [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
-* [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
-* [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-* [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
-* [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-* [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+* [Alex](https://www.haskell.org/alex/) -  Haskell的词法分析器生成器.
+* [Cabal](https://www.haskell.org/cabal/) - 用于构建和打包Haskell库和程序的系统.
+* [GHC](https://www.haskell.org/ghc/) - 用于Haskell的最先进的优化本机代码编译器.
+* [GHCi](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html) -  Haskell的字节码解释器和交互式REPL环境.
+* [Hackage](http://hackage.haskell.org/) -  Haskell社区的中央包存档.
+* [Haddock](https://www.haskell.org/haddock/) - 用于从带注释的Haskell源代码自动生成文档的工具.
+* [Happy](https://www.haskell.org/happy/) -  Haskell的分析器生成器.
+* [Hayoo](http://hayoo.fh-wedel.de/) - 将搜索Hackage中的所有包，包括所有函数和类型定义.
+* [Hoogle](https://www.haskell.org/hoogle/) -  Haskell API搜索引擎，允许您通过函数名称或近似类型签名搜索许多标准Haskell库.
+* [hsenv](https://github.com/Paczesiowa/hsenv/)   - 创建隔离的Haskell环境的工具.  这允许项目使用与当前安装的GHC版本不同的GHC版本.
+* [Stack](https://github.com/commercialhaskell/stack)   - 帮助构建Haskell项目的跨平台工具.  它包括支持创建隔离的Haskell环境以及自动管理项目的依赖关系.
+* [Stackage](https://github.com/fpco/stackage) - “稳定的黑客”工具，用于从Hackage创建一套经过审查的软件包.
 
 ## Algorithmics
 
-* [Theorem Provers](https://wiki.haskell.org/Applications_and_libraries/Theorem_provers) - Official Website Resources.
+* [Theorem Provers](https://wiki.haskell.org/Applications_and_libraries/Theorem_provers) - 官方网站资源.
 
     ---
-* [Algorithm](http://hackage.haskell.org/packages/#cat:Algorithm) - a collaborative Hackage list.
-* [Algorithm Visualization](http://hackage.haskell.org/packages/#cat:Algorithm%20Visualization) - a collaborative Hackage list.
-* [Algorithms](http://hackage.haskell.org/packages/#cat:Algorithms) - a collaborative Hackage list.
-* [Compression](http://hackage.haskell.org/packages/#cat:Compression) - a collaborative Hackage list.
-* [Formal Languages](http://hackage.haskell.org/packages/#cat:Formal%20Languages) - a collaborative Hackage list.
-* [Formal Methods](http://hackage.haskell.org/packages/#cat:Formal%20Methods) - a collaborative Hackage list.
-* [Logic](http://hackage.haskell.org/packages/#cat:Logic) - a collaborative Hackage list.
-* [Logic Programming](http://hackage.haskell.org/packages/#cat:Logic%20Programming) - a collaborative Hackage list.
-* [Map Reduce](http://hackage.haskell.org/packages/#cat:MapReduce) - a collaborative Hackage list.
-* [Graphs](http://hackage.haskell.org/packages/#cat:Graphs) - a collaborative Hackage list.
-* [Optimization](http://hackage.haskell.org/packages/#cat:Optimization) - a collaborative Hackage list.
-* [Simulation](http://hackage.haskell.org/packages/#cat:Simulation) - a collaborative Hackage list.
-* [SMT](http://hackage.haskell.org/packages/#cat:SMT) - a collaborative Hackage list for Satisfiability Modulo Theories (SMT).
-* [Symbolic Computation](http://hackage.haskell.org/packages/#cat:Symbolic%20Computation) - a collaborative Hackage list.
-* [Theorem Provers](http://hackage.haskell.org/packages/#cat:Theorem%20Provers) - a collaborative Hackage list.
+* [Algorithm](http://hackage.haskell.org/packages/#cat:Algorithm) - 一个协作的Hackage列表.
+* [Algorithm Visualization](http://hackage.haskell.org/packages/#cat:Algorithm%20Visualization) - 一个协作的Hackage列表.
+* [Algorithms](http://hackage.haskell.org/packages/#cat:Algorithms) - 一个协作的Hackage列表.
+* [Compression](http://hackage.haskell.org/packages/#cat:Compression) - 一个协作的Hackage列表.
+* [Formal Languages](http://hackage.haskell.org/packages/#cat:Formal%20Languages) - 一个协作的Hackage列表.
+* [Formal Methods](http://hackage.haskell.org/packages/#cat:Formal%20Methods) - 一个协作的Hackage列表.
+* [Logic](http://hackage.haskell.org/packages/#cat:Logic) - 一个协作的Hackage列表.
+* [Logic Programming](http://hackage.haskell.org/packages/#cat:Logic%20Programming) - 一个协作的Hackage列表.
+* [Map Reduce](http://hackage.haskell.org/packages/#cat:MapReduce) - 一个协作的Hackage列表.
+* [Graphs](http://hackage.haskell.org/packages/#cat:Graphs) - 一个协作的Hackage列表.
+* [Optimization](http://hackage.haskell.org/packages/#cat:Optimization) - 一个协作的Hackage列表.
+* [Simulation](http://hackage.haskell.org/packages/#cat:Simulation) - 一个协作的Hackage列表.
+* [SMT](http://hackage.haskell.org/packages/#cat:SMT) -  Satisfiability Modulo Theories（SMT）的协作黑客名单.
+* [Symbolic Computation](http://hackage.haskell.org/packages/#cat:Symbolic%20Computation) - 一个协作的Hackage列表.
+* [Theorem Provers](http://hackage.haskell.org/packages/#cat:Theorem%20Provers) - 一个协作的Hackage列表.
 
 ## Audio, Music & Sound
 
-* [Audio, music and sound](https://wiki.haskell.org/Applications_and_libraries/Music_and_sound) - official Website Resources.
+* [Audio, music and sound](https://wiki.haskell.org/Applications_and_libraries/Music_and_sound) - 官方网站资源.
 
     ---
-* [Audio](http://hackage.haskell.org/packages/#cat:Audio) - a collaborative Hackage list.
-* [Codec](http://hackage.haskell.org/packages/#cat:Codec) - a collaborative Hackage list.
-* [Graphics](http://hackage.haskell.org/packages/#cat:Graphics) - a collaborative Hackage list.
-* [Media](http://hackage.haskell.org/packages/#cat:Media) - a collaborative Hackage list.
-* [Music](http://hackage.haskell.org/packages/#cat:Music) - a collaborative Hackage list.
-* [Sound](http://hackage.haskell.org/packages/#cat:Sound) - a collaborative Hackage list.
+* [Audio](http://hackage.haskell.org/packages/#cat:Audio) - 一个协作的Hackage列表.
+* [Codec](http://hackage.haskell.org/packages/#cat:Codec) - 一个协作的Hackage列表.
+* [Graphics](http://hackage.haskell.org/packages/#cat:Graphics) - 一个协作的Hackage列表.
+* [Media](http://hackage.haskell.org/packages/#cat:Media) - 一个协作的Hackage列表.
+* [Music](http://hackage.haskell.org/packages/#cat:Music) - 一个协作的Hackage列表.
+* [Sound](http://hackage.haskell.org/packages/#cat:Sound) - 一个协作的Hackage列表.
 
 
 ## Category Theory
 
-* [Adjunctions](http://hackage.haskell.org/packages/#cat:Adjunctions) - a collaborative Hackage list.
-* [Algebra](http://hackage.haskell.org/packages/#cat:Algebra) - a collaborative Hackage list.
-* [Categories](http://hackage.haskell.org/packages/#cat:Categories) - a collaborative Hackage list.
-* [Combinators](http://hackage.haskell.org/packages/#cat:Combinators) - a collaborative Hackage list.
-* [Comonads](http://hackage.haskell.org/packages/#cat:Comonads) - a collaborative Hackage list.
-* [Composition](http://hackage.haskell.org/packages/#cat:Composition) - a collaborative Hackage list.
-* [Computer Algebra](http://hackage.haskell.org/packages/#cat:Computer%20Algebra) - a collaborative Hackage list.
-* [Constraints](http://hackage.haskell.org/packages/#cat:Constraints) - a collaborative Hackage list.
-* [Functors](http://hackage.haskell.org/packages/#cat:Functors) - a collaborative Hackage list.
-* [Monad](http://hackage.haskell.org/packages/#cat:Monad) - a collaborative Hackage list.
-* [Monads](http://hackage.haskell.org/packages/#cat:Monads) - a collaborative Hackage list.
-* [Semigroups](http://hackage.haskell.org/packages/#cat:Semigroups) - a collaborative Hackage list.
+* [Adjunctions](http://hackage.haskell.org/packages/#cat:Adjunctions) - 一个协作的Hackage列表.
+* [Algebra](http://hackage.haskell.org/packages/#cat:Algebra) - 一个协作的Hackage列表.
+* [Categories](http://hackage.haskell.org/packages/#cat:Categories) - 一个协作的Hackage列表.
+* [Combinators](http://hackage.haskell.org/packages/#cat:Combinators) - 一个协作的Hackage列表.
+* [Comonads](http://hackage.haskell.org/packages/#cat:Comonads) - 一个协作的Hackage列表.
+* [Composition](http://hackage.haskell.org/packages/#cat:Composition) - 一个协作的Hackage列表.
+* [Computer Algebra](http://hackage.haskell.org/packages/#cat:Computer%20Algebra) - 一个协作的Hackage列表.
+* [Constraints](http://hackage.haskell.org/packages/#cat:Constraints) - 一个协作的Hackage列表.
+* [Functors](http://hackage.haskell.org/packages/#cat:Functors) - 一个协作的Hackage列表.
+* [Monad](http://hackage.haskell.org/packages/#cat:Monad) - 一个协作的Hackage列表.
+* [Monads](http://hackage.haskell.org/packages/#cat:Monads) - 一个协作的Hackage列表.
+* [Semigroups](http://hackage.haskell.org/packages/#cat:Semigroups) - 一个协作的Hackage列表.
 
 ## Compilers
 
-* [Compilers & Interpreters](https://wiki.haskell.org/Applications_and_libraries/Compilers_and_interpreters) - Official Website Resources.
-* [Compiler construction, lexing, parsing, pretty printing](https://wiki.haskell.org/Applications_and_libraries/Compiler_tools) - Official Website Resources.
+* [Compilers & Interpreters](https://wiki.haskell.org/Applications_and_libraries/Compilers_and_interpreters) - 官方网站资源.
+* [Compiler construction, lexing, parsing, pretty printing](https://wiki.haskell.org/Applications_and_libraries/Compiler_tools) - 官方网站资源.
 
     ---
-* [Compiler](http://hackage.haskell.org/packages/#cat:Compiler) - a collaborative Hackage list.
-* [Compiler Plugin](http://hackage.haskell.org/packages/#cat:Compiler%20Plugin) - a collaborative Hackage list.
-* [Compilers/Interpreters](http://hackage.haskell.org/packages/#cat:Compilers/Interpreters) - a collaborative Hackage list.
+* [Compiler](http://hackage.haskell.org/packages/#cat:Compiler) - 一个协作的Hackage列表.
+* [Compiler Plugin](http://hackage.haskell.org/packages/#cat:Compiler%20Plugin) - 一个协作的Hackage列表.
+* [Compilers/Interpreters](http://hackage.haskell.org/packages/#cat:Compilers/Interpreters) - 一个协作的Hackage列表.
 
 ## Concurrency & Parallelism
 
-* [Concurrency & Parallelism](https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism) - Official Website Info.
+* [Concurrency & Parallelism](https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism) - 官方网站信息
 
     ---
-* [Concurrency](http://hackage.haskell.org/packages/#cat:Concurrency) - a collaborative Hackage list.
-* [Concurrent](http://hackage.haskell.org/packages/#cat:Concurrent) - a collaborative Hackage list.
-* [Functional Reactive Programming](http://hackage.haskell.org/packages/#cat:FRP) - a collaborative Hackage list.
-* [Parallelism](http://hackage.haskell.org/packages/#cat:Parallelism) - a collaborative Hackage list.
+* [Concurrency](http://hackage.haskell.org/packages/#cat:Concurrency) - 一个协作的Hackage列表.
+* [Concurrent](http://hackage.haskell.org/packages/#cat:Concurrent) - 一个协作的Hackage列表.
+* [Functional Reactive Programming](http://hackage.haskell.org/packages/#cat:FRP) - 一个协作的Hackage列表.
+* [Parallelism](http://hackage.haskell.org/packages/#cat:Parallelism) - 一个协作的Hackage列表.
 
     ---
-* [Concurrency & Parallelism](http://chimera.labs.oreilly.com/books/1230000000929/index.html) - (Book) Parallel and Concurrent Programming in Haskell
+* [Concurrency & Parallelism](http://chimera.labs.oreilly.com/books/1230000000929/index.html) - （书）Haskell中的并行和并发编程
 
 ## Configuration
 
-* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
-* [Dhal](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate 
-* [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - 使用的小型安全库 [HOCON](https://github.com/lightbend/config#features-of-hocon) 配置格式
+* [Dhal](https://github.com/dhall-lang/dhall-haskell) - 保证终止的配置语言 
+* [Configurator](http://hackage.haskell.org/package/configurator) - 配置管理库，支持自动动态重新加载以响应对配置文件的修改.
 
 ## Cryptography & Hashing
 
-* [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website Resources.
+* [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - 官方网站资源.
 
     ---
-* [Crypto](http://hackage.haskell.org/packages/#cat:Crypto) - a collaborative Hackage list.
-* [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - a collaborative Hackage list.
+* [Crypto](http://hackage.haskell.org/packages/#cat:Crypto) - 一个协作的Hackage列表.
+* [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - 一个协作的Hackage列表.
 
 
 ## Data Access
 
-* [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access.
+* [Haxl](https://github.com/facebook/Haxl) - 用于高效，并发，简洁的数据访问的库.
 
 ## Data Formats
 
-* [JSON](http://hackage.haskell.org/packages/#cat:JSON) - a collaborative Hackage list.
-* [PDF](http://hackage.haskell.org/packages/#cat:PDF) - a collaborative Hackage list.
-* [XML](http://hackage.haskell.org/packages/#cat:XML) - a collaborative Hackage list.
-* [RSS](http://hackage.haskell.org/packages/#cat:RSS) - a collaborative Hackage list.
+* [JSON](http://hackage.haskell.org/packages/#cat:JSON) - 一个协作的Hackage列表.
+* [PDF](http://hackage.haskell.org/packages/#cat:PDF) - 一个协作的Hackage列表.
+* [XML](http://hackage.haskell.org/packages/#cat:XML) - 一个协作的Hackage列表.
+* [RSS](http://hackage.haskell.org/packages/#cat:RSS) - 一个协作的Hackage列表.
 
 ## Data Science
-* [Linguistics and natural language processing](https://wiki.haskell.org/Applications_and_libraries/Linguistics) - Official Website Resources.
-* [Robotics](https://wiki.haskell.org/Applications_and_libraries/Robotics) - Official Website Resources.
+* [Linguistics and natural language processing](https://wiki.haskell.org/Applications_and_libraries/Linguistics) - 官方网站资源.
+* [Robotics](https://wiki.haskell.org/Applications_and_libraries/Robotics) - 官方网站资源.
 
     ---
-* [Artificial Intelligence](http://hackage.haskell.org/packages/#cat:AI) - a collaborative Hackage list.
-* [Argumentations](http://hackage.haskell.org/packages/#cat:Argumentation) - a collaborative Hackage list.
-* [Classification](http://hackage.haskell.org/packages/#cat:Classification) - a collaborative Hackage list.
-* [Clustering](http://hackage.haskell.org/packages/#cat:Clustering) - a collaborative Hackage list.
-* [Data Mining](http://hackage.haskell.org/packages/#cat:Data%20Mining) - a collaborative Hackage list.
-* [Datamining](http://hackage.haskell.org/packages/#cat:Datamining) - a collaborative Hackage list.
-* [Image Processing](http://hackage.haskell.org/packages/#cat:Image%20Processing) - a collaborative Hackage list.
-* [Machine Learning](http://hackage.haskell.org/packages/#cat:Machine%20Learning) - a collaborative Hackage list.
-* [Machine Vision](http://hackage.haskell.org/packages/#cat:Machine%20Vision) - a collaborative Hackage list.
-* [Natural Language Processing](http://hackage.haskell.org/packages/#cat:Natural%20Language%20Processing) - a collaborative Hackage list.
-* [Pattern Classification](http://hackage.haskell.org/packages/#cat:Pattern%20Classification) - a collaborative Hackage list.
-* [Pattern Recognition](http://hackage.haskell.org/packages/#cat:Pattern%20Recognition) - a collaborative Hackage list.
-* [Search](http://hackage.haskell.org/packages/#cat:Search) - a collaborative Hackage list.
-* [Statistics](http://hackage.haskell.org/packages/#cat:Statistics) - a collaborative Hackage list.
-* [Text Recognition](http://hackage.haskell.org/packages/#cat:Text%20Recognition) - a collaborative Hackage list.
-* [Robotics](http://hackage.haskell.org/packages/#cat:Robotics) - a collaborative Hackage list.
+* [Artificial Intelligence](http://hackage.haskell.org/packages/#cat:AI) - 一个协作的Hackage列表.
+* [Argumentations](http://hackage.haskell.org/packages/#cat:Argumentation) - 一个协作的Hackage列表.
+* [Classification](http://hackage.haskell.org/packages/#cat:Classification) - 一个协作的Hackage列表.
+* [Clustering](http://hackage.haskell.org/packages/#cat:Clustering) - 一个协作的Hackage列表.
+* [Data Mining](http://hackage.haskell.org/packages/#cat:Data%20Mining) - 一个协作的Hackage列表.
+* [Datamining](http://hackage.haskell.org/packages/#cat:Datamining) - 一个协作的Hackage列表.
+* [Image Processing](http://hackage.haskell.org/packages/#cat:Image%20Processing) - 一个协作的Hackage列表.
+* [Machine Learning](http://hackage.haskell.org/packages/#cat:Machine%20Learning) - 一个协作的Hackage列表.
+* [Machine Vision](http://hackage.haskell.org/packages/#cat:Machine%20Vision) - 一个协作的Hackage列表.
+* [Natural Language Processing](http://hackage.haskell.org/packages/#cat:Natural%20Language%20Processing) - 一个协作的Hackage列表.
+* [Pattern Classification](http://hackage.haskell.org/packages/#cat:Pattern%20Classification) - 一个协作的Hackage列表.
+* [Pattern Recognition](http://hackage.haskell.org/packages/#cat:Pattern%20Recognition) - 一个协作的Hackage列表.
+* [Search](http://hackage.haskell.org/packages/#cat:Search) - 一个协作的Hackage列表.
+* [Statistics](http://hackage.haskell.org/packages/#cat:Statistics) - 一个协作的Hackage列表.
+* [Text Recognition](http://hackage.haskell.org/packages/#cat:Text%20Recognition) - 一个协作的Hackage列表.
+* [Robotics](http://hackage.haskell.org/packages/#cat:Robotics) - 一个协作的Hackage列表.
 
 ## Data Structures
-* [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - Official Website Resources.
+* [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - 官方网站资源.
 
     ---
-* [Advanced Structures](http://hackage.haskell.org/packages/#cat:Structures) - a collaborative Hackage list.
-* [Bit Vectors](http://hackage.haskell.org/packages/#cat:Bit%20Vectors) - a collaborative Hackage list.
-* [Containers](http://hackage.haskell.org/packages/#cat:Containers) - a collaborative Hackage list.
-* [Data Structures](http://hackage.haskell.org/packages/#cat:Data%20Structures) - a collaborative Hackage list.
-* [Enumerator](http://hackage.haskell.org/packages/#cat:Enumerator) - a collaborative Hackage list.
-* [Generics](http://hackage.haskell.org/packages/#cat:Generics) - a collaborative Hackage list.
-* [List](http://hackage.haskell.org/packages/#cat:List) - a collaborative Hackage list.
-* [Tree](http://hackage.haskell.org/packages/#cat:Tree) - a collaborative Hackage list.
-* [Vector](http://hackage.haskell.org/packages/#cat:Vector) - a collaborative Hackage list.
+* [Advanced Structures](http://hackage.haskell.org/packages/#cat:Structures) - 一个协作的Hackage列表.
+* [Bit Vectors](http://hackage.haskell.org/packages/#cat:Bit%20Vectors) - 一个协作的Hackage列表.
+* [Containers](http://hackage.haskell.org/packages/#cat:Containers) - 一个协作的Hackage列表.
+* [Data Structures](http://hackage.haskell.org/packages/#cat:Data%20Structures) - 一个协作的Hackage列表.
+* [Enumerator](http://hackage.haskell.org/packages/#cat:Enumerator) - 一个协作的Hackage列表.
+* [Generics](http://hackage.haskell.org/packages/#cat:Generics) - 一个协作的Hackage列表.
+* [List](http://hackage.haskell.org/packages/#cat:List) - 一个协作的Hackage列表.
+* [Tree](http://hackage.haskell.org/packages/#cat:Tree) - 一个协作的Hackage列表.
+* [Vector](http://hackage.haskell.org/packages/#cat:Vector) - 一个协作的Hackage列表.
 
 ## Database
-* [Database Interfaces](https://wiki.haskell.org/Applications_and_libraries/Database_interfaces) - Official Website Resources.
+* [Database Interfaces](https://wiki.haskell.org/Applications_and_libraries/Database_interfaces) - 官方网站资源.
 
     ---
-* [Database](http://hackage.haskell.org/packages/#cat:Database) - a collaborative Hackage list.
+* [Database](http://hackage.haskell.org/packages/#cat:Database) - 一个协作的Hackage列表.
 
 ## Development Tools
-* [Development Libraries and Tools](https://wiki.haskell.org/Development_Libraries_and_Tools) - Official Website Resources.
+* [Development Libraries and Tools](https://wiki.haskell.org/Development_Libraries_and_Tools) - 官方网站资源.
 
     ---
-* [Debug](http://hackage.haskell.org/packages/#cat:Debug) - a collaborative Hackage list.
-* [IDE](http://hackage.haskell.org/packages/#cat:IDE) - a collaborative Hackage list.
-* [Test](http://hackage.haskell.org/packages/#cat:Test) - a collaborative Hackage list.
-* [Testing](http://hackage.haskell.org/packages/#cat:Testing) - a collaborative Hackage list.
-* [Logging](http://hackage.haskell.org/packages/#cat:Logging) - a collaborative Hackage list.
-* [CLI Tool](http://hackage.haskell.org/packages/#cat:CLI%20Tool) - a collaborative Hackage list.
-* [Monitoring](http://hackage.haskell.org/packages/#cat:Monitoring) - a collaborative Hackage list.
+* [Debug](http://hackage.haskell.org/packages/#cat:Debug) - 一个协作的Hackage列表.
+* [IDE](http://hackage.haskell.org/packages/#cat:IDE) - 一个协作的Hackage列表.
+* [Test](http://hackage.haskell.org/packages/#cat:Test) - 一个协作的Hackage列表.
+* [Testing](http://hackage.haskell.org/packages/#cat:Testing) - 一个协作的Hackage列表.
+* [Logging](http://hackage.haskell.org/packages/#cat:Logging) - 一个协作的Hackage列表.
+* [CLI Tool](http://hackage.haskell.org/packages/#cat:CLI%20Tool) - 一个协作的Hackage列表.
+* [Monitoring](http://hackage.haskell.org/packages/#cat:Monitoring) - 一个协作的Hackage列表.
 
 ## Distributed Computing
 
-* [Distributed Computing](http://hackage.haskell.org/packages/#cat:Distributed%20Computing) - a collaborative Hackage list.
+* [Distributed Computing](http://hackage.haskell.org/packages/#cat:Distributed%20Computing) - 一个协作的Hackage列表.
 
     ---
-* [Cloud Haskell](http://haskell-distributed.github.io/) - concurrent and distributed programming in Haskell.
+* [Cloud Haskell](http://haskell-distributed.github.io/) -  Haskell中的并发和分布式编程.
 
 
 ## Documentation
 
-* [Documentation](http://hackage.haskell.org/packages/#cat:Documentation) - a collaborative Hackage list.
+* [Documentation](http://hackage.haskell.org/packages/#cat:Documentation) - 一个协作的Hackage列表.
 
 ## Editors
 
-* [Editors written in Haskell](https://wiki.haskell.org/Applications_and_libraries/Editors) - Official Website Resources.
-* [editors for Haskell](https://wiki.haskell.org/Editors) - Official Website Resources.
+* [Editors written in Haskell](https://wiki.haskell.org/Applications_and_libraries/Editors) - 官方网站资源.
+* [editors for Haskell](https://wiki.haskell.org/Editors) - 官方网站资源.
 
 ## Extensions
 
-* [Extended Haskell](https://wiki.haskell.org/Applications_and_libraries/Extended_Haskell) - Official Website Resources.
+* [Extended Haskell](https://wiki.haskell.org/Applications_and_libraries/Extended_Haskell) - 官方网站资源.
 
 ## Games
-* [Games](https://wiki.haskell.org/Applications_and_libraries/Games) - Official Website Resources.
+* [Games](https://wiki.haskell.org/Applications_and_libraries/Games) - 官方网站资源.
 
     ---
-* [Game](http://hackage.haskell.org/packages/#cat:Game) - a collaborative Hackage list.
-* [Game Engine](http://hackage.haskell.org/packages/#cat:Game%20Engine) - a collaborative Hackage list.
+* [Game](http://hackage.haskell.org/packages/#cat:Game) - 一个协作的Hackage列表.
+* [Game Engine](http://hackage.haskell.org/packages/#cat:Game%20Engine) - 一个协作的Hackage列表.
 
 ## GUI
-* [Graphical User Interface (GUI) Libraries](https://wiki.haskell.org/Applications_and_libraries/GUI_libraries) - Official Website Resources.
+* [Graphical User Interface (GUI) Libraries](https://wiki.haskell.org/Applications_and_libraries/GUI_libraries) - 官方网站资源.
 
     ---
-* [GUI](http://hackage.haskell.org/packages/#cat:GUI) - a collaborative Hackage list.
-* [User Interfaces](http://hackage.haskell.org/packages/#cat:User%20Interfaces) - a collaborative Hackage list.
+* [GUI](http://hackage.haskell.org/packages/#cat:GUI) - 一个协作的Hackage列表.
+* [User Interfaces](http://hackage.haskell.org/packages/#cat:User%20Interfaces) - 一个协作的Hackage列表.
 
 ## Graphics
-* [Graphics](https://wiki.haskell.org/Applications_and_libraries/Graphics) - Official Website Resources.
+* [Graphics](https://wiki.haskell.org/Applications_and_libraries/Graphics) - 官方网站资源.
 
     ---
-* [Graphics](http://hackage.haskell.org/packages/#cat:Graphics) - a collaborative Hackage list.
+* [Graphics](http://hackage.haskell.org/packages/#cat:Graphics) - 一个协作的Hackage列表.
 
 ## Network
 
-* [Network](https://wiki.haskell.org/Applications_and_libraries/Network) - Official Website Resources
+* [Network](https://wiki.haskell.org/Applications_and_libraries/Network) - 官方网站资源
 
     ---
-* [Network](http://hackage.haskell.org/packages/#cat:Network) - a collaborative Hackage list.
+* [Network](http://hackage.haskell.org/packages/#cat:Network) - 一个协作的Hackage列表.
 
 ## Number Theory
 
-* [Number Theory](http://hackage.haskell.org/packages/#cat:Number%20Theory) - a collaborative Hackage list.
-* [Numeric](http://hackage.haskell.org/packages/#cat:Numeric) - a collaborative Hackage list.
-* [Numerical](http://hackage.haskell.org/packages/#cat:Numerical) - a collaborative Hackage list.
-* [Math](http://hackage.haskell.org/packages/#cat:Math) - a collaborative Hackage list.
+* [Number Theory](http://hackage.haskell.org/packages/#cat:Number%20Theory) - 一个协作的Hackage列表.
+* [Numeric](http://hackage.haskell.org/packages/#cat:Numeric) - 一个协作的Hackage列表.
+* [Numerical](http://hackage.haskell.org/packages/#cat:Numerical) - 一个协作的Hackage列表.
+* [Math](http://hackage.haskell.org/packages/#cat:Math) - 一个协作的Hackage列表.
 
 
 ## Web / Frameworks
 
-* [Web Servers](https://wiki.haskell.org/Web/Servers) - Official Website Resources.
-* [Web Frameworks](https://wiki.haskell.org/Web/Frameworks) - Official Website Resources.
-* [Cloud](https://wiki.haskell.org/Web/Cloud) - Official Website Resources.
-* [Deploy](https://wiki.haskell.org/Web/Deploy) - Official Website Resources.
-* [Libraries](https://wiki.haskell.org/Web/Libraries) - Official Website Resources.
-* [Interfaces to Frameworks]() - Official Website Resources.
-* [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - Official Website Resources.
-* [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) - Official Website Resources.
+* [Web Servers](https://wiki.haskell.org/Web/Servers) - 官方网站资源.
+* [Web Frameworks](https://wiki.haskell.org/Web/Frameworks) - 官方网站资源.
+* [Cloud](https://wiki.haskell.org/Web/Cloud) - 官方网站资源.
+* [Deploy](https://wiki.haskell.org/Web/Deploy) - 官方网站资源.
+* [Libraries](https://wiki.haskell.org/Web/Libraries) - 官方网站资源.
+* [框架接口]（） - 官方网站资源.
+* [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - 官方网站资源.
+* [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) - 官方网站资源.
 
     ---
-* [Web](http://hackage.haskell.org/packages/#cat:Web) - a collaborative Hackage list of frameworks, libraries, ...
+* [Web](http://hackage.haskell.org/packages/#cat:Web) - 框架，库，......的协作Hackage列表
 
     ---
-*Additional libraries*
-* [HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
-* [hoauth2](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
+*其他图书馆*
+* [HTTP](https://github.com/haskell/HTTP)   -  Haskell HTTP包.  支持Haskell中的客户端Web编程.
+* [hoauth2](https://github.com/freizl/hoauth2) - 轻量级的oauth2 haskell绑定.
 
 ## Text Processing
 
-* [Pandoc](http://pandoc.org/) - is a library for converting from one markup format to another, and a command-line tool that uses this library.
+* [Pandoc](http://pandoc.org/) - 是一个用于从一种标记格式转换为另一种标记格式的库，以及一个使用该库的命令行工具.
 
 
 ## Messaging
 
-* [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
-* [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ).
-* [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
-* [IRC Client](http://hackage.haskell.org/packages/#cat:IRC Client) - a collaborative Hackage list.
+* [Stomp](http://stomp.github.io/) - 是简单（或流式）文本定向消息传递协议. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
+* [amqp](https://github.com/hreinhardt/amqp) -  AMQP服务器的客户端库（目前只有RabbitMQ）.
+* [IRC](http://hackage.haskell.org/packages/#cat:IRC) - 用于Internet中继聊天（IRC）的协作黑客列表.
+* [IRC Client](http://hackage.haskell.org/packages/#cat:IRC Client) - 一个协作的Hackage列表.
 
 ## Languages
 
-* [Tools for interfacing with other languages](https://wiki.haskell.org/Applications_and_libraries/Interfacing_other_languages) - Official Website Resources.
+* [Tools for interfacing with other languages](https://wiki.haskell.org/Applications_and_libraries/Interfacing_other_languages) - 官方网站资源.
 
     ---
-* [Code Generation](http://hackage.haskell.org/packages/#cat:Code%20Generation) - a collaborative Hackage list.
-* [FFI](http://hackage.haskell.org/packages/#cat:FFI) - a collaborative Hackage list.
-* [FFI Tools](http://hackage.haskell.org/packages/#cat:FFI%20Tools) - a collaborative Hackage list.
-* [HTML](http://hackage.haskell.org/packages/#cat:HTML) - a collaborative Hackage list.
-* [Java](http://hackage.haskell.org/packages/#cat:Java) - a collaborative Hackage list.
-* [Javascript](http://hackage.haskell.org/packages/#cat:Javascript) - a collaborative Hackage list.
-* [LaTex](http://hackage.haskell.org/packages/#cat:LaTeX) - a collaborative Hackage list.
-* [Lua](http://hackage.haskell.org/packages/#cat:LUA) - a collaborative Hackage list.
+* [Code Generation](http://hackage.haskell.org/packages/#cat:Code%20Generation) - 一个协作的Hackage列表.
+* [FFI](http://hackage.haskell.org/packages/#cat:FFI) - 一个协作的Hackage列表.
+* [FFI Tools](http://hackage.haskell.org/packages/#cat:FFI%20Tools) - 一个协作的Hackage列表.
+* [HTML](http://hackage.haskell.org/packages/#cat:HTML) - 一个协作的Hackage列表.
+* [Java](http://hackage.haskell.org/packages/#cat:Java) - 一个协作的Hackage列表.
+* [Javascript](http://hackage.haskell.org/packages/#cat:Javascript) - 一个协作的Hackage列表.
+* [LaTex](http://hackage.haskell.org/packages/#cat:LaTeX) - 一个协作的Hackage列表.
+* [Lua](http://hackage.haskell.org/packages/#cat:LUA) - 一个协作的Hackage列表.
 
     ---
-*Additional languages on top of Haskell*
-* [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-* [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
-* [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
+* Haskell *之上的其他语言*
+* [Fay](http://fay-lang.org/) - 编译为JavaScript的Haskell的适当子集.
+* [Idris](https://github.com/idris-lang/Idris-dev) - 依赖类型的函数式编程语言
+* [Copilot](http://leepike.github.io/Copilot/) - 用于生成硬实时C代码的（Haskell DSL）流语言.
 
 ## Operating Systems
 
-* [Operating systems and systems programming](https://wiki.haskell.org/Applications_and_libraries/Operating_system) - Official Website Resources.
+* [Operating systems and systems programming](https://wiki.haskell.org/Applications_and_libraries/Operating_system) - 官方网站资源.
 
     ---
-* [BSD](http://hackage.haskell.org/packages/#cat:BSD) - a collaborative Hackage list.
-* [Fedora](http://hackage.haskell.org/packages/#cat:Fedora) - a collaborative Hackage list.
-* [Gentoo](http://hackage.haskell.org/packages/#cat:Gentoo) - a collaborative Hackage list.
-* [Linux](http://hackage.haskell.org/packages/#cat:Linux) - a collaborative Hackage list.
-* [System](http://hackage.haskell.org/packages/#cat:System) - a collaborative Hackage list.
+* [BSD](http://hackage.haskell.org/packages/#cat:BSD) - 一个协作的Hackage列表.
+* [Fedora](http://hackage.haskell.org/packages/#cat:Fedora) - 一个协作的Hackage列表.
+* [Gentoo](http://hackage.haskell.org/packages/#cat:Gentoo) - 一个协作的Hackage列表.
+* [Linux](http://hackage.haskell.org/packages/#cat:Linux) - 一个协作的Hackage列表.
+* [System](http://hackage.haskell.org/packages/#cat:System) - 一个协作的Hackage列表.
 
 ## Platforms
 
-* [.NET](http://hackage.haskell.org/packages/#cat:.NET) - a collaborative Hackage list.
-* [Apple](http://hackage.haskell.org/packages/#cat:Apple) - a collaborative Hackage list.
-* [JVM](http://hackage.haskell.org/packages/#cat:JVM) - a collaborative Hackage list.
-* [Mobile](http://hackage.haskell.org/packages/#cat:Mobile) - a collaborative Hackage list.
+* [.NET](http://hackage.haskell.org/packages/#cat:.NET) - 一个协作的Hackage列表.
+* [Apple](http://hackage.haskell.org/packages/#cat:Apple) - 一个协作的Hackage列表.
+* [JVM](http://hackage.haskell.org/packages/#cat:JVM) - 一个协作的Hackage列表.
+* [Mobile](http://hackage.haskell.org/packages/#cat:Mobile) - 一个协作的Hackage列表.
 
 ## Programming
 
-* [Generic Programming](https://wiki.haskell.org/Applications_and_libraries/Generic_programming) - Official Website Resources.
+* [Generic Programming](https://wiki.haskell.org/Applications_and_libraries/Generic_programming) - 官方网站资源.
 
     ---
-* [Aspect Oriented Programming](http://hackage.haskell.org/packages/#cat:Aspect%20Oriented%20Programming) - a collaborative Hackage list.
-* [Generic Programming](http://hackage.haskell.org/packages/#cat:Generics) - a collaborative Hackage list.
-* [Logic Programming](http://hackage.haskell.org/packages/#cat:Logic) - a collaborative Hackage list.
-* [Reactive Programming](http://hackage.haskell.org/packages/#cat:Reactivity) - a collaborative Hackage list.
-* [Visual Programming](http://hackage.haskell.org/packages/#cat:Visual%20Programming) - a collaborative Hackage list.
+* [Aspect Oriented Programming](http://hackage.haskell.org/packages/#cat:Aspect%20Oriented%20Programming) - 一个协作的Hackage列表.
+* [Generic Programming](http://hackage.haskell.org/packages/#cat:Generics) - 一个协作的Hackage列表.
+* [Logic Programming](http://hackage.haskell.org/packages/#cat:Logic) - 一个协作的Hackage列表.
+* [Reactive Programming](http://hackage.haskell.org/packages/#cat:Reactivity) - 一个协作的Hackage列表.
+* [Visual Programming](http://hackage.haskell.org/packages/#cat:Visual%20Programming) - 一个协作的Hackage列表.
 
 ## Science
 
-* [Bioinformatics](https://wiki.haskell.org/Applications_and_libraries/Bioinformatics) - Official Website Resources.
-* [Mathematics & Physics](https://wiki.haskell.org/Applications_and_libraries/Mathematics) - Official Website Resources.
+* [Bioinformatics](https://wiki.haskell.org/Applications_and_libraries/Bioinformatics) - 官方网站资源.
+* [Mathematics & Physics](https://wiki.haskell.org/Applications_and_libraries/Mathematics) - 官方网站资源.
 
     ---
-* [Chemistry](http://hackage.haskell.org/packages/#cat:Chemistry) - a collaborative Hackage list.
-* [Bioinformatics](http://hackage.haskell.org/packages/#cat:Bioinformatics) - a collaborative Hackage list.
-* [Finance](http://hackage.haskell.org/packages/#cat:Finance) - a collaborative Hackage list.
-* [Physics](http://hackage.haskell.org/packages/#cat:Physics) - a collaborative Hackage list.
-* [Science](http://hackage.haskell.org/packages/#cat:Science) - a collaborative Hackage list.
-* [Scientific Simulation](http://hackage.haskell.org/packages/#cat:Scientific%20Simulation) - a collaborative Hackage list.
+* [Chemistry](http://hackage.haskell.org/packages/#cat:Chemistry) - 一个协作的Hackage列表.
+* [Bioinformatics](http://hackage.haskell.org/packages/#cat:Bioinformatics) - 一个协作的Hackage列表.
+* [Finance](http://hackage.haskell.org/packages/#cat:Finance) - 一个协作的Hackage列表.
+* [Physics](http://hackage.haskell.org/packages/#cat:Physics) - 一个协作的Hackage列表.
+* [Science](http://hackage.haskell.org/packages/#cat:Science) - 一个协作的Hackage列表.
+* [Scientific Simulation](http://hackage.haskell.org/packages/#cat:Scientific%20Simulation) - 一个协作的Hackage列表.
 
 ## Streaming Processing
 
-* [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
-* [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
-* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+* [Conduit](https://github.com/snoyberg/conduit) - 流数据库. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
+* [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - 一个协作的Hackage列表.
+* [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - 是一个干净而强大的流处理库，可用于构建和连接可重用的流组件. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 
 ## Resources
 
 ## Websites
 
-* [Haskell](https://www.haskell.org/) - Official Website.
-* [The Haskell Programming Language](https://wiki.haskell.org/Haskell) - Haskell wiki.
-* [Try Haskell](http://tryhaskell.org/) - Haskell Online.
-* [School of Haskell](https://www.fpcomplete.com/school) - Learning Haskell.
+* [Haskell](https://www.haskell.org/) - 官方网站.
+* [The Haskell Programming Language](https://wiki.haskell.org/Haskell) -  Haskell维基.
+* [Try Haskell](http://tryhaskell.org/) -  Haskell Online.
+* [School of Haskell](https://www.fpcomplete.com/school) - 学习Haskell.
 
 ## Community
 
-* [Community](https://www.haskell.org/community) - Official community resources.
+* [Community](https://www.haskell.org/community) - 官方社区资源.
 * [Reddit](https://www.reddit.com/r/haskell/)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged?tagnames=haskell)
 * [G+](https://plus.google.com/communities/104818126031270146189)
@@ -351,17 +351,17 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Tutorials
 
-* [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
-* [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
+* [Documentation](https://www.haskell.org/documentation) - 官方文件资源.
+* [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) -  Wiki学习资源.
 * [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers).
-* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
-* [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
-* [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!
-* [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
-* [H-99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) -  Ninety-Nine Haskell Problems.
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) -  Haskell学习（也适用于非英语人士）.
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - 各种事物的惊人指南.
+* [LearnYouHaskell](http://learnyouahaskell.com/chapters) - 了解一下Haskell的好消息！
+* [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - 卡通机器人的无痛，渐进式Haskell教程！
+* [Revised report](https://www.haskell.org/onlinereport/)   -  Haskell 98语言和图书馆.  修订报告.
+* [H-99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) - 九十九个Haskell问题.
 
-    ### Web Tutorials 
+    ### 网络教程 
     * [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
     * [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
     * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples)
@@ -376,27 +376,27 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Sed implementation in Haskell](http://www.youtube.com/playlist?list=PLUQzXLQ6jvHL_k3QOMKXehVoZdk-sKtHd)
 * [LazyCasts](http://www.youtube.com/user/LazyCasts)
 * [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
-* [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - Video lectures to accompany the book "Learn You a Haskell for Great Good!"
+* [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - 视频讲座伴随着“为了好大学而学习哈斯克尔！”这本书.
 
 ## Courses
 
-* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Fall 2014 MOOC on edX by DelftX featuring Haskell as the primary language of focus.
-* [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - Introductory MOOC to functional programming in Haskell by the University of Glasgow. 
+* [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) -  2014年秋季由DelftX在edX上进行MOOC，将Haskell作为焦点的主要语言.
+* [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - 格拉斯哥大学Haskell的函数式编程入门MOOC. 
 
 ## Conferences
 
-* [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming. [Youtube channel](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw).
-* [Conferences](https://wiki.haskell.org/Conferences) - Official list of conferences
+* [ICFP](http://www.icfpconference.org/) - 国际功能规划会议. [Youtube channel](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw).
+* [Conferences](https://wiki.haskell.org/Conferences) - 正式的会议清单
 * [Haskell Symposium 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy)
 * [Haskell Implementors' Workshop 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B)
 
 ## Packages
 
-* [Stackage](https://www.stackage.org/) - is a stable source of Haskell packages, "Stable Hackage".
-* [Hackage](http://hackage.haskell.org/) - is the Haskell community's central package archive.
-* [Application & Libraries](https://wiki.haskell.org/Applications_and_libraries) - Official collections and Guide.
-* [Hoogle](https://www.haskell.org/hoogle/) - is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-* [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
+* [Stackage](https://www.stackage.org/) - 是Haskell软件包的稳定来源，“稳定的黑客”.
+* [Hackage](http://hackage.haskell.org/) - 是Haskell社区的中央包存档.
+* [Application & Libraries](https://wiki.haskell.org/Applications_and_libraries) - 官方收藏和指南.
+* [Hoogle](https://www.haskell.org/hoogle/) - 是一个Haskell API搜索引擎，它允许您通过函数名称或近似类型签名搜索许多标准Haskell库.
+* [Hayoo](http://hayoo.fh-wedel.de/) - 将搜索Hackage中的所有包，包括所有函数和类型定义.
 
 ## License
 

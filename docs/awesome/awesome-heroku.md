@@ -8,104 +8,104 @@
   </a>
 </p>
 
-A curated list of helpful Heroku resources.
+有用的Heroku资源的精选列表.
 
 
 
 
-Analytics for Heroku...
+Heroku的分析......
 
-- `tool` [Metabase](http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html) — a beta of Metadata as an app that can be deployed directly to Heroku.
-
-
-
-How to architect your Heroku projects...
-
-- `article` [Exploring Microservices Architecure on Heroku](http://blog.codeship.com/exploring-microservices-architecture-on-heroku/) — explores why Heroku eliminates a lot of the tooling you need to worry about when working with microservices.
-- `article` [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) — discusses why Heroku is perfectly suited to building a service-oriented architecture for your projects.
+- `工具` [Metabase](http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html) - 作为可以直接部署到Heroku的应用程序的元数据测试版.
 
 
 
-Blogs around the internet that often (or exclusively) write about Heroku...
+如何构建您的Heroku项目......
 
-- `blog` [Heroku Blog](https://blog.heroku.com) — the official Heroku blog.
-
-
-
-Resources that help with deploying on Heroku...
-
-- `official` [Preboot](https://devcenter.heroku.com/articles/preboot) — explains how to use the "Preboot" feature to enable zero-downtime deployments, which can be tricky to get right.
-- `article` [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) — explains how you'd go about automating certain parts of deployment like enabling maintenance mode, copying your database from production to staging, running migrations against staging, etc.
-- `question` [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) — the answer to a common question about `.gitignore` like functionality.
-- `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
+- “文章” [Exploring Microservices Architecure on Heroku](http://blog.codeship.com/exploring-microservices-architecture-on-heroku/) - 探讨为什么Heroku消除了在使用微服务时需要担心的大量工具.
+- “文章” [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) - 讨论为什么Heroku非常适合为您的项目构建面向服务的体系结构.
 
 
 
-- `official` [Managing Multiple Environments for an App](https://devcenter.heroku.com/articles/multiple-environments) — a good primer on how to think about managing the different pieces of each environment.
+互联网上经常（或专门）写关于Heroku的博客......
+
+- `博客` [Heroku Blog](https://blog.heroku.com) - 官方Heroku博客.
 
 
 
-Tips for using custom domain names on Heroku...
+有助于在Heroku上部署的资源......
 
-- `article` [Configuring CloudFlare DNS for a Heroku app](http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/) — a walkthrough of how to use CloudFlare as your DNS provider.
-- `article` [Hosting multiple Heroku apps on a single domain](https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/) — an article on how to share the same domain between multiple Heroku applications.
-- `question` [How do you host multiple Heroku apps on a single domain?](http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain) — a StackOverflow question with a few responses to a the common question of how to serve multiple Heroku apps from different paths instead of subdomains.
-
-
-
-General resources that cover lots of different things about Heroku...
-
-- `book` [The Heroku Hacker's Guide](http://www.theherokuhackersguide.com/) — an ebook that covers a lot of the basics in maintaining and scaling a project on Heroku.
-- `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
+- “官方” [Preboot](https://devcenter.heroku.com/articles/preboot) - 解释了如何使用“预引导”功能来启用零停机部署，这可能很难实现.
+- “文章” [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) - 解释如何自动执行部署的某些部分，例如启用维护模式，将数据库从生产复制到暂存，运行迁移以进行分段等.
+- “问题” [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) - 关于`.gitignore`这个功能的常见问题的答案.
+- “文章” [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) - 改进运行Heroku流程的方法.
 
 
 
-Information about the company itself...
-
-- `official` [The big kickoff](https://blog.heroku.com/archives/2007/10/30/the_big_kickoff) — the first ever Heroku blog article.
-- `article` [Heroku isn't for idiots](https://www.rdegges.com/2012/heroku-isnt-for-idiots/) — explains Heroku's advantages and why it's not just for side projects.
-- `article` [My Heroku values](https://brandur.org/heroku-values) — a great series of takeaways from [Brandur Leach](https://twitter.com/brandur) when he left Heroku.
-- `talk` [Buildpack Adventure](http://buildpack-adventure.herokuapp.com/) — a cool slideshow about Heroku's buildpacks, and what the open-source community is hacking together with them.
+- “官方” [Managing Multiple Environments for an App](https://devcenter.heroku.com/articles/multiple-environments) - 关于如何考虑管理每个环境的不同部分的良好入门读物.
 
 
 
-Anything dealing with [Heroku Postgres](https://www.heroku.com/postgres)...
+在Heroku上使用自定义域名的提示...
 
-- `official` [Heroku Postgres](https://www.heroku.com/postgres) — the landing page explaining with it is.
-- `plugin` [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
-
-
-
-Anything dealing with [Heroku Redis](https://elements.heroku.com/addons/heroku-redis)...
+- “文章” [Configuring CloudFlare DNS for a Heroku app](http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/) - 演示如何使用CloudFlare作为DNS提供商.
+- “文章” [Hosting multiple Heroku apps on a single domain](https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/) - 有关如何在多个Heroku应用程序之间共享同一域的文章.
+- “问题” [How do you host multiple Heroku apps on a single domain?](http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain) -  StackOverflow问题，对如何从不同路径而不是子域提供多个Heroku应用程序的常见问题做出一些回应.
 
 
 
-Resources that help you scale your Heroku projects...
+关于Heroku的许多不同内容的一般资源......
 
-- `tool` [HireFire](https://www.hirefire.io/) — a SaaS tool that automatically scales your Heroku dynos up and down as load requires.
-
-
-
-How to secure your Heroku applications...
-
-- `article` [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku) — walks you through the exact steps to setting up free SSL via Cloudflare.
+- `书` [The Heroku Hacker's Guide](http://www.theherokuhackersguide.com/) - 一本电子书，涵盖了在Heroku上维护和扩展项目的许多基础知识.
+- `书` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) - 逐步配方，以解决在Heroku上管理和扩展实际生产Web应用程序的挑战.
 
 
 
-Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
+有关公司本身的信息......
 
-- `official` [Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
-- `plugin` [heroku-accounts](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
-- `plugin` [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
+- “官方” [The big kickoff](https://blog.heroku.com/archives/2007/10/30/the_big_kickoff) - 有史以来第一篇Heroku博客文章.
+- “文章” [Heroku isn't for idiots](https://www.rdegges.com/2012/heroku-isnt-for-idiots/) - 解释Heroku的优势以及为什么它不仅仅用于辅助项目.
+- “文章” [My Heroku values](https://brandur.org/heroku-values) - 来自的一系列外卖 [Brandur Leach](https://twitter.com/brandur) 当他离开Heroku时.
+- “说话” [Buildpack Adventure](http://buildpack-adventure.herokuapp.com/) - 关于Heroku的buildpacks的酷炫幻灯片，以及开源社区与他们一起攻击的内容.
 
 
 
-Things to check out if you decide to migrate off of Heroku for some reason...
+处理的任何事情 [Heroku Postgres](https://www.heroku.com/postgres)...
 
-- `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
+- “官方” [Heroku Postgres](https://www.heroku.com/postgres) - 用它解释的登陆页面是.
+- `插件&#39; [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) - 允许使用事务池的buildpack [`stunnel`](https://www.stunnel.org/index.html) 和 [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) 避免达到连接限制.
+
+
+
+处理的任何事情 [Heroku Redis](https://elements.heroku.com/addons/heroku-redis)...
+
+
+
+帮助您扩展Heroku项目的资源......
+
+- `工具` [HireFire](https://www.hirefire.io/) -  SaaS工具，可根据负载需求自动调整Heroku dynos.
+
+
+
+如何保护您的Heroku应用程序......
+
+- “文章” [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku) - 引导您完成通过Cloudflare设置免费SSL的确切步骤.
+
+
+
+有用的资源 [Heroku Toolbelt](https://toolbelt.heroku.com/)...
+
+- “官方” [Toolbelt Download](https://toolbelt.heroku.com/) - 在哪里下载Heroku工具带.
+- `插件&#39; [heroku-accounts](https://github.com/ddollar/heroku-accounts) - 通过命令行可以轻松地同时使用多个帐户.
+- `插件&#39; [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras)   - 一个工具带插件，为Postgres添加额外有用的插件.  分析缓存命中率，异常值查询，未使用的索引，表大小等等.
+
+
+
+如果您出于某种原因决定迁移Heroku，请检查一下......
+
+- `工具` [dokku](http://dokku.viewdocs.io/dokku/) - 基于Docker的自托管，Heroku兼容平台.
 
 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ian Storm Taylor](http://ianstormtaylor.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Ian Storm Taylor](http://ianstormtaylor.com) 已放弃对此作品的所有版权及相关或相邻权利.

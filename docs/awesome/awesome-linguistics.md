@@ -2,27 +2,27 @@
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anything remotely related to linguistics, sorted in alphabetical order.
+与语言学远程相关的任何内容的精选列表，按字母顺序排序.
 
 
 ### Programming
-*Libraries, frameworks and applications useful for developing applications.*
+*用于开发应用程序的库，框架和应用程序.*
 
 ### Platforms and toolkits
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
-* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
-* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
-* [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) -  Haxe的早期语言分析和自然语言处理库.
+* [Natural](https://github.com/NaturalNode/natural) -  Node.js的通用自然语言工具.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 用于构建Python程序以使用人类语言数据的最完整平台.
+* [Snowball](http://snowball.tartarus.org/) -  Snowball是一种可以很容易地表示词干算法的语言.
 
 ### Algorithms
-* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
+* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由其作者Martin Porter编写和维护的“官方”主页，用于分发Porter Stemming算法.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) -  JSON格式的泛浪漫单词列表.
 
 ### Resources
-*List of interesting external resources.*
+*有趣的外部资源列表.*
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -37,15 +37,15 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - 马里兰大学计算语言学课程讲座.
 
 ### Books
-*Some of the more interesting and complete books.*
+*一些更有趣和完整的书籍.*
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book
-* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - Unmaintained resource using the haskell programming language
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package
+* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - 介绍性的书
+* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - 使用haskell编程语言的未维护资源
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - 来自NLTK包的书
 
 #### Non free
 * [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)

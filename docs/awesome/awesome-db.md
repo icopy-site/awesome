@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="numetriclabz/awesome-db"></div>
-﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+太棒了 -  db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =========
-A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
+精选的精彩数据库库，资源和闪亮的东西 [Numetric Technologies](https://www.numetriclabz.com/)
 
 ## Clojure
 
@@ -10,71 +10,71 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
  * [cravendb](https://github.com/robashton/cravendb)
 
 ## C / CPP
-* [Aerospike](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
-* [Alchemy-Database](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
-* [cstore_fdw](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
-* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
-* [memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
+* [Aerospike](https://github.com/aerospike/aerospike-server) -  Aerospike数据库服务器 - 闪存优化，内存中，nosql数据库
+* [Alchemy-Database](https://github.com/JakSprats/Alchemy-Database) -  AlchemyDB现在是Aerospike
+* [cstore_fdw](https://github.com/citusdata/cstore_fdw) - 使用PostgreSQL进行分析的快速柱状存储 [website](http://citusdata.github.io/cstore_fdw/)
+* [LMDB](http://symas.com/mdb/) - 具有完整ACID语义的非常快速的嵌入式键/值存储.
+* [memcache](https://github.com/memcached/memcached) - 免费和开源，高性能，分布式内存对象缓存系统
 * [monetdb](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
-* [mongo](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
-* [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
-* [twitter/mysql](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
+* [mongo](https://github.com/mongodb/mongo) -  Mongo数据库http://www.mongodb.org/
+* [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) -  Facebook的Oracle MySQL v5.6数据库分支
+* [twitter/mysql](https://github.com/twitter/mysql) - 在Twitter上维护和使用MySQL fork https://github.com/twitter/mysql/wiki
 * [postgres](https://github.com/postgres/postgres)
-* [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
-* [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
-* [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
-* [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
-* [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
-* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
-* [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
-* [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
-* [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
+* [Redis](https://github.com/antirez/redis)   -  Redis是一个内存数据库，可以在磁盘上保留.  数据模型是键值，但支持许多不同类型的值：字符串，列表，集，排序集，哈希值 [website](http://redis.io)
+* [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6)   - 这是Redis的一个版本，用于实现NDS（朴素磁盘存储）.  有关此功能的文档包含在README.nds中.
+* [rethinkdb](https://github.com/rethinkdb/rethinkdb)   - 一个开源的分布式JSON文档数据库，具有令人愉快且功能强大的查询语言.  http://www.rethinkdb.com
+* [rocksdb](https://github.com/facebook/rocksdb) - 用于快速存储的嵌入式键值存储http://rocksdb.org
+* [ssdb](https://github.com/ideawu/ssdb) -  SSDB  - 一个快速的NoSQL数据库，是Redis http://ssdb.io的替代品
+* [SQLite](http://www.sqlite.org/) - 一个完全嵌入的，功能齐全的关系数据库，只需几百kk就可以包含在您的项目中.
+* [tokudb-engine](https://github.com/Tokutek/tokudb-engine)-  TokuDB是MySQL和MariaDB的高性能，写优化，压缩，事务存储引擎
+* [TokuMX](https://github.com/Tokutek/mongo)-  TokuMX是MongoDB的高性能，并发，压缩，直接替换引擎
+* [VoltDB](https://github.com/VoltDB/voltdb/) -  VoltDB是一种水平可扩展的内存中SQL RDBMS，专为具有极高读写吞吐量要求的应用程序而设计.
 
 
 ## dot-net
 
-* [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
-* [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
+* [RavenDB](https://github.com/ravendb/ravendb) - 支持linq的.NET文档数据库http://ayende.com/Blog/
+* [OrigoDB](http://dev.origodb.com) - 用于NET / Mono的内存嵌入式数据库引擎
 
 ## Erlang
 
-* [riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
-* [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
+* [riak](https://github.com/basho/riak) -  Riak是Basho Technologies的分散数据库.
+* [Pulsedb](http://pulsedb.io) -  Pulsedb是一个时间序列数据库服务器和库.
 
 ## Go-lang
 
-* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
-* [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
-* [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-* [goleveldb](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
-* [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-* [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-* [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
-* [roshi](https://github.com/soundcloud/roshi/) - Roshi is a large-scale CRDT set implementation for timestamped events.
-* [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
-* [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
+* [bolt](https://github.com/boltdb/bolt) -  Go的低级键/值数据库.
+* [diskv](https://github.com/peterbourgon/diskv) - 本土磁盘支持的键值存储.
+* [go-cache](https://github.com/pmylund/go-cache) - 内存中的密钥：Go的值存储/缓存（类似于Memcached）库，适用于单机应用程序.
+* [goleveldb](https://github.com/syndtr/goleveldb) - 执行 [LevelDB](https://code.google.com/p/leveldb/) Go中的键/值数据库.
+* [groupcache](https://github.com/golang/groupcache) -  Groupcache是​​一个缓存和缓存填充库，在许多情况下用作memcached的替代品.
+* [influxdb](https://github.com/influxdb/influxdb) - 用于指标，事件和实时分析的可扩展数据存储
+* [ledisdb](https://github.com/siddontang/ledisdb) -  Ledisdb是一款基于LevelDB的高性能NoSQL，如Redis.
+* [roshi](https://github.com/soundcloud/roshi/) -  Roshi是一个用于时间戳事件的大规模CRDT集实现.
+* [skydb.io](https://github.com/skydb/sky) -  Sky是一个开源数据库，用于灵活，高性能的行为数据分析.
+* [tiedot](https://github.com/HouzuoGuo/tiedot) - 由Golang提供支持的NoSQL数据库.
 
 
 
 ## JAVA
-* [cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
-* [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
-* [lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
-* [mapdb](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
-* [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
-* [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
-* [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
-- [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
+* [cassandra](https://github.com/apache/cassandra)   -  Cassandra是一个分区行商店.  行被组织成具有所需主键的表.
+* [elasticsearch](https://github.com/elasticsearch/elasticsearch) - 开源，分布式，RESTful搜索引擎 [website](http://elasticsearch.org)
+* [lmdbjni](https://github.com/deephacks/lmdbjni) -  LMDB for Java，它是一个非常快速的嵌入式键/值存储，具有完整的ACID语义.
+* [mapdb](https://github.com/jankotek/MapDB)   -  MapDB提供由磁盘存储或堆外内存支持的并发映射，集和队列.  它是一个快速且易于使用的嵌入式Java数据库引擎.http：//www.mapdb.org
+* [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) 是世界领先的图形数据库.
+* [orientdb](https://github.com/orientechnologies/orientdb) -  OrientDB是一个开源NoSQL DBMS，具有Document和Graph DBMS的功能.
+* [voldemort](https://github.com/voldemort/voldemort) - 亚马逊Dynamo的开源克隆. [website](http://project-voldemort.com)
+- [Titan](https://github.com/thinkaurelius/titan) - 分布式图形数据库http://titandb.io
 
 
 ## Javascript
-* [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
-* [mongodb](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
+* [couchdb](https://github.com/apache/couchdb) -  Apache CouchDB™是一个数据库，它使用JSON作为文档，使用JavaScript作为MapReduce索引，使用常规HTTP作为其API [网站]（http://couchdb.apache.org/）
+* [mongodb](https://github.com/mongodb/mongo)   -  MongoDB是一个文档数据库，提供高性能，高可用性和易扩展性.  文档（对象）很好地映射到编程语言数据类型.  嵌入式文档和数组减少了对连接的需求.  动态模式使多态更容易.  [网站]（https://www.mongodb.org/）
 
 
 
 ## Scala
-* [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+* [BlinkDB](https://github.com/sameeragarwal/blinkdb) -  BlinkDB：​​超大数据的亚秒级近似查询[网站]（http://blinkdb.cs.berkeley.edu/）
 
 ## Research Papers
-* [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+* [db-readings](https://github.com/rxin/db-readings) - 一份对理解数据库和构建新数据系统至关重要的文件清单

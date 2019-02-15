@@ -5,7 +5,7 @@
 
 - [What is Audio Visualization?](https://en.wikipedia.org/wiki/Music_visualization)
 
-> Music visualization, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
+ &gt;音乐可视化是电子音乐可视化器和媒体播放器软件中的一项功能，可根据一段音乐生成动画图像.  通常以实时方式生成并呈现图像，并且在播放时与音乐同步.
 
 - [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
@@ -36,170 +36,170 @@
 
 ## Experiments
 
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral.
-- [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
-- [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
-- [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
-- [Mubert](http://play.mubert.com/en/) - World's first online music composer
-- [Tangled](http://netlabelday2016.yarnaudio.com/) - Audio-visual release by Berlin based netlabel Yarn Audio, visuals made in [cables](https://cables.gl/). Drag to rotate, scroll to zoom.
-- [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
-- [Triangles](https://willianjusten.com.br/audio-experiments/triangles/) - An experiment using triangles in Canvas.
-- [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
-- [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
-- [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
-- [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn_10's.
-- [Fluctus](http://jojo.ninja/fluctus/) - Experimental 3D Audio Visualizer by Jordan Machado.
-- [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
-- [Goy Goy](http://goy-goy.herokuapp.com/) - A multiplayer Chrome Experiment made with HTML5 Canvas, socket.io and audiolet.js.
+- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - 收集源自阿基米德螺旋的可视化器.
+- [React Player](https://dazzling-jang-471a34.netlify.com/) - 使用ReactJS的完整音频可视化播放器.
+- [Moire](http://hughsk.io/moire-1/) -  Web Audio / WebGL可视化.
+- [Finding Love](https://findinglove.activetheory.net/) - 完全互动的虚拟现实故事，将情感转化为艺术.
+- [Mubert](http://play.mubert.com/en/) - 世界上第一位在线音乐作曲家
+- [Tangled](http://netlabelday2016.yarnaudio.com/) - 基于柏林的netlabel Yarn Audio的视听发布，视觉制作 [cables](https://cables.gl/) .  拖动以旋转，滚动以缩放.
+- [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - 使用Three.JS和GSLS进行实验的投资组合.
+- [Triangles](https://willianjusten.com.br/audio-experiments/triangles/) - 在Canvas中使用三角形的实验.
+- [Adventure Machine](http://www.madeon.fr/adventuremachine/) - 为Madeon的“冒险”专辑进行宣传活动.
+- [BBNG](https://uberviz.io/viz/bbng/) -  BADBADNOTGOOD的“Confessions”（专辑Leland Whitty）的WebGL Visualizer.
+- [Born in the Echoes](http://bornintheechoes.com/) - 化学兄弟的“生于回声”专辑的运动.
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - 玩简单的实验，探索音乐的运作方式.
+- [DENNIS](http://www.dennis.video/) -  popcorn_10的“Dennis”的互动和音频响应音乐视频.
+- [Fluctus](http://jojo.ninja/fluctus/) -  Jordan Machado的实验3D Audio Visualizer.
+- [George & Jonathan III](http://www.georgeandjonathan.com/) - 乔治和乔纳森的“III”专辑的竞选活动.
+- [Goy Goy](http://goy-goy.herokuapp.com/) - 使用HTML5 Canvas，socket.io和audiolet.js制作的多人Chrome实验.
 - [Lantern](https://www.uberviz.io/viz/lantern/) - WebGL Visualizer for "Lantern" by SBTRKT.
-- [Lines](http://labs.fluuu.id/lines/) - Visualising Joy Division album cover as a music spectrum by Silvio Paganini.
-- [Nero](https://www.uberviz.io/viz/nero/) - WebGL Visualizer for "In The Way" by Nero.
-- [OMM](http://ommexperience.com/) - An interactive audio visual experience exploring creativity.
-- [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - WebGL Visualizer for "Szerencsétlen" by Venetian Snares.
-- [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 5 different sound visualization effects with Leap Motion interactivity.
-- [Splice](https://www.uberviz.io/viz/splice/) - A realtime interactive music visualizer using time-code data from Splice's upcoming visualizer API.
-- [Typatone](http://www.typatone.com/) - Make music while you write.
-- [Yume](http://unseen-music.com/yume/) - Campaign for Helios' "Yume" album.
-- [Spins](http://mattdesl.github.io/spins/) - Audio Visualizer rendering Waveforms in Polar Coordinates by Matt DesLauriers.
-- [Silk](http://mattdesl.github.io/codevember/21.html) - 3D Audio Visualizer by Matt DesLauriers.
-- [Wave](http://mattdesl.github.io/codevember/3.html) - 3D Audio Visualizer by Matt DesLauriers.
-- [Binaural](http://mattdesl.github.io/codevember/6.html) - Experiment using Binaural and Reverb audio effects by Matt DesLauriers.
-- [Beatgrid](http://mattdesl.github.io/codevember/8.html) - Experiment using Audio Beat Detection by Matt DesLauriers.
-- [Party](http://mattdesl.github.io/codevember/13.html) - 2D Audio Visualizer by Matt DesLauriers.
-- [Word Problems](https://www.uberviz.io/viz/word-problems/) - WebGL Visualizer for "Word Problems" by Harmonic 313.
-- [Here Comes The Sun](http://shiz.co/beatlescode/) - A visual representation of The Beatles' song "Here Comes The Sun" dynamically generated by an algorithm developed with Processing and Processing.js. By Marcio Ribeiro.
-- [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - A reactive particle system based on audio analysis of Fast Fourier Transform spectrum.
-- [Glitch](http://naivesound.com/glitch/) - An algorithmic synthesizer to make music from math.
-- [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
-- [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
-- [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) - Create music from your github repository by Alejandro Mantecon Guillen.
-- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
-- [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
-- [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
-- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
-- [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
-- [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
-- [Floraldrift](http://whitevinyldesign.com/floradrift/) - Procedurally generated music and visuals.
-- [Experiment #8](http://brunoimbrizi.com/experiments/#/08) - Music Experiment by Bruno Imbrizi.
-- [Music Cube](http://www.808cube.com/) - A Chrome Experiment that combines the Roland TR-808 Drum Machine with the Rubik's Cube.
-- [Music Game - ECHO](http://tonenotone.com/ECHO/) - A challenging musical puzzle game.
-- [Patatap](http://www.patatap.com/) - A portable animation and sound kit.
-- [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink) - A multiplayer music experience.
-- [Simon Says - Game](http://labs.uxmonk.com/simon-says/) - A free memory game in your browser.
-- [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - A Canvas and Web Audio Experiment.
-- [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) - Music Visualizers that are made entirely using DOM elements and CSS3.
-- [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - Music Visualizations inspired in Kandinsky.
-- [Visual Music Trailer](https://vimeo.com/160470393) - Live audio visual performance ideas.
-- [Draw and Music](http://rugs.grindselect.com/) - Campaign for Rugs new album by Sam Greens.
-- [Moogfest Substrate](http://www.moogfest.com/_substrate) - Experimental site to Moogfest.
-- [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/) - Audio visualizer built with HTML5 web audio API by rickycodes.
-- [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
-- [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
-- [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
-- [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
-- [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
-- [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
-- [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
-- [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
-- [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
-- [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
-- [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
-- [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
-- [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
-- [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
-- [VR Ondes Martenot](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
-- [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
-- [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
-- [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
-- [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
-- [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
-- [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
-- [Andantino](https://alpcanaydin.github.io/andantino/) Listen some notes and try to find same notes on the keyboard.
-- [Vissonance](https://tariqksoliman.github.io/Vissonance/) A collection of audio visualizers built in THREE.js.
-- [M A I L M A N](http://mailman.acervo.io/) Interactive music video by Bruno Imbrizi for a song called Mailman by Soundgarden.
-- [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser.
-- [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
-- [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
-- [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
-- [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
-- [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - Applying compositional pattern-producing networks to generate interesting visuals from audio data.
+- [Lines](http://labs.fluuu.id/lines/) - 将Sil Division Paganini的Joy Division专辑封面可视化为音乐谱.
+- [Nero](https://www.uberviz.io/viz/nero/) -  Nero的“In The Way”的WebGL Visualizer.
+- [OMM](http://ommexperience.com/) - 探索创造力的互动视听体验.
+- [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - 威尼斯人Snares的“不幸”WebGL Visualizer.
+- [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 具有Leap Motion交互性的5种不同声音可视化效果.
+- [Splice](https://www.uberviz.io/viz/splice/) - 使用Splice即将推出的可视化API的时间码数据的实时交互式音乐可视化工具.
+- [Typatone](http://www.typatone.com/) - 写作时制作音乐.
+- [Yume](http://unseen-music.com/yume/) -  Helios&#39;“Yume”专辑的竞选活动.
+- [Spins](http://mattdesl.github.io/spins/) - 由Matt DesLauriers在极坐标中渲染波形的Audio Visualizer.
+- [Silk](http://mattdesl.github.io/codevember/21.html) -  Matt DesLauriers的3D Audio Visualizer.
+- [Wave](http://mattdesl.github.io/codevember/3.html) -  Matt DesLauriers的3D Audio Visualizer.
+- [Binaural](http://mattdesl.github.io/codevember/6.html) - 使用Matt DesLauriers的双声道和混响音频效果进行实验.
+- [Beatgrid](http://mattdesl.github.io/codevember/8.html) - 使用Matt DesLauriers的音频节拍检测实验.
+- [Party](http://mattdesl.github.io/codevember/13.html) -  Matt DesLauriers的2D Audio Visualizer.
+- [Word Problems](https://www.uberviz.io/viz/word-problems/) - 用于Harmonic 313的“Word Problems”的WebGL Visualizer.
+- [Here Comes The Sun](http://shiz.co/beatlescode/)   - 披头士乐队的歌曲“Here Comes The Sun”的可视化表示，该歌曲由Processing and Processing.js开发的算法动态生成.  作者：Marcio Ribeiro.
+- [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - 基于快速傅里叶变换谱的音频分析的反应粒子系统.
+- [Glitch](http://naivesound.com/glitch/) - 用于从数学中制作音乐的算法合成器.
+- [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) -  Clara Rockmore生日的涂鸦.
+- [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - OndřejŽára的声音烟花.
+- [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) - 由Alejandro Mantecon Guillen从你的github存储库创建音乐.
+- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - 使用鼠标，Qwerty键盘或MIDI键盘进行游戏，并观看灯光与您的音乐共舞.
+- [Mmorph](http://mmorph.massivemusic.com/) - 探索在浏览器内外提供交互式音乐的新方式.
+- [Play a cornet to Donald Trump](http://trumpdonald.org/) - 一个有趣的网站，由动物机构向唐纳德特朗普发出短号.
+- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) -  Beytah的WebGL Visualizer for Screw Base.
+- [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - 一款网络应用程序，将歌曲“波希米亚狂想曲”变成了保罗·拉梅尔的乐器.
+- [Scrollsound](http://zya.github.io/scrollsound/) - 作为Ehsan Ziya在网络上与音频交互的方法滚动.
+- [Floraldrift](http://whitevinyldesign.com/floradrift/) - 程序生成的音乐和视觉效果.
+- [Experiment #8](http://brunoimbrizi.com/experiments/#/08) -  Bruno Imbrizi的音乐实验.
+- [Music Cube](http://www.808cube.com/) - 将Roland TR-808鼓机与魔方的立方体结合在一起的Chrome实验.
+- [Music Game - ECHO](http://tonenotone.com/ECHO/) - 具有挑战性的音乐益智游戏.
+- [Patatap](http://www.patatap.com/) - 便携式动画和音响套件.
+- [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink) - 多人音乐体验.
+- [Simon Says - Game](http://labs.uxmonk.com/simon-says/) - 浏览器中的免费记忆游戏.
+- [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - 画布和Web音频实验.
+- [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) - 完全使用DOM元素和CSS3制作的音乐展示台.
+- [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - 以康定斯基为灵感的音乐可视化.
+- [Visual Music Trailer](https://vimeo.com/160470393) - 现场视听表演理念.
+- [Draw and Music](http://rugs.grindselect.com/) -  Sam Greens的Rugs新专辑竞选活动.
+- [Moogfest Substrate](http://www.moogfest.com/_substrate) -  Moogfest的实验场地.
+- [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/) - 由rickycodes使用HTML5网络音频API构建的音频可视化工具.
+- [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - 由rickycodes使用HTML5网络音频API构建的音频可视化工具.
+- [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 由Three.js的创建者制作的3D音频可视化.
+- [TRIF](http://trif.it/) - 使用webaudio API和原始CSS的基于GIF的在线无线电可视化
+- [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - 使用Three.js进行音频可视化实验和一些后处理.
+- [Audiograph](http://audiograph.xyz/) - 由Matt DesLauriers制作的惊人的音频可视化.
+- [Happy Monday](http://makiopolis.com/everyday/026/) - 使用David Ronai的THREE.MeshLine进行音乐实验.
+- [D159](http://www.simppa.fi/demo/d159/) -  Simo Santavirta在NVScene 2015上展示的“幽暗”音频可视化.
+- [Restless Earth](http://restless.earth/) - “不安定的地球”的音频可视化.
+- [Scribble Audio](http://scribble.audio/) - 使用此网络合成器绘制声音循环.
+- [Touchpianist](http://touchpianist.com/) - 弹钢琴，沿着屏幕查看所有动画.
+- [PartyMode](https://preziotte.com/partymode/) - 使用d3.js和网络音频api的实验音乐可视化工具.
+- [Arkade London](http://arkade.london/) -  Arkade London是一个纯粹的个人和实验性webVJ粉丝艺术.
+- [DJi](http://jieverson.com/DJi/) - 从SoundCloud清理音乐可视化工具或自行上传.
+- [Braille Face: Kōya](https://koya.brailleface.co/) - 在您的浏览器中浏览独特的互动环境，同时聆听来自墨尔本音乐家Braille Face的首张专辑Kōya.
+- [VR Ondes Martenot](https://github.com/elifer5000/vr-ondes-martenot) - 虚拟现实中Ondes Martenot的可玩性演绎.
+- [Popcorn](http://hughsk.io/popcorn/) -  Hugh Kennedy的小音频反应素描.
+- [Beat](http://experiments.kevinboudot.me/canvas-beat/) -  Beat是一个受Propellerheads图iOS App启发的HTML5音频/画布实验.
+- [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/)   -  Dancing Torus是一种WebGL Audio Reactive体验.  在Soundcloud上选择你最喜欢的歌曲并开始跳舞！
+- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) -  Sonia Boller从阿基米德螺旋中收集可视化器.
+- [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - 一些有趣的音乐互动的实验性想法.
+- [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - 对多节律的交互式探索.
+- [ClubberToy](https://wizgrav.github.io/clubber/) 几个遮阳板，与clubber重新布线，捆绑为vj应用程序.
+- [Andantino](https://alpcanaydin.github.io/andantino/) 听一些笔记，并尝试在键盘上找到相同的笔记.
+- [Vissonance](https://tariqksoliman.github.io/Vissonance/) 一系列内置于THREE.js的音频可视化工具.
+- [M A I L M A N](http://mailman.acervo.io/) Bruno Imbrizi为一首名叫Mailman by Soundgarden的歌曲创作的互动音乐视频.
+- [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) 选择您的音乐，背景图像，按照您想要的方式自定义可视化工具，并将可视化工具直接记录在您的Web浏览器中.
+- [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) 由Richard Tan在Three.js中完成的音乐可视化工具
+- [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - 具有音阶的音频频谱可视化.
+- [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) 由Suraya Shivji用Three.js和p5.js构建的每周音乐可视化实验.
+- [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - 使用Pixi.js构建的有趣的网络音频可视化工具.
+- [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - 应用组合模式生成网络从音频数据生成有趣的视觉效果.
 
 ## Experiments on Codepen
 
-- [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - Play an amazing Drum made with SVG and realistic sounds by @iamjoshellis.
-- [SVG Animated Guitar](http://codepen.io/iamjoshellis/full/qbBKZB/) - Play an amazing Guitar made with SVG and realistic sounds by @iamjoshellis.
-- [Audio Visualizer](http://codepen.io/Francext/full/yIogq/) - Abstract Audio Visualizer using Three.js by Francesco Trillini
-- [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/) - Radial Audio Player constructed by lines of frequency and amplitude by Alex Permyakov
-- [Wireframes](http://codepen.io/pat_hg/full/gamQwr/) - Wireframe WebGL Animation with Three.js by Patrick Heng
-- [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/) - An amazing experiment creating a realistic Vinyl player using DrawSVG and GSAP by Chris Gannon.
-- [Gooey Effect Audio](http://codepen.io/enjikaka/full/QbJmRJ/) - Upload your mp3 and visualize the song with this crazy effect by Jeremy Karlsson.
-- [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/) - Using audio frequency data from a hidden video to apply CSS scaling by Neil McCallion.
-- [Storytelling with Html5 + CSS3](http://codepen.io/rachelnabors/full/rCost/) - A great example of how to use music to create a Storytelling by Rachel Nabors.
-- [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/) - Create music with this sequencer by Joe Harry.
-- [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - ThreeJS/WebGL Soundcloud player/visualizer based on HTML5 AudioContext API by Luigi Mannoni.
-- [Oscilator](http://codepen.io/easwee/pen/sFpmo) - Testing the oscillator node from HTML5 audio API by Anej Gorkič.
-- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) - 10th contribution for codevember 2015 by Patrick Heng.
-- [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
-- [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
-- [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
-- [Clubberize yin yang example](http://codepen.io/wizgrav/pen/PWKNmg) - An example using the clubberize helper to easily integrate clubber.js in javascript apps.
+- [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - 播放由SVG和@iamjoshellis逼真的声音制作的惊人鼓.
+- [SVG Animated Guitar](http://codepen.io/iamjoshellis/full/qbBKZB/) - 播放由SVG制作的惊人吉他和@iamjoshellis的逼真声音.
+- [Audio Visualizer](http://codepen.io/Francext/full/yIogq/) -  Francesco Trillini使用Three.js的抽象Audio Visualizer
+- [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/) - 由Alex Permyakov按频率和幅度线构成的径向音频播放器
+- [Wireframes](http://codepen.io/pat_hg/full/gamQwr/) -  Patrick Heng的Wireframe WebGL动画与Three.js
+- [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/) - 使用DrawSVG和Chris Gannon的GSAP创造逼真的乙烯基玩家的惊人实验.
+- [Gooey Effect Audio](http://codepen.io/enjikaka/full/QbJmRJ/) - 通过Jeremy Karlsson的疯狂效果上传你的mp3并观看这首歌.
+- [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/) - 使用来自隐藏视频的音频数据来应用Neil McCallion的CSS缩放.
+- [Storytelling with Html5 + CSS3](http://codepen.io/rachelnabors/full/rCost/) -  Rachel Nabors如何用音乐创作讲故事的一个很好的例子.
+- [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/) - 使用Joe Harry的音序器创建音乐.
+- [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - 基于Luigi Mannoni的HTML5 AudioContext API的ThreeJS / WebGL Soundcloud播放器/可视化器.
+- [Oscilator](http://codepen.io/easwee/pen/sFpmo) - 由AnejGorkič从HTML5音频API测试振荡器节点.
+- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) -  Patrick Heng为Codevember 2015做的第10次贡献.
+- [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
+- [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
+- [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) -  Tim Pietrusky使用惊人的分析仪进行音频可视化.
+- [Clubberize yin yang example](http://codepen.io/wizgrav/pen/PWKNmg) - 使用clubberize助手在javascript应用程序中轻松集成clubber.js的示例.
 
 ## Libraries Audio
 
-- [web-audio-analyser](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
-- [web-audio-player](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
-- [web-media-playback](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
-- [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-- [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
-- [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
-- [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web.
-- [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
-- [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
-- [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
-- [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
-- [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
-- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
-- [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+- [web-audio-analyser](https://github.com/hughsk/web-audio-analyser)   - 围绕Web Audio API的薄包装器 <audio>  元素并为您提供波形/频率数据作为回报.
+- [web-audio-player](https://github.com/Jam3/web-audio-player) - 跨浏览器的Web音频播放器.
+- [web-media-playback](https://github.com/hughsk/web-media-playback) - 检索有关在浏览器中播放的音频或视频的播放和缓冲信息.
+- [Pizzicato.js](https://alemangui.github.io/pizzicato/) - 通过Web Audio API简化您创建和操作声音的方式.
+- [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - 帮助您在Three.js或tQuery中创建音乐可视化.
+- [Beeplay.js](https://watilde.github.io/beeplay/) - 用JavaScript写一首歌.
+- [MIDI.js](https://github.com/mudcube/MIDI.js/) - 让生活变得轻松，在网络上创建一个MIDI应用程序.
+- [Beep.js](https://github.com/stewdio/beep.js) - 用于构建基于浏览器的合成器的JavaScript工具包.
+- [p5.sound](https://github.com/processing/p5.js-sound) - 将处理方法引入Web Audio和p5.js.
+- [Audiolet](https://www.jhtrnr.com/Audiolet/) - 用于实时音频合成和合成的JavaScript库.
+- [coffee-collider](https://www.npmjs.com/package/coffee-collider) -  HTML5中实时音频合成和算法组合的语言.
+- [audio-render](https://github.com/audio-lab/render) - 直通音频流，提供用于呈现流音频数据的结构.
+- [Octavian](https://github.com/stevekinney/octavian) - 用于推理音符，频率和间隔的实用程序
+- [waveform-data](https://www.npmjs.com/package/waveform-data) - 音频波形数据处理API  - 用JavaScript重新采样，偏移和分段波形数据.
+- [audiowaveform](https://github.com/bbc/audiowaveform) - 用于生成波形数据和从音频文件渲染波形图像的C ++程序.
   
 
 ## Libraries Visualization
 
-- [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-- [Pixi.js](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-- [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
-- [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
-- [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
+- [p5.js](http://p5js.org/) - 基于Processing的核心原则创建图形和交互式体验的JavaScript库.
+- [Pixi.js](https://github.com/pixijs/pixi.js/)   - 适用于所有设备的快速轻量级2D库.  Pixi渲染器允许每个人在不事先了解WebGL的情况下享受硬件加速的强大功能.
+- [sketch.js](http://soulwire.github.io/sketch.js/) - 让您直接了解创意编码的有趣部分，无需担心垫片或样板代码.
+- [three.js](http://threejs.org/) -  Three.js是一个使WebGL易于使用的库.
+- [Two.js](https://jonobr1.github.io/two.js/)   - 面向现代Web浏览器的二维绘图API.  它与渲染器无关，允许相同的API在多个上下文中绘制：SVG，Canvas和WebGL.
 - [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-- [Web Audio Extension](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
-- [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
-- [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
-- [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
-- [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
-- [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
-- [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
-- [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
-- [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
-- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
-- [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
+- [Web Audio Extension](https://github.com/spite/WebAudioExtension) - 用于播放网络音频的Chrome扩展程序.
+- [Cinder](https://libcinder.org/) - 社区开发的免费开源库，用于C ++中的专业品质创意编码.
+- [Processing](https://www.processing.org/) - 为电子艺术，新媒体艺术和视觉设计社区构建的开源编程语言和集成开发环境.
+- [HYPE_processing](http://www.hypeframework.org/) - 处理类的集合，在使用最少量的代码编写时执行繁重的任务.
+- [The Force](https://github.com/shawnlawson/The_Force) - 带有音频输入的实时编码着色器编辑.
+- [Hylogen](https://github.com/sleexyz/hylogen) - 嵌入在Haskell中的纯函数语言，用于片段着色器的表达式实时编码（带有音频输入）.
+- [Peaks.js](https://www.npmjs.com/package/peaks.js) - 模块化客户端JavaScript组件，用于在浏览器中显示和交互音频波形素材.
+- [Clubber.js](https://github.com/wizgrav/clubber) - 音乐理论在音频反应可视化中的应用.
+- [Vuo](https://vuo.org) - 用于交互式媒体的实时可视化编程语言.
+- [wavesurfer.js](https://wavesurfer-js.org/) - 可自定义的音频波形可视化，构建于Web Audio API和HTML5 Canvas之上
+- [wavebell](https://github.com/skylerlee/wavebell) - 具有实时波形的javascript录音机，使用网络麦克风
+- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - 使用Web Audio API和ECharts进行圆形波形音频可视化的JS库
+- [Slang](https://github.com/kylestetz/slang) - 用JS构建的音频编程语言
 
 ## People to Follow
-- [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
-- [Joshua Davis](http://www.joshuadavis.com/) - An American designer, technologist, author and artist in new media.
-- [Robert Hodgin](http://roberthodgin.com/) - A creative coder living in Brooklyn. Co-creator of the Cinder C++.
-- [Seb Lee-Delisle](http://seb.ly/) - An award-winning digital artist and speaker.
-- [Raven Kwok](http://ravenkwok.com/) - A visual artist, animator and creative programmer.
-- [Chris Wilson](https://github.com/cwilso/) - Open Web Guy, formerly of Microsoft and now working as a Developer Advocate at Google.
-- [Jason Sigal](https://github.com/therewasaguy) - Creative Coder in residence at NYU's and creator of web audio library for p5.js.
-- [Shawn Lawson](http://shawnlawson.com/) - An experiential media artist creating the computational sublime.
-- [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
-- [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
-- [Mat Preziotte](https://preziotte.com/) - Absurd music visualizations and generative art.
-- [Yannis Gravezas](https://github.com/wizgrav) - A creative coder with several projects featured in chrome experiments, fwa and elsewhere.
+- [Aaron Koblin](http://www.aaronkoblin.com/) - 专注于数据和数字技术的艺术家，设计师，程序员和企业家.
+- [Joshua Davis](http://www.joshuadavis.com/) - 新媒体的美国设计师，技术专家，作家和艺术家.
+- [Robert Hodgin](http://roberthodgin.com/)   - 一位住在布鲁克林的创意编码员.  Cinder C ++的共同创建者.
+- [Seb Lee-Delisle](http://seb.ly/) - 屡获殊荣的数字艺术家和演讲者.
+- [Raven Kwok](http://ravenkwok.com/) - 视觉艺术家，动画师和创意程序员.
+- [Chris Wilson](https://github.com/cwilso/) -  Open Web Guy，前身为Microsoft，现在是Google的开发者倡导者.
+- [Jason Sigal](https://github.com/therewasaguy) - 在纽约大学居住的Creative Coder和p5.js的网络音频库的创建者.
+- [Shawn Lawson](http://shawnlawson.com/) - 创造计算崇高的体验媒体艺术家.
+- [Matt DesLauriers](https://github.com/mattdesl) -  Jam 3的创意编码器.
+- [Patrick Heng](http://hengpatrick.fr/)   - 富有创意的前端开发人员.  在Hetic和Gobelins学习并在Grouek工作.
+- [Mat Preziotte](https://preziotte.com/) - 荒诞的音乐可视化和生成艺术.
+- [Yannis Gravezas](https://github.com/wizgrav) - 一个创意编码器，其中包括铬实验，fwa和其他地方的几个项目.
 
 ## Tutorials
 
@@ -251,7 +251,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
+欢迎您的贡献！ [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
 
 ## Authors
 
@@ -263,4 +263,4 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Willian Justen](http://github.com/willianjusten) 已放弃对此作品的所有版权及相关或相邻权利.

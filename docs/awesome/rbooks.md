@@ -1,132 +1,132 @@
 <div class="github-widget" data-repo="RomanTsegelskyi/rbooks"></div>
-R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+R书 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
-A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
+关于不同方面和应用的精选书籍清单 [R](https://www.r-project.org/)  编程语言和尝试以更加用户友好的方式使[R Books]（）现代化.  灵感来自[GoBooks]（）.
 
 
-Beginner Books
+初学者书籍
 ---
 
 #### Learning R [[Amazon]](https://github.com/RomanTsegelskyi/rbooks/blob/master/www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105/) 
 
 <img src="http://akamaicovers.oreilly.com/images/0636920028352/cat.gif" width="200px"/>
 
-Learn how to perform data analysis with the R language and software environment, even if you have little or no programming experience. With the tutorials in this hands-on guide, you’ll learn how to use the essential R tools you need to know to analyze data, including data types and programming concepts.
+ 了解如何使用R语言和软件环境执行数据分析，即使您很少或没有编程经验.  通过本实践指南中的教程，您将学习如何使用您需要知道的基本R工具来分析数据，包括数据类型和编程概念.
 
 #### Hands-On Programming with R [[Amazon]](http://www.amazon.com/Hands-On-Programming-Write-Functions-Simulations/dp/1449359019)
 
 <img src="http://ecx.images-amazon.com/images/I/51Hbowka72L._SX379_BO1,204,203,200_.jpg" width="200px"/>
 
-Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you' ll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
+ 通过深入研究R语言来学习如何编程，然后使用您新发现的技能来解决实际的数据科学问题.  通过本书，您将学习如何加载数据，组装和反汇编数据对象，导航R的环境系统，编写自己的函数以及使用R的所有编程工具.
 
 #### The R Book [[Amazon]](http://www.amazon.com/The-Book-Michael-J-Crawley/dp/0470973927)
 
 <img src="http://ecx.images-amazon.com/images/I/41NNNTouQbL._SX371_BO1,204,203,200_.jpg" width="200px"/>
 
-Very massive, hugely successful and popular text presenting an extensive and comprehensive guide for all R users. Covers wide variaty of R topics in great detail with very useful examples.
+ 非常庞大，非常成功和流行的文本为所有R用户提供了广泛而全面的指南.  通过非常有用的示例非常详细地介绍了R主题的各种变化.
 
 #### R for Everyone: Advanced Analytics and Graphics [[Amazon]](http://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030)
 
 <img src="http://ecx.images-amazon.com/images/I/51Jib4uNx3L._SX393_BO1,204,203,200_.jpg" width="200px"/>
 
-Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
+ 凭借他在教授新用户方面无与伦比的经验，专业数据科学家Jared P. Lander为任何刚接触统计编程和建模的人编写了完美的教程.  本指南旨在使学习变得简单直观，重点关注实现80％现代数据任务所需的20％R功能.  本书的独立章节从绝对基础开始，提供广泛的实践练习和示例代码.  你将下载并安装R;  导航和使用R环境;  掌握基本程序控制，数据导入和操作;  并完成几项基本测试.  然后，在此基础上，您将构建几个完整的模型，包括线性和非线性，并使用一些数据挖掘技术.
 
 #### R Cookbook [[Amazon]](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/) 
 
 <img src="http://ecx.images-amazon.com/images/I/51ZWUV2DEyL._SX379_BO1,204,203,200_.jpg" width="200px"/>
 
-With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+ 凭借200多种实用配方，本书可帮助您快速有效地使用R进行数据分析.  R语言提供了进行统计工作所需的一切，但其结构可能难以掌握.  这一系列简洁，面向任务的配方使您可以立即使用R，从基本任务到输入和输出，一般统计，图形和线性回归等各种解决方案.
 
 #### Learn R in a Day [[Amazon]](http://www.amazon.com/Learn-R-Day-Steven-Murray-ebook/) 
 
 <img src="http://ecx.images-amazon.com/images/I/4184UusYfJL._SX345_BO1,204,203,200_.jpg" width="200px"/>
 
-'Learn R in a Day' provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course. 
+ “每天学习R”通过面向实例的方法为读者提供关键的编程技能，非常适合学者，科学家，数学家和工程师.  本书假设没有计算机编程的先验知识，并逐步涵盖了在一天内变得自信和熟练使用R所需的所有必要步骤.  主题包括如何输入，操作，格式化，迭代（循环），查询，执行基本统计和绘制数据，通过使用内置数据集的逐步技术和演示，鼓励读者在他们的数据集上复制电脑.  每章还包括练习（有解决方案）练习关键技能，并使读者能够在本入门课程中获得的基本知识的基础上进行构建. 
 
 #### R Inferno [[Online]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free* 
 
 <img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200px"/>
 
-"If you are using R and you think you’re in hell, this is a map for you."
+“如果你正在使用R并且你认为自己处于地狱状态，那么这就是你的地图.”
 
-This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R. 
+ 这是对R编程的几个方面的一个很好的介绍.  将数据加载到R中，使用循环和逻辑语句迭代数据，作者甚至触及创建包.  关于R的好又漂亮的书. 
 
 
 #### The R Programming Wikiboo [[online]](https://en.wikibooks.org/wiki/R_Programming) 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wikibooks-logo-en.svg" width="200px"/>
 
-A collaborative book about R on the wikibooks website. Anyone can improve it.
+ 关于wikibooks网站上的R的合作书.  任何人都可以改进它.
 
 #### Data Munging with R [[Manning]](https://www.manning.com/books/data-munging-with-r) 
 
 <img src="https://images.manning.com/720/960/resize/book/7/3003658-da45-49c5-94a8-b7a38e6d3088/Carroll-DataM-MEAP-HI.png" width="200px"/>
 
-Data Munging with R shows you how to take raw data and transform it for use in computations, tables, graphs, and more. Whether you already have some programming experience or you're just a spreadsheet whiz looking for a more powerful data manipulation tool, this book will help you get started.
+ Data Munging with R向您展示了如何获取原始数据并对其进行转换以用于计算，表格，图表等.  无论您是否已经拥有一些编程经验，或者您只是寻找更强大的数据操作工具的电子表格，本书将帮助您入门.
 
-You'll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you're done, you'll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
+ 您将发现使用面向数据的R编程语言及其许多特定于任务的软件包的细节.  通过几十个实际示例，学习填写缺失值，进行预测并将数据可视化为图形.  当你完成时，你将成为一名大师，拥有强大，可重复的工作流程以及使用数据加强结论的技能！
 
 #### R for Data Science [[Online]](http://r4ds.had.co.nz/)  *Free*
 
 <img src="http://ecx.images-amazon.com/images/I/51XHOt2Tt8L._SY344_BO1,204,203,200_.jpg" width="200px"/>
 
-Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
+ 了解如何使用R将原始数据转化为洞察力，知识和理解.  本书向您介绍R，RStudio和*[tidyverse](https://www.tidyverse.org/) *，R包的集合，旨在协同工作，使数据科学快速，流畅，有趣.  R for Data Science适用于没有以前编程经验的读者，旨在让您尽快完成数据科学.
 
-Advanced Books
+高级书籍
 ---
 
 #### Advanced R [[Online]](http://adv-r.had.co.nz/)  [[Amazon]](http://www.amazon.com/dp/1466586966/) *Free*
 
 <img src="http://ecx.images-amazon.com/images/I/41Lb4gmBobL._SY344_BO1,204,203,200_.jpg" width="200px"/>
 
-Advanced R presents useful tools and techniques for attacking many types of R programming problems, helping you avoid mistakes and dead ends. With more than ten years of experience programming in R, the author illustrates the elegance, beauty, and flexibility at the heart of R.
+ Advanced R提供了有用的工具和技术来攻击许多类型的R编程问题，帮助您避免错误和死胡同.  凭借在R中编程十多年的经验，作者阐述了R的核心优雅，美丽和灵活性.
 
 #### Data Manipulation with R, Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/data-manipulation-r-second-edition)
 
 <img src="http://ecx.images-amazon.com/images/I/51Jwp-z343L._SX403_BO1,204,203,200_.jpg" width="200px" />
 
-This book starts with the installation of R and how to go about using R and its libraries. We then discuss the mode of R objects and its classes and then highlight different R data types with their basic operations.
+ 本书从安装R开始，以及如何使用R及其库.  然后，我们讨论R对象及其类的模式，然后使用它们的基本操作突出显示不同的R数据类型.
 
-The primary focus on group-wise data manipulation with the split-apply-combine strategy has been explained with specific examples. The book also contains coverage of some specific libraries such as lubridate, reshape2, plyr, dplyr, stringr, and sqldf. You will not only learn about group-wise data manipulation, but also learn how to efficiently handle date, string, and factor variables along with different layouts of datasets using the reshape2 package.
+ 通过具体示例解释了使用拆分 - 应用 - 组合策略对分组数据操作的主要关注.  本书还包含一些特定库的内容，如lubridate，reshape2，plyr，dplyr，stringr和sqldf.  您不仅将学习分组数据操作，还将学习如何使用reshape2包有效地处理日期，字符串和因子变量以及不同的数据集布局.
 
-By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
+在本书的最后，您将学习使用stringr进行文本操作，如何使用twitteR库从twitter中提取数据，如何清理原始数据以及如何构建原始数据以进行数据挖掘.
 
-Data Science
+数据科学
 ---
 
 #### Mastering Data Science with R [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r)
 
 <img src="https://www.packtpub.com/sites/default/files/2028OS_1981_Mastering%20Data%20Analysis%20with%20R.jpg" width="200px"/>
 
-This book will give you the guidance you need to build and develop your knowledge and expertise. Bridging the gap between theory and practice, this book will help you to understand and use data for a competitive advantage.
+ 本书将为您提供建立和发展您的知识和专业知识所需的指导.  缩小理论与实践之间的差距，本书将帮助您理解和使用数据，从而获得竞争优势.
 
-Beginning with taking you through essential data mining and management tasks such as munging, fetching, cleaning, and restructuring, the book then explores different model designs and the core components of effective analysis. You will then discover how to optimize your use of machine learning algorithms for classification and recommendation systems beside the traditional and more recent statistical methods.
+ 本书首先介绍了重要的数据挖掘和管理任务，如修改，提取，清理和重组，然后探讨不同的模型设计和有效分析的核心组件.  然后，您将发现除了传统和更新的统计方法之外，如何优化分类和推荐系统的机器学习算法的使用.
 
 #### Practical Data Science with R [[Amazon]](http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560)
 
 <img src="http://ecx.images-amazon.com/images/I/51SklHvc%2BZL._SX397_BO1,204,203,200_.jpg" width="200px"/>
 
-Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
+ 带有R的实用数据科学向您展示了如何将R编程语言和有用的统计技术应用于日常业务情境.  它使用来自营销，商业智能和决策支持的示例，向您展示如何设计实验（如A / B测试），构建预测模型，并向各级受众展示结果.
 
-This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
+ 没有数据科学背景的读者可以访问这本书.  假设您熟悉基本统计信息，R或其他脚本语言.
 
 #### R in Action: Data Analysis and Graphics with R [[Amazon]](http://www.amazon.com/gp/product/1617291382)
 
 <img src="http://ecx.images-amazon.com/images/I/41cUuaLl2PL._SX396_BO1,204,203,200_.jpg" width="200px"/>
 
-With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+ 凭借200多种实用配方，本书可帮助您快速有效地使用R进行数据分析.  R语言提供了进行统计工作所需的一切，但其结构可能难以掌握.  这一系列简洁，面向任务的配方使您可以立即使用R，从基本任务到输入和输出，一般统计，图形和线性回归等各种解决方案.
 
 #### R Programming for Data Science [[Leanpub]](https://leanpub.com/rprogramming) *Free*
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/large?1437358922" width="200px"/>
 
-R in Action, Second Edition teaches you how to use the R language by presenting examples relevant to scientific, technical, and business developers. Focusing on practical solutions, the book offers a crash course in statistics, including elegant methods for dealing with messy and incomplete data. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on forecasting, data mining, and dynamic report writing.
+ R in Action，Second Edition通过展示与科学，技术和业务开发人员相关的示例，教您如何使用R语言.  本书着重于实用的解决方案，提供统计学速成课程，包括处理凌乱和不完整数据的优雅方法.  您还将掌握R的广泛图形功能，以便直观地探索和呈现数据.  此扩展的第二版包括有关预测，数据挖掘和动态报告编写的新章节.
 
 #### Exploratory Data Analysis with R [[Leanpub]](https://leanpub.com/exdata) *Free*
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
 
-This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
+ 本书教您使用R来有效地可视化和探索复杂的数据集.  探索性数据分析是数据科学过程的关键部分，因为它可以帮助您提高问题并改进建模策略.  本书基于行业领先的约翰霍普金斯数据科学专业化，这是迄今为止最广泛订阅的数据科学培训计划.
 
 Finance
 ---
@@ -134,39 +134,39 @@ Finance
 
 <img src="http://ecx.images-amazon.com/images/I/516emfY3voL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
-Introduction to R for Quantitative Finance will show you how to solve real-world quantitative finance problems using the statistical computing language R. The book covers diverse topics ranging from time series analysis to fi nancial networks. Each chapter briefl y presents the theory behind specific concepts and deals with solving a diverse range of problems using R with the help of practical examples.
+ R for Quantitative Finance简介将向您展示如何使用统计计算语言R解决现实世界的量化金融问题.该书涵盖了从时间序列分析到金融网络的各种主题.  每章简要介绍了具体概念背后的理论，并在实际例子的帮助下解决了使用R解决各种各样的问题.
 
-This book will be your guide on how to use and master R in order to solve quantitative finance problems. This book covers the essentials of quantitative finance, taking you through a number of clear and practical examples in R that will not only help you to understand the theory, but how to effectively deal with your own real-life problems.
+ 本书将成为您如何使用和掌握R以解决定量财务问题的指南.  本书涵盖了量化金融的基本知识，带您了解R中的一些清晰实用的例子，这些例子不仅可以帮助您理解理论，还可以有效地处理您自己的现实问题.
 
-Starting with time series analysis, you will also learn how to optimize portfolios and how asset pricing models work. The book then covers fixed income securities and derivatives such as credit risk management.
+ 从时间序列分析开始，您还将学习如何优化投资组合以及资产定价模型的工作方式.  然后，本书涵盖固定收入证券和信用风险管理等衍生工具.
 
 #### Mastering R for Quantitative Finance [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-r-quantitative-finance)
 
 <img src="http://ecx.images-amazon.com/images/I/5197WMSfufL._SX403_BO1,204,203,200_.jpg" width="200px"/>
 
-R is a powerful open source functional programming language that provides high level graphics and interfaces to other languages. Its strength lies in data analysis, graphics, visualization, and data manipulation. R is becoming a widely used modeling tool in science, engineering, and business.
+ R是一种功能强大的开源函数编程语言，可为其他语言提供高级图形和接口.  它的优势在于数据分析，图形，可视化和数据处理.  R正在成为科学，工程和商业中广泛使用的建模工具.
 
-The book is organized as a step-by-step practical guide to using R. Starting with time series analysis, you will also learn how to forecast the volume for VWAP Trading. Among other topics, the book covers FX derivatives, interest rate derivatives, and optimal hedging. The last chapters provide an overview on liquidity risk management, risk measures, and more.
+ 本书是作为使用R的逐步实用指南而组织的.从时间序列分析开始，您还将学习如何预测VWAP交易的交易量.  除其他主题外，本书还涉及外汇衍生品，利率衍生品和最优套期保值.  最后几章概述了流动性风险管理，风险衡量等.
 
-The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
+ 本书务实地介绍了量化金融概念及其在R中的建模，使您能够自己构建量身定制的交易系统.  在本书的最后，您将精通使用R的各种金融技术，并且能够在做出财务决策时下注.
 
-Machine Learning
+机器学习
 ---
 
 #### Machine Learning with R [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
 
 <img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
-"Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
+ “使用R进行机器学习”是一个实用的教程，它使用动手实例逐步介绍机器学习的实际应用.  在不回避技术细节的情况下，我们将使用清晰实用的示例探索机器学习与R.  非常适合机器学习初学者或有经验的人.  探索R以找到所有问题的答案.
 
-R Development
+R发展
 ---
 
 #### R Packages [[Online]](http://r-pkgs.had.co.nz/)  [[Amazon]](http://www.amazon.com/dp/1491910593/)
 
 <img src="http://r-pkgs.had.co.nz/cover.png" width="200px"/>
 
-Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
+ 包是可重现R代码的基本单位.  它们包括可重用的R函数，描述如何使用它们的文档以及示例数据.  在本节中，您将学习如何将代码转换为其他人可以轻松下载和使用的包.  一开始写一个包装似乎势不可挡.  因此，从基础开始，并随着时间的推移进行改进.  只要下一个版本更好，你的第一个版本是不是很完美并不重要.
 
 Reports
 ---
@@ -190,20 +190,20 @@ Visualization
 
 <img src="http://ecx.images-amazon.com/images/I/411f0UoYBPL._AA160_.jpg" width="200px"/>
 
-This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
+ 本书包含了实用的配方，旨在为您提供掌握R数据可视化所需的所有指导.它首先介绍了R图的基础知识，并介绍了热图和定制它们，然后再逐步带你通过使用googleVis包创建交互式地图，生成等值区域地图和轮廓图，气泡图和饼图.  然后，您将学习如何在R中制作2D和3D图形.在本书的最后，您将掌握关键技术，以专业的效率和精度创建令人印象深刻的数据可视化.
 
 #### R Graphics Cookbook [[Amazon]](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956)
 
 <img src="http://ecx.images-amazon.com/images/I/51gjgnl23VL._AA160_.jpg" width="200px"/>
 
-This practical guide provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+ 本实用指南提供了150多种配方，可帮助您快速生成高质量的图形，而无需梳理R图形系统的所有细节.  每个配方都可以解决您可以应用于您自己项目的解决方案的特定问题，并讨论配方的工作原理和原因.
 
-Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
+大多数配方都使用ggplot2包，这是一种强大而灵活的方法，可以在R中创建图形.如果您对R语言有基本的了解，那么您就可以开始使用了.
 
 Contributing
 ====
-Your contributions are always welcome and greately appreciated, just follow [the rules](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
+您的贡献随时欢迎并且非常感谢，请关注 [the rules](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可协议授权</a> .

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="TalAter/awesome-book-authoring"></div>
 ## Awesome Book Authoring
-A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for technical book authors.
+一个集合 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）技术书籍作者的资源.
 
 
 
@@ -30,7 +30,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Scott Meyers on Royalties, Advances, and Other Money Stuff](http://www.aristeia.com/authorAdvice.html#moneyStuff)
 - [Royalties and Advances (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#royadv)
-- [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml) - The benefits for writing a technical book, and the basics of how book advances work.
+- [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml) - 撰写技术书籍的好处，以及书籍推进工作的基础知识.
 - [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 - [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
@@ -66,16 +66,16 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Self Publishing
 
-- [Self vs Professional Publishing](https://medium.com/@davetron5000/self-vs-professional-publishing-c3397bd7defd#.lrfhasuo5) - The pros and cons of each, plus a look at many of the options available for self publishing.
+- [Self vs Professional Publishing](https://medium.com/@davetron5000/self-vs-professional-publishing-c3397bd7defd#.lrfhasuo5) - 每个人的利弊，再看看许多可供自我出版的选项.
 
 ## Writing Workflows and Tooling
 
-- [Living the Future of Technical Writing](https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272#.8x6g1wxjb) - Scott Chacon shares his workflow and tools for writing "Pro Git" in Asciidoc.
+- [Living the Future of Technical Writing](https://medium.com/@chacon/living-the-future-of-technical-writing-2f368bd0a272#.8x6g1wxjb) -  Scott Chacon分享了他在Asciidoc中编写“Pro Git”的工作流程和工具.
 
 ## Personal Experiences, Post Mortems and Campfire Stories
 
 - [Writing a Programming Book: FAQs after Writing Learning React Native](https://medium.com/@brindelle/writing-a-programming-book-faqs-after-writing-learning-react-native-8a5ea8ce04e#.e85mhxolh)
-- [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.
-- [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (two of them self published).
-- [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
+- [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - 杰夫阿特伍德警告潜在的作家.
+- [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) -  Adam Tornhill分享了撰写三本书的经验（其中两本是自己出版的）.
+- [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) -  Michael Foord分享了他与Apress一起出版的经历.
 - [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)

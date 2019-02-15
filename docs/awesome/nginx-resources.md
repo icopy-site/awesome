@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="fcambus/nginx-resources"></div>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
+涵盖Nginx，Nginx + Lua，OpenResty和Tengine的资源集合.
 
-This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
+此列表由以下人员维护 [Frederic Cambus](https://www.cambus.net) .  如需更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -138,4 +138,4 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃对此作品的所有版权及相关或相邻权利.

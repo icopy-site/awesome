@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="sfischer13/awesome-eta"></div>
 ## Awesome Eta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Useful resources for the [Eta](https://eta-lang.org/) programming language
+&gt;有用的资源 [Eta](https://eta-lang.org/) 编程语言
 
-You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
+你可能还喜欢 [awesome-haskell](https://github.com/krispo/awesome-haskell).
 
-*Please read the [contribution guidelines](https://github.com/sfischer13/awesome-eta/blob/master/contributing.md) before contributing.*
+*请阅读 [contribution guidelines](https://github.com/sfischer13/awesome-eta/blob/master/contributing.md) 在贡献之前.*
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -19,107 +19,107 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Overview
 
-- [Eta](https://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta on GitHub.
-- [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - Interview about the philosophy behind Eta's development.
+- [Eta](https://eta-lang.org/) - 官方网站.
+- [GitHub](https://github.com/typelead/eta) -  GitHub上的Eta
+- [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - 访谈Eta发展背后的理念.
 
 ### First Steps
 
-- [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
-- [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
-- [Prelude](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
+- [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - 与Eta的第一步.
+- [Tour of Eta](https://tour.eta-lang.org) - 轻松学习功能编程.
+- [Prelude](https://github.com/eta-lang/eta-prelude) - 默认模块，便于启动.
 
 ### Comparisons
 
-- [Eta vs. Haskell](https://eta-lang.org/docs/faq#eta-not-haskell) - Differences between Eta and Haskell.
-- [Eta vs. Frege](https://eta-lang.org/docs/faq#eta-vs-frege) - Differences between Eta and Frege.
+- [Eta vs. Haskell](https://eta-lang.org/docs/faq#eta-not-haskell) -  Eta和Haskell之间的差异.
+- [Eta vs. Frege](https://eta-lang.org/docs/faq#eta-vs-frege) -  Eta和Frege之间的差异.
 
 ### Compatibility
 
-- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
-- [Template Haskell](https://eta-lang.org/docs/faq#eta-repl-support) - Status of Template Haskell.
-- [GHC 8](https://eta-lang.org/docs/faq#is-eta-compatible-ghc8) - Compatibility with GHC 8.
+- [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - 与Eta一起使用的Hackage包.
+- [Template Haskell](https://eta-lang.org/docs/faq#eta-repl-support) - 模板Haskell的状态.
+- [GHC 8](https://eta-lang.org/docs/faq#is-eta-compatible-ghc8) - 与GHC 8的兼容性.
 
 ### Official Resources
 
-- [Documentation](https://eta-lang.org/docs/) - Eta documentation.
-- [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
-- [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
-- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
-- [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
-- [Eta Blog: Java I](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
-- [Eta Blog: Java II](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
-- [Eta Blog: Haskell](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
-- [Eta Blog: Scala](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0) - Using Eta code in Scala projects.
-- [Docker Hub](https://hub.docker.com/r/typelead/eta/) - Docker repo for Eta.
+- [Documentation](https://eta-lang.org/docs/) - 和文件.
+- [Tutorials](https://eta-lang.org/docs/tutorials) - 和教程.
+- [FAQ](https://eta-lang.org/docs/faq) - 经常问的问题.
+- [Tour of Eta](https://tour.eta-lang.org/) - 和.简介.
+- [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - 并参考.
+- [Eta Blog: Java I](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - 使用Eta和Java，第一部分.
+- [Eta Blog: Java II](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - 使用Eta和Java，第二部分.
+- [Eta Blog: Haskell](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - 在Eta代码中使用Haskell包.
+- [Eta Blog: Scala](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0) - 在Scala项目中使用Eta代码.
+- [Docker Hub](https://hub.docker.com/r/typelead/eta/) -  Eta的Docker回购.
 
 ## Community
 
-- [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
-- [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
-- [Slack](https://slack.eta-lang.org/) - Slack channel.
-- [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
-- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
+- [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - 和谷歌集团.
+- [Gitter](https://gitter.im/typelead/eta) -  Gitter通道.
+- [Slack](https://slack.eta-lang.org/) - 松弛的通道.
+- [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) -  IRC频道.
+- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - 班加罗尔和聚会.
 
 ## Twitter
-- [Eta](https://twitter.com/eta_lang) - Official Twitter account.
-- [TypeLead](https://twitter.com/typelead) - Company behind Eta.
-- [Rahul Muttineni](https://twitter.com/rahulmutt) - Creator of Eta and CTO of TypeLead.
+- [Eta](https://twitter.com/eta_lang) - 官方Twitter帐户.
+- [TypeLead](https://twitter.com/typelead) - 公司背后和.
+- [Rahul Muttineni](https://twitter.com/rahulmutt) -  Eta的创建者和TypeLead的CTO.
 
 ## Information
 
 ### Articles
 
-- [InfoWorld](https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - Short article about Eta.
-- [Jaxenter](https://jaxenter.com/eta-pirates-of-the-jvm-133518.html) - Functional programming made easy: Here comes Eta.
+- [InfoWorld](https://www.infoworld.com/article/3157373/java/new-jvm-language-stands-apart-from-scala-clojure.html) - 关于Eta的简短文章.
+- [Jaxenter](https://jaxenter.com/eta-pirates-of-the-jvm-133518.html) - 功能编程变得简单：Eta.
 
 ### Blogs
 
-- [Eta programming language](https://blog.eta-lang.org/) - Official blog.
-- [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
-- [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
+- [Eta programming language](https://blog.eta-lang.org/) - 官方博客.
+- [TypeLead](https://blog.typelead.com/) -  Eta背后的公司博客.
+- [Eta on Android](https://brianmckenna.org/blog/eta_android) - 发布关于在Android上使用Eta的信息.
 
 ### Conferences
 
-- [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming.
+- [ICFP](http://www.icfpconference.org/) - 国际功能规划会议.
 
 ### Courses
 
-- [FP101x](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Introduction to Functional Programming on edX.
+- [FP101x](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) -  edX上的函数编程简介.
 
 ### Talks
 
-- [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - Introduction to the language and its origin.
-- [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
-- [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) - Concurrency on the JVM.
-- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
-- [Functional Conf - 2016](https://www.youtube.com/watch?v=CscBSNF6qnE) - Bringing the Power of Haskell to the JVM.
-- [Functional Conf - 2017](https://www.youtube.com/watch?v=ZuJg2cfmSmw) - Eta Fibers: Towards Better Concurrency on the JVM.
+- [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - 语言及其起源的介绍.
+- [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) -  Eta和Scala的比较.
+- [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) -  JVM上的并发.
+- [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - 关于函数式编程的视频.
+- [Functional Conf - 2016](https://www.youtube.com/watch?v=CscBSNF6qnE) - 将Haskell的强大功能带到JVM.
+- [Functional Conf - 2017](https://www.youtube.com/watch?v=ZuJg2cfmSmw) -  Eta Fibers：在JVM上实现更好的并发性.
 
 ## Tools
 
-- [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
-- [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
+- [sbt](https://github.com/typelead/sbt-eta) - 将Eta集成到Scala中的插件.
+- [gradle](https://github.com/typelead/gradle-eta) -  Eta项目的Gradle插件.
 
 ## Sample Applications
 
 ### Android
 
-- [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
-- [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android.
+- [eta-android](https://github.com/puffnfresh/eta-android) -  Android上的Eta示例.
+- [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - 适用于Android的2048游戏.
 
 ### Web
 
-- [eta-todo](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
-- [eta-yesod-minimal](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) - Example of a Yesod web application in Eta.
+- [eta-todo](https://github.com/Jyothsnasrinivas/eta-todo) - 用Eta编写的Spock Web应用程序示例.
+- [eta-yesod-minimal](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) -  Eta中的Yesod Web应用程序示例.
 
 ### Miscellaneous
 
-- [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code.
-- [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
+- [eta-examples](https://github.com/typelead/eta-examples) -  Eta代码示例.
+- [eta-2048](https://github.com/rahulmutt/eta-2048) - 用Eta写的2048年游戏.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Stefan Fischer](https://github.com/sfischer13) 已放弃对此作品的所有版权及相关或相邻权利.

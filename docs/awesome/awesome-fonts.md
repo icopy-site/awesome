@@ -1,111 +1,111 @@
 <div class="github-widget" data-repo="brabadu/awesome-fonts"></div>
 ## Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of fonts and typography resources.
+精选的字体和排版资源列表.
 
 
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
-* [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-* [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
+* [Fontjoy](http://fontjoy.com/) - 通过深度学习生成字体组合
+* [Fonts In Use](https://fontsinuse.com/) - 排版公共档案
 * [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
 
 #### Collections
-* [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
-* [Gidole](http://gidole.github.io/) - Open source, modern DIN
+* [Font Squirrel](https://www.fontsquirrel.com/) - 来自各种代工厂的精选免费字体集合
+* [Gidole](http://gidole.github.io/) - 开源，现代DIN
 * [Google Fonts](https://fonts.google.com/)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
-  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
-  * [Roboto](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
-* [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
-* [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
+  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - 所有语言的国际化字体，丰富的CJK和表情符号支持
+  * [Roboto](https://github.com/google/roboto) -  Android和ChromeOS上的默认字体，以及Material Design的推荐字体
+* [Indestructible Type](https://github.com/indestructible-type) - 开源字体代工厂
+* [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - 开源型运动
   * [Chunk](https://www.theleagueofmoveabletype.com/chunk)
   * [Junction](https://www.theleagueofmoveabletype.com/junction)
   * [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)
-  * ... And more
-* [Overpass](http://overpassfont.org/) - An open source font family inspired by Highway Gothic
-* [Zilla Slab](https://github.com/mozilla/zilla-slab) - Mozilla font
-* [Plex](https://github.com/IBM/plex) - IBM's open source font
-* [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
+  * ... 和更多
+* [Overpass](http://overpassfont.org/) - 源自Highway Gothic的开源字体系列
+* [Zilla Slab](https://github.com/mozilla/zilla-slab) -  Mozilla字体
+* [Plex](https://github.com/IBM/plex) -  IBM的开源字体
+* [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - 来自DOS时代PC的文本模式字体，系统字体和BIOS字体的集合
 
 #### Fonts
-* [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
-* [AtF Spark](https://aftertheflood.co/projects/sparks/) - Font designed to create sparklines
-* [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
-* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
-* [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
-* [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+* [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - 参数变量字体
+* [AtF Spark](https://aftertheflood.co/projects/sparks/) - 设计用于创建迷你图的字体
+* [Barlow](https://github.com/jpt/barlow) - 一个grotesk变量字体超家族
+* [Inter](https://github.com/rsms/inter) - 专为用户界面设计的字体
+* [Libre Franklin](https://github.com/impallari/Libre-Franklin) - 基于Morris Fuller Benton 1912年经典的解释和扩展.
+* [Manrope](https://github.com/sharanda/manrope) - 现代几何sans-serif
 * [Open Baskerville](http://klepas.org/openbaskerville/)
-* [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
+* [Redacted](https://github.com/christiannaths/Redacted-Font) - 保持您的线框不会分散Lorem Ipsum的注意力
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
 ## Emojis
-* [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
-* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
-* [emoji-data-js](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
-* [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
-* [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
-* [emoji-rspec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
-* [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
-* [emoji](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
-* [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind
-* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
-* [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
-* [emojify.js](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-* [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line
-* [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
-* [emojillate](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
-* [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
-* [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
-* [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
-* [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
-* [gemoji](https://github.com/github/gemoji) - Emoji images and names
-* [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
-* [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
-* [megamoji](https://github.com/muan/megamoji) - Making megamojis like a pro
-* [mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
-* [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
-* [php-emoji](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
-* [twemoji](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
-* [vim-emoji](https://github.com/junegunn/vim-emoji) - Emoji in Vim
+* [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - 用于搜索表情符号代码的Alfred 2工作流程
+* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - 在Campfire和GitHub上使用emojis的一个寻呼机
+* [emoji-data-js](https://github.com/mroth/emoji-data-js) - 用于NodeJS的瑞士军刀的表情符号
+* [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) - 用emojis制作的扫雷游戏
+* [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - 正则表达式，根据Unicode标准匹配所有仅符号表情符号
+* [emoji-rspec](https://github.com/cupakromer/emoji-rspec) -  RSpec的自定义表情符号格式化程序
+* [emoji-translate](https://github.com/notwaldorf/emoji-translate) - 将文本翻译成表情符号
+* [emoji](https://github.com/leereilly/emoji) -  GitHub上支持的所有表情符号都会提取请求，问题，评论，提交消息，降价文件等
+* [emoji](https://github.com/muan/emoji) - 找到回忆你的表情符号
+* [emoji](https://github.com/wpeterson/emoji)   - 一颗宝石.  对于表情符号.  为了所有人.
+* [emojidex](https://github.com/emojidex/emojidex) - 表情符号即服务提供商和一套工具和资产
+* [emojify.js](https://github.com/emojione/emojify.js) - 用于将表情符号关键字转换为图像的Javascript模块
+* [emojify](https://github.com/mrowa44/emojify) - 命令行上的表情符号
+* [emojilib](https://github.com/muan/emojilib) - 表情符号关键字库
+* [emojillate](https://github.com/notwaldorf/emojillate) - 将图像映像为表情符号
+* [emojione](https://github.com/emojione/emojione) -  EmojiOne™是开放式表情符号标准
+* [emojistatic](https://github.com/mroth/emojistatic) - 表情符号的CDN静态资产生成
+* [emojitracker](https://github.com/mroth/emojitracker) - 跟踪所有表情符号
+* [emojize](https://github.com/ded/emojize) - 高分辨率，unicode（表情符号）到HTML转换实用程序.
+* [gemoji](https://github.com/github/gemoji) - 表情符号图像和名称
+* [gh-emoji](https://github.com/zzarcon/gh-emoji) -  Github表情符号解析完成正确
+* [node-emoji](https://github.com/omnidan/node-emoji) - 对Node.js的简单表情符号支持
+* [megamoji](https://github.com/muan/megamoji) - 让megamojis像专业人士一样
+* [mojibar](https://github.com/muan/mojibar) - 表情符号搜索者，但作为菜单栏应用程序
+* [mojime](https://github.com/JuanitoFatas/mojime) - 输出随机表情符号
+* [php-emoji](https://github.com/iamcal/php-emoji) -  PHP表情符号转换库
+* [twemoji](https://github.com/twitter/twemoji) - 每个人的Twitter表情符号
+* [vim-emoji](https://github.com/junegunn/vim-emoji) -  Vim的表情符号
 
 ## Iconic fonts
-* [Appa Sariicon](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
-* [Country Icons](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
-* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
-* [Font Custom](https://github.com/FontCustom/fontcustom) - Icon font generator
-* [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
-* [font-mfizz](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
-* [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
-* [fontello](http://fontello.com) - Iconic fonts scissors
-  * [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
-  * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) - Open Source iconic font from Fontello project
-  * [typicons.font](http://fontello.github.io/typicons.font/demo.html) - Transformed Typicons
-* [IcoMoon-Free](https://icomoon.io) - A package of flat vector icons together with an installable ligature font
-* [Iconic](https://github.com/somerandomdude/Iconic) - Icon set in raster, vector and font formats
-* [icono](https://saeedalipoor.github.io/icono/) - One tag One icon, no font or svg, Pure CSS
-* [ionicons](http://ionicons.com/) - The premium icon font for Ionic
-* [Map Icons](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
-* [Material design icons](https://github.com/google/material-design-icons) - Official icon set from Google
-* [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
-* [Micon](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
-* [octicons](https://octicons.github.com/) - GitHub's icon font
-* [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
-* [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
-* [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
-* [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
-* [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
-* [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit
-* [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
+* [Appa Sariicon](https://github.com/sariina/appa-sariicon) -  147 8位复古风格webfont图标形成网络和移动
+* [Country Icons](https://github.com/lipis/flag-icon-css) -  SVG和CSS中所有国家标志的集合
+* [Evil Icons](http://evil-icons.io/) 简单干净的SVG图标包，其代码支持Rails，Sprockets，Node.js，Gulp，Grunt和CDN
+* [Font Custom](https://github.com/FontCustom/fontcustom) - 图标字体生成器
+* [Font-Awesome](https://fontawesome.com) - 标志性的字体和CSS工具包
+* [font-mfizz](https://github.com/fizzed/font-mfizz) - 技术和软件极客的矢量图标
+* [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)   -  iOS的图标字体库.  目前支持Font-Awesome，Foundation图标，Zocial和ionicons.
+* [fontello](http://fontello.com) - 标志性字体剪刀
+  * [brandico.font](http://fontello.github.io/brandico.font/demo.html) - 带有社交服务和消息的徽标的字体
+  * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) - 来自Fontello项目的开源标志性字体
+  * [typicons.font](http://fontello.github.io/typicons.font/demo.html) - 转型典型
+* [IcoMoon-Free](https://icomoon.io) - 一套平面矢量图标以及可安装的结扎字体
+* [Iconic](https://github.com/somerandomdude/Iconic) - 图标设置为光栅，矢量和字体格式
+* [icono](https://saeedalipoor.github.io/icono/) - 一个标签一个图标，没有字体或svg，纯CSS
+* [ionicons](http://ionicons.com/) -  Ionic的高级图标字体
+* [Map Icons](https://github.com/scottdejonge/map-icons) - 使用SVG标记和图标标签与Google Maps API和Google Places API一起使用的字体
+* [Material design icons](https://github.com/google/material-design-icons) - 来自Google的官方图标集
+* [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) -  MFG Labs的令人敬畏的网络字体图标
+* [Micon](https://github.com/xtoolkit/Micon) - 标志性的Windows 10字体和CSS工具包
+* [octicons](https://octicons.github.com/) -  GitHub的图标字体
+* [openwebicons](https://pfefferle.github.io/openwebicons/) - 因为Font Awesome没有RSS图标，只有一个图标的字体会有点无聊
+* [PaymentFont](https://paymentfont.com/) - 一个时尚的webfont包含所有主要支付运营商和方法的94个图标
+* [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - 一组用于显示时间戳的视觉（“模拟”）表示的图标
+* [stackicons](https://github.com/parkerbennett/stackicons) - 用于Stackicons-Social的Icon字体和基于Sass的构建工具包，支持多种按钮形状和CSS中独特的“多色”选项，适用于60多个社交品牌
+* [svg-icon](https://leungwensen.github.io/svg-icon/) - 正确完成的终极SVG图标集
+* [typicons.font](http://s-ings.com/typicons/) -  336像素完美，通用矢量图标在web字体工具包中
+* [weather-icons](http://erikflowers.github.io/weather-icons/) -  189个以Font Awesome为灵感的天气主题图标，为Bootstrap做好准备
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
-* [Zocial](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
-  * [CSS social buttons](https://github.com/smcllns/css-social-buttons) - Entirely vector-based social buttons
+* [Zocial](https://github.com/adamstac/zocial) -  Sass和Compass CSS3社交按钮框架
+  * [CSS social buttons](https://github.com/smcllns/css-social-buttons) - 完全基于矢量的社交按钮
 
 ## Programming fonts
 * [Adobe Fonts](https://github.com/adobe-fonts)
@@ -114,38 +114,38 @@ A curated list of fonts and typography resources.
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Codeface](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Codeface](https://github.com/chrissimpkins/codeface) - 面向开发人员的等宽字体库
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
-* [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
+* [Go Fonts](https://blog.golang.org/go-fonts) -  Golang Project的开源字体
 * [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
-* [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-* [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
-* [Meslo-Font](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Input](http://input.fontbureau.com) - 专为代码设计的灵活字体系统
+* [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - 几何等宽字体
+* [Meslo-Font](https://github.com/andreberg/Meslo-Font) -  Apple的Menlo字体的定制版本
 * [Mononoki](http://madmalik.github.io/mononoki/)
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
-* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting.
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - 为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集超过20个修补字体
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/) -  200美元的高级编程字体，受打字传统的启发.
 
 
 #### Programming fonts with ligatures
-* [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+* [FiraCode](https://github.com/tonsky/FiraCode) - 具有编程连字的等宽字体
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
-* [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+* [Iosevka](https://github.com/be5invis/Iosevka)   - 用于编程的空间高效的等宽字体系列.  根据代码构建.
 * [Monoid](https://github.com/larsenwork/monoid)
-* [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Proprietary font with special ligatures for Haskell, Agda, APL, etc
-* [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant.
+* [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - 专有字体，带有用于Haskell，Agda，APL等的特殊连接
+* [Dank Mono](https://dank.sh/) - 具有令人愉快的连字和斜体变体的高级编程字体.
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
-* [fontkit](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
-* [fontmin](https://github.com/ecomfe/fontmin) - Font minifier
+* [fontkit](https://github.com/devongovett/fontkit) -  Node和浏览器的高级字体引擎（[demo](https://fontkit-demo.now.sh/))
+* [fontmin](https://github.com/ecomfe/fontmin) - 字体缩小器
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
-* [localFont](https://github.com/jaicab/localFont) - Save fonts in localStorage
-* [opentype.js](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
-* [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
-* [Typeset.js](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
-* [Typr.js](https://github.com/photopea/Typr.js) - Parser and utility for working with fonts (TTF, OTF)
+* [localFont](https://github.com/jaicab/localFont) - 在localStorage中保存字体
+* [opentype.js](https://github.com/nodebox/opentype.js) - 用于TrueType和OpenType字体的解析器和编写器
+* [Typefont](https://github.com/Sir-Vasile/Typefont) - 尝试识别照片中文本字体的算法
+* [Typeset.js](https://github.com/davidmerfield/typeset) - 用于Web排版的HTML预处理器
+* [Typr.js](https://github.com/photopea/Typr.js) - 用于处理字体的分析器和实用程序（TTF，OTF）
 
 #### Event listeners for fonts loading on a web page
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver)
@@ -162,10 +162,10 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
-* [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
-* [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
-* [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
-* [TruFont](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+* [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - 上传OTF或TTF字体，接收网页字体
+* [FontForge](https://github.com/fontforge/fontforge) - 跨平台字体编辑器
+* [Powerline Fonts](https://github.com/powerline/fonts) -  Powerline用户的补丁字体
+* [TruFont](https://github.com/trufont/trufont) - 流线型和黑客字体编辑器
 
 ## License
 
@@ -173,4 +173,4 @@ A curated list of fonts and typography resources.
 
 ## Contribution
 
-Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
+随意提出拉动请求. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).

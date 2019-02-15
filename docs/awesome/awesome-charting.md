@@ -2,72 +2,72 @@
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
-A curated list of chart and dataviz resources that developers may find useful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
+ 开发人员可能认为有用的图表和dataviz资源的精选列表.  针对不同的用例，专注于相关且当前活跃的JavaScript图表库.  在每个类别中按字母顺序排序.
 
-*Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
+*受到<a href="https://github.com/sindresorhus/awesome">令人敬畏</a>的启发.*
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 
 ## Commercial Libraries
-* [amCharts](https://www.amcharts.com/) - Three libraries for traditional charts, stock, and maps. Features a hand-drawn style theme option.
-* [AnyChart](http://www.anychart.com/) - Set of products for charting different types of data. Has a special Oracle Apex integration option.
-* [CanvasJS](http://canvasjs.com/) - A tight set of chart types in a library with a small file size. Different looking default theme than other commercial libraries.
-* [FusionCharts](http://www.fusioncharts.com/) - Charting library with a strong maps component.
-* [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
-* [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
+* [amCharts](https://www.amcharts.com/)   - 传统图表，股票和地图的三个库.  拥有手绘风格主题选项.
+* [AnyChart](http://www.anychart.com/)   - 用于绘制不同类型数据的产品集.  有一个特殊的Oracle Apex集成选项.
+* [CanvasJS](http://canvasjs.com/)   - 文件夹较小的库中的一组紧凑的图表类型.  不同的外观默认主题比其他商业图书馆.
+* [FusionCharts](http://www.fusioncharts.com/) - 使用强大的地图组件绘制图表库.
+* [Highcharts](http://www.highcharts.com/)   - 一系列用于各种用途的图表库.  可以兼容回IE6.
+* [ZingChart](http://www.zingchart.com)   - 内置渲染大型数据集，其他库无法处理.  经常添加超级可定制的样式和新功能.  一个模块化库中的所有东西.
 
 ## Free and Open Source Libraries
-* [C3.js](http://c3js.org/) - D3 based reusable chart library.
-* [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types.
-* [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
-* [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
-* [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
-* [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
-* [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
-* [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
-* [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
-* [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
-* [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
-* [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
-* [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
-* [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
-* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
-* [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
-* [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
-* [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
+* [C3.js](http://c3js.org/) - 基于D3的可重复使用的图表库.
+* [Chart.js](http://www.chartjs.org/) - 小型图书馆（11kb！），包括核心图表类型.
+* [Chartist](https://gionkunz.github.io/chartist-js/) - 简单，轻量级的图表库，使用SVG渲染图表，CSS用于样式化.
+* [Chartkick](https://github.com/ankane/chartkick) - 使用一行Ruby的JavaScript图表.
+* [D3.js](https://d3js.org/) - 允许用户根据数据操作文档以在SVG中呈现图表.
+* [dc.js](https://dc-js.github.io/dc.js/) -  D3图书馆 [crossfilter](http://square.github.io/crossfilter/) 支持
+* [dygraphs](https://github.com/danvk/dygraphs) - 交互式可缩放时间序列图表.
+* [ECharts](https://github.com/ecomfe/echarts) - 一个功能强大的浏览器图表和可视化库.
+* [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - 企业就绪图表库.
+* [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 由WebGL驱动的3D图形查看器（three.js）
+* [Morris.js](http://morrisjs.github.io/morris.js) - 用于渲染线条，条形图，区域图和圆环图的简单API
+* [Plotly](https://github.com/plotly/plotly.js) - 建立在d3和stack.gl之上，允许用户创建基本图表和SVG地图.
+* [Plottable](https://github.com/palantir/plottable) - 具有OOP样式语法的库来构建图表.
+* [rgraph](http://www.rgraph.net/) - 谷歌表导入功能的2D / 3D javascript图表.
+* [sigma.js](https://github.com/jacomyal/sigma.js) - 使用canvas构建的图形/网络图库.
+* [Smoothie Charts](https://github.com/joewalnes/smoothie) - 实时流数据的JavaScript图表.
+* [TauCharts](https://www.taucharts.com/)   - 独特的语法，允许开发人员使用DSL描述数据.  有能力创建方面.
+* [uvCharts](https://github.com/imaginea/uvCharts) - 使用d3.js构建的JavaScript Charting库
+* [vis.js](http://visjs.org/) - 网络图，带标签的描述性时间线，以及3D图形.
 
 ## Free Libraries
-* [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
+* [Google Charts](https://developers.google.com/chart/)   - （当然）拨打地图和一些很酷的动画选项.  广泛的文档和使用社区（论坛）.
 
 ## Framework-Specific Libraries
 ### Angular
-* [Angular-Chart](http://jtblin.github.io/angular-chart.js)- Simple API to render line, bar, area, and donut charts
-* [n3-charts](https://github.com/n3-charts/line-chart) - Easy to use library written with AngularJS, rendering charts with D3.
-* [Angular-scale](https://github.com/kirillstepkin/scale) - Simple and lightweight library for creating line charts
+* [Angular-Chart](http://jtblin.github.io/angular-chart.js)- 用于渲染线条，条形图，区域图和圆环图的简单API
+* [n3-charts](https://github.com/n3-charts/line-chart) - 使用AngularJS编写的易于使用的库，使用D3渲染图表.
+* [Angular-scale](https://github.com/kirillstepkin/scale) - 用于创建折线图的简单轻量级库
 
 ### Ember
-* [Ember Charts](http://addepar.github.io/ember-charts/#/overview) - Five basic chart types ready to go in Ember.js projects.
+* [Ember Charts](http://addepar.github.io/ember-charts/#/overview) - 准备进入Ember.js项目的五种基本图表类型.
 
 ### jQuery
-* [Flot](http://www.flotcharts.org/) - A JavaScript charting library for jQuery. Contains useful chart types but looks like it may no longer be in active development.
-* [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
-* [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
-* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
+* [Flot](http://www.flotcharts.org/)   -  jQuery的JavaScript图表库.  包含有用的图表类型，但看起来它可能不再处于活动开发中.
+* [jqPlot](http://www.jqplot.com)   - 用于绘制图表的开源jQuery插件.  包含许多常用功能，但可能对这些项使用不同的命名约定.
+* [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - 在SVG，Canvas和VML中渲染大量图表类型.
+* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - 用于创建折线图的简单轻量级库
 
 ### React
-* [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-* [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
-* [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
-* [recharts](http://recharts.org) - Redefined chart library built with React and D3
+* [Formiddable](https://github.com/FormidableLabs/victory) - 用于构建交互式数据可视化的可组合React组件的集合
+* [react-d3](https://github.com/esbullington/react-d3) - 图表库依赖React生成SVG标记，d3计算路径值.
+* [react-vis](https://github.com/uber-common/react-vis) -  React组件的集合，用于呈现通用数据可视化图表
+* [recharts](http://recharts.org) - 使用React和D3构建的重新定义的图表库
 
 
 ## Data Visualization Resources
-* [Dataviz Catalogue](http://datavizcatalogue.com) - A place to go when you're wondering which chart type is best. A project by Severino Ribecca.
-* [Evergreen Data](http://stephanieevergreen.com) - Information and opinions on presenting data more effectively.
-* [Flowing Data](http://flowingdata.com) - A resource on maps, visualizations, stats, and design by Nathan Yau, formerly of the New York Times.
-* [Junk Charts](http://junkcharts.typepad.com) - Dataviz critic (and Columbia professor) Kaiser Fung breaks down data visualizations to identify what is wrong and recommends ways to make them better.
-* [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
-* [Visualizing Data](http://www.visualisingdata.com) - Dataviz consultant Andy Kirk compiles examples, resources, and reference materials on the subject of charting and visualization.
-* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.
+* [Dataviz Catalogue](http://datavizcatalogue.com)   - 当您想知道哪种图表类型最佳时，可以去的地方.  Severino Ribecca的一个项目.
+* [Evergreen Data](http://stephanieevergreen.com) - 更有效地提供数据的信息和意见.
+* [Flowing Data](http://flowingdata.com) - 纽约时报前身为Nathan Yau的地图，可视化，统计和设计资源.
+* [Junk Charts](http://junkcharts.typepad.com) -  Dataviz评论家（和哥伦比亚大学教授）Kaiser Fung打破了数据可视化，找出了什么是错误的，并提出了改善它们的方法.
+* [The Functional Art](http://www.thefunctionalart.com) - 着名数据可视化作者和Aberto Cairo教授关于dataviz趋势和最佳实践的博客.
+* [Visualizing Data](http://www.visualisingdata.com) -  Dataviz顾问Andy Kirk编写有关图表和可视化主题的示例，资源和参考资料.
+* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - 世界经济论坛之前Moritz Stefaner关于信息可视化和设计的思想文章.

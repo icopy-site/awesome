@@ -3,17 +3,17 @@
 
 ## Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> :crystal_ball: A curated list of awesome [Browserify](https://github.com/substack/node-browserify) resources, libraries, and tools.
+&gt;：crystal_ball：精彩的精选列表 [Browserify](https://github.com/substack/node-browserify) 资源，库和工具.
 
-Please help improve this list by [contributing](https://github.com/browserify/awesome-browserify/blob/master/contributing.md)!
+请帮助改进此列表 [contributing](https://github.com/browserify/awesome-browserify/blob/master/contributing.md)!
 
 
 
 ## About
 
-Browserify lets you `require('modules')` in the browser by bundling up all of your dependencies.
+Browserify通过捆绑所有依赖项，让您在浏览器中“需要（&#39;modules&#39;）`.
 
-You can use a node-style `require()` to organize your browser code and load modules installed by npm. Browserify will recursively analyze all the `require()` calls in your app in order to build a bundle you can serve up to the browser in a single `<script>` tag.
+ 您可以使用节点样式的`require（）`来组织浏览器代码并加载由npm安装的模块.  Browserify将递归地分析你的应用程序中的所有`require（）`调用，以便构建一个可以在一个浏览器中提供服务的软件包. <script>` tag.
 
 ## Official Resources
 
@@ -33,7 +33,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 - [Hello World with Browserify](http://browserify.org/#middle-section)
 - [Browserify Adventure](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
-- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
+- [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) （中文）
 
 ## Articles
 
@@ -47,65 +47,65 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Demos
 
-- [Canvas Splitter](http://requirebin.com/?gist=maxogden/9576799) by [hughsk](http://github.com/hughsk)
-- [Infinite 2D Cave Generator](http://requirebin.com/?gist=maxogden/9557700) by [hughsk](http://github.com/hughsk)
-- [2D Velocity Control](http://requirebin.com/?gist=maxogden/9557776) by [sethvincent](http://github.com/sethvincent)
+- [Canvas Splitter](http://requirebin.com/?gist=maxogden/9576799) 通过 [hughsk](http://github.com/hughsk)
+- [Infinite 2D Cave Generator](http://requirebin.com/?gist=maxogden/9557700) 通过 [hughsk](http://github.com/hughsk)
+- [2D Velocity Control](http://requirebin.com/?gist=maxogden/9557776) 通过 [sethvincent](http://github.com/sethvincent)
 
 ## Videos
 
 - [James Halliday (substack) - LXJS 2013 - Modularidade para todos](https://www.youtube.com/watch?v=DCQNm6yiZh0)
-- [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U) by [shama](https://github.com/shama/)
-- [Transform your Bundles with Browserify](https://www.youtube.com/watch?v=Uk2bgp8OLT8) by [shama](https://github.com/shama/)
+- [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U) 通过 [shama](https://github.com/shama/)
+- [Transform your Bundles with Browserify](https://www.youtube.com/watch?v=Uk2bgp8OLT8) 通过 [shama](https://github.com/shama/)
 
 ## Tools
 
 ### Development Servers
 
-- [budo](https://github.com/mattdesl/budo) - Dev server for rapid prototyping.
-- [beefy](https://github.com/chrisdickinson/beefy) - Local development server that aims to make using browserify fast and fun.
-- [wzrd](https://github.com/maxogden/wzrd) - Super minimal browserify development server.
+- [budo](https://github.com/mattdesl/budo) - 用于快速原型设计的开发服务器.
+- [beefy](https://github.com/chrisdickinson/beefy) - 本地开发服务器，旨在使浏览器快速和有趣.
+- [wzrd](https://github.com/maxogden/wzrd) - 超级最小的browserify开发服务器.
 
 ### Plugins
 
-- [browserify-hmr](https://github.com/AgentME/browserify-hmr) - Hot Module Replacement plugin for Browserify.
+- [browserify-hmr](https://github.com/AgentME/browserify-hmr) -  Browserify的热模块替换插件.
 
 ### Watchers
 
-- [watchify](https://github.com/substack/watchify) - Watch mode for browserify builds.
-- [persistify](https://github.com/royriojas/persistify) - Wrapper around `browserify` to make incremental builds.
+- [watchify](https://github.com/substack/watchify) - 浏览器构建的监视模式.
+- [persistify](https://github.com/royriojas/persistify) - 围绕`browserify`的包装器进行增量构建.
 
 ### CSS bundlers
 
-- [sheetify](https://github.com/stackcss/sheetify) - Modular CSS bundler for browserify.
-- [parcelify](https://github.com/rotundasoftware/parcelify) - Add css to your npm modules consumed with browserify.
-- [css-modulesify](https://github.com/css-modules/css-modulesify) - Browserify plugin to load CSS Modules.
+- [sheetify](https://github.com/stackcss/sheetify) - 用于browserify的模块化CSS捆绑器.
+- [parcelify](https://github.com/rotundasoftware/parcelify) - 将css添加到browserify使用的npm模块中.
+- [css-modulesify](https://github.com/css-modules/css-modulesify) -  Browserify插件加载CSS模块.
 
 ### Transforms
 
-- [babelify](https://github.com/babel/babelify) - Browserify transform for babel.
-- [aliasify](https://github.com/benbria/aliasify) - Remap require calls at build time.
-- [brfs](https://github.com/substack/brfs) - `fs.readFileSync()` and `fs.readFile()` static asset browserify transform.
+- [babelify](https://github.com/babel/babelify) -  Browserify变换为babel.
+- [aliasify](https://github.com/benbria/aliasify) - 重新映射需要在构建时调用.
+- [brfs](https://github.com/substack/brfs) - `fs.readFileSync（）`和`fs.readFile（）`静态资产browserify转换.
 
 ### Node in the Browser
 
-- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
-- [stream-browserify](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
-- [buffer](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
-- [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
+- [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - 节点的“加密”模块的端口到浏览器.
+- [stream-browserify](https://github.com/substack/stream-browserify) - 来自节点核心的`stream`模块，用于浏览器！
+- [buffer](https://github.com/feross/buffer) - 来自node.js的`buffer`模块，用于浏览器.
+- [requirebin](http://requirebin.com/) - 使用NPM中的模块编写浏览器JavaScript程序.
 
 ### Production Tools
 
-- [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
-- [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
+- [wzrd.in](https://wzrd.in/)   -  Browserify CDN.  Browserify作为一种增值服务！
+- [bankai](https://github.com/yoshuawuyts/bankai)   -  DIY资产服务器.  将HTML，CSS和JS作为流提供.
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](https://github.com/browserify/awesome-browserify/blob/master/contributing.md) before getting started.
+ 欢迎捐款！  请阅读 [contributing guidelines](https://github.com/browserify/awesome-browserify/blob/master/contributing.md) 在开始之前.
 
 ## License
 
-The [browserify logo](https://raw.githubusercontent.com/browserify/awesome-browserify/master/browserify.png) is by [substack](https://github.com/substack).
+The [browserify logo](https://raw.githubusercontent.com/browserify/awesome-browserify/master/browserify.png) 是 [substack](https://github.com/substack).
 
-All other content is released to the public domain under [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
+所有其他内容都将发布到公共领域 [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

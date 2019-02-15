@@ -1,120 +1,120 @@
 <div class="github-widget" data-repo="jbhuang0604/awesome-computer-vision"></div>
 
 ## Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+精选的精彩计算机视觉资源列表，受到启发 [awesome-php](https://github.com/ziadoz/awesome-php).
 
-For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
+有关计算机视觉的人员列出了他们的学术谱系，请访问 [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang1@illinois.edu) to add links.
+请随时发送给我 [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) 或发送电子邮件（jbhuang1@illinois.edu）以添加链接.
 
 
 
 ## Books
 
 #### Computer Vision
-* [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
-* [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Rick Szeliski 2010
-* [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) - David Forsyth and Jean Ponce 2011
-* [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman 2004
-* [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
-* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
-* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
-* [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
-* [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
-* [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
+* [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) -  Simon JD Prince 2012
+* [Computer Vision: Theory and Application](http://szeliski.org/Book/) -  Rick Szeliski 2010
+* [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) -  David Forsyth和Jean Ponce 2011
+* [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) -  Richard Hartley和Andrew Zisserman 2004
+* [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) -  Linda G. Shapiro 2001
+* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) -  Stephen E. Palmer 1999
+* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) -  Kristen Grauman和Bastian Leib 2011
+* [Computer Vision for Visual Effects](http://cvfxbook.com/) -  Richard J. Radke，2012
+* [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) -  Reinhard，E.，Heidrich，W.，Debevec，P.，Pattanaik，S.，Ward，G.，Myszkowski，K 2010
+* [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) -  Justin Solomon 2015
 
 #### OpenCV Programming
-* [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
-* [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) - Adrian Rosebrock
-* [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) - Oscar Deniz Suarez, Mª del Milagro Fernandez Carrobles, Noelia Vallez Enano, Gloria Bueno Garcia, Ismael Serrano Gracia
+* [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) -  Gary Bradski和Adrian Kaehler
+* [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) - 阿德里安·罗斯布罗克
+* [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) -  Oscar Deniz Suarez，MªdelMilagro Fernandez Carrobles，Noelia Vallez Dwarf，Gloria Bueno Garcia，Ismael Serrano Gracia
 
 #### Machine Learning
-* [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
-* [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) - Christopher M. Bishop 1995
-* [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman 2009
-* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
-* [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) - Tom M. Mitchell 1997
-* [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
+* [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) -  Christopher M. Bishop 2007
+* [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) -  Christopher M. Bishop 1995
+* [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) -  Daphne Koller和Nir Friedman 2009
+* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -  Peter E. Hart，David G. Stork和Richard O. Duda 2000
+* [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) -  Tom M. Mitchell 1997
+* [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -  Carl Edward Rasmussen和Christopher KI Williams 2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
-* [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - David Barber, Cambridge University Press, 2012
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) -  Michael Nielsen 2014
+* [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) -  David Barber，剑桥大学出版社，2012年
 
 #### Fundamentals
- * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
+ * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - 吉尔伯特斯特兰德1995年
 
 ## Courses
 
 #### Computer Vision
- * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
- * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
- * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
- * Visual Recognition [Spring 2016](http://vision.cs.utexas.edu/381V-spring2016/), [Fall 2016](http://vision.cs.utexas.edu/381V-fall2016/) - Kristen Grauman (UT Austin)
- * [Language and Vision](http://www.tamaraberg.com/teaching/Spring_15/) - Tamara Berg (UNC Chapel Hill)
+ * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - 威廉霍夫（科罗拉多矿业学院）
+ * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) -  Alexei A. Efros和Trevor Darrell（加州大学伯克利分校）
+ * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - 史蒂夫塞茨（华盛顿大学）
+ *视觉识别 [Spring 2016](http://vision.cs.utexas.edu/381V-spring2016/), [Fall 2016](http://vision.cs.utexas.edu/381V-fall2016/) - 克里斯汀格劳曼（UT奥斯汀）
+ * [Language and Vision](http://www.tamaraberg.com/teaching/Spring_15/) - 塔玛拉伯格（UNC教堂山）
  * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) - Fei-Fei Li and Andrej Karpathy (Stanford University)
- * [Computer Vision](http://cs.nyu.edu/~fergus/teaching/vision/index.html) - Rob Fergus (NYU)
- * [Computer Vision](https://courses.engr.illinois.edu/cs543/sp2015/) - Derek Hoiem (UIUC)
+ * [Computer Vision](http://cs.nyu.edu/~fergus/teaching/vision/index.html) - 罗布弗格斯（NYU）
+ * [Computer Vision](https://courses.engr.illinois.edu/cs543/sp2015/) -  Derek Hoiem（UIUC）
  * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
  * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
- * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (MIT)
- * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (RWTH Aachen University)
- * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (RWTH Aachen University)
- * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL):
- * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
- * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
- * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
+ * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - 安东尼奥托拉尔巴和比尔弗里曼（麻省理工学院）
+ * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) -  Bastian Leibe（亚琛工业大学）
+ * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) -  Bastian Leibe（亚琛工业大学）
+ * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua（EPFL）：
+ * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother（德累斯顿工业大学）：
+ * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother（德累斯顿工业大学）：
+ * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers（慕尼黑工业大学）：
 
 
 
 
 #### Computational Photography
-* [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
-* [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
-* [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (UIUC)
-* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (Brown University)
-* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (MIT)
-* [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (MIT Media Lab)
-* [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (Georgia Tech)
-* [Courses in Graphics](http://graphics.stanford.edu/courses/) - Stanford University
-* [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (NYU)
-* [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
-* [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
-* [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
-* [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+* [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) -  Alexei A. Efros（加州大学伯克利分校）
+* [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) -  Alexei A. Efros（CMU）
+* [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) -  Derek Hoiem（UIUC）
+* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - 詹姆斯海斯（布朗大学）
+* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) -  Fredo Durand（麻省理工学院）
+* [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) -  Ramesh Raskar（麻省理工学院媒体实验室）
+* [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) -  Irfan Essa（佐治亚理工学院）
+* [Courses in Graphics](http://graphics.stanford.edu/courses/) - 斯坦福大学
+* [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - 罗布弗格斯（NYU）
+* [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) -  Kyros Kutulakos（多伦多大学）
+* [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) -  Kyros Kutulakos（多伦多大学）
+* [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) -  Rich Radke（伦斯勒理工学院）
+* [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) -  Rich Radke（伦斯勒理工学院）
 
 #### Machine Learning and Statistical Learning
- * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford University)
- * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (Caltech)
- * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (Stanford University)
- * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
- * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
- * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
- * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge)
- * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (Stanford)
- * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
- * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
- * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
+ * [Machine Learning](https://www.coursera.org/learn/machine-learning) -  Andrew Ng（斯坦福大学）
+ * [Learning from Data](https://work.caltech.edu/telecourse.html) -  Yaser S. Abu-Mostafa（加州理工学院）
+ * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) -  Trevor Hastie和Rob Tibshirani（斯坦福大学）
+ * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) -  Tomaso Poggio，Lorenzo Rosasco，Carlo Ciliberto，Charlie Frogner，Georgios Evangelopoulos，Ben Deen（麻省理工学院）
+ * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) -  Genevera Allen（莱斯大学）
+ * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - 迈克尔乔丹（加州大学伯克利分校）
+ * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) -  David MacKay（剑桥大学）
+ * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) -  Lester Mackey（斯坦福大学）
+ * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) -  Andrew Zisserman（牛津大学）
+ * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) -  Sebastian Thrun（斯坦福大学）
+ * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) -  Charles Isbell，Michael Littman（乔治亚理工学院）
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
- * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (TU Munich)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - 鲁道夫特里贝尔（TU慕尼黑）
 
 
 
 #### Optimization
- * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
- * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
- * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
- * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
- * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
+ * [Convex Optimization I](http://stanford.edu/class/ee364a/) - 斯蒂芬博伊德（斯坦福大学）
+ * [Convex Optimization II](http://stanford.edu/class/ee364b/) - 斯蒂芬博伊德（斯坦福大学）
+ * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - 斯蒂芬博伊德（斯坦福大学）
+ * [Optimization at MIT](http://optimization.mit.edu/classes.php) - （麻省理工学院）
+ * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) -  Ryan Tibshirani（CMU）
 
 ## Papers
 
 #### Conference papers on the web
- * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
- * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
- * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
+ * [CVPapers](http://www.cvpapers.com/) - 网络上的计算机视觉文件
+ * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - 网络上的图形文件
+ * [NIPS Proceedings](http://papers.nips.cc/) - 网上的NIPS论文
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
- * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
- * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (USC)
+ * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) -  Keith Price（USC）
+ * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - （USC）
 
 #### Survey Papers
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
@@ -124,91 +124,91 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Tutorials and talks
 
 #### Computer Vision
- * [Computer Vision Talks](http://www.computervisiontalks.com/) - Lectures, keynotes, panel discussions on computer vision
- * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
- * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
- * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
- * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
- - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
+ * [Computer Vision Talks](http://www.computervisiontalks.com/) - 关于计算机视觉的讲座，主题演讲，小组讨论
+ * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) -  Jitendra Malik（加州大学伯克利分校）2013
+ * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) -  Andrew Blake（微软研究院）2008
+ * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) -  Jitendra Malik（加州大学伯克利分校）2008
+ * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) -  Fatih Porikli（澳大利亚国立大学）
+ - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) -  IPAM，2013年
 
 #### Recent Conference Talks
 - [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
-- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
+- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) -  2014年9月
 - [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
-- [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
-- [ICML 2013](http://techtalks.tv/icml/2013/) - Jul 2013
+- [ICCV 2013](http://techtalks.tv/iccv2013/) -  2013年12月
+- [ICML 2013](http://techtalks.tv/icml/2013/) -  2013年7月
 - [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
-- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
+- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) -  2012年10月
 - [ICML 2012](http://techtalks.tv/icml/2012/orals/) - Jun 2012
 - [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
 #### 3D Computer Vision
- * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
- * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (University of Washington) 2013
+ * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) -  Steve Seitz（华盛顿大学）2011
+ * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) -  Steve Seitz（华盛顿大学）2013
 
 #### Internet Vision
- * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University) 2011
- * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University) 2014
- * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington) 2013
+ * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) -  Noah Snavely（康奈尔大学）2011
+ * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) -  Noah Snavely（康奈尔大学）2014
+ * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) -  Steve Seitz（华盛顿大学）2013
 
 #### Computational Photography
- * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
- * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
- * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
- * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
- * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
- * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
- * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
- * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (Rensselaer Polytechnic Institute) 2014
+ * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) -  Richard Szeliski（微软研究院）2013
+ * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) -  William T. Freeman（麻省理工学院）2011
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss（耶路撒冷希伯来大学）2011
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar（加州大学圣克鲁兹分校/谷歌）2010
+ * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake（微软研究院）2007
+ * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) -  William T. Freeman（麻省理工学院）2012
+ * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - FrédoDurand（麻省理工学院）2012
+ * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) -  Rich Radke（伦斯勒理工学院）2014
 
 #### Learning and Vision
- * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
- * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
- * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
+ * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) -  William T. Freeman（麻省理工学院）2011
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) -  Simon Lucey（CMU）2008
+ * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) -  Yair Weiss（耶路撒冷希伯来大学）2009
 
 #### Object Recognition
- * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
+ * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) -  Larry Zitnick（微软研究院）
  * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
 #### Graphical Models
- * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (Brown University) 2012
- * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
- * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
- * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
+ * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) -  Pedro Felzenszwalb（布朗大学）2012
+ * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) -  Zoubin Ghahramani（剑桥大学）2009
+ * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) -  Sam Roweis（纽约大学）2006
+ * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss（耶路撒冷希伯来大学）2009
 
 #### Machine Learning
- * [A Gentle Tutorial of the EM Algorithm](https://nikola-rt.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
- * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
- * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
- * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (UC Berkeley)
+ * [A Gentle Tutorial of the EM Algorithm](https://nikola-rt.ee.washington.edu/people/bulyko/papers/em.pdf) -  Jeff A. Bilmes（加州大学伯克利分校）1998
+ * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) -  Christopher Bishop（微软研究院）2009
+ * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) -  Chih-Jen Lin（国立台湾大学）2006
+ * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) -  Michael I. Jordan（加州大学伯克利分校）
 
 #### Optimization
- * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
- * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (University of California, Los Angeles)
- * [Continuous Optimization in Computer Vision](https://www.youtube.com/watch?v=oZqoWozVDVg) - Andrew Fitzgibbon (Microsoft Research)
- * [Beyond stochastic gradient descent for large-scale machine learning](http://videolectures.net/sahd2014_bach_stochastic_gradient/) - Francis Bach (INRIA)
- * [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) - Daniel Cremers (Technische Universität München) ([lecture 18 missing from playlist](https://www.youtube.com/watch?v=GgcbVPNd3SI))
+ * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) -  Stephen J. Wright（威斯康星大学麦迪逊分校）
+ * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) -  Lieven Vandenberghe（加州大学洛杉矶分校）
+ * [Continuous Optimization in Computer Vision](https://www.youtube.com/watch?v=oZqoWozVDVg) -  Andrew Fitzgibbon（微软研究院）
+ * [Beyond stochastic gradient descent for large-scale machine learning](http://videolectures.net/sahd2014_bach_stochastic_gradient/) - 弗朗西斯·巴赫（INRIA）
+ * [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) -  Daniel Cremers（慕尼黑技术大学）（[lecture 18 missing from playlist](https://www.youtube.com/watch?v=GgcbVPNd3SI))
 
 #### Deep Learning
- * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
- * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (University of Toronto)
- * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
- * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
- * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
- * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
- * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (Ecole Normale Superieure)
- * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
+ * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) -  Geoffrey E. Hinton（多伦多大学）
+ * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov（多伦多大学）
+ * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) -  Yoshua Bengio（蒙特利尔大学）
+ * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky（多伦多大学）
+ * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Lee LeCun（纽约大学/ Facebook研究）2014
+ * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) -  Rob Fergus（纽约大学/ Facebook研究）
+ * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - StéphaneMallat（EcoleNormaleSupérieure）
+ * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) -  IPAM，2012年
  * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
- * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
-	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal)
-	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
-	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
+ * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - 冰岛雷克雅未克2014年
+	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) -  Yoshua Bengio（蒙特利尔大学）
+	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) -  Yoshua Bengio（蒙特利尔大学）
+	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) -  Yoshua Bengio（蒙特利尔大学）
 
 ## Software
 
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
- * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
+ * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) -  CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
 
@@ -227,12 +227,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://staffhome.ecm.uwa.edu.au/~00011811/Research/MatlabFns/index.html)
-* [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
-* [MinimalSolvers](http://cmp.felk.cvut.cz/mini/) - Minimal problems solver
+* [OpenGV ](http://laurentkneip.github.io/opengv/) - 几何计算机视觉算法
+* [MinimalSolvers](http://cmp.felk.cvut.cz/mini/) - 最小问题解决者
 * [Multi-View Environment](http://www.gcc.tu-darmstadt.de/home/proj/mve/)
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Bundler SFM](http://www.cs.cornell.edu/~snavely/bundler/)
-* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/) - Multiple View Geometry; Structure from Motion library & softwares
+* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/)   - 多视图几何;  来自Motion库和软件的结构
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
@@ -243,16 +243,16 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/)
-  * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
+  * David G. Lowe，“尺度不变关键点的独特图像特征”，国际计算机视觉杂志，60,2（2004），第91-110页.
 * [SIFT++](http://www.robots.ox.ac.uk/~vedaldi/code/siftpp.html)
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
-  * Stefan Leutenegger, Margarita Chli and Roland Siegwart, "BRISK: Binary Robust Invariant Scalable Keypoints", ICCV 2011
+  * Stefan Leutenegger，Margarita Chli和Roland Siegwart，“BRISK：Binary Robust Invariant Scalable Keypoints”，ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
-  * Herbert Bay, Andreas Ess, Tinne Tuytelaars, Luc Van Gool, "SURF: Speeded Up Robust Features", Computer Vision and Image Understanding (CVIU), Vol. 110, No. 3, pp. 346--359, 2008
+   * Herbert Bay，Andreas Ess，Tinne Tuytelaars，Luc Van Gool，“SURF：加速强大功能”，计算机视觉和图像理解（CVIU），Vol.  110，第3期，第346-359页，2008年
 * [FREAK](http://www.ivpe.com/freak.htm)
-  * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
+  * A. Alahi，R.Ortiz和P. Vandergheynst，“FREAK：Fast Retina Keypoint”，CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
-  * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
+  * Pablo F. Alcantarilla，Adrien Bartoli和Andrew J. Davison，“KAZE Features”，ECCV 2012
 * [Local Binary Patterns](https://github.com/nourani/LBP)
 
 #### High Dynamic Range Imaging
@@ -274,41 +274,41 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
- * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (MIT)
+ * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - 刘（麻省理工学院）
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
  * [C++/MatLab Optical Flow by C. Liu (based on Brox et al. and Bruhn et al.)](http://people.csail.mit.edu/celiu/OpticalFlow/)
  * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
 ###### Image Denoising
-BM3D, KSVD,
+BM3D，KSVD，
 
 ###### Super-resolution
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
-    * Pickup, L. C. Machine Learning in Multi-frame Image Super-resolution, PhD thesis 2008
+    *拾取，LC机器学习多帧图像超分辨率，博士论文2008
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
-    * W. T Freeman and C. Liu. Markov Random Fields for Super-resolution and Texture Synthesis. In A. Blake, P. Kohli, and C. Rother, eds., Advances in Markov Random Fields for Vision and Image Processing, Chapter 10. MIT Press, 2011
+     * W. T Freeman和C. Liu.  用于超分辨率和纹理合成的马尔可夫随机场.  在A. Blake，P.Kohli和C. Rother编辑，马克索夫随机视野和视觉处理的进展，第10章.麻省理工学院出版社，2011年
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
-    * K. I. Kim and Y. Kwon, "Single-image super-resolution using sparse regression and natural image prior", IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 32, no. 6, pp. 1127-1133, 2010.
+     * KI Kim和Y. Kwon，“使用稀疏回归和自然图像先验的单图像超分辨率”，IEEE Trans.  模式分析与机器智能，第一卷  32，不.  6，pp.1127-1133,2010.
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
-    * T. Peleg and M. Elad, A Statistical Prediction Model Based on Sparse Representations for Single Image Super-Resolution, IEEE Transactions on Image Processing, Vol. 23, No. 6, Pages 2569-2582, June 2014
+     * T. Peleg和M. Elad，基于稀疏表示的单图像超分辨率的统计预测模型，IEEE Transactions on Image Processing，Vol.  2014年6月23日第6期，第2569-2582页
  * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
-    * R. Zeyde, M. Elad, and M. Protter On Single Image Scale-Up using Sparse-Representations, Curves & Surfaces, Avignon-France, June 24-30, 2010 (appears also in Lecture-Notes-on-Computer-Science - LNCS).
+    * R. Zeyde，M.Elad和M. Protter使用稀疏表示，曲线和曲面进行单幅图像放大，阿维尼翁 - 法国，2010年6月24  -  30日（也出现在讲座 - 计算机笔记中 - 科学 -  LNCS）.
  * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
-    * Jianchao Yang, John Wright, Thomas Huang, and Yi Ma. Image super-resolution via sparse representation. IEEE Transactions on Image Processing (TIP), vol. 19, issue 11, 2010.
+     * Jian Jiano Yang，John Wright，Thomas Huang和Yi Ma.  通过稀疏表示的图像超分辨率.  IEEE图像处理交易（TIP），第一卷.  19，2010年第11期.
  * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
-    * H. Chang, D.Y. Yeung, Y. Xiong. Super-resolution through neighbor embedding. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), vol.1, pp.275-282, Washington, DC, USA, 27 June - 2 July 2004.
+     * H. Chang，DY Yeung，Y.Xiong.  通过邻居嵌入的超分辨率.  2004年6月27日至7月2日在美国华盛顿特区举行的IEEE计算机协会计算机视觉和模式识别会议（CVPR），第1卷，第275-282页.
  * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
-    *  Yu Zhu, Yanning Zhang and Alan Yuille, Single Image Super-resolution using Deformable Patches, CVPR 2014
+    * Yu Zhu，Yanning Zhang和Alan Yuille，使用可变形补丁的单图像超分辨率，CVPR 2014
  * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-    * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, in ECCV 2014
+    * Chao Dong，Chen Change Loy，Kaiming He，Xiaoou Tang，在ECCV 2014中学习深度卷积网络以实现图像超分辨率
  * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
-    * R. Timofte, V. De Smet, and L. Van Gool. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution, ACCV 2014
+     * R. Timofte，V.De Smet和L. Van Gool.  A +：调整的锚定邻域回归，用于快速超分辨率，ACCV 2014
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
-    * Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
+    * Jia-Bin Huang，Abhishek Singh和Narendra Ahuja，使用转换自我范例的单图像超分辨率，IEEE计算机视觉和模式识别会议，2015
 
 ###### Image Deblurring
 
-Non-blind deconvolution
+非盲去卷积
  * [Spatially variant non-blind deconvolution](http://homes.cs.washington.edu/~shanqi/work/spvdeconv/)
  * [Handling Outliers in Non-blind Image Deconvolution](http://cg.postech.ac.kr/research/deconv_outliers/)
  * [Hyper-Laplacian Priors](http://cs.nyu.edu/~dilip/research/fast-deconvolution/)
@@ -316,7 +316,7 @@ Non-blind deconvolution
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
-Blind deconvolution
+盲目反卷积
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
  * [High-quality motion deblurring from a single image](http://www.cse.cuhk.edu.hk/leojia/projects/motion_deblurring/)
  * [Two-Phase Kernel Estimation for Robust Motion Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/robust_deblur/)
@@ -329,7 +329,7 @@ Blind deconvolution
  * [Edge-based Blur Kernel Estimation Using Patch Priors](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
-Non-uniform Deblurring
+非均匀的去模糊
  * [Non-uniform Deblurring for Shaken Images](http://www.di.ens.fr/willow/research/deblurring/)
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
@@ -429,11 +429,11 @@ Non-uniform Deblurring
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
- * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
+ * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) - 佐治亚理工学院
  * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
 
 ###### Loop Closure:
- * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
+ * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - 也可用于 [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
  * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
 
 ###### Localization & Mapping:
@@ -442,9 +442,9 @@ Non-uniform Deblurring
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
- * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
- * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
- * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
+ * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) -  Derek Hoiem（CMU）
+ * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) -  Varsha Hedau（UIUC）
+ * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) -  David C. Lee（CMU）
  * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
@@ -503,10 +503,10 @@ Non-uniform Deblurring
  * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
 
 #### Optimization
- * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
- * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- Nonlinear least-square problem and unconstrained optimization solver
- * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
- * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
+ * [Ceres Solver](http://ceres-solver.org/) - 非线性最小二乘问题和无约束优化求解器
+ * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- 非线性最小二乘问题和无约束优化求解器
+ * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - 基于因子图的离散优化和推理求解器
+ * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - 基于因子图的租赁平方优化求解器
 
 #### Deep Learning
  * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -519,8 +519,8 @@ Non-uniform Deblurring
 ## Datasets
 
 #### External Dataset Link Collection
- * [CV Datasets on the web](http://www.cvpapers.com/datasets.html) - CVPapers
- * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
+ * [CV Datasets on the web](http://www.cvpapers.com/datasets.html) -  CVPapers
+ * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - 哪篇论文在标准数据集X上提供了最佳结果？
  * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
  * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
  * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
@@ -641,71 +641,71 @@ Non-uniform Deblurring
  * [Microsoft COCO](http://mscoco.org/)
 
 #### Scene Understanding
- # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
- # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ # [SUN RGB-D](http://rgbd.cs.princeton.edu/) -  RGB-D场景理解基准套件
+ # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) -  RGBD图像的室内分割和支持推断
 
 #### Aerial images
- # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
+ # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - 从在线地图学习航空图像分割
 
 
 ## Resources for students
 
 #### Resource link collection
- * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (MIT)
- * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (Adobe Research)
- * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (University of Toronto)
- * [Research Skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) - Simon Peyton Jones (Microsoft Research)
+ * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - FrédoDurand（麻省理工学院）
+ * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) -  Aaron Hertzmann（Adobe Research）
+ * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) -  Yashar Ganjali，Aaron Hertzmann（多伦多大学）
+ * [Research Skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) -  Simon Peyton Jones（微软研究院）
  * [Resource collection](http://web.engr.illinois.edu/~taoxie/advice.htm) - Tao Xie (UIUC) and Yuan Xie (UCSB)
 
 #### Writing
- * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (MIT)
- * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (MIT)
- * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (MIT)
- * [How to write a good CVPR submission](http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) - William T. Freeman (MIT)
- * [How to write a great research paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Simon Peyton Jones (Microsoft Research)
- * [How to write a SIGGRAPH paper](http://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) - SIGGRAPH ASIA 2011 Course
- * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) - Aaron Hertzmann (Adobe Research)
- * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - Jim Blinn
- * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) - Jim Kajiya (Microsoft Research)
+ * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - FrédoDurand（麻省理工学院）
+ * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - FrédoDurand（麻省理工学院）
+ * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - FrédoDurand（麻省理工学院）
+ * [How to write a good CVPR submission](http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) -  William T. Freeman（麻省理工学院）
+ * [How to write a great research paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) -  Simon Peyton Jones（微软研究院）
+ * [How to write a SIGGRAPH paper](http://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) -  SIGGRAPH ASIA 2011课程
+ * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) -  Aaron Hertzmann（Adobe Research）
+ * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - 吉姆·布林
+ * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) -  Jim Sense（微软研究院）
  * [How to write a SIGGRAPH paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (The University of Hong Kong)
- * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) - Martin Martin Hering Hering--Bertram (Hochschule Bremen University of Applied Sciences)
- * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (The University of Tokyo)
- * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (Boston Dynamics, Inc.)
- * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (UIUC)
- * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) - Wojciech Jarosz (Dartmouth College)
+ * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) -  Martin Martin Hering  -  Bertram（不莱梅大学应用科学大学）
+ * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) -  Takeo Igarashi（东京大学）
+ * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) -  Marc H. Raibert（波士顿动力公司）
+ * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) -  Derek Hoiem（UIUC）
+ * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) -  Wojciech Jarosz（达特茅斯学院）
 
 
 #### Presentation
- * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (MIT)
- * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (University of Toronto) and Aaron Hertzmann (Adobe Research)
- * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - Colin Purrington
+ * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - FrédoDurand（麻省理工学院）
+ * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) -  David Fleet（多伦多大学）和Aaron Hertzmann（Adobe Research）
+ * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - 科林·普林顿
 
 #### Research
- * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (MIT)
- * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
+ * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) -  William T. Freeman（麻省理工学院）
+ * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - 理查德汉明
  * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (UIUC)
- * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - Robert L. Park
- * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (Cornell University)
- * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (MIT)
- * [Recent Advances in Computer Vision](http://www.slideshare.net/antiw/recent-advances-in-computer-vision) - Ming-Hsuan Yang (UC Merced)
+ * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - 罗伯特L.帕克
+ * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) -  Thomas Funkhouser（康奈尔大学）
+ * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - 大卫查普曼（麻省理工学院）
+ * [Recent Advances in Computer Vision](http://www.slideshare.net/antiw/recent-advances-in-computer-vision) -  Ming-Hsuan Yang（UC Merced）
  * [How to Come Up with Research Ideas in Computer Vision?](http://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840) - Jia-Bin Huang (UIUC)
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
 
 #### Time Management
- * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
+ * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) -  Randy Pausch（CMU）
 
 ## Blogs
- * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
- * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
- * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
- * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
- * [AI Shack](http://aishack.in/) - Utkarsh Sinha
- * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
- * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
+ * [Learn OpenCV](http://www.learnopencv.com/) - 萨蒂亚马利克
+ * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) -  Tomasz Malisiewicz
+ * [Computer vision for dummies](http://www.visiondummy.com/) -  Vincent Spruyt
+ * [Andrej Karpathy blog](http://karpathy.github.io/) Andrej Karpathy
+ * [AI Shack](http://aishack.in/) -  Utkarsh Sinha
+ * [Computer Vision Talks](http://computer-vision-talks.com/) -  Eugene Khvedchenya
+ * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) -  Jason Chin（西安大略大学）
 
 
 ## Links
-* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
+* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - 大卫罗威
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -722,4 +722,4 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.jiabinhuang.com) 已放弃对此作品的所有版权及相关或相邻权利.

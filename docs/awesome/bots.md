@@ -9,7 +9,7 @@
 
 [![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/hackerkid)
 
-Table of Contents
+目录
 -----------------
 
 
@@ -29,46 +29,46 @@ Table of Contents
 * [VKontakte](https://new.vk.com/dev/bizmessages)
 
 ## Tools For Building Bots
-* [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
-* [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
-* [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
-* [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
-* [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required.
-* [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
-* [Beep Boop](https://beepboophq.com/) - Beep Boop is a simple hosting platform for your Slack and Messenger bots.
-* [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet.
-* [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
-* [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
-* [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
-* [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
-* [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
-* [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - Demo FB Messenger bots without showing personal chats
+* [wit.ai ](https://wit.ai/) - 轻松创建人类可以聊天的基于文本或语音的机器人.
+* [Botkit](https://howdy.ai/botkit/) -  Botkit简化了Slack内部设计和运行机器人的过程.
+* [Dialogflow](https://dialogflow.com/) - 建立自然和丰富的对话体验.
+* [Text It](https://textit.in/) - 可视化构建SMS和语音应用程序以吸引客户.
+* [Chatfuel](https://chatfuel.com/)   - 具有AI导航功能的直观机器人构建器.  无需编码.
+* [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - 为您的应用带来认知计算的力量.
+* [Beep Boop](https://beepboophq.com/) -  Beep Boop是Slack和Messenger机器人的简单托管平台.
+* [Dexter](https://rundexter.com/app/spreadsheet-bot) - 获取一个Slack机器人，响应您自己的Google表格中的答案.
+* [Converse AI](http://www.converse.ai/) - 使用智能聊天机器人技术即时回应客户问题.
+* [Gupshup](https://www.gupshup.io/developer/home) - 在任何渠道上构建和部署机器人的最简单，最快捷的方式.
+* [Haven OnDemand](https://dev.havenondemand.com/apis) - 它们是与沃森类似的API，但有很好的文档记录，并且有免费增值版本.
+* [Recast.AI](https://recast.ai) - 面向开发人员的协作机器人平台：轻松构建会话机器人.
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - 基于机器学习的会话对话引擎，用Python构建
+* [Google Cloud Platform](https://cloud.google.com/natural-language) - 对文本块使用情绪分析，为对话机器人添加决策树逻辑.
+* [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - 演示FB Messenger机器人没有显示个人聊天
 
 ## Tools For Bot Analytics
-* [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
-* [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
-* [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
-* [Botmetrics](https://www.getbotmetrics.com/) - Grow and retain your chatbot customers. Enterprise grade opensource conversational analytics, marketing automation, and CRM rolled into a single snippet of code.
+* [ChatMetrics](https://chatmetrics.io/)   - 机器人的参与平台.  ChatMetrics允许通过向用户发送“智能”通知来重新激活非活动用户并提高保留率.
+* [Dialog](https://dialoganalytics.com/) - 面向营销人员的Chatbot分析平台，以推动用户参与，保留，转换和理解行为.
+* [Dashbot](https://www.dashbot.io/) - 可操作的Bot Analytics：提高用户参与度，获取和获利.
+* [Botmetrics](https://www.getbotmetrics.com/)   - 扩大并保留您的聊天机器人客户.  企业级开源会话分析，营销自动化和CRM汇集成一个代码片段.
 
 ## Tools For Bot Conversation Mockups
-* [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
-* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (Mac Only)
-* [Botframe](https://botframe.com) - a playground to design bots (conversation mockups).
-* [Botmock](https://botmock.com) - Create conversation flows and interactive prototypes from a simple drag and drop editor, then share or test those prototypes and get feedback in one centralized location.
+* [Bot Society](https://www.botsociety.io) -  Bot对话Mockups用于演示和演示.
+* [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) -  Sketch Chatbot用户界面（仅限Mac）
+* [Botframe](https://botframe.com) - 设计机器人的游乐场（会话模型）.
+* [Botmock](https://botmock.com) - 从简单的拖放编辑器创建对话流和交互式原型，然后共享或测试这些原型并在一个集中位置获得反馈.
 
 
 ## Libraries
 
 ### General
-* [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
-* [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
-* [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
-* [Microsoft Bot Framework](http://docs.botframework.com) - Node.js/.NET library for building, connecting, testing, and deploying powerful and intelligent bots. 
-* [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
-* [BotMan](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+* [Qtypes](https://github.com/superscriptjs/qtypes) -  Node.js中基于规则的答案类型分类系统.
+* [BotKit](https://github.com/howdyai/botkit) -  Botkit是一个用于制作机器人应用程序的工具包.
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - 为FB，Slack，Skype和Telegram创建聊天机器人，并在几分钟内部署到AWS Lambda.
+* [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - 使用一个逻辑为FB Messenger，Kik，Telegram和Skype创建跨平台聊天机器人.
+* [Pandorabots](http://www.pandorabots.com/) - 用于构建和部署聊天机器人的Web服务.
+* [Microsoft Bot Framework](http://docs.botframework.com) -  Node.js / .NET库，用于构建，连接，测试和部署功能强大的智能机器人. 
+* [Bottender](https://github.com/Yoctol/bottender) - 以您的方式快速灵活地制作机器人.
+* [BotMan](https://github.com/botman/botman) -  PHP Bot Framework支持十几个平台（FB，Instagram，MS Bot Framework等）
 
 ### Facebook Messenger
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
@@ -121,20 +121,20 @@ Table of Contents
 
 
 ## Bot Stores
-* [There is a bot for that](https://thereisabotforthat.com) - Search engine for bots
-* [ChatBottle](https://chatbottle.co/) - Chatbots search engine
-* [BotList](https://botlist.co/) - An App Store For Bots.
-* [Slack Store](https://slack.com/apps) - The official Slack bot store.
-* [Telegram Store](https://storebot.me/) - The unofficial Telegram bot store.
-* [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
-* [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
-* [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
-* [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
-* [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
-* [Discord Bot List](https://discordbots.org/) - An unofficial list of discord bots.
-* [Telegram Botlist](https://t.me/botlist) - A bot list for Telegram.
-* [Mayo Bot List](https://botlist.space/) - An unofficial list of discord bots.
-* [Terminal Bot List](https://ls.terminal.ink/) - An unofficial list of discord bots.
+* [There is a bot for that](https://thereisabotforthat.com) - 机器人搜索引擎
+* [ChatBottle](https://chatbottle.co/) - 聊天机器人搜索引擎
+* [BotList](https://botlist.co/) - 机器人的App Store.
+* [Slack Store](https://slack.com/apps) -  Slack官方商店.
+* [Telegram Store](https://storebot.me/) - 非官方的电报机器人商店.
+* [Product Hunt](https://www.producthunt.com/topics/bots) - 产品寻线机器人列表.
+* [Dashbot](http://www.dashbot.io/bots) -  Dashbot bot目录.
+* [Skype Bot Directory](https://bots.botframework.com/) -  Microsoft Bot Framework正式的Skype机器人列表
+* [Teamchat](http://www.teamchat.com/en/bot-store/) - 通过团队聊天的Bot商店.
+* [Discord Bots](https://bots.discord.pw/) - 非正式的不和谐机器人名单.
+* [Discord Bot List](https://discordbots.org/) - 非正式的不和谐机器人名单.
+* [Telegram Botlist](https://t.me/botlist) -  Telegram的机器人列表.
+* [Mayo Bot List](https://botlist.space/) - 非正式的不和谐机器人名单.
+* [Terminal Bot List](https://ls.terminal.ink/) - 非正式的不和谐机器人名单.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
@@ -149,30 +149,30 @@ Table of Contents
 * [UX of Chatbots](http://uxofchatbots.com/)
 
 ## Communities
-* [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
-* [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
-* [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
-* [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
-* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
-* [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
-* [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - Community on Slack for all bot platforms.
-* [BotList Chat](http://t.me/botlistchat) - Telegram group.
-* [Bot Development](http://t.me/botdevelopment) - Telegram group.
+* [Bots](https://www.facebook.com/groups/chatbot/) -  Facebook群组.
+* [UX for Bots](https://www.facebook.com/groups/uxforbots/) -  Facebook群组.
+* [Chat Bot Magazine](https://chatbotsmagazine.com/) - 中等.
+* [HH Bots](https://www.facebook.com/groups/hhbots/) -  Facebook群组.
+* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - 官方Facebook群组.
+* [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) -  Quora主题
+* [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - 所有机器人平台上的Slack社区.
+* [BotList Chat](http://t.me/botlistchat) - 电报组.
+* [Bot Development](http://t.me/botdevelopment) - 电报组.
 
 ## Conferences
 * [ChatbotConf](https://chatbotconf.com/)
 * [Talkabot](https://talkabot.ai/)
 
 ## Developers
-* [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
-* [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
+* [BotMakers](https://botmakers.net/) - 聘请chatbot开发人员的最佳场所
+* [Botgig](http://www.botgig.com/) - 从经过审查的人才库中聘请顶级聊天机器人.
 
 ## Testing
-* [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
-* [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
+* [ChatbotTest](http://chatbottest.com/) -  Chatbottest是一个开源指南，可帮助您识别7个不同类别下的聊天机器人的设计问题.
+* [BotTesting](http://bottesting.co/)   - 测试你的机器人！  将您的电子邮件和机器人链接发送给我们，我们将检查您的机器人的性能和可用性
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Vishnu Ks](http://www.vishnuks.com) 已放弃对此作品的所有版权及相关或相邻权利.

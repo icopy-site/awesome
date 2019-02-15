@@ -3,11 +3,11 @@
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://raw.githubusercontent.com/zeit/next.js)
 
-> Curated list of resources: books, videos, articles about using Next.js.
+&gt;策划的资源列表：书籍，视频，有关使用Next.js的文章.
 
-[Next.js](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
+[Next.js](https://github.com/zeit/next.js) 是服务器呈现的React应用程序的简约框架.
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
+*列表的灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  你可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 
 ## Community
@@ -30,7 +30,7 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
+ * [使用Next.js和Redux构建通用JavaScript应用程序_ [俄语] _]（https://habrahabr.ru/post/323​​588/）
  * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
  * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
@@ -44,76 +44,76 @@
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
 
 ## Boilerplates
-* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
-* [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
-* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
-* [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
-* [phox](https://github.com/herschel666/phox) - Create a static photo blog.
-* [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
-* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
-* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-* [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
-* [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
-* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
-* [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
-* [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
-* [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-* [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
-* [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
-* [next-boilerplate](https://github.com/pankod/next-boilerplate) - Production Ready - Typescript, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer
-* [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - 使用Cloud功能在Firebase中使用Bootstrap托管NextJS应用程序.
+* [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - 带有Next.js和Redux的简单PWA样板.
+* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -  Next.js的Starter项目，以及电子邮件和oAuth身份验证.
+* [RAN!](https://github.com/sly777/ran) - 支持生产的样板，支持GraphQL，SSR，热重载，CSS-in-JS，缓存等.
+* [Next Simple Blog](https://github.com/tscanlin/next-blog) - 使用静态导出的Next.js构建的基于Markdown的简单博客.
+* [Create-Next-App](https://open.segment.com/create-next-app) -  Facebook的create-react-app分叉创建下一个应用程序.
+* [phox](https://github.com/herschel666/phox) - 创建静态照片博客.
+* [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - 使用Next，Express，react-bootstrap，SCSS和带有eslint的SSR构建的完整堆栈应用程序的Boilerplate.
+* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用Next.js，Firebase Firestore，样式组件和mobx-state-tree构建的简单CMS的博客.
+* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 使用Express，Redux和PostCSS的Next.js启动器.
+* [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 具有Redux和Material UI的样板NextJS.
+* [Staart](https://github.com/nmaro/staart) - 积极维护Next.js组件库*和*最小样板，以便快速获得基于Ooth的工作用户帐户的应用程序.
+* [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - ：tada：TypeScript + NextJS，Styled-jsx，Redux，PostCSS，可配置的SEO
+* [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部CSS和Sass +从任何地方导入图像+ Prettier和Eslint + Environment变量以及更多功能.
+* [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，其中包含`sass（.scss）`和`postcss`.
+* [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - 简约的next.js +打字稿monorepo.
+* [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) - 具有基本CRUD，axios / localstorage，MobX，SASS，静态站点导出，现场演示的最小入门/演示
+* [Nextron](https://github.com/saltyshiomix/nextron) - 带有Next.js应用程序生成器的电子⚡
+* [next-boilerplate](https://github.com/pankod/next-boilerplate) -  Production Ready  -  Typescript，Sass，Css，EnvConfig，Reverse Proxy，Bundle Analyzer
+* [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - 完整堆栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
 
 ## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
-* [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
-* [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
-* [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
-* [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+* [Next Routes](https://github.com/fridays/next-routes) -  Next.js的通用命名路由.
+* [Next-Pkg](https://github.com/onready/next-pkg) - 使用扩展的Next.js服务器 [pkg](https://github.com/zeit/pkg) 支持.
+* [Next Plugins](https://github.com/zeit/next-plugins) -  Webpack和Next.js的精选插件列表
+* [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - 使用graphql-tag的.graphql和.gql文件的Next.js插件
+* [Next With Apollo](https://github.com/lfades/next-with-apollo) -  Next.js的Apollo Graphql集成
+* [Next SEO](https://github.com/garmeeh/next-seo) -  SEO为Next.js提供了便利
+* [Nextein](https://github.com/elmasse/nextein) - 一个基于Next.js的静态站点生成器.
+* [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松地将博客添加到任何基于next.js的项目中
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
-* [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-* [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
-* [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
-* [Password](https://github.com/dotcypress/password) - One password, right way.
-* [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-* [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
-* [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
-* [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-* [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
-* [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-* [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-* [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all.
-* [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
-* [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
-* [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
-* [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
-* [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
-* [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
-* [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+* [Nextgram](https://github.com/zeit/nextgram) - 示例Next.js应用程序展示其功能.
+* [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - 简单的Next.js应用程序，展示了权力的游戏角色.
+* [Next Episode](https://github.com/timneutkens/next-episode) - 示例Next.js应用程序显示电影剧集.
+* [Relate](https://github.com/RelateNow/relate) - 正念社区 -  React，GraphQL，Next.js.
+* [Next News](https://github.com/now-examples/next-news) -  HackerNews用Next.js编写.
+* [Password](https://github.com/dotcypress/password) - 一个密码，正确的方式.
+* [Next Todos](https://github.com/lipp/next-todos) - 用Next.js写的Todo列表.
+* [Hacker News](https://github.com/lipp/hackernews) - 在Next.js写的另一个黑客新闻.
+* [Jet Chat](https://github.com/lipp/jet-chat) -  Jet和Next.js支持的聊天演示.
+* [Nextgram](https://github.com/arunoda/nextgram) - 示例Next.js v2 app展示其功能.
+* [Rauchg Blog](https://github.com/rauchg/blog) - 由Next.js核心维护者构建的博客.
+* [Next JPH](https://github.com/renatorib/next-jph) - 使用Next.js制作的JsonPlaceholder示例应用程序.
+* [Mailto](https://github.com/dawsbot/mailto) -  HTML mailto变得简单.
+* [Plate](https://github.com/knipferrc/plate) - 任务管理应用程序来统治它们.
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - 使用自定义小部件创建您自己的团队仪表板.
+* [Snape](https://github.com/ritz078/snape) - 用于搜索，流式传输和下载种子的torrent客户端.
+* [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - 将trello数据转换为快速读取信息.
+* [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - 服务器验证，在验证前阻止渲染.
+* [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/)   - 使用Next.js，GraphQL，Docker和Kubernetes构建的个人主页.  使用apollo客户端，react-intl，样式组件并重新组合.  Docker镜像由GitLab CI自动构建.
+* [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - 带有服务器渲染的Cookie处理程序，在渲染之前访问cookie.
+* [Gank](https://github.com/OrangeXC/gank) -  Next.js App使用gank-api，mobx和antd
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
-* [DS](https://github.com/divyenduz/ds) - Personal site manager.
-* [Mozilla VR Home](https://vr.mozilla.org/) - Mozilla VR Home
-* [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
-* [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
-* [magicleap.com](https://www.magicleap.com/) - Magic Leap
-* [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
-* [Docker Success Center](https://success.docker.com) - Docker Success Center
-* [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+* [DS](https://github.com/divyenduz/ds) - 个人网站管理员.
+* [Mozilla VR Home](https://vr.mozilla.org/) -  Mozilla VR Home
+* [Elton John's website](https://www.eltonjohn.com) - 埃尔顿约翰的网站
+* [IOTA's Data Market Place](https://data.iota.org/) -  IOTA市场
+* [magicleap.com](https://www.magicleap.com/) - 魔术飞跃
+* [NPM.js Search Page](https://www.npmjs.com/search) -  NPM的搜索页面
+* [Docker Success Center](https://success.docker.com) -  Docker成功中心
+* [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - 根据GPLv3许可的德国法律信息系统.
 
 ## Books
-* [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
-* [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
+* [Hands On Next.js](https://www.honext.io/) - 一本关于反应应用的通用（服务器）渲染的实用全书.
+* [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - 使用Next.js创建，构建和部署通用JavaScript应用程序
 
 ## Videos
 
-* [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+* [使用NextJS创建您的第一个ReactJS应用程序_ [西班牙语] _]（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 * [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
 * [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
@@ -129,10 +129,10 @@
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md). Thank you!
+ 找到了一个很棒的包，文章，博客，视频等？  发送拉我的请求！  只需按照 [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md) .  谢谢！
 
 ---
-**Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
+**看看我 [blog](https://goodheads.io) 或者说* hi * on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

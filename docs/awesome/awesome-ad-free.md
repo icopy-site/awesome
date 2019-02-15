@@ -1,145 +1,145 @@
 <div class="github-widget" data-repo="johnjago/awesome-ad-free"></div>
 ## Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of ad-free alternatives to popular services on the web.
+网络上流行服务的无广告替代品的精选列表.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
-—Matthew Butterick
+-Matthew Butterick
 
 
 
 ## Alternatives
 
-Alternatives to ad-supported websites, software, and publications.
+广告支持的网站，软件和出版物的替代品.
 
 ### Blogs
 
-- [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
-- [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet.
-- [The Borrowed Abode](http://theborrowedabode.com/advertise/) - DIY and interior design for renters.
-- [The Minimalists](https://www.theminimalists.com/) - Living a meaningful life with less.
-- [Zen Habits](https://zenhabits.net/) - Practical advice for developing positive habits.
+- [No Meat Athlete](https://www.nomeatathlete.com/resources/) - 基于植物的饮食和健身.
+- [No More Ads](https://nomoreads.org) - 无广告互联网的实用建议.
+- [The Borrowed Abode](http://theborrowedabode.com/advertise/) - 租房者的DIY和室内设计.
+- [The Minimalists](https://www.theminimalists.com/) - 少生活，过上有意义的生活.
+- [Zen Habits](https://zenhabits.net/) - 培养积极习惯的实用建议.
 
 ### Communication
 
-- [FastMail](https://www.fastmail.com/) - Reliable business email with no data lock-in.
-- [Jami](https://jami.net/) - Telephone, teleconferencing, and media sharing through a distributed service.
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
-- [ProtonMail](https://protonmail.com/) - Free encrypted email.
-- [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
-- [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
-- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
-- [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
-- [Write.as](https://write.as/principles) - Blogging platform that allows you to publish ideas without distraction.
+- [FastMail](https://www.fastmail.com/) - 可靠的企业电子邮件，没有数据锁定.
+- [Jami](https://jami.net/) - 通过分布式服务进行电话，电话会议和媒体共享.
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - 使用WebRTC保护视频会议和桌面共享.
+- [ProtonMail](https://protonmail.com/) - 免费加密电子邮件.
+- [Signal](https://www.whispersystems.org/) - 私人消息传递和呼叫桌面，Android和iOS.
+- [Telegram](https://telegram.org/) - 基于云的移动和桌面消息应用程序，专注于安全性和速度.
+- [Tox](https://tox.chat/) - 具有语音，视频和屏幕共享的加密和分布式消息传递平台.
+- [Wire](https://wire.com/en/privacy/) - 具有端到端加密的文本，音频和视频通信.
+- [Write.as](https://write.as/principles) - 博客平台，允许您发布想法而不会分心.
 
 ### File Sharing
 
-- [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
-- [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
+- [Mega](https://mega.nz/)   -  50 GB的安全免费存储空间.  文件在客户端加密.
+- [qBittorrent](https://www.qbittorrent.org/) - 免费和开源的BitTorrent客户端.
 
 ### Mobile Apps
 
-- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
-- [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
-- [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
-- [Simple Mobile Tools](https://simplemobiletools.github.io/) - Open source Android utilities: gallery, contacts, calendar, and more.
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - 适用于Android设备的开源，Material Design文件浏览器.
+- [Bible](https://www.bible.com/) - 具有多种版本和语言的圣经阅读器可供选择.
+- [Ready](https://readytheapp.com/) - 适用于iOS的极简主义新闻阅读器.
+- [Simple Mobile Tools](https://simplemobiletools.github.io/) - 开源Android实用程序：图库，联系人，日历等.
 
 ### Music
 
-- [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
-- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
-- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
+- [Libre.fm](https://libre.fm/) - 免费流式传输，下载，重新混音和分享音乐.
+- [mStream](http://mstream.io/) - 用于在多个设备上同步和流式传输音乐的软件套件.
+- [Voltra](https://voltra.co/) - 直接支持艺术家的无DRM音乐聆听和发现软件.
 
 ### Other
 
-- [Disroot](https://disroot.org/) - Collection of ethical alternatives to email, cloud storage, collaborative document editing, and more.
+- [Disroot](https://disroot.org/) - 收集电子邮件，云存储，协作文档编辑等的道德替代方案.
 
 ### Publications
 
-- [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
-- [Aeon](https://aeon.co/) - Digital magazine that publishes original thinking on science, philosophy, society, and the arts.
-- [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) - Educational blog about markets and the global economy.
-- [Common Dreams](https://www.commondreams.org/) -  Progressive news website.
-- [Consumerist](https://consumerist.com/) - Independent source of consumer news and information.
-- [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
-- [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
-- [RealSport](https://realsport101.com/) - Fans write articles on football, basketball, cricket, e-sports, motorsports, and most other sports out there. This site is committed to maintaining an experience free of pop-ups, fake news, click-bait, and ads.
-- [The Conversation](https://theconversation.com/) - High quality, authenticated, explanatory journalism funded by universities.
+- [Adbusters](https://www.adbusters.org/) - 关于商业力量接管心理，物理和文化环境的杂志.
+- [Aeon](https://aeon.co/) - 出版关于科学，哲学，社会和艺术的原创思想的数字杂志.
+- [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) - 关于市场和全球经济的教育博客.
+- [Common Dreams](https://www.commondreams.org/) - 进步新闻网站.
+- [Consumerist](https://consumerist.com/) - 独立的消费者新闻和信息来源.
+- [Ello](https://ello.co/) - 不销售用户数据的创作者和艺术家的媒体平台.
+- [Popular Resistance](https://popularresistance.org/) - 独立，非暴力和多元化的运动，以结束集中财富的力量，并将人类需求置于企业贪婪之前.
+- [RealSport](https://realsport101.com/)   - 球迷们在足球，篮球，板球，电子竞技，赛车运动以及大多数其他体育项目上撰写文章.  该网站致力于保持免受弹出窗口，虚假新闻，点击诱饵和广告的体验.
+- [The Conversation](https://theconversation.com/) - 由大学资助的高质量，经过认证的解释性新闻.
 
 ### Reference
 
-- [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
-- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
-- [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
-- [Weather.gov](http://www.weather.gov/) - Weather reports for places in the United States.
+- [OpenStreetMap](https://www.openstreetmap.org) - 用户创建并在开放许可下发布的世界地图.
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - 任何人都可以编辑的百科全书.
+- [Wiktionary](https://www.wiktionary.org/) - 任何人都可以编辑的词典.
+- [Weather.gov](http://www.weather.gov/) - 美国地方的天气报告.
 
 ### Social
 
-- [Are.na](https://www.are.na/) - Visual platform to help you think about and organize online content.
-- [diaspora*](https://diasp.org/) - Feeds, likes, profiles, and tags; you are in control of your data.
-- [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
-- [Libranet](https://libranet.de/) - Popular site running friendica, a federated Facebook-style social network.
-- [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
-- [Manyverse](https://www.manyver.se/) - Off the grid social network.
-- [Mastodon](https://mastodon.social) - Decentralized microblogging platform similar to Twitter.
-- [PixelFed](https://pixelfed.social/) - Essentially Instagram without ads, trackers, or modified timelines.
+- [Are.na](https://www.are.na/) - 可视化平台，帮助您思考和组织在线内容.
+- [diaspora*](https://diasp.org/)   - 供稿，喜欢，个人资料和标签;  您可以控制自己的数据.
+- [GNUsocial.no](https://gnusocial.no)   - 允许用户相互连接和共享;  费用由捐款承担.
+- [Libranet](https://libranet.de/) - 热门网站运行friendica，一个联合的Facebook风格的社交网络.
+- [Lobsters](https://lobste.rs/) - 简单的链接聚合站点，提供downvote所需的解释.
+- [Manyverse](https://www.manyver.se/) - 关闭网格社交网络.
+- [Mastodon](https://mastodon.social) - 与Twitter类似的分散式微博平台.
+- [PixelFed](https://pixelfed.social/) - 基本上没有广告，跟踪器或修改时间表的Instagram.
 
 ### Utilities
 
-- [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
-- [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
+- [Etherpad](https://etherpad.wikimedia.org/) - 实时协作文档编辑.
+- [ProtectedText](https://www.protectedtext.com/) - 带存储的在线加密记事本，无需注册.
 
 ### Video
 
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin.
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - 由MediaGoblin提供支持的视频和图像共享服务.
 
 ## Resources
 
 ### Ad Blockers
 
-- [Add-Art](https://add-art.org/) - Replaces ads with art.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
+- [Add-Art](https://add-art.org/) - 用艺术取代广告.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - 通用阻止程序，默认情况下会删除广告和隐私侵犯跟踪器.
 
-**Note**: Avoid Adblock Plus because corporations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
+**注意**：避免使用Adblock Plus，因为公司 [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) 和uBlock（与上面的项目无关），因为它征求了过多的捐款，并且在自己的网站上可以被视为“广告”.
 
 ### Articles
 
-- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
+- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - 选择退出广告游戏.
 - [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 - [Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
-- [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
-- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
-- [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) - Creative ways to block ads in public.
-- [Public Spaces](http://www.perezhiguera.com/publicspaces) - Artist imagines what it would be like if we could have a real life ad blocker.
-- [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
-- [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
-- [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) - Daily life described in an ad-free world.
-- [Why no advertising?](https://sivers.org/noads) - Through the perspective of the perfect-world ideal.
+- [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - 以广告为例，探讨有意识的成功而不是偶然的成功.
+- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - 广告的常见批评概述.
+- [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) - 在公共场合阻止广告的创造性方法.
+- [Public Spaces](http://www.perezhiguera.com/publicspaces) - 艺术家想象一下，如果我们有一个真实的广告拦截器会是什么样子.
+- [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - 一个博主的故事，他选择了一种更好的谋生方式.
+- [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - 支付无广告服务投得更大的投票.
+- [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) - 在无广告的世界中描述的日常生活.
+- [Why no advertising?](https://sivers.org/noads) - 通过完美世界理想的视角.
 
 ### Businesses
 
-These business don't advertise yet are successful.
+这些业务不做广告尚未成功.
 
-- [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
-- [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - Law firm that you won't find in the yellow pages.
-- [Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
+- [Gandi](https://www.gandi.net/) - 具有无废话政策的域名注册商.
+- [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - 你不会在黄页中找到的律师事务所.
+- [Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - 环保型农场，依靠口口相传来吸引顾客.
 
 ### Groups
 
-- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
-- [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
-- [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
-- [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
-- [Digital Public Library Project](http://no-ads.ca/) - Promotes a Digital Public Library system that can replace advertising funded media.
-- [Résistance à l'Agression Publicitaire](https://antipub.org/) - French organization fighting the advertising system and its negative effects.
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - 质疑广告在公共场所的目的和效果.
+- [Art Not Ads](http://artnotads.org) - 艺术家在城市景观中创造变化，但不是通过自己追逐广告.
+- [Brandalism](http://brandalism.ch) - 颠覆城市空间广告的国际街头艺术集体.
+- [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - 从广告牌的扩散中捍卫洛杉矶的城市景观.
+- [Digital Public Library Project](http://no-ads.ca/) - 推广可以取代广告资助媒体的数字公共图书馆系统.
+- [Résistance à l'Agression Publicitaire](https://antipub.org/) - 法国组织打击广告系统及其负面影响.
 
 ### Make Money Without Ads
 
-- [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
-- [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
-- [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
-- [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
+- [Flattr](https://flattr.com/) - 浏览器插件，将每月预算分配给您参与度最高的网站.
+- [Liberapay](https://liberapay.com/) - 开源定期捐赠平台.
+- [OpenCollective](https://opencollective.com/) - 使组能够设置集体，筹集资金并透明地管理它们.
+- [Patreon](https://www.patreon.com/) - 每月或每次创作为艺术家和创作者提供的经常性资金.
 
 ### Talks
 

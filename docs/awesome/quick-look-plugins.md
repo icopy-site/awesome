@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="sindresorhus/quick-look-plugins"></div>
 ## Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers
+&gt;有用的清单 [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) 开发人员的插件
 
 
 ## Install
 
 ### Using [Homebrew Cask](https://github.com/phinze/homebrew-cask)
 
-- Run `brew cask install <package>`
+  - 运行`brew cask install <package>  `
 
 #### Install all
 
@@ -16,13 +16,13 @@
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook suspicious-package quicklookase qlvideo
 ```
 
-*…except for [`qlImageSize`](#qlimagesize)*
+*…除了 [`qlImageSize`](#qlimagesize)*
 
 ### Manually
 
-- Click "download manually"
-- Move the downloaded .qlgenerator file to `~/Library/QuickLook`
-- Run `qlmanage -r`
+- 点击“手动下载”
+- 将下载的.qlgenerator文件移动到`〜/ Library / QuickLook`
+- 运行`qlmanage -r`
 
 
 ## Plugins
@@ -30,125 +30,125 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook 
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
-> Preview source code files with syntax highlighting
+&gt;使用语法突出显示预览源代码文件
 
-Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
+运行`brew cask install qlcolorcode`或 [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
-> Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
+ &gt;预览没有或具有未知文件扩展名的纯文本文件.  示例：README，CHANGELOG，index.styl等.
 
-Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
+运行`brew cask install qlstephen`或 [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
 
 ### [QLMarkdown](https://github.com/toland/qlmarkdown)
 
-> Preview Markdown files
+&gt;预览Markdown文件
 
-Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
+运行`brew cask install qlmarkdown`或 [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
 
-> Preview JSON files
+&gt;预览JSON文件
 
-Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+运行`brew cask install quicklook-json`或 [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
-> Preview archives
+&gt;预览档案
 
-> Note: The BetterZipQL plugin was integrated with the BetterZip app.
+&gt;注意：BetterZipQL插件与BetterZip应用程序集成在一起.
 
-Run `brew cask install betterzip` to install the BetterZip app and its Quick Look plugin or [download manually](https://macitbetter.com/BetterZip.zip)
+运行`brew cask install betterzip`来安装BetterZip应用程序及其Quick Look插件或 [download manually](https://macitbetter.com/BetterZip.zip)
 
-The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
+传统的BetterZipQL插件可以 [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 
 ### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
-> Display image size and resolution
+&gt;显示图像大小和分辨率
 
-~~Run `brew cask install qlimagesize` [(more info)](https://github.com/Homebrew/homebrew-cask/pull/57212)~~ or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+~~运行`brew cask install qlimagesize` [(more info)](https://github.com/Homebrew/homebrew-cask/pull/57212)~~或 [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
 ### [WebP](https://github.com/dchest/webp-quicklook)
 
-> Preview WebP images
+&gt;预览WebP图像
 
-Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
+运行`brew cask install webpquicklook`或 [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
 
-> Preview the contents of a standard Apple installer package
+&gt;预览标准Apple安装程序包的内容
 
-Run `brew cask install suspicious-package` or [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
+运行`brew cask install suspicious-package`或 [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 
 ### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
 
-> Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
+&gt;预览使用Adobe Photoshop，Adobe Illustrator生成的Adobe ASE色样， [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com)等等.
 
-Run `brew cask install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
+运行`brew cask install quicklookase`或 [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
 
 ### [QLVideo](https://github.com/Marginal/QLVideo)
 
-> Preview most types of video files, as well as their thumbnails, cover art and metadata
+&gt;预览大多数类型的视频文件，以及缩略图，封面艺术和元数据
 
-Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
+运行`brew cask install qlvideo`或 [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
 
 ## More
 
-*These are not included in [Install all](#install-all).*
+*这些不包括在内 [Install all](#install-all).*
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
-> Preview iOS / macOS app and provision information
+&gt;预览iOS / macOS应用程序和配置信息
 
-Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
+运行`brew cask install provisionql`或 [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
 
 ### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
 
-> Preview Android APK files
+&gt;预览Android APK文件
 
-Run `brew cask install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
+运行`brew cask install quicklookapk`或 [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
 
 ### [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat)
 
-> Preview Adobe Photoshop pattern files
+&gt;预览Adobe Photoshop模式文件
 
-Run `brew cask install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
+运行`brew cask install quicklook-pat`或 [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
@@ -157,4 +157,4 @@ Run `brew cask install quicklook-pat` or [download manually](https://github.com/
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 已放弃对此作品的所有版权及相关或相邻权利.

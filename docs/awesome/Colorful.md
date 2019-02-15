@@ -4,80 +4,80 @@
 </p>
 
 ## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-__A curated list of awesome resources to choose your next color scheme.__
-Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+__用于选择下一个配色方案的精选资源的精选列表.__
+灵感来自于 __[awesome](https://github.com/sindresorhus/awesome)_ _列表.  请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
 
 
 ## Tools
 
 #### Libraries
-- [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
-- [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
-- [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
-- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-- [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
-- [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
-- [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
+- [Chroma.js](http://gka.github.io/chroma.js/) - 用于处理颜色的JavaScript库.
+- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - 生成渐变色停止.
+- [Colorable](http://jxnblk.com/colorable/) - 调色板组合对比度测试仪.
+- [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - 从图像中提取主色并应用于其父级（jQuery插件）.
+- [Coloor](https://github.com/krasimir/coloor) - 图像预加载实用程序.
+- [Color Thief](https://github.com/lokesh/color-thief) - 从图像中抓取调色板.
+- [Colorify.js](https://github.com/LukyVj/Colorify.js) - 简单，可定制，微小的JavaScript颜色提取器.
+- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - 使用CSS制作的双色调滤镜.
+- [Polychrome](https://github.com/cdonohue/polychrome) - 用于解析和操作颜色的小型库.
+- [Palettable](https://github.com/jiffyclub/palettable) -  Palettable（以前的brewer2mpl）是Python的调色板库
+- [picocli](http://picocli.info/) - 用于使用ANSI颜色和样式创建Java命令行应用程序的小型库.
 
 #### Web App
-- [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
-- [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
-- [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
-- [Flat UI Colors](http://flatuicolors.com/) - UI color set.
-- [Material Design Colors](http://www.materialui.co/) -  Material Design Colors, Flat UI Colors and Material Design Icons.
-- [Palettab](http://palettab.com/) - New color palette and font inspiration with every tab (Chrome Extension).
-- [Paletton](http://paletton.com) - The Color Scheme Designer.
-- [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
-- [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
-- [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [SassMe](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
-- [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
-- [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
-- [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
-- [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
-- [Random A11y](http://www.randoma11y.com) - Generates a random palette that is a11y friendly.
-- [Save My Palette](http://savemypalette.com/) - Save, share, and export your color palettes.
-- [Colordot](https://color.hailpixel.com) - A color picker for humans.
-- [Material Palette](http://www.materialpalette.com/) - Material Design color palette generator.
-- [0to255](http://www.0to255.com/) - Find variations of any color.
-- [147 Colors](http://147colors.com/) - Learn CSS color names.
-- [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - Search Images by Color with Spectrum.
-- [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
-- [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
-- [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
-- [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
-- [Colorgorical](http://vrl.cs.brown.edu/color) - Generate a palette with n colors.
-- [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
-- [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
-- [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
-- [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
-- [iColorpalette](https://icolorpalette.com) - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
+- [Color Picker for Data](http://tristen.ca/hcl-picker/) - 保持色度恒定并轻松选择调色板.
+- [Colorbrewer2](http://colorbrewer2.org/) - 用于热图和数据可视化的多色调和单色调调色板.
+- [Coolors](https://coolors.co/) - 为您的设计生成无限的调色板并共享.
+- [Flat UI Colors](http://flatuicolors.com/) -  UI颜色设置.
+- [Material Design Colors](http://www.materialui.co/) - 材料设计颜色，平面UI颜色和材料设计图标.
+- [Palettab](http://palettab.com/) - 每个标签（Chrome扩展程序）的新调色板和字体灵感.
+- [Paletton](http://paletton.com) - 配色方案设计师.
+- [Pictaculous](http://www.pictaculous.com/) - 使用图像生成调色板.
+- [Adobe Color Wheel](https://color.adobe.com/) - 使用色轮创建配色方案.
+- [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - 生成并自定义多个css3径向渐变.
+- [SassMe](https://github.com/jimniels/sassme) - 无需编译即可实时显示SASS颜色功能.
+- [Shade](http://jxnblk.com/shade/) - 数学推导的梯度探测器.
+- [Colourco](http://www.colourco.de/) - 轻松直观地组合颜色.
+- [HSL Color Picker](http://hslpicker.com/) -  HSL拾色器.
+- [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - 了解feColorMatrix的工作原理.
+- [Random A11y](http://www.randoma11y.com) - 生成一个非常友好的随机调色板.
+- [Save My Palette](http://savemypalette.com/) - 保存，共享和导出调色板.
+- [Colordot](https://color.hailpixel.com) - 人类的颜色选择器.
+- [Material Palette](http://www.materialpalette.com/) - 材料设计调色板生成器.
+- [0to255](http://www.0to255.com/) - 查找任何颜色的变化.
+- [147 Colors](http://147colors.com/) - 学习CSS颜色名称.
+- [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - 按光谱颜色搜索图像.
+- [ColRD](http://colrd.com/) - 创造并与世界分享色彩灵感.
+- [CheckMyColours](http://www.checkmycolours.com/) - 检查所有DOM元素的颜色组合以获得足够的对比度.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) - 检查颜色组合以获得可接受的对比度和显示.
+- [Palettable](http://www.palettable.io/) - 生成美丽的调色板，没有先前的设计知识.
+- [Colorgorical](http://vrl.cs.brown.edu/color) - 生成n种颜色的调色板.
+- [Color Library](http://colorlibrary.ch/) - 自动分色.
+- [Color Supply](http://colorsupplyyy.com/app/) - 来自世界各地的设计师和插图画家的灵感色调.
+- [ColorFavs](http://www.colorfavs.com/) - 创建和发现美丽的调色板和颜色.
+- [Colormind](http://www.colormind.io/) -  Colormind是一种使用深度学习的配色方案.
+- [iColorpalette](https://icolorpalette.com) - 按颜色或主题创建，浏览或导出（aco，ase，svg，png，pdf）调色板.
 
 ## Color Palettes
-- [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
-- [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
-- [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
-- [UI Gradients](http://uigradients.com/) - Handpicked collection of beautiful colour gradients.
-- [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - Discover the new color palettes.
-- [Color Palettes](http://colorpalettes.net/) - Decorate your house, flat, bedroom, kitchen, living room and wedding with color ideas.
-- [Design Seeds](http://www.design-seeds.com/) - Colors found in nature and the aesthetic of purposeful living.
-- [Gradients](http://thewebrocks.com/demos/gradientsio/v2.html) - Curated gradients.
-- [Colour Names](http://colours.neilorangepeel.com/) - List of colour names in CSS.
-- [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
-- [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
-- [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
-- [Cohesive Colors](http://javier.xyz/cohesive-colors/) - A tool to create cohesive color schemes.
-- [Colordrop](https://colordrop.io/) - A collection of great looking color palettes.
-- [Open Color](https://yeun.github.io/open-color/) - Colors tested on deuteranopia and protanopia mode.
-- [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
-- [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
-- [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
-- [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-- [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+- [ColorHunt](http://colorhunt.co/) - 具有快速预览功能的调色板.
+- [COLOURlovers](http://www.colourlovers.com/) - 用于创建调色板和图案设计的工具.
+- [Swiss Style Color Picker](http://www.swisscolors.net/) - 调色板集合.
+- [UI Gradients](http://uigradients.com/) - 精心挑选的美丽色彩渐变系列.
+- [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - 发现新的调色板.
+- [Color Palettes](http://colorpalettes.net/) - 装饰你的房子，公寓，卧室，厨房，客厅和婚礼与颜色的想法.
+- [Design Seeds](http://www.design-seeds.com/) - 在自然中发现的色彩和有目的的生活美学.
+- [Gradients](http://thewebrocks.com/demos/gradientsio/v2.html) - 精选渐变.
+- [Colour Names](http://colours.neilorangepeel.com/) -  CSS中的颜色名称列表.
+- [LOL Colors](http://www.lolcolors.com/palettes/popular) - 精心调色的灵感.
+- [BrandColors](http://brandcolors.net/) - 世界上最大品牌的官方颜色代码.
+- [Color Lisa](http://www.colorlisa.com/) - 世界上最伟大的艺术家的色彩杰作.
+- [Cohesive Colors](http://javier.xyz/cohesive-colors/) - 创建有凝聚力的配色方案的工具.
+- [Colordrop](https://colordrop.io/) - 一系列外观漂亮的调色板.
+- [Open Color](https://yeun.github.io/open-color/) - 在deuteranopia和protanopia模式下测试的颜色.
+- [ColorClaim](http://www.vanschneider.com/colors) - 微妙的色彩组合.
+- [Color Farm](http://color.farm/) - 精选的Dribbble镜头精心挑选的颜色.
+- [WebGradients](https://webgradients.com/) -  180个线性渐变的免费集合.
+- [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) -  cubehelix颜色方案系列的资源.
+- [Color Name List](https://github.com/meodai/color-names/) - 巨大的独特颜色名称列表.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
@@ -116,5 +116,5 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+图片学分 -  [Aleks和ar Savić](https://dribbble.com/almigor) 和 [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

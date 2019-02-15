@@ -3,32 +3,32 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Web Components resources.
+&gt;精选的Web组件资源的精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
-> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
-- **Custom Elements** provide a way for authors to build their own fully-featured DOM elements.
+-  **自定义元素**为作者提供了一种构建自己的全功能DOM元素的方法.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
   - [W3C HTML 5.3 Working Draft](https://www.w3.org/TR/html53/semantics-scripting.html#custom-elements-core-concepts)
   - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-element)
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
-- **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
+-  ** Shadow DOM **描述了一种将多个DOM树组合成一个层次结构的方法，以及这些树如何在文档中相互交互，从而实现更好的DOM组合.
   - [W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)
-  - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
-  - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
-  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#shadow-trees), section 4.2.2: shadow tree
-  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-shadowroot), section 4.8: interface `ShadowRoot`
+  - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees)，第4.2.2节：影子树
+  - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot)，第4.8节：接口`ShadowRoot`
+  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#shadow-trees)，第4.2.2节：影子树
+  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-shadowroot)，第4.8节：接口`ShadowRoot`
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
-- **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
+  -  **` <template>  `**元素用于声明可以通过脚本克隆并插入到文档中的HTML片段.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [W3C HTML 5.1 2nd Edition](https://www.w3.org/TR/html51/semantics-scripting.html#the-template-element)
 
@@ -72,11 +72,11 @@
 
 ## Polyfills
 
-- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - Suite of polyfills supporting the HTML Web Components specs.
-- [custom-elements](https://github.com/webcomponents/custom-elements) - Polyfill for HTML Custom Elements v1.
-- [shadydom](https://github.com/webcomponents/shadydom) - ShadowDOM v1 shim.
-- [shadycss](https://github.com/webcomponents/shadycss) - ShadowDOM style encapsulation shim.
-- [template](https://github.com/webcomponents/template) - Minimal polyfill for `<template>`.
+- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - 支持HTML Web Components规范的polyfill套件.
+- [custom-elements](https://github.com/webcomponents/custom-elements) - 用于HTML自定义元素v1的Polyfill.
+- [shadydom](https://github.com/webcomponents/shadydom) -  ShadowDOM v1垫片.
+- [shadycss](https://github.com/webcomponents/shadycss) -  ShadowDOM样式封装垫片.
+- [template](https://github.com/webcomponents/template)   - `的最小polyfill <template>  `.
 
 ## Best Practices
 
@@ -101,41 +101,41 @@
 
 ## Discover
 
-- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - Simple todo list built with various Web Components technologies.
+- [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
+- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.
 
 ## Libraries
 
 ### Class Based
 
-- [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
-- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
-- [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
-- [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-- [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
-- [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
-- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
+- [Corpuscule](https://github.com/corpusculejs/corpuscule) - 基于装饰器的小型Web组件框架.
+- [LitElement](https://lit-element.polymer-project.org)   - 用于创建快速，轻量级Web组件的简单基类.  聚合物项目的一部分.
+- [Omi](https://github.com/Tencent/omi) -  4kb JavaScript中的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
+- [Polymer](https://polymer-library.polymer-project.org) -  Polymer Project作者的原始Web组件库.
+- [Skate](https://github.com/skatejs/skatejs) -  Web组件库，专注于功能渲染管道和小占用空间.
+- [slim.js](https://github.com/slimjs/slim.js) - 基于现代标准的快速，强大的前端微框架.
+- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - 用于使用简单API创建自定义元素的UI库.
 
 ### Functional
 
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
-- [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
-- [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
+- [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
+- [osagai](https://github.com/HenriqueLimas/osagai) - 以功能方式创建Web组件的小型库.
+- [Switzerland](https://github.com/Wildhoney/Switzerland) - 允许通过中间件功能以功能方式创建Web组件的库.
+- [ullr](https://github.com/aggre/ullr) - 用于使用函数式编程构建Web组件的库.
 
 ### Other
 
-- [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
-- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component.
+- [custom-element-ts](https://github.com/geocine/custom-elements-ts) - 使用Typescript创建本机自定义元素，而不使用任何第三方库.
+- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - 从预执行组件生成/注册自定义元素.
 
 ## Component Libraries
 
-- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
-- [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
-- [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
+- [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
+- [Vaadin components](https://github.com/vaadin/vaadin) - 用于构建业务Web应用程序的不断发展的高质量Web组件集.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - 具有手绘，粗略外观的常见UI元素集.
 
 ## Frameworks
 
@@ -160,17 +160,17 @@
 
 ## Compilers
 
-- [Stencil](https://stenciljs.com/docs/introduction/) - compiler that generates web components.
-- [Svelte](https://svelte.technology/guide#custom-elements) - compiler which can be configured to generate custom elements.
+- [Stencil](https://stenciljs.com/docs/introduction/) - 生成Web组件的编译器.
+- [Svelte](https://svelte.technology/guide#custom-elements) - 可配置为生成自定义元素的编译器.
 
 ## Books
 
-- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
+- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - 由Ben Farrell预订，可在Manning早期发布计划中找到.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) - 由Cory Rylan预订，Leanpub提供早期预览版.
 
 ## Tutorials
 
-- "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
+- “**让我们构建Web组件！**” [Benny Powers](https://github.com/bennypowers)
   - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
   - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
   - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
@@ -178,20 +178,20 @@
   - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
   - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
 
-- "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
+- “** Web组件：从零到英雄**”由 [Pascal Schilp](https://github.com/thepassle)
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
 ## Blogs
 
-- [Polymer Blog](https://www.polymer-project.org/blog/) - The latest goings-on with the Polymer project and in the community.
+- [Polymer Blog](https://www.polymer-project.org/blog/) -  Polymer项目和社区的最新进展.
 
 ## History
 
-The articles below represent a long story of the Web Components specifications on the way towards the standardization.
-Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
-These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
+下面的文章代表了标准化过程中Web组件规范的长篇故事.
+其中一些涉及早期的，所谓的“v0”Shadow DOM和自定义元素规范，以及废弃的HTML Imports规范.
+这些材料仅出于历史原因，按年份分组并按时间顺序列出.
 
 ### 2017
 
@@ -239,17 +239,17 @@ These materials are here for historical reasons only, they are grouped by years 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 - [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
-- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
-- [Intent to Ship: CSS shadow parts](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) - Blink implementation update, 10.12.2018.
+- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) -  Chrome平台状态功能.
+- [Intent to Ship: CSS shadow parts](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) -  Blink实施更新，10.12.2018.
 - [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
 - [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
 
 ### Form-associated Custom Elements
 
 - [GitHub issue](https://github.com/w3c/webcomponents/issues/187)
-- [Intent to Implement: Form-associated custom elements](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/HW8j_JLLiPo) - Blink implementation update, 16.11.2018.
-- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
-- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+- [Intent to Implement: Form-associated custom elements](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/HW8j_JLLiPo) -  Blink实施更新，16.11.2018.
+- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) -  Google Chrome小组提供的文档.
+- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) -  Chrome平台状态功能.
 
 ### Constructable Stylesheet Objects
 
@@ -257,8 +257,8 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Specification Draft](https://wicg.github.io/construct-stylesheets/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
-- [Intent to Ship: Constructable Stylesheet Objects](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) - Blink implementation update, 13.12.2018.
-- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
+- [Intent to Ship: Constructable Stylesheet Objects](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) -  Blink实施更新，13.12.2018.
+- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -  Chrome平台状态功能.
 - [GitHub issue for Polymer integration](https://github.com/Polymer/polymer/issues/5456)
 - [GitHub issue for lit-html integration](https://github.com/Polymer/lit-html/issues/689)
 
@@ -270,25 +270,25 @@ These materials are here for historical reasons only, they are grouped by years 
       <td align="center">
         <a href="https://twitter.com/ChromiumDev">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_80x80.jpg">
-          <div>Chrome Developers</div>
+          <div> Chrome开发者</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/polymer">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
-          <div>Polymer</div>
+          <div>聚合物</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/MSEdgeUpdates">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_80x80.jpg">
-          <div>Edge Platform Updates</div>
+          <div>边缘平台更新</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/web_components">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div>Web Components</div>
+          <div> Web组件</div>
         </a>
       </td>
     </tr>
@@ -296,25 +296,25 @@ These materials are here for historical reasons only, they are grouped by years 
       <td align="center">
         <a href="https://twitter.com/shadow_hayato">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_80x80.png">
-          <div>Hayato Ito</div>
+          <div>隼人伊藤</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/rob_dodson">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_80x80.jpg">
-          <div>Rob Dodson</div>
+          <div>罗布多德森</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/ebidel">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
-          <div>Eric Bidelman</div>
+          <div>埃里克·比德曼</div>
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/justinfagnani">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
-          <div>Justin Fagnani</div>
+          <div>贾斯汀法加尼</div>
         </a>
       </td>
     </tr>
@@ -323,9 +323,9 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ## License
 
-Copyright 2014-2018, All rights reserved.
+版权所有2014-2018，保留所有权利.
 
-Code licensed under the:
+根据以下许可的代码：
 [MIT license](http://mateusortiz.mit-license.org)
 
 @author Mateus Ortiz <mteusortiz@gmail.com>

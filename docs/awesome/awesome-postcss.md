@@ -6,9 +6,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jdrgomes/awesome-postcss.svg?branch=master)](https://travis-ci.org/jdrgomes/awesome-postcss)
 
-> An selected list of PostCSS resources and other things related.
+&gt;选定的PostCSS资源列表和其他相关内容.
 
-**PostCSS** does is provide a css parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed css. PostCSS parses css into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), passes it through a series of plugins, and then concatenates back into a string.
+ ** PostCSS **提供了一个css解析器和一个框架，用于创建可以分析，lint，处理资产，优化，创建回退以及以其他方式转换已解析的css的插件.  PostCSS将css解析为抽象语法树 [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)，传递它通过一系列插件，然后连接回一个字符串.
 
 
     - [Articles](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/articles.md)
@@ -22,7 +22,7 @@
     
 ### Contributing
 
-Your contributions are always welcome. But, please take a quick gander at the [CONTRIBUTION guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) first.
+ 欢迎您的贡献.  但是，请快速了解一下 [CONTRIBUTION guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) 第一.
 
 ### Who to follow
 
@@ -37,4 +37,4 @@ Your contributions are always welcome. But, please take a quick gander at the [C
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This project is licensed under the MIT license - see the [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) for details.
+该项目根据MIT许可证授权 - 请参阅 [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) 详情.
