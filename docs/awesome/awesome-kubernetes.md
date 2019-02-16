@@ -60,8 +60,6 @@ download the awesome kubernetes release up to a certain period of time, The rele
 Menu
 =======================================================================
 
-* [Books](#books) :books:
-* [Videos](#videos) :tv:
 
 
 -----------------------------------------------------------------------
@@ -515,6 +513,7 @@ Projects
 * [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - Framework to easily deploy Kubernetes applications via GitLab.
 * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+* [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
 
 ## Serverless Implementations
 

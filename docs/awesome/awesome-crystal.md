@@ -115,6 +115,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
+ * [JSON tools](https://github.com/impatienttraveller/json-tools) - An implementation of JSON Patch and Pointer RFC's
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
@@ -430,6 +431,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [webdriver_pump](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
