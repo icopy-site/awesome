@@ -117,7 +117,6 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [mmstick/systemd-manager](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
 * [pop-os/debrep](https://github.com/pop-os/debrepbuild) — APT repository tool for building and managing an APT repo
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
-* [pop-os/pop-recovery](https://github.com/pop-os/pop-recovery) — Utility for updating the recovery partition on a Pop!\_OS install.
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 * [sharkdp/fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
 
@@ -257,7 +256,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [sfackler/rust-jni-sys](https://raw.githubusercontent.com/sfackler/rust-jni-sys) [[jni-sys](https://crates.io/crates/jni-sys)] — Rust definitions corresponding to jni.h [<img src="https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master">](https://travis-ci.org/sfackler/rust-jni-sys)
 * Lua
   * [jcmoyer/rust-lua53](https://raw.githubusercontent.com/jcmoyer/rust-lua53) — Lua 5.3 bindings for Rust [<img src="https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master">](https://travis-ci.org/jcmoyer/rust-lua53)
-  * [kballard/rust-lua](https://raw.githubusercontent.com/kballard/rust-lua) — Safe Rust bindings to Lua 5.1 [<img src="https://api.travis-ci.org/kballard/rust-lua.svg">](https://travis-ci.org/kballard/rust-lua)
+  * [kballard/rust-lua](https://raw.githubusercontent.com/lilyball/rust-lua) — Safe Rust bindings to Lua 5.1 [<img src="https://api.travis-ci.org/lilyball/rust-lua.svg">](https://travis-ci.org/lilyball/rust-lua)
   * [tickbh/td_rlua](https://raw.githubusercontent.com/tickbh/td_rlua) — Zero-cost high-level lua 5.3 wrapper for Rust [<img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master">](https://travis-ci.org/tickbh/td_rlua)
   * [tomaka/hlua](https://raw.githubusercontent.com/tomaka/hlua) — Rust library to interface with Lua [<img src="https://api.travis-ci.org/tomaka/hlua.svg?branch=master">](https://travis-ci.org/tomaka/hlua)
 * mruby
@@ -437,7 +436,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [TeXitoi/structopt](https://raw.githubusercontent.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)] — parse command line argument by defining a struct [<img src="https://api.travis-ci.org/TeXitoi/structopt.svg?branch=master">](https://travis-ci.org/TeXitoi/structopt)
   * [killercup/quicli](https://raw.githubusercontent.com/killercup/quicli) [[quicli](https://crates.io/crates/quicli)] — quickly build cool CLI apps in Rust [<img src="https://api.travis-ci.org/killercup/quicli.svg">](https://travis-ci.org/killercup/quicli)
 * Human-centered design
-  * [rust-clique/human-panic](https://raw.githubusercontent.com/rust-clique/human-panic) [[human-panic](https://crates.io/crates/human-panic)] — panic messages for humans [<img src="https://api.travis-ci.org/rust-clique/human-panic.svg">](https://travis-ci.org/rust-clique/human-panic)
+  * [rust-cli/human-panic](https://raw.githubusercontent.com/rust-cli/human-panic) [[human-panic](https://crates.io/crates/human-panic)] — panic messages for humans [<img src="https://api.travis-ci.org/rust-cli/human-panic.svg">](https://travis-ci.org/rust-cli/human-panic)
 * Line editor
   * [srijs/rust-copperline](https://github.com/srijs/rust-copperline) [[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
   * [MovingtoMars/liner](https://raw.githubusercontent.com/MovingtoMars/liner) [[liner](https://crates.io/crates/liner)] — a library offering readline-like functionality [<img src="https://api.travis-ci.org/MovingtoMars/liner.svg">](https://travis-ci.org/MovingtoMars/liner)
@@ -539,6 +538,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 [[database](https://crates.io/keywords/database)]
 
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
+  * [ArangoDB](https://argangodb.com/)
+     * [Rincon](https://github.com/innoave/rincon) - An ArangoDB (NoSQL and Graph store) driver for Rust
   * [Cassandra](http://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://raw.githubusercontent.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [<img src="https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master">](https://travis-ci.org/AlexPikalov/cdrs)
     * [Metaswitch/cassandra-rs](https://raw.githubusercontent.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
@@ -569,6 +570,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     * [zitsen/unqlite.rs](https://raw.githubusercontent.com/zitsen/unqlite.rs) — UnQLite bindings [<img src="https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master">](https://travis-ci.org/zitsen/unqlite.rs)
   * [ZooKeeper](https://zookeeper.apache.org/)
     * [bonifaido/rust-zookeeper](https://raw.githubusercontent.com/bonifaido/rust-zookeeper) [[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [<img src="https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master">](https://travis-ci.org/bonifaido/rust-zookeeper)
+  * [PickleDB](https://pythonhosted.org/pickleDB/)
+    * [seladb/pickledb-rs](https://raw.githubusercontent.com/seladb/pickledb-rs) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB. [<img src="https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master">](https://travis-ci.org/seladb/pickledb-rs)
 * SQL [[sql](https://crates.io/keywords/sql)]
   * Microsoft SQL
     * [steffengy/tiberius](https://raw.githubusercontent.com/steffengy/tiberius) — [<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
@@ -783,10 +786,10 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [dcampbell24/iup-rust](https://raw.githubusercontent.com/dcampbell24/iup-rust) — IUP bindings [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — a simple UI framework built on IUP [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
 * [libui](https://github.com/andlabs/libui)
-  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) — libui bindings [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs). Abandoned project. The most updated fork is [LeoTindall/libui-rs](https://raw.githubusercontent.com/LeoTindall/libui-rs).
+  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) — libui bindings [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs). Abandoned project. The most updated fork is [NoraCodes/libui-rs](https://raw.githubusercontent.com/NoraCodes/libui-rs).
 * [Nuklear](https://github.com/vurtun/nuklear)
   * [nuklear-rust](https://raw.githubusercontent.com/snuk182/nuklear-rust) — Rust bindings for Nuklear [<img src="https://api.travis-ci.org/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
-* [Qt](http://doc.qt.io)
+* [Qt](https://doc.qt.io)
   * [cyndis/qmlrs](https://raw.githubusercontent.com/cyndis/qmlrs) — QtQuick bindings [<img src="https://api.travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
   * [kitech/qt.rs](https://raw.githubusercontent.com/kitech/qt.rs) — Qt5 bindings [<img src="https://api.travis-ci.org/kitech/qt.rs.svg?branch=master">](https://travis-ci.org/kitech/qt.rs)
   * [Rust Qt Binding Generator](https://phabricator.kde.org/source/rust-qt-binding-generator/) — Binding generator hosted by KDE.
@@ -1010,7 +1013,7 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
   * [rust-learning](https://github.com/ctjhoa/rust-learning) — a collection of useful resources to learn Rust
-  * [Rustlings](https://github.com/rustlings/rustlings) — small exercises to get you used to reading and writing Rust code
+  * [Rustlings](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
   * [stdx](https://github.com/brson/stdx) — Learn these crates first as an extension to std
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
