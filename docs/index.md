@@ -154,6 +154,7 @@
 - [ActionScript 3](awesome/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta](awesome/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris](awesome/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential. 
 
 
 ## Front-End Development
@@ -500,7 +501,6 @@
 - [Boilerplate Projects](awesome/awesome-projects-boilerplates.md)
 - [Readme](awesome/awesome-readme.md)
 - [Tools](awesome/ToolsOfTheTrade.md)
-- [Styleguides](awesome/awesome-styleguides.md)
 - [Design and Development Guides](awesome/guides.md)
 - [Software Engineering Blogs](awesome/engineering-blogs.md)
 - [Self Hosted](awesome/awesome-selfhosted.md)

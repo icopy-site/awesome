@@ -158,6 +158,7 @@
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 - [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
 - [Brad Garropy](https://github.com/bradgarropy/ama) - Python DevOps at [Dell](https://www.delltechnologies.com) by day, whiskey and JavaScript by night.
+- [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 #### Ask these organizations anything!
 
@@ -170,6 +171,7 @@
 - [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
+- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 
 ---

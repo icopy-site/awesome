@@ -88,6 +88,7 @@
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites.
+- [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 
 ## API
 
@@ -178,6 +179,7 @@
 - [Dynamic Static Sites with Netlify and iOS Shortcuts; Use Netlify Functions, a Gulp build process and iOS Shortcuts to publish dynamic content to your static site](https://bryanlrobinson.com/blog/2018/11/12/ios-shortcuts-pushing-data-to-netlify-static-site/)
 - [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
 - [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
+- [Going JAMstack with Netlify and Nuxt](https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/)
 
 ## Podcasts
 
