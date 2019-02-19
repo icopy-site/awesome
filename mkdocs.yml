@@ -121,6 +121,7 @@ nav:
     - ActionScript 3: awesome/awesome-actionscript3.md
     - Eta: awesome/awesome-eta.md
     - Idris: awesome/awesome-idris.md
+    - Ada/SPARK: awesome/awesome-ada.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -415,7 +416,6 @@ nav:
     - Boilerplate Projects: awesome/awesome-projects-boilerplates.md
     - Readme: awesome/awesome-readme.md
     - Tools: awesome/ToolsOfTheTrade.md
-    - Styleguides: awesome/awesome-styleguides.md
     - Design and Development Guides: awesome/guides.md
     - Software Engineering Blogs: awesome/engineering-blogs.md
     - Self Hosted: awesome/awesome-selfhosted.md

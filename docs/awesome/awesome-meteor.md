@@ -155,6 +155,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) - This package provides a simple way to use AnyChart JavaScript charting component in Meteor.
 * [aldeed:tabular](https://github.com/aldeed/meteor-tabular) - Reactive datatables for large or small datasets.
 * [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) - Reactive and paginated item list.
+* [luixal:meteor-apexcharts](https://github.com/luixal/meteor-apexcharts) - Reactive ApexCharts library packaged for Meteor.
 
 ## Analytics
 
@@ -213,6 +214,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
+* [Rocket.Chat](https://rocket.chat/)
 
 ## Front End Frameworks
 

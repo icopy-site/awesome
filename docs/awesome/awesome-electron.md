@@ -37,6 +37,7 @@ Made with Electron.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 
 ###### Other
 
@@ -153,7 +154,6 @@ Made with Electron.
 - [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - Control the brightness of any display.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
-- [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
@@ -172,6 +172,8 @@ Made with Electron.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 - [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app.
 - [Etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+- [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window.
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Closed Source
 
@@ -302,6 +304,7 @@ Made with Electron.
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 - [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 
 ### Using Electron
 
@@ -352,6 +355,7 @@ Made with Electron.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) - Realm rewrote their database browser app with Electron for cross-platform support.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - Focused on design and code decisions and Electron security.
+- [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
 
 ## Books

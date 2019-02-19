@@ -45,6 +45,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [pareto-js](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript
 * [fpEs](https://github.com/TeaEntityLab/fpEs/) - A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript
 * [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land.
+* [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl), supporting RFC (Remote Function Call).
 
 ### Data Structures
 
@@ -157,6 +158,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Anonymous Recursion in JavaScript](https://dev.to/simov/anonymous-recursion-in-javascript) - Short and easy to understand article about implementing anonymous recursion in JavaScript.
 * [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/) – Step by step explanation of how to compose functions in javascript.
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f) - Practical code examples to learn functional programming concepts like pure function, immutability, first-class entities, and higher order functions
+* [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - Introduction to 2 easy monads in Javascript, Maybe & Either.
 
 ### Videos
 

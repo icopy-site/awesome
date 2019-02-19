@@ -35,7 +35,10 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [OCamlgraph](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 - [ods](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 - [combine](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
-- [Decompress](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib
+- [Decompress](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+- [Ke](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+- [Duff](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+
 
 ## Application Libraries
 
@@ -197,6 +200,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode)
+  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode)
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
   - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
