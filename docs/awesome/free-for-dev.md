@@ -51,6 +51,9 @@ Table of Contents
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Ipgeolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 50k requests per month limit.
   * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
+  * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
+  * [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in server and perform local query to determine city, coordinates and ISP information.
+  * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detects all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
 
 ## Artifact Repos
 
@@ -533,7 +536,7 @@ Table of Contents
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
    * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages
    * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
-   * [gitpod.io](https://gitpod.io) — Instant, ready-to-code dev environmments for GitHub projects. Free for open-source.
+   * [gitpod.io](https://gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open-source.
 
 ## Analytics, Events and Statistics
 

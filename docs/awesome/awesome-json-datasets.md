@@ -5,7 +5,7 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Link of the month:* [Foreign Exchange Rates](https://exchangeratesapi.io/)
+> *Link of the month:* [Open Source Licenses approved by the OSI on ZingGrid](https://github.com/jdorfman/awesome-json-datasets/blob/master/ https://app.zingsoft.com/demos/create/8KZ22YOL)
 
 _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
 

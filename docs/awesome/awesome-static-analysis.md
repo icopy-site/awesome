@@ -92,6 +92,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [flawfinder](http://www.dwheeler.com/flawfinder/) - finds possible security weaknesses
 * [flint++](http://l2program.co.uk/category/flint) - cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 * [Frama-C](http://frama-c.com/) - a sound and extensible static analyzer for C code
+* [Helix QAC](https://www.perforce.com/products/helix-qac) :copyright: - Enterprise-grade static analysis for embedded software. Supports MISRA, CERT, and AUTOSAR coding standards.
 * [IKOS](https://github.com/nasa-sw-vnv/ikos) - a sound static analyzer for C/C++ code based on LLVM
 * [include-gardener](https://github.com/feddischson/include_gardener) - a static analyzer for C/C++/Obj-C to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 * [oclint](http://oclint.org/) - static analysis of C/C++ code
@@ -343,7 +344,10 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 ## R
 
-* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) - Quantifies the cyclomatic complexity of R functions / expressions.
+* [goodpractice](http://mangothecat.github.io/goodpractice/) - Analyses the source code for R packages and provides best-practice recommendations.
+* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R.
+* [styler](https://styler.r-lib.org/) - Formatting of R source code files and pretty-printing of R code.
 
 ## RPG
 
