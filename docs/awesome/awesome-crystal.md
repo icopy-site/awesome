@@ -57,7 +57,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
- * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
+ * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
@@ -246,6 +246,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
+ * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (Crystal stdlib)
@@ -339,11 +340,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
- * [core](https://github.com/vladfaust/core) - Pure, transparent and efficient ORM
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
+ * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [stal-crystal](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
@@ -469,7 +470,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
- * [prism](https://github.com/vladfaust/prism) - Lightspeed web framework with typed params
+ * [onyx-rest](https://github.com/onyxframework/rest) - REST API framework with type-safe params and separate business and rendering layers, based on [onyx-http](https://github.com/onyxframework/http)
  * [raze](https://github.com/samueleaton/raze) - Modular, light web framework
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 

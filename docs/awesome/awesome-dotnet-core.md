@@ -788,9 +788,10 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ## Community
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
+* [Awesome .NET open source & community resources](https://discoverdot.net)
 * [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 * [BuiltWithDot.Net](https://builtwithdot.net)
 * Stack Overflow

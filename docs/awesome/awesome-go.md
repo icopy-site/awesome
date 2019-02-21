@@ -110,6 +110,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
 * [go-commander](https://github.com/yitsushi/go-commander) - Go library to simplify CLI workflow.
 * [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser.
+* [go-getoptions](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired on the flexibility of Perl’s GetOpt::Long.
 * [gocmd](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 * [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
 * [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands.
@@ -130,6 +131,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building Console Applications and Console User Interfaces.*
 
+* [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf.
 * [cfmt](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
 * [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
@@ -234,18 +236,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goset](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
 * [goskiplist](https://github.com/ryszard/goskiplist) - Skip list implementation in Go.
 * [gota](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go.
+* [hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
 * [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
 * [hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 * [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 * [levenshtein](https://github.com/agnivade/levenshtein) - Implementation to calculate levenshtein distance in Go.
 * [mafsa](https://github.com/smartystreets/mafsa) - MA-FSA implementation with Minimal Perfect Hashing.
 * [mspm](https://github.com/BlackRabbitt/mspm) - Multi-String Pattern Matching Algorithm for information retrieval.
+* [null](https://github.com/emvi/null) - Nullable Go types that can be marshalled/unmarshalled to/from JSON.
 * [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 * [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 * [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
 * [set](https://github.com/StudioSol/set) - Simple set data structure implementation in Go using LinkedHashMap.
 * [skiplist](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
 * [skiplist](https://github.com/gansidui/skiplist) - Skiplist implementation in Go.
+* [timedmap](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
 * [trie](https://github.com/derekparker/trie) - Trie implementation in Go.
 * [ttlcache](https://github.com/diegobernardes/ttlcache) - In-memory LRU string-interface{} map with expiration for golang.
 * [willf/bloom](https://github.com/willf/bloom) - Go package implementing Bloom filters.
@@ -292,7 +297,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [darwin](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 * [go-fixtures](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
 * [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - A Go package to help write migrations with go-pg/pg.
-* [gondolier](https://github.com/emvicom/gondolier) - Gondolier is a library to auto migrate database schemas using structs.
 * [goose](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
 * [gormigrate](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm ORM.
 * [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -420,6 +424,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [doublejump](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash.
 * [drmaa](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
 * [dynamolock](https://cirello.io/dynamolock) - DynamoDB-backed distributed locking implementation.
+* [dynatomic](https://github.com/tylfin/dynatomic) - A library for using DynamoDB as an atomic counter.
 * [emitter-io](https://github.com/emitter-io/emitter) - High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.
 * [flowgraph](https://github.com/vectaport/flowgraph) - flow-based programming package.
 * [gleam](https://github.com/chrislusf/gleam) - Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.
@@ -436,6 +441,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [KrakenD](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway framework with middlewares.
 * [micro](https://github.com/micro/micro) - Pluggable microservice toolkit and distributed systems platform.
 * [NATS](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
+* [outboxer](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 * [pglock](https://cirello.io/pglock) - PostgreSQL-backed distributed locking implementation.
 * [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol, by HashiCorp.
 * [raft](https://github.com/coreos/etcd/tree/master/raft) - Go implementation of the Raft consensus protocol, by CoreOS.
@@ -493,6 +499,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [errors](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
 * [errorx](https://github.com/joomcode/errorx) - A feature rich error package with stack traces, composition of errors and more.
 * [go-multierror](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
+* [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 * [werr](https://github.com/txgruppi/werr) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
 
 ## Files
@@ -611,6 +618,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [ants](https://github.com/panjf2000/ants) - A high-performance goroutine pool for golang.
 * [artifex](https://github.com/borderstech/artifex) - Simple in-memory job queue for Golang using worker-based dispatching.
 * [async](https://github.com/studiosol/async) - A safe way to execute functions asynchronously, recovering them in case of panic.
+* [breaker](https://github.com/kamilsk/breaker) - 🚧 Flexible mechanism to make your code breakable.
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) - CyclicBarrier for golang.
 * [go-floc](https://github.com/workanator/go-floc) - Orchestrate goroutines with ease.
 * [go-flow](https://github.com/kamildrazkiewicz/go-flow) - Control goroutines execution order.
@@ -1515,6 +1523,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [onecache](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
 * [panicparse](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
 * [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
+* [pgo](https://github.com/arthurkushman/pgo) - Convenient functions for PHP community.
 * [pm](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 * [profile](https://github.com/pkg/profile) - Simple profiling support package for Go.
 * [rclient](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
@@ -1816,6 +1825,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
 * [Packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester.
+* [Pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 * [Rodent](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).

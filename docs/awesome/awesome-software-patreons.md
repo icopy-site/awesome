@@ -39,7 +39,6 @@ _Projects released with an open source license._
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
-- [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
@@ -50,7 +49,6 @@ _Projects released with an open source license._
 - [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
-- [Parinfer](https://www.patreon.com/shaunlebron) - Clojure editor plugin.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 - [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 - [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
@@ -107,7 +105,6 @@ _Games and game-related projects._
 
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
-- [Dark Flame](https://www.patreon.com/BorishDugdum) - 2D Action RPG. 
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
@@ -132,7 +129,6 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
 - [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
-- [Ethan Lee](https://www.patreon.com/flibitijibibo) - XNA Preservation Tools and Linux/macOS games.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
@@ -144,6 +140,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
+- [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
@@ -199,18 +196,12 @@ _Articles, videos, podcasts, etc..._
 
 - [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 - [Destination Linux](https://www.patreon.com/destinationlinux) - Linux discussion and news related podcast.
-- [Fatal Error](https://www.patreon.com/fatalerror) - Programming.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 - [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
 - [Software Defined Talk](https://www.patreon.com/sdt) - Enterprise software. 
 - [The Debug Log](https://www.patreon.com/thedebuglog) - Game development. 
 - [The Development Hell Podcast](https://www.patreon.com/devhell) - Web programming. 
-- [The Elixir Fountain](https://www.patreon.com/elixirfountain) - Elixir news. 
 - [This Week in Linux](https://www.patreon.com/tuxdigital) - Linux News Podcast, 2-3 times more topics per episode than other podcasts.
-
-### Newsletters
-
-- [iOS Goodies](https://www.patreon.com/iosgoodies) - iOS newsletter. 
 
 
 ## Open Source Art
