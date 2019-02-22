@@ -581,6 +581,7 @@
 - [Speakers](awesome/awesome-speakers.md) - Conference and meetup speakers in the programming and design community.
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
+- [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
 
 
 ## License
