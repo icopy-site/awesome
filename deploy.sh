@@ -18,5 +18,5 @@ if [ "$1" != "dry" ]; then
     git config user.name "Travis Builder"
     git config user.email "$EMAIL"
 fi
-
+cp search_index.py /home/travis/virtualenv/python3.6.3/lib/python3.6/site-packages/mkdocs/contrib/search/search_index.py
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
