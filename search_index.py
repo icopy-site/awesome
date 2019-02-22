@@ -93,7 +93,7 @@ class SearchIndex(object):
         if toc_item is not None:
             self._add_entry(
                 title=toc_item.title,
-                text=title,
+                text=toc_item.title,
                 loc=abs_url + toc_item.url
             )
 
