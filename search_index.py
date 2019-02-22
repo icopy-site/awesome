@@ -93,7 +93,7 @@ class SearchIndex(object):
         if toc_item is not None:
             self._add_entry(
                 title=toc_item.title,
-                text=u" ".join(section.title),
+                text=title,
                 loc=abs_url + toc_item.url
             )
 
@@ -107,8 +107,7 @@ class SearchIndex(object):
 
         if self.config['prebuild_index']:
             try:
-                script_path = os.path.join(os.path.dirname(
-                    os.path.abspath(__file__)), 'prebuild-index.js')
+                script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'prebuild-index.js')
                 p = subprocess.Popen(
                     ['node', script_path],
                     stdin=subprocess.PIPE,
@@ -117,18 +116,14 @@ class SearchIndex(object):
                 )
                 idx, err = p.communicate(data.encode('utf-8'))
                 if not err:
-                    idx = idx.decode('utf-8') if hasattr(idx,
-                                                         'decode') else idx
+                    idx = idx.decode('utf-8') if hasattr(idx, 'decode') else idx
                     page_dicts['index'] = json.loads(idx)
-                    data = json.dumps(
-                        page_dicts, sort_keys=True, separators=(',', ':'))
+                    data = json.dumps(page_dicts, sort_keys=True, separators=(',', ':'))
                     log.debug('Pre-built search index created successfully.')
                 else:
-                    log.warning(
-                        'Failed to pre-build search index. Error: {}'.format(err))
+                    log.warning('Failed to pre-build search index. Error: {}'.format(err))
             except (OSError, IOError, ValueError) as e:
-                log.warning(
-                    'Failed to pre-build search index. Error: {}'.format(e))
+                log.warning('Failed to pre-build search index. Error: {}'.format(e))
 
         return data
 
