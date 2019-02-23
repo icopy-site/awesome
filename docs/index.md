@@ -6,31 +6,9 @@
 	<p>
 		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
 	</p>
-	<p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
-		</a>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
-		</a>
-	</p>
 	<br>
 	<br>
 </div>
-
-<!--
-<p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
-	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
-</p>
-
-<br>
--->
 
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
@@ -39,6 +17,12 @@
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
 </p>
+
+<br>
+
+<div align="center">
+	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+</div>
 
 <br>
 
@@ -89,6 +73,8 @@
 - [DigitalOcean](awesome/awesome-digitalocean.md) - Cloud computing platform designed for developers.
 - [Flutter](awesome/awesome-flutter.md) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Home Assistant](awesome/awesome-home-assistant.md) - Open source home automation that puts local control and privacy first.
+- [IBM Cloud](awesome/awesome-ibmcloud.md) - Cloud platform for developers and companies.
+- [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud Platform.
 
 
 ## Programming Languages
@@ -154,7 +140,7 @@
 - [ActionScript 3](awesome/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta](awesome/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris](awesome/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
-- [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential. 
+- [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 
 ## Front-End Development
@@ -479,6 +465,7 @@
 - [Non-Financial Blockchain](awesome/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
 - [Mastodon](awesome/awesome-mastodon.md) - Open source decentralized microblogging network.
 - [Ethereum](awesome/Awesome-Ethereum.md) - Distributed computing platform for smart contract development.
+- [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
 
 ## Miscellaneous
 
@@ -582,6 +569,13 @@
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
 - [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
+- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
+- [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - Start accepting Bitcoin.
+
+
+## Related
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 
 
 ## License

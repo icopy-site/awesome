@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
 ## Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
+
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hackerkid)
 
@@ -9,6 +10,8 @@
 
 
 ## Books
+
+I just started an online community for book lovers at https://books.zulipchat.com. Became a founding member by joining now!
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  

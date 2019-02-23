@@ -54,6 +54,8 @@ nav:
     - DigitalOcean: awesome/awesome-digitalocean.md
     - Flutter: awesome/awesome-flutter.md
     - Home Assistant: awesome/awesome-home-assistant.md
+    - IBM Cloud: awesome/awesome-ibmcloud.md
+    - Firebase: awesome/awesome-firebase.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -395,6 +397,7 @@ nav:
     - Non-Financial Blockchain: awesome/awesome-non-financial-blockchain.md
     - Mastodon: awesome/awesome-mastodon.md
     - Ethereum: awesome/Awesome-Ethereum.md
+    - Blockchain AI: awesome/awesome-blockchain-ai.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -498,6 +501,9 @@ nav:
     - Software Patreons: awesome/awesome-software-patreons.md
     - Parasite: awesome/awesome-parasite.md
     - Food: awesome/awesome-food.md
+    - Mental Health: awesome/awesome-mental-health.md
+    - Bitcoin Payment Processors: awesome/awesome-bitcoin-payment-processors.md
+  - Related:
 
 
 # Theme
