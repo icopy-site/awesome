@@ -74,7 +74,7 @@ Starting Point
 * [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
-* [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) by [Rajdeep Dua](https://twitter.com/rajdeepdua)
+* [Getting Started on Kubernetes] - http://containertutorials.com/get_started_kubernetes/index.html by [Rajdeep Dua](https://twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes by Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) by [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
@@ -104,12 +104,10 @@ Installers
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostique - Cloud Agnostique
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
 * [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS
-* [Kismatic](https://github.com/apprenda/kismatic) - CentOS - Cloud Agnostique
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
 * [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
-* [Archon](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - OS Agnostique - Cloud Agnostique
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
@@ -218,7 +216,7 @@ Useful Articles
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) by Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) by [Sebastien Goasguen](https://twitter.com/sebgoa)
-* [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
+* [Nginx Server Deployment using Kubernetes]- http://containertutorials.com/get_started_kubernetes/k8s_example.html by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
@@ -243,6 +241,7 @@ Useful Articles
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
+* [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)
 
 Managed Kubernetes
 =======================================================================
@@ -255,11 +254,11 @@ Managed Kubernetes
 
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
-  - [Gardener](https://github.com/gardener/gardener) - AWS, Azure, GCP, and OpenStack cluster manager
+  - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
   - [Kubermatic](http://www.loodse.com/)
   - [Rancher](https://rancher.com/)
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
-  - [Telekube](https://gravitational.com/telekube/)
+  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
 
 
@@ -276,28 +275,27 @@ Managed Kubernetes
 
 
 
-  - [CoreOS Tectonic](http://tectonic.com)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
+  - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
 
 
    - [GKE](https://cloud.google.com/container-engine/) - Google Kubernetes Engine
    - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) - Azure Kubernetes Service
-   - [Vsphere](http://www.vmware.com/products/vsphere.html) - VMWare VSphere
+   - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
    - [Rackspace](https://www.rackspace.com/en-in) - Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) - Alibaba Cloud Container Service for Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
-   - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
 
 
    *Kubernetes Platform as a Service providers*
 
+  - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -430,11 +428,9 @@ Projects
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-* [KubeSpray](https://github.com/kubespray)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
-* [Archon](https://github.com/kubeup/archon)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
@@ -462,7 +458,7 @@ Projects
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
-* [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.  
+* [New Relic](https://newrelic.com/platform/kubernetes) - Kubernetes monitoring and visualization service.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - monitoring Kubernetes, OpenShift and Docker in Splunk Enterprise and Splunk Cloud (metrics and log forwarding)
 * [Prometheus](http://prometheus.io)
 * [Sysdig Monitoring](https://www.sysdig.com/)
@@ -612,14 +608,15 @@ Projects
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin using Elastic Network Interfaces
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - CNI plugin supporting load balancing and distributed firewalls.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Cisco ACI](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/kb/b_Kubernetes_Integration_with_ACI.html) - CNI plugin from Cisco support ACI fabrics
 
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
-* [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
+* [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Conduit](http://conduit.io/)
+* [Consul](https://www.consul.io/docs/platform/k8s/index.html)
 
 ## RPC
 
@@ -774,6 +771,7 @@ Projects
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
+* [Talos](https://github.com/autonomy/talos)
 
 ## YAML/JSON Config
 

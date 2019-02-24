@@ -87,6 +87,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 * [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 * [Design Systems Weekly](https://designsystems.email/). Get the latest on how others are building, scaling and preventing entropy in their design systems delivered to your inbox.
+* [realusers.club](https://realusers.club). Real user interviews, delivered weekly.
 
 ### HTML5
 * [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
