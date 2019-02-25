@@ -54,7 +54,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) — In-depth book for Elm beginners, from Manning Publications.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
-* [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
+* [Start app](http://package.elm-lang.org/packages/evancz/start-app/latest) - Make an app, start it up.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
@@ -77,6 +77,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Beginners' course to Elm and Data
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
 * [The Hitchhiker's Guide to Elm](http://azer.bike/journal/elm/) - Beginner-friendly guide for learning the language and building apps with it
+* [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
 
 
 
@@ -143,20 +144,24 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 
 
-## Languages
+## Beyond the DOM
 
 * [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
+* [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+* [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+* [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+
 
 
 ## Libraries
 
 *Useful helpers to build apps.*
 
-* [core](https://github.com/elm-lang/core) - Elm Core Libraries.
-* [html](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
+* [core](https://github.com/elm/core) - Elm Core Libraries.
+* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
-* [http](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
+* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
@@ -165,6 +170,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
+* [style-elements](https://github.com/mdgriffith/style-elements) - A new way to generate web UI that makes it easier to deal with layout and stylings. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
 
 
 
@@ -188,6 +194,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 
 
 
@@ -249,6 +256,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
+* [Elm on Alpine](https://github.com/wunsh/docker-alpine-elm) - The full working Docker image of Elm language built on top of Alpine. An easy way to start with Elm. No any system-wide dependencies except for Docker.
 
 
 
