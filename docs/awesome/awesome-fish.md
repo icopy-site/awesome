@@ -49,6 +49,10 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - Completion-rich, true [nvm](https://github.com/creationix/nvm) wrapper
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - Pure-fish, no nonsense Node.js version manager
 
+### Python
+
+- [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
+
 ### Testing
 
 - [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 

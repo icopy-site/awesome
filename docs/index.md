@@ -4,7 +4,11 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
+		<sup>My open source work is supported by the community</sup>
+		<br>
+		<a href="https://www.patreon.com/sindresorhus">
+			<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+		</a>
 	</p>
 	<br>
 	<br>
@@ -94,6 +98,7 @@
 	- [Functional Programming](awesome/awesome-fp-js.md)
 	- [Observables](awesome/awesome-observables.md)
 	- [npm scripts](awesome/awesome-npm-scripts.md) - Task runner.
+	- [30 Seconds of Code](awesome/30-seconds-of-code.md) - Code snippets you can understand in 30 seconds.
 - [Swift](awesome/awesome-swift.md)
 	- [Education](awesome/Awesome-Swift-Education.md)
 	- [Playgrounds](awesome/Awesome-Swift-Playgrounds.md)
@@ -141,6 +146,7 @@
 - [Eta](awesome/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris](awesome/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+- [Q#](awesome/awesome-qsharp.md) - Domain-specific programming language used for expressing quantum algorithms.
 
 
 ## Front-End Development
@@ -251,6 +257,7 @@
 - [Speech and Natural Language Processing](awesome/speech-language-processing.md)
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
+	- [Question Answering](awesome/awesome-qa.md) - The science of asking and answering in natural language with a machine.
 - [Linguistics](awesome/awesome-linguistics.md)
 - [Cryptography](awesome/awesome-cryptography.md)
 	- [Papers](awesome/awesome-crypto-papers.md) - Theory basics for using cryptography by non-cryptographers.
@@ -312,6 +319,7 @@
 ## Gaming
 
 - [Game Development](awesome/magictools.md)
+- [Game Networking](awesome/Awesome-Game-Networking.md) - Network programming for multiplayer online games.
 - [Game Talks](awesome/awesome-gametalks.md)
 - [Godot](awesome/awesome-godot.md) - Game engine.
 - [Open Source Games](awesome/games.md)
@@ -322,6 +330,7 @@
 - [Game Boy Development](awesome/awesome-gbdev.md)
 - [Construct 2](awesome/awesome-construct.md) - Game engine.
 - [Gideros](awesome/awesome-gideros.md) - Game engine.
+- [Minecraft](awesome/awesome-minecraft.md) - Sandbox video game.
 
 
 ## Development Environment
@@ -369,6 +378,7 @@
 - [PostgreSQL](awesome/awesome-postgres.md) - Object-relational database.
 - [CouchDB](awesome/awesome-couchdb.md) - Document-oriented NoSQL database.
 - [HBase](awesome/awesome-hbase.md) - Distributed, scalable, big data store.
+- [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 
 ## Media
@@ -397,6 +407,7 @@
 - [Programming for Kids](awesome/awesome-programming-for-kids.md)
 - [Educational Games](awesome/awesome-eg.md) - Learn while playing.
 - [JavaScript Learning](awesome/awesome-javascript-learning.md)
+- [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
 
 
 ## Security
@@ -566,6 +577,7 @@
 - [FIRST Robotics Competition](awesome/awesome-frc.md) - International high school robotics championship.
 - [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
 - [Speakers](awesome/awesome-speakers.md) - Conference and meetup speakers in the programming and design community.
+- [Board Games](awesome/awesome-board-games.md) - Table-top gaming fun for all.
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
 - [Food](awesome/awesome-food.md) - Food-related projects on GitHub.

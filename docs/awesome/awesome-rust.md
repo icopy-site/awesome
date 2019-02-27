@@ -31,6 +31,7 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 
 ### Cryptocurrencies
 
+* [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — A Rust library for working with Bitcoin SV .
 * [nearprotocol/nearcore](https://github.com/nearprotocol/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 * [Grin](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 * [Substrate](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
@@ -542,13 +543,15 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 [[database](https://crates.io/keywords/database)]
 
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
-  * [ArangoDB](https://argangodb.com/)
+
+  * [ArangoDB](https://www.arangodb.com)
      * [Rincon](https://github.com/innoave/rincon) - An ArangoDB (NoSQL and Graph store) driver for Rust
   * [Cassandra](http://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://raw.githubusercontent.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)] — native client written in Rust [<img src="https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master">](https://travis-ci.org/AlexPikalov/cdrs)
     * [Metaswitch/cassandra-rs](https://raw.githubusercontent.com/Metaswitch/cassandra-rs) —  bindings to the DataStax C/C++ client [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
   * CouchDB [[couchdb](https://crates.io/keywords/couchdb)]
     * [chill-rs/chill](https://raw.githubusercontent.com/chill-rs/chill) [[couchdb](https://crates.io/crates/chill)] — a Rust client for the CouchDB REST API [<img src="https://api.travis-ci.org/chill-rs/chill.svg?branch=master">](https://travis-ci.org/chill-rs/chill)
+    * [Sofa](https://github.com/YellowInnovation/sofa) - an interface to CouchDB HTTP REST API for stable rust
   * Elasticsearch [[elasticsearch](https://crates.io/keywords/elasticsearch)]
     * [benashford/rs-es](https://raw.githubusercontent.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)] — a Rust client for the [Elastic](https://www.elastic.co/) REST API [<img src="https://api.travis-ci.org/benashford/rs-es.svg?branch=master">](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic-reqwest](https://raw.githubusercontent.com/elastic-rs/elastic-reqwest) [[elastic_reqwest](https://crates.io/crates/elastic_reqwest)] — a lightweight implementation of the Elasticsearch API based on Reqwest [<img src="https://api.travis-ci.org/elastic-rs/elastic-reqwest.svg">](https://travis-ci.org/elastic-rs/elastic-reqwest)

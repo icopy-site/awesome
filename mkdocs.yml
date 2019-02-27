@@ -73,6 +73,7 @@ nav:
       - Functional Programming: awesome/awesome-fp-js.md
       - Observables: awesome/awesome-observables.md
       - npm scripts: awesome/awesome-npm-scripts.md
+      - 30 Seconds of Code: awesome/30-seconds-of-code.md
     - Swift: awesome/awesome-swift.md
     - Swift_sub: 
       - Education: awesome/Awesome-Swift-Education.md
@@ -124,6 +125,7 @@ nav:
     - Eta: awesome/awesome-eta.md
     - Idris: awesome/awesome-idris.md
     - Ada/SPARK: awesome/awesome-ada.md
+    - Q#: awesome/awesome-qsharp.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -233,6 +235,7 @@ nav:
     - Speech and Natural Language Processing_sub: 
       - Spanish: awesome/awesome-spanish-nlp.md
       - NLP with Ruby: awesome/nlp-with-ruby.md
+      - Question Answering: awesome/awesome-qa.md
     - Linguistics: awesome/awesome-linguistics.md
     - Cryptography: awesome/awesome-cryptography.md
     - Cryptography_sub: 
@@ -279,6 +282,7 @@ nav:
     - Visual Studio Code: awesome/awesome-vscode.md
   - Gaming:
     - Game Development: awesome/magictools.md
+    - Game Networking: awesome/Awesome-Game-Networking.md
     - Game Talks: awesome/awesome-gametalks.md
     - Godot: awesome/awesome-godot.md
     - Open Source Games: awesome/games.md
@@ -289,6 +293,7 @@ nav:
     - Game Boy Development: awesome/awesome-gbdev.md
     - Construct 2: awesome/awesome-construct.md
     - Gideros: awesome/awesome-gideros.md
+    - Minecraft: awesome/awesome-minecraft.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -327,6 +332,7 @@ nav:
     - PostgreSQL: awesome/awesome-postgres.md
     - CouchDB: awesome/awesome-couchdb.md
     - HBase: awesome/awesome-hbase.md
+    - NoSQL Guides: awesome/awesome-nosql-guides.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -349,6 +355,7 @@ nav:
     - Programming for Kids: awesome/awesome-programming-for-kids.md
     - Educational Games: awesome/awesome-eg.md
     - JavaScript Learning: awesome/awesome-javascript-learning.md
+    - CSS Learning: awesome/awesome-css-learning.md
   - Security:
     - Application Security: awesome/awesome-appsec.md
     - Security: awesome/awesome-security.md
@@ -498,6 +505,7 @@ nav:
     - FIRST Robotics Competition: awesome/awesome-frc.md
     - Humane Technology: awesome/awesome-humane-tech.md
     - Speakers: awesome/awesome-speakers.md
+    - Board Games: awesome/awesome-board-games.md
     - Software Patreons: awesome/awesome-software-patreons.md
     - Parasite: awesome/awesome-parasite.md
     - Food: awesome/awesome-food.md
