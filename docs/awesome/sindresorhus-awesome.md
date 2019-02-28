@@ -159,6 +159,7 @@
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
@@ -242,6 +243,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
 
 
 ## Computer Science
@@ -326,7 +328,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - Fantasy console.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.

@@ -630,4 +630,5 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android).
 * [Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
+* [HockeyApp](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.

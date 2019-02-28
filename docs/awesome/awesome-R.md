@@ -89,10 +89,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [Radiant](https://radiant-rstats.github.io/docs) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R.
 * [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
-* [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
+* [Jamovi](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/) - Desktop software for both Bayesian and Frequentist methods, using a UI familiar to SPSS users.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
-* [rtichoke](https://github.com/randy3k/rtichoke) - A modern R console with syntax highlighting.
+* [radian](https://github.com/randy3k/radian) (formerly rtichoke) - A modern R console with syntax highlighting.
 * [RKWard](https://rkward.kde.org/) - An extensible IDE/GUI for R.
 
 ## Syntax
@@ -251,6 +251,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Machine Learning
 *Packages for making R cleverer.*
 
+* [anomalize](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - Mining Association Rules and Frequent Itemsets
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests: Classification and Regression Forests for
@@ -297,6 +298,7 @@ covariates
 * [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
 * [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - Classification and visualization
 * [kohonen](http://cran.r-project.org/web/packages/kohonen/) - Supervised and Unsupervised Self-Organising Maps.
+* [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) - Least Angle Regression, Lasso and Forward Stagewise
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - Linear Predictive Models Based On The Liblinear C/C++ Library

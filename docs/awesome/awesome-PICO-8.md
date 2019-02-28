@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="felipebueno/awesome-PICO-8"></div>
+<div class="github-widget" data-repo="pico-8/awesome-PICO-8"></div>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -125,7 +125,7 @@ How to install the font(s):
 
 Great! :smiley:
 
-Please, read the [contribution guidelines](https://github.com/felipebueno/awesome-PICO-8/blob/master/CONTRIBUTING.md) first.
+Please, read the [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
@@ -133,4 +133,4 @@ Please, read the [contribution guidelines](https://github.com/felipebueno/awesom
 
 To the extent possible under law, [Felipe Bueno](https://twitter.com/felipebueno) has waived all copyright and related or neighboring rights to this work.
 
-See [https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) for more information.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) for more information.

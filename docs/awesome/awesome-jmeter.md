@@ -1,13 +1,14 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
-## Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome JMeter 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/jmeter-logo.svg?sanitize=true" align="right" width="260">](http://jmeter.apache.org/)
 
-A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
+> A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
 
 - [Books](#books)    
@@ -255,9 +256,9 @@ This list grew up from [my answer on Stack Exchange](https://sqa.stackexchange.c
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome!<br />
 Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

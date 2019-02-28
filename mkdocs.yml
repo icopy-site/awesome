@@ -136,6 +136,7 @@ nav:
       - Scalability: awesome/scalable-css-reading-list.md
       - Must-Watch Talks: awesome/must-watch-css.md
       - Protips: awesome/css-protips.md
+      - Frameworks: awesome/awesome-css-frameworks.md
     - React: awesome/awesome-react.md
     - React_sub: 
       - Relay: awesome/awesome-relay.md
@@ -221,6 +222,7 @@ nav:
     - Vert.x: awesome/vertx-awesome.md
     - Terraform: awesome/awesome-terraform.md
     - Vapor: awesome/awesome-vapor.md
+    - Dash: awesome/awesome-dash.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
