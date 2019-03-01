@@ -548,6 +548,7 @@ Projects
 * [KubeVirt](https://github.com/kubevirt)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
+* [Istio](https://github.com/banzaicloud/istio-operator)
 
 ## Custom Schedulers
 
@@ -941,6 +942,7 @@ Meetup Groups
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [San Francisco](https://twitter.com/kubernetesSF)
 * [Seattle](https://www.meetup.com/Seattle-Kubernetes-Meetup/)
+* [Tunisia](https://www.meetup.com/Kubernetes-Cloud-Native-Tunisia/)
 * [Worldwide](https://www.meetup.com/kubernauts/)
 
 

@@ -180,7 +180,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
 * [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
-* [Consul Cluster Manager](https://github.com/romalev/vertx-consul-cluster-manager) - Consul cluster manager.
+* [Consul Cluster Manager](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
 
 ## Cloud Support
 
