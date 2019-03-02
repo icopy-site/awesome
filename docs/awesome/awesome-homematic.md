@@ -32,13 +32,12 @@
 
 ## Mobile Apps
 
-* [@home](http://www.athomeapp.de/) - iOS
-* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - 💵 (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
+* [@home](http://www.athomeapp.de/) - iOS - (💵 inApp-Purchase um Werbung zu entfernen)
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - (💵 inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - 💵 Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - 💵 iOS
 * [TinyMatic](https://www.tinymatic.de/) - 💵 Android (ehemals: HomeDroid)
 * [HomeNOW](http://homenow.at) - 💵 Android
-* [Orbylon](https://www.orbylon.de/orbylon) - 💵 iOS, Android, Windows Phone
 * [Pocket Control](https://www.penzler.de) - 💵 iOS
 
 
@@ -116,6 +115,10 @@
 * [Mediola](https://www.mediola.com/) - 💵
 * [OpenHAB](https://www.openhab.org/)
 * [Pimatic](https://pimatic.org/)
+
+## Misc
+
+* [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
 
 
 ## Contribute
