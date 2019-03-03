@@ -138,27 +138,39 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bitly-client](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility.
 - [doing](https://github.com/ttscoff/doing/) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
-- [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface.
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
 - [Taskwarrior](http://taskwarrior.org) - Free and Open Source Software that manages your TODO list from your command line.
-- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 - [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker.
 - [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
-- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command.
 - [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 - [calcurse](http://calcurse.org/) - Calcurse, a calendar and scheduling application for the command line.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
 - [papis](http://github.com/alejandrogallo/papis) - Powerful and extensible document and bibliography manager.
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+
+### Time Tracking
+
+- [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command.
+
+### Note Taking and Lists
+
+- [idea](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
+- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
+
+### Finance
+
+- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using CLI.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert 32 currencies from the command line!
+- [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 
 ## Utilities
 
@@ -175,7 +187,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
-- [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using CLI.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
@@ -184,6 +195,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+- [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
 
 ### macOS
 
@@ -195,6 +208,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
+
+### Terminal Utilities
+
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
+- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
+- [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
 
 ## Command Line Learning
 
@@ -208,10 +235,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
 
-
 ## Data Manipulation
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/).
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
@@ -220,7 +246,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Files and Directories
 
-### File managers
+### File Managers
 
 - [ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
@@ -232,7 +258,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
-- [trashss](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
@@ -244,6 +269,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 
 ### Directory Listing
 
@@ -252,7 +279,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Directory Navigation
 
-- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki).
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z](https://github.com/rupa/z) - z is the new j, yo.
@@ -261,21 +288,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 - [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z.
 - [goto](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
-
-## Terminal Utilities
-
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
-- [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
-- [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
-- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
-- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
-- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
-- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 
 ## Version Control
 
