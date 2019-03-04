@@ -56,6 +56,7 @@ nav:
     - Home Assistant: awesome/awesome-home-assistant.md
     - IBM Cloud: awesome/awesome-ibmcloud.md
     - Firebase: awesome/awesome-firebase.md
+    - Robot Operating System 2.0: awesome/awesome-ros2.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -407,6 +408,7 @@ nav:
     - Mastodon: awesome/awesome-mastodon.md
     - Ethereum: awesome/Awesome-Ethereum.md
     - Blockchain AI: awesome/awesome-blockchain-ai.md
+    - EOSIO: awesome/awesome-eosio.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -513,6 +515,9 @@ nav:
     - Food: awesome/awesome-food.md
     - Mental Health: awesome/awesome-mental-health.md
     - Bitcoin Payment Processors: awesome/awesome-bitcoin-payment-processors.md
+    - Scientific Computing: awesome/awesome-scientific-computing.md
+    - Amazon Sellers: awesome/awesome-amazon-seller.md
+    - Agriculture: awesome/awesome-agriculture.md
 
 
 # Theme

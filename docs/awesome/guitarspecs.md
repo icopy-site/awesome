@@ -2,14 +2,12 @@
 
 ## Electric Guitar Specifications
 
+
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
-It can help you to build a guitar with specific sound and playability characteristics.
+It can help you to build a guitar with specific sound and playability characteristics. Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing. [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![Electric Guitar Specifications](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/Sound-and-Playability.jpg)
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-Please read [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing.
 
 
 
@@ -169,24 +167,25 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 #### Flat Mount Hardtail Routing
 
-     Flat Mount Hardtail:    Vintage Tele:       Standard Tele:       Schaller:
-     ...o.o.o.o.o.o...      ..o...o...o...o..   ...o.o.o.o.o.o...
-     ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
+         "Strat"                "Tele"                "Tele"              "Schaller"
+    Vintage & Standard          Vintage               Standard
+    ...o.o.o.o.o.o...       ..o...o...o...o..     ...o.o.o.o.o.o...
+    ..o.....o.....o..       ...o.o.o.o.o.o...     ..o.....o.....o..    ...o....o....o...
 
 
 Model               | E/e              |  Sites holes Ø    | Sites holes dist | holes   | Bridge hole Ø  | Bridgehole dist
 --------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Vintage Strat       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Vintage Narrow Strat| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Standard Strat      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
-Vintage Tele        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
-Standard Tele       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
+Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
+Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
+Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
+Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
 Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (0.125")| -
 
 
 #### Tremolo Routing
 
-    "Vintage":                  "Standard":
+         Vintage                     Standard
     ..o..o..o..o..o...o...      .....O.......O.....
 
 Model                  | E/e               | holes     | holes dist.      | holes Ø
@@ -202,12 +201,12 @@ Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 
 
 #### Tune-O-Matic Gibson Style Routing
 
-    Tune-O-Matic:                       TOM "strings through the body":
-    Steg         ..........o......
-    Steg         ....o............     ....o.o.o.o.o.o...
-    Seitenhalter ..o..........o...     ..o............o..
+                  Tune-O-Matic        TOM "strings through the body"
+    Tailpiece    ..........o......
+    Tailpiece    ....o............     ....o.o.o.o.o.o...
+    Bridge       ..o..........o...     ..o............o..
 
-Model       |  E/e       | bridge       | tailpiece         | tailpiece top     |  tailpiece bottom | Ø
+Model       |  E/e       | Bridge       | Tailpiece         | Tailpiece Top     | Tailpiece Bottom | Ø
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
 Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| ca 82 mm*         | 38 mm (1.49")     | 41 mm (1.61")     | ca. 11 mm (0.44")
 
@@ -226,39 +225,28 @@ Moreover, there are other rare variants:
   
 ### Pickup Routing
 
-Description  | Av. length/width/depth*
---------------|------------------------------------
-Single Coils Strat     	  | mm (")
-Humbucker 		  	  	 | mm (")
-Wide Humbucker** 		 | mm (")
-Mini Humbucker 		   | mm (")
-Tele Neck  		      | mm (")
-Tele Bridge  		  	 | mm (")
-P90  		          	 | mm (")
-Lipstick Tube  		   | mm (")
-Jazzmaster              | mm (")
+Description  | Av.length/width/depth* | Pickup Frames Design
+--------------|---------------| --------------
+Single Coils Strat     	  | - |
+Humbucker 		  	  	 | - | Flat, Curved, High(bridge), Low(neck)
+Wide Humbucker** 		 | - | Flat, Curved, High(bridge), Low(neck)
+Mini Humbucker 		   | - | 
+Tele Neck  		      | - |
+Tele Bridge  		  	 | - |
+P90  		          	 | - |
+Lipstick Tube  		   | - |
+Jazzmaster              | - |
 
-*Exact specifications can be found on the manufacturer's website.
+*Exact specifications can be found on the manufacturer's website like:
+> [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
 
-**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker" can be used for guitars with larger sting distance with standard "Humbucker Routing"
-
-> Seymourduncan.com says:
-> "A quick and easy way to tell which you need is to measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Trembucker. If it’s less than two inches or 50mm, go for a humbucker."
+**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
 
 
 ----------
 
 ## Hardware
 ![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
-
-### Tuning Machines
-![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
-
-Tuning Machines Options:
-
- - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
-   Larger ratio (1:18 > 1:14) allows finer adjustments.
- - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
 ### Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
@@ -271,11 +259,19 @@ Good manufacturers provide detailed product information on their pages:
 >  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
 
+### Tuning Machines
+![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
+
+Tuning Machines Options:
+ - Configuration: 3L+3R, 6-in-Line
+ - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
+   Larger ratio (1:18 > 1:14) allows finer adjustments.
+ - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
+ 
 ### Knob Styles
 ![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
 
 There are 3 common styles of knobs:
-
  - bell
  - speed
  - domed
@@ -292,7 +288,6 @@ There are 3 common styles of knobs:
  - String Ferrules (if you use "string through body"  instead of bridge)
  - String Retainers
  - Strap Holders
-
 
 For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
 
@@ -372,7 +367,6 @@ More wiring schemas from:
 
 >- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [bareknucklepickups](https://bareknucklepickups.co.uk/main/schematics.php)
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 
 ### Potentiometer and Capacitor Values

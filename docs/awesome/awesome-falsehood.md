@@ -65,6 +65,9 @@ true.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
+- [Falsehoods About
+Cars](https://github.com/driveto/falsehoods-about-cars) -
+Even something as common as defining a car is full of pitfalls.
 - [CLDR currency
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
@@ -138,9 +141,9 @@ Covers coordinates, projection and GIS.
 - [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 The article that started it all.
-- [Falsehoods About
-Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
-of human identity and has its own subtleties.
+- Falsehoods About Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) &
+[#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -
+Gender is part of human identity and has its own subtleties.
 - [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) -
 How to store a marriage in a database while addressing most of the falsehoods
 about gender, naming and relationships.
@@ -219,6 +222,9 @@ international phone numbers. Also available for
 - [Falsehoods About
 Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) -
 Covers streets, postal codes, buildings, cities and countries.
+- [Falsehoods About
+Residence](https://twitter.com/samphippen/status/813896916534784004) -
+It's not only about the address itself, but the relationship between a person and its residence.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.

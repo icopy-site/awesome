@@ -79,6 +79,7 @@
 - [Home Assistant](awesome/awesome-home-assistant.md) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](awesome/awesome-ibmcloud.md) - Cloud platform for developers and companies.
 - [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud Platform.
+- [Robot Operating System 2.0](awesome/awesome-ros2.md) - Set of software libraries and tools that help you build robot apps.
 
 
 ## Programming Languages
@@ -479,6 +480,7 @@
 - [Mastodon](awesome/awesome-mastodon.md) - Open source decentralized microblogging network.
 - [Ethereum](awesome/Awesome-Ethereum.md) - Distributed computing platform for smart contract development.
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
+- [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
 
 ## Miscellaneous
 
@@ -585,6 +587,9 @@
 - [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
 - [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - Start accepting Bitcoin.
+- [Scientific Computing](awesome/awesome-scientific-computing.md) - Solving complex scientific problems using computers.
+- [Amazon Sellers](awesome/awesome-amazon-seller.md)
+- [Agriculture](awesome/awesome-agriculture.md) - Open source technology for farming and gardening.
 
 
 ## Related
