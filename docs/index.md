@@ -590,6 +590,7 @@
 - [Scientific Computing](awesome/awesome-scientific-computing.md) - Solving complex scientific problems using computers.
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
 - [Agriculture](awesome/awesome-agriculture.md) - Open source technology for farming and gardening.
+- [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
 
 
 ## Related

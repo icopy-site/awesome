@@ -17,12 +17,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fliqlo.png)](http://fliqlo.com/)
 
-### Padbury Clock
-
-> A very simple clock screensaver.
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/padburyClock.png)](http://padbury.me/clock/)
-
 ### Today
 
 > Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
@@ -72,6 +66,12 @@ Free
 > Displays a solid color corresponding to the current time.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+
+### ScreenMazer
+
+> Continuously builds and then solves a maze, while displaying the current time.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
 ## iOS (and Apple TV) Inspired
 
@@ -188,6 +188,14 @@ Donationware
 Lite Version (Free) and Full Version ($3)
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
+### October 30
+
+> Smoothly changes between 371 Apple logos from their 2018 iPad event.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Other
 
