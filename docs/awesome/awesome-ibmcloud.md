@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="victorshinya/awesome-ibmcloud"></div>
 <div align="center">
-    <img width="559" height="388" src="https://raw.githubusercontent.com/victorshinya/awesome-ibmcloud/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
+    <img width="253.5" height="340" src="https://raw.githubusercontent.com/victorshinya/awesome-ibmcloud/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
