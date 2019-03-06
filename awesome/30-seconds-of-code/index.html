@@ -12307,10 +12307,10 @@ Recursively flatten each element that is an array.</p>
 
 <h3 id="differenceby">differenceBy<a class="headerlink" href="#differenceby" title="Permanent link">&para;</a></h3>
 <p>Returns the difference between two arrays, after applying the provided function to each array element of both.</p>
-<p>Create a <code>Set</code> by applying <code>fn</code> to each element in <code>b</code>, then use <code>Array.prototype.filter()</code> in combination with <code>fn</code> on <code>a</code> to only keep values not contained in the previously created set.</p>
+<p>Create a <code>Set</code> by applying <code>fn</code> to each element in <code>b</code>, then use <code>Array.prototype.map()</code> to apply <code>fn</code> to each element in <code>a</code>, then <code>Array.prototype.filter()</code></p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">differenceBy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
   <span class="kr">const</span> <span class="nx">s</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Set</span><span class="p">(</span><span class="nx">b</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">fn</span><span class="p">));</span>
-  <span class="k">return</span> <span class="nx">a</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">x</span> <span class="p">=&gt;</span> <span class="o">!</span><span class="nx">s</span><span class="p">.</span><span class="nx">has</span><span class="p">(</span><span class="nx">fn</span><span class="p">(</span><span class="nx">x</span><span class="p">)));</span>
+  <span class="k">return</span> <span class="nx">a</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">fn</span><span class="p">).</span><span class="nx">filter</span><span class="p">(</span><span class="nx">el</span> <span class="p">=&gt;</span> <span class="o">!</span><span class="nx">s</span><span class="p">.</span><span class="nx">has</span><span class="p">(</span><span class="nx">el</span><span class="p">));</span>
 <span class="p">};</span>
 </pre></div>
 
@@ -13086,9 +13086,9 @@ The <code>func</code> is invoked with three arguments (<code>value, index, array
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">remove</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">func</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">arr</span><span class="p">)</span>
     <span class="o">?</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">func</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
-      <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
-    <span class="p">},</span> <span class="p">[])</span>
+        <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
+        <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
+      <span class="p">},</span> <span class="p">[])</span>
     <span class="o">:</span> <span class="p">[];</span>
 </pre></div>
 
@@ -15082,8 +15082,8 @@ Throws an exception if <code>n</code> is a negative number.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">factorial</span> <span class="o">=</span> <span class="nx">n</span> <span class="p">=&gt;</span>
   <span class="nx">n</span> <span class="o">&lt;</span> <span class="mi">0</span>
     <span class="o">?</span> <span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
-    <span class="p">})()</span>
+        <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
+      <span class="p">})()</span>
     <span class="o">:</span> <span class="nx">n</span> <span class="o">&lt;=</span> <span class="mi">1</span>
       <span class="o">?</span> <span class="mi">1</span>
       <span class="o">:</span> <span class="nx">n</span> <span class="o">*</span> <span class="nx">factorial</span><span class="p">(</span><span class="nx">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
