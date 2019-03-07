@@ -291,6 +291,7 @@ Managed Kubernetes
    - [IKS](https://www.ibm.com/cloud/container-service) - IBM Cloud Kubernetes Service
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
+   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) - OVH Managed Kubernetes
 
 
    *Kubernetes Platform as a Service providers*
@@ -406,7 +407,7 @@ Developer Libraries/ Scripts
 *List of some libraries & scripts for executions and good referrals*
 
 
-   - [Pykube](https://github.com/kelproject/pykube)
+   - [Pykube](https://github.com/hjacobs/pykube)
 
 
    - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)

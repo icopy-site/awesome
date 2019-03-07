@@ -1,12 +1,7 @@
 <div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
-<h1 align="center">
+<p align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
-	<br>
-	<br>
-</h1>
-
-<br>
-<br>
+</p>
 
 ---
 
@@ -144,7 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com command line interface.
-- [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
+- [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira.
 - [ipt](https://github.com/drselump14/ipt) - Command line interface for pivotal tracker.
 - [g3l](https://github.com/svtek/g3l) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
@@ -204,7 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview. 
+- [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
 
 ### macOS
 
@@ -358,7 +353,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
+- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Terminal based Christmas YuleLog fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.

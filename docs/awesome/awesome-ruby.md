@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [TablePrint](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
+* [Whirly](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ## Cloud
 
@@ -277,6 +278,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+* [Peatio](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ## Dashboards
 
@@ -578,6 +580,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
+* [Sniffer](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 
 ## Image Processing
@@ -970,6 +973,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Social Networking
 
+* [Decidim](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network.
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
