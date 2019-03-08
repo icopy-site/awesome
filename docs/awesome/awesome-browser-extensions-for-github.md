@@ -561,6 +561,14 @@ ZenHub is the first and only project management suite that works natively within
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
 </details>
 
+
+This is a lightweight Chrome extension that automatically detects instances of [asciinema](https://asciinema.org) links in a README on GitHub and embeds the player in its place. Instead of being directed to the asciinema website to watch the "asciicast", watch it directly in the README (or any `.md`, `.rst`, `.textile`, [etc.](https://github.com/github/markup/blob/master/README.md#markups) file), thanks to the [embedded player widget](https://asciinema.org/docs/embedding). 🎉
+
+<details><summary>Screenshots</summary>
+
+ ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
+</details>
+
 ## Search
 
 

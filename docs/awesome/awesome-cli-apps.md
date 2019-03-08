@@ -74,8 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
 - [rebound](https://github.com/shobrook/rebound) - Instantly fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - CLI scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
-- [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
-- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
 
 ### Text Editors
 
@@ -110,12 +109,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reachable](https://github.com/italolelis/reachable) - Reachable is a CLI tool to check if a domain is up.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - Most simplest and direct way to start serving a local directory over HTTP from CLI.
 - [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive command-line HTTP client featuring autocomplete and syntax highlighting.
 
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+
+### Database
+
+- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
 
 ### Devops
 
@@ -125,11 +131,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [s3cmd](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 - [lstags](https://github.com/ivanilves/lstags) - Synchronize Docker images across different registries.
 
-## Database
+### Release
 
-- [cycli](https://github.com/nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [pgcli](https://github.com/dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [release](https://github.com/zeit/release) - Generate changelogs with a single command.
 
 ## Productivity
 
@@ -227,6 +234,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
 
+### Network Utilities
+
+- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
+- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speedtest-net with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
@@ -240,14 +255,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
-- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
-- [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
+
+### JSON
+
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+- [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+
+### Text
+
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Files and Directories
 
@@ -271,11 +296,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
+- [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
 
 ### Directory Listing
 
@@ -321,10 +346,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [git-extras](https://github.com/tj/git-extras) - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 
-### Changelogs
-
-- [clog](https://github.com/kentcdodds/clog-cli) - A conventional changelog for the rest of us.
-
 ## Images
 
 ### Gif Creation
@@ -345,11 +366,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### SVG
 
 - [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
-
-## Text Manipulation
-
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
-- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
 
 ## Screensavers
 
@@ -380,19 +396,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
-- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
-- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speedtest-net with different UI.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
 - [SpeedRead](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
