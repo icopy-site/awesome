@@ -209,6 +209,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
 * [Cache](https://github.com/soffes/Cache) - Swift caching library.
+* [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache. 
 
 ## Charts
 
@@ -427,6 +428,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model in Swift.
 * [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
 * [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
+* [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A pure Swift MongoDB client implementation with support for embedded databases.
 
 ## Data Structures / Algorithms
 
@@ -1523,7 +1525,6 @@ Most of these are paid services, some have free tiers.
 * [iOS-App-Security-Class](https://github.com/karek314/iOS-App-Security-Class) - Simple class to check if iOS app has been cracked, being debugged or enriched with custom dylib and as well detect jailbroken environment.
 * [BiometricAuth](https://github.com/vasilenkoigor/BiometricAuth) - Simple framework for biometric authentication (via TouchID) in your application
 * [SAPinViewController](https://github.com/siavashalipour/SAPinViewController) - Simple and easy to use default iOS PIN screen. This simple library allows you to draw a fully customisable PIN screen same as the iOS default PIN view. My inspiration to create this library was form THPinViewController, however SAPinViewController is completely implemented in Swift. Also the main purpose of creating this library was to have simple, easy to use and fully customisable PIN screen.
-* [VoiceItAPI1IosSDK](https://github.com/voiceittech/VoiceItAPI1IosSDK) - A super easy way to add Voice Authentication(Biometrics) to your iOS apps, conveniently usable via cocoapods
 * [TOPasscodeViewController](https://github.com/timoliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
 * [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication
 * [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - A customizable verification code textField for phone verification codes, passwords etc.
@@ -1725,7 +1726,6 @@ Most of these are paid services, some have free tiers.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [DVR](https://github.com/venmo/DVR) - Network testing for Swift
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework for Swift
-* [Parallel iOS Tests](https://github.com/plu/parallel_ios_tests) - Run iOS tests on multiple simulators in parallel at the same time
 * [Vinyl](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java
 * [Cribble](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps
@@ -1855,6 +1855,7 @@ Most of these are paid services, some have free tiers.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) - Elegant apply style, using Swift Method Chain.
 * [OverlayContainer](https://github.com/applidium/ADOverlayContainer) - A library to develop overlay based interfaces, such as the one presented in the iOS 12 Apple Maps or Stocks apps.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS.
+* [Sejima](https://github.com/MoveUpwards/Sejima) - A collection of User Interface components for iOS.
 
 
 ### Activity Indicator
@@ -2094,6 +2095,7 @@ Most of these are paid services, some have free tiers.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) - SHEET helps you easily create a wide variety of action sheets with navigation features used in the Flipboard App
 * [ALRT](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
 * [CatAlertController](https://github.com/ImKcat/CatAlertController) - Use UIAlertController like a boss.
+* [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
 
 ### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
@@ -2295,6 +2297,7 @@ Most of these are paid services, some have free tiers.
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3.
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 * [UIMenuScroll](https://github.com/AlekseyPleshkov/UIMenuScroll) - Creating the horizontal swiping navigation how on Facebook Messenger.
+* [CircleBar](https://github.com/softhausHQ/CircleBar) - 🔶 A fun, easy-to-use tab bar navigation controller for iOS.
 
 ### Navigation Bar
 * [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls
@@ -2729,6 +2732,9 @@ CollectionView, make Instagram Discover within minutes.
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
  * [Once](https://github.com/jianstm/Once) - Minimalist library to manage one-off operations.
  * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+ 
+## User Consent
+* [SmarltookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 
 ## VR
 * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS
@@ -2931,7 +2937,6 @@ CollectionView, make Instagram Discover within minutes.
 
 ## App Store
 
-* [Average App Store Review Times](https://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
 * [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections)  Highlighted some of the most common issues that cause apps to get rejected.
 * [Free App Store Optimization Tool](https://www.mobileaction.co) Lets you track your App Store visibility in terms of keywords and competitors.
 * [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
@@ -3118,7 +3123,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Core Intuition](http://coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
 * [Release Notes](https://releasenotes.tv/)
-* [More Than Just Code](http://mtjc.fm/)
+* [More Than Just Code](https://mtjc.fireside.fm/)
 * [Runtime](https://spec.fm/podcasts/runtime)
 * [Consult](http://consultpodcast.com/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)

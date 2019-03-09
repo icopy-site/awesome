@@ -24,12 +24,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
-- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com).
+- [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Music
 
@@ -59,6 +57,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [streamlink](https://github.com/streamlink/streamlink) - A command-line utility that pipes video streams from various services into a video player, such as VLC. The main purpose of Streamlink is to allow the user to avoid buggy and CPU heavy flash plugins but still be able to enjoy various streamed content.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - A command line Youtube player.
 
+### Movies
+- [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
+
 ### Games
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
@@ -86,7 +88,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) about browser support of feature.
-- [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
@@ -125,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Devops
 
+- [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
 - [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
@@ -170,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
+- [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
 
 ### Finance
 
@@ -383,6 +386,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Just for Fun
 
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
+- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 - [fortune](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
@@ -393,8 +397,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
@@ -417,6 +419,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
+
+### Emoji
+
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+- [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## Other Awesome Lists
 

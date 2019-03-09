@@ -115,7 +115,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
-- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](https://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
@@ -315,6 +315,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
 ![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
+
+## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
+
+> An extension for big projects or monorepos that colors your tab/titlebar based on the current package
+
+![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/example_gif.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
@@ -739,6 +745,15 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
+
+![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
+## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
+
+> Quickly generate interface definitions from typescript class
+
+![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
+
 ## Themes
 
 ## UI
@@ -910,12 +925,20 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
 </a>
 
-## [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
+### [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
 
 Collection of 320+ beautiful syntax and UI themes.
 
 <a href="https://vscodethemes.com/e/daylerees.rainglow">
   <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
+</a>
+
+### [Relaxed Theme by Michael Kühnel](https://vscodethemes.com/e/mischah.relaxed-theme)
+
+A relaxed theme to take a more relaxed view of things.
+
+<a href="https://vscodethemes.com/e/mischah.relaxed-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/relaxed-theme.png" width="600" />
 </a>
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
@@ -971,7 +994,7 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Tools
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
-- [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
+- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
@@ -1001,6 +1024,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/via
 
 I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Microsoft).
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.
