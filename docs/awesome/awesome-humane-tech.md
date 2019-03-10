@@ -48,6 +48,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
 - [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/google/password-alert) - Chrome extension by Google that warns about phishing attempts to your Google Account.
+- [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md)- Addon to protect us from common passwords via bundled _offline_ list 500006 entries
 
 ## Privacy
 
@@ -88,7 +89,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) - A tool to create Firefox configuration profiles with good defaults.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - A trackerless, privacy-respecting metasearch engine that can be self-hosted.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is whitelisted.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
 
 ## Consent
 
@@ -106,7 +107,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Countly/countly-server) - A self-hostable, real-time, mobile & web analytics, rich push notifications and crash reporting platform.
 
-## Blacklists
+## Blocklists
 
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
@@ -134,6 +135,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [GlobaLeaks](https://www.globaleaks.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
+- [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md)- Redirect all pages to snapshots in Wayback Machine + auto-save pages / auto-exclude sites.
 
 ## Geolocation
 
@@ -161,7 +163,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
 - [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
-- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) - Internet blocker for Linux with whitelists/blacklists and timer to help you be more productive at work.
+- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) - Internet blocker for Linux with allowLists/blockLists and timer to help you be more productive at work.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) - A ritual app for ending the work day inspired by Deep Work.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) - A Chrome / Firefox extension for taking periodic breaks, prevent RSI, eye-strain and tiredness.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.

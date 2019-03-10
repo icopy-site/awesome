@@ -5,7 +5,7 @@ A list of awesome beginners-friendly projects.
 
 Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) blog post and [YourFirstPR](http://yourfirstpr.github.io/) project.
 
-If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
 If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
@@ -118,9 +118,12 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AReactJS) _(label: Up For Grabs, Difficulty: Introductory, ReactJS)_ <br> Open source Slack-alternative in Golang and React
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+- [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue) _(label: good first issue)_ <br> Squirrelly is a lightweight template engine that supports helpers, filters, partials, and more.
+- [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue) _(label: good first issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
+- [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 
 ## Julia
 
@@ -161,6 +164,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
+- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
 
 ## Ruby
