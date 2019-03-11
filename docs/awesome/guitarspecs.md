@@ -82,15 +82,15 @@ Standard               | 42,9 mm (1-11/16") | approx. 35 mm
 Acoustic analog        | 44,5 mm (1-3/4")   | 35 mm till 37,5 mm
 Superwide (Warmoth)    | 48 mm (1-7/8")     | approx. 40 mm
 
-The real  e1 to E6 string space can be controlled not only through nut width, but also by slot spacing in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
+The real  e1 to E6 string spread can be controlled not only through nut width, but also by slot spread in the nut.  For example, 44.5 mm wide nut can have e1 to E6 distance between 35 and 37.5 mm.
 
-Category                | Neck Nut Width  |  e1/E6        | 2 strings      | e/E to edge
-------------------------|-----------------|---------------|----------------|---------------
-e/E analog 43 mm neck   | 44,5 mm (1-3/4")| 35 mm         | 7 mm           | 2 x 4.75 mm
-Ideal solution          | 44,5 mm (1-3/4")| 36.5 mm       | 7.3 mm         | 2 x 4 mm
-edge analog 43 mm neck  | 44,5 mm (1-3/4")| 37.5 mm       | 7.5 mm         | 2 x 3.5 mm
+Category             | String spacing |  e1/E6       | e1 to edge | Neck nut width  
+---------------------|----------------|--------------|----------- |-----------------
+Narrow string spread | 7 mm           | 35 mm        | 4.75 mm    | 44,5 mm (1-3/4")
+Medium string spread | 7.3 mm         | 36.5 mm      | 4 mm       | 44,5 mm (1-3/4")
+Wide string spread   | 7.5 mm         | 37.5 mm      | 3.5 mm     | 44,5 mm (1-3/4")
 
-> [graphtech.com ](http://www.graphtech.com/products/brands/tusq/tusq-guitar-nuts) - sizing guide and pre-slotted nuts
+> [graphtech - sizing guide and pre-slotted nuts (pdf)](http://www.graphtech.com/docs/default-document-library/quick-sizing-guide.pdf)
 
 
 ### Neck Heel Width and Mounting
@@ -164,57 +164,81 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 ### Bridge Routing
 
+#### Flat Mount Hardtail Strat
 
-#### Flat Mount Hardtail Routing
+                   Strat Vintage, Narrow & Standard                   
+    Sites holes    ...o.o.o.o.o.o...      
+    Bridge holes   ..o.....o.....o..    
 
-         "Strat"                "Tele"                "Tele"              "Schaller"
-    Vintage & Standard          Vintage               Standard
-    ...o.o.o.o.o.o...       ..o...o...o...o..     ...o.o.o.o.o.o...
-    ..o.....o.....o..       ...o.o.o.o.o.o...     ..o.....o.....o..    ...o....o....o...
+Model               | E/e          |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge holes distance
+--------------------|------------------|-------------------|------------------|----------------|-------------------
+Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
+Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
+Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
+#### Flat Mount Schaller
 
-Model               | E/e              |  Sites holes Ø    | Sites holes dist | holes   | Bridge hole Ø  | Bridgehole dist
---------------------|------------------|-------------------|------------------|---------|----------------|-------------
-Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 21 mm (.827")
-Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (.446")  | 3       | 3 mm (1/8")    | 22.6 mm (.89")
-Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")  | 4       | 3 mm (1/8")    | 21.6 mm (.85")
-Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3       | 3 mm (1/8")    | 32.4 mm (1.267")
-Schaller 47X        | 51 mm - 55,5 mm  |  -                | -                | 3       | 3.18mm (0.125")| -
+                 Schaller Flat Mount
+    Bridge holes ...o.....o.....o... 
 
-
-#### Tremolo Routing
-
-         Vintage                     Standard
-    ..o..o..o..o..o...o...      .....O.......O.....
-
-Model                  | E/e               | holes     | holes dist.      | holes Ø
------------------------|-------------------|-----------|------------------|--------------
-Mexico Strat           | 52,4 mm (2 1/16)  | 6         | 52,4 mm (2 1/16) | 3 mm (1/8")
-Vintage                | 56,36 mm (2 7/32")| 6         | 55,9 mm (2.2")   | 3 mm (1/8")
-American Standard      | 52,83 mm (2.08")  | 2         | 55,9 mm (2.2")   | 9,5 mm (.375")
-Floyd Rose ("recessed")| 53 mm (2-3/32")   | 2         | 74 mm (2.913")   | 9,91 mm (.390")
-Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 mm
-Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
-Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
+Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
+--------------------|------------------|-------------------|-----------------------|--- 
+Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
 
-#### Tune-O-Matic Gibson Style Routing
+#### Flat Mount Tele Style
 
-                  Tune-O-Matic        TOM "strings through the body"
+                 Tele Vintage                          Tele Standard         
+    Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
+    Sites holes  ...o.o.o.o.o.o...      Bridge holes   ..o.....o.....o.. 
+
+Model               | E/e              |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge hole distance
+--------------------|------------------|-------------------|----------------------|----------------|-------------
+Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")      | 3 mm (1/8")    | 21.6 mm (.85")
+Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413")     | 3 mm (1/8")    | 32.4 mm (1.267")
+
+
+#### Tremolo Vintage
+
+                   Vintage                
+    Bridge holes  ..o..o..o..o..o..o..     
+
+Model                  | E/e                | Holes distance   | Holes Ø
+-----------------------|------------------- |------------------|--------------
+Mexico Strat           | 52,4 mm (2 1/16)   | 52,4 mm (2 1/16) | 3 mm (1/8")
+Vintage                | 56,36 mm (2 7/32") | 55,9 mm (2.2")   | 3 mm (1/8")
+
+#### Tremolo Standard
+
+                   Standard
+    Bridge holes  ..o..........o..      
+
+Model                  | E/e                | Holes distance   | Holes Ø
+-----------------------|------------------- |------------------|--------------
+American Standard      | 52,83 mm (2.08")   | 55,9 mm (2.2")   | 9,5 mm (.375")
+Floyd Rose ("recessed")| 53 mm (2-3/32")    | 74 mm (2.913")   | 9,91 mm (.390")
+Schaller 2000          | 53,5 mm            | 56 mm            | 10 mm
+Schaller vintage       | 53,5 mm            | 74,3 mm          | 10 mm
+Wilkinson ("recessed") | 54 mm (2-1/8")     | 55,9 mm (2.2")   | 9,7 mm (.382")
+
+
+#### Tune-O-Matic Gibson Style
+
+                 Tune-O-Matic Recessed   Tune-O-Matic "Strings through the body"
     Tailpiece    ..........o......
     Tailpiece    ....o............     ....o.o.o.o.o.o...
     Bridge       ..o..........o...     ..o............o..
 
-Model       |  E/e       | Bridge       | Tailpiece         | Tailpiece Top     | Tailpiece Bottom | Ø
+Model       |  E/e       | Bridge       | Tailpiece         | Tailpiece Top     | Tailpiece Bottom  | Tailpiece Ø
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
-Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| ca 82 mm*         | 38 mm (1.49")     | 41 mm (1.61")     | ca. 11 mm (0.44")
+Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     | 41 mm (1.61")     | approx. 11 mm (0.44")
 
 Instead Tailpiece - there may be "strings through the body" drillings.
 
 
-Moreover, there are other rare variants:
+#### Other Rare Variants
 
+ - Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around) 
  - Jazzmaster®
  - Jaguar®
  - Bigsby®
@@ -248,6 +272,15 @@ Jazzmaster              | - |
 ## Hardware
 ![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
 
+### Tuning Machines
+![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
+
+Tuning Machines Options:
+ - Configuration: 3L+3R (Gibson style), 6-in-Line (Fender style), 4L/2R (Musicman style)
+ - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
+   Larger ratio (1:18 > 1:14) allows finer adjustments.
+ - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
+
 ### Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
@@ -256,17 +289,7 @@ Guitar bridge has large **influence on playability** (mainly through string spac
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
 
->  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.     
->  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - bridge and tailpiece sets.     
-
-### Tuning Machines
-![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
-
-Tuning Machines Options:
- - Configuration: 3L+3R, 6-in-Line
- - Ratio - for 1x winding around the shaft head - 1x rotation necessary.
-   Larger ratio (1:18 > 1:14) allows finer adjustments.
- - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
+>  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
  
 ### Knob Styles
 ![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
@@ -283,11 +306,12 @@ There are 3 common styles of knobs:
 
  - Jacks & jackplates
  - Neck plate (neck-to-body)
- - Pickguard or pickup mounting rings, control plate for tele)
+ - Pickguard or pickup mounting rings
  - Screws for all parts above
- - String Ferrules (if you use "string through body"  instead of bridge)
- - String Retainers
- - Strap Holders
+ - Control plate (only for for standard tele)
+ - String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
+ - String retainers. [Happy Little String Trees](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
+ - Strap holders
 
 For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
 
@@ -487,8 +511,10 @@ Swamp-Ash 	| neutral	| light  | T/B 		| bright, attractive
 Walnut 		| bright 	| medium | T/B/N 	| gray, attractive
 Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
-¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below.
-² Weight may vary for the same variety.
+¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below. 
+² Weight may vary for the same variety. 
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
 
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm)  - see on page bottom - graphical examples for body, neck and freatboard woods showing relationship between wood hardness, its density and tone.
+![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
+
+> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.

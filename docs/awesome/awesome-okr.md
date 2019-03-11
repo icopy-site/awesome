@@ -36,6 +36,10 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [The Executioner's Tale](https://vimeo.com/86392023): The Executioner's tale by Christina Wodtke
 - [Warm Gun Talk](http://eleganthack.com/my-warm-gun-talk-on-okrs/): Another talk about OKR by Christina Wodtke
 
+## Books
+
+- [Measure What Matters](https://www.whatmatters.com/book): A handbook for setting and achieving audacious goals by John Doerr.
+
 ## Articles
 
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/): Keys to OKR Success: A Q&A with the Man Who Introduced OKRs to Google, John Doerr
