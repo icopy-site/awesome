@@ -23,6 +23,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
@@ -61,6 +62,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+- [Jupytext](https://github.com/mwouts/jupytext) - Edit, refactor and version control Jupyter Notebooks represented as scripts or Markdown documents.
 - [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
