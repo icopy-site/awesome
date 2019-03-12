@@ -7222,14 +7222,28 @@ $ git stash pop
 <div class="codehilite"><pre><span></span>$ git branch -D &lt;branch&gt;
 </pre></div>
 
-<h5 id="mark-the-current-commit-with-a-tag">Mark the current commit with a tag:<a class="headerlink" href="#mark-the-current-commit-with-a-tag" title="Permanent link">&para;</a></h5>
+<h5 id="mark-head-with-a-tag">Mark <code>HEAD</code> with a tag:<a class="headerlink" href="#mark-head-with-a-tag" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git tag &lt;tag-name&gt;
 </pre></div>
 
-<h5 id="mark-the-current-commit-with-a-tag-that-includes-a-message">Mark the current commit with a tag that includes a message:<a class="headerlink" href="#mark-the-current-commit-with-a-tag-that-includes-a-message" title="Permanent link">&para;</a></h5>
-<p><div class="codehilite"><pre><span></span>$ git tag -a &lt;tag-name&gt;
+<h5 id="mark-head-with-a-tag-and-open-the-editor-to-include-a-message">Mark <code>HEAD</code> with a tag and open the editor to include a message:<a class="headerlink" href="#mark-head-with-a-tag-and-open-the-editor-to-include-a-message" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git tag -a &lt;tag-name&gt;
 </pre></div>
-<hr></p>
+
+<h5 id="mark-head-with-a-tag-that-includes-a-message">Mark <code>HEAD</code> with a tag that includes a message:<a class="headerlink" href="#mark-head-with-a-tag-that-includes-a-message" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git tag &lt;tag-name&gt; -am &#39;message here&#39;
+</pre></div>
+
+<h5 id="list-all-tags">List all tags:<a class="headerlink" href="#list-all-tags" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git tag
+</pre></div>
+
+<h5 id="list-all-tags-with-their-messages-tag-message-or-commit-message-if-tag-has-no-message">List all tags with their messages (tag message or commit message if tag has no message):<a class="headerlink" href="#list-all-tags-with-their-messages-tag-message-or-commit-message-if-tag-has-no-message" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git tag -n
+</pre></div>
+
+<hr>
+
 <h2 id="update-publish">Update &amp; Publish<a class="headerlink" href="#update-publish" title="Permanent link">&para;</a></h2>
 <h5 id="list-all-current-configured-remotes">List all current configured remotes:<a class="headerlink" href="#list-all-current-configured-remotes" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git remote -v
