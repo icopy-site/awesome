@@ -521,6 +521,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Breep](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. [EUPL-1.1 (OSI approved)]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - C++ REST SDK (previously named Casablanca). [Apache2]
 * [Restbed](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
+* [Restinio](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
 * [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests. [MIT]
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS sever library. [MIT]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
@@ -902,6 +903,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 ## Podcasts
 
 * [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
+* [CppChat](http://cpp.chat) - A (sometimes) weekly look at what's going on in the world of C++ chatting with a guest from the community.
 
 ## Talks
 
@@ -963,6 +965,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
+* [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## Other Awesome Lists
 *Other amazingly awesome lists*
