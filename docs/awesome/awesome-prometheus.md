@@ -94,6 +94,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Alertmanager
 
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+- [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## Proxies
 

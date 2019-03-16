@@ -107,6 +107,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Data Formats
+ * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
@@ -199,6 +200,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
 
 ## Feature Flipping
+ * [can_use](https://github.com/rodrigopinto/can_use) - It is a minimalist feature toggle/flag for crystal based on yaml
  * [flipper](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
 
 ## Framework Components
@@ -316,6 +318,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - Verify and generate Rails `ActiveSupport::MessageVerifier` signed tokens
+ * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love

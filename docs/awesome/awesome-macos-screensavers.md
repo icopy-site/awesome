@@ -73,7 +73,7 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## iOS (and Apple TV) Inspired
+## Apple Inspired
 
 ### Aerial
 
@@ -87,11 +87,27 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
+### Brooklyn
+
+> A screensaver inspired by Apple's Event on October 30, 2018
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+
+### October 30
+
+> Smoothly changes between 371 Apple logos from their 2018 iPad event.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Retro
 
@@ -188,14 +204,6 @@ Donationware
 Lite Version (Free) and Full Version ($3)
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
-
-### October 30
-
-> Smoothly changes between 371 Apple logos from their 2018 iPad event.
-
-Free
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Other
 

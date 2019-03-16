@@ -110,6 +110,15 @@ https://plus.google.com/share?url=https://example.com
 https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
 ```
 
+## Instagram
+- URL: `instagram://camera`
+- Documentation: https://www.instagram.com/developer/mobile-sharing/
+- Parameters: `camera`
+
+```
+instagram://camera
+```
+
 ## Instapaper
 - URL: https://www.instapaper.com/text
 - Documentation: `N/A`
@@ -263,4 +272,4 @@ https://www.xing.com/spi/shares/new?url=https://example.com
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Vincent Klaiber](https://doubledip.se) has waived all copyright and related or neighboring rights to this work.

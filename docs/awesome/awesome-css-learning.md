@@ -8,12 +8,6 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 *Please read the [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/.github/contributing.md) before contributing.*
 
 
-<!-- Run `npm run toc` to generate the TOC -->
-
-<!-- toc -->
-
-
-<!-- tocstop -->
 
 ---
 
@@ -91,6 +85,10 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable. 
 
 ---
+
+## Related
+
+[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
 
 ## License
 
