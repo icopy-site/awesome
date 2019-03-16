@@ -5676,13 +5676,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#collaborative-software" title="Collaborative Software" class="md-nav__link">
-    Collaborative Software
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#configuration-management-database" title="Configuration Management Database" class="md-nav__link">
     Configuration Management Database
   </a>
@@ -7367,13 +7360,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#collaborative-software" title="Collaborative Software" class="md-nav__link">
-    Collaborative Software
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#configuration-management-database" title="Configuration Management Database" class="md-nav__link">
     Configuration Management Database
   </a>
@@ -7726,6 +7712,7 @@
 <p><strong>A curated list of amazingly awesome open source sysadmin resources.</strong> Please read <a href="https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md">CONTRIBUTING</a> if you wish to add software and consider <a href="https://github.com/n1trux/awesome-donations">donating</a> to the FLOSS projects you use regularly.</p>
 <ul>
 <li>Cloud Storage: <a href="https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization">see awesome-selfhosted#file-transfersynchronization</a></li>
+<li>Collaborative Software: <a href="https://github.com/Kickball/awesome-selfhosted#groupware">see awesome-selfhosted#groupware</a></li>
 <li>Mail servers/webmail: <a href="https://github.com/kickball/awesome-selfhosted#email">see awesome-selfhosted#email</a></li>
 <li>Security: <a href="https://github.com/sbilly/awesome-security">see awesome-security</a></li>
 <li>SSH: <a href="https://github.com/moul/awesome-ssh">see awesome-ssh</a></li>
@@ -7840,15 +7827,6 @@
 <li><a href="http://phabricator.org/">Phabricator</a> - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.</li>
 <li><a href="https://www.reviewboard.org/">Review Board</a> - Available as free software under the MIT License.</li>
 </ul>
-<h2 id="collaborative-software">Collaborative Software<a class="headerlink" href="#collaborative-software" title="Permanent link">&para;</a></h2>
-<p><em>Collaborative software or groupware suites.</em></p>
-<ul>
-<li><a href="http://www.citadel.org/">Citadel/UX</a> - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.</li>
-<li><a href="http://www.egroupware.org/start.html">EGroupware</a> - Groupware software written in PHP.</li>
-<li><a href="http://www.horde.org/apps/groupware">Horde Groupware</a> - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.</li>
-<li><a href="https://kolab.org/">Kolab</a> - Another groupware suite.</li>
-<li><a href="http://www.sogo.nu/">SOGo</a> - Collaborative software server with a focus on simplicity and scalability.</li>
-</ul>
 <h2 id="configuration-management-database">Configuration Management Database<a class="headerlink" href="#configuration-management-database" title="Permanent link">&para;</a></h2>
 <p><em>Configuration management database (CMDB) software.</em></p>
 <ul>
@@ -7873,13 +7851,19 @@
 <h2 id="continuous-integration-continuous-deployment">Continuous Integration &amp; Continuous Deployment<a class="headerlink" href="#continuous-integration-continuous-deployment" title="Permanent link">&para;</a></h2>
 <p><em>Continuous integration/deployment software.</em></p>
 <ul>
-<li><a href="http://buildbot.net/">Buildbot</a> - Python-based toolkit for continuous integration.</li>
-<li><a href="https://github.com/AnalogJ/capsulecd">CapsuleCD</a> - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).</li>
-<li><a href="http://concourse.ci/">concourse</a> - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.</li>
-<li><a href="https://github.com/drone/drone">Drone</a> - Continuous integration server built on Docker and configured using YAML files.</li>
-<li><a href="https://about.gitlab.com/gitlab-ci/">GitLab CI</a> - Based off of ruby. They also provide GitLab, which manages git repositories.</li>
-<li><a href="http://www.go.cd/">Go</a> - Continuous delivery server.</li>
-<li><a href="http://jenkins-ci.org/">Jenkins</a> - An extendable continuous integration server.</li>
+<li><a href="http://buildbot.net/">Buildbot</a> - Python-based toolkit for continuous integration. (<a href="https://github.com/buildbot/buildbot">Source Code</a>) <code>GPL-2.0</code> <code>Python</code></li>
+<li><a href="https://analogj.github.io/capsulecd-slides/">CapsuleCD</a> - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). (<a href="https://github.com/AnalogJ/capsulecd">Source Code</a>) <code>MIT</code> <code>Go</code></li>
+<li><a href="https://concourse.ci/">Concourse</a> - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (<a href="https://ci.concourse.ci/">Demo</a>, <a href="https://github.com/concourse/concourse">Source Code</a>) <code>Apache-2.0</code> <code>Go</code></li>
+<li><a href="https://drone.io/">drone</a> - Drone is a Continuous Delivery platform built on Docker, written in Go. (<a href="https://github.com/drone/drone">Source Code</a>) <code>Apache-2.0</code> <code>Go</code></li>
+<li><a href="http://www.factor.io/">Factor</a> - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. (<a href="https://github.com/factor-io/factor">Source Code</a>) <code>MIT</code> <code>Ruby</code></li>
+<li><a href="https://about.gitlab.com/gitlab-ci/">GitLab CI</a> - Gitlab's built-in, full-featured CI/CD solution. (<a href="https://gitlab.com/gitlab-org/gitlab-ce">Source Code</a> <code>MIT</code> <code>Ruby</code></li>
+<li><a href="http://www.go.cd/">GoCD</a> - Continuous delivery server. (<a href="https://github.com/gocd/gocd">Source Code</a>) <code>Apache-2.0</code> <code>Java/Ruby</code></li>
+<li><a href="https://golangci.com/">GolangCI</a> - Open Source automated code review service for Go integrated with GitHub pull requests. (<a href="https://github.com/golangci/golangci">Source Code</a>) <code>AGPL-3.0</code> <code>Go</code></li>
+<li><a href="https://jenkins-ci.org/">Jenkins</a> - Continuous Integration Server. (<a href="https://github.com/jenkinsci/jenkins/">Source Code</a>) <code>MIT</code> <code>Java</code></li>
+<li><a href="http://laminar.ohwg.net">Laminar</a> - Fast, lightweight, simple and flexible Continuous Integration. (<a href="https://github.com/ohwgiles/laminar">Source Code</a>) <code>GPL-3.0</code> <code>C++</code></li>
+<li><a href="https://github.com/php-censor/php-censor">PHP Censor</a> - Open source self-hosted continuous integration server for PHP projects. <code>BSD-2-Clause</code> <code>PHP</code></li>
+<li><a href="https://www.phptesting.org/">PHPCI</a> - Free and open source continuous integration specifically designed for PHP. (<a href="https://github.com/block8/phpci">Source Code</a>) <code>BSD-2-Clause</code> <code>PHP</code></li>
+<li><a href="http://strider-cd.github.io/">Strider</a> - Open Source Continuous Deployment / Continuous Integration platform. (<a href="https://github.com/Strider-CD/strider">Source Code</a>) <code>MIT</code> <code>Nodejs</code></li>
 </ul>
 <h2 id="control-panels">Control Panels<a class="headerlink" href="#control-panels" title="Permanent link">&para;</a></h2>
 <p><em>Web hosting and server or service control panels.</em></p>
