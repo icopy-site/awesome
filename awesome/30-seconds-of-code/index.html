@@ -13086,9 +13086,9 @@ The <code>func</code> is invoked with three arguments (<code>value, index, array
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">remove</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">func</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">arr</span><span class="p">)</span>
     <span class="o">?</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">func</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-        <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
-        <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
-      <span class="p">},</span> <span class="p">[])</span>
+      <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
+      <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
+    <span class="p">},</span> <span class="p">[])</span>
     <span class="o">:</span> <span class="p">[];</span>
 </pre></div>
 
@@ -15082,8 +15082,8 @@ Throws an exception if <code>n</code> is a negative number.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">factorial</span> <span class="o">=</span> <span class="nx">n</span> <span class="p">=&gt;</span>
   <span class="nx">n</span> <span class="o">&lt;</span> <span class="mi">0</span>
     <span class="o">?</span> <span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
-        <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
-      <span class="p">})()</span>
+      <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
+    <span class="p">})()</span>
     <span class="o">:</span> <span class="nx">n</span> <span class="o">&lt;=</span> <span class="mi">1</span>
       <span class="o">?</span> <span class="mi">1</span>
       <span class="o">:</span> <span class="nx">n</span> <span class="o">*</span> <span class="nx">factorial</span><span class="p">(</span><span class="nx">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
