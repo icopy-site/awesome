@@ -97,6 +97,15 @@ Easily navigate through the changes in a file that has been edited on GitHub.
  ![GitHub Diff Navigator video](https://github.com/daattali/github-diff-navigator-extension/raw/master/img/doc/demo.gif)
 </details>
 
+
+
+Quickly browse the history of a file from any git repository.
+
+<details><summary>Screenshots</summary>
+
+ ![Git History screenshot](https://user-images.githubusercontent.com/1911623/52460615-f3899d80-2b49-11e9-8c21-06af4097a527.gif)
+</details>
+
 ## Comments
 
 

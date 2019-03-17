@@ -356,7 +356,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 * [SimpleumSafe](https://simpleum.com/) - Encrypt, organize and sync files with macOS or iOS.
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net) - Easy to use OpenVPN client and GUI. [![Open-Source Software][OSS Icon]](https://github.com/Tunnelblick/Tunnelblick) ![Freeware][Freeware Icon]
-- [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
+* [VeraCrypt](https://veracrypt.codeplex.com/) - Free and open source disk encryption software. [![Open-Source Software][OSS Icon]](https://veracrypt.codeplex.com/SourceControl/latest) ![Freeware][Freeware Icon]
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
 
 
@@ -387,6 +387,7 @@ Ansible playbook to configure a development and desktop environment from a clean
 
 * [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 * [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
+* [macOS Mojave](https://forums.macrumors.com/forums/macos-mojave-10-14.205/)
 
 
 ### Reddit

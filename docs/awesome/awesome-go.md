@@ -483,6 +483,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [anko](https://github.com/mattn/anko) - Scriptable interpreter written in Go.
 * [binder](https://github.com/alexeyco/binder) - Go to Lua binding library, based on [gopher-lua](https://github.com/yuin/gopher-lua).
 * [expr](https://github.com/antonmedv/expr) - an engine that can evaluate expressions.
+* [gentee](https://github.com/gentee/gentee) - Embeddable scripting programming language.
 * [gisp](https://github.com/jcla1/gisp) - Simple LISP in Go.
 * [go-duktape](https://github.com/olebedev/go-duktape) - Duktape JavaScript engine bindings for Go.
 * [go-lua](https://github.com/Shopify/go-lua) - Port of the Lua 5.2 VM to pure Go.
@@ -1510,7 +1511,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gostrutils](https://github.com/ik5/gostrutils) - Collections of string manipulation and conversion functions.
 * [gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
 * [gpath](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
-* [gubrak](https://gubrak.github.io/) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
+* [gubrak](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
 * [handy](https://github.com/miguelpragier/handy) - Many utilities and helpers like string handlers/formatters and validators.
 * [htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 * [hub](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
@@ -2051,6 +2052,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
 * [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 * [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).
+* [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
 * [gowalker.org](https://gowalker.org) - Go Project API documentation.
 * [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by  Francesc Campoy [@francesc](https://twitter.com/francesc).
 * [r/Golang](https://www.reddit.com/r/golang) - News about Go.

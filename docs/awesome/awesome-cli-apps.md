@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
 - [WeeChat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client. It runs on many platforms like Linux, Unix, BSD, GNU Hurd, Mac OS X and Windows (Bash/Ubuntu and Cygwin).
+- [irssi](https://github.com/irssi/irssi) - IRC chat client.
 
 ### Video
 
@@ -178,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
 - [td-cli](https://github.com/darrikonn/td-cli) - A todo command-line manager to organize and manage your todos across multiple projects.
+- [taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager.
 
 ### Finance
 
@@ -198,7 +200,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
-- [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
