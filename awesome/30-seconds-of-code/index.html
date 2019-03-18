@@ -2192,6 +2192,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#checkprop" title="checkProp" class="md-nav__link">
+    checkProp
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#compose" title="compose" class="md-nav__link">
     compose
   </a>
@@ -10498,6 +10505,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#checkprop" title="checkProp" class="md-nav__link">
+    checkProp
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#compose" title="compose" class="md-nav__link">
     compose
   </a>
@@ -11846,7 +11860,7 @@
 <h2 id="30-seconds-of-code">30 seconds of code<a class="headerlink" href="#30-seconds-of-code" title="Permanent link">&para;</a></h2>
 <p><a href="https://github.com/30-seconds/30-seconds-of-code/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC0--1.0-blue.svg" /></a> <a href="https://www.npmjs.com/package/30-seconds-of-code"><img alt="npm Downloads" src="https://img.shields.io/npm/dt/30-seconds-of-code.svg" /></a> <a href="https://www.npmjs.com/package/30-seconds-of-code"><img alt="npm Version" src="https://img.shields.io/npm/v/30-seconds-of-code.svg" /></a> <a href="https://snyk.io/test/github/30-seconds/30-seconds-of-code?targetFile=package.json"><img alt="Known Vulnerabilities" src="https://snyk.io/test/github/30-seconds/30-seconds-of-code/badge.svg?targetFile=package.json" /></a> <br/> 
 <a href="https://travis-ci.com/30-seconds/30-seconds-of-code"><img alt="Travis Build" src="https://travis-ci.com/30-seconds/30-seconds-of-code.svg?branch=master" /></a> <a href="https://www.codacy.com/app/Chalarangelo/30-seconds-of-code?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=30-seconds/30-seconds-of-code&amp;utm_campaign=Badge_Grade"><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/6ab7791fb1ea40b4a576d658fb96807f" /></a> <a href="https://github.com/Flet/semistandard"><img alt="js-semistandard-style" src="https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg" /></a> <br/>
-<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="https://www.producthunt.com/posts/30-seconds-of-code"><img alt="ProductHunt" src="https://img.shields.io/badge/producthunt-vote-orange.svg" /></a> <a href="https://gitter.im/30-seconds-of-code/Lobby"><img alt="Gitter chat" src="https://img.shields.io/badge/chat-on%20gitter-4FB999.svg" /></a> <a href="http://makeapullrequest.com"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a></p>
+<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="https://www.producthunt.com/posts/30-seconds-of-code"><img alt="ProductHunt" src="https://img.shields.io/badge/producthunt-vote-orange.svg" /></a> <a href="http://makeapullrequest.com"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a></p>
 <blockquote>
 <p>Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.</p>
 </blockquote>
@@ -14567,6 +14581,19 @@ Use the spread operator (<code>...</code>) to prepend any additional supplied pa
 
 </details>
 
+<h3 id="checkprop">checkProp<a class="headerlink" href="#checkprop" title="Permanent link">&para;</a></h3>
+<p>Given a <code>predicate</code> function and a <code>prop</code> string this curried function will then take an <code>object</code> to inspect by calling the property and passing it to the predicate.</p>
+<p>It summons <code>prop</code> on <code>obj</code> and passes it to a provided <code>predicate</code> function and returns a masked boolean</p>
+<div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">checkProp</span> <span class="o">=</span> <span class="p">(</span><span class="nx">predicate</span><span class="p">,</span> <span class="nx">prop</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">obj</span> <span class="p">=&gt;</span> <span class="o">!!</span><span class="nx">predicate</span><span class="p">(</span><span class="nx">obj</span><span class="p">[</span><span class="nx">prop</span><span class="p">]);</span>
+</pre></div>
+
+<details>
+<summary>Examples</summary>
+
+wzxhzdk:316
+
+</details>
+
 <h3 id="compose">compose<a class="headerlink" href="#compose" title="Permanent link">&para;</a></h3>
 <p>Performs right-to-left function composition.</p>
 <p>Use <code>Array.prototype.reduce()</code> to perform right-to-left function composition.
@@ -14577,7 +14604,7 @@ The last (rightmost) function can accept one or more arguments; the remaining fu
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:316
+wzxhzdk:318
 
 </details>
 
@@ -14591,7 +14618,7 @@ The first (leftmost) function can accept one or more arguments; the remaining fu
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:318
+wzxhzdk:320
 
 </details>
 
@@ -14605,7 +14632,7 @@ Use the spread operator (<code>...</code>) to call <code>coverger</code> with th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:320
+wzxhzdk:322
 
 </details>
 
@@ -14622,7 +14649,7 @@ If you want to curry a function that accepts a variable number of arguments (a v
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:322
+wzxhzdk:324
 
 </details>
 
@@ -14642,7 +14669,7 @@ Omit the second argument, <code>ms</code>, to set the timeout at a default of 0 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:324
+wzxhzdk:326
 
 </details>
 
@@ -14655,7 +14682,7 @@ Omit the second argument, <code>ms</code>, to set the timeout at a default of 0 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:326
+wzxhzdk:328
 
 </details>
 
@@ -14669,7 +14696,7 @@ Use the spread (<code>...</code>) operator to supply the function with an arbitr
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:328
+wzxhzdk:330
 
 </details>
 
@@ -14682,7 +14709,7 @@ Use the spread (<code>...</code>) operator to supply the function with an arbitr
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:330
+wzxhzdk:332
 
 </details>
 
@@ -14702,7 +14729,7 @@ Omit the second argument, <code>iterations</code>, to use the default of 100 ite
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:332
+wzxhzdk:334
 
 </details>
 
@@ -14723,7 +14750,7 @@ Allow access to the <code>cache</code> by setting it as a property on the return
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:334
+wzxhzdk:336
 
 </details>
 
@@ -14736,7 +14763,7 @@ Allow access to the <code>cache</code> by setting it as a property on the return
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:336
+wzxhzdk:338
 
 </details>
 
@@ -14757,7 +14784,7 @@ Allow the function to be supplied with an arbitrary number of arguments using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:338
+wzxhzdk:340
 
 </details>
 
@@ -14770,7 +14797,7 @@ Allow the function to be supplied with an arbitrary number of arguments using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:340
+wzxhzdk:342
 
 </details>
 
@@ -14783,7 +14810,7 @@ Allow the function to be supplied with an arbitrary number of arguments using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:342
+wzxhzdk:344
 
 </details>
 
@@ -14796,7 +14823,7 @@ Allow the function to be supplied with an arbitrary number of arguments using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:344
+wzxhzdk:346
 
 </details>
 
@@ -14809,7 +14836,7 @@ Allow the function to be supplied with an arbitrary number of arguments using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:346
+wzxhzdk:348
 
 </details>
 
@@ -14843,7 +14870,7 @@ Omit the second argument, <code>wait</code>, to set the timeout at a default of 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:348
+wzxhzdk:350
 
 </details>
 
@@ -14860,7 +14887,7 @@ Omit the last argument, <code>context</code>, to use an <code>undefined</code> o
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:350
+wzxhzdk:352
 
 </details>
 
@@ -14881,7 +14908,7 @@ Omit the second argument, <code>n</code>, to uncurry up to depth <code>1</code>.
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:352
+wzxhzdk:354
 
 </details>
 
@@ -14900,7 +14927,7 @@ The iterator function accepts one argument (<code>seed</code>) and must always r
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:354
+wzxhzdk:356
 
 </details>
 
@@ -14913,7 +14940,7 @@ The iterator function accepts one argument (<code>seed</code>) and must always r
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:356
+wzxhzdk:358
 
 </details>
 
@@ -14929,7 +14956,7 @@ Omit the third parameter, <code>epsilon</code>, to use a default value of <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:358
+wzxhzdk:360
 
 </details>
 
@@ -14942,7 +14969,7 @@ Omit the third parameter, <code>epsilon</code>, to use a default value of <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:360
+wzxhzdk:362
 
 </details>
 
@@ -14957,7 +14984,7 @@ Omit the third parameter, <code>epsilon</code>, to use a default value of <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:362
+wzxhzdk:364
 
 </details>
 
@@ -14983,7 +15010,7 @@ Use <code>Math.round()</code> to account for rounding errors in the calculation.
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:364
+wzxhzdk:366
 
 </details>
 
@@ -14997,7 +15024,7 @@ Otherwise, return the nearest number in the range.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:366
+wzxhzdk:368
 
 </details>
 
@@ -15010,7 +15037,7 @@ Otherwise, return the nearest number in the range.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:368
+wzxhzdk:370
 
 </details>
 
@@ -15024,7 +15051,7 @@ Use <code>Array.prototype.map()</code> and <code>parseInt()</code> to transform 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:370
+wzxhzdk:372
 
 </details>
 
@@ -15037,7 +15064,7 @@ Use <code>Array.prototype.map()</code> and <code>parseInt()</code> to transform 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:372
+wzxhzdk:374
 
 </details>
 
@@ -15069,7 +15096,7 @@ Omit the second argument to use the default <code>kFactor</code> of 32.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:374
+wzxhzdk:376
 
 </details>
 
@@ -15082,8 +15109,8 @@ Throws an exception if <code>n</code> is a negative number.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">factorial</span> <span class="o">=</span> <span class="nx">n</span> <span class="p">=&gt;</span>
   <span class="nx">n</span> <span class="o">&lt;</span> <span class="mi">0</span>
     <span class="o">?</span> <span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
-    <span class="p">})()</span>
+        <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
+      <span class="p">})()</span>
     <span class="o">:</span> <span class="nx">n</span> <span class="o">&lt;=</span> <span class="mi">1</span>
       <span class="o">?</span> <span class="mi">1</span>
       <span class="o">:</span> <span class="nx">n</span> <span class="o">*</span> <span class="nx">factorial</span><span class="p">(</span><span class="nx">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
@@ -15092,7 +15119,7 @@ Throws an exception if <code>n</code> is a negative number.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:376
+wzxhzdk:378
 
 </details>
 
@@ -15110,7 +15137,7 @@ Use <code>Array.prototype.reduce()</code> to add values into the array, using th
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:378
+wzxhzdk:380
 
 </details>
 
@@ -15128,7 +15155,7 @@ Otherwise, return the GCD of <code>y</code> and the remainder of the division <c
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:380
+wzxhzdk:382
 
 </details>
 
@@ -15147,7 +15174,7 @@ Omit the third argument, <code>step</code>, to use a default value of <code>2</c
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:382
+wzxhzdk:384
 
 </details>
 
@@ -15161,7 +15188,7 @@ Count and return the number of <code>1</code>s in the string, using <code>match(
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:384
+wzxhzdk:386
 
 </details>
 
@@ -15178,7 +15205,7 @@ If the second parameter, <code>end</code>, is not specified, the range is consid
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:386
+wzxhzdk:388
 
 </details>
 
@@ -15191,7 +15218,7 @@ If the second parameter, <code>end</code>, is not specified, the range is consid
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:388
+wzxhzdk:390
 
 </details>
 
@@ -15205,7 +15232,7 @@ Returns <code>true</code> if the number is even, <code>false</code> if the numbe
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:390
+wzxhzdk:392
 
 </details>
 
@@ -15218,7 +15245,7 @@ Returns <code>true</code> if the number is even, <code>false</code> if the numbe
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:392
+wzxhzdk:394
 
 </details>
 
@@ -15236,7 +15263,7 @@ Return <code>false</code> if any of them divides the given number, else return <
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:394
+wzxhzdk:396
 
 </details>
 
@@ -15254,7 +15281,7 @@ The GCD formula uses recursion.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:396
+wzxhzdk:398
 
 </details>
 
@@ -15278,7 +15305,7 @@ Return <code>true</code> if <code>sum</code> is divisible by <code>10</code>, <c
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:398
+wzxhzdk:400
 
 </details>
 
@@ -15292,7 +15319,7 @@ Return <code>true</code> if <code>sum</code> is divisible by <code>10</code>, <c
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:400
+wzxhzdk:402
 
 </details>
 
@@ -15305,7 +15332,7 @@ Return <code>true</code> if <code>sum</code> is divisible by <code>10</code>, <c
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:402
+wzxhzdk:404
 
 </details>
 
@@ -15323,7 +15350,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:404
+wzxhzdk:406
 
 </details>
 
@@ -15336,7 +15363,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:406
+wzxhzdk:408
 
 
 </details>
@@ -15350,7 +15377,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:408
+wzxhzdk:410
 
 </details>
 
@@ -15364,7 +15391,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:410
+wzxhzdk:412
 
 </details>
 
@@ -15377,7 +15404,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:412
+wzxhzdk:414
 
 </details>
 
@@ -15396,7 +15423,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:414
+wzxhzdk:416
 
 </details>
 
@@ -15409,7 +15436,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:416
+wzxhzdk:418
 
 </details>
 
@@ -15423,7 +15450,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:418
+wzxhzdk:420
 
 </details>
 
@@ -15436,7 +15463,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:420
+wzxhzdk:422
 
 </details>
 
@@ -15449,7 +15476,7 @@ Return the number at the midpoint if <code>length</code> is odd, otherwise the a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:422
+wzxhzdk:424
 
 </details>
 
@@ -15463,7 +15490,7 @@ Omit the second argument, <code>decimals</code> to round to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:424
+wzxhzdk:426
 
 </details>
 
@@ -15483,7 +15510,7 @@ Omit the second argument, <code>decimals</code> to round to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:426
+wzxhzdk:428
 
 </details>
 
@@ -15504,7 +15531,7 @@ You can omit the second argument to get the sample standard deviation or set it 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:428
+wzxhzdk:430
 
 </details>
 
@@ -15517,7 +15544,7 @@ You can omit the second argument to get the sample standard deviation or set it 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:430
+wzxhzdk:432
 
 </details>
 
@@ -15531,7 +15558,7 @@ You can omit the second argument to get the sample standard deviation or set it 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:432
+wzxhzdk:434
 
 </details>
 
@@ -15550,7 +15577,7 @@ Omit the third argument, <code>start</code>, to use a default starting value of 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:434
+wzxhzdk:436
 
 </details>
 
@@ -15565,7 +15592,7 @@ Use <code>Math.round()</code> to convert to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:436
+wzxhzdk:438
 
 </details>
 
@@ -15584,7 +15611,7 @@ Use <code>Math.round()</code> to convert to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:438
+wzxhzdk:440
 
 </details>
 
@@ -15599,7 +15626,7 @@ Use <code>Math.round()</code> to convert to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:440
+wzxhzdk:442
 
 </details>
 
@@ -15612,7 +15639,7 @@ Use <code>Math.round()</code> to convert to an integer.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:442
+wzxhzdk:444
 
 </details>
 
@@ -15643,7 +15670,7 @@ For background colors, add a special character that resets the background color 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:444
+wzxhzdk:446
 
 </details>
 
@@ -15657,7 +15684,7 @@ For background colors, add a special character that resets the background color 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:446
+wzxhzdk:448
 
 </details>
 
@@ -15672,7 +15699,7 @@ Use a regular expression to test if the specified flags are prefixed with <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:448
+wzxhzdk:450
 
 </details>
 
@@ -15698,7 +15725,7 @@ Use a regular expression to test if the specified flags are prefixed with <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:450
+wzxhzdk:452
 
 </details>
 
@@ -15719,7 +15746,7 @@ Additionally check if the <code>typeof</code> the <code>_read</code>, <code>_wri
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:452
+wzxhzdk:454
 
 </details>
 
@@ -15738,7 +15765,7 @@ Additionally check if the <code>typeof</code> the <code>_read</code> and <code>_
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:454
+wzxhzdk:456
 
 </details>
 
@@ -15751,7 +15778,7 @@ Additionally check if the <code>typeof</code> the <code>_read</code> and <code>_
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:456
+wzxhzdk:458
 
 </details>
 
@@ -15764,7 +15791,7 @@ Additionally check if the <code>typeof</code> the <code>_read</code> and <code>_
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:458
+wzxhzdk:460
 
 </details>
 
@@ -15783,7 +15810,7 @@ Additionally check if the <code>typeof</code> the <code>_write</code> and <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:460
+wzxhzdk:462
 
 </details>
 
@@ -15798,7 +15825,7 @@ Additionally check if the <code>typeof</code> the <code>_write</code> and <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:462
+wzxhzdk:464
 
 </details>
 
@@ -15818,7 +15845,7 @@ creating an array from contents of file by <code>split</code>ing file content li
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:464
+wzxhzdk:466
 
 
 </details>
@@ -15832,7 +15859,7 @@ creating an array from contents of file by <code>split</code>ing file content li
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:466
+wzxhzdk:468
 
 </details>
 
@@ -15849,7 +15876,7 @@ creating an array from contents of file by <code>split</code>ing file content li
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:468
+wzxhzdk:470
 
 </details>
 
@@ -15872,7 +15899,7 @@ creating an array from contents of file by <code>split</code>ing file content li
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:470
+wzxhzdk:472
 
 </details>
 
@@ -15897,7 +15924,7 @@ Use <code>Object.keys()</code> and <code>Array.prototype.forEach()</code> to det
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:472
+wzxhzdk:474
 
 </details>
 
@@ -15914,7 +15941,7 @@ Use <code>Object.keys()</code> and <code>Array.prototype.forEach()</code> to det
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:474
+wzxhzdk:476
 
 </details>
 
@@ -15938,7 +15965,7 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same v
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:476
+wzxhzdk:478
 
 </details>
 
@@ -15951,7 +15978,7 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same v
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:478
+wzxhzdk:480
 
 </details>
 
@@ -15963,15 +15990,15 @@ If found, return the value of <code>obj[target]</code>, otherwise use <code>Obje
   <span class="nx">target</span> <span class="k">in</span> <span class="nx">obj</span>
     <span class="o">?</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">target</span><span class="p">]</span>
     <span class="o">:</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">values</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="k">if</span> <span class="p">(</span><span class="nx">acc</span> <span class="o">!==</span> <span class="kc">undefined</span><span class="p">)</span> <span class="k">return</span> <span class="nx">acc</span><span class="p">;</span>
-      <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span> <span class="k">return</span> <span class="nx">dig</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">target</span><span class="p">);</span>
-    <span class="p">},</span> <span class="kc">undefined</span><span class="p">);</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">acc</span> <span class="o">!==</span> <span class="kc">undefined</span><span class="p">)</span> <span class="k">return</span> <span class="nx">acc</span><span class="p">;</span>
+        <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span> <span class="k">return</span> <span class="nx">dig</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">target</span><span class="p">);</span>
+      <span class="p">},</span> <span class="kc">undefined</span><span class="p">);</span>
 </pre></div>
 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:480
+wzxhzdk:482
 
 </details>
 
@@ -15994,7 +16021,7 @@ If none of the above conditions are met, use <code>Object.keys()</code> to check
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:482
+wzxhzdk:484
 
 </details>
 
@@ -16007,7 +16034,7 @@ If none of the above conditions are met, use <code>Object.keys()</code> to check
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:484
+wzxhzdk:486
 
 </details>
 
@@ -16025,7 +16052,7 @@ The callback receives three arguments - the value, the key and the object.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:486
+wzxhzdk:488
 
 </details>
 
@@ -16048,7 +16075,7 @@ You should always omit the second argument, <code>prefix</code>, unless you want
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:488
+wzxhzdk:490
 
 </details>
 
@@ -16061,7 +16088,7 @@ You should always omit the second argument, <code>prefix</code>, unless you want
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:490
+wzxhzdk:492
 
 </details>
 
@@ -16077,7 +16104,7 @@ You should always omit the second argument, <code>prefix</code>, unless you want
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:492
+wzxhzdk:494
 
 </details>
 
@@ -16097,7 +16124,7 @@ Omit the second argument, <code>inherited</code>, to not include inherited prope
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:494
+wzxhzdk:496
 
 </details>
 
@@ -16117,7 +16144,7 @@ Omit the second argument, <code>inherited</code>, to not include inherited prope
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:496
+wzxhzdk:498
 
 </details>
 
@@ -16137,7 +16164,7 @@ Omit the second argument, <code>fn</code>, to get the inverted keys without appl
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:498
+wzxhzdk:500
 
 </details>
 
@@ -16155,7 +16182,7 @@ Convert each key in the original object to lowercase, using <code>String.toLower
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:500
+wzxhzdk:502
 
 </details>
 
@@ -16173,7 +16200,7 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same v
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:502
+wzxhzdk:504
 
 </details>
 
@@ -16191,7 +16218,7 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same k
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:504
+wzxhzdk:506
 
 </details>
 
@@ -16205,7 +16232,7 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same k
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:506
+wzxhzdk:508
 
 </details>
 
@@ -16225,7 +16252,7 @@ If no function is provided, the values will be compared using the equality opera
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:508
+wzxhzdk:510
 
 </details>
 
@@ -16247,7 +16274,7 @@ Use <code>hasOwnProperty()</code> and <code>Array.prototype.concat()</code> to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:510
+wzxhzdk:512
 
 </details>
 
@@ -16267,7 +16294,7 @@ Omit the third argument, <code>link</code>, to use <code>'parent_id'</code> as t
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:512
+wzxhzdk:514
 
 
 </details>
@@ -16281,7 +16308,7 @@ Omit the third argument, <code>link</code>, to use <code>'parent_id'</code> as t
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:514
+wzxhzdk:516
 
 </details>
 
@@ -16294,7 +16321,7 @@ Omit the third argument, <code>link</code>, to use <code>'parent_id'</code> as t
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:516
+wzxhzdk:518
 
 </details>
 
@@ -16311,7 +16338,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:518
+wzxhzdk:520
 
 </details>
 
@@ -16328,7 +16355,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:520
+wzxhzdk:522
 
 </details>
 
@@ -16351,7 +16378,7 @@ If no <code>orders</code> array is passed it sort by <code>'asc'</code> by defau
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:522
+wzxhzdk:524
 
 </details>
 
@@ -16365,7 +16392,7 @@ If no <code>orders</code> array is passed it sort by <code>'asc'</code> by defau
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:524
+wzxhzdk:526
 
 </details>
 
@@ -16382,7 +16409,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:526
+wzxhzdk:528
 
 </details>
 
@@ -16402,7 +16429,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:528
+wzxhzdk:530
 
 </details>
 
@@ -16415,7 +16442,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:530
+wzxhzdk:532
 
 </details>
 
@@ -16439,7 +16466,7 @@ Use <code>size</code> of a <a href="https://developer.mozilla.org/en-US/docs/Web
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:532
+wzxhzdk:534
 
 </details>
 
@@ -16452,7 +16479,7 @@ Use <code>size</code> of a <a href="https://developer.mozilla.org/en-US/docs/Web
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:534
+wzxhzdk:536
 
 </details>
 
@@ -16465,7 +16492,7 @@ Use <code>size</code> of a <a href="https://developer.mozilla.org/en-US/docs/Web
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:536
+wzxhzdk:538
 
 </details>
 
@@ -16494,7 +16521,7 @@ Otherwise, add the appropriate key-value pair to the accumulator object.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:538
+wzxhzdk:540
 
 </details>
 
@@ -16509,7 +16536,7 @@ Otherwise, add the appropriate key-value pair to the accumulator object.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:540
+wzxhzdk:542
 
 </details>
 
@@ -16524,7 +16551,7 @@ Omit the <code>lowerRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:542
+wzxhzdk:544
 
 </details>
 
@@ -16537,7 +16564,7 @@ Omit the <code>lowerRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:544
+wzxhzdk:546
 
 </details>
 
@@ -16550,7 +16577,7 @@ Omit the <code>lowerRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:546
+wzxhzdk:548
 
 </details>
 
@@ -16570,7 +16597,7 @@ Omit the third argument, <code>omitFirstRow</code>, to include the first row (ti
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:548
+wzxhzdk:550
 
 </details>
 
@@ -16595,7 +16622,7 @@ Omit the second argument, <code>delimiter</code>, to use a default delimiter of 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:550
+wzxhzdk:552
 
 </details>
 
@@ -16610,7 +16637,7 @@ Omit the <code>upperRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:552
+wzxhzdk:554
 
 </details>
 
@@ -16634,7 +16661,7 @@ Omit the <code>upperRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:554
+wzxhzdk:556
 
 </details>
 
@@ -16647,7 +16674,7 @@ Omit the <code>upperRest</code> parameter to keep the rest of the string intact,
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:556
+wzxhzdk:558
 
 </details>
 
@@ -16665,7 +16692,7 @@ Omit the second argument to use a default <code>separator</code> of <code>_</cod
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:558
+wzxhzdk:560
 
 </details>
 
@@ -16679,7 +16706,7 @@ Omit the third parameter, <code>indent</code>, to use a default indentation char
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:560
+wzxhzdk:562
 
 </details>
 
@@ -16692,7 +16719,7 @@ Omit the third parameter, <code>indent</code>, to use a default indentation char
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:562
+wzxhzdk:564
 
 </details>
 
@@ -16714,7 +16741,7 @@ Omit the third parameter, <code>indent</code>, to use a default indentation char
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:564
+wzxhzdk:566
 
 </details>
 
@@ -16727,7 +16754,7 @@ Omit the third parameter, <code>indent</code>, to use a default indentation char
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:566
+wzxhzdk:568
 
 </details>
 
@@ -16740,7 +16767,7 @@ Omit the third parameter, <code>indent</code>, to use a default indentation char
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:568
+wzxhzdk:570
 
 </details>
 
@@ -16759,7 +16786,7 @@ The callback function, <code>fn</code>, takes three arguments (the current chara
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:570
+wzxhzdk:572
 
 </details>
 
@@ -16774,7 +16801,7 @@ Omit the third argument, <code>mask</code>, to use a default character of <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:572
+wzxhzdk:574
 
 </details>
 
@@ -16789,7 +16816,7 @@ Omit the third argument, <code>char</code>, to use the whitespace character as t
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:574
+wzxhzdk:576
 
 </details>
 
@@ -16806,7 +16833,7 @@ Then, use the spread operator (<code>...</code>) to split the string into indivi
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:576
+wzxhzdk:578
 
 </details>
 
@@ -16824,7 +16851,7 @@ Then, use the spread operator (<code>...</code>) to split the string into indivi
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:578
+wzxhzdk:580
 
 </details>
 
@@ -16837,7 +16864,7 @@ Then, use the spread operator (<code>...</code>) to split the string into indivi
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:580
+wzxhzdk:582
 
 </details>
 
@@ -16851,7 +16878,7 @@ Combine characters to get a string using <code>String.prototype.join('')</code>.
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:582
+wzxhzdk:584
 
 </details>
 
@@ -16864,7 +16891,7 @@ Combine characters to get a string using <code>String.prototype.join('')</code>.
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:584
+wzxhzdk:586
 
 </details>
 
@@ -16877,7 +16904,7 @@ Combine characters to get a string using <code>String.prototype.join('')</code>.
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:586
+wzxhzdk:588
 
 </details>
 
@@ -16902,7 +16929,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:588
+wzxhzdk:590
 
 </details>
 
@@ -16915,7 +16942,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:590
+wzxhzdk:592
 
 </details>
 
@@ -16936,7 +16963,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:592
+wzxhzdk:594
 
 </details>
 
@@ -16954,7 +16981,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:594
+wzxhzdk:596
 
 </details>
 
@@ -16972,7 +16999,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:596
+wzxhzdk:598
 
 </details>
 
@@ -16989,7 +17016,7 @@ Base cases are for string <code>length</code> equal to <code>2</code> or <code>1
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:598
+wzxhzdk:600
 
 </details>
 
@@ -17004,7 +17031,7 @@ Return the string truncated to the desired length, with <code>'...'</code> appen
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:600
+wzxhzdk:602
 
 </details>
 
@@ -17028,7 +17055,7 @@ Return the string truncated to the desired length, with <code>'...'</code> appen
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:602
+wzxhzdk:604
 
 </details>
 
@@ -17048,7 +17075,7 @@ Return the string truncated to the desired length, with <code>'...'</code> appen
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:604
+wzxhzdk:606
 
 </details>
 
@@ -17062,7 +17089,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:606
+wzxhzdk:608
 
 </details>
 
@@ -17078,7 +17105,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:608
+wzxhzdk:610
 
 </details>
 
@@ -17091,7 +17118,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:610
+wzxhzdk:612
 
 </details>
 
@@ -17104,7 +17131,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:612
+wzxhzdk:614
 
 </details>
 
@@ -17117,7 +17144,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:614
+wzxhzdk:616
 
 </details>
 
@@ -17130,7 +17157,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:616
+wzxhzdk:618
 
 </details>
 
@@ -17143,7 +17170,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:618
+wzxhzdk:620
 
 </details>
 
@@ -17156,7 +17183,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:620
+wzxhzdk:622
 
 </details>
 
@@ -17169,7 +17196,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:622
+wzxhzdk:624
 
 </details>
 
@@ -17182,7 +17209,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:624
+wzxhzdk:626
 
 </details>
 
@@ -17196,7 +17223,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:626
+wzxhzdk:628
 
 </details>
 
@@ -17209,7 +17236,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:628
+wzxhzdk:630
 
 </details>
 
@@ -17222,7 +17249,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:630
+wzxhzdk:632
 
 </details>
 
@@ -17235,7 +17262,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:632
+wzxhzdk:634
 
 </details>
 
@@ -17251,7 +17278,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:634
+wzxhzdk:636
 
 </details>
 
@@ -17264,7 +17291,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:636
+wzxhzdk:638
 
 </details>
 
@@ -17277,7 +17304,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:638
+wzxhzdk:640
 
 </details>
 
@@ -17290,7 +17317,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:640
+wzxhzdk:642
 
 </details>
 
@@ -17310,7 +17337,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:642
+wzxhzdk:644
 
 </details>
 
@@ -17325,7 +17352,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:644
+wzxhzdk:646
 
 </details>
 
@@ -17338,7 +17365,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:646
+wzxhzdk:648
 
 </details>
 
@@ -17351,7 +17378,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:648
+wzxhzdk:650
 
 </details>
 
@@ -17364,7 +17391,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:650
+wzxhzdk:652
 
 </details>
 
@@ -17384,7 +17411,7 @@ If the value is <code>null</code> or <code>undefined</code>, create and return a
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:652
+wzxhzdk:654
 
 </details>
 
@@ -17402,7 +17429,7 @@ Pass <code>location.search</code> as the argument to apply to the current <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:654
+wzxhzdk:656
 
 </details>
 
@@ -17432,7 +17459,7 @@ Pass <code>location.search</code> as the argument to apply to the current <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:656
+wzxhzdk:658
 
 </details>
 
@@ -17454,7 +17481,7 @@ Omit the third argument, <code>err</code>, to log errors to the console's <code>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:658
+wzxhzdk:660
 
 </details>
 
@@ -17479,7 +17506,7 @@ Omit the fourth argument, <code>err</code>, to log errors to the console's <code
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:660
+wzxhzdk:662
 
 </details>
 
@@ -17494,7 +17521,7 @@ If both of them are not <code>undefined</code>, then the current environment is 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:662
+wzxhzdk:664
 
 </details>
 
@@ -17516,7 +17543,7 @@ Omit the second argument, <code>iterations</code>, to use a default of 10,000 it
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:664
+wzxhzdk:666
 
 </details>
 
@@ -17529,7 +17556,7 @@ Omit the second argument, <code>iterations</code>, to use a default of 10,000 it
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:666
+wzxhzdk:668
 
 </details>
 
@@ -17551,7 +17578,7 @@ Use <code>Array.prototype.reduce()</code> and <code>decodeURIComponent()</code> 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:668
+wzxhzdk:670
 
 </details>
 
@@ -17573,7 +17600,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:670
+wzxhzdk:672
 
 </details>
 
@@ -17589,7 +17616,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:672
+wzxhzdk:674
 
 </details>
 
@@ -17602,7 +17629,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:674
+wzxhzdk:676
 
 </details>
 
@@ -17615,7 +17642,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:676
+wzxhzdk:678
 
 </details>
 
@@ -17633,7 +17660,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:678
+wzxhzdk:680
 
 </details>
 
@@ -17647,7 +17674,7 @@ Omit the third argument, <code>addSpace</code>, to add space between the number 
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:680
+wzxhzdk:682
 
 </details>
 
@@ -17683,7 +17710,7 @@ If digit is found in teens pattern, use teens ordinal.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:683
+wzxhzdk:685
 
 </details>
 
@@ -17698,7 +17725,7 @@ Use <code>Number()</code> to check if the coercion holds.</p>
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:685
+wzxhzdk:687
 
 </details>
 
@@ -17713,7 +17740,7 @@ Omit the second argument, <code>def</code> to set the default answer as <code>no
 <details>
 <summary>Examples</summary>
 
-wzxhzdk:687
+wzxhzdk:689
 
 </details>
 
