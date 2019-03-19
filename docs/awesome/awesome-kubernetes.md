@@ -161,7 +161,6 @@ Useful Articles
 - [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) by [Ben Straub](https://twitter.com/benstraub)
 - [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) by [Alan Will](https://twitter.com/alanwill)
 - [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) by [Remco](http://blog.dutchcoders.io/author/remco/)
-- [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 - [Corekube: Running Kubernetes on CoreOS via OpenStack](http://developer.rackspace.com/blog/running-coreos-and-kubernetes/) by [Mike Metral](https://twitter.com/mikemetral)
 - [Production grade Kubernetes on AWS: Primer (Part 1)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024) by [Guy Maliar](https://github.com/gmaliar)
@@ -173,6 +172,7 @@ Useful Articles
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) by [Matt Bruzek](https://twitter.com/mattatcanonical)
 - [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 
+- [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by [Michael Ward](https://twitter.com/DevoperandI)
 
 
@@ -205,6 +205,7 @@ Useful Articles
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) by [Matt Raible](https://twitter.com/mraible) using [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) by [Henryk Konsek](https://twitter.com/hekonsek) using [Jenkins X](https://jenkins-x.io/)
+- [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) using [Semaphore](https://semaphoreci.com)
 
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
@@ -548,6 +549,7 @@ Projects
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [kooper](https://github.com/spotahome/kooper) - Simple Go library to create Kubernetes operators and controllers
 * [Istio](https://github.com/banzaicloud/istio-operator)
+* [Kured](https://github.com/weaveworks/kured) - Kured (Kubernetes Reboot Daemon) is a Kubernetes daemonset that performs safe automatic node reboots
 
 ## Custom Schedulers
 
@@ -706,6 +708,7 @@ Projects
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization using partial specs
 * [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 * [kubecfg](https://github.com/ksonnet/kubecfg) - Combines jsonnet and kubectl to let you declare systems in an easy to override way
+* [Pulumi](https://www.pulumi.com/kubernetes/) - Provides a SDK for k8s deployments targeting on-premises clusters and major cloud vendors' managed services.
 
 ## Security
 
