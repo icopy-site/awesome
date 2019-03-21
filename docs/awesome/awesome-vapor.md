@@ -22,6 +22,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) – Vapor APNS for iOS.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [AWS](https://github.com/nodes-vapor/aws) – Swift wrapper around AWS API.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) – Report errors with Bugsnag.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CSRF](https://github.com/vapor-community/CSRF) – A package to add protection to Vapor against CSRF attacks.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) – A simple framework to read and write CSV files.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) – Vapor Firebase Realtime database provider.
@@ -34,7 +35,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [JWT Middleware](https://github.com/skelpo/JWTMiddleware) – Middleware to Authenticate and Authorize Requests in Vapor.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) – Markdown renderer for Vapor.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) – Vapor provider for Lingo – the Swift localization library.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) – Storage driver using local filesystem.
@@ -53,12 +54,11 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Storage](https://github.com/nodes-vapor/storage) – Eases the use of multiple storage and CDN services.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) – Stripe Provider for Vapor.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) – Conveniences for creating forms and validating (form) submissions.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) – A package of sugar for Vapor.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) – Easily build flexible and type-safe SQL with pure Swift.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) – A Telesign provider for Vapor.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) – Send push notifications using Urban Airship.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [VaporExt](https://github.com/vapor-community/vapor-ext) – A collection of Swift extensions for wide range of Vapor data types and classes.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) – A service to be used with Vapor to send emails.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) – OAuth2 Provider Library for Vapor.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor OAuth Fluent](https://github.com/brokenhandsio/vapor-oauth-fluent) – Fluent Implementations For Vapor OAuth.
@@ -66,9 +66,10 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Request Storage](https://github.com/skelpo/vapor-request-storage) – A replacement for `request.storage` which was available in Vapor 1 & 2.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) – Harden Your Security Headers For Vapor.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Test Tools](https://github.com/LiveUI/VaporTestTools) – Helper designed to make testing your endpoints in Vapor 3 pain-free.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporAPNS](https://github.com/matthijs2704/vapor-apns) – Simple APNS Library for Vapor (Swift).
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [VaporExt](https://github.com/vapor-community/vapor-ext) – A collection of Swift extensions for wide range of Vapor data types and classes.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [WKHTMLTOPDF](https://github.com/MihaelIsaev/wkhtmltopdf) – Build PDF files from Leaf templates or web pages through the `wkhtmltopdf` CLI tool.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [XMLCoding](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) – Automatic RESTful CRUD router generation for any Fluent Model.
 
 ## Tools
 

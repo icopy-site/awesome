@@ -115,6 +115,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
 
 #### Relay Related
 
@@ -201,6 +202,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
+* [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
 
 <a name="lib-go" />
 
@@ -220,7 +222,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Scala Libraries
 
-* [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
+* [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL server implementation.
 * [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
 
@@ -237,7 +239,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Elixir Libraries
 
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
-* [graphql-elixir](https://github.com/graphql-elixir/graphql) - GraphQL Elixir.
+* [graphql-elixir](https://github.com/graphql-elixir/graphql) - GraphQL Elixir. (No longer maintained)
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) - Plug integration for GraphQL Elixir.
 * [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - Elixir bindings for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
@@ -409,6 +411,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [contextable.js](https://github.com/rawmodel/framework).
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
+* [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
 
 <a name="example-ts" />
 
