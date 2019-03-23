@@ -5,7 +5,7 @@
 
 A list of Q# code and resources.
 
-Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](https://github.com/ebraminio/awesome-qsharp/blob/master/CONTRIBUTING.md) for more information.
+Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](https://github.com/ebraminio/awesome-qsharp/blob/master/contributing.md) for more information.
 
 
 ## Official Resources
@@ -47,6 +47,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
+- [Vim](https://github.com/gootorov/q-sharp.vim)
 
 ## Demos and Samples
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
