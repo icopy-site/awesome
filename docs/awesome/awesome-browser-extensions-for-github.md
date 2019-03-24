@@ -217,6 +217,14 @@ Filter your pull requests/issues in different categories giving you a big boost 
 </details>
 
 
+Chrome extension to see story points in GitHub projects.
+
+<details><summary>Screenshots</summary>
+
+![GitHub Story Points](https://raw.githubusercontent.com/banyan/github-story-points/master/assets/images/example.png)
+</details>
+
+
 ## Navigation
 
 
@@ -454,6 +462,15 @@ Browser extension that shows which pull requests contain changes related to a fi
 <details><summary>Screenshots</summary>
 
  ![Potential changes demo](https://raw.githubusercontent.com/dzhavat/potential-changes-for-github/master/demo.gif)
+</details>
+
+
+Find the best GIFs for your awesome pull requests. 
+
+<details><summary>Screenshots</summary>
+
+ ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
+ 
 </details>
 
 ## Repository
