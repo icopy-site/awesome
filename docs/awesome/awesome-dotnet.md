@@ -795,9 +795,14 @@ metadata in media files, including video, audio, and photo formats
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## Static Site Generators
+
 * [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
+
+## Strong Naming
+
+* [Strong Namer](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## Style Guide
 

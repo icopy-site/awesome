@@ -44,8 +44,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
 - [React Native Newsletter](http://reactnative.cc/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 - [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
-- [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
-- [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
+- [React Digest](https://reactdigest.net/). A weekly newsletter for React developers with top 5 links. [Archive](https://reactdigest.net/digests).
 - [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
@@ -112,7 +112,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Common Section
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
-- [Programming Digest](https://programmingdigest.net/). 5 links, one article from Monday to Friday with the most interesting news about programming, big data, architecture, development process, databases — you name it.
+- [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
 - [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis). Topics range from git to career to web development to personal development and teamwork.
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
@@ -125,7 +125,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### C
 
-- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
+- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
 ### Node.js
@@ -316,6 +316,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 - [Data Prism](http://dataprism.co/). Data Prism is a weekly publication of curated news about startups and companies in the fields of data science, machine learning, AI and analytics.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Technology in General
 
