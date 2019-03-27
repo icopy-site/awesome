@@ -21,6 +21,7 @@
   - [Shape Type](https://shape.method.ac/) - Letter Shaping
   - [Kern Type](https://type.method.ac/) - Kerning
 - [Pixactly](http://pixact.ly/) - A pixels test to quiz your knowledge.
+- [The Boolean Game](https://boolean.method.ac/) - Learn how to use boolean operations in Sketch, Figma, and other vector editors.
 
 ## Articles
 
