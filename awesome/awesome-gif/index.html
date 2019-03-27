@@ -7197,19 +7197,50 @@
 #### Frames to GIF
 
 FFmpeg
-wzxhzdk:0
+<div class="codehilite"><pre><span></span>ffmpeg -f image2 -i image%d.jpg animated.gif
+</pre></div>
 
 Imagemagick
-wzxhzdk:1
+<div class="codehilite"><pre><span></span>convert   -delay <span class="m">20</span>   -loop <span class="m">0</span>   frames*.png   animated.gif
+</pre></div>
 Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
-wzxhzdk:2
+<div class="codehilite"><pre><span></span><span class="ch">#!/bin/bash</span>
+<span class="k">if</span> <span class="o">[</span> <span class="nv">$#</span> -ne <span class="m">5</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+    <span class="nb">echo</span> <span class="s2">&quot;please provide the moviename and directory where to store the frames&quot;</span>
+    <span class="nb">echo</span> <span class="s2">&quot;./frames2gif.sh [directory] [movie.mp4] [filename.gif] [gm|im|ffmpeg] [png|jpg]&quot;</span>
+    <span class="nb">exit</span> <span class="m">1</span>
+<span class="k">fi</span>
+    <span class="k">if</span> <span class="o">[</span> <span class="s2">&quot;png&quot;</span> <span class="o">==</span> <span class="s2">&quot;</span><span class="nv">$5</span><span class="s2">&quot;</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
+        <span class="nv">suffix</span><span class="o">=</span><span class="s2">&quot;png&quot;</span>
+    <span class="k">else</span>
+        <span class="nv">suffix</span><span class="o">=</span><span class="s2">&quot;jpg&quot;</span>
+    <span class="k">fi</span>
+
+    <span class="nv">CONVERT</span><span class="o">=</span><span class="k">$(</span>which convert<span class="k">)</span>
+    <span class="nv">GM</span><span class="o">=</span><span class="k">$(</span>which gm<span class="k">)</span>
+    <span class="nv">FFMPEG</span><span class="o">=</span><span class="k">$(</span>which ffmpeg<span class="k">)</span>
+    <span class="nv">FFPROBE</span><span class="o">=</span><span class="k">$(</span>which ffprobe<span class="k">)</span>
+    <span class="nv">FPS</span><span class="o">=</span><span class="k">$(</span><span class="nv">$FFPROBE</span> -show_streams -select_streams v -i <span class="s2">&quot;</span><span class="nv">$2</span><span class="s2">&quot;</span>  <span class="m">2</span>&gt;/dev/null <span class="p">|</span> grep <span class="s2">&quot;r_frame_rate&quot;</span> <span class="p">|</span> cut -d<span class="s1">&#39;=&#39;</span> -f2 <span class="p">|</span> cut -d<span class="s1">&#39;/&#39;</span> -f1<span class="k">)</span>
+    <span class="nb">echo</span> <span class="s2">&quot;FPS: </span><span class="si">${</span><span class="nv">FPS</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="k">if</span> <span class="o">[</span> <span class="s2">&quot;im&quot;</span> <span class="o">==</span> <span class="s2">&quot;</span><span class="nv">$4</span><span class="s2">&quot;</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span> <span class="c1"># use imagemagick</span>
+    <span class="nv">FPS</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span> <span class="s2">&quot;1 / </span><span class="si">${</span><span class="nv">FPS</span><span class="si">}</span><span class="s2"> * 100&quot;</span> <span class="p">|</span>bc -l<span class="k">)</span>
+    <span class="nv">$CONVERT</span> <span class="s2">&quot;</span><span class="nv">$1</span><span class="s2">/*.</span><span class="si">${</span><span class="nv">suffix</span><span class="si">}</span><span class="s2">&quot;</span>  -delay <span class="si">${</span><span class="nv">FPS</span><span class="si">}</span> -loop <span class="m">0</span> <span class="s2">&quot;</span><span class="nv">$3</span><span class="s2">&quot;</span>
+<span class="k">elif</span> <span class="o">[</span> <span class="s2">&quot;gm&quot;</span> <span class="o">==</span> <span class="s2">&quot;</span><span class="nv">$4</span><span class="s2">&quot;</span> <span class="o">]</span><span class="p">;</span> <span class="k">then</span> <span class="c1"># use graphicsmagick</span>
+    <span class="nv">FPS</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span> <span class="s2">&quot;1 / </span><span class="si">${</span><span class="nv">FPS</span><span class="si">}</span><span class="s2"> * 100&quot;</span> <span class="p">|</span>bc -l<span class="k">)</span>
+    <span class="nv">$GM</span> convert <span class="s2">&quot;</span><span class="nv">$1</span><span class="s2">/*.</span><span class="si">${</span><span class="nv">suffix</span><span class="si">}</span><span class="s2">&quot;</span>  -delay <span class="si">${</span><span class="nv">FPS</span><span class="si">}</span> -loop <span class="m">0</span> <span class="s2">&quot;</span><span class="nv">$3</span><span class="s2">&quot;</span>
+<span class="k">else</span> <span class="c1"># use crappy gif-algorithm from ffmpeg</span>
+    <span class="nv">$FFMPEG</span> -f image2 -framerate <span class="si">${</span><span class="nv">FPS</span><span class="si">}</span> -i <span class="s2">&quot;</span><span class="nv">$1</span><span class="s2">/%08d.</span><span class="si">${</span><span class="nv">suffix</span><span class="si">}</span><span class="s2">&quot;</span> <span class="s2">&quot;</span><span class="nv">$3</span><span class="s2">&quot;</span>
+<span class="k">fi</span>
+</pre></div>
 From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 
 #### GIF to frames
 
-wzxhzdk:3
-wzxhzdk:4
+<div class="codehilite"><pre><span></span>ffmpeg -i video.mpg image%d.jpg
+</pre></div>
+<div class="codehilite"><pre><span></span>convert -coalesce animated.gif image%05d.png
+</pre></div>
 
 #### High quality GIF
 
@@ -7217,47 +7248,95 @@ with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-w
 
 - Generate a palette :
 
-wzxhzdk:5
+<div class="codehilite"><pre><span></span><span class="ch">#!/bin/sh</span>
+<span class="nv">start_time</span><span class="o">=</span><span class="m">30</span>
+<span class="nv">duration</span><span class="o">=</span><span class="m">3</span>
+ffmpeg -y -ss <span class="nv">$start_time</span> -t <span class="nv">$duration</span> -i input.avi <span class="se">\</span>
+-vf <span class="nv">fps</span><span class="o">=</span><span class="m">10</span>,scale<span class="o">=</span><span class="m">320</span>:-1:flags<span class="o">=</span>lanczos,palettegen palette.png
+</pre></div>
 - Output the GIF using the palette :
 
-wzxhzdk:6
+<div class="codehilite"><pre><span></span><span class="ch">#!/bin/sh</span>
+<span class="nv">start_time</span><span class="o">=</span><span class="m">30</span>
+<span class="nv">duration</span><span class="o">=</span><span class="m">3</span>
+ffmpeg -ss <span class="nv">$start_time</span> -t <span class="nv">$duration</span> -i input.avi -i palette.png -filter_complex <span class="se">\</span>
+<span class="s2">&quot;fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse&quot;</span> output.gif
+</pre></div>
 [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 #### Optimize GIF
 
-wzxhzdk:7
+<div class="codehilite"><pre><span></span>convert -layers Optimize output.gif output_optimized.gif
+</pre></div>
 
 #### Lossy GIF Compressor
 
-wzxhzdk:8
+<div class="codehilite"><pre><span></span>./gifsicle -O3 --lossy<span class="o">=</span><span class="m">80</span> -o lossy-compressed.gif input.gif
+</pre></div>
 [Lossy Gif](https://kornel.ski/lossygif)
 
 
 #### Making GIF from video
 
-wzxhzdk:9
+<div class="codehilite"><pre><span></span><span class="kn">from</span> <span class="nn">moviepy.editor</span> <span class="kn">import</span> <span class="o">*</span>
+
+<span class="n">clip</span> <span class="o">=</span> <span class="p">(</span><span class="n">VideoFileClip</span><span class="p">(</span><span class="s2">&quot;input.avi&quot;</span><span class="p">)</span>
+        <span class="o">.</span><span class="n">subclip</span><span class="p">((</span><span class="mi">4</span><span class="p">,</span><span class="mf">00.00</span><span class="p">),(</span><span class="mi">5</span><span class="p">,</span><span class="mf">00.00</span><span class="p">))</span>
+        <span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="mf">0.3</span><span class="p">))</span>
+<span class="n">clip</span><span class="o">.</span><span class="n">write_gif</span><span class="p">(</span><span class="s2">&quot;output.gif&quot;</span><span class="p">)</span>
+</pre></div>
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
 #### Cinemagraphs
 
 Freezing a region
 
-wzxhzdk:10
+<div class="codehilite"><pre><span></span><span class="kn">from</span> <span class="nn">moviepy.editor</span> <span class="kn">import</span> <span class="o">*</span>
+
+<span class="n">clip</span> <span class="o">=</span> <span class="p">(</span><span class="n">VideoFileClip</span><span class="p">(</span><span class="s2">&quot;input.avi&quot;</span><span class="p">)</span>
+        <span class="o">.</span><span class="n">subclip</span><span class="p">((</span><span class="mi">4</span><span class="p">,</span><span class="mf">00.00</span><span class="p">),(</span><span class="mi">5</span><span class="p">,</span><span class="mf">00.00</span><span class="p">))</span>
+        <span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="mf">0.3</span><span class="p">)</span>
+        <span class="o">.</span><span class="n">fx</span><span class="p">(</span><span class="n">vfx</span><span class="o">.</span><span class="n">freeze_region</span><span class="p">,</span> <span class="n">outside_region</span><span class="o">=</span><span class="p">(</span><span class="mi">170</span><span class="p">,</span> <span class="mi">230</span><span class="p">,</span> <span class="mi">380</span><span class="p">,</span> <span class="mi">320</span><span class="p">)))</span>
+<span class="n">clip</span><span class="o">.</span><span class="n">write_gif</span><span class="p">(</span><span class="s2">&quot;output.gif&quot;</span><span class="p">,</span> <span class="n">fps</span><span class="o">=</span><span class="mi">15</span><span class="p">)</span>
+</pre></div>
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
-wzxhzdk:11
+<div class="codehilite"><pre><span></span>ffmpeg <span class="se">\</span>
+-ss <span class="si">${</span><span class="nv">starttime</span><span class="si">}</span> -t <span class="si">${</span><span class="nv">duration</span><span class="si">}</span> -i <span class="si">${</span><span class="nv">vidfile</span><span class="si">}</span>                         <span class="sb">`</span><span class="c1"># body of loop` \</span>
+-ss TODO <span class="si">${</span><span class="nv">starttime</span><span class="si">}</span> MINUS <span class="si">${</span><span class="nv">duration</span><span class="si">}</span> -t <span class="si">${</span><span class="nv">fadetime</span><span class="si">}</span> -i <span class="si">${</span><span class="nv">vidfile</span><span class="si">}</span>  <span class="sb">`</span><span class="c1"># lead-in for crossfade` \</span>
+-loop <span class="m">1</span> -i <span class="si">${</span><span class="nv">stillfile</span><span class="si">}</span>                                               <span class="sb">`</span><span class="c1"># masked still image` \</span>
+-filter_complex <span class="s2">&quot;</span>
+<span class="s2">  [0:v]setpts=PTS-STARTPTS[vid];                                      `# speed adjustment - not needed here, so noop`</span>
+<span class="s2">  color=white,scale=3840x2160,fade=in:st=0:d=</span><span class="si">${</span><span class="nv">fadetime</span><span class="si">}</span><span class="s2">[alpha];      `# crossfade alpha, double length ahead of speed change`</span>
+<span class="s2">  [1:v][alpha]alphamerge[am];                                         `# apply alpha to lead-in`</span>
+<span class="s2">  [am]setpts=PTS+(</span><span class="si">${</span><span class="nv">duration</span><span class="si">}</span><span class="s2">-</span><span class="si">${</span><span class="nv">fadetime</span><span class="si">}</span><span class="s2">)/TB[layer2];                  `# speed adjustment and offset for lead-in`</span>
+<span class="s2">  [vid][layer2]overlay[oo];                                           `# overlay for crossfade`</span>
+<span class="s2">  [oo][2:v]overlay=shortest=1[out1];                                  `# overlay still image`</span>
+<span class="s2">  [out1]crop=w=</span><span class="si">${</span><span class="nv">cropfactor</span><span class="si">}</span><span class="s2">*iw:h=</span><span class="si">${</span><span class="nv">cropfactor</span><span class="si">}</span><span class="s2">*ih:y=</span><span class="si">${</span><span class="nv">yoffset</span><span class="si">}</span><span class="s2">*ih,scale=</span><span class="si">${</span><span class="nv">outputwidth</span><span class="si">}</span><span class="s2">:-1, `# crop and scale`</span>
+<span class="s2">  eq=gamma=</span><span class="si">${</span><span class="nv">gamma</span><span class="si">}</span><span class="s2">:contrast=</span><span class="si">${</span><span class="nv">contrast</span><span class="si">}</span><span class="s2">:saturation=</span><span class="si">${</span><span class="nv">saturation</span><span class="si">}</span><span class="s2">,unsharp                   `# final adjustments`</span>
+<span class="s2">&quot;</span> -an output.mp4
+</pre></div>
 by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 
 #### Perfect Loop
 
-wzxhzdk:12
+<div class="codehilite"><pre><span></span><span class="kn">import</span> <span class="nn">moviepy.editor</span> <span class="kn">as</span> <span class="nn">mp</span>
+<span class="kn">from</span> <span class="nn">moviepy.video.tools.cuts</span> <span class="kn">import</span> <span class="n">FramesMatches</span>
+
+<span class="n">clip</span> <span class="o">=</span> <span class="n">mp</span><span class="o">.</span><span class="n">VideoFileClip</span><span class="p">(</span><span class="s2">&quot;input.avi&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="mf">0.3</span><span class="p">)</span>
+<span class="n">scenes</span> <span class="o">=</span> <span class="n">FramesMatches</span><span class="o">.</span><span class="n">from_clip</span><span class="p">(</span><span class="n">clip</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+
+<span class="n">selected_scenes</span> <span class="o">=</span> <span class="n">scenes</span><span class="o">.</span><span class="n">select_scenes</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">)</span>
+<span class="n">selected_scenes</span><span class="o">.</span><span class="n">write_gifs</span><span class="p">(</span><span class="n">clip</span><span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="mi">450</span><span class="p">),</span> <span class="s2">&quot;./outputs_directory&quot;</span><span class="p">)</span>
+</pre></div>
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
 #### Youtube video to GIF
 
 - Download it via youtube-dl and then convert it.
 
-wzxhzdk:13
+<div class="codehilite"><pre><span></span>youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
+</pre></div>
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
 
@@ -7269,7 +7348,30 @@ using [PhantomJS](http://phantomjs.org/)
 
 Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
-wzxhzdk:14
+<div class="codehilite"><pre><span></span><span class="kd">var</span> <span class="nx">webPage</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;webpage&#39;</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;fs&#39;</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">page</span> <span class="o">=</span> <span class="nx">webPage</span><span class="p">.</span><span class="nx">create</span><span class="p">();</span>
+
+<span class="kd">var</span> <span class="nx">NB_FRAME</span> <span class="o">=</span> <span class="mi">100</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">current</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+
+<span class="nx">page</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="s1">&#39;http://www.effectgames.com/demos/canvascycle/?sound=0&#39;</span><span class="p">,</span>
+<span class="kd">function</span><span class="p">(</span><span class="nx">status</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">status</span> <span class="o">===</span> <span class="s2">&quot;success&quot;</span><span class="p">)</span> <span class="p">{</span>
+      <span class="kd">var</span> <span class="nx">current</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+      <span class="kd">var</span> <span class="nx">grabber</span> <span class="o">=</span> <span class="nx">setInterval</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+          <span class="kd">var</span> <span class="nx">frame</span> <span class="o">=</span> <span class="nx">page</span><span class="p">.</span><span class="nx">evaluate</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+           <span class="k">return</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;mycanvas&#39;</span><span class="p">).</span><span class="nx">toDataURL</span><span class="p">(</span><span class="s2">&quot;image/png&quot;</span><span class="p">).</span><span class="nx">split</span><span class="p">(</span><span class="s2">&quot;,&quot;</span><span class="p">)[</span><span class="mi">1</span><span class="p">];</span>
+          <span class="p">});</span>
+          <span class="nx">fs</span><span class="p">.</span><span class="nx">write</span><span class="p">(</span><span class="s2">&quot;./frame-&quot;</span> <span class="o">+</span> <span class="nx">current</span> <span class="o">+</span> <span class="s2">&quot;.png&quot;</span><span class="p">,</span><span class="nx">atob</span><span class="p">(</span><span class="nx">frame</span><span class="p">),</span> <span class="s1">&#39;wb&#39;</span><span class="p">);</span>
+      <span class="k">if</span> <span class="p">(</span><span class="o">++</span><span class="nx">current</span> <span class="o">===</span> <span class="nx">NB_FRAME</span><span class="p">)</span> <span class="p">{</span>
+         <span class="nb">window</span><span class="p">.</span><span class="nx">clearInterval</span><span class="p">(</span><span class="nx">grabber</span><span class="p">);</span>
+         <span class="nx">phantom</span><span class="p">.</span><span class="nx">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+      <span class="p">}</span>
+    <span class="p">},</span> <span class="mi">1000</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">});</span>
+</pre></div>
 or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous
