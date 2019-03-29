@@ -878,6 +878,14 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+### Bergambacht
+
+<img src="https://twitter.com/stefannhs/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Nieuwenhuis**\
+Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos, Design Systems\
+https://twitter.com/stefannhs
+
 ### Breda
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1432,6 +1440,14 @@ https://twitter.com/ninjanails
 
 ## Canada 🇨🇦
 
+### Hamilton
+
+<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Wes Bos**\
+Topics: JavaScript, CSS, Tooling\
+https://twitter.com/wesbos
+
 ### Kingston
 
 <img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
@@ -1476,14 +1492,6 @@ https://twitter.com/halathinkeths
 Topics: CSS Grids, React, Redux, Firebase, Flexbox\
 https://twitter.com/tiffhaxell
 
-### Hamilton
-
-<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Wes Bos**\
-Topics: Fullstack Dev , JavaScript, CSS, Node, React\
-https://twitter.com/wesbos
-
 ## United States of America 🇺🇸
 
 ### Boston
@@ -1513,14 +1521,6 @@ https://twitter.com/leaverou
 **Adrian Roselli**\
 Topics: Accessibility\
 https://twitter.com/aardrian
-
-### California
-
-<img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Addy Osmani**\
-Topics: GoogleChrome devtool, TodoMVC, @Yeoman, Material Design Lite\
-https://twitter.com/addyosmani
 
 ### Carlsbad
 
@@ -1693,6 +1693,14 @@ https://twitter.com/una
 **Tierney Cyren**\
 Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 https://twitter.com/bitandbang
+
+### Mountain View
+
+<img src="https://twitter.com/addyosmani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Addy Osmani**\
+Topics: Chrome DevTools, Performance\
+https://twitter.com/addyosmani
 
 ### Omaha
 
@@ -1988,11 +1996,11 @@ https://twitter.com/raphamorims
 Topics: Frontend development, woman's inspiration, JavaScript, CSS\
 https://twitter.com/carolcode
 
-<img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/fembernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Fernanda Bernardo**\
 Topics: CSS, JavaScript, HTML\
-https://twitter.com/Feh_Bernardo
+https://twitter.com/fembernardo
 
 <img src="https://twitter.com/JoaoVictor_AC/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
