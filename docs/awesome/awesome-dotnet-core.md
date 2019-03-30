@@ -143,6 +143,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [NBXplorer](https://github.com/dgarage/NBXplorer) - A Bitcoin and Altcoin lightweight block explorer.
 * [NEO](https://github.com/neo-project/neo) - Open Network For Smart Economy.
 * [Nethereum](https://github.com/Nethereum) - Bringing the love of Ethereum to .NET.
+* [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core Ethereum client
 * [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) - Simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework.
 * [Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
 * [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
@@ -413,6 +414,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [commanddotnet](https://github.com/bilal-fazlani/commanddotnet) - Model your command line application interface in a class.
 * [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - The implementation of CommonMark specification in C# for converting Markdown documents to HTML.
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
+* [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - A library that can quickly format and convert geographic coordinates as well as provide location based sun and moon information (sunset, sunrise, moon illumination, etc...). 
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 * [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 * [dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
@@ -701,6 +703,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * Microservices & Service Mesh
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) - A containerised polyglot Service Mesh application (Istio) consisting of microservices based on .NET Core, NodeJS and more running on Kubernetes.
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
+  * [DNC-DShop](https://github.com/devmentors) - Distributed .NET Core project and free course. (DDD, CQRS, RabbitMQ, MongoDB, Redis, Monitoring, Logging, CI, CD)
   * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
   * [magazine-website](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
   * [microservices-in-dotnetcore](https://github.com/horsdal/microservices-in-dotnetcore) - The code sample from my microservices book -[https://manning.com/books/microservices-in-net-core](https://manning.com/books/microservices-in-net-core)

@@ -35,8 +35,6 @@ them.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
 - [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
-- [Trilinos](https://trilinos.org) - Algorithms and enabling technologies for the solution of large-scale, complex multi-physics engineering and scientific problems.
-  (mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/))
 - [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://www.numpy.org) - Fundamental package needed for scientific computing with Python.
@@ -101,6 +99,8 @@ them.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 - [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
+- [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+  (Python, MIT, GitHub)
 
 
 ## Sparse linear solvers

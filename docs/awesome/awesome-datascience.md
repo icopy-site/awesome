@@ -232,6 +232,10 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
 - [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes 
 
+## Newsletters
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)

@@ -160,7 +160,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ## Development tools
 
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) — generates images of dependency graphs for crates hosted on crates.io
-* [Module Linker](https://fiatjaf.alhur.es/module-linker/) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+* [Module Linker](https://fiatjaf.alhur.es/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 * [ptags](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 * [Rust Language Server](https://github.com/rust-lang/rls) — a server that runs in the background, providing IDEs, editors, and other tools with information about Rust programs
 * [artifact](https://github.com/vitiral/artifact) — the design doc tool made for developers [![Build Status](https://api.travis-ci.org/vitiral/artifact.svg?branch=master)](https://travis-ci.org/vitiral/artifact)
@@ -171,15 +171,16 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Cargo](https://crates.io/) — the Rust package manager
   * [BurntSushi/cargo-benchcmp](https://raw.githubusercontent.com/BurntSushi/cargo-benchcmp) [[cargo-benchcmp](https://crates.io/crates/cargo-benchcmp)] — utility to compare Rust micro-benchmarks [<img src="https://api.travis-ci.org/BurntSushi/cargo-benchcmp.svg?branch=master">](https://travis-ci.org/BurntSushi/cargo-benchcmp)
    * [cardoe/cargo-bitbake](https://raw.githubusercontent.com/cardoe/cargo-bitbake) [[cargo-bitbake](https://crates.io/crates/cargo-bitbake)] — cargo extension that can generate BitBake recipes utilizing the classes from meta-rust [<img src="https://api.travis-ci.org/cardoe/cargo-bitbake.svg?branch=master">](https://travis-ci.org/cardoe/cargo-bitbake)
+  * [matthiaskrgr/cargo-cache](https://raw.githubusercontent.com/matthiaskrgr/cargo-cache) [[cargo-cache](https://crates.io/crates/cargo-cache)] — inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [<img src="https://api.travis-ci.org/matthiaskrgr/cargo-cache.svg?branch=master">](https://travis-ci.org/matthiaskrgr/cargo-cache)
   * [rsolomo/cargo-check](https://raw.githubusercontent.com/rsolomo/cargo-check) [[cargo-check](https://crates.io/crates/cargo-check)] — a wrapper around `cargo rustc -- -Zno-trans` which can be helpful for running a faster compile if you only need correctness checks [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [kbknapp/cargo-count](https://raw.githubusercontent.com/kbknapp/cargo-count) [[cargo-count](https://crates.io/crates/cargo-count)] — lists source code counts and details about cargo projects, including unsafe statistics [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
   * [mmstick/cargo-deb](https://raw.githubusercontent.com/mmstick/cargo-deb) — generate binary Debian packages [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
+  * [m-cat/cargo-deps](https://raw.githubusercontent.com/m-cat/cargo-deps) [[cargo-deps](https://crates.io/crates/cargo-deps)] — build dependency graphs of Rust projects [<img src="https://api.travis-ci.org/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
   * [pwoolcoc/cargo-do](https://raw.githubusercontent.com/pwoolcoc/cargo-do) [[cargo-do](https://crates.io/crates/cargo-do)] — run multiple cargo commands in a row [<img src="https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master">](https://travis-ci.org/pwoolcoc/cargo-do)
-  * [maxsnew/cargo-dot](https://raw.githubusercontent.com/maxsnew/cargo-dot) — generate graphs of a Cargo project's dependencies [<img src="https://api.travis-ci.org/maxsnew/cargo-dot.svg?branch=master">](https://travis-ci.org/maxsnew/cargo-dot)
   * [cardoe/cargo-ebuild](https://raw.githubusercontent.com/cardoe/cargo-ebuild) [[cargo-ebuild](https://crates.io/crates/cargo-ebuild)] — cargo extension that can generate ebuilds using the in-tree eclasses [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
   * [killercup/cargo-edit](https://raw.githubusercontent.com/killercup/cargo-edit) [[cargo-edit](https://crates.io/crates/cargo-edit)] — allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line [<img src="https://api.travis-ci.org/killercup/cargo-edit.svg?branch=master">](https://travis-ci.org/killercup/cargo-edit)
   * [Ralvke/cargo-find](https://raw.githubusercontent.com/Ralvke/cargo-find) [[cargo-find](https://crates.io/crates/cargo-find)] <sup>deprecated</sup> — Find crates from command line [<img src="https://api.travis-ci.org/Ralvke/cargo-find.svg?branch=master">](https://travis-ci.org/Ralvke/cargo-find)
-  * [kbknapp/cargo-graph](https://raw.githubusercontent.com/kbknapp/cargo-graph) [[cargo-graph](https://crates.io/crates/cargo-graph)] — updated fork of `cargo-dot` with additional features [<img src="https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-graph)
+  * [kbknapp/cargo-graph](https://raw.githubusercontent.com/kbknapp/cargo-graph) [[cargo-graph](https://crates.io/crates/cargo-graph)] — updated fork of `cargo-dot` with additional features. Unmaintained, see `cargo-deps` [<img src="https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-graph)
   * [imp/cargo-info](https://gitlab.com/imp/cargo-info) [[cargo-info](https://crates.io/crates/cargo-info)] — queries crates.io for crates details from command line [<img src="https://api.travis-ci.org/imp/cargo-info.svg?branch=master">](https://travis-ci.org/imp/cargo-info)
   * [sagiegurari/cargo-make](https://raw.githubusercontent.com/sagiegurari/cargo-make) [[cargo-make](https://crates.io/crates/cargo-make)] — Rust task runner and build tool. [<img src="https://api.travis-ci.org/sagiegurari/cargo-make.svg?branch=master">](https://travis-ci.org/sagiegurari/cargo-make)
   * [regexident/cargo-modules](https://raw.githubusercontent.com/regexident/cargo-modules) [[cargo-modules](https://crates.io/crates/cargo-modules)] — A cargo plugin for showing a tree-like overview of a crate's modules. [<img src="https://api.travis-ci.org/regexident/cargo-modules.svg?branch=master">](https://travis-ci.org/regexident/cargo-modules)
@@ -246,7 +247,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * C++
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — a Rust bindings generator
 * Erlang
-  * [hansihe/Rustler](https://raw.githubusercontent.com/hansihe/Rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/hansihe/rustler.svg?branch=master">](https://travis-ci.org/hansihe/rustler)
+  * [rusterlium/rustler](https://raw.githubusercontent.com/rusterlium/rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/rusterlium/rustler.svg?branch=master">](https://travis-ci.org/rusterlium/rustler)
 * Haskell
   * [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
   * [mgattozzi/haskellrs](https://github.com/mgattozzi/haskellrs) — Rust in Haskell FFI Example
@@ -299,7 +300,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     * [rust-mode](https://github.com/rust-lang/rust-mode) — Rust Major Mode
     * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck)
     * [emacs-racer](https://github.com/racer-rust/emacs-racer) — Autocompletion (see also [company](https://company-mode.github.io) and [auto-complete](https://github.com/auto-complete/auto-complete))
-    * [lsp-rust](https://github.com/emacs-lsp/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+    * [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
   * [gitpod.io](https://gitpod.io) — Online IDE with full Rust support based on Rust Language Server
   * [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
   * [Kakoune](http://kakoune.org/)
@@ -414,6 +415,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 * [Altenius/j2534](https://github.com/Altenius/j2534-rs) [[j2534](https://crates.io/crates/j2534)] - J2534 PassThru bindings
 * [LibreTuner/tuneutils](https://github.com/LibreTuner/tuneutils) [[tuneutils](https://crates.io/crates/tuneutils)] - Utilities for interfacing with, diagnosing, and tuning car
+* [oefd/tokio-socketcan](https://github.com/oefd/tokio-socketcan) [[tokio-socketcan]](https://crates.io/crates/tokio-socketcan)] - Linux SocketCAN support for tokio based on the socketcan crate
 
 ### Bioinformatics
 
@@ -858,6 +860,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [mattnenterprise/rust-ftp](https://raw.githubusercontent.com/mattnenterprise/rust-ftp) — an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-ftp)
 * IPNetwork
   * [achanda/ipnetwork](https://raw.githubusercontent.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [<img src="https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master">](https://travis-ci.org/achanda/ipnetwork)
+  * [candrew/netsim](https://raw.githubusercontent.com/canndrew/netsim) - A Rust library for network simulation and testing [<img src="https://api.travis-ci.org/canndrew/netsim.svg?branch=master">](https://travis-ci.org/canndrew/netsim)
 * Low level
   * [libpnet/libpnet](https://raw.githubusercontent.com/libpnet/libpnet) — a cross-platform, low level networking [<img src="https://api.travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
   * [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — a network application framework for rapid development and highly scalable production deployments of clients and servers.
@@ -881,7 +884,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * CoAP
   * [Covertness/coap-rs](https://raw.githubusercontent.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://tools.ietf.org/html/rfc7252) library for Rust. [<img src="https://api.travis-ci.org/Covertness/coap-rs.svg?branch=master">](https://travis-ci.org/Covertness/coap-rs)
 
-### Parser
+### Parsing
 
   * [Geal/nom](https://raw.githubusercontent.com/Geal/nom) — parser combinator library [<img src="https://api.travis-ci.org/Geal/nom.svg?branch=master">](https://travis-ci.org/Geal/nom)
   * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) — an URL parameter parser for rest filter inquiry [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
@@ -928,6 +931,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 * Handlebars
   * [sunng87/handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) — Handlebars template engine with inheritance, custom helper support. [<img src="https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
+  * [r-iendo/yarte](https://gitlab.com/r-iendo/yarte) - compile-time handlebars-like templates [<img src="https://gitlab.com/r-iendo/yarte/badges/master/build.svg">](https://gitlab.com/r-iendo/yarte/pipelines)
 * HTML
   * [lfairy/maud](https://raw.githubusercontent.com/lfairy/maud) — compile-time HTML templates [<img src="https://api.travis-ci.org/lfairy/maud.svg?branch=master">](https://travis-ci.org/lfairy/maud)
   * [Stebalien/horrorshow-rs](https://raw.githubusercontent.com/Stebalien/horrorshow-rs) — compile-time HTML templates [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
@@ -982,10 +986,11 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
   * [danclive/sincere](https://raw.githubusercontent.com/danclive/sincere) — A micro web framework for Rust(stable) based on hyper and multithreading. [<img src="https://api.travis-ci.org/danclive/sincere.svg?branch=master">](https://travis-ci.org/danclive/sincere)
   * [oltdaniel/zap](https://raw.githubusercontent.com/oltdaniel/zap) — A lightning fast http framework for Rust [<img src="https://api.travis-ci.org/oltdaniel/zap.svg?branch=master">](https://travis-ci.org/oltdaniel/zap)
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
+  * [actix/sockjs](https://raw.githubusercontent.com/actix/sockjs) — [SockJS](https://raw.githubusercontent.com/sockjs) server for Rust [<img src="https://api.travis-ci.org/actix/sockjs.svg?branch=master">](https://travis-ci.org/actix/sockjs)
   * [cyderize/rust-websocket](https://raw.githubusercontent.com/cyderize/rust-websocket) — a framework for dealing with WebSocket connections (both clients and servers) [<img src="https://api.travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
   * [housleyjk/ws-rs](https://raw.githubusercontent.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [<img src="https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)
   * [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation for Rust.
-  * [actix/sockjs](https://raw.githubusercontent.com/actix/sockjs) — [SockJS](https://raw.githubusercontent.com/sockjs) server for Rust [<img src="https://api.travis-ci.org/actix/sockjs.svg?branch=master">](https://travis-ci.org/actix/sockjs)
+  * [vi/websocat](https://raw.githubusercontent.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat. [<img src="https://travis-ci.org/vi/websocat.svg?branch=master">](https://travis-ci.org/vi/websocat)
   * [vityafx/urlshortener-rs](https://raw.githubusercontent.com/vityafx/urlshortener-rs) [[urlshortener](https://crates.io/crates/urlshortener)] — A very simple urlshortener library for Rust. [<img src="https://api.travis-ci.org/vityafx/urlshortener-rs.svg?branch=master">](https://travis-ci.org/vityafx/urlshortener-rs)
 * Miscellaneous
   * [cargonauts](https://github.com/cargonauts-rs/cargonauts) — A web framework intended for building maintainable, well-factored web apps.
