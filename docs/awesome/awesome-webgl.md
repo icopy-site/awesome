@@ -74,6 +74,7 @@ Processing Unit (GPU).
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
+* [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) - Dependency free shader editor featuring inline error logs, auto completions, models and textures loading. 
 
 ### References
 
@@ -278,7 +279,7 @@ Processing Unit (GPU).
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
-* [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
+* [Pocket.gl](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
@@ -291,7 +292,7 @@ Processing Unit (GPU).
 * [Facebook](https://www.facebook.com/groups/webgl/about/)
 * [Twitter](https://twitter.com/webgl)
 * [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
-* [Khronos Forum](https://forums.khronos.org/forumdisplay.php/92-WebGL)
+* [Khronos Forum](https://community.khronos.org/c/other-standards/webgl)
 * [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 * [Google Plus](https://plus.google.com/communities/114915309361980512257)
 * [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
