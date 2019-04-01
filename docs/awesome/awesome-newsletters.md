@@ -236,6 +236,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
 - [NixOS Weekly](https://weekly.nixos.org).
 
+## Git
+
+- [Git Rev News](https://git.github.io/rev_news/rev_news/). Aggregation of activities of the Git mailing list in a format for the wider tech audience.
+
 ## Editors
 
 ### Vim
@@ -286,7 +290,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Cloud Development
 
-- [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
+- [Your weekly Azure news fix](https://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 - [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 - [Last Week in AWS](https://lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
