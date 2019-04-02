@@ -40,15 +40,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Applications and Platforms
 
-### Activity & Fitness
+### Fitness
 - [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
 - [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 - [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
-- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
-- [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
 - [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+
+### Places & Travel
+- [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
+- [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
+- [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Track your movements and places visited via GPS (iOS).
+- [Moves](https://moves-app.com/) - Activity diary for your life, now shut down (iOS & Android).  
 
 ### Aggregators & Dashboards
 - [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
@@ -61,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 - [QS Access](http://quantifiedself.com/qs-access-app/) - Export Apple Health data into CSV table format (iOS). 
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
@@ -93,8 +98,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
+- [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
 
 ### Health
+- [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
 - [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
@@ -148,8 +155,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
 - [Streaks](https://streaksapp.com/) - To do list that helps you form habits and track goals (iOS).
 - [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
-- [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch)
-- [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android). 
+- [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch).
+- [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
+- [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
 ### Wealth
 - [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
@@ -199,6 +207,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
 ## License
 

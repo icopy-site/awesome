@@ -40,6 +40,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
+- [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and provide certification in the platform economy.
 
 ## Security
 
@@ -104,7 +105,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Matomo](http://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
 - [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
-- [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of its analytics script.
+- [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of analytics script.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Countly/countly-server) - A self-hostable, real-time, mobile & web analytics, rich push notifications and crash reporting platform.
 
