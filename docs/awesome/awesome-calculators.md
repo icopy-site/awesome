@@ -25,9 +25,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
 
 ### Windows
+- [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - Advanced scientific calculator with lots of features.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - Interface-less calculator for Windows that lets you do basic math without having to leave the line you're typing on.
-- [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5) - Official Microsoft calculator for Windows 10.
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - Opportunity to use old Windows 7/8 calculator in Windows 10.
 - [GraphCal](http://www.graphcalc.com/) - Professional calculator with unique features.
 

@@ -145,7 +145,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) - Tarantool driver
 
 ## Database Tools
- * [crecto-admin](https://github.com/Crecto/crecto-admin) - Admin dashboard for Crecto and your database
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
@@ -234,15 +233,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen
 
+## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
+
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
-
-## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
- * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
 
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
@@ -346,7 +345,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
- * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
