@@ -189,6 +189,7 @@ You can see in which language an app is written. Currently there are following l
 - [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android.  ![javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
+- [Simulator](https://github.com/onmyway133/Simulator) - 📱 Navigate to your app folders quickly. ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
@@ -507,6 +508,12 @@ You can see in which language an app is written. Currently there are following l
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
 
 ### VPN & Proxy
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.  ![swift_icon] 
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.  ![swift_icon] 
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  ![swift_icon] 
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.  ![objective_c_icon] 
+- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.  ![swift_icon] 
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac) - Ribose VPN Client macOS Menu App.  ![swift_icon] 
 
 ### Video
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.  ![cpp_icon] 
