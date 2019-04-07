@@ -54,31 +54,79 @@ For a list of free hacking books available for download, go [here](https://githu
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
 ## Tools
- * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+### Disassemblers and debuggers
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
- * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
- * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
- * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
- * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
- * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
- * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
- * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
- * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
- * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
- * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
- * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
- * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
+ * [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows
  * [radare2](https://github.com/radare/radare2) - A portable reversing framework
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
- * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
+ * [Capstone](https://github.com/aquynh/capstone)
 
+### Decompilers
+*  JVM-based languages
+  * [Krakatau](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
+  * [JD-GUI](https://github.com/java-decompiler/jd-gui) 
+  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
+    * [Luyten](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
+  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
+  * [JADX](https://github.com/skylot/jadx) - a decompiler for Android apps. Not related to JAD.
 
+* .net-based languages
+  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
+  * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
+  * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
+
+* native code
+  * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
+  * [cutter](https://github.com/radareorg/cutter) - a decompiler based on radare2.
+  * [retdec](https://github.com/avast-tl/retdec)
+  * [snowman](https://github.com/yegord/snowman)
+  * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
+
+### Deobfuscators
+ * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+ * [JS Beautifier](https://github.com/beautify-web/js-beautify)
+ * [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
+
+### Other
+ * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+ * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
+ * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
+ * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
+ * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer (and unpacker) for eXecutables
+
+### Execution logging and tracing
+ * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
+ * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
+ * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
+ * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
+ * [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - USB capture for Linux.
+ * [USBPcap](https://github.com/desowin/usbpcap) - USB capture for Windows.
+ * [dynStruct](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
+ * [drltrace](https://github.com/mxmssh/drltrace) - shared library calls tracing.
+
+### Binary files examination and editing
+
+#### Hex editors
+ * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
+ * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
+* [wxHexEditor](https://github.com/EUA/wxHexEditor)
+* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) - 
+
+#### Other
+ * [Binwalk](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
+ * [Veles](https://github.com/codilime/veles) - a visualizer for statistical properties of blobs.
+ * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particulary useful fir reverse-engineering.
+ * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
+ * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) - executable differ.
+ * [DBeaver](https://github.com/dbeaver/dbeaver) - a DB editor.
+ * [Dependencies](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
+ * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
+* [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers.
 
 ## General
  * [Open Malware](http://www.offensivecomputing.net/)
-
 
 ## Web
 
@@ -88,28 +136,30 @@ For a list of free hacking books available for download, go [here](https://githu
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
  * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+ * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+
+## General
+ * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
+
 
 ## Network
 
 ## Tools
- * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
- * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
  * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
- * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
- * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
  * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+ * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
 
 ## Forensic
@@ -119,11 +169,6 @@ For a list of free hacking books available for download, go [here](https://githu
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
- * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
- * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
- * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
- * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
-
 
 ## Cryptography
 
@@ -162,6 +207,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  
+## Bug bounty -  Earn Some Money  
+  * [Bugcrowd](https://www.bugcrowd.com/)
+  * [Hackerone](https://www.hackerone.com/start-hacking)
+  
 
 ## CTF
 
@@ -178,7 +228,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Picp CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/) 
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
@@ -196,6 +246,11 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+## Post exploitation
+
+## tools
+* [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
+* [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
 ## ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools

@@ -168,6 +168,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple command-line timetracker.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Time tracking utility with simple stopwatch, calendar-based backfill and flexible reporting.
 
 ### Note Taking and Lists
 
@@ -445,6 +446,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - A "poor man's VPN". An SSH-based "VPN" that's easy to install, but with slower performance than a real VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day from your terminal.
 - [googlr](https://github.com/Camji55/googlr) - Search Google from the command line.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Emoji
 
