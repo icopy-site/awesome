@@ -16,6 +16,8 @@ copyright: 'Copyright &copy; 2016 - 2019'
 nav:
   - Platforms:
     - Node.js: awesome/awesome-nodejs.md
+    - Node.js_sub: 
+      - Cross-Platform: awesome/awesome-cross-platform-nodejs.md
     - Frontend Development: awesome/frontend-dev-bookmarks.md
     - iOS: awesome/awesome-ios.md
     - Android: awesome/awesome-android.md
@@ -371,6 +373,7 @@ nav:
     - Vehicle Security and Car Hacking: awesome/awesome-vehicle-security.md
     - Web Security: awesome/awesome-web-security.md
     - Lockpicking: awesome/awesome-lockpicking.md
+    - Cybersecurity Blue Team: awesome/awesome-cybersecurity-blueteam.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md

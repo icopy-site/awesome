@@ -42,6 +42,7 @@
 ## Platforms
 
 - [Node.js](awesome/awesome-nodejs.md) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+	- [Cross-Platform](awesome/awesome-cross-platform-nodejs.md) - Writing cross-platform code on Node.js.
 - [Frontend Development](awesome/frontend-dev-bookmarks.md)
 - [iOS](awesome/awesome-ios.md) - Mobile operating system for Apple phones and tablets.
 - [Android](awesome/awesome-android.md)
@@ -426,6 +427,7 @@
 - [Vehicle Security and Car Hacking](awesome/awesome-vehicle-security.md)
 - [Web Security](awesome/awesome-web-security.md) - Security of web apps & services.
 - [Lockpicking](awesome/awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](awesome/awesome-cybersecurity-blueteam.md) - Groups of individuals who identify security flaws in information technology systems.
 
 
 

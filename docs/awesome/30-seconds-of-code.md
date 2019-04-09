@@ -327,7 +327,7 @@ const sum = pipeAsyncFunctions(
   x => x + 3,
   async x => (await x) + 4
 );
-(async () => {
+(async() => {
   console.log(await sum(5)); // 15 (after one second)
 })();
 ```
@@ -1904,9 +1904,9 @@ The `func` is invoked with three arguments (`value, index, array`).
 const remove = (arr, func) =>
   Array.isArray(arr)
     ? arr.filter(func).reduce((acc, val) => {
-        arr.splice(arr.indexOf(val), 1);
-        return acc.concat(val);
-      }, [])
+      arr.splice(arr.indexOf(val), 1);
+      return acc.concat(val);
+    }, [])
     : [];
 ```
 
@@ -2494,7 +2494,7 @@ uniqueElements([1, 2, 2, 3, 4, 4, 5]); // [1, 2, 3, 4, 5]
 
 Returns all unique values of an array, based on a provided comparator function.
 
-Use `Array.prototype.reduce()` and `Array.prototype.some()` for an array containing only the first unique occurence of each value, based on the comparator function, `fn`.
+Use `Array.prototype.reduce()` and `Array.prototype.some()` for an array containing only the first unique occurrence of each value, based on the comparator function, `fn`.
 The comparator function takes two arguments: the values of the two elements being compared.
 
 ```js
@@ -2528,7 +2528,7 @@ uniqueElementsBy(
 
 Returns all unique values of an array, based on a provided comparator function.
 
-Use `Array.prototype.reduce()` and `Array.prototype.some()` for an array containing only the last unique occurence of each value, based on the comparator function, `fn`.
+Use `Array.prototype.reduce()` and `Array.prototype.some()` for an array containing only the last unique occurrence of each value, based on the comparator function, `fn`.
 The comparator function takes two arguments: the values of the two elements being compared.
 
 ```js
@@ -3069,6 +3069,34 @@ elementIsVisibleInViewport(el, true); // true - (partially visible)
 </details>
 
 
+### formToObject
+
+Encode a set of form elements as an `object`.
+
+Use the `FormData` constructor to convert the HTML `form` to `FormData`, `Array.from()` to convert to an array.
+Collect the object from the array, using `Array.prototype.reduce()`.
+
+```js
+const formToObject = form =>
+  Array.from(new FormData(form)).reduce(
+    (acc, [key, value]) => ({
+      ...acc,
+      [key]: value
+    }),
+    {}
+  );
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+formToObject(document.querySelector('#form')); // { email: 'test@email.com', name: 'Test Name' }
+```
+
+</details>
+
+
 ### getImages
 
 Fetches all images from within an element and puts them into an array
@@ -3600,6 +3628,29 @@ const scrollToTop = () => {
 
 ```js
 scrollToTop();
+```
+
+</details>
+
+
+### serializeForm
+
+Encode a set of form elements as a query string.
+
+Use the `FormData` constructor to convert the HTML `form` to `FormData`, `Array.from()` to convert to an array, passing a map function as the second argument.
+Use `Array.prototype.map()` and `window.encodeURIComponent()` to encode each field's value.
+Use `Array.prototype.join()` with appropriate argumens to produce an appropriate query string.
+
+```js
+const serializeForm = form =>
+  Array.from(new FormData(form), field => field.map(encodeURIComponent).join('=')).join('&');
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+serializeForm(document.querySelector('#form')); // email=test%40email.com&name=Test%20Name
 ```
 
 </details>
@@ -4152,6 +4203,8 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 <summary>Examples</summary>
 
 ```js
+
+
 
 
 
@@ -7213,7 +7266,7 @@ capitalizeEveryWord('hello world!'); // 'Hello World!'
 
 Returns a string with whitespaces compacted.
 
-Use `String.prototype.replace()` with a regular expression to replace all occurences of 2 or more whitespace characters with a single space.
+Use `String.prototype.replace()` with a regular expression to replace all occurrences of 2 or more whitespace characters with a single space.
 
 ```js
 const compactWhitespace = str => str.replace(/\s{2,}/g, ' ');
