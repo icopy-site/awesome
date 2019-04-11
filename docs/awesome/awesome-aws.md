@@ -325,6 +325,7 @@ AWS Repos:
 
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
+* [cfn-python-lint :fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
 * [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
@@ -333,7 +334,7 @@ Community Repos:
 * [Appliscale/perun](https://github.com/Appliscale/perun) - A CLI tool for linting/validation and managing CloudFormation templates and stacks.
 * [bazaarvoice/cloudformation-ruby-dsl :fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
 * [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin.
-* [cloudreach/sceptre] :fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
+* [cloudreach/sceptre :fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - Manages stacks.
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
@@ -637,7 +638,7 @@ Community Repos:
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service.
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
 * [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
-* [goadapp/goad :fire::fire:fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
+* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
 * [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
@@ -811,7 +812,7 @@ Community Repos:
 
 Community Repos:
 
-* [capitalone/cloud-custodian :fire::fire::fire::fire:](https://github.com/capitalone/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
+* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
 * [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
@@ -959,6 +960,7 @@ AWS Guides:
 Community Guides:
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
+* [Automatically generated glossary of services](https://www.aws-glossary.info)
 
 ### Books
 

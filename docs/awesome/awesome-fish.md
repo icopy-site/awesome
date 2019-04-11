@@ -53,6 +53,10 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 - [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
 
+### Git
+
+- [joseluisq/**gitnow**](https://github.com/joseluisq/gitnow) - Command's set to speed up your Git workflow
+
 ### Testing
 
 - [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 

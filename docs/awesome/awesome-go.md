@@ -433,6 +433,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [celeriac](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
 * [consistent](https://github.com/buraksezer/consistent) - Consistent hashing with bounded loads.
+* [dht](https://github.com/anacrolix/dht) - BitTorrent Kademlia DHT implementation.
 * [digota](https://github.com/digota/digota) - grpc ecommerce microservice.
 * [dot](https://github.com/dotchain/dot/) - distributed sync using operational transformation/OT.
 * [doublejump](https://github.com/edwingeng/doublejump) - A revamped Google's jump consistent hash.
@@ -465,8 +466,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [sleuth](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ](https://github.com/zeromq/libzmq)).
 * [tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 * [torrent](https://github.com/anacrolix/torrent) - BitTorrent client package.
-    * [dht](https://godoc.org/github.com/anacrolix/dht) - BitTorrent Kademlia DHT implementation.
-    * [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Video streaming torrent client.
 
 ## Email
 
@@ -1214,6 +1213,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [goArgonPass](https://github.com/dwin/goArgonPass) - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 * [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
+* [Interpol](https://bitbucket.org/vahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
 * [jwc](https://github.com/khezen/jwc) - JSON Web Cryptography library.
 * [lego](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 * [memguard](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
@@ -1909,7 +1909,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Documize](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 * [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
 * [Duplicacy](https://github.com/gilbertchen/duplicacy) - A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.
+* [gfile](https://github.com/Antonito/gfile) - Securely transfer files between two computers, without any third party, over WebRTC.
 * [Go Package Store](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
+* [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Video streaming torrent client.
 * [GoBoy](https://github.com/Humpheh/goboy) - Nintendo Game Boy Color emulator written in Go.
 * [gocc](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
 * [GoDNS](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.

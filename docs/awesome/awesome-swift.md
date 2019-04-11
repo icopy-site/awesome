@@ -11,7 +11,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 958 | April 08, 2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 960 | April 10, 2019
 
 
 
@@ -1120,6 +1120,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 * [ALRT](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - 🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
@@ -1395,6 +1396,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
 * [Closures](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
+* [Codextended](https://github.com/JohnSundell/Codextended) - Extensions giving Codable API type inference super powers.
 * [Curry](https://github.com/thoughtbot/Curry) - Function currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Fast diff library.
 * [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
