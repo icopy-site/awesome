@@ -103,6 +103,7 @@ A curated list of awesome HBase projects and resources.
 * [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
 * [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - HBase connector for Pulsar.
+* [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
 * [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.

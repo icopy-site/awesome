@@ -510,7 +510,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for handling errors.*
 
-* [errlog](https://github.com/snwfdhmp/errlog) - Debug errors with failing func call recognition and pretty stack trace printing.
+* [errlog](https://github.com/snwfdhmp/errlog) - Hackable package that determines responsible source code for an error (and some other fast-debugging features). Pluggable to any logger in-place.
 * [errors](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
 * [errorx](https://github.com/joomcode/errorx) - A feature rich error package with stack traces, composition of errors and more.
 * [go-multierror](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
@@ -1380,6 +1380,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [go-nmea](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
     * [go-runewidth](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
     * [go-slugify](https://github.com/mozillazg/go-slugify) - Make pretty slug with multiple languages support.
+    * [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format with query support and handy cli tools.
     * [go-vcard](https://github.com/emersion/go-vcard) - Parse and format vCard.
     * [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
     * [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.

@@ -62,6 +62,7 @@
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
+- [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
@@ -108,7 +109,7 @@
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][Freeware Icon]
 - [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
 - [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
-- [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS) 
+- [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
@@ -150,7 +151,7 @@
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]
-- [GOG Galaxy](https://www.gog.com/galaxy) - Steam-like DRM-free game platform.
+- [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
@@ -231,7 +232,7 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
+- [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to *Launchy* and a cousin of *Alfred*. ![Freeware][Freeware Icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][Freeware Icon]
@@ -271,7 +272,7 @@
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][Freeware Icon]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
-- [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows. 
+- [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
