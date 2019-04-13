@@ -300,6 +300,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [Demio](https://demio.com/inside/) - Webinar platform that just works.
+  1. [digitalminds.io](https://www.digitalminds.io/careers/) - Freelance platform, open for Developers, IT-consultants and Digital Experts
   1. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
   1. [DNSimple](https://dnsimple.com) - Small 100% remote and globally distributed team working to make domain management an afterthought.
@@ -485,7 +486,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
-  1. [Hipchat](https://www.hipchat.com/) – Great internal chat for hackers.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.

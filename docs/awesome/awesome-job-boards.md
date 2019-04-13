@@ -42,6 +42,10 @@ A curated list of awesome niche job boards.
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 
+## Machine Learning
+
+* [ML Jobs List](https://mljobslist.com/jobs/) - Machine Learning Jobs List is the machine learning community to find and post jobs! 
+
 ## Programming
 
 ### Elixir
@@ -51,6 +55,10 @@ A curated list of awesome niche job boards.
 ### Front-End
 
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
+
+### Full-Stack
+
+* [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
 ### Functional
 
@@ -64,7 +72,7 @@ A curated list of awesome niche job boards.
 
 ### JavaScript
 
-* [Angular Jobs](http://angularjobs.com/)
+* [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
