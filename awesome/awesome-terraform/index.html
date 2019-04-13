@@ -7298,6 +7298,8 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <li><a href="https://github.com/terraform-community-modules">Terraform Community Modules</a></li>
 <li><a href="https://registry.terraform.io/">Terraform Module Registry</a></li>
 <li><a href="https://github.com/dohsimpson/terraform-doc-pdf">Terraform PDF Doc</a></li>
+<li><a href="https://github.com/antonbabenko/terraform-docs-as-pdf">Complete Terraform documentation as PDF files (Updated nightly)</a></li>
+<li><a href="https://www.terraform-best-practices.com/">Terraform Best Practices</a> - <a href="https://github.com/antonbabenko/terraform-best-practices">open-source ebook</a></li>
 </ul>
 <h2 id="books">Books<a class="headerlink" href="#books" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7310,7 +7312,6 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <h3 id="beginner-guides">Beginner Guides<a class="headerlink" href="#beginner-guides" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp">A Comprehensive Guide to Terraform</a> - Series of blog posts from the author of "Terraform: Up &amp; Running" that guide the reader from beginning with Terraform to using it in the real world.</li>
-<li><a href="http://vilkeliskis.com/aws-docker-terraform">Bootstrapping Docker Infrastructure With Terraform</a> - Walkthrough of deploying a dockerized app on ECS using Terraform.</li>
 <li><a href="https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1">Using Terraform for Cloud Deployments - Part 1</a> - Provisioning an EC2 instance.</li>
 </ul>
 <h3 id="writing-custom-providers">Writing Custom Providers<a class="headerlink" href="#writing-custom-providers" title="Permanent link">&para;</a></h3>
@@ -7350,6 +7351,7 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <h2 id="community-modules">Community Modules<a class="headerlink" href="#community-modules" title="Permanent link">&para;</a></h2>
 <p>For more Community Modules not listed here please see the <a href="https://registry.terraform.io/">Terraform Module Registry</a>.</p>
 <ul>
+<li><a href="https://github.com/terraform-aws-modules">terraform-aws-modules</a> - Collection of Terraform AWS modules supported by the community (includes official AWS modules)</li>
 <li><a href="https://github.com/lunagt/rancher-terraform-digitalocean">rancher-terraform-digitalocean</a> - Rancher server on digitalocean.</li>
 <li><a href="https://github.com/segmentio/stack">segmentio/stack</a> - Configures production infrastructure with AWS, Docker, and ECS.</li>
 <li><a href="https://github.com/cloudposse/terraform-aws-ecr">terraform-aws-ecr</a> - Manages Docker container registries on AWS ECR.</li>
@@ -7362,17 +7364,18 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <li><a href="https://github.com/shuaibiyy/terraform-ecs-jenkins">terraform-ecs-jenkins</a> - Provisions Jenkins on AWS ECS using Terraform.</li>
 <li><a href="https://github.com/terraform-google-modules/terraform-google-project-factory">terraform-google-project-factory</a> - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.</li>
 <li><a href="https://github.com/sjevs/terraform-static-website-s3-cloudfront">terraform-static-website-s3-cloudfront</a> - Creates static websites on AWS S3 &amp; Cloudfront based on variables.</li>
-<li><a href="https://github.com/terraform-community-modules/tf_aws_asg_elb">tf_aws_asg_elb</a> - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.</li>
 <li><a href="https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn">tf_aws_availability_zones_cfn</a> - Gets availability zones for your AWS region/account from Cloudformation.</li>
 <li><a href="https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys">tf_aws_bastion_s3_keys</a> - Creates bastion hosts on AWS EC2.</li>
 <li><a href="https://github.com/terraform-community-modules/tf_aws_coreos_ami">tf_aws_coreos_ami</a> - Easy way to lookup CoreOS AMIs with terraform.</li>
 <li><a href="https://github.com/terraform-community-modules/tf_aws_nat">tf_aws_nat</a> - NAT instances for AWS.</li>
-<li><a href="https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway">tf_aws_private_subnet_nat_gateway</a> - Creates private subnets with NAT Gateway in AWS.</li>
-<li><a href="https://github.com/terraform-aws-modules/terraform-aws-rds">tf_aws_rds</a> - Creates RDS resources on AWS.</li>
-<li><a href="https://github.com/terraform-aws-modules/terraform-aws-security-group">terraform-aws-security-group</a> - Creates EC2-VPC security groups on AWS.</li>
-<li><a href="https://github.com/terraform-community-modules/tf_aws_ubuntu_ami">tf_aws_ubuntu_ami</a> - Easy way to lookup Ubuntu AMIs with Terraform.</li>
-<li><a href="https://github.com/terraform-aws-modules/terraform-aws-vpc">terraform-aws-vpc</a> - Creates VPC resources on AWS.</li>
-<li><a href="https://github.com/terraform-community-modules/tf_aws_vpc_only">tf_aws_vpc_only</a> - Provides only VPC (without subnets) in AWS.</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-atlantis">terraform-aws-atlantis</a> - Creates Terraform configurations for running <a href="https://runatlantis.io">Atlantis</a> on AWS Fargate. Github, Gitlab and BitBucket are supported.</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-vpc">terraform-aws-vpc</a> - Creates VPC resources on AWS (verified and very popular module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-autoscaling">terraform-aws-autoscaling</a> - Creates Auto-Scaling Groups and Launch Configurations (verified module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-alb">terraform-aws-alb</a> - Created Application load-balancer on AWS (verified module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-elb">terraform-aws-elb</a> - Created Elastic load-balancer on AWS (verified module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-eks">terraform-aws-eks</a> - Creates Elastic Kubernetes Service on AWS (very popular module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-rds">terraform-aws-rds</a> - Creates RDS resources on AWS (verified module).</li>
+<li><a href="https://github.com/terraform-aws-modules/terraform-aws-security-group">terraform-aws-security-group</a> - Creates EC2-VPC security groups on AWS (verified module).</li>
 <li><a href="https://github.com/kjanshair/terraform-azurerm-aks">terraform-azurerm-aks</a> - Create AKS resoutces on Azure.</li>
 <li><a href="https://github.com/rahulkhengare/terraform-azurerm-redis">terraform-azurerm-redis</a> - Create Redis on Azure.</li>
 <li><a href="https://github.com/foreverXZC/terraform-azurerm-mysql">terraform-azurerm-mysql</a> - Create MySql Database on Azure.</li>
@@ -7422,6 +7425,8 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <li><a href="https://docs.geopoiesis.io/manual/">geopoiesis</a> - Specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.</li>
 <li><a href="https://github.com/sl1pm4t/k2tf">k2tf</a> - Kubernetes YAML to Terraform HCL converter.</li>
 <li><a href="https://github.com/kvz/json2hcl">json2hcl</a> - Convert JSON to HCL and vice versa.</li>
+<li><a href="https://modules.tf/">modules.tf</a> - Infrastructure as code generator - from visual diagrams created with <a href="https://cloudcraft.co/app">Cloudcraft.co</a> to Terraform. <a href="https://github.com/antonbabenko/modules.tf-lambda">Source code</a>.</li>
+<li><a href="https://github.com/antonbabenko/pre-commit-terraform">pre-commit-terraform</a> - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).</li>
 <li><a href="https://github.com/claranet/python-terrafile">python-terrafile</a> - Systematically manage external modules from Github for use in Terraform.</li>
 <li><a href="https://github.com/infrablocks/ruby_terraform">ruby-terraform</a> - Simple Ruby wrapper for invoking terraform commands.</li>
 <li><a href="https://github.com/dmlittle/scenery">scenery</a> - Another Terraform plan output prettifier</li>
@@ -7429,6 +7434,7 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <li><a href="https://github.com/MastodonC/terraboot">terraboot</a> - DSL to generate a terraform configuration and run it.</li>
 <li><a href="https://github.com/coretech/terrafile">terrafile</a> - Systematically manage external modules from Github for use in Terraform (written in Go).</li>
 <li><a href="https://github.com/dxw/terrafile">terrafile</a> - Systematically manage external modules from Github for use in Terraform (written in Ruby).</li>
+<li><a href="https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle">terraform-bundle</a> - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.</li>
 <li><a href="https://github.com/segmentio/terraform-docs">terraform-docs</a> - Quick utility to generate docs from terraform modules.</li>
 <li><a href="https://github.com/coinbase/terraform-landscape">terraform-landscape</a> - Improve Terraform's plan output to be easier to read and understand.</li>
 <li><a href="https://github.com/lifeomic/terraform-plan-parser">terraform-plan-parser</a> - Command line utility and JavaScript API for parsing stdout from <code>terraform plan</code> and converting it to JSON.</li>
@@ -7436,13 +7442,13 @@ Your <a href="https://github.com/shuaibiyy/awesome-terraform/blob/master/contrib
 <li><a href="https://github.com/gina-alaska/terraform-rake-tasks">terraform-rake-tasks</a> - Shared Rake tasks for managing terraform plans.</li>
 <li><a href="https://github.com/ciscocloud/terraform.py">terraform.py</a> - Ansible dynamic inventory script for parsing Terraform state files.</li>
 <li><a href="https://github.com/gruntwork-io/terragrunt">terragrunt</a> - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.</li>
-<li><a href="https://github.com/opencredo/terrahelp">terrahelp</a> - a command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.</li>
+<li><a href="https://github.com/opencredo/terrahelp">terrahelp</a> - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.</li>
 <li><a href="https://github.com/cesar-rodriguez/terrascan">terrascan</a> - Collection of security and best practice test for static code analysis of terraform templates</li>
 <li><a href="https://github.com/tfutils/tfenv">tfenv</a> - Terraform version manager inspired by rbenv.</li>
 <li><a href="https://github.com/palantir/tfjson">tfjson</a> - Utility to read in a Terraform plan file and dump it out in JSON</li>
 <li><a href="https://github.com/wata727/tflint">tflint</a> - Terraform linter for detecting errors that can not be detected by <code>terraform plan</code></li>
 <li><a href="https://github.com/cloudposse/tfmask">tfmask</a> - Terraform utility to mask select output from <code>terraform plan</code> and <code>terraform apply</code></li>
-<li><a href="https://github.com/tfutils/tfscaffold">tfscaffold</a> - A framework for controlling multi-environment multi-component terraform-managed AWS infrastructure</li>
+<li><a href="https://github.com/tfutils/tfscaffold">tfscaffold</a> - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.</li>
 <li><a href="https://github.com/minamijoyo/tfschema">tfschema</a> - Schema inspector for Terraform providers.</li>
 <li><a href="https://github.com/manheim/tfwrapper">tfwrapper</a> - Rubygem providing rake tasks for running Hashicorp Terraform sanely</li>
 <li><a href="https://github.com/coveo/tgf">tgf</a> - Terragrunt frontend for executing Terragrunt/Terraform through Docker.</li>
