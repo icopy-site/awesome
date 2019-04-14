@@ -33,31 +33,30 @@ Official resources.
 - [Block.one](https://block.one/)
 
 
-## Users
+## Learning resources
 
-All about EOSIO platform for users.
-
-
-### Learning resources
+EOSIO learning resources.
 
 
-#### Websites
+### Websites
 
-- [EOS Bootcamp](https://eosbootcamp.com/)
-- [All Things EOS](http://allthingseos.com/)
+- [EOSIO Developer Portal](https://developers.eos.io/)
+- [Elemental Battles](https://battles.eos.io/)
+  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
 - [EOS GO - Homepage for all things EOS](https://www.eosgo.io/)
+- [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
+- [EOS Bootcamp](https://eosbootcamp.com/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
-- [Cypherglass Help](https://www.cypherglass.com/help)
-- [EOS - Trybe](https://trybe.one/eos-cryptocurrency/)
 - [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
+- [Cypherglass Help](https://www.cypherglass.com/help)
 
-#### General guides, articles and videos
+### Courses, workshops, webinars and books
 
-- [The Complete Guide To Moving EOS Tokens Off Of Exchanges](https://medium.com/eos-new-york/the-complete-guide-for-moving-eos-tokens-off-of-exchanges-4c40b6155ecd) - Article.
-- [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article.
-- [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit.
-- [EOSInfopedia - tools](http://eosinfopedia.io/eostools.html) - Website.
-- [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
+- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
+- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
+- [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
+- [Learn EOS Development](https://learneos.one/) - Book.
+- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
 
 
 ## Tools
@@ -67,7 +66,7 @@ Various software and tools.
 
 ### Wallets and Toolkits
 
-- [cleos](https://developers.eos.io/eosio-nodeos/docs/cleos-overview)
+- [cleos](https://developers.eos.io/eosio-cleos/docs)
   - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO).
   - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange.
@@ -97,6 +96,7 @@ Various software and tools.
   - [cypherglassdotcom/glasslens](https://github.com/cypherglassdotcom/glasslens) - Official GitHub.
   - [Introducing Cypherglass LENS a new EOS Voting Tool](https://steemit.com/eos/@cypherglass/introducing-cypherglass-lens-a-new-eos-voting-tool) - Article.
   - [How to Vote for EOS Block Producers with Cypherglass LENS](https://www.youtube.com/watch?v=hDDh77Hw5iI) - YouTube.
+- [All Things EOS](http://allthingseos.com/)
 
 ### Account services
 
@@ -121,7 +121,6 @@ Various software and tools.
 
 - [EOS Resource Planner](https://www.eosrp.io/) - EOSIO Resource Planner and Calculator.
   - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub.
-- [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOSIO RAM Price platform.
 
 ### Block Producers
 
@@ -136,50 +135,6 @@ Various software and tools.
 
 All about development on EOSIO platform.
 
-
-### Learning resources for developers
-
-
-#### Websites
-
-- [EOSIO Developer Portal](https://developers.eos.io/)
-- [Elemental Battles](https://battles.eos.io/)
-  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
-- [EOS Node Tools](https://eosnode.tools/)
-- [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
-
-#### General guides, articles and videos
-
-- [Building Distributed Apps With EOS.IO Blockchain](https://www.youtube.com/watch?v=E3Tx2DseLGE) - YouTube.
-- [How to setup VS Code and CLion for EOS dApp Development](https://infinitexlabs.com/setup-ide-for-eos-development/) - Article.
-- [The ultimate end-to-end EOS dApp development tutorial - Part 1](https://infinitexlabs.com/eos-development-tutorial-part-1/) - Article.
-- [The ultimate end-to-end EOS dApp development tutorial – Part 2](https://infinitexlabs.com/eos-development-tutorial-part-2/) - Article.
-- [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980) - Article.
-- [Complete guide to creating an EOS airdrop](https://www.youtube.com/watch?v=E5JlA-29Wwk) - YouTube.
-
-#### Courses, workshops, webinars and books
-
-- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
-- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
-- [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
-- [Learn EOS Development](https://learneos.one/) - Book.
-- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
-
-#### YouTube Channels for developers
-
-- [Jackson Kelley](https://www.youtube.com/user/jackodwhacko)
-- [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress)
-- [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA)
-
-#### Examples
-
-- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
-- [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
-- [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
-- [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
-- [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
-
-
 ### Libraries and Frameworks
 
 
@@ -191,6 +146,9 @@ All about development on EOSIO platform.
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library.
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library.
 - [React Native EOS](https://github.com/EvaCoop/react-native-eos) - Native implementation of client to eos blockchain communication.
+- [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
+  - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) - Official GitHub.
+  - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
 
 #### Frameworks
@@ -206,6 +164,9 @@ All about development on EOSIO platform.
 ### Developer Tools
 
 - [EOSIO.CDT](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
+- [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
+- [EOS Node Tools](https://eosnode.tools/) - This microsite is a collection of resources and tools for any EOS enthusiast, dApp developer or block producer who wants to setup, maintain or recover their own nodes for the EOSIO blockchain.
+- [eos-helm](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSSnapshots.io](https://www.eossnapshots.io/) - Snapshots As A Service.
@@ -219,6 +180,15 @@ All about development on EOSIO platform.
 
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
   - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub.
+
+
+### Code examples
+
+- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+- [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
+- [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
+- [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
+- [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 
 
 ### Block Producer tools
@@ -261,6 +231,9 @@ All about development on EOSIO platform.
 - [nsjames](https://www.youtube.com/user/grandmoren1) - Scatter related content.
 - [Crypto Dunker](https://www.youtube.com/user/clamantfever) - Crypto Dunker channel. EOSIO DApps related content and news.
 - [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw) - EOS Authority. Useful tutorials, developers related.
+- [Jackson Kelley](https://www.youtube.com/user/jackodwhacko) - Developer related content.
+- [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress) - Developer related content.
+- [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA) - Developer related content.
 
 
 ### Forums
@@ -348,6 +321,7 @@ EOSIO forks.
   - [Sqrl](https://github.com/Telos-Foundation/Sqrl) - Telos Full Wallet & Governance DApp.
   - [Telos Block Explorer](https://telos.eosx.io/) - Block Explorer.
   - [TelosPortal](https://portal.telosgermany.io/) - All in one web wallet for Telos and EOS Blockchains.
+- [pEOS](https://peos.one/) - pEOS enables private, untraceable transactions on EOS.
 - [Worldwide Asset eXchange™](https://wax.io/)
 - [EvolutionOS](https://www.evolutionos.com/)
 - [eosBLACK](https://eosblack.io/)
