@@ -13367,9 +13367,9 @@ The <code>func</code> is invoked with three arguments (<code>value, index, array
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">remove</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">func</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">arr</span><span class="p">)</span>
     <span class="o">?</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">func</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
-      <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
-    <span class="p">},</span> <span class="p">[])</span>
+        <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
+        <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
+      <span class="p">},</span> <span class="p">[])</span>
     <span class="o">:</span> <span class="p">[];</span>
 </pre></div>
 
@@ -18153,7 +18153,7 @@ Omit the second argument to use the default regexp.</p>
 </details>
 
 <h3 id="isempty">isEmpty<a class="headerlink" href="#isempty" title="Permanent link">&para;</a></h3>
-<p>Returns true if the a value is an empty object, collection, map or set, has no enumerable properties or is any type that is not considered a collection.</p>
+<p>Returns true if the a value is an empty object, collection, has no enumerable properties or is any type that is not considered a collection.</p>
 <p>Check if the provided value is <code>null</code> or if its <code>length</code> is equal to <code>0</code>.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">isEmpty</span> <span class="o">=</span> <span class="nx">val</span> <span class="p">=&gt;</span> <span class="nx">val</span> <span class="o">==</span> <span class="kc">null</span> <span class="o">||</span> <span class="o">!</span><span class="p">(</span><span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">val</span><span class="p">)</span> <span class="o">||</span> <span class="nx">val</span><span class="p">).</span><span class="nx">length</span><span class="p">;</span>
 </pre></div>
@@ -18161,9 +18161,7 @@ Omit the second argument to use the default regexp.</p>
 <details>
 <summary>Examples</summary>
 
-<div class="codehilite"><pre><span></span><span class="nx">isEmpty</span><span class="p">(</span><span class="k">new</span> <span class="nx">Map</span><span class="p">());</span> <span class="c1">// true</span>
-<span class="nx">isEmpty</span><span class="p">(</span><span class="k">new</span> <span class="nx">Set</span><span class="p">());</span> <span class="c1">// true</span>
-<span class="nx">isEmpty</span><span class="p">([]);</span> <span class="c1">// true</span>
+<div class="codehilite"><pre><span></span><span class="nx">isEmpty</span><span class="p">([]);</span> <span class="c1">// true</span>
 <span class="nx">isEmpty</span><span class="p">({});</span> <span class="c1">// true</span>
 <span class="nx">isEmpty</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">);</span> <span class="c1">// true</span>
 <span class="nx">isEmpty</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">]);</span> <span class="c1">// false</span>
