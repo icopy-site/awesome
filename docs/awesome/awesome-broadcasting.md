@@ -30,6 +30,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
+## Documentation
+
+* [Kronekeeper](https://github.com/nick-prater/kronekeeper) - A web based application for recording and managing Krone frame records.
+
 ## DVB & WiFi
 
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
