@@ -12512,7 +12512,7 @@ Recursively flatten each element that is an array.</p>
 
 <h3 id="drop">drop<a class="headerlink" href="#drop" title="Permanent link">&para;</a></h3>
 <p>Returns a new array with <code>n</code> elements removed from the left.</p>
-<p>Use <code>Array.prototype.slice()</code> to slice the remove the specified number of elements from the left.</p>
+<p>Use <code>Array.prototype.slice()</code> to remove the specified number of elements from the left.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">drop</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">n</span> <span class="o">=</span> <span class="mi">1</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="nx">n</span><span class="p">);</span>
 </pre></div>
 
@@ -12528,7 +12528,7 @@ Recursively flatten each element that is an array.</p>
 
 <h3 id="dropright">dropRight<a class="headerlink" href="#dropright" title="Permanent link">&para;</a></h3>
 <p>Returns a new array with <code>n</code> elements removed from the right.</p>
-<p>Use <code>Array.prototype.slice()</code> to slice the remove the specified number of elements from the right.</p>
+<p>Use <code>Array.prototype.slice()</code> to remove the specified number of elements from the right.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">dropRight</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">n</span> <span class="o">=</span> <span class="mi">1</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="o">-</span><span class="nx">n</span><span class="p">);</span>
 </pre></div>
 
@@ -13367,9 +13367,9 @@ The <code>func</code> is invoked with three arguments (<code>value, index, array
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">remove</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">func</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">arr</span><span class="p">)</span>
     <span class="o">?</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">func</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-        <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
-        <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
-      <span class="p">},</span> <span class="p">[])</span>
+      <span class="nx">arr</span><span class="p">.</span><span class="nx">splice</span><span class="p">(</span><span class="nx">arr</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">val</span><span class="p">),</span> <span class="mi">1</span><span class="p">);</span>
+      <span class="k">return</span> <span class="nx">acc</span><span class="p">.</span><span class="nx">concat</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
+    <span class="p">},</span> <span class="p">[])</span>
     <span class="o">:</span> <span class="p">[];</span>
 </pre></div>
 
