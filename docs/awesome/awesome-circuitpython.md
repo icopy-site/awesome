@@ -13,7 +13,7 @@
 
 ## CircuitPython.org
 
-[CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 30+ boards supported in the CircuitPython family!
+[CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 50 boards supported in the CircuitPython family!
 
 ## Guides
 
@@ -31,38 +31,45 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the AdaFruit store](https://www.adafruit.com/product/3944)) - Discusses the Circuit Playground Express including programming via CircuitPython.
-- [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses Adafruit ItsyBitsy M0 Express board for development testing board.
+- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
+- [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses the Adafruit ItsyBitsy M0 Express board for development.
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
 
 ## Code
 
-- [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
+- CircuitPython Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest) or visit [GitHub](https://github.com/adafruit/circuitpython/releases).
+- CircuitPython Beta Releases: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) (easiest), [The 4.0 announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
-- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 130+ libraries available.
-- [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board Linux computers.
+- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 140+ libraries available.
+- [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) - Dave Astels's helpful cheat sheet on CircuitPython.
 
 ## Frameworks
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
+- [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - blog post discussing the process.
 
 ## Hardware
 
-All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added. The latest boards which may not be included in the list below are on [https://circuitpython.org](https://circuitpython.org/downloads)
+All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal.
-- [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Feather M0 Express + Crickit.
+- [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero.
 - [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow.
-- [MakerDiary](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/) - nRF52840 Micro Dev Kit USB Dongle.
-- [Mini Sam](https://www.minisam.cc/) - Mini SAM development board.
-- [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
+- [MakerDiary](https://store.makerdiary.com/collections/frontpage) - nRF52840 Micro Dev Kit, nRF52840 Micro Dev Kit USB Dongle.
+- [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 Dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board, SparkFun SAMD21 Mini Breakout, SparkFun SAMD21 Dev Breakout. *Sparkfun LumiDrive LED Driver, and SparkFun RedBoard Turbo - SAMD21 Development Board, support CircuitPython but are not in releases until pull request is received to add.*
+- [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame.
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive.
+- [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) - Feather M0 Supersized, Trinket M0 Haxpress.
+- [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
+- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip
+
+Adding new boards to the CircuitPython list on circuitpython.org: Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
