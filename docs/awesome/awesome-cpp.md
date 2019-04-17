@@ -548,6 +548,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) - GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. [LGPL v2.1+]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
+* [librdkafka](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. [BSD-2-Clause]
 * [libwebsockets](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. [LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 * [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. [MIT] [website](https://liambindle.ca/MQTT-C)
@@ -601,6 +602,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. [MIT]
+* [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
@@ -650,6 +652,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
+* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. [GPL]
 * [sol2](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. [MIT]
@@ -729,9 +732,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
-* [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. [Boost]
+* [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
 * [DynaMix](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. [MIT]
 * [{fmt}](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. [Simplified BSD]
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
@@ -749,9 +752,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
-* [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
+* [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL) - The Parsing Expression Grammar Template Library, a C++11 parser library. [MIT]
-* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
