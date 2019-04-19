@@ -36,6 +36,7 @@ Sorted by creation date (oldest first).
 - [ullr](https://github.com/aggre/ullr) - Building Web Components with Functional Programming Using lit-html.
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - TypeScript library for building Web Components based on decorators proposal and lit-html.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - Lightweight i18n library providing a lit-html directive.
+- [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 
 ### Renderers
 
@@ -53,7 +54,6 @@ These are not implementations of lit-html itself but rather community extensions
 - [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) - LitElement extension that provides easy l10n out of the box.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
-- [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - Provides the lit-css integration with LitElement base class.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - Provides LitElement CSS literals & classes ported from [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 
 ## Components
@@ -118,14 +118,13 @@ An episode with the lit-html creator Justin Fagnani.
 
 ## Inspired Solutions
 
-These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` and `css` tagged
-template literals, and leverage the benefits of the same or similar [IDE Plugins](#ide-plugins) for syntax highlighting.
+These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
+template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
-- [lit-css](https://github.com/lit-styles/lit-styles/tree/master/packages/lit-css#readme) - A tool to distribute styles via ES modules.
 
 ## Other awesome resources
 
