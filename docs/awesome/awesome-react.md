@@ -838,6 +838,15 @@ A collection of awesome things regarding React ecosystem.
 * [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ---
+### XState
+> Functional, stateless JavaScript finite state machines and statecharts
+
+#### XState Resources
+* [Xstate Concept](https://xstate.js.org/docs/about/concepts.html)
+* [XState Docs](https://xstate.js.org/docs/)
+
+
+---
 ### Flux
 > Application Architecture for Building User Interfaces
 
