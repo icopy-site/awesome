@@ -8313,7 +8313,7 @@ To convert many different network model results into tidy data frames, see the <
 <ul>
 <li><a href="https://CRAN.R-project.org/package=amen">amen</a> - Additive and multiplicative effects models for relational data.</li>
 <li><a href="https://CRAN.R-project.org/package=Bergm">Bergm</a> - Tools to analyse Bayesian exponential random graph models (BERGM).</li>
-<li><a href="https://CRAN.R-project.org/package=bipartite">bipartite</a> - Functions to visualize bipartite networks and compute indices commonly used in ecological research.</li>
+<li><a href="https://CRAN.R-project.org/package=bipartite">bipartite</a> - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: <code>levelnet</code> R package.</li>
 <li><a href="https://CRAN.R-project.org/package=blockmodeling">blockmodeling</a> - Implementats generalized blockmodeling for valued networks.</li>
 <li><a href="https://CRAN.R-project.org/package=bnlearn">bnlearn</a> - Tools for <a href="http://www.bnlearn.com/">Bayesian network learning and inference</a> (<a href="https://paulgovan.github.io/RiskNetwork">related Shiny app</a>).</li>
 <li><a href="https://CRAN.R-project.org/package=btergm">btergm</a> - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.</li>
@@ -8322,13 +8322,17 @@ To convert many different network model results into tidy data frames, see the <
 <li><a href="https://github.com/matthewjdenny/ContentStructure">ContentStructure</a> - Implements an extension to the <a href="http://dirichlet.net/pdf/krafft12topic-partitioned.pdf">Topic-Partitioned Multinetwork Embeddings (TPME) model</a>.</li>
 <li><a href="https://github.com/rich-iannone/DiagrammeR">DiagrammeR</a> - Connects R, RStudio and JavaScript libraries to draw graph diagrams (<a href="https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/">blog post</a>).</li>
 <li><a href="https://CRAN.R-project.org/package=ergm">ergm</a> - Estimation of Exponential Random Graph Models (ERGM).<ul>
-<li><a href="http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html">ERGM: edgecov and dyadcov Specifications</a>.</li>
+<li><a href="http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html">ERGM: edgecov and dyadcov Specifications</a>.</li>
 </ul>
 </li>
 <li><a href="https://CRAN.R-project.org/package=GERGM">GERGM</a> - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).</li>
 <li><a href="https://CRAN.R-project.org/package=geomnet">geomnet</a> - Single-geometry approach to network visualization with ggplot2.</li>
 <li><a href="https://CRAN.R-project.org/package=ggnetwork">ggnetwork</a> - Multiple-geometries approach to plot network objects with ggplot2.</li>
-<li><a href="https://CRAN.R-project.org/package=ggraph">ggraph</a> - Grammar of graph graphics built in the spirit of ggplot2 (see also <code>tidygraph</code> further down).</li>
+<li><a href="https://CRAN.R-project.org/package=ggraph">ggraph</a> - Grammar of graph graphics built in the spirit of ggplot2. See also: <code>tidygraph</code> R package.</li>
+<li><a href="https://cran.r-project.org/package=graphlayouts">graphlayouts</a> - Layout algorithms based on the concept of <a href="https://doi.org/10.1007/978-3-540-31843-9_25">stress majorization</a>.<ul>
+<li><a href="http://blog.schochastics.net/post/introducing-graphlayouts-with-got/">Introducing graphlayouts with Game of Thrones</a></li>
+</ul>
+</li>
 <li><a href="https://CRAN.R-project.org/package=hergm">hergm</a> - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.</li>
 <li><a href="https://CRAN.R-project.org/package=hierformR">hierformR</a> – Determine paths and states that social networks develop over time to form social hierarchies.</li>
 <li><a href="http://igraph.org/r/">igraph</a> - A collection of network analysis tools.<ul>
@@ -8338,10 +8342,17 @@ To convert many different network model results into tidy data frames, see the <
 <li><a href="https://CRAN.R-project.org/package=influenceR">influenceR</a> - Compute various node centrality network measures by Burt, Borgatti and others.</li>
 <li><a href="https://CRAN.R-project.org/package=keyplayer">keyplayer</a> - Implements several network centrality measures.</li>
 <li><a href="https://CRAN.R-project.org/package=latentnet">latentnet</a> - Latent position and cluster models for network objects.</li>
+<li><a href="https://github.com/schochastics/levelnet">levelnet</a> - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: <code>bipartite</code> R package.</li>
 <li><a href="https://www.bioconductor.org/packages/release/bioc/html/lpNet.html">lpNet</a> - Linear programming model aimed at infering biological (signalling, gene) networks.</li>
 <li><a href="http://christophergandrud.github.io/networkD3/">networkD3</a> - D3 JavaScript network graphs from R.</li>
 <li><a href="https://CRAN.R-project.org/package=ndtv">ndtv</a> - Tools to construct animated visualizations of dynamic network data in various formats.</li>
 <li><a href="https://CRAN.R-project.org/package=netdiffuseR">netdiffuseR</a> - Tools to analyze the network diffusion of innovations.</li>
+<li><a href="https://cran.r-project.org/package=netrankr">netrankr</a> - Up-to-date collection of network centrality indices, with lots of documentation.<ul>
+<li><a href="http://blog.schochastics.net/post/network-centrality-in-r-introduction/">Network Centrality in R: An Introduction</a> - Includes a review of relevant R packages.</li>
+<li><a href="http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/">Network Centrality in R: Neighborhood Inclusion</a>.</li>
+<li><a href="http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/">Network Centrality in R: New Ways of Measuring Centrality</a> (2018).</li>
+</ul>
+</li>
 <li><a href="http://www.christoph-stadtfeld.com/netsim/">NetSim</a> - Simulate and combine micro-models to research their impact on the macro-features of social networks.</li>
 <li><a href="https://CRAN.R-project.org/package=network">network</a> - Basic tools to manipulate relational data in R.</li>
 <li><a href="https://github.com/chengjun/networkdiffusion">networkdiffusion</a> - Simulate and visualize basic epidemic diffusion in networks.</li>
@@ -8373,7 +8384,7 @@ To convert many different network model results into tidy data frames, see the <
 </ul>
 </li>
 <li><a href="https://CRAN.R-project.org/package=tergm">tergm</a> - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).</li>
-<li><a href="https://CRAN.R-project.org/package=tidygraph">tidygraph</a> - 'Tidy' approach to building graph structures.<ul>
+<li><a href="https://CRAN.R-project.org/package=tidygraph">tidygraph</a> - 'Tidy' approach to building graph structures. See also: <code>ggraph</code> R package.<ul>
 <li><a href="https://www.data-imaginist.com/2017/introducing-tidygraph/">Introducing tidygraph</a></li>
 <li><a href="https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/">Tidying up your network analysis with tidygraph and ggraph</a></li>
 </ul>
@@ -8449,7 +8460,7 @@ To convert many different network model results into tidy data frames, see the <
 <li><a href="http://schochastics.net/sna/periodic.html">Periodic Table of Network Centrality</a> - Interactive periodic table of centrality indices.</li>
 <li><a href="https://codeandculture.wordpress.com/2015/04/03/picking-sides/">Picking Sides</a> - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers (<a href="https://gist.github.com/briatte/c6df2f855afb4eb142e6">updated version</a>).</li>
 <li><a href="http://www.jeromecukier.net/projects/metro/map.html">Plan interactif du métro</a> - Interactive visualization of the Paris metro network, drawn with d3.js, in French.</li>
-<li><a href="http://psych-networks.com/">Psych Networks</a> - Website with news, references and tutorials about network modeling for psychological data.</li>
+<li><a href="http://psych-networks.com/">Psych Networks</a> - Website with news, references and <a href="https://psych-networks.com/tutorials/">tutorials</a> about network modeling for psychological data.</li>
 <li><a href="http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/">Tutorial Paper on New Methods for Estimating Psychological Networks</a>.</li>
 <li><a href="http://eiko-fried.com/network-workshop/">(Psychological) Network Analysis Workshops</a> - 3-day workshop on psychological network analysis using R.</li>
 <li><a href="https://cvcedhlab.hypotheses.org/125">Should I do Social Network Analysis?</a>.</li>
@@ -8508,8 +8519,8 @@ To convert many different network model results into tidy data frames, see the <
 </ul>
 </li>
 <li>Daniel Little’s blog posts on the philosophy of social science:<ul>
-<li><a href="http://understandingsociety.blogspot.fr/search/label/networks">Networks</a>.</li>
-<li><a href="http://understandingsociety.blogspot.fr/search/label/social%20networks">Social Networks</a>.</li>
+<li><a href="http://understandingsociety.blogspot.com/search/label/networks">Networks</a>.</li>
+<li><a href="http://understandingsociety.blogspot.com/search/label/social%20networks">Social Networks</a>.</li>
 </ul>
 </li>
 <li>Martin Grandjean’s blog posts about (mostly) network visualization, in English and French:<ul>
