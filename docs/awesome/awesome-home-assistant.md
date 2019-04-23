@@ -84,7 +84,7 @@ an awesome source for learning and a great source of inspiration._
 * [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer shares his configuration files.
 * [geekofweek](https://github.com/geekofweek/homeassistant) - Has over 300+ automations.
 * [Isabella Gross Alström](https://github.com/isabellaalstrom/HomeAssistantConfiguration) - Hass.io, Intel NUC, Ubuntu, Docker, Lovelace UI.
-* [Mahasri Kalavala](https://github.com/skalavala/smarthome) - Impressive setup, with lots of different hardware working together.
+* [Mahasri Kalavala](https://github.com/skalavala/mysmarthome) - Impressive setup, with lots of different hardware working together.
 * [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) - Complete setup which uses AppDaemon and HA Floorplan as well.
 * [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) - Runs two instances that work together.
 * [Alok Saboo](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated.
@@ -213,6 +213,7 @@ easily add to your instance._
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - A nice Google calendar card.
 * [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) - Ccontrol a forked daapd instance.
 * [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) - Shows two gauges in one.
+* [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - Calendar card with advanced settings.
 
 ## Custom Components
 
@@ -267,6 +268,7 @@ _Links to various users of Home Assistant that regularly publish Home Assistant 
 * [Smart Home Hobby](https://smarthomehobby.com/) - Features budget friendly guides and information.
 * [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self hosted services.
 * [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
+* [HomeTechHacker](https://HomeTechHacker.com) - DIY Smarthome guides, reviews, and advice.
 
 ### YouTube Channels
 

@@ -11,10 +11,13 @@
 </p>
 
 ## Support
+
 Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a href="https://www.patreon.com/serhiilondar" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
+
+## Languages
 
 You can see in which language an app is written. Currently there are following languages:
 
@@ -49,7 +52,6 @@ You can see in which language an app is written. Currently there are following l
 - [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.  ![objective_c_icon] ![swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox.  ![swift_icon] 
 - [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS.  ![cpp_icon] 
-- [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.  ![swift_icon] 
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient) - SBPlayer is a beautiful and powerful media player base on VLCKit.  ![objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.  ![objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora) - Minimal, beautifully designed music player for macOS.  ![objective_c_icon] 
@@ -184,7 +186,6 @@ You can see in which language an app is written. Currently there are following l
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.  ![swift_icon] 
 - [Localizations](https://github.com/athiercelin/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings).  ![swift_icon] 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.  ![swift_icon] 
-- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want.  ![swift_icon] 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.  ![swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac.  ![objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications) - macOS app to test push notifications on iOS and Android.  ![javascript_icon] 
@@ -192,14 +193,11 @@ You can see in which language an app is written. Currently there are following l
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
 - [Simulator](https://github.com/onmyway133/Simulator) - 📱 Navigate to your app folders quickly. ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
-- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS.  ![swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.  ![swift_icon] 
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) - Powerful app for downloading subtitle for each WWDC session video since 2013 in (srt) format.  ![swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher) - iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac.  ![swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor) - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps.  ![objective_c_icon] 
-- [iSimulator](https://github.com/shaojiankui/iSimulator) - iSimulator, iOS Simulator Sandbox, like simpholders, a macOS app to find simulator's sandbox and go.  ![objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.  ![objective_c_icon] 
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - Tool to convert Xcode .xib to .storyboard files.  ![objective_c_icon] 
 
@@ -246,6 +244,7 @@ You can see in which language an app is written. Currently there are following l
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.  ![swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.  ![cpp_icon] 
@@ -466,12 +465,21 @@ You can see in which language an app is written. Currently there are following l
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.  ![rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost) - A tiny terminal emulator for serial port communication (macOS/Linux).  ![go_icon] 
 - [Console](https://github.com/macmade/Console) - macOS console application.  ![swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo) - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder.  ![swift_icon] 
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. ![javascript_icon] ![css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator. ![python_icon] ![c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.  ![swift_icon] 
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen).  ![javascript_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.  ![swift_icon] 
+
+### Touch Bar
+- [Muse](https://github.com/xzzz9097/Muse) - Spotify controller with TouchBar support.  ![swift_icon] 
+- [MyTouchbarMyRules](https://github.com/toxblh/MTMR) - App to customize your Touch Bar as you want.  ![swift_icon] 
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) - Small application to display your designs on the Touch Bar of the new MacBook Pro.  ![swift_icon] 
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac.  ![swift_icon] 
+- [Touch Emoji](https://github.com/lm-a/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift_icon] 
 
 ### Utilities
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
