@@ -20,7 +20,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Community
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us.
 
@@ -72,6 +72,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - A peer-to-peer instant messenger aimed at making security and privacy easy to obtain for regular users.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) - Android app that captures and encrypts texts you type, then passes it to the actual app.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) - Addon that enables you to choose & block top 5 cloud companies based on their IPv4/6 ranges.
+- [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 
 ## Tracking
 
