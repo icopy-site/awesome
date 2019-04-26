@@ -75,6 +75,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [awsm.css](https://igoradamenko.github.io/awsm.css/) - Simple CSS library for semantic HTML markup.
 * [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
+* [Butter Cake](http://getbuttercake.com/) - A Modern Lightweight Front End CSS framework for faster and easier web development.
 * [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
@@ -98,7 +99,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Toolkits :wrench:
 
-* [Basscss](http://www.basscss.com/) - A lightweight collection of base element styles and immutable utilities.
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
@@ -124,7 +124,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## CSS Development at Large-Scale Websites
 
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
-* [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) by Shaun Bent
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
@@ -187,7 +186,6 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
-* [SMACSS](https://smacss.com/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
