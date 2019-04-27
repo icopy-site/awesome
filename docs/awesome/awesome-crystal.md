@@ -151,6 +151,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
 
 ## Development Tools
+ * [docker-crystal](https://github.com/aca-labs/docker-crystal) - Docker wrapper for the Crystal CLI
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [kemal-watcher](https://github.com/faustinoaq/kemal-watcher) - Kemal plugin to watch files and live-reload the browser
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
@@ -311,6 +312,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [compiled_license](https://github.com/elorest/compiled_license) - Compiles licenses into binary for complience with MIT when copying binary to system or container without the code
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
