@@ -550,6 +550,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
+* [sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia) — An OpenPGP implementation in Rust
 * [ctz/rustls](https://github.com/ctz/rustls) — A Rust implementation of TLS
 * [klutzy/suruga](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://tools.ietf.org/html/rfc5246)
 * [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe) — Library providing several Attribute-Based Encryption (ABE) schemes
@@ -674,7 +675,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * Cap'n Proto
   * [capnproto/capnproto-rust](https://raw.githubusercontent.com/capnproto/capnproto-rust) — [<img src="https://api.travis-ci.org/capnproto/capnproto-rust.svg?branch=master">](https://travis-ci.org/capnproto/capnproto-rust)
 * CBOR
-  * [BurntSushi/rust-cbor](https://raw.githubusercontent.com/BurntSushi/rust-cbor) — Supports JSON conversion and type-based encoding/decoding [<img src="https://api.travis-ci.org/BurntSushi/rust-cbor.svg?branch=master">](https://travis-ci.org/BurntSushi/rust-cbor)
+  * [serde_cbor](https://crates.io/crates/serde_cbor) — CBOR support for serde [<img src="https://api.travis-ci.org/pyfisch/cbor.svg?branch=master">](https://travis-ci.org/pyfisch/cbor)
 * Character Encoding
   * [hsivonen/encoding_rs](https://raw.githubusercontent.com/hsivonen/encoding_rs) [[encoding_rs](https://crates.io/crates/encoding_rs)] — A Gecko-oriented implementation of the Encoding Standard in Rust [<img src="https://api.travis-ci.org/hsivonen/encoding_rs.svg?branch=master">](https://travis-ci.org/hsivonen/encoding_rs)
   * [lifthrasiir/rust-encoding](https://raw.githubusercontent.com/lifthrasiir/rust-encoding) — [<img src="https://api.travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master">](https://travis-ci.org/lifthrasiir/rust-encoding)
@@ -883,7 +884,10 @@ See also [Are we game yet?](http://arewegameyet.com)
 * IPNetwork
   * [achanda/ipnetwork](https://raw.githubusercontent.com/achanda/ipnetwork) — A library to work with IP networks in pure Rust [<img src="https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master">](https://travis-ci.org/achanda/ipnetwork)
   * [candrew/netsim](https://raw.githubusercontent.com/canndrew/netsim) — A Rust library for network simulation and testing [<img src="https://api.travis-ci.org/canndrew/netsim.svg?branch=master">](https://travis-ci.org/canndrew/netsim)
+* JSON-RPC
+  * [vlopes11/futures-jsonrpc](https://raw.githubusercontent.com/vlopes11/futures-jsonrpc) [[futures-jsonrpc](https://crates.io/crates/futures-jsonrpc)] — Futures implementation for JSON-RPC [<img src="https://api.travis-ci.org/vlopes11/futures-jsonrpc.svg?branch=master">](https://travis-ci.org/vlopes11/futures-jsonrpc)
 * Low level
+  * [Gymmasssorla/sendmmsg](https://raw.githubusercontent.com/Gymmasssorla/sendmmsg) — Transmit multiple messages using one system call in Rust [<img src="https://travis-ci.com/Gymmasssorla/sendmmsg.svg?branch=master">](https://travis-ci.com/Gymmasssorla/sendmmsg)
   * [libpnet/libpnet](https://raw.githubusercontent.com/libpnet/libpnet) — A cross-platform, low level networking [<img src="https://api.travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
   * [tokio-rs/tokio](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions

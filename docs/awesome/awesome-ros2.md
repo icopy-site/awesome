@@ -48,6 +48,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ### Application layer
 
+- [Apex.Autonomy](https://www.apex.ai/products) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
+- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto provides an open-source software stack based on ROS 2 for self-driving technology.
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Description of ros_controllers. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
@@ -79,6 +81,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ### Driver layer
 
+- [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
 - [ros2_xmlrpc](https://github.com/aarushsesto/ros2_xmlrpc) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
@@ -100,6 +103,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ROS2 wrapper for ydlidar. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
+- [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
+- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
+- [sick_scan2](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
 
 ### Client libraries
 
@@ -170,6 +176,10 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
+## Forks
+
+- [Apex.OS](https://www.apex.ai/products) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
+
 ## Documentation
 
 - [ROS Index](https://index.ros.org/) - Future single entry point into ROS2 documentation (BETA).
@@ -200,6 +210,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ## Courses
 
 - [ROS2 How To: Discover Next Generation ROS (Udemy)](https://www.udemy.com/ros2-how-to/)
+- [ROS 2 Basics in 5 Days (C++) - Learn how to start working with ROS 2 (The Construct)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
 
 ## Presentations
 
