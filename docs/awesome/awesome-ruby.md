@@ -166,6 +166,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 * [Ru](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
+* [Tabulo](https://github.com/matt-harvey/tabulo) - Ruby ASCII table generator. Produce highly readable terminal tables, even from large, unwieldy data sets and streams.
 * [TablePrint](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
@@ -503,10 +504,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Refile](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 * [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
 
-## File System
+## File System Listener
 
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
+* [Guard::LiveReload](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 * [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
+* [Rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## Form Builder
 
@@ -1193,6 +1196,7 @@ Online tools, services and APIs to simplify development.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 * [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 * [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
+* [Sqreen](https://www.sqreen.io/) - Automated and Real-Time Security for Ruby Apps. Protect your app in 30 seconds.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
 * [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.

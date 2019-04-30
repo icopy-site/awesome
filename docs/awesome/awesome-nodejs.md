@@ -66,7 +66,7 @@
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
@@ -430,6 +430,7 @@
 - [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
 - [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
+- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
@@ -530,6 +531,7 @@
 	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
+	- [slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
 	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
 	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
 - Query builder
@@ -621,6 +623,7 @@
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 - [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+- [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 
 ### Node.js management
@@ -637,6 +640,7 @@
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - Natural language facility.
+- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 
 ### Process management
@@ -746,6 +750,7 @@
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 
 
 ## Resources
@@ -806,6 +811,7 @@
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 - [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
+- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
 ### Blogs
 
@@ -841,6 +847,7 @@
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
 - [Hashnode](https://hashnode.com/n/nodejs)
+- [Discord](https://discordapp.com/invite/96WGtJt)
 
 ### Miscellaneous
 

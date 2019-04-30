@@ -27,6 +27,8 @@ them.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen))
+- [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
+  (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
 
 
 ## Frameworks
@@ -137,7 +139,7 @@ them.
 - [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-  (MATLAB, BSD,[GitHub](https://github.com/chebfun/chebfun))
+  (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
 
 
 ## Community
@@ -148,6 +150,7 @@ them.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
+- [NA Digest](http://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 
 ## License
 

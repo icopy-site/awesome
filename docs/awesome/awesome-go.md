@@ -230,6 +230,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 * [deque](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
 * [deque](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
+* [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
 * [encoding](https://github.com/zhenjl/encoding) - Integer Compression Libraries for Go.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - Go implementation of Adaptive Radix Tree.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
@@ -813,6 +814,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mlog](https://github.com/jbrodriguez/mlog) - Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output.
 * [onelog](https://github.com/francoispqt/onelog) - Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenario. Also, it is one of the logger with the lowest allocation.
 * [ozzo-log](https://github.com/go-ozzo/ozzo-log) - High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
+* [rollingwriter](https://github.com/arthurkiller/rollingWriter) - RollingWriter is an auto-rotate `io.Writer` implementation with multi policies to provide log file rotation.
 * [seelog](https://github.com/cihub/seelog) - Logging functionality with flexible dispatching, filtering, and formatting.
 * [spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 * [stdlog](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
@@ -1126,7 +1128,11 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Package Management
 
-*Official tooling for package management*
+*Official tooling for dependency and package management*
+
+* [go modules](https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more) - Modules are the unit of source code interchange and versioning. The go command has direct support for working with modules, including recording and resolving dependencies on other modules.
+
+*Official experimental tooling for package management*
 
 * [dep](https://github.com/golang/dep) - Go dependency tool.
 * [vgo](https://go.googlesource.com/vgo/) - Versioned Go.
@@ -1263,6 +1269,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [minio](https://github.com/minio/minio) - Minio is a distributed object storage server.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform.
+* [riemann-relay](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 * [RoadRunner](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 * [yakvs](https://git.sci4me.com/sci4me/yakvs) - Small, networked, in-memory key-value store.
 
@@ -1358,7 +1365,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [chromedp](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
     * [ggr](https://github.com/aerokube/ggr) - a lightweight server that routes and proxies Selenium Wedriver requests to multiple Selenium hubs.
     * [selenoid](https://github.com/aerokube/selenoid) - alternative Selenium hub server that launches browsers within containers.
-    
+
 * Fail injection
     * [failpoint](https://github.com/pingcap/failpoint) - An implementation of [failpoints](http://www.freebsd.org/cgi/man.cgi?query=fail) for Golang.
 
@@ -1457,6 +1464,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-unsplash](https://github.com/hbagdi/go-unsplash) - Go client library for the [Unsplash.com](https://unsplash.com) API.
 * [go-xkcd](https://github.com/nishanths/go-xkcd) - Go client for the xkcd API.
 * [golyrics](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
+* [gomalshare](https://github.com/MonaxGT/gomalshare) - Go library MalShare API [malshare.com](http://www.malshare.com/)
 * [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) - Go MusicBrainz WS2 client library.
 * [google](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go.
 * [google-analytics](https://github.com/chonthu/go-google-analytics) - Simple wrapper for easy google analytics reporting.
@@ -1486,6 +1494,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [TheMovieDb](https://github.com/jbrodriguez/go-tmdb) - Simple golang package to communicate with [themoviedb.org](https://themoviedb.org).
 * [translate](https://github.com/poorny/translate) - Go online translation package.
 * [Trello](https://github.com/adlio/trello) - Go wrapper for the Trello API.
+* [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang) - Go wrapper for the TripAdvisor API.
 * [tumblr](https://github.com/mattcunningham/gumblr) - Go wrapper for the Tumblr v2 API.
 * [uptimerobot](https://github.com/bitfield/uptimerobot) - Go wrapper and command-line client for the Uptime Robot v2 API.
 * [webhooks](https://github.com/go-playground/webhooks) - Webhook receiver for GitHub and Bitbucket.
