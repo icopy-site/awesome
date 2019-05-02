@@ -164,6 +164,12 @@ A mixture of CSS and image based pattern resources.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
+## Textures
+
+Websites offering images suitable for texturing objects for 3D graphics.
+
+* [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) High quality set of textures with CC0 license.
+
 ## Fonts
 
 A mixture of free and open source font resources.
