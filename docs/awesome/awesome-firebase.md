@@ -16,15 +16,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
   <img src="https://raw.githubusercontent.com/jthegedus/awesome-firebase/master/images/firebase-services.gif" />
 </a>
 
-<!-- other language links -->
-<p align="right">
-    <!-- <sup><a href="README_ES.md">es</a></sup>
-    <sup><a href="README_ID.md">id</a></sup>
-    <sup><a href="README_JA.md">ja</a></sup>
-    <sup><a href="README_KO.md">ko</a></sup>
-    <sup><a href="README_PT.md">pt</a></sup>
-    <sup><a href="README_ZH.md">zh</a></sup> -->
-</p>
+<!-- translations -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
 
 [Firebase][firebase] is an app dev platform built on the [Google Cloud Platform][gcp-products] providing services and cross-platform SDKs!
 
@@ -34,24 +27,14 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 
 
-<p>
-  <b>Legend</b>:
-    <em>
-    📝 blog posts
-    · 💡 examples
-    · 📖 docs
-    · 🔌 libraries
-    · 🔧 tools
-    · 📹 talks/video
-    </em>
-</p>
+**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video 
 
 <!-- START content -->
 
 ## Featured (new releases)
 
+- 🔧 [Fireward][fireward] - Easy to use language for Firestore rules, similar to Firebase Bolt.
 - 📝 [Scheduled (Cron) Cloud Functions for Firebase][cron-cloud-functions] - Firebase-native Cron triggers for Firebase Cloud Functions.
-- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 - 🔌 [Integrify][new-2] - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔧 [VSCode Firebase Explorer][new-4] - Explore and manage your Firebase projects.
 - 🔌 [React Firebase Hooks][new-5] - React Hooks for Firebase services.
@@ -116,6 +99,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 - 💡 [Compiled Code with Cloud Functions][server-5] - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 - 📝 [BigQuery & Google Analytics][server-6] - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 - 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
+- 📝 [Firebase Hosting for Cloud Run Services][cloud-run-rewrites] - Dynamic content with Hosting Rewrites & Cloud Run Services.
 
 ## CLI & Editor
 
@@ -151,7 +135,8 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 
 ### Community
 
-📹 [Fireship - AngularFirebase][community-1]
+- 📹 [Fireship - AngularFirebase][angular-firebase]
+- 📹 ru [@firebase_ru - Telegram friendly chat][ru-telegram-chat]
 
 Who else should we be following!?
 
@@ -249,6 +234,7 @@ Who else should we be following!?
 [cli-editor-5]: https://github.com/sgarciac/fuego
 [cli-editor-6]: https://github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]: https://github.com/abehaskins/firepit
+[fireward]: https://github.com/bijoutrouvaille/fireward
 
 <!-- Other -->
 
@@ -270,7 +256,8 @@ Who else should we be following!?
 [official-2]: https://firebase.googleblog.com/
 [official-3]: https://twitter.com/firebase
 [official-4]: https://twitter.com/bestoffirebase
-[community-1]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+[angular-firebase]: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+[ru-telegram-chat]: https://t.me/firebase_ru
 
 <!-- Contributors -->
 
