@@ -17,6 +17,7 @@ The most **up to date** list of [Firebase][firebase] docs, talks, tools, example
 </a>
 
 <!-- translations -->
+
 Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
 
 [Firebase][firebase] is an app dev platform built on the [Google Cloud Platform][gcp-products] providing services and cross-platform SDKs!
@@ -27,7 +28,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 
 
-**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video 
+**Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video
 
 <!-- START content -->
 
@@ -43,6 +44,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 - 📖 [Firebase Documentation][docs-1] - Official Firebase Documentation.
 - 💡 [Firebase Quickstarts][docs-2] - Official Firebase Quickstarts.
+- 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
 ## Web
 
@@ -169,6 +171,7 @@ Who else should we be following!?
 
 [docs-1]: https://firebase.google.com/docs
 [docs-2]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
+[google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
 <!-- Web -->
 

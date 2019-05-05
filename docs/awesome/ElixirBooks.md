@@ -90,6 +90,12 @@ This isn’t your typical “let’s build a blog” situation. You’ll be work
 **Advanced Books**
 ---
 
+### [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41p39zvPnTL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+You know how to code in Elixir; now learn to think in it. Learn to design libraries with intelligent layers that shape the right data structures, flow from one function into the next,and present the right APIs. Embrace the same OTP that’s kept our telephone systems reliable and fast for over 30 years. Move beyond understanding the OTP functions to knowing what’s happening under the hood, and why that matters. Using that knowledge, instinctively know how to design systems that deliver fast and resilient services to your users, all with an Elixir focus.
+
 ### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
@@ -162,7 +168,7 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 
 ### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
 
-<img src="https://images.manning.com/720/960/resize/book/6/0bad159-5a00-4aa9-b4b1-17cfe2fd7455/Lessel-Phoenix-MEAP-HI.png" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41V2OUmPO8L._SX397_BO1,204,203,200_.jpg" width="120px"/>
 
 Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
 
