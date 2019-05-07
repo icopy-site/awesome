@@ -21,6 +21,9 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018.
 
+## Books
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
+
 ## Videos
 - [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim, Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio).

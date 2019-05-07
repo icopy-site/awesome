@@ -1437,6 +1437,22 @@ c6eb3bfa (lorem 2014-08-11 23:15:57 +0000  5) NOSTRUD EXERCITATION ULLAMCO LABOR
 ```
 
 
+## [git-word-blame](https://framagit.org/mdamien/git-word-blame)
+
+
+```
+$ git word-blame README.md
+results in /tmp/word-blame-output/
+ - author_stats.tsv
+ - commit_stats.tsv
+ - word-blame-by-commit.html
+ - word-blame-by-author.html
+ - text-output
+```
+
+![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
+
+
 
 ## [git-fire](https://github.com/qw3rtman/git-fire)
 
@@ -1575,7 +1591,7 @@ $ git recent
 $ git rebase -i master
 ```
 
-![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/git-interactive-tool.gif)
+![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif)
 
 ## [git-fiddle](https://github.com/felixSchl/git-fiddle)
 
