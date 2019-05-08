@@ -1296,6 +1296,14 @@ networksetup -setairportpower en0 on
 - [Homebrew](https://brew.sh) - The missing package manager for OS X. The most popular choice.
 - [MacPorts](https://www.macports.org) - Compile, install and upgrade either command-line, X11 or Aqua based open-source software. Very clean, it's what I use.
 
+### Homebrew
+
+#### Full Uninstall
+
+```bash
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+```
+
 
 ## Printing
 
@@ -1851,6 +1859,7 @@ tput bel
 
 ### Alternative Terminals
 
+- [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
 - [iTerm2](https://iterm2.com) - A better Terminal.app.
 - [kitty](https://sw.kovidgoyal.net/kitty/) - Modern, GPU-accelerated terminal emulator.
 

@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](https://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
+* [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 
 <a name="meetups" />
 
@@ -381,6 +382,7 @@ for the Angel framework.
 ## Databases
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+* [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 
 <a name="services" />
 
