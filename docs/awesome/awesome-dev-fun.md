@@ -18,7 +18,8 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS
+- [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS.
+- [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 
 
 ## Elixir
@@ -34,7 +35,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 
 ## HTML
-- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays.
 
 
 ## Java

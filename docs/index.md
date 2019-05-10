@@ -72,6 +72,7 @@
 - [RubyMotion](awesome/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](awesome/awesome-smart-tv.md) - Create apps for different TV platforms.
 - [GNOME](awesome/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
+- [KDE](awesome/awesome-kde.md) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [.NET](awesome/awesome-dotnet.md)
 	- [Core](awesome/awesome-dotnet-core.md)
 - [Amazon Alexa](awesome/awesome-amazon-alexa.md) - Virtual home assistant.
@@ -273,6 +274,7 @@
 - [Deep Vision](awesome/awesome-deep-vision.md)
 - [Open Source Society University](awesome/computer-science.md)
 - [Functional Programming](awesome/awesome-functional-programming.md)
+- [Empirical Software Engineering](awesome/awesome-msr.md) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](awesome/awesome-static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 
@@ -536,6 +538,7 @@
 - [Economics](awesome/awesome-economics.md) - An economist's starter kit.
 - [Funny Markov Chains](awesome/awesome-funny-markov.md)
 - [Bioinformatics](awesome/Awesome-Bioinformatics.md)
+- [Cheminformatics](awesome/awesome-cheminformatics.md) - Informatics techniques applied to problems in chemistry.
 - [Colorful](awesome/Colorful.md) - Choose your next color scheme.
 - [Steam](awesome/awesome-steam.md) - Digital distribution platform.
 - [Bots](awesome/bots.md) - Building bots.
@@ -593,6 +596,9 @@
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
 - [Agriculture](awesome/awesome-agriculture.md) - Open source technology for farming and gardening.
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
+- [Product Design](awesome/awesome-product-design.md) — Design a product from the initial concept to production.
+- [Prisma](awesome/awesome-prisma.md) - Turn your database into a GraphQL API.
+- [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
 
 
 ## Related

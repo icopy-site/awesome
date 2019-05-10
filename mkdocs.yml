@@ -49,6 +49,7 @@ nav:
     - RubyMotion: awesome/awesome-rubymotion.md
     - Smart TV: awesome/awesome-smart-tv.md
     - GNOME: awesome/awesome-gnome.md
+    - KDE: awesome/awesome-kde.md
     - .NET: awesome/awesome-dotnet.md
     - .NET_sub: 
       - Core: awesome/awesome-dotnet-core.md
@@ -254,6 +255,7 @@ nav:
     - Deep Vision: awesome/awesome-deep-vision.md
     - Open Source Society University: awesome/computer-science.md
     - Functional Programming: awesome/awesome-functional-programming.md
+    - Empirical Software Engineering: awesome/awesome-msr.md
     - Static Analysis & Code Quality: awesome/awesome-static-analysis.md
     - Information Retrieval: awesome/awesome-information-retrieval.md
   - Big Data:
@@ -465,6 +467,7 @@ nav:
     - LaTeX: awesome/awesome-LaTeX.md
     - Funny Markov Chains: awesome/awesome-funny-markov.md
     - Bioinformatics: awesome/Awesome-Bioinformatics.md
+    - Cheminformatics: awesome/awesome-cheminformatics.md
     - Colorful: awesome/Colorful.md
     - Steam: awesome/awesome-steam.md
     - Bots: awesome/bots.md
@@ -522,6 +525,9 @@ nav:
     - Amazon Sellers: awesome/awesome-amazon-seller.md
     - Agriculture: awesome/awesome-agriculture.md
     - Plotters: awesome/awesome-plotters.md
+    - Product Design: awesome/awesome-product-design.md
+    - Prisma: awesome/awesome-prisma.md
+    - Software Architecture: awesome/awesome-software-architecture.md
 
 
 # Theme

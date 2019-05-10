@@ -56,7 +56,6 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - Online calculator, that provides basic and advanced mathematical functions useful for school or college.
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
-- [BeanCounter](https://josephlewis.net/apps/BeanCounter/) - Fast web calculator, that will show you representation of your math problem.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 
 ## Resources
