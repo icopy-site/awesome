@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results in your terminal when you get a compiler error.
 - [yo](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators. There are thousands of ready to use generators and creating an own one is pretty easy.
 - [grip](https://github.com/joeyespo/grip) - Preview markdown files with GitHub styles before committing them.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base convertion and bit manipulator in ncurses.
 
 ### Text Editors
 
@@ -183,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
-- [taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager.
+- [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Finance
@@ -331,6 +332,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rclone](https://github.com/ncw/rclone) - Sync files to and from various cloud providers (Dropbox, Google Drive, Onedrive, etc.).
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Directory Listing
 
@@ -453,7 +455,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Other Awesome Lists
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – An alternative awesome list of cli apps.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - Shell commands and tools specific to macOS.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+- [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## License
 
