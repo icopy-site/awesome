@@ -14,7 +14,8 @@
 
 * [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
 * [Homematic Forum](https://homematic-forum.de/forum/) - Diskussions-Foren
-* [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
+* [Homematic Forum: Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
+* [Homematic Forum: HomeMatic - Tipps für Anfänger](https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801) - Pflichtlektüre für Einsteiger von Sammy
 * [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials und mehr.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials und mehr.
 * [Technikkram](https://technikkram.net) - News, Blog, Tutorials und mehr.
@@ -108,6 +109,7 @@
 
 ## Smart Home Software supporting Homematic
 
+* [everHome](https://everhome.de) - 💵
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)
