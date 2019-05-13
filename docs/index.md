@@ -596,7 +596,7 @@
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
 - [Agriculture](awesome/awesome-agriculture.md) - Open source technology for farming and gardening.
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
-- [Product Design](awesome/awesome-product-design.md) — Design a product from the initial concept to production.
+- [Product Design](awesome/awesome-product-design.md) - Design a product from the initial concept to production.
 - [Prisma](awesome/awesome-prisma.md) - Turn your database into a GraphQL API.
 - [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
 
