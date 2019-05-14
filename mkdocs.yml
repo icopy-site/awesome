@@ -53,6 +53,7 @@ nav:
     - .NET: awesome/awesome-dotnet.md
     - .NET_sub: 
       - Core: awesome/awesome-dotnet-core.md
+      - Roslyn: awesome/awesome-roslyn.md
     - Amazon Alexa: awesome/awesome-amazon-alexa.md
     - DigitalOcean: awesome/awesome-digitalocean.md
     - Flutter: awesome/awesome-flutter.md
@@ -363,6 +364,7 @@ nav:
     - Educational Games: awesome/awesome-eg.md
     - JavaScript Learning: awesome/awesome-javascript-learning.md
     - CSS Learning: awesome/awesome-css-learning.md
+    - Roadmaps: awesome/awesome-roadmaps.md
   - Security:
     - Application Security: awesome/awesome-appsec.md
     - Security: awesome/awesome-security.md

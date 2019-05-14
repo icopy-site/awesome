@@ -75,6 +75,7 @@
 - [KDE](awesome/awesome-kde.md) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [.NET](awesome/awesome-dotnet.md)
 	- [Core](awesome/awesome-dotnet-core.md)
+	- [Roslyn](awesome/awesome-roslyn.md) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](awesome/awesome-amazon-alexa.md) - Virtual home assistant.
 - [DigitalOcean](awesome/awesome-digitalocean.md) - Cloud computing platform designed for developers.
 - [Flutter](awesome/awesome-flutter.md) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
@@ -414,6 +415,7 @@
 - [Educational Games](awesome/awesome-eg.md) - Learn while playing.
 - [JavaScript Learning](awesome/awesome-javascript-learning.md)
 - [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
+- [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
 
 
 ## Security

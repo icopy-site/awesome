@@ -319,6 +319,7 @@
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+- [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 
 ### Control flow
@@ -576,6 +577,7 @@
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 
 ### Benchmarking
@@ -717,7 +719,7 @@
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
-- [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.

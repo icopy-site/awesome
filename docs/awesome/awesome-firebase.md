@@ -43,6 +43,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ## Official Firebase Docs & Quickstarts
 
 - 📖 [Firebase Documentation][fb-docs] - Official Firebase Documentation.
+- 🔧 [Firebase Status Dashboard][fb-status-dashboard] - This page provides status information on the services that are part of Firebase.
 - 💡 [Firebase Quickstarts][fb-quickstarts] - Official Firebase Quickstarts.
 - 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
@@ -170,6 +171,7 @@ Who else should we be following!?
 <!-- Official Firebase Docs & Quickstarts -->
 
 [fb-docs]: https://firebase.google.com/docs
+[fb-status-dashboard]: https://status.firebase.google.com
 [fb-quickstarts]: https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=
 [google-codelabs]: https://codelabs.developers.google.com/?cat=Firebase
 
@@ -222,9 +224,9 @@ Who else should we be following!?
 
 [fb-admin-docs]: https://firebase.google.com/docs/admin/setup
 [fb-func-samples]: https://github.com/firebase/functions-samples
-[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-express]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express
 [fb-func-graphql]: https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[fb-func-compiled-code]: https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel
 [bq-fb-analytics]: https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
 [fb-func-firecasts]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 [cloud-run-rewrites]: https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
