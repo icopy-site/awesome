@@ -145,6 +145,7 @@ nav:
     - React: awesome/awesome-react.md
     - React_sub: 
       - Relay: awesome/awesome-relay.md
+      - React Hooks: awesome/awesome-react-hooks.md
     - Web Components: awesome/webcomponents-the-right-way.md
     - Polymer: awesome/awesome-polymer.md
     - Angular: awesome/awesome-angular.md
@@ -314,6 +315,7 @@ nav:
     - GitHub_sub: 
       - Browser Extensions: awesome/awesome-browser-extensions-for-github.md
       - Cheat Sheet: awesome/github-cheat-sheet.md
+      - Pinned Gists: awesome/awesome-pinned-gists.md
     - Git Cheat Sheet & Git Flow: awesome/git-cheat-sheet.md
     - Git Tips: awesome/tips.md
     - Git Add-ons: awesome/awesome-git-addons.md

@@ -166,6 +166,7 @@
 	- [Frameworks](awesome/awesome-css-frameworks.md)
 - [React](awesome/awesome-react.md) - App framework.
 	- [Relay](awesome/awesome-relay.md) - Framework for building data-driven React apps.
+	- [React Hooks](awesome/awesome-react-hooks.md) - A new feature that lets you use state and other React features without writing a class.
 - [Web Components](awesome/webcomponents-the-right-way.md)
 - [Polymer](awesome/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular](awesome/awesome-angular.md) - App framework.
@@ -352,6 +353,7 @@
 - [GitHub](awesome/awesome-github.md) - Hosting service for Git repositories.
 	- [Browser Extensions](awesome/awesome-browser-extensions-for-github.md)
 	- [Cheat Sheet](awesome/github-cheat-sheet.md)
+	- [Pinned Gists](awesome/awesome-pinned-gists.md) - Dynamic pinned gists for your GitHub profile.
 - [Git Cheat Sheet & Git Flow](awesome/git-cheat-sheet.md)
 - [Git Tips](awesome/tips.md)
 - [Git Add-ons](awesome/awesome-git-addons.md) - Enhance the `git` CLI.
