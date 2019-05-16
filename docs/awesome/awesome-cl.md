@@ -662,6 +662,7 @@ Others
 Numerical and Scientific
 ========================
 
+* [numcl](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
 * [magicl](https://github.com/rigetticomputing/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD_3Clause][15].
 * [cl-spark](https://github.com/tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
 * [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
@@ -882,7 +883,7 @@ Configuration
 CSV
 ---
 
-* [cl-csv](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD][15].
+* :star: [cl-csv](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD][15].
 * [cl-decimals](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 * [auto-text](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT][200]. See also [inquisitor](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 
@@ -1050,6 +1051,7 @@ The rules we (try to) respect are the followings:
 [5]: http://unlicense.org/
 [6]: http://www.gnu.org/software/clisp/impnotes.html
 [8]: http://opensource.franz.com/preamble.html
+[9]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 [11]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [13]: http://www.sbcl.org/manual/index.html#ANSI-Conformance
 [14]: http://directory.fsf.org/wiki/License:Expat

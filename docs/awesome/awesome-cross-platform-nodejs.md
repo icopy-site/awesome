@@ -141,7 +141,7 @@ button (pencil icon) and suggest a correction.
 If you would like to help us fix an error or add more information, please check
 our [guidelines](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/master/contributing.md). Pull requests are welcome!
 
-Thanks goes to these wonderful people:
+Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->
