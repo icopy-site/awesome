@@ -73,6 +73,14 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
+### Evangelion Clock
+
+> A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+
 ## Apple Inspired
 
 ### Aerial
@@ -92,6 +100,14 @@ Free
 > A screensaver inspired by Apple's Event on October 30, 2018
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
+## MusaicFM
+
+> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
 Free
 

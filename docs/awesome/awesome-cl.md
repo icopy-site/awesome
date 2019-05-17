@@ -42,11 +42,11 @@ Audio
 * [Open Music](https://github.com/openmusic-project/OM6) - a visual programming, computer-aided composition environment. [GPL3][2].
 * [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
 * [Incudine](http://incudine.sourceforge.net/) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
-* [cl-supercollider](https://github.com/byulparan/cl-collider) - A
+* [cl-collider](https://github.com/byulparan/cl-collider) - A
 [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
 * [csound](https://github.com/csound/csound) - A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp.
 * [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
-* [cl-patterns](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
 * [Common Music](https://github.com/ormf/cm) - the repository of an
 ancient version of Common Music (version 2.12.0), the presumably last
@@ -240,6 +240,7 @@ processes. It has
 * [ftw](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 * [cl-xul](https://github.com/mmontone/cl-xul) - Mozilla XUL bindings. [Expat][14].
 * [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT][200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear](https://github.com/vurtun/nuklear) immediate mode GUI library. [MIT][200].
 
 
 Implementations
@@ -682,6 +683,8 @@ Numerical and Scientific
   fundamental level than NumPy, by providing even more powerful
   N-dimensional arrays, but just a few building blocks for working on
   them. [AGPL][89].
+* [cmu-infix](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp.
+* [cl-ana](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3][2].
 
 
 Parallelism and Concurrency
