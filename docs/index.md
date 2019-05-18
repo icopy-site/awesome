@@ -403,6 +403,7 @@
 - [Broadcasting](awesome/awesome-broadcasting.md)
 - [Pixel Art](awesome/awesome-pixel-art.md) - Pixel-level digital art.
 - [FFmpeg](awesome/awesome-ffmpeg.md) - Cross-platform solution to record, convert and stream audio and video.
+- [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
 
 
 ## Learn
