@@ -37,12 +37,14 @@
 - [Lessons in Practical Buddhism](https://www.sirimangalo.org/text/lessons-in-practical-buddhism/) - Practical teachings to help people live in peace and happiness.
 - [The Collected Teachings of Ajahn Chah](https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English) - Single volume containing many of Ajahn Chah's talks that convey the teachings in a direct, simple, yet profound manner.
 - [The Four Noble Truths](https://forestsangha.org/teachings/books/the-four-noble-truths?language=English) - Booklet by Ajahn Sumedho that serves as an introduction to the Four Noble Truths and Noble Eightfold Path.
+- [A Handful of Leaves](http://www.ahandfulofleaves.org/) - Books and papers that might be hard to find in hard copy format.
 
 ## Dhamma Talks
 
 ### Audio
 
 - [BuddhaNet](http://www.buddhanet.net/audio-talks.htm) - Sample of talks from teachers of several traditions, both lay and ordained.
+- [Buddhist Society of Western Australia](http://podcast.bswa.org/) - Talks from the BSWA organized by teacher and category.
 - [dhamma.audio](https://dhamma.audio/) - Library of teachings from a wide variety of places, sortable by teacher and collection.
 - [dhammatalks.org](http://www.dhammatalks.org) - English translations of suttas, audio talks, and books by Thanissaro Bhikkhu.
 - [Tisarana](https://tisarana.ca/teachings-audio/) - Recorded talks from Tisarana Buddhist Monastery in Canada.
@@ -68,6 +70,8 @@
 - [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
 - [Pali Verbal Endings (PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
 - [Morphological analyzer and generator for Pali (PDF)](https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
+- [Chant Pali](http://chantpali.org/) - Helpful guides for chanting and learning the most common Pali phrases, broken down line-by-line and syllable-by-syllable.
+- [Pratyeka](http://pali.pratyeka.org/) - Comprehensive study of Pali through three textbooks.
 
 ## Places
 
@@ -97,6 +101,15 @@
 - [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
 
+### Meditation Centers
+
+- [Barre Center for Buddhist Studies](https://www.buddhistinquiry.org/) - Barre, Massachusetts - Offers residential and online courses combining study, discussion, and meditation.
+
+## Russian Language
+
+- [Dhamma.ru](https://dhamma.ru/) - A variety of resources.
+- [Theravada.ru](http://theravada.ru/) - An introduction to Theravada Buddhism from the St. Petersburg community.
+
 ## Suttas
 
 ### Individual Suttas
@@ -111,6 +124,7 @@
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
+- [Ancient Buddhist Texts](https://www.ancient-buddhist-texts.net/) - Original texts, translations, and Pali material.
 - [Apadāna (Legends of the Buddhist Saints)](http://apadanatranslation.org/) - Complete translation of six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community.
 - [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.

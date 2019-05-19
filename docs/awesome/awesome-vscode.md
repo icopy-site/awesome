@@ -631,6 +631,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Run a snippet or file animation](https://raw.githubusercontent.com/formulahendry/vscode-code-runner/master/images/usage.gif)
 
+## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+
+> Automatic time reports by project and other programming metrics right in VS Code.
+
+![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
+
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 > Highlight web colors in your editor
