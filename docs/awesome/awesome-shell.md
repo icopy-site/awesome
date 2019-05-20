@@ -90,6 +90,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+* [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
@@ -152,7 +153,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
-* [git-up](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
