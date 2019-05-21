@@ -83,6 +83,7 @@
 - [IBM Cloud](awesome/awesome-ibmcloud.md) - Cloud platform for developers and companies.
 - [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](awesome/awesome-ros2.md) - Set of software libraries and tools that help you build robot apps.
+- [Adafruit IO](awesome/awesome-adafruitio.md) - Visualize and store data from any device.
 
 
 ## Programming Languages
