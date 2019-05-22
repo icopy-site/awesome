@@ -49,30 +49,34 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## 2019
+
+* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
+
 ## 2018
 
-* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
+* [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 * [rstats-ed](https://github.com/rstudio-education/rstats-ed) - List of courses teaching R
-* [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
-* [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution
+* [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming ![promises](https://cranlogs.r-pkg.org/badges/promises)
+* [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
 * [Readings in Applied Data Science](https://github.com/hadley/stats337) - These readings reflect Hadley's personal thoughts about applied data science.
 
 
 ## 2017
 
-* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-* [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
-* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
-* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components
-* [xaringan](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library
-* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-* [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.
-* [covr](https://github.com/jimhester/covr) - Test coverage reports for R
-* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
-* [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
-* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
-* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R
-* [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling.
+* [prophet](https://github.com/facebookincubator/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. ![prophet](https://cranlogs.r-pkg.org/badges/prophet)
+* [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse ![tidyverse](https://cranlogs.r-pkg.org/badges/tidyverse)
+* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R ![purrr](https://cranlogs.r-pkg.org/badges/purrr)
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components ![hrbrthemes](https://cranlogs.r-pkg.org/badges/hrbrthemes)
+* [xaringan](https://github.com/yihui/xaringan) - Create HTML5 slides with R Markdown and the JavaScript library ![xaringan](https://cranlogs.r-pkg.org/badges/xaringan)
+* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown ![blogdown](https://cranlogs.r-pkg.org/badges/blogdown)
+* [glue](https://github.com/tidyverse/glue) -  Glue strings to data in R. Small, fast, dependency free interpreted string literals.  ![glue](https://cranlogs.r-pkg.org/badges/glue)
+* [covr](https://github.com/jimhester/covr) - Test coverage reports for R ![covr](https://cranlogs.r-pkg.org/badges/covr)
+* [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R ![lintr](https://cranlogs.r-pkg.org/badges/lintr)
+* [reprex](https://github.com/jennybc/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow. ![reprex](https://cranlogs.r-pkg.org/badges/reprex)
+* [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python  ![reticulate](https://cranlogs.r-pkg.org/badges/reticulate)
+* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R ![tensorflow](https://cranlogs.r-pkg.org/badges/tensorflow)
+* [utf8](https://github.com/patperry/r-utf8) - Manipulating and printing UTF-8 text that fixes multiple bugs in R's UTF-8 handling. ![utf8](https://cranlogs.r-pkg.org/badges/utf8)
 * [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
 
 ## Integrated Development Environments
@@ -114,6 +118,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [bigmemory](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
 
 ## Graphic Displays
 *Packages for showing data.*
@@ -140,7 +145,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [dendextend](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
 * [Patchwork](https://github.com/thomasp85/patchwork) - Combine separate ggplots into the same graphic.
-
+* [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - Plotting Multi-Dimensional Data
+* [plot3Drgl](https://cran.r-project.org/web/packages/plot3Drgl/index.html) - Plotting Multi-Dimensional Data - Using 'rgl'
 
 ## HTML Widgets
 *Packages for interactive visualizations.*
@@ -171,7 +177,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - Formatting statistical models in LaTex and HTML.
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html) - Pre-compute data to enhance your report templates. Can be combined with knitr.
-* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [officer](https://davidgohel.github.io/officer/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 * [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
@@ -185,7 +192,8 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 * [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - Tools for parsing and generating XML within R.
-* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R.
+* [xml2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/xml2/index.html) - Optimized tools for parsing and generating XML within R.
+* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - HTTP API for R handling concurrent calls, based on the Apache2 web server, to expose R code as REST web services and create full-sized, multi-page web applications.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 * [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
@@ -303,6 +311,8 @@ covariates
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) - Least Angle Regression, Lasso and Forward Stagewise
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - L1 constrained estimation aka ‘lasso’
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - Linear Predictive Models Based On The Liblinear C/C++ Library
+* [nlme <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - Logic Regression
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - Mapping, pruning, and graphing tree models
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - Model-Based Boosting
@@ -402,6 +412,8 @@ Angle Regression
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - Time series analysis and computational finance.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+* [scorecard](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+* [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
 ## Bioinformatics and Biostatistics
 *Packages for processing biological datasets.*
@@ -411,7 +423,9 @@ Angle Regression
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - An integrated package for genetic data analysis of both population and family data.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - Analyses of Phylogenetics and Evolution.
 * [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - Pretty heatmaps made easy.
-
+* [lme4](https://github.com/lme4/lme4) - Generalized mixed-effects models.
+* [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
@@ -448,6 +462,7 @@ Angle Regression
 * [spatstat](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 * [tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+* [GWmodel](https://cran.r-project.org/web/packages/GWmodel/) - Geographically-Weighted Models
 
 ## R Development
 *Packages for packages.*

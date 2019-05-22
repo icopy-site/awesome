@@ -116,6 +116,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
+- [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - Directory of filter and host lists for advertisements, trackers, malware and annoyances.
 
 ## Social networks
 
@@ -132,6 +133,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 - [Osada](https://zotlabs.com/osada/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - A social network designed to be the glue that binds much of the decentralised web.
+- [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
 
 ## Freedom
 

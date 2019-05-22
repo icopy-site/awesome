@@ -222,6 +222,7 @@
 - [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
+- [Storybook](awesome/awesome-storybook.md) - Development environment for UI components.
 
 
 ## Back-End Development
