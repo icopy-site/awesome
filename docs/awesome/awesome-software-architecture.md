@@ -20,7 +20,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments :orange_book:.
 - [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
-
+- [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - On the cost and impact of accumulating technical debt.
 ## Documentation
 
 - [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
@@ -79,5 +79,4 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors and contributors have waived all copyright
-and related or neighboring rights to awesome-architecture.
+To the extent possible under law, [Simskij](https://github.com/simskij) has waived all copyright and related or neighboring rights to this work.

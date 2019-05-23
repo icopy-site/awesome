@@ -124,7 +124,6 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 * C/C++
   * [libssh](https://www.libssh.org) - The *SSH* library.
-  * [substack/libssh](https://github.com/substack/libssh) [![stars](https://img.shields.io/github/stars/substack/libssh.svg?style=social&label=stars)](https://github.com/substack/libssh) - Multiplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side.
 * Golang
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - Built-in *SSH* client and server library.
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)](https://github.com/pkg/sftp) - *SFTP* support for the go.crypto/ssh package.
@@ -147,6 +146,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [Best practices](https://blog.0xbadc0de.be/archives/300)
 * [Granting Temporary Access to Your Servers (Using Signed *SSH* Keys)](http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/)
 * [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
+* [Gist: SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Collection of recipes for writing awesome ssh config files.
 
 ### Security
 

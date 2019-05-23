@@ -118,7 +118,10 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [bigmemory](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+* [snakecase](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
 * [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
+* [DataExplorer](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+
 
 ## Graphic Displays
 *Packages for showing data.*
@@ -182,6 +185,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 * [ezknitr](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 * [drake](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
+* [R Suite](http://rsuite.io) - A package to design flexible and reproducible deployment workflows for R.
 
 ## Web Technologies and Services
 *Packages to surf the web.*
@@ -498,6 +502,7 @@ Angle Regression
 *Handy Tools for R*
 
 * [git2r](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+* [Conda](https://anaconda.org/r/repo) - Most R packages are available through the Conda polyglot cross-platform dependency manager.
 
 ## Other Interpreters
 *Alternative R engines.*
@@ -533,7 +538,11 @@ Where to discover new R-esources.
 * [R-users](https://www.r-users.com/) - A job board for R users (and the people who are looking to hire them)
 * [R Cookbook](http://www.cookbook-r.com/) - A problem-oriented website that supports the [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) - A quick course for getting started with R.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, GitHub packages and their archives with RDocumentation.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [rdrr.io](https://rdrr.io/) - Find R package documentation. Try R packages in your browser.
+* [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
+
+
 
 ## Books
 
@@ -596,6 +605,15 @@ Where to discover new R-esources.
 * [RStudio Addins](https://github.com/daattali/addinslist) - List of RStudio addins.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 * [Web Technologies](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+
+## R Ecosystems
+
+R communities and package collections (in alphabetical order):
+
+ * [rOpenGov](http://ropengov.github.io/) Open government data, computational social science, digital humanities
+ * [rOpenHealth](https://github.com/rOpenHealth) Public health data
+ * [rOpenSci](https://ropensci.org) Open science
+
 
 ## Other Awesome Lists
 
