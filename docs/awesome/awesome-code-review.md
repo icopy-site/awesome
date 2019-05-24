@@ -20,6 +20,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 ## Articles
 
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
+- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
 - [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
 - [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
 - [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
@@ -57,6 +58,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
+- [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
@@ -65,6 +67,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
+- [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
 ## Contribute
