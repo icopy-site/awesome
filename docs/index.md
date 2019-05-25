@@ -37,15 +37,15 @@
 	- [Cross-Platform](awesome/awesome-cross-platform-nodejs.md) - Writing cross-platform code on Node.js.
 - [Frontend Development](awesome/frontend-dev-bookmarks.md)
 - [iOS](awesome/awesome-ios.md) - Mobile operating system for Apple phones and tablets.
-- [Android](awesome/awesome-android.md)
+- [Android](awesome/awesome-android.md) - Mobile operating system developed by Google.
 - [IoT & Hybrid Apps](awesome/awesome-IoT-hybrid.md)
 - [Electron](awesome/awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](awesome/awesome-cordova.md) - JavaScript API for hybrid apps.
-- [React Native](awesome/awesome-react-native.md)
+- [React Native](awesome/awesome-react-native.md) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](awesome/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
 - [Linux](awesome/awesome-linux.md)
 	- [Containers](awesome/awesome-linux-containers.md)
-- [macOS](awesome/awesome-macOS.md)
+- [macOS](awesome/awesome-macOS.md) - Operating system for Apple's Mac computers.
 	- [Command-Line](awesome/awesome-macos-command-line.md)
 	- [Screensavers](awesome/awesome-macos-screensavers.md)
 	- [Apps](awesome/awesome-mac.md)
@@ -96,10 +96,10 @@
 	- [Observables](awesome/awesome-observables.md)
 	- [npm scripts](awesome/awesome-npm-scripts.md) - Task runner.
 	- [30 Seconds of Code](awesome/30-seconds-of-code.md) - Code snippets you can understand in 30 seconds.
-- [Swift](awesome/awesome-swift.md)
+- [Swift](awesome/awesome-swift.md) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
 	- [Education](awesome/Awesome-Swift-Education.md)
 	- [Playgrounds](awesome/Awesome-Swift-Playgrounds.md)
-- [Python](awesome/awesome-python.md)
+- [Python](awesome/awesome-python.md) - General-purpose programming language designed for readability.
 	- [Asyncio](awesome/awesome-asyncio.md) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](awesome/awesome-python-scientific-audio.md) - Scientific research in audio/music.
 	- [CircuitPython](awesome/awesome-circuitpython.md) - A version of Python for microcontrollers.
@@ -117,20 +117,20 @@
 - [Julia](awesome/Julia.jl.md)
 - [Lua](awesome/awesome-lua.md)
 - [C](awesome/awesome-c.md)
-- [C/C++](awesome/awesome-cpp.md)
+- [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](awesome/awesome-R.md)
 - [D](awesome/awesome-d.md)
 - [Common Lisp](awesome/awesome-cl.md)
 - [Perl](awesome/awesome-perl.md)
 - [Groovy](awesome/awesome-groovy.md)
 - [Dart](awesome/awesome-dart.md)
-- [Java](awesome/awesome-java.md)
+- [Java](awesome/awesome-java.md) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
 	- [RxJava](awesome/awesome-rxjava.md)
 - [Kotlin](awesome/awesome-kotlin.md)
 - [OCaml](awesome/awesome-ocaml.md)
 - [ColdFusion](awesome/awesome-coldfusion.md)
 - [Fortran](awesome/awesome-fortran.md)
-- [PHP](awesome/awesome-php.md)
+- [PHP](awesome/awesome-php.md) - Server-side scripting language.
 	- [Composer](awesome/awesome-composer.md) - Package manager.
 - [Delphi](awesome/awesome-delphi.md)
 - [Assembler](awesome/awesome-asm.md)
@@ -151,7 +151,7 @@
 - [ES6 Tools](awesome/es6-tools.md)
 - [Web Performance Optimization](awesome/awesome-wpo.md)
 - [Web Tools](awesome/tools.md)
-- [CSS](awesome/awesome-css.md)
+- [CSS](awesome/awesome-css.md) - Style sheet language that specifies how HTML elements are displayed on screen.
 	- [Critical-Path Tools](awesome/critical-path-css-tools.md)
 	- [Scalability](awesome/scalable-css-reading-list.md)
 	- [Must-Watch Talks](awesome/must-watch-css.md)
@@ -235,7 +235,7 @@
 - [Useful `.htaccess` Snippets](awesome/htaccess.md)
 - [nginx](awesome/nginx-resources.md) - Web server.
 - [Dropwizard](awesome/awesome-dropwizard.md)
-- [Kubernetes](awesome/awesome-kubernetes.md)
+- [Kubernetes](awesome/awesome-kubernetes.md) - Open-source platform that automates Linux container operations.
 - [Lumen](awesome/awesome-lumen.md)
 - [Serverless Framework](awesome/awesome-serverless.md)
 - [Apache Wicket](awesome/awesome-wicket.md) - Java web app framework.

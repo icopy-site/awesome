@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="30-seconds/30-seconds-of-code"></div>
-[![Logo](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//logo.png)](https://30secondsofcode.org/)
+[![Logo](/logo.png)](https://30secondsofcode.org/)
 
 ## 30 seconds of code
 
@@ -9,10 +9,10 @@
 
 > Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 
-[![Sponsored by DigitalOcean](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
+[![Sponsored by DigitalOcean](/sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
 
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a snippet.
-* Contributions welcome, please read the [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
+* Contributions welcome, please read the [contribution guide](CONTRIBUTING.md).
 * Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) to ensure backwards-compatibility.
 * You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 * You can search, view and copy these snippets from a terminal, using the CLI application from [this repo](https://github.com/sQVe/30s).
@@ -289,7 +289,7 @@ Creates a function that invokes the provided function with its arguments transfo
 Use `Array.prototype.map()` to apply `transforms` to `args` in combination with the spread operator (`...`) to pass the transformed arguments to `fn`.
 
 ```js
-const overArgs = (fn, transforms) => (...args) => fn(...args.map((https://github.com/30-seconds/30-seconds-of-code/blob/master/val, i) => transforms[i](https://github.com/30-seconds/30-seconds-of-code/blob/master/val)));
+const overArgs = (fn, transforms) => (...args) => fn(...args.map((val, i) => transforms[i](val)));
 ```
 
 <details>
@@ -485,6 +485,7 @@ all([1, 2, 3]); // true
 Check if all elements in an array are equal.
 
 Use `Array.prototype.every()` to check if all the elements of the array are the same as the first one.
+Elements in the array are compared using the strict comparison operator, which does not account for `NaN` self-inequality.
 
 ```js
 const allEqual = arr => arr.every(val => val === arr[0]);
@@ -4211,6 +4212,7 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 
 
 
+
 const lengthIs4 = checkProp(l => l === 4, 'length');
 lengthIs4([]); // false
 lengthIs4([1,2,3,4]); // true
@@ -6287,6 +6289,38 @@ const o = deepFreeze([1, [2, 3]]);
 
 o[0] = 3; // not allowed
 o[1][0] = 4; // not allowed as well
+```
+
+</details>
+
+
+### deepGet
+
+Returns the target value in a nested JSON object, based on the `keys` array.
+
+Compare the keys you want in the nested JSON object as an `Array`.
+Use `Array.prototype.reduce()` to get value from nested JSON object one by one. 
+If the key exists in object, return target value, otherwise, return `null`.
+
+```js
+const deepGet = (obj, keys) => keys.reduce((xs, x) => (xs && xs[x] ? xs[x] : null), obj);
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+let index = 2;
+const data = {
+  foo: {
+    foz: [1, 2, 3],
+    bar: {
+      baz: ['a', 'b', 'c']
+    }
+  }
+};
+deepGet(data, ['foo', 'foz', index]); // get 3
+deepGet(data, ['foo', 'bar', 'baz', 8, 'foz']); // null
 ```
 
 </details>
@@ -9121,4 +9155,4 @@ yesNo('Foo', true); // true
 ## Credits
 
 *Logos made by [Angelos Chalaris](https://github.com/Chalarangelo) are licensed under the [MIT](https://opensource.org/licenses/MIT) license.*
-*This README is built using [markdown-builder](https://github.com/30-seconds/markdown-builder).*
+*This README is built using [markdown-builder](https://github.com/30-seconds/markdown-builder).*
