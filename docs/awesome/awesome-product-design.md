@@ -103,6 +103,7 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 
 ## UI
 #### Guidelines
+- [Ant Design](http://ant.design) - An UI design language for enterprise applications.
 - [iOS Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 - [Google Material](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences.
 - [Google Design](https://design.google.com/) - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google.
@@ -115,7 +116,6 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 - [Android Niceties](http://androidniceties.tumblr.com/) - Aiming to provide inspiration and insight into Android UI conventions.
 - [Lovely UI](http://www.lovelyui.com/) - Collection of mobile UI elements.
 - [Brian Lovin](http://www.brianlovin.com/) - Visual exploration of the best products.
-- [Great Apps Timeline](http://greatappstimeline.xyz/) - See how the LOOK of some of the great apps changed over time.
 - [Inspired UI](http://inspired-ui.com/) - iOS Mobile Apps Design Patterns.
 - [Sloppy UI](http://sloppyui.tumblr.com/) - It's all about intellectual honesty, not trolling.
 #### Tools
@@ -162,6 +162,7 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 - [ISO Republic](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
 - [All The Free Stock](http://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
 - [Pexels](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
+- [unDraw](https://undraw.co) - Open-source illustrations for every project you can imagine and create.
 #### Stock Videos
 - [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
 #### Tools
@@ -189,6 +190,8 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 - [Form](http://relativewave.com/form/) - Build and customize native prototypes directly on device.
 - [Proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.
 - [Fuse](https://www.fusetools.com/) - Create better native apps for iOS and Android with a new breed of development tools.
+- [ProtoPie](https://www.protopie.io) - ProtoPie is the easiest prototyping tool to build advanced, highly interactive prototypes.
+
 #### Tools
 - [Lottie](https://airbnb.design/lottie/) - Easily add high-quality animation to any native app.
 - [Keynotopia](http://keynotopia.com/) - Keynotopia transforms Keynote and PowerPoint into the best rapid prototyping tools for creating mobile, web and desktop UI mockups.
@@ -203,7 +206,7 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 - [Viget](https://www.viget.com/articles/color-contrast) - Color Contrast for Better Readability.
 #### Tools
 - [WAVE](http://wave.webaim.org/) - Web Accessibility Evaluation Tool.
-- [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) - Aool to calculate the contrast ratio between any two valid CSS colors.
+- [Contrast Ratio](http://6220119.github.io/contrast-ratio/#/black-on-white) - A tool to calculate the contrast ratio between any two valid CSS colors.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 - [CanvasFlip](https://www.canvasflip.com/color-blind.php) - Colorblind simulator for Designers.
 
@@ -213,6 +216,7 @@ Feel free to [add something interesting](https://github.com/teoga/awesome-produc
 - [Hemingway](http://www.hemingwayapp.com/) - Hemingway App makes your writing bold and clear.
 - [Readable](https://readable.io/) - You have 7 seconds to grab someone's attention. Readable.io helps you cut out the noise.
 - [The Writer](http://www.thewriter.com/what-we-think/readability-checker/) - How readable is your writing?.
+- [Taskade](https://www.taskade.com/) - Collaborative editor and outliner.
 
 ## Data
 - [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
