@@ -145,6 +145,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [Python](https://github.com/vert-x3/vertx-lang-python) - Python support.
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support.
 * [EcmaScript](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
+* [Php](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
 *Language extensions*
 

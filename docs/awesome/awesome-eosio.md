@@ -140,7 +140,9 @@ All about development on EOSIO platform.
 
 #### API libraries
 
-- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript library.
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
+- [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) - Official Java SDK.
+- [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) - Official Swift SDK.
 - [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library.
 - [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library.

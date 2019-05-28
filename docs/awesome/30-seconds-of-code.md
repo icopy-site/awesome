@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="30-seconds/30-seconds-of-code"></div>
-[![Logo](/logo.png)](https://30secondsofcode.org/)
+[![Logo](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//logo.png)](https://30secondsofcode.org/)
 
 ## 30 seconds of code
 
@@ -9,10 +9,10 @@
 
 > Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 
-[![Sponsored by DigitalOcean](/sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
+[![Sponsored by DigitalOcean](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
 
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a snippet.
-* Contributions welcome, please read the [contribution guide](CONTRIBUTING.md).
+* Contributions welcome, please read the [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
 * Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) to ensure backwards-compatibility.
 * You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 * You can search, view and copy these snippets from a terminal, using the CLI application from [this repo](https://github.com/sQVe/30s).
@@ -289,7 +289,7 @@ Creates a function that invokes the provided function with its arguments transfo
 Use `Array.prototype.map()` to apply `transforms` to `args` in combination with the spread operator (`...`) to pass the transformed arguments to `fn`.
 
 ```js
-const overArgs = (fn, transforms) => (...args) => fn(...args.map((val, i) => transforms[i](val)));
+const overArgs = (fn, transforms) => (...args) => fn(...args.map((https://github.com/30-seconds/30-seconds-of-code/blob/master/val, i) => transforms[i](https://github.com/30-seconds/30-seconds-of-code/blob/master/val)));
 ```
 
 <details>
@@ -2997,7 +2997,7 @@ currentURL(); // 'https://google.com'
 
 ### detectDeviceType
 
-Detects wether the website is being opened in a mobile device or a desktop/laptop.
+Detects whether the website is being opened in a mobile device or a desktop/laptop.
 
 Use a regular expression to test the `navigator.userAgent` property to figure out if the device is a mobile device or a desktop/laptop.
 
@@ -4204,6 +4204,7 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 <summary>Examples</summary>
 
 ```js
+
 
 
 
@@ -9155,4 +9156,4 @@ yesNo('Foo', true); // true
 ## Credits
 
 *Logos made by [Angelos Chalaris](https://github.com/Chalarangelo) are licensed under the [MIT](https://opensource.org/licenses/MIT) license.*
-*This README is built using [markdown-builder](https://github.com/30-seconds/markdown-builder).*
+*This README is built using [markdown-builder](https://github.com/30-seconds/markdown-builder).*
