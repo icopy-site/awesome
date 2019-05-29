@@ -1236,7 +1236,13 @@ dig +short myip.opendns.com @resolver1.opendns.com
 Alternative that works on all networks.
 ```bash
 curl -s https://api.ipify.org && echo
-````
+```
+
+#### Show Network Interface Information
+Undocumented flag of the `scutil` command.
+```bash
+scutil --nwi
+```
 
 ### TFTP
 

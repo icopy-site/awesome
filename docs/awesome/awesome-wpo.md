@@ -2,6 +2,7 @@
 ## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
@@ -162,7 +163,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [CDNjs](https://cdnjs.com/) - An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
-* :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 
 > To find useful more information for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
