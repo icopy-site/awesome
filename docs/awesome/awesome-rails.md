@@ -30,6 +30,7 @@
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 - [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
+- [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
 
 ### Jobs
 
@@ -70,8 +71,8 @@
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
 - [diaspora](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
-- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
+- [ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP
+- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click
 - [eol](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc). 
 - [fairnopoly](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [Live](https://www.fairmondo.de)

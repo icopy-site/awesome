@@ -491,6 +491,7 @@
 - [JSON](awesome/awesome-json.md) - Text based data interchange format.
 	- [GeoJSON](awesome/awesome-geojson.md)
 	- [Datasets](awesome/awesome-json-datasets.md)
+- [CSV](awesome/awesomeCSV.md) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](awesome/discount-for-student-dev.md)
 - [Sysadmin](awesome/awesome-sysadmin.md)
 - [Radio](awesome/awesome-radio.md)

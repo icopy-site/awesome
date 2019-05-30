@@ -21,19 +21,20 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 
 ## Mobile Development
 - [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2018.
-
-## Machine Learning
-- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech.
-
-## Data Science
-- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Gives you an overview of the core skills needed in data science.
+- [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - Help new developers to start building beautiful android applications [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
 
 ## Game Development
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2018.
 - [Game Programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer.
 
-## Design
+## Miscellaneous
 - [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017.
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech.
+- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Gives you an overview of the core skills needed in data science.
+- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - A guide for amateurs pen testers and a collection of hacking tools, resources and references.
+
+## Articles
+- [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
 ## License
 

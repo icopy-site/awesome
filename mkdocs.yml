@@ -427,6 +427,7 @@ nav:
     - JSON_sub: 
       - GeoJSON: awesome/awesome-geojson.md
       - Datasets: awesome/awesome-json-datasets.md
+    - CSV: awesome/awesomeCSV.md
     - Discounts for Student Developers: awesome/discount-for-student-dev.md
     - Sysadmin: awesome/awesome-sysadmin.md
     - Radio: awesome/awesome-radio.md
