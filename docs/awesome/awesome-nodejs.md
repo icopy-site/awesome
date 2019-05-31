@@ -553,6 +553,7 @@
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
 
 
 ### Security
@@ -609,6 +610,7 @@
 - [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
 
 ### Node.js management

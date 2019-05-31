@@ -94,6 +94,8 @@ nav:
     - PureScript: awesome/awesome-purescript.md
     - Go: awesome/awesome-go.md
     - Scala: awesome/awesome-scala.md
+    - Scala_sub: 
+      - Scala Native: awesome/awesome-scala-native.md
     - Ruby: awesome/awesome-ruby.md
     - Clojure: awesome/awesome-clojure.md
     - ClojureScript: awesome/awesome-clojurescript.md
@@ -262,6 +264,7 @@ nav:
     - Empirical Software Engineering: awesome/awesome-msr.md
     - Static Analysis & Code Quality: awesome/awesome-static-analysis.md
     - Information Retrieval: awesome/awesome-information-retrieval.md
+    - Quantum Computing: awesome/awesome-quantum-computing.md
   - Big Data:
     - Big Data: awesome/awesome-bigdata.md
     - Hadoop: awesome/awesome-hadoop.md

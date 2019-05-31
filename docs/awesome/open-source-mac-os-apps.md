@@ -380,6 +380,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod) - Simple, beautiful podcast app.  ![javascript_icon] 
+- [Doughnut](https://github.com/CD1212/Doughnut) - Podcast player and library for mac ![swift_icon] 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work.  ![swift_icon] 
 - [Podlive for macOS](https://github.com/phranck/podlive-macos) - macOS client to listen to live streaming podcasts (only). It currently supports all livestreams broadcasting via Ultraschall with [Studio Link On Air](https://studio-link.de).  ![objective_c_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
@@ -518,7 +519,9 @@ You can see in which language an app is written. Currently there are following l
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet.  ![javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src ) - The Unarchiver is an Objective-C application for uncompressing archive files.  ![objective_c_icon] 
 - [ToTheTop](https://github.com/zenangst/ToTheTop) - Small macOS application to help you scroll to the top.  ![swift_icon] 
+- [calibre](https://github.com/kovidgoyal/calibre) - cross platform e-book manager. ![python_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX) - Cocoa application for semi-automated iOS app analysis and evaluation. ![objective_c_icon] ![c_icon] 
+- [wechsel](https://github.com/friedrichweise/wechsel) - manage bluetooth connections with your keyboard. ![swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world.  ![objective_c_icon] 
 
 ### VPN & Proxy

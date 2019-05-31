@@ -229,7 +229,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
 
 ## CSV
+*Libraries for parsing Comma Separated Value (CSV) files*
 
+* [csv](https://github.com/p-ranav/csv) - CSV for modern C++. [MIT]
+* [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
 
 ## Database
@@ -443,6 +446,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
 * [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
+* [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
 
@@ -496,6 +500,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GLM](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. [MIT]
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
+* [linalg.h](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. [Unlicense]
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [NT2](https://github.com/Mathieu-/nt2) - A SIMD-optimized numerical template library that provides an interface with MATLAB-like syntax. [Boost]

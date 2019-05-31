@@ -108,6 +108,7 @@
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -273,6 +274,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 
 ## Big Data

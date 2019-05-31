@@ -108,6 +108,7 @@
 - [PureScript](awesome/awesome-purescript.md)
 - [Go](awesome/awesome-go.md)
 - [Scala](awesome/awesome-scala.md)
+	- [Scala Native](awesome/awesome-scala-native.md) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](awesome/awesome-ruby.md)
 - [Clojure](awesome/awesome-clojure.md)
 - [ClojureScript](awesome/awesome-clojurescript.md)
@@ -273,6 +274,7 @@
 - [Empirical Software Engineering](awesome/awesome-msr.md) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](awesome/awesome-static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
+- [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 
 ## Big Data
