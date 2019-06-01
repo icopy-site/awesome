@@ -100,6 +100,7 @@ __DNA Resequencing__
 
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
+* __[mosdepth](https://github.com/brentp/mosdepth)__ - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing
 * __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
 

@@ -3,7 +3,6 @@
 
 A collection of awesome things regarding React ecosystem.
 
-  - [React Native Awesome Components](#react-native-awesome-components)s
 
 ---
 
@@ -142,16 +141,13 @@ A collection of awesome things regarding React ecosystem.
 - [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 - [CSS in JS Playground](https://css-in-js-playground.com)
 
-##### Routing
+##### React Routing
 
-- [react-router - A complete routing library for React](https://github.com/ReactTraining/react-router)
-- [react-router5 - A routing library for React and more](http://router5.github.io/docs/with-react.html#/inbox)
-- [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
-- [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
-- [reach-router - Next Generation Routing for React](https://github.com/reach/router)
-- [curi - JavaScript router for SPA](https://curi.js.org/)
-- [navi - Declarative, asynchronous routing for React. Supports hooks, suspense & static rendering.](https://github.com/frontarm/navi)
-- [react-use-path - The tiniest hook style react router.](https://github.com/zhangkaiyulw/react-use-path)
+- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [reach-router](https://github.com/reach/router) - Next Generation Routing for React
+- [react-router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
+- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 
 ##### React Projects
 
@@ -418,6 +414,13 @@ A collection of awesome things regarding React ecosystem.
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
 
+#### React Testing Libraries
+
+- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework
+- [Enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
+
 ##### Animation Components
 
 - [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
@@ -485,8 +488,6 @@ A collection of awesome things regarding React ecosystem.
 - [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 - [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [React Python](https://github.com/reactjs/react-python)
-- [React PHP](https://github.com/reactjs/react-php-v8js)
 - [React Laravel](https://github.com/talyssonoc/react-laravel)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
@@ -598,7 +599,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Data Managing
 
-- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
+- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
 - [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 - [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 - [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -735,6 +736,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Awesome Components
 
+- [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
+- [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 - [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
 - [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 - [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
@@ -746,11 +749,20 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 
-### JSX
+### React AR/VR
 
-> XML-Like Syntax Extension to EcmaScript
+> Usage of React for Augmented and Virtual Reality
+
+- [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
+- [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ---
+
+### ReasonReact
+
+> Reason bindings for ReactJS
+
+- [ReasonReact Official Website](https://reasonml.github.io/reason-react/)
 
 ### Flux
 
@@ -881,26 +893,6 @@ A collection of awesome things regarding React ecosystem.
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
-
----
-
-### Testing
-
-> React Testing
-
-#### Testing Utilities
-
-- [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
-- [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
-- [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections](https://github.com/astorije/chai-immutable)
-- [react-testing-library - React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
-- [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices](https://github.com/mpeyper/react-hooks-testing-library)
-
-##### Testing Tutorials
-
-- [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
-- [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
-- [The missing piece to the React testing puzzle](https://medium.com/@bruderstein/the-missing-piece-to-the-react-testing-puzzle-c51cd30df7a0)
 
 ---
 
@@ -1163,12 +1155,6 @@ A collection of awesome things regarding React ecosystem.
 
 ### Real apps
 
-Remember this is an **awesome** list. To be included here, apps should be:
-
-- Tracking the latest releases of React.
-- Actively maintained.
-- Have significant user base.
-
 - [Firefox debugger](https://github.com/devtools-html/debugger.html)
 - [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 - [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
@@ -1178,6 +1164,6 @@ Remember this is an **awesome** list. To be included here, apps should be:
 
 ### Contribution
 
-This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to convert JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for your experiments. Only free resources here. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to trasnform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

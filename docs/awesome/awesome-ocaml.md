@@ -10,7 +10,7 @@ A curated list of references to awesome OCaml tools, frameworks, libraries and a
 
 If you're looking for comprehensive community-driven content about OCaml visit 📚[OCamlverse](https://ocamlverse.github.io/)!
 
-For a quick intorduction to the modern OCaml development workflow consult the [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) guide.
+For a quick introduction to the modern OCaml development workflow consult the [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) guide.
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
@@ -89,7 +89,6 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
 - [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
 - [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
-- [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 - [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.

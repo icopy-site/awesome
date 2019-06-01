@@ -20,9 +20,9 @@ them.
 - [BLAS](https://www.netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-  (Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
+  (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
-  (C++, BSD, GitHub)
+  (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
@@ -31,7 +31,7 @@ them.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
 
 
-## Frameworks
+## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
@@ -56,12 +56,12 @@ them.
 - [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
   (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
 - [MOOSE](https://www.mooseframework.org) - Multiphysics Object Oriented Simulation Environment.
-  (C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
+  (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
-- [FreeFEM](https://freefem.org) - High level multiphysics--multimesh finite element language. (C++, LGPL, [GitHub](https://github.com/FreeFem))
+- [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language. (C++, LGPL, [GitHub](https://github.com/FreeFem))
 
 ## Meshing
 

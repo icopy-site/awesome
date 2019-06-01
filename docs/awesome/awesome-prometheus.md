@@ -75,6 +75,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus Blog Series (Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) - Part 2 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Prometheus Blog Series (Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) - Part 3 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Prometheus Blog Series (Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) - Part 4 in the series _Prometheus Blog Series_ by Pierre Vincent.
+- [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) - Horizontal Pod Autoscaling in Kubernetes with Prometheus by Louise.
 
 ## Dashboards
 
