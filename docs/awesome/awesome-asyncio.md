@@ -29,6 +29,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## Message Queues
 
@@ -117,7 +118,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Alternatives to asyncio
 
-Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all. 
+*Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
 
 * [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
