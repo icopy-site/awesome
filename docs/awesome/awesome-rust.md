@@ -28,6 +28,7 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 * [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
 * [Servo](https://github.com/servo/servo) — A prototype web browser engine
 * [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
+* [kytan](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN 
 
 ### Audio
 
@@ -47,6 +48,7 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 * [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Rust implementation of Cardano primitives, helpers, and related applications
 * [cardano-cli](https://github.com/input-output-hk/cardano-cli) — Cardano Command Line Interface (CLI)
 * [Nervos CKB](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
+* [infincia/bip39-rs](https://github.com/infincia/bip39-rs) — Rust implementation of BIP39.
 * [ChainX](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 * [wagu](https://crates.io/crates/wagu) — Generate a wallet for any cryptocurrency [<img src="https://api.travis-ci.com/ArgusObserver/wagu.svg?branch=master">](https://api.travis-ci.com/ArgusObserver/wagu.svg?branch=master)
 
@@ -54,7 +56,8 @@ See also [Rust — Production](https://www.rust-lang.org/production)(organizatio
 
 * [indradb](https://crates.io/crates/indradb) — Rust based graph database [<img src="https://api.travis-ci.org/indradb/indradb.svg?branch=master">](https://travis-ci.org/indradb/indradb)
 * [noria](https://crates.io/crates/noria) — Dynamically changing, partially-stateful data-flow for web application backends [<img src="https://api.travis-ci.org/mit-pdos/noria.svg?branch=master">](https://travis-ci.org/mit-pdos/noria)
-* [ParityDB](https://github.com/paritytech/paritydb) — Fast and reliable database, optimised for read operation
+* [ParityDB](https://github.com/paritytech/paritydb) — Fast and reliable database, optimised for read operation 
+[<img src="https://travis-ci.org/paritytech/paritydb.svg?branch=master">](https://travis-ci.org/paritytech/paritydb)
 
 ### Emulators
 
@@ -66,6 +69,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [Gekkio/mooneye-gb](https://raw.githubusercontent.com/Gekkio/mooneye-gb) — [<img src="https://api.travis-ci.org/Gekkio/mooneye-gb.svg?branch=master">](https://travis-ci.org/Gekkio/mooneye-gb)
   * [mvdnes/rboy](https://raw.githubusercontent.com/mvdnes/rboy) — [<img src="https://api.travis-ci.org/mvdnes/rboy.svg?branch=master">](https://travis-ci.org/mvdnes/rboy)
   * [NivenT/RGB](https://raw.githubusercontent.com/nivent/RGB) — [<img src="https://api.travis-ci.org/NivenT/RGB.svg?branch=master">](https://travis-ci.org/NivenT/RGB)
+  * [mohanson/gameboy](https://github.com/mohanson/gameboy) — Full featured Cross-platform GameBoy emulator. Forever boys!.
 * NES
   * [iamsix/oxidenes](https://raw.githubusercontent.com/iamsix/oxidenes) — [<img src="https://api.travis-ci.org/iamsix/oxidenes.svg?branch=master">](https://travis-ci.org/iamsix/oxidenes)
   * [koute/pinky](https://raw.githubusercontent.com/koute/pinky) — [<img src="https://api.travis-ci.org/koute/pinky.svg?branch=master">](https://travis-ci.org/koute/pinky)
@@ -76,6 +80,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [pacmancoder/rustzx](https://raw.githubusercontent.com/pacmancoder/rustzx) — [<img src="https://api.travis-ci.org/pacmancoder/rustzx.svg?branch=master">](https://travis-ci.org/pacmancoder/rustzx)
 * Virtual Boy
   * [emu-rs/rustual-boy](https://raw.githubusercontent.com/emu-rs/rustual-boy) — [<img src="https://api.travis-ci.org/emu-rs/rustual-boy.svg?branch=master">](https://travis-ci.org/emu-rs/rustual-boy)
+* Intel 8080 CPU
+  * [mohanson/i8080](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust 
 * Emulator Development tools
   * SNES
     * [ioncodes/snesutilities](https://github.com/ioncodes/snesutilities) — ROM analyser/extractor
@@ -88,6 +94,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [rhex](https://github.com/dpc/rhex) — hexagonal ascii roguelike
 * [citybound](https://github.com/citybound/citybound) — The city sim you deserve
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — A roguelike game in Rust
+* [schulke-214/rsnake](https://github.com/schulke-214/rsnake) - Snake written in Rust.
 * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 * [Veloren](https://gitlab.com/veloren/veloren) — An open-world, open-source multiplayer voxel RPG.
 
@@ -149,6 +156,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) — A command line tool to gather metadata about your Amazon S3 buckets.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) — A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV!
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+* [yaa110/cb](https://github.com/yaa110/cb) — Command line interface to manage clipboard [![Build Status](https://api.travis-ci.org/yaa110/cb.svg?branch=master)](https://travis-ci.org/yaa110/cb)
 
 ### Video
 
@@ -168,12 +176,13 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ### Web Servers
 
 * [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+* [wyhaya/see](https://github.com/wyhaya/see) — Static file server [![Build Status](https://img.shields.io/travis/wyhaya/see.svg)](https://travis-ci.org/wyhaya/see)
 
 ## Development tools
 
 * [clippy](https://crates.io/crates/clippy) — Rust lints [<img src="https://api.travis-ci.org/rust-lang/rust-clippy.svg?branch=master">](https://travis-ci.org/rust-lang/rust-clippy)
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) — generates images of dependency graphs for crates hosted on crates.io
-* [Module Linker](https://fiatjaf.alhur.es/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+* [Module Linker](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 * [ptags](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 * [Rust Language Server](https://github.com/rust-lang/rls) — A server that runs in the background, providing IDEs, editors, and other tools with information about Rust programs
 * [artifact](https://github.com/vitiral/artifact) — the design doc tool made for developers [![Build Status](https://api.travis-ci.org/vitiral/artifact.svg?branch=master)](https://travis-ci.org/vitiral/artifact)
@@ -210,7 +219,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [Devolutions/CMakeRust](https://github.com/Devolutions/CMakeRust) — useful for integrating a Rust library into a CMake project
   * [SiegeLord/RustCMake](https://raw.githubusercontent.com/SiegeLord/RustCMake) — an example project showing usage of CMake with Rust [<img src="https://api.travis-ci.org/SiegeLord/RustCMake.svg?branch=master">](https://travis-ci.org/SiegeLord/RustCMake)
 * Github actions
-  * [icepuma/rust-github-actions](https://github.com/icepuma/rust-github-actions) — rust github actions
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — rust github action
 * Webpack
   * [Ralvke/rust-loader](https://github.com/Ralvke/rust-loader) — Webpack Rust loader (wasm)
 
@@ -273,7 +282,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [jni-sys](https://crates.io/crates/jni-sys) — Rust definitions corresponding to jni.h [<img src="https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master">](https://travis-ci.org/sfackler/rust-jni-sys)
   * [rucaja](https://crates.io/crates/rucaja) — use Java from Rust [<img src="https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master">](https://travis-ci.org/kud1ing/rucaja)
   * [rawrasaur/rust-jdbc](https://raw.githubusercontent.com/rawrasaur/rust-jdbc) — uses JDBC from Rust [<img src="https://api.travis-ci.org/rawrasaur/rust-jdbc.svg?branch=master">](https://travis-ci.org/rawrasaur/rust-jdbc)
-  Lua
+* Lua
   * [jcmoyer/rust-lua53](https://raw.githubusercontent.com/jcmoyer/rust-lua53) — Lua 5.3 bindings for Rust [<img src="https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master">](https://travis-ci.org/jcmoyer/rust-lua53)
   * [kballard/rust-lua](https://raw.githubusercontent.com/lilyball/rust-lua) — Safe Rust bindings to Lua 5.1 [<img src="https://api.travis-ci.org/lilyball/rust-lua.svg">](https://travis-ci.org/lilyball/rust-lua)
   * [tickbh/td_rlua](https://raw.githubusercontent.com/tickbh/td_rlua) — Zero-cost high-level lua 5.3 wrapper for Rust [<img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master">](https://travis-ci.org/tickbh/td_rlua)
@@ -342,7 +351,6 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
     * [crates](https://raw.githubusercontent.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [<img src="https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg">](https://raw.githubusercontent.com/serayuzgur/crates) [<img src="https://api.travis-ci.org/serayuzgur/crates.svg?branch=master">](https://travis-ci.org/serayuzgur/crates)
     * [KalitaAlexey/vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) — A fork of RustyCode
-    * [saviorisdead/RustyCode](https://marketplace.visualstudio.com/items?itemName=saviorisdead.RustyCode) (unmaintained)
 
 ### Pattern recognition
 
@@ -351,13 +359,14 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 ### Profiling
 
 * [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool [![Version info](https://img.shields.io/crates/v/hyperfine.svg)](https://crates.io/crates/hyperfine) [![Build Status](https://api.travis-ci.org/sharkdp/hyperfine.svg?branch=master)](https://travis-ci.org/sharkdp/hyperfine)
+* [nokia/memory-profiler](https://github.com/nokia/memory-profiler) — A memory profiler for Linux [![Build Status](https://api.travis-ci.org/nokia/memory-profiler.svg?branch=master)](https://travis-ci.org/nokia/memory-profiler)
 * FlameGraphs
   * [mrhooray/torch](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
   * [TyOverby/flame](https://raw.githubusercontent.com/TyOverby/flame) — [<img src="https://api.travis-ci.org/TyOverby/flame.svg?branch=master">](https://travis-ci.org/TyOverby/flame)
 
 ### Services
 
-* [deps.rs](https://deps.rs) — Detect outdated or insecure dependencies
+* [deps.rs](https://github.com/srijs/deps.rs) — Detect outdated or insecure dependencies
 * [docs.rs](https://docs.rs) — Automatic documentation generation of crates
 
 ### Static analysis
@@ -420,6 +429,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Asynchronous
 
+* [rustasync/runtime](https://github.com/rustasync/runtime) - A runtime agnostic API designed to make async feel like its part of stdlib [![Crates.io](https://img.shields.io/crates/v/runtime.svg?style=flat-square)](https://crates.io/crates/runtime) [![Build status](https://img.shields.io/azure-devops/build/yoshuawuyts/rustasync/2/master.svg?style=flat-square)](https://dev.azure.com/yoshuawuyts/rustasync/_build?definitionId=2)
 
 ### Audio
 
@@ -546,6 +556,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [boxtown/statrs](https://github.com/boxtown/statrs) — Robust statistical computation library in Rust [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
 * Rustimization [[rustimization](https://crates.io/crates/rustimization)]
   * [noshu/rustimization](https://github.com/noshu/rustimization) — A rust optimization library which includes L-BFGS-B and Conjugate Gradient algorithm
+* [calebwin/emu](https://github.com/calebwin/emu) — A language for GPGPU numerical computing from a Rust macro
 
 ### Configuration
 
@@ -555,7 +566,6 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
-* [sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia) — An OpenPGP implementation in Rust
 * [ctz/rustls](https://github.com/ctz/rustls) — A Rust implementation of TLS
 * [klutzy/suruga](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://tools.ietf.org/html/rfc5246)
 * [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe) — Library providing several Attribute-Based Encryption (ABE) schemes
@@ -829,6 +839,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [Nuklear](https://github.com/vurtun/nuklear)
   * [nuklear-rust](https://raw.githubusercontent.com/snuk182/nuklear-rust) — Rust bindings for Nuklear [<img src="https://api.travis-ci.org/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
 * [Qt](https://doc.qt.io)
+  * [woboq/qmetaobject-rs](https://raw.githubusercontent.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time. [<img src="https://travis-ci.org/woboq/qmetaobject-rs.svg?branch=master">](https://travis-ci.org/woboq/qmetaobject-rs)
   * [cyndis/qmlrs](https://raw.githubusercontent.com/cyndis/qmlrs) — QtQuick bindings [<img src="https://api.travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
   * [kitech/qt.rs](https://raw.githubusercontent.com/kitech/qt.rs) — Qt5 bindings [<img src="https://api.travis-ci.org/kitech/qt.rs.svg?branch=master">](https://travis-ci.org/kitech/qt.rs)
   * [Rust Qt Binding Generator](https://phabricator.kde.org/source/rust-qt-binding-generator/) — Binding generator hosted by KDE.
@@ -991,6 +1002,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Virtualization
 
+* [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) CrOSVM - Enables Chrome OS to run Linux apps inside a fast, sercure virtualized environment
 * [ekse/unicorn-rs](https://github.com/ekse/unicorn-rs) — Rust bindings for the unicorn CPU emulator
 * [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
@@ -1037,6 +1049,7 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
   * [cargonauts](https://github.com/cargonauts-rs/cargonauts) — A web framework intended for building maintainable, well-factored web apps.
   * [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) — A macro to embed static assets into the rust binary
   * [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) [[select](https://crates.io/crates/select)] — A library to extract useful data from HTML documents, suitable for web scraping. [![Build Status](https://api.travis-ci.org/utkarshkukreti/select.rs.svg?branch=master)](https://travis-ci.org/utkarshkukreti/select.rs)
+  * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] - A library similar to Pythons BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
 * Reverse Proxy
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — A HTTP reverse proxy. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://api.travis-ci.org/sozu-proxy/sozu)
 * Static Site Generators

@@ -169,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
+- [Actual](https://actualbudget.com/) - Personal home budget software.
 
 ## Devices and Wearables
 
@@ -188,6 +189,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 - [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
+- [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 
 ## Research and Analysis
 

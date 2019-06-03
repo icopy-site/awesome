@@ -12,14 +12,13 @@ A collection of awesome things regarding React ecosystem.
 
 #### React General Resources
 
-- [React Official Website](http://facebook.github.io/react/)
+- [React Official Website](https://reactjs.org/)
 - [React Documentation](https://reactjs.org/docs)
 - [React GitHub](https://github.com/facebook/react)
-- [React Community GitHub](https://github.com/reactjs)
 
 #### React Community
 
-- [Reactiflux](http://www.reactiflux.com/)
+- [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
 
@@ -37,7 +36,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
-- [React cheatsheet](https://devhints.io/react)
+- [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 
 ##### React and TypeScript
@@ -49,7 +48,7 @@ A collection of awesome things regarding React ecosystem.
 
 - [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
-- [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
+- [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
@@ -66,85 +65,36 @@ A collection of awesome things regarding React ecosystem.
 ##### React Development Tools
 
 - [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command
-- [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate
+- [React Developer Tools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
-- [Reactotron(https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
-- [Webpack](https://webpack.js.org/) - A bundler for javascript and friends
+- [Webpack](https://webpack.js.org/) - A bundler for JavaScript and friends
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+- [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
+- [Storybook](https://github.com/storybookjs/storybook) - UI component dev & test
+- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
+- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+- [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
 ##### React Frameworks
 
 - [Next.js](https://nextjs.org/) - The React Framework
 - [Gatsby.js](https://www.gatsbyjs.org/) - Free and open source framework based on React
-- [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
-- [Reakit](https://reakit.io/) - Build accessible rich web apps with React
 
-##### Boilerplates
+##### React Styling
 
-- [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
-- [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
-- [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
-- [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
-- [ASP.NET Core Starter Kit (F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#](https://github.com/kriasoft/fsharp-starter-kit)
-- [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
-- [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
-- [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
-- [frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate](https://github.com/tj/frontend-boilerplate)
-- [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
-- [reactGo - Boilerplate for an universal/isomorphic React + Redux/alt Flux app](https://github.com/reactGo/reactGo)
-- [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
-- [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
-- [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
-- [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
-- [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
-- [react-express-stripe - A minimal boilerplate to accept payments in a React App](https://github.com/rwieruch/react-express-stripe)
-- [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more.](https://github.com/Atyantik/react-pwa)
-- [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
-- [Happyreaction - React/Spring/Java maven archetype for bootstrapping a new project quickly](https://github.com/ignl/happyreaction)
-- [Create React NPM Component - CLI tool for creating a component for distribution on NPM](https://github.com/deltaskelta/create-react-npm-component)
-- [Suicrux - Universal starter with ultimate hot-reloading. PWA/LL/SSR/React/Redux/i18n.](https://github.com/Metnew/suicrux)
-- [ReactQL - Universal React + GraphQL starter kit, with full server rendering, isomorphic data fetching and store management](https://reactql.org)
-- [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate)
-- [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase](https://github.com/zerostatic/react-firebase-authentication)
-- [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready](https://github.com/gilbarbara/react-redux-saga-boilerplate)
-- [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
-- [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
-  - [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
-- [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
-- [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
-- [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
-- [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
-- [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
-- [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
-
-##### React styling
-
-- [styled-components](https://github.com/styled-components/styled-components)
-- [Emotion](https://emotion.sh)
-- [Radium](https://github.com/FormidableLabs/radium)
-- [JSS](https://github.com/cssinjs/jss)
-- [Aphrodite](https://github.com/Khan/aphrodite)
-- [Styletron](https://github.com/styletron/styletron)
-- [TypeStyle](https://github.com/typestyle/typestyle)
-- [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
-- [CSS in JS Playground](https://css-in-js-playground.com)
+- [Styled Components](https://www.styled-components.com/) - Visual primitives for the component age
+- [Emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
+- [Radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
+- [JSS](https://github.com/cssinjs/jss) - Authoring tool for CSS
+- [Styletron](https://www.styletron.org/) - An universal toolkit for component-oriented styling
 
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
-- [reach-router](https://github.com/reach/router) - Next Generation Routing for React
-- [react-router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
-- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-
-##### React Projects
-
-- [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
-- [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
-- [react-tv - React renderer for low memory applications and Packager for TVs](https://github.com/raphamorim/react-tv)
-- [ink - React for interactive command-line apps](https://github.com/vadimdemedes/ink)
-- [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
+- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 
 ##### React Component Libraries
 
@@ -390,7 +340,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-loadable - A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 - [unstated - State so simple, it goes without saying](https://github.com/jamiebuilds/unstated)
 - [react-particles-js - Particles.js for React](https://github.com/Wufe/react-particles-js)
-- [react-semantic-render - Semantic helper components for rendering content with React.](https://github.com/csvenke/react-semantic-render)
 - [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
 - [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 - [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
@@ -402,6 +351,11 @@ A collection of awesome things regarding React ecosystem.
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+
+##### React for Command Line
+
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
 
 #### React Testing Libraries
 
@@ -501,8 +455,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-jade - Compile Jade to React JavaScript](https://github.com/ForbesLindesay/react-jade)
 - [jade-react - Compile Jade templates to React.DOM expressions](https://github.com/duncanbeevers/jade-react)
 - [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
-- [react-semantic-ui - React components for Semantic UI](https://github.com/jhudson8/react-semantic-ui)
-- [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
 - [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 - [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 - [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
@@ -550,7 +502,6 @@ A collection of awesome things regarding React ecosystem.
 - [List View Select - A Toggleable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
 - [Final Form 🏁](https://github.com/final-form/react-final-form)
 - [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
-- [ez-react-form - simple form syntax. Works with multiple Style Frameworks like: Bootstrap, Semantic UI, etc.](https://github.com/ngduc/ez-react-form)
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 
@@ -605,29 +556,6 @@ A collection of awesome things regarding React ecosystem.
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
-
-##### React Developer Experience
-
-- [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
-- [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
-- [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
-- [babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime](https://github.com/babel/babel-sublime-snippets)
-- [atom-react - Atom React.js support](https://atom.io/packages/react)
-- [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
-- [vim-react-snippets - Vim version of the snippets from sublime-react](https://github.com/justinj/vim-react-snippets)
-- [vim-babel - Wrapper around babel.js for vim](https://github.com/jbgutierrez/vim-babel)
-- [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
-- [eslint-plugin-react - React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
-- [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
-- [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
-- [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
-- [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
-- [Storybook - Development environment for UI components](https://github.com/storybooks/storybook)
-- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
-- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-- [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
-- [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
-- [Docz - An incredible environment to build components and generate beautiful and highly customizable documentation using MDX](https://github.com/pedronauck/docz)
 
 ##### Template Engines
 
