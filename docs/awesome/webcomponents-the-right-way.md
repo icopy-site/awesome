@@ -117,6 +117,7 @@
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
+- [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
@@ -138,6 +139,7 @@
 
 ## Component Libraries
 
+- [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 - [AMP HTML](https://github.com/ampproject/amphtml) - Web component library for building web pages that render with reliable and fast performance.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.

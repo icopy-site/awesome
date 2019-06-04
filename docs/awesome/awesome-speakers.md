@@ -45,7 +45,7 @@ https://twitter.com/unicodeveloper
 Topics: PHP, JavaScript, React, Vue.js, Progressive Web Apps, Testing, Open Source, Web Performance\
 https://twitter.com/developerayo
 
-## South Africa
+## South Africa 🇿🇦
 
 ### Johannesburg
 

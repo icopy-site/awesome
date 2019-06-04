@@ -103,7 +103,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, MIT, GitHub)
-
+- [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 
 ## Sparse linear solvers
 
@@ -140,6 +140,8 @@ them.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
+- [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
+  (Python, 2-clause BSD, [GitHub](https://github.com/pymor/pymor/))
 
 
 ## Community

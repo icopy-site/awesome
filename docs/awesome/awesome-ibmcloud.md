@@ -4,22 +4,51 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
+[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 
 A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
 
 
 
-## IBM Cloud Functions
+## Carbon Design System
 
-* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
-* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
+*Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-## IBM Cloud Foundry
+* [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
+* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) - Carbon Design System add-on for IBM Cloud.
+* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom) - This library is an extension of the Carbon IBM Design System. It contains unique components shared between the IBM.com user journeys to unify its look and feel.
+* [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
+* [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
+* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
+* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
+* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - A collection of themes for use with Carbon Components.
+* [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
+
+## Command Line Tools
+
+*Command Line Tools for MacOS, Windows and Linux.*
+
+* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
+* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
+* [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
+* [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
+
+## Infrastructure
+
+*Deploy and manage your applications with Softlayer.*
+
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
+
+## Platform
+
+*Deploy and manage your applications with Cloud Foundry.*
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - Launch your website with Golang and Cloud Foundry.
-* [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - Launch your website with Node.js and Cloud Foundry.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
@@ -38,12 +67,19 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) - Docker image packaged with the Swift binaries.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
 * [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
+* [webiste-base](https://github.com/victorshinya/website-base) - Deploy your website using a Node.js server.
 
-## IBM Softlayer
+## Serverless
 
-* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
+*Deploy and manage your actions/functions with IBM Cloud Functions, an Apache OpenWhisk base on IBM Cloud.*
 
-## IBM Watson
+* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
+* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
+
+## Watson
+
+*SDKs and code patterns with Watson services.*
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API.
 * [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) - A middleware to connect Watson Assistant Service to different chat channels using Botkit.
@@ -79,44 +115,20 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.
 
-## Carbon Design System
-
-* [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
-* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) - Carbon Design System add-on for IBM Cloud.
-* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom) - This library is an extension of the Carbon IBM Design System. It contains unique components shared between the IBM.com user journeys to unify its look and feel.
-* [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
-* [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
-* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
-* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
-* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
-* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - A collection of themes for use with Carbon Components.
-* [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
-
-## Getting Started Guides
-
-* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - What is the IBM Cloud platform?
-
-## Command Line Tools
-
-* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
-* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A **unoffical** Collection of different Docker Containers to interface with IBM Cloud.
-* [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
-* [Windows 64-bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
-* [Windows 32-bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) - Command Line Interface for Windows 32-bit and earlier versions.
-
 ## Resources
 
+*List of resources to learn more about IBM Cloud and services.*
+
 * [Documentation](https://cloud.ibm.com/docs) - Learn more about a specific service reading the service's documentation.
+* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - What is the IBM Cloud platform?
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
 
 ## YouTube Channels
+
+*Watch and learn more about IBM Cloud and services.*
 
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
