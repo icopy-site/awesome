@@ -359,6 +359,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
+* [Postmortems](https://github.com/danluu/post-mortems)
 
 ## Awesome Lists
 
