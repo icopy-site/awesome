@@ -393,6 +393,18 @@ defaults write com.apple.dock mru-spaces -bool false && \
 killall Dock
 ```
 
+#### Autohide
+
+``` bash
+## Enable
+defaults write com.apple.dock autohide -bool true && \
+killall Dock
+
+## Disable (Default)
+defaults write com.apple.dock autohide -bool false && \
+killall Dock
+```
+
 #### Icon Bounce
 Global setting whether Dock icons should bounce when the respective application demands your attention.
 ```bash
@@ -441,13 +453,6 @@ defaults write com.apple.dock scroll-to-open -bool false && \
 killall Dock
 ```
 
-#### Enable Dock Autohide
-
-``` bash
-defaults write com.apple.dock autohide -bool true && \
-killall Dock
-```
-
 #### Set Auto Show/Hide Delay
 The float number defines the show/hide delay in ms.
 ```bash
@@ -477,6 +482,20 @@ killall Dock
 defaults write com.apple.dock static-only -bool false && \
 killall Dock
 ```
+
+#### Single App Mode
+When clicking an application icon in the Dock, the respective windows will come
+to the front, but all other application windows will be hidden.
+```bash
+## Enable
+defaults write com.apple.dock single-app -bool true && \
+killall Dock
+
+## Disable (Default)
+defaults write com.apple.dock single-app -bool false && \
+killall Dock
+```
+
 
 ## Documents
 
