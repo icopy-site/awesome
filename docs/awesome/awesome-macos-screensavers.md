@@ -81,6 +81,12 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
+### Predator
+
+> A predator-inspired clock screensaver.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://predatorsaver.space/)
+
 ## Apple Inspired
 
 ### Aerial
@@ -220,6 +226,14 @@ Donationware
 Lite Version (Free) and Full Version ($3)
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
+### Life Saver
+
+> Designer-friendly abstract visualization of Conway's Game of Life.
+
+Free (Open Source)
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
 
 ## Other
 
