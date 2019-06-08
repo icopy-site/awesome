@@ -467,7 +467,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
  * [Redash](https://redash.io/)
  * [C3](https://c3js.org/) - D3-based reusable chart library
-
+ * [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for data science and machine learning
 
 ## Journals, Publications and Magazines
 
@@ -533,3 +533,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
  - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+ - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
