@@ -602,6 +602,7 @@
 - [Product Design](awesome/awesome-product-design.md) - Design a product from the initial concept to production.
 - [Prisma](awesome/awesome-prisma.md) - Turn your database into a GraphQL API.
 - [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
+- [Connectivity Data and Reports](awesome/awesome-connectivity-info.md) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 
 ## Related

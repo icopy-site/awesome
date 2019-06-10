@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
-## <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
+
+## This project is required a new maintainer [MAINTAINER WANTED ❤️](https://github.com/isRuslan/awesome-elm/issues/172)
+
 
 
 > A community driven list of useful Elm tutorials, libraries and software.
@@ -17,7 +19,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Some good apps written in Elm.*
 
-* [Official list](http://elm-lang.org/examples) - Examples from _basic_ to _big-project_ in official website.
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
@@ -43,7 +44,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
-* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" (story) game; perfect for beginners. **Elm v.0.19**
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
++ [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
 
 
 
@@ -168,7 +170,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
-* [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
+* [elm-mdc](https://github.com/aforemny/elm-mdc) - Elm port of the Material Components for the Web CSS/JS library.
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
@@ -252,9 +254,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Everything that you need to see.*
 
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-* [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
-* [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
