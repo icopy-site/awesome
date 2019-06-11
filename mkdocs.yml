@@ -122,7 +122,7 @@ nav:
     - PHP: awesome/awesome-php.md
     - PHP_sub: 
       - Composer: awesome/awesome-composer.md
-    - Delphi: awesome/awesome-delphi.md
+    - Pascal: awesome/awesome-pascal.md
     - Assembler: awesome/awesome-asm.md
     - AutoHotkey: awesome/awesome-AutoHotkey.md
     - AutoIt: awesome/awesome-AutoIt.md
@@ -387,6 +387,7 @@ nav:
     - Web Security: awesome/awesome-web-security.md
     - Lockpicking: awesome/awesome-lockpicking.md
     - Cybersecurity Blue Team: awesome/awesome-cybersecurity-blueteam.md
+    - Fuzzing: awesome/awesome-fuzzing.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md

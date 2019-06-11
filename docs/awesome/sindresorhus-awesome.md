@@ -133,7 +133,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
+- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
@@ -432,6 +432,7 @@
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 
 

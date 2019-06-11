@@ -133,7 +133,7 @@
 - [Fortran](awesome/awesome-fortran.md)
 - [PHP](awesome/awesome-php.md) - Server-side scripting language.
 	- [Composer](awesome/awesome-composer.md) - Package manager.
-- [Delphi](awesome/awesome-delphi.md)
+- [Pascal](awesome/awesome-pascal.md)
 - [Assembler](awesome/awesome-asm.md)
 - [AutoHotkey](awesome/awesome-AutoHotkey.md)
 - [AutoIt](awesome/awesome-AutoIt.md)
@@ -432,6 +432,7 @@
 - [Web Security](awesome/awesome-web-security.md) - Security of web apps & services.
 - [Lockpicking](awesome/awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](awesome/awesome-cybersecurity-blueteam.md) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](awesome/awesome-fuzzing.md) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 
 
