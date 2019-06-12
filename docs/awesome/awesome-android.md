@@ -23,7 +23,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 
 ## Emulators
-- [AMIDuOS](https://www.amiduos.com)
 - [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](https://www.bluestacks.com)
@@ -84,7 +83,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
-- [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
+- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
@@ -132,7 +131,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 - [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - An efficient TabLayout library implemented with RecyclerView.
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
-- [Debug-Artist](https://github.com/baristaventures/debug-artist) - Debug menu to enable leakcanary, scalpel and others easy.
+- [Debug-Artist](https://github.com/BaristaVentures/android-debug-artist) - Debug menu to enable leakcanary, scalpel and others easy.
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
@@ -156,7 +155,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
-- [Emojicon](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
+- [EmojiCompat](https://github.com/googlesamples/android-EmojiCompat) - Adds emoticons to your app
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 - [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button
@@ -208,7 +207,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Ion](https://github.com/koush/ion) - Good networking library for android.
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
-- [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 - [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
 - [Android Volley](https://developer.android.com/training/volley/) - Official Android HTTP library that makes networking for easier and faster.
@@ -275,7 +273,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
 - [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
-- [GLMap](https://getyourmap.com) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
+- [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
@@ -295,7 +293,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
-- [Reactor](https://github.com/naqqdi/reactor) - Reactor is a fast and secure key-value library for Android.
+- [Reactor](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
  
 ### Debugging Tools
 
@@ -407,7 +405,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
-- [Android Intelligence](https://plus.google.com/collection/ATg6b) features in-depth interviews with interesting people from the Android world.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
 - [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 
