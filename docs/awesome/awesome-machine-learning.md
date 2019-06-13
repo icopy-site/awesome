@@ -480,13 +480,18 @@ Further resources:
 * [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
+* [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 
 <a name="julia-nlp"></a>
 #### Natural Language Processing
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia. **[Deprecated]**
 * [Text Analysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
-
+* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+* [Corpus Loaders](https://github.com/JuliaText/CorpusLoaders.jl) - A julia package providing a variety of loaders for various NLP corpora.
+* [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+* [Languages](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+* [WordNet](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 <a name="julia-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -513,6 +518,7 @@ Further resources:
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
 * [Images](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
+* [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 <a name="lua"></a>
 ## Lua
@@ -958,6 +964,7 @@ be
 * [PyCM](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 * [Dash](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 * [Lambdo](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
+* [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for machine learning and data science. It extensively leverages Jupyter Notebook to show real-time visualizations of data in running processes such as machine learning training.
 
 <a name="python-misc"></a>
 #### Misc Scripts / iPython Notebooks / Codebases
@@ -1002,6 +1009,7 @@ be
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 * [Pydata book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 * [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
