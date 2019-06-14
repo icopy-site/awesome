@@ -151,6 +151,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Everything that simplifies interactions with the database.*
 
+- [Apache Drill](https://drill.apache.org) - Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
 - [Apache Phoenix](https://phoenix.apache.org) - High-performance relational database layer over HBase for low-latency applications.
 - [AranoDB](https://github.com/arangodb/arangodb-java-driver) -  ArangoDB Java driver.
 - [Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) - Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
@@ -599,6 +600,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *APIs that handle the persistence of objects.*
 
 - [Apache Cayenne](https://cayenne.apache.org) - Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
+- [Doma 2](https://doma.readthedocs.io) - Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 - [Ebean](https://ebean-orm.github.io) - Provides simple and fast data access.
 - [EclipseLink](https://www.eclipse.org/eclipselink) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 - [Hibernate](http://hibernate.org/orm) - Robust and widely used, with an active community.
@@ -851,6 +853,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [JBehave](http://jbehave.org) - Extensively configurable framework that describes stories.
 - [JGiven](http://jgiven.org) - Provides a fluent API which allows for simpler composition.
 - [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave) - Aims to provide a fluent API to write tests in long and descriptive sentences that read like plain English.
+- [Serenity BDD](https://www.thucydides.info) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
 
 #### Fixtures
 
@@ -972,6 +975,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Awesome lists related to the Java & JVM ecosystem.*
 
+- [Awesome Annotation Processing](https://github.com/gunnarmorling/awesome-annotation-processing)
 - [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
 - [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Awesome JVM](https://github.com/deephacks/awesome-jvm)
