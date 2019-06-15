@@ -225,6 +225,14 @@ Chrome extension to see story points in GitHub projects.
 </details>
 
 
+Replace browser new tab screen with GitHub trending projects.
+
+<details><summary>Screenshots</summary>
+
+ ![Hacker Tab](https://raw.githubusercontent.com/huchenme/hacker-tab-extension/master/images/screenshot.jpg)
+</details>
+
+
 ## Navigation
 
 
