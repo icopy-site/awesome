@@ -292,6 +292,7 @@
 - [Papers We Love](awesome/papers-we-love.md)
 - [Talks](awesome/awesome-talks.md)
 - [Algorithms](awesome/awesome-algorithms.md)
+	- [Education](awesome/awesome-algorithms-education.md) - Learning and practicing.
 - [Algorithm Visualizations](awesome/algovis.md)
 - [Artificial Intelligence](awesome/awesome-artificial-intelligence.md)
 - [Search Engine Optimization](awesome/search-engine-optimization.md)
@@ -335,6 +336,7 @@
 - [Construct 2](awesome/awesome-construct.md) - Game engine.
 - [Gideros](awesome/awesome-gideros.md) - Game engine.
 - [Minecraft](awesome/awesome-minecraft.md) - Sandbox video game.
+- [Game Datasets](awesome/game-datasets.md) - Materials and datasets for Artificial Intelligence in games.
 
 
 ## Development Environment

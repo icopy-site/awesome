@@ -275,6 +275,8 @@ nav:
     - Papers We Love: awesome/papers-we-love.md
     - Talks: awesome/awesome-talks.md
     - Algorithms: awesome/awesome-algorithms.md
+    - Algorithms_sub: 
+      - Education: awesome/awesome-algorithms-education.md
     - Algorithm Visualizations: awesome/algovis.md
     - Artificial Intelligence: awesome/awesome-artificial-intelligence.md
     - Search Engine Optimization: awesome/search-engine-optimization.md
@@ -308,6 +310,7 @@ nav:
     - Construct 2: awesome/awesome-construct.md
     - Gideros: awesome/awesome-gideros.md
     - Minecraft: awesome/awesome-minecraft.md
+    - Game Datasets: awesome/game-datasets.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md

@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 - [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
 - [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
+- [Working with Multile Webviews in Android Hybrid Apps](https://appiumpro.com/editions/73)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
@@ -115,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
+ - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - All about Appium's desired capabilities.
  - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
