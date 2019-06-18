@@ -46,6 +46,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) - Devoxx - May 17, 2017 at Devoxx UK - Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) - Devoxx Belgium - November 7, 2017 - Fabian Stäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) - Docker - October 14, 2016 - Julius Volz.
+- [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) - Monitorama PDX, 2019 - Dave Cadwallader.
 
 ## Podcasts and interviews
 

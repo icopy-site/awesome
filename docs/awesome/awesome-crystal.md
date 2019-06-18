@@ -329,6 +329,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - Verify and generate Rails `ActiveSupport::MessageVerifier` signed tokens
  * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
+ * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
@@ -452,6 +453,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
+ * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - Get AWS credentials in various ways
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
@@ -474,6 +476,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+ * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
