@@ -7,6 +7,7 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 *Read this in other languages: [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
 
+
 ## GitHub
 ### Ignore Whitespace
 Adding `?w=1` to any diff URL will remove any changes only in whitespace, enabling you to see only the code that has changed.
@@ -590,6 +591,18 @@ https://github.com/{user}.keys
 e.g. [https://github.com/tiimgreen.keys](https://github.com/tiimgreen.keys)
 
 [*Read more about accessing public ssh keys.*](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
+
+### Repository Templates
+
+You can enable templating on your repository which allows anyone to copy the directory structure and files, allowing them to instantly use the files (e.g. for a tutorial or if writing boilerplate code). This can be enabled in the settings of your repository.
+
+![Convert](https://i.postimg.cc/hGCrVm9F/Template.gif)
+
+Changing to a template repository will give a new URL endpoint which can be shared and instantly allows users to use your repository as a template. Alternatively, they can go to your repository and click the 'Use as template' button.
+
+![Template](https://i.postimg.cc/L8PKCHx0/New-Template.gif)
+
+[*Read more about using repositories as templates*](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
 ## Git
 ### Remove All Deleted Files from the Working Tree

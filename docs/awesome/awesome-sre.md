@@ -147,6 +147,7 @@ Contributions are always welcome!
 * [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 * [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
 * [How to Find and Hire Site Reliability Engineers (SREs)](https://www.stackoverflowbusiness.com/blog/how-to-find-and-hire-site-reliability-engineers-sres)
+* [Engineering Manager - Site Reliability Engineering Interview Preparation](https://danrl.com/blog/srm)
 
 ## Reliability
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
@@ -360,6 +361,7 @@ Contributions are always welcome!
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - Discussion about Incident Response.
+* [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - Highly Technical Blog Posts About Systems Internals, Performance and SRE.

@@ -33,6 +33,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 
+## Books
+
+-  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
+- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - Deborah Lupton
+- [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - Gina Neff & Dawn Nafus
+
 ## Talks
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
@@ -102,6 +108,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
+- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS). 
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
@@ -120,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 - [PhotoStats](http://www.photostats.io/) - Photo tracking with visualizations, analytics and auto-tagging using machine learning (iOS, Android).
 - [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
+- [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
 ### Mind & Cognition
 - [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
@@ -214,6 +222,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 - [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
+- [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## License
 

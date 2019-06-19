@@ -75,6 +75,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
 * [monadex](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+* [nary_tree](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
 * [natural_sort](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 * [navigation_tree](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
@@ -282,7 +283,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Cloud Infrastructure and Management
 *Applications, tools and libraries for your own cloud service.*
 
-* [aws](https://github.com/jkakar/aws-elixir) - AWS clients for Elixir.
+* [aws](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 * [Bonny](https://github.com/coryodaniel/bonny) - Kubernetes Operator Development Framework.
 * [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
 * [discovery](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
@@ -428,7 +429,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [gatling](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 * [Gigalixir](https://www.gigalixir.com) - A fully-featured PaaS designed for Elixir. Supports clustering, hot upgrades, and remote console/observer. Free to try without a credit card.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
-* [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Documentation
 *Libraries and tools for creating documentation.*
@@ -607,6 +607,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter).
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+* [phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 * [phoenix_pubsub_postgres](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 * [phoenix_pubsub_rabbitmq](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 * [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
@@ -672,6 +673,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [entice](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 * [mines](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
+* [vim_snake](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -735,6 +737,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [httpotion](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 * [ivar](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 * [lhttpc](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
+* [mint](https://github.com/ericmj/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
@@ -981,6 +984,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Office
 *Libraries for working with office suite documents.*
 
+* [elixlsx](https://github.com/xou/elixlsx) - A writer for XLSX files.
 * [excellent](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
 * [xlsxir](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
@@ -1188,6 +1192,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Security
 *Libraries and tools regarding security.*
 
+* [clamxir](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 * [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
@@ -1196,7 +1201,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## SMS
 *SMS related libraries and tools.*
 
-* [exsms](https://hex.pm/packages/exsms) - A Elixir library for sending transactional SMS - supoprts Sendinblue, mailjet ,msg91 and textlocal.
+* [exsms](https://hex.pm/packages/exsms) - An Elixir library for sending transactional SMS - supports Sendinblue, mailjet, msg91 and textlocal.
 
 ## Static Page Generation
 
@@ -1253,6 +1258,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [excheck](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [exkorpion](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory_girl in Elixir.
+* [fake_server](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
 * [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 * [faker_elixir](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 * [fqc](https://github.com/project-fifo/fqc) - FiFo Quickcheck helper, a set of helpers for running EQC.
@@ -1511,6 +1517,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 * [erlsh](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 * [erlware_commons](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+* [ex_progress](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
 * [exjprop](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 * [fitex](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 * [global](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
@@ -1522,12 +1529,14 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [retry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 * [sips_downloader](https://github.com/DavsX/SipsDownloader) - Elixir module for downloading the ElixirSips episodes and all other files.
 * [sitemap](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+* [vert.x](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
 
 ## Validations
 *Libraries and implementations for validation of data.*
 
 * [bankster](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 * [ex_gtin](https://github.com/kickinespresso/ex_gtin) - A validation library for GTIN codes under GS1 specification.
+* [ex_nric](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 * [exop](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [is](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 * [jeaux](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
