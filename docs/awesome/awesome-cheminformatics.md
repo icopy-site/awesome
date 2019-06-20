@@ -22,6 +22,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - Chemical toolbox designed to speak the many languages of chemical data.
 * [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
+* [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) - Initial configurations for molecular dynamics simulations by packing optimization.
 
 <a id="app-docking"></a>
 ### Docking
@@ -63,6 +64,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Machine Learning
 
 * [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry.
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 <a id="lib-web"></a>
 ### Web APIs

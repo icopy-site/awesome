@@ -1,16 +1,16 @@
 <div class="github-widget" data-repo="onurakpolat/awesome-analytics"></div>
 ## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). 
 
-Your feedback and contributions are always welcome!
+Your feedback and contributions are always welcome! Maintained by [@onurakpolat](https://github.com/onurakpolat) & [@koconder](https://github.com/koconder)
 
+    
 
 ## General analytics
 
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 * [Matomo](https://matomo.org/) - real-time open source app analytics tool.
-* [Calq](https://calq.io/) - simple, beautiful, and real-time cross-platform app analytics tool.
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
@@ -35,6 +35,7 @@ Your feedback and contributions are always welcome!
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
 
 ## Privacy focused analytics
 
@@ -101,23 +102,28 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
-* [Klout](https://klout.com/) - Social media analytics and planning platform.
+* [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Falconsocial](http://www.falconsocial.com/) - communications platform built on social media with analytics.
 * [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
 * [Kred](http://kred.com/) - Klout-like social media analytics platform.
 * [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform.
 * [Topsy](http://topsy.com/) - Social analytics tool with search.
 * [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking.
-* [Klout](https://klout.com/) - Social media analytics platform.
 * [Hootsuite](https://hootsuite.com/) - Social media management dashbaord.
-* [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics.
 * [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform.
+
+## Developer analytics
+
+* [GitSpo](https://gitspo.com/) - Analytics for Open-Source.
+* [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams
+* [Screenful](https://screenful.com/) - Visualise and share your project progress
 
 ## Analytics dashboards
 
 * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
+* [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
 
 ## Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).

@@ -19,14 +19,17 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
 
 - **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 
 - **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
 ### Proposals
 
@@ -43,6 +46,7 @@
 
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 #### Constructable Stylesheet Objects
 
@@ -55,6 +59,7 @@
 
 - [std-switch](https://github.com/tkent-google/std-switch) - Proposal for `<std-switch>` HTML element implementing a 'switch' control.
 - [std-toast](https://github.com/jackbsteinberg/std-toast) - Proposal for `<std-toast>` HTML element implementing a 'toast' pop-up notification.
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
 
 ### Polyfills
 

@@ -606,6 +606,7 @@
 - [Prisma](awesome/awesome-prisma.md) - Turn your database into a GraphQL API.
 - [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
 - [Connectivity Data and Reports](awesome/awesome-connectivity-info.md) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+- [Stacks](awesome/awesome-stacks.md) - Tech stacks for building different apps and features.
 
 
 ## Related

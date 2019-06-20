@@ -67,6 +67,7 @@ Your contributions are always welcome!
 * [Onyx](http://www.onyxplatform.org/) - Distributed computation for the cloud.
 * [Pinterest Pinlater](https://medium.com/@Pinterest_Engineering/pinlater-an-asynchronous-job-execution-system-b8664cb8aa7d) - asynchronous job execution system.
 * [Pydoop](http://crs4.github.io/pydoop/) - Python MapReduce and HDFS API for Hadoop.
+* [Ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. 
 * [Rackerlabs Blueflood](http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
@@ -253,6 +254,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Heroic](https://spotify.github.io/heroic/#!/index) - is a scalable time series database based on Cassandra and Elasticsearch.
 * [InfluxDB](https://www.influxdata.com/) - distributed time series database.
+* [IronDB](https://www.circonus.com/irondb/) - scalable, general-purpose time series database.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
 * [M3DB](http://m3db.github.io/m3/m3db/) - a distributed time series database that can be used for storing realtime metrics at long retention.
 * [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra.
@@ -269,6 +271,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 * [SiriDB](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 * [Thanos](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, scalable and resource-effective open-source TSDB compatible with Prometheus. Single-node and cluster versions included
 
 ## SQL-like processing
 
@@ -368,6 +371,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [ENCOG](http://www.heatonresearch.com/encog/) - machine learning framework that supports a variety of advanced algorithms, as well as support classes to normalize and process data.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
 * [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
@@ -448,6 +452,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
+* [Jupyter](https://jupyter.org/) - Notebook and project application for interactive data science and scientific computing across all programming languages.
 * [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
 * [Kapacitor](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
 * [Kylin](http://kylin.apache.org/) - open source Distributed Analytics Engine from eBay.
@@ -526,6 +531,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Business Intelligence
 
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
+* [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [datapine](https://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [GoodData](https://www.gooddata.com/) - platform for data products and embedded analytics.
@@ -566,6 +572,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [D3](https://d3js.org/) - javaScript library for manipulating documents.
 * [D3.compose](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 * [D3Plus](http://d3plus.org) - A fairly robust set of reusable charts and styles for d3.js.
+* [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [FnordMetric](https://metrictools.org/) - write SQL queries that return SVG charts rather than tables
@@ -664,7 +671,7 @@ for Data Analytics at Twitter.
 * [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (Kafka or Kinesis) in your business
 * [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) - Kafka Streams in Action teaches you everything you need to know to implement stream processing on data flowing into your Kafka platform, allowing you to focus on getting more from your data without sacrificing time or effort.
 * [Big Data](https://www.manning.com/books/big-data) - Big Data teaches you to build big data systems using an architecture that takes advantage of clustered hardware along with new tools designed specifically to capture and analyze web-scale data.
-* [Spark in Action](https://www.manning.com/books/spark-in-action) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
+* [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
@@ -692,3 +699,7 @@ for Data Analytics at Twitter.
 - Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
 - Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
 - Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).
+- Decision Tree Papers [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
+- Fraud Detection Papers [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
+- Gradient Boosting Papers [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
+- Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
