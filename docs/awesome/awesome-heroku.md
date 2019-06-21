@@ -23,6 +23,7 @@ How to architect your Heroku projects...
 
 - `article` [Exploring Microservices Architecure on Heroku](http://blog.codeship.com/exploring-microservices-architecture-on-heroku/) — explores why Heroku eliminates a lot of the tooling you need to worry about when working with microservices.
 - `article` [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) — discusses why Heroku is perfectly suited to building a service-oriented architecture for your projects.
+- `article` [Split Frontend from Backend on Heroku with npm and NodeJS](https://medium.com/@spygi/scalable-cost-effective-web-architectures-for-heroku-eb8f1f55a4b6) - hands-on guide to deploy a microservices web application in Heroku using npm and NodeJS.
 
 
 

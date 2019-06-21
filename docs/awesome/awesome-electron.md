@@ -212,6 +212,7 @@ Made with Electron.
 - [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
 - [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
+- [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 
 ### Samples
 
@@ -307,6 +308,7 @@ Made with Electron.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
+- [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ### Using Electron
 

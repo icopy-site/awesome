@@ -40,6 +40,8 @@ Contributions are very welcome!
 
 ## Video
 
+* [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
+
 ## Open Data
 
 * [Geonames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million placenames that are available for download free of charge.
@@ -75,6 +77,7 @@ Contributions are very welcome!
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - All under CC BY-SA license
+* [XKCD](https://xkcd.com/)
 
 ## Other awesome lists
 

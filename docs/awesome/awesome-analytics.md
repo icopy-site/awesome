@@ -14,6 +14,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - real time reporting, geo-location user tracking.
 * [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities.
+* [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on.
 * [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space.
 * [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website.
 * [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit.
@@ -55,8 +56,9 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 ## Analytics layers
 
 * [Keen.io](http://keen.io/) - custom-analytics API.
-* [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to toher platforns.
+* [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms.
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
+* [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms.
 
 ## Mobile analytics
 

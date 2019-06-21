@@ -47,6 +47,10 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) - Devoxx Belgium - November 7, 2017 - Fabian Stäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) - Docker - October 14, 2016 - Julius Volz.
 - [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) - Monitorama PDX, 2019 - Dave Cadwallader.
+- [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) - PromCon 2017: Best Practices and Beastly Pitfalls - Julius Volz.
+- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Counting with Prometheus - Brian Brazil, Robust Perception.
+- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - Understanding and Extending Prometheus AlertManager - Lee Calcote, SolarWinds
+- [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) - PromCon 2016: The Prometheus Time Series Database - Björn Rabenstein.
 
 ## Podcasts and interviews
 
