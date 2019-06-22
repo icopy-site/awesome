@@ -185,6 +185,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
 * [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL Implementation, SDL First, for python 3.6+ / asyncio.
 * [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
+* [Ariadne](https://github.com/mirumee/ariadne) - library for implementing GraphQL servers using schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular webframeworks, [fully documented](https://ariadnegraphql.org).
 
 <a name="lib-java" />
 
@@ -332,6 +333,14 @@ If you want to contribute to this list (please do), send me a pull request.
 for the Angel framework.
 * [graphql-flutter](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
 
+<a name="lib-rust" />
+
+### Rust Libraries
+
+* [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
+* [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
+* [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+
 <a name="tools" />
 
 ## Tools
@@ -377,6 +386,7 @@ for the Angel framework.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 * [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
+* [SwitchQL](https://github.com/SwitchQL/SwitchQL) - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations
 
 <a name="databases" />
 
@@ -384,11 +394,14 @@ for the Angel framework.
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 * [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
+* [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless per-per-use pricing.
 
 <a name="services" />
 
 ## Services
 
+* [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
+* [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 
 <a name="example" />

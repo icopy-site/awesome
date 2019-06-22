@@ -73,11 +73,12 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) - Android app that captures and encrypts texts you type, then passes it to the actual app.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) - Addon that enables you to choose & block top 5 cloud companies based on their IPv4/6 ranges.
 - [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
+- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page. 
 
 ## Tracking
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient wide-spectrum blocker for Chromium and Firefox. Fast and lean.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker add-on for various browsers. Fast, potent, and lean.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) - App for Exodus Privacy that lets you know what trackers are embedded in apps.
 - [Exodify](https://exodify.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
