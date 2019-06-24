@@ -881,6 +881,14 @@ GitHub Theme for Visual Studio Code.
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/thomaspink.theme-github.png" width="600" />
 </a>
 
+### [Jellybeans Theme by Dimitar Nonov](https://vscodethemes.com/e/DimitarNonov.jellybeans-theme)
+
+Jellybeans Theme for Visual Studio Code.
+
+<a href="https://vscodethemes.com/e/DimitarNonov.jellybeans-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/jellybeans-theme.png" width="600" />
+</a>
+
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
 
 An elegant and juicy material-like theme for Visual Studio Code.
