@@ -341,6 +341,12 @@ for the Angel framework.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
+< name="lib-d" />
+
+### D (dlang) Libraries
+
+* [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
+
 <a name="tools" />
 
 ## Tools

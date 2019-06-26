@@ -11,7 +11,6 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <h4 align="center"><a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">Check out some apps that missed the cut.<br>If you think they should be added show them some love, shoot them a :thumbsup: or give em' a :star:!</a></h4>
-<h1 align="center"><a href="https://github.com/agarrharr/awesome-cli-apps/issues/247">Looking for new maintainers</a></h1>
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
