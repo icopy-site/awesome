@@ -54,6 +54,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw) - Black Hat talk By Charlie Miller and Chris Valasek. Automotive security concerns have gone from the fringe to the mainstream with security researchers showing the susceptibility of the modern vehicle to local and remote attacks. Discussion of vehicle attack surfaces. 2014.
 - [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) -A presentation that discuesses different attack surfaces of a vehicle, then continues to describe an approach to car hacking along with tools needed to analyse and gather useful information.
 - [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - Introduction to CAN hacking, and using a real car as an Xbox controller.
+- [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) - A guide on how to attack, hunt bugs or hack your IVI by Jay Turla which was presented at the Packet Hacking Village / Wall of Sheep during DEF CON 26.
 
 ## Books
 
@@ -80,6 +81,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [A Car Hacking Experiment: When Connectivity Meets Vulnerability](http://ieeexplore.ieee.org/abstract/document/7413993/)
 - [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 - [Automobile Driver Fingerprinting, 2016](http://www.autosec.org/pubs/fingerprint.pdf)
+- [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
 - [Modeling Inter-Signal Arrival Times for Accurate Detection of
 CAN Bus Signal Injection Attacks](http://delivery.acm.org/10.1145/3070000/3064816/a11-moore.pdf?ip=108.231.46.133&id=3064816&acc=CHORUS&key=A79D83B43E50B5B8%2E61146380CA860EFC%2E57DE476DE0B29E28%2E6D218144511F3437&__acm__=1536183578_069ce3b4eeacf0a778cd65f4869fd7c0)
 
@@ -142,6 +144,14 @@ CAN Bus Signal Injection Attacks](http://delivery.acm.org/10.1145/3070000/306481
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
     - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
+- Car Hacking Village
+    - [Twitter](https://twitter.com/CarHackVillage)
+    - [Website](https://www.carhackingvillage.com/)
+- carfucar: Founder of Car Hacking Village and Speaker or Trainer
+    - [Twitter](https://twitter.com/CarHackVillage)
+- Ian Tabor / mintynet: Car Hacker, Car Hacking Village staff
+    - [Twitter](https://twitter.com/mintynet)
+    - [Website](https://www.mintynet.com/)    
 
 ## Podcasts and Episodes
 

@@ -485,6 +485,11 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 
 - [XSRFProbe](https://github.com/0xInfection/XSRFProbe) - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
 
+<a name="tools-ssrf"></a>
+#### Server-Side Request Forgery
+
+- [Open redirect/SSRF payload generator](https://tools.intigriti.io/redirector/) - Open redirect/SSRF payload generator by [intigriti](https://www.intigriti.com/).
+
 <a name="tools-leaking"></a>
 ### Leaking
 
