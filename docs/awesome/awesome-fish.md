@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
-## Awesome `fish` [![chat on gitter](https://img.shields.io/gitter/room/fish-shell/fish-shell.svg?color=%231cc)](https://gitter.im/fish-shell/fish-shell)
+## Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest) [![Chat](https://img.shields.io/badge/-chat%20on%20gitter-ff0066.svg)](https://gitter.im/fish-shell/fish-shell)
 
 A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
 
@@ -45,11 +45,11 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 
 ### Articles, tutorials, guides
 
-- [The fish cookbook](https://github.com/jorgebucaran/fish-cookbook)—[@jorgebucaran](https://github.com/jorgebucaran)
-- [The fish shell is awesome](https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/)—[@jvns](https://github.com/jvns)
-- [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l)—[@jukben](https://github.com/jukben)
-- [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/)—[@flaviocopes](https://github.com/flaviocopes)
-- [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/)—[@mvolkmann](https://github.com/mvolkmann)
+- [The fish cookbook](https://github.com/jorgebucaran/fish-cookbook) (by [@jorgebucaran](https://github.com/jorgebucaran))
+- [The fish shell is awesome](https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/) (by [@jvns](https://github.com/jvns))
+- [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l) (by [@jukben](https://github.com/jukben))
+- [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/) (by [@flaviocopes](https://github.com/flaviocopes))
+- [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) (by [@mvolkmann](https://github.com/mvolkmann))
 
 ## Stay in the loop
 

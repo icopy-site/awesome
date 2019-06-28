@@ -20,7 +20,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Data Management in the Cloud: Limitations and Opportunities](http://www.cs.yale.edu/homes/dna/papers/abadi-cloud-ieee09.pdf) (PDF) - Abadi (2009) discusses limitations and opportunities of data management and data analysis in the cloud.
 - [10 NoSQL Misconceptions](http://www.dummies.com/how-to/content/10-nosql-misconceptions.html) - Some misconceptions about NoSQL databases relating to topics such as what they are, ACID-compliance, and security.
 - [10 Reasons Developers Love NoSQL](http://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - A list of ten arguments for why developers like to use NoSQL databases.
-- [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909) (PDF) - Gorton and Klein (2014) paper to discuss software engineering concerns when dealing with big data systems in terms of distribution, data, and deployment. Also accessible [here](https://doi.org/10.1109/MS.2014.51), along with [a presentation overview](https://cs.uwaterloo.ca/~palencar/cs846/fall-2016/presentations/student/regular/nov01/01-Ma.pdf) of the original paper.
+- [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909) (PDF) - Gorton and Klein (2014) paper to discuss software engineering concerns when dealing with big data systems in terms of distribution, data, and deployment. Also accessible [here](https://doi.org/10.1109/MS.2014.51).
 - [Use cases for NoSQL](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) (2017) - Discussion on Stack Overflow on best use cases for using NoSQL databases over traditional SQL databases.
 - [Best Practices for NoSQL Database Design](https://softwareengineering.stackexchange.com/q/158790/) (2012) - A couple answers and links for NoSQL database design.
 
@@ -32,6 +32,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 - [Data Models Will Be Beautiful Again](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) (2016) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) - Solution for managing both NoSQL and relational databases using the Unified Data Modeling technique.
+- [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - Patterns for querying across multiple paradigms in the same database.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem
