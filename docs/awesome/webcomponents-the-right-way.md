@@ -159,10 +159,17 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+- [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+- [reLift-HTML](https://github.com/mardix/relift-html) - Small (3kb) view library allowing to create Web Components and to make HTML pages reactive.
 - [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
 - [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
+
+### Compilers
+
+- [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
+- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionaly generate Web Components).
 
 ### Other
 
@@ -210,11 +217,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
-## Compilers
-
-- [Stencil](https://stenciljs.com/docs/introduction/) - compiler that generates web components.
-- [Svelte](https://svelte.technology/guide#custom-elements) - compiler which can be configured to generate custom elements.
-
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
@@ -245,6 +247,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+- [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
 - [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - Benchmark for a Todo list application with various Web Components technologies.
