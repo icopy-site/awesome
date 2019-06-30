@@ -89,6 +89,7 @@
 - [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`.
 
 ### Signals
 
@@ -99,6 +100,10 @@
 
 - [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes.
 - [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists.
+
+### Streams
+
+- [noop-stream](https://github.com/sindresorhus/noop-stream) - Cross-platform `fs.createReadStream('/dev/null')`.
 
 ### Desktop UI
 
