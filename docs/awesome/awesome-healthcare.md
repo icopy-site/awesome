@@ -9,6 +9,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - Electronic Medical Record software designed by physicians.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
+  * [ERPNext](https://erpnext.com/healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
@@ -91,6 +92,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
+  * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in Go
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity
   * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
@@ -159,3 +161,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Compliance
 * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+
+### Asset Management
+* [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.

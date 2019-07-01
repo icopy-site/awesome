@@ -144,6 +144,7 @@ Release Notes
 
 *Official release notes from the Kubernetes team on Stable Kubernetes Releases*
 
+* [Kubernetes-1.15](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.15.md)
 * [Kubernetes-1.14](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.14.md)
 * [Kubernetes-1.13](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.13.md)
 * [Kubernetes-1.12](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.12.md)
@@ -498,6 +499,7 @@ Projects
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - An open-source solution for monitoring and visualising K8s metrics, logs, application traces and more.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
+* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
 
 ## Testing
 
@@ -685,6 +687,7 @@ Projects
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
+* [Kube Forwarder](http://kube-forwarder.pixelpoint.io) – An open source Kubernetes port forwarding manager
 
 ## Mobile applications
 
