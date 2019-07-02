@@ -44,7 +44,7 @@
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python app to easily read ePub files.
+- [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - Modern GTK Python app to easily read ePub files.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
@@ -90,10 +90,6 @@
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
-
-### System
-
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - Tool to control and manage systemd.
 
 ### Others
 

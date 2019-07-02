@@ -72,6 +72,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
 - [vega](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
+- [vega-lite-api](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
 - [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 - [visavail](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools [bubble, map, line, bar, sankey, donut]
@@ -193,6 +194,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Server side
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support. 
 
 ## Code Editors
 - [d3-snippets](https://github.com/martgnz/d3-snippets) - Snippets for Atom
