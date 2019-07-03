@@ -185,6 +185,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - Run staticcheck, gosimple and unused, sharing work.
 * [misspell](https://github.com/client9/misspell) - Finds commonly misspelled English words.
 * [nakedret](https://github.com/alexkohler/nakedret) - Finds naked returns.
+* [nargs](https://github.com/alexkohler/nargs) - Finds unused arguments in function declarations.
 * [prealloc](https://github.com/alexkohler/prealloc) - Finds slice declarations that could potentially be preallocated.
 * [revive](https://github.com/mgechev/revive) - Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 * [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
@@ -344,6 +345,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [radon](https://github.com/rubik/radon) - a Python tool that computes various metrics from the source code
 * [vulture](https://github.com/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the strictest and most opinionated python linter ever
+* [wily](https://github.com/tonybaloney/wily) - a command-line tool for archiving, exploring and graphing the complexity of Python source code
 * [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
