@@ -20,4 +20,5 @@ if [ "$1" != "dry" ]; then
 fi
 pythonVersion=`python -V 2>&1|awk '{print $2}'`
 cp search_index.py /home/travis/virtualenv/python${pythonVersion}/lib/python3.6/site-packages/mkdocs/contrib/search/search_index.py
+
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
