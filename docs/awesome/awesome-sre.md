@@ -275,6 +275,7 @@ Contributions are always welcome!
 * [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 * [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
 * [Better On-Call the SRE way](https://vimeo.com/344516642)
+* [Managing Incidents at Monzo](https://www.youtube.com/watch?v=ZqwVlsIonIw)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
@@ -397,26 +398,11 @@ Contributions are always welcome!
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
-* [Brendan Gregg](https://twitter.com/brendangregg)
-* [Caitie McCaffrey](https://twitter.com/caitie)
-* [Charity Majors](https://twitter.com/mipsytipsy)
-* [Cindy Sridharan](https://twitter.com/copyconstruct)
-* [Dave Hahn](https://twitter.com/relix42)
-* [Highscal](https://twitter.com/highscal)
-* [Jennifer Petoff](https://twitter.com/jennski)
-* [Jesse Dearing](https://twitter.com/JesseDearing)
-* [Jonah Horowitz](https://twitter.com/jonahhorowitz)
-* [Julia Evans](https://twitter.com/b0rk)
-* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
-* [Niall Murphy](https://twitter.com/niallm)
-* [Nick Craver](https://twitter.com/Nick_Craver)
+* [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
-* [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
-* [Tammy Bütow](https://twitter.com/tammybutow)
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom)
-* [Todd Underwood](https://twitter.com/tmu)
+* [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE-related Posts from [dev.to](https://dev.to). 
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
