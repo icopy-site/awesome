@@ -45,6 +45,7 @@
 - [Xamarin](awesome/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
 - [Linux](awesome/awesome-linux.md)
 	- [Containers](awesome/awesome-linux-containers.md)
+	- [eBPF](awesome/awesome-ebpf.md) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 - [macOS](awesome/awesome-macOS.md) - Operating system for Apple's Mac computers.
 	- [Command-Line](awesome/awesome-macos-command-line.md)
 	- [Screensavers](awesome/awesome-macos-screensavers.md)
