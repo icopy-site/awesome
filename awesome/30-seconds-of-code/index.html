@@ -431,6 +431,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../awesome-ebpf/" title="eBPF" class="md-nav__link">
+      eBPF
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -12709,8 +12721,8 @@ If the original array can't be split evenly, the final chunk will contain the re
 </details>
 
 <h3 id="compact">compact<a class="headerlink" href="#compact" title="Permanent link">&para;</a></h3>
-<p>Removes falsey values from an array.</p>
-<p>Use <code>Array.prototype.filter()</code> to filter out falsey values (<code>false</code>, <code>null</code>, <code>0</code>, <code>""</code>, <code>undefined</code>, and <code>NaN</code>).</p>
+<p>Removes falsy values from an array.</p>
+<p>Use <code>Array.prototype.filter()</code> to filter out falsy values (<code>false</code>, <code>null</code>, <code>0</code>, <code>""</code>, <code>undefined</code>, and <code>NaN</code>).</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">compact</span> <span class="o">=</span> <span class="nx">arr</span> <span class="p">=&gt;</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nb">Boolean</span><span class="p">);</span>
 </pre></div>
 
@@ -12959,7 +12971,7 @@ The comparator function takes four arguments: the values of the two elements bei
 
 <h3 id="findlast">findLast<a class="headerlink" href="#findlast" title="Permanent link">&para;</a></h3>
 <p>Returns the last element for which the provided function returns a truthy value.</p>
-<p>Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsey values, <code>Array.prototype.pop()</code> to get the last one.</p>
+<p>Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsy values, <code>Array.prototype.pop()</code> to get the last one.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">findLast</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="nx">fn</span><span class="p">).</span><span class="nx">pop</span><span class="p">();</span>
 </pre></div>
 
@@ -12974,7 +12986,7 @@ The comparator function takes four arguments: the values of the two elements bei
 <h3 id="findlastindex">findLastIndex<a class="headerlink" href="#findlastindex" title="Permanent link">&para;</a></h3>
 <p>Returns the index of the last element for which the provided function returns a truthy value.</p>
 <p>Use <code>Array.prototype.map()</code> to map each element to an array with its index and value.
-Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsey values, <code>Array.prototype.pop()</code> to get the last one.</p>
+Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsy values, <code>Array.prototype.pop()</code> to get the last one.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">findLastIndex</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nx">arr</span>
     <span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">val</span><span class="p">,</span> <span class="nx">i</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">[</span><span class="nx">i</span><span class="p">,</span> <span class="nx">val</span><span class="p">])</span>
@@ -17565,7 +17577,7 @@ Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to a
 </details>
 
 <h3 id="omitby">omitBy<a class="headerlink" href="#omitby" title="Permanent link">&para;</a></h3>
-<p>Creates an object composed of the properties the given function returns falsey for. The function is invoked with two arguments: (value, key).</p>
+<p>Creates an object composed of the properties the given function returns falsy for. The function is invoked with two arguments: (value, key).</p>
 <p>Use <code>Object.keys(obj)</code> and <code>Array.prototype.filter()</code>to remove the keys for which <code>fn</code> returns a truthy value.
 Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to an object with the corresponding key-value pairs.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">omitBy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span>
@@ -17625,7 +17637,7 @@ If no <code>orders</code> array is passed it sort by <code>'asc'</code> by defau
 
 <h3 id="pickby">pickBy<a class="headerlink" href="#pickby" title="Permanent link">&para;</a></h3>
 <p>Creates an object composed of the properties the given function returns truthy for. The function is invoked with two arguments: (value, key).</p>
-<p>Use <code>Object.keys(obj)</code> and <code>Array.prototype.filter()</code>to remove the keys for which <code>fn</code> returns a falsey value.
+<p>Use <code>Object.keys(obj)</code> and <code>Array.prototype.filter()</code>to remove the keys for which <code>fn</code> returns a falsy value.
 Use <code>Array.prototype.reduce()</code> to convert the filtered keys back to an object with the corresponding key-value pairs.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">pickBy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span>
