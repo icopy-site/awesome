@@ -7674,6 +7674,7 @@
 <ul>
 <li><strong>403:</strong> provide a 403 - Access denied page</li>
 <li><strong>404:</strong> provide a 404 - Page not found page</li>
+<li><strong><a href="https://developers.google.com/structured-data/slsb-overview">Custom Search</a>:</strong> with Google Sitelink search box, people can reach your content more quickly</li>
 <li><strong>File not found:</strong> avoid <code>404 FILE_NOT_FOUND</code> errors</li>
 <li><strong>Layout:</strong> use <code>divs</code> instead of <code>tables</code> for layout. Using <code>tables</code> is not semantically correct.</li>
 <li><strong>Moving a website:</strong> redirect all your links to the new location via <code>.htaccess</code></li>
@@ -7682,21 +7683,23 @@
 <li><strong>Redirects:</strong> avoid redirects if possible. Use 301 redirect instead of 302</li>
 <li><strong><a href="https://schema.org/">RichSnippets</a>:</strong> markup your code with rich snippets, they show up on the search results page</li>
 <li><strong>Robots:</strong> block pages which should not be indexed via the <code>robots.txt</code> file or
-<code>&lt;meta name="robots" content=""&gt;</code></li>
+  <code>&lt;meta name="robots" content=""&gt;</code></li>
 <li><strong>Validation:</strong> write valid code (<a href="https://validator.w3.org/">HTML Validator</a> <a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a>)</li>
 <li><strong><a href="https://www.w3.org/TR/wai-aria/">WAI-Aria</a>:</strong> use WAI-Aria tags to help machines understand your code</li>
 </ul>
 <h2 id="meta-information">Meta Information<a class="headerlink" href="#meta-information" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong><a href="https://www.youtube.com/watch?v=W4gr88oHb-k">Description</a>:</strong> each page should have a unique description (max. 160 characters)
-<code>&lt;meta name="description" content=""&gt;</code></li>
+  <code>&lt;meta name="description" content=""&gt;</code></li>
 <li><strong>Title:</strong> each page should have a unique speaking title (60 - 100 characters)
-<code>&lt;title&gt;Website Title&lt;/title&gt;</code></li>
+  <code>&lt;title&gt;Website Title&lt;/title&gt;</code></li>
 </ul>
 <h2 id="keywords">Keywords<a class="headerlink" href="#keywords" title="Permanent link">&para;</a></h2>
 <ul>
-<li><strong>Heading:</strong> keyword should appear in headings
-search engines do not use this meta tag</li>
+<li><strong>Content:</strong> keyword should appear in ~3% of article length</li>
+<li><strong>Heading:</strong> keyword should appear in headings</li>
+<li><strong><a href="https://www.youtube.com/watch?v=jK7IPbnmvVU">Meta Tag</a>:</strong> you can ommit the <code>&lt;meta name="keywords" content=""&gt;</code>,
+  search engines do not use this meta tag</li>
 <li><strong>Research:</strong> rank for keywords with high traffic and less competition</li>
 <li><strong>Single:</strong> every page should have a single unique targeted keyword</li>
 <li><strong>Title:</strong> keyword should appear in page title</li>
@@ -7704,10 +7707,14 @@ search engines do not use this meta tag</li>
 <p><strong><a href="https://www.youtube.com/watch?v=rAWFv43qubI">URL</a>:</strong> keyword should appear in URL name</p>
 </li>
 <li>
-<p><strong>Headings:</strong> clear structure <code>H1</code> -<code>H6</code> max. 70 characters long</p>
+<p><strong>Content:</strong> content matters the most in SEO</p>
 </li>
+<li><strong>Flash:</strong> avoid Flash content and Flash pages. They are not accessible on mobile phones and will be ranked lower</li>
+<li><strong>Freshness:</strong> new content is important. Updating pages or posting regularly is recommended</li>
+<li><strong>Headings:</strong> clear structure <code>H1</code> -<code>H6</code> max. 70 characters long</li>
 <li><strong>Length:</strong> article should be at least 300 words</li>
 <li><strong>Strong:</strong> use <code>strong</code> tag to highlight your targeted keyword</li>
+<li><strong><a href="https://www.youtube.com/watch?v=mQZY7EmjbMA">Uniqueness</a>:</strong> do not provide duplicated content, use unique content types</li>
 </ul>
 <h2 id="images">Images<a class="headerlink" href="#images" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7722,28 +7729,34 @@ search engines do not use this meta tag</li>
 <ul>
 <li><strong>Controls:</strong> add controls to playback and control your video</li>
 <li><strong>Embed:</strong> allow others to embed your videos</li>
+<li><strong>Transcriptions:</strong> use transcriptions for indexing, usability &amp; content</li>
+<li><strong><a href="https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content">Unplayable content</a>:</strong> avoid unplayable video content. Use HTML5 <code>&lt;video&gt;</code> tag instead of Flash</li>
 </ul>
 <h2 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong>Backlinks:</strong> only add external links if you got a backlink to your site</li>
+<li><strong>Internal links:</strong> add ~3 internal links to your content</li>
 <li><strong><a href="https://moz.com/learn/seo/hreflang-tag">Languages</a>:</strong> the hreflang tag tells Google which language you are using on a specific page, so the search engine can serve that result to users searching in that language
-<code>&lt;link rel="alternate" href="example.com/fr/" hreflang="fr-fr" /&gt;</code></li>
+  <code>&lt;link rel="alternate" href="example.com/fr/" hreflang="fr-fr" /&gt;</code></li>
 <li><strong>Naming:</strong> use a descriptive link name: “Click here” or “Read more” are bad link text. Better “Read more about SEO and Web Accessibility”</li>
 <li><strong><a href="https://support.google.com/webmasters/answer/96569">nofollow</a>:</strong> add <code>rel="nofollow"</code> attribute to external links only to prevent spam and bad links</li>
 <li><strong>Title:</strong> add the title attribute to links</li>
 </ul>
 <h2 id="mobile">Mobile<a class="headerlink" href="#mobile" title="Permanent link">&para;</a></h2>
 <ul>
+<li><strong><a href="http://applinks.org/documentation/">AppLinks</a>:</strong> apps that link to your content can then use this metadata to deep-link into your app</li>
 <li><strong><a href="https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html">mobile friendly</a>:</strong> mobile optimized sites are marked in search results. Test for <a href="https://www.google.com/webmasters/tools/mobile-friendly/">mobile friendly site</a></li>
+<li><strong><a href="https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html">Smart App Banner</a>:</strong> Safari has a Smart App Banner feature that provides a standardized method of promoting apps on the App Store from a website</li>
 <li><strong><a href="https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately">Tap targets</a>:</strong> clickable links should not be too small</li>
 <li><strong>Viewport:</strong> tell browsers how to adjust the page's dimensions and scaling to suit the device
-<code>&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</code></li>
+  <code>&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</code></li>
 </ul>
 <h2 id="sitemap">Sitemap<a class="headerlink" href="#sitemap" title="Permanent link">&para;</a></h2>
 <ul>
 <li><strong><a href="https://www.youtube.com/watch?v=hi5DGOu1uA0">HTML sitemap</a>:</strong> an HTML sitemap allows site visitors to easily navigate a website</li>
 <li><strong><a href="https://support.google.com/webmasters/answer/178636">Image sitemap</a>:</strong> increase that your images can be found in Image Search results</li>
 <li><strong><a href="https://support.google.com/webmasters/answer/6082207">Mobile sitemap</a>:</strong> for feature phones, you can create a mobile sitemap</li>
+<li><strong><a href="https://support.google.com/webmasters/answer/80471">Video sitemap</a>:</strong> make sure, search engines know about all the video content on your site</li>
 <li><strong><a href="https://support.google.com/webmasters/answer/183668">XML sitemap</a>:</strong> help search engines to index your pages</li>
 </ul>
 <h2 id="social-media">Social Media<a class="headerlink" href="#social-media" title="Permanent link">&para;</a></h2>
@@ -7764,12 +7777,14 @@ search engines do not use this meta tag</li>
 </ul>
 <h3 id="analytics">Analytics<a class="headerlink" href="#analytics" title="Permanent link">&para;</a></h3>
 <ul>
+<li><strong><a href="https://ahrefs.com/">Ahrefs</a>:</strong> analyze websites, track social media, build backlinks - Ahrefs has you covered. Try our marketing and SEO tools Site Explorer and Content Explorer today!</li>
+<li><strong><a href="https://app.buzzsumo.com/research/most-shared">BuzzSumo</a>:</strong> find the most shared content for any topic or domain.</li>
 <li><strong><a href="https://moz.com/followerwonk">Followerwonk</a>:</strong> tools for Twitter Analytics, Bio Search and More</li>
 <li><strong><a href="https://www.google.com/analytics/">Google Analytics</a>:</strong> generate detailed statistics about a website's traffic</li>
 <li><strong><a href="https://moz.com/researchtools/ose/">Open Site Explorer</a>:</strong> use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.</li>
 <li><strong><a href="https://matomo.org/">Matomo</a>:</strong> an open analytics platform</li>
 <li><strong><a href="https://www.semrush.com/">SEMrush</a>:</strong> SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.</li>
-<li><strong><a href="https://seomator.com/">Seomator</a>:</strong>  SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.</li>
+<li><strong><a href="https://seomator.com/">Seomator</a>:</strong> SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.</li>
 <li><strong><a href="https://github.com/eyecatchup/SEOstats">SEOstats</a>:</strong> SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.</li>
 <li><strong><a href="https://www.similarweb.com/">SimilarWeb</a>:</strong> compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources &amp; uncover their online marketing strategies.</li>
 <li><strong><a href="https://analytics.twitter.com/">Twitter Analytics</a>:</strong> measure and boost your impact on Twitter.</li>
@@ -7791,6 +7806,7 @@ search engines do not use this meta tag</li>
 <h3 id="links_1">Links<a class="headerlink" href="#links_1" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><a href="http://www.openlinkprofiler.org/">OpenLinkProfiler</a>:</strong> get an in-depth analysis of the freshest live backlinks.</li>
+<li><strong><a href="http://tools.seochat.com/tools/search-spider-simulator">Search Engine Spider Simulator</a>:</strong> this tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.</li>
 <li><strong><a href="https://www.screamingfrog.co.uk/seo-spider/">Screaming Frog SEO Spider Tool &amp; Crawler Software</a>:</strong> the Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites’ links, images, CSS, script and apps from an SEO perspective.</li>
 </ul>
 <h3 id="structured-data">Structured Data<a class="headerlink" href="#structured-data" title="Permanent link">&para;</a></h3>
@@ -7810,6 +7826,9 @@ search engines do not use this meta tag</li>
 <li><strong><a href="https://moz.com/tools/seo-toolbar">MozBar</a>:</strong> the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain &amp; Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!</li>
 </ul>
 <h3 id="jekyll-plugins">Jekyll Plugins<a class="headerlink" href="#jekyll-plugins" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Tag</a>:</strong> A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.</li>
+</ul>
 <h3 id="typo3-extensions">TYPO3 Extensions<a class="headerlink" href="#typo3-extensions" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><a href="https://typo3.org/extensions/repository/view/seo_basics">Basic SEO Features</a>:</strong> Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.</li>
@@ -7818,6 +7837,7 @@ search engines do not use this meta tag</li>
 <h3 id="wordpress-plugins">WordPress Plugins<a class="headerlink" href="#wordpress-plugins" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong><a href="https://wordpress.org/plugins/all-in-one-seo-pack/">All in One SEO Pack</a>:</strong> the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines</li>
+<li><strong><a href="https://wordpress.org/plugins/wordpress-seo/">Yoast SEO</a>:</strong> improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.</li>
 </ul>
 <h2 id="books">Books<a class="headerlink" href="#books" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7835,9 +7855,11 @@ search engines do not use this meta tag</li>
 </ul>
 <h2 id="courses">Courses<a class="headerlink" href="#courses" title="Permanent link">&para;</a></h2>
 <ul>
+<li><strong><a href="https://www.lynda.com/Marketing-Small-Business-Marketing-tutorials/Analyzing-Your-Website-Improve-SEO/82409-2.html">Analyzing Your Website to Improve SEO</a>:</strong> walks step-by-step through the process of reviewing the content and markup of a web site to improve its ranking in search engine results. With Peter Kent by Lynda.com</li>
 <li><strong><a href="https://www.clickminded.com/">ClickMinded</a>:</strong> ClickMinded is an SEO training course for startups that want to grow their organic traffic and sales as quickly as possible.</li>
 <li><strong><a href="https://www.shopify.com/videos/ecommerce-seo-101">Ecommerce SEO 101 Video Series</a>:</strong> Ecommerce SEO 101 Video Series with Helen Overland by shopify</li>
 <li><strong><a href="https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html">Improving SEO Using Accessibility Techniques</a>:</strong> make web sites more accessible and search engine friendly through proper markup and web standards compliance. With Morten Rand-Hendriksen by Lynda.com</li>
+<li><strong><a href="https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html">International SEO Fundamentals</a>:</strong> attract international visitors to your websites with these SEO tips. Learn how to determine target markets and optimize your website's technical aspects and content for countries and languages around the world. With David Booth by Lynda.com</li>
 <li><strong><a href="https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction">Learning Search Engine Optimization (SEO): A Video Introduction</a>:</strong> Learning Search Engine Optimization (SEO): A Video Introduction with Matt Bailey by video2brain</li>
 <li><strong><a href="https://www.video2brain.com/en/courses/learning-web-analytics">Learning Web Analytics</a>:</strong> Learning Web Analytics with Matt Bailey by video2brain</li>
 <li><strong><a href="http://seoforbeginners.com/">SEO for Beginners</a>:</strong> SEO for Beginners: A Video Guide Introduction</li>
@@ -7846,6 +7868,7 @@ search engines do not use this meta tag</li>
 <li><strong><a href="https://webdesign.tutsplus.com/courses/seo-for-web-designers">SEO for Web Designers</a>:</strong> SEO for Web Designers with Craig Campbell by TutsPlus</li>
 <li><strong><a href="https://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html">SEO Fundamentals</a>:</strong> SEO Fundamentals with David Booth by Lynda.com</li>
 <li><strong><a href="https://www.pluralsight.com/courses/seo-fundamentals">SEO Fundamentals</a>:</strong> SEO Fundamentals with Paul Wilson by Pluralsight</li>
+<li><strong><a href="https://www.lynda.com/Buzzstream-tutorials/SEO-Tools-Fundamentals/368917-2.html">SEO Tools Fundamentals</a>:</strong> learn about today's top SEO tools for technical optimization, content optimization, offsite optimization, and competitive research. With Brad Batesole by Lynda.com</li>
 <li><strong><a href="https://www.udemy.com/whiteboard-seo/">SEO Training Course by Moz</a>:</strong> SEO Training Course with Moz by udemy</li>
 <li><strong><a href="https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-6.html">SEO: Keyword Strategy in Depth</a>:</strong> learn how to research keywords, apply them to your website, and create ad campaigns around keywords. Increase your site traffic and better understand your user's intent with keywords. With Matt Bailey by Lynda.com</li>
 <li><strong><a href="https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html">SEO: Link Building in Depth</a>:</strong> investigates the anatomy of a link, how links affect page ranking, and the properties that make an excellent inbound link. With Peter Kent by Lynda.com</li>
