@@ -10,11 +10,11 @@
 > A curated list of command line apps.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-<h4 align="center"><a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">Check out some apps that missed the cut.<br>If you think they should be added show them some love, shoot them a :thumbsup: or give em' a :star:!</a></h4>
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,7 +53,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Video
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch movies in macOS native picture-in-picture player from your terminal.
 - [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 - [mpv](https://mpv.io) - Superior video player.
@@ -64,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike construction and management simulation.
 
 ## Development
 
@@ -118,7 +117,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - Neo4j client with autocompletion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 
@@ -133,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pm2](https://pm2.io/runtime/) - Production Process Manager for Node.js.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 
 ### Release
 
@@ -232,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### macOS
 
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
@@ -429,7 +429,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [maybe](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
