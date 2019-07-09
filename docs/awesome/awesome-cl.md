@@ -328,6 +328,7 @@ CLOS extensions
 
 * :star: [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8].
+* [specialization-store](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 
 
 Iteration
@@ -512,6 +513,10 @@ HTTP Servers
 * [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8].
 * [wookie](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14].
 * [woo](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200].
+
+### Hunchentoot plugins
+
+* [easy-routes](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT][200].
 
 ### Clack plugins
 

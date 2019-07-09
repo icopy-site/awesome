@@ -18,6 +18,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ## Rotterdam
 - [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
+- [EuRuKo](https://euruko2018.org/) - An annual European conference about Ruby (2019).
 - [NodeSchool](http://www.meetup.com/nodeschool-rotterdam/) - Monthly meetup about learning Node.js.
 - [Crowdsource](http://rdamsenieuwe.nl/thema/crowd-force) - Crowdsource ideas for startups.
 
@@ -30,6 +31,8 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - Active Ruby meetup with frequent, large events.
 - [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - Monthly Elixir meetups.
 - [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) - Monthly meetups and workshops around Rust.
+- [Lead Developers Amsterdam](https://www.meetup.com/Lead-Developers-Amsterdam) - For Lead Developers, Tech Leads, Chapter Leads and Senior Engineers heading towards Lead positions. 
+- [DevOps Day Amsterdam](https://www.devopsdays.org/events/2019-amsterdam/welcome/) - Development, operations, QA, InfoSec, management, and leadership.
 - [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (April 21) on all things React.
 - [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 

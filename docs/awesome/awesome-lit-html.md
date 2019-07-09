@@ -27,7 +27,7 @@ Sorted by creation date (oldest first).
 
 - [lit-element](https://www.npmjs.com/package/lit-element) - Simple base class for creating fast, lightweight Web Components.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - Lightweight library for building Web Components and applications.
-- [lit-any](https://github.com/wikibus/lit-any) - Partials library, which uses lit-html to compose views and forms from smaller templates.
+- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) - Partials library, which uses lit-html to compose views and forms from smaller templates.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - Base class for creating Web Components using lit-html.
 - [fit-html](https://www.npmjs.com/package/fit-html) - Combination of lit-html, Web Components and Redux.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - A lit-html extension that uses a bracket syntax similar to Angular's template syntax.
@@ -55,6 +55,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - Small mixin for LitElement to get easy change events via the properties getter.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - Provides LitElement CSS literals & classes ported from [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
+- [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
 
 ## Components
 
@@ -128,6 +129,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
+- [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
 
 ## Other awesome resources
 
