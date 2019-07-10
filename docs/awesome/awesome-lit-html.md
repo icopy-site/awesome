@@ -43,6 +43,7 @@ Sorted by creation date (oldest first).
 The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) or JSX.
 
 - [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) - lit-html based renderer for [Corpuscule](https://github.com/corpusculejs/corpuscule).
+- [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) - lit-html based renderer for [Helicopter](https://github.com/briancavalier/helikopter).
 - [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - lit-html based renderer for [Molecule](https://github.com/Molecule-JS/MoleculeJS).
 - [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - lit-html based renderer for [SkateJS](https://github.com/skatejs/skatejs).
 - [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - lit-html based renderer for [icomponent](https://github.com/prasannavl/icomponent).
@@ -59,6 +60,7 @@ These are not implementations of lit-html itself but rather community extensions
 
 ## Components
 
+- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
