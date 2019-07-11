@@ -46,6 +46,7 @@
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - Modern GTK Python app to easily read ePub files.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
 
@@ -96,6 +97,10 @@
 - [Luminance](http://craigcabrey.com/luminance/) - Philips Hue client.
 - [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
 
+## Third-party Apps Plugins
+
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+
 ## GTK Modules and Systems
 
 - [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications.
@@ -139,6 +144,7 @@
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - Merges the activity bar and the title bar of maximized windows.
 - [gTile](https://github.com/vibou/vibou.gTile) - Brings more advanced tiling to GNOME Shell.
 - [Shellshape](http://gfxmonk.net/shellshape/) - Tiling window extension for GNOME Shell.
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell.
 
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - Transforms the GNOME Dash into a fully-featured dock.
@@ -180,6 +186,10 @@
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes) - Skeumorphic grey theme, part of the zuki-theme suite. (GTK, works with Zuki-Shell for the shell theme).
 
 ## Icons
+
+### Adwaita-based
+
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party icons theme, based on GNOME 3.32's Adwaita
 
 ### Material Icons
 
