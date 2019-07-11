@@ -5658,41 +5658,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#add-a-work-profile" title="add a work profile" class="md-nav__link">
-    add a work profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#add-a-personal-profile" title="add a personal profile" class="md-nav__link">
-    add a personal profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#list-out-our-saved-profiles" title="list out our saved profiles" class="md-nav__link">
-    list out our saved profiles
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#set-the-current-git-repository-user-to-the-home-profile" title="set the current git repository user to the home profile" class="md-nav__link">
-    set the current git repository user to the home profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#currently-there-will-be-no-output-in-case-of-success" title="Currently there will be no output in case of success" class="md-nav__link">
-    Currently there will be no output in case of success
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#license" title="License" class="md-nav__link">
     License
   </a>
@@ -9785,41 +9750,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#add-a-work-profile" title="add a work profile" class="md-nav__link">
-    add a work profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#add-a-personal-profile" title="add a personal profile" class="md-nav__link">
-    add a personal profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#list-out-our-saved-profiles" title="list out our saved profiles" class="md-nav__link">
-    list out our saved profiles
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#set-the-current-git-repository-user-to-the-home-profile" title="set the current git repository user to the home profile" class="md-nav__link">
-    set the current git repository user to the home profile
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#currently-there-will-be-no-output-in-case-of-success" title="Currently there will be no output in case of success" class="md-nav__link">
-    Currently there will be no output in case of success
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#license" title="License" class="md-nav__link">
     License
   </a>
@@ -11300,32 +11230,35 @@ For detailed signature status run:
 </pre></div>
 
 <h3 id="signatures-show">signatures show<a class="headerlink" href="#signatures-show" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span>$ git signatures show v1.0.0
+<p><div class="codehilite"><pre><span></span>$ git signatures show v1.0.0
  Public Key ID    | Status     | Trust     | Date                         | Signer Name
 =======================================================================================================================
 01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao &lt;maochenyan@gmail.com&gt;
  ```
 
 ## [git-profile](https://github.com/dm3ch/git-profile-manager)
+### add a work profile
 </pre></div>
-
-<h2 id="add-a-work-profile">add a work profile<a class="headerlink" href="#add-a-work-profile" title="Permanent link">&para;</a></h2>
-<p>$ git profile add work
+$ git profile add work
 Name: Name Surname
 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#97;&#109;&#101;&#64;&#119;&#111;&#114;&#107;&#45;&#100;&#111;&#109;&#97;&#105;&#110;&#46;&#99;&#111;&#109;">&#110;&#97;&#109;&#101;&#64;&#119;&#111;&#114;&#107;&#45;&#100;&#111;&#109;&#97;&#105;&#110;&#46;&#99;&#111;&#109;</a>
 Signing Key:
-Profile work added successfully</p>
-<h2 id="add-a-personal-profile">add a personal profile<a class="headerlink" href="#add-a-personal-profile" title="Permanent link">&para;</a></h2>
-<p>$ git profile add home -n "Name Surname" -e <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#97;&#109;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#110;&#97;&#109;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
-Profile home added successfully</p>
-<h2 id="list-out-our-saved-profiles">list out our saved profiles<a class="headerlink" href="#list-out-our-saved-profiles" title="Permanent link">&para;</a></h2>
-<p>$ git profile list
+Profile work added successfully
+<div class="codehilite"><pre><span></span>### add a personal profile
+</pre></div>
+$ git profile add home -n "Name Surname" -e <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#97;&#109;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#110;&#97;&#109;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
+Profile home added successfully
+<div class="codehilite"><pre><span></span>### list out our saved profiles
+</pre></div>
+$ git profile list
 Existing profiles:
 work
-home</p>
-<h2 id="set-the-current-git-repository-user-to-the-home-profile">set the current git repository user to the home profile<a class="headerlink" href="#set-the-current-git-repository-user-to-the-home-profile" title="Permanent link">&para;</a></h2>
-<p>$ git profile use work</p>
-<h2 id="currently-there-will-be-no-output-in-case-of-success">Currently there will be no output in case of success<a class="headerlink" href="#currently-there-will-be-no-output-in-case-of-success" title="Permanent link">&para;</a></h2>
+home
+<div class="codehilite"><pre><span></span>### set the current git repository user to the home profile
+</pre></div>
+$ git profile use work
+```
+Currently there will be no output in case of success</p>
 <h2 id="license">License<a class="headerlink" href="#license" title="Permanent link">&para;</a></h2>
 <p><a href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="CC0" src="https://i.creativecommons.org/p/zero/1.0/88x31.png" /></a></p>
 <p>To the extent possible under law, <a href="https://github.com/stevemao">Steve Mao</a> has waived all copyright and related or neighboring rights to this work.</p>
