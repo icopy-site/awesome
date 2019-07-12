@@ -148,7 +148,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Beyond the DOM
 
-* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
+* [Elchemy](https://wende.github.io/elchemy/) - Compile your Elm code into idiomatic Elixir and by so, into the auto healing Erlang VM.
+* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations. You need to do the wiring to the UI by yourself. 
 * [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
@@ -174,6 +175,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
 * [style-elements](https://github.com/mdgriffith/style-elements) - A new way to generate web UI that makes it easier to deal with layout and stylings. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+* [turtle-graphics](https://github.com/mrdimosthenis/turtle-graphics) - Command a relative cursor (turtle) to draw vector graphics.
 
 
 
