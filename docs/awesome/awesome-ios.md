@@ -565,6 +565,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. [e]
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 * [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift.
+* [Bow](https://github.com/bow-swift/bow) - Typed Functional Programming companion library for Swift.
 
 ## Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift.
@@ -1408,6 +1409,7 @@ Most of these are paid services, some have free tiers.
 * [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) Combines the power of the AlamoRecord and RxSwift libraries to create a networking layer that makes interacting with API's easier than ever reactively.
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal) A Swift framework for reactive programming.
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
+* [Bindy](https://github.com/MaximKotliar/Bindy) - Simple, lightweight swift bindings with KVO support and easy to read syntax.
 
 ### React-Like
 * [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
@@ -3059,6 +3061,7 @@ CollectionView, make Instagram Discover within minutes.
 * [LearnAppMaking](https://learnappmaking.com) - LearnAppMaking helps app developers to build, launch and market iOS apps.
 * [iOS Development with Swift in Motion ](https://www.manning.com/livevideo/ios-development-with-swift-lv) -  This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻 Watch conference videos in a native macOS app.
+* [DaddyCoding](https://www.daddycoding.com) - iOS Tutorials ranging from beginners to advance
 
 ### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
