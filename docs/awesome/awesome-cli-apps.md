@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dockly](https://github.com/lirantal/dockly) - Interactively manage Docker containers.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Release
 
@@ -205,16 +206,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Utilities
 
-- [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
-- [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
+- [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
-- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
@@ -227,7 +226,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
@@ -338,6 +336,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Directory Listing
 
@@ -422,6 +421,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## Other
 
