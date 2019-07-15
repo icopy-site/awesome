@@ -122,6 +122,17 @@ Get work done with collaborative task lists, notes and video chat. Taskade is be
 | Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
 | URL       | https://www.taskade.com                                            |
 
+### Notejoy
+
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
+| Cost      | Freemium (_$0-12/month_)                                           |
+| Platform  | macOS, Windows, iOS, Android, web                                  |
+| URL       | https://notejoy.com                                                |
+
 ## Articles
 
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).

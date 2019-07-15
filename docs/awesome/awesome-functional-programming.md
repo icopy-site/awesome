@@ -67,6 +67,7 @@ just too humble about his creation.
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 - [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
@@ -89,6 +90,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+- [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 
 ### People
 
