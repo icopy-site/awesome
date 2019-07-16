@@ -829,16 +829,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Wifi pw: `ilovenicolau`
 
-#### Café Tati
-
-> Good homemade food, friendly people and nice atmosphere.
-
-Webpage: http://www.cafetati.blogspot.dk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1200 371, R. Ribeira Nova 36, 1200-371 Lisboa](https://goo.gl/maps/mhZJSFpJPuL2) |
-
 #### Choupana Café
 
 Webpage: http://4sq.com/XuO7me
@@ -846,7 +836,6 @@ Webpage: http://4sq.com/XuO7me
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00
-
 
 #### Confeitaria Lisboa
 
@@ -998,6 +987,16 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/7297518934.png)
 
+####  Eric Kayser
+
+> Open space even with wifi outdoors and nice cakes, could be noisy sometimes 
+
+Webpage: https://www.facebook.com/erickayserportugal
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30
+
 ## Porto
 
 #### Bop
@@ -1057,6 +1056,26 @@ Webpage: http://www.moustache.pt/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00
+
+#### Café Candelabro
+
+> Coffee shop, library and bookshop right in the center of Porto.
+
+Webpage: https://www.cafecandelabro.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7) | Sat 4:00pm - 2:00am, Sunday 4:00pm - 12:00am, Monday 1:00pm - 2:00am, Tuesday - Friday 10:30am - 2:00am
+
+#### Café Vitória
+
+> Restaurant and coffee shop right in the center of Porto with a nice garden in the back.
+
+Webpage: http://www.cafevitoria.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 

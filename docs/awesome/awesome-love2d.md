@@ -50,6 +50,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
+* [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript
 * [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
 
 ## Drawing
@@ -60,6 +61,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
+* [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
@@ -80,8 +82,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
-* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
+* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras). Repo is inactive but improvements are in the works at [this fork](https://github.com/HDictus/hump/tree/temp-master) (branch temp-master)
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
@@ -253,6 +256,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
+* [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
 ## Tutorials
@@ -310,6 +314,6 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
+* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

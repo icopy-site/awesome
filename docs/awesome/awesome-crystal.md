@@ -292,6 +292,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## Logging and monitoring
+ * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
@@ -333,6 +334,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - Verify and generate Rails `ActiveSupport::MessageVerifier` signed tokens
+ * [monads](https://github.com/alex-lairan/monads) - Monad implementation
  * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
@@ -454,6 +456,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
  * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [vcr](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
@@ -473,6 +476,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
+ * [kube-client.cr](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
