@@ -13,6 +13,7 @@ This repository serves as a guide for anyone who wants to work with **Artificial
 Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.  
 
 Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.  
+
 Yannakakis, G. N., Togelius, J. (2018). _Artificial Intelligence and Games_. Springer.  
 
 
