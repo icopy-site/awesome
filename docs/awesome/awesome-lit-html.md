@@ -59,6 +59,10 @@ These are not implementations of lit-html itself but rather community extensions
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) - LitElement extension that provides easy l10n out of the box.
 - [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
 
+### Other
+
+- [@feature-hub/dom](https://www.npmjs.com/package/@feature-hub/dom) - Library for building a [Feature Hub](https://github.com/sinnerschrader/feature-hub) integrator using Web Components.
+
 ## Components
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
@@ -134,15 +138,20 @@ An episode with the lit-html creator Justin Fagnani.
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 
+## Projects
+
+- [DevWeb Content Firehose](https://devwebfeed.appspot.com/)
+
 ## Inspired Solutions
 
 These libraries do not depend on lit-html, but are inspired by some of its concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
+- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
-- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [lite-html](https://github.com/ruphin/lite-html) - A modern replacement for VirtualDOM rendering engines.
+- [modulor-html](https://github.com/modulor-js/modulor-html) - Missing template engine for Web Components.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - Powerfully ~2kB (gzip) HTML template strings.
 
 ## Other awesome resources

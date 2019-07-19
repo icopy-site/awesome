@@ -135,6 +135,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012.
+- [adalib](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ## Community
 
@@ -254,6 +255,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Database
 - [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports Postgresql, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
+- [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -292,6 +294,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
+- [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
 ## Libraries
 
@@ -301,6 +304,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
+- [mandelbrot_ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
 #### Algorithms, Containers and Protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
@@ -325,6 +329,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 - [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
+- [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 - [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
@@ -335,10 +340,14 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 - [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
+- [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
+- [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
+- [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs.
+- [rxada](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
 #### System Modeling
 - [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
@@ -354,6 +363,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens.
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+- [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
 #### Format Readers and Writers
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -383,6 +394,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) - A 3D engine for DOS-talgics.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
@@ -396,6 +408,12 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
 - [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
+- [licensing](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
+- [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
+- [rsfile](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
+- [cstrings](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
+- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
+- [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 
 ## Hardware and Embedded
 
@@ -421,6 +439,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
+- [sancta](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
@@ -517,6 +536,13 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
+- [player-ada](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
+- [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
+- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
+- [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 
 ## License
 

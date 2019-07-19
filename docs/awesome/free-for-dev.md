@@ -71,6 +71,8 @@ Table of Contents
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic, also you have an ionic repo
+  * [gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
+  * [codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos
 
 ## APIs, Data and ML
   * [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
@@ -163,6 +165,7 @@ Table of Contents
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [golangci.com](https://golangci.com) — Automated Go (golang) code review service for GitHub pull requests.
+  * [lgtm.com](https://lgtm.com) — Continuous security analysis for Java, Python, JavaScript, TypeScript, C#, C and C++, free for Open Source
 
 ## Code Search and Browsing
 
@@ -173,6 +176,7 @@ Table of Contents
 
 ## CI / CD
 
+  * [ligurio/Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [dev.azure.com](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
@@ -182,7 +186,6 @@ Table of Contents
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](https://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
@@ -335,6 +338,7 @@ Table of Contents
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) — free plan is limited to 10 outgoing mails/day
   * [socketlabs.com](https://www.socketlabs.com) - 40k emails free for first month, then first 2000 emails/month free
+  * [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 
 ## CDN and Protection
 
@@ -351,7 +355,9 @@ Table of Contents
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [speeder.io](https://speeder.io/) — Uses KeyCDN. Automatic image optimization and free CDN boost. Free and does not require any server changes
-  * [jare.io](http://www.jare.io) — You should log in using your GitHub account and register your domain. Uses AWS CloudFront
+  * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
+  * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
+  * [staticaly.com](https://staticaly.com/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
 
 ## PaaS
 
