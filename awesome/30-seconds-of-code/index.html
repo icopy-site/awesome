@@ -2213,6 +2213,20 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#isweekday" title="isWeekday" class="md-nav__link">
+    isWeekday
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#isweekend" title="isWeekend" class="md-nav__link">
+    isWeekend
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#maxdate" title="maxDate" class="md-nav__link">
     maxDate
   </a>
@@ -2229,6 +2243,13 @@
           <li class="md-nav__item">
   <a href="#tomorrow" title="tomorrow" class="md-nav__link">
     tomorrow
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#yesterday" title="yesterday" class="md-nav__link">
+    yesterday
   </a>
   
 </li>
@@ -10835,6 +10856,20 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#isweekday" title="isWeekday" class="md-nav__link">
+    isWeekday
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#isweekend" title="isWeekend" class="md-nav__link">
+    isWeekend
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#maxdate" title="maxDate" class="md-nav__link">
     maxDate
   </a>
@@ -10851,6 +10886,13 @@
           <li class="md-nav__item">
   <a href="#tomorrow" title="tomorrow" class="md-nav__link">
     tomorrow
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#yesterday" title="yesterday" class="md-nav__link">
+    yesterday
   </a>
   
 </li>
@@ -12276,10 +12318,10 @@
 <li><a href="https://30-seconds.github.io/30-seconds-of-css/">30 Seconds of CSS</a></li>
 <li><a href="https://30secondsofinterviews.org/">30 Seconds of Interviews</a></li>
 <li><a href="https://github.com/30-seconds/30-seconds-of-react">30 Seconds of React</a></li>
-<li><a href="https://github.com/kriadmin/30-seconds-of-python-code">30 Seconds of Python</a> <em>(unofficial)</em></li>
-<li><a href="https://github.com/appzcoder/30-seconds-of-php-code">30 Seconds of PHP</a> <em>(unofficial)</em></li>
+<li><a href="https://github.com/30-seconds/30-seconds-of-python-code">30 Seconds of Python</a></li>
+<li><a href="https://github.com/30-seconds/30-seconds-of-php-code">30 Seconds of PHP</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla">30 Seconds of Knowledge</a></li>
 <li><a href="https://github.com/IvanMwiruki/30-seconds-of-kotlin">30 Seconds of Kotlin</a> <em>(unofficial)</em></li>
-<li><a href="https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla">30 Seconds of Knowledge</a> <em>(unofficial)</em></li>
 </ul>
 <h4 id="package">Package<a class="headerlink" href="#package" title="Permanent link">&para;</a></h4>
 <p>⚠️ <strong>NOTICE:</strong> A few of our snippets are not yet optimized for production (see disclaimers for individual snippet issues).</p>
@@ -15287,6 +15329,40 @@ Use <code>String.prototype.join(', ')</code> to combine the values into a string
 
 </details>
 
+<h3 id="isweekday">isWeekday<a class="headerlink" href="#isweekday" title="Permanent link">&para;</a></h3>
+<p>Results in a boolean representation of a specific date.</p>
+<p>Pass the specific date object firstly.
+Use <code>Date.getDay()</code> to check weekday then return a boolean.</p>
+<div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">isWeekday</span> <span class="o">=</span> <span class="p">(</span><span class="nx">t</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">())</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">t</span><span class="p">.</span><span class="nx">getDay</span><span class="p">()</span> <span class="o">&gt;=</span> <span class="mi">1</span> <span class="o">&amp;&amp;</span> <span class="nx">t</span><span class="p">.</span><span class="nx">getDay</span><span class="p">()</span> <span class="o">&lt;=</span> <span class="mi">5</span><span class="p">;</span>
+<span class="p">};</span>
+</pre></div>
+
+<details>
+<summary>Examples</summary>
+
+<div class="codehilite"><pre><span></span><span class="nx">isWeekday</span><span class="p">();</span> <span class="c1">// true (if current date is 2019-07-19)</span>
+</pre></div>
+
+</details>
+
+<h3 id="isweekend">isWeekend<a class="headerlink" href="#isweekend" title="Permanent link">&para;</a></h3>
+<p>Results in a boolean representation of a specific date.</p>
+<p>Pass the specific date object firstly.
+Use <code>Date.getDay()</code> to check weekend then return a boolean.</p>
+<div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">isWeekend</span> <span class="o">=</span> <span class="p">(</span><span class="nx">t</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">())</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">t</span><span class="p">.</span><span class="nx">getDay</span><span class="p">()</span> <span class="o">===</span> <span class="mi">0</span> <span class="o">||</span> <span class="nx">t</span><span class="p">.</span><span class="nx">getDay</span><span class="p">()</span> <span class="o">===</span> <span class="mi">6</span><span class="p">;</span>
+<span class="p">};</span>
+</pre></div>
+
+<details>
+<summary>Examples</summary>
+
+<div class="codehilite"><pre><span></span><span class="nx">isWeekend</span><span class="p">();</span> <span class="c1">// 2018-10-19 (if current date is 2018-10-18)</span>
+</pre></div>
+
+</details>
+
 <h3 id="maxdate">maxDate<a class="headerlink" href="#maxdate" title="Permanent link">&para;</a></h3>
 <p>Returns the maximum of the given dates.</p>
 <p>Use the ES6 spread syntax with <code>Math.max</code> to find the maximum date value, <code>new Date()</code> to convert it to a <code>Date</code> object.</p>
@@ -15342,6 +15418,25 @@ Use <code>Date.prototype.toISOString()</code> to return a string in <code>yyyy-m
 <summary>Examples</summary>
 
 <div class="codehilite"><pre><span></span><span class="nx">tomorrow</span><span class="p">();</span> <span class="c1">// 2018-10-19 (if current date is 2018-10-18)</span>
+</pre></div>
+
+</details>
+
+<h3 id="yesterday">yesterday<a class="headerlink" href="#yesterday" title="Permanent link">&para;</a></h3>
+<p>Results in a string representation of yesterday's date.</p>
+<p>Use <code>new Date()</code> to get the current date, decrement by one using <code>Date.getDate()</code> and set the value to the result using <code>Date.setDate()</code>.
+Use <code>Date.prototype.toISOString()</code> to return a string in <code>yyyy-mm-dd</code> format.</p>
+<div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">yesterday</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="nx">t</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">();</span>
+  <span class="nx">t</span><span class="p">.</span><span class="nx">setDate</span><span class="p">(</span><span class="nx">t</span><span class="p">.</span><span class="nx">getDate</span><span class="p">()</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
+  <span class="k">return</span> <span class="nx">t</span><span class="p">.</span><span class="nx">toISOString</span><span class="p">().</span><span class="nx">split</span><span class="p">(</span><span class="s1">&#39;T&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">];</span>
+<span class="p">};</span>
+</pre></div>
+
+<details>
+<summary>Examples</summary>
+
+<div class="codehilite"><pre><span></span><span class="nx">yesterday</span><span class="p">();</span> <span class="c1">// 2018-10-17 (if current date is 2018-10-18)</span>
 </pre></div>
 
 </details>
