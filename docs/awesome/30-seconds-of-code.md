@@ -21,10 +21,10 @@
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react)
-* [30 Seconds of Python](https://github.com/kriadmin/30-seconds-of-python-code) _(unofficial)_
-* [30 Seconds of PHP](https://github.com/appzcoder/30-seconds-of-php-code) _(unofficial)_
+* [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python-code)
+* [30 Seconds of PHP](https://github.com/30-seconds/30-seconds-of-php-code)
+* [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla)
 * [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
-* [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) _(unofficial)_
 
 #### Package
 
@@ -3984,6 +3984,52 @@ isSameDate(new Date(2010, 10, 20), new Date(2010, 10, 20)); // true
 </details>
 
 
+### isWeekday
+
+Results in a boolean representation of a specific date.
+
+Pass the specific date object firstly.
+Use `Date.getDay()` to check weekday then return a boolean.
+
+```js
+const isWeekday = (t = new Date()) => {
+  return t.getDay() >= 1 && t.getDay() <= 5;
+};
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+isWeekday(); // true (if current date is 2019-07-19)
+```
+
+</details>
+
+
+### isWeekend
+
+Results in a boolean representation of a specific date.
+
+Pass the specific date object firstly.
+Use `Date.getDay()` to check weekend then return a boolean.
+
+```js
+const isWeekend = (t = new Date()) => {
+  return t.getDay() === 0 || t.getDay() === 6;
+};
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+isWeekend(); // 2018-10-19 (if current date is 2018-10-18)
+```
+
+</details>
+
+
 ### maxDate
 
 Returns the maximum of the given dates.
@@ -4056,6 +4102,31 @@ const tomorrow = () => {
 
 ```js
 tomorrow(); // 2018-10-19 (if current date is 2018-10-18)
+```
+
+</details>
+
+
+### yesterday
+
+Results in a string representation of yesterday's date.
+
+Use `new Date()` to get the current date, decrement by one using `Date.getDate()` and set the value to the result using `Date.setDate()`.
+Use `Date.prototype.toISOString()` to return a string in `yyyy-mm-dd` format.
+
+```js
+const yesterday = () => {
+  let t = new Date();
+  t.setDate(t.getDate() - 1);
+  return t.toISOString().split('T')[0];
+};
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+yesterday(); // 2018-10-17 (if current date is 2018-10-18)
 ```
 
 </details>
@@ -4204,6 +4275,10 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 <summary>Examples</summary>
 
 ```js
+
+
+
+
 
 
 

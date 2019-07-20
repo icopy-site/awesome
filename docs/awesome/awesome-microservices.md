@@ -239,6 +239,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
+## Frontend
+
+- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
+
 ## Capabilities
 
 ### API Gateways / Edge Services
