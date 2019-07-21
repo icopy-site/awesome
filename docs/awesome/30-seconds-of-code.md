@@ -3989,11 +3989,11 @@ isSameDate(new Date(2010, 10, 20), new Date(2010, 10, 20)); // true
 Results in a boolean representation of a specific date.
 
 Pass the specific date object firstly.
-Use `Date.getDay()` to check weekday then return a boolean.
+Use `Date.getDay()` to check weekday by using a modulo operator and then returning a boolean.
 
 ```js
 const isWeekday = (t = new Date()) => {
-  return t.getDay() >= 1 && t.getDay() <= 5;
+  return t.getDay() % 6 !== 0;
 };
 ```
 
@@ -4012,11 +4012,11 @@ isWeekday(); // true (if current date is 2019-07-19)
 Results in a boolean representation of a specific date.
 
 Pass the specific date object firstly.
-Use `Date.getDay()` to check weekend then return a boolean.
+Use `Date.getDay()` to check weekend based on the day being returned as 0 - 6 using a modulo operation then return a boolean.
 
 ```js
 const isWeekend = (t = new Date()) => {
-  return t.getDay() === 0 || t.getDay() === 6;
+  return t.getDay() % 6 === 0;
 };
 ```
 
@@ -4275,6 +4275,8 @@ const checkProp = (predicate, prop) => obj => !!predicate(obj[prop]);
 <summary>Examples</summary>
 
 ```js
+
+
 
 
 
