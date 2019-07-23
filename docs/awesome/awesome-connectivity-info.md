@@ -8,7 +8,7 @@
 
 ## [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
+A list of connectivity indexes, maps, and reports to help you better under who has access to communication infrastructure and on what terms. All info in the public domain.
 
 <sub>More on connectivity on my [website](https://manypossibilities.net) or on [twitter](https://twitter.com/stevesong).</sub>
 
@@ -49,8 +49,8 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
-- [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband) - A map of national broadband maps for OECD countries.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - (2019) Most accurate mobile coverage maps available, currently covers Ghana, Nigeria, Rwanda, Uganda, Tanzania, and Zambia.
+- [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
 ## Periodic Global Connectivity Reports
 
@@ -60,7 +60,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
 - Broadband Commission: The State of Broadband ([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
-- [GSMA - State of Mobile Internet Connectivity 2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf)
+- GSMA - State of Mobile Internet Connectivity ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
 - [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
@@ -69,7 +69,7 @@ A list of connectivity indexes and reports to help you better under who has acce
 - [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) - (Q1 2017) Report on connectivity from large CDN company.
 - [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) - (2016) Examines the role of information and communication technologies (ICTs) in driving innovation and includes Network Readiness Index.
 - UN E-Government Survey [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) - Global E–Government and E-Participation Development Index. 
-- [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: 28 June 2018.
+- [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: 9 July 2019.
 - [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South.
 
 

@@ -854,11 +854,17 @@ Projects
 * [kube-backup](https://github.com/pieterlange/kube-backup) - Sync kubernetes state to git.
 
 ## Policy Management
+
 * [Kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
 
 ## Plugins
 
 * [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
+* [Kboom](https://github.com/mhausenblas/kboom)
+
+## Debug
+
+* [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
 
 Raspberry Pi
 =======================================================================
