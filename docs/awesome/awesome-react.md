@@ -208,6 +208,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+- [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 
 ##### React Integration
 
@@ -373,6 +374,7 @@ A collection of awesome things regarding React ecosystem.
 - [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+- [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
 
 ---
 

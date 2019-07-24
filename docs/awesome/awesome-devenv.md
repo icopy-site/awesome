@@ -120,6 +120,15 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 
+### Visual Studio Code
+
+* [Dev Git Repo](https://github.com/Microsoft/vscode) - Github code repository for VS Code 
+* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor
+
+#### Extensions
+* [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - Official website for extensions
+* [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
+* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
 ## Git
 *Tools and addons for making an awesome Git experience*
@@ -222,3 +231,4 @@ to `/home/Users/yourself/projects`.
   `watch` - note it works as a service.
 * [Zappr](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 * [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
