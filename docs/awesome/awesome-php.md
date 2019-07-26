@@ -45,7 +45,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Zend Framework 3](https://framework.zend.com/learn) - A framework comprised of individual components (ZF3).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ### Framework Extras
@@ -78,6 +78,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Expressive](https://getexpressive.org/) - A micro-framework by Zend.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -210,7 +211,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](http://docs.behat.org/en/v2.5/) - A behaviour driven development (BDD) testing framework.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
@@ -343,7 +343,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Build Tools
 *Project build and automation tools.*
 
-* [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
+* [Box](https://github.com/humbug/box) - A utility to build PHAR files.
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
@@ -445,7 +445,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-* [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
@@ -597,7 +596,6 @@ Libraries to help manage database schemas and migrations.
 *Libraries that implement data structure or storage techniques.*
 
 * [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
-* [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
@@ -808,7 +806,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
+* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*

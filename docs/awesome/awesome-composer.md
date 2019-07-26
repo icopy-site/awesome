@@ -31,7 +31,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### IRC
 
-- IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/?channels=composer) for users and [#composer-dev](https://webchat.freenode.net/?channels=composer-dev) for development.
+- IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
 ---------------------------------------------------------
 
@@ -78,6 +78,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
+- [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - Prevents more than one install or update operation at a time.
 
 ## Tools
 

@@ -177,6 +177,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog](https://github.com/fog/fog) - The Ruby cloud services library.
+* [humidifier](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
@@ -201,13 +202,17 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pronto](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 * [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
-* [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [Scientist](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 * [Sorbet](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 * [Suture](https://github.com/testdouble/suture) - A Ruby gem that helps you refactor your legacy code.
 * [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+
+## Code Formatting
+
+* [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+* [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
 
 ## Code Highlighting
 
@@ -1163,6 +1168,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Web Servers
 
+* [Agoo](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 * [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
 * [Iodine](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 * [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
