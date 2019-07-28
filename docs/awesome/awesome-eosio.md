@@ -337,6 +337,7 @@ EOSIO focused exchanges.
 - [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly.
 - [EOSDAQ](https://eosdaq.com/) - Decentralised, Airdrops friendly.
 - [EOSfinex](https://www.eosfinex.com/) - Decentralised, Under Development.
+- [EOSSWAP](https://eosswap.io) - Decentralised, atomic EOS tokens swaps.
 
 
 ## Forks

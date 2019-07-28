@@ -69,7 +69,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
-* [Zend Framework 2 Components](https://docs.zendframework.com/) - The components that make Zend Framework.
+* [Zend Framework Components](https://docs.zendframework.com/) - The components that make Zend Framework.
 
 ### Micro Frameworks
 *Micro frameworks and routers.*
@@ -431,7 +431,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel)
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+* [Spout](https://github.com/box/spout) - Read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way .
 
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
@@ -720,7 +721,7 @@ Libraries to help manage database schemas and migrations.
 ### Virtual Machines
 *Alternative PHP virtual machines.*
 
-* [Hack](https://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
+* [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Text Editors and IDEs

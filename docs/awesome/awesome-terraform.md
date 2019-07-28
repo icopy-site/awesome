@@ -34,6 +34,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [The Terraform Book](https://terraformbook.com/)
 * [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 * [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
+* [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 
 ## Tutorials and Blog Posts
 
@@ -234,6 +235,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+* [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
 * [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
