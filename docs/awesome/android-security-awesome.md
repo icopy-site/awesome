@@ -1,7 +1,5 @@
 <div class="github-widget" data-repo="ashishb/android-security-awesome"></div>
-android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
-========================
-
+## android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 
 A collection of android security related resources.
 
@@ -10,18 +8,17 @@ A collection of android security related resources.
 
 ### Online Analyzers
 
-
 1. [AndroTotal](http://andrototal.org/)
-4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - not free
-6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 7. [NVISO ApkScan](https://apkscan.nviso.be/)
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - max 128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) - not free
 12. [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
-14. [AMAaaS](https://amaaas.com) - Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
+14. [AMAaaS](https://amaaas.com) - Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS).Free
+4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
+6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free~~
 15. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) - 10/day~~
@@ -38,11 +35,10 @@ A collection of android security related resources.
 26. ~~[Dexter](https://dexter.dexlabs.org/)~~
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
- 
+
 ### Static Analysis Tools
 
-
-1.  [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
+1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
 2. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 3. [APKInspector](https://github.com/honeynet/apkinspector/)
 4. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
@@ -67,7 +63,6 @@ A collection of android security related resources.
 
 ### App Vulnerability Scanners
 
-
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
@@ -75,9 +70,8 @@ A collection of android security related resources.
 
 ### Dynamic Analysis Tools
 
-1.  [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2.  [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
-3. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
+1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
+2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
@@ -102,10 +96,10 @@ A collection of android security related resources.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 30. [Taintdroid](http://appanalysis.org) - requires AOSP compilation
+3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
-
 
 ### Reverse Engineering
 
@@ -159,7 +153,7 @@ A collection of android security related resources.
 
 1. [Google play crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
 2. [Google play crawler (Python)](https://github.com/egirault/googleplay-api)
-3. [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
+3. [Google play crawler (Node)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 4. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
@@ -184,7 +178,7 @@ A collection of android security related resources.
 
 ### Research Papers
 
-1. [Exploit Database](https://www.exploit-db.com/papers/) 
+1. [Exploit Database](https://www.exploit-db.com/papers/)
 2. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 3. [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
@@ -194,18 +188,16 @@ A collection of android security related resources.
 
 ### Others
 
-1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
+1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg)
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics~~
-6.  ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
+6. ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
 
-
-## <a name="exploits"></a>Exploits/Vulnerabilities/Bugs
+## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
 ### List
-
 
 1. [Android Security Bulletins](https://source.android.com/security/bulletin/)
 2. [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
@@ -215,7 +207,6 @@ A collection of android security related resources.
 6. [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 7. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 8. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf)
-
 
 ### Malware
 
@@ -237,4 +228,5 @@ A collection of android security related resources.
 2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## Contributing
+
 Your contributions are always welcome!

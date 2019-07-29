@@ -1,21 +1,9 @@
 <div class="github-widget" data-repo="davisonio/awesome-gif"></div>
-## [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome GIF [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
+> A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources.
 
-<p align="center">
-<b><a href="#contents">Contents</a></b>
-·
-<b><a href="#use">Use</a></b>
-·
-<b><a href="#authors">Authors</a></b>
-·
-<b><a href="#license--credits">License & Credits</a></b>
-</p>
-
-This is a list of tools, scripts, libraries, examples & other resources related to the Graphics Interchange Format (GIF) image format.
-
-![](https://davison.io/assets/img/awesome-gif-logo.gif)
+A list of tools, scripts, libraries, examples & other resources related to the Graphics Interchange Format (GIF).
 
 
 
@@ -23,8 +11,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
-- [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick
-- [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing
+- [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
+- [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing.
 
 ### Utilities
 
@@ -33,10 +21,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
-- [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
+- [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [gifme](https://github.com/holman/gifme) - generate animated GIFs
 - [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server
@@ -138,7 +125,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs
-- [VineGifR](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
+- [VineGifR](https://github.com/caraesten/VineGifR ) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
@@ -157,7 +144,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Community
 
 - [Giphy.com](https://giphy.com)
-- [Gifme.io](http://gifme.io)
 - [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
@@ -335,7 +321,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 #### Grabbing each frame of an HTML5 Canvas
 
-using [PhantomJS](http://phantomjs.org/)
+Using [PhantomJS](https://phantomjs.org).
 
 Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
@@ -376,21 +362,21 @@ The best ways to use this list are:
 
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
-## Authors
+## Credits
 
 **[Craig Davison](https://davison.io)**
 
-[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors). :clap:
+...and [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors).
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-gif/blob/master/CONTRIBUTING.md). :raised_hands:
+**[Contributions are welcome!](https://github.com/davisonio/awesome-gif/blob/master/contributing.md)**
 
-## License & Credits
+## License
 
 Unless otherwise stated:
 
-- Copyright © 2017+ [Craig Davison](https://davison.io). Released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+- Copyright © 2017+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 
