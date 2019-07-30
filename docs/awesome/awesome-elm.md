@@ -209,7 +209,7 @@ Here are some notable ones:
 
 ## Tools
 
-*Tools around Elm platform.*
+*Useful tools related to Elm.*
 
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
@@ -220,6 +220,8 @@ Here are some notable ones:
 * [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer 
+* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 
 ### Run Elm
 
