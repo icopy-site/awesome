@@ -463,6 +463,7 @@
 - [OKR Methodology](awesome/awesome-okr.md) - Goal setting & communication best practices.
 - [Leading and Managing](awesome/awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment.
 - [Indie](awesome/awesome-indie.md) - Independent developer businesses.
+- [Tools of the Trade](awesome/ToolsOfTheTrade.md) - Tools used by companies on Hacker News.
 
 
 ## Work
@@ -513,7 +514,6 @@
 - [Sketch](awesome/awesome-sketch.md) - Design app for macOS.
 - [Boilerplate Projects](awesome/awesome-projects-boilerplates.md)
 - [Readme](awesome/awesome-readme.md)
-- [Tools](awesome/ToolsOfTheTrade.md)
 - [Design and Development Guides](awesome/guides.md)
 - [Software Engineering Blogs](awesome/engineering-blogs.md)
 - [Self Hosted](awesome/awesome-selfhosted.md)

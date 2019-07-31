@@ -409,6 +409,7 @@ nav:
     - OKR Methodology: awesome/awesome-okr.md
     - Leading and Managing: awesome/awesome-leading-and-managing.md
     - Indie: awesome/awesome-indie.md
+    - Tools of the Trade: awesome/ToolsOfTheTrade.md
   - Work:
     - Slack: awesome/awesome-slack.md
     - Slack_sub: 
@@ -451,7 +452,6 @@ nav:
     - Sketch: awesome/awesome-sketch.md
     - Boilerplate Projects: awesome/awesome-projects-boilerplates.md
     - Readme: awesome/awesome-readme.md
-    - Tools: awesome/ToolsOfTheTrade.md
     - Design and Development Guides: awesome/guides.md
     - Software Engineering Blogs: awesome/engineering-blogs.md
     - Self Hosted: awesome/awesome-selfhosted.md

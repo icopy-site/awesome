@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="jagracey/Awesome-Unicode"></div>
+<div class="github-widget" data-repo="Wisdom/Awesome-Unicode"></div>
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
@@ -8,8 +8,8 @@
 
 > A curated list of delightful Unicode tidbits, packages and resources.
 
-*Please read the [contribution guidelines](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) before contributing.*
-*Key Unicode terminology is defined in the [glossary](https://github.com/jagracey/Awesome-Unicode/blob/master/GLOSSARY.md).*
+*Please read the [contribution guidelines](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) before contributing.*
+*Key Unicode terminology is defined in the [glossary](https://github.com/Wisdom/Awesome-Unicode/blob/master/GLOSSARY.md).*
 
 <br><br>
 
@@ -1031,12 +1031,12 @@ Note: Principle descriptions are from [codepoints.net](https://codepoints.net/ab
 
 ## Contributing
 
-See the *Awesome Unicode* [contribution guide](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) for details on how to contribute.
+See the *Awesome Unicode* [contribution guide](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) for details on how to contribute.
 
 
 ## Code of Conduct
 
-See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+See the [Code of Conduct](https://github.com/Wisdom/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 >In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
@@ -1050,4 +1050,4 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 To the extent possible under law, [the
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
-[license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) for details.
+[license file](https://github.com/Wisdom/Awesome-Unicode/blob/master/LICENSE) for details.

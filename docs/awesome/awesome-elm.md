@@ -1,7 +1,7 @@
-<div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
+<div class="github-widget" data-repo="sporto/awesome-elm"></div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/isRuslan/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
+    <img src="https://raw.githubusercontent.com/sporto/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
     <h1>Awesome Elm</h1>
     <br />
     <br />
@@ -216,12 +216,17 @@ Here are some notable ones:
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
-* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer 
+
+### Code Generators
+
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
+* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
 
 ### Run Elm
 

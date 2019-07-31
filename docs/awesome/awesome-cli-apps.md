@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
-- [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
+- [td-cli](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 - [taskell](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
@@ -211,21 +211,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect archive type for a file or stdin.
-- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
-- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 - [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
-- [pass](https://www.passwordstore.org) - The standard unix password manager.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
-- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [pass](https://www.passwordstore.org) - Password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
@@ -241,7 +234,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
-- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup .
+- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Terminal Sharing Utilities
 
@@ -280,6 +274,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+
+### System Interaction Utilities
+
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
 
 ## Command Line Learning
 

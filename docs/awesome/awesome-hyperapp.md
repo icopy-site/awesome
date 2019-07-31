@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="hyperapp/awesome-hyperapp"></div>
+<div class="github-widget" data-repo="jorgebucaran/awesome-hyperapp"></div>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
 > 1 kB JavaScript library for building web applications.
@@ -10,7 +10,7 @@ A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- /TOC -->
 
-To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](https://github.com/hyperapp/awesome-hyperapp/blob/master//CONTRIBUTING.md) for more information.
+To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) for more information.
 
 ## Official Resources
 

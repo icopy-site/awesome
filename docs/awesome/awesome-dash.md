@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="Acrotrend/awesome-dash"></div>
+<div class="github-widget" data-repo="ucg8j/awesome-dash"></div>
 ## Awesome Dash  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" align="right" width="250">](https://plot.ly/products/dash/)

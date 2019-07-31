@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="bfred-it/Awesome-WebExtensions"></div>
+<div class="github-widget" data-repo="fregante/Awesome-WebExtensions"></div>
 ## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
