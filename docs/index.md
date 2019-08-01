@@ -217,6 +217,7 @@
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
 - [Storybook](awesome/awesome-storybook.md) - Development environment for UI components.
+- [Blazor](awesome/awesome-blazor.md) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 
 ## Back-End Development
