@@ -140,7 +140,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
 
   A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
-    
+
+- **[Build your SaaS](https://saas.transistor.fm/)**
+
+  What does it take to build a SaaS in 2019? Podcast by [Jon Buda](https://twitter.com/jonbuda) and [Justin Jackson](https://twitter.com/mijustin) as they grow Transistor.fm.
+
 ### Talks
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** by [David Heinemeier Hansson](https://twitter.com/dhh)
@@ -337,6 +341,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
+- **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
 
 ##### Other
 

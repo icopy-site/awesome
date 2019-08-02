@@ -77,13 +77,14 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
 - [GSMA Mobile Economy - West Africa](https://www.gsma.com/r/mobileeconomy/west-africa/) (2019)
+- [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
+- [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2018)
+- [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - (Q3 2018) Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
 - [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) - 2016.
 - [Ericsson Mobility Report - Sub-Saharan Africa](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf) (2015)
-- [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - (Q3 2018) Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a poupourii of countries based on OpenSignal data gathering.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
 
