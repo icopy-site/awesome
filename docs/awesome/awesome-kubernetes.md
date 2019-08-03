@@ -287,6 +287,7 @@ Managed Kubernetes
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
+  - [Tilt](https://github.com/windmilleng/tilt)
 
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
@@ -349,6 +350,7 @@ MOOC Courses / Tutorials
   - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
   - [Kubernetes Tutorial by Tutorialspoint](http://www.tutorialspoint.com/kubernetes/)
   - [Imperative vs. Declarative — a Kubernetes Tutorial](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) by [Adrien Trouillaud](https://github.com/adrienjt/)
+  - [Learning Kubernetes, The Chinese Taoist Way](https://github.com/caicloud/kube-ladder)
 
 Case Studies
 =======================================================================
@@ -721,6 +723,7 @@ Projects
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
+* [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 
 ## Application deployment orchestration
 
@@ -809,7 +812,6 @@ Projects
 
 * [FfDL](https://github.com/IBM/FfDL) - Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes
 * [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
-* [MLT](https://github.com/IntelAI/mlt) - Machine Learning Container Templates: easy to use container and kubernetes object templates.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - Tools for ML/MXNet on Kubernetes.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - An open source platform for reproducible machine learning and deep learning on kubernetes
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes

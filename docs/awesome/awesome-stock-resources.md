@@ -146,7 +146,6 @@ A collection of resources which contain stock graphical elements which don't fit
 A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
-* [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
@@ -175,7 +174,7 @@ Websites offering images suitable for texturing objects for 3D graphics.
 
 A mixture of free and open source font resources.
 
-* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
+* [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
