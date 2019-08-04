@@ -118,8 +118,7 @@
 ## Misc
 
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
-* [Ersatzteil für Heizkörperthermostat](https://www.thingiverse.com/thing:3522194) - stl Datei für 3D Druck
-* [Gehäuse für RaspberryPi mit RFI-RF-MOD](https://www.thingiverse.com/thing:3117290) - stl Datei für 3D Druck
+* [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) - Diverse Teile rund um Homematic zum selbst drucken.
 
 ## Contribute
 

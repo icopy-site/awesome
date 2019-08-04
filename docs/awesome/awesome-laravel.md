@@ -106,6 +106,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
+* [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
 * [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
@@ -133,6 +134,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - Fast XLSX, CSV and ODT import and export for Laravel
+* [Laravolt Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 
 ##### Integration with Javascript
 
@@ -178,7 +180,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal
-* [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Supports Relay, eloquent models, validation and GraphiQL
+* [Laravel GraphQL](https://github.com/rebing/graphql-laravel) - Supports Relay, eloquent models, validation and GraphiQL
 * [Lighthouse](https://github.com/nuwave/lighthouse) - An up and coming GraphQL library for Laravel
 * [Laravel Responder](https://github.com/flugger/laravel-responder) - Build custom API responses with Fractal
 
@@ -207,6 +209,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Horizon](https://github.com/laravel/horizon) - Monitor and configure queues with a simple web UI
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
 * [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
+* [Larametrics](https://github.com/aschmelyun/larametrics) - A self-hosted metrics and notifications platform for Laravel apps
 
 ##### Localization
 
@@ -254,6 +257,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Deployment
 
+* [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
@@ -291,6 +295,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
+* [LaraShout](https://larashout.com/)
 
 ## Videos
 
@@ -324,7 +329,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laracon US 2018](https://www.youtube.com/watch?v=3eyftAR5ilo&list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
 * [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
-* [Larcaon US 2017](https://streamacon.com/video/laracon-us-2017)
+* [Laracon US 2017](https://streamacon.com/video/laracon-us-2017)
 * [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
 * [Laracon US 2016](https://streamacon.com/video/laracon-us-2016)
 * [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
@@ -335,7 +340,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Books
 
-* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter) by Shawn McCool
+* [Laravel Starter](https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS) by Shawn McCool
 * [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
 * [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
 * [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
@@ -361,7 +366,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
 * [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) by Christopher John Pecoraro
 * [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/) by Pusher
-* [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) by Francesco Malatesta
+* [Learning Laravel's Eloquent](https://www.amazon.com/Learning-Laravels-Eloquent-Francesco-Malatesta-ebook/dp/B00YSILQ6C) by Francesco Malatesta
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
@@ -396,9 +401,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
-* [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
+* [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
-* [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
+* [Laravel Enso](https://github.com/laravel-enso/enso)
+* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
 
 ## Codebases for Reference
 
@@ -418,6 +424,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
+* [Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
+* [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
+
 
 
 * [OctoberCMS](https://github.com/octobercms/october)
@@ -445,7 +454,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))
+* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/register))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
@@ -463,26 +472,26 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
-* [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
-* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
-* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
+* [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
+* [Laravel Indonesia](http://id-laravel.com/) ([Facebook](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [GitHub](https://github.com/laravelbrasil))
+* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook](https://www.facebook.com/groups/laravelturkiye/))
+* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
-* [Laravel Taiwan](https://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Taiwan](https://laravel.tw/) ([Facebook](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
-* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
-* [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
-* [Laravel Tokyo](https://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
+* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook](https://www.facebook.com/groups/laravelkorea/))
+* [Laravel Japan](http://laravel.jp/) ([Facebook](https://www.facebook.com/groups/laravel.jp/))
 * [Laravel Malaysia](https://www.facebook.com/groups/laravel.my/)
-* [Laravel Algeria Facebook Group](https://www.facebook.com/groups/LaravelAlgeria/)
-* [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
-* [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
+* [Laravel Algeria](https://www.facebook.com/groups/LaravelAlgeria/)
+* [Laravel Greece](http://www.laravel.gr) ([Facebook](https://www.facebook.com/laravelgr))
+* [Laravel Middle East](http://laravelme.com/) ([Facebook](https://www.facebook.com/laravelme))
 * [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 * [Laravel Italy](http://laravel-italia.it)
-* [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
+* [Laravel Vietnam](https://www.facebook.com/groups/vietnam.laravel/)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 * [Laravel Hungary](https://laravel.hu)
-* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
+* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 
 ##### Meetups
 
