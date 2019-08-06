@@ -89,6 +89,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
+- [nannou](http://nannou.cc/)
+[Cross-platform] - Open-source creative coding framework for the Rust language
+- [thi.ng](http://thi.ng/)
+[Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
 - [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 
 ### Visual Programming Languages
@@ -161,6 +165,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
 - [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
 - [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
+- [LiveCodeLab](http://livecodelab.net) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
 - [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
