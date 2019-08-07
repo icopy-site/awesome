@@ -71,6 +71,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
  - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - SOTA across many NLP tasks from unsupervised pretraining on huge corpus.
  - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) - All hail NLP's ImageNet moment. 
  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) - Understand the different approaches used for NLP's ImageNet moment. 
+ - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) - Not only the SOLID principles are needed for doing clean code, but the furtherless known REP, CCP, CRP, ADP, SDP and SAP principles are very important for developping huge software that must be bundled in different separated packages.
  
 <a name="practical-resources" />
 
@@ -79,6 +80,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
+- [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
 - [skflow](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
 - [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.

@@ -79,7 +79,7 @@ Game networking is a subset of computer networking that commonly covers data rep
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - (Paid) C++ online game development tutorial series by Sam Pattuzzi.
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
 - Unity
-  - [DarkRift2 Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - Making of a simple networked bouncy ball using DarkRift2 from MateriaGame.
+  - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - Making of a simple networked bouncy ball using DarkRift2 from MateriaGame.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
   - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.
 
@@ -127,6 +127,7 @@ Game networking is a subset of computer networking that commonly covers data rep
 - [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy server. (Windows, macOS, Linux)
 - [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
+- [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging, maintaining and monitoring connections. (Windows)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.getpostman.com/) - Web API debugging client. (Windows, macOS, Linux)
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, macOS, Linux)

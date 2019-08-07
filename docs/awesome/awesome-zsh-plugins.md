@@ -523,6 +523,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [poetry](https://github.com/darvid/zsh-poetry) - Automatically activates and deactivates [Poetry](https://poetry.eustace.io/)-created python virtualenvs.
 * [pr-eol](https://github.com/zpm-zsh/pr-eol) - Displays an EOL symbol which can be embedded in the prompt.
 * [pr-exec-time](https://github.com/zpm-zsh/pr-exec-time) - Adds a variable you can use to display the execution time of the last command run.
+* [pr-cwd](https://github.com/zpm-zsh/pr-cwd) - Creates a global variable with current working directory. Plugin has integration with [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks).
 * [pr-git](https://github.com/zpm-zsh/pr-git) - Creates a global variable with `git` status information that can be displayed in prompts.
 * [pr-is-root](https://github.com/zpm-zsh/pr-is-root) - Sets an environment variable you can use in a custom prompt when running as root.
 * [pr-jobs](https://github.com/zpm-zsh/pr-jobs) - Creates an environment variable which can be used to display background job information in a custom prompt.
@@ -938,7 +939,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [jovial](https://github.com/zthxxx/jovial) - Shows host, user, path, development environment, `git` branch, which python venv is active.
 * [judgedim](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.
 * [just-another](https://github.com/supertassu/another-theme) - Just another theme, with hostname when you're sshed to another machine.
-* [jwalter](https://github.com/jeffwalter/zsh-jwalter) - Theme with `git`, `svn`, and network awareness.
+* [jwalter](https://github.com/jeffwalter/zsh-jwalter) - Powerline-style theme with `git`, `svn`, `npm`, `rvm` and network awareness. Requires Powerline-compatible terminal font.
 * [karu](https://github.com/zaari/karu) - Minimalist single line ZSH prompt.
 * [keloran](https://github.com/Keloran/keloran.zsh-theme) - Theme that includes a few features from other themes.
 * [kenton](https://github.com/notnek/zsh-theme) - Optimized for dark backgrounds, includes `git` status information.

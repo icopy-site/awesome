@@ -74,6 +74,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
+-   [graph35](https://ctan.org/tex-archive/graphics/graph35) – Draw keys and screen items of several Casio calculators.
 -   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
@@ -82,6 +83,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
+-   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
