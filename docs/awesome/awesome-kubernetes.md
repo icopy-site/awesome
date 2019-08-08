@@ -284,6 +284,7 @@ Managed Kubernetes
   - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
+  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required.
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
@@ -626,7 +627,7 @@ Projects
 * [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment) - Memory-centric distributed database, caching, processing platform
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
 * [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
-* [Crate](http://crate.io/docs/scale/kubernetes/)
+* [CrateDB](https://crate.io/docs/crate/guide/en/latest/deployment/containers/kubernetes.html)
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)

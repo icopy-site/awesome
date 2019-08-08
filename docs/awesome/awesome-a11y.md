@@ -9,31 +9,28 @@
 
 Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) which you can [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-> A curated list of awesome Accessibility tools, articles and resources.
+> A curated list of awesome accessibility tools, articles, and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 
-  - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
-  - [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
-  - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles.md)
-  - [Books](https://github.com/brunopulis/awesome-a11y/blob/master/topics/books.md)
-  - [Courses](https://github.com/brunopulis/awesome-a11y/blob/master/topics/courses.md)
-  - [Companies & Organizations](https://github.com/brunopulis/awesome-a11y/blob/master/topics/companies.md)
-  - [Development Testing and Validators](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md)
-  - [Guides](https://github.com/brunopulis/awesome-a11y/blob/master/topics/guides.md)
-  - [Laws](https://github.com/brunopulis/awesome-a11y/blob/master/topics/laws.md)
-  - [Meetups](https://github.com/brunopulis/awesome-a11y/blob/master/topics/meetups.md)
-  - [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
-  - [People to Follow in Web Accessibility](https://github.com/brunopulis/awesome-a11y/blob/master/topics/people.md)
-  - [Assistive Technology](https://github.com/brunopulis/awesome-a11y/blob/master/topics/assistive-technology.md)
-  - [Talks](https://github.com/brunopulis/awesome-a11y/blob/master/topics/talks.md)
-  
+- [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
+- [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles-and-videos.md)
+- [Assistive Technology](https://github.com/brunopulis/awesome-a11y/blob/master/topics/assistive-technology.md)
+- [Books](https://github.com/brunopulis/awesome-a11y/blob/master/topics/books.md)
+- [Companies and Organizations](https://github.com/brunopulis/awesome-a11y/blob/master/topics/companies-and-organizations.md)
+- [Courses](https://github.com/brunopulis/awesome-a11y/blob/master/topics/courses.md)
+- [Development Testing and Validators](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md)
+- [Guides](https://github.com/brunopulis/awesome-a11y/blob/master/topics/guides.md)
+- [Laws](https://github.com/brunopulis/awesome-a11y/blob/master/topics/laws.md)
+- [Meetups](https://github.com/brunopulis/awesome-a11y/blob/master/topics/meetups.md)
+- [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
+- [People to Follow in Web Accessibility](https://github.com/brunopulis/awesome-a11y/blob/master/topics/people.md)
+- [Talks](https://github.com/brunopulis/awesome-a11y/blob/master/topics/talks.md)
+- [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
 
 ## CONTRIBUTING
 
 [Please follow these recommendations](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md).
-
-----
 
 ## LICENSE
 

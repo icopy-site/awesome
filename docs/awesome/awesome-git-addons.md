@@ -1475,7 +1475,7 @@ Leave building!
 
 ## [git-town](https://github.com/Originate/git-town)
 
-TBD
+TBD - PR Welcome!
 
 
 ## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
@@ -1557,7 +1557,7 @@ done. all 1 files are revealed.
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
-TBD
+TBD - PR Welcome!
 
 
 ## [git-fixup](https://github.com/keis/git-fixup)
@@ -1655,12 +1655,12 @@ Saved Profiles:
 
 ## [gitsome](https://github.com/donnemartin/gitsome)
 
-TBD
+TBD - PR Welcome!
 
 
 ## [git-hound](https://github.com/ezekg/git-hound)
 
-TBD
+TBD - PR Welcome!
 
 
 ## [git-recall](https://github.com/Fakerr/git-recall)
@@ -1722,7 +1722,7 @@ Line 1 will be cropped at 100 characters. All other lines will be wrapped after 
 
 ## [git-fresh](https://github.com/imsky/git-fresh)
 
-TBD
+TBD - PR Welcome!
 
 ## [git-fs](https://github.com/freddi301/git-fs)
 
@@ -1869,6 +1869,11 @@ home
 $ git profile use work
 ```
 Currently there will be no output in case of success
+
+## [git-revise](https://github.com/mystor/git-revise)
+
+TBD - PR Welcome!
+
 
 ## License
 

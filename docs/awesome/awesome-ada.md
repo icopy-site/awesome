@@ -50,7 +50,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Unit Test](#Unit-Test)   
 11. [Tools](#Tools) 
 	1. [Verification](#Verification)   
-	2. [Generation](#Generation)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
@@ -295,6 +294,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
+
+#### UML
+- [AdaML](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 
 ## Libraries
 
