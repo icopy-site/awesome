@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [vim](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 - [neovim](https://github.com/neovim/neovim) - Vim fork focused on extensibility and usability.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
+- [micro](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Web Development
 
@@ -180,7 +181,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple command-line timetracker.
 - [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Time tracking utility with simple stopwatch, calendar-based backfill and flexible reporting.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+- [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Note Taking and Lists
 
@@ -373,6 +375,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## Version Control
 

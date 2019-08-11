@@ -186,6 +186,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
 - [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Fastify](https://www.fastify.io/) - Fastify, Fast and low overhead web framework, for Node.js.
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 - [Graft](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
@@ -245,6 +246,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
+- [Micro Frontends](https://micro-frontends.org) - Extending the microservice idea to frontend development.
 
 ## Capabilities
 
@@ -345,6 +347,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
+- [Crossbar](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
@@ -654,6 +657,7 @@ A curated list of Microservice Architecture related principles and technologies.
   + Book 4: Network, Security & Storage with Docker & Containers.
   + Book 5: Monitoring & Management with Docker & Containers.
 - [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - Teaches the path to understanding how to apply microservices architecture with your own real-world projects.
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - A practical guide that teaches how to develop large software projects with multiple independent teams.
 
 ### Sites & Organizations
 
