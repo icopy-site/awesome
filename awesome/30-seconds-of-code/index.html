@@ -13052,18 +13052,20 @@ The comparator function takes four arguments: the values of the two elements bei
 <h3 id="findlastindex">findLastIndex<a class="headerlink" href="#findlastindex" title="Permanent link">&para;</a></h3>
 <p>Returns the index of the last element for which the provided function returns a truthy value.</p>
 <p>Use <code>Array.prototype.map()</code> to map each element to an array with its index and value.
-Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsy values, <code>Array.prototype.pop()</code> to get the last one.</p>
+Use <code>Array.prototype.filter()</code> to remove elements for which <code>fn</code> returns falsy values, <code>Array.prototype.pop()</code> to get the last one.
+<code>-1</code> is the default value when not found.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">findLastIndex</span> <span class="o">=</span> <span class="p">(</span><span class="nx">arr</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">=&gt;</span>
-  <span class="nx">arr</span>
+  <span class="p">(</span><span class="nx">arr</span>
     <span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">val</span><span class="p">,</span> <span class="nx">i</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">[</span><span class="nx">i</span><span class="p">,</span> <span class="nx">val</span><span class="p">])</span>
     <span class="p">.</span><span class="nx">filter</span><span class="p">(([</span><span class="nx">i</span><span class="p">,</span> <span class="nx">val</span><span class="p">])</span> <span class="p">=&gt;</span> <span class="nx">fn</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">i</span><span class="p">,</span> <span class="nx">arr</span><span class="p">))</span>
-    <span class="p">.</span><span class="nx">pop</span><span class="p">()[</span><span class="mi">0</span><span class="p">];</span>
+    <span class="p">.</span><span class="nx">pop</span><span class="p">()</span> <span class="o">||</span> <span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">])[</span><span class="mi">0</span><span class="p">];</span>
 </pre></div>
 
 <details>
 <summary>Examples</summary>
 
 <div class="codehilite"><pre><span></span><span class="nx">findLastIndex</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">],</span> <span class="nx">n</span> <span class="p">=&gt;</span> <span class="nx">n</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">===</span> <span class="mi">1</span><span class="p">);</span> <span class="c1">// 2 (index of the value 3)</span>
+<span class="nx">findLastIndex</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">],</span> <span class="nx">n</span> <span class="p">=&gt;</span> <span class="nx">n</span> <span class="o">===</span> <span class="mi">5</span><span class="p">);</span> <span class="c1">// -1 (default value when not found)</span>
 </pre></div>
 
 </details>
