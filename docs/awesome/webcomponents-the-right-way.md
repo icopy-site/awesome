@@ -117,7 +117,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
 ### Best Practices
 
@@ -171,7 +171,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Compilers
 
 - [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
-- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionaly generate Web Components).
+- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionally generate Web Components).
 
 ### Other
 
@@ -241,6 +241,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
   - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
   - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
+  - [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
 - "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
