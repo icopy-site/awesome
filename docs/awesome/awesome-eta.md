@@ -59,7 +59,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 - [Slack](https://slack.eta-lang.org/) - Slack channel.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
-- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
 
 ## Twitter
 - [Eta](https://twitter.com/eta_lang) - Official Twitter account.
