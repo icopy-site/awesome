@@ -47,7 +47,6 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Social
 
-- [Reddit](https://www.reddit.com/r/ledger/) - Ledger subreddit.
 - [Twitter](https://twitter.com/LedgerTips) - Usage tips.
 - [Google Group](https://groups.google.com/forum/#!forum/ledger-cli) - Ledger Google Group.
 - [Stack Exchange](https://money.stackexchange.com/search?q=ledger-cli) - Tag on “Personal Finance & Money Stack”.

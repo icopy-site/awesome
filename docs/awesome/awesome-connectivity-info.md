@@ -22,7 +22,8 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2018) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - (2017) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
-- [A4AI Mobile Broadband Data Costs](https://a4ai.org/mobile-broadband-pricing-data/) - (2017) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
+
+- A4AI Mobile Broadband Data Costs - ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2019) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) - (2017) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) - Forecast and Trends, 2017–2022 White Paper.

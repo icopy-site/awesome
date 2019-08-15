@@ -24,7 +24,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### First Steps
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line.
-- [REPL](http://try.frege-lang.org/) - Edit and run Frege code on the web.
 - [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples.
 - [Template](https://github.com/tfausak/fregexample) - Template for Frege projects.
 - [Trending](https://github.com/trending?l=frege) - Trending projects on GitHub.
@@ -68,7 +67,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) - InfoQ article on Frege.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - List of more articles on the Frege wiki.
 - [Frege Programming Language](http://fregepl.blogspot.com) - Blog of Ingo Wechsung.
-- [Frege Posts](https://www.canoo.com/blog/tag/frege/) - Blog of Dierk König.
+- [JAXenter](https://jaxenter.de/frege-haskell-jvm-54617) - Interview with Ingo Wechsung (German).
 
 ### Books
 
@@ -136,6 +135,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Games
 
 - [2048](https://github.com/tfausak/fr2048) - Frege clone of 2048.
+- [frech](https://github.com/Ingo60/frech) - Fully functional chess engine.
 
 ### Media
 
@@ -165,7 +165,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Console REPL](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL](https://github.com/Dierk/frepl-gui) - GUI based REPL.
-- [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 
 ### Unit Testing
 

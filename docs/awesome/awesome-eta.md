@@ -75,7 +75,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Blogs
 
 - [Eta programming language](https://blog.eta-lang.org/) - Official blog.
-- [TypeLead](https://blog.typelead.com/) - Blog of the company behind Eta.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - Post about using Eta on Android.
 
 ### Conferences
@@ -88,7 +87,9 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Talks
 
+- [Introduction to Eta](https://www.youtube.com/watch?v=hmDLNO7Gkxs) - Introduction by the creator of Eta.
 - [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - Introduction to the language and its origin.
+- [Haskell for JVM](https://www.youtube.com/watch?v=P1dmHKJ2vak) - Talk at LambdaConf about porting a language to the JVM.
 - [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) - Comparison of Eta and Scala.
 - [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) - Concurrency on the JVM.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - Videos about functional programming.
@@ -97,6 +98,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Tools
 
+- [IntelliJ Eta](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
 - [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
 - [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
 
