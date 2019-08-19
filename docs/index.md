@@ -340,6 +340,7 @@
 - [Gideros](awesome/awesome-gideros.md) - Game engine.
 - [Minecraft](awesome/awesome-minecraft.md) - Sandbox video game.
 - [Game Datasets](awesome/game-datasets.md) - Materials and datasets for Artificial Intelligence in games.
+- [libGDX](awesome/awesome-libgdx.md) - Java game framework.
 
 
 ## Development Environment
@@ -485,6 +486,7 @@
 - [Network Analysis](awesome/awesome-network-analysis.md)
 - [PCAPTools](awesome/awesome-pcaptools.md)
 
+
 ## Decentralized Systems
 
 - [Bitcoin](awesome/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
@@ -494,6 +496,12 @@
 - [Ethereum](awesome/Awesome-Ethereum.md) - Distributed computing platform for smart contract development.
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
+
+
+## Higher Education
+
+- [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
+
 
 ## Miscellaneous
 
@@ -610,6 +618,7 @@
 - [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
 - [Connectivity Data and Reports](awesome/awesome-connectivity-info.md) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](awesome/awesome-stacks.md) - Tech stacks for building different apps and features.
+- [IRC](awesome/awesome-irc.md) - Open source messaging protocol.
 
 
 ## Related

@@ -314,6 +314,7 @@ nav:
     - Gideros: awesome/awesome-gideros.md
     - Minecraft: awesome/awesome-minecraft.md
     - Game Datasets: awesome/game-datasets.md
+    - libGDX: awesome/awesome-libgdx.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -433,6 +434,8 @@ nav:
     - Ethereum: awesome/Awesome-Ethereum.md
     - Blockchain AI: awesome/awesome-blockchain-ai.md
     - EOSIO: awesome/awesome-eosio.md
+  - Higher Education:
+    - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -549,6 +552,7 @@ nav:
     - Software Architecture: awesome/awesome-software-architecture.md
     - Connectivity Data and Reports: awesome/awesome-connectivity-info.md
     - Stacks: awesome/awesome-stacks.md
+    - IRC: awesome/awesome-irc.md
 
 
 # Theme
