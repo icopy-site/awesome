@@ -28,6 +28,7 @@
 - [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
+- [GNOME Feeds](https://gitlab.com/gabmus/gnome-feeds) - An RSS/Atom feed reader for GNOME.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
 - [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
@@ -168,6 +169,7 @@
 - [Materia](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
 - [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) - A flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell.
+- [Plata](https://gitlab.com/tista500/plata-theme) - A Gtk theme based on Material Design Refresh.
 
 ### Flat
 
