@@ -195,6 +195,12 @@ programming languages with appropriate bindings for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
   <sup>[[dep: bundled](#bundled)]</sup>
 
+### Gradient boosting
+
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) - Ruby bindings for XGBoost
+- [xgb](https://github.com/ankane/xgb) - Ruby bindings for XGBoost
+- [lightgbm](https://github.com/ankane/lightgbm) - Ruby bindings for LightGBM
+
 ## Applications of machine learning
 
 - [phashion](https://github.com/westonplatter/phashion) -
