@@ -47,9 +47,9 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/application.4031d38b.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.30686662.css">
       
-        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.3e3d1dff.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.a8b3c06d.css">
       
       
         
@@ -2957,6 +2957,13 @@
           <li class="md-nav__item">
   <a href="#safe-mode-boot" title="Safe Mode Boot" class="md-nav__link">
     Safe Mode Boot
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#save-dialogs" title="Save Dialogs" class="md-nav__link">
+    Save Dialogs
   </a>
   
 </li>
@@ -12574,6 +12581,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#save-dialogs" title="Save Dialogs" class="md-nav__link">
+    Save Dialogs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#screenshots" title="Screenshots" class="md-nav__link">
     Screenshots
   </a>
@@ -14264,6 +14278,10 @@ sudo nvram boot-args<span class="o">=</span><span class="s2">&quot;-x&quot;</spa
 sudo nvram boot-args<span class="o">=</span><span class="s2">&quot;&quot;</span>
 </pre></div>
 
+<h3 id="save-dialogs">Save Dialogs<a class="headerlink" href="#save-dialogs" title="Permanent link">&para;</a></h3>
+<p>Significantly improve the now rather slow animation in save dialogs.
+<div class="codehilite"><pre><span></span>defaults write NSGlobalDomain NSWindowResizeTime .001
+</pre></div></p>
 <h3 id="screenshots">Screenshots<a class="headerlink" href="#screenshots" title="Permanent link">&para;</a></h3>
 <h4 id="take-delayed-screenshot">Take Delayed Screenshot<a class="headerlink" href="#take-delayed-screenshot" title="Permanent link">&para;</a></h4>
 <p>Takes a screenshot as JPEG after 3 seconds and displays in Preview.
@@ -14640,7 +14658,7 @@ chsh -s <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/zsh
       
     </div>
     
-      <script src="../../assets/javascripts/application.718059d6.js"></script>
+      <script src="../../assets/javascripts/application.6579397f.js"></script>
       
       <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
       
