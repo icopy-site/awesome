@@ -5,7 +5,8 @@
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
-You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
+- [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
+- [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
 
 
@@ -422,6 +423,11 @@ Contribute some ;)
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) first.
+
+
+## Related
+
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 
 ## License

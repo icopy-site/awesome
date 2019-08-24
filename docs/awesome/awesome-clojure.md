@@ -86,6 +86,7 @@
 *Libraries for working with dates and times.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
+  * [timewords](https://github.com/tokenmill/timewords)
 
 ## GUI
 
