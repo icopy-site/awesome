@@ -7430,8 +7430,8 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 <h2 id="persistent-object-databases">Persistent object databases<a class="headerlink" href="#persistent-object-databases" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://github.com/hanshuebner/bknr-datastore">bknr.datastore</a> - a CLOS-based lisp-only database in RAM with transaction logging persistence. <a href="http://bknr.net/html/license.html">licence</a>. (see also chap. 21 of "Common Lisp Recipes")</li>
-<li><a href="https://common-lisp.net/project/elephant/">elephant</a> - Elephant is a persistent object database for Common Lisp with full transaction semantics. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 <li><a href="https://github.com/Shinmera/ubiquitous">ubiquitous</a> - A library providing easy-to-use persistent configuration storage. <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">Artistic License 2.0</a>.</li>
+<li><a href="https://common-lisp.net/project/cl-prevalence/">cl-prevalence</a> - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. <a href="https://github.com/40ants/cl-prevalence">github fork</a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 </ul>
 <h2 id="wrappers">Wrappers<a class="headerlink" href="#wrappers" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7620,6 +7620,9 @@ processes. It has
 <li><img alt="⭐" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2b50.svg" title=":star:" /> <a href="http://cliki.net/closer-mop">closer-mop</a> - A compatibility layer that rectifies many absent or incorrect MOP features. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/EuAndreh/defclass-std">defclass-std</a> - a shortcut macro to write DEFCLASS forms quickly. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 <li><a href="https://github.com/markcox80/specialization-store/">specialization-store</a> - generic functions based on types. Simplified BSD License variant.</li>
+<li><a href="https://github.com/guicho271828/inlined-generic-function">inlined-generic-function</a> -
+Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<li><a href="https://github.com/alex-gutev/static-dispatch">static-dispatch</a> - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="iteration">Iteration<a class="headerlink" href="#iteration" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8120,6 +8123,7 @@ Text language identification using Wikipedia data. No license specified.</li>
 <ul>
 <li>👍 <a href="https://common-lisp.net/project/py-configparser/">py-configparser</a> - reads and writes Python's ConfigParser-like configuration files. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/fukamachi/envy">envy</a> - Configuration switcher. <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">FreeBSD</a>.</li>
+<li><a href="https://github.com/sheepduke/chameleon/">chameleon</a> - a configuration management library shipped with profile support. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="csv">CSV<a class="headerlink" href="#csv" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8201,11 +8205,13 @@ code must look pretty, documentation is code. <a href="https://opensource.org/li
 <ul>
 <li><img alt="⭐" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2b50.svg" title=":star:" /> <a href="https://github.com/sharplispers/log4cl/">log4cl</a> - Logging framework modelled after Log4J. <a href="http://directory.fsf.org/wiki/License:Apache2.0">Apache2.0</a>. Advanced integration with Slime.</li>
 <li><a href="https://shinmera.github.io/verbose">verbose</a> - A fast and highly configurable logging framework. <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">Artistic License 2.0</a>.</li>
+<li><a href="https://github.com/AccelerationNet/a-cl-logger">a-cl-logger</a> - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…</li>
 </ul>
 <p>To third parties:</p>
 <ul>
 <li><a href="https://github.com/fukamachi/cl-fluent-logger">cl-fluent-logger</a> - A Common Lisp structured logger for <a href="https://www.fluentd.org/">Fluentd</a>.</li>
 </ul>
+<p>See also: <a href="https://sites.google.com/site/sabraonthehill/comparison-of-lisp-logging-libraries">extensive comparison of logging libraries</a>.</p>
 <h2 id="markdown">Markdown<a class="headerlink" href="#markdown" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://github.com/3b/3bmd">3bmd</a> - a markdown -&gt; html converter. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
