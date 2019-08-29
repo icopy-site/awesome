@@ -48,6 +48,19 @@ Now you're off...
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Check Whether an Element Exists
+
+Prior using a HTML element you need to ensure it's part of DOM.
+
+```javascript
+if ($("#selector").length) {
+  //do something with element
+}
+```
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ### Use `.on()` Binding Instead of `.click()`
 
 Using `.on()` gives you several advantages over using `.click()`, such as the ability to add multiple events...
@@ -460,6 +473,10 @@ $(document).ready(function () {
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+
+
+
 
 
 ## Support

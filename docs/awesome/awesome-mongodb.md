@@ -205,7 +205,7 @@ Services:
 
 Services:
 
- - [MongoDB Stitch](https://www.mongodb.com/cloud) - MongoDB Inc. serverless platform offer
+ - [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - MongoDB Inc. serverless platform offer
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)

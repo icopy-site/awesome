@@ -82,7 +82,7 @@ A curated list of awesome HBase projects and resources.
 
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase.
 * [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
-* [Omid](https://github.com/yahoo/omid) - Transactional support for HBase.
+* [Omid](https://github.com/apache/incubator-omid) - Transactional support for HBase.
 * [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
 * [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator.
 
