@@ -79,6 +79,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - Prevents more than one install or update operation at a time.
+- [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
 
 ## Tools
 
@@ -177,7 +178,11 @@ Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-c
 
 ## Packagist
 
-- [Packagist Mirror from Brazil](https://github.com/Webysther/packagist-mirror) - This is a maintained stable version of [packagist crawler](https://github.com/hirak/packagist-crawler).
+[Packagist](https://packagist.org) is the PHP Package Repository.
+
+### Setup a Packagist Mirror 
+
+- [Packagist Mirror](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler).
 - [Docker Image](https://github.com/Webysther/packagist-mirror-docker) - This Docker image helps to create a customized packagist mirror.
 - [Packagist Mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) - Another implementation for creating a packagist mirror.
 
@@ -192,7 +197,8 @@ About metadata mirrors: https://packagist.org/mirrors
 - Africa
   - South Africa - [https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za)
 - Asia
-  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/)
+  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - India - [https://packagist.in/](https://packagist.in/)
   - Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - Japan - [packagist.jp](https://packagist.jp)
 
@@ -207,7 +213,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
-- [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
+- [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
 - [Satis Server](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 - [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).

@@ -46,6 +46,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [TextMate](https://macromates.com) - Editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - Highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 
 #### Office
 
@@ -135,7 +136,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 * [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Fully-featured IDE **Free** for students, open-source and individual developers. ![Freeware][Freeware Icon]
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
@@ -237,6 +237,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Miller](http://johnkerl.org/miller/doc/) - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON. [![Open-Source Software][OSS Icon]](https://github.com/johnkerl/miller) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
+* [nushell](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
 * [Rebound](https://github.com/shobrook/rebound/) - Instantly browse Stack Overflow results in your terminal when you get a compiler error. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
