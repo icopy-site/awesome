@@ -72,7 +72,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenMolar](http://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
-  * [Bika](https://www.bikalims.org/) - LIMS. - Superseded by SENAITE (see below)
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
   * [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
@@ -91,12 +90,14 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java
+  * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A Secure Rest implementation for the HL7 FHIR Specification
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in Go
+  * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - A C# DICOM Library
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity
   * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-  * [https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers](https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers) - a Google implementation of protocol buffers for FHIR.
+  * [FHIR protocol buffers](https://github.com/google/fhir) - a Google implementation of protocol buffers for FHIR.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
@@ -165,3 +166,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Asset Management
 * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+
+### Logistics
+* [OpenLIMS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains

@@ -102,6 +102,7 @@ Table of Contents
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detects all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
   * [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provide3s reliable and useful IP geolocation data for your business.
+  * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
 
 
 
@@ -375,6 +376,7 @@ Table of Contents
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
   * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
+  * [workers.dev](https://workers.dev) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
 
 ## BaaS
 
