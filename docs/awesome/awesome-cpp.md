@@ -92,6 +92,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 * [minimp3](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
+* [Verovio](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency [BSD]
 
 ## Biology
@@ -719,6 +720,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Serialization
 
+* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. [MIT] 
 * [Bond](https://github.com/Microsoft/bond) - An open source, cross-platform framework for working with schematized data. [MIT]
 * [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
