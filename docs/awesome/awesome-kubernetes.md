@@ -273,6 +273,7 @@ Managed Kubernetes
   - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
+  - [Kubesphere](https://kubesphere.io/en)
   - [Kublr](https://kublr.com/how-it-works/) - AWS, Azure, GCP, vSphere, vCloud Director, and On-Prem cluster manager
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Rancher](https://rancher.com/)
@@ -321,6 +322,7 @@ Managed Kubernetes
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
+  - [KubeSphere](https://kubesphere.io/en)
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -744,7 +746,7 @@ Projects
 
 ## Configuration
 
-* [Ansible](http://docs.ansible.com/ansible/latest/modules/k8s_raw_module.html)
+* [Ansible](https://docs.ansible.com/ansible/latest/modules/k8s_module.html)
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
