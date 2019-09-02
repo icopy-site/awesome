@@ -696,6 +696,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Web Framework
 * WebAssembly
   * [Blazor](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.
+    * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) - Collection of awesome resources (samples, components, articles, videos and others) about Blazor.
     * [Blazor Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
   * [Ooui](https://github.com/praeclarum/Ooui) - Small cross-platform UI library that brings the simplicity of native UI development to the web.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
