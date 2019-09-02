@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stevesong/awesome-connectivity-info"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img width="605" height="495" src="https://raw.githubusercontent.com/stevesong/awesome-connectivity-info/master/images/awesome-connectivity-logo.svg?sanitize=true" alt="Awesome Connectivity Logo">
   <br>

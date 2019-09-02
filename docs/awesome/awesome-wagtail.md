@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="springload/awesome-wagtail"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
@@ -46,6 +47,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 - [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
+- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 
 ### StreamField
 
@@ -57,6 +59,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 - [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 - [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+- [Wagtail UI Plus](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.
 
 ### Static site generation
 
@@ -139,6 +142,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 - [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+- [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
 
 ## Tools
 

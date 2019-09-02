@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Zheaoli/awesome-coins"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ripienaar/free-for-dev"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## free-for.dev
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
@@ -117,7 +118,7 @@ Table of Contents
 ## Tools for Teams and Collaboration
 
   * [scinote.net](https://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
-  * [appear.in](https://appear.in/) — One click video conversations, for free
+  * [whereby.com](https://whereby.com/) — One click video conversations, for free (formerly known as appear.in)
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
@@ -340,6 +341,7 @@ Table of Contents
 
 ## CDN and Protection
 
+  * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / non profits.
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc

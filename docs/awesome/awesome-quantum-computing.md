@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="desireevl/awesome-quantum-computing"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Quantum Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
@@ -57,7 +58,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - Software development kit by IBM for working with OpenQASM and the IBM Q Experience.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
-- [Quantum++](https://https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+- [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.

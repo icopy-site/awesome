@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="rafaskb/awesome-libgdx"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.badlogicgames.com/)
 
 ## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing)

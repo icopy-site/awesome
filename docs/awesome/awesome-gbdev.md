@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="gbdev/awesome-gbdev"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)

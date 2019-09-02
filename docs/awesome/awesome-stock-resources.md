@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="neutraltone/awesome-stock-resources"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](https://raw.githubusercontent.com/neutraltone/awesome-stock-resources/master//img/splash.jpg)

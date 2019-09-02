@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sfischer13/awesome-ledger"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ledger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system

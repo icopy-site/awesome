@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="glauberfc/awesome-react-hooks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome React Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [<img src="https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png">](https://reactjs.org/docs/hooks-intro.html)

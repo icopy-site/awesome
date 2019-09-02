@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hbokh/awesome-saltstack"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=hbokh%2Fawesome-saltstack)](https://listlist.net/user/hbokh/awesome-saltstack?subscribe)
 
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.

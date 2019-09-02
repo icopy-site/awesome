@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ellisonleao/magictools"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
     <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>

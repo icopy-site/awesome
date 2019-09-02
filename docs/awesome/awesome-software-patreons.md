@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="uraimo/awesome-software-patreons"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
 > A curated list of awesome programmers and software-related Patreon accounts.
