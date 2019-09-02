@@ -117,7 +117,7 @@ String formatting of date is hard.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "Just store dates in UTC" is not always the right approach..
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - Mind the leap second!
-
+- [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous StackOverflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software. 
 
 ## Emails
 
@@ -231,6 +231,8 @@ It's not only about the address itself, but the relationship between a person an
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
+- [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -
+Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Regex and Postal
 Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
 Why regular expressions and street addresses do not mix.
