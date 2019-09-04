@@ -1,6 +1,8 @@
 <div class="github-widget" data-repo="papers-we-love/papers-we-love"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+ 
+ [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 

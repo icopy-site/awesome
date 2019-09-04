@@ -378,6 +378,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [MVP Space](http://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
+  1. [Mozio](https://angel.co/mozio/jobs/) - Mozio is tying the world's transportation. The team is 100% remote - globally.
   1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
   1. [Nectafy](http://nectafy.com/jobs/) - Inbound marketing and content creation.
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
@@ -488,7 +489,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remoteteam.com](https://www.remoteteam.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
   
 #### Communication
-  1. [Appear.in](https://appear.in) – Browser-based, plugin-less group video calls.
   1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
   1. [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
@@ -507,6 +507,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
+  1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 #### Project Management

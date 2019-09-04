@@ -100,7 +100,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## Bash
 
@@ -116,7 +116,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
-- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](https://valloric.github.io/YouCompleteMe/).
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
@@ -483,6 +483,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Extends Visual Studio Code via things like Node.js based scripts or shell commands, without writing separate extensions
 
 ![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
+
+## [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+
+> PrintCode converts the code being edited into an HTML file, displays it by browser and prints it.
+
+![PrintCode](https://raw.githubusercontent.com/nobuhito/vscode.printcode/master/printcode.gif)
 
 ## [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 

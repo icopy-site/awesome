@@ -55,7 +55,7 @@ For Database Management
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
-* [TablePlus](https://tableplus.io/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
+* [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 * [TeamSQL](https://teamsql.io/) - Cross-platform SQL Client: Simple, Effortless, Extensible.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
@@ -68,7 +68,7 @@ For Database Management
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
-* [nancy](https://gitlab.com/postgres-ai-team/nancy) - The Nancy CLI is a unified way to manage automated database experiments either in clouds or on-premise
+* [nancy](https://gitlab.com/postgres-ai/nancy) - The Nancy CLI is a unified way to manage automated database experiments either in clouds or on-premise
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
@@ -109,6 +109,8 @@ For Database Management
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
+* [pgMustard](https://www.pgmustard.com/) - A modern user interface
+for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
@@ -133,8 +135,6 @@ For Database Management
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
-* [pgMustard](https://www.pgmustard.com/) - A modern user interface
-for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software).
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
@@ -151,8 +151,8 @@ for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software)
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [graphql-engine](https://github.com/hasura/graphql-engine) - Get Instant Realtime GraphQL APIs over PostgreSQL.
-* [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
-* [postgres-checkup](https://gitlab.com/postgres-ai-team/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
+* [sqlcheck](https://github.com/jarulraj/sqlcheck-old) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
+* [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
@@ -162,7 +162,7 @@ for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software)
 * Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
-* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi)
+* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi), [slonik](https://github.com/gajus/slonik)
 * Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.org/project/psycopg2/)
@@ -227,9 +227,10 @@ for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software)
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+* [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres video blog series by Creston Jamison
 
 ### Community
 * [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community. 
 * [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with close to 5000 users
-* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - The most popular IRC channel about Postgres on Freenode with close to 1000 users 
+* [#postgresql on Freenode](https://github.com/dhamaniasad/awesome-postgres/blob/master/ttps://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with close to 1000 users 
 * [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with close to 10000 users
