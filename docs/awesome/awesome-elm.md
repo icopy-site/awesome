@@ -48,6 +48,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ### Games
 
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
+* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
@@ -193,6 +194,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 You can find hundreds of high quality packages at:
 
 * [Elm packages](https://package.elm-lang.org/) - The official registry
+* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
 * [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
@@ -207,6 +209,14 @@ Here are some notable ones:
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
 
 
+## Testing
+
+Tools and libraries to test your Elm applications
+
+* [Elm test](https://github.com/elm-explorations/test) - Unit and fuzz tests
+* [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+
+
 
 ## Tools
 
@@ -218,7 +228,8 @@ Here are some notable ones:
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer 
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 
 ### Code Generators
 
@@ -267,11 +278,13 @@ Here are some notable ones:
 
 ### Sublime Text
 
-* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
+* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
 
-### VIM
+### Vim/Neovim
 
-* [Elm-vim](https://github.com/ElmCast/elm-vim) - Elm mode for vim.
+* [theJian/elm.vim](https://github.com/theJian/elm.vim) - Elm syntax highlighting. Use with [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) since ElmCast/elm-vim does not support Elm 0.19.
+* [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
 * [vim-elm-help](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
 * [emmet-vim](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 

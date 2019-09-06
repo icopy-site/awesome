@@ -85,6 +85,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Intellij IDEA key bindings for VS Code.
 
+## [Camel Humps](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+
+> Like with Visual Studio and Resharper or Intellij IDEA
+
 ## Using VS Code with particular technologies
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).

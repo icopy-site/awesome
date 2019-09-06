@@ -62,6 +62,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 - [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
 - [jbock](https://github.com/h908714124/jbock) - Typesafe, reflection-free, annotation based command-line parser 
+- [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support.  Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
 - [picocli](http://picocli.info) - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
@@ -369,6 +370,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Retrofit](https://square.github.io/retrofit) - Typesafe REST client.
 - [Ribbon](https://github.com/Netflix/ribbon) - Client-side IPC library that is battle-tested in cloud.
 - [Riptide](https://github.com/zalando/riptide) - Client-side response routing for Spring's RestTemplate.
+- [unirest-java](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
 
 ### Hypermedia Types
 

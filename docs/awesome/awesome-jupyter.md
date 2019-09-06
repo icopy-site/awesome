@@ -27,6 +27,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [JupyterWith](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
@@ -122,6 +123,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
 - [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 - [DataScience.com](https://www.datascience.com) - Platform for enterprise data science.
+- [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 - [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.
 - [Google Cloud Datalab](https://cloud.google.com/datalab/) - Notebook platform integrated with the Google Cloud stack.
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - Cloud-based Jupyter environment aimed at machine learning education and research.
@@ -129,6 +131,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - Jupyter notebook deployment customized for interacting with Wikimedia wikis.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
+- [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
 
 ## Official Resources and Documentation
 

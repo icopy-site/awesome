@@ -56,6 +56,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 *Clients for connecting to databases*
 
 * Relational Databases
+  * [Reactive SQL Client](https://raw.githubusercontent.com/eclipse-vertx/vertx-sql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
   * [JDBC](https://raw.githubusercontent.com/vert-x3/vertx-jdbc-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
   * [MySQL / PostgreSQL](https://raw.githubusercontent.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
   * [PostgreSQL](https://github.com/vietj/reactive-pg-client) - Reactive PostgreSQL Client.
