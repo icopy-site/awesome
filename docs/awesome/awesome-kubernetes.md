@@ -368,7 +368,7 @@ Case Studies
 * [Monitoring Kubernetes at Wayblazer](http://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
 * [Major League Soccer Monolith to Kubernetes Transition](http://sysdig.com/blog/monoliths-kubernetes-monitoring-transitioning-docker-major-league-soccer/)
 * [Using Kubernetes on AWS](https://github.com/hjacobs/kubernetes-on-aws-users)
-* [Kubernetes at Github](http://githubengineering.com/kubernetes-at-github/)
+* [Kubernetes at Github](https://github.blog/2017-08-16-kubernetes-at-github/)
 * [Kubernetes the hard way (installation from scratch)](http://github.com/kelseyhightower/kubernetes-the-hard-way/)
 * [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 
@@ -471,6 +471,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 
 ## Package Managers
 
@@ -699,6 +700,7 @@ Projects
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 * [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
+* [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 
 ## Desktop applications
 
@@ -732,6 +734,7 @@ Projects
 * [stern](https://github.com/wercker/stern) - Multi pod and container log tailing
 * [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [K9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
+* [tubectl](https://github.com/reconquest/tubekit) - Kubernetes CLI on steroids with pattern matching
 
 ## Application deployment orchestration
 
