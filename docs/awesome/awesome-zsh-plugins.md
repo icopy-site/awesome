@@ -363,7 +363,6 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [fzf-finder](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf](https://github.com/junegunn/fzf) and (optionally) [bat](https://github.com/sharkdp/bat). Searches in the local tree of subdirectories for files.
 * [fzf-git](https://github.com/hschne/fzf-git) - Add nice `git` completions using [fzf](https://github.com/junegunn/fzf).
 * [fzf-marks](https://github.com/urbainvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in `bash` and `zsh`, using the fuzzy finder [fzf](https://github.com/junegunn/fzf).
-* [fzf-mpd](https://github.com/anders-dc/fzf-mpd/) - A ZSH plugin that allows you to control [mpd](https://www.musicpd.org/) using [fzf](https://github.com/junegunn/fzf).
 * [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf](https://github.com/junegunn/fzf).
 * [fzf-z](https://github.com/andrewferrier/fzf-z) - Brings together the *z* plugin and *fzf* to allow you to easily browse recently used directories at any point on the command line.
 * [fzy](https://github.com/aperezdc/zsh-fzy) - Plugin that uses [fzy](https://github.com/jhawthorn/fzy) for certain fuzzy matching operations.
@@ -560,6 +559,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [rockz](https://github.com/aperezdc/rockz) - Lua + LuaRocks virtual environment manager based upon VirtualZ.
 * [ruby-switch](https://github.com/LockonS/ruby-switch) - Switch ruby versions and manage the PATH variable at the same time.
 * [rvm](https://github.com/johnhamelink/rvm-zsh) - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
+* [safe-kubectl](https://github.com/benjefferies/safe-kubectl) - Add some safety when running `kubectl` by warning what context you're in after a definable number of seconds since the last `kubectl` command.
 * [safe-paste](https://github.com/oz/safe-paste) - A safe-paste plugin. See Conrad Irwin's [bracketed-paste](https://cirw.in/blog/bracketed-paste) blog post.
 * [saneopt](https://github.com/willghatch/zsh-saneopt) - Sane defaults for ZSH options, in the spirit of vim-sensible.
 * [schroot](https://github.com/fshp/schroot.plugin.zsh) - Show current `chroot` name in your prompt.
@@ -633,7 +633,8 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [visit](https://github.com/justinpchang/visit) - Custom plugin for faster navigation.
 * [vox](https://github.com/andrewbonnington/vox.plugin.zsh) - An oh-my-zsh plugin to control [VOX](https://vox.rocks/), a lightweight full-featured audio player for macOS that can play a variety of formats including FLAC and Ogg Vorbis.
 * [vsc](https://github.com/davidtong/vsc.plugin.zsh) - Plugin for Visual Studio Code on macOS.
-* [vscode](https://github.com/qianxinfeng/zsh-vscode) - Plugin for [Visual Studio Code](https://code.visualstudio.com/).
+* [vscode (kasperhesthaven)](https://github.com/kasperhesthaven/vscode) - Simple plugin to open VS code a little easily across systems.
+* [vscode (qianxinfeng)](https://github.com/qianxinfeng/zsh-vscode) - Plugin for [Visual Studio Code](https://code.visualstudio.com/).
 * [wack](https://github.com/leoxlin/wack) - Wraps `ack` command.
 * [wakatime-zsh-plugin](https://github.com/sobolevn/wakatime-zsh-plugin) - Track how much [time](https://wakatime.com/) you have spent in your terminal. Has per project stats.
 * [wakatime](https://github.com/wbingli/zsh-wakatime) - Automatic time tracking for commands in ZSH using [wakatime](https://wakatime.com/).
@@ -1167,7 +1168,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [susi](https://github.com/carcruz/susi-zsh-iterm) - Includes `git` status decorations and an accompanying iTerm2 color scheme.
 * [sy](https://github.com/ttttmr/sy-zsh-theme) - Based on [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme), includes `git` status decorations.
 * [tabaf](https://github.com/bvc3at/tabaf-zsh-theme) - Minimal ZSH theme optimized for dark backgrounds.
-* [tahuri](https://github.com/Tahuri/environment-configuration) - ZSH theme for Arch Linux.
 * [tepig-ys](https://github.com/thingerpig/tepig-ys.zsh-theme) - Includes `git` status decorations and conda/virtualenv status.
 * [termuxer](https://github.com/patrick330602/termuxer) - Theme inspired by agnoster and linuxer.
 * [that-human-jason](https://github.com/thatHumanJason/that-human-jason-zsh-theme) - Based heavily on the [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme) theme included with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
