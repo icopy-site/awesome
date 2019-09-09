@@ -249,6 +249,13 @@
 
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications.
 
+### Design Tooling
+
+- [https://gitlab.gnome.org/World/design/icon-tool](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Preview) - Simple utility to preview icons.
+- [https://gitlab.gnome.org/World/design/palette](https://github.com/Kazhnuz/awesome-gnome/blob/master/Palette) - Tool for viewing the GNOME colour palette.
+- [https://gitlab.gnome.org/World/design/contrast](https://github.com/Kazhnuz/awesome-gnome/blob/master/Contrast) - Checks the contrast between two colors.
+- [https://gitlab.gnome.org/World/design/icon-library](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Library) - Find the right icon to use on your GNOME application.
+
 ### Libraries and Utility
 
 - [libdazzle](https://git.gnome.org/browse/libdazzle) - Companion library to GObject and Gtk+, providing various features that the creators wish were in the underlying library but cannot add for various reasons.
