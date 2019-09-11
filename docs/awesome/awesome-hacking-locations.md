@@ -529,6 +529,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5787230824.png)
 
+## Kyoto
+
+#### Mos Cafe
+
+> Nice cafe where they don't mind if you stay for the whole day. The wifi is so so but you can buy wi2 premium for 3$/6h.
+
+Webapage: https://www.mos.jp/shop/detail/02388/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 

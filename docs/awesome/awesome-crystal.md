@@ -161,6 +161,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
 
+## Debugging
+ * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+
 ## Dependency Injection
 * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 

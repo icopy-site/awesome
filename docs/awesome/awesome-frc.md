@@ -13,25 +13,39 @@
 ## General
 
 - [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
-- [The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
+- [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
+- [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
 - [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
+
+## Suppliers
+
+- [CTR Electronics](http://www.ctr-electronics.com/) - Supplier of many popular parts certified for FRC use, including the Talon SRX's and Victor SPX's.
+- [AndyMark](https://www.andymark.com/) - A supplier for the educational robotics market, focusing particularly on FIRST.
+- [VEXpro](https://www.vexrobotics.com/vexpro) - A distributor of parts for FRC, FTC, and VEX formed by FIRST alumni.
+- [McMaster-Carr](https://www.mcmaster.com/) - A comprehensive index of parts for many applications, from fasteners to pneumatics.
+- [REV Robotics](http://www.revrobotics.com/) - Distributor of many FIRST Legal mechanical and electrical parts, including NEO Brushless Motors and Spark MAX Motor Controllers.
+- [West Coast Products](http://www.wcproducts.net) - A company founded by FIRST alumni that aims to distribute reliable and high-quality parts.
 
 ## Programming
 
 - [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
-- [WPILib ScreenSteps](https://wpilib.screenstepslive.com) - Official documentation for hardware and officially supported software languages.
+- [WPILib ScreenSteps](https://wpilib.screenstepslive.com) - Old and unsupported documentation for hardware and officially supported software languages. For up to date, check below.
+- [WPILib Docs](https://docs.wpilib.org/en/latest/) - Up-to-date documentation on FRC hardware and software for 2020 and beyond.
 
 ## Vision
 
 - [CSCore](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
 - [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
 - [2729 Storm Robotics Vision](https://github.com/2729StormRobotics/StormCV2017) - An example of using OpenCV and GRIP to create a vision system.
+- [Limelight](https://limelightvision.io/) - A plug-and-play vision solution built for FRC.
+- [ChickenVision](https://github.com/team3997/ChickenVision) - An easy to implement vision system created by Team 3997.
 
 ## Scouting
 
 - [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
 - [VictiScout](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
+- [Scoutomic](https://github.com/Scoutomic/Scoutomic-Client) - A user interface for scouting.
 
 ## Driving
 
@@ -44,6 +58,7 @@
 - [/r/FRC](https://www.reddit.com/r/FRC/) - The one and only FRC subreddit.
 - [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php) - The essential forum for all things FRC.
 - [Discord Server](http://discord.gg/frc) - Chat community for robotics advice and socialization with other FRC students, mentors, and alumni. The absolute best place to go for FRC discussion.
+- [Discord Server List](https://docs.google.com/spreadsheets/d/1rm6C_hHhPmiIBZxrQT-xGag2Kv9RTpEdENYSKNYB7iI/edit#gid=1112789586) List of unofficial regional, organizational, and community servers for FRC.
 
 ## Repositories
 
@@ -54,6 +69,8 @@
 - [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams.
 - [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
 - [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST.
+- [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - An library for programming robots in Kotlin, made by Team 5190.
+- [SnobotSim](https://github.com/snobotsim/SnobotSim) - A program that can simulate FRC robots programmed in Java.
 
 ### C++
 
@@ -71,15 +88,22 @@
 - [RobotPy-WPILib](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
 - [pyrobottraining](https://github.com/robotpy/pyrobottraining) - Fundamental tutorial for FRC robot coding in Python.
 - [pynetworktables](https://github.com/robotpy/pynetworktables) - Port to allow accessing of NetworkTables in Python.
+- [TBApi](https://github.com/PlasmaRobotics2403/TBApi) - A Python library for interacting with The Blue Alliance API.
 
 ### CSS
 
 - [banners.css](https://github.com/ErikBoesen/banners.css) - Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.
 
 ### Ruby
+
 - [tba.rb](https://github.com/frc1418/tba.rb) - Simple Ruby library for easy interaction with The Blue Alliance API.
 
+### JavaScript
+
+- [TBA Node API](https://github.com/Team2537/tba-api-node) - A Node.js library for interacting with The Blue Alliance API.
+
 ## Videos
+
 - [FIRST on YouTube](https://www.youtube.com/user/FIRSTWorldTube) - FIRST's official YouTube channel.
 - [Game Animations](https://www.youtube.com/watch?v=uYNu9cQac1o&list=PLOPIDgAYFKaQmz6aznEMAbewtqqT7FCqY) - Playlist of every game release video since 2003.
 - [Reveal Videos](https://www.youtube.com/watch?v=2zu1EzyKRRE&list=PLocx3vY5mUKNSVfiI1kEjZ9AXtMu1N7-B) - Playlist of the best robot reveal videos.
