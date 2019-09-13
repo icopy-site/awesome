@@ -43,6 +43,10 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
+### Blockchain projects for AI algorithms
+- [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+
 ## Blockchains for data
 
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean Protocol is a decentralized data exchange protocol that lets people share and monetize data while guaranteeing control, auditability, transparency and compliance to all actors involved. Its network handles storing of the metadata (i.e. who owns what), links to the data itself, and more.
@@ -69,7 +73,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for AI in medicine
 
 - [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
-- [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace.
+- [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
 ## Blockchains for AI in supply chains
 
