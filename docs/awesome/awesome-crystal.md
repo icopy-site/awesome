@@ -66,7 +66,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
- * [zstd-cr](https://github.com/BlackHabanero/zstd-cr) - Bindings for [Zstandard](https://github.com/facebook/zstd) compression library
+ * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard](https://github.com/facebook/zstd) compression library
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
@@ -407,6 +407,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [mosquito](https://github.com/robacarp/mosquito/) - Redis backed periodic and ad hoc job processing
+ * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
