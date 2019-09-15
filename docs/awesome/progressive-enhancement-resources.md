@@ -56,7 +56,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [I want to use ...](http://www.iwanttouse.com/) - Figure out the browser support of combinations of features.
 * [HTML5 Test](http://html5test.com/) - Test and compare HTML5 feature support across browsers.
 * [CSS3 Test](http://css3test.com/) - Fine-grained tests for CSS3 feature support of your current browser.
-* [State of Web Type](http://stateofwebtype.com/) - Support tables for type and typographic features on the web.
+* [State of Web Type](https://github.com/bramstein/stateofwebtype) - Support tables for type and typographic features on the web.
 * [Font Family Reunion](http://fontfamily.io/) - Compatibility tables for default local (system) fonts.
 * [HTML5 Accessibility](http://html5accessibility.com/) - Compare feature support of HTML5 tags, input types and properties across major browsers. 
 * [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) - ARIA roles and attributes support for different screen reader and browser combinations.
@@ -77,6 +77,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
 * [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
 * [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
+* [Can I Email?](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. Inspired by [Can I use](http://caniuse.com/).
 
 
 ## Testing Methods
