@@ -65,6 +65,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [The Biggest Challenges of Moving to NoSQL](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) (2017) - Speed and scalability and developer joy have been the gains found from enduring through challenges of moving to NoSQL.
 
 
+## Miscellaneous
+
+- [What is a NoSQL Database? Learn By Writing One In Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - Excellent tutorial in learning NoSQL vs RDBMS through building a toy database using Python.
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
