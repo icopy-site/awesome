@@ -57,6 +57,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
+- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 
 ## Java
 
@@ -175,6 +176,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
+- [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 
 ## Ruby
 
@@ -197,6 +200,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
+- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
 
 ## Scala
 

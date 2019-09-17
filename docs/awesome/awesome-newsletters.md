@@ -134,7 +134,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Node.js
 
 - [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
-- [npm Weekly](https://www.npmjs.com/npm-weekly)
+- [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
 
 ### Swift
@@ -162,7 +162,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Ruby
 
 - [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
-- [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
+- [Ruby Articles](https://thoughtbot.com/blog/tags/ruby). Ruby posts by [Thoughtbot](https://thoughtbot.com)
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 - [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
@@ -233,13 +233,12 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### Lua
 
-- [Lua Digest](https://luadigest.immortalin.com).
-  A regular newsletter for the Lua Programming Language.
+- [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
 ## OS
 
 - [MacMost](https://macmost.com/macmost-weekly-newsletter). Latest MacMost tutorials, tips and news right in your inbox every week.
-- [NixOS Weekly](https://weekly.nixos.org).
+- [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 
 ## Git
 
@@ -285,7 +284,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
   every Sunday in the form of the DevOps newsletter.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
-- [Server Admin for Programmers](https://serversforhackers.com/)
+- [Server Admin for Programmers](https://serversforhackers.com/). Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
 - [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins. [Archige](https://www.cronweekly.com/archives/).
 - [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
@@ -326,6 +325,13 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Data Prism](http://dataprism.co/). Data Prism is a weekly publication of curated news about startups and companies in the fields of data science, machine learning, AI and analytics.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
+
+## Blockchain / Cryptocurrencies
+
+- [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
+- [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter). Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
 
 ## Technology in General
 
@@ -350,8 +356,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 - [ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 - [GitHub News](https://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
-- Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
-- Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
+- [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
+- [KickStarter](https://www.kickstarter.com/newsletters). Projects We Love archive by KickStarter
 - [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 - A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 - [My Morning Routine](https://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
@@ -385,11 +391,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 - [Security Newsletter](https://securitynewsletter.co/). Weekly e-mail with the latest security news on Thursday or Friday.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
-- [Inside Bitcoin](https://inside.com/bitcoin). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
-- [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+
 
 ## License
 
