@@ -125,6 +125,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [C# Regex Tester online](https://github.com/lsvhome/regex-tester) - Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
 * [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
+* [BlazorPoint](https://github.com/smjltd/BlazorPoint) - Sample App to help you get started with hosting blazor on SharePoint Pages, Completely Client Side.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -297,6 +298,9 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [An Introduction to OwningComponentBase](https://chrissainty.com/an-introduction-to-owningcomponentbase/) - September 17, 2019 - This post  explores the OwningComponentBase class, which was added to Blazor in .NET Core 3 Preview 9. This class has a single purpose, create a service provider scope.
+* [ASP.NET Core and Blazor updates in .NET Core 3.0 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/) - September 16, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Release Candidate 1.
+* [Quick Tip: Blazor App Hosted as Azure Static Website in Blob Storage](https://visualstudiomagazine.com/blogs/data-driver/2019/09/blazor-app.aspx) - September 13, 2019 - Quick Tip: Blazor App Hosted as Azure Static Website in Blob Storage.
 * [Containerising Blazor Applications With Docker (Part 4)](https://chrissainty.com/containerising-blazor-applications-with-docker-deploying-containerised-apps-to-azure-web-app-for-containers/) - September 10, 2019 - Containerising Blazor Applications With Docker (Part 4). [Source code](https://github.com/chrissainty/BlazorServerWithDocker).
 * [Combining Razor and Blazor Pages in a Single ASP.NET Core 3 Application](https://mikaelkoskinen.net/post/combining-razor-blazor-pages-single-asp-net-core-3-application) - September 09, 2019 - Combining Razor and Blazor Pages in a Single ASP.NET Core 3 Application. [Source code](https://github.com/mikoskinen/blog/tree/master/blazor-pages-razor-pages-single-app).
 * [Blazor Components - DataGrid and Scheduler Enhancements](https://community.devexpress.com/blogs/aspnet/archive/2019/09/09/blazor-components-datagrid-and-scheduler-enhancements-available-in-beta-3.aspx) - September 09, 2019 - Blazor Components - DataGrid and Scheduler Enhancements (available in Beta #3), by DevExpress.
@@ -436,6 +440,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) - September 12, 2019 - .NET Rocks Podcast, episode 1652: Moving from Web Forms to Blazor with Jeff Fritz.
 * [Blazor with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-003-blazor-with-daniel-roth/) - September 03, 2019 - Daniel Roth starts by introducing Web Assembly and how this changed web development. Blazor allows full-stack development through .NET with C#. The panel asks Dan about Blazor's capabilities and future. Dan shares Blazor’s origin story.
 * [What is WebAssembly](https://cynicaldeveloper.com/podcast/122/) - September 02, 2019 - What is WebAssembly, episode 122 of the Cynical Developer podcast.
 * [Building Applications using Server-Side Blazor with Shaun Walker](https://www.dotnetrocks.com/default.aspx?ShowNum=1649) - August 22, 2019 - .NET Rocks! podcast, episode 1649: Building Applications using Server-Side Blazor with Shaun Walker.

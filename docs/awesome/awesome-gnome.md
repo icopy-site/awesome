@@ -52,6 +52,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern GTK eBook reader
 - [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs
+- [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 
 ### Multimedia
 
@@ -65,6 +66,7 @@
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter for Linux
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player for Linux
+- [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
 
