@@ -325,6 +325,16 @@ DDS Security.
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 - [Robot Bug Bounty Programs (RBBP)](https://www.aliasrobotics.com/bounties.htm) - Report bugs or vulnerabilities and get paid by top robotics companies.
 
+## Companies
+
+- [Acutronic Robotics](https://github.com/AcutronicRobotics) - Not existing anymore. Initiators of the Hardware Robot Information Model (HRIM), Hardware Robot Operating System (H-ROS) and creators of the world's first modular industrial robot arm MARA.
+- [ADLINK](https://www.adlinktech.com/en/index.aspx) - "Leading EDGE COMPUTING".
+- [Alias Robotics](https://aliasrobotics.com/) - Products and services in the context of robot cybersecurity.
+- [Amazon](https://github.com/aws-robotics) - Robotics Team of Amazon Amazon Web Services (AWS).
+- [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
+- [Canonical](https://canonical.com/) - The company behind Ubuntu.
+- [Eprosima](https://www.eprosima.com/) - "The middleware experts".
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

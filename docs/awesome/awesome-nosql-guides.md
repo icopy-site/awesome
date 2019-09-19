@@ -34,6 +34,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Data Models Will Be Beautiful Again](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) (2016) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) - Solution for managing both NoSQL and relational databases using the Unified Data Modeling technique.
 - [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - Patterns for querying across multiple paradigms in the same database.
+- [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) - Despite popular belief that NoSQL are schema-less, this article outlines how NoSQL databases follow "query driven design" and considerations for this flexibility in schema.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem

@@ -104,6 +104,7 @@ Table of Contents
   * [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
+  * [Releaseflags](https://releaseflags.com) - Feature Flags should be available for every developer at a low cost. Releaseflags offers free releaseflags for single developers and a low cost plan for startups.
 
 
 
@@ -455,6 +456,7 @@ Table of Contents
 ## IaaS
 
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
+  * [www.terraform.io](https://www.terraform.io/) - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
 ## DBaaS
 
@@ -463,6 +465,7 @@ Table of Contents
    * [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](https://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
+   * [heroku.com](https://www.heroku.com/) — PostgreSQL as a service, up to 10,000 rows and 20 connections free (provided as an "addon," but can be attached to an otherwise empty app and accessed externally)
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j as a service, up to 1,000 nodes and 10,000 relations free
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL or MongoDB
@@ -599,6 +602,7 @@ Table of Contents
    * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
    * [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open-source.
    * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
+   * [JDoodle](https://www.jdoodle.com) — Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
 
 ## Analytics, Events and Statistics
 
@@ -648,6 +652,7 @@ Table of Contents
 
 ## Vagrant Related
 
+  * [app.vagrantup.com](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
