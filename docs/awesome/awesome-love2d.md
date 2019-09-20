@@ -111,6 +111,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation
+* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation
 
 ## Math
 *Math specific Libraries*
@@ -121,6 +122,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
+* [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - hump.vector-compatible LuaJIT FFI-accelerated 2D vector library
 * [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua
 * [vector.lua](https://github.com/themousery/vector.lua) - a simple vector library based on the PVector class from processing
 
