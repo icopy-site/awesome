@@ -4,7 +4,7 @@
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
-**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
+**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community through additional offerings.**
 
 
 
@@ -49,8 +49,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Dependency Management
 
 - [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, Python, JavaScript and PHP.
-- [Dependency CI](https://dependencyci.com/) - Continuous dependency testing.
-- [deppbot](https://www.deppbot.com/) - Automated security and dependency updates.
 - [gemnasium](https://gemnasium.com/) - Automated dependency management.
 - [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 - [pyup.io](https://pyup.io/) - Python dependency management.
@@ -59,6 +57,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
+
 - [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
 
 ## Exception Reporting
@@ -117,6 +116,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
+- [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 
 ## Contributing
