@@ -19,6 +19,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
 * [Groovy Web Console](http://groovyconsole.appspot.com) - The online Groovy console
 * [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
+* [SpaceVim](https://spacevim.org/layers/lang/groovy/) - SpaceVim `lang#groovy` layer
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - Run groovy scripts from Sublime Text
 
 ## Web Frameworks

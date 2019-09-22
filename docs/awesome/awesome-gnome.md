@@ -39,10 +39,13 @@
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) - GTK3 BitTorrent client
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application
+- [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
+
 
 ### Editor
 
 - [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor for GNU/Linux made with GTK+
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Documents
 
@@ -74,6 +77,7 @@
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 - [GColor 3](https://hjdskes.github.io/projects/gcolor3/) - GTK3 color picker for GNOME.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images in GNOME.
+- [Drawing](https://github.com/maoschanz/drawing) - Responsive drawing application.
 
 ### Games
 
@@ -97,6 +101,9 @@
 - [Sequeler](https://github.com/Alecaddd/sequeler) - SQL Client built in Vala
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor 
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Password manager for GNOME
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
+- [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
+- [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 
 ### Others
 
