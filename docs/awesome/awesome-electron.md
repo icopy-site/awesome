@@ -175,6 +175,7 @@ Made with Electron.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - Download manager.
 - [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+- [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source
 
@@ -216,6 +217,7 @@ Made with Electron.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
 - [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 - [Mingo](https://mingo.io) - MongoDB GUI.
+- [Moon Modeler](https://datensen.com) - Schema design tool for MongoDB, Mongoose, and MariaDB.
 
 ### Samples
 
@@ -312,6 +314,7 @@ Made with Electron.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - Transparent asynchronous remoting between browser windows and the main process.
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+- [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ### Using Electron
 

@@ -331,6 +331,7 @@ nav:
     - Git Cheat Sheet & Git Flow: awesome/git-cheat-sheet.md
     - Git Tips: awesome/tips.md
     - Git Add-ons: awesome/awesome-git-addons.md
+    - Git Hooks: awesome/awesome-git-hooks.md
     - SSH: awesome/awesome-ssh.md
     - FOSS for Developers: awesome/FOSS-for-Dev.md
     - Hyper: awesome/awesome-hyper.md
@@ -395,6 +396,7 @@ nav:
     - Lockpicking: awesome/awesome-lockpicking.md
     - Cybersecurity Blue Team: awesome/awesome-cybersecurity-blueteam.md
     - Fuzzing: awesome/awesome-fuzzing.md
+    - Embedded and IoT Security: awesome/awesome-embedded-and-iot-security.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md

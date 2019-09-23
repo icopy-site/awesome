@@ -360,6 +360,7 @@
 - [Git Cheat Sheet & Git Flow](awesome/git-cheat-sheet.md)
 - [Git Tips](awesome/tips.md)
 - [Git Add-ons](awesome/awesome-git-addons.md) - Enhance the `git` CLI.
+- [Git Hooks](awesome/awesome-git-hooks.md) - Scripts for automating tasks during `git` workflows.
 - [SSH](awesome/awesome-ssh.md)
 - [FOSS for Developers](awesome/FOSS-for-Dev.md)
 - [Hyper](awesome/awesome-hyper.md) - Cross-platform terminal app built on web technologies.
@@ -440,6 +441,7 @@
 - [Lockpicking](awesome/awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](awesome/awesome-cybersecurity-blueteam.md) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](awesome/awesome-fuzzing.md) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](awesome/awesome-embedded-and-iot-security.md)
 
 
 
