@@ -171,8 +171,8 @@
 - [HTML5](awesome/awesome-html5.md) - Markup language used for websites & web apps.
 - [SVG](awesome/awesome-svg.md) - XML-based vector image format.
 - [Canvas](awesome/awesome-canvas.md)
-- [KnockoutJS](awesome/awesome-knockout.md)
-- [Dojo Toolkit](awesome/awesome-dojo.md)
+- [KnockoutJS](awesome/awesome-knockout.md) - JavaScript library.
+- [Dojo Toolkit](awesome/awesome-dojo.md) - JavaScript toolkit.
 - [Inspiration](awesome/Inspire.md)
 - [Ember](awesome/awesome-ember.md) - App framework.
 - [Android UI](awesome/awesome-android-ui.md)
@@ -224,25 +224,25 @@
 
 ## Back-End Development
 
-- [Flask](awesome/awesome-flask.md)
+- [Flask](awesome/awesome-flask.md) - Python framework.
 - [Docker](awesome/awesome-docker.md)
-- [Vagrant](awesome/awesome-vagrant.md)
-- [Pyramid](awesome/awesome-pyramid.md)
+- [Vagrant](awesome/awesome-vagrant.md) - Automation virtual machine environment.
+- [Pyramid](awesome/awesome-pyramid.md) - Python framework.
 - [Play1 Framework](awesome/awesome-play1.md)
 - [CakePHP](awesome/awesome-cakephp.md) - PHP framework.
-- [Symfony](awesome/awesome-symfony.md)
+- [Symfony](awesome/awesome-symfony.md) - PHP framework.
 	- [Education](awesome/awesome-symfony-education.md)
 - [Laravel](awesome/awesome-laravel.md) - PHP framework.
 	- [Education](awesome/Awesome-Laravel-Education.md)
 - [Rails](awesome/awesome-rails.md) - Web app framework for Ruby.
 	- [Gems](awesome/awesome-rails-gem.md) - Packages.
-- [Phalcon](awesome/awesome-phalcon.md)
+- [Phalcon](awesome/awesome-phalcon.md) - PHP framework.
 - [Useful `.htaccess` Snippets](awesome/htaccess.md)
 - [nginx](awesome/nginx-resources.md) - Web server.
-- [Dropwizard](awesome/awesome-dropwizard.md)
+- [Dropwizard](awesome/awesome-dropwizard.md) - Java framework.
 - [Kubernetes](awesome/awesome-kubernetes.md) - Open-source platform that automates Linux container operations.
-- [Lumen](awesome/awesome-lumen.md)
-- [Serverless Framework](awesome/awesome-serverless.md)
+- [Lumen](awesome/awesome-lumen.md) - PHP micro-framework.
+- [Serverless Framework](awesome/awesome-serverless.md) - Serverless computing and serverless architectures.
 - [Apache Wicket](awesome/awesome-wicket.md) - Java web app framework.
 - [Vert.x](awesome/vertx-awesome.md) - Toolkit for building reactive apps on the JVM.
 - [Terraform](awesome/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.

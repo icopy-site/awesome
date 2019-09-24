@@ -44,8 +44,8 @@
  * [Next.js 7](https://nextjs.org/blog/next-7)
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
- * [Working with Ghost and Next.js](https://ghost.org/docs/api/v2/nextjs/)
-
+ * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
+ * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
@@ -80,6 +80,7 @@
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+* [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.

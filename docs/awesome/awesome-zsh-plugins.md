@@ -154,7 +154,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 
 ### [zplugin](https://github.com/zdharma/zplugin)
 
-**Zplugin** is an innovative plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode](https://github.com/zdharma/zplugin#turbo-mode), a clean fpath, reports, completion management and [services](https://github.com/zservices) support. You can use [crasis](https://github.com/zdharma/zplugin-crasis) to edit your Zplugin commands in your `~.zshrc`.
+**Zplugin** is an innovative plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode](http://zdharma.org/zplugin/wiki/INTRODUCTION/#turbo_mode_zsh_62_53), a clean fpath, reports, completion management and [services](https://github.com/zservices) support. You can use [crasis](https://github.com/zdharma/zplugin-crasis) to edit your Zplugin commands in your `~.zshrc`.
 
 ### [ZPM](https://github.com/zpm-zsh/zpm)
 
@@ -315,6 +315,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [czhttpd](https://github.com/jsks/czhttpd) - A simple http server written in 99.9% pure ZSH.
 * [deepx](https://github.com/GetAmbush/deepx-zsh-plugin) - Collection of useful and fun commands to improve workflow and quality of life.
 * [deer](https://github.com/Vifon/deer) - A file navigator for ZSH heavily inspired by [ranger](https://ranger.github.io/).
+* [declare-zsh](https://github.com/zdharma/declare-zsh) - A command-line parser for Zplugin commands in `zshrc`.
 * [depot-tools](https://github.com/kuoe0/zsh-depot-tools) - Simple oh-my-zsh plugin for installing the chromium depot_tools. Installing this plugin will put all of the chromium depot_tools in your path automatically.
 * [diff-so-fancy](https://github.com/zdharma/zsh-diff-so-fancy) - Simplify installing the `diff-so-fancy` project into your user account.
 * [diractions](https://github.com/AdrieanKhisbe/diractions) - Allow you to map a short logical/mnemonic name to directories to quickly access them, or perform actions in them.
@@ -393,6 +394,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [gitcd](https://github.com/viko16/gitcd.plugin.zsh) - cd to a `git` working directory after cloning it.
 * [gitfast](https://github.com/tevren/gitfast-zsh-plugin) - Updated fork of oh-my-zsh gitfast plugin.
 * [gitgo](https://github.com/ltj/gitgo) - Open a Github/Gitlab repository in your browser from the command line (macOS only).
+* [github-issues](https://github.com/zdharma/zsh-github-issues) - Subscribe to projects on Github and receive within shell (under prompt) notifications about new issues.
 * [gitignore](https://github.com/voronkovich/gitignore.plugin.zsh) - Plugin for creating `.gitignore` files.
 * [gitio](https://github.com/denysdovhan/gitio-zsh) - A ZSH plugin for generating a GitHub short URL using [git.io](https://git.io).
 * [gitsterv2](https://github.com/xakraz/gisterv2-zsh-theme) - Forked from the [original Gitster](https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes#gitster).
@@ -590,6 +592,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [sysadmin-util](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins.
 * [system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for vi emulation keymaps. It works under Linux, macOS and Android (via Termux).
 * [t32](https://github.com/chrissicool/zsh-t32) - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
+* [tag-search](https://github.com/zdharma/zsh-tag-search) - A history search tool for Zsh aimed at tag-marking history entries with support for regular search.
 * [tailf](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 * [taskbook](https://github.com/mastern2k3/taskbook-zsh-plugin) - Auto-completes task numbers for taskbook.
 * [terminal-app](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new El Capitan Terminal.app features.
@@ -639,7 +642,6 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [vsc](https://github.com/davidtong/vsc.plugin.zsh) - Plugin for Visual Studio Code on macOS.
 * [vscode (kasperhesthaven)](https://github.com/kasperhesthaven/vscode) - Simple plugin to open VS code a little easily across systems.
 * [vscode (qianxinfeng)](https://github.com/qianxinfeng/zsh-vscode) - Plugin for [Visual Studio Code](https://code.visualstudio.com/).
-* [wack](https://github.com/leoxlin/wack) - Wraps `ack` command.
 * [wakatime-zsh-plugin](https://github.com/sobolevn/wakatime-zsh-plugin) - Track how much [time](https://wakatime.com/) you have spent in your terminal. Has per project stats.
 * [wakatime](https://github.com/wbingli/zsh-wakatime) - Automatic time tracking for commands in ZSH using [wakatime](https://wakatime.com/).
 * [warhol](https://github.com/unixorn/warhol.plugin.zsh) - Configures colorization with [grc](https://github.com/garabik/grc).
@@ -654,8 +656,10 @@ zapack is a basic fast minimal ZSH plugin loader.
 * [yeoman](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion).
 * [you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - ZSH plugin that reminds you to use those aliases you defined.
 * [youtube-dl](https://github.com/joow/youtube-dl) - Simple plugin for [youtube-dl](https://youtube-dl.org/).
-* [z-p-man](https://github.com/zdharma/z-p-man) - Zplugin extension that generates man pages for all plugins and snippets.
-* [z-p-test](https://github.com/zdharma/z-p-test) - Zplugin extension that runs tests (via make test, for example) – if it finds any of them – after installing and updating a plugin or snippet.
+* [z-a-bin-gem-node](https://github.com/zplugin/z-a-bin-gem-node) - Zplugin extension that a) exposes binaries without altering `$PATH`, b) installs Ruby gems and Node modules and easily exposes their binaries, c) updates the gems and modules on update of the associated plugin or snippet.
+* [z-a-man](https://github.com/zplugin/z-a-man) - Zplugin extension that generates man pages for all plugins and snippets.
+* [z-a-patch-dl](https://github.com/zplugin/z-a-bin-gem-node) - Zplugin extension that downloads files and applies patches through the provided `dl''` and `patch''` ices.
+* [z-a-test](https://github.com/zplugin/z-a-test) - Zplugin extension that runs tests (via `make test`, for example) – if it finds any of them – after installing and updating a plugin or snippet.
 * [z.lua](https://github.com/skywind3000/z.lua) - A command line tool which helps you navigate faster by learning your habits. An alternative to [z.sh](https://github.com/rupa/z) with windows and posix shells support and various improvements.
 * [zaw](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
 * [zce](https://github.com/hchbaw/zce.zsh) - Vim’s EasyMotion / Emacs’s ace-jump-mode for ZSH.
@@ -753,6 +757,7 @@ These plugins add tab completions without adding extra functions or aliases.
 * [ssh-agent (bobsoppe)](https://github.com/bobsoppe/zsh-ssh-agent) - Manage `ssh-agent`.
 * [ssh-agent (hkupty)](https://github.com/hkupty/ssh-agent) - Automatically starts `ssh-agent` to set up and load whichever credentials you want for `ssh` connections.
 * [ssh](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
+* [startify](https://github.com/zdharma/zsh-startify) - vim-startify -like plugin for Zshell.
 * [surf](https://github.com/beardcoder/surf.plugin.zsh) - Add completions for surf.
 * [test-kitchen-zsh-plugin](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen](https://kitchen.ci/).
 * [tmux pane words](https://gist.github.com/blueyed/6856354) - Key bindings to complete words from your [tmux](https://tmux.github.io) pane.
@@ -955,7 +960,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [itg](https://github.com/itsthatguy/itg.zsh-theme) - itsthatguy's theme.
 * [jake](https://github.com/JakeHuneau/Jake.zsh-theme) - Shows the time, the current directory, and `git` branch information including the branch name and a red + if the branch has un-pushed changes.
 * [jam](https://github.com/jesusangelm/Jam-Zsh-Theme) - Optimized for dark backgrounds, includes `git` status and `rvm` status.
-* [jbrain4](https://github.com/jbrain4/jbrain4-zsh-theme) - Variant of oh-my-zsh's stock bira theme.
 * [jc](https://github.com/jclementex/jc-zsh-theme) - For dark terminal backgrounds, includes `git` status information.
 * [jcl](https://github.com/jasonlewis/jcl-zsh-theme) - Loosely based on the ys theme.
 * [jerome](https://github.com/jeromescuggs/jerome-theme) - Colorful theme based on the [dieter](https://github.com/jeromescuggs/jerome-theme) theme, but with a yellow hostname. Includes `git` decorations.
@@ -1097,7 +1101,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [punctual](https://github.com/dannynimmo/punctual-zsh-theme) - Easily customizable, influenced by [spaceship](https://github.com/denysdovhan/spaceship-prompt).
 * [pure-agnoster](https://github.com/yourfin/pure-agnoster) - Mashup of pure and agnoster. Has `git` decorations and works well with both dark and light terminal backgrounds.
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
-* [purien](https://github.com/sinetoami/purien) - Pretty prompt based on [pure](https://github.com/sindresorhus/pure) prompt, inpired by [alien-minimal](https://github.com/eendroroy/alien-minimal) and [filthy](https://github.com/molovo/filthy).
 * [purify](https://github.com/banminkyoz/purify) - Simple, fast & cool prompt.
 * [purity](https://github.com/petermbenjamin/purity) - Inspired by robbyrussell theme + pure prompt.
 * [purs](https://github.com/xcambar/purs) - A [Pure](https://github.com/sindresorhus/pure)-inspired prompt written in [Rust](https://www.rust-lang.org/).
@@ -1179,7 +1182,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [tabaf](https://github.com/bvc3at/tabaf-zsh-theme) - Minimal ZSH theme optimized for dark backgrounds.
 * [tepig-ys](https://github.com/thingerpig/tepig-ys.zsh-theme) - Includes `git` status decorations and conda/virtualenv status.
 * [termuxer](https://github.com/patrick330602/termuxer) - Theme inspired by agnoster and linuxer.
-* [that-human-jason](https://github.com/thatHumanJason/that-human-jason-zsh-theme) - Based heavily on the [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme) theme included with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 * [the-time-lord](https://github.com/jhwhite/the-time-lord) - A theme based on gallifrey.
 * [theme-line](https://github.com/yw9381/oh-my-zsh_theme_line) - Colorful theme with `git` status.
 * [thetraveler](https://github.com/bassopenguin/thetraveler) - Inspired by theunraveler, uses symbols to display `git` status.

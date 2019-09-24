@@ -23,7 +23,6 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2018) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - (2017) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
-
 - A4AI Mobile Broadband Data Costs - ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2019) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) - (2017) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
@@ -60,7 +59,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 - Mozilla Internet Health Report - ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
-- Broadband Commission: The State of Broadband ([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
+- Broadband Commission: The State of Broadband ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 - GSMA - State of Mobile Internet Connectivity ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
