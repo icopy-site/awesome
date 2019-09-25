@@ -256,6 +256,17 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
 
+## Internationalization
+
+- [Camomile](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
+- [ocaml-m17n](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+- [Uucd](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
+- [Uucp](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
+- [Uunf](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+- [Uuseg](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
+- [Uutf](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
+
+
 ## User Interface
 
 - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.

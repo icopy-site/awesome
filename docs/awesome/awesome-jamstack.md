@@ -74,6 +74,7 @@
 - [Gridsome](https://gridsome.org/) - Vue-powered static site generator for building CDN-ready websites for any Headless CMS, APIs or Markdown-files.
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
+- [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
@@ -111,6 +112,7 @@
 ### Forms
 
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
+- [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 
 ### E-commerce
 
@@ -192,10 +194,13 @@
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
+- [9 Headless CMS Options for Your JAMstack Site](https://bejamas.io/blog/headless-cms/)
 
 ## Podcasts
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
+- [That's my JAMstack](https://thatsmyjamstack.com)
 
 ## License
 
