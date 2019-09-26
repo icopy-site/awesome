@@ -11,18 +11,20 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 
 ## Introduction
+
 ### What is Blazor
 Blazor is a .NET web framework to build client web apps with C#.
+
 Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
-More information on the [official website](https://dotnet.microsoft.com/apps/aspnet/web-apps/client).
+More information on the [official Blazor website](https://blazor.net).
 
-### Requirements
-Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
-Recommended: the latest [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) and the latest [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+### Get started
 
-Note: the Blazor Visual Studio extension is no longer required since the [ASP.NET Core Preview 7](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+To get started with Blazor, follow the instructions in the [Blazor Get Started](https://docs.microsoft.com/aspnet/core/blazor/get-started) documentation.
 
-Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio) with Blazor.
+To open Blazor projects in Visual Studio, you must have [Visual Studio 2019 16.3](https://www.visualstudio.com/vs/) or later and the [.NET Core 3.0 SDK](https://dot.net/get-core3).
+
+Note: the Blazor Visual Studio extension is no longer required since .NET Core 3.0 Preview 7. Uninstall the extension if you still have it installed.
 
 ## General
 * [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
@@ -59,6 +61,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) - Quiz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorPong](https://github.com/MACEL94/BlazorPong) - Pong in Blazor server side using SignalR Core. [Demo](https://blazorpong-dev-as.azurewebsites.net).
+### Machine Learning
+* [Scalable sentiment analysis](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square&cacheSeconds=604800) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
 ### ToDos
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) A TodoMVC clone using Bolero.

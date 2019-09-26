@@ -341,6 +341,7 @@
 - [Gideros](awesome/awesome-gideros.md) - Game engine.
 - [Minecraft](awesome/awesome-minecraft.md) - Sandbox video game.
 - [Game Datasets](awesome/game-datasets.md) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](awesome/awesome-haxe-gamedev.md) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](awesome/awesome-libgdx.md) - Java game framework.
 
 

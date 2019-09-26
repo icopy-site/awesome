@@ -149,7 +149,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
 * [Hanami CLI](https://github.com/hanami/cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
-* [Optimist](https://manageiq.github.io/optimist/) - A commandline option parser for Ruby that just gets out of your way.
+* [Optimist](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
 * [Terrapin](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
@@ -982,7 +982,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
-* [Gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/rack-protection) - Rack middleware for protecting against typical Web attacks.
