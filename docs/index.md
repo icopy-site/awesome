@@ -79,6 +79,7 @@
 - [Robot Operating System 2.0](awesome/awesome-ros2.md) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](awesome/awesome-adafruitio.md) - Visualize and store data from any device.
 - [Cloudflare](awesome/awesome-cloudflare.md) - CDN, DNS, DDoS protection, and security for your site.
+- [Actions on Google](awesome/awesome-actions-on-google.md) - Developer platform for Google Assistant.
 
 
 ## Programming Languages
@@ -106,6 +107,7 @@
 	- [Asyncio](awesome/awesome-asyncio.md) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](awesome/awesome-python-scientific-audio.md) - Scientific research in audio/music.
 	- [CircuitPython](awesome/awesome-circuitpython.md) - A version of Python for microcontrollers.
+	- [Data Science](awesome/awesome-python-data-science.md) - Data analysis and machine learning.
 - [Rust](awesome/awesome-rust.md)
 - [Haskell](awesome/awesome-haskell.md)
 - [PureScript](awesome/awesome-purescript.md)
@@ -443,6 +445,7 @@
 - [Cybersecurity Blue Team](awesome/awesome-cybersecurity-blueteam.md) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](awesome/awesome-fuzzing.md) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](awesome/awesome-embedded-and-iot-security.md)
+- [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
 
 
 
@@ -471,6 +474,7 @@
 - [Leading and Managing](awesome/awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment.
 - [Indie](awesome/awesome-indie.md) - Independent developer businesses.
 - [Tools of the Trade](awesome/ToolsOfTheTrade.md) - Tools used by companies on Hacker News.
+- [Clean Tech](awesome/awesome-clean-tech.md) - Fighting climate change with technology.
 
 
 ## Work
@@ -622,7 +626,9 @@
 - [Software Architecture](awesome/awesome-software-architecture.md) - The discipline of designing and building software.
 - [Connectivity Data and Reports](awesome/awesome-connectivity-info.md) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](awesome/awesome-stacks.md) - Tech stacks for building different apps and features.
+- [Cytodata](awesome/awesome-cytodata.md) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](awesome/awesome-irc.md) - Open source messaging protocol.
+- [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
 
 
 ## Related
