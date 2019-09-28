@@ -61,6 +61,28 @@
 - [fitness](https://github.com/jamesflorentino/fitness) - Some of @jamesflorentino mumbo jumbo about training and nutrition. Take them with a grain of salt.
 - [affordable-whey](https://github.com/prkeshri/affordable-whey) - Can be used to calculate out of a few available Whey proteins. which one is most affordable in terms of Cost per Serving. Also gives. total servings.
 
+## Things to read
+
+### Books
+
+- [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef) - The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life by Timothy Feriss
+- [How to bake Pi](https://www.goodreads.com/book/show/23360039-how-to-bake-pi) - An Edible Exploration of the Mathematics of Mathematics by Eugenia Cheng
+
+### Forums and chat groups
+
+- [/r/cooking](https://www.reddit.com/r/Cooking/) - /r/Cooking is a place for the cooks of reddit and those who want to learn how to cook.
+- [/r/GifRecipes](https://www.reddit.com/r/GifRecipes/) - Recipes in an easy to follow gif format.
+- [/r/AskCulinary](https://www.reddit.com/r/AskCulinary/) - /r/AskCulinary provides expert guidance for your specific cooking problems to help people of all skill levels become better cooks, to increase understanding of cooking, and to share valuable culinary knowledge.
+- [/r/recipes](https://www.reddit.com/r/recipes/) - Improve and share your cooking repertoire with recipes from reddit's community.
+- [/r/IndianFood](https://www.reddit.com/r/IndianFood/) - Indian Food is your step by step guide to simple and delicious home cooking. From regional Indian cuisine to popular dishes from around the globe, our community's focus is to make cooking easy.
+
+## Courses and MOOCs
+
+- [Child Nutrition and Cooking](https://www.coursera.org/learn/childnutrition) - This course examines contemporary child nutrition and the impact of the individual decisions made by each family. The health risks associated with obesity in childhood are also discussed.
+- [Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry) - Top chefs and Harvard researchers explore how everyday cooking and haute cuisine can illuminate basic principles in chemistry, physics, and engineering.
+- [Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2) - Part 2 of the class above, learn about elasticity, viscosity, mayonnaise, baking, and more!
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/jzarca01/awesome-food/blob/master/contributing.md) first.

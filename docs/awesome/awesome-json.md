@@ -8,7 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Applications
 **OS X**
-* [Visual JSON](https://itunes.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
+* [Visual JSON](https://apps.apple.com/app/id488709442) ([github](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ## Binary Serialization
@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
 * [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
+* [json-dotenv](https://github.com/decryptus/json-dotenv) - Manipulate and extract envfiles in json format.
 * [gron](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
 * [jid](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
@@ -94,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
+* [JSON 1.1/JSONX](https://json-next.github.io/) - An evolved version 1.1 with format extension for humans incl. comments, unquoted and multi-line strings, optional and trailing commas and more. 
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
@@ -102,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
-* [JSON Table Schema](https://frictionlessdata.io/docs/json-table-schema/) - a simple schema for tabular data
+* [JSON Table Schema](https://frictionlessdata.io/docs/table-schema/) - a simple schema for tabular data
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
 * [survey.js](http://surveyjs.org/) - JSON based survey library.
 * [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
@@ -114,7 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
 * [JSON Formatter](https://github.com/mohsen1/json-formatter) - Angular directive for collapsible JSON in HTML. (AngularJS)
-* [react-jsonschema-form](https://mozilla-services.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
+* [react-jsonschema-form](https://rjsf-team.github.io/react-jsonschema-form/) - A React component for building Web forms from JSON Schema. (React)
 
 ## Libraries
 **C**
@@ -194,13 +196,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Online tools
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
-* [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier.
+* [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](http://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - Formatter to help with debugging.
 * [JSON Generator](https://www.json-generator.com/) - Tool for generating random data.
-* [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application. 
-* [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter. 
+* [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
+* [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 * [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
@@ -214,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
+* [JSONLog](https://jsonlog.io/docs) - Logging and visualization of JSON from any client.
 
 ## Schema Specifications
 * [JSON Schema](http://json-schema.org/) - a JSON based format for defining the structure of JSON data.
