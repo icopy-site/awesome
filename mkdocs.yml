@@ -210,6 +210,7 @@ nav:
     - Mobile Web Development: awesome/awesome-mobile-web-development.md
     - Storybook: awesome/awesome-storybook.md
     - Blazor: awesome/awesome-blazor.md
+    - Web Performance Metrics: awesome/awesome-web-performance-metrics.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md

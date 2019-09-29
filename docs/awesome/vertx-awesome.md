@@ -194,6 +194,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 ## Cloud Support
 
 * [S3](https://github.com/hubrick/vertx-s3-client) - A fully functional Vert.x client for S3.
+* [AWS SDK](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## Docker
 

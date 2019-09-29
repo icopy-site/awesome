@@ -320,7 +320,7 @@ const sum = pipeAsyncFunctions(
   x => x + 3,
   async x => (await x) + 4
 );
-(async() => {
+(async () => {
   console.log(await sum(5)); // 15 (after one second)
 })();
 ```
@@ -5122,6 +5122,26 @@ isNegativeZero(0); // false
 </details>
 
 
+### isOdd
+
+Returns `true` if the given number is odd, `false` otherwise.
+
+Checks whether a number is odd or even using the modulo (`%`) operator.
+Returns `true` if the number is odd, `false` if the number is even.
+
+```js
+const isOdd = num => num % 2 === 1;
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+isOdd(3); // true
+```
+</details>
+
+
 ### isPrime
 
 Checks if the provided integer is a prime number.
@@ -6056,11 +6076,13 @@ jQuery(element).on('click', view.click); // Logs 'clicked docs' when clicked.
 Creates a deep clone of an object.
 
 Use recursion.
+Check if the passed object is `null` and, if so, return `null`.
 Use `Object.assign()` and an empty object (`{}`) to create a shallow clone of the original.
 Use `Object.keys()` and `Array.prototype.forEach()` to determine which key-value pairs need to be deep cloned.
 
 ```js
 const deepClone = obj => {
+  if (obj === null) return null;
   let clone = Object.assign({}, obj);
   Object.keys(clone).forEach(
     key => (clone[key] = typeof obj[key] === 'object' ? deepClone(obj[key]) : obj[key])
