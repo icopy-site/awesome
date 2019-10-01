@@ -8,6 +8,13 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 
 
+## Document
+
+- [Actions on Google](https://developers.google.com/actions/)
+- [Template Actions](https://developers.google.com/actions/templates/)
+- [Build digital transactions](https://developers.google.com/actions/transactions/digital/dev-guide-digital)
+- [Interactive Canvas](https://developers.google.com/actions/interactivecanvas)
+
 ## Blogs
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
@@ -63,7 +70,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg) - GDE for Actions on Google.
 - [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr) -  GDE for Actions on Google.
 - [Aygul Zagidullina](https://twitter.com/aygul) -  GDE for Actions on Google.
-- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer community manager for the Actions On Google team.
+- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 - [Yoichiro Tanaka](https://twitter.com/yoichiro) - GDE for Actions on Google.
 - [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.

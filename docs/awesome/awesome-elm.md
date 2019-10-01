@@ -228,6 +228,7 @@ Tools and libraries to test your Elm applications
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [elm-review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.

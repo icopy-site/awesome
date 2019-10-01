@@ -14,12 +14,14 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 
  * [Olival et al. 2017](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
  * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
- * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799)- A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
+ * [Benesh et al. 2017](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1680) - Extensive database with 8,510 host species associations of parasites with complex life cycles (acanthocephalans, cestodes, and nematodes). Includes life‐history data such as development time and body size for each life cycle stage of the parasites.
+ * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
+ * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
  * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
  * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
- * [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms maintained by London Natural History Museum. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helmithR](https://github.com/ropensci/helminthR). 
+ * [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms maintained by London Natural History Museum. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR](https://github.com/ropensci/helminthR). 
  * [Arctos](http://arctos.database.museum/SpecimenSearch.cfm) - A collective management database for museum specimens. See below for specific collections. Data includes locality and collection dates, and is downloadable for any registered accounts. 
- * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) - A database that pulls organism associations from NCBI sequences and PubMed.
+ * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) - A database that pulls organism associations from NCBI sequences and PubMed. See database and brief analysis in [Wardeh et al. 2015](https://www.nature.com/articles/sdata201549).
  * [Arbovirus Catalog (ARBOCAT)](https://wwwn.cdc.gov/arbocat/) - The CDC-curated arbovirus information including dates of first isolation and wildlife hosts.
  * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) - A species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
  * [DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.mgc.ac.cn/DBatVir) - A bat virus database curated from Genbank with host traits and summaries by location.
@@ -44,8 +46,8 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
  * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) - The OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
  * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
-
-
+ * [WHISPers](https://whispers.usgs.gov/) - Wildlife Health Information Sharing Partnership event reporting system managed by USGS National Wildlife Health Center. Events of North American wildlife mortality (death) and morbidity (illness) involving five or more individuals are reported. 
+ 
 ## Taxonomy
  * [GBIF Backbone Taxonomy](https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c) - Aggregation and synonymization of taxonomy for animals, bacteria, protozoa, and viruses that synthesizes 56 taxonomy sources.
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases, both parasites and hosts.
