@@ -31,6 +31,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Onboarding.md)
 - [One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 

@@ -258,6 +258,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TelegAPI](https://github.com/ms301/TelegAPI). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
 
+* [fp-telegram](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
+
 * [DelphiZeroMQ](https://github.com/grijjy/DelphiZeroMQ). `[Delphi]` Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
 
 * [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
@@ -283,6 +285,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Horse](https://github.com/HashLoad/horse). `[Delphi]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
 
 * [Bauglir WebSocket](https://github.com/MFernstrom/Bauglir-WebSocket-2). `[Delphi]` `[FPC]` WebSocket server/client implementation based on Ararat Synapse.
+
+* [Delphi-RabbitMQ](https://github.com/HeZiHang/Delphi-RabbitMQ). `[Delphi]` RabbitMQ driver for Delphi
 
 
 ## Serial port
@@ -412,6 +416,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Dam](https://github.com/digao-dalpiaz/Dam). `[Delphi]` Delphi Message Dialogs with Formatted Text.
 
+* [BitMapEditor - Delphi] (https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]`  Single-form, simple bitmap editor for Delphi.
+
 
 ## Database ##
 
@@ -493,6 +499,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [VerySimple.Lua](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
 // *LUA DLL required*
+
+* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
 
 
 ## Non-visual Classes/Utils ##
