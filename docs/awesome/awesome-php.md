@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="ziadoz/awesome-php"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
+## Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 6](https://laravel.com/) - Another PHP framework (L6).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
-* [Phalcon](https://phalcon.io/en/) - A framework implemented as a C extension.
+* [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
@@ -340,7 +340,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
-* [Z-Ray](https://www.zend.com/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
 ### Build Tools
 *Project build and automation tools.*

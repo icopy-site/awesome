@@ -25,9 +25,9 @@
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
-- [Corebird](http://corebird.baedert.org/) - Twitter client.
+- [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client.
-- [Ring-GTK](https://ring.cx/) - Client for Ring, a secure communication tool.
+- [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.

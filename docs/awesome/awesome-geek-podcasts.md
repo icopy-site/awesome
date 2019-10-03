@@ -39,6 +39,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
+* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
@@ -99,6 +100,8 @@ A curated list of podcasts we like to listen to.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
+* [Linux Headlines](https://linuxheadlines.show/) - Linux and open source headlines every weekday, in under 3 minutes.
+* [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
@@ -134,6 +137,7 @@ A curated list of podcasts we like to listen to.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
+* [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 * [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.

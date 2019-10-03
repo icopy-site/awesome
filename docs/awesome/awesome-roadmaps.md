@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="liuchong/awesome-roadmaps"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/liuchong/awesome-roadmaps.svg?branch=master)](https://travis-ci.org/liuchong/awesome-roadmaps)
 
 A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
 
@@ -33,6 +33,7 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech.
 - [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Gives you an overview of the core skills needed in data science.
 - [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - A guide for amateurs pen testers and a collection of hacking tools, resources and references.
+- [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 
 ## Articles
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.

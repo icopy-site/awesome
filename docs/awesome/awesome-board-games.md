@@ -513,6 +513,48 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  45m |
 
+### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
+
+> Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
+
+![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       12 | 60-120m |
+
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   4 - 8 |       12 |  30m |
+
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 |    15m |
+
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       14 |  15m |
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.

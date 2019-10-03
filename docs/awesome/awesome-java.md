@@ -158,7 +158,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Apache Phoenix](https://phoenix.apache.org) - High-performance relational database layer over HBase for low-latency applications.
 - [AranoDB](https://github.com/arangodb/arangodb-java-driver) -  ArangoDB Java driver.
 - [Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) - Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
-- [druid](http://druid.io) - High-performance, column-oriented, distributed data store.
+- [druid](https://druid.apache.org/) - High-performance, column-oriented, distributed data store.
 - [eXist](https://github.com/eXist-db/exist) - A NoSQL document database and application platform.
 - [FlexyPool](https://github.com/vladmihalcea/flexy-pool) - Brings metrics and failover strategies to the most common connection pooling solutions.
 - [Flyway](https://flywaydb.org) - Simple database migration tool.
@@ -341,7 +341,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries to create modern graphical user interfaces.*
 
-- [JavaFX](https://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
+- [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) - The successor of Swing.
 - [Scene Builder](https://gluonhq.com/open-source/scene-builder) - Visual layout tool for JavaFX applications.
 - [SWT](https://www.eclipse.org/swt) - The Standard Widget Toolkit, a graphical widget toolkit.
 
@@ -355,7 +355,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [fastutil](http://fastutil.di.unimi.it) - Fast and compact type-specific collections.
 - [HPPC](https://labs.carrotsearch.com/hppc.html) - Primitive collections.
 - [JCTools](https://github.com/JCTools/JCTools) - Concurrency tools currently missing from the JDK.
-- [Koloboke](https://github.com/OpenHFT/Koloboke) - Hash sets and hash maps.
+- [Koloboke](https://koloboke.com) - Hash sets and hash maps.
 
 ### HTTP Clients
 
@@ -385,7 +385,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Eclipse](https://www.eclipse.org) - Established open-source project with support for lots of plugins and languages.
 - [IntelliJ IDEA ![c]](https://www.jetbrains.com/idea) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
-- [NetBeans](https://netbeans.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
+- [NetBeans](https://netbeans.apache.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/java) - Provides Java support for lightweight projects with a simple, modern workflow by using extensions from the internal marketplace.
 
 ### Imagery
@@ -515,7 +515,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) - Lightweight, small and customizable FTP server.
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
-- [Multi-OS Engine](https://software.intel.com/en-us/multi-os-engine) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
+- [Multi-OS Engine](https://multi-os-engine.org) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
 - [OpenRefine](http://openrefine.org) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 - [PipelinR](https://github.com/sizovs/pipelinr) – Small utility library for using handlers and commands with pipelines. 
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) - Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
@@ -643,7 +643,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [fastThread ![c]](http://fastthread.io) - Analyze and visualize thread dumps with a free cloud-based upload interface.
 - [GCeasy ![c]](http://gceasy.io) - Tool to analyze and visualize GC logs. It provides a free cloud-based upload interface.
-- [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - A low-overhead, bias-free sampling profiler.
+- [honest-profiler](https://github.com/jvm-profiling-tools/honest-profiler) - A low-overhead, bias-free sampling profiler.
 - [jHiccup](https://github.com/giltene/jHiccup) - Logs and records platform JVM stalls.
 - [JITWatch](https://github.com/AdoptOpenJDK/jitwatch) - Analyze the JIT compiler optimisations made by the HotSpot JVM.
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh) - a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targeting the JVM.

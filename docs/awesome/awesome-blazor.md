@@ -90,6 +90,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) - ![GitHub stars](https://img.shields.io/github/stars/SQL-MisterMagoo/BlazorBinding?style=flat-square&cacheSeconds=604800) Sample Blazor App demonstrating various data binding scenarios.
 * [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) - ![GitHub stars](https://img.shields.io/github/stars/rstropek/StarshipTraveler?style=flat-square&cacheSeconds=604800) A starship traveler demo app built with Blazor for the DevOne 2019 conference.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - ![GitHub stars](https://img.shields.io/github/stars/ctrl-alt-d/BlazorServerTree?style=flat-square&cacheSeconds=604800) A simple Server-Side Blazor sample app to deal with hierarchical data.
+* [Blazor Weather](https://github.com/danroth27/BlazorWeather) - ![GitHub stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square&cacheSeconds=604800) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
 * [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - ![GitHub stars](https://img.shields.io/github/stars/GoranHalvarsson/SitecoreBlazor?style=flat-square&cacheSeconds=604800) Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/). 
 * [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square&cacheSeconds=604800) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) - ![GitHub stars](https://img.shields.io/github/stars/nutshellit/Blazor-Survey?style=flat-square&cacheSeconds=604800) A hybrid F#/C# Blazor sample app to kick the tyres of
@@ -241,6 +242,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Videos
 * [The Future of Blazor on the Client](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B202) - September 25, 2019 - The Future of Blazor on the Client, by Daniel Roth on Channel 9.
 * [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
+* [Blazor and Azure Functions for Serverless Websites](https://www.youtube.com/watch?v=noG3rxt38VI) - September 24, 2019 - Blazor and Azure Functions for Serverless Websites, from the .NET Conf 2019.
 * [Talking about Blazor with ASP.NET Web Forms developers](https://www.youtube.com/watch?v=a-NXfAvkp6I&feature=youtu.be) - September 19, 2019 - It's .NET ROCKS! Talking about Blazor with ASP.NET Web Forms developers.
 * [Blazor OwningComponentBase Lifecycle](https://www.youtube.com/watch?v=-zyCAN7jfX0) - September 17, 2019 - Short video about the lifecycle of services managed by OwningComponentBase.
 * [Blazor StateHasChanged Community round up & BlazePort](https://www.twitch.tv/videos/474464917) - August 30, 2019 - Full stack app review. Blazor + MLNET + CosmosDB. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
@@ -315,6 +317,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Blazor Roundup From .NET Conf 2019](https://chrissainty.com/blazor-roundup-from-dot-net-conf-2019/) - October 01, 2019 - Blazor Roundup From .NET Conf 2019.
 * [Blazor Simple CQRS with MediatR](https://oceanware.wordpress.com/2019/09/29/blazor-simple-cqrs-with-mediatr/) - September 29, 2019 - Blazor Simple CQRS with MediatR.
 * [The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx) - September 26, 2019 - The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?), by Visual Studio Magazine.
 * [Migrate Protogen To Blazor](https://remibou.github.io/Migrate-protogen-to-Blazor/) - September 26, 2019 - Migrate Protogen To Blazor.
@@ -464,6 +467,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) - September 26, 2019 - .NET Rocks Podcast, episode 1654: .NET Core 3 Launch with Scott Hunter.
 * [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) - September 12, 2019 - .NET Rocks Podcast, episode 1652: Moving from Web Forms to Blazor with Jeff Fritz.
 * [Blazor with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-003-blazor-with-daniel-roth/) - September 03, 2019 - Daniel Roth starts by introducing Web Assembly and how this changed web development. Blazor allows full-stack development through .NET with C#. The panel asks Dan about Blazor's capabilities and future. Dan shares Blazor’s origin story.
 * [What is WebAssembly](https://cynicaldeveloper.com/podcast/122/) - September 02, 2019 - What is WebAssembly, episode 122 of the Cynical Developer podcast.

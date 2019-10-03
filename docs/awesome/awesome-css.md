@@ -161,7 +161,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
-* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
@@ -175,7 +174,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 - [Hologram](https://github.com/trulia/hologram)
 - [mdcss](https://github.com/jonathantneal/mdcss)
-- [Source](https://sourcejs.com/)
+- [Source](https://github.com/sourcejs/Source)
 - [styledoc](https://github.com/Joony/styledoc/)
 - [styledocco](https://github.com/jacobrask/styledocco)
 - [styledown](https://github.com/styledown/styledown)
