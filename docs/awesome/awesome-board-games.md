@@ -116,6 +116,16 @@
 | ------: | -------: | ------: |
 |   1 - 6 |       12 | 60-120m |
 
+### [Candy Land](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Candy_Land>)
+
+> The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
+
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        3 | 15-21m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -310,6 +320,37 @@
 | ------: | -------: | ---: |
 |   3 - 5 |       14 |  60m |
 
+### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+
+> Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
+
+![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+
+### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
+
+> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+
+![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2     |        6 | 1-10m  |
+
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+> Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
+> You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   4-8   |       13 |  45m   |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -493,6 +534,16 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+
+> Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
+
+![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 | 120m |
+
 ### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 
 > Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
@@ -539,9 +590,9 @@
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 5 |        8 |    15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  15m |
 
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 

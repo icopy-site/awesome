@@ -12,9 +12,7 @@
 - [BeagleBoard](http://beagleboard.org/bone)
 - [Hue](http://www.developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
-- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
-- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
 - [Particle](https://www.particle.io/)
 
 #### OS
@@ -23,6 +21,7 @@
 - [Contiki OS](http://www.contiki-os.org/)
 - [Raspbian](http://raspbian.org/)
 - [Project Brillo](https://developers.google.com/brillo/)
+- [BalenaOS](https://www.balena.io/os/)
 
 #### Frameworks-Tools
 - [CylonJS](http://cylonjs.com/)
@@ -30,6 +29,7 @@
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
 - [Lelylan](https://github.com/lelylan/lelylan)
+- [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -37,6 +37,10 @@
 - [Hackster](http://www.hackster.io/)
 - [My Controller](https://www.mycontroller.org/#/home)
 - [Kaa Project](https://www.kaaproject.org/)
+
+## IIoT (Industrial IoT)
+- [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
+
 
 ## Hybrid Desktop
 

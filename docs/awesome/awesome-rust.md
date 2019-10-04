@@ -164,6 +164,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Video
 
+* [yuvadm/streamlib](https://github.com/yuvadm/streamlib) - Play your favorite live video and audio streams from command line
 
 ### Virtualization
 
