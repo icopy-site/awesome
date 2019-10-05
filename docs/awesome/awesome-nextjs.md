@@ -48,6 +48,7 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
+* [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
@@ -83,6 +84,8 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 * [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle. 
+
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.

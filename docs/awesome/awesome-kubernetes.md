@@ -34,7 +34,7 @@ It groups containers that make up an application into logical units for easy man
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 
-## History:
+## History
 
 **Kubernetes is known to be a descendant of Google's system BORG**
 
@@ -45,7 +45,7 @@ batch jobs; both predated Linux control groups.
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
-## Date of Birth:
+## Date of Birth
 
 Kubernetes celebrates its birthday every year on 21st July. Kubernetes 1.0 was released on July 21 2015, after being first announced to the public at [Dockercon in June 2014](https://www.youtube.com/watch?v=YrxnVKZeqK8).
 
@@ -682,6 +682,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) - Maesh is a straight-forward, easy to configure, and non-invasive service mesh that allows visibility and management of the traffic flows inside any Kubernetes cluster.
 
 ## RPC
 

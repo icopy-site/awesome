@@ -166,6 +166,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [passwordless_auth](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 * [phauxth](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
 * [phoenix_client_ssl](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
+* [pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 * [samly](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 * [sesamex](https://github.com/khusnetdinov/sesamex) - Another simple and flexible authentication solution in 5 minutes!.
 * [shield](https://github.com/mustafaturan/shield) - An OAuth 2.0 provider library and implementation for Phoenix Framework.
@@ -390,6 +391,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [jalaali](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 * [milliseconds](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+* [open_hours](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 * [quantum](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 * [tiktak](https://github.com/ConduitMobileRND/tiktak) - Fast and lightweight web scheduler written in Elixir.
@@ -865,6 +867,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [anaphora](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
 * [backports](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
+* [crudry](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 * [eventsourced](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 * [guardsafe](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
@@ -1064,6 +1067,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 * [neo4j_sips](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 * [neo4j_sips_models](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
+* [panoramix](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 * [paper_trail](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 * [postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 * [red](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
@@ -1303,6 +1307,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bencode](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 * [bencoder](https://github.com/alehander42/bencoder) - bencode in Elixir.
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
+* [caustic](https://github.com/agro1986/caustic) - Elixir cryptocurrency library for Bitcoin, Ethereum, and other blockchains. Includes cryptography, number theory (prime, congruence), and general mathematics library for exploratory math.
 * [ccc](https://github.com/Joe-noh/ccc) - Character Code Converter.
 * [chinese_translation](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cidr](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
@@ -1680,6 +1685,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 ## Screencasts
 *Cool video tutorials.*
 
+* [Alchemist Camp](https://alchemist.camp) - Alchemist.Camp has many hours of free, project-based Elixir-learning screencasts.
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir related conference talks.
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) - Functional, Parallel, Reliable (and fun!), taught by Dave Thomas.
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.

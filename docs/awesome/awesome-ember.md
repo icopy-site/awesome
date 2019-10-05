@@ -37,10 +37,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ---
 
-	- [Data manipulation & Computed](#)
-	- [Ember-inspector roadmaps & overview](#)
-	- [Internalization & Localization](#)
-	- [SSR / Server Side Rendering](#)
+- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-emberjs-awesomehttpsgithubcomsindresorhusawesome)
 
 
 ## Packages
@@ -1097,6 +1094,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
 - [mber](https://github.com/izelnakri/mber) - Ember CLI replacement. Currently alpha.
 - [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
+- [Ember Unused Components](https://github.com/vastec/ember-unused-components) - This script searches for unused components in your Ember project
 
 ### Tutorials
 
