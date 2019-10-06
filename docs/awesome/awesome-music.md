@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
-* [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
+* [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
@@ -37,6 +37,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+* [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
