@@ -45,7 +45,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 
 ## Reporting Systems 
 * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
-* [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others.
+* [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) parses ProMed reports into disease outbreak events, curated by disease experts. 
 * [WHISPers](https://whispers.usgs.gov/) - Wildlife Health Information Sharing Partnership event reporting system managed by USGS National Wildlife Health Center. Events of North American wildlife mortality (death) and morbidity (illness) involving five or more individuals are reported. 
 * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) - The OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  
