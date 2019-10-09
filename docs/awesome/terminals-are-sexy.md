@@ -114,6 +114,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
+* [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 
@@ -213,6 +214,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jq.node](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
 * [jrnl](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
 * [k](https://github.com/supercrabtree/k) - Directory listings for zsh with git features.
+* [kubebox](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 * [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager.
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
@@ -240,6 +242,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
 * [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
+* [yadm](https://yadm.io) - Seamless git-based management of your dotfiles.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.

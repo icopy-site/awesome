@@ -13,7 +13,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 See also [Rust — Production](https://www.rust-lang.org/production)(organizations running Rust in production).
 
 * [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — interative assembly shell written in rust.
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [Fractalide](https://github.com/fractalide/fractalide) — Simple Rust Microservices
