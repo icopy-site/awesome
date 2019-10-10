@@ -133,6 +133,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue) _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
+- [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
 
 ## Julia
 
@@ -156,6 +157,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: N/A, link to external website)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
+- [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 
 ## Python
 
@@ -203,6 +206,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 
 ## Rust
 

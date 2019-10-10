@@ -106,6 +106,7 @@ You can see in which language an app is written. Currently there are following l
 ### Cryptocurrency
 - [Balance Open](https://github.com/balance-io/balance-open) - App for all the world’s currencies.  ![swift_icon] 
 - [CoinBar](https://github.com/adamwaite/CoinBar) - macOS menu bar application for tracking crypto coin prices.  ![swift_icon] 
+- [Copay](https://github.com/bitpay/copay) - A secure bitcoin wallet platform for both desktop and mobile devices.  ![type_script_icon] 
 - [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - macOS menu bar application built with Electron.  ![javascript_icon] 
 - [Float coin](https://github.com/kaunteya/FloatCoin) - Native menu bar app with floating window and support for many Exchanges.  ![swift_icon] 
 
@@ -339,6 +340,7 @@ You can see in which language an app is written. Currently there are following l
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS.  ![c_sharp_icon] 
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs!  ![swift_icon] 
 - [DeezPlayer](https://github.com/imanel/deezplayer) - Deezer Desktop app for Windows, Linux and macOS.  ![coffee_script_icon] 
+- [Lilypond UI]() - Create beautiful musical scores with LilyPond ![javascript_icon] 
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.  ![javascript_icon] 
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac) - Control Spotify without leaving your terminal. :notes:  ![javascript_icon] 
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com.  ![swift_icon] 
@@ -423,6 +425,7 @@ You can see in which language an app is written. Currently there are following l
 - [Thyme](https://github.com/joaomoreno/thyme) - The task timer for OS X.  ![objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.  ![swift_icon] 
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319) - Toggl Desktop app for Windows, Mac and Linux.  ![cpp_icon] 
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support. ![swift_icon] 
 - [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.  ![swift_icon] 
 - [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app.  ![javascript_icon] 
@@ -466,6 +469,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Streaming
 - [Galeri](https://github.com/michealparks/galeri) - Perpetual artwork streaming app.  ![javascript_icon] 
+- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.  ![cpp_icon] 
 
 ### System
 - [AppPolice](https://github.com/AppPolice/AppPolice) - App for macOS with a minimalistic UI which lets you quickly throttle down the CPU usage of any running process.  ![objective_c_icon] 
@@ -510,7 +514,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Utilities
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
-- [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images  ![swift_icon] 
+- [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images. ![swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective_c_icon] 
 - [Bitwarden](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![type_script_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Secure password manager for mac and other platforms.  ![javascript_icon] 
@@ -533,6 +537,7 @@ You can see in which language an app is written. Currently there are following l
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS  ![swift_icon] 
 - [Mos](https://github.com/Caldis/Mos) - Smooth your mouse's scrolling and reverse the mouse scroll direction  ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/) - Receive Android notifications on your mac (with PushBullet).  ![swift_icon] 
+- [Numi](https://github.com/nikolaeu/Numi) - A handy calculator with natural language parsing ![javascript_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Receive native push notifications on macOS, Windows and Linux.  ![javascript_icon] 
 - [Padlock](https://github.com/padloc/padloc) - A minimal, open source password manager for macOS.  ![javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift_icon] 

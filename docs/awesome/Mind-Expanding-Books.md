@@ -214,6 +214,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Extended Phenotype: The Long Reach of the Gene | Richard Dawkins | [4.07](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) | 1999 |  
 | Rare Earth: Why Complex Life is Uncommon in the Universe | Peter D. Ward, Donald Brownlee | [4.06](https://www.goodreads.com/book/show/88552.Rare_Earth) | 2003 |  
 | Stiff: The Curious Lives of Human Cadavers | Mary Roach | [4.05](https://www.goodreads.com/book/show/32145.Stiff) | 2004 |  
+| The Man Who Mistook His Wife for A Hat and Other Clinical Tales | Oliver Sacks | [4.05](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) | 1998 |  
 | Darwin's Dangerous Idea | Daniel C. Dennett | [4.03](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) |  |  
 | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | Kevin Kelly | [4.02](https://www.goodreads.com/book/show/27209431-the-inevitable) | 2016 |  
 | The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us | Noson S. Yanofsky | [4.00](http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason) | 2013 |  
@@ -240,6 +241,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | A Mind for Numbers: How to Excel at Math and Science even If You Flunked Algebra | Barbara Oakley | [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
 | How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
+| Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
@@ -251,6 +253,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime | John Heilemann, Mark Halperin | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
 | Bolo'bolo | P.M. | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
 | The Myth of the Rational Voter: Why Democracies Choose Bad Policies | Bryan Caplan | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
+| The Art of Deception: Controlling the Human Element of Security | Kevin D. Mitnick | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
 | Resource Wars: The New Landscape of Global Conflict | Michael Klare | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |  |  
 | The Audacity of Hope: Thoughts on Reclaiming the American Dream | Barack Obama | [3.70](https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope) | 2006 |  
 
@@ -335,6 +338,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 2004 |  
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
 | Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
+| 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  

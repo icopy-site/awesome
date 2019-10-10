@@ -244,6 +244,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Videos
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/491014980) - October 07, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/490078631) - October 05, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
+* [Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=Y4Zu6w_4LN4) - October 01, 2019 - Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor.
 * [The Future of Blazor on the Client](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B202) - September 25, 2019 - The Future of Blazor on the Client, by Daniel Roth on Channel 9.
 * [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
 * [Blazor and Azure Functions for Serverless Websites](https://www.youtube.com/watch?v=noG3rxt38VI) - September 24, 2019 - Blazor and Azure Functions for Serverless Websites, from the .NET Conf 2019.
@@ -314,6 +315,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor Roundup From .NET Conf 2019](https://chrissainty.com/blazor-roundup-from-dot-net-conf-2019/) - October 01, 2019 - Blazor Roundup From .NET Conf 2019.
 * [Getting Started with Blazor WebAssembly](https://wellsb.com/csharp/aspnet/getting-started-blazor-webassembly/) - September 30, 2019 - With the launch of .NET Core 3.0 and Visual Studio 16.3.0, support for creating web apps using the Blazor template is now natively enabled. This makes it easy for you to run your C# libraries directly in the browser.
 * [Blazor Simple CQRS with MediatR](https://oceanware.wordpress.com/2019/09/29/blazor-simple-cqrs-with-mediatr/) - September 29, 2019 - Blazor Simple CQRS with MediatR.
+* [Make it all dynamic in Blazor – Routing, Pages and Components](https://www.linkedin.com/pulse/make-all-dynamic-blazor-routing-pages-components-göran-halvarsson) - September 27, 2019 - Make it all dynamic in Blazor – Routing, Pages and Components.
 * [The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx) - September 26, 2019 - The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?), by Visual Studio Magazine.
 * [Migrate Protogen To Blazor](https://remibou.github.io/Migrate-protogen-to-Blazor/) - September 26, 2019 - Migrate Protogen To Blazor.
 * [Telerik UI for Blazor 2.1.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-2.1.0-asp.net-core-3.0-compatibility-scatter-scatter-line-and-bubble-charts!) - September 25, 2019 - Telerik UI for Blazor 2.1.0 – ASP.NET Core 3.0 Compatibility, Scatter, Scatter Line and Bubble Charts!
@@ -459,7 +461,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## Courses
-* [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course by Udemy.
+* [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - October 2019 - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course on Udemy.
+* [Blazor on ASP.NET Core 3.0](https://www.skillshare.com/site/join?teacherRef=102575464&t=Blazor-on-ASP.NET-Core-3.0&sku=1662883580) - October 2019 - Blazor on ASP.NET Core 3.0, a course on SkillShare.
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square&cacheSeconds=604800).
 * [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square&cacheSeconds=604800).
   

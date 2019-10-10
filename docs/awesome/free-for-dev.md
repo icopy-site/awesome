@@ -438,7 +438,6 @@ Table of Contents
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
-  * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
@@ -515,7 +514,7 @@ Table of Contents
    * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
-   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
+   * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
    * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
@@ -530,7 +529,6 @@ Table of Contents
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
    * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
-   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — search based on time tracking, attachments on Agile Board, and many other improvements. 10 users 5 GB free
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
    * [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
