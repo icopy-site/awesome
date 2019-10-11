@@ -14,6 +14,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Guidelines
 * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+* [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
   
 ## Blogs
 * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
@@ -25,6 +26,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
+* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)

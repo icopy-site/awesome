@@ -569,7 +569,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
-* [Werf](https://github.com/flant/werf) - Werf simplifies development of build scripts, reduces commit build time and automates deployment.
+* [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
 
 ## Serverless Implementations
 
@@ -675,6 +675,7 @@ Projects
 * [OpenVSwitch](http://openvswitch.org/)
 * [Romana](http://romana.io/)
 * [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
+* [Submariner: Cross-Cluster Network Connectivity for Kubernetes](https://submariner.io) - Submariner enables direct networking between pods in different Kubernetes clusters on prem or in the cloud.
 
 ## Service mesh
 
@@ -780,7 +781,6 @@ Projects
 * [Pulumi](https://www.pulumi.com/kubernetes/) - Provides a SDK for k8s deployments targeting on-premises clusters and major cloud vendors' managed services.
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
-* [thesus](https://github.com/heptiolabs/theseus) - A command-line utility and importable package for comparing sets of Kubernetes objects
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md) - A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
 * [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure allowing you to focus on your data instead of how to properly escape it.
 

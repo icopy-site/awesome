@@ -213,7 +213,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) - ![GitHub stars](https://img.shields.io/github/stars/AspNetMonsters/Blazor.Geolocation?style=flat-square&cacheSeconds=604800) Blazor interop for browser Geolocation APIs.
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.TimeZoneKit?style=flat-square&cacheSeconds=604800) A library to provide system time zones and local time zone initialization in Blazor apps.
 * [Blazor SVG Helper](https://github.com/Lupusa87/BlazorSvgHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSvgHelper?style=flat-square&cacheSeconds=604800) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
-* [Razor components resting library](https://github.com/egil/razor-components-testing-library) - Prototype testing library that renders Razor Components as HTML and compare the result to an expected result, using the XMLDiff library and Shouldly for writing out error messages. 
+* [Razor components testing library](https://github.com/egil/razor-components-testing-library) - A library for testing Razor Components that renders the components as HTML and compares the result to an expected result, using the XMLDiff library and Shouldly for writing out error messages. 
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
@@ -240,6 +240,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
+* [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/491014980) - October 07, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
