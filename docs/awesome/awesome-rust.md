@@ -940,6 +940,8 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [erickt/rust-zmq](https://raw.githubusercontent.com/erickt/rust-zmq) — [ZeroMQ](http://zeromq.org/) bindings [<img src="https://api.travis-ci.org/erickt/rust-zmq.svg?branch=master">](https://travis-ci.org/erickt/rust-zmq)
 * CoAP
   * [Covertness/coap-rs](https://raw.githubusercontent.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://tools.ietf.org/html/rfc7252) library for Rust. [<img src="https://api.travis-ci.org/Covertness/coap-rs.svg?branch=master">](https://travis-ci.org/Covertness/coap-rs)
+* RPC
+  * [smallnest/rpcx-rs](https://raw.githubusercontent.com/smallnest/rpcx-rs) — A RPC library for Rust for developing microservices in easy and simple way. [<img src="https://api.travis-ci.org/smallnest/rpcx-rs.svg?branch=master">](https://travis-ci.org/smallnest/rpcx-rs)
 
 ### Parsing
 
@@ -1111,6 +1113,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 * Podcasts
   * [New Rustacean](https://newrustacean.com) — A podcast about learning Rust
+  * [Rustacean Station](https://rustacean-station.org/) - A community project for creating podcast content for Rust
   * [Rusty Spike](https://rusty-spike.blubrry.net) — news on all things Rust
 * [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns)

@@ -77,11 +77,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only) _(label: first-timers-only)_ <br> Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
-- [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
-- [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -134,6 +132,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
+- [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 
 ## Julia
 
@@ -191,6 +190,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
+- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 
 ## Ruby
 

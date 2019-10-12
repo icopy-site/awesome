@@ -52,6 +52,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Counting with Prometheus - Brian Brazil, Robust Perception.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - Understanding and Extending Prometheus AlertManager - Lee Calcote, SolarWinds
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) - PromCon 2016: The Prometheus Time Series Database - Björn Rabenstein.
+- [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) - GOTO 2019: An Introduction to Systems & Service Monitoring with Prometheus - Julius Volz.
 
 ## Podcasts and interviews
 

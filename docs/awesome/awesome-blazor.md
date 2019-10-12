@@ -243,8 +243,10 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor StateHasChanged: Responsive and Adaptive web rendering](https://www.twitch.tv/videos/493138351) - October 11, 2019 - Responsive and Adaptive web rendering.
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/491014980) - October 07, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/490078631) - October 05, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
+* [Blazor StateHasChanged: Community round up & BlazePort](https://www.twitch.tv/videos/490114563) - October 04, 2019 - Blazor StateHasChanged: Community round up & BlazePort. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=Y4Zu6w_4LN4) - October 01, 2019 - Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor.
 * [The Future of Blazor on the Client](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B202) - September 25, 2019 - The Future of Blazor on the Client, by Daniel Roth on Channel 9.
 * [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
@@ -311,6 +313,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor Server in .NET Core 3.0 scenarios and performance](https://devblogs.microsoft.com/aspnet/blazor-server-in-net-core-3-0-scenarios-and-performance/) - October 10, 2019 - Blazor Server in .NET Core 3.0 scenarios and performance, by Daniel Roth.
 * [3 Ways to Bind Blazor Data to DOM](https://wellsb.com/csharp/aspnet/3-ways-to-bind-blazor-variables-to-dom/) - October 07, 2019 - One of the most useful Blazor features is the ability to pass data between your front-end DOM elements and back-end C# code. In this tutorial, you will learn techniques for binding C# variables such that they can be displayed in the browser or modified via user input in the browser.
 * [Blazor Security Docs and Blog Posts](https://oceanware.wordpress.com/2019/10/06/blazor-security-docs-and-blog-posts/) - October 06, 2019 - List of security resources about Blazor.
 * [Blazor Roundup From .NET Conf 2019](https://chrissainty.com/blazor-roundup-from-dot-net-conf-2019/) - October 01, 2019 - Blazor Roundup From .NET Conf 2019.
