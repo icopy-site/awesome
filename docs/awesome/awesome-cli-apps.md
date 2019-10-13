@@ -134,6 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 
 ### Release
 
@@ -474,6 +475,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
 
 ## Other Awesome Lists
 

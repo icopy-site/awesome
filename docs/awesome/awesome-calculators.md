@@ -24,6 +24,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) - Android port of x48, the awesome HP48GX/SX emulator
+- [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
 
 ### Windows
 - [Windows Calculator](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows

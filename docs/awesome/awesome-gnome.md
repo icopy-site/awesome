@@ -26,12 +26,11 @@
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) - Reddit client.
 - [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) - Remote client for the Transmission torrent daemon.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) - BitTorrent client.
+- [Fragments](https://gitlab.gnome.org/World/Fragments) - BitTorrent client.
 - [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
@@ -41,7 +40,7 @@
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - EBook Viewer.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple, focused eBook reader that looks good in GNOME.
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-- [Showdown](https://github.com/craigbarnes/showdown) - Simple markdown viewer.
+- [Showdown](https://gitlab.com/craigbarnes/showdown) - Simple markdown viewer.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) - Simple application to extract, merge, rotate and reorder pages of PDF documents.
 - [UberWriter](https://github.com/UberWriter/uberwriter) - Distraction-free Markdown editor.
@@ -56,12 +55,11 @@
 
 ### Multimedia
 
-- [Webmusic](https://github.com/badcel/webmusic) - Web-based music player that integrates your favorite music services into the desktop.
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio.
+- [GRadio](https://github.com/haecker-felix/gradio/) - Client for web-based radio (currently in maintenance-mode, will be replaced by Shortwave).
 - [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
@@ -84,9 +82,8 @@
 
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
-- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) - Tool to manage the applications folder in the GNOME application overlay.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) - Set a different background for each monitor.
+- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
 
@@ -108,23 +105,18 @@
 
 #### Design Tooling
 
-- [https://gitlab.gnome.org/World/design/icon-tool](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Preview) - Simple utility to preview icons.
-- [https://gitlab.gnome.org/World/design/palette](https://github.com/Kazhnuz/awesome-gnome/blob/master/Palette) - Tool for viewing the GNOME colour palette.
-- [https://gitlab.gnome.org/World/design/contrast](https://github.com/Kazhnuz/awesome-gnome/blob/master/Contrast) - Checks the contrast between two colors.
-- [https://gitlab.gnome.org/World/design/icon-library](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Library) - Find the right icon to use on your GNOME application.
+- [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - Simple utility to preview icons.
+- [Palette](https://gitlab.gnome.org/World/design/palette) - Tool for viewing the GNOME colour palette.
+- [Contrast](https://gitlab.gnome.org/World/design/contrast) - Checks the contrast between two colors.
+- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - Find the right icon to use on your GNOME application.
 
 ### Others
 
-- [Luminance](http://craigcabrey.com/luminance/) - Philips Hue client.
 - [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
 
 ## Third-party Apps Plugins
 
 - [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
-
-## GTK Modules and Systems
-
-- [Plotinus](https://github.com/p-e-w/plotinus) - Command palette for GTK3 Applications.
 
 ## Extensions
 
