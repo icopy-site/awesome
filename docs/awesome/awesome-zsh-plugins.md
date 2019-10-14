@@ -152,11 +152,12 @@ zapack is a basic fast minimal ZSH plugin loader.
 - Interactive interface ([fzf](https://github.com/junegunn/fzf), [peco](https://github.com/peco/peco), [zaw](https://github.com/zsh-users/zaw), and so on)
 - Cache mechanism for reducing [the startup time](https://github.com/zplug/zplug#vs)
 
-### [zplugin](https://github.com/zdharma/zplugin)
+### [Zplugin](https://github.com/zdharma/zplugin)
 
 **Zplugin** is an innovative plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode](http://zdharma.org/zplugin/wiki/INTRODUCTION/#turbo_mode_zsh_62_53), a clean fpath, reports, completion management and [services](https://github.com/zservices) support. You can use [crasis](https://github.com/zdharma/zplugin-crasis) and also
 [declare-zsh](https://github.com/zdharma/declare-zsh) to edit your Zplugin
-commands in your `~.zshrc`.
+commands in your `~.zshrc` and also use [zplugin-console](https://github.com/zplugin/zplugin-console) to view and change
+the state of the Zsh session and to delete the plugins and snippets from the disk.
 
 ### [ZPM](https://github.com/zpm-zsh/zpm)
 
