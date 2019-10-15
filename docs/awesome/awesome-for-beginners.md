@@ -23,6 +23,11 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
+## <a name="c-sharp"></a>C#
+
+- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
+- [osu!](https://github.com/ppy/osu/labels/good%20first%20issue) _(label: good first issue)_ <br> Music game. Rhythm is just a *click* away!
+
 ## C++
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -133,6 +138,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
+- [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 
 ## Julia
 
@@ -183,6 +189,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
+- [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue) _(label: good first issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
