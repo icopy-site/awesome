@@ -14,6 +14,19 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 
 
+## Official Resources
+
+- [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
+- [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+- [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
+- [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
+- [Mailing Lists](http://jmeter.apache.org//mail2.html) - Apache JMeter mailing lists.
+
+## Distributions
+
+- [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
+- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
+
 ## Getting Started
 
 - [Getting Started with Apache JMeter @ DZone](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
@@ -31,8 +44,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
 - [JMeter Resources @ InfoSec Institute](https://resources.infosecinstitute.com/search/?s=jmeter)
-- [JMeter Tutorial @ tutorialspoint.com ](https://www.tutorialspoint.com/jmeter/)
-- [JMeter Tutorial for Load Testing: The ULTIMATE Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
+- [JMeter Tutorial @ tutorialspoint.com](https://www.tutorialspoint.com/jmeter/)
+- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
@@ -54,11 +67,6 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## DSL
 
 - [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
-
-## Distributions
-
-- [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
-- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
 
 ## CI
 
@@ -189,11 +197,12 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Extending JMeter
 
-- [JMeter Developer Manual](http://wiki.apache.org/jmeter/DeveloperManual)
-- [How to write a plugin for JMeter](https://jmeter.apache.org/extending/jmeter_tutorial.pdf)
-- [How to build a JMeter plugin utilising groovy](http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
+- [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
+- [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
+- [How to build a JMeter plugin utilising groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+- [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
 
 ## Books
 
@@ -223,16 +232,16 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ### Blogs
 
-- [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - BlazeMeter blog about JMeter and performance testing.
+- [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) - BlazeMeter blog about JMeter and performance testing.
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
-- [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
-- [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
-- [OctoPerf Blog](https://octoperf.com/blog) - OctoPerf blog about JMeter and load testing.
-- [Abstracta](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+- [Flood.io Blog](https://flood.io/blog/) - Load testing thoughts, stories and ideas from Flood IO.
+- [JMeter Blog @ Shantonu Sarker](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
+- [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
+- [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications *(not updates more)*.
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(not updates more)*.
 
 ### Forums
 

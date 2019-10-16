@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
-[<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
+[<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg?sanitize=true" align="right" width="240">](https://hyper.is)
 
 > A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
@@ -114,6 +114,7 @@ Name and description | Downloads
 [hyper-tab-touchbar](https://www.npmjs.com/package/hyper-tab-touchbar) - See and access your terminal tabs from the MacBook Pro's Touch Bar. Supports icons with `hyper-folder-icon`. | [![npm](https://img.shields.io/npm/dm/hyper-tab-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-tab-touchbar)
 [hyper-opacity](https://www.npmjs.com/package/hyper-opacity) - Set the opacity of your Hyper window. | [![npm](https://img.shields.io/npm/dm/hyper-opacity.svg?label=DL)](https://www.npmjs.com/package/hyper-opacity)
 [hyper-custom-touchbar](https://www.npmjs.com/package/hyper-custom-touchbar) - Add custom buttons in MacBook Pro's Touch Bar. | [![npm](https://img.shields.io/npm/dm/hyper-custom-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-custom-touchbar)
+[hyper-save-windowstate](https://www.npmjs.com/package/hyper-save-windowstate) - Save and restore Hyper window position/size after restart. | [![npm](https://img.shields.io/npm/dm/hyper-save-windowstate.svg?label=DL)](https://www.npmjs.com/package/hyper-save-windowstate)
 
 
 ## Development
@@ -251,6 +252,7 @@ Name and description | Downloads
 [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) - Port of the popular Spacegray theme, optimized for terminal usage. | [![npm](https://img.shields.io/npm/dm/hyperterm-spacegray.svg?label=DL)](https://www.npmjs.com/package/hyperterm-spacegray)
 [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-tomorrow-night.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tomorrow-night)
 [hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-them.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
+[hyperterm-ultrasweet](https://www.npmjs.com/package/hyperterm-ultrasweet) - A dark theme with nebula hues for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperterm-ultrasweet.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ultrasweet)
 [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal. | [![npm](https://img.shields.io/npm/dm/hyperterm-unlease.svg?label=DL)](https://www.npmjs.com/package/hyperterm-unlease)
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)
 [shades-of-purple-hyper](https://www.npmjs.com/package/shades-of-purple-hyper) - Professional Hyper™ theme with hand-picked & bold shades of purple. Purple can be genius. | [![npm](https://img.shields.io/npm/dm/shades-of-purple-hyper.svg?label=DL)](https://www.npmjs.com/package/shades-of-purple-hyper)

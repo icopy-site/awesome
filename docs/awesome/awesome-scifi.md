@@ -94,6 +94,20 @@ Based on Sagan's own studies as an astrophysicist and philosopher, Contact provi
 
 > At first it seemed impossible - a radio signal that came not from Earth but from far beyond the nearest stars. But then the signal was translated, and what had been impossible became terrifying. For the signal contains the information to build a Machine that can travel to the stars. A Machine that can take a human to meet those that sent the message. They are eager to meet us: they have been watching and waiting for a long time. And now they will judge.
 
+#### [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) (2016) *by [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)* [4.1] 🔥
+
+An interesting take on the possibility of the multiverse, Schrödinger's cat, and how every choice, big or small, has led to this exact moment. - [@thedeany](https://github.com/thedeany)
+
+> Jason Dessen is walking home through the chilly Chicago streets one night, looking forward to a quiet evening in front of the fireplace with his wife, Daniela, and their son, Charlie—when his reality shatters.
+>
+> It starts with a man in a mask kidnapping him at gunpoint, for reasons Jason can’t begin to fathom—what would anyone want with an ordinary physics professor?—and grows even more terrifying from there, as Jason’s abductor injects him with some unknown drug and watches while he loses consciousness.
+>
+> When Jason awakes, he’s in a lab, strapped to a gurney—and a man he’s never seen before is cheerily telling him “welcome back!”
+>
+> Jason soon learns that in this world he’s woken up to, his house is not his house. His wife is not his wife. His son was never born.
+>
+> And someone is hunting him.
+
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
@@ -554,6 +568,19 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 > A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and _Lord Jim_. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, _Hard-Boiled Wonderland and the End of the World_ is the tour de force that expanded Haruki Murakami’s international following. Tracking one man’s descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.
 
+### Utopia
+
+_Utopian novels deal with imaginary communities or societies that are desirable or pleasant._
+
+#### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.9]
+
+My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
+
+> Just a few islands in a planetwide ocean, Thalassa was a veritable paradise—home to one of the small colonies founded centuries before by robot Mother Ships when the Sun had gone nova and mankind had fled Earth.
+>
+> Mesmerized by the beauty of Thalassa and overwhelmed by its vast resources, the colonists lived an idyllic existence, unaware of the monumental evolutionary event slowly taking place beneath their seas...
+>
+> Then the Magellan arrived in orbit carrying one million refugees from the last, mad days on Earth. And suddenly uncertainty and change had come to the placid paradise that was Thalassa.
 
 ### Dystopia
 
@@ -1230,6 +1257,15 @@ Very few films can stand up to as many rewatches as this film can - there are la
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
+#### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) (2017) [8.0]
+
+Categories: `dystopia` `ai` `cyberpunk` `thriller` `mystery`<br>
+Director: _Denis Villeneuve_
+
+Blade Runner 2049 returns to the original book's deep philosophical questions about the nature of humanity, and expressed through a captivating, epic mystery it amounts to a breathtaking, mind-bending cinematic experience. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)s
+
+> A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+
 #### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
 
 Categories: `dystopia` `police`
@@ -1328,6 +1364,8 @@ I was thinking that this movie would be like the rest of the movies starring Tom
 It was pretty good, the premise is quiet interesting, and the acting was quite good. - [@elssar](https://github.com/elssar)
 
 I thought it was great, and I was a bit anxious about there being so many scenes repeating the same thing, but it worked! - [@tjFogarty](https://github.com/tjFogarty)
+
+One of my favorite sci-fi movies of all time. The source material is supposed to be good too, which is a manga called "All You Need is Kill". Haven't read it yet, but if you liked the movie then you would probably like this too. - [@wulfshadow](https://github.com/wulfshadow)
 
 > A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
 
@@ -1877,6 +1915,14 @@ Plus, I'm not sure the franchise has ever quite topped the amazing chemistry bet
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
 
+#### [The 100](https://www.imdb.com/title/tt2661044/) (2014–) [7.7]
+
+Categories:  `drama` `mystery`
+
+I never really understood the need or reason for binge watching until I encountered The 100. The first and second season were absolutely mesmerizing and compelling. The character development, the story, the plot twists; all amazing! Literally, pulled a few all-nighters because I had to know what happened next in the series. The premise of the show is after evacuating Earth do to global nuclear bombings and radiation, the International Space Station decide to send '100' of the stations adolescent deliquents down to earth so see if it is habitable again. Middle to end of season 3 start to get a little weird and supposedly it was supposed to end after season 3 so they attempt to wrap up the series. I have tried to continue watching but am no where as entranced as I was with seasons 1 and 2. - [@kyebrowning](https://github.com/kyebrowning)
+
+>Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet. 
+
 #### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
 
 Categories: `adventure` `comedy` `drama`
@@ -1984,6 +2030,14 @@ Categories: `hard-science-fiction` `sci-fi` `society`
 One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
 
 > Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
+
+#### [Y: The Last Man](https://www.goodreads.com/series/86528-y-the-last-man) (2003-2008) *by Brian K. Vaughan* [4.33]
+
+Categories: `dystopian` `sci-fi`
+
+Y: The Last Man is graphic novel series unlike any other I have read. The "last man" struggles with trying to learn why every other man on earth is dead and how did he survive. Adding to his own internal struggle, the women on earth are divided between wanting to ensure humanity lives on, and those who believe they should be the last generation of humans on earth. - [@derekneuland](https://github.com/derekneuland)
+
+> Y: The Last Man is a dystopian science fiction comic book series by Brian K. Vaughan and Pia Guerra published by Vertigo beginning in 2002. The series is about the only man to survive the apparent simultaneous death of every male mammal (barring the same man's pet monkey) on Earth.
 
 
 ## Links
