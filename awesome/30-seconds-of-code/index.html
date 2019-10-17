@@ -3581,6 +3581,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#objecttoquerystring" class="md-nav__link">
+    objectToQueryString
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#parsecookie" class="md-nav__link">
     parseCookie
   </a>
@@ -12418,6 +12425,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#objecttoquerystring" class="md-nav__link">
+    objectToQueryString
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#parsecookie" class="md-nav__link">
     parseCookie
   </a>
@@ -13505,8 +13519,8 @@ Omit the third argument, <code>end</code>, to use the same value as <code>separa
       <span class="nx">i</span> <span class="o">===</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">length</span> <span class="o">-</span> <span class="mi">2</span>
         <span class="o">?</span> <span class="nx">acc</span> <span class="o">+</span> <span class="nx">val</span> <span class="o">+</span> <span class="nx">end</span>
         <span class="o">:</span> <span class="nx">i</span> <span class="o">===</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">length</span> <span class="o">-</span> <span class="mi">1</span>
-          <span class="o">?</span> <span class="nx">acc</span> <span class="o">+</span> <span class="nx">val</span>
-          <span class="o">:</span> <span class="nx">acc</span> <span class="o">+</span> <span class="nx">val</span> <span class="o">+</span> <span class="nx">separator</span><span class="p">,</span>
+        <span class="o">?</span> <span class="nx">acc</span> <span class="o">+</span> <span class="nx">val</span>
+        <span class="o">:</span> <span class="nx">acc</span> <span class="o">+</span> <span class="nx">val</span> <span class="o">+</span> <span class="nx">separator</span><span class="p">,</span>
     <span class="s1">&#39;&#39;</span>
   <span class="p">);</span>
 </pre></div>
@@ -15357,10 +15371,10 @@ Use <code>String.prototype.join(', ')</code> to combine the values into a string
   <span class="nx">num</span> <span class="o">===</span> <span class="mi">0</span> <span class="o">||</span> <span class="nx">num</span> <span class="o">===</span> <span class="mi">24</span>
     <span class="o">?</span> <span class="mi">12</span> <span class="o">+</span> <span class="s1">&#39;am&#39;</span>
     <span class="o">:</span> <span class="nx">num</span> <span class="o">===</span> <span class="mi">12</span>
-      <span class="o">?</span> <span class="mi">12</span> <span class="o">+</span> <span class="s1">&#39;pm&#39;</span>
-      <span class="o">:</span> <span class="nx">num</span> <span class="o">&lt;</span> <span class="mi">12</span>
-        <span class="o">?</span> <span class="p">(</span><span class="nx">num</span> <span class="o">%</span> <span class="mi">12</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;am&#39;</span>
-        <span class="o">:</span> <span class="p">(</span><span class="nx">num</span> <span class="o">%</span> <span class="mi">12</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;pm&#39;</span><span class="p">;</span>
+    <span class="o">?</span> <span class="mi">12</span> <span class="o">+</span> <span class="s1">&#39;pm&#39;</span>
+    <span class="o">:</span> <span class="nx">num</span> <span class="o">&lt;</span> <span class="mi">12</span>
+    <span class="o">?</span> <span class="p">(</span><span class="nx">num</span> <span class="o">%</span> <span class="mi">12</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;am&#39;</span>
+    <span class="o">:</span> <span class="p">(</span><span class="nx">num</span> <span class="o">%</span> <span class="mi">12</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;pm&#39;</span><span class="p">;</span>
 </pre></div>
 
 <details>
@@ -16248,11 +16262,11 @@ Throws an exception if <code>n</code> is a negative number.</p>
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">factorial</span> <span class="o">=</span> <span class="nx">n</span> <span class="p">=&gt;</span>
   <span class="nx">n</span> <span class="o">&lt;</span> <span class="mi">0</span>
     <span class="o">?</span> <span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
-    <span class="p">})()</span>
+        <span class="k">throw</span> <span class="k">new</span> <span class="nx">TypeError</span><span class="p">(</span><span class="s1">&#39;Negative numbers are not allowed!&#39;</span><span class="p">);</span>
+      <span class="p">})()</span>
     <span class="o">:</span> <span class="nx">n</span> <span class="o">&lt;=</span> <span class="mi">1</span>
-      <span class="o">?</span> <span class="mi">1</span>
-      <span class="o">:</span> <span class="nx">n</span> <span class="o">*</span> <span class="nx">factorial</span><span class="p">(</span><span class="nx">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
+    <span class="o">?</span> <span class="mi">1</span>
+    <span class="o">:</span> <span class="nx">n</span> <span class="o">*</span> <span class="nx">factorial</span><span class="p">(</span><span class="nx">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">);</span>
 </pre></div>
 
 <details>
@@ -17113,8 +17127,8 @@ Use <code>Object.keys()</code> and <code>Array.prototype.forEach()</code> to det
   <span class="k">return</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="nx">obj</span><span class="p">.</span><span class="nx">length</span>
     <span class="o">?</span> <span class="p">(</span><span class="nx">clone</span><span class="p">.</span><span class="nx">length</span> <span class="o">=</span> <span class="nx">obj</span><span class="p">.</span><span class="nx">length</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nx">clone</span><span class="p">)</span>
     <span class="o">:</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span>
-      <span class="o">?</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span>
-      <span class="o">:</span> <span class="nx">clone</span><span class="p">;</span>
+    <span class="o">?</span> <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span>
+    <span class="o">:</span> <span class="nx">clone</span><span class="p">;</span>
 <span class="p">};</span>
 </pre></div>
 
@@ -17180,13 +17194,13 @@ Use <code>Array.prototype.reduce()</code> to create a new object with the same v
   <span class="nb">Array</span><span class="p">.</span><span class="nx">isArray</span><span class="p">(</span><span class="nx">obj</span><span class="p">)</span>
     <span class="o">?</span> <span class="nx">obj</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">val</span> <span class="p">=&gt;</span> <span class="nx">deepMapKeys</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">f</span><span class="p">))</span>
     <span class="o">:</span> <span class="k">typeof</span> <span class="nx">obj</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span>
-      <span class="o">?</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">current</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="o">?</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">current</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
         <span class="kr">const</span> <span class="nx">val</span> <span class="o">=</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">current</span><span class="p">];</span>
         <span class="nx">acc</span><span class="p">[</span><span class="nx">f</span><span class="p">(</span><span class="nx">current</span><span class="p">)]</span> <span class="o">=</span>
           <span class="nx">val</span> <span class="o">!==</span> <span class="kc">null</span> <span class="o">&amp;&amp;</span> <span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span> <span class="o">?</span> <span class="nx">deepMapKeys</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">f</span><span class="p">)</span> <span class="o">:</span> <span class="p">(</span><span class="nx">acc</span><span class="p">[</span><span class="nx">f</span><span class="p">(</span><span class="nx">current</span><span class="p">)]</span> <span class="o">=</span> <span class="nx">val</span><span class="p">);</span>
         <span class="k">return</span> <span class="nx">acc</span><span class="p">;</span>
       <span class="p">},</span> <span class="p">{})</span>
-      <span class="o">:</span> <span class="nx">obj</span><span class="p">;</span>
+    <span class="o">:</span> <span class="nx">obj</span><span class="p">;</span>
 </pre></div>
 
 <details>
@@ -17243,9 +17257,9 @@ If found, return the value of <code>obj[target]</code>, otherwise use <code>Obje
   <span class="nx">target</span> <span class="k">in</span> <span class="nx">obj</span>
     <span class="o">?</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">target</span><span class="p">]</span>
     <span class="o">:</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">values</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">acc</span><span class="p">,</span> <span class="nx">val</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
-      <span class="k">if</span> <span class="p">(</span><span class="nx">acc</span> <span class="o">!==</span> <span class="kc">undefined</span><span class="p">)</span> <span class="k">return</span> <span class="nx">acc</span><span class="p">;</span>
-      <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span> <span class="k">return</span> <span class="nx">dig</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">target</span><span class="p">);</span>
-    <span class="p">},</span> <span class="kc">undefined</span><span class="p">);</span>
+        <span class="k">if</span> <span class="p">(</span><span class="nx">acc</span> <span class="o">!==</span> <span class="kc">undefined</span><span class="p">)</span> <span class="k">return</span> <span class="nx">acc</span><span class="p">;</span>
+        <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span> <span class="k">return</span> <span class="nx">dig</span><span class="p">(</span><span class="nx">val</span><span class="p">,</span> <span class="nx">target</span><span class="p">);</span>
+      <span class="p">},</span> <span class="kc">undefined</span><span class="p">);</span>
 </pre></div>
 
 <details>
@@ -17437,8 +17451,7 @@ Otherwise, use <code>Object.keys(obj)</code> in combination with <code>Array.pro
 <div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">hasKey</span> <span class="o">=</span> <span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="nx">key</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
   <span class="k">if</span> <span class="p">(</span><span class="nx">key</span><span class="p">.</span><span class="nx">includes</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">))</span> <span class="p">{</span>
     <span class="kd">let</span> <span class="nx">_key</span> <span class="o">=</span> <span class="nx">key</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">];</span>
-    <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">_key</span><span class="p">]</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span>
-      <span class="k">return</span> <span class="nx">hasKey</span><span class="p">(</span><span class="nx">obj</span><span class="p">[</span><span class="nx">_key</span><span class="p">],</span> <span class="nx">key</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="nx">key</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span><span class="p">));</span>
+    <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">_key</span><span class="p">]</span> <span class="o">===</span> <span class="s1">&#39;object&#39;</span><span class="p">)</span> <span class="k">return</span> <span class="nx">hasKey</span><span class="p">(</span><span class="nx">obj</span><span class="p">[</span><span class="nx">_key</span><span class="p">],</span> <span class="nx">key</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="nx">key</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span><span class="p">));</span>
   <span class="p">}</span>
   <span class="k">return</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">includes</span><span class="p">(</span><span class="nx">key</span><span class="p">);</span>
 <span class="p">};</span>
@@ -17448,7 +17461,9 @@ Otherwise, use <code>Object.keys(obj)</code> in combination with <code>Array.pro
 <summary>Examples</summary>
 
 <div class="codehilite"><pre><span></span><span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span>
-  <span class="nx">a</span><span class="o">:</span> <span class="mi">1</span><span class="p">,</span> <span class="nx">b</span><span class="o">:</span> <span class="p">{</span> <span class="nx">c</span><span class="o">:</span> <span class="mi">4</span> <span class="p">},</span> <span class="s1">&#39;d.e&#39;</span><span class="o">:</span> <span class="mi">5</span>
+  <span class="nx">a</span><span class="o">:</span> <span class="mi">1</span><span class="p">,</span>
+  <span class="nx">b</span><span class="o">:</span> <span class="p">{</span> <span class="nx">c</span><span class="o">:</span> <span class="mi">4</span> <span class="p">},</span>
+  <span class="s1">&#39;d.e&#39;</span><span class="o">:</span> <span class="mi">5</span>
 <span class="p">};</span>
 <span class="nx">hasKey</span><span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="s1">&#39;a&#39;</span><span class="p">);</span> <span class="c1">// true</span>
 <span class="nx">hasKey</span><span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="s1">&#39;b&#39;</span><span class="p">);</span> <span class="c1">// true</span>
@@ -19060,6 +19075,29 @@ Omit the second argument, <code>iterations</code>, to use a default of 10,000 it
 <span class="nx">third</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">);</span> <span class="c1">// undefined</span>
 <span class="kr">const</span> <span class="nx">last</span> <span class="o">=</span> <span class="nx">nthArg</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
 <span class="nx">last</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">);</span> <span class="c1">// 5</span>
+</pre></div>
+</details>
+
+<h3 id="objecttoquerystring">objectToQueryString<a class="headerlink" href="#objecttoquerystring" title="Permanent link">&para;</a></h3>
+<p>Returns a query string generated from the key-value pairs of the given object.</p>
+<p>Use <code>Array.prototype.reduce()</code> on <code>Object.entries(queryParameters)</code> to create the query string.
+Determine the <code>symbol</code> to be either <code>?</code> or <code>&amp;</code> based on the <code>index</code> and concatenate <code>val</code> to <code>queryString</code> only if it's a string.
+Return the <code>queryString</code> or an empty string when the <code>queryParameters</code> are falsy.</p>
+<div class="codehilite"><pre><span></span><span class="kr">const</span> <span class="nx">objectToQueryString</span> <span class="o">=</span> <span class="nx">queryParameters</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">queryParameters</span>
+    <span class="o">?</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">entries</span><span class="p">(</span><span class="nx">queryParameters</span><span class="p">).</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">queryString</span><span class="p">,</span> <span class="p">[</span><span class="nx">key</span><span class="p">,</span> <span class="nx">val</span><span class="p">],</span> <span class="nx">index</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+      <span class="kr">const</span> <span class="nx">symbol</span> <span class="o">=</span> <span class="nx">index</span> <span class="o">===</span> <span class="mi">0</span> <span class="o">?</span> <span class="s1">&#39;?&#39;</span> <span class="o">:</span> <span class="s1">&#39;&amp;&#39;</span><span class="p">;</span>
+      <span class="nx">queryString</span> <span class="o">+=</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">val</span> <span class="o">===</span> <span class="s1">&#39;string&#39;</span><span class="p">)</span> <span class="o">?</span> <span class="sb">`</span><span class="si">${</span><span class="nx">symbol</span><span class="si">}${</span><span class="nx">key</span><span class="si">}</span><span class="sb">=</span><span class="si">${</span><span class="nx">val</span><span class="si">}</span><span class="sb">`</span> <span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+      <span class="k">return</span> <span class="nx">queryString</span><span class="p">;</span>
+    <span class="p">},</span> <span class="s1">&#39;&#39;</span><span class="p">)</span>
+    <span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+<span class="p">};</span>
+</pre></div>
+
+<details>
+<summary>Examples</summary>
+
+<div class="codehilite"><pre><span></span><span class="nx">objectToQueryString</span><span class="p">({</span><span class="nx">page</span><span class="o">:</span> <span class="s1">&#39;1&#39;</span><span class="p">,</span> <span class="nx">size</span><span class="o">:</span> <span class="s1">&#39;2kg&#39;</span><span class="p">,</span> <span class="nx">key</span><span class="o">:</span> <span class="kc">undefined</span><span class="p">});</span> <span class="c1">// &#39;?page=1&amp;size=2kg&#39;</span>
 </pre></div>
 </details>
 

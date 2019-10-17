@@ -3045,6 +3045,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#ignore-specific-software-update" class="md-nav__link">
+    Ignore Specific Software Update
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#install-all-available-software-updates" class="md-nav__link">
     Install All Available Software Updates
   </a>
@@ -12784,6 +12791,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#ignore-specific-software-update" class="md-nav__link">
+    Ignore Specific Software Update
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#install-all-available-software-updates" class="md-nav__link">
     Install All Available Software Updates
   </a>
@@ -14434,6 +14448,10 @@ killall SystemUIServer
 </pre></div>
 
 <h3 id="software-update">Software Update<a class="headerlink" href="#software-update" title="Permanent link">&para;</a></h3>
+<h4 id="ignore-specific-software-update">Ignore Specific Software Update<a class="headerlink" href="#ignore-specific-software-update" title="Permanent link">&para;</a></h4>
+<p>The identifier can be found via <code>softwareupdate --list</code>. In the example below, being on Mojave, will ignore all update prompts to Catalina, since the latter removes 32-bit support.
+<div class="codehilite"><pre><span></span>sudo /usr/sbin/softwareupdate --ignore <span class="s2">&quot;macOS Catalina&quot;</span>
+</pre></div></p>
 <h4 id="install-all-available-software-updates">Install All Available Software Updates<a class="headerlink" href="#install-all-available-software-updates" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>sudo softwareupdate -ia
 </pre></div>
@@ -14443,7 +14461,7 @@ killall SystemUIServer
 <div class="codehilite"><pre><span></span>defaults write com.apple.SoftwareUpdate ScheduleFrequency -int <span class="m">1</span>
 </pre></div></p>
 <h4 id="show-available-software-updates">Show Available Software Updates<a class="headerlink" href="#show-available-software-updates" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span>sudo softwareupdate -l
+<div class="codehilite"><pre><span></span>sudo softwareupdate --list
 </pre></div>
 
 <h4 id="set-software-update-server">Set Software Update Server<a class="headerlink" href="#set-software-update-server" title="Permanent link">&para;</a></h4>
@@ -14697,8 +14715,8 @@ chsh -s <span class="k">$(</span>brew --prefix<span class="k">)</span>/bin/zsh
 <tr>
 <td>macOS 10.15</td>
 <td>Catalina</td>
-<td>tba</td>
-<td>tba</td>
+<td>October 7, 2019</td>
+<td>10.15.0 (19A602) (October 15, 2019)</td>
 </tr>
 </tbody>
 </table>
