@@ -360,6 +360,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!
 - [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
+- [tre](https://github.com/dduan/tre) - Tree command with git awareness, editor aliasing, and more.
 
 ### Directory Navigation
 
@@ -431,6 +432,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+- [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## Just for Fun
 
