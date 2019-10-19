@@ -7553,7 +7553,7 @@ work on Common Music shifted to (scheme-based) cm3.</li>
 <ul>
 <li><a href="https://github.com/hanshuebner/bknr-datastore">bknr.datastore</a> - a CLOS-based lisp-only database in RAM with transaction logging persistence. <a href="http://bknr.net/html/license.html">licence</a>. (see also chap. 21 of "Common Lisp Recipes")</li>
 <li><a href="https://github.com/Shinmera/ubiquitous">ubiquitous</a> - A library providing easy-to-use persistent configuration storage. <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">Artistic License 2.0</a>.</li>
-<li><a href="https://common-lisp.net/project/cl-prevalence/">cl-prevalence</a> - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. <a href="https://github.com/40ants/cl-prevalence">github fork</a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<li><a href="https://common-lisp.net/project/cl-prevalence/">cl-prevalence</a> - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. <a href="https://github.com/40ants/cl-prevalence">github fork</a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>. See also <a href="https://github.com/40ants/cl-prevalence-multimaster">cl-prevalence-multimaster</a>, to syncronize multiple cl-prevalence systems state.</li>
 </ul>
 <h2 id="wrappers">Wrappers<a class="headerlink" href="#wrappers" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7654,6 +7654,7 @@ lock-free, concurrent, key/value index with efficient memory-mapped persistence 
 <li><a href="https://github.com/cbaggers/varjo">Varjo</a> - Lisp to GLSL translator. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
 <li><a href="http://www.xach.com/lisp/vecto/">Vecto</a> - Simple vector drawing library. <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">FreeBSD</a>.</li>
 <li><a href="http://www.xach.com/lisp/zpng/">zpng</a> - A library for creating PNG files. <a href="http://directory.fsf.org/wiki?title=License:FreeBSD">FreeBSD</a>.</li>
+<li><a href="https://github.com/mfiano/pngload-fast">pngload-fast</a> - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h1 id="gui">GUI<a class="headerlink" href="#gui" title="Permanent link">&para;</a></h1>
 <ul>
@@ -7864,6 +7865,7 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
 <li>👍<a href="https://github.com/roswell/roswell">Roswell</a> - a Lisp implementation installer, script launcher and more. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/fukamachi/qlot">qlot</a> - A project-local library installer, similar to Bundler or Carton. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/tarballs-are-good/quickutil">Quickutil</a> - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
+<li><a href="https://gitlab.common-lisp.net/clpm/clpm">clpm</a> - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
 <li><a href="https://github.com/CodyReichert/qi">Qi</a> - A package manager with a traditionnal approach. <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
 </ul>
 <p>might help:</p>
@@ -7877,6 +7879,7 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
 <li><a href="https://github.com/dimitri/ql-to-deb">ql-to-deb</a> -  Update cl-* debian packages from Quicklisp releases. WTFPL.</li>
 <li><a href="https://github.com/ralt/dh-quicklisp-buildapp">dh-quicklisp-buildapp</a> - debhelper utility to let you compile your quicklisp-based Common Lisp code into a buildapp binary in a .deb with almost no effort. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
+<p>See also <a href="https://github.com/smashedtoatoms/asdf-sbcl">asdf-sbcl</a>, a plugin for the universal package manager.</p>
 <h1 id="machine-learning">Machine Learning<a class="headerlink" href="#machine-learning" title="Permanent link">&para;</a></h1>
 <ul>
 <li><a href="https://github.com/mmaul/clml">clml</a> - originally developped by Mathematicl Systems Inc., a Japanese company. With a <a href="https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html">tutorial</a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
@@ -7897,20 +7900,22 @@ language understanding system for English. <a href="http://www.eclipse.org/legal
 <ul>
 <li>👍 <a href="https://github.com/fukamachi/dexador">Dexador</a> - An HTTP client, that aims at <a href="http://quickdocs.org/dexador/">replacing Drakma</a>. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/orthecreedence/carrier">Carrier</a> - A lightweight, async HTTP client built on top of cl-async and fast-http. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
-<li><a href="https://github.com/fukamachi/fast-http">fast-http</a> - A fast HTTP
-request/response parser for Common Lisp. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/fukamachi/fast-http">fast-http</a> - A fast HTTP request/response parser for Common Lisp. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="http-servers">HTTP Servers<a class="headerlink" href="#http-servers" title="Permanent link">&para;</a></h2>
 <ul>
 <li>👍<a href="https://github.com/fukamachi/clack">Clack</a> - A web application environment inspired by Rack and WSGI. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more <a href="https://jasom.github.io/clack-tutorial/pages/getting-started-with-clack/">getting started guide</a>.</li>
 <li><img alt="⭐" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2b50.svg" title=":star:" /> <a href="http://weitz.de/hunchentoot/">Hunchentoot</a> - A web server. <a href="https://opensource.org/licenses/bsd-license.php">2-clause BSD</a></li>
-<li><a href="https://github.com/franzinc/aserve">aserve</a> - AllegroServe; a web server. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<li><a href="https://github.com/gendl/aserve">zaserve</a> - A portable fork of AllegroServe, by Franz Inc.  <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 <li><a href="https://github.com/orthecreedence/wookie">wookie</a> - Asynchronous HTTP server. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/fukamachi/woo">woo</a> - A fast non-blocking HTTP server on top of libev. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/akamai/cl-http2-protocol">cl-http2-protocol</a> - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h3 id="hunchentoot-plugins">Hunchentoot plugins<a class="headerlink" href="#hunchentoot-plugins" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/mmontone/easy-routes">easy-routes</a> - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/slyrus/hunchentoot-cgi">hunchentoot-cgi</a> - a library for executing CGI scripts from the hunchentoot webserver. <a href="https://opensource.org/licenses/bsd-license.php">BSD</a>.</li>
+<li><a href="https://github.com/moderninterpreters/hunchentoot-multi-acceptor/">hunchentoot-multi-acceptor</a> - Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port. <a href="http://directory.fsf.org/wiki/License:Apache2.0">Apache2.0</a>.</li>
 </ul>
 <h3 id="clack-plugins">Clack plugins<a class="headerlink" href="#clack-plugins" title="Permanent link">&para;</a></h3>
 <ul>
@@ -7964,6 +7969,7 @@ request/response parser for Common Lisp. <a href="https://opensource.org/license
 <li><a href="https://github.com/eudoxia0/eco">eco</a> - Fast, flexible, designer-friendly template engine. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/archimag/cl-closure-template">cl-closure-template</a> - Implementation of Google's Closure templates. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 <li><a href="https://shinmera.github.io/clip">clip</a> - An HTML template processor where the templates are written in HTML. <a href="http://directory.fsf.org/wiki/License:ArtisticLicense2.0">Artistic License 2.0</a>.</li>
+<li><a href="https://github.com/fukamachi/lsx/">lsx</a> - Embeddable HTML templating engine with JSX-like syntax. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
 </ul>
 <h2 id="uri-handling">URI handling<a class="headerlink" href="#uri-handling" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7976,6 +7982,7 @@ request/response parser for Common Lisp. <a href="https://opensource.org/license
 <h2 id="javascript">Javascript<a class="headerlink" href="#javascript" title="Permanent link">&para;</a></h2>
 <ul>
 <li><img alt="⭐" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2b50.svg" title=":star:" /> <a href="https://github.com/vsedach/Parenscript">Parenscript</a> - A translator from Common Lisp to Javascript. <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>. See <a href="https://github.com/johnmastro/trident-mode.el">Trident-mode</a>, an Emacs mode that provides live interaction with the browser.<a href="http://unlicense.org/">unlicence</a>.</li>
+<li><a href="https://github.com/BnMcGn/paren6/">paren6</a> - a set of ES6 macros for Parenscript.</li>
 <li><a href="http://marijnhaverbeke.nl/parse-js/">parse-js</a> - A package for parsing ECMAScript 3. <a href="http://directory.fsf.org/wiki/License:Zlib">zlib</a>.</li>
 <li><a href="https://github.com/jscl-project/jscl">JSCL</a> - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.</li>
 <li><a href="http://marijnhaverbeke.nl/cl-javascript/">CL-JavaScript</a> - A translator from Javascript to Common Lisp. Not available on Quicklisp. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
@@ -8077,9 +8084,10 @@ Service (S3) and CloudFront service. <a href="http://directory.fsf.org/wiki/Lice
   fundamental level than NumPy, by providing even more powerful
   N-dimensional arrays, but just a few building blocks for working on
   them. <a href="http://directory.fsf.org/wiki/License:Apache2.0">AGPL</a>.</li>
-<li><a href="https://github.com/rigetti/cmu-infix">cmu-infix</a> - A library for writing infix mathematical notation in Common Lisp.</li>
+<li><a href="https://github.com/rigetti/cmu-infix">cmu-infix</a> - A library for writing infix mathematical notation in Common Lisp. See also <a href="https://github.com/mrcdr/polisher">polisher</a>.</li>
 <li><a href="https://github.com/ghollisjr/cl-ana">cl-ana</a> - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL3</a>.</li>
 <li><a href="https://neil-lindquist.github.io/linear-programming/">linear-programming</a> – a library for solving linear programming problems. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/takagi/avm">avm</a> - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h1 id="parallelism-and-concurrency">Parallelism and Concurrency<a class="headerlink" href="#parallelism-and-concurrency" title="Permanent link">&para;</a></h1>
 <ul>
@@ -8088,13 +8096,21 @@ Service (S3) and CloudFront service. <a href="http://directory.fsf.org/wiki/Lice
 <li><a href="https://github.com/lmj/lfarm">lfarm</a> - distributing work across machines (on top of lparallel and usocket). <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a></li>
 <li><a href="https://github.com/zkat/chanl">chanl</a> - Portable, channel-based concurrency. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>, with parts under <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
 <li><a href="https://github.com/orthecreedence/cl-async">cl-async</a> - A library for general-purpose, non-blocking programming. <a href="http://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
-<li><a href="https://github.com/eugeneia/erlangen">erlangen</a> - Distributed, asynchronous message passing system for Clozure Common Lisp. <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL3</a>. See also the <a href="https://github.com/aarvid/Actors">Actors</a> package for LispWorks (<a href="https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/">discussion</a>) <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/TBRSS/moira">Moira</a> -  Monitor and restart background threads. In-lisp process supervisor. No license specified.</li>
 <li><a href="https://gitlab.com/ediethelm/trivial-monitored-thread">trivial-monitored-thread</a> -
   a Common Lisp library offering a way of spawning threads and being
   informed when one any of them crash and die. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/taksatou/cl-gearman">cl-gearman</a> - a library for the <a href="http://gearman.org/">Gearman</a> distributed job system. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
 <li><a href="https://github.com/brown/swank-crew">swank-crew</a> - distributed computation framework implemented using Swank Client. <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.</li>
+<li><a href="https://github.com/takagi/cl-coroutine">cl-coroutine</a> - a coroutine library. It uses the CL-CONT continuations library in its implementation. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+</ul>
+<h2 id="actors-pattern">Actors pattern<a class="headerlink" href="#actors-pattern" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/eugeneia/erlangen">erlangen</a> - Distributed, asynchronous message passing system for Clozure Common Lisp. <a href="http://www.gnu.org/copyleft/gpl.html">GNU GPL3</a>.</li>
+<li><a href="https://github.com/aarvid/Actors">Actors</a> package for LispWorks (<a href="https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/">announce</a>) <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/naveensundarg/Common-Lisp-Actors">common-lisp-actors</a> - a simple and easy to use Actor system. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
+<li><a href="https://common-lisp.net/project/cl-muproc/">cl-muproc</a> - Erlang-inspired multiprocessing. <a href="http://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
+<li><a href="https://github.com/zkat/memento-mori">memento-mori</a>-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="event-processing">Event processing<a class="headerlink" href="#event-processing" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8220,6 +8236,7 @@ programs, providing support for mixed language debugging.</li>
 <li><a href="https://github.com/jech/cl-yacc">cl-yacc</a> - a LALR(1) parser generator. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/vseloved/wiki-lang-detect">wiki-lang-detect</a> -
 Text language identification using Wikipedia data. No license specified.</li>
+<li><a href="https://github.com/ruricolist/cl-shlex/">cl-shlex</a> - simple lexical analyzer for shell-like syntaxes. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h1 id="tools_1">Tools<a class="headerlink" href="#tools_1" title="Permanent link">&para;</a></h1>
 <p>These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.</p>
@@ -8275,6 +8292,7 @@ Text language identification using Wikipedia data. No license specified.</li>
 <li><a href="https://github.com/enaeher/local-time-duration">local-time-duration</a> -
 Duration processing library built on top of local-time. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://gitlab.com/DataLinkDroid/iso-8601-date">iso-8601-date</a> - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. <a href="http://opensource.franz.com/preamble.html">LLGPL</a>.</li>
+<li><a href="https://github.com/takagi/calendar-date">calendar-date</a> - a Gregorian calendar date library. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="data-validation">Data validation<a class="headerlink" href="#data-validation" title="Permanent link">&para;</a></h2>
 <ul>
