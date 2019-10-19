@@ -53,6 +53,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 
 ## Open source code
+- [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
 - Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Parameters sample (using Dialogflow).
 - Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
 - Name Psychic [(Node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-name-psychic-java) - Permissions and Google Maps Static API sample (using Dialogflow).

@@ -33,15 +33,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Java
 
-  - [JDuchess](http://www.jduchess.org/)
+  - [JDuchess](https://www.facebook.com/jduchess.org/)
 
-    Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
+    Duchess is a global organization for women in Java technology with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
 
   - [Js-Girls](http://js-girls.org/)
 
-    Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
+    Js-Girls is a 1-day workshop for girls who want to learn Javascript.
 
   - [Js4Girls](https://raw.githubusercontent.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -53,13 +53,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [NodeGirls](https://nodegirls.com/)
 
-    NodeGirls provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
+    Node Girls runs free 1 day Node.js workshops. They provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors.
 
 ### Python
 
   - [Django Girls](https://djangogirls.org/)
 
-    Django girls aims to inspire women to fall in love with programming. They organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
+    Free Python and Django workshops, they also create open-source online tutorials and curate amazing first experiences with technology.
 
   - [PyLadies](http://www.pyladies.com/)
 
@@ -70,6 +70,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [PHPWomen](https://phpwomen.org/)
 
     An inclusive, global user-group providing a support network within the PHP community.
+
+### R
+
+  - [R-Ladies](https://rladies.org/)
+
+    R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
+
+  - [R-Ladies São Paulo - Brazil](https://www.meetup.com/R-Ladies-Sao-Paulo)- *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">)
 
 ### Ruby
 
@@ -83,7 +91,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
-    Getting more women into Open Source.
+     Rails Girls Summer of Code is a global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
 
 ### UX
 
@@ -114,6 +123,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
+  - [Byte Hacks](http://bytehacks.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    ByteHacks is a 24-hour hackathon on September 1st and 2nd at Thoughtworks NYC that encourages women of all ages and skillsets to form teams and create tech projects that have positive social impact.
+    The hackathon will have workshops, tech talks, mentors, sponsors, and free food. Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit.
+
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
@@ -129,6 +143,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
+
+  - [Girls4Tech](https://girls4tech.ebanx.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    Girls 4 Tech is an online programming course, totally free and made by women. The language is accessible, does not require previous knowledge and is open for everyone.
 
   - [League of Women Coders](http://lwc.tech/)
 
@@ -153,7 +171,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
@@ -169,7 +187,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
-    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
+    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (similar to an internship).
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 

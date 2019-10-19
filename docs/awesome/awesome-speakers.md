@@ -394,7 +394,7 @@ https://twitter.com/terezk_a
 
 ### Helsinki
 
-<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/pakastin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Juha Lindstedt**\
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
@@ -462,11 +462,11 @@ https://twitter.com/iamsapegin
 Topics: CSS, Accessibility\
 https://twitter.com/sonniesedge
 
-<img src="https://twitter.com/hermagrini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/magrini_h/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Hernán Magrini**\
 Topics: Web Performance, Service Workers\
-https://twitter.com/hermagrini
+https://twitter.com/magrini_h
 
 <img src="https://twitter.com/HugoGiraudel/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -524,11 +524,11 @@ https://twitter.com/yoshuawuyts
 
 ### Düsseldorf
 
-<img src="https://twitter.com/iamjoyclark/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/iamjoyheron/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Joy Clark**\
+**Joy Heron**\
 Topics: Clojure, Web Apps, Security\
-https://twitter.com/iamjoyclark
+https://twitter.com/iamjoyheron
 
 ### Freiburg
 
@@ -574,11 +574,11 @@ https://twitter.com/TimPietrusky
 
 ### Karlsruhe
 
-<img src="https://twitter.com/rofrischmann/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/robinweser/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Robin Frischmann**\
+**Robin Weser**\
 Topics: CSS, CSS in JS, React\
-https://twitter.com/rofrischmann
+https://twitter.com/robinweser
 
 ### Munich
 
@@ -1043,7 +1043,7 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/maskedwarrior/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Miguel Andrade**\
 Topics: Ember, JavaScript\
@@ -1215,11 +1215,11 @@ Topics: Babel, ECMAScript, Compilers\
 Topics: ClojureScript, React, Compilers\
 https://twitter.com/roman01la
 
-<img src="https://twitter.com/ImpressAppSrv/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tshemsedinov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Timur Shemsedinov**\
 Topics: Node.js, Programming, JavaScript, Highload\
-https://twitter.com/ImpressAppSrv
+https://twitter.com/tshemsedinov
 
 <img src="https://twitter.com/mourner/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
