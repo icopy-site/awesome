@@ -11,6 +11,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) is a moveme
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
+It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](https://github.com/woop/awesome-quantified-self/blob/master/ARCHIVED.md)
+
 
 
 ## Websites and Resources
@@ -52,7 +54,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
 - [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 - [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
-- [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 

@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="xiaohanyu/awesome-tikz"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-Awesome TikZ
+Awesome Ti*k*Z
 ============
 
 [![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
 
-[TikZ](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
+[Ti*k*Z](https://en.m.wikipedia.org/wiki/PGF/TikZ) is a wonderful awesome graph drawing package for TeX/LaTeX/ConTeXt. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
 
 This project contains a curated list of awesome TikZ documentations, libraries and resources.
 
@@ -18,7 +18,7 @@ Official Links
 
 ### PGF/TikZ
 
--   [SourceForge](https://sourceforge.net/projects/pgf/) - Code, releases, support and bug reports.
+-   [SourceForge](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
 -   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -45,6 +45,10 @@ Gallery
 -   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
 -   [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 -   [alemelis/tikz_drawings](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
+-   [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+-   [Neural-Networks-and-Deep-Learning-LaTex-Tikz](https://github.com/LXTaven/Neural-Networks-and-Deep-Learning-LaTex-Tikz) - The tikz figures for the book, Neural Networks and Deep Learning.
+-   [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+
 
 Tools
 -----
@@ -55,6 +59,8 @@ Tools
 -   [itikz](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 -   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 -   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+-   [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+-   [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 
 Libraries
 ---------

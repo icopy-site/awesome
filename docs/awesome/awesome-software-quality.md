@@ -64,6 +64,7 @@ If you would like add something, just send the text as you would like it to appe
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -- by Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -- Mauro Pezze, Michal Young ([slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
+* [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) and [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) and for [youtube](https://youtu.be/9giJYYag6wQ)
 
 #### Standards In software Testing
 
@@ -158,7 +159,6 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальные методы
 
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) - А.М.Миронов
-* http://is.ifmo.ru/verification/
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
 ## Courses
@@ -176,7 +176,19 @@ If you would like add something, just send the text as you would like it to appe
 * [Engineering Ethics](https://ocw.mit.edu/courses/engineering-systems-division/esd-932-engineering-ethics-spring-2006/audio-lectures/)
 * [Engineering Ethics](https://itunes.apple.com/us/course/engineering-ethics/id1039496124?ign-mpt=uo%3D8)
 * Software Development Process: [Part 1](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz), [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ), [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs)
-
+* [Test Automation Universities](https://testautomationu.applitools.com/) (free)
+    - [Java Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path)
+    - [Java API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
+    - [Java Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-java-path)
+    - [JavaScript Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-javascript-path)
+    - [JavaScript API Path](https://testautomationu.applitools.com/learningpaths.html?id=api-javascript-path)
+    - [JavaScript Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-javascript-path)
+    - [Python Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path)
+    - [Python Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-python-path)
+    - [C# Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-csharp-path)
+    - [Ruby Web UI Path](https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path)
+    - [Swift Mobile Path](https://testautomationu.applitools.com/learningpaths.html?id=mobile-swift-path)
+    - [Codeless Path](https://testautomationu.applitools.com/learningpaths.html?id=codeless-path)
 
 #### Software Testing
 
@@ -241,8 +253,6 @@ If you would like add something, just send the text as you would like it to appe
 ##### Coq
 
 * [Coq in a Hurry](https://cel.archives-ouvertes.fr/file/index/docid/72365/filename/coq-hurry.pdf)
-* [Programs and Proofs in the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/popl_2016/)
-* [An Introduction to the Coq Proof Assistant](https://www.cis.upenn.edu/~rrand/cufp_2015/)
 * [Introduction to the Coq Proof Assistant](https://video.ias.edu/univalent/appel)
 * [Coq Intensive](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri) - DeepSpec Summer School
 * [Interactive Computer Theorem Proving](http://adam.chlipala.net/itp/)
@@ -304,7 +314,7 @@ If you would like add something, just send the text as you would like it to appe
 #### Формальная верификация ПО
 
 * [Верификация программ на моделях](https://www.youtube.com/user/ksavenkov/playlists)
-* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([PDF](http://is.ifmo.ru/present/2012/20120218_model_che%D1%81king_karpov_lecture01.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
+* [Верификация параллельных и распределенных программных систем](https://www.lektorium.tv/course/22862?id=22862) ([Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUw3pNeradNr8zwOXKQ1IZA) - Юрий Карпов
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
@@ -337,7 +347,7 @@ If you would like add something, just send the text as you would like it to appe
 - [LibFuzzer Wokshop](https://github.com/Dor1s/libfuzzer-workshop)
 - [LibFuzzer Tutorial](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Interactive Z3 Guide](https://rise4fun.com/z3/tutorial/guide)
-- [Code-defenders game (mutation testing)](http://code-defenders.org/login)
+- [Code-defenders game (mutation testing)](http://code-defenders.org/)
 - [RoboBUG: A Debugging Game](http://www.sqrlab.ca/software/robobug/)
 - [Robot ON! A Program Understanding Game](http://www.sqrlab.ca/software/roboton/)
 - [FireFinder](http://www.sqrlab.ca/software/firefinder/)
@@ -365,23 +375,26 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 ## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
-- [Fuzzing testing](https://github.com/secfigo/Awesome-Fuzzing)
+- Fuzzing testing by [secfigo](https://github.com/secfigo/Awesome-Fuzzing) and by [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
 - [TAP (Test Anything Protocol)](https://github.com/sindresorhus/awesome-tap)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
-- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Symbolic execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [History of symbolic execution](https://github.com/enzet/symbolic-execution)
-- [Coq Proof Assistant](https://github.com/uhub/awesome-coq)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
-- [A curated list of useful resources for AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
 - [SecLists](https://github.com/danielmiessler/SecLists) - collection of multiple types of lists used during security assessments, collected in one place.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+- [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
+- [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
+- [Awesome Coq](https://github.com/uhub/awesome-coq)
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
+- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
 
 ### License
 

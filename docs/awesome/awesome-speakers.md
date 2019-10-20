@@ -1767,7 +1767,7 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://pbs.twimg.com/profile_images/951729445009637376/0V25QMDk_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/shanselman/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Scott Hanselman**\
 Topics: .NET, Azure\
@@ -1814,6 +1814,12 @@ https://twitter.com/kentcdodds
 **Adam Menges**\
 Topics: Artificial Intelligence, Design, Computer Science\
 https://twitter.com/adammenges
+
+<img src="https://twitter.com/slightlylate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Alex Russell**\
+Topics: Performance, Mobile Web, Progressive Web Apps, Web Standards\
+https://twitter.com/slightlylate
 
 <img src="https://twitter.com/AnjanaVakil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
