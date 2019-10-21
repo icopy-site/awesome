@@ -224,6 +224,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) * A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
 * [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) * An Aurelia custom element for [highlight.js](https://highlightjs.org/)
 * [aurelia-fontawesome](https://github.com/jmzagorski/aurelia-fontawesome) *  Aurelia component for [Font Awesome](https://fontawesome.com/) 5.
+* [aurelia-kis-oidc](https://github.com/kisssdev/aurelia-kis-oidc) * An Aurelia plugin that encapsulates [oidc-client-js library](https://github.com/IdentityModel/oidc-client-js).
+* [aurelia-telemetry](https://github.com/manuel-guilbault/aurelia-telemetry)
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation

@@ -368,6 +368,18 @@ Some of the best short stories I have ever read; The Library is my favourite of 
 
 > The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
 
+#### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) *by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)* [4.14]
+
+The first book in the Study series, Snyder does a great job of building the suspense throughout the novel because at the start Yelena gets poisoned and you think she'll die and it carries on throughout the book. I enjoyed how Yelena's magic trickles throughout the story and the reader doesn't find out too much at the beginning. - [@louisefindlay23](https://github.com/louisefindlay23)
+
+> Choose: A quick death…Or slow poison...
+
+> About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
+
+> And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
+
+> As Yelena tries to escape her new dilemma, disasters keep mounting. Rebels plot to seize Ixia and Yelena develops magical powers she can't control. Her life is threatened again and choices must be made. But this time the outcomes aren't so clear...
+
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
 This book inspired me at the age of 14 to get a tattoo I ended up getting 7 years later. This is the kind of fantasy I wish we were still making; half theological, fantastic and weird, somewhere between Grimm's Fairytales and George R.R. Martin. - [@RichardLitt](https://github.com/RichardLitt)
@@ -460,6 +472,12 @@ Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
+
+#### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) *by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)* [4.25]
+
+A fantastic start to an amazing series. Schwab really knows how to 'set a scene', and create an environment that grips you and doesn't let go. - [@masonbose](https://github.com/masonbose)
+
+> Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.
 
 ### Allegory
 
@@ -577,6 +595,12 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
+#### [The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) *by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)* [3.76]
+
+Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented. - [@konpyuta](https://github.com/konpyuta)
+
+> Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
+
 #### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) *by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)* [3.94]
 
 Great adventure with a strong female protagonist. In a historical-based setting with interesting fantasy elements interspersed with cultural details.  - [@konpyuta](https://github.com/konpyuta)
@@ -648,7 +672,7 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
-#### [Midnight in Paris] (https://www.imdb.com/title/tt1605783/) [7.7]
+#### [Midnight in Paris](https://www.imdb.com/title/tt1605783/) [7.7]
 This movie really captures the ways thinking of some writers who are always wondering how would it be if they lived in some other century. Besides, Owen Wilson killed it. - [@ErvinaDe](https://github.com/ErvinaDe)
 
 > While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
@@ -713,11 +737,11 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
-#### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
 
-If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
+A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
 
-> The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+> A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
 
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 
@@ -725,7 +749,7 @@ The Originals may overwhelm casual viewers with its myriad twists and bevy of su
 
 > A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
 
-### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
 
 Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
@@ -733,9 +757,15 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 #### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
 
- Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
+
+#### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
+
+If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
+
+> The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
 
 ---
 

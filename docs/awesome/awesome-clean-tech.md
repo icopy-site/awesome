@@ -189,6 +189,10 @@ Short description.
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
+- [Ewally](https://ewally.com.mx/) | Mexico | 2017
+
+  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
@@ -197,9 +201,11 @@ Short description.
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
 
+
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
+- [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
