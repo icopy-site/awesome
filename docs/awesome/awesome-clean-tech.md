@@ -22,6 +22,10 @@ Short description.
 
 ### Vegetation, Agriculture & Food
 
+- [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+
+Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
@@ -79,7 +83,8 @@ Short description.
 ### Water
 
 - [The great bubble barrier](https://thegreatbubblebarrier.com) | Netherlands | 2016
-  Developped a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
+
+  Developed a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
 
@@ -177,6 +182,10 @@ Short description.
 
 ### Social Impact
 
+- [Billions in Change](https://billionsinchange.com/) | USA | 2015
+
+  Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
+
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
 
   Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
@@ -200,7 +209,6 @@ Short description.
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
-
 
 ## More Resources
 
