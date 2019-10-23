@@ -7777,6 +7777,15 @@ $ git stash pop
 <div class="codehilite"><pre><span></span>$ git remote add &lt;remote&gt; &lt;url&gt;
 </pre></div>
 
+<h5 id="rename-a-remote-repository-from-remote-to-new_remote">Rename a remote repository, from &lt;remote&gt; to &lt;new_remote&gt;:<a class="headerlink" href="#rename-a-remote-repository-from-remote-to-new_remote" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git remote rename &lt;remote&gt; &lt;new_remote&gt;
+</pre></div>
+
+<h5 id="remove-a-remote">Remove a remote:<a class="headerlink" href="#remove-a-remote" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git remote rm &lt;remote&gt;
+</pre></div>
+
+<p><em><sub>Note: git remote rm does not delete the remote repository from the server. It simply removes the remote and its references from your local repository.</sub></em></p>
 <h5 id="download-all-changes-from-remote-but-dont-integrate-into-head">Download all changes from &lt;remote&gt;, but don't integrate into HEAD:<a class="headerlink" href="#download-all-changes-from-remote-but-dont-integrate-into-head" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git fetch &lt;remote&gt;
 </pre></div>
