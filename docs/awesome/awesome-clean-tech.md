@@ -50,6 +50,10 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
 
+- [Peckas Tomater](http://www.peckas.com) | Sweden | 2015
+
+  Combined tomato and fish farm grown in a system where fish basin waste water nourishes tomatoes, and the tomato bed in turn cleans the water which goes back to the fish basins. Their fish is grown without antibiotics and the tomates does not need fertilizers.
+
 - [Phytoponics](https://phytoponics.com/) | UK | 2016
 
   Produces a commercial scale hydroponic growing system, which is cheaper and easier to install and maintain than traditional hydroponic systems. The goal is to bring the benefits of hydroponics (less water and land, more consistent yields), with a lower investment up front.
@@ -205,6 +209,10 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+
+- [Triodos Bank](https://www.triodos.com) | Netherlands | 1980
+
+   European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
 
 - [Unmade](https://unmade.com/) | England | 2013
 

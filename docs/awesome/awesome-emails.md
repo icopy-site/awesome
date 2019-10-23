@@ -73,6 +73,7 @@ VML and CSS.
 - [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
+- [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
 
 ## Self-Hosted Services
 
@@ -80,6 +81,7 @@ VML and CSS.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
+- [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 
 ## Workflows
 
