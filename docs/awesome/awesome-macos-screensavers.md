@@ -246,6 +246,16 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
+## Collections
+
+### Bjorn Johansson
+
+> Digital art in the form of screensavers by designer Bjorn Johansson.
+
+Free (pay what you want)
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/johansson.png)](https://johansson.design/screensavers/)
+
 ---
 
 ## License

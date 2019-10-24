@@ -328,6 +328,14 @@ Helps you see easily which activities happened since you last visited GitHub.
 </details>
 
 
+Follow your favorite GitHub organizations and receive activities in the main feed.
+
+<details><summary>Screenshots</summary>
+
+ ![Follow GitHub Organization](https://raw.githubusercontent.com/follow-github-organisation/follow-github-organisation.github.io/master/images/followgithub-og.png)
+</details>
+
+
 ## Notifications
 
 
