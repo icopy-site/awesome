@@ -344,6 +344,18 @@ DDS Security.
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 
+## Working Groups
+
+- Navigation Working Group
+  - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
+- Safety Working Group
+  - [Safety Working Group Landing Page](http://www.ros2.org/safety_working_group/)
+  - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
+- Security Working Group
+  - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
+- Technical Steering Committee
+  - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

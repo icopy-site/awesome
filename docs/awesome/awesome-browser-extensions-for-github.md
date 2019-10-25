@@ -490,6 +490,15 @@ Find the best GIFs for your awesome pull requests.
  
 </details>
 
+
+Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
+ 
+</details>
+
 ## Repository
 
 

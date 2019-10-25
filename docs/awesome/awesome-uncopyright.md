@@ -85,11 +85,12 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
 - [Openclipart](https://openclipart.org/share) - High quality, easy to use clip art.
 - [Pixabay](https://pixabay.com/en/service/faq/) - Stock images and videos.
-- [Public Icons](http://publicicons.org/) - Collection of free icons.
+- [Public Icons](https://publicicons.lllllllllllllllll.com/) - Collection of free icons.
 - [SpaceX media](https://www.spacex.com/media) - High-quality photos related to space exploration taken by SpaceX, released under CC0.
 - [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
 - [Unsplash](https://unsplash.com/license) - Free (do whatever you want) high-resolution photos.
 - [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) - Millions of PD media (images, videos, sounds, ...).
+- [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) - Rijksmuseum digitised and made available public domain works from several artists including Rembrandt, Vermeer, and others.
 
 ## Licenses
 
@@ -101,6 +102,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 
 - [IndieWeb](https://indieweb.org/IndieWebCamp:Copyrights) - People-focused alternative to the "corporate web", movement that provides advocacy and education to domain owners.
 - [QuestionCopyright.org](http://questioncopyright.org/) - Nonprofit organization that provides advocacy and education to help cultural producers embrace open distribution.
+- [Communia](https://www.communia-association.org/) - Nonprofit organization that advocates for policies that expand the public domain and increase access to and re-use of culture and knowledge.
 
 ## Related
 

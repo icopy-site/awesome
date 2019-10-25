@@ -171,6 +171,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 ## Go
 
+* [aligncheck](https://gitlab.com/opennota/check) - Find inefficiently packed structs.
 * [deadcode](https://github.com/tsenart/deadcode) - Finds unused code.
 * [dingo-hunter](https://github.com/nickng/dingo-hunter) - Static analyser for finding deadlocks in Go.
 * [dupl](https://github.com/mibk/dupl) - Reports potentially duplicated code.
@@ -190,7 +191,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) - Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 * [golint](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
-* [goreporter](https://github.com/wgliang/goreporter) - concurrently runs many linters and normalises their output to a report.
+* [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - concurrently runs many linters and normalises their output to a report.
 * [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 * [gosec (gas)](https://github.com/GoASTScanner/gas) - Inspects source code for security problems by scanning the Go AST.
 * [gotype](https://golang.org/x/tools/cmd/gotype) - Syntactic and semantic analysis similar to the Go compiler.
@@ -198,21 +199,20 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [interfacer](https://github.com/mvdan/interfacer) - Suggest narrower interfaces that can be used.
 * [lll](https://github.com/walle/lll) - Report long lines.
 * [maligned](https://github.com/mdempsky/maligned) -  Detect structs that would take less memory if their fields were sorted.
-* [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - Run staticcheck, gosimple and unused, sharing work.
 * [misspell](https://github.com/client9/misspell) - Finds commonly misspelled English words.
 * [nakedret](https://github.com/alexkohler/nakedret) - Finds naked returns.
 * [nargs](https://github.com/alexkohler/nargs) - Finds unused arguments in function declarations.
 * [prealloc](https://github.com/alexkohler/prealloc) - Finds slice declarations that could potentially be preallocated.
 * [revive](https://github.com/mgechev/revive) - Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 * [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
-* [structcheck](https://github.com/opennota/check) - Find unused struct fields.
+* [Staticcheck](https://staticcheck.io/) - A suite of static analysis tools for Go. It specialises on bug finding, code simplicity, performance and editor integration. 
+* [structcheck](https://gitlab.com/opennota/check) - Find unused struct fields.
 * [test](http://golang.org/pkg/testing/) - Show location of test failures from the stdlib testing module.
-* [testify](https://github.com/stretchr/testify) - Show location of failed testify assertions.
 * [unconvert](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 * [unimport](https://github.com/alexkohler/unimport) - Finds unnecessary import aliases
 * [unparam](https://github.com/mvdan/unparam) - Find unused function parameters.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - Find unused variables.
-* [varcheck](https://github.com/opennota/check) - Find unused global variables and constants.
+* [varcheck](https://gitlab.com/opennota/check) - Find unused global variables and constants.
 
 ## Groovy
 
