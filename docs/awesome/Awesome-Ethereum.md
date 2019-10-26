@@ -37,6 +37,7 @@ Official Ethereum Documentation.
 - [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 
 
 ## Tutorials
@@ -48,7 +49,7 @@ Step by step guides on using Ethereum.
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
 - [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - Informal guide to starting developing DApps.
-- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
+- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
 - [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
 - [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
 - [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
@@ -59,6 +60,7 @@ Step by step guides on using Ethereum.
 
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
+- [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
 
 
 ## Learning and MOOCs
@@ -106,12 +108,14 @@ The Ideas behind the Ethereum Project.
 - [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
 - [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
 - [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
+- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
+- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
 
 ## Protocols
 
 Descriptions and implementations of Ethereum-related protocols.
 
-- [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service.
+- [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
 - [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
 - [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
   - Casper CBC - Correct by Construction for full Proof-of-Stake.
@@ -152,13 +156,13 @@ Descriptions and implementations of Ethereum-related protocols.
 - [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
-- [Ethereum Wiki Page](https://theethereum.wiki/w/index.php/Main_Page)
+- [Ethereum Wiki Page](https://eth.wiki/en/home)
 
 
 ## Official
 
 - [Ethereum Website](https://www.ethereum.org/)
-- [Ethereum Foundation](https://ethereum.org/foundation)
+- [Ethereum Foundation](https://ethereum.foundation/)
 - [Ethereum GitHub](https://github.com/ethereum/)
 
 
@@ -172,5 +176,5 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @Tom2718 has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, @ttumiel has waived all copyright and
+related or neighboring rights to this work. For the full license see `license.md`.

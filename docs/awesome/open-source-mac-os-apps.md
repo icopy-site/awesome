@@ -281,7 +281,8 @@ You can see in which language an app is written. Currently there are following l
 
 ### IDE
 - [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript_icon] 
-- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon] ![javascript_icon] ![type_script_icon] 
+- [LiveCode](https://github.com/livecode/livecode) - Cross-platform development IDE ![c_icon] 
+- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity.  ![javascript_icon] ![type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor developed by Microsoft.  ![type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.  ![lua_icon] 
 
@@ -394,7 +395,7 @@ You can see in which language an app is written. Currently there are following l
 - [syncthing-macosx](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle.  ![objective_c_icon] 
 
 ### Player
-- [IINA](https://github.com/iina/iina) - Modern video player for macOS.  ![swift_icon] 
+- [IINA](https://github.com/iina/iina) - The modern video player for macOS.  ![swift_icon] 
 - [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS.  ![objective_c_icon] 
 - [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - 3D 180/360 video player for macOS for PSVR with head tracking.  ![objective_c_icon] 
 - [Movie Monad](https://github.com/lettier/movie-monad) - Desktop video player built with Haskell that uses GStreamer and GTK+.  ![haskell_icon] 
@@ -422,7 +423,7 @@ You can see in which language an app is written. Currently there are following l
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Nice tool for tagging and archiving tasks.  ![swift_icon] 
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.  ![javascript_icon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.  ![objective_c_icon] 
-- [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ![javascript_icon] ![javascript_icon] ![css_icon] 
+- [Quickwords](https://github.com/quickwords/quickwords) - Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more.  ![javascript_icon] ![css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.  ![objective_c_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 

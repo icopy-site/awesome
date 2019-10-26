@@ -2734,6 +2734,7 @@ CollectionView, make Instagram Discover within minutes.
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
  * [Once](https://github.com/luoxiu/Once) - Minimalist library to manage one-off operations.
  * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+ * [DuctTape](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for swift.
 
 ## User Consent
 * [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
@@ -2970,6 +2971,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 * [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
+* [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ### Themes
 

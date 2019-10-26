@@ -32,7 +32,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * [Ionic Framework](https://ionicframework.com/)
   * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic)
-* [jQuery Mobile](http://jquerymobile.com/)
+* [jQuery Mobile](https://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
 * ### Pay to Use
@@ -48,7 +48,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 * [Framework7 Icons](https://framework7.io/icons/)
 * [Icons8](https://icons8.com/)
 * [Ionicons](https://ionicons.com/)
-* [Material Icons](https://material.io/tools/icons/)
+* [Material Icons](https://material.io/resources/icons/)
 
 ## Tools
 
@@ -83,8 +83,9 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
   * [ripple](https://github.com/ripple-emulator/ripple)
 * Building
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config)
   * [cordova-xml](https://github.com/mifi/cordova-xml)
-  * [cordova-auto-patch](https://github.com/shevaroller/cordova-auto-patch)
+  * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch)
   * [xavtool](https://github.com/gabrielrobert/xavtool)
 * Logging
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
