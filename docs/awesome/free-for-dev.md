@@ -392,6 +392,7 @@ Table of Contents
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
+  * [10minutemail](https://github.com/ripienaar/free-for-dev/blob/master/10minutemail.com) - Free, temporary email for testing.
 
 ## CDN and Protection
 

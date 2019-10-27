@@ -23,7 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Foundation
 
-* [GraphQL Foundation](https://gql.foundation/) - GraphQL Foundation under the Linux Foundation
+* [GraphQL Foundation](https://foundation.graphql.org/) - GraphQL Foundation under the Linux Foundation
 
 <a name="community" />
 
@@ -101,6 +101,7 @@ If you want to contribute to this list (please do), send me a pull request.
 #### Miscellaneous
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
+* [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-tools-types](https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (Void, Int, Float, String, Date, UUID, JSON)
@@ -178,13 +179,15 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
 * [GraphQLite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
+* [Siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
 
 <a name="lib-py" />
 
 ### Python Libraries
 
 * [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-* [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python.
+* [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v0.6.0 reference implementation
+* [graphql-core-next](https://github.com/graphql-python/graphql-core-next) - Latest GraphQL implementation based on GraphQL.js v14.5.6 reference implementation
 * [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 * [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 * [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
@@ -217,6 +220,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
+* [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database. 
 
 <a name="lib-c" />
 
@@ -282,6 +286,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 * [PostGraphile](https://github.com/graphile/postgraphile) - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
 * [Hasura](https://github.com/hasura/graphql-engine) - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
+* [subZero](https://subzero.cloud/) - GraphQL & REST API for your database
 
 <a name="lib-lua" />
 
@@ -437,6 +442,7 @@ for the Angel framework.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
+* [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.  
 
 <a name="example" />
 
@@ -532,6 +538,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Java Examples
 
 * [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
+* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 
 <a name="example-android" />
 
@@ -551,11 +558,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek) - Example code for the Lacinia GraphQL framework tutorial.
 
-<a name="example-java" />
+<a name="example-php" />
 
-### Java Examples
+### PHP Examples
 
-* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
+* [siler-graphgl](https://github.com/leocavalcante/siler/tree/master/examples/graphql) - An example GraphQL server written with Siler
 
 <a name="book" />
 
@@ -630,6 +637,9 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Create an infinite loading list with React and GraphQL](https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh)
+* [REST vs GraphQL](https://www.moesif.com/blog/technical/graphql/REST-vs-GraphQL-APIs-the-good-the-bad-the-ugly/)
+* [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/)
+* [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole)
 
 <a name="workshopper" />
 
