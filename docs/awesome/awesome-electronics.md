@@ -75,6 +75,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
+## PCB Syntax Highlighting
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
+
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.

@@ -215,7 +215,7 @@ Table of Contents
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
 
-## CI / CD
+## <a name="cicd"></a>CI / CD
 
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
@@ -482,11 +482,15 @@ Table of Contents
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
- * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
- * [Infinity Free](https://infinityfree.net/) —  Completely free website hosting with unlimited disk space and bandwidth.
- * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
- * [Free Host](https://profreehost.com/) — Free Web Hosting with Unlimited diskspace and bandwidth.
- * [Free Hosting](http://freehostingnoads.net/) — Free HostingWith PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
+  * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
+  * [Infinity Free](https://infinityfree.net/) —  Completely free website hosting with unlimited disk space and bandwidth.
+  * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
+  * [Free Host](https://profreehost.com/) — Free Web Hosting with Unlimited diskspace and bandwidth.
+  * [Free Hosting](http://freehostingnoads.net/) — Free HostingWith PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
+  * [2Host](https://2host.me) — Free hosting with Rocket boost website performance and SDD storage.
+  * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
+  * [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
+  * [Byet](https://byet.host) — Byet provides you with an massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
 
 ## DNS
 

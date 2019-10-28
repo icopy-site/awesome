@@ -164,6 +164,7 @@
 - [Idris](awesome/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](awesome/awesome-qsharp.md) - Domain-specific programming language used for expressing quantum algorithms.
+- [Imba](awesome/awesome-imba.md) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
 
 ## Front-End Development
