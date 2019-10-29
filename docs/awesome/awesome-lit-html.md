@@ -125,6 +125,11 @@ These are not implementations of lit-html itself but rather community extensions
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - CLI tool to build, test, and publish vanilla Web Components with a little spice.
 - [open-wc](https://github.com/open-wc) - Set of recommendations to help you generate, test, lint, demo, and publish Web Components.
 
+## Static Site Generators
+
+- [Greenwood](https://github.com/ProjectEvergreen/greenwood) - Modern and performant static site generator supporting Web Components based development.
+- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - Static-site generator built with TypeScript, which uses templating inspired by lit-html.
+
 ## Examples
 
 - [lit-demos](https://github.com/open-wc/lit-demos) - Examples for using the lit-html library and LitElement base class.

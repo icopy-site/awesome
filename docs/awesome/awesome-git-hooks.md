@@ -30,10 +30,11 @@ Contributions are _always_ welcome! Please see our [Contribution Guidelines](htt
 
 Note: The icon next to each script signifies what language it is written in.
 
-| icon                                                     | language | icon                                                 | language |
-| -------------------------------------------------------- | -------- | ---------------------------------------------------- | -------- |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">     | `bash`   | <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon"> | `perl`   |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon"> | `python` |                                                      |          |
+| icon                                                     | language |
+| -------------------------------------------------------- | -------- |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">     | `bash`   |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon"> | `python` |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">     | `perl`   |
 
 ### commit-msg
 
