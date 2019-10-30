@@ -106,6 +106,7 @@ Contributions are always welcome!
 * [The Modern Site Reliability Workbench on Top of OCI](https://www.youtube.com/watch?v=bC5dIPzNH24)
 * [SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
 * [About SRE and how (not) to apply it](https://www.youtube.com/watch?v=vF6ajM3P_wM)
+* [Transitioning a typical engineering ops team into an SRE powerhouse](https://cloud.google.com/blog/products/management-tools/transitioning-a-typical-engineering-ops-team-into-an-sre-powerhouse)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -251,6 +252,7 @@ Contributions are always welcome!
 * [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
 * [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 * [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
+* [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)

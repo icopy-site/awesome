@@ -182,6 +182,7 @@ Table of Contents
 ## Code Quality
 
   * [codescene.io](https://codescene.io/) - CodeScene prioritizes technical debt based on how the developers work with the code, and visualizes organizational factors like team coupling and system mastery. Free for Open Source.
+  * [dareboost](https://dareboost.com) - 5 free analysis report for web performance, accessibility, security each month
   * [hiberly.com](https://hiberly.com) - Tech debt toolkit for developers - grabs feedback from engineers after each merge, then aggregates this to quantify and highlight tech debt in the codebase. Free for use in retrospectives for up to 12 months.
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (upto 4 collaboraters). Also free for students and institutions.
@@ -358,6 +359,7 @@ Table of Contents
 
 ## Email
 
+  * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
@@ -393,6 +395,8 @@ Table of Contents
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [10minutemail](https://github.com/ripienaar/free-for-dev/blob/master/10minutemail.com) - Free, temporary email for testing.
+  * [Mailnesia](https://github.com/ripienaar/free-for-dev/blob/master/mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
+  * [ImprovMX](https://improvmx.com) – Free email forwarding
 
 ## CDN and Protection
 
@@ -657,7 +661,6 @@ Table of Contents
 
 ## IDE and Code Editing
 
-   * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 3 GB RAM, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
    * [ide.goorm.io](https://ide.goorm.io) goormIDE is full IDE on cloud. muti-language support, linux-based container via the fully-featured web-based terminal, port forwarding, custom url, real-time collaboration and chat, share link, Git/Subversion support. There are many more features (free tier includes 1GB RAM and 10GB Storage per container, 5 Container slot)
    * [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc
@@ -672,7 +675,6 @@ Table of Contents
    * [codesandbox.io](https://codesandbox.io/) — Online Playground for React, Vue, Angular, Preact and more
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
    * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages
-   * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
    * [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open-source.
    * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
    * [JDoodle](https://www.jdoodle.com) — Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
@@ -749,6 +751,7 @@ Table of Contents
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
   * [Filly](https://fill.ly) — Boost your web development workflow by reusing manual actions done previously on your app. Form filler for improved team collaboration. 
   * [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Inculdes a basic login system for saving your requests.
+  * [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 1000 free documents per month.
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers

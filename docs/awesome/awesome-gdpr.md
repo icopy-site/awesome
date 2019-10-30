@@ -27,6 +27,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
+
+## Tools
+* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
