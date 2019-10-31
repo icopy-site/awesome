@@ -120,6 +120,7 @@ Table of Contents
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
   * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
   * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
+  * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beatuy link previews, scraping capabilities or screenshots as a service. 250 reqs/day every day free.
   * [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
@@ -129,6 +130,7 @@ Table of Contents
   * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [Releaseflags](https://releaseflags.com) - Feature Flags should be available for every developer at a low cost. Releaseflags offers free releaseflags for single developers and a low cost plan for startups.
+  * [ROBOHASH](https://robohash.org/) - Web service to generate unique (cool :) images from any text.
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [ScrapingNinja](https://www.scrapingninja.co/) — Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.
   * [Scraper API](https://www.scraperapi.com/) — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.
@@ -136,6 +138,7 @@ Table of Contents
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorisation and no request limits
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Time Door](https://timedoor.io) - A time series analysis API
+  * [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
@@ -178,6 +181,8 @@ Table of Contents
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [featurepeek.com](https://featurepeek.com) - Cloud provider-agnostic front-end feature environments with team collaboration tools built-in. Works with static and Dockerized front-ends. Free for public repositories.
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free. 
+  * [Pendulums](https://pendulums.io/) - Pendulums is a free time tracking tool which helps you to manage your time in a better manner with an easy to use interface and useful statistics.
+  * [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
 
 ## Code Quality
 
@@ -247,10 +252,11 @@ Table of Contents
   * [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
   * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open source with no restrictions and limitations. Cypress Dashboard is free for open source projects for up to 5 users. 
+  * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  10 team members, Demo app and unlimited projects, 5,000 snapshots / month.
 
 ## Security and PKI
 
-  * [pyup.io](https://pyup.io) — Monitory Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
+  * [pyup.io](https://pyup.io) — Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
   * [threatconnect.com](https://threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [snyk.io](https://snyk.io) — Can find and fix known security vulnerabilities in your open source dependencies. Unlimited tests and remediation for open source projects. Limited to 200 tests/month for your private projects.   
@@ -260,9 +266,9 @@ Table of Contents
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Very deep analysis of the configuration of any SSL web server
-  * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) — Find web app vulnerabilities, audit for OWASP Risks
+  * [qualys.com](https://www.qualys.com/community-edition) — Find web app vulnerabilities, audit for OWASP Risks
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
-  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
+  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan allows weekly XSS scans
   * [ponycheckup.com](https://www.ponycheckup.com/) — An automated security checkup tool for Django websites
   * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
@@ -278,6 +284,7 @@ Table of Contents
   * [Shieldfy](https://shieldfy.io) — Web application firewall and vulnerability detection for developers, free plan up to 100k requests per month.
   * [Sqreen](https://www.sqreen.com/) — Application security monitoring and protection (RASP, WAF and more) for web applications and APIs. Free for 1 app and 3 million requests.
   * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
+  * [Protectumus](https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF). Email and SMS notifications for registered users.
 
 ## Management System
 
@@ -394,8 +401,8 @@ Table of Contents
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
-  * [10minutemail](https://github.com/ripienaar/free-for-dev/blob/master/10minutemail.com) - Free, temporary email for testing.
-  * [Mailnesia](https://github.com/ripienaar/free-for-dev/blob/master/mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
+  * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
+  * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [ImprovMX](https://improvmx.com) – Free email forwarding
 
 ## CDN and Protection
@@ -438,6 +445,7 @@ Table of Contents
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
   * [workers.dev](https://workers.dev) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
+  * [okteto.com](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with five namespaces, each with 8GB of RAM and 4 CPUs.
 
 ## BaaS
 

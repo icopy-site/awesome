@@ -2,10 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level structures of software as well as the discipline of creating them. 
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain resources also present in more niche lists. 
 
-Want to help in making this list better? Start by taking a look at our [code of conduct](https://github.com/simskij/awesome-software-architecture/blob/master/code_of_conduct.md)
-and [contribution guidelines](https://github.com/simskij/awesome-software-architecture/blob/master/contributing.md)!
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/simskij/awesome-software-architecture/blob/master/code_of_conduct.md) and [contribution guidelines](https://github.com/simskij/awesome-software-architecture/blob/master/contributing.md).
 
 
 
@@ -24,9 +23,10 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 ## Methodology
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - Making a case for growing software in small increments :orange_book:.
-- [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
+- [Clean Architecture, by Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Key principles and concepts for building sustainable and maintainable software :orange_book:.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - Cost and impact of accumulating technical debt.
-- [The Magic Tricks of Testing, by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
+- [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
+- [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - Suggestion on TDD practices and boundaries to reduce coupling 🎥.
 
 ## Documentation
 

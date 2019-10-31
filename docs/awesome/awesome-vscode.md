@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="viatsko/awesome-vscode"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
@@ -45,6 +46,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
@@ -187,6 +189,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) - Babel extension ported from Sublime Text
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
+![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
@@ -305,6 +309,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 ## Productivity
+
+## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
+
+> Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
+
+![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://github.com/benc-uk/armview-vscode/raw/master/assets/readme/screen1.png)
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
@@ -640,6 +650,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Uncategorized
 
+## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
+
+> A VS Code extension to generate ascii tree of directories or format selected text to tree strings.
+
+![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
+
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
 > Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
@@ -798,6 +814,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ## Syntax
 
+### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
+
+Cyberpunk 2077 inspired theme
+
+<a href="https://vscodethemes.com/e/Endormi.2077-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
+</a>
+
 ### [An Old Hope Theme by Dustin Sanders](https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode)
 
 VSCode theme inspired by a galaxy far far away...
@@ -820,6 +844,14 @@ One Dark Theme based on Atom.
 
 <a href="https://vscodethemes.com/e/akamud.vscode-theme-onedark">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
+</a>
+
+### [Atomize by emroussel](https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme)
+
+A detailed and accurate Atom One Dark Theme.
+
+<a href="https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/atomize.png" width="600" />
 </a>
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
