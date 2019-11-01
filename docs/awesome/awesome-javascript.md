@@ -103,7 +103,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 * [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
-
+* [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ## MVC Frameworks and Libraries
 
@@ -345,6 +345,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jsurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+* [plexis](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 
 ## Number
 
@@ -403,6 +404,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [sporadic](https://github.com/marcoonroad/sporadic) - Composable concurrency abstractions (such as streams, coroutines and Go-like channels) on top of promises, for Node and browser engines.
 
 
 ## Routing
@@ -412,6 +414,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [pathjs](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
 * [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 * [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
+* [navaid](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes~!
 
 
 ## Security
@@ -450,6 +453,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
+* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## Streaming
 

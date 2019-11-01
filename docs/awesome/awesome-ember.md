@@ -37,7 +37,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ---
 
-- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-emberjs-awesomehttpsgithubcomsindresorhusawesome)
+- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)]
 
 
 ## Packages
@@ -250,6 +250,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset.
 - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+- [ember-line-graph](https://astronomersiva.github.io/ember-line-graph/) - Zero-dependency ember-addon to draw line-charts.
 
 ### Database
 
@@ -483,6 +484,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Security
 
 - [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember.js apps.
+- [ember-permissions](https://github.com/Bagaar/ember-permissions) - Permission management for Ember applications.
 
 ### Service Workers
 
@@ -966,6 +968,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 - [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)).
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
+- [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.

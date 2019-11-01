@@ -78,6 +78,7 @@ Table of Contents
   * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
   * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
   * [Heroku](https://heroku.com/github-students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Microsoft Azure] (https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications.Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
 ## Email
 
@@ -158,8 +159,9 @@ Table of Contents
 
 ## Password Managers
  * [1Password](https://www.studentappcentre.com/discounts/1password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
- * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
+ * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
@@ -178,6 +180,10 @@ Table of Contents
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
  * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
+ * [One Month] (https://onemonth.com/github/students) [FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
+ * [Flatiron School] (https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
+* [GO RAILS] (https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
+* [Thinkful] (https://www.thinkful.com/github-student-developer-pack/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 
 ## License
 
