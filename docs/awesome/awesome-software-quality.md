@@ -318,7 +318,8 @@ If you would like add something, just send the text as you would like it to appe
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf) -- А.С. Камкин
 * [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/) -- В.В. Кулямин
-
+* [Введение в язык формальной верификации Coq](https://compsciclub.ru/courses/intro-to-coq/2019-autumn/about/) - Антон Трунов
+* [Введение в верификацию программ](https://www.youtube.com/playlist?list=PLQ-XJe6nVU5BwX1gV80aDhwW0Jt3tipIY) - Антон Трунов (спецкурс для МФТИ)
 
 ## Workshops and interactive learning tools
 

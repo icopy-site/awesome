@@ -161,9 +161,15 @@ zapack is a basic fast minimal ZSH plugin loader.
 commands in your `~.zshrc` and also use [zplugin-console](https://github.com/zplugin/zplugin-console) to view and change
 the state of the Zsh session and to delete the plugins and snippets from the disk.
 
-### [ZPM](https://github.com/zpm-zsh/zpm)
+### [zpm](https://github.com/zpm-zsh/zpm)
 
-**ZPM** ( ZSH Plugin Manager ) is a plugin manager for [ZSH](http://www.zsh.org/) similar to vim-plug. ZPM plugins are compatible with [oh-my-zsh](http://ohmyz.sh/). ZPM runs on Linux, macOS, FreeBSD and Android.
+**zpm** ( ZSH Plugin Manager ) is a plugin manager for [ZSH](http://www.zsh.org/) who combines the imperative and declarative approach. At first run, zpm will do complex logic and generate cache, after that will be used cache only, so it makes this framework to be very fast.
+
+* Fastest plugin manager (Really, after the first run, zpm will not be used at all)
+* Support for async loading
+* Dependencies between packages
+* zpm runs on Linux, macOS, FreeBSD and Android.
+* zpm plugins are compatible with [oh-my-zsh](http://ohmyz.sh/). 
 
 ### [ZR](https://github.com/jedahan/zr)
 
@@ -215,7 +221,7 @@ the state of the Zsh session and to delete the plugins and snippets from the dis
 
 ### Oh-My-Zsh
 
-* [ZSH Gem 24](https://www.refining-linux.org/archives/59/ZSH-Gem-24-ZSH-frameworks/) - Part of the 2011 ZSH Advent Calendar. Covers oh-my-zsh and zshuery.
+* [ZSH Gem 24](https://www.refining-linux.org/archives/59-ZSH-Gem-24-ZSH-frameworks.html) - Part of the 2011 ZSH Advent Calendar. Covers oh-my-zsh and zshuery.
 
 ### Prezto
 
@@ -609,7 +615,6 @@ the state of the Zsh session and to delete the plugins and snippets from the dis
 * [sysadmin-util](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins.
 * [system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - Adds key bindings support for ZLE (Zsh Line Editor) clipboard operations for vi emulation keymaps. It works under Linux, macOS and Android (via Termux).
 * [t32](https://github.com/chrissicool/zsh-t32) - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
-* [tag-search](https://github.com/zdharma/zsh-tag-search) - A history search tool for Zsh aimed at tag-marking history entries with support for regular search.
 * [tailf](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 * [taskbook](https://github.com/mastern2k3/taskbook-zsh-plugin) - Auto-completes task numbers for taskbook.
 * [terminal-app](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new El Capitan Terminal.app features.
