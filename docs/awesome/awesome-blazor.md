@@ -66,7 +66,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorPong](https://github.com/MACEL94/BlazorPong) - Pong in Blazor server side using SignalR Core. [Demo](https://blazorpong-dev-as.azurewebsites.net).
 * [BlazorTictactoe](https://github.com/kodebot/BlazorTicTacToe) - Tic-tac-toe in Blazor WebAssembly. [Demo](https://tic-tac-toe.kodebot.com/).
-* [DiabloBlazor](https://github.com/n-stefan/diabloblazor) - Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) SPA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
+* [DiabloBlazor](https://github.com/n-stefan/diabloblazor) - Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 ### Machine Learning
 * [Scalable sentiment analysis](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square&cacheSeconds=604800) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
 ### ToDos
@@ -310,6 +310,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor Component Lifecycle Diagram](https://knowledge-base.havit.eu/2019/11/02/blazor-component-lifecycle-diagram/) - November 2, 2019 - Blazor component lifecycle methods and when they are called.
+* [Exploring lighter alternatives to Electron for hosting a Blazor desktop app](http://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/) - November 1, 2019 - Exploring lighter alternatives to Electron for hosting a Blazor desktop app, by Steve Sanderson.
+* [A New Era of Productivity with Blazor](https://www.codemag.com/article/1911052) - November 2019 - A New Era of Productivity with Blazor, by Ed Charbeneau for CODE magazine.
+* [One solution (setup) to rule them all](https://visionsincode.wordpress.com/2019/11/01/one-solution-setup-to-rule-them-all-blazor-webassembly-blazor-server-blazor-electron/) - November 1, 2019 - One solution (setup) to rule them all – Blazor Webassembly, Blazor Server, Blazor Electron.
+* [An In-depth Look at Routing in Blazor](https://chrissainty.com/an-in-depth-look-at-routing-in-blazor/) - October 29, 2019 - An In-depth Look at Routing in Blazor.
 * [Introduction to Routing in Blazor](https://chrissainty.com/introduction-to-routing-in-blazor/) - October 22, 2019 - Introduction to Routing in Blazor.
 * [Create PWA using Blazor](https://wellsb.com/csharp/aspnet/create-pwa-from-blazor-app/) - October 17, 2019 - How to convert a Blazor app into an installable PWA.
 * [Uploading files in Blazor](https://www.mikesdotnetting.com/article/341/uploading-files-in-blazor) - October 17, 2019 - Uploading files in Blazor.

@@ -57,6 +57,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
 - [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
+- [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
 - [Drupal Vendor Hardening Composer Plugin](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share selected packages between your projects by creating symlinks.
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
@@ -134,7 +135,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Blogs
 
 - [Jordi Boggiano (seldaek)](https://seld.be/)
-- [Nils Adermann (naderman)](http://naderman.de/)
+- [Nils Adermann (naderman)](https://naderman.de/)
 - [Composer: Part 1 - What & Why](http://blog.nelm.io/2011/12/composer-part-1-what-why/)
 - [Composer: Part 2 - Impact](http://blog.nelm.io/2011/12/composer-part-2-impact/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
@@ -153,23 +154,23 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Slides
 
 - Slides by Nils Adermann
-  - Source: http://www.naderman.de/slippy/slides/
-  - [PHP Reinvented - How Composer helped shape the new way of writing PHP](http://www.naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
-  - [Composer Update](http://www.naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
-  - [Dependency Management with Composer PHP Reinvented](http://www.naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html)
+  - Source: https://naderman.de/slippy/src/
+  - [PHP Reinvented - How Composer helped shape the new way of writing PHP](https://naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
+  - [Composer Update](https://naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
+  - [Dependency Management with Composer PHP Reinvented](https://naderman.de/slippy/src/?file=2015-02-01-Dependency-Management-with-Composer-PHP-Reinvented.html)
   - [Managing dependencies is
 more than running
-"composer update"](http://naderman.de/slippy/slides/2017-06-30-DPC-Dependency-Management-is-more-than-composer-update.pdf)
+"composer update"](https://naderman.de/slippy/slides/2017-06-30-DPC-Dependency-Management-is-more-than-composer-update.pdf)
   - [Composer
-Best Practices @ T3DD17](http://www.naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf)
+Best Practices @ T3DD17](https://naderman.de/slippy/slides/2017-07-13-T3DD17-Composer-Best-Practices.pdf)
   - [Gain Control over your
 Dependencies with
-Private Packagist](http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-control-over-your-dependencies-with-private-packagist.pdf)
-  - [Composer.lock demystified](http://www.naderman.de/slippy/slides/2018-01-26-composer-lock-demystified.pdf)
-  - [Compoer In-Depth @ Contao Konferenz 2018](http://www.naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf)
-  - [Composer Best Practices 2018](http://www.naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf)
-  - [Developing and Deploying Magento with Composer Best Practices](http://www.naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf)
-  - [Composer Platform Config (check-platform-reqs) @ SymfonCon 2018](http://www.naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
+Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-control-over-your-dependencies-with-private-packagist.pdf)
+  - [Composer.lock demystified](https://naderman.de/slippy/slides/2018-01-26-composer-lock-demystified.pdf)
+  - [Compoer In-Depth @ Contao Konferenz 2018](https://naderman.de/slippy/slides/2018-06-08-Contao-Konferenz-2018-Composer-In-Depth.pdf)
+  - [Composer Best Practices 2018](https://naderman.de/slippy/slides/2018-06-27-Composer-Best-Practices-2018.pdf)
+  - [Developing and Deploying Magento with Composer Best Practices](https://naderman.de/slippy/slides/2018-06-18-Developing-and-Deploying-Magento-with-Composer-Best-Practices.pdf)
+  - [Composer Platform Config (check-platform-reqs) @ SymfonCon 2018](https://naderman.de/slippy/slides/2018-12-07-SymfonCon-Composer-Platform-Config.pdf)
 - Slides by Jordi Boggiano
   - Source: http://slides.seld.be/
   - [Dependency Management with Composer (2013)](http://slides.seld.be/?file=2013-10-04+Dependency+Management+with+Composer.html)
