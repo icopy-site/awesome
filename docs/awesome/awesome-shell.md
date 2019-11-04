@@ -189,6 +189,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
+* [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...

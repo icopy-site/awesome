@@ -8,7 +8,7 @@
 	<br>
 </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
@@ -74,6 +74,7 @@ VML and CSS.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
+- [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 
 ## Self-Hosted Services
 
@@ -116,7 +117,6 @@ VML and CSS.
 ## Copy
 
 - [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
-- [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
 

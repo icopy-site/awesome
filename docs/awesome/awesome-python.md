@@ -275,18 +275,16 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 * Other Relational Databases
     * [pymssql](http://www.pymssql.org/en/latest/) - A simple database interface to Microsoft SQL Server.
+    * [SuperSQLite](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw](https://github.com/rogerbinns/apsw).
 * NoSQL Databases
     * [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
     * [happybase](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
     * [kafka-python](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
-    * [py2neo](https://py2neo.org/) - Python wrapper client for Neo4j's restful interface.
+    * [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
     * [pymongo](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
     * [redis-py](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
 * Asynchronous Clients
     * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-    * [Telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra.
-    * [txpostgres](https://github.com/wulczer/txpostgres) - Twisted based asynchronous driver for PostgreSQL.
-    * [txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
 
 ## Date and Time
 
@@ -745,6 +743,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
     * [dataset](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     * [orator](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
+    * [orm](https://github.com/encode/orm) - An async ORM.
     * [peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
     * [pony](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
     * [pydal](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
@@ -889,6 +888,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson](https://github.com/lemire/simdjson).
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON](https://github.com/Tencent/rapidjson).
+* [ultrajson](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
 
 ## Serverless Frameworks
 
@@ -1097,16 +1097,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Full stack web frameworks.*
 
-* [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-    * [awesome-django](https://github.com/shahraizali/awesome-django)
-* [Flask](http://flask.pocoo.org/) - A microframework for Python.
-    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
-* [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
-* [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-    * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
-* [Sanic](https://github.com/channelcat/sanic) - Web server that's written to go fast.
-* [Vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
-* [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
+* Synchronous
+    * [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
+        * [awesome-django](https://github.com/shahraizali/awesome-django)
+    * [Flask](http://flask.pocoo.org/) - A microframework for Python.
+        * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+    * [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
+        * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
+    * [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
+* Asynchronous
+    * [FastAPI](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    * [Sanic](https://github.com/huge-success/sanic) - Web server that's written to go fast.
+    * [Vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
+    * [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
 
 ## WebSocket
 
