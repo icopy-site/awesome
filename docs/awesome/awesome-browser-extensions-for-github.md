@@ -339,6 +339,14 @@ Follow your favorite GitHub organizations and receive activities in the main fee
 ## Notifications
 
 
+Categorize your mixed GitHub notifications
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
+</details>
+
+
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
 <details><summary>Screenshots</summary>
@@ -433,14 +441,6 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 
 ## PullRequest
-
-
-Categorize your mixed GitHub notifications
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
-</details>
 
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
