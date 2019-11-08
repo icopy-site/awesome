@@ -271,6 +271,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Shell Utilities
 
@@ -313,11 +314,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jq](https://github.com/stedolan/jq) - JSON processor.
 - [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+- [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ### Text
 

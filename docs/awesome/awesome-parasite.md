@@ -26,7 +26,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 * [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance. 
 * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
- * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
+* [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
 
 ## Museums & Collections
 * [Biological Collections of Oswaldo Cruz Institute in Rio de Janeiro, Brazil](https://portal.fiocruz.br/en/biological-collections) - scientific institution with the largest [helminth collection](http://chioc.fiocruz.br/catalogue) in Latin America with nearly 40,000 specimens. The institute also houses several other open-access catalogues of [protozoa](http://colprot.fiocruz.br/index?catalogue) and [medically important vector species](http://cavaisc.fiocruz.br/catalogue).
@@ -48,6 +48,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 ## Reporting Systems 
 * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
 * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) parses ProMed reports into disease outbreak events, curated by disease experts. 
+* [The Contagion Outbreak Monitor](https://www.contagionlive.com/outbreak-monitor) - An interactive map of human bloodborne or foodborne outbreaks in the past two years. Targeted to practitioners and clinicians. 
 * [WHISPers](https://whispers.usgs.gov/) - Wildlife Health Information Sharing Partnership event reporting system managed by USGS National Wildlife Health Center. Events of North American wildlife mortality (death) and morbidity (illness) involving five or more individuals are reported. 
 * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive) - The OIE archive of country alerts and regular reports of certain pathogens. They also have some nice interfaces to show disease distribution and timelines.
  

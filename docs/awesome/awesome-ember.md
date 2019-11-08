@@ -1155,6 +1155,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=9cseB2xoT-0)
 - [Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=fYHgyIlGttk)
 - [Caveats of the Default Store - Ember London - September 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A)
+- [EmberFest 2019](https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx)
 - [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 - [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 - [Global Ember Meetup](https://vimeo.com/globalembermeetup)

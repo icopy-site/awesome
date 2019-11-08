@@ -37,7 +37,7 @@
 
 ## Experiments
 
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral.
+- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 - [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
 - [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
@@ -113,7 +113,6 @@
 - [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 - [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
 - [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
 - [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
 - [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
@@ -127,6 +126,8 @@
 - [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 - [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - Applying compositional pattern-producing networks to generate interesting visuals from audio data.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
+- [Just Dance](http://hiteshsahu.com/AudioAnalysis) - A 3D Audio Visualization made with [BabylonJS](http://babylonjs.com/) & 2D Perlin Noise.
+
 
 ## Experiments on Codepen
 
@@ -166,6 +167,8 @@
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
+- [audio](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
+- [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
   
 
 ## Libraries Visualization
@@ -227,6 +230,7 @@
 - [Javascript Systems Music - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 - [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
 - [Recreating legendary 8-bit games music with Web Audio API](https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api)
+- [Visualizing sound in Go with SDL](https://mlesniak.com/post/2018/09/13/go-guitar-/-visualize-sound/)
 
 ## Videos
 
