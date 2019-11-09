@@ -18,6 +18,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [MapStruct](https://github.com/mapstruct/mapstruct) - Code generator that simplifies mappings between different bean types, based on a convention-over-configuration approach.
 - [ModelMapper](https://github.com/jhalterman/modelmapper) - Intelligent object mapping library that automatically maps objects to each other.
 - [Orika](https://github.com/orika-mapper/orika) - JavaBean-mapping framework that recursively copies (among other capabilities) data from one object to another.
+- [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 - [Selma](https://github.com/xebia-france/selma) - Annotation processor-based bean mapper.
 
 ### Build
@@ -40,7 +41,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [cglib](https://github.com/cglib/cglib) - Bytecode generation library.
 - [Javassist](https://jboss-javassist.github.io/javassist) - Tries to simplify bytecode editing.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
-- [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering. 
+- [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 
 ### Caching
 
@@ -61,7 +62,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Jansi](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 - [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-- [jbock](https://github.com/h908714124/jbock) - Typesafe, reflection-free, annotation based command-line parser 
+- [jbock](https://github.com/h908714124/jbock) - Typesafe, reflection-free, annotation based command-line parser.
 - [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support.  Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
@@ -158,7 +159,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Apache Phoenix](https://phoenix.apache.org) - High-performance relational database layer over HBase for low-latency applications.
 - [AranoDB](https://github.com/arangodb/arangodb-java-driver) -  ArangoDB Java driver.
 - [Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) - Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
-- [druid](https://druid.apache.org/) - High-performance, column-oriented, distributed data store.
+- [druid](https://druid.apache.org) - High-performance, column-oriented, distributed data store.
 - [eXist](https://github.com/eXist-db/exist) - A NoSQL document database and application platform. (LGPL-2.1-only)
 - [FlexyPool](https://github.com/vladmihalcea/flexy-pool) - Brings metrics and failover strategies to the most common connection pooling solutions.
 - [Flyway](https://flywaydb.org) - Simple database migration tool.
@@ -194,7 +195,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Apache Parquet](https://parquet.apache.org) - Columnar storage format based on assembly algorithms from Google's paper on Dremel.
 - [Apache Thrift](https://thrift.apache.org) - Data interchange format that originated at Facebook.
 - [Big Queue](https://github.com/bulldog2011/bigqueue) - A big, fast and persistent queue based on memory-mapped files.
-- [HyperMinHash-java](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space. 
+- [HyperMinHash-java](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
 - [Persistent Collection](https://pcollections.org) - Persistent and immutable analogue of the Java Collections Framework.
 - [Protobuf](https://github.com/google/protobuf) - Google's data interchange format.
 - [SBE](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
@@ -384,6 +385,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Eclipse](https://www.eclipse.org) - Established open-source project with support for lots of plugins and languages.
 - [IntelliJ IDEA ![c]](https://www.jetbrains.com/idea) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
+- [jGRASP](https://www.jgrasp.org) - Created to provide software visualizations that work in conjunction with the debugger such as Control Structure Diagrams, UML class diagrams and Object Viewer.
 - [NetBeans](https://netbeans.apache.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/java) - Provides Java support for lightweight projects with a simple, modern workflow by using extensions from the internal marketplace.
 
@@ -404,7 +406,8 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [ClassGraph](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
 - [jOOR](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
-- [Mirror](http://projetos.vidageek.net/mirror/mirror/) - Mirror was created to bring light to a simple problem, usually named ReflectionUtil, which is on almost all projects that rely on reflection to do advanced tasks.
+- [Mirror](http://projetos.vidageek.net/mirror/mirror) - Mirror was created to bring light to a simple problem, usually named ReflectionUtil, which is on almost all projects that rely on reflection to do advanced tasks.
+- [Objenesis](http://objenesis.org) - Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.
 - [ReflectASM](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 - [Reflections](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
@@ -525,7 +528,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
 - [Multi-OS Engine](https://multi-os-engine.org) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
 - [OpenRefine](http://openrefine.org) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
-- [PipelinR](https://github.com/sizovs/pipelinr) – Small utility library for using handlers and commands with pipelines. 
+- [PipelinR](https://github.com/sizovs/pipelinr) – Small utility library for using handlers and commands with pipelines.
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) - Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
 - [Smooks](https://github.com/smooks/smooks) - Extensible framework for building applications that process data which means bindings, transformations, message processing and enrichment. (LGPL-3.0-only)
 - [Togglz](https://www.togglz.org) - Implementation of the Feature Toggles pattern.
@@ -584,6 +587,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries that specialize in processing text.*
 
+- [Beagle](https://github.com/tokenmill/beagle) - Stored full-text search query engine.
 - [CogCompNLP](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 - [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 - [DKPro](https://dkpro.github.io) - Collection of reusable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
@@ -1063,9 +1067,11 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Reza Rahman](https://twitter.com/reza_rahman) - Java EE/GlassFish/WebLogic evangelist, author, speaker, open source hacker.
 - [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 - [Simon Maple](https://twitter.com/sjmaple) - Java Champion, VirtualJUG founder, LJC leader, RebelLabs author.
+- [Spencer Gibb](https://twitter.com/spencerbgibb) - Software Engineer, Dad, Geek, Co-founder and Lead of Spring Cloud Core @pivotal.
 - [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion, speaker.
 - [Trisha Gee](https://twitter.com/trisha_gee) - Java Champion and speaker.
 - [Venkat Subramaniam](https://twitter.com/venkat_s) - Author, University of Houston professor, MicroSoft MVP award recipient, JavaOne Rock Star, Java Champion.
+- [Vlad Mihalcea](https://twitter.com/vlad_mihalcea) - Java Champion working on Hypersistence Optimizer, database aficionado, author of High-Performance Java Persistence book.
 
 ### Websites
 
