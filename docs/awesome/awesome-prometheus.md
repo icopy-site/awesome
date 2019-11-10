@@ -39,11 +39,14 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Videos
 
+- [PromCon 2019](https://www.youtube.com/watch?v=4vZ1PqZ_Foc) - PromCon Munich - November 7, 2019, PromCon EU 2019 - Day 1 Live talk recordings.
+- [PromCon 2019](https://www.youtube.com/watch?v=bbIE9VyVgaY) - PromCon Munich - November 8, 2019, PromCon EU 2019 - Day 2 Live talk recordings.
+- [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) - PromCon Munich - August 9-10, 2018 - talk recordings from PromCon 2018 in Munich.
+- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) - PromCon Munich - August 17-18, 2017 - talk recordings from PromCon 2017 in Berlin.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) - PromCon Berlin - August 25-26, 2016 - talk recordings from PromCon 2016 in Berlin.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
 - [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) - FOSDEM 2016 - January 31, 2016 - Brian Brazil.
 - [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) - PromCon 2016 - So You Want to Write an Exporter - Brian Brazil
-- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) - PromCon Munich - August 17-18, 2017 at Google Munich - talk recordings.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) - Devoxx - May 17, 2017 at Devoxx UK - Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) - Devoxx Belgium - November 7, 2017 - Fabian Stäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) - Docker - October 14, 2016 - Julius Volz.

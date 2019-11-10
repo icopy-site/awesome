@@ -123,6 +123,7 @@
 
 ## Misc
 
+* [eagle-homematic](https://github.com/dersimn/eagle-homematic) - Homematic Modul Eagle Bibliothek.
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
 * [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) - Diverse Teile rund um Homematic zum selbst drucken.
 

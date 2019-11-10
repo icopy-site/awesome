@@ -112,6 +112,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [acl9](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 * [AccessGranted](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+* [ActionPolicy](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
 * [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
@@ -1215,7 +1216,6 @@ Online tools, services and APIs to simplify development.
 * [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 * [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
 * [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
-* [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, Ruby environments deployable anywhere https://nanobox.io.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 * [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 * [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.

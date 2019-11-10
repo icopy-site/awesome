@@ -333,6 +333,7 @@ Managed Kubernetes
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [KubeSphere](https://kubesphere.io/en)
+  - [Kyma](https://kyma-project.io/) - A platform for extending apps with serverless functions. It provides a selection of cloud-native projects glued together to simplify the creation and management of services.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -666,6 +667,7 @@ Projects
 * [illuminatio](https://github.com/inovex/illuminatio) is a tool for automatically testing kubernetes network policies
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
+* [KubeIP](http://github.com/doitintl/kubeip) Set static ip for nodes on GKE (useful for whitelisting ips)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
@@ -905,6 +907,7 @@ Raspberry Pi
 * [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
 * [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) by [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)
 * [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) by [Scott Hanselman](https://twitter.com/shanselman)
+* [Building a microcloud with a few Raspberry Pis and Kubernetes](https://mirailabs.io/blog/building-a-microcloud/) by [Preetam D'Souza](https://preetam.io/)
 
 Books
 =======================================================================
