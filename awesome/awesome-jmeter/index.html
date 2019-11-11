@@ -8184,6 +8184,7 @@
 <li><a href="https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b">Dockerized JMeter</a> - Distributed load testing workflow with Docker and JMeter.</li>
 <li><a href="https://hub.docker.com/search/?isAutomated=0&amp;isOfficial=0&amp;page=1&amp;pullCount=0&amp;q=jmeter&amp;starCount=0">JMeter Docker Images</a></li>
 <li><a href="http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html">Distributed JMeter testing using Docker</a></li>
+<li><a href="https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f">A Docker solution to JMeter + InfluxDB + Grafana performance testing</a></li>
 </ul>
 </li>
 <li>Testing in Cloud<ul>
@@ -8231,18 +8232,41 @@
 </ul>
 <h3 id="results-visualisation">Results Visualisation<a class="headerlink" href="#results-visualisation" title="Permanent link">&para;</a></h3>
 <ul>
+<li>Built-in Reporting<ul>
 <li><a href="http://jmeter.apache.org/usermanual/generating-dashboard.html">JMeter Report Dashboard</a> - JMeter supports dashboard report generation to get graphs and statistics from a test plan.</li>
-<li><a href="http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/">Using InfluxDB &amp; Grafana</a> - Real-time results with InfluxDB &amp; Grafana.<ul>
-<li><a href="https://grafana.com/dashboards/1152">JMeter Load Test Dashboard</a></li>
 </ul>
 </li>
+<li>Using Graphite &amp; Grafana<ul>
+<li><em>TBD</em></li>
+</ul>
+</li>
+<li>Using InfluxDB &amp; Grafana<ul>
+<li><a href="http://www.vinsguru.com/category/influxdb/">Using JMeter with InfluxDB &amp; Grafana</a> - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB &amp; Grafana.</li>
+<li><a href="https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul">How to Use Grafana to Monitor JMeter Non-GUI Results</a></li>
+<li>Grafana Dashboards<ul>
+<li><a href="https://grafana.com/dashboards/1152">JMeter Load Test Dashboard</a> by NovaTec-APM</li>
+<li><a href="https://grafana.com/grafana/dashboards/5496">JMeter Dashboard using Core InfluxdbBackendListenerClient</a> by Philippe M.</li>
+<li><a href="https://grafana.com/grafana/dashboards/3351">JMeter Dashboard (3.2 and up)</a> by adrianbanu</li>
+</ul>
+</li>
+<li><a href="https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer">JMeter-InfluxBD-Writer Plugin</a> - JMeter plugin to write load test data on-the-fly into InfluxDB.</li>
+<li><a href="https://github.com/soprasteria/jmeter2influxdb">JMeter Results to InfluxDB</a> - Read JMeter results from csv file and put into InfluxDB database.</li>
+</ul>
+</li>
+<li>Using ELK Stack &amp; Grafana<ul>
 <li><a href="http://ecmarchitect.com/archives/2014/09/09/3932">Using ELK</a> - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.</li>
+<li><a href="https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e">JMeter + ElasticSearch Live Monitoring</a> - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.</li>
+<li><a href="https://github.com/delirius325/jmeter-elasticsearch-backend-listener">JMeter ElasticSearch Backend Listener</a> - JMeter plugin to send test results to an ElasticSearch engine.</li>
+</ul>
+</li>
+<li>Custom &amp; Outdated<ul>
 <li><a href="http://www.metaltoad.com/blog/plotting-your-load-test-jmeter">Using Matplotlib &amp; Python</a> - Plotting JMeter load test results with Matplotlib plotting tool and Python.</li>
 <li><a href="http://rubenlaguna.com/wp/better-jmeter-graphs/">Statistical Aggregate Report</a> - Custom Statistical Aggregate Report listener for enhanced results visualization.</li>
 <li><a href="https://github.com/d6y/jchav">JChav</a> - JMeter Chart History and Visualisation library.</li>
-<li><a href="http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html">Using CMDRunner &amp; Powershell</a> - Create JMeter graphs with CMDRunner with powershell parallel execution.</li>
 <li>JMeter Dashboard: <a href="http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html">howto</a>, <a href="https://github.com/vincentskooi/JMeterDashboard">sources</a> - Realtime monitoring of JMeter load test.</li>
-<li><a href="https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e">JMeter + ElasticSearch Live Monitoring</a>, <a href="https://github.com/delirius325/jmeter-elasticsearch-backend-listener">sources</a> - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.</li>
+<li><a href="http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html">Using CMDRunner &amp; Powershell</a> - Create JMeter graphs with CMDRunner with powershell parallel execution.</li>
+</ul>
+</li>
 </ul>
 <h2 id="performance-testing">Performance Testing<a class="headerlink" href="#performance-testing" title="Permanent link">&para;</a></h2>
 <h3 id="streaming-protocols">Streaming Protocols<a class="headerlink" href="#streaming-protocols" title="Permanent link">&para;</a></h3>
