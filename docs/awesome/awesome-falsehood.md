@@ -144,6 +144,9 @@ Covers coordinates, projection and GIS.
 - [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 The article that started it all.
+- [Falsehoods About
+Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) -
+A revisited version of the article above, this time with detailed explanations.
 - Falsehoods About Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) &
 [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -
 Gender is part of human identity and has its own subtleties.
@@ -163,6 +166,8 @@ might lead to security holes.
 - [Hello, I’m Mr. Null. My Name Makes Me Invisible to
 Computers](https://www.wired.com/2015/11/null/) - Real-life example on how
 implemented falsehood has negative impact on someone's life.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) -
+Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 - [HL7 v3
 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
@@ -185,6 +190,7 @@ international and diverse name data for unit testing and QA.
 A video about things you need to keep in mind when internationalizing your
 code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
+- [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard.
 
 
 ## Multimedia
