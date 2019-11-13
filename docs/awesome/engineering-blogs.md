@@ -2,6 +2,20 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<div align="center">
+  <p>
+      <a href="https://triplebyte.com/a/Yz3KfYg/d">
+        <b>Looking for a job?</b>
+        <br>
+        No resume needed. Just prove you can code.
+        <br>
+        <div>
+          <img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+        </div>
+      </a>
+	</p>
+</div>  
+
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies) 	| [A](#a-companies) 	| [B](#b-companies) 	| [C](#c-companies) 	| [D](#d-companies) 	| [E](#e-companies) 	| [F](#f-companies) 	| [G](#g-companies) 	| [H](#h-companies) 	|

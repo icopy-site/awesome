@@ -212,6 +212,7 @@ nav:
     - Storybook: awesome/awesome-storybook.md
     - Blazor: awesome/awesome-blazor.md
     - Web Performance Metrics: awesome/awesome-web-performance-metrics.md
+    - Tailwind CSS: awesome/awesome-tailwindcss.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -320,6 +321,7 @@ nav:
     - Game Datasets: awesome/game-datasets.md
     - Haxe Game Development: awesome/awesome-haxe-gamedev.md
     - libGDX: awesome/awesome-libgdx.md
+    - PlayCanvas: awesome/awesome-playcanvas.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md

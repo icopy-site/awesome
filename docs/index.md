@@ -238,6 +238,7 @@
 - [Storybook](awesome/awesome-storybook.md) - Development environment for UI components.
 - [Blazor](awesome/awesome-blazor.md) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Web Performance Metrics](awesome/awesome-web-performance-metrics.md) - Metrics to help understand page speed and user experience.
+- [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
 
 
 ## Back-End Development
@@ -361,6 +362,7 @@
 - [Game Datasets](awesome/game-datasets.md) - Materials and datasets for Artificial Intelligence in games.
 - [Haxe Game Development](awesome/awesome-haxe-gamedev.md) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](awesome/awesome-libgdx.md) - Java game framework.
+- [PlayCanvas](awesome/awesome-playcanvas.md) - Game engine.
 
 
 ## Development Environment

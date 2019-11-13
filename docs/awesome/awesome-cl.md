@@ -279,7 +279,8 @@ Proprietary:
 JSON
 ====
 
-* [cl-json](https://github.com/hankhero/cl-json) - A JSON encoder and decoder. [Expat][14].
+* [jonathan](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT][200].
+* [cl-json](https://github.com/hankhero/cl-json) - A highly customizable JSON encoder and decoder. [Expat][14].
 * [jsown](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
 * [json-mop](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT][200].
 
@@ -418,7 +419,7 @@ Intermediate
 ------------
 
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-* [Common Lisp tips](http://lisptips.com/) - A blog with useful tips and tricks.
+* [Common Lisp tips](http://lisptips.com/) - A blog with useful tips and tricks. Continued by the community on [Lisp Tips](https://github.com/lisp-tips/lisp-tips/issues/).
 * [CommonQt tutorial](https://cheryllium.wordpress.com/2014/02/22/commonqt-tutorial-1/) - A nice introduction to CommonQt.
 * [A tutorial for creating and publishing open-source Common Lisp software](https://arxiv.org/abs/1209.5626) - A handy tutorial for using Quicklisp and a bunch of other tools to create and publish a project in Common Lisp.
 
@@ -832,6 +833,7 @@ loading and debugging.  A modified version of GDB is used to debug WCL
 programs, providing support for mixed language debugging.
 * [replic](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT][200].
 * [cl-all](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [Artistic License 2.0][51].
+* [clawk](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 Text Editor Resources
 =====================
