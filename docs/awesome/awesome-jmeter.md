@@ -65,9 +65,20 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *(Russian)*
 
-## DSL
+## Automation
 
-- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+### DSL
+
+- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
+
+### Packages
+
+- [loadtest](https://github.com/tmobile/loadtest) - An R Package for load testing using JMeter.
+
+### Frameworks
+
+- [Lightning](http://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
+- [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 
 ## CI
 
@@ -78,7 +89,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
 - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
-- [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard.
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard. *(deprecated)*
 - [Lightning](http://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 
@@ -86,15 +97,19 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - Jenkins
     - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
-    - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
+    - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
     - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
     - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
     - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
     - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
     - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
+    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
 - Bamboo
-    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
+    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+- TeamCity
+    - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+- CircleCI
+    - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
 - SonarQube
     - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
 
@@ -175,10 +190,14 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ### Streaming Protocols
 
-- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
-- [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
-- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
-- [Load testing HLS with Ruby JMeter](https://smoothscaling.com/load-testing-hls-with-ruby-jmeter-85b9b1e6db72)
+- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+- [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
+- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter/)
+- [Monitoring UX Metrics in HLS Load Testing in JMeter](https://www.blazemeter.com/blog/monitoring-ux-metrics-in-hls-load-testing-in-jmeter/)
+- [How to Load Test RTMPT Live Media Streaming with JMeter](https://www.blazemeter.com/blog/how-load-test-rtmpt-live-media-streaming-jmeter/)
+- [HLS vs. RTMP Live Streaming Load Testing with JMeter](https://www.blazemeter.com/blog/hls-vs-rtmp-live-streaming-load-testing-with-jmeter/)
+- [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter/)
+- HLS JMeter Plugin: [guide v.1](https://www.blazemeter.com/blog/the-new-hls-plugin-for-jmeter-the-complete-guide/), [guide v.2](https://www.blazemeter.com/blog/Introducing-the-HLS-Plugin-2.0/), [sources](https://github.com/Blazemeter/HLSPlugin)
 
 ### Mobile Apps
 

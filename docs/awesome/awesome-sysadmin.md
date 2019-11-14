@@ -29,6 +29,7 @@
 * [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
 * [Gradle](http://gradle.org/) - Another build automation system.
 * [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
+* [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
 ## Backups
 
@@ -36,7 +37,7 @@
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
-* [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
+* [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
 * [Backupninja](https://0xacab.org/riseuplabs/backupninja) - Lightweight, extensible meta-backup system.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 * [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
@@ -62,6 +63,7 @@
 * [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
 * [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
+* [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ## ChatOps
 
@@ -257,7 +259,9 @@
 
 *Domain management.*
 
+* [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
 * [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
+* [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
 ## Editors
 
@@ -307,6 +311,7 @@
 * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 * [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+* [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 
 ## IT Asset Management
 
@@ -456,6 +461,7 @@
   * [MongoDB](https://www.mongodb.org/) - Another document-oriented database system.
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
+  * [eXist-DB] (Https://www.exist-db.org/) - Open Source XML Database
 * Graph
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://neo4j.com/) - Graph database.
@@ -574,6 +580,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
+* [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 * [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
 

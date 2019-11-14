@@ -33,13 +33,6 @@ Awesome online tutorials to help you write your first analyzers and code fixes.
 - [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - Older but still not outdated, very detailed MSDN article on writing code analyzers.
 - [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel to the previous MSDN article. A detailed introduction into code fixes.
 
-## Testing Facility
-Awesome libraries and frameworks that facilitate testing of Roslyn extensions.
-
-- [Microsoft.CodeAnalysis.Testing](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) - A library for testing Analyzers and CodeFixes with NUnit, xUnit and MSTest frameworks.
-- [RoslynTestKit](https://github.com/cezarypiatek/RoslynTestKit) - A lightweight framework for writing unit tests for Roslyn diagnostic analyzers, code fixes, refactorings and completion providers. It's Unit Test framework independent. Built upon [RoslynNUnitLight](https://github.com/DustinCampbell/RoslynNUnitLight)
-
-
 ## Open Source Projects
 Awesome open source projects built on top of Roslyn.
 
@@ -74,6 +67,12 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [SonarC#](https://github.com/SonarSource/sonar-csharp) - Static code analyzer for C# language used as an extension for the SonarQube platform.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - Port of StyleCop rules to Roslyn.
 - [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - Collection of code-quality analyzers. Covers usages of async methods, flags enums, best practices in exception handling as well as many other code-quality checks.
+
+## Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
+Awesome libraries and frameworks for testing analyzers, code fixes, and refactorings.
+
+- [Microsoft.CodeAnalysis.Testing](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) - Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of [Roslyn SDK](https://github.com/dotnet/roslyn-sdk).
+- [RoslynTestKit](https://github.com/cezarypiatek/RoslynTestKit) - Lightweight framework for writing unit tests for analyzers, code fixes, refactorings, and completion providers. It's unit testing framework agnostic.
 
 ## Blog Posts and Articles
 Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.

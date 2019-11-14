@@ -48,6 +48,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - ![GitHub stars](https://img.shields.io/github/stars/shawty/blazor.jwttest?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/shawty/blazor.jwttest?style=flat-square&cacheSeconds=86400) JWT authentication for a Blazor hosted (Client/Server-side) app with API and Authentication.
 * [Blazor.OpenId](https://github.com/jbomhold3/Blazor.Openid) - Easy authentication and client refresh using OpenId.
 * [BlazorAuthenticationSample](https://github.com/christiansparre/BlazorAuthenticationSample) - A sample showing some of the ASP.NET Core Blazor authentication features (also some testing...).
+* [Blazor.Msal](https://github.com/cradle77/Blazor.Msal) - Sample implementation for MSAL in Blazor, it shows how to integrate a Single Page Web Application made in Blazor WebAssembly with Azure Active Directory. It allows to authenticate the user and then acquire an access token to make a secure call to an external API. The code internally uses [MSAL.js](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) to implement the OpenID Connect and OAuth2 flows.
 ### Cloud
 * [BlazorAzure.WebApp](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.WebApp) - Blazor Azure web app.
 * [BlazorAzure.Functions](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.Functions) - Azure function with Blazor.
@@ -258,6 +259,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor Server : Razor Components | Lifecycle Methods](https://www.youtube.com/watch?v=VM4i-_YnGMo) - November 11, 2019 - Lifecycle Methods, Going through the life cycle of page/component in Blazor Apps. [Source code](https://github.com/CuriousDrive/PublicProjects/tree/master/BlazorApp/BlazorApp).
 * [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY&feature=youtu.be) - October 23, 2019 - Recording of the session by Rainer Stropek at the Tech Days Stockholm 2019, "SPA Revolution with WebAssembly and ASP.NET Blazor" ([Event](https://www.tdswe.se/activity/spa-revolution-with-webassembly-and-asp-net-blazor/)). WebAssembly (WASM) is challenging JavaScript’s monopoly in the browser. Many higher-level languages are currently evaluating whether WASM is a way for them to conquer the web client. .NET is spearheading this movement.
 * [Blazor and Customizing the OData entity model](https://channel9.msdn.com/Shows/On-NET/Blazor-and-Customizing-the-OData-entity-model) - October 22, 2019 - Blazor and Customizing the OData entity model, on Channel 9.
 * [OceanNumericInput Component](https://www.youtube.com/watch?v=HHPcjEeSiSc) - October 19, 2019 - Overview about the OceanNumericInput Component usage and why it's needed in Blazor line of business applications. [OceanNumericInput Component source code](https://github.com/OceanLibrary/Ocean/blob/master/Source/Ocean.Blazor/OceanNumericInput.cs). [NuGet package](https://www.nuget.org/packages?q=OCEANWARE).
@@ -321,6 +323,10 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Using IHttpClientFactory with Blazor WebAssembly](https://medium.com/@marcodesanctis2/using-ihttpclientfactory-with-blazor-webassembly-7cc702f5e9f8) - November 13, 2019 - Using IHttpClientFactory with Blazor WebAssembly.
+* [Blazor Write to LocalStorage](https://wellsb.com/csharp/aspnet/blazor-write-to-localstorage/) - November 12, 2019 - Blazor Write to LocalStorage.
+* [What is Blazor? A Tutorial on Building Web Apps with Authentication](https://auth0.com/blog/what-is-blazor-tutorial-on-building-webapp-with-authentication) - November 11, 2019 - Learn how to build client-side Web apps using Blazor and how to secure them with Auth0.
+* [Make Your Blazor Development Faster](https://remibou.github.io/Make-your-Blazor-development-faster/) - November 8, 2019 - How to improve your development experience with Blazor.
 * [Data annotations object graph validation is coming to Blazor](https://gunnarpeipman.com/blazor-data-annotations-object-graph-validation/) - November 6, 2019 - Data annotations object graph validation is coming to Blazor.
 * [Securing your Blazor App with Auth0 (client side)](https://dev.to/henalbrod/securing-your-blazor-app-with-auth0-client-side-2c6) - November 6, 2019 - Securing your Blazor App with Auth0 (client side).
 * [Building a Custom Router for Blazor](https://chrissainty.com/building-a-custom-router-for-blazor/) - November 5, 2019 - Building a Custom Router for Blazor. [Source code](https://github.com/chrissainty/BuildingACustomRouterForBlazor).
