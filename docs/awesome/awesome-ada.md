@@ -142,14 +142,19 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Questions and Answers
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
+- [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
+- [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
+- [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
+- [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
+- [irc-ada](http://webchat.freenode.net/?channels=%23ada) - Ada channel at IRC.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-- [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language.
+- [ada-planet](https://www.laeran.pl/adaplanet/p/i/) - News Aggregator from the Ada programming language world.
 
 #### Competition
 <a href="https://www.makewithada.org/">
@@ -400,6 +405,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) - A 3D engine for DOS-talgics.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
+- [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.

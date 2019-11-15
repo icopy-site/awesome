@@ -234,6 +234,7 @@
 - [Hyperapp](awesome/awesome-hyperapp.md) - Tiny JavaScript library for building web apps.
 - [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+- [WordPress-Gatsby](awesome/awesome-wordpress-gatsby.md) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
 - [Storybook](awesome/awesome-storybook.md) - Development environment for UI components.
 - [Blazor](awesome/awesome-blazor.md) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
