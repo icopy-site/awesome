@@ -157,6 +157,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://twitter.com/draliceboyes).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
+- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://svpg.com/author/marty/).
 
 ## Books
 
@@ -200,6 +201,10 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
+
+## Additional resources
+
+- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
 ## License
 

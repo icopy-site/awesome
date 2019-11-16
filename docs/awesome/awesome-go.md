@@ -206,6 +206,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
 * [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
 * [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
+* [onion](http://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 * [sprbox](https://github.com/oblq/sprbox) - Build-environment aware toolbox factory and agnostic config parser (YAML, TOML, JSON and Environment vars).
 * [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 * [viper](https://github.com/spf13/viper) - Go configuration with fangs.
@@ -533,7 +534,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Embedding other languages inside your go code.*
 
-* [agora](https://github.com/PuerkitoBio/agora) - Dynamically typed, embeddable programming language in Go.
 * [anko](https://github.com/mattn/anko) - Scriptable interpreter written in Go.
 * [binder](https://github.com/alexeyco/binder) - Go to Lua binding library, based on [gopher-lua](https://github.com/yuin/gopher-lua).
 * [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
@@ -598,6 +598,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
 * [go-finance](https://github.com/FlashBoys/go-finance) - Comprehensive financial markets data in Go.
 * [go-finance](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
+* [go-finance](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
 * [go-money](https://github.com/rhymond/go-money) - Implementation of Fowler's Money pattern.
 * [ofxgo](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
 * [orderbook](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
@@ -702,6 +703,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-flow](https://github.com/kamildrazkiewicz/go-flow) - Control goroutines execution order.
 * [go-tools/multithreading](https://github.com/nikhilsaraf/go-tools) - Manage a pool of goroutines using this lightweight library with a simple API.
 * [go-trylock](https://github.com/subchen/go-trylock) - TryLock support on read-write lock for Golang.
+* [go-waitgroup](https://github.com/pieterclaerhout/go-waitgroup) - Like `sync.WaitGroup` with error handling and concurrency control.
 * [gohive](https://github.com/loveleshsharma/gohive) - A highly performant and easy to use Goroutine pool for Go.
 * [gollback](https://github.com/vardius/gollback) - asynchronous simple function utilities, for managing execution of closures and callbacks.
 * [GoSlaves](https://github.com/themester/GoSlaves) - Simple and Asynchronous Goroutine pool library.

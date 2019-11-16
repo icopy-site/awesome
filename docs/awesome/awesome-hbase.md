@@ -89,7 +89,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations
 
-* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector.
+* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
 * [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
 * [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 * [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading.
@@ -100,7 +100,7 @@ A curated list of awesome HBase projects and resources.
 * [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) - Flink-HBase connector.
 * [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase.
 * [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase.
-* [HAWQ](http://pivotalhd-210.docs.pivotal.io/tutorial/getting-started/hawq/pxf-hbase-external-tables.html) - HAWQ PXF external tables on HBase.
+* [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) - HAWQ PXF external tables on HBase.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
