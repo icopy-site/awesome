@@ -122,6 +122,7 @@
 	- [Scientific Audio](awesome/awesome-python-scientific-audio.md) - Scientific research in audio/music.
 	- [CircuitPython](awesome/awesome-circuitpython.md) - A version of Python for microcontrollers.
 	- [Data Science](awesome/awesome-python-data-science.md) - Data analysis and machine learning.
+	- [Typing](awesome/awesome-python-typing.md) - Optional static typing for Python.
 - [Rust](awesome/awesome-rust.md)
 - [Haskell](awesome/awesome-haskell.md)
 - [PureScript](awesome/awesome-purescript.md)
@@ -309,6 +310,7 @@
 - [Data Engineering](awesome/awesome-data-engineering.md)
 - [Streaming](awesome/awesome-streaming.md)
 - [Apache Spark](awesome/awesome-spark.md) - Unified engine for large-scale data processing.
+- [Qlik](awesome/awesome-qlik.md) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 
 ## Theory
@@ -528,6 +530,7 @@
 ## Higher Education
 
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
 
 
 ## Miscellaneous
@@ -605,6 +608,7 @@
 - [Framer](awesome/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown](awesome/awesome-markdown.md) - Markup language.
 - [Dev Fun](awesome/awesome-dev-fun.md) - Funny developer projects.
+- [Events in Italy](awesome/awesome-italy-events.md) - Tech-related events in Italy.
 - [Events in the Netherlands](awesome/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 - [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
@@ -654,10 +658,3 @@
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.

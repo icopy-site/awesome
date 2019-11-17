@@ -593,6 +593,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### VS Code addons
 
 - [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember.js template files AND syntax highlighting for inline template definitions with tagged templates!
+- [Glimmer Templates Syntax for VS Code](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax) - Glimmer syntax highlighting for Ember.js.
 - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects.
 - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features).
 - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VSCode extension that colorizes/tokeninzes Ember.js .hbs, Controllers, and Routes files.
@@ -1049,6 +1050,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember.js Twiddle for multiples files which lets you save your work in GitHub.
 - [Ember @ Glitch](https://ember.glitch.me/) - Glitch.me with Ember.js.
 - [Ember @ CodeSandbox](https://codesandbox.io/s/github/mike-north/ember-new-output) - CodeSandbox with Ember.js.
+- [Ember Octane @ CodeSandbox](https://codesandbox.io/s/octane-starter-li841) - Ember Octane CodeSandbox template.
 
 ### Screencasts
 

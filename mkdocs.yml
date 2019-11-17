@@ -93,6 +93,7 @@ nav:
       - Scientific Audio: awesome/awesome-python-scientific-audio.md
       - CircuitPython: awesome/awesome-circuitpython.md
       - Data Science: awesome/awesome-python-data-science.md
+      - Typing: awesome/awesome-python-typing.md
     - Rust: awesome/awesome-rust.md
     - Haskell: awesome/awesome-haskell.md
     - PureScript: awesome/awesome-purescript.md
@@ -280,6 +281,7 @@ nav:
     - Data Engineering: awesome/awesome-data-engineering.md
     - Streaming: awesome/awesome-streaming.md
     - Apache Spark: awesome/awesome-spark.md
+    - Qlik: awesome/awesome-qlik.md
   - Theory:
     - Papers We Love: awesome/papers-we-love.md
     - Talks: awesome/awesome-talks.md
@@ -448,6 +450,7 @@ nav:
     - EOSIO: awesome/awesome-eosio.md
   - Higher Education:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
+    - Digital History: awesome/awesome-digital-history.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -524,6 +527,7 @@ nav:
     - Framer: awesome/awesome-framer.md
     - Markdown: awesome/awesome-markdown.md
     - Dev Fun: awesome/awesome-dev-fun.md
+    - Events in Italy: awesome/awesome-italy-events.md
     - Events in the Netherlands: awesome/awesome-netherlands-events.md
     - Healthcare: awesome/awesome-healthcare.md
     - Magento 2: awesome/awesome-magento2.md

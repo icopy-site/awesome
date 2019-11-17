@@ -53,6 +53,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - Research related to understand and improving the usability of privacy and security.
 * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
 * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
+* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
   
 ## Solutions providers
 * [OneTrust](https://www.onetrust.com/)
