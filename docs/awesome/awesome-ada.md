@@ -33,9 +33,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 4. [Compilers](#Compilers)   
 	1. [Local](#Local)   
 	2. [Online](#Online)   
-5. [Edit](#Edit)   
-	1. [Integrated Development Editors](#Integrated-Development-Editor) 
-	3. [Text Modes](#Text-Modes)    
+5. [Editors](#Editors)   
+	1. [Integrated Development Editors](#Integrated-Development-Editor)   
+	2. [Text Modes](#Text-Modes)    
 6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
@@ -193,6 +193,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
+
+#### VSCode Extensions
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) - Ada language support for VS Code.
+- [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
+- [ada-utilities](https://github.com/Lucretia/ada-utilities)- VSCode extension Ada programmers which provides a few utility functions.
 
 ## Deployment
 

@@ -229,6 +229,7 @@
 * [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 * [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn.
+* [Neptune](https://neptune.ml) - A lightweight ML experiment tracking, results visualization and management tool.
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.

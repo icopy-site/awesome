@@ -30,6 +30,7 @@ nav:
     - Linux_sub: 
       - Containers: awesome/awesome-linux-containers.md
       - eBPF: awesome/awesome-ebpf.md
+      - Arch-based Projects: awesome/Awesome-Arch.md
     - macOS: awesome/awesome-macOS.md
     - macOS_sub: 
       - Command-Line: awesome/awesome-macos-command-line.md
