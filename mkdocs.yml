@@ -582,8 +582,8 @@ theme:
     - 404.html
   language: 'en'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'white'
+    accent: 'blue'
   logo:
     icon: 'school'
   font:
