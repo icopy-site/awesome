@@ -1,7 +1,7 @@
 
 ## awesome list collection [asmen.icopy.site](https://asmen.icopy.site)
 
-[![Build Status](https://travis-ci.org/icopy-site/asm-en.svg?branch=master)](https://travis-ci.org/icopy-site/awesome)
+[![Build Status](https://travis-ci.org/icopy-site/awesome.svg?branch=master)](https://travis-ci.org/icopy-site/awesome)
 
 grab awesome list from github
 
