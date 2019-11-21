@@ -23,7 +23,7 @@ A **Static Site Generator (SSG)** is a framework or setup, that helps you to gen
 
 **Why Gatsby and WordPress?**
 
-WordPress is one of the **most used CMS in the world** and therefore many people already know how to work with it. The typical front-end approach with PHP-based templates is getting more and more problematic in an environment where performance is key. The approach to use WordPress as a headless CMS with normal API calls through JavaScript already exists, but also has the downside of having to make requests to the server and rendering depending on the response. This adds time to load. **Gatsby instead, pre-renders the whole site at compile time** and therefore the user gets a **fully prepared static site on his first request**, making it one of the **best approaches for performance**. Another huge benefit is **security**, as your WordPress instance can be anywhere, even locally and you don't need to expose any of it to the user. **The static Gatsby site therefore, is not hackable.** Find further arguments for pros and cons in the resources below.
+WordPress is one of the **most used CMS in the world** and therefore many people already know how to work with it. The typical front-end approach with PHP-based templates is getting more and more problematic in an environment where performance is key. The approach to use WordPress as a headless CMS with normal API calls through JavaScript already exists, but also has the downside of having to make requests to the server and rendering depending on the response. This adds time to load. **Gatsby instead, pre-renders the whole site at compile time** and therefore the user gets a **fully prepared static site on their first request**, making it one of the **best approaches for performance**. Another huge benefit is **security**, as your WordPress instance can be anywhere, even locally and you don't need to expose any of it to the user. **The static Gatsby site therefore, is not hackable.** Find further arguments for pros and cons in the resources below.
 
 <!-- TOC -->
 <!-- /TOC -->
@@ -55,14 +55,19 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 ### WordPress
 
-- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/)
-- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf)
-- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql)
-- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang)
-- [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg)
-- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf)
-- [WP API Menus](https://wordpress.org/plugins/wp-api-menus/)
-- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments)
+- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema.
+- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin.
+- [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Exposes Gutenberg blocks to the WPGraphQL API.
+- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL
+- [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) - Adds Meta_Query support to the WPGraphQL Plugin for postObject query args.
+- [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) - Adds Tax_Query support to the WPGraphQL Plugin for postObject query args (WP_Query).
+- [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
+- [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
+- [QL Search](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL.
+- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) - Extends the WordPress dashboard with a GraphiQL IDE.
+- [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends the WordPress JSON REST API with new routes for WordPress registered menus.
+- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 
 
 **The obvious, that goes along with some of the plugins above:**

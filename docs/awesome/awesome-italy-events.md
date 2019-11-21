@@ -157,6 +157,7 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 - 10 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-whats-new-in-net-ecosystem-70140288491) - Torino - Local .Net Conf 2019 event.
 - 13 - [World Usability Day 2019](https://www.wudmilan.it) - Milano - "Design for the Future We Want".
 - 15 - [PyRoma Meetup November 2019](https://roma.python.it/) - Roma - Python User Group of Rome.
+- 16 - [Visual Studio Saturday](https://sessionize.com/vssatpn19) - Pordenone - .Net and Visual Studio ecosystem conference.
 - 16 - [Django Girls Rome](https://djangogirls.org/rome/) - Roma - "Free programming workshop for women".
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) - Milano - Agile communication.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) - Milano - Everything about WordPress.
@@ -173,6 +174,3 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 
 ## License
 [![CC-BY-SA-4.0](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-
-To the extent possible under law, [ildoc](https://twitter.com/ildoc) has waived all copyright and related or neighboring rights to this work.
