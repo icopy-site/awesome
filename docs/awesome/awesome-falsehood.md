@@ -59,10 +59,6 @@ localization.
 - [Falsehoods About
 IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -
 International Bank Account Numbers are not immune to mistakes.
-- [Falsehoods About Job
-Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
-Assumptions about job applicants and their job histories aren’t necessarily
-true.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
@@ -118,6 +114,12 @@ String formatting of date is hard.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "Just store dates in UTC" is not always the right approach..
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - Mind the leap second!
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous StackOverflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software. 
+
+
+## Education
+
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
+
 
 ## Emails
 
@@ -191,6 +193,14 @@ A video about things you need to keep in mind when internationalizing your
 code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard.
+
+
+## Management
+
+- [Falsehoods About Job
+Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
+Assumptions about job applicants and their job histories aren’t necessarily
+true.
 
 
 ## Multimedia
@@ -313,7 +323,7 @@ Why search (including analysis, tokenization, highlighting) is deceptively
 complex.
 - [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named falsehoods about in usernames (and other identifiers).
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - There are a few things about /dev/urandom and /dev/random that are repeated again and again. Still they are false.
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
+- [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 
 
 ## Typography
