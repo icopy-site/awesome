@@ -141,6 +141,7 @@ nav:
     - Ada/SPARK: awesome/awesome-ada.md
     - Q#: awesome/awesome-qsharp.md
     - Imba: awesome/awesome-imba.md
+    - Vala: awesome/awesome-vala.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -428,6 +429,7 @@ nav:
     - Indie: awesome/awesome-indie.md
     - Tools of the Trade: awesome/ToolsOfTheTrade.md
     - Clean Tech: awesome/awesome-clean-tech.md
+    - Wardley Maps: awesome/awesome-wardley-maps.md
   - Work:
     - Slack: awesome/awesome-slack.md
     - Slack_sub: 
@@ -572,6 +574,7 @@ nav:
     - Cytodata: awesome/awesome-cytodata.md
     - IRC: awesome/awesome-irc.md
     - Advertising: awesome/awesome-ads.md
+    - Earth: awesome/awesome-earth.md
 
 
 # Theme

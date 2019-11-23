@@ -9,15 +9,25 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://segment.com">
-			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="160" alt="Segment">
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="180" alt="Botpress">
 		</a>
-	</p>
-	<p>
+		<br>
+		<p>
+			<sup>
+				and
+			</sup>
+		</p>
+		<a href="https://segment.com">
+			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="180" alt="Segment">
+		</a>
+		<br>
 		<sup>
 			Save time setting up analytics with Segment. <a href="https://segment.com/jobs">We're hiring!</a>
 		</sup>
 	</p>
+	<br>
+	<br>
 	<br>
 	<br>
 	<a href="https://awesome.re">

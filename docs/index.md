@@ -5,17 +5,19 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>Looking for a job?</b>
-			<br>
-			No resume needed. Just prove you can code.
-			<br>
-			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-			</div>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+			</sup>
+		</p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
 		</a>
-		<sub><i>Clicking this helps fund the Awesome project</i></sub>
 	</p>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -44,6 +46,26 @@
 
 
 
+
+
+---
+
+<div align="center">
+	<p>
+		<a href="https://triplebyte.com/a/aZxgKGg/d">
+			<b>Looking for a job?</b>
+			<br>
+			No resume needed. Just prove you can code.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub><i>Clicking this helps fund the Awesome project</i></sub>
+	</p>
+</div>
+
+---
 
 
 ## Platforms
@@ -167,6 +189,7 @@
 - [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](awesome/awesome-qsharp.md) - Domain-specific programming language used for expressing quantum algorithms.
 - [Imba](awesome/awesome-imba.md) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+- [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 
 ## Front-End Development
@@ -497,6 +520,7 @@
 - [Indie](awesome/awesome-indie.md) - Independent developer businesses.
 - [Tools of the Trade](awesome/ToolsOfTheTrade.md) - Tools used by companies on Hacker News.
 - [Clean Tech](awesome/awesome-clean-tech.md) - Fighting climate change with technology.
+- [Wardley Maps](awesome/awesome-wardley-maps.md) - Provides high situational awareness to help improve strategic planning and decision making.
 
 
 ## Work
@@ -653,6 +677,7 @@
 - [Cytodata](awesome/awesome-cytodata.md) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](awesome/awesome-irc.md) - Open source messaging protocol.
 - [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
+- [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 
 
 ## Related
