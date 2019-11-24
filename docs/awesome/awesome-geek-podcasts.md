@@ -5,7 +5,7 @@ title: Awesome Geek Podcasts
 permalink: /
 ---
 
-## Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://github.com/ayr-ton/awesome-geek-podcasts/workflows/Awesome%20Bot/badge.svg)](https://github.com/ayr-ton/awesome-geek-podcasts/actions)
 
 A curated list of podcasts we like to listen to.
 
@@ -210,6 +210,7 @@ A curated list of podcasts we like to listen to.
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
 * [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) - Internet, memes, games, atualidades e quando dá - tecnologia.
+* [Mamilos](https://www.b9.com.br/shows/mamilos/) - Jornalismo de peito aberto
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
