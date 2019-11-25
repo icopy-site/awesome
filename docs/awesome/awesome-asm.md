@@ -21,6 +21,7 @@ Assembler List
 | *FLASM*                            | http://www.nowrap.de/flasm                                   | Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier. |
 | *XEDParse*                         | https://github.com/x64dbg/XEDParse                           | XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions. |
 | *HLA*                              | http://www.plantation-productions.com/Webster/HighLevelAsm/index.html | High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. |
+| *JWasm*                              | http://jwasm.info/ | JWasm is a free MASM-compatible assembler. |
 
 Disassembler & Debuggers
 ----------
