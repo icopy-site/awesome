@@ -25,7 +25,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool.
 * [Chartbeat](https://chartbeat.com/) - beautiful, real-time app analytics tool for web apps.
 * [Gauges](http://get.gaug.es/) - real-time web analytics tool.
-* [Indicative](https://www.indicative.com/) - Web & mobile  analytics tool.
+* [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - open source web app analytics tool.
 * [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available.
 * [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
@@ -60,6 +60,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Popcorn Metrics](http://www.popcornmetrics.com/) - visual editor to capture events and send to other platforms.
 * [Segment](https://segment.com/) - helps you integrate multiple app analytics tool with one piece of code.
 * [Iteratively](https://iterative.ly/) - capture clean product analytics consistently across teams & platforms.
+* [Analytics npm package](https://getanalytics.io/) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users. Works in browsers & node.js.
 
 ## Mobile analytics
 
@@ -127,6 +128,7 @@ Often there is no clear differentiation between social media management and anal
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients.
 * [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution
+* [Metabase] (https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 ## Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
