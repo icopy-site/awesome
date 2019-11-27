@@ -147,17 +147,25 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
 
+#### [Wes Bos](https://wesbos.com/courses/)
+**Mixed** guided video courses to build products using new technologies\
+*(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
+ 
 ## Advanced
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 **Free** courses from MIT on advanced computer science topics\
 *(varied and extensive computer science topics, C, C++, ..)*
 
-#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
-**Free** platform for courses from the top universities and organizations worldwide\
+#### [EDX](https://www.edx.org/course/subject/computer-science)
+**Free** courses from Harvard, MIT, and other universities\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
+**Free** platform for courses from universities and organizations worldwide\
+*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
+
+#### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*
 

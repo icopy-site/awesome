@@ -678,6 +678,8 @@
 - [IRC](awesome/awesome-irc.md) - Open source messaging protocol.
 - [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
+- [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
+- [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 
 
 ## Related

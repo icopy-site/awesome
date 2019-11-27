@@ -337,6 +337,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Helpers
 
+- [ember-element-helper](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.js.
 - [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js.
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.

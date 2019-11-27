@@ -278,7 +278,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Actian SQL for Hadoop](http://www.actian.com/analytic-database/vectorh-sql-hadoop) - high performance interactive SQL access to all Hadoop data.
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
-* [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/Index) - table and storage management layer for Hadoop.
+* [Apache HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
@@ -381,6 +381,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 * [MOA](http://moa.cms.waikato.ac.nz) - MOA performs big data stream mining in real time, and large scale machine learning.
 * [MonkeyLearn](https://monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java. 
@@ -454,6 +455,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
+* [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 * [Jupyter](https://jupyter.org/) - Notebook and project application for interactive data science and scientific computing across all programming languages.
 * [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
 * [Kapacitor](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
@@ -489,6 +491,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MG4J](http://mg4j.di.unimi.it/) - MG4J (Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
 * [Sphinx Search Server](http://sphinxsearch.com/) - fulltext search engine.
 * [Vespa](http://vespa.ai/) - is an engine for low-latency computation over large data sets. It stores and indexes your data such that queries, selection and processing over the data can be performed at serving time.
+* [Facebook Faiss](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
+* [Annoy](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
 ## MySQL forks and evolutions
 
@@ -540,6 +544,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](https://www.jedox.com/en/) - customisable Business Intelligence platform.
 * [Jethrodata](https://jethro.io/) - Interactive Big Data Analytics.
+* [intermix.io](https://intermix.io/) - Performance Monitoring for Amazon Redshift
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](https://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
@@ -548,7 +553,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Qlik](http://www.qlik.com/us/) - business intelligence and analytics platform.
 * [Redash](https://redash.io/) - Open source business intelligence platform, supporting multiple data sources and planned queries.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
-* [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
+* [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
@@ -661,6 +666,7 @@ for Data Analytics at Twitter.
 ## Videos
 
 * [Spark in Motion](https://www.manning.com/livevideo/spark-in-motion) - Spark in Motion teaches you how to use Spark for batch and streaming data analytics.
+* [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo tutorial that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
 ## Books
 

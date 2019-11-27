@@ -38,6 +38,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xiki](http://xiki.org) - Makes the shell console more friendly and powerful
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
+* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](http://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -70,6 +71,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 * [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+* [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
@@ -77,6 +79,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [goto](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 * [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [how2](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
@@ -236,6 +239,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 * [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
 * [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
@@ -248,7 +252,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sejda](https://github.com/torakiki/sejda/) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
 * [xidel](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
-* [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## Applications
 
