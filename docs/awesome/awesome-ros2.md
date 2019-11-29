@@ -341,8 +341,10 @@ DDS Security.
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
+- [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
+- [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
 - [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS2 for VxWorks.
 
 ## Working Groups

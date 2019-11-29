@@ -75,7 +75,7 @@ _Projects released with an open source license._
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
-- [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
+- [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
@@ -104,6 +104,7 @@ _Libraries and frameworks._
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
+- [stdlib](https://www.patreon.com/athan) - Standard library for JavaScript and Node.js with an emphasis on scientific computing.
 - [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) - Server-side Swift framework.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
@@ -166,7 +167,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Felipe Lima](https://github.com/sponsors/felipecsl) - Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.
-- [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
+- [Feross Aboukhadijeh](https://github.com/sponsors/feross) - WebTorrent, StandardJS, and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
 - [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) - Raneto, Vue.js libraries and more.
