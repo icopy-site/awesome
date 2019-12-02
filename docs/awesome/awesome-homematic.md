@@ -65,7 +65,6 @@
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
 * [CUxD](https://www.homematic-inside.de/software/tag/Zusatzsoftware ) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
-* [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualisiert CUxD Logs mit Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
 * [hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
 * [hm-tools](https://github.com/fhetty/hm-tools) - Sammlung von Tools für RaspberryMatic.
@@ -78,14 +77,12 @@
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 * [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
-* [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI für die Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Vereinfachter CCU Zugriff via HTTP/XML.
 
 
 ## Interfacing Software
 
 * [CCU-Jack](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff .
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Homematic plugin for [homebridge](https://homebridge.io), a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
@@ -95,7 +92,6 @@
 * [check_homematic](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU.
 * [hm-simulator](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) - Utilities to use the HM-CFG-USB(2) on Linux/Unix.
-* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
 * [language-homematic](https://github.com/Ayngush/language-homematic) - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
 * [occu-test](https://github.com/hobbyquaker/occu-test) - Automated System Tests of ReGaHss - the HomeMatic (O)CCU "Logic Layer".

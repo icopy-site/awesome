@@ -382,6 +382,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
+* [ElmahCore](https://github.com/ElmahCore/ElmahCore) - Error logging library that includes features like error filtering and the ability to view the error log from a web page.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 * [Karambolo.Extensions.Logging.File](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
@@ -460,6 +461,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NFlags](https://github.com/bartoszgolek/NFlags) - Simple library to made parsing CLI arguments easy. Library also allow to print usage help "out of box".
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
 * [NuGet Trends](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
+* [NYoutubeDL](https://gitlab.com/BrianAllred/NYoutubeDL) - A simple youtube-dl library for C#/.NET.
 * [Otp.NET](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 * [pose](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
 * [PuppeteerSharp](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
@@ -696,6 +698,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [ShareX](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
 * [SharpLab](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. [https://sharplab.io](https://sharplab.io)
 * [sourcelink](https://github.com/dotnet/sourcelink) - SourceLink is a language- and source-control agnostic system for providing first-class source debugging experiences for binaries.
+* [System.CommandLine](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])

@@ -14,6 +14,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A collection of the best lesser known eslint plugins to use alongside your main configuration.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
@@ -52,6 +53,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
+- [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
 
 ### Misc
 
@@ -61,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
+- [es](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
