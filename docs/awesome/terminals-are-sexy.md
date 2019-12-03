@@ -90,7 +90,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy 3rd party terminal emulation applications.*
 
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-* [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
 * [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
@@ -218,6 +217,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 * [neofetch](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
 * [nnn](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 * [ranger](https://ranger.github.io/) - Console file manager with vi key bindings.
