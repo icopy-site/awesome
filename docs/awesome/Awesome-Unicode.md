@@ -12,6 +12,8 @@
 *Please read the [contribution guidelines](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) before contributing.*
 *Key Unicode terminology is defined in the [glossary](https://github.com/Wisdom/Awesome-Unicode/blob/master/GLOSSARY.md).*
 
+*Cross posted to [Wisdom's Dev Blog](https://wisdom.engineering/awesome-unicode/)*
+
 <br><br>
 
 ## Foreword
