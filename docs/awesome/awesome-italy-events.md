@@ -11,7 +11,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Available data format: [json](https://github.com/ildoc/awesome-italy-events/blob/master/data/2019.json) - [ics](https://github.com/ildoc/awesome-italy-events/blob/master/data/2019.ics)
 
-Past Editions: 2019
+Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/README.md) [2020](https://github.com/ildoc/awesome-italy-events/blob/master/2020.md)
 
 ---
 
@@ -173,8 +173,10 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - Firenze - Python User Group of Firenze.
 - 5 - [HackNight 2019](https://www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80833720835) - Roma - Networking at the intersection between AI and Design.
 - 6 - [Firenze Blockchain day](https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733) - Firenze - Blockchain Economy, today.
+- 10 - [Torino Hacknight](http://torino.hacknight.it/) - Torino - Open source hackaton about OpenStreeMap and HOT (Humanitarian Openstreetmap Team).
 - 12 - [Cyber Warfare Conference](https://www.eucacs.org/en/) - Milano - Evolution and new frontiers of warfare (Information, Cyber and Hybrid).
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
+- 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-torino) - Torino - Artificial intelligence on Microsoft Azure.
 - 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-caserta) - Caserta - Artificial intelligence on Microsoft Azure.
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.
 - 17 - [AWSome Day](https://pages.awscloud.com/EMEA_field_T1_awsome-day-bolzano_20191712_page-registration.html) - Bolzano - AWS beginner training day.
