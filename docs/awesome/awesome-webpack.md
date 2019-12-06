@@ -116,7 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Utility
 
 - [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- *Maintainer*: `Babel Team` [![Github][githubicon]](https://github.com/babel) [![Twitter][twittericon]](https://twitter.com/babel)
-- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack. -- *Maintainer*: `Maxime Thirouin` [![Github][githubicon]](https://github.com/MoOx) [![Twitter][twittericon]](https://twitter.com/MoOx)
+- [ESLint Loader](https://github.com/webpack/eslint-loader): A ESlint loader for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [JSCS Loader](https://github.com/unindented/jscs-loader): Run your source through the JSCS style checker. -- *Maintainer*: `Daniel Perez Alvarez` [![Github][githubicon]](https://github.com/unindented)
 - [Bundle Loader](https://github.com/webpack/bundle-loader): Bundle loader for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
@@ -191,6 +191,8 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - run any shell commands before or after webpack builds -- *Maintainer*: `David Kwon` [![Github][githubicon]](https://github.com/tienne)
 - [Dynamic Vendor Webpack Plugin](https://github.com/bios21/dynamic-vendor-webpack-plugin) - Gives you a way to import vendors with dynamic variable and specific code splitting. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
 - [Define Variable Webpack Plugin](https://github.com/bios21/define-variable-webpack-plugin) - Enhancement of DefinePlugin to store defined things in actual variables. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
+- [Shell Script Webpack Plugin](https://github.com/drewloomer/hook-shell-script-webpack-plugin) - A plugin for running arbitrary shell scripts when [compiler hooks](https://webpack.js.org/api/compiler-hooks/) are triggered. -- *Maintainer* `Drew Loomer` [![Github][githubicon]](https://github.com/drewloomer) [![Twitter][twittericon]](https://twitter.com/drewloomer)
+- [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 
 
 ### Webpack Tools
@@ -210,7 +212,6 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - Measures the speed of your webpack plugins and loaders.  -- *Maintainer*: `Stephen Cook` [![Github][githubicon]](https://github.com/stephencookdev)
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - Webpack bundle analysis on every commit, report webpack stats to every pull request.
 - [BundleStats](https://github.com/bundle-stats/bundle-stats) - Generates bundle report(sizes, assets, modules) and compares the results between different builds. -- *Maintainer*: `Vio` [![Github][githubicon]](https://github.com/vio) [![Twitter][twittericon]](https://twitter.com/vio)
-
 
 
 ## Research & Training

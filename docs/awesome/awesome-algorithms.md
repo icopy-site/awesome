@@ -55,6 +55,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
+* [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
@@ -149,11 +150,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CodeMarshal](https://algo.codemarshal.org/) - Real world contests online!
 * [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
-* [Firecode](https://www.firecode.io/)- Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
+* [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
+* [Coding Blocks](https://hack.codingblocks.com/app/) - Website that have problems based on Maths, Data Structures, Various Algorithm and also conducts Coding Competition.
 * [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
 * [HiHoCoder](http://hihocoder.com/) - Chinese and English problem solving practice and recruitment challenge site.
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
+* [Interviewbit](https://www.interviewbit.com/) - Learn, practice and prepare for interviews.
 * [Kattis](https://open.kattis.com/)- Online judge and problem archive
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
@@ -168,6 +171,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
 
+## Blogs
+
+*Awesome list of blogs, mainly for competitive programming but you can refer to these when learning a new topic/algorithm*
+
+* [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
+* [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
+* [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Really informative blog for starting with the sport of programming.
+* [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
