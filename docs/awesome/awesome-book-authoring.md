@@ -52,6 +52,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Misc.
 
 - [Scott Meyers on Advance Sales, and How They Are Impacted by The Delivery Schedule](http://www.aristeia.com/authorAdvice.html#schedule)
+- [Ask HN: Considerations when asked to write a book?](https://news.ycombinator.com/item?id=12118554) - A discussion on Hacker News where many authors discuss their experience.
 
 ## List of Publishers
 
