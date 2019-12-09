@@ -88,6 +88,7 @@
 - [Dhamma Vihara](http://www.dhammavihara.org/) - Veracruz, Mexico - Facilitates group and individual meditation retreats.
 - [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 - [Mosteiro Suddhavāri](https://suddhavari.org/) - São Lourenço, Minas Gerais, Brazil - Forest Tradition monastery with Ajahn Mudito as its resident monastic.
+- [Sitavana](https://birken.ca/) - Forest Monastary, Kamloops, British Columbia - Forest Tradition monastery with Ajahn Sona as abbot.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
