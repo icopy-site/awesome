@@ -130,9 +130,11 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 >
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2015) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2019) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
 
-A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+
+The books are real page turners with its mix of high politics, space battles, ancient mysteries, day-to-day grit and cultural differences, and the world Expanse starts out with really changes over the course of the books. You may find book four (Cibola Burn) a bit slow, but keep at it, subsequent books really pay dividends. - [@nahkampf](https://github.com/nahkampf)
 
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
@@ -452,6 +454,16 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 
+#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) *by [Stephen Baxter](https://en.wikipedia.org/wiki/Stephen_Baxter_(author))* [3.8 avg]
+
+Stephen Baxter explores the Fermi Paradox in different ways over the course of three books (and a collection of novellas), in a gloriously hard scifi style. It is very thought provoking, and also utterly brutal and bleak. Space and time is cold and uncaring.  - [@nahkampf](https://github.com/nahkampf)
+
+> Each one of the main novels deals with a possible resolution to the Fermi paradox. The first, Time, is set in a universe that is completely devoid of intelligent life beyond that of mankind and its creations (i.e. A.I. and uplifted animals).
+>
+> The second in the series, Space, proposes the opposite: that life is endemic to the universe, and there is intelligence in nearly all possible places of the cosmos. The solution to the Fermi Paradox in this novel is that intelligent life is continually wiped out by cosmic disasters before it has time to spread too far.
+>
+> The third novel, Origin, is set in a multiverse that is a compromise between the ideals in the first two novels: that life is only on Earth, but at the same time is everywhere. This novel solves the Fermi Paradox by suggesting that intelligent life is segregated into separate parallel universes. 
+
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]
 
 Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle)
@@ -557,6 +569,24 @@ This book had me looking up more words than any book had me do for a long time. 
 This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people “jaunte” a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men—and where an inarticulate outcast is the most valuable and dangerous man alive. _The Stars My Destination_ is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
+
+#### [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air) (2018) *by [Richard K. Morgan](https://en.wikipedia.org/wiki/Richard_K._Morgan)* [4.0]
+
+Modernized cyberpunk with the noir grit dialled up to eleven. - [@nahkampf](https://github.com/nahkampf)
+
+> An ex-corporate enforcer, Hakan Veil, is forced to bodyguard Madison Madekwe, part of a colonial audit team investigating a disappeared lottery winner on Mars. But when Madekwe is abducted, and Hakan nearly killed, the investigation takes him farther and deeper than he had ever expected. And soon Hakan discovers the heavy price he may have to pay to learn the truth.
+
+#### [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) (2017) *by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)* [3.7]
+
+Idea-driven scifi about a tech-savvy movement of "walkways", disenchanted people walking away from an increasingly oppressive capitalist society and creating their own ad-hoc societies. Doctorow manages to combine cyberpunk "high tech, low life" with a bit of utopian science fiction which feels very refreshing. - [nahkampf](https://github.com/nahkampf)
+
+> In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
+>
+> With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+>
+> As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
+>
+> One thing that the elite are especially interested in is scientific research that the walkaways are carrying out which could finally put an end to death – and all this leads to revolution and eventual war.
 
 #### [Ware](https://www.goodreads.com/series/41816-ware) (1982-2000) *by [Rudy Rucker](https://en.wikipedia.org/wiki/Rudy_Rucker)* [3.7]
 
@@ -756,6 +786,11 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > The trilogy is set in a universe with a wealth of worlds and artificial orbiting colonies. The plot is centered on the souls of the dead coming back from a hellish “beyond” to possess the living, and the latter fighting back. It was followed by a companion to the series, _The Confederation Handbook_, an informational book containing data about the universe of the _Night’s Dawn_ trilogy. Hamilton re-set several earlier short stories in the Confederation timeline, published as the collection _A Second Chance at Eden_, including the newly written title novella.
 
+#### [Revelation Space](https://www.goodreads.com/series/56392-revelation-space) (2000-2018) *by [https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.0 avg]
+
+Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisting of the three "main" books (forming the "Inhibitor Trilogy") and a few other books and novellas set in the same universe. Revelation Space is page-turning "hard space opera" - believable but fantastic, and delightfully bizarre at times. - [@nahkampf](https://github.com/nahkampf)
+
+> Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him. Because the Amarantin were destroyed for a reason — and if that reason is uncovered, the universe—and reality itself — could be irrecoverably altered...
 
 ### Post Apocalyptic
 

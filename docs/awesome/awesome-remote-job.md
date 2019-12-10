@@ -156,7 +156,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-  1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
@@ -487,6 +486,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
  1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Yonder](http://www.yonder.io/events/) - A round table conference bringing together leaders of distributed companies.
  1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America.
+ 1. [Git Commit Show](http://gitcommit.show) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
 ## Tools
 
