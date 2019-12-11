@@ -45,7 +45,6 @@
 
 - [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
 - [VictiScout](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
-- [Scoutomic](https://github.com/Scoutomic/Scoutomic-Client) - A user interface for scouting.
 
 ## Driving
 
@@ -58,19 +57,20 @@
 - [/r/FRC](https://www.reddit.com/r/FRC/) - The one and only FRC subreddit.
 - [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php) - The essential forum for all things FRC.
 - [Discord Server](http://discord.gg/frc) - Chat community for robotics advice and socialization with other FRC students, mentors, and alumni. The absolute best place to go for FRC discussion.
-- [Discord Server List](https://docs.google.com/spreadsheets/d/1rm6C_hHhPmiIBZxrQT-xGag2Kv9RTpEdENYSKNYB7iI/edit#gid=1112789586) List of unofficial regional, organizational, and community servers for FRC.
+- [Discord Server List](https://docs.google.com/spreadsheets/d/1rm6C_hHhPmiIBZxrQT-xGag2Kv9RTpEdENYSKNYB7iI/edit#gid=1112789586) - List of unofficial regional, organizational, and community servers for FRC.
 
 ## Repositories
 
-### Java
+### Java/Kotlin
 
 - [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
 - [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
 - [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams.
-- [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
+- [Sertain](https://github.com/SouthEugeneRoboticsTeam/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
 - [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST.
-- [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - An library for programming robots in Kotlin, made by Team 5190.
+- [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
 - [SnobotSim](https://github.com/snobotsim/SnobotSim) - A program that can simulate FRC robots programmed in Java.
+- [Lib5K](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024 
 
 ### C++
 

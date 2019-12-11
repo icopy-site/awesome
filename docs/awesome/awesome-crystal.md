@@ -134,6 +134,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
+ * [HAR](https://github.com/NeuraLegion/har) - HAR (HTTP Archive) parser
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [JSON tools](https://github.com/impatienttraveller/json-tools) - An implementation of JSON Patch and Pointer RFC's
@@ -417,8 +418,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
- * [bottle](https://github.com/crystal-data/bottle) - Numerical computing library supporting N-Dimensional data
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+ * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
