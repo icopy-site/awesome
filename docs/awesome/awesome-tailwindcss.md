@@ -282,6 +282,7 @@
 - [Allan White](https://allanwhite.design/)
 - [Dance of Dawn](https://www.danceofdawn.com/)
 - [MOODZ Travel Gallery](https://moodz.yakovleva.dev/)
+- [Laravel Livewire](https://laravel-livewire.com/)
 
 ## Contribute
 
