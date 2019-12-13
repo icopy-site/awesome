@@ -217,6 +217,7 @@ nav:
     - Blazor: awesome/awesome-blazor.md
     - Web Performance Metrics: awesome/awesome-web-performance-metrics.md
     - Tailwind CSS: awesome/awesome-tailwindcss.md
+    - Seed: awesome/awesome-seed-rs.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md

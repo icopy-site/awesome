@@ -265,6 +265,7 @@
 - [Blazor](awesome/awesome-blazor.md) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Web Performance Metrics](awesome/awesome-web-performance-metrics.md) - Metrics to help understand page speed and user experience.
 - [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
+- [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
 
 
 ## Back-End Development
