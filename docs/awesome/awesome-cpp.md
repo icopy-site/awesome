@@ -113,6 +113,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LibTorrent](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
 * [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
+## Chemistry
+*Chemistry, Geochemistry, Biochemistry*
+
+* [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] [website](https://reaktoro.org)
+
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
 
@@ -125,6 +130,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
+ * [indicators](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. [MIT]
  * [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. [BSD-2-Clause]
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
  * [Lyra](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. [Boost]
@@ -523,6 +529,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Apophenia](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing [GPL2]
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. [Apache2] [website](http://arma.sourceforge.net/)
+* [autodiff](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. [MIT] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost]
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]

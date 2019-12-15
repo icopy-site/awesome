@@ -72,8 +72,8 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 **The obvious, that goes along with some of the plugins above:**
 
-- [Advanced Custom Fields](https://de.wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
-- [Polylang](https://de.wordpress.org/plugins/polylang/)
+- [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
+- [Polylang](https://wordpress.org/plugins/polylang/)
 
 
 ### Gatsby

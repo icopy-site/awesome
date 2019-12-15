@@ -73,6 +73,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+- [Entire React code base explanation by visual block schemes](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
 ##### React Interview Questions
 
@@ -125,9 +126,9 @@ A collection of awesome things regarding the React ecosystem.
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
-- [Reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
+- [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
-- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 
 ##### React Awesome Components
 
@@ -142,6 +143,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
+- [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
@@ -217,17 +219,11 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
-- [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
-- [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 - [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
-- [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 - [Express React views](https://github.com/reactjs/express-react-views)
-- [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 - [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [React Laravel](https://github.com/talyssonoc/react-laravel)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
 - [react-kup - A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
@@ -322,13 +318,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
-##### Model Libraries
-
-- [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
-- [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
-- [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
-- [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
-
 ##### Data Managing
 
 - [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
@@ -341,7 +330,6 @@ A collection of awesome things regarding the React ecosystem.
 - [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
 - [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 - [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
-- [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
 - [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 - [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 - [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
@@ -807,10 +795,10 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Real apps
 
-- [Firefox debugger](https://github.com/devtools-html/debugger.html)
-- [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
-- [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
-- [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
+- [Kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [Firefox debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
+- [Spectrum](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
+- [Mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 
 ---
 
