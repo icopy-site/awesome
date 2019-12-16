@@ -87,6 +87,8 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus Blog Series (Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) - Part 3 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Prometheus Blog Series (Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) - Part 4 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) - Horizontal Pod Autoscaling in Kubernetes with Prometheus by Louise.
+- [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) - PromQL tutorial for beginners by Aliaksandr Valialkin.
+- [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) - Prometheus storage: technical terms for humans by Aliaksandr Valialkin.
 
 ## Dashboards
 
@@ -111,11 +113,14 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Proxies
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy.
+- [Promxy](https://github.com/jacksontj/promxy) - deduplicates data from Prometheus HA pairs.
 
 ## High Availability
 
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
 - [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [M3DB](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ## Uncategorized
 

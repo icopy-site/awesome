@@ -64,6 +64,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
+- [ecmascript-compat](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
 - [es](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
@@ -99,6 +100,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
+- [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style

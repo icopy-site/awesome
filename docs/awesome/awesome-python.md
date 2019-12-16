@@ -32,6 +32,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
 * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
 
+## ASGI Servers
+
+*ASGI-compatible web servers.*
+
+* [uvicorn](https://github.com/encode/uvicorn) - Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
+
 ## Asynchronous Programming
 
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
@@ -192,6 +198,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for computer vision.*
 
+* [Kornia](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 * [OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
 * [pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 * [SimpleCV](http://simplecv.org/) - An open source framework for building computer vision applications.
@@ -460,7 +467,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for Python version and virtual environment management.*
 
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
-* [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 * [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
@@ -525,6 +531,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
+
+## GraphQL
+
+*Libraries for working with GraphQL.*
+
+* [tartiflette](https://tartiflette.io) - SDL-first GraphQL engine implementation for Python 3.6+ and asyncio.
+* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
+* [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
 ## Game Development
 
@@ -795,6 +809,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 * [Surprise](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 * [tensorrec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
+
+## Refactoring
+
+*Refactoring tools and libraries for Python*
+
+ * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
+ * [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
+ * [Rope](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
 
 ## RESTful API
 
