@@ -4,6 +4,7 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -16,7 +17,13 @@
 		<a href="https://github.com/botpress/botpress">
 			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
 		</a>
+		<br>
+		<sub><b>Botpress is an open-source conversational assistant creation platform.</b></sub>
+		<br>
+		<sub>They <a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">welcome contributions</a> from anyone, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub>
+		<br>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -46,8 +53,6 @@
 
 
 
-
-
 ---
 
 <div align="center">
@@ -66,7 +71,6 @@
 </div>
 
 ---
-
 
 ## Platforms
 
@@ -117,7 +121,6 @@
 - [Adafruit IO](awesome/awesome-adafruitio.md) - Visualize and store data from any device.
 - [Cloudflare](awesome/awesome-cloudflare.md) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](awesome/awesome-actions-on-google.md) - Developer platform for Google Assistant.
-
 
 ## Programming Languages
 
@@ -190,7 +193,6 @@
 - [Q#](awesome/awesome-qsharp.md) - Domain-specific programming language used for expressing quantum algorithms.
 - [Imba](awesome/awesome-imba.md) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 - [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-
 
 ## Front-End Development
 
@@ -267,7 +269,6 @@
 - [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
 - [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
 
-
 ## Back-End Development
 
 - [Flask](awesome/awesome-flask.md) - Python framework.
@@ -294,7 +295,6 @@
 - [Terraform](awesome/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](awesome/awesome-vapor.md) - Server-side development in Swift.
 - [Dash](awesome/awesome-dash.md) - Python web app framework.
-
 
 ## Computer Science
 
@@ -326,7 +326,6 @@
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
-
 ## Big Data
 
 - [Big Data](awesome/awesome-bigdata.md)
@@ -336,7 +335,6 @@
 - [Streaming](awesome/awesome-streaming.md)
 - [Apache Spark](awesome/awesome-spark.md) - Unified engine for large-scale data processing.
 - [Qlik](awesome/awesome-qlik.md) - Business intelligence platform for data visualization, analytics, and reporting apps.
-
 
 ## Theory
 
@@ -351,7 +349,6 @@
 - [Math](awesome/awesome-math.md)
 - [Recursion Schemes](awesome/awesome-recursion-schemes.md) - Traversing nested data structures.
 
-
 ## Books
 
 - [Free Programming Books](awesome/free-programming-books.md)
@@ -362,7 +359,6 @@
 - [Book Authoring](awesome/awesome-book-authoring.md)
 - [Elixir Books](awesome/ElixirBooks.md)
 
-
 ## Editors
 
 - [Sublime Text](awesome/sublime-bookmarks.md)
@@ -370,7 +366,6 @@
 - [Emacs](awesome/awesome-emacs.md)
 - [Atom](awesome/awesome-atom.md) - Open-source and hackable text editor.
 - [Visual Studio Code](awesome/awesome-vscode.md) - Cross-platform open-source text editor.
-
 
 ## Gaming
 
@@ -391,7 +386,6 @@
 - [Haxe Game Development](awesome/awesome-haxe-gamedev.md) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](awesome/awesome-libgdx.md) - Java game framework.
 - [PlayCanvas](awesome/awesome-playcanvas.md) - Game engine.
-
 
 ## Development Environment
 
@@ -416,7 +410,7 @@
 - [PowerShell](awesome/awesome-powershell.md) - Cross-platform object-oriented shell.
 - [Alfred Workflows](awesome/awesome-alfred-workflows.md) - Productivity app for macOS.
 - [Terminals Are Sexy](awesome/terminals-are-sexy.md)
-
+- [GitHub Actions](awesome/awesome-actions.md) - Create tasks to automate your workflow and share them with others on GitHub.
 
 ## Entertainment
 
@@ -425,7 +419,6 @@
 - [Podcasts](awesome/awesome-geek-podcasts.md)
 - [Email Newsletters](awesome/awesome-newsletters.md)
 - [IT Quotes](awesome/awesome-it-quotes.md)
-
 
 ## Databases
 
@@ -442,7 +435,6 @@
 - [HBase](awesome/awesome-hbase.md) - Distributed, scalable, big data store.
 - [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
-
 ## Media
 
 - [Creative Commons Media](awesome/creative-commons-media.md)
@@ -458,7 +450,6 @@
 - [FFmpeg](awesome/awesome-ffmpeg.md) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
 
-
 ## Learn
 
 - [CLI Workshoppers](awesome/awesome-workshopper.md) - Interactive tutorials.
@@ -473,7 +464,6 @@
 - [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.
 - [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
-
 
 ## Security
 
@@ -494,14 +484,12 @@
 - [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
 
 
-
 - [Umbraco](awesome/awesome-umbraco.md)
 - [Refinery CMS](awesome/awesome-refinerycms.md) - Ruby on Rails CMS.
 - [Wagtail](awesome/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
 - [Textpattern](awesome/awesome-textpattern.md) - Lightweight PHP-based CMS.
 - [Drupal](awesome/awesome-drupal.md) - Extensible PHP-based CMS.
 - [Craft CMS](awesome/awesome.md) - Content-first CMS.
-
 
 ## Hardware
 
@@ -510,7 +498,6 @@
 - [Electronics](awesome/awesome-electronics.md) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](awesome/awesome-beacon.md)
 - [Electric Guitar Specifications](awesome/guitarspecs.md) - Checklist for building your own electric guitar.
-
 
 ## Business
 
@@ -523,7 +510,6 @@
 - [Clean Tech](awesome/awesome-clean-tech.md) - Fighting climate change with technology.
 - [Wardley Maps](awesome/awesome-wardley-maps.md) - Provides high situational awareness to help improve strategic planning and decision making.
 
-
 ## Work
 
 - [Slack](awesome/awesome-slack.md) - Team collaboration.
@@ -534,13 +520,11 @@
 - [Programming Interviews](awesome/awesome-interview-questions.md)
 - [Code Review](awesome/awesome-code-review.md) - Reviewing code.
 
-
 ## Networking
 
 - [Software-Defined Networking](awesome/awesome-sdn.md)
 - [Network Analysis](awesome/awesome-network-analysis.md)
 - [PCAPTools](awesome/awesome-pcaptools.md)
-
 
 ## Decentralized Systems
 
@@ -552,12 +536,10 @@
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
 
-
 ## Higher Education
 
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
-
 
 ## Miscellaneous
 
@@ -681,7 +663,6 @@
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
 - [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
-
 
 ## Related
 
