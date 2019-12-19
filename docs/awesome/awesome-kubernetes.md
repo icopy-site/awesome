@@ -110,6 +110,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostic
 * [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+* [k3d](https://github.com/rancher/k3d) - A tool for running k3s clusters in container nodes
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
 * [Kops](https://github.com/kubernetes/kops) - OS Agnostic - AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostic - Cloud Agnostic
@@ -466,6 +467,7 @@ Projects
 * [Ambassador](http://www.getambassador.io) - API Gateway built on the Envoy Proxy
 * [Argo](https://github.com/argoproj/argo) - The Workflow Engine for Kubernetes
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
+* [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler for Kubernetes
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Forecastle](https://github.com/stakater/Forecastle) - A dashboard which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
@@ -534,6 +536,7 @@ Projects
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 * [kboom](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester
 * [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
+* [k3d](https://github.com/rancher/k3d) - Quickly create single- or multi-node k3s clusters in containerized nodes
 * [kube-monkey](https://github.com/asobti/kube-monkey) - Chaos Monkey for Kubernetes clusters
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - multi-node test cluster based on kubeadm
 * [Litmus](https://github.com/openebs/litmus) - Chaos engineering for stateful workloads on Kubernetes
@@ -541,6 +544,7 @@ Projects
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Diagnostic tool that runs Kubernetes conformance tests
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) - Gamified Chaos engineering tool for Kubernetes Clusters. It is like Space Invaders but alien ships are pods.
+* [predator](https://github.com/Zooz/predator) - Distributed performance testing platform for Kubernetes
 
 ## Continuous Delivery
 
@@ -769,6 +773,7 @@ Projects
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - Command line tool that facilitates continuous development for Kubernetes applications.
 * [kubedog](https://github.com/flant/kubedog) - Kubedog is a library and cli utility that allows watching and following kubernetes resources in CI/CD deploy pipelines.
+* [kapp](https://github.com/k14s/kapp) - simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
 ## Configuration
 
