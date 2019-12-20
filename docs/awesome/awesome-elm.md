@@ -219,6 +219,7 @@ Tools and libraries to test your Elm applications
 
 * [Elm test](https://github.com/elm-explorations/test) - Unit and fuzz tests
 * [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+* [Elmer](https://github.com/brian-watkins/elmer) - Describe the behavior of Elm HTML applications
 
 
 
@@ -245,6 +246,7 @@ Tools and libraries to test your Elm applications
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
+* [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
 
 ### Run Elm
 
