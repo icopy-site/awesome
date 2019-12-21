@@ -28,7 +28,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
 * [Trumbowyg](http://alex-d.github.io/Trumbowyg/) - light, translatable and customisable jQuery plugin
 * [NicEdit](http://nicedit.com/) - Abandoned in 2012
-* [jWYSIWYG](https://github.com/akzhan/jwysiwyg) - WYSIWYG jQuery Plugin 
+* [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin 
 * [Alloy](http://alloyeditor.com/) - a modern WYSIWYG editor built on top of CKEDITOR
 * [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
 
