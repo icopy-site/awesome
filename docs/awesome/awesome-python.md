@@ -133,6 +133,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     * [prospector](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
     * [pycallgraph](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
+    * [vulture](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
 * Code Linters
     * [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
@@ -467,7 +468,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for Python version and virtual environment management.*
 
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
-* [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 ## Files
@@ -768,9 +768,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for package and dependency management.*
 
-* [pip](https://pip.pypa.io/en/stable/) - The Python package and dependency manager.
+* [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
     * [PyPI](https://pypi.org/)
     * [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+* [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 * [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 
 ## Package Repositories
