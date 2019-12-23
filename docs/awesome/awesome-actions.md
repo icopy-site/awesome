@@ -164,6 +164,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
+- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 
 ### Testing and Linting
 
@@ -336,6 +337,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
+- [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
+- [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 
 ### External Services
 

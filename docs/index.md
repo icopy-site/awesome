@@ -310,6 +310,7 @@
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
 	- [Question Answering](awesome/awesome-qa.md) - The science of asking and answering in natural language with a machine.
+	- [Natural Language Generation](awesome/awesome-nlg.md) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 - [Linguistics](awesome/awesome-linguistics.md)
 - [Cryptography](awesome/awesome-cryptography.md)
 	- [Papers](awesome/awesome-crypto-papers.md) - Theory basics for using cryptography by non-cryptographers.
@@ -335,6 +336,7 @@
 - [Streaming](awesome/awesome-streaming.md)
 - [Apache Spark](awesome/awesome-spark.md) - Unified engine for large-scale data processing.
 - [Qlik](awesome/awesome-qlik.md) - Business intelligence platform for data visualization, analytics, and reporting apps.
+- [Splunk](awesome/awesome-splunk.md) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ## Theory
 

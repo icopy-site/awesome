@@ -919,11 +919,19 @@ https://twitter.com/detonite/
 
 ### Gouda
 
-<img src="https://twitter.com/rowdyrabouw/profile_image?size=original" height="70px" width="70px" align="left" alt="Rowdy Rabouw" />
+<img src="https://twitter.com/rowdyrabouw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Rowdy Rabouw**\
 Topics: NativeScript, Browser APIs\
 https://twitter.com/rowdyrabouw
+
+### Papendrecht
+
+<img src="https://twitter.com/gklijs/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Gerard Klijs**\
+Topics: Clojure, Rust, GraphQL, Apache Kafka\
+https://twitter.com/gklijs
 
 ### Zwolle
 
@@ -1873,7 +1881,7 @@ https://twitter.com/cordeliadillon
 Topics: CSS, Performance, Responsive Web Design\
 https://twitter.com/standardista
 
-<img src="https://twitter.com/fvcproductions/profile_image?size=original" height="70px" width="70px" align="left" alt="Frances Coronel" />
+<img src="https://twitter.com/fvcproductions/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Frances Coronel**\
 Topics: Progressive Web Apps, TypeScript, Web Design, Open Source\
@@ -1927,7 +1935,7 @@ https://twitter.com/MinaMarkham
 Topics: Web Components, Polymer, Emoji\
 https://twitter.com/notwaldorf
 
-<img src="https://twitter.com/gdi2290/profile_image?size=original" height="70px" width="70px" align="left" alt="Patrick Stapleton" />
+<img src="https://twitter.com/gdi2290/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Patrick Stapleton**\
 Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript\
