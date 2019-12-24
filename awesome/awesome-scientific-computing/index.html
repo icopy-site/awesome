@@ -7859,7 +7859,7 @@ them.</p>
   (C and Assembly, BSD, <a href="https://github.com/xianyi/OpenBLAS">GitHub</a>)</li>
 <li><a href="https://github.com/flame/blis">BLIS</a> - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)</li>
-<li><a href="https://www.netlib.org/lapack/">LAPACK</a> - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
+<li><a href="https://www.netlib.org/lapack/">LAPACK</a> - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, <a href="https://github.com/Reference-LAPACK/lapack">GitHub</a>)</li>
 <li><a href="http://eigen.tuxfamily.org/index.php?title=Main_Page">Eigen</a> - C++ template library for linear algebra.
   (C++, MPL 2, <a href="https://bitbucket.org/eigen/eigen">BitBucket</a>)</li>
@@ -7868,20 +7868,20 @@ them.</p>
 </ul>
 <h2 id="multi-purpose-toolkits">Multi-purpose toolkits<a class="headerlink" href="#multi-purpose-toolkits" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="https://www.mcs.anl.gov/petsc/">PETSc</a> - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
+<li><a href="https://www.mcs.anl.gov/petsc/">PETSc</a> - Parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, <a href="https://gitlab.com/petsc/petsc">GitLab</a>)</li>
 <li><a href="https://www.dune-project.org">DUNE Numerics</a> - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, <a href="https://gitlab.dune-project.org/core/">GitLab</a>)</li>
-<li><a href="https://www.scipy.org">SciPy</a> - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+<li><a href="https://www.scipy.org">SciPy</a> - Python modules for statistics, optimization, integration, linear algebra, etc.
   (Python, mostly BSD, <a href="https://github.com/scipy/scipy/">GitHub</a>)</li>
 <li><a href="https://numpy.org/">NumPy</a> - Fundamental package needed for scientific computing with Python.
   (Python, BSD, <a href="https://github.com/numpy/numpy">GitHub</a>)</li>
 </ul>
 <h2 id="finite-elements">Finite Elements<a class="headerlink" href="#finite-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="https://fenicsproject.org">FEniCS</a> - Open-source computing platform for solving PDEs in Python and C++.
+<li><a href="https://fenicsproject.org">FEniCS</a> - Computing platform for solving PDEs in Python and C++.
   (C++/Python, LGPL 3, <a href="https://bitbucket.org/fenics-project/">BitBucket</a>)</li>
-<li><a href="https://libmesh.github.io">libMesh</a> - Framework for the numerical simulation of PDEs using arbitrary unstructured discretizations.
+<li><a href="https://libmesh.github.io">libMesh</a> - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, <a href="https://github.com/libMesh/libmesh">GitHub</a>)</li>
 <li><a href="https://dealii.org">deal.II</a> - Software library supporting the creation of finite element codes.
   (C++, LGPL 2.1, <a href="https://github.com/dealii/dealii">GitHub</a>)</li>
@@ -7916,13 +7916,13 @@ them.</p>
   (Python, GPL 3, BitBucket)</li>
 <li><a href="https://press3.mcs.anl.gov/sigma/moab-library/">MOAB</a> - Representing and evaluating mesh data.
   (C++, mostly LGPL3, <a href="https://bitbucket.org/fathomteam/moab/">BitBucket</a>)</li>
-<li><a href="https://www.unidata.ucar.edu/software/netcdf/">NetCDF</a> - Software libraries and data formats for the creation, access, and sharing of array-oriented scientific data.
+<li><a href="https://www.unidata.ucar.edu/software/netcdf/">NetCDF</a> - Software libraries and data formats for array-oriented scientific data.
   (C/C++/Fortran/Java/Python, <a href="https://www.unidata.ucar.edu/software/netcdf/copyright.html">custom open-source
   license</a>,
   <a href="https://github.com/Unidata/netcdf-c/">GitHub</a>)</li>
 <li><a href="https://support.hdfgroup.org/HDF5/">HDF5</a> - Data model, library, and file format for storing and managing data.
   (C/Fortran, BSD)</li>
-<li><a href="http://www.xdmf.org/index.php/Main_Page">XDMF</a> - eXtensible Data Model and Format to exchange scientific data between High Performance Computing codes and tools.
+<li><a href="http://www.xdmf.org/index.php/Main_Page">XDMF</a> - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, <a href="https://gitlab.kitware.com/xdmf/xdmf">GitLab</a>)</li>
 <li><a href="https://www.wias-berlin.de/software/index.jsp?id=TetGen">TetGen</a> - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)</li>
@@ -7967,15 +7967,17 @@ them.</p>
   (Python, BSD, <a href="https://github.com/enthought/mayavi">GitHub</a>)</li>
 <li><a href="https://polyscope.run/">Polyscope</a> - Viewer and user interface for 3D geometry processing.
   (C++, MIT, <a href="https://github.com/nmwsharp/polyscope">GitHub</a>)</li>
+<li><a href="https://docs.pyvista.org/">PyVista</a> - 3D plotting and mesh analysis through a streamlined interface for VTK.
+  (Python, MIT, <a href="https://github.com/pyvista/pyvista">GitHub</a>)</li>
 </ul>
 <h2 id="other-libraries-and-tools">Other libraries and tools<a class="headerlink" href="#other-libraries-and-tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="http://www.fftw.org">FFTW</a> - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, and of both real and complex data.
+<li><a href="http://www.fftw.org">FFTW</a> - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
   (C, GPL2, <a href="https://github.com/FFTW/fftw3">GitHub</a>)</li>
-<li><a href="http://www.qhull.org">Qhull</a> - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram.
+<li><a href="http://www.qhull.org">Qhull</a> - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
   (C/C++, <a href="http://www.qhull.org/COPYING.txt">custom open source license</a>,
   <a href="https://github.com/qhull/qhull/">GitHub</a>)</li>
-<li><a href="https://www.gnu.org/software/gsl/">GSL</a> - Wide range of mathematical routines such as random number generators, special functions, and least-squares fitting.
+<li><a href="https://www.gnu.org/software/gsl/">GSL</a> - Random number generators, special functions, and least-squares fitting etc.
   (C/C++, GPL 3, <a href="https://savannah.gnu.org/projects/gsl">Savannah</a>)</li>
 <li><a href="https://www.openfoam.com">OpenFOAM</a> - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, <a href="https://github.com/OpenFOAM/OpenFOAM-dev">GitHub</a>)</li>
