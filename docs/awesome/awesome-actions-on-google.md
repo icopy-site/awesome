@@ -22,6 +22,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) - By [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
 - [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) - By [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
 - [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) - By Ruben Oostinga.
+- [Use video loops with Interactive Canvas](https://medium.com/google-developers/use-video-loops-with-interactive-canvas-dc7503e95c6a) - By [Leon Nicholls](https://twitter.com/TheLeonNicholls)
 
 ## Videos
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
@@ -54,6 +55,8 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 ## Open source code
 - [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
+- [Interactive Canvas editor](https://github.com/actions-on-google-labs/interactive-canvas-editor-nodejs) - Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.
+- [Virtual Pet](https://github.com/actions-on-google-labs/virtual-pet-game-nodejs) - It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.
 - [Spellcast](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
 - Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Parameters sample (using Dialogflow).
 - Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
@@ -77,6 +80,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
 - [Nick Felker](https://twitter.com/handnf) - Developer Programs Engineer at Google.
+- [Leon Nicholls](https://twitter.com/TheLeonNicholls) - Google Developer Relations Engineer
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
