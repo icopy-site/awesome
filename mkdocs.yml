@@ -218,6 +218,7 @@ nav:
     - Web Performance Metrics: awesome/awesome-web-performance-metrics.md
     - Tailwind CSS: awesome/awesome-tailwindcss.md
     - Seed: awesome/awesome-seed-rs.md
+    - Web Performance Budget: awesome/awesome-performance-budget.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md

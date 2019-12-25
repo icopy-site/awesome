@@ -268,6 +268,7 @@
 - [Web Performance Metrics](awesome/awesome-web-performance-metrics.md) - Metrics to help understand page speed and user experience.
 - [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
 - [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
+- [Web Performance Budget](awesome/awesome-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
 
 ## Back-End Development
 
