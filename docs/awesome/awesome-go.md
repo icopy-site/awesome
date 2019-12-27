@@ -1017,6 +1017,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [alice](https://github.com/magic003/alice) - Additive dependency injection container for Golang.
 * [container](https://github.com/golobby/container) - A powerful IoC Container with fluent and easy-to-use interface.
 * [dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
+* [dingo](https://github.com/i-love-flamingo/dingo) - A dependency injection toolkit for Go, based on Guice.
 * [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go (built on top of dig).
 * [gocontainer](https://github.com/vardius/gocontainer) - Simple Dependency Injection Container.
 * [inject](https://github.com/defval/inject) - A reflection based dependency injection container with simple interface.
@@ -1028,6 +1029,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *Unofficial set of patterns for structuring projects.*
 
 * [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+* [go-restful-api](https://github.com/qiangxue/go-restful-api) - An idiomatic Go RESTful API starter kit following SOLID principles and Clean Architecture with a common project layout.
 * [go-sample](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.

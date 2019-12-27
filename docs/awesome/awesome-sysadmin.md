@@ -33,7 +33,7 @@
 
 ## Backups
 
-*Backup software.*
+*Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
@@ -83,7 +83,7 @@
 
 * [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
 * [just-install](http://just-install.it/) – Python script for downloading and silently installing MSI files.
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
+* [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 * [Opsi](http://www.opsi.org) (open PC server integration) - Client Management for Windows based on Debian.
 * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
 * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
@@ -539,6 +539,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
 * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 * [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
+* [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
 
 ## Troubleshooting
 
