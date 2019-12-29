@@ -176,7 +176,7 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 - 6 - [Firenze Blockchain day](https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733) - Firenze - Blockchain Economy, today.
 - 10 - [Torino Hacknight](http://torino.hacknight.it/) - Torino - Open source hackaton about OpenStreeMap and HOT (Humanitarian Openstreetmap Team).
 - 12 - [Cyber Warfare Conference](https://www.eucacs.org/en/) - Milano - Evolution and new frontiers of warfare (Information, Cyber and Hybrid).
-- 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - "Free programming workshop for women".
+- 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) - Caserta - Free programming workshop for women.
 - 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-torino) - Torino - Artificial intelligence on Microsoft Azure.
 - 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-caserta) - Caserta - Artificial intelligence on Microsoft Azure.
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) - Genova - Scratch for fun Christmas projects.

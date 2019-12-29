@@ -241,6 +241,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 * [fb-contrib](https://github.com/mebigfatguy/fb-contrib) - A plugin for FindBugs with additional bug detectors
 * [Find Security Bugs](https://find-sec-bugs.github.io/) - IDE/SonarQube plugin for security audits of Java web applications.
+* [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) - Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 * [google-java-format](https://github.com/google/google-java-format) - Google Style Reformat
 * [Hopper](https://github.com/cuplv/hopper) - A static analysis tool written in scala for languages that run on JVM
 * [HuntBugs](https://github.com/amaembo/huntbugs) - Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
@@ -310,6 +311,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Parse](https://github.com/psecio/parse) - A Static Security Scanner
 * [pdepend](https://pdepend.org/) - Calculates software metrics like cyclomatic complexity for PHP code.
 * [phan](https://github.com/etsy/phan) - a modern static analyzer from etsy
+* [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP.
 * [PHP Assumptions](https://github.com/rskuipers/php-assumptions) - Checks for weak assumptions
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) - Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 * [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.

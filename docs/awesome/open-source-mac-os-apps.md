@@ -172,7 +172,6 @@ You can see in which language an app is written. Currently there are following l
 
 #### iOS / macOS
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.  ![swift_icon] 
-- [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / macOS apps development more easier.  ![objective_c_icon] 
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective_c_icon] 
 - [AppIcons](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.  ![swift_icon] 
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times.  ![swift_icon] 
@@ -258,6 +257,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code.  ![objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers. ![objective_c_icon] ![c_icon] 
+- [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.  ![cpp_icon] 
@@ -516,6 +516,7 @@ You can see in which language an app is written. Currently there are following l
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm or Hyper. ![swift_icon] 
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - App for macOS that opens a new Finder window and changes the current directory to the folder launched by the app.  ![swift_icon] 
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century (formerly Black Screen).  ![javascript_icon] 
+- [cd to... ](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal ![objective_c_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.  ![objective_c_icon] 
 - [wallpapper](https://github.com/mczachurski/wallpapper) - wallpapper is a console application for creating dynamic wallpapers for Mojave.  ![swift_icon] 
 
