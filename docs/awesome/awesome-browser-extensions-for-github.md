@@ -621,6 +621,14 @@ This is a lightweight Chrome extension that automatically detects instances of [
  ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
 </details>
 
+
+This is a chrome extension that shows you stars of repository on awesome list
+
+<details><summary>Screenshots</summary>
+
+ ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
+</details>
+
 ## Search
 
 
