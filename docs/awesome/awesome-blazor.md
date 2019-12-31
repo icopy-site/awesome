@@ -346,6 +346,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor easy access token management](https://wellsb.com/csharp/aspnet/blazor-easy-access-token-management/) - December 30, 2019 - Blazor easy access token management.
+* [Hosting Blazor applications on GitHub Pages](https://mikaberglund.com/2019/12/29/hosting-blazor-applications-on-github-pages/) - December 29, 2019 - Hosting Blazor applications on GitHub Pages.
+* [Creating anchor links in Blazor applications](https://mikaberglund.com/2019/12/28/creating-anchor-links-in-blazor-applications/) - December 28, 2019 - Creating anchor links in Blazor applications.
+* [How Blazor is going to change Web Development](https://www.jeremymorgan.com/blog/blazor/what-is-blazor/) - December 27, 2019 - How Blazor is going to change Web Development.
+* [Blazor and network status](https://www.neptuo.com/blog/2019/12/blazor-network-status/) - December 25, 2019 - Making Blazor reusable component for PWA application that reacts to disconnection from the internet.
 * [App Settings in Client-Side Blazor](https://hutchcodes.net/2019/12/blazor-wasm-app-settings/) - December 17, 2019 - Get environment specific app settings into Client Side Blazor.
 * [Introduction to Blazor Component Testing](https://chrissainty.com/introduction-to-blazor-component-testing/) - December 17, 2019 - Introduction to Blazor Component Testing.
 * [Adaptive Cards for Blazor 2.0.0 released with support for .NET Core 3.1](https://mikaelkoskinen.net/post/adaptive-cards-blazor-new-relase-core-31) - December 17, 2019 - Adaptive Cards for Blazor 2.0.0 released with support for .NET Core 3.1.

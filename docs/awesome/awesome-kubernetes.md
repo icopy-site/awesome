@@ -293,16 +293,16 @@ Managed Kubernetes
 
 
   - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
-  - [Draft](http://draft.sh) - a tool for developers to create cloud native applications with Kubernetes
-  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
-  - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier.
+  - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
+  - [Eclipse Che](https://github.com/eclipse/che) - Cloud development workspaces with SSH and multi-user support
+  - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
-  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required.
-  - [Mantl](https://github.com/mantl/mantl)
-  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
-  - [VAMP](http://vamp.io)
-  - [Tilt](https://github.com/windmilleng/tilt)
+  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required
+  - [Mantl](https://github.com/mantl/mantl) - A modern platform for rapidly deploying globally distributed services
+  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) - Spring Cloud integration with Kubernetes
+  - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
+  - [Tilt](https://github.com/windmilleng/tilt) - Manages local development instances for teams that deploy to Kubernetes
 
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
@@ -485,6 +485,7 @@ Projects
 * [Reloader](https://github.com/stakater/Reloader) - Auto-load updates of ConfigMaps and Secrets into pods for Deployments, StatefulSets and DaemonSets
 * [Telepresence](http://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
 * [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+* [ktunnel](https://github.com/omrikiei/ktunnel) - A command-line tool that establishes a reverse tunnel between Kubernetes and your cluster, use it to locally develop/debug services or integrate with local resources.
 
 ## Package Managers
 
