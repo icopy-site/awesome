@@ -435,9 +435,9 @@ Extension to get back current and longest streak.
 Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
 
 <details><summary>Screenshots</summary>
- 
+
   ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/img/demo.png)
-</details>   
+</details>
 
 
 ## PullRequest
@@ -482,12 +482,12 @@ Browser extension that shows which pull requests contain changes related to a fi
 </details>
 
 
-Find the best GIFs for your awesome pull requests. 
+Find the best GIFs for your awesome pull requests.
 
 <details><summary>Screenshots</summary>
 
  ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
- 
+
 </details>
 
 
@@ -496,7 +496,7 @@ Helps you keep track of incoming and outgoing PRs, and notifies you when you rec
 <details><summary>Screenshots</summary>
 
  ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
- 
+
 </details>
 
 ## Repository
@@ -525,7 +525,7 @@ A browser extension which gives different filetypes different icons on GitHub.
   <img src='https://user-images.githubusercontent.com/12113222/34595351-31adce0a-f212-11e7-860a-c2ada55536c8.png'/>
 </details>
 
- 
+
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
 <details><summary>Screenshots</summary>
@@ -627,6 +627,14 @@ This is a chrome extension that shows you stars of repository on awesome list
 <details><summary>Screenshots</summary>
 
  ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
+</details>
+
+
+Display the number of lines in text files or the number of files in folders.
+
+<details><summary>Screenshots</summary>
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
 </details>
 
 ## Search

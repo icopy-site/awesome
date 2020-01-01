@@ -3,17 +3,9 @@
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center">
-  <p>
-      <a href="https://triplebyte.com/a/Yz3KfYg/d">
-        <b>Looking for a job?</b>
-        <br>
-        No resume needed. Just prove you can code.
-        <br>
-        <div>
-          <img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-        </div>
-      </a>
-	</p>
+  <h2>
+	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best curated blog posts every week!
+  </h2>
 </div>  
 
 |     |     |     |     |     |     |     |     |     |
@@ -115,7 +107,7 @@
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
+* Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 * Curalate http://engineering.curalate.com/
 
@@ -196,7 +188,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
-* Hashnode https://hashnode.blog/
+* Hashnode https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
@@ -257,7 +249,6 @@
 #### M companies
 * Made Tech https://www.madetech.com/blog
 * Mallow Tech http://blog.mallow-tech.com/
-* MailChimp https://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
