@@ -6,7 +6,7 @@
   <h2>
 	  Subscribe to <a href="https://tinyletter.com/kichoi">dev weekly</a> to get the best curated blog posts every week!
   </h2>
-</div>  
+</div>
 
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -74,7 +74,6 @@
 * BlackRock http://rockthecode.io/
 * Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
-* BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
@@ -90,7 +89,7 @@
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
 * CleverTap https://clevertap.com/blog/tag/engineering/
-* CloudBees https://www.cloudbees.com/blog
+* CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
@@ -141,7 +140,7 @@
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
 * Evil Martians https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
+* Expedia https://medium.com/expedia-group-tech
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -255,7 +254,7 @@
 * Medium https://medium.com/medium-eng
 * Mesosphere https://mesosphere.com/blog/
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
-* Mixmax https://mixmax.com/blog/tag/engineering
+* Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
 * MongoDB https://engineering.mongodb.com/
 * Monsanto http://engineering.monsanto.com/
@@ -264,7 +263,7 @@
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
 * Myntra https://medium.com/myntra-engineering
-* Myntra Data Science http://sartorialscience.myntrablogs.com/
+* Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
@@ -425,7 +424,6 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
-* Wix https://www.wix.engineering/blog
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
@@ -663,7 +661,7 @@
 #### N individuals
 * Natasha Murashev https://natashatherobot.com
 * Nelson Elhage https://blog.nelhage.com/
-* Nic Raboy https://blog.nraboy.com/
+* Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 * Nick Craver https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
@@ -798,7 +796,7 @@
 * .NET https://blogs.msdn.microsoft.com/dotnet/
 
 #### R technologies
-* React https://facebook.github.io/react/blog/
+* React https://reactjs.org/blog/
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
