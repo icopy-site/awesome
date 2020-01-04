@@ -137,6 +137,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interface. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
+ * [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ [MIT]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
 
@@ -904,6 +905,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) - An IDE from Microsoft.
+* [Microsoft Visual Studio Code](https://code.visualstudio.com/) :zap: - An open-source IDE from Microsoft. [MIT]
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 * [Qt Creator](http://www.qt.io/developers/) :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
