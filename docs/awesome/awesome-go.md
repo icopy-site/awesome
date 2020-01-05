@@ -193,6 +193,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [envh](https://github.com/antham/envh) - Helpers to manage environment variables.
 * [gcfg](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
 * [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
+* [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 * [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic.
 * [goConfig](https://github.com/crgimenes/goConfig) - Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file.
 * [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
@@ -334,6 +335,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [tempdb](https://github.com/rafaeljesus/tempdb) - Key-value store for temporary items.
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
+* [tracedb](https://github.com/unit-io/tracedb) - Fast timeseries database for IoT, realtime messaging  applications. Access tracedb with pubsub over tcp or websocket using github.com/unit-io/trace application.
 * [Vasto](https://github.com/chrislusf/vasto) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
 * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
 
@@ -1238,6 +1240,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
 * [go-store](https://github.com/gosuri/go-store) - Simple and fast Redis backed key-value store library for Go.
 * [GORM](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
+* [gormt](https://github.com/xxjwxc/gormt) - Mysql database to golang gorm struct.
 * [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence, ORM-ish library for Go.
 * [grimoire](https://github.com/Fs02/grimoire) - Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
 * [lore](https://github.com/abrahambotros/lore) - Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go.
@@ -1245,6 +1248,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [pop/soda](https://github.com/gobuffalo/pop) - Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
 * [QBS](https://github.com/coocood/qbs) - Stands for Query By Struct. A Go ORM.
 * [reform](https://github.com/go-reform/reform) - Better ORM for Go, based on non-empty interfaces and code generation.
+* [rel](https://github.com/Fs02/rel) - Golang SQL Repository Layer for Clean (Onion) Architecture.
 * [SQLBoiler](https://github.com/volatiletech/sqlboiler) - ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.
 * [upper.io/db](https://github.com/upper/db) - Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers.
 * [Xorm](https://github.com/go-xorm/xorm) - Simple and powerful ORM for Go.
