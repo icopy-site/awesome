@@ -22,6 +22,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
+- [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game (Godot 1).
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
@@ -33,25 +34,31 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
+- [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena (Godot 3.1).
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
+- [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux (Godot 3.1).
+- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons (Godot 3.1).
 
 ### 3D
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
 - [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
-- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish (Godot 2.0).
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
 - [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
-- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level (Godot 2.0).
+
+## Projects
+
+*Non-game projects made with Godot (tools/utilities).*
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.1).
+- [Material Maker](https://github.com/RodZill4/godot-procedural-textures) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.1).
 
 ## Demos
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
-- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method (Godot 2.0).
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting (Godot 2.1).
-- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server (Godot 2.0).
 - [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo (Godot 3.0).
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
@@ -83,13 +90,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games (Godot 3.0).
-
-## Themes
-
-*Themes for your Godot games or user interface.*
-
-- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes)
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
 
@@ -132,6 +132,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+- [Qodot](https://github.com/Shfty/Qodot) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design. (Godot 3.1).
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
