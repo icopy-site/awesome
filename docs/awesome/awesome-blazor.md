@@ -222,6 +222,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Localized Data Annotations Validator](https://github.com/jsakamoto/Toolbelt.Blazor.LocalizedDataAnnotationsValidator/) - The data annotations validator for Blazor to localize validation error messages. ([Demo](https://demo-blazor-localized-data-annotations-validator.azurewebsites.net/)).
 * [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - A collection of Blazor components that emulate the web forms components of the same name.
 * [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Broswer's current size, change in size, and test media queries.
+* [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
 
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
@@ -261,6 +262,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorState.Redux](https://github.com/BerserkerDotNet/BlazorState.Redux) - Develop Blazor apps with Redux.
 * [BlazorLeaflet](https://github.com/Mehigh17/BlazorLeaflet) - BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
+* [Howler.Blazor](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
@@ -297,6 +299,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [All Linux and .NET development - Let's build a Blazor-based Follower Train widget](https://www.twitch.tv/videos/490078631) - October 05, 2019 - All Linux and .NET development - Let's build a Blazor-based Follower Train widget.
 * [Blazor StateHasChanged: Community round up & BlazePort](https://www.twitch.tv/videos/490114563) - October 04, 2019 - Blazor StateHasChanged: Community round up & BlazePort. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=Y4Zu6w_4LN4) - October 01, 2019 - Techorama NL 2019: Web Development Revolution with WebAssembly and ASP.NET Blazor.
+* [Blazor CQRS With MediatR Library](https://www.youtube.com/watch?v=XTw4QOpycGE) - September 29, 2019 - Describes the Blazor MediatR application and using the CQRS pattern with the MediatR Library.
 * [Blazor server-side vs client-side (WebAssembly) | What should you choose?](https://www.youtube.com/watch?v=HFvPKmS2gig) - September 27, 2019 - Blazor server-side vs client-side (WebAssembly) | What should you choose?
 * [The Future of Blazor on the Client](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B202) - September 25, 2019 - The Future of Blazor on the Client, by Daniel Roth on Channel 9.
 * [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
@@ -351,6 +354,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) - January 2, 2020 - Re-Using Angular components in a Blazor WebAssembly application using Angular Elements - Web Components custom elements, FTW!
 * [Display spinner on each API call automatically in Blazor](https://bipinpaul.com/posts/display-spinner-on-each-api-call-automatically-in-blazor) - January 2, 2020 - Display spinner on each API call automatically in Blazor. [Source code here](https://github.com/iAmBipinPaul/BlazorDisplaySpinnerAutomatically).
 * [Bolero enables writing F# apps running in WebAssembly using Blazor](https://www.infoq.com/news/2019/12/bolero-sharp-webassembly/) - December 31, 2019 - [Bolero](https://github.com/fsbolero/bolero) enables writing [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/) apps running in WebAssembly using Blazor.
 * [Blazor easy access token management](https://wellsb.com/csharp/aspnet/blazor-easy-access-token-management/) - December 30, 2019 - Blazor easy access token management.

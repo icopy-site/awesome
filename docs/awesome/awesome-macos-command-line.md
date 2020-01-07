@@ -1388,6 +1388,7 @@ spctl --remove /path/to/Application.app
 ```
 
 #### Manage Gatekeeper
+Especially helpful with the annoying Catalina system popup blocking execution of non-signed apps.
 ```bash
 ## Status
 spctl --status

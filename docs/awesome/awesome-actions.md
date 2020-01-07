@@ -102,6 +102,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
+- [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
 
 ### Collection of Actions
 
@@ -230,6 +231,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
+- [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
 
 ### Pull Requests
 
@@ -406,6 +408,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)
 - [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 - [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
+- [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) for more information
 

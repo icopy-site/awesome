@@ -131,6 +131,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 
 ##### React Awesome Components
 

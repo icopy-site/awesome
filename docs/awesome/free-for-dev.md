@@ -145,6 +145,7 @@ Table of Contents
   * [wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
   * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits
+  * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 
 ## Artifact Repos
 
@@ -413,6 +414,7 @@ Table of Contents
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
+  * [postale.io](https://postale.io/) — Free domain email addresses for up to 5 users per domain, unlimited domains, POP3/IMAP enabled, no ads
   * [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -586,6 +588,7 @@ Table of Contents
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
    * [remotemysql.com](https://remotemysql.com) — Remote MySQL Database hosting, setup is instant and use phpMyAdmin for administration, free for 100Mb data, free backups, no query limits and 99% uptime.
    * [InfluxDB](https://www.influxdata.com/) — Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
+   * [Quickmetrics](https://www.quickmetrics.io/) — Timeseries database with dashboard included, free up to 10,000 events/day and total of 5 metrics. 
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
