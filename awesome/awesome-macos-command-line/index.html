@@ -14371,6 +14371,7 @@ sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
 </pre></div>
 
 <h4 id="manage-gatekeeper">Manage Gatekeeper<a class="headerlink" href="#manage-gatekeeper" title="Permanent link">&para;</a></h4>
+<p>Especially helpful with the annoying Catalina system popup blocking execution of non-signed apps.
 <div class="codehilite"><pre><span></span><span class="c1">## Status</span>
 spctl --status
 
@@ -14379,8 +14380,7 @@ sudo spctl --master-enable
 
 <span class="c1">## Disable</span>
 sudo spctl --master-disable
-</pre></div>
-
+</pre></div></p>
 <h3 id="passwords">Passwords<a class="headerlink" href="#passwords" title="Permanent link">&para;</a></h3>
 <h4 id="generate-secure-password-and-copy-to-clipboard">Generate Secure Password and Copy to Clipboard<a class="headerlink" href="#generate-secure-password-and-copy-to-clipboard" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span><span class="nv">LC_ALL</span><span class="o">=</span>C tr -dc <span class="s2">&quot;[:alnum:]&quot;</span> &lt; /dev/urandom <span class="p">|</span> head -c <span class="m">20</span> <span class="p">|</span> pbcopy
