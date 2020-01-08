@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="pajaydev/awesome-performance-budget"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
+> Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
 
 
@@ -11,13 +11,13 @@ Web Performance Budget is a group of limits to certain values that affect site p
 
 ## Articles
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
+- [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
 - [Web Performance for Designers and developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/) - Front-end performance for web designers and front-end developers.
 - [Performance as design](http://bradfrost.com/blog/post/performance-as-design/) - Best practise to see performance as an essential design feature.
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) - Setting a performance budget by Invision.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) - Can You Afford It?: Real-world Web Performance Budgets.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
-- [Your first performance budget with Lighthouse](https://bitsofco.de/your-first-performance-budget-with-lighthouse/) - How to set up performance budget with Lighthouse.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 
 ## Tools to measure Performance Budget

@@ -215,11 +215,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
 * [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-  * Extensions
-    * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    * [Rubocop Performance](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
-
+  * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+  * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+  * [Rubocop Performance](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ## Code Highlighting
 
@@ -276,6 +274,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out.
   * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class.
   * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
+  * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
   * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
 
@@ -306,6 +305,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Data Processing and ETL
 
+* [CSV Reader](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, CSV <3 JSON, CSV <3 YAML, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
 
 ## Data Visualization
@@ -367,6 +367,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [timezone](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
+* [working_hours](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
 
 ## Debugging Tools
@@ -537,6 +538,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+* [Rapidfire](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 
@@ -659,6 +661,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
 * [Syslogger](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+* [Timber](https://github.com/timberio/timber-ruby) - Simple structured logging with context.
 * [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
@@ -953,6 +956,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
   * [mdarray](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
+* [Red Data Tools](https://github.com/red-data-tools) - Data processing tools for Ruby.
 * [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
   * [IRuby](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
   * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
@@ -1105,10 +1109,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
   * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+  * [Wraith](https://github.com/BBC-News/wraith) - A responsive screenshot comparison tool.
   * [Zapata](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
 
 ## Third-party APIs
 
+* [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.

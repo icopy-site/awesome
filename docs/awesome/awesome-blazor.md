@@ -160,6 +160,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+* [Getting started with Blorc.PatternFly](https://medium.com/patternfly/getting-started-with-blorc-patternfly-tutorial-cc71fed4bef6) - January 7, 2020 - Getting started with Blorc.PatternFly. What is Blorc.PatternFly? Standing for Blazor, Orc, and PatternFly, Blorc.PatternFly is a library with the ultimate goal of wrapping all PatternFly components and making them available as Blazor components. [Source code](https://github.com/alexfdezsauco/Blorc.PatternFly.QuickStart).
 * [Learning Blazor by Building Connect Four in ASP.NET Core](https://exceptionnotfound.net/learning-blazor-by-building-connect-four-in-asp-net-core/) - November 5, 2019 - Learning Blazor by Building Connect Four in ASP.NET Core. [Source code](https://github.com/exceptionnotfound/BlazorConnectFour).
 * [Creating A Step-By-Step End-To-End Database Server-Side Blazor Application](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4318/Creating-A-Step-By-Step-End-To-End-Database-Server-Side-Blazor-Application.aspx) - October 06, 2019 - Creating A Step-By-Step End-To-End Database Server-Side Blazor Application. [Video here](https://www.youtube.com/watch?v=dSW23gkQLP4&feature=youtu.be).
 * [Blazor Fundamentals Tutorial](https://www.youtube.com/playlist?list=PLUOequmGnXxPrY79JGnF72e1Pba8z93zo) - October 1, 2019 - Blazor Fundamentals Tutorial.
@@ -278,6 +279,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
 * [Blazor Tutorial : Handling Exceptions](https://www.youtube.com/watch?v=NGS_Brbxdkk) - December 30, 2019 - Blazor Tutorial : Handling Exceptions.
 * [AutoComplete in Blazor](https://www.youtube.com/watch?v=SswX4KAf1d8) - December 29, 2019 - How to use the [Blazored.Typeahead](https://github.com/Blazored/Typeahead) AutoComplete Combobox in Blazor.
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=WbLW4c1yIac&feature=youtu.be) - December 19, 2019 - Blazor StateHasChanged: Mixing Razor Pages and Blazor.
@@ -354,6 +356,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [OData API, EF Core, and Blazor](https://wellsb.com/csharp/aspnet/odata-api-ef-core-blazor/) - January 7, 2020 - Learn how to configure an OData API, integrate it with Entity Framework Core, and call the API from a server-side Blazor front-end targeting .NET Core 3.1.
+* [What’s Old is New Again – Web Forms meets Blazor](https://jeffreyfritz.com/2020/01/whats-old-is-new-again-web-forms-meets-blazor/) - January 6, 2020 - What’s Old is New Again – Web Forms meets Blazor.
 * [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) - January 2, 2020 - Re-Using Angular components in a Blazor WebAssembly application using Angular Elements - Web Components custom elements, FTW!
 * [Display spinner on each API call automatically in Blazor](https://bipinpaul.com/posts/display-spinner-on-each-api-call-automatically-in-blazor) - January 2, 2020 - Display spinner on each API call automatically in Blazor. [Source code here](https://github.com/iAmBipinPaul/BlazorDisplaySpinnerAutomatically).
 * [Bolero enables writing F# apps running in WebAssembly using Blazor](https://www.infoq.com/news/2019/12/bolero-sharp-webassembly/) - December 31, 2019 - [Bolero](https://github.com/fsbolero/bolero) enables writing [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/) apps running in WebAssembly using Blazor.

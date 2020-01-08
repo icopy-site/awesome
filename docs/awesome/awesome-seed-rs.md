@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Books
 - [Engineering Rust Web Applications](https://erwabook.com/) - Diesel, Rocket and Seed.
+- [Porting a JS app to Rust](https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html) - Porting a JavaScript App to WebAssembly with Rust (blog series).
 
 ## Quickstarts
 
