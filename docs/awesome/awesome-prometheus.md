@@ -38,9 +38,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) - by Brian Brazil.
 
 ## Videos
-
-- [PromCon 2019](https://www.youtube.com/watch?v=4vZ1PqZ_Foc) - PromCon Munich - November 7, 2019, PromCon EU 2019 - Day 1 Live talk recordings.
-- [PromCon 2019](https://www.youtube.com/watch?v=bbIE9VyVgaY) - PromCon Munich - November 8, 2019, PromCon EU 2019 - Day 2 Live talk recordings.
+- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) - PromCon Munich - November 7-8, 2019, PromCon EU 2019
 - [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) - PromCon Munich - August 9-10, 2018 - talk recordings from PromCon 2018 in Munich.
 - [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) - PromCon Munich - August 17-18, 2017 - talk recordings from PromCon 2017 in Berlin.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) - PromCon Berlin - August 25-26, 2016 - talk recordings from PromCon 2016 in Berlin.

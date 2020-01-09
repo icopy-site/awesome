@@ -21,6 +21,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** interactive 1-hour course to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
+#### [UpLeveled Learning Platform](https://learn.upleveled.io/)
+**Freemium** platform for learning the basics of web development\
+*(HTML, CSS, JavaScript)*
+
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
 **Commercial** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
@@ -68,6 +72,10 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [GitHub Learning Lab](https://lab.github.com/)
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
+
+#### [Grid Garden](https://cssgridgarden.com/)
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
 **Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
@@ -152,6 +160,11 @@ This list aims to be a curated set of high quality educational resources. The co
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
  
 ## Advanced
+
+
+#### [Paqmind](http://paqmind.com)
+**Free** Quiz your knowledge of programming\
+*(JavaScript, Node.js, React, functional programming)*
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 **Free** courses from MIT on advanced computer science topics\

@@ -47,6 +47,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+* [rd_filters](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
 
 <a id="lib-visualization"></a>
 ### Visulization
@@ -66,8 +67,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry.
+* [DeepChem](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
+* [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 
 <a id="lib-web"></a>
 ### Web APIs
