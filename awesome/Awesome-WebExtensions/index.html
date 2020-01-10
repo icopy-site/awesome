@@ -7852,7 +7852,7 @@
 <li><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions">Mozilla's WebExtensions documentation</a> - MDN wiki for the WebExtensions API.</li>
 <li><a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs">Browser support for WebExtensions</a> - Compatibility table for Chrome, Edge, Firefox, and Opera.</li>
 <li><a href="https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap">Microsoft Edge API support</a> - Detailed WebExtensions support for Edge.</li>
-<li><a href="https://developer.apple.com/safari/extensions/">Safari Extensions documentation</a> - Developer documentation on building Safari extensions.</li>
+<li><a href="https://developer.apple.com/safari/extensions/">Safari Extensions documentation</a> - Developer documentation on building Safari extensions. Technically not WebExtensions, the API is completely different.</li>
 <li><a href="https://dev.opera.com/extensions/apis/">Opera API support</a> - Detailed WebExtensions support for Opera.</li>
 <li><a href="https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/">Porting Chrome Extensions to Firefox</a> - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.</li>
 <li><a href="https://browserext.github.io/browserext/">Browser Extension Standard</a> - Standard for the API, supported by Mozilla, Opera and Microsoft.</li>
@@ -7870,9 +7870,10 @@
 <p>Code meant become part of the extension.</p>
 <ul>
 <li><a href="https://github.com/fregante/webext-options-sync">webext-options-sync</a> - Helps you manage and autosave your extension's options.</li>
-<li><a href="https://github.com/fregante/webext-inject-on-install">webext-inject-on-install</a> - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.</li>
-<li><a href="https://github.com/ivantsov/redux-webext">redux-webext</a> - Uses <a href="https://github.com/reactjs/redux">redux</a> for managing the state of your WebExtension.</li>
+<li><a href="https://github.com/fregante/webext-storage-cache">webext-storage-cache</a> - Map-like promised cache storage with expiration.</li>
+<li><a href="https://github.com/fregante/webext-dynamic-content-scripts">webext-dynamic-content-scripts</a> - Automatically inject your <code>content_scripts</code> on custom domains.</li>
 <li><a href="https://github.com/mozilla/webextension-polyfill">mozilla/webextension-polyfill</a> - Polyfill to support the standardized promise based API in the <code>browser</code> namespace.</li>
+<li><a href="https://github.com/ivantsov/redux-webext">redux-webext</a> - Uses <a href="https://github.com/reactjs/redux">redux</a> for managing the state of your WebExtension.</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <p>Apps that help you manage your extensions.</p>
@@ -7881,7 +7882,6 @@
 <li><a href="https://github.com/mozilla/web-ext">mozilla/web-ext</a> - Command line tool to help build, run, and test WebExtensions.</li>
 <li><a href="https://github.com/ZenHubIO/chromepet">chromepet</a> - Get notified when your new version has been published.</li>
 <li><a href="https://github.com/jiripospisil/chrome-ext-downloader">chrome-ext-downloader</a> - Download any extension on Chrome Web Store to see how they do it.</li>
-<li><a href="https://github.com/peerigon/unzip-crx">unzip-crx</a> - Unzips Google Chrome (crx) files.</li>
 <li><a href="https://github.com/acvetkov/chrome-store-api">chrome-store-api</a> - Chrome Web Store API wrapper.</li>
 <li><a href="https://github.com/Rob--W/crxviewer">Chrome extension source viewer</a> - WebExtension to view source code of extensions directly on the store.</li>
 <li><a href="https://github.com/LinusU/wext-shipit">@wext/shipit</a> - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.</li>
@@ -7898,14 +7898,12 @@
 <li><a href="https://github.com/rpl/create-webextension">create-webextension</a> - Yarn WebExtension generator.</li>
 <li><a href="https://extensionizr.com">extensionizr.com</a> - Web UI that helps you create an initial configuration and files.</li>
 <li><a href="https://github.com/HaNdTriX/generator-web-extension">generator-web-extension</a> - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.</li>
-<li><a href="https://github.com/jhen0409/react-chrome-extension-boilerplate">react-chrome-extension-boilerplate</a> - React boilerplate with Hot reloading.</li>
 </ul>
 <h2 id="sample-extensions">Sample Extensions<a class="headerlink" href="#sample-extensions" title="Permanent link">&para;</a></h2>
 <p>These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.</p>
 <ul>
 <li><a href="https://github.com/npmhub/npmhub">npmhub</a></li>
 <li><a href="https://github.com/sindresorhus/hide-files-on-github">Hide Files on GitHub</a></li>
-<li><a href="https://github.com/sindresorhus/refined-github">Refined GitHub</a></li>
 <li><a href="https://github.com/mdn/webextensions-examples">mdn/webextension-examples</a> - Various example extensions curated for the MDN documentation.</li>
 </ul>
 <h2 id="license">License<a class="headerlink" href="#license" title="Permanent link">&para;</a></h2>
