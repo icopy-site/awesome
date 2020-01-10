@@ -33,6 +33,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
+- [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam (Godot 3.1).
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena (Godot 3.1).
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
@@ -52,6 +53,12 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.1).
 - [Material Maker](https://github.com/RodZill4/godot-procedural-textures) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.1).
+
+## Templates
+
+*Projects to use as a base for your own games.*
+
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games (Godot 3.1).
 
 ## Demos
 
@@ -123,6 +130,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
 - [gdstats](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+- [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser (Godot 3.1).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.1).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions (Godot 3.1).

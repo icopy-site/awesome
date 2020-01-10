@@ -81,7 +81,7 @@ Additional lists you might find useful:
 *Plugins for debugging.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
-- [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+- :strawberry: [DebugKit plugin](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
 - [Execution order](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer.
@@ -292,7 +292,7 @@ Additional lists you might find useful:
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) - Simple solution that enables Encrypted data types to be stored in the database.
-- [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
+- :strawberry: [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior) - Cipher your entities data with this behavior. Encryption is done at PHP level using CakePHP Security class.
 - [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation using HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 - :strawberry: [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
@@ -313,7 +313,7 @@ Additional lists you might find useful:
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [App template with material ui](https://github.com/coolops/web-app) - CakePHP material ui admin template project for use with composer.
-- [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
+- :strawberry: [Crud plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - A skeleton example to create a Cake3 plugin.
 
 ## Social

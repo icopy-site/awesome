@@ -117,7 +117,7 @@
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
 * Deliveroo https://deliveroo.engineering/
-* DigitalOcean https://www.digitalocean.com/community/tutorials
+* DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
 * Docker Engineering https://engineering.docker.com/

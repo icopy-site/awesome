@@ -428,6 +428,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
     * [gorethink](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.
     * [goriak](https://github.com/zegl/goriak) - Go language driver for Riak KV.
+    * [mgm](https://github.com/kamva/mgm) - MongoDB model-based ODM for Go (based on official MongoDB driver).
     * [mgo](https://github.com/globalsign/mgo) - (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
     * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
     * [neo4j](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang.
@@ -1178,6 +1179,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [grab](https://github.com/cavaliercoder/grab) - Go package for managing file downloads.
 * [graval](https://github.com/koofr/graval) - Experimental FTP server framework.
 * [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs let you inspect HTTP requests and forge responses.
+* [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP proxy handler and dialer.
 * [iplib](https://github.com/c-robinson/iplib) - Library for working with IP addresses (net.IP, net.IPNet), inspired by python [ipaddress](https://docs.python.org/3/library/ipaddress.html) and ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 * [jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple network devices.
 * [kcp-go](https://github.com/xtaci/kcp-go) - KCP - Fast and Reliable ARQ Protocol.

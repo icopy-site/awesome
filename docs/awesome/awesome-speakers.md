@@ -402,6 +402,16 @@ https://twitter.com/sambego
 Topics: React, Redux, Ruby, Testing, GraphQL\
 https://twitter.com/rstankov
 
+## Czech Republic 🇨🇿
+
+### Prague
+
+<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Artem Zakharchenko**\
+Topics: React, Forms, CSS Grid\
+https://twitter.com/kettanaito
+
 ## Denmark 🇩🇰
 
 ### Copenhagen
@@ -1280,14 +1290,6 @@ https://twitter.com/mourner
 **Yuri Artyukh**\
 Topics: HTML, CSS, JavaScript, WebGL\
 https://twitter.com/akella
-
-### Poltava
-
-<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Artem Zakharchenko**\
-Topics: React, Forms, CSS Grid\
-https://twitter.com/kettanaito
 
 ### Vinnytsia
 
