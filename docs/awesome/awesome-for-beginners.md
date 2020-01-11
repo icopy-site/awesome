@@ -170,10 +170,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: N/A, link to external website)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
+- [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
 
 ## Python
 
-- [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
@@ -239,6 +239,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+
+## Swift
+
+- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
 
