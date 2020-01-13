@@ -61,12 +61,6 @@
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
-#### Builtin Modules
-
-- [std-switch](https://github.com/tkent-google/std-switch) - Proposal for `<std-switch>` HTML element implementing a 'switch' control.
-- [std-toast](https://github.com/jackbsteinberg/std-toast) - Proposal for `<std-toast>` HTML element implementing a 'toast' pop-up notification.
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
-
 ### Polyfills
 
 #### @webcomponents
@@ -153,6 +147,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
 ## Libraries
 
@@ -337,53 +332,53 @@ These materials are here for historical reasons only, they are grouped by years 
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/ChromiumDev">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_80x80.jpg">
-          <div>Chrome Developers</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/polymer">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
           <div>Polymer</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/MSEdgeUpdates">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_80x80.jpg">
-          <div>Edge Platform Updates</div>
+        <a href="https://twitter.com/stenciljs">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1135534552137510914/5ZzvOFFp_80x80.png">
+          <div>Stencil</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/web_components">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div>Web Components</div>
+        <a href="https://twitter.com/openwc">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1101188623930662912/YKlBD7n6_80x80.png">
+          <div>open-wc.org</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/webcomp_dev">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1169270943371407360/U-90Bxn0_80x80.jpg">
+          <div>webcomponents.dev</div>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/shadow_hayato">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_80x80.png">
-          <div>Hayato Ito</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/rob_dodson">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_80x80.jpg">
-          <div>Rob Dodson</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/ebidel">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
-          <div>Eric Bidelman</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/justinfagnani">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
           <div>Justin Fagnani</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/viljamis">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
+          <div>Viljami Salminen</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/JanMiksovsky">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
+          <div>Jan Miksovsky</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/serhiikulykov">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
+          <div>Serhii Kulykov</div>
         </a>
       </td>
     </tr>
