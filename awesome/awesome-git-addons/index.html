@@ -5520,36 +5520,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#resync" class="md-nav__link">
-    resync
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#switch" class="md-nav__link">
     switch
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sprout" class="md-nav__link">
-    sprout
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#harvest" class="md-nav__link">
-    harvest
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#graft_1" class="md-nav__link">
-    graft
   </a>
   
 </li>
@@ -9830,36 +9802,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#resync" class="md-nav__link">
-    resync
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#switch" class="md-nav__link">
     switch
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sprout" class="md-nav__link">
-    sprout
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#harvest" class="md-nav__link">
-    harvest
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#graft_1" class="md-nav__link">
-    graft
   </a>
   
 </li>
@@ -11189,23 +11133,6 @@ Fast-forwarded 4.0 to origin/4.0.
 Pushing commits to the server.
 </pre></div>
 
-<h3 id="resync">resync<a class="headerlink" href="#resync" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span>$ git resync
-Switching to master.
-Your branch is ahead of &#39;origin/master&#39; by 10 commits.
-  (use &quot;git push&quot; to publish your local commits)
-Pulling commits from the server.
-Already up-to-date.
-Switching to master.
-Your branch is ahead of &#39;origin/master&#39; by 10 commits.
-  (use &quot;git push&quot; to publish your local commits)
-Grafting commits from master.
-Already up-to-date.
-Pulling commits from the server.
-Already up-to-date.
-Pushing commits to the server.
-</pre></div>
-
 <h3 id="switch">switch<a class="headerlink" href="#switch" title="Permanent link">&para;</a></h3>
 <div class="codehilite"><pre><span></span>$ git switch master
 Saving local changes.
@@ -11224,39 +11151,6 @@ Changes not staged for commit:
 
 no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;)
 Dropped stash@{0} (86f5dc9066ff9f69c01c77e2f5a55643ad19f8f2)
-</pre></div>
-
-<h3 id="sprout">sprout<a class="headerlink" href="#sprout" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span>$ git sprout development
-Branching master to development.
-</pre></div>
-
-<h3 id="harvest">harvest<a class="headerlink" href="#harvest" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span>$ git harvest development
-Grafting commits from development.
-Updating e4f08f4..64b3563
-Fast-forward
- package.json | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
-Restoring local changes.
-On branch master
-Your branch is ahead of &#39;origin/master&#39; by 1 commit.
-  (use &quot;git push&quot; to publish your local commits)
-nothing to commit, working directory clean
-Dropped stash@{0} (7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f)
-</pre></div>
-
-<h3 id="graft_1">graft<a class="headerlink" href="#graft_1" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span>$ git graft development
-Switching to master.
-Your branch is ahead of &#39;origin/master&#39; by 2 commits.
-  (use &quot;git push&quot; to publish your local commits)
-Grafting development into master.
-Merge made by the &#39;recursive&#39; strategy.
- feature | 0
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 feature
-Deleted branch development (was 6a022ba).
 </pre></div>
 
 <h3 id="publish">publish<a class="headerlink" href="#publish" title="Permanent link">&para;</a></h3>
