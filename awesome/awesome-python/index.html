@@ -9191,6 +9191,7 @@
 </li>
 <li>Static Type Checkers, also see <a href="https://github.com/typeddjango/awesome-python-typing">awesome-python-typing</a><ul>
 <li><a href="http://mypy-lang.org/">mypy</a> - Check variable types during compile time.</li>
+<li><a href="https://github.com/python/typeshed">typeshed</a> - Collection of library stubs for Python, with static types.</li>
 <li><a href="https://github.com/facebook/pyre-check">pyre-check</a> - Performant type checking.</li>
 </ul>
 </li>
@@ -9206,7 +9207,6 @@
 <li><a href="http://builtoncement.com/">cement</a> - CLI Application Framework for Python.</li>
 <li><a href="http://click.pocoo.org/dev/">click</a> - A package for creating beautiful command line interfaces in a composable way.</li>
 <li><a href="https://docs.openstack.org/developer/cliff/">cliff</a> - A framework for creating command-line programs with multi-level commands.</li>
-<li><a href="https://github.com/kennethreitz/clint">clint</a> - Python Command-line Application Tools.</li>
 <li><a href="http://docopt.org/">docopt</a> - Pythonic command line arguments parser.</li>
 <li><a href="https://github.com/google/python-fire">python-fire</a> - A library for creating command line interfaces from absolutely any Python object.</li>
 <li><a href="https://github.com/jonathanslenders/python-prompt-toolkit">python-prompt-toolkit</a> - A library for building powerful interactive command lines.</li>
@@ -9371,7 +9371,7 @@
 <li><a href="https://github.com/shinux/PyTime">PyTime</a> - An easy-to-use Python module which aims to operate date/time/datetime by string.</li>
 <li><a href="https://launchpad.net/pytz">pytz</a> - World timezone definitions, modern and historical. Brings the <a href="https://en.wikipedia.org/wiki/Tz_database">tz database</a> into Python.</li>
 <li><a href="https://github.com/dirn/When.py">when.py</a> - Providing user-friendly functions to help perform common date and time actions.</li>
-<li><a href="https://github.com/kennethreitz/maya">maya</a> - Datetimes for Humans.</li>
+<li><a href="https://github.com/timofurrer/maya">maya</a> - Datetimes for Humans.</li>
 </ul>
 <h2 id="debugging-tools">Debugging Tools<a class="headerlink" href="#debugging-tools" title="Permanent link">&para;</a></h2>
 <p><em>Libraries for debugging code.</em></p>
@@ -9528,15 +9528,21 @@
 <h2 id="email">Email<a class="headerlink" href="#email" title="Permanent link">&para;</a></h2>
 <p><em>Libraries for sending and parsing email.</em></p>
 <ul>
-<li><a href="http://tomekwojcik.github.io/envelopes/">envelopes</a> - Mailing for human beings.</li>
-<li><a href="https://github.com/mailgun/flanker">flanker</a> - An email address and Mime parsing library.</li>
+<li>Mail Servers<ul>
+<li><a href="https://github.com/modoboa/modoboa">modoboa</a> - A mail hosting and management platform including a modern Web UI.</li>
+<li><a href="https://github.com/moggers87/salmon">salmon</a> - A Python Mail Server.</li>
+</ul>
+</li>
+<li>Clients<ul>
 <li><a href="https://github.com/martinrusev/imbox">imbox</a> - Python IMAP for Humans.</li>
-<li><a href="https://github.com/kennethreitz/inbox.py">inbox.py</a> - Python SMTP Server for Humans.</li>
-<li><a href="https://github.com/zedshaw/lamson">lamson</a> - Pythonic SMTP Application Server.</li>
-<li><a href="https://github.com/marrow/mailer">Marrow Mailer</a> - High-performance extensible mail delivery framework.</li>
-<li><a href="https://github.com/modoboa/modoboa">modoboa</a> - A mail hosting and management platform including a modern and simplified Web UI.</li>
-<li><a href="https://github.com/nylas/sync-engine">Nylas Sync Engine</a> - Providing a RESTful API on top of a powerful email sync platform.</li>
 <li><a href="https://github.com/kootenpv/yagmail">yagmail</a> - Yet another Gmail/SMTP client.</li>
+</ul>
+</li>
+<li>Others<ul>
+<li><a href="https://github.com/mailgun/flanker">flanker</a> - An email address and Mime parsing library.</li>
+<li><a href="https://github.com/marrow/mailer">mailer</a> - High-performance extensible mail delivery framework.</li>
+</ul>
+</li>
 </ul>
 <h2 id="environment-management">Environment Management<a class="headerlink" href="#environment-management" title="Permanent link">&para;</a></h2>
 <p><em>Libraries for Python version and virtual environment management.</em></p>
@@ -9648,9 +9654,9 @@
 <h2 id="http-clients">HTTP Clients<a class="headerlink" href="#http-clients" title="Permanent link">&para;</a></h2>
 <p><em>Libraries for working with HTTP.</em></p>
 <ul>
-<li><a href="https://github.com/kennethreitz/grequests">grequests</a> - requests + gevent for asynchronous HTTP requests.</li>
+<li><a href="https://github.com/spyoungtech/grequests">grequests</a> - requests + gevent for asynchronous HTTP requests.</li>
 <li><a href="https://github.com/httplib2/httplib2">httplib2</a> - Comprehensive HTTP client library.</li>
-<li><a href="https://requests.kennethreitz.org/en/master/">requests</a> - HTTP Requests for Humans.</li>
+<li><a href="https://github.com/psf/requests">requests</a> - HTTP Requests for Humans.</li>
 <li><a href="https://github.com/twisted/treq">treq</a> - Python requests like API built on top of Twisted's HTTP client.</li>
 <li><a href="https://github.com/shazow/urllib3">urllib3</a> - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.</li>
 </ul>
@@ -9968,7 +9974,7 @@
 <p><em>Libraries for parsing and manipulating specific text formats.</em></p>
 <ul>
 <li>General<ul>
-<li><a href="https://github.com/kennethreitz/tablib">tablib</a> - A module for Tabular Datasets in XLS, CSV, JSON, YAML.</li>
+<li><a href="https://github.com/jazzband/tablib">tablib</a> - A module for Tabular Datasets in XLS, CSV, JSON, YAML.</li>
 </ul>
 </li>
 <li>Office<ul>
@@ -10167,7 +10173,7 @@
 <p><a href="https://github.com/Alir3z4/html2text">html2text</a> - Convert HTML to Markdown-formatted text.</p>
 </li>
 <li><a href="https://github.com/buriy/python-readability">python-readability</a> - Fast Python port of arc90's readability tool.</li>
-<li><a href="https://github.com/kennethreitz/requests-html">requests-html</a> - Pythonic HTML Parsing for Humans.</li>
+<li><a href="https://github.com/psf/requests-html">requests-html</a> - Pythonic HTML Parsing for Humans.</li>
 <li><a href="https://github.com/miso-belica/sumy">sumy</a> - A module for automatic summarization of text documents and HTML pages.</li>
 <li><a href="https://github.com/deanmalmgren/textract">textract</a> - Extract text from any document, Word, PowerPoint, PDFs, etc.</li>
 <li><a href="https://github.com/gaojiuli/toapi">toapi</a> - Every web site provides APIs.</li>
