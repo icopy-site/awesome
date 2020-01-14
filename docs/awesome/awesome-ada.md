@@ -31,8 +31,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	2. [News and Resources](#News-and-Resources)   
 	3. [Competition](#Competition)   
 4. [Compilers](#Compilers)   
-	1. [Local](#Local)   
-	2. [Online](#Online)   
+	3. [Open source](#Open-source)   
+	4. [Online](#Online)   
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
 	2. [Text Modes](#Text-Modes)    
@@ -164,16 +164,32 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Compilers
 
-#### Local
-- [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
-- [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
+#### Commercial / Closed source
+
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, Ada 95, Ada 2005 and Ada 2012 versions of the language.
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
+- [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
+
+#### Commercial / Open source
+
+- [gnat-pro](https://www.adacore.com/gnatpro) - The GNAT Pro product line offers a comprehensive toolset (IDEs, debugger, librairies, dynamic and static analysis tools) for Ada, C and C++.
+
+#### Open source
+
+##### GPL (no linking exception)
+
+- [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
+
+##### GPL (with linking exception)
+
+- [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
+
+##### Other / unknown licence 
+
 - [hac](https://github.com/zertovitch/hac) - Experimental Ada compiler fully in Ada.
 - [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system.
-- [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
@@ -225,6 +241,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA is a sort of Mac Plus like OS written in Ada95.
 - [cxos](https://github.com/ajxs/cxos) - Ada Operating System development example.
+- [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting.

@@ -67,7 +67,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allowing to pose as another browser by changing the User-Agent header.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) - Browser extension that automatically replaces the User-Agent after a specified time interval.
-- [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) - Browser extension that automatically hides the referer when changing domains.
+- [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) - Browser extension that automatically hides the referer when changing domains.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - Browser extension that prevents fingerprinting via Javascript Canvas API.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) - Browser extension to disable WebRTC to avoid leaking your IP address from behind a VPN.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) - Replaces proprietary cloud services to synchronize files across multiple devices, decentralized.
@@ -104,6 +104,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/heiseonline/shariff) - Enables website users to share their favorite content without compromising their privacy.
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 - [EasyList](https://easylist.to/) - Sets of rules (originally designed for Adblock) that automatically remove unwanted content from the internet.
+- [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vtoubiana/TrackMeNot) - Browser extension that hides your real search-queries by adding noise and obfuscation.
 
 ## Consent
 
@@ -128,6 +129,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - Directory of filter and host lists for advertisements, trackers, malware and annoyances.
+- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 
 ## Social networks
 
@@ -147,6 +149,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
+- [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/omarroth/invidious) - An alternative front-end to YouTube without Ads.
 
 ## Freedom
 
@@ -179,7 +182,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) - A cross-platform app that reminds you to take breaks when working with your computer.
-- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An open-source automated time-tracker that is cross-platform, extensible and privacy-focused.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An automated time-tracker that is cross-platform, extensible and privacy-focused.
 
 ## Mindfulness
 
@@ -190,6 +193,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) - A Chrome / Firefox extension for taking periodic breaks, prevent RSI, eye-strain and tiredness.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - Generate a fake app to replace any addictive app.
+- [Nudge](https://nudgeware.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/lgwb89/nudge) - A Chrome extension that makes the internet less addictive.
 
 ## Happiness
 

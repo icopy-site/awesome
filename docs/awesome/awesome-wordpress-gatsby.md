@@ -68,6 +68,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) - Extends the WordPress dashboard with a GraphiQL IDE.
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends the WordPress JSON REST API with new routes for WordPress registered menus.
 - [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
+- [Headless Mode](https://wordpress.org/plugins/headless-mode/) - Headless mode sets up a redirect for all users trying to access the site. The only requests that are granted admission are ones that are either trying to access the REST API, the WP GraphQL API, or any logged-in user looking to access the headless install to edit or create posts.
 
 
 **The obvious, that goes along with some of the plugins above:**

@@ -47,6 +47,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Games
 
+* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
@@ -158,7 +159,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ### Video tutorials
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
-* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neat series of bite-sized Elm training videos, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
@@ -191,26 +191,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 * [Full Stack Radio 44](http://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
-
-
-## Libraries
-
-You can find hundreds of high quality packages at:
-
-* [Elm packages](https://package.elm-lang.org/) - The official registry
-* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
-* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
-* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-
-Here are some notable ones:
-
-* [core](https://github.com/elm/core) - Elm Core Libraries.
-* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
-* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
-* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
-* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
-* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
 
 
 ## Testing
@@ -316,6 +296,25 @@ Tools and libraries to test your Elm applications
 * [elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 
+## Libraries
+
+You can find hundreds of high quality packages at:
+
+* [Elm packages](https://package.elm-lang.org/) - The official registry
+* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
+* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
+* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
+
+Here are some notable ones:
+
+* [core](https://github.com/elm/core) - Elm Core Libraries.
+* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
+* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
+* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
+* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
+* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+
 
 ## Boilerplates
 
@@ -338,6 +337,11 @@ Tools and libraries to test your Elm applications
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
 
+## Frameworks
+
+*Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
+
+- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
 
 ## Community and Support
 
