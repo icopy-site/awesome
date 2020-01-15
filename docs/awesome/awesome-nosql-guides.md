@@ -43,6 +43,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Trade-Offs in CAP/Brewer's Theorem
 
 - [Visual Guide to NoSQL Systems (2010)](http://blog.nahurst.com/visual-guide-to-nosql-systems) - Visual display of trade-offs in the CAP theorem among different NoSQL databases.
+- [How to Choose the Right NoSQL Database for Your Application? (2018)](https://www.dataversity.net/choose-right-nosql-database-application/) - Reviews CAP theorem and maps common NoSQL databases to CAP categories to help choose one.
 
 
 ## Crowd-Sourced Information

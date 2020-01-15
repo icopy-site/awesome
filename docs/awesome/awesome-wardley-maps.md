@@ -18,6 +18,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
+- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
 
 ## Reading
 
@@ -96,6 +97,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/).
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - ⚠️ Observable [Terms of Service](https://observablehq.com/terms-of-service), #3. MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
@@ -127,10 +129,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
-
-## Newsletters
-
-- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
 
 ## License
 
