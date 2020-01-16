@@ -33,6 +33,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Burmese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-mm.md)
 + [Chinese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-zh.md)
 + [Czech](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-cs.md)
++ [Danish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-dk.md)
 + [Dutch](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-nl.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fi.md)

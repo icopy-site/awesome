@@ -9,13 +9,9 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-## Special event: "Focus on Blazor". IT'S LIVE NOW!
+## Special event: "Focus on Blazor". [OVER]
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnet-conf-focus-on-blazor.PNG" align="center" width="100%">](https://focus.dotnetconf.net)
-* .NET Conf: Focus on Blazor is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building web apps with C# and Blazor. You don't need to use JavaScript anymore with Blazor technology! Blazor lets you build interactive web UIs using C# instead of JavaScript.
-* Speakers and schedule announced! Check out the [agenda](https://focus.dotnetconf.net/Agenda). [Teaser here! (Video)](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser).
-* [Source code](https://github.com/danroth27/BestForYouRecipes) of the Dan Roth's demo (Best For You recipes).
-* Find all the videos of the sessions on [Channel 9](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor).
-* [Twitter's newsfeed](https://twitter.com/hashtag/dotNETConf?f=live).
+* If you missed it, you can find all the videos of the sessions on [Channel 9](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor).
 
 
 ## Introduction
@@ -208,6 +204,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - ![GitHub stars](https://img.shields.io/github/stars/muqeet-khan/BlazorComponents?style=flat-square&cacheSeconds=604800) Reusable components for Blazor. Starting with ChartJS interop.
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.LoadingBar?style=flat-square&cacheSeconds=604800) Loading bar UI for Client-Side Blazor application.
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) - ![GitHub stars](https://img.shields.io/github/stars/AnkitSharma-007/BlazorGrid?style=flat-square&cacheSeconds=604800) This is a reusable grid component for Blazor which also supports client side pagination.
+* [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - ![stars](https://img.shields.io/github/stars/FritzAndFriends/BlazorWebFormsComponents?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/FritzAndFriends/BlazorWebFormsComponents?style=flat-square&cacheSeconds=604800) A collection of Blazor components that emulate the web forms components of the same name.
 * [Blazored.Menu](https://github.com/Blazored/Menu) - ![stars](https://img.shields.io/github/stars/Blazored/Menu?style=flat-square&cacheSeconds=604800) A JavaScript free menu library for Blazor and Razor Components applications.
 * [Blazor Components Testing Library](https://github.com/egil/razor-components-testing-library) - ![stars](https://img.shields.io/github/stars/egil/razor-components-testing-library?style=flat-square&cacheSeconds=604800) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax, it has intelligent HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square&cacheSeconds=604800) SVG charts for Blazor.
@@ -304,6 +301,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [.NET Conf session: Create a great UX with Blazor](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Create-a-great-UX-with-Blazor) - January 14, 2020 - "Create a great UX with Blazor" by Jimmy Engstrom, session of the .NET Conf "Focus on Blazor". This session covers how we can create a great UX flow with Blazor.
 * [.NET Conf session: Routing A-Z](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Routing-A-Z) - January 14, 2020 - "Routing A-Z" by Chris Sainty, session of the .NET Conf "Focus on Blazor". This session covers how routing works within Blazor and its components.
 * [.NET Conf session: Welcome to Blazor](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Welcome-to-Blazor) - January 14, 2020 - "Welcome to Blazor" by Dan Roth, session of the .NET Conf "Focus on Blazor".
+* [.NET Conf "Focus on Blazor"](https://www.youtube.com/watch?v=fgneZz-4Foc) - Video of the complete event. 8 hours of great information about Blazor, enjoy!
 * [.NET Conf: Focus on Blazor Teaser](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser) - January 9, 2020 - In this episode, Robert is joined by Daniel Roth, who provides a look at the upcoming (Tuesday January 14) .NET Conf: Focus on Blazor. This is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building web apps with C# and Blazor. He also gives a nice overview of Blazor.
 * [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
 * [Blazor Forms with Validation - Part IV](https://www.youtube.com/watch?v=SzlsRdV5z_8) - January 1, 2020 - This video will show you how to include a radio button, checkbox, and select/dropdown in a blazor form.  There are a couple of options when working with the select and this video takes you through them.
@@ -392,9 +390,12 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Using gRPC-Web with Blazor WebAssembly](https://blog.stevensanderson.com/2020/01/15/2020-01-15-grpc-web-in-blazor-webassembly/) - January 15, 2020 - gRPC-Web is a convenient, high-performance alternative to JSON-over-HTTP for single-page applications, by Steve Sanderson.
+* [Announcements from .NET Conf: Focus on Blazor](https://gunnarpeipman.com/focus-on-blazor-announcements/) - January 15, 2019 - Announcements from .NET Conf: Focus on Blazor.
 * [Announcing Experimental Mobile Blazor Bindings](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-experiment/) - January 14, 2020 - Announcing Experimental Mobile Blazor Bindings.
 * [Blazor Azure AD B2C Custom URL](https://wellsb.com/csharp/aspnet/blazor-azure-ad-b2c-custom-url/) - January 13, 2020 - Blazor Azure AD B2C Custom URL.
 * [OData API, EF Core, and Blazor](https://wellsb.com/csharp/aspnet/odata-api-ef-core-blazor/) - January 7, 2020 - Learn how to configure an OData API, integrate it with Entity Framework Core, and call the API from a server-side Blazor front-end targeting .NET Core 3.1.
+* [Integrating Blazor Components into Existing Asp.Net Core MVC Applications](https://medium.com/@waelkdouh/integrating-blazor-components-into-existing-asp-net-core-mvc-applications-b1a2aec4ac1f) - January 7, 2020 - Integrating Blazor Components into Existing Asp.Net Core MVC Applications.
 * [What’s Old is New Again – Web Forms meets Blazor](https://jeffreyfritz.com/2020/01/whats-old-is-new-again-web-forms-meets-blazor/) - January 6, 2020 - What’s Old is New Again – Web Forms meets Blazor.
 * [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) - January 2, 2020 - Re-Using Angular components in a Blazor WebAssembly application using Angular Elements - Web Components custom elements, FTW!
 * [Display spinner on each API call automatically in Blazor](https://bipinpaul.com/posts/display-spinner-on-each-api-call-automatically-in-blazor) - January 2, 2020 - Display spinner on each API call automatically in Blazor. [Source code here](https://github.com/iAmBipinPaul/BlazorDisplaySpinnerAutomatically).
@@ -541,6 +542,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
+* [Podcast: Occam’s Blazor](https://stackoverflow.blog/2020/01/14/podcast-occams-blazor/) - January 14, 2020 - Podcast by Stack Overflow.
 * [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) - September 26, 2019 - .NET Rocks Podcast, episode 1654: .NET Core 3 Launch with Scott Hunter.
 * [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) - September 12, 2019 - .NET Rocks Podcast, episode 1652: Moving from Web Forms to Blazor with Jeff Fritz.
 * [Blazor with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-003-blazor-with-daniel-roth/) - September 03, 2019 - Daniel Roth starts by introducing Web Assembly and how this changed web development. Blazor allows full-stack development through .NET with C#. The panel asks Dan about Blazor's capabilities and future. Dan shares Blazor’s origin story.

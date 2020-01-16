@@ -222,7 +222,8 @@ Tools and libraries to test your Elm applications
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
+* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm.
+* [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) - Generate JSON encoders/decoders and TypeScript definitions from Elm files.
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
@@ -321,6 +322,7 @@ Here are some notable ones:
 *Good starting point for a new Elm project.*
 
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-boil](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
 * [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
@@ -342,6 +344,7 @@ Here are some notable ones:
 *Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
 
 - [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
+- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 
 ## Community and Support
 

@@ -443,6 +443,26 @@ Container Storage Interface Plugins
 * [Virtual Filesystem](https://github.com/rexray/csi-vfs)
 * [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
 
+Cluster API Providers
+=======================================================================
+
+*List of some [Cluster API](https://github.com/kubernetes-sigs/cluster-api) providers for Kubernetes. Check out [Kubernetes-CAPI Providers](https://cluster-api.sigs.k8s.io/reference/providers.html) for more info*
+
+  ### Bootstrap
+
+   - [Kubeadm](https://github.com/kubernetes-sigs/cluster-api/tree/master/bootstrap/kubeadm)
+
+  ### Infrastructure
+
+   - [AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+   - [Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+   - [Metal3-io](https://github.com/metal3-io/cluster-api-provider-baremetal)
+   - [DigitalOcean](https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean)
+   - [GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+   - [IBM Cloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud)
+   - [OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+   - [VMware vSphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+
 Developer Libraries/ Scripts
 =======================================================================
 
@@ -501,6 +521,7 @@ Projects
 * [Console](http://github.com/kubernetes/dashboard)
 * [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for the standard practices
 * [Datadog](http://www.datadoghq.com/)
+* [Dynatrace](https://www.dynatrace.com/technologies/kubernetes-monitoring/) - Kubernetes cluster and workload monitoring
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - simple introspective kubernetes service that forwards events to a specified sink.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)

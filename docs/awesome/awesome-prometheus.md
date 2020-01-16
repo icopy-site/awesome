@@ -36,6 +36,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Monitoring with Prometheus](https://www.prometheusbook.com/) - by James Turnbull.
 - [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) - by Brian Brazil.
+- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) - by Joel Bastos & Pedro Araújo, reviewed by Brian Brazil.
 
 ## Videos
 - [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) - PromCon Munich - November 7-8, 2019, PromCon EU 2019
