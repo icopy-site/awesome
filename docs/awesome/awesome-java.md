@@ -287,6 +287,15 @@ _Libraries that assist with processing office document formats._
 - [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
 - [zerocell](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
 
+### Financial
+
+*Libraries related to the financial domain.*
+
+- [Parity](https://github.com/paritytrading/parity) - Platform for trading venues.
+- [Philadelphia](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+- [Stripe](https://github.com/stripe/stripe-java) - Integration with the Stripe API
+- [Square](https://github.com/square/connect-java-sdk/) - Integration with the Square API.
+
 ### Formal Verification
 
 _Formal-methods tools: proof assistants, model checking, symbolic execution, etc._
@@ -539,6 +548,7 @@ _Everything else._
 - [OpenRefine](http://openrefine.org) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 - [PipelinR](https://github.com/sizovs/pipelinr) – Small utility library for using handlers and commands with pipelines.
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) - Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
+- [Simple Java Mail](https://github.com/bbottema/simple-java-mail) - Mailing with a clean and fluent API. 
 - [Smooks](https://github.com/smooks/smooks) - Extensible framework for building applications that process data which means bindings, transformations, message processing and enrichment. (LGPL-3.0-only)
 - [Togglz](https://www.togglz.org) - Implementation of the Feature Toggles pattern.
 - [TypeTools](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
@@ -557,6 +567,7 @@ _Tools for creating and managing microservices._
 - [Lagom](https://www.lightbend.com/lagom) - Framework for creating microservice-based systems.
 - [Micronaut](http://micronaut.io) - Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 - [Nacos](https://nacos.io) - Dynamic service discovery, configuration and service management platform for building cloud native applications.
+- [Quarkus](https://quarkus.io) - Kubernetes stack tailored for the HotSpot and Graal VM.
 
 ### Monitoring
 
