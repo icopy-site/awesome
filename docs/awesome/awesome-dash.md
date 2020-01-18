@@ -73,6 +73,7 @@ A curated list of awesome Dash (plotly) resources
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
 - [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+- [Dash Data Dashboards and Apps](https://www.dashboardom.com/) - Collection of data dashboards with real life data, for various topics, as well as a few apps for online marketing built with Dash.
 
 ## Talks
 - [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) - Chelsea Douglas, PyData DC 2018.
@@ -94,6 +95,7 @@ A curated list of awesome Dash (plotly) resources
 - [Sergey Pikhovkin](https://github.com/pikhovkin)
 - [Pascal Bugnion](https://pascalbugnion.net)
 - [Florian Kromer](https://github.com/fkromer)
+- [Elias Dabbas](https://www.dashboardom.com)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -102,6 +102,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
+ ## IDE
+ *List of extensions for IDE*
+ 
+ * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language) - An extension for VS Code which provides support for the Phalcon Volt syntax and completion-auto
+ 
 
 ## Miscellaneous
 
