@@ -144,7 +144,7 @@ Hero Element Timing captures **when specific elements are painted** by the brows
 - [Docs - Hero Text Element Timestamps](https://docs.google.com/document/d/1co1yefZWQ4QvG_2WT0nCrqxcAgjU08um9Boe_JzHkdE/edit#heading=h.zwg1kfkhqmx)
 
 
-### Cumulative Layout Shift score (CLS)
+### Cumulative Layout Shift (CLS)
 
 A metric derived from the Layout Instability API. The cumulative layout shift (CLS) score is determined by calculating the sum of all unexpected (not within 0.5s of a user interaction) layout shift scores from page load until the page's lifecycle state changes to hidden.
 
@@ -215,7 +215,7 @@ The maximum potential [First Input Delay](#first-input-delay-fid) that your user
 - Lab: Lighthouse
 - Field: N/A
 
-### Total Blocking Time
+### Total Blocking Time (TBT)
 
 - Lab: Lighthouse
 - Field: N/A

@@ -391,6 +391,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [The Future of Blazor is Native Apps](https://medium.com/young-coder/the-future-of-blazor-is-native-apps-9f4a510acdd5) - January 18, 2020 - Microsoft imagines a future where Blazor runs on desktop and mobile — without WebAssembly.
 * [Should I Peek Blazor?](https://remibou.github.io/Should-I-peek-Blazor/) - January 16, 2020 - Should I Peek Blazor?
 * [Web developers: Microsoft Blazor lets you build native iOS, Android apps in C#, .NET](https://www.zdnet.com/article/web-developers-microsoft-blazor-lets-you-build-native-ios-android-apps-in-c-net/) - January 16, 2020 - Microsoft offers a new tool for building native iOS and Android apps in programming language C# and .NET.
 * [Using gRPC-Web with Blazor WebAssembly](https://blog.stevensanderson.com/2020/01/15/2020-01-15-grpc-web-in-blazor-webassembly/) - January 15, 2020 - gRPC-Web is a convenient, high-performance alternative to JSON-over-HTTP for single-page applications, by Steve Sanderson.
@@ -402,6 +403,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [What’s Old is New Again – Web Forms meets Blazor](https://jeffreyfritz.com/2020/01/whats-old-is-new-again-web-forms-meets-blazor/) - January 6, 2020 - What’s Old is New Again – Web Forms meets Blazor.
 * [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) - January 2, 2020 - Re-Using Angular components in a Blazor WebAssembly application using Angular Elements - Web Components custom elements, FTW!
 * [Display spinner on each API call automatically in Blazor](https://bipinpaul.com/posts/display-spinner-on-each-api-call-automatically-in-blazor) - January 2, 2020 - Display spinner on each API call automatically in Blazor. [Source code here](https://github.com/iAmBipinPaul/BlazorDisplaySpinnerAutomatically).
+* [gRPC With Blazor, C# And .Net Core](https://www.c-sharpcorner.com/article/grpc-with-c-sharp-net-core-calling-grpc-service-with-blazor-server-side-applicati/) - January 2, 2020 - gRPC With Blazor, C# And .Net Core.
 * [Bolero enables writing F# apps running in WebAssembly using Blazor](https://www.infoq.com/news/2019/12/bolero-sharp-webassembly/) - December 31, 2019 - [Bolero](https://github.com/fsbolero/bolero) enables writing [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/) apps running in WebAssembly using Blazor.
 * [Blazor easy access token management](https://wellsb.com/csharp/aspnet/blazor-easy-access-token-management/) - December 30, 2019 - Blazor easy access token management.
 * [Hosting Blazor applications on GitHub Pages](https://mikaberglund.com/2019/12/29/hosting-blazor-applications-on-github-pages/) - December 29, 2019 - Hosting Blazor applications on GitHub Pages.
@@ -562,6 +564,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts).
 
 ## Presentations slides
+* [Routing A-Z - .NET Conf "Focus on Blazor"](https://github.com/chrissainty/Talks-DotNetConf-01-2020) - January 14, 2020 - Slides and demo of the presentation by Chris Sainty at the .NET Conf "Focus on Blazor" about routing.
 * [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
 * [Hidden gems in ASP.Core and .NET Core 3.0](https://speakerdeck.com/davidfowl/hidden-gems-in-asp-dot-core-and-net-core-3-dot-0) - June 19, 2019 - Hidden gems in ASP.Core and .NET Core 3.0, by David Fowler and Damian Edwards at the NDC Oslo.
 * [Meet the production-ready Blazor aka Razor Components](https://codecamp.ro/timisoaraSpring) - May 25, 2019 - Slides: [PPTX](https://codecampro.blob.core.windows.net/sessions-upload/1306-CCBlazor.pptx).

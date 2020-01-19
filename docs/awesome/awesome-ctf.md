@@ -30,6 +30,8 @@ It takes time to build up collection of tools used in CTF and remember them all.
 *Tools used for creating Forensics challenges*
 
 - [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
+- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) - Triage program.
+- [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) - Artifact-centric DFIR tool.
 - [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry.
 
 ## Platforms
@@ -85,6 +87,7 @@ Check solve section for steganography.
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
 - [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks.
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption.
+- [QuipQuip](https://quipqiup.com) - An online tool for breaking substitution ciphers or vigenere ciphers (without key).
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
@@ -145,6 +148,7 @@ Check solve section for steganography.
 - [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) - A Whitespace Steganography Tool.
 - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps.
+- [Wireshark](https://www.wireshark.org) - Used to analyze pcap or pcapng files
 
 *Registry Viewers*
 - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format.
@@ -155,7 +159,7 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
-- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities).
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
@@ -175,7 +179,7 @@ Check solve section for steganography.
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework.
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
-- [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C.
+- [Boomerang](https://github.com/BoomerangDecompiler/boomerang) - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries.
@@ -194,7 +198,7 @@ Check solve section for steganography.
 - [PINCE](https://github.com/korcankaraokcu/PINCE) - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - A tool which uses intel pin for Side Channel Analysis.
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
-- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
+- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework.
 - [Triton](https://github.com/JonathanSalwan/Triton/) - Dynamic Binary Analysis (DBA) framework.
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc).
@@ -236,6 +240,7 @@ Check solve section for steganography.
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images.
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java.
+- [SteganographyOnline](https://stylesuxx.github.io/steganography/) - Online steganography encoder and decoder.
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image.
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images.
@@ -247,7 +252,7 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security. 
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) - Firefox addon for easy web exploitation.
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
@@ -317,6 +322,7 @@ Check solve section for steganography.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
 - [PentesterLab](https://pentesterlab.com/) - Variety of VM and online challenges (paid).
+- [PicoCTF](https://2019game.picoctf.com) - All year round ctf game. Questions from the yearly picoCTF competition.
 - [PWN Challenge](http://pwn.eonew.cn/) - Binary Exploitation Wargame.
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game.
 - [Pwnable.tw](https://pwnable.tw/) - Binary wargame.
@@ -350,6 +356,7 @@ Check solve section for steganography.
 
 - [Bamboofox](https://bamboofox.github.io/) - Chinese resources to learn CTF.
 - [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s.
+- [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) - CTF tips and tricks.
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab.
 - [OpenToAll](https://github.com/OpenToAllCTF/Tips) - CTF tips by OTA CTF team members.
 
