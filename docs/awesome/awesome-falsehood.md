@@ -2,11 +2,19 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome falsehoods programmers believe in.
+**A curated list of falsehoods programmers believe in.**
 
-> The logic of the world is prior to all truth and falsehood.
->
-> — Ludwig Wittgenstein. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961).
+<p align="center">
+  <a href="https://github.com/kdeldycke/awesome-falsehood/">
+    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-falsehood/master/./assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
+  </a>
+</p>
+
+<p align="center">
+  <i>The logic of the world is prior to all truth and falsehood.</i><br>
+  — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
+</p>
+
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
@@ -87,7 +95,7 @@ that make it not quite so.
 video about why you should never, ever deal with timezones if you can help it.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - The
 consequence of wrong calendar accounting.
-- [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String
+- [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String
 formatting of date is hard.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There
 are edge cases about dates and time (specifically UTC) that you probably
@@ -173,8 +181,8 @@ of delightful Unicode tidbits, packages and resources.
 is extensive, here be dragons.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives
 deeper in Unicode and dispels myths about code points.
-- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
-programmers spend so much time with Latin-1 they forgets about other's scripts
+- [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
+programmers spend so much time with `Latin-1` they forgets about other's scripts
 quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character
 encoding is hard, more so when each broken layer of data input adds its own
@@ -281,21 +289,21 @@ RFC4180 to exists, it is far from definitive and goes largely ignored.
 package and their managers.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An
 attempt to establish a list of falsehoods about testing.
-- [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) - Part
+- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part
 of a post on why file's `mtime` comparison could be considered harmful.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why
 your pagination algorithm is giving someone (possibly you) a headache.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not
 falsehoods *per-se*, but still a great list of good practices to implement
 autocompletion.
-- [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - A
+- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - A
 kind of falsehood on numbers, and floats vs decimals.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why
 search (including analysis, tokenization, highlighting) is deceptively complex.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk
 could have been named "falsehoods about usernames (and other identifiers)".
-- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - There
-are a few things about /dev/urandom and /dev/random that are repeated again and
+- [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There
+are a few things about `/dev/urandom` and `/dev/random` that are repeated again and
 again. Still they are false.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions
 about caches often lead to false assertions, especially when it comes to
@@ -319,9 +327,14 @@ Your contributions are always welcome! Please take a look at the
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-
 To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
+
+The [header image](https://raw.githubusercontent.com/kdeldycke/awesome-falsehood/master/./assets/awesome-falsehood-header.jpg) is based on a modified
+[photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),
+distributed under a [Creative Commons BY-SA 2.0 UK
+license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)

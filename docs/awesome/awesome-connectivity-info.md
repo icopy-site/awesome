@@ -62,7 +62,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - Broadband Commission: The State of Broadband ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 - GSMA - State of Mobile Internet Connectivity ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
-- [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
+- ITU Facts and Figures -  ([2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
 - [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019) [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
 - [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2019](https://a4ai.org/affordability-report/report/2019/)) ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
@@ -81,12 +81,12 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [GSMA Mobile Economy - West Africa](https://www.gsma.com/r/mobileeconomy/west-africa/) (2019)
 - [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
 - [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
-- [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2018)
+- [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2019)
 - [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - (Q3 2018) Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
 - [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) - 2016.
 - [Ericsson Mobility Report - Sub-Saharan Africa](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf) (2015)
-- [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a poupourii of countries based on OpenSignal data gathering.
+- [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
 
 
