@@ -14,6 +14,7 @@ All that you need to create a great mobile web experience.
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - How to prevent 300 ms delay on tap.
 - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) - How to make a really fast mobile website (by Flipboard).
+- [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/) - How to optimize site for specific hardware and network constraints.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (by Yelp).
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
@@ -24,7 +25,9 @@ All that you need to create a great mobile web experience.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
+- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) - On autocomplete attribute regarding 2fa.
 - [Learn AMP by Example](https://ampbyexample.com) - A hands-on introduction to Accelerated Mobile Pages focusing on code and live samples.
+- [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) - On optimizing sites for messengers.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) - Series of articles about mobile search UX.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) - A little bit out of date but still useful list of best practices for mobile websites from W3C.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) - The list of best practices for mobile web applications from W3C.
@@ -75,6 +78,7 @@ All that you need to create a great mobile web experience.
 
 ## Talks
 
+- [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&feature=emb_title) - Overview of practices for adapting a site to hardware and network constraints, by Addy Osmani, Nate Schloss.
 - [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) - Overview of the best practices for mobile web development, by Matt Gaunt.
 - [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) - The glimpse on how to optimize web apps and sites using streams and service workers and other new APIs, by Jake Archibald.
 - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - Introduction to service workers, by Jake Archibald.

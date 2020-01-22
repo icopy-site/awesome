@@ -167,7 +167,8 @@
 - [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](awesome/awesome-R.md)
 - [D](awesome/awesome-d.md)
-- [Common Lisp](awesome/awesome-cl.md)
+- [Common Lisp](awesome/awesome-cl.md) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development. 
+	- [Learning](awesome/awesome-common-lisp-learning.md)
 - [Perl](awesome/awesome-perl.md)
 - [Groovy](awesome/awesome-groovy.md)
 - [Dart](awesome/awesome-dart.md)
@@ -269,6 +270,7 @@
 - [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
 - [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
 - [Web Performance Budget](awesome/awesome-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
+- [Web Animation](awesome/awesome-web-animation.md) - Animations in the browser with JavaScript, CSS, SVG, etc.
 
 ## Back-End Development
 
@@ -538,11 +540,16 @@
 - [Ethereum](awesome/Awesome-Ethereum.md) - Distributed computing platform for smart contract development.
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
+- [Corda](awesome/awesome-corda.md) - Open source blockchain platform designed for business.
 
 ## Higher Education
 
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
+
+## Events
+
+- [Creative Tech Events](awesome/awesome-creative-tech-events.md) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## Miscellaneous
 

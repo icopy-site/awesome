@@ -115,6 +115,8 @@ nav:
     - R: awesome/awesome-R.md
     - D: awesome/awesome-d.md
     - Common Lisp: awesome/awesome-cl.md
+    - Common Lisp_sub: 
+      - Learning: awesome/awesome-common-lisp-learning.md
     - Perl: awesome/awesome-perl.md
     - Groovy: awesome/awesome-groovy.md
     - Dart: awesome/awesome-dart.md
@@ -219,6 +221,7 @@ nav:
     - Tailwind CSS: awesome/awesome-tailwindcss.md
     - Seed: awesome/awesome-seed-rs.md
     - Web Performance Budget: awesome/awesome-performance-budget.md
+    - Web Animation: awesome/awesome-web-animation.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -456,9 +459,12 @@ nav:
     - Ethereum: awesome/Awesome-Ethereum.md
     - Blockchain AI: awesome/awesome-blockchain-ai.md
     - EOSIO: awesome/awesome-eosio.md
+    - Corda: awesome/awesome-corda.md
   - Higher Education:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
     - Digital History: awesome/awesome-digital-history.md
+  - Events:
+    - Creative Tech Events: awesome/awesome-creative-tech-events.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
