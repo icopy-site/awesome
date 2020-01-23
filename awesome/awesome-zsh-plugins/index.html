@@ -8717,7 +8717,7 @@
 <p>A fast, configurable, shell plugin manager.</p>
 <ul>
 <li>Can manage</li>
-<li>Any Git repository.<ul>
+<li>Any <code>git</code> repository.<ul>
 <li>Branch/tag/commit support.</li>
 <li>Extra support for GitHub repositories.</li>
 <li>Extra support for Gists.</li>
@@ -8739,13 +8739,14 @@
 <h3 id="zgem"><a href="https://github.com/qoomon/zgem">zgem</a><a class="headerlink" href="#zgem" title="Permanent link">&para;</a></h3>
 <p><strong>Zgem</strong> is a plugin manager for ZSH that supports loading and updating plugins and themes from git, http and local files.</p>
 <h3 id="zgen"><a href="https://github.com/tarjoilija/zgen">zgen</a><a class="headerlink" href="#zgen" title="Permanent link">&para;</a></h3>
-<p><strong>Zgen</strong> is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have a minimal overhead when starting up the shell because nobody likes waiting. The script generates a static <code>init.zsh</code> file which does nothing but source your plugins and append them to your <code>fpath</code>. This saves startup time by not having to execute time consuming logic (plugin checking, updates, etc). The downside is that you have to refresh the init script manually with <code>zgen reset</code> whenever you update your <code>.zshrc</code>. Can load <a href="http://ohmyz.sh/">oh-my-zsh</a>-compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.</p>
+<p><strong>Zgen</strong> is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have minimal overhead when starting up the shell because nobody likes waiting.</p>
+<p>To do this, <code>zgen</code> generates a static <code>init.zsh</code> file which does nothing but source your plugins and append them to your <code>fpath</code>. This minimizes startup time by not having to execute time consuming logic (plugin checking, updates, etc). The downside is that you have to refresh the init script manually with <code>zgen reset</code> whenever you update your <code>.zshrc</code>. Can load <a href="http://ohmyz.sh/">oh-my-zsh</a>-compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.</p>
 <h3 id="zilsh"><a href="https://github.com/zilsh/zilsh">zilsh</a><a class="headerlink" href="#zilsh" title="Permanent link">&para;</a></h3>
 <p><strong>zilsh</strong> is a ZSH config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.</p>
 <h3 id="zim"><a href="https://github.com/zimfw/zimfw">zim</a><a class="headerlink" href="#zim" title="Permanent link">&para;</a></h3>
 <p><strong>Zim</strong> is a ZSH configuration framework with blazing speed and modular extensions.</p>
 <h3 id="zinit"><a href="https://github.com/zdharma/zinit">Zinit</a><a class="headerlink" href="#zinit" title="Permanent link">&para;</a></h3>
-<p><strong>Zinit</strong> is an innovative plugin manager with <a href="https://github.com/zdharma/zplugin-crasis">semigraphical UI</a>, <a href="http://zdharma.org/zinit/wiki/INTRODUCTION/#turbo_mode_zsh_62_53">Turbo Mode</a>, a clean fpath, reports, completion management and <a href="https://github.com/zservices">services</a> support. You can use <a href="https://github.com/zdharma/zplugin-crasis">crasis</a> and also
+<p><strong>Zinit</strong> is an innovative plugin manager with <a href="https://github.com/zdharma/zplugin-crasis">semigraphical UI</a>, <a href="http://zdharma.org/zinit/wiki/INTRODUCTION/#turbo_mode_zsh_62_53">Turbo Mode</a>, a clean fpath, reports, completion management and <a href="https://github.com/zservices">services</a> support. You can use <a href="https://github.com/zdharma/zplugin-crasis">crasis</a> or
 <a href="https://github.com/zdharma/declare-zsh">declare-zsh</a> to edit your Zinit
 commands in your <code>~.zshrc</code> and also use <a href="https://github.com/zinit-zsh/zinit-console">zinit-console</a> to view and change the state of the ZSH session and to delete the plugins and snippets from the disk.</p>
 <p>The project is very active – currently &gt; 2000 commits.</p>
@@ -8789,9 +8790,9 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <p><strong>zshing</strong> is a ZSH plugin manager similar to Vundle/Vim and allows you to...</p>
 <ul>
 <li>keep track of and configure your plugins right in the <code>.zshrc</code></li>
-<li>Install Zsh plugins</li>
-<li>Update Zsh plugins</li>
-<li>Search by name all available Zsh Plugins</li>
+<li>Install ZSH plugins</li>
+<li>Update ZSH plugins</li>
+<li>Search by name all available ZSH Plugins</li>
 <li>Clean unused plugins up</li>
 <li>run the above actions in a <em>single command</em></li>
 <li>manages the <strong>Source Plugins</strong> of your installed Plugins</li>
@@ -8837,12 +8838,12 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <h3 id="zgen_1">Zgen<a class="headerlink" href="#zgen_1" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/brandon-fryslie/rad-shell">rad-shell</a> - A fantastically feature rich, lightning-fast shell setup, powered by <a href="http://www.zsh.org/">ZSH</a>, <a href="https://github.com/sorin-ionescu/prezto">Prezto</a>, and <a href="https://github.com/tarjoilija/zgen">Zgen</a>.</li>
-<li><a href="https://github.com/unixorn/zsh-quickstart-kit">zsh-quickstart-kit</a> - A simple quickstart for using ZSH with <a href="https://github.com/tarjoilija/zgen">zgen</a>. This includes a curated collection of plugins, and will automatically configure ZSH to use <a href="https://github.com/tarjoilija/zgen">zgen</a> to load them, configures <a href="https://github.com/tarjoilija/zgen">zgen</a> to periodically automatically update itself, the plugins, and the quickstart kit itself.</li>
+<li><a href="https://github.com/unixorn/zsh-quickstart-kit">zsh-quickstart-kit</a> - A simple quickstart for using ZSH with <a href="https://github.com/tarjoilija/zgen">zgen</a>. This includes a curated collection of plugins, automatically configures ZSH to use <a href="https://github.com/tarjoilija/zgen">zgen</a> to load them and periodically automatically update itself, the plugins, and the quickstart kit itself.</li>
 </ul>
 <h3 id="zinit_1">Zinit<a class="headerlink" href="#zinit_1" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/black7375/BlaCk-Void-Zsh">BlaCk-Void-Zsh</a> - <img alt="🔮" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f52e.svg" title=":crystal_ball:" /> Awesome, Customable Zsh Starter Kit <img alt="🌠" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f320.svg" title=":stars:" /><img alt="🌠" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f320.svg" title=":stars:" /></li>
-<li><a href="https://github.com/zdharma/zplugin-configs">zplugin-configs</a> - Real-world configuration files (basically zshrc-s) holding Zplugin invocations.</li>
+<li><a href="https://github.com/zdharma/zinit-configs">zinit-configs</a> - Real-world configuration files (basically a collection of <code>.zshrc</code> files) holding Zplugin invocations.</li>
 </ul>
 <h2 id="plugins">Plugins<a class="headerlink" href="#plugins" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8939,7 +8940,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/vincentdnl/zsh-crypto-prices">crypto-prices</a> - Add a <a href="https://github.com/bhilburn/powerlevel9k">powerlevel9k</a> segment with the current bitcoin price.</li>
 <li><a href="https://github.com/veelenga/crystal-zsh">crystal</a> - A plugin for <a href="https://github.com/crystal-lang/crystal">Crystal</a>.</li>
 <li><a href="https://github.com/jsks/czhttpd">czhttpd</a> - A simple http server written in 99.9% pure ZSH.</li>
-<li><a href="https://github.com/zdharma/declare-zsh">declare-zsh</a> - A command-line parser for Zplugin commands in <code>zshrc</code>.</li>
+<li><a href="https://github.com/zdharma/declare-zsh">declare-zsh</a> - A command-line parser for Zinit commands in <code>zshrc</code>.</li>
 <li><a href="https://github.com/GetAmbush/deepx-zsh-plugin">deepx</a> - Collection of useful and fun commands to improve workflow and quality of life.</li>
 <li><a href="https://github.com/Vifon/deer">deer</a> - A file navigator for ZSH heavily inspired by <a href="https://ranger.github.io/">ranger</a>.</li>
 <li><a href="https://github.com/kuoe0/zsh-depot-tools">depot-tools</a> - Simple oh-my-zsh plugin for installing the chromium depot_tools. Installing this plugin will put all of the chromium depot_tools in your path automatically.</li>
@@ -9311,11 +9312,11 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/MichaelAquilina/zsh-you-should-use">you-should-use</a> - ZSH plugin that reminds you to use those aliases you defined.</li>
 <li><a href="https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases">youtube-dl-aliases</a> - Adds <code>yt</code> aliases to download videos from YouTube.</li>
 <li><a href="https://github.com/joow/youtube-dl">youtube-dl</a> - Simple plugin for <a href="https://youtube-dl.org/">youtube-dl</a>.</li>
-<li><a href="https://github.com/zplugin/z-a-bin-gem-node">z-a-bin-gem-node</a> - Zplugin extension that a) exposes binaries without altering <code>$PATH</code>, b) installs Ruby gems and Node modules and easily exposes their binaries, c) updates the gems and modules on update of the associated plugin or snippet.</li>
-<li><a href="https://github.com/zplugin/z-a-man">z-a-man</a> - Zplugin extension that generates man pages for all plugins and snippets.</li>
-<li><a href="https://github.com/zplugin/z-a-patch-dl">z-a-patch-dl</a> - Zplugin extension that downloads files and applies patches through the provided <code>dl''</code> and <code>patch''</code> ices.</li>
-<li><a href="https://github.com/zplugin/z-a-rust">z-a-rust</a> - Zplugin extension that that installs rust and cargo packages inside plugin directories.</li>
-<li><a href="https://github.com/zplugin/z-a-test">z-a-test</a> - Zplugin extension that runs tests (via <code>make test</code>, for example) – if it finds any of them – after installing and updating a plugin or snippet.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-bin-gem-node">z-a-bin-gem-node</a> - Zinit extension that a) exposes binaries without altering <code>$PATH</code>, b) installs Ruby gems and Node modules and easily exposes their binaries, c) updates the gems and modules on update of the associated plugin or snippet.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-man">z-a-man</a> - zinit extension that generates man pages for all plugins and snippets.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-patch-dl">z-a-patch-dl</a> - Zinit extension that downloads files and applies patches through the provided <code>dl''</code> and <code>patch''</code> ices.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-rust">z-a-rust</a> - Zinit extension that that installs rust and cargo packages inside plugin directories.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-test">z-a-test</a> - Zinit extension that runs tests (via <code>make test</code>, for example) – if it finds any of them – after installing and updating a plugin or snippet.</li>
 <li><a href="https://github.com/skywind3000/z.lua">z.lua</a> - A command line tool which helps you navigate faster by learning your habits. An alternative to <a href="https://github.com/rupa/z">z.sh</a> with windows and posix shells support and various improvements.</li>
 <li><a href="https://github.com/zsh-users/zaw">zaw</a> - ZSH anything.el-like widget.</li>
 <li><a href="https://github.com/hchbaw/zce.zsh">zce</a> - Vim’s EasyMotion / Emacs’s ace-jump-mode for ZSH.</li>
@@ -9478,8 +9479,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/zlsun/avit-mod">avit-mod</a> - Modified version of oh-my-zsh's <a href="https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme">avit</a> theme.</li>
 <li><a href="https://github.com/sorcererxw/banana-zsh-theme">banana</a> - Includes <code>git</code> status decorations and current directory.</li>
 <li><a href="https://github.com/Holger-Will/zsh_bandit">bandit</a> - Another Powerline variant.</li>
-<li><a href="https://github.com/anki-code/zsh-bar-theme">bar (anki-code)</a> - Colorful theme, includes <code>git</code> decorations and active conda version.</li>
-<li><a href="https://github.com/xp-bar/zsh-bar-theme">bar (xp-bar)</a> - Includes username, host, pwd, <code>git</code> status decorations and  3x hour reminders to drink water.</li>
+<li><a href="https://github.com/xp-bar/zsh-bar-theme">bar</a> - Includes username, host, pwd, <code>git</code> status decorations and  3x hour reminders to drink water.</li>
 <li><a href="https://github.com/eli-oat/bashi">bashi</a> - Optimized for Ahmet Sülek's <a href="https://github.com/ahmetsulek/flat-terminal">Flat UI Terminal</a> theme and Pasquale D'Silva's <a href="https://github.com/psql/saturn-colors">Saturn Terminal</a> theme.</li>
 <li><a href="https://github.com/jsundqvist/bastard.zsh-theme">bastard</a> - Modified version of <a href="https://github.com/zimfw/gitster">gitster</a> theme for <a href="https://github.com/zimfw/zimfw#installation">ZIM</a>.</li>
 <li><a href="https://github.com/JanmanX/bearable-zsh">bearable</a> - Works well with dark terminal backgrounds.</li>
