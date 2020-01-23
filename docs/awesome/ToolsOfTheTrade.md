@@ -885,7 +885,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Puppet](https://puppet.com) | [@puppetize](https://twitter.com/puppetize) | - | - |
 | [Ansible](https://www.ansible.com) | [@ansible](https://twitter.com/ansible) | - | - |
 | [Vagrant](https://www.vagrantup.com) | - | - | - |
-| [Salt](https://www.saltstack.com/resources/community/) | [@SaltStack](https://twitter.com/SaltStack) | - | - |
 | [Ngrok](https://ngrok.com) | - | - | - |
 
 ### SEO Tools
