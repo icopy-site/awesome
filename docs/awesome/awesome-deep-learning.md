@@ -76,7 +76,8 @@
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
-31. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
+31. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
+32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
 
 ### Videos and Lectures
 
@@ -377,7 +378,7 @@
 73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
 74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file 
 75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
-76. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineerign designs. (Formats: gif,vrml,wrl,stp,sat) 
+76. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat) 
 77. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu) 
 79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - several sets of 3D object models collected over several years to use in object recognition research (Formats: homebrew, vrml)
 80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
@@ -501,6 +502,7 @@
 50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+53.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
 
 ### Tools
 
@@ -508,6 +510,8 @@
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+5.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
+6.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
 
 ### Miscellaneous
 

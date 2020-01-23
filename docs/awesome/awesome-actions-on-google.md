@@ -48,6 +48,10 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
 - [Build Actions for the Google Assistant (Level 2)](https://codelabs.developers.google.com/codelabs/actions-2/index.html)
 - [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
+- [Engage Users with your Action](https://codelabs.developers.google.com/codelabs/actions-user-engagement/index.html)
+- [Extend an Android app to the Google Assistant with App Actions](https://codelabs.developers.google.com/codelabs/appactions/index.html)
+- [Smart Home Local Execution](https://codelabs.developers.google.com/codelabs/smarthome-local/index.html)
+- [Smart Home Washer](https://codelabs.developers.google.com/codelabs/smarthome-washer/index.html)
 - [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) - Qwiklabs quest with 6 labs.
 - [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) - Udemy course to create an app for the Google Assistant and Google Home in Node.js.
 - [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) - Udemy course to build actions with Dialogflow.

@@ -31,6 +31,7 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 ## February
 - 1 - [Agile Venture Milano 2020](https://www.agilemovement.it/venture/2020/milano/) - Milano - Agile in the landscape of emerging technologies.
 - 2-7 - [IxDA](https://interaction20.ixda.org/) - Milano - Design focused workshops and talks.
+- 15 - [Global Power Platform Bootcamp 2020](https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469) - Milano - Microsoft’s Power Platform focused event.
 - 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## March

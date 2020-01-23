@@ -228,7 +228,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Head Element Helper](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
 * [Localized Data Annotations Validator](https://github.com/jsakamoto/Toolbelt.Blazor.LocalizedDataAnnotationsValidator/) - The data annotations validator for Blazor to localize validation error messages. ([Demo](https://demo-blazor-localized-data-annotations-validator.azurewebsites.net/)).
 * [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - A collection of Blazor components that emulate the web forms components of the same name.
-* [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Broswer's current size, change in size, and test media queries.
+* [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 * [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
@@ -285,6 +285,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) - January 21, 2020 - This video covers how we can use HttpClient in your Blazor app to make API calls to login user into the system. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) - January 15, 2020 - This video by Microsoft covers how you can use authentication and authorization within your Blazor application.
 * [.NET Conf session: Blazor for Web Form and C# Developers](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Blazor-for-Web-Form-and-C-Developers) - January 14, 2020 - "Blazor for Web Form and C# Developers" by Jeff Fritz, session of the .NET Conf "Focus on Blazor". This session covers how you can use Blazor within your Web Form applications.
 * [.NET Conf session: Build Serverless Apps with Blazor](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Build-Serverless-Apps-with-Blazor) - January 14, 2020 - "Build Serverless Apps with Blazor" by Daria Grigoriu and Fabio Cavalcante, session of the .NET Conf "Focus on Blazor". This session covers how you can build serverless Blazor applications.
@@ -387,6 +388,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor's Future: gRPC Is Key](https://visualstudiomagazine.com/articles/2020/01/17/blazor-future.aspx) - January 21, 2020 - Blazor's Future: gRPC Is Key, by the Visual Studio Magazine.
+* [Avoiding Parking Fines with Blazor and Geolocation](https://dev.to/ondrabus/avoiding-parking-fines-with-blazor-and-geolocation-572o) - January 20, 2020 - Avoiding Parking Fines with Blazor and Geolocation. [Source code](https://github.com/ondrabus/dont-park-here-client).
 * [6 Blazor component libraries to speed up your development](https://jonhilton.net/blazor-component-libraries/) - January 20, 2020 - 6 Blazor component libraries to speed up your development.
 * [Using NSwag to Generate Blazor Server Client for an ASP.NET Core 3.1 API](https://elanderson.net/2020/01/using-nswag-to-generate-blazor-server-client-for-an-asp-net-core-3-1-api/) - January 19, 2020 - Using NSwag to Generate Blazor Server Client for an ASP.NET Core 3.1 API.
 * [The Future of Blazor is Native Apps](https://medium.com/young-coder/the-future-of-blazor-is-native-apps-9f4a510acdd5) - January 18, 2020 - Microsoft imagines a future where Blazor runs on desktop and mobile — without WebAssembly.
@@ -410,6 +413,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [How Blazor is going to change Web Development](https://www.jeremymorgan.com/blog/blazor/what-is-blazor/) - December 27, 2019 - How Blazor is going to change Web Development.
 * [Blazor and network status](https://www.neptuo.com/blog/2019/12/blazor-network-status/) - December 25, 2019 - Making Blazor reusable component for PWA application that reacts to disconnection from the internet.
 * [Cache IdentityServer4 Access Token Blazor](https://wellsb.com/csharp/aspnet/cache-identityserver4-access-token-blazor/) - December 20, 2019 - Cache IdentityServer4 Access Token Blazor. [Source code](https://github.com/bradwellsb/blazor-contacts/tree/tutorial-part3).
+* [How to Build an Interactive SPA with Blazor](https://dev.to/ondrabus/how-to-build-an-interactive-spa-with-blazor-4k8n) - December 18, 2019 - How to Build an Interactive SPA with Blazor. [Source code](https://github.com/ondrabus/dont-park-here-client/tree/c68e76e5d7a25af59357e247a086ac69e5e5a5cf).
 * [How to Perform CRUD Operations Using Blazor Preview 9 and Entity Framework Core 3.0](https://www.syncfusion.com/blogs/post/how-to-perform-crud-operations-using-blazor-preview-9-and-entity-framework-core-3-0.aspx) - December 18, 2019 - How to Perform CRUD Operations Using Blazor Preview 9 and Entity Framework Core 3.0. [Source code](https://github.com/SyncfusionExamples/employee-management-blazor).
 * [App Settings in Client-Side Blazor](https://hutchcodes.net/2019/12/blazor-wasm-app-settings/) - December 17, 2019 - Get environment specific app settings into Client Side Blazor.
 * [Introduction to Blazor Component Testing](https://chrissainty.com/introduction-to-blazor-component-testing/) - December 17, 2019 - Introduction to Blazor Component Testing.
