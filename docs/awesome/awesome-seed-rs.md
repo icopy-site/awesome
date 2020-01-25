@@ -20,6 +20,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Homepage](https://seed-rs.org/)
 - [GitHub repo](https://github.com/seed-rs/seed)
+- [Forum](https://seed.discourse.group)
+- [Chat](https://discord.gg/JHHcHp5)
 
 ## Books
 - [Engineering Rust Web Applications](https://erwabook.com/) - Diesel, Rocket and Seed.
@@ -28,7 +30,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Quickstarts
 
 - [Default quickstart](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
-- [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
+- [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
 
 ## Examples
 
