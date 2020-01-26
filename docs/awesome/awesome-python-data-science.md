@@ -27,6 +27,7 @@
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
 
 ### Time Series
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.

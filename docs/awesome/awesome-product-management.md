@@ -158,6 +158,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://svpg.com/author/marty/).
+- [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 
 ## Books
 
@@ -177,6 +178,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 - [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - By Kim Scott.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
+- [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 
 ## Podcasts
 
