@@ -60,6 +60,8 @@
 - [Calligra](https://www.calligra.org/) - Includes efficient and capable office components 📌.
 - [Kate](https://www.kde.org/applications/utilities/kate/) - A multi-document, multi-view text editor by KDE 📌.
 - [KWrite](https://www.kde.org/applications/utilities/kwrite) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
+- [Kronometer](https://userbase.kde.org/Kronometer) A stopwatch application for KDE 📌.
+- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 
 ### System Administration
 
@@ -71,6 +73,8 @@
 - [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) - A utility that provides detailed information about a computer system 📌.
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) - A system log viewer tool 📌.
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
+- [Kup](https://github.com/spersson/Kup) - A backup scheduler for KDE's Plasma desktop.
+- [Krusader](https://krusader.org/) - An advanced twin panel (commander style) file manager for KDE 📌.
 
 ### Utilities & Tools
 
@@ -81,18 +85,24 @@
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
-- [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak can be used to remind you to take a break now and then 📌.
 - [KRename](https://userbase.kde.org/KRename) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
+- [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Night-mode for Linux.
+- [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
+- [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.
 
 ### Development & Programming
 
 - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP 📌.
 - [Kompare](https://www.kde.org/applications/development/kompare/) - A diff/patch frontend 📌.
-- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
 - [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
 - [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
+
+### Education
+
+- [KTurtle](https://www.kde.org/applications/education/kturtle/) - An educational programming environment that aims to make learning how to program as easy as possible 📌.
+- [LabPlot](https://labplot.kde.org/) - Interactive graphing and analysis of scientific data 📌.
 
 ## Customization
 
@@ -102,6 +112,10 @@
 
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
 - [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+- [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+- [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
+- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
+- [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 
 #### KCM Modules and Systems
 
@@ -116,16 +130,36 @@
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
 - [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
 - [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
+- [Hello](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
+- [McMojave](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
+- [Canta](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
+- [Darkine KDE](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
+- [Qogir](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
+- [Layan](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
 
-##### Qt and GTK+ Applications Appearance
+#### Qt and GTK+ Applications Appearance
 
 - [breeze-gtk](https://github.com/KDE/breeze-gtk) - A GTK Theme Built to Match KDE's Breeze 📌.
+- [Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma.
+- [SierraBreeze](https://github.com/ishovkun/SierraBreeze) - OSX-like window decoration for KDE Plasma written in C++.
+- [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE.
+- [BreezeBlurred](https://github.com/alex47/BreezeBlurred) - A fork of KDE Breeze window decoration written in Qt C++.
+- [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options.
+- [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
+Rounds the corners of your windows.
+- [Sweet KDE](https://github.com/EliverLara/Sweet-kde) - A dark and modern theme for KDE plasma.
+- [XBoomer](https://github.com/efskap/XBoomer) - XP Window Decorations for KDE Plasma.
+- [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 - [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 - [Zafiro](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+- [Flatery](https://github.com/cbrnix/Flatery) - Icon theme for Linux in flat style.
+- [Candy](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
 
 #### Cursors
 
@@ -135,6 +169,14 @@
 #### Scripts
 
 - [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
+- [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
+- [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
+
+#### Display Manager
+
+- [Chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
+- [Delicious](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
+- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
 ## Documentation
 
