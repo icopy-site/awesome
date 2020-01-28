@@ -304,6 +304,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
 - [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+- [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru *(Russian)*.
 
 ### Newsletters
 
@@ -322,7 +323,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 - [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
-- [Чат любителей JMeter](http://is.gd/jmeterchat) - Skype chat of JMeter enthusiasts *(Russian)*.
 
 ## Related
 

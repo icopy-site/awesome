@@ -122,6 +122,7 @@ Pull-Requests are welcomed.
 - [CouchDB Maximum Database Size](http://www.nosql.se/2011/09/couchdb-maximum-database-size/)
 - [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [Persistent Trees in git, Clojure and CouchDB](https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/)
+- [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
 ### Attachments
 

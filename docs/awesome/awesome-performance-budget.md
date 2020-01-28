@@ -42,10 +42,12 @@
 ## Bundle Analyzers
 
 - [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
+- [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 - [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) - Metrics about your roll up bundle, sneak into your bundle using this tool.
+- [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## Videos
