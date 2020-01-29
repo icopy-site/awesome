@@ -162,6 +162,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Cognitive Services Explorer](https://github.com/jernejk/CognitiveServices.Explorer) - ![last commit](https://img.shields.io/github/last-commit/jernejk/CognitiveServices.Explorer?style=flat-square&cacheSeconds=86000) PWA enabled app used to showcase what Cognitive Services can do, built-in client-side Blazor. [Demo](https://jernejk.github.io/CognitiveServices.Explorer/).
 * [Blazor Wake-on-LAN](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square&cacheSeconds=86000) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
 * [BlazorOCR](https://github.com/daltskin/BlazorOCR) - ![Last commit](https://img.shields.io/github/last-commit/daltskin/BlazorOCR?style=flat-square&cacheSeconds=86000) A Blazor WebAssembly application for reading receipts.
+* [Dcidr](https://github.com/timplourde/dcidr-blazor) - Blazor WebAssembly decision-making app with PWA (offline), localstorage, and Excel export. [Demo](https://dcidr.z20.web.core.windows.net/).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -230,6 +231,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - A collection of Blazor components that emulate the web forms components of the same name.
 * [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 * [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
+* [GG.Net Data Visualization](https://github.com/pablofrommars/GGNet) - Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) Connecting a Redux state store with Blazor.
@@ -285,6 +287,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) - January 22, 2029 - I show how to install BlazorStyled for SSB and how I built a ProgressBar and Sprite Component to do simple animaitons.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) - January 21, 2020 - This video covers how we can use HttpClient in your Blazor app to make API calls to login user into the system. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) - January 15, 2020 - This video by Microsoft covers how you can use authentication and authorization within your Blazor application.
 * [.NET Conf session: Blazor for Web Form and C# Developers](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Blazor-for-Web-Form-and-C-Developers) - January 14, 2020 - "Blazor for Web Form and C# Developers" by Jeff Fritz, session of the .NET Conf "Focus on Blazor". This session covers how you can use Blazor within your Web Form applications.
@@ -387,7 +390,9 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor client-side app with CRUD operations against a Web API endpoint](https://www.youtube.com/watch?v=wkSR3eo4Tek) - June 1, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
+
 ## Articles
+* [Blazor by Example - Build a simple markdown editor](https://jonhilton.net/blazor-markdown-editor/) - January 27, 2020 - Blazor by Example - Build a simple markdown editor.
 * [Getting Started with Blazor Server Apps in Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/getting-started-with-blazor-server-apps-in-visual-studio-for-mac/) - January 22, 2020 - Getting Started with Blazor Server Apps in Visual Studio for Mac.
 * [Blazor's Future: gRPC Is Key](https://visualstudiomagazine.com/articles/2020/01/17/blazor-future.aspx) - January 21, 2020 - Blazor's Future: gRPC Is Key, by the Visual Studio Magazine.
 * [Embedding Power BI in Blazor](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4373/Embedding-Power-BI-in-Blazor.aspx) - January 21, 2020 - You can embed Power BI reports into a Server Side Blazor Application. This method allows you to display a Power BI report without requiring the user to have a Power BI account.
