@@ -550,6 +550,8 @@
 ## Events
 
 - [Creative Tech Events](awesome/awesome-creative-tech-events.md) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+- [Events in Italy](awesome/awesome-italy-events.md) - Tech-related events in Italy.
+- [Events in the Netherlands](awesome/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 
 ## Miscellaneous
 
@@ -626,8 +628,6 @@
 - [Framer](awesome/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown](awesome/awesome-markdown.md) - Markup language.
 - [Dev Fun](awesome/awesome-dev-fun.md) - Funny developer projects.
-- [Events in Italy](awesome/awesome-italy-events.md) - Tech-related events in Italy.
-- [Events in the Netherlands](awesome/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 - [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
 - [TikZ](awesome/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.

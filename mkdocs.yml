@@ -465,6 +465,8 @@ nav:
     - Digital History: awesome/awesome-digital-history.md
   - Events:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
+    - Events in Italy: awesome/awesome-italy-events.md
+    - Events in the Netherlands: awesome/awesome-netherlands-events.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -540,8 +542,6 @@ nav:
     - Framer: awesome/awesome-framer.md
     - Markdown: awesome/awesome-markdown.md
     - Dev Fun: awesome/awesome-dev-fun.md
-    - Events in Italy: awesome/awesome-italy-events.md
-    - Events in the Netherlands: awesome/awesome-netherlands-events.md
     - Healthcare: awesome/awesome-healthcare.md
     - Magento 2: awesome/awesome-magento2.md
     - TikZ: awesome/awesome-tikz.md
