@@ -23,7 +23,7 @@
 
 ## Language Servers
 
-- [GVLS](https://gitlab.gnome.org/esodan/gvls) - A service that provides code completion and formatting for Vala. This does not currently work with Visual Studio Code and has an open issue for implementing the Language Server Protocol, so it's not a proper Language Server.
+- [GVLS](https://gitlab.gnome.org/esodan/gvls) - A service that provides code completion and formatting for Vala. This does not currently work with Visual Studio Code due to missing details on the lsp implementation, but it does work with GNOME Builder.
 - [vala-language-server](https://github.com/benwaffle/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ## Graphic Libraries
@@ -36,7 +36,7 @@
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/) - The de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
+- [GTK+](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
 ## Multimedia Processing
 
@@ -55,7 +55,7 @@
 
 ## Numerical Computation
 
-- [vast](https://github.com/rainwoodman/vast) - A project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
+- [vast](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ## Crypto & Security
 

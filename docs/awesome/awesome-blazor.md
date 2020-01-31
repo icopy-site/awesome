@@ -320,6 +320,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [From console app to blazor app in about 20 minutes](https://www.youtube.com/watch?v=QvpQQiDrxn4) - December 14, 2019 - Shows you how to create a Blazor Application from a Console Application using Visual Studio 2019 and .Net Core 3.1.
 * [Visual Studio 2019 & .Net Core 3.1 SDK Install](https://www.youtube.com/watch?v=8ZWs_g2aR9g) - December 13, 2019 - Install and verify Visual Studio 2019 and .Net Core 3.1 SDK.
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sxJG1J-H8TQ&feature=youtu.be) - December 9, 2019 - Blazor StateHasChanged: Hot take on hot questions from the community.
+* [Blazor for Web Forms Developers - Components to make migration easier](https://www.youtube.com/watch?v=6iy316pdRXg) - December 5, 2019 - Blazor for Web Forms Developers - Components to make migration easier.
 * [Building Serverless web applications with Blazor and Azure Functions](https://channel9.msdn.com/Shows/On-NET/Blazor-and-Azure-Functions) - December 5, 2019 - Building Serverless web applications with Blazor and Azure Functions, on Channel 9.
 * [Blazor Update with Daniel Roth](https://www.youtube.com/watch?v=PaemestFrt0&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - December 3, 2019 - ASP.NET Community Standup - Dec 3rd, 2019 - Blazor Update with Daniel Roth.
 * [Blazor Tutorial : Authentication | Out of the box](https://www.youtube.com/watch?v=StjyKhy9e7M) - December 3, 2019 - Blazor Tutorial : Authentication | Out of the box.
@@ -392,6 +393,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Building experimental hybrid Blazor WebAssembly application](https://gunnarpeipman.com/blazor-hybrid-application-experimental/) - January 30, 2020 - Building experimental hybrid Blazor WebAssembly application, by Gunnar Peipman.
 * [Exploring WebWindow examples for Blazor on desktop](https://gunnarpeipman.com/blazor-on-desktop-webwindow-experiment) - January 29, 2020 - Exploring WebWindow examples for Blazor on desktop.
 * [Test Your Jsinterop Code With Cypress](https://remibou.github.io/Test-your-JSInterop-code-with-cypress/) - January 29, 2020 - Test your JSInterop code with cypress.io.
 * [Blazor WebAssembly 3.2.0 Preview 1 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-1-release-now-available/) - January 28, 2020 - Blazor WebAssembly 3.2.0 Preview 1 release now available.
@@ -577,6 +579,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts).
 
 ## Presentations slides
+* [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2020-01-NDCLondon) - January 29, 2002 - Source doe of the session by Steve Sanderson at the NDC London, "Blazor, a new framework for browser-based .NET apps".
 * [Authoring custom components - .NET Conf "Focus on Blazor"](https://github.com/EdCharbeneau/DotnetConfBlazor) - January 14, 2020 - Slides and demo of the presentation by Ed Charbeneau at the .NET Conf "Focus on Blazor".
 * [Routing A-Z - .NET Conf "Focus on Blazor"](https://github.com/chrissainty/Talks-DotNetConf-01-2020) - January 14, 2020 - Slides and demo of the presentation by Chris Sainty at the .NET Conf "Focus on Blazor" about routing.
 * [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
