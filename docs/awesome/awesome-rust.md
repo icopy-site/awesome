@@ -762,6 +762,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [BurntSushi/rust-csv](https://raw.githubusercontent.com/BurntSushi/rust-csv) — A fast and flexible CSV reader and writer, with support for Serde [<img src="https://api.travis-ci.org/BurntSushi/rust-csv.svg?branch=master">](https://travis-ci.org/BurntSushi/rust-csv)
 * [FlatBuffers](https://google.github.io/flatbuffers/)
   * [frol/flatc-rust](https://raw.githubusercontent.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts [<img src="https://api.travis-ci.org/frol/flatc-rust.svg?branch=master">](https://travis-ci.org/frol/flatc-rust)
+* EDN
+  * [naomijub/edn-rs](https://github.com/naomijub/edn-rs) - crate to parse and emit EDN format into Rust types. [![Build Status](https://raw.githubusercontent.com/rust-unofficial/awesome-rust/master/ https://api.travis-ci.org/naomijub/edn-rs.svg?sanitize=true&branch=master)](https://travis-ci.org/naomijub/edn-rs)
 * HAR
   * [mandrean/har-rs](https://github.com/mandrean/har-rs) — A HTTP Archive Format (HAR) serialization & deserialization library [![Build Status](https://api.travis-ci.org/mandrean/har-rs.svg?branch=master)](https://travis-ci.org/mandrean/har-rs)
 * HTML
@@ -889,7 +891,7 @@ See also [Are we game yet?](https://arewegameyet.com)
 [[gui](https://crates.io/keywords/gui)]
 
 * [autopilot-rs/autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
-* [OrbTk](https://gitlab.redox-os.org/redox-os/orbtk-mirror) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build status](https://gitlab.redox-os.org/redox-os/orbtk-mirror/badges/master/build.svg)](https://gitlab.redox-os.org/redox-os/orbtk-mirror/pipelines)
+* [OrbTk](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
 * [rise-ui](https://github.com/rise-ui/rise) — Simple component-based cross-Platform GUI Toolkit for developing beautiful and user-friendly interfaces.
 
 
@@ -1082,6 +1084,7 @@ See also [Are we game yet?](https://arewegameyet.com)
   * [kaj/ructe](https://raw.githubusercontent.com/kaj/ructe) — HTML template system for Rust [<img src="https://api.travis-ci.org/kaj/ructe.svg?branch=master">](https://travis-ci.org/kaj/ructe)
   * [Keats/tera](https://raw.githubusercontent.com/Keats/tera) — template engine based on Jinja2 and the Django template language. [<img src="https://api.travis-ci.org/Keats/tera.svg?branch=master">](https://travis-ci.org/Keats/tera)
   * [djc/askama](https://raw.githubusercontent.com/djc/askama) — template rendering engine based on Jinja [<img src="https://api.travis-ci.org/djc/askama.svg?branch=master">](https://travis-ci.org/djc/askama)
+  * [naomijub/hiccup](https://github.com/naomijub/hiccup) - template engine inpired by Clojure's Hiccup. [![Build Status](https://api.travis-ci.org/naomijub/hiccup.svg?branch=master)](https://travis-ci.org/naomijub/hiccup)
 * Mustache
   * [rustache/rustache](https://raw.githubusercontent.com/rustache/rustache) — [<img src="https://api.travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
 * [tailhook/marafet](https://github.com/tailhook/marafet) — Compiler for Jade-like template language to cito.js-based virtual dom

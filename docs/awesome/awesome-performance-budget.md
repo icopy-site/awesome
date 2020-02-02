@@ -33,7 +33,8 @@
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
-- [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Grunt task for performance budgeting.
+- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+- [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
 - [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.

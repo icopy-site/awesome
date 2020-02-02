@@ -3,7 +3,7 @@
 ## Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-* **[Free Online Books](#free-online-books)**  
+* **[Books](#books)**
 
 * **[Courses](#courses)**  
 
@@ -30,7 +30,7 @@
 * **[Contributing](#contributing)**  
 
 
-### Free Online Books
+### Books
 
 1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
@@ -41,7 +41,9 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
+10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
+
  
 ### Courses
 
@@ -82,6 +84,8 @@
 34. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -Google AI
 35. [Deep Learning from the Foundations](https://course.fast.ai/part2) Jeremy Howard - Fast.ai
 36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
+37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
+38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
 
 ### Videos and Lectures
 
@@ -104,6 +108,8 @@
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
 19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
+20. [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) By Oliver Zeigermann
+21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion): a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
@@ -176,7 +182,10 @@
 20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 22. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
-23. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
+23. [Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
+24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
+25. [Hardware for AI: Understanding computer hardware & build your own computer](https://github.com/MelAbgrall/HardwareforAI)
+26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 
 
 
@@ -282,9 +291,10 @@
 97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
 98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
 99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
+100. [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 
-### WebSites
+### Websites
 
 1.  [deeplearning.net](http://deeplearning.net/)
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
@@ -313,7 +323,11 @@
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
 27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
-28.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
+28.  [Machine Learning Mastery blog](https://machinelearningmastery.com/blog/)
+29.  [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
+30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
+31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
 
 ### Datasets
 
@@ -506,7 +520,7 @@
 47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI)
 48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
-50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
+50.  [TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators](https://tvm.ai/)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
 53.  [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle)
@@ -514,6 +528,8 @@
 55.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
 56.  [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto)
 57.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
+58.  [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses)
+59.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 
 ### Tools
 
@@ -564,6 +580,9 @@
 35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
 36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
 37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
+39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
+
 
 -----
 ### Contributing
