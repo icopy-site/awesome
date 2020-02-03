@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Examples
 
 - [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+- [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) - Seed Realworld example on _Quickstart with Webpack_ with integrated [Dark lang](https://darklang.com/) Realworld.
 - [Official examples](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
 - [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
