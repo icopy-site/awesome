@@ -26,13 +26,14 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 - 25 - [Modena Tech Summit](https://www.modenatechsummit.it/) - Modena - Techincal conference on all the IT world.
 - 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) - Fornovo di Taro - First food dedicated italian hackaton.
 - 27-28 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) - Milano - Microsoft annual conference.
-- 31-February 2 - [Global Game Jam](https://globalgamejam.org/) - Milano - Get together and create games in one weekend.
+- 31-February 2 - [Global Game Jam](https://globalgamejam.org/) - Multiple locations - Get together and create games in one weekend.
 
 ## February
 - 1 - [Agile Venture Milano 2020](https://www.agilemovement.it/venture/2020/milano/) - Milano - Agile in the landscape of emerging technologies.
 - 2-7 - [IxDA](https://interaction20.ixda.org/) - Milano - Design focused workshops and talks.
+- 4-7 - [ITASEC 2020](https://itasec.it/) - Ancona - Cybersecurity italian conference.
 - 15 - [Global Power Platform Bootcamp 2020](https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469) - Milano - Microsoft’s Power Platform focused event.
-- 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
+- 21 - [ServerlessDays 2020](https://rome.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 
 ## March
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) - Milano - How Agile concept is evolving in IT and more.
