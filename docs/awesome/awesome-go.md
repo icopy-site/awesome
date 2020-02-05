@@ -117,7 +117,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
 * [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 * [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-* [Dnote](https://github.com/dnote/dnote) - A simple and end-to-end encrypted notebook for developers.
+* [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 * [docopt.go](https://github.com/docopt/docopt.go) - Command-line arguments parser that will make you smile.
 * [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 * [flag](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
@@ -390,7 +390,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [ormlite](https://github.com/pupizoid/ormlite) - Lightweight package containing some ORM-like features and helpers for sqlite databases.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
 * [qry](https://github.com/HnH/qry) - Tool that generates constants from files with raw SQL queries.
-* [scaneo](https://github.com/variadico/scaneo) - Generate Go code to convert database rows into arbitrary structs.
 * [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder.
 * [sqrl](https://github.com/elgris/sqrl) - SQL query builder, fork of Squirrel with improved performance.
 * [Squalus](https://gitlab.com/qosenergy/squalus) - Thin layer over the Go SQL package that makes it easier to perform queries.
@@ -1054,7 +1053,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *Unofficial set of patterns for structuring projects.*
 
 * [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
-* [go-restful-api](https://github.com/qiangxue/go-restful-api) - An idiomatic Go RESTful API starter kit following SOLID principles and Clean Architecture with a common project layout.
 * [go-sample](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
@@ -1230,7 +1228,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 * [rq](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 * [sling](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
-* [sreq](https://github.com/winterssy/sreq) - A simple, user-friendly and concurrent safe HTTP request library for Go.
 
 ## OpenGL
 
@@ -1795,7 +1792,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [slicer](https://github.com/leaanthony/slicer) - Makes working with slices easier.
 * [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
-* [sslice](https://github.com/yaa110/sslice) - Create a slice which is always sorted.
 * [Storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
 * [structs](https://github.com/PumpkinSeed/structs) - Implement simple functions to manipulate structs.
 * [Task](https://github.com/go-task/task) - simple "Make" alternative.
@@ -2254,6 +2250,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Go Toronto](https://www.meetup.com/go-toronto/)
 * [Go User Group Atlanta](https://www.meetup.com/Go-Users-Group-Atlanta/)
 * [GoBridge, San Francisco, CA](https://www.meetup.com/gobridge/)
+* [GoCracow - Krakow, Poland](https://www.meetup.com/GoCracow/)
 * [GoJakarta](https://www.meetup.com/GoJakarta/)
 * [Golang Amsterdam](https://www.meetup.com/golang-amsterdam/)
 * [Golang Argentina](https://www.meetup.com/Golang-Argentina/)
@@ -2298,13 +2295,17 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 *Add the group of your city/country here (send **PR**)*
 
-## Twitter
+## Social Media
+### Twitter
 
 * [@golang](https://twitter.com/golang)
 * [@golang_news](https://twitter.com/golang_news)
 * [@golangch](https://twitter.com/golangch)
 * [@golangflow](https://twitter.com/golangflow)
 * [@golangweekly](https://twitter.com/golangweekly)
+
+### Reddit
+ * [r/golang](https://www.reddit.com/r/golang/)
 
 ## Websites
 

@@ -41,7 +41,7 @@ Your contributions are always welcome!
 * [Apache REEF](http://reef.apache.org/) - retainable evaluator execution framework to simplify and unify the lower layers of big data systems.
 * [Apache S4](http://incubator.apache.org/projects/s4.html) - framework for stream processing, implementation of S4.
 * [Apache Spark](http://spark.apache.org/) - framework for in-memory cluster computing.
-* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) - framework for stream processing, part of Spark.
+* [Apache Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) - framework for stream processing, part of Spark.
 * [Apache Storm](http://storm.apache.org) - framework for stream processing by Twitter also on YARN.
 * [Apache Samza](http://samza.apache.org/) - stream processing framework, based on Kafka and YARN.
 * [Apache Tez](http://tez.apache.org/) - application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN.
@@ -236,6 +236,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HandlerSocket](https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) - NoSQL plugin for MySQL/MariaDB.
 * [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
+* [KarelDB](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 * [Map-D](https://www.mapd.com/) - GPU in-memory database, big data analysis and visualization platform.
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
@@ -247,6 +248,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [VoltDB](https://www.voltdb.com/) - claims to be fastest in-memory database.
+* [yugabyteDB](https://github.com/YugaByte/yugabyte-db) - open source, high-performance, distributed SQL database compatible with PostgreSQL.
 
 ## Time-Series Databases
 
@@ -377,6 +379,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data. Python
 * [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
 * [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data processing and analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 * [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.

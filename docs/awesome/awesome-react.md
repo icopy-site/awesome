@@ -209,7 +209,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
-- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
+- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
@@ -697,7 +697,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
-- [dnote](https://github.com/dnote/dnote) - A simple personal knowledge base
 
 ---
 
@@ -709,11 +708,12 @@ A collection of awesome things regarding the React ecosystem.
 - [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
+- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
 
 ---
 
 ### Contribution
 
-This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
