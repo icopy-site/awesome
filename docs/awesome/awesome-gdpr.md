@@ -8,8 +8,8 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 
 
 ## Legal text
-* [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble.
-* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble.
+* [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble (Non-official site).
+* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble (Non-official site).
   
 ## Guidelines
 * EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
