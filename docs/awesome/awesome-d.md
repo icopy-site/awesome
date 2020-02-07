@@ -96,6 +96,7 @@
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
 * [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
+* [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/Home/Blog?post=JsonSerialiser1) - D metaprogramming tutorial series
 
 ### Bare metal / kernel development
 * [D Bare bones](http://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
@@ -141,6 +142,14 @@
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
 
+## Dev Tools
+
+*Tools for more productive D development.*
+
+* [D-Scanner](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+* [dfmt](https://github.com/dlang-community/dfmt) - formatter for D source code
+
+
 ## Build Tools
 
 *Manage projects and compile software from source code.*
@@ -166,6 +175,7 @@
 * [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [D Language Server](https://github.com/d-language-server/dls) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Sublime, Atom, Emacs, Vim/Neovim)
+* [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 
 ## Lexers, Parsers, Parser Generators
 
@@ -205,6 +215,7 @@
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+* [dlang-requests](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 *Full stack web frameworks.*
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.

@@ -63,7 +63,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 * [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
-* [fltk](https://www.fltk.org/) - C++ Toolkit to generate UI widgets portably. [GPLv2](https://www.fltk.org/COPYING.php)
+* [fltk](https://www.fltk.org/) - C++ Toolkit to generate UI widgets portably. [LGPLv2](https://www.fltk.org/COPYING.php)
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
@@ -126,6 +126,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *OpenGL tutorial websites*
 
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
 * [Learn OpenGL](https://learnopengl.com) by **Joey de Vries**
 * [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) by **Jason L. McKesson**
 * [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**

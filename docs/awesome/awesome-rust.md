@@ -146,7 +146,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Security tools
 
-* [ripasso] (https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
+* [ripasso](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
 
 ### System tools
 
@@ -654,7 +654,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     * [elastic-rs/elastic](https://raw.githubusercontent.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [<img src="https://api.travis-ci.org/elastic-rs/elastic.svg?branch=master">](https://travis-ci.org/elastic-rs/elastic) [<img src="https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true">](https://ci.appveyor.com/project/KodrAus/elastic)
   * etcd
     * [jimmycuadra/rust-etcd](https://raw.githubusercontent.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — A client library for CoreOS's etcd. [<img src="https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master">](https://travis-ci.org/jimmycuadra/rust-etcd)
-    * [ccc13/etcd-rs](https://raw.githubusercontent.com/ccc13/etcd-rs) — An asynchronous etcd client for rust [<img src="https://api.travis-ci.org/ccc13/etcd-rs.svg?branch=master">](https://travis-ci.org/ccc13/etcd-rs)
+    * [luncj/etcd-rs](https://raw.githubusercontent.com/luncj/etcd-rs) — An asynchronous etcd client for rust [<img src="https://api.travis-ci.org/luncj/etcd-rs.svg?branch=master">](https://travis-ci.org/luncj/etcd-rs)
   * ForestDB
     * [vhbit/sherwood](https://raw.githubusercontent.com/vhbit/sherwood) — [ForestDB](https://raw.githubusercontent.com/couchbase/forestdb) bindings [<img src="https://api.travis-ci.org/vhbit/sherwood.svg?branch=master">](https://travis-ci.org/vhbit/sherwood)
   * [InfluxDB](https://www.influxdata.com/)
