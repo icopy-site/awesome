@@ -58,6 +58,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
+* CodeCanyons - https://codecanyons.net
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
@@ -88,7 +89,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launched - https://launched.io/SubmitStartup
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
-* Mevvy - https://mevvy.com/submit-app/
 * Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
@@ -147,6 +147,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - http://www.webapprater.com/webapprater-free-app-review
+* Webwide - https://webwide.io/forums/project-showcase.15/
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 

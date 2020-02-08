@@ -387,6 +387,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goqu](https://github.com/doug-martin/goqu) - Idiomatic SQL builder and query library.
 * [igor](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 * [jet](https://github.com/go-jet/jet) - Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure.
+* [mpath](https://github.com/spacetab-io/mpath-go) - MPTT (Modified Preorder Tree Traversal) package for SQL records - materialized path realisation.
 * [ormlite](https://github.com/pupizoid/ormlite) - Lightweight package containing some ORM-like features and helpers for sqlite databases.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
 * [qry](https://github.com/HnH/qry) - Tool that generates constants from files with raw SQL queries.
@@ -468,6 +469,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [durafmt](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 * [feiertage](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
+* [go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration. Support time.Duration returned string and more.
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
 * [go-week](https://github.com/stoewer/go-week) - An efficient package to work with ISO8601 week dates.
 * [iso8601](https://github.com/relvacode/iso8601) - Efficiently parse ISO8601 date-times without regex.
@@ -599,6 +601,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [afs](https://github.com/viant/afs) - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 * [bigfile](https://github.com/bigfile/bigfile) - A file transfer system, support to manage files with http api, rpc call and ftp client.
 * [checksum](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5 and SHA256, for large files.
+* [copy](https://github.com/otiai10/copy) - Copy directory recursively.
 * [flop](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) - Load csv file using tag.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) - Copy files for humans.
@@ -693,6 +696,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [interfaces](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
 * [jennifer](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 * [pkgreflect](https://github.com/ungerik/pkgreflect) - Go preprocessor for package scoped reflection.
+* [typeregistry](https://github.com/xiaoxin01/typeregistry) - A library to create type dynamically.
 
 ## Geographic
 
@@ -1170,6 +1174,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [fasthttp](https://github.com/valyala/fasthttp) - Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
 * [fortio](https://github.com/fortio/fortio) - Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC.
 * [ftp](https://github.com/jlaffaye/ftp) - Package ftp implements a FTP client as described in [RFC 959](http://tools.ietf.org/html/rfc959).
+* [gaio](https://github.com/xtaci/gaio) - High performance async-io networking for Golang in proactor mode.
 * [gev](https://github.com/Allenxuxu/gev) - gev is a lightweight, fast non-blocking TCP network library based on Reactor mode.
 * [gmqtt](https://github.com/DrmagicE/gmqtt) - Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1.
 * [gnet](https://github.com/panjf2000/gnet) - `gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
@@ -1628,6 +1633,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira)
 * [go-marathon](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
 * [go-myanimelist](https://github.com/nstratos/go-myanimelist) - Go client library for accessing the [MyAnimeList API](http://myanimelist.net/modules.php?go=api).
+* [go-postman-collection](https://github.com/rbretecher/go-postman-collection) - Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) (compatible with Insomnia).
 * [go-sophos](https://github.com/esurdam/go-sophos) - Go client library for the [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) with zero dependencies.
 * [go-sptrans](https://github.com/sergioaugrod/go-sptrans) - Go client library for the SPTrans Olho Vivo API.
 * [go-telegraph](https://gitlab.com/toby3d/telegraph) - Telegraph publishing platform API client.
@@ -1694,6 +1700,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [cmd](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 * [command](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
+* [countries](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standarts.
 * [ctop](https://github.com/bcicen/ctop) - [Top-like](http://ctop.sh) interface (e.g. htop) for container metrics.
 * [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
 * [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
@@ -1766,6 +1773,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [olaf](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.
 * [onecache](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
 * [panicparse](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
+* [pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching libray.
 * [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 * [pgo](https://github.com/arthurkushman/pgo) - Convenient functions for PHP community.
 * [pm](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
@@ -1882,6 +1890,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golf](https://github.com/dinever/golf) - Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
 * [Gondola](https://github.com/rainycape/gondola) - The web framework for writing faster sites, faster.
 * [gongular](https://github.com/mustafaakin/gongular) - Fast Go web framework with input mapping/validation and (DI) Dependency Injection.
+* [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 * [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 * [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 * [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
@@ -2047,6 +2056,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-pkg-complete](https://github.com/skelterjohn/go-pkg-complete) - Bash completion for go and wgo.
 * [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
 * [godbg](https://github.com/tylerwince/godbg) - Implementation of Rusts `dbg!` macro for quick and easy debugging during development.
+* [gomodrun](https://github.com/dustinblackman/gomodrun/) - Go tool that executes and caches binaries included in go.mod files.
 * [gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through go files efficiently with the OctoLinker browser extension for GitHub.
 * [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.

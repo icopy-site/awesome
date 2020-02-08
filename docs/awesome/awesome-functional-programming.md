@@ -24,6 +24,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
+- [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
@@ -48,6 +49,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [How to Design Programs](http://www.htdp.org/) / [Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - the perfect second book on Haskell which dives into examples and application scenarios designed to teach how Haskell works and how to apply it correctly. 
+- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
@@ -92,6 +94,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 - [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+- [Parsing With Haskell Parser Combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ### People
 

@@ -186,6 +186,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter) - Twitter Strategy for Überauth.
 * [ueberauth_vk](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
 * [ueberauth_weibo](https://github.com/he9qi/ueberauth_weibo) - [Weibo](https://weibo.com) OAuth2 Strategy for Überauth.
+* [zachaeus](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, based on asymmetric cryptography.
 
 ## Authorization
 *Libraries for implementing Authorization handling.*
@@ -671,6 +672,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rackla](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 * [relax](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 * [rest](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
+* [RIG](https://github.com/Accenture/reactive-interaction-gateway) - Create low-latency, interactive user experiences for stateless microservices.
 * [sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
@@ -1156,6 +1158,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kafka_consumer](https://github.com/anoskov/kafka-consumer) - Consumer for Kafka using kafka_ex.
 * [kafka_ex](https://github.com/kafkaex/kafka_ex) - Kafka client library for Elixir.
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
+* [oban](https://github.com/sorentwo/oban) - Robust asynchronous job processor powered by Elixir and modern PostgreSQL.
 * [opq](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [que](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.

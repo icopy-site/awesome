@@ -5,7 +5,16 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Join chat [t.me/sqaunderhood](https://t.me/sqaunderhood) and [subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
+**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons with updates.**
+
+### Community
+
+<img src="https://raw.githubusercontent.com/ligurio/awesome-software-quality/master/sqaunderhood-logo.svg?sanitize=true" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
+
+- Telegram: https://t.me/sqaunderhood
+- Twitter: https://twitter.com/sqaunderhood
+- Facebook: https://www.facebook.com/sqaunderhood/
+- VK: https://vk.com/sqaunderhood
 
 ### Introduction
 
@@ -17,6 +26,8 @@ If you would like add something, just send the text as you would like it to appe
 
 ## Index
 
+* [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki)
+* Conferences: [Software Testing Conferences](http://testingconferences.org/)
 
 
 ## Books
@@ -356,14 +367,6 @@ If you would like add something, just send the text as you would like it to appe
 - [Verigames](http://verigames.com/)
 - [Edukera](https://www.edukera.com/)
 
-## Conferences
-
-* [Software Testing Conferences](http://testingconferences.org/)
-
-## Podcasts
-
-see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/podcasts.md)
-
 ## Bugs and Learned Lessons
 
 * [NASA Public Lessons Learned System](https://llis.nasa.gov/)
@@ -397,6 +400,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
+- [Awesome test automation frameworks, tools, libraries, and software for different programming languages](https://github.com/atinfo/awesome-test-automation)
 
 ### License
 

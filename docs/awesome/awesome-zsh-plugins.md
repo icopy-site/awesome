@@ -237,7 +237,7 @@ The project is very active – currently > 2000 commits.
 * [rad-shell](https://github.com/brandon-fryslie/rad-shell) - A fantastically feature rich, lightning-fast shell setup, powered by [ZSH](http://www.zsh.org/), [Prezto](https://github.com/sorin-ionescu/prezto), and [Zgen](https://github.com/tarjoilija/zgen).
 * [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgen](https://github.com/tarjoilija/zgen). This includes a curated collection of plugins, automatically configures ZSH to use [zgen](https://github.com/tarjoilija/zgen) to load them and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
-### Zinit
+### Zinit (née zplugin)
 
 * [BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - :crystal_ball: Awesome, Customable Zsh Starter Kit :stars::stars:
 * [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically a collection of `.zshrc` files) holding Zplugin invocations.
@@ -666,6 +666,7 @@ The project is very active – currently > 2000 commits.
 * [tmux](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
 * [tmuxrepl](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L tmux session.
 * [toggl](https://github.com/natterstefan/toggl-zsh-plugin) - Adds a `toggl-week` command to display the total working hours tracked on [toggl.com](https://toggl.com)
+* [toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Add a widget to toggle a prefix to a command. Binds Alt+s to prefix a command with `sudo` by default.
 * [travis](https://github.com/denolfe/zsh-travis) - Opens the Travis CI page for the current repo if one exists.
 * [tsm](https://github.com/RobertAudi/tsm) - Adds a [tmux](https://tmux.github.io) Session Manager.
 * [tumult](https://github.com/unixorn/tumult.plugin.zsh) - Adds tools for macOS.
@@ -678,9 +679,11 @@ The project is very active – currently > 2000 commits.
 * [vanilli.sh](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
 * [velocity](https://github.com/rahulsalvi/velocity-python) - Powerline-based theme elements for ZSH and [tmux](https://tmux.github.io).
 * [venv-lite](https://github.com/gimbo/venv-lite.zsh) - A super-lightweight sort-of-clone of [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/); it pretty much expects you to be using [pyenv](https://github.com/pyenv/pyenv) (though you don't *have* to), and because it's based on the [`venv` module](https://docs.python.org/3/library/venv.html), (creation) only works for python >= 3.3.
+* [vi-increment](https://github.com/zsh-vi-more/vi-increment) - Add `vim`-like increment/decrement operations.
 * [vi-mode (Nyquase)](https://github.com/Nyquase/vi-mode) Add extra `vi`-like functionality.
 * [vi-mode (sinetoami)](https://github.com/sinetoami/vi-mode) - Add more `vi`-like functionality to ZSH.
-* [vi-quote](https://github.com/zsh-vi-more/vi-quote) - Adds an operation which quotes or unquotes a motion.
+* [vi-motions](https://github.com/zsh-vi-more/vi-motions) - Add new motions and text objects including quoted/bracketed text and commands.
+* [vi-quote](https://github.com/zsh-vi-more/vi-quote) - Add an operation which quotes or unquotes a motion.
 * [viexchange](https://github.com/okapia/zsh-viexchange) - `vi` mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
 * [vim-mode](https://github.com/softmoth/zsh-vim-mode) - Friendly `vi`-mode bindings, adding basic Emacs keys, incremental search, mode indicators and more.
 * [vim-plugin](https://github.com/nviennot/zsh-vim-plugin) - Allows you to do `vim filename:123` to open a file with the cursor at a specific line.

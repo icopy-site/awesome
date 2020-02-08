@@ -219,7 +219,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=6488902)_ (IEEE).
 -   _[Journal of Complex Networks](https://academic.oup.com/comnet)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
--   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
+-   _[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)_ (INSNA). [Older archives](http://www.cmu.edu/joss).
 -   _[NETCOM. Networks and Communication Studies](https://journals.openedition.org/netcom/)_, in English and in French (Revues.org).
 -   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge, gated).
 -   _[Online Social Networks and Media](https://www.journals.elsevier.com/online-social-networks-and-media/)_ (Elsevier, gated).
@@ -546,6 +546,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
 -   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+-   [NetworkCube](https://github.com/networkcube/networkcube) - "Dynamic Network Visualizations [for] Domain Scientists." For demo examples, see [The Vistorian](https://networkcube.github.io/vistorian/).
 -   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
