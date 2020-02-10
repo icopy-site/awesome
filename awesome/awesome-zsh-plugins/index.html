@@ -8746,9 +8746,21 @@
 <h3 id="zim"><a href="https://github.com/zimfw/zimfw">zim</a><a class="headerlink" href="#zim" title="Permanent link">&para;</a></h3>
 <p><strong>Zim</strong> is a ZSH configuration framework with blazing speed and modular extensions.</p>
 <h3 id="zinit"><a href="https://github.com/zdharma/zinit">Zinit</a><a class="headerlink" href="#zinit" title="Permanent link">&para;</a></h3>
-<p><strong>Zinit</strong> is an innovative plugin manager with <a href="https://github.com/zdharma/zplugin-crasis">semigraphical UI</a>, <a href="http://zdharma.org/zinit/wiki/INTRODUCTION/#turbo_mode_zsh_62_53">Turbo Mode</a>, a clean fpath, reports, completion management and <a href="https://github.com/zservices">services</a> support. You can use <a href="https://github.com/zdharma/zplugin-crasis">crasis</a> or
-<a href="https://github.com/zdharma/declare-zsh">declare-zsh</a> to edit your Zinit
-commands in your <code>~.zshrc</code> and also use <a href="https://github.com/zinit-zsh/zinit-console">zinit-console</a> to view and change the state of the ZSH session and to delete the plugins and snippets from the disk.</p>
+<p><strong>Zinit</strong> is an innovative and currently the <a href="https://github.com/zdharma/pm-perf-test">fastest</a> plugin manager with support for:</p>
+<ul>
+<li><a href="http://zdharma.org/zinit/wiki/INTRODUCTION/#turbo_mode_zsh_62_53">Turbo mode</a> – <strong>80%</strong> faster Zsh startup! for example: instead of 200 ms, it'll be 40 ms!,</li>
+<li>reports (from the plugin loads – plugins are no longer black boxes!),</li>
+<li>completion management,</li>
+<li>snippets (regular files downloaded via-URL e.g.: scripts) and through them Oh My Zsh and Prezto plugins support (→ low overhead),</li>
+<li>annexes (Zinit <a href="https://github.com/zinit-zsh">extensions</a>),</li>
+<li>plugin unloading (allows e.g.: dynamic theme switching),</li>
+<li><code>bindkey</code> catching and remapping,</li>
+<li><a href="https://zdharma.org/zinit/wiki/Zinit-Packages/">packages</a>,</li>
+<li>clean fpath,</li>
+<li><a href="https://github.com/zservices">services</a>,</li>
+<li>and all the mechanisms from the <a href="http://zdharma.org/Zsh-100-Commits-Club/Zsh-Plugin-Standard.html">Zsh Plugin Standard</a> – Zinit is a reference implementation of the standard.</li>
+</ul>
+<p>You can use <a href="https://github.com/zinit-zsh/zinit-console">zinit-console</a> to view and change the state of the ZSH session and to delete the plugins and snippets from the disk.</p>
 <p>The project is very active – currently &gt; 2000 commits.</p>
 <h3 id="zit"><a href="https://github.com/m45t3r/zit">zit</a><a class="headerlink" href="#zit" title="Permanent link">&para;</a></h3>
 <p><strong>zit</strong> is a plugin manager for ZSH. It is minimal because it implements the bare minimum to be qualified as a plugin manager: it allows the user to install plugins from Git repositories (and Git repositories only, them why the name), source plugins and update them. It does not implement fancy functions like cleanup of removed plugins, automatic compilation of installed plugins, alias for oh-my-zsh/prezto/other ZSH frameworks, building binaries, PATH manipulation and others.</p>
@@ -8843,7 +8855,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <h3 id="zinit-nee-zplugin">Zinit (née zplugin)<a class="headerlink" href="#zinit-nee-zplugin" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://github.com/black7375/BlaCk-Void-Zsh">BlaCk-Void-Zsh</a> - <img alt="🔮" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f52e.svg" title=":crystal_ball:" /> Awesome, Customable Zsh Starter Kit <img alt="🌠" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f320.svg" title=":stars:" /><img alt="🌠" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/1f320.svg" title=":stars:" /></li>
-<li><a href="https://github.com/zdharma/zinit-configs">zinit-configs</a> - Real-world configuration files (basically a collection of <code>.zshrc</code> files) holding Zplugin invocations.</li>
+<li><a href="https://github.com/zdharma/zinit-configs">zinit-configs</a> - Real-world configuration files (basically a collection of <code>.zshrc</code> files) holding Zinit invocations.</li>
 </ul>
 <h2 id="plugins">Plugins<a class="headerlink" href="#plugins" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8931,7 +8943,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/zpm-zsh/colors">colors (zpm-zsh)</a> - Enhanced colors for ZSH.</li>
 <li><a href="https://github.com/Tarrasch/zsh-command-not-found">command-not-found</a> - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.</li>
 <li><a href="https://github.com/KKRainbow/zsh-command-note.plugin">command-note</a> - Record complex commands and comment on them.</li>
-<li><a href="https://github.com/popstas/zsh-command-time">command-time</a> - Show execution time for long commands in ZSH and <a href="https://github.com/bhilburn/powerlevel9k">powerlevel9k</a>.</li>
+<li><a href="https://github.com/popstas/zsh-command-time">command-time</a> - Show execution time for long commands in ZSH and <a href="https://github.com/bhilburn/powerlevel9k">powerlevel9k</a>. Similar to <code>REPORTTIME</code> builtin, but only outputs when user + system time &gt;= <code>REPORTTIME</code>.</li>
 <li><a href="https://github.com/RobSis/zsh-completion-generator">completion-generator</a> - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator to create a completion script.</li>
 <li><a href="https://github.com/rutchkiwi/copyzshell">copyzshell</a> - A ZSH plugin to copy your shell configuration to another machine over <code>ssh</code>.</li>
 <li><a href="https://github.com/molovo/crash">crash</a> - Adds proper error handling, exceptions and try/catch for ZSH.</li>
@@ -9132,7 +9144,8 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/shiro-saber/node-env-installer">node-env-installer</a> - Uses <code>nvm</code> to install new versions and modules for the current project.</li>
 <li><a href="https://github.com/andyrichardson/zsh-node-path">node-path</a> - Automatically adds the "npm bin" of your current directory to your path.</li>
 <li><a href="https://github.com/srijanshetty/node.plugin.zsh">node</a> - Srijan Shetty's nodejs plugin for ZSH with caching of <code>nvm</code> completions and autoloading of <code>nvm</code> if present.</li>
-<li><a href="https://github.com/jsahlen/nodenv.plugin.zsh">nodenv</a> - Auto-load <code>nodenv</code> and its completions into the shell.</li>
+<li><a href="https://github.com/jsahlen/nodenv.plugin.zsh">nodenv (jsahlen)</a> - Auto-load <code>nodenv</code> and its completions into the shell.</li>
+<li><a href="https://github.com/unixorn/awesome-zsh-plugins/blob/master/mattberther/zsh-nodenv">nodenv (mattberther)</a> - Installs, updates and loads <code>nodenv</code>. Inspired by zsh-rbenv.</li>
 <li><a href="https://github.com/micrenda/zsh-nohup">nohup</a> - Add <code>nohup</code> to the current command pressing <code>Ctrl-H</code>.</li>
 <li><a href="https://github.com/stevemcilwain/nonotes">nonotes</a> - Plugin for pen-testing. No more notes needed, no more copy and paste of commands.</li>
 <li><a href="https://github.com/eventi/noreallyjustfuckingstopalready">noreallyjustfuckingstopalready</a> - macOS users know the pain of trying to figure out what command actually flushes the DNS cache on their version of macOS, and this plugin makes that annoyance go away.</li>
@@ -9317,7 +9330,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases">youtube-dl-aliases</a> - Adds <code>yt</code> aliases to download videos from YouTube.</li>
 <li><a href="https://github.com/joow/youtube-dl">youtube-dl</a> - Simple plugin for <a href="https://youtube-dl.org/">youtube-dl</a>.</li>
 <li><a href="https://github.com/zinit-zsh/z-a-bin-gem-node">z-a-bin-gem-node</a> - Zinit extension that a) exposes binaries without altering <code>$PATH</code>, b) installs Ruby gems and Node modules and easily exposes their binaries, c) updates the gems and modules on update of the associated plugin or snippet.</li>
-<li><a href="https://github.com/zinit-zsh/z-a-man">z-a-man</a> - zinit extension that generates man pages for all plugins and snippets.</li>
+<li><a href="https://github.com/zinit-zsh/z-a-man">z-a-man</a> - Zinit extension that generates man pages for all plugins and snippets.</li>
 <li><a href="https://github.com/zinit-zsh/z-a-patch-dl">z-a-patch-dl</a> - Zinit extension that downloads files and applies patches through the provided <code>dl''</code> and <code>patch''</code> ices.</li>
 <li><a href="https://github.com/zinit-zsh/z-a-rust">z-a-rust</a> - Zinit extension that that installs rust and cargo packages inside plugin directories.</li>
 <li><a href="https://github.com/zinit-zsh/z-a-test">z-a-test</a> - Zinit extension that runs tests (via <code>make test</code>, for example) – if it finds any of them – after installing and updating a plugin or snippet.</li>
@@ -9333,6 +9346,7 @@ commands in your <code>~.zshrc</code> and also use <a href="https://github.com/z
 <li><a href="https://github.com/seletskiy/zsh-zgen-compinit-tweak">zgen-compinit-tweak</a> - Make compinit run only once after all loading is done by <a href="https://github.com/tarjoilija/zgen">zgen</a>.</li>
 <li><a href="https://github.com/PatTheMav/zimfw-extras">zimfw-extras</a> - Custom extras for zimfw, packaged into a zimfw plugin.</li>
 <li><a href="https://github.com/kmhjs/zinfo_line">zinfo_line</a> - Makes more information available to ZSH themes.</li>
+<li><a href="https://github.com/zinit-zsh/zinit-console">zinit-console</a> – a semigraphical (curses) consolette for <a href="#zinit">zinit</a> plugin manager.</li>
 <li><a href="https://github.com/qoomon/zjump">zjump</a> - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.</li>
 <li><a href="https://github.com/kevinywlui/zlong_alert.zsh">zlong_alert</a> - Uses notify-send and ring a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.</li>
 <li><a href="https://github.com/zdharma/zredis">zredis</a> - Adds Redis database support, with <code>database_key</code> &lt;-&gt; <code>shell_variable</code> binding. Supports all data types.</li>
