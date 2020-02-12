@@ -19,6 +19,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
+- [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 - [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
@@ -110,7 +111,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
-- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS). 
+- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
+- [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).

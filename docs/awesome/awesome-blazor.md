@@ -289,7 +289,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
-* [Blazor Tutorial : Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) - February 5, 2020 - Blazor Tutorial : Register User & Generate JWT.
+* [Blazor Tutorial: Role-based Authorization](https://www.youtube.com/watch?v=rk5uIA6s574&feature=youtu.be) - February 7, 2020 - Blazor Tutorial: Role-based Authorization. [Source code](https://github.com/CuriousDrive/BookStores).
+* [Blazor Tutorial: Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) - February 5, 2020 - Blazor Tutorial : Register User & Generate JWT.
 * [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) - January 22, 2029 - I show how to install BlazorStyled for SSB and how I built a ProgressBar and Sprite Component to do simple animaitons.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) - January 21, 2020 - This video covers how we can use HttpClient in your Blazor app to make API calls to login user into the system. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) - January 15, 2020 - This video by Microsoft covers how you can use authentication and authorization within your Blazor application.
@@ -396,10 +397,15 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Announcing Experimental Mobile Blazor Bindings February update](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-feb-2020-update/) - February 10, 2020 - Announcing Experimental Mobile Blazor Bindings February update.
+* [Multi-Language Translator Using Blazor And Azure Cognitive Services](https://ankitsharmablogs.com/multi-language-translator-using-blazor-and-azure-cognitive-services/) - February 10, 2020 - Multi-Language Translator Using Blazor And Azure Cognitive Services.
 * [Mobile Blazor Bindings – Getting Started + Why You Should Care](https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/) - February 5, 2020 - Mobile Blazor Bindings – Getting Started + Why You Should Care.
 * [Fragment Routing with Blazor](https://chrissainty.com/fragment-routing-with-blazor/) - February 4, 2020 - Fragment routing, or linking, is the term given when linking to a specific element on a page, say a header for example. This technique is often used in FAQ pages or technical documentation and links using this technique look like this, www.mysite.com/faq#some-header. This post covers how to do this with Blazor.
 * [Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App](https://alistairevans.co.uk/2020/02/03/blazor-webassembly-monaco-and-antlr-building-the-autostep-editor-as-a-blazor-app/) - February 3, 2020 - Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App.
+* [Blazor by Example - Build a simple traffic light](https://jonhilton.net/blazor-traffic-light/) - February 3, 2020 - Blazor by Example - Build a simple traffic light. [Source code](https://github.com/jonhilt/BlazorExamples/tree/0c620bd5183086c03bc1820d2331e6894099100b).
+* [Intro to Blazor and Creating a Blazor App from Scratch](https://www.roundthecode.com/dotnet/intro-to-blazor-and-creating-a-blazor-app-from-scratch) - February 3, 2020 - Intro to Blazor and Creating a Blazor App from Scratch. [Source code](https://github.com/RoundTheCode/RoundTheCode.Blazor/releases/tag/CreateBlazor).
 * [Reuse Blazor WASM UI in Blazor Server](http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server) - February 2, 2020 - Reuse Blazor WASM UI in Blazor Server using a technique showed by Steve Sanderson at the NDC London.
+* [Containerizing Blazor Apps](https://www.pluralsight.com/tech-blog/containerizing-blazor-apps/) - January 31, 2020 - Containerizing Blazor Apps.
 * [Building experimental hybrid Blazor WebAssembly application](https://gunnarpeipman.com/blazor-hybrid-application-experimental/) - January 30, 2020 - Building experimental hybrid Blazor WebAssembly application, by Gunnar Peipman.
 * [Telerik UI for Blazor 2.7.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-270-multiselect-grid-webassembly-more) - January 30, 2020 - Telerik UI for Blazor 2.7.0 - MultiSelect, New Grid Features, WebAssembly Support and More.
 * [Microsoft Blazor to become mainstream in 2020](https://jaxenter.com/blazor-2020-167525.html) - January 29, 2020 - Microsoft Blazor to become mainstream in 2020.
