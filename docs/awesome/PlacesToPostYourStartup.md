@@ -15,6 +15,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
 * /r/Entrepreneur - http://reddit.com/r/entrepreneur
+* /r/EntrepreneurRideAlong - http://www.reddit.com/r/EntrepreneurRideAlong/
 * /r/IMadeThis - http://reddit.com/r/imadethis
 * /r/IndieBiz - https://www.reddit.com/r/indiebiz/
 * /r/LadyBusiness - https://www.reddit.com/r/ladybusiness/
@@ -88,6 +89,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
 * Launching Next - http://www.launchingnext.com/submit/
+* Loop - https://app.loopinput.com/ 
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mobilzed - https://www.moblized.com/vendors/register
@@ -145,7 +147,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * The iPhone Mom - https://www.theiphonemom.com/
 * The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 * Top Alternatives - https://topalternatives.com/
-* Top Similar Sites - http://www.topsimilarsites.com/add.aspx
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/

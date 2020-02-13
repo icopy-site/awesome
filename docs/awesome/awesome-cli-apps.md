@@ -183,8 +183,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
-- [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command-line.
-- [gcalcli](https://github.com/insanum/gcalcli) - Access Google calendar from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - Extensible document and bibliography manager.
 
 ### Time Tracking
@@ -221,6 +219,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
+
+### Calendars
+
+- [calcurse](http://calcurse.org/) - Calendar and scheduling.
+- [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
+- [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
+- [vidirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## Utilities
 
@@ -393,6 +398,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+- [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ## Version Control
 
@@ -429,7 +435,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image Conversion
 
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
-- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+- [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 
 ### SVG
 

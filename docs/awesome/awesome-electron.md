@@ -24,12 +24,7 @@ Made with Electron.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support.
 - [Min](https://github.com/minbrowser/min) - Minimal web browser.
-- [Mancy](https://github.com/princejwesley/Mancy) - JavaScript REPL.
 - [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
-- [Nocturn](https://github.com/k0kubun/Nocturn) - Twitter client.
-- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
-- [Playback](https://github.com/mafintosh/playback) - Video player.
-- [Upterm](https://github.com/railsware/upterm) - Terminal.
 - [Atom](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
@@ -49,10 +44,9 @@ Made with Electron.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
-- [Kitematic](https://kitematic.com) - Docker container management.
+- [Kitematic](https://github.com/docker/kitematic) - Docker container management.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
 - [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
-- [Gulp](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
@@ -67,18 +61,15 @@ Made with Electron.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 - [Toby](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku](https://github.com/EragonJ/Kaku) - Music player.
-- [Yeoman](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 - [Markn](https://github.com/minodisk/markn) - Markdown viewer.
 - [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu](https://github.com/maxogden/monu) - Process monitoring.
-- [Tèsèvè](https://teseve.github.io) - Static webserver.
 - [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app.
-- [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
-- [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
-- [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
+- [Pomodoro](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
+- [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool.
 - [Colonizers](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
@@ -95,7 +86,6 @@ Made with Electron.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP](https://github.com/alchen/DTCP) - Twitter client.
 - [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
-- [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
@@ -124,7 +114,7 @@ Made with Electron.
 - [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 - [Museeks](https://github.com/KeitIG/museeks) - Music player.
 - [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
-- [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
+- [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) - Markdown editor.
 - [Deco](https://github.com/decosoftware/deco-ide) - React Native IDE.
 - [Toshocat](https://github.com/tofuness/Toshocat) - Anime/Manga Progress Tracker.
@@ -176,6 +166,7 @@ Made with Electron.
 - [Upcount](https://github.com/madisvain/upcount) - Invoicing.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 - [massCode](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
+- [Swifty](https://github.com/swiftyapp/swifty) - Password manager.
 
 ### Closed Source
 
@@ -238,7 +229,7 @@ Made with Electron.
 - [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
-- [electron-sandbox](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) - Boilerplate for creating secure apps.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## Tools

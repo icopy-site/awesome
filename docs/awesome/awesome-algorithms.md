@@ -60,6 +60,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
+* [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
@@ -72,12 +73,15 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
 * [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)
 * [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
+* [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Github Libraries
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C](https://github.com/fragglet/c-algorithms)
+* C
+    * [by @fragglet](https://github.com/fragglet/c-algorithms)
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
 * [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
@@ -110,6 +114,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
+* Lua
+    * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python

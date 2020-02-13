@@ -145,6 +145,7 @@ nav:
     - Q#: awesome/awesome-qsharp.md
     - Imba: awesome/awesome-imba.md
     - Vala: awesome/awesome-vala.md
+    - Coq: awesome/awesome-coq.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
