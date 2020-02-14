@@ -104,6 +104,7 @@ More info [here](http://tensorflow.org).
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40+ Popular Computer Vision Models With Pre-trained Weights.
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 <a name="github-powered-by" />
+* [TF-Unet](https://github.com/juniorxsound/TF-Unet) - General purpose U-Network implemented in Keras for image segmentation
 
 ## Powered by TensorFlow
 
@@ -138,6 +139,7 @@ More info [here](http://tensorflow.org).
 * [gluon2keras](https://github.com/nerox8664/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
 * [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+* [DeepBay](https://github.com/ElPapi42/DeepBay) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
 
 <a name="tools-utils" />
 

@@ -79,7 +79,6 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 - [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page.
 - [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/guardianproject/LocationPrivacy) - Privacy filters for shared location links.
-- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - A fully automatic face anonymization technique for images and video.
 - [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vwochnik/reveal-frame-component) - A privacy-minded iFrame placeholder (JS script). Only loads after user consent.
@@ -189,6 +188,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 ## Internet of Things
 
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 
 ## Gamification
 
@@ -205,6 +205,8 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) - A cross-platform app that reminds you to take breaks when working with your computer.
 - [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An automated time-tracker that is cross-platform, extensible and privacy-focused.
+- [Red Moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use.
+- [Workrave](http://www.workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 
 ## Mindfulness
 

@@ -290,6 +290,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Videos
 * [How To Create a Blazor Component](https://www.youtube.com/watch?v=ijIjg2XAVK8) - February 11, 2020 - This video covers how to create a Blazor component for a Blazor application. Create a template and write C# code to connect the component with the application.
+* [Ed Charbeneau of Progress: Why I'm Excited About Blazor in 2020](https://www.youtube.com/watch?v=rAiBaedDWpY) - February 10, 2020 - Ed Charbeneau of Progress talks about the technologies he's excited to learn more about in 2020 including Blazor.
 * [Blazor Tutorial: Role-based Authorization](https://www.youtube.com/watch?v=rk5uIA6s574&feature=youtu.be) - February 7, 2020 - Blazor Tutorial: Role-based Authorization. [Source code](https://github.com/CuriousDrive/BookStores).
 * [Blazor Tutorial: Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) - February 5, 2020 - Blazor Tutorial : Register User & Generate JWT.
 * [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) - January 22, 2029 - I show how to install BlazorStyled for SSB and how I built a ProgressBar and Sprite Component to do simple animaitons.
@@ -398,10 +399,12 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) - February 12, 2020 - How to profile a production Blazor client-side app?
 * [Microsoft Blazor Enables Native App Development in C# and .NET](https://www.semaphore-software.com/blog/microsoft-blazor-enables-native-app-development-in-c-and-net/) - February 12, 2020 - Microsoft Blazor Enables Native App Development in C# and .NET.
 * [Tinkering with client-side Blazor and the AWS SDK for .NET](https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/) - February 11, 2020 - Tinkering with client-side Blazor and the AWS SDK for .NET.
 * [Why Blazor, via WebAssembly, is the future](https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/) - February 11, 2020 - Why Blazor, via WebAssembly, is the future.
 * [Announcing Experimental Mobile Blazor Bindings February update](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-feb-2020-update/) - February 10, 2020 - Announcing Experimental Mobile Blazor Bindings February update.
+* [Blazor by Example - A spot of refactoring](https://jonhilton.net/blazor-traffic-light-refactor/) - February 10, 2020 - Blazor by Example - A spot of refactoring. [Source code](https://github.com/jonhilt/BlazorExamples/).
 * [Multi-Language Translator Using Blazor And Azure Cognitive Services](https://ankitsharmablogs.com/multi-language-translator-using-blazor-and-azure-cognitive-services/) - February 10, 2020 - Multi-Language Translator Using Blazor And Azure Cognitive Services.
 * [Mobile Blazor Bindings – Getting Started + Why You Should Care](https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/) - February 5, 2020 - Mobile Blazor Bindings – Getting Started + Why You Should Care.
 * [Fragment Routing with Blazor](https://chrissainty.com/fragment-routing-with-blazor/) - February 4, 2020 - Fragment routing, or linking, is the term given when linking to a specific element on a page, say a header for example. This technique is often used in FAQ pages or technical documentation and links using this technique look like this, www.mysite.com/faq#some-header. This post covers how to do this with Blazor.
