@@ -34,7 +34,8 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-
+- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
+  
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
@@ -44,6 +45,8 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - Looking across teams and strata in an organisation and the practices used to meet organisational needs like alignment, reporting, etc. Feb 9, 2020.
+- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
 - [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
 - [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
@@ -113,7 +116,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Events
 
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
-  -  [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Video presentations on InfoQ.
 
 ## Workshops
 
@@ -124,6 +126,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - Czech Republic
+    - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
   - France
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
   - Germany

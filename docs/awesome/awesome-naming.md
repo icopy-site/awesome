@@ -17,6 +17,7 @@ Some of them so established, we never pause and admire.
 This is a curated list for when naming things is done right.
 
 
+- [Theoretical Computer Science](#theoretical-computer-science) 
 
 ---
 
@@ -62,6 +63,10 @@ This is a curated list for when naming things is done right.
 - [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - A kind of animated slideshow looping back on itself.
 - [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - The metaphorical top of the user's desk, upon which objects such as documents and folders of documents can be placed.
 - [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) - A button to toggle a menu. The associated icon resembles a hamburger.
+
+## Theoretical Computer Science
+
+- [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
 
 ## Other
 
