@@ -400,6 +400,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Blazor WebAssembly Rest Client](https://christianfindlay.com/2020/02/14/blazor-webassembly-rest-client/) - February 14, 2020 - This article focuses on client-side rendering and explains how to use [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) to make calls to a RESTful API. [Source code](https://github.com/MelbourneDeveloper/RestClient.Net/tree/master/RestClient.Net.Samples.Blazor).
+* [Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza](https://www.infoq.com/articles/mono-xamarin-webassembly-net5/) - February 13, 2020 - Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza.
 * [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) - February 12, 2020 - How to profile a production Blazor client-side app?
 * [Microsoft Blazor Enables Native App Development in C# and .NET](https://www.semaphore-software.com/blog/microsoft-blazor-enables-native-app-development-in-c-and-net/) - February 12, 2020 - Microsoft Blazor Enables Native App Development in C# and .NET.
 * [Tinkering with client-side Blazor and the AWS SDK for .NET](https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/) - February 11, 2020 - Tinkering with client-side Blazor and the AWS SDK for .NET.
@@ -566,6 +568,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Creating DEV's offline page using Blazor](https://dev.to/azure/creating-dev-s-offline-page-using-blazor-29dl) - July 5, 2019 - Creating DEV's offline page using Blazor.
 * [Introduction to Authentication with Blazor](https://chrissainty.com/securing-your-blazor-apps-introduction-to-authentication-with-blazor/) - July 3, 2019 - Introduction to Authentication with Blazor.
 * [Configuring a Server-side Blazor app with Azure App Configuration](https://devblogs.microsoft.com/aspnet/configuring-a-server-side-blazor-app-with-azure-app-configuration/) - July 1, 2019 - Configuring a Server-side Blazor app with Azure App Configuration.
+* [C# and WebAssembly (Wasm)](https://christianfindlay.com/2019/06/29/c-and-webassembly-wasm/) - June 29, 2019 - C# and WebAssembly (Wasm).
 * [Creating a step-by-step end-to-end database Server-Side Blazor application](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4318/Server-Side-Blazor-Reading-And-Inserting-Data-Into-A-Database-End-To-End.aspx) - June 28, 2019 - Creating a step-by-step end-to-end database Server-Side Blazor application.
 * [Using Blazor Components In An Existing MVC Application](https://chrissainty.com/using-blazor-components-in-an-existing-mvc-application/) - June 25, 2019 - Using Blazor Components In An Existing MVC Application.
 * [What Is Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4336/What-Is-Blazor.aspx) - June 23, 2019 - What Is Blazor.
@@ -605,7 +608,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts).
 
 ## Presentations slides
-* [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2020-01-NDCLondon) - January 29, 2002 - Source doe of the session by Steve Sanderson at the NDC London, "Blazor, a new framework for browser-based .NET apps".
+* [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2020-01-NDCLondon) - January 29, 2020 - Source doe of the session by Steve Sanderson at the NDC London, "Blazor, a new framework for browser-based .NET apps".
 * [Authoring custom components - .NET Conf "Focus on Blazor"](https://github.com/EdCharbeneau/DotnetConfBlazor) - January 14, 2020 - Slides and demo of the presentation by Ed Charbeneau at the .NET Conf "Focus on Blazor".
 * [Routing A-Z - .NET Conf "Focus on Blazor"](https://github.com/chrissainty/Talks-DotNetConf-01-2020) - January 14, 2020 - Slides and demo of the presentation by Chris Sainty at the .NET Conf "Focus on Blazor" about routing.
 * [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.

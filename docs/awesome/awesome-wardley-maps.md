@@ -123,6 +123,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Meetups
 
+- Canada
+  - Quebec
+    - Montreal. Reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
