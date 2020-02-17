@@ -273,6 +273,7 @@
 - [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
 - [Web Performance Budget](awesome/awesome-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](awesome/awesome-web-animation.md) - Animations in the browser with JavaScript, CSS, SVG, etc.
+- [Yew](awesome/awesome-yew.md) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## Back-End Development
 

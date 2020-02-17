@@ -120,6 +120,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
 
+### [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
+> Bash script snippets extension
+
+![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif)
+
 ## C++
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
@@ -1074,6 +1079,25 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
 </a>
+
+
+### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
+
+Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
+
+#### Dark 
+  
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
+</a>
+
+#### Light 
+
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
+</a>
+
+
 
 ## People to Follow
 

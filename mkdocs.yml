@@ -224,6 +224,7 @@ nav:
     - Seed: awesome/awesome-seed-rs.md
     - Web Performance Budget: awesome/awesome-performance-budget.md
     - Web Animation: awesome/awesome-web-animation.md
+    - Yew: awesome/awesome-yew.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
