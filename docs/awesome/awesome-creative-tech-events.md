@@ -48,6 +48,10 @@ Contributions are welcomed. Add or update links through pull requests.
 
 - [The Next Web](https://thenextweb.com/conference/) - Europe's largest tech festival. **(June)**
 
+#### Eindhoven
+
+- [STRP](https://strp.nl) - STRP Festival is one of the largest art & technology (e-culture) festivals in Europe where music, art and technology meet. **(April)**
+
 ---
 
 ### France

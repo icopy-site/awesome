@@ -305,7 +305,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Data Processing and ETL
 
-* [CSV Reader](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, CSV <3 JSON, CSV <3 YAML, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+* [CSV Reader](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
 
 ## Data Visualization
@@ -446,6 +446,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
 * [SquareConnect](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
+* [Workarea](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ## Ebook
 
@@ -545,7 +546,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
-* [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
+* [Ruby 2D](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## Gem Generators
 

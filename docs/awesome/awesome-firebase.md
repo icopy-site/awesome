@@ -19,7 +19,7 @@ The most **up to date** list of [Firebase](https://firebase.google.com) docs, ta
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ru.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme_es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme_id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ja.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ko.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme_pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme_zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
