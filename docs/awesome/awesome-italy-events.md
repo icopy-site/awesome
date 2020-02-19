@@ -48,9 +48,12 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 
 ## April
 - 2 - [Ruby Day](https://2020.rubyday.it/) - Verona - Ruby dedicated conference.
+- 2 - [BeConnected Day 2020](https://www.eventbrite.it/e/registrazione-beconnected-day-2020-92290708995) - Milano - Intelligent Communications e Modern Workplace.
 - 2-5 - [PyCon XI](https://www.pycon.it/) - Firenze - Python's national conference.
 - 3 - [VueDay](https://2020.vueday.it/) - Verona - Vue dedicated conference.
 - 16-17 - [DroidCon](https://it.droidcon.com/2020/it) - Torino - Italy’s biggest Android Event.
+- 18-19 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
+- 24 - [Global Azure Milan 2020](https://join.globalazure.net/events/48) - Milano - Azure and Cloud Computing.
 - 28-29 - [ItaliaSec](https://cyberseries.io/italiasec/) - Milano - This groundbreaking summit is designed for senior security leaders.
 
 ## May

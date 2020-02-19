@@ -49,6 +49,10 @@ See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 - [git-crypt](https://www.agwa.name/projects/git-crypt/) - Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.
 - [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
 
+### Application or Binary Hardening
+
+- [Egalito](https://egalito.org/) - Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.
+
 ### Fuzzing
 
 See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
@@ -124,7 +128,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Bro](https://www.bro.org/) - Powerful network analysis framework focused on security monitoring.
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
-- [Moloch](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access. 
+- [Moloch](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 - [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
 - [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 - [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
