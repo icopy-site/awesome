@@ -292,6 +292,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Is Blazor the new Silverlight?](https://www.youtube.com/watch?v=s9Nkry1l5Tg&feature=youtu.be) - February 2, 2020 - Very short video (2min) by Carl Franklin from the [Blazor Road Show](http://www.blazorroadshow.com) who speaks about "Is Blazor the new Silverlight?".
 * [Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#](https://www.youtube.com/watch?v=EdnrUGmECS4&feature=youtu.be) - February 18, 2020 - Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#, by Curious Drive. [Source code](https://github.com/CuriousDrive/BookStores).
 * [Open Source C#, Blazor, and the DataBinder](https://www.twitch.tv/videos/552921602) - February 16, 2020 - Open Source C#, Blazor, and the DataBinder, by Jeffrey Fritz. [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents).
 * [Coding with Squirrel - and Blazor !coffee](https://www.twitch.tv/videos/551829522) - February 14, 2020 - Coding with Squirrel, and Blazor !coffee, by Jeffrey Fritz. [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents).
@@ -411,6 +412,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Hundreds of practical ASP.NET Core samples to learn the fundamentals](https://www.hanselman.com/blog/HundredsOfPracticalASPNETCoreSamplesToLearnTheFundamentals.aspx) - February 19, 2020 - Hundreds of practical ASP.NET Core samples to learn the fundamentals, and there are great samples about Blazor.
 * [Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI](https://www.thomasclaudiushuber.com/2020/02/18/hosting-blazor-app-in-winui-3-with-webview-2-and-call-blazor-component-method-from-winui/) - February 18, 2020 - Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI.
 * [Integrating Tailwind CSS with Blazor using Gulp - Part 1](https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-1/) - February 18, 2020 - Integrating Tailwind CSS with Blazor using Gulp - Part 1.
 * [Dashboard for Blazor - How to use Web Dashboard within your Blazor Apps](https://community.devexpress.com/blogs/analytics/archive/2020/02/17/dashboard-for-blazor-how-to-use-web-dashboard-within-your-blazor-apps.aspx) - February 17, 2020 - Dashboard for Blazor - How to use Web Dashboard within your Blazor Apps, by DevExpress. This post covers how to integrate the [HTML JavaScript Dashboard](https://docs.devexpress.com/Dashboard/119108/designer-and-viewer-applications/web-dashboard/html-javascript-dashboard-control) into a Blazor applications and focus on integration details and create a sample dashboard application as well.

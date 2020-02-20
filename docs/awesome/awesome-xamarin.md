@@ -10,7 +10,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## General
 
 - [AutoMapper ★5,724](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
-- [Fluent Validation ★3,570](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
+- [Fluent Validation ★3,570](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
 - [Humanizer ★3,426](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities.
 - [NodaTime ★970](https://github.com/nodatime/nodatime) - Alternative date and time API for .NET.
 - [Polly ★4,666](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
@@ -78,6 +78,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [MonoGame ★5,276](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework.
 - [Paradox ★1,706](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET.
 - [UrhoSharp ★275](https://github.com/xamarin/urho) - Cross-platform high-level 3D and 2D engine.
+- [CocosCreator ★2](https://github.com/toanlcgift/xamarin-cocos-creator) - Xamarin binding for CocosCreator Engine.
 
 
 ## IO/Storage
@@ -114,9 +115,9 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [EZ-Compress ★11](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin.
 - [Fast & Furious Image Loading ★820](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily.
-- [Lottie ★643](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
+- [Lottie ★643](https://github.com/Baseflow/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
 - [LibVLCSharp ★174](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
-- [MediaManager ★269](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
+- [MediaManager ★269](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 - [NGraphics ★482](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics.
 - [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone.
 - [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library.
@@ -157,8 +158,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Refit ★2,762](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET.
 - [RestEase ★339](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 - [RestLess ★57](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+- [RestSharp ★6,994](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
 - [Sockets ★185](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT.
 - [Tiny.RestClient ★31](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
+
 
 ## Reactive
 
@@ -218,6 +221,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 - [Animated Icon Button](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
+- [SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
+- [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
+- [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+
 
 ## Wearable
 

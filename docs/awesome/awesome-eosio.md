@@ -192,6 +192,7 @@ All about development on EOSIO platform.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 - [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
+- [EOSLIME](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
 
 
 ### Developer Tools
