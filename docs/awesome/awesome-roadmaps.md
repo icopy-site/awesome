@@ -11,12 +11,12 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 
 
 ## Programming Language
-- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
+- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
 - [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
-- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
+- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
 
 ## Web Development
-- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a Web Developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap#-introduction).
+- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a Web Developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
 - [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
 - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2018.
 - [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
@@ -26,7 +26,7 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 - [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - Help new developers to start building beautiful android applications [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
 
 ## Game Development
-- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2018.
+- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
 - [Game Programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer.
 
 ## Miscellaneous
