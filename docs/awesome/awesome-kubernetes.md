@@ -296,7 +296,7 @@ Managed Kubernetes
   - [Knative](https://github.com/knative/) - Platform to build, deploy, and manage modern serverless workloads
   - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required
   - [Mantl](https://github.com/mantl/mantl) - A modern platform for rapidly deploying globally distributed services
-  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) - Spring Cloud integration with Kubernetes
+  - [Spring Cloud Kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) - Spring Cloud integration with Kubernetes
   - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
   - [Tilt](https://github.com/windmilleng/tilt) - Manages local development instances for teams that deploy to Kubernetes
 
@@ -738,6 +738,7 @@ Projects
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+* [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
 * [Polaris](https://github.com/reactiveops/polaris) - An open source dashboard for Kubernetes best practices
 * [Octant](https://github.com/vmware/octant) - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [Kontena Lens](https://github.com/kontena/lens) - The Ultimate Dashboard For Kubernetes.
