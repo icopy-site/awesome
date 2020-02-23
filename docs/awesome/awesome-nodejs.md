@@ -180,6 +180,7 @@
 - [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
 - [thetool](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+- [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Logging
 
@@ -187,7 +188,8 @@
 - [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
-- [signale](https://github.com/klauscfhq/signale) - Hackable console logger with beautiful output.
+- [signale](https://github.com/klauscfhq/signale) - Console logger.
+- [consola](https://github.com/nuxt/consola) - Console logger.
 
 ### Command-line utilities
 
@@ -532,6 +534,7 @@
 	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 
 ### Testing
 
@@ -558,6 +561,7 @@
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
+- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ### Security
@@ -726,7 +730,9 @@
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
-- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+- [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
+- [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ## Resources
 
@@ -815,6 +821,7 @@
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
 
 ### Community
 

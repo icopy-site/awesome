@@ -455,6 +455,7 @@ Table of Contents
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+  * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
@@ -501,6 +502,7 @@ Table of Contents
 
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
+  * [codenameone.com](https://www.codenameone.com/) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
   * [firebase.google.com](https://firebase.google.com) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
@@ -594,6 +596,7 @@ Table of Contents
   * [zilore.com](https://zilore.com/ru/dns) — Free DNS hosting.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
+  * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
 
 ## IaaS
 

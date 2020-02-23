@@ -108,6 +108,7 @@
 * Coolblue http://devblog.coolblue.nl/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
+* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
 * Curalate http://engineering.curalate.com/
 
 #### D companies
@@ -726,6 +727,7 @@
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
+* Stanko Tadić https://muffinman.io
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
