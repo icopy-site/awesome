@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="gitfrage/guitarspecs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-
+  
 ## Electric Guitar Specifications
 
 
@@ -54,7 +54,7 @@ For example, for building a solid-body 'jazz-sounding' guitar you have to choose
 Neck thickness, neck width, neck contour and fret wire size affect playability and are a matter of personal taste. Important for good playability is balanced interaction of these components. Thicker neck often creates warmer tone.
 
 >  [usacustomguitars.com/necks](http://www.usacustomguitars.com/necks) -  many neck shape and thickness combinations    
->  [musikraft.com](https://musikraft.com/cmspage.php?page_id=18) - additional information for understanding of neck features.   
+>  [musikraft.com](https://musikraft.com/faq-2/) - additional information for understanding of neck features.   
 
 ### Neck Profile
 
@@ -423,8 +423,6 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
  - Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)
  - Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)
 
-> [mouser.de - guitar potentiometer category](http://www.mouser.de/Passive-Components/Potentiometers-Trimmers-Rheostats/Potentiometers/_/N-9q0yp?P=1yiiebq&Keyword=Potentiometers&FS=True) - showing more options.
-
 
 ### Active Pickups Electronics
 ![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
@@ -432,8 +430,6 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
 Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
 > [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
-> [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - make any pickup active.     
-> [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  -   mini-switch with 0-20dB boost.    
 
 
 ## Strings
@@ -458,9 +454,9 @@ Baritone 	|  .013    		 | .056
 
 There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "Balanced Tension" combinations.
 
-> [Daddario](http://www.daddario.com/DADProductsElectric.Page?ActiveID=1903) - you can choose between bright and mellow sounding electric strings.      
-> [Ghsstrings](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [Tension Guide (PDF)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
-> [Thomastik](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
+> [daddario.com](https://www.daddario.com/products/guitar/electric-guitar/) - you can choose between bright and mellow sounding electric strings.      
+> [ghsstrings.com](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [tension guide (pdf)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
+> [thomastik-infeld.com](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
 
 
 ## Scale Length
@@ -518,4 +514,4 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 
 ![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
 
-> [frudua.com](http://www.frudua.com/sound_of_electric_guitar_wood.htm) - see on page bottom - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.
+> [frudua.com](https://www.frudua.com/wood-tone-reference-diagram.htm) - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.
