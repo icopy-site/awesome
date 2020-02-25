@@ -18,6 +18,9 @@ Everyone is welcome to submit their new awesome-ipfs item, but it will be accept
 
 Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
+## Collab-Cluster
+
+[Collaborative clusters](https://collab.ipfscluster.io/) are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network. Instead of datasets cluster content is usually updated.
 
 ## Apps
 
@@ -37,13 +40,14 @@ Readme and the website are automatically generated. In order to add an element t
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
-- [Cyber](https://cyber.page/) - A decentralized Google, built with IPFS, that uses semantically enriched IPFS hashes to build web3. [Source](https://github.com/cybercongress)
+- [Cyber](https://cyber.page) - A decentralized Google alternative, built with the help of IPFS. [Source](https://github.com/cybercongress)
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
 - [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
+- [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain  and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
@@ -53,6 +57,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+- [InfiniteBooru](https://infinitebooru.com) - A booru-style media tagging application and content aggregator with all media backed by IPFS.
 - [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access toEthereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
@@ -87,6 +92,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
+- [Pugdit](https://github.com/zbyte64/pugdit) - A bulletin board service that discovers and distributes over IPFS
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - Dataset version control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
@@ -96,6 +102,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
 - [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - A ToDo List demo app that uses windows.ipfs. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
+- [Tree3 Network](https://tree3.network/) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 - [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
@@ -116,6 +123,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
 - 2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
@@ -124,7 +132,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
@@ -151,6 +158,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 - [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
+- [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
@@ -165,6 +173,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - IPFS integration for the Dillo web browser.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
+- [go-orbit-db](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 - [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
@@ -194,6 +203,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
+- [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 
 ## Videos
 

@@ -14,6 +14,7 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 - [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
 - [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
 - [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
+- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
 
 ## Web Development
 - [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a Web Developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
@@ -32,8 +33,10 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 ## Miscellaneous
 - [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017.
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech.
+- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter.
 - [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Gives you an overview of the core skills needed in data science.
 - [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - A guide for amateurs pen testers and a collection of hacking tools, resources and references.
+- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - ROADMAP and KEYWORD for students those who have interest in learning NLP [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 
 ## Articles

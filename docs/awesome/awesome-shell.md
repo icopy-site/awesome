@@ -56,22 +56,23 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
-* [boom](https://github.com/holman/boom) - Store links and snippets in the commandline
+* [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://byobu.org/) - Text-based window manager and terminal multiplexer
+* [cod](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
 * [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
-* [dnote](https://github.com/dnote/dnote) - A simple, end-to-end encrypted notebook for developers
+* [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 * [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
-* [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
+* [foxy](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 * [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
@@ -105,6 +106,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+* [resh](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer
 * [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
@@ -115,7 +117,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shark](https://github.com/jorgebucaran/fish-spark) - ▁▂▃▅ Sparkline Generator
 * [sheet](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 * [spot](https://github.com/rauchg/spot) - Tiny file search utility
-- [snips](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
+- [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 * [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 * [sshfs](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
@@ -178,6 +180,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
+* [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 * [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](https://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
@@ -227,6 +230,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 * [balls](https://github.com/jneen/balls) - Bash on Balls
 * [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
+* [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [httpie](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
