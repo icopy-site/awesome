@@ -1,6 +1,5 @@
 <div class="github-widget" data-repo="gitfrage/guitarspecs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  
 ## Electric Guitar Specifications
 
 
@@ -19,6 +18,7 @@ It can help you to build a guitar with specific sound and playability characteri
 
 
 
+
 ---------------
 
 ## Sound and Playability Influencing Factors
@@ -26,15 +26,12 @@ It can help you to build a guitar with specific sound and playability characteri
 
 Component   | Sound* | Playability*
 ------------|---------------------|---------------
-Neck - [Neck Profile](#neck-profile) | + | ++++
-Neck - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing) | - | +++
-Body - [Form](#guitar-bodies) | + | ++++
-Body - [Bridge](#bridges) Form and Material | + | ++
-Electronics - [Pickup Properties](#pickup-properties) | ++++ | -
-Electronics - [Wiring Options](#electronics-wiring-options) | +++ | -
+[Guitar Neck](#guitar-necks) | + | ++++
+[Guitar Body](#guitar-bodies) | + | ++++
+[Guitar Electronics](#electronics) | +++ | -
 [Strings](#strings) | ++ | ++
 [Scale Length](#scale-length) | + | +
-[Woods](#woods) (Body, neck and fretboard) | + | + |
+[Woods](#woods) (Body, Neck and Fretboard) | + | + |
 
 *influence ( "-" stands for little,  "++++"  stands for very strong)
 
@@ -78,7 +75,7 @@ asymmetrisch| medium      | Wolfgang      | Modern C                  |
 
 Category               | Neck Nut Width     | e1/E6
 -----------------------|--------------------| -----------
-many Fenders from Japan| 41 mm (1-5/8")     | approx. 34 mm
+Many Fenders from Japan| 41 mm (1-5/8")     | approx. 34 mm
 Standard               | 42,9 mm (1-11/16") | approx. 35 mm
 Acoustic analog        | 44,5 mm (1-3/4")   | 35 mm till 37,5 mm
 Superwide (Warmoth)    | 48 mm (1-7/8")     | approx. 40 mm
@@ -162,14 +159,33 @@ The sound of electric guitar depends mainly on the vibration behavior of the str
 
 > [music.stackexchange.com](http://music.stackexchange.com/questions/14019/how-much-does-an-electric-guitars-body-physics-affect-the-tone-playability-et) - how much does electric guitar's body physics affect the tone and playability.
 
+### Body Shapes
+
+The shape of an electric guitar can historically be divided into the following categories:
+
+ - ST (Strat)
+ - T (Tele)
+ - Single Cut (LP)
+ - Double Cut (SG)
+ - Hollowbody
+ - Other Forms 
 
 ### Bridge Routing
 
-#### Flat Mount Hardtail Strat
+ - Flat Mount Hardtail (Strat/Tele/Schaller)
+ - Tremolo (Strat)
+ - Tune-O-Matic (Gison)
+ - Other (Jazzmaster®, Jaguar®, Bigsby®, Kahler®, Line 6, etc)
+
+American Standard Tremolo, Vintage Telcaster und Tune-O-Matic Style drillings
+
+![Bridge Routing](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/egitarrenbau-body-standardstrat_vintagetele_tunomatic.jpg)
+
+### Flat Mount Strat Routing
 
                    Strat Vintage, Narrow & Standard                   
     Sites holes    ...o.o.o.o.o.o...      
-    Bridge holes   ..o.....o.....o..    
+    Bridge holes   ..o.....o.....o..     
 
 Model               | E/e          |  Sites holes Ø    | Sites holes distance | Bridge hole Ø  | Bridge holes distance
 --------------------|------------------|-------------------|------------------|----------------|-------------------
@@ -177,17 +193,7 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 Strat Vintage Narrow| 54 mm (2 1/8")   |  4.78 mm (0.188") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
 Strat Standard      | 52.83 mm (2.08") |  3.18 mm (0.125") | 11.3 mm (0.446") | 3 mm (1/8")    | 22.6 mm (.89")
 
-#### Flat Mount Schaller
-
-                 Schaller Flat Mount
-    Bridge holes ...o.....o.....o... 
-
-Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
---------------------|------------------|-------------------|-----------------------|--- 
-Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
-
-
-#### Flat Mount Tele Style
+### Flat Mount Tele Routing
 
                  Tele Vintage                          Tele Standard         
     Bridge holes ..o...o...o...o..      Sites holes    ...o.o.o.o.o.o... 
@@ -198,32 +204,34 @@ Model               | E/e              |  Sites holes Ø    | Sites holes distan
 Tele Vintage        | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.9 mm (.429")      | 3 mm (1/8")    | 21.6 mm (.85")
 Tele Standard       | 54 mm (2 1/8")   |  3.18 mm (0.125") | 10.5 mm (0.413")     | 3 mm (1/8")    | 32.4 mm (1.267")
 
+###  Flat Mount Schaller Routing
 
-#### Tremolo Vintage
+                 Schaller Flat Mount
+    Bridge holes ...o.....o.....o... 
 
-                   Vintage                
-    Bridge holes  ..o..o..o..o..o..o..     
-
-Model                  | E/e                | Holes distance   | Holes Ø
------------------------|------------------- |------------------|--------------
-Mexico Strat           | 52,4 mm (2 1/16)   | 52,4 mm (2 1/16) | 3 mm (1/8")
-Vintage                | 56,36 mm (2 7/32") | 55,9 mm (2.2")   | 3 mm (1/8")
-
-#### Tremolo Standard
-
-                   Standard
-    Bridge holes  ..o..........o..      
-
-Model                  | E/e                | Holes distance   | Holes Ø
------------------------|------------------- |------------------|--------------
-American Standard      | 52,83 mm (2.08")   | 55,9 mm (2.2")   | 9,5 mm (.375")
-Floyd Rose ("recessed")| 53 mm (2-3/32")    | 74 mm (2.913")   | 9,91 mm (.390")
-Schaller 2000          | 53,5 mm            | 56 mm            | 10 mm
-Schaller vintage       | 53,5 mm            | 74,3 mm          | 10 mm
-Wilkinson ("recessed") | 54 mm (2-1/8")     | 55,9 mm (2.2")   | 9,7 mm (.382")
+Model               | E/e              |  Bridge hole Ø    | Bridge holes distance | Dimensions (LxWxH)
+--------------------|------------------|-------------------|-----------------------|--- 
+Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 49 x 12(15) mm
 
 
-#### Tune-O-Matic Gibson Style
+### Tremolo Routing
+
+    Bohrbild "Vintage":         Bohrbild "Standard":
+    ..o..o..o..o..o...o...      .....O.......O.....
+
+Modell                  | E/e              | Holes     | Hole Distance       | Hole Ø
+-----------------------|-------------------|-----------|------------------|--------------
+Mexico Strat           | 52,4 mm (2 1/16)  | 6         | 52,4 mm (2 1/16) | 3 mm (1/8")
+Vintage                | 56,36 mm (2 7/32")| 6         | 55,9 mm (2.2")   | 3 mm (1/8")
+American Standard      | 52,83 mm (2.08")  | 2         | 55,9 mm (2.2")   | 9,5 mm (.375")
+Floyd Rose ("recessed")| 53 mm (2-3/32")   | 2         | 74 mm (2.913")   | 9,91 mm (.390")
+Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 mm
+Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
+Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
+
+> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
+
+### Tune-O-Matic Gibson Style Routing
 
                  Tune-O-Matic Recessed   Tune-O-Matic "Strings through the body"
     Tailpiece    ..........o......
@@ -237,36 +245,40 @@ Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     
 Instead Tailpiece - there may be "strings through the body" drillings.
 
 
-#### Other Rare Variants
+### Other Rare Bridge Variants
 
  - Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around) 
  - Jazzmaster®
  - Jaguar®
  - Bigsby®
  - Kahler®
-
-> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
-
   
 ### Pickup Routing
 
-Description  | Av.length/width/depth* | Pickup Frames Design
---------------|---------------| --------------
-Single Coils Strat     	  | - |
-Humbucker 		  	  	 | - | Flat, Curved, High(bridge), Low(neck)
-Wide Humbucker** 		 | - | Flat, Curved, High(bridge), Low(neck)
-Mini Humbucker 		   | - | 
-Tele Neck  		      | - |
-Tele Bridge  		  	 | - |
-P90  		          	 | - |
-Lipstick Tube  		   | - |
-Jazzmaster              | - |
+- Single Coils (Strat)
+- Single Coils (Tele Neck)
+- Single Coils (Tele Bridge)
+- Humbucker
+- Wide Humbucker *
+- Mini Humbucker
+- P90
+- Lipstick Tube
+- Jazzmaster
 
-*Exact specifications can be found on the manufacturer's website like:
+*Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
+
+Exact specifications can be found on the manufacturer's website like:
 > [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
 
-**Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
 
+In addition to classic HH routing (2X hambuckers), there are the following variants: - SSS (Strat, Nashville Tele)
+ - HSS (Strat Humbucker im Steg, Modern Player Tele)
+ - HSH (Strat),
+ - HS (Strat, 72 Tele)
+ - SS (Tele),
+ - HP90 (Yamaha Pacifica),
+ - S (Tele Esquire),
+ - and some other exotic combinations
 
 ----------
 
