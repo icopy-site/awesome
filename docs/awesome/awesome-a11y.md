@@ -22,6 +22,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Courses](https://github.com/brunopulis/awesome-a11y/blob/master/topics/courses.md)
 - [Development Testing and Validators](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md)
 - [Guides](https://github.com/brunopulis/awesome-a11y/blob/master/topics/guides.md)
+- [Jobs](https://github.com/brunopulis/awesome-a11y/blob/master/topics/jobs.md)
 - [Laws](https://github.com/brunopulis/awesome-a11y/blob/master/topics/laws.md)
 - [Meetups](https://github.com/brunopulis/awesome-a11y/blob/master/topics/meetups.md)
 - [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
