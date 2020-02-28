@@ -170,16 +170,20 @@ The shape of an electric guitar can historically be divided into the following c
  - Hollowbody
  - Other Forms 
 
-### Bridge Routing
+### Bridge And Pickup Routing Overview
 
  - Flat Mount Hardtail (Strat/Tele/Schaller)
  - Tremolo (Strat)
  - Tune-O-Matic (Gison)
  - Other (Jazzmaster®, Jaguar®, Bigsby®, Kahler®, Line 6, etc)
 
-American Standard Tremolo, Vintage Telcaster und Tune-O-Matic Style drillings
-
 ![Bridge Routing](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/egitarrenbau-body-standardstrat_vintagetele_tunomatic.jpg)
+
+Picture left to right:
+- American Standard Tremolo Routing and Single Coil Strat Pickup, 
+- Vintage Telcaster Routing and Single Coil Tele Pickup, 
+- Tune-O-Matic Style Routing and Habucker Pickup
+
 
 ### Flat Mount Strat Routing
 
@@ -282,10 +286,7 @@ In addition to classic HH routing (2X hambuckers), there are the following varia
 
 ----------
 
-## Hardware
-![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
-
-### Tuning Machines
+## Tuning Machines
 ![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
 
 Tuning Machines Options:
@@ -294,7 +295,7 @@ Tuning Machines Options:
    Larger ratio (1:18 > 1:14) allows finer adjustments.
  - Standard vs Locking  - with locking tuners strings are inserted through the axle bore and fixed by a screw from the outside
 
-### Bridges
+## Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
 Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
@@ -304,17 +305,8 @@ Good manufacturers provide detailed product information on their pages:
 
 >  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
  
-### Knob Styles
-![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
 
-There are 3 common styles of knobs:
- - bell
- - speed
- - domed
-
-> [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
-
-### More Parts To Complete
+## Hardware Parts Checklist
 ![jackplate](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip9_jackplate.jpg)
 
  - Jacks & jackplates
@@ -357,9 +349,10 @@ Following topics change resonant frequency and resonant peak:
 ### Pickup Properties
 ![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
-- Output: low(vintage), medium, high (vintage used often for jazz and blues)
 - Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*
 - Position: Bridge, Neck, Midd­le
+- Symmetrical vs asymmetrical connection type
+- Output: low(vintage), medium, high (vintage used often for jazz and blues)
 - Passive vs. Active (Active often used for distortion sound)
 - D.C. Resistance: indication how much output a pickup will have
 - E.Q. chat: A general idea as to the Bass, Mids and Treble.
@@ -367,34 +360,52 @@ Following topics change resonant frequency and resonant peak:
 >  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) - pickup selector     
 >  [dimarzio.com](http://www.dimarzio.com/pickup-picker) - pickup picker    
 
-### Electronics Wiring Options
+Classic humbuckers are asymmetrical. They are internally wired in series (i.e. serial - brings more power) in opposite phase (less noise). The current multi-Con­ductor PUs offer the option of switching the coils differently using push / pull pots, mini switches, toggles, mega switches and rotary switches, and allow broad control over the sound directly on the guitar.
+
+
+Con­ductors |  Connection Type  |  Coil Split   			   | Seriell/Parallel 	 | Phase Switch | Example
+--------|---------------|------------------------------|---------------------|----------|------------
+1x 	  	| Asymmetrical | Humbucker Mode  	       | Seriell 		 | No		| Shadow AZ48
+2x		| Symmetrical   | Humbucker Mode  	       | Seriell 		 | Yes		| Fender Wide Range (Mexico)
+2x		| Asymmetrical | Humbucker & Single Coil Mode | Seriell 		 | No		| Benedetto B6
+3x		| Symmetrical   | Humbucker & Single Coil Mode | Seriell  		 | Yes		| viele aktive PUs
+3x		| Asymmetrical | Humbucker & Single Coil Mode | Seriell and Parallel| No		| PRS 59
+4x		| Symmetrical   | Humbucker & Single Coil Mode | Seriell and Parallel| Yes		| all 4-Con­ductor PUs
+
+
+### Sound Control with Switches
 
 ![electronics wiring options](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip14_switch.jpg)
 
-Effect | Pot | Push/Pull or Mini <br> DPDT(ON/OFF/ON)* | Mini <br>DPDP(ON/ON) | Mini <br> DPDP(ON/ON/ON) | X-Way-Blade <br> Megaswitch | Rotary Switch.
-------------------------- |------|------|-----|-----|-----|----
-volume                    |  y   | -/y¹ |  -  |  -  | -   | -
-tone                      |  y   | -/y¹ |  -  |  -  | -   | y³
-series/parallel           |  -   |  y   |  -  |  y  | y   | y
-coil split                |  -   |  y   |  y  |  y  | y   | y
-series/parallel & coil tap|  -   |  y²  |  y² |  y² | y²  | -
-phase switch              |  -   |  y   |  y  |  y  | y   | y
-pickup switch             |  -   |  y   |  y  |  y  | y   | y
+   Switch		             |  Coil Split  | Seriell/Parallel | Phase Switch | PU switch
+-----------------------------|--------------|----------------|--------------|----------
+Toggle Switch  				 |		-		|		-		 | 		-		|  y
+Blade Switch "Fender"		 |		-		|		-		 | 		-		|  y
+X-Way-Blade "Megaswitch" 	 |		y		|		y		 | 		y		|  y
+Mini-Switch SPDT(ON/ON)		 |		y		|		-		 | 		-		|  -
+Mini-Switch SPDT(ON/OFF/ON)  |		y		|		-		 | 		-		|  -
+Mini-Switch SPDT(ON/OFF/ON)  |		y		|		-		 | 		y		|  -
+Mini-Switch DPDT(ON/ON)      |		y		|		y		 | 		y		|  -
+Push/Pull-Pot DPDT(ON/OFF/ON)|		y		|		y		 | 		y		|  - 
+Mini-Switch DPDT(ON/ON/ON)   |		y		|		y		 | 		y		|  y
+Drehschalter 				 |		y		|		y		 | 		y		|  y
 
+- Coil Split - "Single Coil Sound"
+- Seriell/Parallel Schaltung - "double Single Coil Sound"
+- Phase-Switch - "Out of Phase Sound"
 
-     * switch owerview:
-    DPDT (ON/OFF/ON):     DPDT (ON/ON):     DPDT (ON/ON/ON):
-    0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
-    0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
+SP = Single Pole, DP = Double Pole,  DT = Double Throw
+	
+	SPDT (ON/OFF/ON):     	SPDT (ON/ON):     
+    0 X X | 0 0 0 | X X 0   0 X X | X X 0     
 
+	DPDT (ON/OFF/ON):     	DPDT (ON/ON):     DPDT (ON/ON/ON):
+	0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | X X 0 | X X 0
+	0 X X | 0 0 0 | X X 0   0 X X | X X 0     0 X X | 0 X X | X X 0
 
-'¹' DPDP(ON/OFF/ON) available as "Mini-switch" oder "Push/Push-Pot" for volume and tone control
+Example: "Seriell/Parallel und Coil Split at same time" are possible with 4 Push/Pull Pots, 4 Mini-switches (i.e. duncan triple shot) or by 5-Way Blade Megaswitch
 
-'²' can be done by 4 Push/Pull pots, 4 Mini-switch (as SD "triple shot") or by 5-Way blade megaswitch
-
-'³' c-switch/varitone - Rotary switch for different pots
-
-> [open.guitars (german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) - Hambucker Conductor/Coils switching options.
+> [open.guitars (german)](https://open-guitars.de/egitarrenbau/pu-anschlussarten/) - Hambucker Conductor/Coils switching options.
 
 
 ### Electronics Wiring Schemas
@@ -435,6 +446,15 @@ long     | 24 mm 	  |  8 mm  | 20 mm  | 27,5 mm | most Gibson LP guitars
  - Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)
  - Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)
 
+### Potentiometer Knob Styles 
+![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
+
+There are 3 common styles of knobs:
+ - bell
+ - speed
+ - domed
+
+> [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
 
 ### Active Pickups Electronics
 ![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
