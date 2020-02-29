@@ -182,7 +182,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](http://www.workingnomads.co/jobs)
-  1. [Zdalnie.io](https://zdalnie.io) Remote jobs in Poland and Europe
 
 ## Job boards aggregators
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
@@ -373,6 +372,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.be/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
+  1. [MailerLite](https://www.mailerlite.com/) - Email marketing tool with a remote-first team that's scattered all over the world. Twice a year, they go on workation to places like Bali, Panama and Miami.
   1. [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
   1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other Javascript frameworks.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
@@ -407,6 +407,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
+  1. [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
@@ -451,6 +452,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](http://twintechs.com/about-twin/careers)
+  1. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
   1. [Vidalingua](http://www.vidalingua.com/amaze.php) - Bringing language apps to life.
   1. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
   1. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.

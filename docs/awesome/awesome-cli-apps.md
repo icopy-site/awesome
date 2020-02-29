@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 - [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 
 ### Devops
 
@@ -464,6 +465,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [dankcli](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## Other
 

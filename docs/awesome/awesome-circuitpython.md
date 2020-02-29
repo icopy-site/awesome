@@ -66,23 +66,46 @@
 
 All supported boards may be viewed at [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Feather M0 Express + Crickit.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Basic, Adafruit Feather M0 Express, Adafruit Feather M0 Adalogger, Adafruit Feather M0 RFM9x, Adafruit Feather M0 RFM69, Adafruit Feather M4 Express, Adafruit Feather nRF52832, Adafruit Feather nRF52840 Express, Adafruit nRF52840 Sense, Adafruit CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Expres, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit Metro M0 Express, Adafruit Metro M4 Express, Adafruit NeoTrellis M4, Adafruit Trinket M0, Adafruit PyPortal, Adafruit PyPortal Titano, Adafruit PyPortal Pynt, Adafruit pIRkey, Adafruit Feather Huzzah, Adafruit PyBadge, Adafruit PyBadge AirLift, Adafruit PyBadge LC, Adafruit PyGamer, Adafruit PyGamer Advance, Adafruit Metro M4 AirLift Lite, Adafruit Gemma M0 PyCon 2018, Adafruit Circuit Playground Express Digi-Key, Adafruit Circuit Playground Express 4-H, Adafruit Circuit Playground Express + Crickit, Adafruit Circuit Playground Express Bluefruit, Adafruit Feather M0 Express + Crickit, Adafruit PyRuler, Adafruit EdgeBadge, Adafruit M7 1011.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
-- [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow.
+- [Electronic Cats](https://electroniccats.com/) - CatWAN USB Stick, Meow Meow, [Escornabot Match](https://github.com/ElectronicCats/Escornabot-Makech).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) - nRF52840 Micro Dev Kit, nRF52840 Micro Dev Kit USB Dongle.
 - [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) - nRF52840 DK board [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html), nRF52840 Dongle [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
+- [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK)
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - Mini SAM M4.
-- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame.
-- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423).
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) - PewPew, μGame, [PewPew M4](https://hackaday.io/project/165032-pewpew-m4).
+- [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Mini, SparkFun SAMD21 Dev, SparkFun Pro nRF52840 Mini, SparkFun SAMD21 Dev, SparkFun RedBoard Turbo, SparkFun LumiDrive, [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro with Flash](https://www.sparkfun.com/products/15423), [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) - Feather M0 Supersized, Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) - KickSat Sprite, SAM32.
-- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip
+- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - uChip M0
 - [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
+- [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
+- Robot Exploration Lab - [PyCubed](https://circuitpython.org/board/pycubed/)
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 - Prof. Fartsparkle - [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
-- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)
+- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/), Feather MIMXRT1062, [Feather MIMXRT1011](https://circuitpython.org/board/feather_mimxrt1011/).
 - [Sony](https://developer.sony.com/) - [Spresense](https://developer.sony.com/develop/spresense/)
+- [PJRC](https://www.pjrc.com/) - [Teensy 4.0](https://www.adafruit.com/product/4323)
+- [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr)
+- TZT - STM32F411CE Black Pill
+- [J&J Studios](https://jandjstudios.io/) - [datum-IMU](https://jandjstudios.io/datum/datum-IMU/), [datum-Distance](https://jandjstudios.io/datum/datum-Distance/)
+- KittenbBot- [Meowbit](https://www.adafruit.com/product/4324)
+- OSHWA - Open Hardware Summit 2020 Badge
+- Damien George - [PyBoard 1.1](https://www.adafruit.com/product/2390)
+- [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+- Oddly Specific Objects - [The Open Book](https://github.com/joeycastillo/The-Open-Book)
+- ST - [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+- Alethea Flowers - [Winterbloom Sol](https://thea.codes/)
+- Cedar Grove Studios - StringCar M0 Express
+- keithp.com - [Snekboard](https://keithp.com/snek/snekboard)
+- Elecrow - [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html)
+- XinaBox - [XinaBox CS11](https://xinabox.cc/products/cs11?_pos=1&_sid=8a988d61c&_ss=r), [XinaBox CC03](https://xinabox.cc/products/cc03?_pos=1&_sid=ecd354e4d&_ss=r)
+- Teknikio - [Bluebird](https://www.teknikio.com/pages/bluebird)
+- Sarfata - [ShIRtty Board](https://github.com/sarfata/shirtty-addon)
+- Scott Shawcroft - [Python powered GameBoy-compatible cartridge](https://github.com/chickadee-tech/pygb)
+- noGarage - [Ndbit6]()
+- Null Byte Labs LLC - [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/), [CircuitBrains Basic](https://kevinneubauer.com/portfolio/circuitbrains-basic/)
 
 Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): Please do a pull request on GitHub at [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython). CircuitPython developers may help get the correct pin data and other information to map a new board.
 
@@ -211,4 +234,4 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: February 5, 2020
+Last updated: February 28, 2020
