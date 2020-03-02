@@ -24,7 +24,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2018) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - (2017) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
 - A4AI Mobile Broadband Data Costs - ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
-- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2019) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
+- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2020) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) - (2017) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) - Forecast and Trends, 2017–2022 White Paper.
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
@@ -89,7 +89,6 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
 
-
 ## Other sources
 
 **[`^        back to top        ^`](#)**
@@ -106,6 +105,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [M-Lab Visualization Platform](https://viz.measurementlab.net/) - M-Lab is an open, verifiable measurement platform for global network performance.
 - [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
+- [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) Updated:February 28, 2020
   
 <!-- END RESOURCE LIST -->  
 

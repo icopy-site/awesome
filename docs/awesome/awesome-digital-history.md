@@ -67,6 +67,7 @@ Digitized or digital born [primary sources](https://en.wikipedia.org/wiki/Primar
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
 - [Industriekultur](https://industriekultur.ch/) - Swiss national inventory of industry artifacts.
 - [fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
+- [NLS](https://data.nls.uk/data/) - Data collections from the National Library of Scotland.
 
 ## Encyclopaedias
 
@@ -119,6 +120,13 @@ Digitized or digital born [primary sources](https://en.wikipedia.org/wiki/Primar
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
 - [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
+
+### Data Extraction and Conversion
+
+- [Poppler](https://poppler.freedesktop.org/)
+- [QPDF](http://qpdf.sourceforge.net/)
+- [ImageMagick](https://imagemagick.org/)
+- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
 
 ### Data Augmentation
 
