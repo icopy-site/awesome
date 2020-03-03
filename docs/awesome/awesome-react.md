@@ -100,6 +100,7 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 
 ##### React Frameworks
 
@@ -169,6 +170,7 @@ A collection of awesome things regarding the React ecosystem.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ##### React for Command Line
 

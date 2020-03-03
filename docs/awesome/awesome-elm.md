@@ -44,6 +44,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 * [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
 * [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+* [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 
 ### Games
 
@@ -71,6 +72,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 * [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+* [Learn Elm](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
@@ -228,6 +230,7 @@ Tools and libraries to test your Elm applications
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
+* [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
 ### Run Elm
 
@@ -284,7 +287,7 @@ Tools and libraries to test your Elm applications
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
 
 
-### Other
+### Other tools
 
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
@@ -348,6 +351,8 @@ Here are some notable ones:
 
 ## Community and Support
 
+* [Companies using Elm](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+
 *Where to find help.*
 
 * [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
@@ -394,7 +399,7 @@ Here are some notable ones:
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
 
-<a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
+<a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 

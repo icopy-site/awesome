@@ -53,7 +53,7 @@
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items, except the last one.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Ads [Hero Patterns](https://www.heropatterns.com) components.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 - [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
@@ -242,7 +242,6 @@
 ### Apps & Websites
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
-- [Full Snack Developer](https://full.snack.dev)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
