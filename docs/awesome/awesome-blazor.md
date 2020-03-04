@@ -130,6 +130,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorOCR](https://github.com/daltskin/BlazorOCR) - ![Last commit](https://img.shields.io/github/last-commit/daltskin/BlazorOCR?style=flat-square&cacheSeconds=86000) A Blazor WebAssembly application for reading receipts.
 * [Dcidr](https://github.com/timplourde/dcidr-blazor) - ![Last commit](https://img.shields.io/github/last-commit/timplourde/dcidr-blazor?style=flat-square&cacheSeconds=86000) Blazor WebAssembly decision-making app with PWA (offline), localstorage, and Excel export. [Demo](https://dcidr.z20.web.core.windows.net/).
 * [BlazorForum](https://github.com/ElliottBrand/BlazorForum) - ![Last commit](https://img.shields.io/github/last-commit/ElliottBrand/BlazorForum?style=flat-square&cacheSeconds=86000) Forum application built with Blazor.
+* [Blazor + Umbraco Heartcore](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square&cacheSeconds=86000) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -234,6 +235,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 * [Howler.Blazor](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
 * [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - Wrapper for Steve Sanderson's BlazorFileInput component.
+* [Cortex.Net](https://github.com/jspuij/Cortex.Net) - State management like MobX for .NET and Blazor.
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
@@ -271,6 +273,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) - January 22, 2029 - I show how to install BlazorStyled for SSB and how I built a ProgressBar and Sprite Component to do simple animaitons.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) - January 21, 2020 - This video covers how we can use HttpClient in your Blazor app to make API calls to login user into the system. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Let's add some auth to Blazor](https://www.twitch.tv/videos/533986300) - January 17, 2020 - Let's add some auth to Blazor, on Twitch.
+* [Blazor Means Business](https://www.youtube.com/watch?v=0CS2xat4dBg) - January 16, 2020 - "Blazor Means Business" by Paul Schroeder at the Chicago .NET User Group.
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) - January 15, 2020 - This video by Microsoft covers how you can use authentication and authorization within your Blazor application.
 * [.NET Conf session: Blazor for Web Form and C# Developers](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Blazor-for-Web-Form-and-C-Developers) - January 14, 2020 - "Blazor for Web Form and C# Developers" by Jeff Fritz, session of the .NET Conf "Focus on Blazor". This session covers how you can use Blazor within your Web Form applications.
 * [.NET Conf session: Build Serverless Apps with Blazor](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Build-Serverless-Apps-with-Blazor) - January 14, 2020 - "Build Serverless Apps with Blazor" by Daria Grigoriu and Fabio Cavalcante, session of the .NET Conf "Focus on Blazor". This session covers how you can build serverless Blazor applications.

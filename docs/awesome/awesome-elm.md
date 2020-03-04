@@ -138,12 +138,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Europe 2019](https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD) - Jun 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) - Feb 2019
-* [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - All talks from elm-conf 2018
-* [Elm Europe 2018](https://www.youtube.com/watch?v=uGlzRt-FYto&list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) - A playlist of all talks from Elm Europe 2018
+* [Elm Conf 2018](https://www.youtube.com/playlist?list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - All talks from elm-conf 2018
+* [Elm Europe 2018](https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) - A playlist of all talks from Elm Europe 2018
 * [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) - All talks from elm-conf 2017
-* [Elm Europe 2017](https://www.youtube.com/watch?v=XpDsk374LDE&list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) - A playlist of all talks from Elm Europe 2017
+* [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) - A playlist of all talks from Elm Europe 2017
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli) - A playlist of all talks from Oslo Elm Day 2017
-* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
+* [Elm Conf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd) - All talks from elm-conf 2016
 
 ### Miscellaneous videos
 
@@ -178,6 +178,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Listen to podcasts about Elm*
 
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
+* [Implementing Elm](https://www.implementingelm.com/) - A deep dive into specific problems to help the Elm community.
 
 ### Individual Podcast episodes
 
@@ -209,16 +210,17 @@ Tools and libraries to test your Elm applications
 
 *Useful tools related to Elm.*
 
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
-* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [elm-review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-* [elm-pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 
 ### Code Generators
 

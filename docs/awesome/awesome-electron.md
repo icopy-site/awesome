@@ -41,7 +41,7 @@ Made with Electron.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
-- [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
+- [Gitify](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
 - [Friends](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [Kitematic](https://github.com/docker/kitematic) - Docker container management.
@@ -306,6 +306,7 @@ Made with Electron.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
+- [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
 ### Using Electron
 

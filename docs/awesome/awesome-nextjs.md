@@ -48,6 +48,7 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
+* [Next Right Now](https://github.com/UnlyEd/next-right-now) - Flexible **production-grade boilerplate** with Next.js 9 and Zeit Now, with pre-configured Sentry, cookies, Amplitude, Emotion, FontAwesome, GraphQL/GraphCMS (Apollo), Bootstrap (Reactstrap), i18next (Locize), Jest, Cypress (E2E tests) and CI/CD (GH Actions), with full TypeScript support and **support for B2B multi-tenants web apps (monorepo)**
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
@@ -76,6 +77,7 @@
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 
 ## Extensions
+* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
 * [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
@@ -91,7 +93,6 @@
 * [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 * [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 * [Next PWA](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
-
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
