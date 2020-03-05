@@ -18,6 +18,7 @@ All that you need to create a great mobile web experience.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) - A case study on achieving fast animations on mobile web (by Yelp).
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) - Everything you need to know about forms autofill.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
+- [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26) - An advices on web development for Galaxy Fold.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - How to deal with "the notch" on iPhone X.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - The good high-level overview of mobile web development.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) - A diagram that shows in which cases JavaScript can be unavailable.
@@ -113,7 +114,8 @@ All that you need to create a great mobile web experience.
 - [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 - [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
-- [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites
+- [Screen Sizes](http://screensiz.es/phone) - A list of screen sizes of all popular smartphones.
+- [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
 - [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
 - [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
