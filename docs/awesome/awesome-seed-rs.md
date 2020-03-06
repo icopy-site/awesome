@@ -38,6 +38,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) - Seed Realworld example on _Quickstart with Webpack_ with integrated [Dark lang](https://darklang.com/) Realworld.
 - [Official examples](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
 - [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
+- [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
 
 ## Projects Using Seed
 
