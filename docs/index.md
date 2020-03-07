@@ -53,25 +53,6 @@
 
 
 
----
-
-<div align="center">
-	<p>
-		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>Looking for a job?</b>
-			<br>
-			No resume needed. Just prove you can code.
-			<br>
-			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-			</div>
-		</a>
-		<sub><i>Clicking this helps fund the Awesome project</i></sub>
-	</p>
-</div>
-
----
-
 ## Platforms
 
 - [Node.js](awesome/awesome-nodejs.md) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -168,7 +149,7 @@
 - [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](awesome/awesome-R.md)
 - [D](awesome/awesome-d.md)
-- [Common Lisp](awesome/awesome-cl.md) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development. 
+- [Common Lisp](awesome/awesome-cl.md) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
 	- [Learning](awesome/awesome-common-lisp-learning.md)
 - [Perl](awesome/awesome-perl.md)
 - [Groovy](awesome/awesome-groovy.md)

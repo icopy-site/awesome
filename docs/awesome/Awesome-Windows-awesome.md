@@ -36,6 +36,9 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) ![Freeware][Freeware Icon]
+- [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
+- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well. [![Open-Source Software][oss icon]](https://www.videolan.org/vlc/download-sources.html) ![Freeware][freeware icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][freeware icon]
 

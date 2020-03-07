@@ -74,6 +74,7 @@
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic
+* [Patcher](https://github.com/hobbyquaker/Patcher) - CCU3 Addon zur komfortablen Anwendung von Patches.
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 * [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
@@ -82,7 +83,9 @@
 
 ## Interfacing Software
 
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff .
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - [Homebridge](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 

@@ -34,7 +34,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 ### Broker
 
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
-* [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+* [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
 * [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
@@ -357,7 +357,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt) - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them.
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
-* [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) - A universal independant MQTT Dashboard for linux/Raspberry Pi.
+* [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) - A universal independent MQTT Dashboard for linux/Raspberry Pi.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
 * [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - Plotting live numbered data from a subscribed MQTT topic using Highcharts.
