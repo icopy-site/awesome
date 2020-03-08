@@ -1060,7 +1060,8 @@ Tooltips / popovers
  - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
  - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)
  - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs
- - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.
+ - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
+ - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.
  - [md-svg-vue](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server side support (with caching), inline svg rendering, official icon names)
  - [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) - Vue component which shows the flag of the country from which the language comes from
  - [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) - Vue component for the beautiful [Zondicon](http://www.zondicons.com/icons.html) svg icons
@@ -1496,6 +1497,7 @@ Tooltips / popovers
  - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very simple vue slider bar component.
  - [textra](https://github.com/hosein2398/Textra) - Vue js add-on to slide text.
  - [vue-knob-control](https://github.com/kramer99/vue-knob-control) - A rotary knob control for Vue.js
+ - [iv-slider](https://github.com/lycHub/v-slider) - Slider component for vue2.x.
 
 #### Drag and Drop
 

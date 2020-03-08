@@ -11,6 +11,7 @@
 ## Books
 
 * [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+* [Locks, Safes and Security: An International Police Reference](https://www.goodreads.com/en/book/show/525753.Locks_Safes_and_Security) - Information on locks, safes and security by Marc Weber Tobias.
 
 ## Contests, conferences, and events
 
@@ -27,6 +28,7 @@
 * [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
 * [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
 * [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
+* [Lock Dice](http://schuylertowne.com/blog/lockpicking-with-dice) - In this dice-based locksport game, as a budding lock maker you have set out to test your designs against your peers.
 
 ## How-to lockpicking guides
 
@@ -57,9 +59,10 @@
 
 ## Online resources
 
-* [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
+* [Dark Sim 905's Lockpicking pages](https://web.archive.org/web/20191127182007/https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+* [Raking Techniques](https://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
 
 ## Vendors
 
