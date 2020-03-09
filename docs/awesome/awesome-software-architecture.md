@@ -1,19 +1,18 @@
 <div class="github-widget" data-repo="simskij/awesome-software-architecture"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simskij/awesome-software-architecture/master/./banner.png" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  Awesome Software Architecture<br/>
-  <a href="https://awesome.re" target="_blank">
-    <img src="https://awesome.re/badge.svg" alt="awesome badge" />
-  </a>
-</h1>
+<img src="https://raw.githubusercontent.com/simskij/awesome-software-architecture/master/./banner.png" />
 
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">Software architecture</a> aims to describe the high level structures of software as well as the discipline of creating them. As this topic is pretty broad, it might contain some resources that are also present in more niche lists. 
-</p>
+## Awesome Software Architecture<br/>
+  
+[![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
+  
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
+structures of software as well as the discipline of creating them. As this topic is pretty broad, it might 
+contain some resources that are also present in more niche lists. 
+  
+</div>
 
 
 
@@ -90,7 +89,7 @@
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - IT, Devops and helping your Business win :orange_book:.
-- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - Developers, Digital Disruption and Thriving in the Age of Data. :orange_book:
+- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - Developers, Digital Disruption and Thriving in the Age of Data :orange_book:.
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥. 
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
@@ -100,9 +99,7 @@
 
 ## Contributing
 
-  Want to help in making this list even better? Yay, that's awesome! Before you get started though, please
-  have a look at our <a href="code_of_conduct.md">code of conduct</a> and
-  <a href="contributing.md">contribution guidelines</a>.
+Want to contribute into making this list even better? Yay, that's awesome! Before you get started though, please have a look at our <a href="code_of_conduct.md">code of conduct</a> and <a href="contributing.md">contribution guidelines</a>.
 
 ## License
 

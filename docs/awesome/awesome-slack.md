@@ -1,57 +1,78 @@
-<div class="github-widget" data-repo="matiassingers/awesome-slack"></div>
+<div class="github-widget" data-repo="filipelinhares/awesome-slack"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome Slack related things
+## Awesome Slack Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
+
+A list of communities about web development and design that are powered by **Slack**.
+
+## What's Slack
+> Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go. *- slack.com*
 
 
-## Unofficial clients
-- Linux - [PlaidChat](https://github.com/plaidchat/plaidchat)
-- Linux - [ScudCloud](https://github.com/raelgc/scudcloud)
-- Windows - [SlackUI](https://github.com/rfgamaral/SlackUI)
+## Development
+- [Ember](https://ember-community-slackin.herokuapp.com/)
+- [Laravel](https://larachat.co/)
+- [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
+- [Front end](https://frontenddevelopers.org/)
+- [Android](https://androidchat.co/)
+- [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
+- [PHP Chat](https://phpchat.co)
+- [Clojure](http://clojurians.net/)
+- [iOS Developers](https://ios-developers.io/)
+- [Elixir](https://elixir-slackin.herokuapp.com/)
+- [slashrocket](https://slashrocket.io/)
+- [Cordova](http://slack.cordova.io/)
+- [Python Community](https://pythoncommunity.herokuapp.com/)
+- [Hashtag developers](http://www.hashtagdevelopers.com/)
+- [CFML/ColdFusion](https://cfml-slack.herokuapp.com/)
 
-## Lists
-- [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
-- [Community-built integrations](https://api.slack.com/community)
 
-## Third-party services
-- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
-- [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
-- [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
-- [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
-- [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
-- [Slack Slash Commands as a Service](https://sscaas.eu/) - Useful tools and API integrations through slash commands.
-- [Slacker](http://slacker.nathanhoad.net/) - Post funny replies to Slack as your favourite character
-- [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
-- [Wordpress Plugin: Slack](https://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
-- [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
+## Regional
+- [Asia - Focus Asia](https://focusasia.xyz?ref=github)
+- [Australia & New Zealand](http://devanz.co)
+- [Chicago Tech Slack](http://www.chicagotechslack.com/)
+- [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
+- [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
+- [Python São Paulo Community](http://grupysp.herokuapp.com/)
+- [Remote workers in Romania](https://github.com/filipelinhares/awesome-slack/blob/master/weworkremotely.slack.com/)
+- [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
+- [Kazan Developers](https://devkzn.slack.com/)
+- [Polish developers](http://slackin.devstyle.pl/)
+- [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+- [Ruby Turkey Community](https://rubytr.herokuapp.com/)
+- [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
+- [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
 
-## Themes
-- [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
-- [Sweet Themes are Made of These](http://sweetthemesaremadeofthe.se/) - site for sharing Slack custom palettes
+## Design
+- [Sketch](http://teamsketch.io/)
+- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1)
+- [Designer Hangout](https://www.designerhangout.co/)
 
-## Integrations
+## Misc
+- [WordPress](https://make.wordpress.org/chat/)
+- [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
+- [Chit Chats](http://www.chitchats.co/)
+- [The Evangelist Collective](https://github.com/evangelistcollective/)
+- [Psychedelic Chat](http://psychedelicchat.com/)
+- [LGBTQ in Technology](https://lgbtq.technology/)
+- [#Startup](http://startup.chat)
+- [Safelight](http://safelight.herokuapp.com/) - Photography.
+- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security.
+- [First Contributors](https://firstcontributors.slack.com) - Help / mentorship for open source contributors.
 
-### C
+## DevOps
+- [Google Cloud Platform](http://bit.ly/gcp-slack)
+- [Kubernetes](http://slack.kubernetes.io/)
+- [DevOps](https://devopschat.co/)
 
-- [PebbleSlack](https://github.com/jakeboyles/PebbleSlack) - A Slack app for Pebble
+## Looking for more lists like that
+- [Awesome Community](https://github.com/phpearth/awesome-community)
 
-### C++
+## Contribute
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
 
-- [slack-integrations](https://github.com/rikbosch/slack-integrations) - Custom Slack integration scripts
-
-### C&#35;
-
-- [Cake.Slack](https://github.com/WCOMAB/Cake.Slack) - Cake AddIn that extends Cake with Slack messaging features
-- [CCNetSlackPublisher](https://github.com/jrjackso/CCNetSlackPublisher) - Slack integration with CruiseControl.NET
-- [Log4Slack](https://github.com/jonfreeland/Log4Slack) - simple, asynchronous Slack log4net appender
-- [margiebot](https://github.com/jammerware/margiebot/wiki) - A .NET library designed to make building bots for Slack fast, easy, and fun
-- [mmbot](https://github.com/mmbot/mmbot) - a C\# port of hubot, with Slack support
-- [Slack-Contour](https://github.com/warrenbuckley/Slack-Contour) - Umbraco Contour workflow item that allows you to post the form data to a Slack channel
-- [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) - Even simpler integration with Slack's Incoming / Outgoing webhooks
-- [SlackAPI](https://github.com/Inumedia/SlackAPI) - Full Slack API library, including WebSockets
-- [SlackCommander](https://github.com/Hihaj/SlackCommander) - Useful (?) slash commands and miscellaneous integrations for Slack
-- [SqlServerSlackAPI](https://github.com/WCOMAB/SqlServerSlackAPI) - A SQL Server CLR assembly for direct communication with Slack via TSQL
-- [svn-slack-notifier](https://github.com/robertmiles3/svn-slack-notifier) - A simple app to send VisualSVN Server commit notifications to Slack
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)SVN Server commit notifications to Slack
 - [TfsNotificationRelay](https://github.com/kria/TfsNotificationRelay) - A plugin for TFS 2013 that sends notifications to Slack
 - [TSJ.Gemini.Slack](https://github.com/thesoftwarejedi/TSJ.Gemini.Slack) - Posts issue changes to a channel in Slack
 - [WooCode.Slack](https://github.com/WooCode/WooCode.Slack) - Library for slacking with Slack.com in .Net

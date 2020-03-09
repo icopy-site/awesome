@@ -81,7 +81,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
     * [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
     * [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
-* Samgsung
+* Samsung
     * [Siggraph 2016 - Best Practices for Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/2_2D00_mmg_2D00_siggraph2016_2D00_best_2D00_practice_2D00_andrew.pdf)
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (for mobile)
 * Epic
@@ -120,7 +120,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Samples
 *  Khronos [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://www.saschawillems.de/vulkan/khronosmeetup/#/).
+*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *  (Incomplete) Sascha Willems's [samples port](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 *  Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. [MIT]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)

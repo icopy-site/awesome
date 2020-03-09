@@ -14,7 +14,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 
 * [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-* [andygrove/ballista](https://github.com/andygrove/ballista) — PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes!
+* [ballista](https://github.com/ballista-compute/ballista) — PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes!
 * [denoland/deno](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
@@ -158,6 +158,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [dust](https://github.com/bootandy/dust) — A more intuitive version of du
 * [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) — A download accelerator
+* [Kondo](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 * [mmstick/concurr](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 * [mmstick/parallel](https://github.com/mmstick/parallel) — Reimplementation of GNU Parallel
