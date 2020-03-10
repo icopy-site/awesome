@@ -379,6 +379,7 @@ nav:
     - CouchDB: awesome/awesome-couchdb.md
     - HBase: awesome/awesome-hbase.md
     - NoSQL Guides: awesome/awesome-nosql-guides.md
+    - Contexture: awesome/awesome-contexture.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -590,7 +591,9 @@ nav:
     - Earth: awesome/awesome-earth.md
     - Naming: awesome/awesome-naming.md
     - Biomedical Information Extraction: awesome/awesome-bioie.md
+    - k6: awesome/awesome-k6.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
+    - Awesome CLI: awesome/awesome-cli.md
 
 
 # Theme

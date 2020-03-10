@@ -37,43 +37,42 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 
 ## March
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) - Milano - How Agile concept is evolving in IT and more.
-- 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) - Bologna - 2-day conference about DevOps.
-- 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) - Montegrotto Terme (PD) - Human side of Agile.
-- 13 - [Pi Day HackParty](https://picampus.it/pi-day-2020/) - Roma - Hackathon for teams.
-- 13 - [CSSDay 2020](https://2020.cssday.it/) - Faenza (RA) - Frontend developers and designers dedicated conference.
-- 13-14 - [QtDay 2020](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
-- 19 - [CloudConf 2020](https://2020.cloudconf.it/) - Torino - European most important conference about the cloud.
 - 25-26 - [European Immersive Computing Summit 2020](https://eicsummit.com/) - Milano - The European Summit on Emerging Technologies.
-- 27-28 - [Codemotion](https://events.codemotion.com/conferences/rome/2020/) - Roma - Biggest tech conference in Italy.
-- 28 - [Agile People Day](https://www.agilepeopleday.com/) - Bologna - Individuals and Interactions Over Processes And Tools.
 - 31 - [neo4j GraphTour](https://neo4j.com/graphtour/rome/) - Roma - Full day of sessions on graph technology.
 
 ## April
+- 1 - [COBOL Day](https://2020.cobolday.it/) - Verona - COBOL dedicated conference.
 - 2 - [Ruby Day](https://2020.rubyday.it/) - Verona - Ruby dedicated conference.
 - 2 - [BeConnected Day 2020](https://www.eventbrite.it/e/registrazione-beconnected-day-2020-92290708995) - Milano - Intelligent Communications e Modern Workplace.
-- 2-5 - [PyCon XI](https://www.pycon.it/) - Firenze - Python's national conference.
 - 3 - [VueDay](https://2020.vueday.it/) - Verona - Vue dedicated conference.
 - 6 - [Code Beam Lite](https://codesync.global/conferences/code-beam-lite-italy-2020/) - Bologna - Conference about the Erlang ecosystem.
-- 16-17 - [DroidCon](https://it.droidcon.com/2020/it) - Torino - Italy’s biggest Android Event.
 - 18-19 - [DevFest](https://devfest.gdgpisa.it/) - Pisa - Conference about Google-related technologies.
 - 24 - [Global Azure Milan 2020](https://join.globalazure.net/events/48) - Milano - Azure and Cloud Computing.
+- 27-28 - [Incontro DevOps](https://2020.incontrodevops.it/) - Bologna - 2-day conference about DevOps.
 - 28-29 - [ItaliaSec](https://cyberseries.io/italiasec/) - Milano - This groundbreaking summit is designed for senior security leaders.
 
 ## May
 - 12-13 - [JSDay](https://2020.jsday.it/) - Verona - JavaScript dedicated conference.
+- 14 - [Pi Day HackParty](https://picampus.it/pi-day-2020/) - Roma - Hackathon for teams.
 - 14-15 - [PHP Day](https://2020.phpday.it/) - Verona - PHP dedicated conference.
 - 16 - [Voxxed Days](https://voxxeddays.com/milan/) - Milano - Developers Conference (mainly Java-related).
 - 23 - [Agile Venture Vimercate](https://agilemovement.it/2019/11/01/agile-venture-vimercate-2020/) - Vimercate - The agile way to testing.
 - 27-30 - [eRum 2020](https://2020.erum.io/) - Milano - Biennial european R users meeting.
+- 30 - [Agile People Day](https://www.agilepeopleday.com/) - Bologna - Individuals and Interactions Over Processes And Tools.
+- 30 - [HackInBo](https://www.hackinbo.it/) - Bologna - Free INFOSEC event.
 
 ## June
 - 5 - [Serverless Days](https://milan.serverlessdays.io/) - Milano - Developer-oriented conference about serverless technologies.
 - 6 - [Coderful](https://www.coderful.io/) - Catania - Frontend conference.
+- 11-12 - [Codemotion](https://events.codemotion.com/conferences/rome/2020/) - Roma - Biggest tech conference in Italy.
 - 11-12 - [Angular Day](https://2020.angularday.it/) - Verona - Angular's national conference.
 - 11-12 - [PGDay.IT](https://2020.pgday.it) - Bergamo - PostgreSQL Italian conference.
 - 13 - [Italian C++ Conference](https://www.italiancpp.org/event/itcppcon20/) - Roma - Italian C++ conference.
+- 18 - [CloudConf 2020](https://2020.cloudconf.it/) - Torino - European most important conference about the cloud.
+- 19-20 - [CSSDay 2020](https://2020.cssday.it/) - Faenza (RA) - Frontend developers and designers dedicated conference.
 
 ## July
+- 9-12 - [Hackmeeting](https://www.hackmeeting.org/hackit20/) - Roma - Annual meeting of Italian digital countercultures.
 - 29-2 - [IHC 2020](https://www.ihc.camp/2020/) - Padova - Biennial italian hacker camp.
 
 ## August
@@ -83,12 +82,16 @@ Want to add an event? Send a [pull request](https://github.com/ildoc/awesome-ita
 - 26 - [RomHack](https://www.romhack.io/) - Roma - Cybersecurity convention.
 
 ## October
+- 9-11 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) - Montegrotto Terme (PD) - Human side of Agile.
 - 16 - [ReactJSDay](http://reactjsday.it/) - Verona - React's national conference.
 - 16-17 - [RustLab 2020](https://www.rustlab.it/) - Firenze - The unique Italian conference about Rust.
 - 18-20 - [GoLab](https://golab.io/) - Firenze - The first Italian conference on Go.
 - 22-23 - [ContainerDay](https://www.containerday.it/) - Bologna - The italian conference dedicated to virtualization best-practices.
 
 ## November
+- 5-8 - [PyCon XI](https://www.pycon.it/) - Firenze - Python's national conference.
+- 20-21 - [QtDay 2020](https://www.qtday.it/) - Firenze - The unique Italian conference about Qt.
+- 27-28 - [DroidCon](https://it.droidcon.com/2020/it) - Torino - Italy’s biggest Android Event.
 
 ## December
 

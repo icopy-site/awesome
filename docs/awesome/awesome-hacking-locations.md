@@ -7,6 +7,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ## Index
 
+  - [England] (#england)
+    - [London] (#london)
 
 ## Contribute 🌟
 
@@ -769,13 +771,26 @@ Wifi | Power | Address | Open Hours
 
 #### Mercado Negro
 
-> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done
+> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done. Calm and clean with several rooms, so there's always a quiet place to work.
 
-Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
+Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.pt)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
+
+![](https://www.speedtest.net/result/9023464358.png)
+
+#### NATA Lisboa
+
+> Small modern place in the  city "centre". Calm, clean , a good variety of tapas to eat. Speciality natas.
+
+Webpage: [natalisboa.com](https://natalisboa.com)
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00
+
 
 ## Braga
 
@@ -801,17 +816,6 @@ Webpage: http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portug
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00
-
-
-#### Jeronymo
-
-> Starbucks like café near the city center. As cool sofas and tables to work. To use the wifi you have to buy something and ask for the password.
-
-Webpage: http://www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz) | Mon-Sun 8:00 - 21:00
 
 
 #### Café São Martinho
