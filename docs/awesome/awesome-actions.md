@@ -52,6 +52,7 @@ Automate management for issues, pull requests, and releases.
 - [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
+- [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
 
 #### Setup Actions
 
@@ -93,6 +94,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 - [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 - [Run GitHub Actions Locally with a web interface](https://github.com/phishy/wflow)
+- [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
@@ -301,6 +303,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [New package version checker for Gradle](https://github.com/MeilCli/gradle-update-check-action)
 - [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
+- [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
 
 ### Deployment
 
@@ -336,12 +339,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish one or more JS modules to a registry](https://github.com/author/action-publish)
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
+- [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
 
 #### Docker
 
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
+- [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 
 #### Kubernetes
 
