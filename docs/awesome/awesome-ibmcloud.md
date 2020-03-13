@@ -122,20 +122,25 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *List of resources to learn more about IBM Cloud and services.*
 
 * [Documentation](https://cloud.ibm.com/docs) - Learn more about a specific service reading the service's documentation.
+* [Enterprise Design Thinking](https://www.ibm.com/design/thinking/) - Apply design thinking to complex teams, problems, and organizations.
 * [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - What is the IBM Cloud platform?
+* [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures) - IBM's architectures provide practices for building apps on the cloud. The reference architectures define the basic pattern, while implementations provide specific technology, practices, and tool choices to build and deploy that pattern.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
+* [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
+* [IBM Garage Methodology](https://www.ibm.com/garage/method) - Foundational to the IBM Garage is a unique methodology that curates industry best practices layered with a depth of experience only IBM can bring. The IBM Garage combined with the IBM Garage Methodology can drive unprecedented transformational change.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
 
 ## YouTube Channels
 
 *Watch and learn more about IBM Cloud and services.*
 
+* [Digital Technical Engagement](https://www.youtube.com/channel/UCrVRMfpe968pW8vBU_hzplA) - Demos of Cloud offerings. For more information, check out http://ibm.biz/dte-live.
+* [IBM Cloud](https://www.youtube.com/ibmcloud) - The path to cloud is faster than you think. Join the cloud built for your business that has the tools, data and APIs to make AI real today. It’s your cloud. We protect it. You control it.
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - Open source tech, learning resources, and local meet-ups with our expert Developer Advocates.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
 * [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) - Videos about Watson services and IoT platform, interviews, educational clips, and more.
-* [Sergio Gama](https://www.youtube.com/sergiogama) - Learn how to use Watson services in Brazilian Portuguese.
 
 ## Contributing
 

@@ -471,6 +471,14 @@ nav:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
     - Events in Italy: awesome/awesome-italy-events.md
     - Events in the Netherlands: awesome/awesome-netherlands-events.md
+  - Testing:
+    - Testing: awesome/awesome-testing.md
+    - Visual Regression Testing: awesome/awesome-regression-testing.md
+    - Selenium: awesome/awesome-selenium.md
+    - Appium: awesome/awesome-appium.md
+    - TAP: awesome/awesome-tap.md
+    - JMeter: awesome/awesome-jmeter.md
+    - k6: awesome/awesome-k6.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -483,8 +491,6 @@ nav:
     - Awesome: awesome/sindresorhus-awesome.md
     - Analytics: awesome/awesome-analytics.md
     - REST: awesome/awesome-rest.md
-    - Selenium: awesome/awesome-selenium.md
-    - Appium: awesome/awesome-appium.md
     - Continuous Integration and Continuous Delivery: awesome/awesome-ciandcd.md
     - Services Engineering: awesome/services-engineering.md
     - Free for Developers: awesome/free-for-dev.md
@@ -515,7 +521,6 @@ nav:
     - Katas: awesome/awesome-katas.md
     - Tools for Activism: awesome/toolsforactivism.md
     - Citizen Science: awesome/citizen-science.md
-    - TAP: awesome/awesome-tap.md
     - MQTT: awesome/awesome-mqtt.md
     - Hacking Spots: awesome/awesome-hacking-locations.md
     - For Girls: awesome/awesome4girls.md
@@ -538,10 +543,8 @@ nav:
     - Domain-Driven Design: awesome/awesome-ddd.md
     - Quantified Self: awesome/awesome-quantified-self.md
     - Web Design: awesome/awesome-web-design.md
-    - JMeter: awesome/awesome-jmeter.md
     - Creative Coding: awesome/awesome-creative-coding.md
     - No-Login Web Apps: awesome/awesome-no-login-web-apps.md
-    - Testing: awesome/awesome-testing.md
     - Free Software: awesome/awesome-free-software.md
     - Framer: awesome/awesome-framer.md
     - Markdown: awesome/awesome-markdown.md
@@ -560,7 +563,6 @@ nav:
     - Diversity: awesome/awesome-diversity.md
     - Open Source Supporters: awesome/awesome-open-source-supporters.md
     - Design Principles: awesome/awesome-design-principles.md
-    - Visual Regression Testing: awesome/awesome-regression-testing.md
     - Theravada: awesome/awesome-theravada.md
     - inspectIT: awesome/awesome-inspectit.md
     - Open Source Maintainers: awesome/awesome-maintainers.md
@@ -591,7 +593,6 @@ nav:
     - Earth: awesome/awesome-earth.md
     - Naming: awesome/awesome-naming.md
     - Biomedical Information Extraction: awesome/awesome-bioie.md
-    - k6: awesome/awesome-k6.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
 

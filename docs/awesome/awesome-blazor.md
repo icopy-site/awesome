@@ -321,6 +321,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Blazor WebAssembly 3.2.0 Preview 2 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-2-release-now-available/) - March 11, 2020 - Blazor WebAssembly 3.2.0 Preview 2 release now available, by Daniel Roth from Microsoft.
+* [New Blazor and CSLA .NET Book](https://blog.lhotka.net/2020/03/11/New-Blazor-and-CSLA-Book) - March 11, 2020 - New Blazor and CSLA .NET Book. [Link to buy it](https://store.lhotka.net/using-csla-5-blazor-and-webassembly).
 * [Blazor Shopping Cart Sample using Local Storage to Persist State](http://www.appvnext.com/blog/2020/3/7/blazor-shopping-cart-sample-using-local-storage-to-persist-state) - March 10, 2020 - Blazor Shopping Cart Sample using Local Storage to Persist State, by Carl Franklin.
 * [Event Aggregator for Blazor updated to 2.0.0](https://mikaelkoskinen.net/post/blazor-eventaggregator-2-0-0-auto-refresh) - March 8, 2020 - Event Aggregator for Blazor updated to 2.0.0.
 * [Blazor WASM Debugging Planned for Visual Studio](https://visualstudiomagazine.com/articles/2020/03/03/vs-roadmap.aspx?m=1) - March 3, 2020 - Blazor WASM Debugging Planned for Visual Studio, on Visual Studio Magazine.
@@ -492,6 +493,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## E-Books
 * [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
+* [Using CSLA 5: Blazor and WebAssembly](https://store.lhotka.net/using-csla-5-blazor-and-webassembly) - This book covers the new Blazor UI framework, including how to create server-side and client-side WebAssembly projects, how to implement authentication and authorization, and how to use data binding. It then covers how CSLA .NET supports Blazor, including walking through a complete sample app.
 * [An Introduction to Building Applications with Blazor](https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H) - August 24, 2019 - An Introduction to Building Applications with Blazor: How to get started creating applications using this exciting easy to use Microsoft C# framework
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 

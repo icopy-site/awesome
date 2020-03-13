@@ -538,6 +538,16 @@
 - [Events in Italy](awesome/awesome-italy-events.md) - Tech-related events in Italy.
 - [Events in the Netherlands](awesome/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 
+## Testing
+
+- [Testing](awesome/awesome-testing.md) - Software testing.
+- [Visual Regression Testing](awesome/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
+- [Selenium](awesome/awesome-selenium.md) - Open-source browser automation framework and ecosystem.
+- [Appium](awesome/awesome-appium.md) - Test automation tool for apps.
+- [TAP](awesome/awesome-tap.md) - Test Anything Protocol.
+- [JMeter](awesome/awesome-jmeter.md) - Load testing and performance measurement tool.
+- [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
+
 ## Miscellaneous
 
 - [JSON](awesome/awesome-json.md) - Text based data interchange format.
@@ -550,8 +560,6 @@
 - [Awesome](awesome/awesome.md) - Recursion illustrated.
 - [Analytics](awesome/awesome-analytics.md)
 - [REST](awesome/awesome-rest.md)
-- [Selenium](awesome/awesome-selenium.md)
-- [Appium](awesome/awesome-appium.md) - Test automation tool for apps.
 - [Continuous Integration and Continuous Delivery](awesome/awesome-ciandcd.md)
 - [Services Engineering](awesome/services-engineering.md)
 - [Free for Developers](awesome/free-for-dev.md)
@@ -580,7 +588,6 @@
 - [Katas](awesome/awesome-katas.md)
 - [Tools for Activism](awesome/toolsforactivism.md)
 - [Citizen Science](awesome/citizen-science.md) - For community-based and non-institutional scientists.
-- [TAP](awesome/awesome-tap.md) - Test Anything Protocol.
 - [MQTT](awesome/awesome-mqtt.md) - "Internet of Things" connectivity protocol.
 - [Hacking Spots](awesome/awesome-hacking-locations.md)
 - [For Girls](awesome/awesome4girls.md)
@@ -605,10 +612,8 @@
 - [Quantified Self](awesome/awesome-quantified-self.md) - Self-tracking through technology.
 - [SaltStack](awesome/awesome-saltstack.md) - Python-based config management system.
 - [Web Design](awesome/awesome-web-design.md) - For digital designers.
-- [JMeter](awesome/awesome-jmeter.md) - Load testing and performance measurement tool.
 - [Creative Coding](awesome/awesome-creative-coding.md) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](awesome/awesome-no-login-web-apps.md) - Web apps that work without login.
-- [Testing](awesome/awesome-testing.md) - Software testing.
 - [Free Software](awesome/awesome-free-software.md) - Free as in freedom.
 - [Framer](awesome/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown](awesome/awesome-markdown.md) - Markup language.
@@ -627,7 +632,6 @@
 - [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](awesome/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](awesome/awesome-design-principles.md) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing](awesome/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
 - [Theravada](awesome/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](awesome/awesome-inspectit.md) - Open source Java app performance management tool.
 - [Open Source Maintainers](awesome/awesome-maintainers.md) - The experience of being an open source maintainer.
@@ -658,7 +662,6 @@
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
 - [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
-- [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Related
 
