@@ -42,6 +42,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
 ## Templates
 
@@ -58,6 +59,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 ## Toolings
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
