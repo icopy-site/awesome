@@ -70,6 +70,7 @@
 - [Netflix - Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) - Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com.
+- [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) - Improving the performance of Walmart's product page.
 
 ## License
 

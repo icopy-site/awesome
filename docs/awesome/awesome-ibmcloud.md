@@ -16,19 +16,24 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
 * [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
-* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) - Carbon Design System add-on for IBM Cloud.
-* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom) - This library is an extension of the Carbon IBM Design System. It contains unique components shared between the IBM.com user journeys to unify its look and feel.
+* [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) - Common Addons for Carbon Angular projects.
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
-* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux) - UI components that all IoT teams can use to bridge carbon UI widgets and redux. This library prereqs react and redux. This library is often used in conjunction with this widget library.
+* [carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon components.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
-* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - A collection of themes for use with Carbon Components.
+* [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) - Carbon icons, in Angular!
+* [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) - Svelte components for icons in digital and software products using the Carbon Design System.
+* [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
+* [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
+* [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme.
+* [ibm-dotcom-library-website](https://github.com/carbon-design-system/ibm-dotcom-library-website) - This is the IBM.com Library website, which includes documentation and guidelines around design and development for IBM.com.
+* [ibm-security](https://github.com/carbon-design-system/ibm-security) - A Carbon experience framework built by IBM Security.
 
 ## Command Line Tools
 
