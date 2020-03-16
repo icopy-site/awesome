@@ -21,8 +21,8 @@ Your contributions are highly welcome (first see [https://github.com/onqtam/awes
 ## Resources
 
 * [Latest Documentation](https://cmake.org/cmake/help/latest/)
-* [FAQ](https://cmake.org/Wiki/CMake_FAQ)
-* [Wiki](https://cmake.org/Wiki/CMake)
+* [FAQ](https://gitlab.kitware.com/cmake/community/-/wikis/FAQ)
+* [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
@@ -30,7 +30,7 @@ Your contributions are highly welcome (first see [https://github.com/onqtam/awes
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
 * [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) - Ultimate Guide to Modern CMake.
-* [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
+* [Article](https://web.archive.org/web/20190116071957/http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) - How to Build a CMake-Based Project.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) - Learn CMake's Scripting Language in 15 Minutes.
 * [Article](http://aosabook.org/en/cmake.html) - The architecture of CMake.

@@ -19,7 +19,7 @@ A curated list of awesome niche job boards.
 
 ## Customer Support
 
-* [Support Driven Jobs](http://jobs.supportdriven.com/)
+* [Support Driven Jobs](https://jobs.supportdriven.com/)
 
 ## Design
 
@@ -46,10 +46,6 @@ A curated list of awesome niche job boards.
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
-## Machine Learning
-
-* [ML Jobs List](https://mljobslist.com/jobs/) - Machine Learning Jobs List is the machine learning community to find and post jobs! 
-
 ## Programming
 
 ### Elixir
@@ -73,7 +69,7 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
-* [Golang Cafe](https://golang.cafe)
+* [Golang Developer Jobs](https://golangjob.xyz)
 
 ### JavaScript
 
@@ -84,6 +80,7 @@ A curated list of awesome niche job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
+* [Svelte Jobs](https://sveltejobs.dev/)
 
 ### Perl
 
@@ -100,6 +97,7 @@ A curated list of awesome niche job boards.
 
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
+* [Python Developer Jobs](https://pythonjob.xyz)
 
 ### Ruby
 
@@ -144,7 +142,6 @@ A curated list of awesome niche job boards.
 
 ### Europe
 
-* [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
 
 ### United Kingdom

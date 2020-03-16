@@ -142,6 +142,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [makefun](https://www.npmjs.com/package/makefun) - Use promise values as they are satisfied otherwise wait for the promise
 
 ## Node-Powered CMS Frameworks
 
@@ -716,6 +717,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
+* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
 ## Boilerplates
 
@@ -762,6 +764,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
 
 ## Typography
 
@@ -846,6 +849,7 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
+* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
