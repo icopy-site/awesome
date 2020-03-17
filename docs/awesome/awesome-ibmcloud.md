@@ -126,13 +126,16 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *List of resources to learn more about IBM Cloud and services.*
 
+* [API Docs](https://cloud.ibm.com/apidocs) - API Docs lists the documentation of the APIs supported on IBM Cloud.
 * [Documentation](https://cloud.ibm.com/docs) - Learn more about a specific service reading the service's documentation.
 * [Enterprise Design Thinking](https://www.ibm.com/design/thinking/) - Apply design thinking to complex teams, problems, and organizations.
-* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - What is the IBM Cloud platform?
+* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview?topic=overview-whatis-platform) - What is the IBM Cloud platform?
 * [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures) - IBM's architectures provide practices for building apps on the cloud. The reference architectures define the basic pattern, while implementations provide specific technology, practices, and tool choices to build and deploy that pattern.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
 * [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
+* [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
+* [IBM Demos](https://www.ibm.com/demos/) -  IBM Demos is the premiere destination to explore, learn, and try out a variety of IBM products and solutions.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method) - Foundational to the IBM Garage is a unique methodology that curates industry best practices layered with a depth of experience only IBM can bring. The IBM Garage combined with the IBM Garage Methodology can drive unprecedented transformational change.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) - How-tos, news, and announcements for IBM Watson on Medium.
