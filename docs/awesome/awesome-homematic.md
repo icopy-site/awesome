@@ -122,6 +122,8 @@
 
 ## Misc
 
+* [AskSinAnalyzer](https://github.com/jp112sdl/AskSinAnalyzer) - Funktelegramm-Dekodierer für den Einsatz in HomeMatic Umgebungen, hilfreich zur Fehlersuche, z.B. wenn der DutyCycle zu hoch ist.
+* [AskSinAnalyzerXS](https://github.com/psi-4ward/AskSinAnalyzerXS) - AskSinAnalyzer als Desktop App, verzichtet auf den Einsatz eines ESP.
 * [eagle-homematic](https://github.com/dersimn/eagle-homematic) - Homematic Modul Eagle Bibliothek.
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
 * [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) - Diverse Teile rund um Homematic zum selbst drucken.

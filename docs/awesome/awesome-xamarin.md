@@ -176,7 +176,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Security
 
-- [BoucyCastle.PCL ★93](https://github.com/onovotny/BouncyCastle-PCL) - PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT.
+- [BoucyCastle.PCL ★93](https://github.com/clairernovotny/BouncyCastle-PCL) - PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT.
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
 - [PCLCrypto ★184](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...).
@@ -211,7 +211,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 
 ## UI
-
+- [Xamarin.Forms.Breadcrumb](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
 - [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
@@ -224,6 +224,8 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
 - [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+- [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
+
 
 
 ## Wearable
@@ -275,6 +277,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 - [Messaging ★88](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
 - [Notifications ★79](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows.
 - [Pontoon ★27](https://github.com/inthehand/Pontoon) - A flexible bridge to the Universal Windows Platform.
+- [Shiny ★428](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
 - [Telephony ★17](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality.
 - [userdialogs ★510](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 - [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle.
