@@ -255,6 +255,7 @@
 - [Web Performance Budget](awesome/awesome-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](awesome/awesome-web-animation.md) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](awesome/awesome-yew.md) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+- [Material-UI](awesome/awesome-material-ui.md) - Material Design React components for faster and easier web development.
 
 ## Back-End Development
 

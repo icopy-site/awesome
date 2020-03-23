@@ -38,6 +38,8 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing.
 * [Rakam](https://rakam.io/) - custom analytics platform that lets you to create your own analytics service.
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool 
+* [LiveSession](https://livesession.io) - session replay user analytics.
+* [Glassbox](https://glassboxdigital.com/) - customer experince and session recording analytics.
 
 ## Privacy focused analytics
 
@@ -68,7 +70,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 
 * [Upsight](http://www.upsight.com/) - mobile app analytics tool for developers.
 * [Appsflyer](http://www.appsflyer.com/) - all-in-one marketing tool with analytics.
-* [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics/) - Amazons multi-platform, basic mobile analytics tool.
+* [Amazon Pinpoint](https://aws.amazon.com/pinpoint/) - Amazons multi-platform, basic mobile analytics tool.
 * [Tapstream](https://tapstream.com/) - user lifecycle analytics.
 * [Honeytracks](https://honeytracks.com/) - mobile app analytics for games.
 * [Apsalar](https://apsalar.com/) - analytics tool for larger app shops.
