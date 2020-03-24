@@ -26,6 +26,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Leadership Media](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Media.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
+- [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
 - [Meetings and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master//Motivation-Retention.md)
 - [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Onboarding.md)

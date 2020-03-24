@@ -194,6 +194,7 @@
 * Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
 * Heap https://heap.engineering/
+* Helpshift https://medium.com/helpshift-engineering/
 * HERE https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
@@ -580,6 +581,7 @@
 * Ievgen Kuzminov http://stdout.in/
 * Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
+* Itamar Turner-Trauring https://codewithoutrules.com
 * Ivan Ursul https://ivanursul.com/
 
 #### J individuals
@@ -736,6 +738,7 @@
 * Swizec Teller https://swizec.com/blog/
 
 #### T individuals
+* Tania Rascia https://tania.dev/
 * Tero Parviainen http://teropa.info/
 * That Thing In Swift https://thatthinginswift.com/
 * The Coded Self http://www.thecodedself.com

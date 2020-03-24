@@ -176,6 +176,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [uilive](https://github.com/gosuri/uilive) - Library for updating terminal output in realtime.
 * [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
 * [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.
+* [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 
 ## Configuration
 
@@ -1330,6 +1331,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-embed](https://github.com/pyros2097/go-embed) - Generates go code to embed resource files into your library or executable.
 * [go-resources](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
 * [go.rice](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.
+* [mule](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focussed on simplicity.
 * [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 * [statics](https://github.com/go-playground/statics) - Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks.
 * [statik](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
@@ -1407,7 +1409,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [cbor](https://github.com/fxamacker/cbor) - Small, safe, and easy CBOR encoding and decoding library.
 * [colfer](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
 * [csvutil](https://github.com/jszwec/csvutil) - High Performance, idiomatic CSV record encoding and decoding to native Go structures.
-* [elastic](https://github.com/epiclabs-io/elastic) - Convert slices, maps or any other unknown value across different types at run-time, no matter what. 
+* [elastic](https://github.com/epiclabs-io/elastic) - Convert slices, maps or any other unknown value across different types at run-time, no matter what.
 * [fixedwidth](https://github.com/huydang284/fixedwidth) - Fixed-width text formatting (UTF-8 supported).
 * [fwencoder](https://github.com/o1egl/fwencoder) - Fixed width file parser (encoding and decoding library) for Go.
 * [go-capnproto](https://github.com/glycerine/go-capnproto) - Cap'n Proto library and parser for go.
@@ -1433,7 +1435,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Flagr](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 * [flipt](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
 * [jackal](https://github.com/ortuman/jackal) - An XMPP server written in Go.
-* [lets-proxy2](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt. 
+* [lets-proxy2](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
 * [minio](https://github.com/minio/minio) - Minio is a distributed object storage server.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform.
@@ -2072,6 +2074,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [hasgo](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
 * [re2dfa](https://github.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
 * [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
+* [xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator.
 
 ## Go Tools
 

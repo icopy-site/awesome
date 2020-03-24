@@ -42,6 +42,7 @@ Material-UI Design family of projects.
 
 - [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
 - [Components Extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+- [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
 
 ## Components
 
