@@ -5,6 +5,7 @@
 
 
 
+
 ## Why We need Performance Budget
 
 - [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
@@ -71,6 +72,9 @@
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) - Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com.
 - [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) - Improving the performance of Walmart's product page.
+
+## Contribution
+Feel free to add an awesome list. Kindly read the [contribution guidelines](https://github.com/pajaydev/awesome-performance-budget/blob/master/CONTRIBUTING.md) and then [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 
 
 ## License
 
