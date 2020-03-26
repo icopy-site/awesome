@@ -322,6 +322,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Working with Query Strings in Blazor](https://chrissainty.com/working-with-query-strings-in-blazor/) - March 25, 2020 - This post covers how to deal with Query Strings in Blazor.
 * [Replacing AJAX calls in Razor Pages with Razor Components and Blazor](https://andrewlock.net/replacing-ajax-calls-in-razor-pages-using-razor-components-and-blazor/) - March 24, 2020 - Replacing AJAX calls in Razor Pages with Razor Components and Blazor.
 * [Introduction to .NET 5 for ASP.NET Developers](http://www.binaryintellect.net/articles/567c6c06-a2aa-44da-a443-78dafedebe65.aspx) - March 23, 2020 - Introduction to .NET 5 for ASP.NET Developers.
 * [Using Highcharts with Blazor](http://engstromjimmy.se/post/2020-03-21-UsingHighchartsWithBlazor) - March 21, 2020 - Using Highcharts with Blazor.
@@ -330,6 +331,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor - Reload the browser on disconnect](http://engstromjimmy.se/post/2020-03-14-ReloadBlazor%20-%20Copy) - March 14, 2020 - Blazor - Reload the browser on disconnect.
 * [The Open Source Project that Wants to Reboot Silverlight](https://medium.com/young-coder/the-open-source-project-that-wants-to-reboot-silverlight-74817b430ee7) - March 13, 2020 - OpenSilver uses impressive tech to run Microsoft’s stone-dead app platform, Silverlight.
 * [Blazor WebAssembly 3.2.0 Preview 2 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-2-release-now-available/) - March 11, 2020 - Blazor WebAssembly 3.2.0 Preview 2 release now available, by Daniel Roth from Microsoft.
+* [Blazor WebAssembly tackles progressive web apps](https://visualstudiomagazine.com/articles/2020/03/11/blazor-pwa.aspx) - March 11, 2020 - Blazor WebAssembly tackles progressive web apps, by David Ramel for Visual Studio Magazine.
 * [New Blazor and CSLA .NET Book](https://blog.lhotka.net/2020/03/11/New-Blazor-and-CSLA-Book) - March 11, 2020 - New Blazor and CSLA .NET Book. [Link to buy it](https://store.lhotka.net/using-csla-5-blazor-and-webassembly).
 * [Blazor Shopping Cart Sample using Local Storage to Persist State](http://www.appvnext.com/blog/2020/3/7/blazor-shopping-cart-sample-using-local-storage-to-persist-state) - March 10, 2020 - Blazor Shopping Cart Sample using Local Storage to Persist State, by Carl Franklin.
 * [Open Source Silverlight replacement powered by WebAssembly debuts](https://visualstudiomagazine.com/articles/2020/03/09/opensilver.aspx) - March 9, 2020 - Open Source Silverlight replacement powered by WebAssembly debuts.

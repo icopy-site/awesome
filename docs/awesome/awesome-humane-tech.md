@@ -163,6 +163,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) - Decentralized Whatsapp-like chat via email, without the tracking and central control.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) - An alternative Twitter front-end focused on privacy.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
+- [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cloudrac3r/bibliogram) - An alternative front-end for Instagram.
 
 ## Freedom
 
