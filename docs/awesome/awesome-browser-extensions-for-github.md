@@ -25,6 +25,14 @@ Set custom tab size for code view on GitHub.com
 </details>
 
 
+CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definnition, and find-references.
+
+<details><summary>Screenshots</summary>
+
+ ![CodeWyng](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif)
+</details>
+
+
 Octohint adds IntelliSense hint feature to GitHub.
 
 <details><summary>Screenshots</summary>
