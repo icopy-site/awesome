@@ -152,6 +152,35 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
 * [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) - Videos about Watson services and IoT platform, interviews, educational clips, and more.
 
+## Twitter Accounts
+
+* [IBM](https://twitter.com/IBM) - Together with our clients, we're using technologies like AI, cloud, blockchain & IoT to transform business, industries and the world. Let’s put smart to work.
+* [IBMorg](https://twitter.com/IBMorg) - IBM’s approach to corporate responsibility reflects our business — applied technology, continuous transformation, and sustainable change. #GoodTechIBM.
+* [IBM Accessibility](https://twitter.com/IBMAccess) - Official IBM Accessibility Twitter account. This account follows the IBM Social Computing Guidelines.
+* [IBM Blockchain](https://twitter.com/IBMBlockchain) - Official Twitter of #IBM #Blockchain. All blockchain all the time. DMs are open. Run by Kyle Schlapkohl & Bret Bardeli.
+* [IBM Cloud](https://twitter.com/IBMcloud) - Built for your business, #IBMCloud has the tools, data & APIs to make AI real now. Follows IBM Social Computing Guidelines.
+* [IBM Data and AI](https://twitter.com/IBMData) - The IBM tools, resources and industry news you need to get the most value from your #data and make it truly #AI-ready. For Support: https://ibm.com/mysupport.
+* [IBM Design](https://twitter.com/ibmdesign) - At IBM, design isn’t just a job—it’s a deep responsibility to the people we serve. Managed by @willfanguy per IBM’s guidelines.
+* [IBM Developer](https://twitter.com/IBMDeveloper) - Open source, code patterns, tutorials, meet-ups, challenges, & a global coding community— #IBMDeveloper has it all in one place. #AI #Cloud #Blockchain.
+* [IBM FinTech](https://twitter.com/IBMFinTech) - 👁️🐝Ⓜ Official account managed by Claudia Masseo. All the latest on RegTech, Payments, SPM, Insurance and Banking.💸.
+* [IBM Industries](https://twitter.com/IBMindustries) - Download Industrious Magazine issue 8 today: https://ibm.co/industrious.
+* [IBM iX](https://twitter.com/IBM_iX) - We imagine the businesses of the future — and help our clients make them real. Follows IBM Social Guidelines.
+* [IBM Live](https://twitter.com/ibmlive) - Your home for #IBM's immersive event experiences. Learn more about our upcoming worldwide events. Managed by Rafiat K and Ixel M. Follows IBM Social Guidelines.
+* [IBM News Room](https://twitter.com/IBMNews) - Official hub for all that's new + noteworthy about IBM's business, tech and people. Account follows IBM Social Computing Guidelines.
+* [IBM Policy](https://twitter.com/IBMpolicy) - Official account for IBM Government & Regulatory Affairs and IBM Policy Lab. Tweeting on tech & innovation policy issues. Managed by Adam Pratt & Ashley Bright.
+* [IBM Power Systems](https://twitter.com/IBMPowerSystems) - Official Twitter account for IBM Power Systems—built to crush the most advanced data applications from mission-critical workloads to the next generation of #AI.
+* [IBM Research](https://twitter.com/IBMResearch) - This is the official Twitter ID of IBM Research. The account is managed by Chris Sciacca, and follows the IBM Social Computing Guidelines.
+* [IBM Security](https://twitter.com/IBMSecurity) - We protect business, freeing you to thrive in the face of cyber uncertainty. For support, @AskIBMSecurity. Follows IBM Social Computing Guidelines.
+* [IBM Sports & Entertainment](https://twitter.com/IBMSports) - Official IBM Twitter account. Managed by Noah Syken and Elizabeth O'Brien. Follows the IBM Social Computing Guidelines. #IBMsports.
+* [IBM Sterling Supply Chain](https://twitter.com/IBMSupplyChain) - #SupplyChain and #B2BCollaboration news & innovation from #IBMSterling. We help you build smarter business networks. Follows IBM Social Computing Guidelines.
+* [IBM Storage](https://twitter.com/IBMStorage) - Capture the power of data w/ one of the industry’s broadest portfolios of storage solutions to unify, manage, protect data across multicloud & AI environments.
+* [IBM Systems](https://twitter.com/IBMSystems) - From servers and mainframes to storage systems and software, IBM provides the building blocks of a next-gen #ITinfrastructure that empowers your enterprise.
+* [IBM thinkLeaders](https://twitter.com/IBMthinkLeaders) - Thought leadership on transformation & innovation in a digital age. Check out our podcast: https://ibm.biz/thinkpoditunes.
+* [IBM Watson](https://twitter.com/IBMWatson) - Watson is AI for professionals, designed for your business.
+* [IBM Watson Commerce](https://twitter.com/ibmcommerce) - HCL Technologies has acquired several IBM Commerce solutions. Learn more: https://ibm.co/2Jm59iP.
+* [IBM Watson Health](https://twitter.com/IBMWatsonHealth) - Watson Health is Smarter Health – Using data, analytics and #IBM technologies and services to help make smarter health a reality.
+* [IBM Watson IoT](https://twitter.com/IBMIoT) - Intelligence is your greatest asset. Follow us for the latest on insightful #IIoT solutions using #AI. Official IBM #IoT, managed by @theRab & @graemeknows.
+
 ## Contributing
 
 If you want to contribute, feel free to submit your Pull Request or create a new Issue. But first, take a moment to read the [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md). Thanks to all [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!

@@ -663,6 +663,7 @@
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
 - [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
+- [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
 
 ## Related
 

@@ -8,7 +8,7 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss forums](https://discuss.ipfs.io).
+_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
 
 
@@ -134,6 +134,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Datasets
 
+- [7-piece Syzygy tablebases](https://syzygy-tables.info/) - Solutions for all chess endgames with up to 7 pieces. [Source](https://github.com/syzygy1/tb)
 - [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source](https://github.com/ipfs/archives/issues/83)
 - [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source](https://github.com/ipfs/archives/issues/2)
 - [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source](https://github.com/ipfs/archives/issues/52)
@@ -197,6 +198,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 - [IPLD Explorer](https://explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
+- [iprfc](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 - [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.

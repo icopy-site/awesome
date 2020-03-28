@@ -50,6 +50,7 @@ It includes a command-line shell and an associated scripting language.
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) - Great reference for error handling techniques.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf) - On all things remoting. Workflow, fan-out, etc.
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - Compilation of notes and snippets.
+* [Powershell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
 
 ## Build Tools
 
@@ -153,6 +154,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 * [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
+* [Starship](https://github.com/starship/starship) - The minimal, blazing fast, and extremely customizable prompt for any shell.
 
 ## Videos
 
