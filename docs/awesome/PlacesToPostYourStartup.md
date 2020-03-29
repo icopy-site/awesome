@@ -103,13 +103,11 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX - https://www.publicityx.com/startups/new
-* Rev 2 - http://www.rev2.org/
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
-* Side Projects - http://sideprojects.web3canvas.com
 * SideProjects - https://sideprojects.net
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/

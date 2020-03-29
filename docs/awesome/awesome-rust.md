@@ -1094,6 +1094,12 @@ See also [Are we game yet?](https://arewegameyet.com)
 * [moss](https://crates.io/crates/moss) — A dynamically typed scripting language
 * [jonathandturner/rhai](https://github.com/jonathandturner/rhai) — A tiny and fast embedded scripting language resembling a combination of JS and Rust
 
+### Simulation
+
+[[simulation](https://crates.io/keywords/simulation)]
+
+* [bigbang](https://crates.io/crates/bigbang) - Gravitational and collisional n-body simulation with optional GPU acceleration [<img src="https://api.travis-ci.org/sezna/bigbang.svg?branch=master">](https://travis-ci.org/sezna/bigbang)
+
 ### Template engine
 
 * Handlebars
