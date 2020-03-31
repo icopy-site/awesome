@@ -376,6 +376,7 @@
 - [Haxe Game Development](awesome/awesome-haxe-gamedev.md) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](awesome/awesome-libgdx.md) - Java game framework.
 - [PlayCanvas](awesome/awesome-playcanvas.md) - Game engine.
+- [Game Remakes](awesome/awesome-game-remakes.md) - Actively maintained open-source game remakes.
 
 ## Development Environment
 

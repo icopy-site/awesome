@@ -28,6 +28,10 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) - Why writing k6 scripts in TypeScript is a good idea and how to set up your framework.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
 
+## Videos
+
+- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
+
 ## Reference Projects
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
