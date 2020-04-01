@@ -24,7 +24,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 - [Google Groups](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-extensions) - Discussions.
 - [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) - Discussions.
-- [`#webextensions`](https://wiki.mozilla.org/IRC) - IRC channel by Mozilla.
+- [`#addons:mozilla.org`](https://matrix.to/#/#addons:mozilla.org) - Matrix channel by Mozilla.
 - [`google-chrome-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension) - Relevant questions.
 - [`firefox-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) - Relevant questions.
 - [`microsoft-edge-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-edge-extension) - Relevant questions.
@@ -51,11 +51,16 @@ Apps that help you manage your extensions.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - Tool to automatically publish to Chrome Web Store, Mozilla Addons and Opera Addons.
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) - Translator tool to manage i18n messages.json.
+- [wext-manifest](https://github.com/abhijithvijayan/wext-manifest) - Lets you specify `manifest.json` properties to appear only in specific browsers.
 
 ## Testing
 
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
+- [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) - Load popup, sidebar and background with JSDOM based on the manifest.json.
+- [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
+- [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
+- [webextensions-schema](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
 
 ## Boilerplates
 

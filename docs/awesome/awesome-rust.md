@@ -153,6 +153,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### System tools
 
+* [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 * [dalance/procs](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
 * [dust](https://github.com/bootandy/dust) — A more intuitive version of du
 * [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)

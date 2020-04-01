@@ -9,6 +9,10 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
+## Special event: "Blazor Update". [TODAY!]
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnetcommunitystandup-blazorupdate.PNG" align="center" width="100%">](https://www.youtube.com/watch?v=RsPXkgOL2gI&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=1)
+- Don't miss the next .NET Community Standup about Blazor updates with Dan Roth and Steve Sanderson!
+
 
 ## Introduction
 
@@ -182,6 +186,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
  ([Demo](https://samprof.github.io/BlazorVirtualScrolling/)).
 * [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - ![GitHub stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=86400) Blazor interop for GoogleMap library.
 * [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorVirtualGrid?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorVirtualGrid?style=flat-square&cacheSeconds=86400) Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
+* [Blazor.SignaturePad](https://github.com/Mobsites/Blazor.SignaturePad) - ![GitHub stars](https://img.shields.io/github/stars/Mobsites/Blazor.SignaturePad?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Mobsites/Blazor.SignaturePad?style=flat-square&cacheSeconds=86400) A Blazor component library that utilizes Szymon Nowak's javascript library Signature Pad to implement smooth signature drawing on a HTML5 canvas.
 * [Flexor](https://github.com/DerekChasse/Flexor) - ![last commit](https://img.shields.io/github/last-commit/DerekChasse/Flexor?style=flat-square&cacheSeconds=86400) Highly configurable components which let you take full advantage of Flexbox CSS.([Demo](http://flexor.azurewebsites.net/)).
 * [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorScrollbar?style=flat-square&cacheSeconds=86400) Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
 * [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) - ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorSplitter?style=flat-square&cacheSeconds=86400) Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).

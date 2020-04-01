@@ -211,7 +211,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
 #### VSCode Extensions
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 - [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) - Ada language support for VS Code.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities)- VSCode extension Ada programmers which provides a few utility functions.
@@ -338,6 +337,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
+#### Cryptography
+- [ada-keystore](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
+
 ## Libraries
 
 #### Math
@@ -349,6 +351,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
 #### Algorithms, Containers and Protocols
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) - Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.
 - [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
@@ -527,6 +530,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
 
 #### Simulation
+- [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
 
 #### Generators and Translators
@@ -547,7 +551,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
 
 #### Programming Languages
-- [gnat-spitbol](https://www2.adacore.com/gap-static/GNAT_Book/html/rts/g-spipat__ads.htm) - GNAT.SPITBOL is an implementation of SNOBOL text-oriented programming language, now part of GNAT library.
 - [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
 #### Misc
