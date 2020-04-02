@@ -29,22 +29,27 @@
 * [SourceCode](https://github.com/lihaoyi/sourcecode) - Implicits providing meta data similar to `__LINE__` in C.
 * [reactify](https://github.com/outr/reactify) - Functional Reactive Programming framework for Scala.
 * [chimney](https://github.com/scalalandio/chimney) - Boilerplate-free data transformations.
+* [Quicklens](https://github.com/softwaremill/quicklens) - Modify deeply nested case class fields.
 
 ## Unit Tests
-* [utest](https://github.com/lihaoyi/utest) - Library for unit tests.
+* [µTest](https://github.com/lihaoyi/utest) - Library for unit tests.
 * [minitest](https://github.com/monix/minitest) - Lightweight testing library.
 * [scalaprops](https://github.com/scalaprops/scalaprops) - Library for property-based testing.
   * [scalaprops-shapeless](https://github.com/scalaprops/scalaprops-shapeless) - Generation of arbitrary ADT instances.
   * [scalaprops-cross-example](https://github.com/scalaprops/scalaprops-cross-example) - Cross-platform example.
+* [ScalaCheck](https://github.com/typelevel/scalacheck) - Property-based testing for Scala.
+* [ScalaTest](https://github.com/scalatest/scalatest) - Testing library.
+* [specs2](https://github.com/etorreborre/specs2) - Software Specifications for Scala.
 * [Makeshift](https://github.com/nadavwr/makeshift) - Library for unit tests.
+* [MUnit](https://github.com/scalameta/munit) - Scala testing library with actionable errors and extensible APIs.
 
 ## Bindings
 * [cmark](https://github.com/sparsetech/cmark-scala) - Bindings for the [cmark](https://github.com/commonmark/cmark) CommonMark parser library.
 * [libuv](https://github.com/TimothyKlim/scala-native-libuv) - Bindings for [libuv](https://github.com/libuv/libuv), a library for asynchronous I/O.
-* [SDL2 and OpenGL](https://github.com/regb/scalanative-graphics-bindings) - Bindings for the graphical frameworks [SDL2](https://www.libsdl.org/) and [OpenGL](https://www.opengl.org/).
+* [SDL2 and OpenGL](https://github.com/regb/scalanative-graphics-bindings) - Bindings for the graphical frameworks [SDL2](https://www.libsdl.org/) and [OpenGL](https://www.opengl.org).
 * [Cocoa](https://github.com/jokade/scalanative-cocoa) - Bindings for the macOS graphical framework [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)).
-* [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl/).
-* [BLAS](https://github.com/ekrich/scala-native-ml) - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra.
+* [GNU Scientific Library](https://github.com/ruivieira/scala-gsl) - Bindings for [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl).
+* [BLAS](https://github.com/ekrich/sblas) - Bindings for [BLAS](http://www.netlib.org/blas/), a library for Linear Algebra.
 * [Gtk+](https://github.com/jokade/scalanative-gtk) - Bindings for the [GTK+](https://www.gtk.org/) graphical toolkit.
 * [libsoup](https://github.com/jokade/scalanative-libsoup) - Bindings for the [libsoup](https://wiki.gnome.org/Projects/libsoup) HTTP client/server library.
 * [libui](https://github.com/lolgab/scalaui) - GUI framework based on [libui](https://github.com/andlabs/libui).
@@ -57,11 +62,12 @@
 * [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML construction and rendering.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser.
+* [uJson](http://www.lihaoyi.com/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation.
 * [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
-  * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io/).
-* [sconfig](https://github.com/ekrich/sconfig/) - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) parser.
+  * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io).
+* [sconfig](https://github.com/ekrich/sconfig) - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) parser.
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
@@ -69,6 +75,11 @@
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
+* [sttp](https://github.com/softwaremill/sttp) - HTTP Client library.
+
+## Concurrency
+* [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
+* [castor](https://github.com/lihaoyi/castor) - Lightweight, typed Actor library for Scala.
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - Fast and simple logging library.

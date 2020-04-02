@@ -238,6 +238,7 @@ Further resources:
 * [golearn](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 * [goml](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
 * [gorgonia](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
+* [goro](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 * [gorse](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 * [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 * [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
@@ -274,6 +275,11 @@ Further resources:
 #### Computer vision
 
 * [GoCV](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+
+<a name="go-reinforcement-learning"></a>
+#### Reinforcement learning
+
+* [gold](https://github.com/aunum/gold) - A reinforcement learning library.
 
 <a name="haskell"></a>
 ## Haskell

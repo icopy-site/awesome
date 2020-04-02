@@ -2,6 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome-food](https://raw.githubusercontent.com/jzarca01/awesome-food/master/awesome_food.png)
+
 > A curated list of food-related projects on GitHub
 
 
@@ -81,6 +83,17 @@
 - [Child Nutrition and Cooking](https://www.coursera.org/learn/childnutrition) - This course examines contemporary child nutrition and the impact of the individual decisions made by each family. The health risks associated with obesity in childhood are also discussed.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry) - Top chefs and Harvard researchers explore how everyday cooking and haute cuisine can illuminate basic principles in chemistry, physics, and engineering.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2) - Part 2 of the class above, learn about elasticity, viscosity, mayonnaise, baking, and more!
+
+## Videos
+
+### Italian Cuisine
+
+- [Jamie Oliver](https://www.youtube.com/user/JamieOliver) - A notorious british chef, this guy has books and restaurants everywhere
+
+### Asian cuisine
+
+- [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
+- [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
 
 
 ## Contribute
