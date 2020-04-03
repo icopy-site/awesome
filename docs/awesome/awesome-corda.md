@@ -77,7 +77,7 @@ Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https:
 ## Networks
 
 - [Corda Network](https://corda.network/) - A global production network run by the Corda Network Foundation.
-- [UAT Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
+- [Corda Pre-Production Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
 - [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) - A free public testnet with minimal permissions run by the the Corda Network Foundation.
 - [Cordite Network](https://cordite.foundation/) - A testnet open to anyone run by the Cordite Foundation.
 

@@ -31,6 +31,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 ## Videos
 
 - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
+- [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites.
 
 ## Reference Projects
 
@@ -48,6 +49,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 - [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+- [k6 generator](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 

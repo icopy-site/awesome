@@ -96,6 +96,33 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) - This is the Watson Discovery Service Demo.
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) - A simple sample web application demonstrating the integration of Watson Tone Analyzer into Watson Assistant.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
+* [max-audio-classifier](https://github.com/IBM/MAX-Audio-Classifier) - Identify sounds in short audio clips.
+* [max-audio-embedding-generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files.
+* [max-audio-sample-generator](https://github.com/IBM/MAX-Audio-Sample-Generator) - Generate short audio clips of speech commands and lo-fi instrumental samples.
+* [max-breast-cancer-mitosis-detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) - Detect whether a mitosis exists in an image of breast cancer tumor cells.
+* [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
+* [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) - Detect humans in an image and estimate the pose for each person.
+* [max-image-caption-generator](https://github.com/IBM/MAX-Image-Caption-Generator) - IBM Code Model Asset Exchange: Show and Tell Image Caption Generator.
+* [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) - Adds color to black and white images.
+* [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
+* [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
+* [max-inception-resnet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) - Identify objects in images using a third-generation deep residual network.
+* [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
+* [max-news-text-generator](https://github.com/IBM/MAX-News-Text-Generator) - Generate English-language text similar to the news articles in the One Billion Words data set.
+* [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
+* [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
+* [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
+* [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
+* [max-resnet-50](https://github.com/IBM/MAX-ResNet-50) - Identify objects in images using a first-generation deep residual network.
+* [max-review-text-generator](https://github.com/IBM/MAX-Review-Text-Generator) - Generate English-language text similar to the text in the Yelp® review data set.
+* [max-scene-classifier](https://github.com/IBM/MAX-Scene-Classifier) - Image classifier for physical places/locations, based on the Places365-CNN Model.
+* [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) - Converts spoken words into text form.
+* [max-sports-video-classifier](https://github.com/IBM/MAX-Sports-Video-Classifier) - Categorize sports videos according to which sport the video depicts.
+* [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
+* [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
+* [max-toxic-comment-classifier](https://github.com/IBM/MAX-Toxic-Comment-Classifier) - Detect 6 types of toxicity in user comments.
+* [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) - Predict hourly weather features given historical data for a specific location.
+* [max-word-embedding-generator](https://github.com/IBM/MAX-Word-Embedding-Generator) - Generate embedding vectors from text files.
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
 * [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service.
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services.

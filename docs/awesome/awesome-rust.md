@@ -122,6 +122,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 ### Graphics
 
 * [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
+* [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 * Image processing:
   * [mikigraf/Image-Processing-CLI-in-Rust](https://github.com/mikigraf/Image-Processing-CLI-in-Rust) — CLI for processing images, generating histograms. [![Build Status](https://api.travis-ci.org/spejss/Image-Processing-CLI-in-Rust.svg?branch=master)](https://travis-ci.org/spejss/Image-Processing-CLI-in-Rust)
 
@@ -347,7 +348,8 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * mruby
   * [anima-engine/mrusty](https://raw.githubusercontent.com/anima-engine/mrusty) — mruby safe bindings for Rust [<img src="https://api.travis-ci.org/anima-engine/mrusty.svg?branch=master">](https://travis-ci.org/anima-engine/mrusty)
 * Node.js
-  * [neon-bindings/neon](https://raw.githubusercontent.com/neon-bindings/neon) — use Rust from Node.js [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
+  * [neon-bindings/neon](https://raw.githubusercontent.com/neon-bindings/neon) — Rust bindings for writing safe and fast native Node.js modules [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
+  * [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to generate nodejs module using Rust
 * Objective-C
   * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Perl
@@ -366,6 +368,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * Web Assembly
   * [rustwasm/wasm-pack](https://raw.githubusercontent.com/rustwasm/wasm-pack) — :package: :sparkles: pack up the wasm and publish it to npm! [<img src="https://api.travis-ci.com/rustwasm/wasm-pack.svg?branch=master">](https://travis-ci.org/rustwasm/wasm-pack)
   * [rustwasm/wasm-bindgen](https://raw.githubusercontent.com/rustwasm/wasm-bindgen) — A project for facilitating high-level interactions between wasm modules and JS. [<img src="https://api.travis-ci.com/rustwasm/wasm-bindgen.svg?branch=master">](https://travis-ci.org/rustwasm/wasm-bindgen)
+  * [rhysd/wain](https://raw.githubusercontent.com/rhysd/wain) - wain: WebAssembly INterpreter from scratch in Safe Rust with zero dependency [<img src="https://raw.githubusercontent.com/rhysd/wain/workflows/CI/badge.svg?branch=master&event=push">](https://raw.githubusercontent.com/rhysd/wain/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
 
 ### IDEs
 
