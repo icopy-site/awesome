@@ -106,6 +106,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
+  1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -431,6 +432,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
   1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
   1. [StackExchange](http://stackexchange.com/work-here)
+  1. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [Surevine](https://www.surevine.com/jobs/)
@@ -516,6 +518,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
+  1. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
   1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
