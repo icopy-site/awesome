@@ -426,6 +426,7 @@
 - [HBase](awesome/awesome-hbase.md) - Distributed, scalable, big data store.
 - [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](awesome/awesome-contexture.md) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
+- [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
 
 ## Media
 

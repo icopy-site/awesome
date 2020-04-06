@@ -382,6 +382,7 @@ nav:
     - HBase: awesome/awesome-hbase.md
     - NoSQL Guides: awesome/awesome-nosql-guides.md
     - Contexture: awesome/awesome-contexture.md
+    - Database Tools: awesome/awesome-db-tools.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
