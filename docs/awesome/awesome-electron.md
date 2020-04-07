@@ -210,6 +210,8 @@ Made with Electron.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 - [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
+- [Mouseless](https://mouseless.app) - Keyboard shortcut training and look-up.
+- [Glyphfinder](https://www.glyphfinder.com) - Unicode character search.
 
 ### Samples
 
@@ -278,6 +280,7 @@ Made with Electron.
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
+- [RxDB](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.

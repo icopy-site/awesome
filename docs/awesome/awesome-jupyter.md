@@ -30,6 +30,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 - [nteract](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 - [Stencila](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+- [voila](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
 
 ## Collaboration/Education
 
@@ -95,6 +96,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+- [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
