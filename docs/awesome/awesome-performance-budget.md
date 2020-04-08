@@ -72,6 +72,8 @@
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) - Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com.
 - [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) - Improving the performance of Walmart's product page.
+- [Walmart - Turbocharging the Speed](https://speakerdeck.com/vasa/turbocharging-walmart-dot-com-speed-without-compromise) - Turbocharging the walmart website speed without compromise.
+- [Wehkamp.nl - How performance budgets and SpeedCurve are helped us](https://medium.com/wehkamp-techblog/how-performance-budgets-and-speedcurve-are-helping-us-keeping-a-high-performant-website-283c0233daba)-keeping our website high performant by implementing Performance Budget using Speed Curve.
 
 ## Contribution
 Feel free to add an awesome list. Kindly read the [contribution guidelines](https://github.com/pajaydev/awesome-performance-budget/blob/master/CONTRIBUTING.md) and then [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 

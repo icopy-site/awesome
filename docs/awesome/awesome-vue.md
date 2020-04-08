@@ -405,6 +405,7 @@
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 - [TO](https://github.com/snturk/to) - A social media app that allows you post just texts.
 - [All-About-Me](https://github.com/ooxxro/all-about-me) - A Social Media Web App built with Vue, Firebase (Firestore/Auth/Storage), Element-UI, Disqus, Vuex, Vue-Router, and Sass. Supports image uploading, profile editing, add/remove friends, and comments.
+- [Vue Voyagers 👽 Space Travel](https://neodigm.github.io/vue_voyagers/) - A Vue.js Gamified example SPA that consumes a REST API. It presents infographics via D3.js, animation, and web audio.
 
 ### Books
 
@@ -858,6 +859,7 @@
   - [Best-movies.watch](https://best-movies.watch/) - A website which allows to watch movies online for free without sign up
   - [Tune.pk](https://tune.pk/) - Tune.pk is one of the largest video sharing website with content from all over the world.
   - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
+  - [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
 
 ### Interactive Experiences
 
