@@ -28,10 +28,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Python implementation of algorithms and design patterns.*
 
 * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
-* [more-itertools](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+* [python-ds](https://github.com/prabhupant/python-ds) - Clean and simple collection of data structure and algorithms in Python for coding interviews.
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
 * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
+* [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python.
 
 ## ASGI Servers
 
@@ -53,6 +54,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Audio
     * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    * [matchering](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
     * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
@@ -103,6 +105,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
 * [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
+* [indico](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 * [Kotti](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
 * [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
 * [quokka](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB.
@@ -166,6 +169,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
     * [bashplotlib](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
     * [colorama](https://pypi.org/project/colorama/) - Cross-platform colored terminal text.
+    * [rich](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
     * [tqdm](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
 ## Command-line Tools
@@ -201,12 +205,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Computer Vision
 
-*Libraries for computer vision.*
+*Libraries for Computer Vision.*
 
 * [Kornia](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 * [OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
 * [pytesseract](https://github.com/madmaze/pytesseract) - Another wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
-* [SimpleCV](http://simplecv.org/) - An open source framework for building computer vision applications.
+* [tesserocr](https://github.com/sirfz/tesserocr) - A simple, Pillow-friendly, wrapper around the `tesseract-ocr` API for OCR.
+* [SimpleCV](https://github.com/sightmachine/SimpleCV) - An open source framework for building computer vision applications.
 
 ## Concurrency and Parallelism
 
@@ -266,6 +271,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook
 * [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
+* [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
 * [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 * [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 * [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
@@ -309,6 +315,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for working with dates and times.*
 
+* [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
 * [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 * [delorean](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes.
@@ -476,12 +483,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
-## Event Management
-
-*Tools and libraries for managing events.*
-
-* [indico](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
-
 ## Files
 
 *Libraries for file manipulation and MIME type detection.*
@@ -518,12 +519,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Functional Programming with Python.*
 
-* [Coconut](http://coconut-lang.org/) - Coconut is a variant of Python built for simple, elegant, Pythonic functional programming.
-* [CyToolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of Toolz: High performance functional utilities.
+* [Coconut](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
 * [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP.
 * [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools.
-* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
+* [more-itertools](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 * [returns](https://github.com/dry-python/returns) - A set of type-safe monads, tranformers, and composition utilities.
+* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
+* [CyToolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
 
 ## GUI Development
 
@@ -867,6 +869,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *RPC-compatible servers.*
 
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
+* [RPyC](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## Science
 

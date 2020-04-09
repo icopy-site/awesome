@@ -162,7 +162,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/omarroth/invidious) - An alternative front-end to YouTube without Ads.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) - Decentralized Whatsapp-like chat via email, without the tracking and central control.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) - An alternative Twitter front-end focused on privacy.
-- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cloudrac3r/bibliogram) - An alternative front-end for Instagram.
 
 ## Freedom
@@ -209,6 +209,8 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An automated time-tracker that is cross-platform, extensible and privacy-focused.
 - [Red Moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use.
 - [Workrave](http://www.workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
+- [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rkbhochalya/grayscale-mode) - A macOS menu bar app that gives you more control over Grayscale Mode.
+- [FitoTrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
 
 ## Mindfulness
 
@@ -221,6 +223,8 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - Generate a fake app to replace any addictive app.
 - [Nudge](https://nudgeware.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/lgwb89/nudge) - A Chrome extension that makes the internet less addictive.
 - [SelfControl](https://selfcontrolapp.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/SelfControlApp/selfcontrol) - A macOS app that lets you block your own access to distracting websites and mail servers.
+- [DelayWebPage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OskarDamkjaer/FirefoxDelayWebpage) - A Firefox add-on that makes you wait before wasting time on the internet.
+- [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/proginosko/LeechBlockNG/) - A simple productivity tool designed to block time-wasting sites at the specified times.
 
 ## Happiness
 

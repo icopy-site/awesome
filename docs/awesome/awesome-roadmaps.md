@@ -21,6 +21,7 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 - [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
 - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2018.
 - [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
 
 ## Mobile Development
 - [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2018.
