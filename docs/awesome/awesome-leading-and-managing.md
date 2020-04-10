@@ -37,6 +37,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
 - [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
+- [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>

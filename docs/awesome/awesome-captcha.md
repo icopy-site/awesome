@@ -7,7 +7,7 @@
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
 
-[English](https://github.com/ZYSzys/awesome-captcha/blob/master/README.md) | [中文](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md)
+[English](https://github.com/ZYSzys/awesome-captcha/blob/master/README.md) | [中文](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md) | [Polish](https://github.com/ZYSzys/awesome-captcha/blob/master/README-pl.md)
 
 
 

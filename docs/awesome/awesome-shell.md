@@ -133,6 +133,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+* [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 * [z](https://github.com/rupa/z) - z is the new j, yo
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
@@ -214,6 +215,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 * [ls++](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 * [lsp](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
+* [maza](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 * [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
