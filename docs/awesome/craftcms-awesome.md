@@ -33,7 +33,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
 - **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
 - **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
-- **Dot All Conference** - [dotall.com](http://dotall.com/2018)
+- **Dot All Conference** - [dotall.com](http://dotall.com)
 
 ---
 

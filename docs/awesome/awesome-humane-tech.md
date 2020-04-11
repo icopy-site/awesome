@@ -108,6 +108,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 - [EasyList](https://easylist.to/) - Sets of rules (originally designed for Adblock) that automatically remove unwanted content from the internet.
 - [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vtoubiana/TrackMeNot) - Browser extension that hides your real search-queries by adding noise and obfuscation.
+- [Deda](https://dfd.inf.tu-dresden.de/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/dfd-tud/deda) - Printer tracking Dots Extraction, Decoding and Anonymisation toolkit.
 
 ## Consent
 
@@ -226,6 +227,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [SelfControl](https://selfcontrolapp.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/SelfControlApp/selfcontrol) - A macOS app that lets you block your own access to distracting websites and mail servers.
 - [DelayWebPage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OskarDamkjaer/FirefoxDelayWebpage) - A Firefox add-on that makes you wait before wasting time on the internet.
 - [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/proginosko/LeechBlockNG/) - A simple productivity tool designed to block time-wasting sites at the specified times.
+- [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IamIntrovert/Introvert) - An audiovisual experience that encourages you to do, to focus, or to relax while it generates a unique artwork.
 
 ## Happiness
 
@@ -259,6 +261,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 ## Censorship
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
+- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites. 
 
 ## Unmaintained
 
