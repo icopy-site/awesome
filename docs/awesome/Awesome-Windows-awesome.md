@@ -39,8 +39,6 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) ![Freeware][Freeware Icon]
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well. [![Open-Source Software][oss icon]](https://www.videolan.org/vlc/download-sources.html) ![Freeware][freeware icon]
-- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][freeware icon]
 
 ### Chat Clients
 

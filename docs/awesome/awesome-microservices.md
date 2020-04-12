@@ -113,6 +113,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 - [Go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
 - [Gopencils](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
@@ -322,6 +323,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 - [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+- [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
@@ -421,17 +423,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Security
 
-- [Crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system.
 - [Dex](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [Identity Server](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [Keycloak](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
-- [Login With](https://github.com/lipp/login-with) - Stateless login-with microservice for Google, FB, Github, and more.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
-- [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
 - [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
@@ -546,6 +545,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
 
+### QUIC
+
+- [QUIC-WG](https://quicwg.org/) - IETF Working Group that is chartered to deliver the next transport protocol for the Internet.
+- [QUIC-Transport](https://www.ietf.org/id/draft-ietf-quic-transport-27.html) - A UDP-based multiplexed and secure transport.
+
 ### CoAP
 
 - [RFC7252](http://coap.technology/spec.html) - The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
@@ -649,12 +653,16 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small_orange_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
+- [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433) :small_orange_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
 ### Talks
 
+- [10 Tips For Failing Badly at Microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ) - A presentation at Voxxed Days by David Schmitz.
 - [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) - A talk at the O’Reilly Software Architecture Conference, April 2016.
 - [Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=yPf5MfOZPY0) - A presentation at GOTO 2015 by Fred George.
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) - A presentation at QCon 2016 by Josh Evans.
 - [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - A presentation at GOTO Berlin 2014 by Martin Fowler.
+- [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - A presentation at Devoxx Belgium by Sam Newman.
 
 ### Tutorials
 
@@ -699,17 +707,10 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Emerging Technologies
 
-- [BigchainDB](https://www.bigchaindb.com/) - The scalable blockchain database.
-- [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
-- [Blockstack](https://blockstack.org/) - A new decentralized internet where users control their data and apps run on their devices.
-- [CEPTR](http://ceptr.org/) - A recomposable medium for distributed social computing, a semantic self-describing protocol stack, and a cretor of fractal coherence contexts for biomimetic computing.
-- [Edgware Fabric](http://edgware-fabric.org/) - Lightweight, agile service bus for systems at the edge of the network, in the physical world.
-- [Hyperledger](https://www.hyperledger.org/) - Open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, IoT, supply chain, manufacturing and technology.
-- [Luna](http://www.luna-lang.org/) - Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics.
-- [MultiChain](http://www.multichain.com/) - Open platform for building blockchains.
-- [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
-- [Ops](https://ops.city) - Free open source tool to build, run and deploy existing linux applications as unikernels.
-- [Pony](http://www.ponylang.org/) - Open source, object-oriented, actor-model, capabilities-secure, high performance programming language.
+- [Enso](https://enso.org/) - Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics.
+- [Holochain](https://holochain.org/) - A framework for distributed applications, allowing you to build apps without any network constraints. This means every user controls their own data, and it can't be sold or exposed to third parties.
+- [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
+- [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
 - [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 
 ## License

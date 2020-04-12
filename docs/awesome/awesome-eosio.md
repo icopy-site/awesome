@@ -209,6 +209,7 @@ All about development on EOSIO platform.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 - [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 - [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOSIO keosd with Touch ID Secure Enclave.
+- [mixbytes/node-eosjs-signature-provider](https://github.com/mixbytes/node-eosjs-signature-provider) - Fast eosjs signature provider implementation for nodejs based on C++ N-API addon.
 
 
 ### Testnets
