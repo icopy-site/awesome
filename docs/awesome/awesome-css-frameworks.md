@@ -29,11 +29,49 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
-  
+
+- [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
+  ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
+  [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
+
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
+
+
+## Class-less
+
+Frameworks that use semantic HTML and do not rely on classes.
+
+- [**Water.css**](https://watercss.netlify.com/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
+  [Repo](https://github.com/kognise/water.css)
+  | #CSS
+
+- [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
+  ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
+  [Demo](https://oxal.org/projects/sakura/demo/),
+  [Repo](https://github.com/oxalorg/sakura)
+  | #SCSS
+  
+- [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
+  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
+  [Docs](https://mblode.github.io/marx/documentation/),
+  [Repo](https://github.com/mblode/marx)
+  | #SCSS #Stylus
+
+- [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
+  ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
+  [Repo](https://github.com/yegor256/tacit/)
+  | #SCSS
+  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
+  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
+  [Demo](https://igoradamenko.github.io/awsm.css/),
+  [Repo](https://github.com/igoradamenko/awsm.css)
+  | #SCSS
 
 
 ## Very Lightweight
@@ -60,34 +98,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
-  ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
-  [Demo](https://oxal.org/projects/sakura/demo/),
-  [Repo](https://github.com/oxalorg/sakura)
-  | #SCSS
-
 - [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
-  
-- [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
-  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
-  [Docs](https://mblode.github.io/marx/documentation/),
-  [Repo](https://github.com/mblode/marx)
-  | #SCSS #Stylus
-
-- [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
-  ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
-  [Repo](https://github.com/yegor256/tacit/)
-  | #SCSS
-  
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
-  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
-  [Demo](https://igoradamenko.github.io/awsm.css/),
-  [Repo](https://github.com/igoradamenko/awsm.css)
-  | #SCSS
 
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)

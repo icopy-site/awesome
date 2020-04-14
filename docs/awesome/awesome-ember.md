@@ -567,6 +567,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### UI libs
 
 - [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember.js components that mimic the original Bootstrap plugins and components in an ember friendly way.
+- [Frontile](https://github.com/josemarluedke/frontile) - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 - [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - Default components for Ember.js that implement the Uniplaces Design System.
 - [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - Provides element-ui for ember.
 - [ember-elements](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
