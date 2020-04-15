@@ -32,16 +32,13 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
+- **CSS Shadow Parts** allow developers to expose certain elements inside Shadow DOM for styling purposes.
+  - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+  - [`::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+  - [`part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+
 ### Proposals
-
-#### CSS Shadow Parts
-
-- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
-- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
-- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) - Feature in Chrome platform status.
-- [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
-- [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
 
 #### Form-associated Custom Elements
 
@@ -161,7 +158,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [readymade](https://github.com/readymade-ui/readymade) - JavaScript microlibrary for developing Web Components with decorators.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
-- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - UI library for creating custom elements with simple API.
 
 ### Functional
 
@@ -169,10 +165,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-- [reLift-HTML](https://github.com/mardix/relift-html) - Small (3kb) view library allowing to create Web Components and to make HTML pages reactive.
-- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
-- [Switzerland](https://github.com/Wildhoney/Switzerland) - Library allowing to create Web Components in a functional way via middleware functions.
-- [ullr](https://github.com/aggre/ullr) - Library for building Web Components with functional programming.
 
 ### Compilers
 
@@ -181,7 +173,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 ### Other
 
-- [custom-element-ts](https://github.com/geocine/custom-elements-ts) - Create native custom elements using Typescript without using any third party libraries.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - Generate/register a custom element from a preact component.
 - [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
@@ -198,6 +189,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components, and the tools to build them.
+- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Components library providing the enterprise-flavored sugar on top of native APIs.
 - [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.

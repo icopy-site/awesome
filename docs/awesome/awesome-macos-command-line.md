@@ -1804,6 +1804,19 @@ killall SystemUIServer
 installer -pkg /path/to/installer.pkg -target /
 ```
 
+### Sidecar
+
+#### Use on Incompatible Macs
+This may or may not work, depending on the age of the machine.
+```bash
+## Enable
+defaults write com.apple.sidecar.display AllowAllDevices -bool true && \
+defaults write com.apple.sidecar.display hasShownPref -bool true
+
+## Disable (Default)
+defaults delete com.apple.sidecar.display
+```
+
 ### Software Update
 
 #### Ignore Specific Software Update

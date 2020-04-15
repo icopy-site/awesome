@@ -11,6 +11,7 @@ A curated list of awesome resources for teaching kids programming.
 
 ## Lower Elementary 
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
+* [Hopscotch](https://www.gethopscotch.com/) - Like Scratch, but for iOS devices. 
 * [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 * [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
@@ -28,4 +29,5 @@ A curated list of awesome resources for teaching kids programming.
 * [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
-* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
+* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift.
+* [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - A suite of educational tools for kids, including online environments for game development, minecraft modding, hardware hacking, and more.

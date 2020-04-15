@@ -502,7 +502,7 @@ You can change the status of your board to be *public* or *private*.
 
 ## Team
 
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU and co-maintainer of all its curricula
+* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 * **[hanjiexi](https://github.com/hanjiexi)**: lead technical maintainer
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**

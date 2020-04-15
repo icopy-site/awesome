@@ -734,6 +734,7 @@
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
+- [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## Resources
 
