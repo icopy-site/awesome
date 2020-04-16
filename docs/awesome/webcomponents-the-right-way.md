@@ -139,11 +139,11 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
 - [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
+- [ING Open-Sources Lion, Its White-Label Web Component Library – Q&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
-- [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
-- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
 ## Libraries
@@ -155,9 +155,9 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 - [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-- [readymade](https://github.com/readymade-ui/readymade) - JavaScript microlibrary for developing Web Components with decorators.
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 
 ### Functional
 
@@ -165,11 +165,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-
-### Compilers
-
-- [Stencil](https://stenciljs.com) - Compiler that generates Web Components.
-- [Svelte](https://svelte.dev) - Cybernetically enhanced web apps (can optionally generate Web Components).
 
 ### Other
 
@@ -269,7 +264,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 - [webcomponents.dev](https://webcomponents.dev) - Your studio for Web Components.
 - [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
-- [webcomponents.news](http://webcomponents.news) - Collection of articles, tutorials, micro-libraries and websites that showcase Web Components.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## History
@@ -303,6 +297,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
+- [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 
 ### 2013
 
