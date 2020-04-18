@@ -81,10 +81,8 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [The Case for Web Components](https://alankent.me/2019/02/20/the-case-for-web-components/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
-- [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
-- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components?utm_source=scotch&utm_campaign=share&utm_medium=twitter)
+- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### Custom Elements
 
@@ -226,6 +224,15 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
+- "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
+  - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
+  - [Part 2: Custom Elements](https://javascript.info/custom-elements)
+  - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
+  - [Part 4: Template element](https://javascript.info/template-element)
+  - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
+  - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
+  - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
+
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
   - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
@@ -266,6 +273,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2018
 
+- [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
@@ -298,10 +306,12 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
 - [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
+- [A Detailed Introduction To Custom Elements](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
 
 ### 2013
 
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
+- [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
 ### 2012
 
