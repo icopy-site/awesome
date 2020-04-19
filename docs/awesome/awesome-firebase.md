@@ -35,9 +35,8 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+- 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
-- 📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager).
-- 📖 [Firebase for Games](https://firebase.google.com/games) - New Firebase for Games landing page with links to Firebase/Google resources for game developers.
 - 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 - 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
@@ -48,6 +47,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔧 [Firebase Status Dashboard](https://status.firebase.google.com) - This page provides status information on the services that are part of Firebase.
 - 💡 [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) - Official Firebase Quickstarts.
 - 💡 [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
+- 📖 [Firebase for Games](https://firebase.google.com/games) - New Firebase for Games landing page with links to Firebase/Google resources for game developers.
 
 ## Web
 
@@ -99,6 +99,10 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 - 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 - 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+
+## Games
+
+- 📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager).
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
