@@ -89,8 +89,6 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
-- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
@@ -131,6 +129,8 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Use Cases
 
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 - [ING Open-Sources Lion, Its White-Label Web Component Library – Q&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
@@ -201,6 +201,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ## Tools
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - Web Components and Shadow DOM support for Cypress.
+- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## Books
@@ -286,6 +287,8 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2016
 
 - [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
+- [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
+- [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
 - [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)

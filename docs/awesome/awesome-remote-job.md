@@ -134,7 +134,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-  1. [Authentic Jobs](https://authenticjobs.com/#remote=true)
+  1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Codestunts](https://codestunts.com)
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
@@ -166,6 +166,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Nonprofit Remote](https://nonprofitremote.com/) - A place where remote workers, volunteers, and nonprofits connect.
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -330,6 +331,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
+  1. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
   1. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.

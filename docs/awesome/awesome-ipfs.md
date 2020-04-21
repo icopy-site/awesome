@@ -64,6 +64,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
@@ -192,6 +193,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+- [ipfs-video-gateway](https://ipfs.video) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface. [Source](https://github.com/bneijt/ipfs-video-gateway)
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 - [ipfsecret](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 - [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
