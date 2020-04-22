@@ -84,6 +84,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Index.co - https://index.co/startup
 * Indie Hackers - https://www.indiehackers.com/
 * Killer Startups - http://killerstartups.com/submit-startup/
+* Larasites - https://larasites.com/
 * Land-book - https://land-book.com/guidelines
 * Launch List - https://launchlister.com/submit-startup
 * Launched - https://launched.io/SubmitStartup
@@ -95,7 +96,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
 * Next Big What - http://nextbigwhat.com/
-* On the App - http://ontheapp.com/about/
 * Paggu - http://www.paggu.com/submit-your-startup/
 * pFind - http://www.pfind.com/submit
 * Postscapes - http://about.postscapes.com/tools

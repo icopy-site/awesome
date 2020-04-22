@@ -529,6 +529,7 @@
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
 - [Corda](awesome/awesome-corda.md) - Open source blockchain platform designed for business.
+- [Waves](awesome/awesome-waves.md) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## Higher Education
 
