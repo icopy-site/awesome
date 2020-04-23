@@ -25,6 +25,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 [![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
 
 
+      - [Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)](#markdown-tools-img-src%22httpsgithubcombubuanabelasawesome-markdowntools%22-alt%22awesome-list%22)
+      - [Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)](#command-line-tools-img-src%22httpsgithubcomherrbischoffawesome-macos-command-linereadme%22-alt%22awesome-list%22)
+  - [QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)](#quicklook-plugins-img-src%22httpsgithubcomsindresorhusquick-look-pluginsreadme%22-alt%22awesome-list%22)
 
 ## Reading and Writing Tools
 
@@ -517,7 +520,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
-* [Fu](https://github.com/klesh/fu) - Upload images/files to remote server in exchange for url for file sharing. [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 
 ## Data Recovery Tools
