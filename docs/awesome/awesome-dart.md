@@ -108,6 +108,10 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
 
+## Unions
+
+* [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
 ## Tools
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
@@ -128,6 +132,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
+* [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
 
 ## Community
 

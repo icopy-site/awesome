@@ -1584,7 +1584,7 @@ Tooltips / popovers
 - [vue-datepicker](https://github.com/hilongjw/vue-datepicker) - **[unmaintained]** Calendar and datepicker component with material design for Vue.js.
 - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
-- [vuedt](https://github.com/nkoehring/vuedt) - **[unmaintained]** Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
+- [vuedt](https://github.com/nkoehring/vuedt) - Super lightweight (~15kb) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr](https://github.com/chmln/flatpickr) datetime picker
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
@@ -1880,6 +1880,7 @@ Tooltips / popovers
  - [vue-canvas-nest](https://github.com/ZYSzys/vue-canvas-nest) - A Vue.js component for canvas-nest.
  - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - 🖋 A Vue Signature Pad Component
  - [vg-editor](https://github.com/ChrisShen93/VGEditor) - A visual graph editor based on G6 and Vue, inspired by GGEditor
+ - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) - Build reactive 2D graphics scene in your Vue project.
 
 #### Link Preview
 
@@ -2643,6 +2644,7 @@ the amazing Vue.js.
 - [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 - [vue-subslot](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
 - [vue-timed-content](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
+- [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 #### Web Workers
 

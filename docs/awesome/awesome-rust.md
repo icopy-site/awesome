@@ -175,6 +175,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Text editors
 
+* [amp](https://amp.rs) — Inspired by Vi/Vim. [<img src="https://api.travis-ci.org/jmacdonald/amp.svg?branch=master">](https://travis-ci.org/jmacdonald/amp)
 * [mathall/rim](https://github.com/mathall/rim) — Vim-like text editor written in Rust
 * [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 
