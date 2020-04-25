@@ -937,6 +937,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [logrus](https://github.com/Sirupsen/logrus) - Structured logger for Go.
 * [logrusiowriter](https://github.com/cabify/logrusiowriter) - `io.Writer` implementation using [logrus](https://github.com/sirupsen/logrus) logger.
 * [logrusly](https://github.com/sebest/logrusly) - [logrus](https://github.com/sirupsen/logrus) plug-in to send errors to a [Loggly](https://www.loggly.com/).
+* [logur](https://github.com/logur/logur) - An opinionated logger interface and collection of logging best practices with adapters and integrations for well-known libraries ([logrus](https://github.com/sirupsen/logrus), [go-kit log](https://github.com/go-kit/kit/tree/master/log), [zap](https://github.com/uber-go/zap), [zerolog](https://github.com/rs/zerolog), etc).
 * [logutils](https://github.com/hashicorp/logutils) - Utilities for slightly better logging in Go (Golang) extending the standard logger.
 * [logxi](https://github.com/mgutz/logxi) - 12-factor app logger that is fast and makes you happy.
 * [lumberjack](https://github.com/natefinch/lumberjack) - Simple rolling logger, implements io.WriteCloser.
@@ -1089,6 +1090,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [strutil](https://github.com/ozgio/strutil) - String utilities.
 * [xstrings](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
 
+### Uncategorized
+
 *These libraries were placed here because none of the other categories seemed to fit.*
 
 * [anagent](https://github.com/mudler/anagent) - Minimalistic, pluggable Golang evloop/timer handler with dependency-injection.
@@ -1131,6 +1134,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [sandid](https://github.com/aofei/sandid) - Every grain of sand on earth has its own ID.
 * [shellwords](https://github.com/Wing924/shellwords) - A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
 * [shortid](https://github.com/teris-io/shortid) - Distributed generation of super short, unique, non-sequential, URL friendly IDs.
+* [shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
 * [stateless](https://github.com/qmuntal/stateless) - A fluent library for creating state machines.
 * [stats](https://github.com/go-playground/stats) - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 * [turtle](https://github.com/hackebrot/turtle) - Emojis for Go.
@@ -1322,11 +1326,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## Performance
 
 * [jaeger](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
+* [pixie](https://github.com/pixie-labs/pixie) - No instrumentation tracing for Golang applications via eBPF.
 * [profile](https://github.com/pkg/profile) - Simple profiling support package for Go.
 * [tracer](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
 
 ## Query Language
 
+* [api-fu](https://github.com/ccbrown/api-fu) - Comprehensive GraphQL implementation.
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
 * [graphql](https://github.com/tmc/graphql) - graphql parser + utilities.
 * [graphql](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
@@ -1810,6 +1816,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight and auto balancing in mind.
 * [multitick](https://github.com/VividCortex/multitick) - Multiplexor for aligned tickers.
 * [myhttp](https://github.com/inancgumus/myhttp) - Simple API to make HTTP GET requests with timeout support.
+* [netbug](https://github.com/e-dard/netbug) - Easy remote profiling of your services.
+* [nfdump](https://github.com/chrispassas/nfdump) - Read nfdump netflow files.
 * [nostromo](https://github.com/pokanop/nostromo) - CLI for building powerful aliases.
 * [okrun](https://github.com/xta/okrun) - go run error steamroller.
 * [olaf](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.

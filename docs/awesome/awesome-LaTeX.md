@@ -12,6 +12,12 @@
 
 <!-- /TOC -->
 
+## Learning LaTeX
+
+Guides how to learn LaTeX
+
+- [learnlatex.github.io](https://learnlatex.github.io/) - browser-based LaTeX tutorial
+
 ## Distributions
 
 - [MacTeX](https://tug.org/mactex/) - Most common LaTeX distribution for Mac OS X, basically TeXLive with some Mac-specific tools added. ![Mac][mac]
@@ -205,6 +211,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - German: [Neue TeX FAQ](https://texfragen.de) - Modern and updated LaTeX FAQ in German.
 - [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) - Example output of common BibTeX styles (BST files).
 - [TeX World](http://tex.world/) -  Websites supported by the TeX Users Group, DANTE, and GUTenberg.
+- [TeXnique](https://texnique.xyz) - A LaTeX Typesetting Game
 
 ## Showcases
 

@@ -301,6 +301,7 @@
 - [Dumpsters.com](https://www.dumpsters.com)
 - [Rasul Kireev](https://rasulkireev.com)
 - [Built with Django](https://builtwithdjango.com)
+- [Log1x](https://log1x.com)
 
 ## Contribute
 

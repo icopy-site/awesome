@@ -211,6 +211,11 @@ About metadata mirrors: https://packagist.org/mirrors
 - [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
 - [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
+### Repman
+
+- [repman.io](https://repman.io) & [repman-io/repman](https://github.com/repman-io/repman) - A Private PHP Package Repository Manager & Packagist Proxy.
+- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file). 
+
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.

@@ -42,11 +42,9 @@
 
 - [AM/PM Podcast](https://www.ampmpodcast.com/) - Hosted by Manny Coats (Helium 10). Amazon selling tips for sellers at any step of the Amazon seller journey. From best-in-class interviews with six and seven figure Amazon sellers to instructional how-to education.
 - [Amazing FBA](https://amazingfba.com/blog-podcast/) - Hosted by Michael Veazey. Podcast about selling on Amazon, especially white label products with a focus on UK markets.
-- [AmzSecrets](https://amzsecrets.com/amazon-private-label-podcast/) - Hosted by Ed Rosenberg. Gives you the latest strategies, secrets, tips, from both our own brands, and professional sellers, business leaders, and entrepreneurs.
 - [EcomCrew Podcast](https://www.ecomcrew.com/ecomcrew-podcast/) - Real world e-commerce experience without any online marketing fluff!
 - [Follow The Data](https://viral-launch.com/follow-the-data-amazon-fba-seller-podcast.html) - Hosted by Cameron Yoder (Viral Launch). The goal of this podcast is to help you successfully dive deeper into your own Amazon seller journey, using data as the anchor through that journey.
 - [Keyword: The Amazon Insider Podcast](http://keywordpodcast.com/) - Hosted by Kate Valentine. Delivers authoritative content exclusively from former and current Amazon employees.
-- [Private Label Movement](https://privatelabelmovement.com/) - Hosted by Kevin Rizer. No-nonsense down to earth feel, and for Kevin’s intriguing and unconventional interview style, the podcast publishes two new episodes each week.
 - [The Ecommerce Momentum](https://ecommercemomentum.com/) - Hosted by Stephen Peterson. Interviews with the top Amazon, eBay and e-commerce sellers in the world.
 - [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/) - Hosted by Steve Chou. An interview based show where Steve brings in small business entrepreneurs who are killing it online. All of the entrepreneurs on the show bootstrapped their businesses and started their own ventures to improve their lifestyle in some way.
 
@@ -64,6 +62,7 @@
 
 - [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 - [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.
+- [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.
 
 ---
 
