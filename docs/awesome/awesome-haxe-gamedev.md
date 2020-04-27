@@ -89,7 +89,7 @@ MVC == Model View Controller
 |**RELEASED**                                                               |                    |                   |                                              |
 |[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dead-cells.jpg)          |
 |[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/defenders-quest.jpg)     |
-|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop             |Haxegon (OpenFL)   |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dicey-dungeons.jpg)      |
+|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dicey-dungeons.jpg)      |
 |[Evoland](http://evoland.shirogames.com/)                                  |Desktop, Mobile     |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/evoland.jpg)             |
 |[Northgard](http://northgard.net/)                                         |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/northgard.jpg)           |
 |[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/papers-please.jpg)       |
@@ -98,7 +98,7 @@ MVC == Model View Controller
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                         |                    |                   |                                              |
 |[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop, ?          |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/darksburg.jpg)           |
-|[Frontier Story](https://frontierstorygame.com/)                           |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/frontier-story.jpg)      |
+|[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/frontier-story.jpg)      |
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
@@ -109,7 +109,6 @@ More showcase :
 * [Kha showcase](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
 ## Miscellaneous
-
 |Type                 |Library                                                                    | Description                                                                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).                        |
@@ -117,6 +116,7 @@ More showcase :
 |_                    |[Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine)                    |Spine player for heaps.                                                                                                                                                          |
 |Color manipulation   |[nxColor](https://github.com/oscarcs/nxColor)                              |Color manipulation library.                                                                                                                                                      |
 |Collision            |[differ](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.                                                                                                                                     |
+|Data structures      |[polygonal-ds](https://github.com/polygonal/ds)                            |Data structures for games.                                                                                                                                                       |
 |Editor               |[flixel-studio](https://github.com/Dovyski/flixel-studio)                  |In-game editor for HaxeFlixel.                                                                                                                                                   |
 |Procedural generation|[Dungeon builder](https://github.com/julsam/dungeon-builder)               |A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).                                                                                                           |
 |Localization         |[firetongue](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework written in Haxe.                                                                                                                            |
@@ -137,6 +137,16 @@ More showcase :
 |_                    |[YATL](https://github.com/Yanrishatum/yatl)                                |Yet Another (Haxe) Tweening Library.                                                                                                                                             |
 |UI                   |[domkit](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.                                                                                                                                |
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
+|_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)                                                 |                                                                                                                                                   |
+
+## Jobs
+* [Squidly](https://twitter.com/squuuidly/status/1243925472121151488) - Opened up [a bounties page](https://github.com/chosencharacters/squidBounties) for HaxeFlixel features and one of the them is [already claimed](https://github.com/chosencharacters/squidBounties/issues/2).
+* [Kaleido Games](https://twitter.com/KaleidoGames) - Bounty to make OpenFL work with [(FNA/UWP)](https://community.openfl.org/t/bounty-to-make-openfl-work-with-fna-uwp-300usd-150usd/12328).
+* [NX Studio](https://studionx.ru/) - Looking for [a Haxe programmer](https://hh.ru/vacancy/35432606) to work on their game called "Throne Rush". _(Moscow, Russia)_
+* [Shiro Games](https://twitter.com/ncannasse/status/1166704326485651457) - Recruiting for different roles to expand their studio and work on upcoming, exciting projects!
+* Lars Doucet's list of various [open bounties](https://github.com/larsiusprime/larsBounties/issues).
+
+_Source: haxe.io_
 
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)

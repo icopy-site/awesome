@@ -120,6 +120,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Automation
 
+* [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 * [Danger](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
@@ -137,6 +138,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Captchas and anti-spam
 
+* [ActsAsTextcaptcha](https://github.com/matthutchinson/acts_as_textcaptcha) - Protection for Rails models with text-based logic question captchas (from Rob Tuley's textcaptcha.com)
 * [Invisible Captcha](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 * [Rakismet](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 * [reCAPTCHA](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
@@ -193,7 +195,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Barkeep](https://github.com/ooyala/barkeep) - Barkeep is a fast, fun way to review code. Engineering organizations can use it to keep the bar high.
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-* [Cane](https://github.com/square/cane) - Code quality threshold checking as part of your build.
 * [Coverband](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 * [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
@@ -307,12 +308,14 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [CSV Reader](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
+* [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
 ## Data Visualization
 
 * [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
 * [GeoPattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 * [LazyHighCharts](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+* [ApexCharts.rb](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 * [RailRoady](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
 * [Rails Erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 * [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
@@ -565,9 +568,9 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [ginatra](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
+* [git_curate](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 * [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
-* [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [Git Cop](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
@@ -740,6 +743,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+* [fast_underscore](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ## ORM/ODM
@@ -919,6 +923,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Robotics
 
+* [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development". 
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
 
 ## RSS

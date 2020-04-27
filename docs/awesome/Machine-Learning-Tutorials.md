@@ -12,45 +12,6 @@
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
 
 
-- [Introduction](#general)
-- [Interview Resources](#interview)
-- [Artificial Intelligence](#ai)
-- [Genetic Algorithms](#ga)
-- [Statistics](#stat)
-- [Useful Blogs](#blogs)
-- [Resources on Quora](#quora)
-- [Resources on Kaggle](#kaggle)
-- [Cheat Sheets](#cs)
-- [Classification](#classification)
-- [Linear Regression](#linear)
-- [Logistic Regression](#logistic)
-- [Model Validation using Resampling](#validation)
-    - [Cross Validation](#cross)
-    - [Bootstraping](#boot)
-- [Deep Learning](#deep)
-    - [Frameworks](#frame)
-    - [Feed Forward Networks](#feed)
-    - [Recurrent Neural Nets, LSTM, GRU](#rnn)
-    - [Restricted Boltzmann Machine, DBNs](#rbm)
-    - [Autoencoders](#auto)
-    - [Convolutional Neural Nets](#cnn)
-    - [Graph Representation Learning](#nrl)
-- [Natural Language Processing](#nlp)
-    - [Topic Modeling, LDA](#topic)
-    - [Word2Vec](#word2vec)
-- [Computer Vision](#vision)
-- [Support Vector Machine](#svm)
-- [Reinforcement Learning](#rl)
-- [Decision Trees](#dt)
-- [Random Forest / Bagging](#rf)
-- [Boosting](#gbm)
-- [Ensembles](#ensem)
-- [Stacking Models](#stack)
-- [VC Dimension](#vc)
-- [Bayesian Machine Learning](#bayes)
-- [Semi Supervised Learning](#semi)
-- [Optimizations](#opt)
-- [Other Useful Tutorials](#other)
 
 <a name="general" />
 
@@ -298,7 +259,6 @@
 
 ## Linear Regression
 
-- [General](#general-)
 
     - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [Stack Exchange](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
     
@@ -317,7 +277,6 @@
     
     - [Dealing with multicollinearity using VIFs](https://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/)
 
-- [Residual Analysis](#residuals-)
 
     - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
     
@@ -325,7 +284,6 @@
     
     - [Interpreting Residuals vs Fitted Plot](http://stats.stackexchange.com/questions/76226/interpreting-the-residuals-vs-fitted-values-plot-for-verifying-the-assumptions)
 
-- [Outliers](#outliers-)
 
     - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
 
@@ -761,15 +719,19 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
 <a name="topic" />
 
-- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
+- Topic Modeling
+    - [Topic Modeling Wikipedia](https://en.wikipedia.org/wiki/Topic_model) 
+    - [**Probabilistic Topic Models Princeton PDF**](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
 
-    - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
+    - [LDA Wikipedia](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA Wikipedia](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     
-    - [What is a good explanation of Latent Dirichlet Allocation?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
+    - [What is a good explanation of Latent Dirichlet Allocation (LDA)?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     
-    - [Awesome LDA Explanation!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
+    - [**Introduction to LDA**](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/), [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     
-    - [The LDA Buffet- Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
+    - [The LDA Buffet - Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
+    
+    - [Your Guide to Latent Dirichlet Allocation (LDA)](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
     
     - [Difference between LSI and LDA](https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA)
     
@@ -778,7 +740,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [alpha and beta in LDA](http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a)
     
     - [Intuitive explanation of the Dirichlet distribution](https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution)
-    
+    - [topicmodels: An R Package for Fitting Topic Models](https://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf)
+
     - [Topic modeling made just simple enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
     
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
@@ -791,6 +754,12 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Multilingual Latent Dirichlet Allocation (LDA)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA). ([Tutorial here](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA/blob/master/Multilingual-LDA-Pipeline-Tutorial.ipynb))
 
+    - [Deep Belief Nets for Topic Modeling](https://github.com/larsmaaloee/deep-belief-nets-for-topic-modeling)
+    - [Gaussian LDA for Topic Models with Word Embeddings](http://www.cs.cmu.edu/~rajarshd/papers/acl2015.pdf)
+    - Python
+        - [Series of lecture notes for probabilistic topic models written in ipython notebook](https://github.com/arongdari/topic-model-lecture-note)
+        - [Implementation of various topic models in Python](https://github.com/arongdari/python-topic-model)
+           
 <a name="word2vec" />
 
 - word2vec
@@ -1205,4 +1174,4 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
 
-- For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).
+- For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).

@@ -17,6 +17,7 @@ Curated list of awesome esoteric programming languages and resources.
 
 * [78](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 * [Ajsone](https://www.quaxio.com/ajsone) - Language defined completely in JSON.
+* [ArnoldC](http://lhartikk.github.io/ArnoldC) - Based on the best one-liners of Arnold Schwarzenegger.
 * [Befunge](https://esolangs.org/wiki/Befunge) - Two-dimensional language.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) - Minimalist language using only 8 single-character commands.
 * [Charcoal](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
@@ -47,6 +48,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
 * [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 * [Thue](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) - Based on Trump common words.
 * [Turtle](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) - Obfuscated functional programming.
@@ -64,8 +66,13 @@ Curated list of awesome esoteric programming languages and resources.
 * [πfs](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
+## Tools
+
+* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) - The only true brainfuck assembler toolkit.
+
 ## Others
 
+* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
 
@@ -88,6 +95,7 @@ Curated list of awesome esoteric programming languages and resources.
 
 ## Community
 
+* [Anarchy Golf](http://golf.shinh.org) - Informal [golfing](https://en.wikipedia.org/wiki/Code_golf) problems server.
 * [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 * [Reddit Esolangs](https://www.reddit.com/r/esolangs) - Reddit community on esolangs.
 
