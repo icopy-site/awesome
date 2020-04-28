@@ -12,105 +12,87 @@
 
 > Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
-## Specifications
-
-### Standards
-
-- **Custom Elements** provide a way for authors to build their own fully-featured DOM elements.
-  - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
-  - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
-  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
-
-- **Shadow DOM** describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
-  - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees), section 4.2.2: shadow tree
-  - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot), section 4.8: interface `ShadowRoot`
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
-  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/804)
-
-- **`<template>`** element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
-  - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
-
-- **CSS Shadow Parts** allow developers to expose certain elements inside Shadow DOM for styling purposes.
-  - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
-  - [`::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
-  - [`part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
-
-### Proposals
-
-#### Form-associated Custom Elements
-
-- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
-- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
-
-#### Custom State Pseudo class
-
-- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
-- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
-
-#### Constructable Stylesheet Objects
-
-- [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
-- [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
-- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
-
-### Polyfills
-
-#### @webcomponents
-
-The polyfills below are maintained by Polymer team.
-
-- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polyfill for HTML Custom Elements v1.
-- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
-- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
-
-#### @ungap
-
-The polyfills below are maintained by [ungap project](https://ungap.github.io).
-
-- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - polyfill for Custom Elements builtin extends.
-
-## Articles
-
-### Introduction
+## Introduction
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
+
+## Standards
 
 ### Custom Elements
 
-- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
-- [Custom Elements Everywhere](https://custom-elements-everywhere.com)
-- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+Custom Elements provide a way for authors to build their own fully-featured DOM elements.
+
+- [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+- [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
+- [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
-- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
-- [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
-- [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
-- [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
+
+- [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
+- [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
+- [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
+- [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
+- [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
+- [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
 
+`<template>` element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
+
+- [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
+
+### CSS Shadow Parts
+
+CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
+
+- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
+- [`::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+- [`part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+
+### Polyfills
+
+### Custom Elements polyfills
+
+- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+- [document-register-element](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
+
+### Customized Built-in Elements polyfills
+
+- [@corpuscule/custom-builtin-elements](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
+
+### Shadow DOM shims
+
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
+
+### HTML Templates polyfills
+
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+- [@ungap/import-node](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
+
+## Articles
 
 ### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
-- [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
 ### Styling
@@ -121,6 +103,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 
 ### Interoperability
 
+- [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
@@ -162,7 +145,7 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
-- [functional-web-component](https://github.com/wtnbass/functional-web-component) - Functional component like React, but for Web Components.
+- [fuco](https://github.com/wtnbass/fuco) - Functional component like React, but for Web Components.
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
@@ -250,6 +233,12 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
   - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
+- "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+  - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
+  - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
+  - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
+  - [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
+
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
   - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
@@ -274,6 +263,32 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
 - [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 
+## Usage Metrics
+
+- [Chrome Platform Status: `CustomElementRegistryDefine`](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
+- [Chrome Platform Status: `ElementAttachShadow`](https://chromestatus.com/metrics/feature/timeline/popularity/804)
+- [Chrome Platform Status: `HTMLTemplateElement`](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
+
+## Proposals
+
+### Form-associated Custom Elements
+
+- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
+- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
+
+### Custom State Pseudo class
+
+- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+
+### Constructable Stylesheet Objects
+
+- [Specification Draft](https://wicg.github.io/construct-stylesheets/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+- [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
+- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
+
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
@@ -287,6 +302,10 @@ The polyfills below are maintained by [ungap project](https://ungap.github.io).
 The articles below represent a long story of the Web Components specifications on the way towards the standardization.
 Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
 These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
+
+### 2019
+
+- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### 2018
 

@@ -9,9 +9,9 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-## Special event: "Blazor Update". [Over]
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/aspnetcommunitystandupmlnetblazor.jpg" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- ML.NET + Blazor with Bri Achtman and Luis Quintanilla.
+## Special event: "Virtual Meetup". [TODAY!]
+[<img src="https://secure.meetupstatic.com/photos/event/1/9/e/a/highres_490206634.jpeg" align="center" width="100%">](https://www.meetup.com/fr-FR/dotnetsouthwest/events/270194696/)
+- Virtual Meetup - What is Blazor? And why’s it so exciting? by Chris Sainty
 
 
 ## Introduction
@@ -83,9 +83,10 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 [Logging.Samples](https://github.com/akovac35/Logging.Samples) - ![last-commit](https://img.shields.io/github/last-commit/akovac35/Logging.Samples?style=flat-square&cacheSeconds=86000) Samples for .NET Core and ASP.NET Core logging using various logger frameworks.
 ### Machine Learning
 * [Scalable sentiment analysis](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square&cacheSeconds=86000) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
-* [PropertyPrices](https://github.com/jameschch/PropertyPrices) - ![last-commit](https://img.shields.io/github/last-commit/jameschch/PropertyPrices?style=flat-square&cacheSeconds=86000) A blazor front-end site that provides analysis and ensemble learning predictions (through SharpLearning) of property prices in the UK.
+* [PropertyPrices](https://github.com/jameschch/PropertyPrices) - ![last-commit](https://img.shields.io/github/last-commit/jameschch/PropertyPrices?style=flat-square&cacheSeconds=86000) A blazor front-end site that provides analysis and ensemble learning predictions (through SharpLearning) of property prices in the UK. [Demo (https://propertyprices.org.uk)](https://propertyprices.org.uk).
 * [BlazorML5](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square&cacheSeconds=86000) ML5 Machine Learning for Blazor with JSInterop mechanism.
 * [Baseball Machine Learning Workbench](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square&cacheSeconds=86000) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
+* [optimizer.ml](https://github.com/jameschch/LeanParameterOptimization) - ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square&cacheSeconds=86000) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
 ### Mobile
 * [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
 ### ToDos
@@ -350,10 +351,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Stripe customer credit card payment with Blazor](https://wellsb.com/csharp/aspnet/stripe-customer-credit-card-payment-with-blazor/) - April 27, 2020 - In the [previous tutorial](https://wellsb.com/csharp/aspnet/stripe-connect-express-and-blazor/), you learned how to link a Stripe Connect account with a local user store in a Blazor application. If, instead, you need a way to collect payment information from your customers, this tutorial will help you understand the Stripe customer flow. [Source code](https://github.com/bradwellsb/blazor-stripe).
 * [Blazor WebAssembly 3.2.0 Preview 5 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-5-release-now-available/) - April 23, 2020 - Blazor WebAssembly 3.2.0 Preview 5 release now available.
 * [Telerik UI for Blazor 2.11.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-2-11-0-grid-features-scheduler-improvements-wasm-3-2-0-preview-4-more) - April 22, 2020 - Telerik UI for Blazor 2.11.0: New Grid Features, Scheduler Improvements, Wasm 3.2.0 Preview 4 and More.
 * [Mobile Blazor Bindings - Navigation and Xamarin Essentials](https://chrissainty.com/mobile-blazor-bindings-xamarin-essentials/) - April 21, 2020 - Mobile Blazor Bindings - Navigation and Xamarin Essentials.
-* [Stripe Connect Express and Blazor](https://wellsb.com/csharp/aspnet/stripe-connect-express-and-blazor/) - April 20, 2020 - Stripe Connect Express and Blazor.
+* [Stripe Connect Express and Blazor](https://wellsb.com/csharp/aspnet/stripe-connect-express-and-blazor/) - April 20, 2020 - Stripe Connect Express and Blazor. [Source code](https://github.com/bradwellsb/blazor-stripe).
 * [Blazor WebAssembly 3.2.0 Preview 4 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-4-release-now-available/) - April 16, 2020 - Blazor WebAssembly 3.2.0 Preview 4 release now available.
 * [Mobile Blazor Bindings - State Management and Data](https://chrissainty.com/mobile-blazor-bindings-state-management-and-data/) - April 14, 2020 - Mobile Blazor Bindings - State Management and Data.
 * [Stripe.NET Create Stripe Webhooks Receiver](https://wellsb.com/csharp/aspnet/stripe-net-create-stripe-webhooks-receiver/) - April 13, 2020 - Stripe.NET Create Stripe Webhooks Receiver.
@@ -511,10 +513,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides).
 
 ## Tooling
+* [Blazor Dev Server with CSS Live Reloader](https://github.com/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader?style=flat-square&cacheSeconds=86000) Alternative Blazor Dev Server to be available CSS live reloading.
 * [BlazorFiddle](https://blazorfiddle.com) - Blazor .Net Developer Playground and Code Editor in the Browser.
-* [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=604800) A project templates package of Blazor apps without JavaScript and CSS libraries.
+* [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=86000) A project templates package of Blazor apps without JavaScript and CSS libraries.
 * [Blazor Snippets Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets) - A Visual Studio Code extension that offers Blazor and Razor snippets.
-* [BlazorSourceMangler](https://github.com/Lupusa87/BlazorSourceMangler) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSourceMangler?style=flat-square&cacheSeconds=604800) A console app to mangle Blazor DLLs. Check this [YouTube video](https://www.youtube.com/watch?v=nlXax81b1UE) for more details. You can also check this [Blazor TODO app](https://lupblazortodo.z20.web.core.windows.net/) to see result of this app (downloaded blazortodos.dll is mangled and decompilation shows uglyfied code).
+* [BlazorSourceMangler](https://github.com/Lupusa87/BlazorSourceMangler) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSourceMangler?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorSourceMangler?style=flat-square&cacheSeconds=86000) A console app to mangle Blazor DLLs. Check this [YouTube video](https://www.youtube.com/watch?v=nlXax81b1UE) for more details. You can also check this [Blazor TODO app](https://lupblazortodo.z20.web.core.windows.net/) to see result of this app (downloaded blazortodos.dll is mangled and decompilation shows uglyfied code).
 * [.NET Core](https://www.microsoft.com/net/download/dotnet-core) - .NET Core.
 * [Razor+ Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) - A Visual Studio Code extension that offers improved Razor support.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) - Latest preview of Visual Studio.

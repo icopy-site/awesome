@@ -80,6 +80,7 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
+- [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - Create React App example from official Material-UI repo.
 - [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.

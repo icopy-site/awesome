@@ -177,6 +177,7 @@
 - [Imba](awesome/awesome-imba.md) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 - [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](awesome/awesome-coq.md) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## Front-End Development
 

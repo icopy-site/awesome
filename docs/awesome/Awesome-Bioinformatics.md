@@ -32,6 +32,11 @@ Package suites gather software packages and installation tools for specific lang
 
 * __[Bioconda](https://bioconda.github.io/)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages.
 
+## Data Tools
+
+* __[GGD](https://github.com/gogetdata/ggd-cli)__ - Go Get Data; A command line interface for obtaining genomic data
+* __[SRA-Explorer](https://sra-explorer.info/)__ - Easily get SRA download links and other information.
+
 ## Data Processing
 
 ### Command Line Utilities
@@ -45,6 +50,7 @@ Package suites gather software packages and installation tools for specific lang
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)__ - Easily submitting PBS jobs with script template. Multiple input files supported.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
 * __[grabix](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
+* __[gsort](https://github.com/brentp/gsort)__ - Sort genomic files according to a specified order.
 * __[tabix](https://github.com/samtools/tabix)__ - Table file index.
 * __[wormtable](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
 * __[zindex](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
@@ -84,6 +90,13 @@ Sequence Processing includes tasks such as demultiplexing raw read data, and tri
 * __[seqmagick](http://seqmagick.readthedocs.io/en/latest/)__ - file format conversion in Biopython in a convenient way
 * __[Seqtk](https://github.com/lh3/seqtk)__ - Toolkit for processing sequences in FASTA/Q formats.
 * __[smof](https://github.com/incertae-sedis/smof)__ - UNIX-style FASTA manipulation tools.
+
+### Data Analysis
+
+The following items allow for scalable genomic analysis by introducing specialized databases.
+
+* __[Hail](https://github.com/hail-is/hail)__ - Scalable genomic analysis
+* __[GLNexus](https://github.com/dnanexus-rnd/GLnexus)__ - Scalable gVCF merging and joint variant calling for population sequencing projects.
 
 ### Sequence Alignment
 
