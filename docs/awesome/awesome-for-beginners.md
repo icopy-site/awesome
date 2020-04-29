@@ -66,6 +66,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [script](https://github.com/bitfield/script/labels/good%20first%20issue) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+- [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 
 ## Java
 
@@ -187,6 +188,7 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+- [Kinto.sh](https://github.com/rbreaves/kinto/labels/first-timers-only) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue) _(label: good first issue)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/help%20wanted) _(label: help wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
@@ -213,6 +215,8 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 
 ## Ruby
 

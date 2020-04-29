@@ -121,7 +121,6 @@
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
-* Docker Engineering https://engineering.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
@@ -145,7 +144,7 @@
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
-* Facebook AI Research https://research.facebook.com/blog/ai/
+* Facebook AI Research https://engineering.fb.com/category/ai-research/
 * Faraday http://blog.faraday.io/
 * Feedzai https://medium.com/feedzaitech
 * Fiftythree http://making.fiftythree.com/
@@ -373,6 +372,7 @@
 * Stride https://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
+* Swiggy https://bytes.swiggy.com/
 
 #### T companies
 * Takipi http://blog.takipi.com/

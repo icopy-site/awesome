@@ -877,6 +877,7 @@
   - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
   - [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
   - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
+  - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 
 ### Interactive Experiences
 
@@ -1149,6 +1150,9 @@ Tooltips / popovers
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
  - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
+
+#### Marquee
+- [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
 #### Menu
 

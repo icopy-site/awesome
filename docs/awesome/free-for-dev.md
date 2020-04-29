@@ -317,6 +317,7 @@ Table of Contents
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
+  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
   * [keychest.net](https://keychest.net) - SSL expiry management and cert purchase with an integrated CT database
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
   * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.
@@ -356,6 +357,7 @@ Table of Contents
   * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
   * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
   * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
+  * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.
 
 
 ## Log Management
@@ -444,6 +446,7 @@ Table of Contents
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
+  * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.
   * [ImprovMX](https://improvmx.com) – Free email forwarding
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [kickbox.io](https://kickbox.io/) — Verify 100 emails free, real-time API available
@@ -710,6 +713,7 @@ Table of Contents
    * [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
    * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
    * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
+   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
 
 ## Storage and Media Processing

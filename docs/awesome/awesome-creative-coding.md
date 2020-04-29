@@ -11,7 +11,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ---
 
-⭐ **[Don't know where to start? Check out Matt DesLauriers Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/).**
+⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
+
+🌟 **Want to go depper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
 
 ---
 
@@ -76,6 +78,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
+- [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
 
 ## Tools
 
@@ -192,6 +195,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [AxiDraw](https://www.axidraw.com/) - Simple, modern, and precise pen plotter.
 - [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
 - [Teensy](https://www.pjrc.com/teensy/) - USB-based microcontroller development system.
+- [Lightform](https://lightform.com/) - AR projection mapping with built-in depth sensor.
 
 ### Other
 
