@@ -47,6 +47,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
 
+## Libraries
+
+- [Savory](https://gitlab.com/MAlrusayni/savory) - Library for building user interface based on Seed.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/seed-rs/awesome-seed-rs/blob/master/contributing.md) first.

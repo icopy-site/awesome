@@ -89,6 +89,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
   * [mvdnes/rboy](https://raw.githubusercontent.com/mvdnes/rboy) — [<img src="https://api.travis-ci.org/mvdnes/rboy.svg?branch=master">](https://travis-ci.org/mvdnes/rboy)
   * [NivenT/RGB](https://raw.githubusercontent.com/nivent/RGB) — [<img src="https://api.travis-ci.org/NivenT/RGB.svg?branch=master">](https://travis-ci.org/NivenT/RGB)
   * [mohanson/gameboy](https://github.com/mohanson/gameboy) — Full featured Cross-platform GameBoy emulator. Forever boys!.
+* Gameboy Advance
+  * [michelhe/rustboyadvance-ng](https://raw.githubusercontent.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) support. [<img src="https://raw.githubusercontent.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master">](https://raw.githubusercontent.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
 * NES
   * [iamsix/oxidenes](https://github.com/iamsix/oxidenes)
   * [koute/pinky](https://raw.githubusercontent.com/koute/pinky) — [<img src="https://api.travis-ci.org/koute/pinky.svg?branch=master">](https://travis-ci.org/koute/pinky)
@@ -172,6 +174,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Ralvke/logram](https://github.com/Ralvke/logram) — Push log files' updates to Telegram
 * [unwrittenfun/hotkey-rs](https://github.com/unwrittenfun/hotkey-rs) — A library to listen to global hotkeys in Rust
 * [sharkdp/fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
+* [slai11/goto](https://github.com/slai11/goto) — A simple and user-friendly way to jump to your indexed directories. [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/slai11/goto/release)](https://github.com/slai11/goto/actions) 
 * [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust [![Build status](https://github.com/cjbassi/ytop/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/cjbassi/ytop/actions?query=workflow%3A%22Rust+CI%22)
 
 ### Text editors
