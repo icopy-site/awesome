@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/angrykoala/awesome-esolangs/master/logo_piet.png" align="right">
 
-Curated list of awesome esoteric programming languages and resources.
+Curated list of awesome esoteric programming languages, resources and related projects.
 
 
 > "An esoteric programming language, or esolang, is a computer programming language designed to experiment with weird ideas, to be hard to program in, or as a joke, rather than for practical use."  
@@ -34,7 +34,9 @@ Curated list of awesome esoteric programming languages and resources.
 * [Fugue](https://esolangs.org/wiki/Fugue) - Music as source code.
 * [Golfscript](http://www.golfscript.com/golfscript) - Stack oriented, aimed at solving problems in as few keystrokes as possible.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) - Designed with the core values of Easter philosophy in mind.
-* [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
+* [INTERCAL](http://www.catb.org/~esr/intercal) - Parody language intended to be completely different from other languages.
+* [Japt](https://github.com/ETHproductions/japt) - Reduced JavaScript for [golfing](https://en.wikipedia.org/wiki/Code_golf).
+* [Jelly](https://github.com/DennisMitchell/jellylanguage) - [Golfing](https://en.wikipedia.org/wiki/Code_golf) language based on J.
 * [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
@@ -49,7 +51,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
 * [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 * [Thue](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
-* [TrumpScript](https://github.com/samshadwell/TrumpScript) - Based on Trump common words.
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 * [Turtle](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) - Obfuscated functional programming.

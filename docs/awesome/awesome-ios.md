@@ -2,20 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
     <img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/header.png" alt="Awesome">
-    <p align="center">
-        <a href="https://triplebyte.com/a/azelHFa/d">
-        <b>Reduce your job search from O(N) to O(1)</b>
-        <br />
-        One coding quiz. <b>Multiple offers from top companies</b>
-        <br />
-        <p align="center">
-			<img align="center" src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/triplebyte_logo.png" width="260"  alt="Tripblebyte">
-	    </p>
-        </a>
-    </p>
-    <br>
-	<br>
-	<br>
+    
+
 </div>
 
 <p align="center">
@@ -27,8 +15,8 @@
 
 
 ## Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
-[![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_ios_instabug.png)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
-> The SDK that gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. Instabug is offering exclusively to awesome-ios community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-ios)
+[![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/sponsor_banner.gif)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
+> Catch bugs as soon as they happen and know exactly why a crash occurred. Instabug's SDK gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk, and much more. Instabug is offering exclusively to awesome-ios community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-ios)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 
