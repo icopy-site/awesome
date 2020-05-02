@@ -122,6 +122,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
+- [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
+- [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 
 ### Case Studies
 
@@ -131,6 +133,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Shipping Web Components in 2020](https://dev.to/joe8bit/shipping-web-components-in-2020-2h54)
+- [The Firefox UI is now built with Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by Viljami Salminen.
@@ -272,6 +275,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ## Benchmarks
 
+- [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
 - [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 

@@ -8,6 +8,9 @@ A curated list of awesome companies that offer their tools and services for free
 
 
 
+## Chat
+- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
+
 ## Code Coverage
 
 - [Codecov](https://codecov.io/) - Test coverage monitoring & alerting.
@@ -59,6 +62,7 @@ A curated list of awesome companies that offer their tools and services for free
 ## Documentation
 
 - [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
+- [Read the Docs](https://readthedocs.com/) - Documentation hosting platform.
 
 ## Exception Reporting
 
