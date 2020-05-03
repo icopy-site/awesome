@@ -10,6 +10,7 @@ Awesome-Kubernetes
 [![Docker Build Status](https://img.shields.io/docker/build/ramitsurana/awesome-kubernetes.svg?style=flat-square)](https://hub.docker.com/r/ramitsurana/awesome-kubernetes)
 [![Slack Widget](https://img.shields.io/badge/Slack-Channel-blue.svg?style=flat-square)](https://kubernetes.slack.com/messages/awesome-kubernetes)
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramitsurana/awesome-kubernetes/master)
 
 A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
@@ -989,6 +990,7 @@ Certifications
 
 * [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
 * [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
+* [Practice Mock Tests](https://github.com/ShubhamTatvamasi/kubernetes-practice-tests)
 
 Slide Presentations
 =======================================================================
