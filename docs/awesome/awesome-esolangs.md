@@ -49,6 +49,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Rockstar](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
+* [Spooky](https://spookylang.com) - The scariest programming language  :jack_o_lantern: :skull:.
 * [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 * [Thue](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
@@ -69,15 +70,14 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [πfs](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
-## Tools
-
-* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) - The only true brainfuck assembler toolkit.
-
 ## Others
 
+* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) - The only true brainfuck assembler toolkit.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
+* [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 
 ## Resources
 
