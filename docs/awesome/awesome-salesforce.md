@@ -73,6 +73,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
   * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
+  * [xysfdx](https://github.com/exiahuang/xysfdx) is a Visual Studio Code extension for Salesforce SFDX Development.
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
@@ -180,11 +181,11 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
-* [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
-
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
+
+* [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
 ### Git Ignore for Salesforce
 
@@ -306,7 +307,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 
 
 ### Technical Blogs
-* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
+* [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 * [Andrew Fawcett](http://andyinthecloud.com/) - CTO at Financialforce.com, Author and known for his outstanding contribution to Salesforce Community. [Read More](http://andyinthecloud.com/about/)
 * [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
