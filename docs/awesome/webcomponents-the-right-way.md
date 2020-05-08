@@ -94,6 +94,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
+- [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
 ### Codelabs
@@ -346,6 +347,7 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ### 2019
 
+- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### 2018
@@ -357,6 +359,7 @@ These materials are here for historical reasons only, they are grouped by years 
 ### 2017
 
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 - [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 
