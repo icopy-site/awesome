@@ -47,6 +47,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 - [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
+- [WeightRS](https://gitlab.com/mkroehnert/weightrs) - Minimalistic and privacy friendly progressive web app for tracking your weight.
 
 ## Libraries
 

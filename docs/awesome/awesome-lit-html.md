@@ -102,6 +102,7 @@ These are not implementations of lit-html itself but rather community extensions
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement.
+- [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
@@ -221,6 +222,16 @@ An episode with the lit-html creator Justin Fagnani.
     <td>rx-metronome</td>
     <td>https://rx-metronome.web.app</td>
     <td><a href="https://github.com/ydubinskyi/rx-metronome">Source</a></td>
+  </tr>
+  <tr>
+    <td>Scandisk</td>
+    <td>https://manzdev.github.io/scandisk-2.0/</td>
+    <td><a href="https://github.com/ManzDev/scandisk-2.0">Source</a></td>
+  </tr>
+  <tr>
+    <td>Web Skills</td>
+    <td>https://andreasbm.github.io/web-skills/</td>
+    <td><a href="https://github.com/andreasbm/web-skills">Source</a></td>
   </tr>
 </table>
 

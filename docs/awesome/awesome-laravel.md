@@ -39,6 +39,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Workbench Export to Migrations](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Workbench plugin for exporting Models to Laravel migrations
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
+* [Prequel](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
 
 ##### Testing & Debugging
 
@@ -46,6 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
+* [Ignition](https://github.com/facade/ignition) - A beautiful error page for Laravel apps
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer
 * [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
@@ -54,7 +56,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
-* [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
 
 ##### Authentication & Authorization
 
@@ -75,6 +77,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Utilities
 
+* [Awes.io](https://github.com/awes-io/awes-io) - boilerplate for CRM, SaaS, ERP based on Vue (Nuxt.js), TailwindCSS plus Laravel as a backend.
 * [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 * [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system
@@ -95,6 +98,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
+* [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) - A package to handle incoming emails
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
@@ -123,6 +127,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
+* [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
 
 ##### Media & Document Management
 
@@ -136,6 +141,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - Fast XLSX, CSV and ODT import and export for Laravel
 * [Laravolt Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
+* [Laravel FFmpeg](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
 
 ##### Integration with Javascript
 
@@ -145,6 +151,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) - A Pjax middleware
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
+* [LiveWire](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
 ##### Databases, ORMs, Migrations & Seeding
 
@@ -174,6 +181,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
 * [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 * [TNTSearch driver](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for [Laravel Scout](https://github.com/laravel/scout) search package based on TNTSearch
+* [Laravel-Searchy](https://github.com/TomLingham/Laravel-Searchy) - Fuzzy search, basic string matching, Levenshtein Distance
 
 ##### APIs
 
@@ -243,10 +251,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
-* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
+* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel
+* [Lando](https://docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
 
 ## Application Hosting
 
+* [Vapor](https://vapor.laravel.com)
 * [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
 * [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
@@ -305,6 +315,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
+* [ConfidentLaravel](https://confidentlaravel.com/)
 
 ## Conferences
 
@@ -314,7 +325,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laraconf Brasil](http://laraconfbrasil.com.br/)
 * [Laracon Australia](https://laracon.com.au/)
 * [Laravel Live UK](https://laravellive.uk/)
-* [Laravel Live India](http://laravellive.in/)
+* [Laravel Live India](https://laravellive.in/)
+* [Laravel Nigeria](https://laravelnigeria.com)
 
 ##### Videos
 
@@ -373,6 +385,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) by Ega Radiegtya
 * [Servers for Hackers](https://book.serversforhackers.com) by Chris Fidao
 * [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) by Anthony Gore
+* [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
 ## Starter Projects
 
@@ -397,7 +410,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
-* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
+* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
 
 ## Codebases for Reference
 
@@ -410,7 +423,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 * [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
 * [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator
-* [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers
+* [Canvas](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
@@ -431,10 +444,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Microweber](https://github.com/microweber/microweber)
 * [Coaster CMS](https://github.com/web-feet/coastercms)
 * [Statamic](https://statamic.com/)
-* [Grafite CMS](https://github.com/GrafiteInc/CMS)
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
+* [Twill](https://github.com/area17/twill)
 
 ## Podcasts
 
@@ -457,19 +470,20 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-* [Laraveles Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
-* [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
 
 ##### Local User Groups
 
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
+* [LaravelES Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
+* [Laravel India](https://laravellive.in/), [Slack Signup](https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE), [Twitter](https://twitter.com/LaravelLiveIN), [Facebook](https://www.facebook.com/laravellive/), [Youtube](https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg)
+* [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
 * [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [GitHub](https://github.com/laravelbrasil))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [GitHub](https://github.com/laravelbrasil), [Discord](https://discord.gg/9dpuWeZ))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook](https://www.facebook.com/groups/laravelturkiye/))
-* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
+* [Laravel Nigeria](http://www.laravelnigeria.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
 * [Laravel Taiwan](https://laravel.tw/) ([Facebook](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
@@ -485,6 +499,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 * [Laravel Hungary](https://laravel.hu)
 * [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
+* [Laravel Philippines](https://www.facebook.com/groups/laravelph)
 
 ##### Meetups
 
@@ -502,15 +517,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
-* [Laravel Certification](https://laravel.com/certification/)
 
 ## Hosted Development Tools
 
 * [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
-* [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
-* [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
 
 ## Miscellaneous
 
