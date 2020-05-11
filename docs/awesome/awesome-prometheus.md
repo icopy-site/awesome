@@ -103,6 +103,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Node exporter](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) - The Redis exporter periodically scrapes Redis server stats.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - The ElasticSearch exporter periodically scrapes ElasticSearch server stats.
+- [MongoDB Exporter](https://github.com/percona/mongodb_exporter) - The MongoDB exporter periodically scrapes MongoDB server stats.
 
 ## Alertmanager
 
