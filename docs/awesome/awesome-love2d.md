@@ -63,6 +63,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
+* [cindy](https://github.com/megagrump/cindy) - Use byte color values in LÖVE 11+
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
@@ -161,6 +162,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation
 
 ## Performance
 *Performance measurement tools*
@@ -203,6 +205,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
+* [moonblob](https://github.com/megagrump/moonblob) - Binary serialization and data parsing library
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
 * [trickle](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking
@@ -271,6 +274,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux 
+* [nativefs](https://github.com/megagrump/nativefs) - Read and write files outside of LÖVE's allowed paths
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
