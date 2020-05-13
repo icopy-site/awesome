@@ -32,6 +32,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Responders](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 * [Surrounded](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Trailblazer](https://github.com/trailblazer/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
+* [ViewComponent](https://github.com/github/view_component) - View components for Rails.
 * [Waterfall](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 * [wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
@@ -518,6 +519,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Form Builder
 
 * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
+* [ComfyBootstrapForm](https://github.com/comfy/comfy-bootstrap-form) - Rails form builder that makes it easy to create forms with Bootstrap 4 markup 
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 * [Rapidfire](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!

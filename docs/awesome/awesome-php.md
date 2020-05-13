@@ -747,6 +747,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
 ### Text Editors and IDEs
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
@@ -844,6 +845,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
+* [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [PHP Internals New](https://phpinternals.news) - A podcast about PHP internals.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.

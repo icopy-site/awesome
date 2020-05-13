@@ -28,6 +28,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
 - [People to Follow in Web Accessibility](https://github.com/brunopulis/awesome-a11y/blob/master/topics/people.md)
 - [Talks](https://github.com/brunopulis/awesome-a11y/blob/master/topics/talks.md)
+- [Tools](https://github.com/brunopulis/awesome-a11y/blob/master/topics/tools.md)
 - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
 
 ## CONTRIBUTING

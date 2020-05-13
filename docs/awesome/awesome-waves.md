@@ -30,7 +30,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 ## Articles
 
-- [How to Build, Deploy and Test a Waves Ride dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
+- [How to Build, Deploy and Test a Waves Ride dApp](https://medium.com/wavesprotocol/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 - [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
@@ -60,7 +60,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
 - [WavesCap](https://wavescap.com/) - CoinMarketCap for Waves assets.
-- [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://blog.wavesplatform.com/item-market-is-launched-cabefe915c04))
+- [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://medium.com/wavesprotocol/item-market-is-launched-cabefe915c04))
 
 ## Playground
 
