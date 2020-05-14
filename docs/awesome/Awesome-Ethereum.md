@@ -1,8 +1,8 @@
-<div class="github-widget" data-repo="Tom2718/Awesome-Ethereum"></div>
+<div class="github-widget" data-repo="ttumiel/Awesome-Ethereum"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <div align="center">
-  <img width="250px" src="https://raw.githubusercontent.com/Tom2718/Awesome-Ethereum/master/./project_logo.jpg">
+  <img width="250px" src="https://raw.githubusercontent.com/ttumiel/Awesome-Ethereum/master/./project_logo.jpg">
 </div>
 <br/>
 <div align="center">
@@ -169,7 +169,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/ttumiel/Awesome-Ethereum/blob/master/contributing.md) first.
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License

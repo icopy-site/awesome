@@ -220,10 +220,10 @@ nav:
     - Mobile Web Development: awesome/awesome-mobile-web-development.md
     - Storybook: awesome/awesome-storybook.md
     - Blazor: awesome/awesome-blazor.md
-    - Web Performance Metrics: awesome/awesome-web-performance-metrics.md
+    - PageSpeed Metrics: awesome/awesome-pagespeed-metrics.md
     - Tailwind CSS: awesome/awesome-tailwindcss.md
     - Seed: awesome/awesome-seed-rs.md
-    - Web Performance Budget: awesome/awesome-performance-budget.md
+    - Web Performance Budget: awesome/awesome-web-performance-budget.md
     - Web Animation: awesome/awesome-web-animation.md
     - Yew: awesome/awesome-yew.md
     - Material-UI: awesome/awesome-material-ui.md
@@ -285,7 +285,7 @@ nav:
     - Open Source Society University: awesome/computer-science.md
     - Functional Programming: awesome/awesome-functional-programming.md
     - Empirical Software Engineering: awesome/awesome-msr.md
-    - Static Analysis & Code Quality: awesome/awesome-static-analysis.md
+    - Static Analysis & Code Quality: awesome/static-analysis.md
     - Information Retrieval: awesome/awesome-information-retrieval.md
     - Quantum Computing: awesome/awesome-quantum-computing.md
   - Big Data:
@@ -323,7 +323,6 @@ nav:
     - Visual Studio Code: awesome/awesome-vscode.md
   - Gaming:
     - Game Development: awesome/magictools.md
-    - Game Networking: awesome/Awesome-Game-Networking.md
     - Game Talks: awesome/awesome-gametalks.md
     - Godot: awesome/awesome-godot.md
     - Open Source Games: awesome/games.md
@@ -405,7 +404,7 @@ nav:
     - Dive into Machine Learning: awesome/dive-into-machine-learning.md
     - Computer History: awesome/awesome-computer-history.md
     - Programming for Kids: awesome/awesome-programming-for-kids.md
-    - Educational Games: awesome/awesome-eg.md
+    - Educational Games: awesome/awesome-educational-games.md
     - JavaScript Learning: awesome/awesome-javascript-learning.md
     - CSS Learning: awesome/awesome-css-learning.md
     - Product Management: awesome/awesome-product-management.md

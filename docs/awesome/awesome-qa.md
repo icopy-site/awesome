@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="seriousmac/awesome-qa"></div>
+<div class="github-widget" data-repo="seriousran/awesome-qa"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
@@ -89,7 +89,7 @@ Common Sense](https://www.aclweb.org/anthology/W19-2008.pdf), Michael Chen, et a
 ### Analysis and Parsing for Pre-processing in QA systems
 Lanugage Analysis
   1. [Morphological analysis](https://www.cs.bham.ac.uk/~pjh/sem1a5/pt2/pt2_intro_morphology.html)
-  2. [Named Entity Recognition(NER)](https://github.com/seriousmac/awesome-qa/blob/master/mds/named-entity-recognition.md)
+  2. [Named Entity Recognition(NER)](https://github.com/seriousran/awesome-qa/blob/master/mds/named-entity-recognition.md)
   3. Homonyms / Polysemy Analysis
   4. Syntactic Parsing (Dependency Parsing)
   5. Semantic Recognition
@@ -97,8 +97,8 @@ Lanugage Analysis
 ### Most QA systems have roughly 3 parts
 1. Fact extraction <br/>
     1. Entity Extraction <br/>
-        1. [Named-Entity Recognition(NER)](https://github.com/seriousmac/awesome-qa/blob/master/mds/named-entity-recognition.md)
-    2. [Relation Extraction](https://github.com/seriousmac/awesome-qa/blob/master/mds/relation-extraction.md) <br/>
+        1. [Named-Entity Recognition(NER)](https://github.com/seriousran/awesome-qa/blob/master/mds/named-entity-recognition.md)
+    2. [Relation Extraction](https://github.com/seriousran/awesome-qa/blob/master/mds/relation-extraction.md) <br/>
 2. Understanding the question
 3. Generating an answer
 
@@ -294,7 +294,7 @@ Lanugage Analysis
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/seriousmac/awesome-qa/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/seriousran/awesome-qa/blob/master/contributing.md) first.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)

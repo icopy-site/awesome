@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="ciandcd/awesome-ciandcd"></div>
+<div class="github-widget" data-repo="cicdops/awesome-ciandcd"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -94,9 +94,9 @@ The hardware,virtual machines, fram management, docker
 * [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf/)  Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures  
 * [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
 * [citrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
-* [miscrosofthyperv](https://github.com/ciandcd/awesome-ciandcd/blob/master/Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
+* [miscrosofthyperv](https://github.com/cicdops/awesome-ciandcd/blob/master/Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
 * [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
-* [mesosphere-dc/os](https://github.com/ciandcd/awesome-ciandcd/blob/master/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
+* [mesosphere-dc/os](https://github.com/cicdops/awesome-ciandcd/blob/master/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  

@@ -243,10 +243,10 @@
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
 - [Storybook](awesome/awesome-storybook.md) - Development environment for UI components.
 - [Blazor](awesome/awesome-blazor.md) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [Web Performance Metrics](awesome/awesome-web-performance-metrics.md) - Metrics to help understand page speed and user experience.
+- [PageSpeed Metrics](awesome/awesome-pagespeed-metrics.md) - Metrics to help understand page speed and user experience.
 - [Tailwind CSS](awesome/awesome-tailwindcss.md) - Utility-first CSS framework for rapid UI development.
 - [Seed](awesome/awesome-seed-rs.md) - Rust framework for creating web apps running in WebAssembly.
-- [Web Performance Budget](awesome/awesome-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
+- [Web Performance Budget](awesome/awesome-web-performance-budget.md) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](awesome/awesome-web-animation.md) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](awesome/awesome-yew.md) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](awesome/awesome-material-ui.md) - Material Design React components for faster and easier web development.
@@ -305,7 +305,7 @@
 - [Open Source Society University](awesome/computer-science.md)
 - [Functional Programming](awesome/awesome-functional-programming.md)
 - [Empirical Software Engineering](awesome/awesome-msr.md) - Evidence-based research on software systems.
-- [Static Analysis & Code Quality](awesome/awesome-static-analysis.md)
+- [Static Analysis & Code Quality](awesome/static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
@@ -354,7 +354,6 @@
 ## Gaming
 
 - [Game Development](awesome/magictools.md)
-- [Game Networking](awesome/Awesome-Game-Networking.md) - Network programming for multiplayer online games.
 - [Game Talks](awesome/awesome-gametalks.md)
 - [Godot](awesome/awesome-godot.md) - Game engine.
 - [Open Source Games](awesome/games.md)
@@ -446,7 +445,7 @@
 - [Dive into Machine Learning](awesome/dive-into-machine-learning.md)
 - [Computer History](awesome/awesome-computer-history.md)
 - [Programming for Kids](awesome/awesome-programming-for-kids.md)
-- [Educational Games](awesome/awesome-eg.md) - Learn while playing.
+- [Educational Games](awesome/awesome-educational-games.md) - Learn while playing.
 - [JavaScript Learning](awesome/awesome-javascript-learning.md)
 - [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.

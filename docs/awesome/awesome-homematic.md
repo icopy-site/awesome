@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="hobbyquaker/awesome-homematic"></div>
+<div class="github-widget" data-repo="homematic-community/awesome-homematic"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Homematic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,7 +8,7 @@
 
 
 
-- [https://github.com/hobbyquaker/awesome-homematic/blob/master/License](https://github.com/hobbyquaker/awesome-homematic/blob/master/License)
+- [https://github.com/homematic-community/awesome-homematic/blob/master/License](https://github.com/homematic-community/awesome-homematic/blob/master/License)
 
 
 ## Community Ressources (mostly german language)
@@ -131,7 +131,7 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/hobbyquaker/awesome-homematic/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/homematic-community/awesome-homematic/blob/master/contributing.md) first.
 
 
 ## License

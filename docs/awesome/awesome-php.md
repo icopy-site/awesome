@@ -38,14 +38,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Frameworks
 *Web development frameworks.*
 
-* [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
-* [Laravel](https://laravel.com/) - Another PHP framework.
-* [Nette](https://nette.org) - Another framework comprised of individual components.
+* [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
+* [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-* [Symfony](https://symfony.com/) - A framework comprised of individual components.
-* [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
+* [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
+* [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
@@ -79,7 +78,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
-* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.

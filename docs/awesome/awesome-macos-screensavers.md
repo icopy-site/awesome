@@ -132,6 +132,14 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
+### Fruit
+
+> Animated vintage Apple logo
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+
+Free
+
 ## Retro
 
 ### PongSaver

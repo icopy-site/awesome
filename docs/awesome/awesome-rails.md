@@ -1,6 +1,6 @@
-<div class="github-widget" data-repo="ekremkaraca/awesome-rails"></div>
+<div class="github-widget" data-repo="gramantin/awesome-rails"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-![awesome-rails](https://raw.githubusercontent.com/ekremkaraca/awesome-rails/master/./.github/awesome-rails.png)
+![awesome-rails](https://raw.githubusercontent.com/gramantin/awesome-rails/master/./.github/awesome-rails.png)
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 

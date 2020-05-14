@@ -16,6 +16,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - Specially "Quantum computing concepts" gives a good introduction to quantum computing in general.
 - [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
+- [Q# libraries for the Quantum Development Kit](https://github.com/microsoft/QuantumLibraries)
 
 ## Tutorials
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.

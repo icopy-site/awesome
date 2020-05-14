@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="msmolyakov/awesome-waves"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="center"><a href="https://wavesplatform.com/"><img src="https://raw.githubusercontent.com/msmolyakov/awesome-waves/master/logo.svg?sanitize=true" width="50%"/></a></p>
+<p align="center"><a href="https://wavesprotocol.org/"><img src="https://raw.githubusercontent.com/msmolyakov/awesome-waves/master/logo.svg?sanitize=true" width="50%"/></a></p>
 
 ## Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -12,9 +12,9 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ## Official
 
-- [Official website](https://wavesplatform.com/)
+- [Official website](https://wavesprotocol.org/)
 - [Waves on GitHub](https://github.com/wavesplatform/)
-- [Documentation](https://docs.wavesplatform.com/)
+- [Documentation](https://docs.wavesprotocol.org/)
 
 ## Learn
 
@@ -33,14 +33,14 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [How to Build, Deploy and Test a Waves Ride dApp](https://medium.com/wavesprotocol/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
-- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
+- [Simple voting on the Waves blockchain](https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Products
 
 ### Wallet
 
 - [Waves.Exchange Wallet](https://waves.exchange/) - Web & desktop client by Waves.Exchange enables you to join the ecosystem and enjoy the full range of digital asset management features.
-- [Waves Keeper](https://wavesplatform.com/products-keeper) - Official browser extension allows to manage private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
+- [Waves Keeper](https://wavesprotocol.org/protocol/keeper) - Official browser extension allows to manage private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
 - [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Wallet for iPhone by Waves.Exchange.
 - [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Wallet for Android devices by Waves.Exchange.
 - [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven native desktop wallet for Windows, macOS and Linux, which offers users multi-network and multi-address functionality.
@@ -168,7 +168,6 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
 - [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
-- [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
 
 ### Africa

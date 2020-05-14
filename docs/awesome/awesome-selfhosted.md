@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="Kickball/awesome-selfhosted"></div>
+<div class="github-widget" data-repo="awesome-selfhosted/awesome-selfhosted"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome-Selfhosted
 
@@ -6,9 +6,9 @@
 
 Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](https://github.com/Kickball/awesome-selfhosted/blob/master/non-free.md) page.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
-See [Contributing](https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
+See [Contributing](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
 
 --------------------
 
@@ -1553,12 +1553,12 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 
 ## Contributing
 
-Contributing guidelines can be found in [https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md](https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
+Contributing guidelines can be found in [https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
 
 ## Authors
 
-The list of authors can be found in [https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md](https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md).
+The list of authors can be found in [https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/AUTHORS.md](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/AUTHORS.md).
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/Kickball/awesome-selfhosted/blob/master/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.

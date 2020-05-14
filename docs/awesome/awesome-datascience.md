@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="bulutyazilim/awesome-datascience"></div>
+<div class="github-widget" data-repo="academic/awesome-datascience"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
 
@@ -220,7 +220,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Stories](http://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
 - [Meaning of](http://www.kennybastani.com/)
-- [Adventures in Data Land](https://github.com/bulutyazilim/awesome-datascience/blob/master/ http://blog.smola.org)
+- [Adventures in Data Land](https://github.com/academic/awesome-datascience/blob/master/ http://blog.smola.org)
 - [DATA MINERS BLOG](http://blog.data-miners.com/)
 - [Dataclysm](https://theblog.okcupid.com/)
 - [FlowingData](http://flowingdata.com/) - Visualization and Statistics

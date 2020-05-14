@@ -139,6 +139,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, Redis and hybrid implementations.
 * [Cashew](https://github.com/joakimskoog/Cashew) - a .NET library for caching responses easily with an `HttpClient` through an API that is simple and elegant yet powerful.
 
+## Calendar
+
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+
 ## CLI
 
 * [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) - A command-line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition
@@ -358,6 +362,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#
 * [JFlepp.Maybe](https://github.com/jflepp/JFlepp.Maybe) - A Maybe type for C#, aimed as an idiomatic port of the option type in F# to C#
+* [Optuple](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
 
 ## Game
 
@@ -369,7 +374,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [UrhoSharp](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 * [Nez](https://github.com/prime31/Nez) - Nez is a free 2D-focused framework that works with MonoGame and FNA
 * [BEPUphysics](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
-* [Devtodev] (https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
+* [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 
 ## GIS
 
@@ -485,6 +490,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 * [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+* [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - Easily update image urls to be fast and responsive. **[$]**
 
 ## Install tools
 
@@ -627,6 +633,7 @@ metadata in media files, including video, audio, and photo formats
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a LINQ-compatible way.
 * [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [FormHelper](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 * [Guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 * [Valit](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -726,6 +733,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## PDF
 
+* [Cloudmersive PDF](https://cloudmersive.com/pdf-api) - Cloudmersive PDF is a native .NET Framework and .NET Core NuGet library and API service that can create, modify, encrypt or convert PDF documents at high scale and fidelity; and is free to use with no expiration **[Free]**
 * [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]****[Free for OSS]**
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
