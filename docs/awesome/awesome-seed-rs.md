@@ -31,7 +31,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Default quickstart](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
 - [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
-- [Basic Quickstart with Webpack [unofficial]](https://github.com/fattenap/seed-quickstart) - Webpack, Wasm-pack, Auto-reload.
 
 ## Examples
 

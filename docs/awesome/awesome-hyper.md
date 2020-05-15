@@ -10,7 +10,7 @@
 
 *Please read the [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/home).**
+**Check out the official [Hyper site](https://hyper.is), check out [Vercel](https://vercel.com), and their interesting Hosting product, [Now](https://vercel.com/home).**
 
 Want to add your awesome Hyper package, theme, or resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -54,6 +54,7 @@ Name and description | Downloads
 [hyperdocs](https://www.npmjs.com/package/hyperdocs) - Get documentation pages right in your terminal. | [![npm](https://img.shields.io/npm/dm/hyperdocs.svg?label=DL)](https://www.npmjs.com/package/hyperdocs)
 [hyper-search](https://www.npmjs.com/package/hyper-search) - Search text in your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-search.svg?label=DL)](https://www.npmjs.com/package/hyper-search)
 [hypergoogle](https://www.npmjs.com/package/hypergoogle) - Search Google from your terminal. | [![npm](https://img.shields.io/npm/dm/hypergoogle.svg?label=DL)](https://www.npmjs.com/package/hypergoogle)
+[hyperduck](https://www.npmjs.com/package/hyperduck) - Search DuckDuckGo from your terminal. | [![npm](https://img.shields.io/npm/dm/hyperduck.svg?label=DL)](https://www.npmjs.com/package/hyperduck)
 [hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)](https://www.npmjs.com/package/hyper-quit)
 [hyper-confirm](https://www.npmjs.com/package/hyper-confirm) - Displays a confirmation dialog before quitting Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-confirm.svg?label=DL)](https://www.npmjs.com/package/hyper-confirm)
 [hyper-match](https://www.npmjs.com/package/hyper-match) - Links patterns such as urls, emails and file paths to configured commands. | [![npm](https://img.shields.io/npm/dm/hyper-match.svg?label=DL)](https://www.npmjs.com/package/hyper-match)
@@ -196,6 +197,7 @@ Name and description | Downloads
 [hyper-polarbear](https://www.npmjs.com/package/hyper-polarbear) - A beautiful white theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-polarbear.svg?label=DL)](https://www.npmjs.com/package/hyper-polarbear)
 [hyper-ramda](https://www.npmjs.com/package/hyper-ramda) - Theme inspired by the RamdaJS REPL. | [![npm](https://img.shields.io/npm/dm/hyper-ramda.svg?label=DL)](https://www.npmjs.com/package/hyper-ramda)
 [hyper-relaxed](https://www.npmjs.com/package/hyper-relaxed) - A theme to take a more relaxed view of things. | [![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed)
+[hyper-rose-pine](https://www.npmjs.com/package/hyper-rose-pine) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | [![npm](https://img.shields.io/npm/dm/hyper-rose-pine.svg?label=DL)](https://www.npmjs.com/package/hyper-rose-pine)
 [hyper-seashells](https://www.npmjs.com/package/hyper-seashells) - A Hyper port of the [iTerm2 SeaShells](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/sea_shells.png) color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-seashells.svg?label=DL)](https://www.npmjs.com/package/hyper-seashells)
 [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-sierra-vibrancy.svg?label=DL)](https://www.npmjs.com/package/hyper-sierra-vibrancy)
 [hyper-sierra](https://www.npmjs.com/package/hyper-sierra) - A dark theme for Hyper inspired by the Sierra Nevada. | [![npm](https://img.shields.io/npm/dm/hyper-sierra.svg?label=DL)](https://www.npmjs.com/package/hyper-sierra)
@@ -204,6 +206,7 @@ Name and description | Downloads
 [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](https://ethanschoonover.com/solarized/) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
 [hyper-solarized-one](https://www.npmjs.com/package/hyper-solarized-one) - A 2-for-1 [Solarized](https://ethanschoonover.com/solarized/) theme for the Hyper Terminal. It knows what 🕐 it is... | [![npm](https://img.shields.io/npm/dm/hyper-solarized-one.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-one)
 [hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
+[hyper-sweet](https://www.npmjs.com/package/hyper-sweet) - A dark and modern theme with some neon for hyper. | [![npm](https://img.shields.io/npm/dm/hyper-sweet.svg?label=DL)](https://www.npmjs.com/package/hyper-sweet)
 [hyper-teatime](https://www.npmjs.com/package/hyper-teatime) - Light theme with sweet, pastel colors. | [![npm](https://img.shields.io/npm/dm/hyper-teatime.svg?label=DL)](https://www.npmjs.com/package/hyper-teatime)
 [hyper-theme](https://www.npmjs.com/package/hyper-theme) - Hyper colors theme for Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme)
 [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)](https://www.npmjs.com/package/hyper-thirtyone)

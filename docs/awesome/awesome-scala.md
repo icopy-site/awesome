@@ -484,6 +484,7 @@ Projects with over 500 stargazers are in bold.
 * [coursier ★ 2 ⧗ 161](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories ( Coursier is built-in to SBT since 1.3.0 )
 * [mdoc ★ 169 ⧗ 6](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 74 ⧗ 33](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [sbt-apidoc](https://github.com/valydia/sbt-apidoc) - A port of [apidocjs](https://apidocjs.com/) to sbt, to document REST Api.
 * **[sbt-assembly ★ 1624 ⧗ 0](https://github.com/sbt/sbt-assembly)** - Deploy fat JARs. Restart processes.
 * [sbt-buildinfo ★ 460 ⧗ 6](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * [sbt-ci-release ★ 135 ⧗ 0](https://github.com/olafurpg/sbt-ci-release) - sbt plugin to automate Sonatype releases from Travis CI
@@ -573,6 +574,7 @@ Projects with over 500 stargazers are in bold.
 * [pos ★ 19 ⧗ 2](https://github.com/JohnReedLOL/pos) - Print debug tool, successor of scala-trace-debug
 * **[sbt ★ 4101 ⧗ 0](https://github.com/sbt/sbt)** - The interactive build tool for Scala
 * **[Scalafix ★ 513 ⧗ 0](https://github.com/scalacenter/scalafix)** - Refactoring and linting tool
+* [Scalafmt](https://scalameta.org/scalafmt/) - Code formatter for Scala
 * [Scalariform ★ 116 ⧗ 33](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 660 ⧗ 1](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 281 ⧗ 33](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation

@@ -44,6 +44,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
+- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
 - [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
@@ -247,6 +248,7 @@ Check solve section for steganography.
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images.
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images.
+- [StegOnline](https://georgeom.net/StegOnline/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
 
@@ -304,8 +306,10 @@ Check solve section for steganography.
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community.
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is damn vulnerable.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
+- [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches beginners the basics of forensics, crypto, and web-ex.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
+
 
 ## Wargames
 
@@ -353,6 +357,7 @@ Check solve section for steganography.
 
 *Various general websites about and on CTF*
 
+- [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) - CTF Cheatsheet.
 - [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds.
 - [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category.
 
