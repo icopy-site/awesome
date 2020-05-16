@@ -67,6 +67,7 @@ nav:
     - Cloudflare: awesome/awesome-cloudflare.md
     - Actions on Google: awesome/awesome-actions-on-google.md
     - ESP: awesome/awesome-esp.md
+    - Deno: awesome/awesome-deno.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
