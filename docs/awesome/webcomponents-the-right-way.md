@@ -94,6 +94,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
 - [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
 - [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
@@ -166,6 +167,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ## Examples
 
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+- [generic-components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
 - [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
@@ -222,6 +224,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+- [Zooplus web components](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
 ## Frameworks
 
