@@ -916,6 +916,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../awesome-deno/" title="Deno" class="md-nav__link">
+      Deno
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -8595,7 +8607,7 @@
 <ul>
 <li><a href="https://developers.google.com/transit/gtfs/">GTFS</a> - A GTFS feed is a group of text files that contains infrequently changing transit data, like stops, routes, trips, and other schedule data. Transit agencies typically update their GTFS feed every few months.</li>
 <li><a href="https://developers.google.com/transit/gtfs-realtime/">GTFS Realtime</a> - GTFS Realtime consists of three binary files that contain realtime vehicle positions, realtime arrival information, and service alerts. Transit agencies typically update these files every minute.</li>
-<li><a href="https://transitfeeds.com/">TransitFeeds</a> - List of GTFS/GTFS-realtime data feeds from around the world. If you're trying to get realtime data for some agency, this is a good place to start.</li>
+<li><a href="https://openmobilitydata.org/">OpenMobilityData</a> (former TransitFeeds) - List of GTFS/GTFS-realtime data feeds from around the world. If you're trying to get realtime data for some agency, this is a good place to start.</li>
 <li><a href="https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping">World Bank - "Intro. to GTFS" online course</a> - A free, online, self-paced course for learning about GTFS and GTFS-realtime.</li>
 <li><a href="http://transitdatatoolkit.com/">Open Transit Data Toolkit</a> - A series of lessons to help people utilize open transit data.</li>
 </ul>
@@ -8617,7 +8629,7 @@
 <h4 id="3rd-party-gtfs-url-directories">3<sup>rd</sup> party GTFS URL directories<a class="headerlink" href="#3rd-party-gtfs-url-directories" title="Permanent link">&para;</a></h4>
 <ul>
 <li><a href="https://transit.land/">Transitland</a> - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.</li>
-<li><a href="http://transitfeeds.com/">TransitFeeds</a> - List of GTFS and <a href="http://transitfeeds.com/search?q=gtfsrt">GTFS-RT</a> feeds. <a href="http://transitfeeds.com/p/capital-metro/24">Archives and validates</a> the GTFS feeds and allows you to preview both <a href="http://transitfeeds.com/p/capital-metro/24/20151015">GTFS</a> and <a href="http://transitfeeds.com/p/capital-metro/495">GTFS-RT</a> through the browser.</li>
+<li><a href="https://openmobilitydata.org/">OpenMobilityData</a> - List of GTFS and <a href="https://openmobilitydata.org/search?q=gtfsrt">GTFS-RT</a> feeds. <a href="https://openmobilitydata.org/p/capital-metro/24">Archives and validates</a> the GTFS feeds and allows you to preview both <a href="https://openmobilitydata.org/p/capital-metro/24/latest">GTFS</a> and <a href="https://openmobilitydata.org/p/capital-metro/495">GTFS-RT</a> through the browser.</li>
 <li><a href="http://www.gtfs-data-exchange.com/agencies"><del>GTFS Data Exchange</del> (Deprecated)</a> - Formerly the definitive directory of GTFS feed URLs. Shutdown in 2016. But 93 GB of data from 2008 to 2016 is available upon request.</li>
 </ul>
 <h4 id="transit-agency-data-archives">Transit agency data archives<a class="headerlink" href="#transit-agency-data-archives" title="Permanent link">&para;</a></h4>
@@ -8740,8 +8752,8 @@
 <li><a href="https://github.com/transitland/mapzen-gtfs">Mapzen GTFS</a> - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.</li>
 <li><a href="https://github.com/OpenTransitTools/gtfsdb">gtfsdb</a> - Python library for converting GTFS files into a relational database.</li>
 <li><a href="https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki">OneBusAway GTFS Modules</a> - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.</li>
-<li><a href="https://github.com/TransitFeeds/GtfsToSql">GTFS to SQL</a> - Parses a GTFS feed into an SQL database (used in <a href="http://transitfeeds.com/">TransitFeeds.com</a>)</li>
-<li><a href="https://github.com/TransitFeeds/SqlToGtfs">SQL to GTFS</a> - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.</li>
+<li><a href="https://github.com/OpenMobilityData/GtfsToSql">GTFS to SQL</a> - Parses a GTFS feed into an SQL database (used in <a href="https://openmobilitydata.org/">OpenMobilityData</a>)</li>
+<li><a href="https://github.com/OpenMobilityData/SqlToGtfs">SQL to GTFS</a> - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.</li>
 <li><a href="https://github.com/geops/gtfsparser">Go GTFS Parser</a> - A GTFS parsing library for Go</li>
 <li><a href="https://github.com/OsmSharp/GTFS">GTFS Feed Parser</a> - .Net/Mono implementation of a GTFS parser</li>
 <li><a href="https://github.com/brendannee/node-gtfs">Node-GTFS</a> - Loads transit data from <a href="http://www.gtfs-data-exchange.com/">GTFS Data Exchange</a>, unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.</li>
@@ -8830,7 +8842,7 @@
 </ul>
 <h4 id="gtfs-realtime-and-other-real-time-api-archival-tools">GTFS Realtime (and Other Real-time API) Archival Tools<a class="headerlink" href="#gtfs-realtime-and-other-real-time-api-archival-tools" title="Permanent link">&para;</a></h4>
 <ul>
-<li><a href="https://github.com/TransitFeeds/GtfsRealTimeToSql">GTFS-realtime to SQL</a> - Parses a GTFS-RealTime feed into an SQL database (used in <a href="http://transitfeeds.com/">TransitFeeds.com</a>)</li>
+<li><a href="https://github.com/OpenMobilityData/GtfsRealTimeToSql">GTFS-realtime to SQL</a> - Parses a GTFS-RealTime feed into an SQL database (used in <a href="https://openmobilitydata.org">OpenMobilityData.org</a>)</li>
 <li><a href="https://github.com/CUTR-at-USF/gtfsrdb">gtfsrdb</a> - A Python tool that supports reading and archiving GTFS-realtime feeds into a database</li>
 <li><a href="https://github.com/SAUSy-Lab/retro-gtfs">retro-gtfs</a> - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).</li>
 </ul>
