@@ -97,6 +97,7 @@ nav:
       - CircuitPython: awesome/awesome-circuitpython.md
       - Data Science: awesome/awesome-python-data-science.md
       - Typing: awesome/awesome-python-typing.md
+      - MicroPython: awesome/awesome-micropython.md
     - Rust: awesome/awesome-rust.md
     - Haskell: awesome/awesome-haskell.md
     - PureScript: awesome/awesome-purescript.md

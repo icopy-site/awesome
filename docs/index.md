@@ -125,6 +125,7 @@
 	- [CircuitPython](awesome/awesome-circuitpython.md) - A version of Python for microcontrollers.
 	- [Data Science](awesome/awesome-python-data-science.md) - Data analysis and machine learning.
 	- [Typing](awesome/awesome-python-typing.md) - Optional static typing for Python.
+	- [MicroPython](awesome/awesome-micropython.md) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](awesome/awesome-rust.md)
 - [Haskell](awesome/awesome-haskell.md)
 - [PureScript](awesome/awesome-purescript.md)

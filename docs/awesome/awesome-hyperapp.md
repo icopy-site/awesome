@@ -2,6 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
+> I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
+
+
 A curated list of [Hyperapp](https://hyperapp.dev) resources. 
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) for more information.
