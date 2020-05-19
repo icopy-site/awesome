@@ -112,6 +112,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Building Custom Elements with Web Components for the 2020 Elections](https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a)
 - [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
+- [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
 - [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
@@ -191,6 +192,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Class Based
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
+- [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
 - [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 - [Omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
@@ -198,6 +200,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Skate](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 - [slim.js](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 - [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
+- [Tonic](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ### Functional
 
