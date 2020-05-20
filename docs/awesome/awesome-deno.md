@@ -25,6 +25,8 @@ This list is a collection of the best Deno modules and resources.
 ### Online Playgrounds
 
 - [deno.town](https://deno.town)
+- [Deno Playground](https://deno-playground.now.sh)
+  - [maman/deno-playground](https://github.com/maman/deno-playground)
 
 ## Modules
 
@@ -33,6 +35,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
+- [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
@@ -67,6 +70,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebScoket library like ws of node.js library.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.

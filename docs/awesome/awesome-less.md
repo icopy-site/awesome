@@ -199,7 +199,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Translations
 
-- [Belarusian](http://www.designcontest.com/show/lesscss-be)
 - [Chinese (中文)](http://lesscss.cn/)
 - [Danish](http://lesscss.dk/)
 - [German](http://www.lesscss.de)
