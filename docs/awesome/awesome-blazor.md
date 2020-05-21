@@ -12,10 +12,16 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://github.com/jsakamoto/awesome-blazor-browser).
 Thanks @jsakamoto for this!
 
+## Special event: "Microsoft Build 2020". [LIVE!]
+[<img src="https://adrientorris.github.io/wwwroot/images/microsoft/microsoft-build-banner.jpg" align="center" width="100%">](https://mybuild.microsoft.com/)
+- Microsoft Build is live! [MyBuild website](https://mybuild.microsoft.com/). [Sessions catalog](https://mybuild.microsoft.com/sessions).
+- You also can retrieve all the content on [Channel 9](https://channel9.msdn.com/Events/Build).
+
 
 ## Introduction
 
-### What is Blazor
+### What is Blazor?
+
 Blazor is a .NET web framework to build client web apps with C#.
 
 Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
@@ -24,10 +30,6 @@ More information on the [official Blazor website](https://blazor.net).
 ### Get started
 
 To get started with Blazor, follow the instructions in the [Blazor Get Started](https://docs.microsoft.com/aspnet/core/blazor/get-started) documentation.
-
-To open Blazor projects in Visual Studio, you must have [Visual Studio 2019 16.3](https://www.visualstudio.com/vs/) or later and the [.NET Core 3.0 SDK](https://dot.net/get-core3).
-
-Note: the Blazor Visual Studio extension is no longer required since .NET Core 3.0 Preview 7. Uninstall the extension if you still have it installed.
 
 ## General
 * [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
@@ -54,6 +56,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorAuthenticationSample](https://github.com/christiansparre/BlazorAuthenticationSample) - ![stars](https://img.shields.io/github/stars/christiansparre/BlazorAuthenticationSample?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/christiansparre/BlazorAuthenticationSample?style=flat-square&cacheSeconds=86400) A sample showing some of the ASP.NET Core Blazor authentication features (also some testing...).
 * [Blazor.Msal](https://github.com/cradle77/Blazor.Msal) - ![stars](https://img.shields.io/github/stars/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=86400) Sample implementation for MSAL in Blazor, it shows how to integrate a Single Page Web Application made in Blazor WebAssembly with Azure Active Directory. It allows to authenticate the user and then acquire an access token to make a secure call to an external API. The code internally uses [MSAL.js](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) to implement the OpenID Connect and OAuth2 flows.
 * [Blazor.OpenId](https://github.com/jbomhold3/Blazor.Openid) - ![stars](https://img.shields.io/github/stars/jbomhold3/Blazor.Openid?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jbomhold3/Blazor.Openid?style=flat-square&cacheSeconds=86400) Easy authentication and client refresh using OpenId.
+* [BlazorGraphApi](https://github.com/wmgdev/BlazorGraphApi) - ![last commit](https://img.shields.io/github/last-commit/wmgdev/BlazorGraphApi?style=flat-square&cacheSeconds=86400) Blazor Server App with AD Authentication, that calls the MS Graph API on-behalf of the signed-in user using [Microsoft.Identity.Web](https://github.com/AzureAD/microsoft-identity-web).
 ### Cloud
 * [BlazorAzure.WebApp](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.WebApp) - ![stars](https://img.shields.io/github/stars/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=86400) Blazor Azure web app.
 * [BlazorAzure.Functions](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.Functions) - ![stars](https://img.shields.io/github/stars/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=86400) Azure function with Blazor.
@@ -136,6 +139,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor + Umbraco Heartcore](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square&cacheSeconds=86000) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
 * [BlazorGrpcWebCodeFirst](https://github.com/hakenr/BlazorGrpcWebCodeFirst) - ![last commit](https://img.shields.io/github/last-commit/hakenr/BlazorGrpcWebCodeFirst?style=flat-square&cacheSeconds=86000) Sample project that demonstrates how you can use gRPC-Web with Blazor WebAssembly hosted on ASP.NET Core. Publish and consume your services without having to create .proto files - with the code-first approach.
 * [GTAVehicles](https://github.com/mytatuo/GTAVehicles) - ![last commit](https://img.shields.io/github/last-commit/mytatuo/GTAVehicles?style=flat-square&cacheSeconds=86000) Sample app to manage GTA vehicles. [Demo](https://gtavehicles.azurewebsites.net/).
+* [BlazingWaffles](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square&cacheSeconds=86000) A Blazor app that wraps [Waffle Generator](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -155,6 +159,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Radzen.Blazor](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square&cacheSeconds=86400) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
 * [Canvas](https://github.com/BlazorExtensions/Canvas) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Canvas?style=flat-square&cacheSeconds=86400) Material Design components for Blazor. HTML5 Canvas API implementation for Microsoft Blazor.
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square&cacheSeconds=86400) Brings [ChartJs](https://github.com/chartjs/Chart.js) charts to Blazor.
+* [ComponentOne Blazor UI Components](https://www.grapecity.com/componentone/blazor-ui-controls) - External link. A fast datagrid, listview, input and other native Blazor components for server and client-side apps.
 * [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) - ![GitHub stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square&cacheSeconds=86400) Material Design components for Blazor. A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [Blazored.Modal](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
@@ -259,7 +264,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
-* [Blazor WASM authentication](https://www.twitch.tv/videos/614895872) - May 8, 2020 - Blazor WASM authentication, by Ed Charbeneau.
+* [Modern Web UI with Blazor WebAssembly](https://channel9.msdn.com/Events/Build/2020/BOD104) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) May 19, 2020 - Modern web development is here with Blazor! Be productive building beautiful interactive UI with .NET and C# that runs on any device via WebAssembly. PWAs, authentication, debugging and more. Video by Steve Sanderson from Microsoft.
+* [Blazor WASM authentication](https://www.twitch.tv/videos/614895872) - ![duration](https://img.shields.io/badge/Duration:%20-99%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) May 8, 2020 - Blazor WASM authentication, by Ed Charbeneau.
 * [Blazor Tutorial : Deploy to Azure App Services](https://www.youtube.com/watch?v=CFAE4_dwzAs&feature=youtu.be) - May 5, 2020 - Blazor Tutorial : Deploy to Azure App Services, by Curious Drive.
 * [Blazor StateHasChanged: E-book samples, code-behind, and office hours](https://www.twitch.tv/videos/608126510) - May 1, 2020 - Blazor StateHasChanged: E-book samples, code-behind, and office hours.
 * [Trains.NET - Lets pretend to be designers](https://www.twitch.tv/videos/599185198) - April 22, 2020 - Building a 2D game with .NET and C#, let's draw things with Blazor. [Trains.NET's Source code](https://github.com/davidwengier/Trains.NET).

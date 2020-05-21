@@ -43,6 +43,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker-compose build && docker-compose up` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
+ * `docker pull phocean/msf` - [Docker Metasploit](https://hub.docker.com/r/phocean/msf/)
 
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
@@ -67,7 +68,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ### Decompilers
 *  JVM-based languages
   * [Krakatau](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
-  * [JD-GUI](https://github.com/java-decompiler/jd-gui) 
+  * [JD-GUI](https://github.com/java-decompiler/jd-gui)
   * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
     * [Luyten](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
   * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
@@ -84,6 +85,10 @@ For a list of free hacking books available for download, go [here](https://githu
   * [retdec](https://github.com/avast-tl/retdec)
   * [snowman](https://github.com/yegord/snowman)
   * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
+
+* Python
+  * [uncompyle6](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+
 
 ### Deobfuscators
  * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -113,7 +118,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
 * [wxHexEditor](https://github.com/EUA/wxHexEditor)
-* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) - 
+* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) -
 
 #### Other
  * [Binwalk](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
@@ -132,11 +137,13 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Web
 
 ## Tools
+ * [Spyse](https://spyse.com/) -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
  * [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
  * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+ * [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
  * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
 
 ## General
@@ -149,6 +156,9 @@ For a list of free hacking books available for download, go [here](https://githu
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
  * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+ * [findsubdomains](https://findsubdomains.com) - really fast subdomains scanning service that has much greater opportunities than simple subs finder(works using OSINT).
+ * [cirt-fuzzer](http://www.cirt.dk/) - A simple TCP/UDP protocol fuzzer.
+ * [ASlookup](https://aslookup.com/) - a useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
@@ -158,7 +168,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
- * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
+ * [Scapy](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
  * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
@@ -170,6 +180,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+ * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
 
 ## Cryptography
 
@@ -188,6 +199,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [pwnable.kr](http://pwnable.kr/) - Provide various pwn challenges regarding system security
  * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
  * [SmashTheStack](http://smashthestack.org/)
+ * [HackingLab](https://www.hacking-lab.com/) 
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
@@ -200,6 +212,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
+ * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
@@ -208,11 +221,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  
-## Bug bounty -  Earn Some Money  
+
+## Bug bounty -  Earn Some Money
   * [Bugcrowd](https://www.bugcrowd.com/)
   * [Hackerone](https://www.hackerone.com/start-hacking)
-  
+
 
 ## CTF
 
@@ -229,8 +242,9 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Pico CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/)
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
+ * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
@@ -253,6 +267,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+* [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
