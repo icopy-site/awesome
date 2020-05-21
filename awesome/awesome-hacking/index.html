@@ -8664,6 +8664,7 @@
 <li><code>docker-compose build &amp;&amp; docker-compose up</code> - <a href="https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker">OWASP NodeGoat</a></li>
 <li><code>docker pull citizenstig/nowasp</code> - <a href="https://hub.docker.com/r/citizenstig/nowasp/">OWASP Mutillidae II Web Pen-Test Practice Application</a></li>
 <li><code>docker pull bkimminich/juice-shop</code> - <a href="https://github.com/bkimminich/juice-shop#docker-container--">OWASP Juice Shop</a></li>
+<li><code>docker pull phocean/msf</code> - <a href="https://hub.docker.com/r/phocean/msf/">Docker Metasploit</a></li>
 </ul>
 <h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8690,7 +8691,7 @@
 <ul>
 <li>JVM-based languages</li>
 <li><a href="https://github.com/Storyyeller/Krakatau">Krakatau</a> - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.</li>
-<li><a href="https://github.com/java-decompiler/jd-gui">JD-GUI</a> </li>
+<li><a href="https://github.com/java-decompiler/jd-gui">JD-GUI</a></li>
 <li><a href="https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler">procyon</a><ul>
 <li><a href="https://github.com/deathmarine/Luyten">Luyten</a> - one of the best, though a bit slow, hangs on some binaries and not very well maintained.</li>
 </ul>
@@ -8714,7 +8715,13 @@
 <li><a href="https://github.com/radareorg/cutter">cutter</a> - a decompiler based on radare2.</li>
 <li><a href="https://github.com/avast-tl/retdec">retdec</a></li>
 <li><a href="https://github.com/yegord/snowman">snowman</a></li>
-<li><a href="https://www.hex-rays.com/products/decompiler/">Hex-Rays</a></li>
+<li>
+<p><a href="https://www.hex-rays.com/products/decompiler/">Hex-Rays</a></p>
+</li>
+<li>
+<p>Python</p>
+</li>
+<li><a href="https://github.com/rocky/python-uncompyle6">uncompyle6</a> - decompiler for the over 20 releases and 20 years of CPython.</li>
 </ul>
 <h3 id="deobfuscators">Deobfuscators<a class="headerlink" href="#deobfuscators" title="Permanent link">&para;</a></h3>
 <ul>
@@ -8747,7 +8754,7 @@
 <li><a href="http://mh-nexus.de/en/hxd/">HxD</a> - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size</li>
 <li><a href="http://www.winhex.com/winhex/">WinHex</a> - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security</li>
 <li><a href="https://github.com/EUA/wxHexEditor">wxHexEditor</a></li>
-<li><a href="https://www.synalysis.net/">Synalize It</a>/<a href="https://hexinator.com/">Hexinator</a> - </li>
+<li><a href="https://www.synalysis.net/">Synalize It</a>/<a href="https://hexinator.com/">Hexinator</a> -</li>
 </ul>
 <h4 id="other_1">Other<a class="headerlink" href="#other_1" title="Permanent link">&para;</a></h4>
 <ul>
@@ -8768,11 +8775,13 @@
 <h2 id="web">Web<a class="headerlink" href="#web" title="Permanent link">&para;</a></h2>
 <h2 id="tools_2">Tools<a class="headerlink" href="#tools_2" title="Permanent link">&para;</a></h2>
 <ul>
+<li><a href="https://spyse.com/">Spyse</a> -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.</li>
 <li><a href="https://github.com/sqlmapproject/sqlmap">sqlmap</a> - Automatic SQL injection and database takeover tool</li>
 <li><a href="https://github.com/codingo/NoSQLMap">NoSQLMap</a> - Automated NoSQL database enumeration and web application exploitation tool.</li>
 <li><a href="http://tools.web-max.ca/encode_decode.php">tools.web-max.ca</a> - base64 base85 md4,5 hash, sha1 hash encoding/decoding</li>
 <li><a href="https://github.com/codingo/VHostScan">VHostScan</a> - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.</li>
 <li><a href="https://github.com/subfinder/subfinder">SubFinder</a> - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.</li>
+<li><a href="https://findsubdomains.com/">Findsubdomains</a> - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.</li>
 <li><a href="https://github.com/kpcyrd/badtouch">badtouch</a> - Scriptable network authentication cracker</li>
 </ul>
 <h2 id="general_2">General<a class="headerlink" href="#general_2" title="Permanent link">&para;</a></h2>
@@ -8785,6 +8794,9 @@
 <li><a href="http://www.netresec.com/?page=NetworkMiner">NetworkMiner</a> - A Network Forensic Analysis Tool (NFAT)</li>
 <li><a href="http://sourceforge.net/projects/paros/">Paros</a> - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability</li>
 <li><a href="https://github.com/rafael-santiago/pig">pig</a> - A Linux packet crafting tool</li>
+<li><a href="https://findsubdomains.com">findsubdomains</a> - really fast subdomains scanning service that has much greater opportunities than simple subs finder(works using OSINT).</li>
+<li><a href="http://www.cirt.dk/">cirt-fuzzer</a> - A simple TCP/UDP protocol fuzzer.</li>
+<li><a href="https://aslookup.com/">ASlookup</a> - a useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)</li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">ZAP</a> - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications</li>
 <li><a href="https://github.com/Akdeniz/mitmsocks4j">mitmsocks4j</a> - Man-in-the-middle SOCKS Proxy for Java</li>
 <li><a href="https://github.com/jtesta/ssh-mitm">ssh-mitm</a> - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.</li>
@@ -8794,7 +8806,7 @@
 <li><a href="https://github.com/portantier/habu">Habu</a> - Python Network Hacking Toolkit</li>
 <li><a href="https://n0where.net/wifijammer/">Wifi Jammer</a> - Free program to jam all wifi clients in range</li>
 <li><a href="https://codebutler.github.io/firesheep/">Firesheep</a> - Free program for HTTP session hijacking attacks.</li>
-<li><a href="https://github.com/secdev/scapy">Scapy</a> - A Python tool and library for low level packet creation and manipulation</li>
+<li><a href="https://github.com/secdev/awesome-scapy">Scapy</a> - A Python tool and library for low level packet creation and manipulation</li>
 <li><a href="https://github.com/OWASP/Amass">Amass</a> - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping</li>
 <li><a href="https://github.com/kpcyrd/sniffglue">sniffglue</a> - Secure multithreaded packet sniffer</li>
 </ul>
@@ -8805,6 +8817,7 @@
 <li><a href="https://github.com/sleuthkit/sleuthkit">sleuthkit</a> - A library and collection of command-line digital forensics tools</li>
 <li><a href="https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx">EnCase</a> - The shared technology within a suite of digital investigations products by Guidance Software</li>
 <li><a href="http://malzilla.sourceforge.net/">malzilla</a> - Malware hunting tool</li>
+<li><a href="https://servicos.dpf.gov.br/ferramentas/IPED/">IPED - Indexador e Processador de Evidências Digitais</a> - Brazilian Federal Police Tool for Forensic Investigation</li>
 </ul>
 <h2 id="cryptography">Cryptography<a class="headerlink" href="#cryptography" title="Permanent link">&para;</a></h2>
 <h3 id="tools_5">Tools<a class="headerlink" href="#tools_5" title="Permanent link">&para;</a></h3>
@@ -8822,6 +8835,7 @@
 <li><a href="http://pwnable.kr/">pwnable.kr</a> - Provide various pwn challenges regarding system security</li>
 <li><a href="https://exploit-exercises.com/nebula/">Exploit Exercises - Nebula</a></li>
 <li><a href="http://smashthestack.org/">SmashTheStack</a></li>
+<li><a href="https://www.hacking-lab.com/">HackingLab</a> </li>
 </ul>
 <h2 id="reverse-engineering_1">Reverse Engineering<a class="headerlink" href="#reverse-engineering_1" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8836,6 +8850,7 @@
 <li><a href="https://www.hackthebox.eu">Hack The Box</a> - a free site to perform pentesting in a variety of different systems.</li>
 <li><a href="http://webhacking.kr/">Webhacking.kr</a></li>
 <li><a href="https://0xf.at/">0xf.at</a> - a website without logins or ads where you can solve password-riddles (so called hackits).</li>
+<li><a href="https://fuzzy.land/">fuzzy.land</a> - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.</li>
 <li><a href="https://google-gruyere.appspot.com/">Gruyere</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps">Others</a></li>
 </ul>
@@ -8867,8 +8882,9 @@
 <li><a href="http://bostonkeyparty.net/">Boston Key Party CTF</a></li>
 <li><a href="https://zerodays.ie/">ZeroDays CTF</a></li>
 <li><a href="https://insomnihack.ch/">Insomni’hack</a></li>
-<li><a href="https://picoctf.com/">Pico CTF</a> </li>
+<li><a href="https://picoctf.com/">Pico CTF</a></li>
 <li><a href="http://prompt.ml/">prompt(1) to win</a> - XSS Challeges</li>
+<li><a href="https://www.hackthebox.eu/">HackTheBox</a></li>
 </ul>
 <h2 id="general_3">General<a class="headerlink" href="#general_3" title="Permanent link">&para;</a></h2>
 <ul>
@@ -8893,6 +8909,7 @@
 <ul>
 <li><a href="https://github.com/EmpireProject/Empire">empire</a> - A post exploitation framework for powershell and python.</li>
 <li><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">silenttrinity</a> - A post exploitation tool that uses iron python to get past powershell restrictions.</li>
+<li><a href="https://github.com/Genetic-Malware/Ebowla">ebowla</a> - Framework for Making Environmental Keyed Payloads</li>
 </ul>
 <h2 id="etc">ETC<a class="headerlink" href="#etc" title="Permanent link">&para;</a></h2>
 <ul>
