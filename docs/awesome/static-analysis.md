@@ -307,7 +307,6 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [jshint](https://github.com/jshint/jshint) :warning: - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
 * [JSLint](https://github.com/douglascrockford/JSLint) :warning: - The JavaScript Code Quality Tool
 * [JSPrime](https://github.com/dpnishant/jsprime) - static security analysis tool
-* [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) - NodeJsScan is a static security code scanner for Node.js applications.
 * [plato](https://github.com/es-analysis/plato) - Visualize JavaScript source complexity
 * [Prettier](https://github.com/prettier/prettier) - An opinionated code formatter.
 * [quality](https://github.com/jden/quality) - zero configuration code and module linting
@@ -544,6 +543,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [InsiderSec](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 * [Kiuwan](https://www.kiuwan.com/code-security-sast/) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) :copyright: - Quality and Security Static analysis for C/C++, Java and C#
+* [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) - NodeJsScan is a static security code scanner for Node.js applications.
 * [oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 * [pfff](https://github.com/facebook/pfff) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages
 * [PMD](https://pmd.github.io/) - A source code analyzer for Java, Javascript, PLSQL, XML, XSL and others
@@ -624,6 +624,10 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) - Lint and validate Dockerfile labels
 * [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) - A smarter Dockerfile linter that helpsyou build best practice Docker images
 * [kube-score](https://github.com/zegl/kube-score) - Static code analysis of your Kubernetes object definitions.
+
+<h2 id="deno">Deno</h2>
+
+* [deno_lint](https://github.com/denoland/deno_lint) - Official linter for Deno
 
 <h2 id="gherkin">Gherkin</h2>
 

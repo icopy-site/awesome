@@ -118,7 +118,7 @@
 *D related Aritcles.*
 
 * [Purity in D](http://klickverbot.at/blog/2012/05/purity-in-d/) - An article that explains the design principles behind D's purity feature.
-* [Hidden treasures in the D standard library](http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
+* [Hidden treasures in the D standard library](https://web.archive.org/web/20171119072212/http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
 * [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 * [D is for Data Science](http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html) - A great post about how D is suitable for data science, particularly, replacing the role of python scripts for fast prototyping.
 * [D Functional Garden](https://garden.dlang.io/)
@@ -172,7 +172,7 @@
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-* [Coedit](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
+* [Dexed](https://github.com/Akira13641/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [D Language Server](https://github.com/d-language-server/dls) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Sublime, Atom, Emacs, Vim/Neovim)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
@@ -286,6 +286,7 @@
 * [Argon](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
 * [argsd](https://github.com/burner/argsd) - A command line and config file parser for DLang
 * [darg](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
+* [luneta](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*

@@ -48,7 +48,6 @@
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-- [Editor Plus](https://chrome.google.com/webstore/detail/playcanvas-editor-plus/ebedfcjmndjbaboecddbbjjjoleddfap?hl=en) - Collection of extensions to the base PlayCanvas Editor.
 - [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
@@ -81,11 +80,12 @@
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - 3D educational hub.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
-- [Mini Royale](https://miniroyale.io/) - Classic Battle Royale gameplay.
+- [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
+- [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
 
 ## Messenger Games

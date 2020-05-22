@@ -473,6 +473,7 @@
 - [Vue vs React: Which is the better framework?](https://buttercms.com/blog/vue-vs-react-which-is-the-better-framework) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Building a Beautiful Animated News App with Vue.js and Vuetify](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Comparing Angular vs Vue](https://buttercms.com/blog/comparing-angular-vs-vue) by [ButterCMS](https://twitter.com/ButterCMS)
+- [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
 
 ### Courses
 
@@ -711,7 +712,6 @@
 - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
 - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
-- [The Spice House](https://www.thespicehouse.com) - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests

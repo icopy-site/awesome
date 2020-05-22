@@ -70,7 +70,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) - UUID module for deno.
 - [deno-ws](https://github.com/keroxp/deno-ws) - An experimental implementation of websocket server for deno.ts.
-- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebScoket library like ws of node.js library.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
@@ -110,6 +110,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [webview](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ## Tools
 
@@ -202,6 +203,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 ### Indonesian
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
+- [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
 
 ### Japanese
 
