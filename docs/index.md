@@ -138,7 +138,7 @@
 - [Elixir](awesome/awesome-elixir.md)
 - [Elm](awesome/awesome-elm.md)
 - [Erlang](awesome/awesome-erlang.md)
-- [Julia](awesome/Julia.jl.md)
+- [Julia](awesome/Julia.jl.md) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](awesome/awesome-lua.md)
 - [C](awesome/awesome-c.md)
 - [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.

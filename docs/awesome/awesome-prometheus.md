@@ -89,6 +89,13 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) - PromQL tutorial for beginners by Aliaksandr Valialkin.
 - [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) - Prometheus storage: technical terms for humans by Aliaksandr Valialkin.
 
+## Deployment tools
+
+- [Ansitheus](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem _by ntk148v_.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway _by Ernestas Poskus_.
+- [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace _by GoogleCloudPlatform_.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes _by CoreOS_.
+
 ## Dashboards
 
 - [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open source metric analytics & visualization suite _tutorial by Prometheus_.
@@ -126,7 +133,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
-- [Prometheus demo site](http://demo.cloudalchemy.org:9090) - Prometheus site managed with ansible running every day using playbook from [cloudalchemy repository](https://github.com/cloudalchemy/demo-site).
+- [Official Prometheus demo site](https://demo.do.prometheus.io) - Prometheus site managed with Cloud Alchemy Ansible roles running every day using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## License
 

@@ -32,6 +32,10 @@ Package suites gather software packages and installation tools for specific lang
 
 * __[Bioconda](https://bioconda.github.io/)__ - A channel for the [conda package manager](http://conda.pydata.org/docs/intro.html) specializing in bioinformatics software. Includes a repository with 3000+ ready-to-install (with `conda install`) bioinformatics packages.
 
+### BioJulia
+
+* __[BioJulia](http://biojulia.net/Bio.jl/)__ - Bioinformatics and computational biology infastructure for the Julia programming language.
+
 ## Data Tools
 
 * __[GGD](https://github.com/gogetdata/ggd-cli)__ - Go Get Data; A command line interface for obtaining genomic data

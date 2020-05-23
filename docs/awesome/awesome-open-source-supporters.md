@@ -8,9 +8,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 
 
-## Chat
-- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
-
 ## Code Coverage
 
 - [Codecov](https://codecov.io/) - Test coverage monitoring & alerting.
@@ -123,6 +120,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
 - [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
+- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
 
 ## Contributing
 
