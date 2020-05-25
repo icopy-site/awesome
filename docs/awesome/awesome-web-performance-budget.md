@@ -61,22 +61,16 @@
 
 ## Case Studies
 
-- [Zillow's Performance Budget](https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/) - A true story of how Zillow uses performance budgeting.
-- [Tinder Web App Performance](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0/) - A Tinder Progressive Web App Performance Case Study.
-- [Pinterest Web App Optimization](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/) - A Pinterest Progressive Web App Performance Case Study.
-- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) - How we shaved 1.7 seconds off casper.com by self-hosting Optimizely.
 - [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
+- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) - How we shaved 1.7 seconds off casper.com by self-hosting Optimizely.
+- [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
+- [Pinterest Web App Optimization](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/) - A Pinterest Progressive Web App Performance Case Study.
+- [Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/) - Improving Smashing Magazine’s Web Performance Case Study.
+- [Tinder Web App Performance](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0/) - A Tinder Progressive Web App Performance Case Study.
 - [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) - Treebo - React And Preact PWA Performance Case Study.
 - [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
-- [Netflix - Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) - Improving third-party web performance at The Telegraph.
-- [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) - Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com.
-- [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) - Improving the performance of Walmart's product page.
-- [Walmart - Turbocharging the Speed](https://speakerdeck.com/vasa/turbocharging-walmart-dot-com-speed-without-compromise) - Turbocharging the walmart website speed without compromise.
-- [Wehkamp.nl - How performance budgets and SpeedCurve are helped us](https://medium.com/wehkamp-techblog/how-performance-budgets-and-speedcurve-are-helping-us-keeping-a-high-performant-website-283c0233daba)-keeping our website high performant by implementing Performance Budget using Speed Curve.
-
-## Contribution
-Feel free to add an awesome list. Kindly read the [contribution guidelines](https://github.com/pajaydev/awesome-web-performance-budget/blob/master/CONTRIBUTING.md) and then [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 
+- [Zillow's Performance Budget](https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/) - A true story of how Zillow uses performance budgeting.
 
 ## License
 

@@ -203,7 +203,7 @@ Useful Articles
 
 
 
-- [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) - RBAC, TLS, Security policy, Network policy, etc.
+- [Kubernetes Security Guide](https://sysdig.com/wp-content/uploads/2019/01/kubernetes-security-guide.pdf) - RBAC, TLS, Security policy, Network policy, etc.
 - [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
 - [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 - [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
@@ -841,6 +841,7 @@ Projects
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md) - A data constraint language which aims to simplify tasks involving defining and using data. Cue is a superset of JSON
 * [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure allowing you to focus on your data instead of how to properly escape it.
 * [kosko](https://github.com/tommy351/kosko) - Write Kubernetes manifests in JavaScript and validate against Kubernetes OpenAPI definitions.
+* [MicroConfig](https://microconfig.io) - Awesome tool for microservice configuration management. Works with app configs, helm values, kubernetes resources and more.
 
 ## Security
 * [kubiscan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky pods and RBAC permissions

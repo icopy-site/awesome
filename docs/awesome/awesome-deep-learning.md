@@ -43,6 +43,7 @@
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
 10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
+12. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
  
 ### Courses
@@ -332,6 +333,7 @@
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
+34.  [AI Summer](https://theaisummer.com/)
 
 ### Datasets
 
