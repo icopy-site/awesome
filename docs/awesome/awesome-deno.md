@@ -48,6 +48,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) - SHA1/MD5 algorithms.
 - [deno-context](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
+- [deno_cron](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 - deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
@@ -101,6 +102,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
+- [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
